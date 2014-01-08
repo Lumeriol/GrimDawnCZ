@@ -1,0 +1,1067 @@
+#General - B17
+
+tagGameDifficultySetting01=Normální obtížnost
+tagGameDifficultySetting02=Veteránská obtížnost
+tagGameDifficultySetting03=Elitní obtížnost
+
+tagAutosort=Automatické řazení inventáře
+
+tagPromptButtonYes=Ano
+tagPromptButtonNo=Ne
+tagPromptButtonOkay=OK
+tagPromptButtonClose=Zavřít
+
+tagGraveName=Hrob hráče ~ {%t0}
+tagGraveSlainBy={%t0} tě zabil
+tagGraveXPRecovered=Navrácené zkušenosti: {%d0}
+tagHeroXP={%d0} zkušeností za nepřátelského hrdinu
+tagBossXP={%d0} zkušeností za nepřátelského bosse
+tagHeroKilled=Nepřátelský hrdina zabit
+tagBossKilled=Nepřátelský boss zabit
+tagXPAwarded=Získáno {%d0} zkušeností
+
+tagUndo=Zpět
+Chat=Chat:
+
+tagGamePaused=Hra je pozastavena
+
+#Riftgate
+
+tagRiftgatePersonal=Osobní brána
+tagRiftgateDestination=Lokace
+tagRiftgateError01=Tuto bránu nemůžeš použít. Byla vytvořena hráčem, který není ve tvé skupině.
+tagRiftgateDialog01=Otevřením nové brány uzavřeš svou stávající bránu. Opravdu to tak chceš?
+tagRiftGateMapA01=Mohyla
+
+#Quest
+
+tagQuests=Aktivní úkoly
+tagQuestLogNameNumber={%t0} ({%d1})
+tagQuestJournalNoQuests=Žádné úkoly
+tagQuestIncentives=Pobídky:
+tagQuestObjectives=Cíle:
+tagQuestRewards=ODměny:
+tagAccept=Přijmout
+tagDecline=Odmítnout
+tagContinue=Pokračovat
+tagEndConversation=Ukončit rozhovor
+tagQuestPrimary=(primární)
+tagQuestSecondary=(sekundární)
+tagQuestElite=(elitní)
+tagQuestAccepted=Úkol přijat: {^n}"{%t0}"
+tagQuestCompleted=Úkol dokončen: {^n}"{%t0}"
+tagQuestUpdated=Úkol aktualizován: {^n}"{%t0}"
+tagQuestFailed=Úkol selhal: {^n}"{%t0}"
+tagActionGiveMoney={%d0} železných mincí
+tagActionGiveExperience={%d0} zkušeností
+tagActionGiveFaction={%d0} {%t1} frakcí
+tagActionGiveLevel={%d0} úrovní
+tagActionGiveSkillPoint={%d0} bodů dovedností
+tagConditionHasKilled={%t0} ({%d1}/{%d2})
+tagConditionHasItem={%t0} ({%d1}/{%d2})
+
+#Faction
+
+tagFactionAlone=Osamocený
+tagFactionInvisible=Neviditelný
+tagFactionGenericMonster=Monstra
+tagFactionPlayer=Hráči
+tagFactionSurvivors=Přeživší
+tagFactionAetherials=Éteričtí
+tagFactionCthonians=Cthonští
+tagFactionOutlaws=Psanci
+tagFactionBeasts=Bestie
+tagFactionUser0=User0
+tagFactionUser1=User1
+tagFactionUser2=User2
+tagFactionUser3=User3
+tagFactionUser4=User4
+tagFactionUser5=User5
+tagFactionUser6=User6
+tagFactionUser7=User7
+tagFactionUser8=User8
+tagFactionUser9=User9
+tagFactionUnknown=Neznámý
+tagFactionStateEnemy5=Toužící po pomstě
+tagFactionStateEnemy4=Nenáviděný
+tagFactionStateEnemy3=Neochotný
+tagFactionStateEnemy2=Pohrdavý
+tagFactionStateEnemy1=Nepřátelský
+tagFactionStateNeutral=Tolerantní
+tagFactionStateFriend1=Přijatelný
+tagFactionStateFriend2=Přítelský
+tagFactionStateFriend3=Důvěryhodný
+tagFactionStateFriend4=Poctěný
+tagFactionStateFriend5=Ctěný
+tagFactionStateNemesis=Toužící po pomstě
+tagFactionStateHated=Nenáviděný
+tagFactionStateReviled=Nadávající
+tagFactionStateHostile=Nepřátelský
+tagFactionStateUnfriendly=Nepřívětivý
+tagFactionStateSuspicious=Podezřelý
+tagFactionStateFriendly=Přátelský
+tagFactionStateTrusted=Důvěryhodný
+tagFactionStateHonored=Poctěný
+tagFactionStateRevered=Ctěný
+
+#HUD
+
+tagHUDMenu=Tlačítka menu
+tagHUDAttacks=Aktuální útok
+tagHUDSkills=Rycchlé sloty
+tagHUD_PotionHealth=Lektvar zdraví
+tagHUD_PotionEnergy=Lektvar energie
+
+tagPortraitKick=Vykopnout ze serveru
+tagPortraitTrade=Obchodovat
+tagPortraitRemove=Vyhodit ze skupiny
+tagPortraitChat=Chat
+tagPortraitDisband=Propustit spojence
+
+tagHUDRoll_Health={%s0}  {%d1} / {%d2}
+tagHUDRoll_XP={%s0} {%d1}  ~  {%s2} {%d3}
+tagHUDXP_Current=Zkušenosti
+tagHUDXP_Next=Další úroveň
+tagMaxLevel=Byla dosažena maximální úroveň
+tagSkillRefreshTime=-{%.1f0} {%z1} k času dobíjení
+tagSkillRefreshTimeInfinate=100% snížená doba nabíjení
+
+tagSkillUnusableLowMana=Nedostatek energie
+tagSkillUnusableCooldown=Dovednost se dobíjí
+tagSkillUnusableConfiguration=Dovednost vyžaduje vybavení
+
+tagHUD_Riftgate=Tear a gateway into the fabric of reality and exit through any other known rifts.
+tagHUD_EmptySlot_R=Empty Quickslot
+tagHUD_EmptySlot_R1=Right click to assign a skill.
+tagHUD_LeftMouse_R=Left Mouse Assignment
+tagHUD_LeftMouse_R1=This is your primary attack.  Right click to assign a different skill.
+tagHUD_RightMouse_R=Right Mouse Assignment
+tagHUD_RightMouse_R1=This is your secondary attack.  Right click to assign a different skill.
+tagHUD_CompassToggleName=Compass Map Toggle
+tagHUD_CompassToggleDescription=Click to change size or minimize the compass map.
+
+tagHUDPortraitLevelUP=Nová úroveň
+tagHUDWeaponSwap=Přehození zbraní
+tagHUDWeaponSwapRoll=Swap between equipped weapon configurations.  You must have a second weapon set equipped.
+tagHUDWeaponSwapHelpRoll=Before you can use weapon swap, you must equip a second set of weapons in the alternate weapon slots of the character window.
+
+tagHUDRiftgateButton=Cestování Bránou
+tagHUDRiftgateButtonRoll=Tear a small entryway into the rift and exit at any previously discovered Riftgate or through a gate created by another group-member.
+
+tagHUDQuickslot=Unassigned Quickslot
+tagHUDQuickslotRoll=Right-click to assign skills.
+tagHUDQuickslotLM=Left-click Assignment
+tagHUDQuickslotLMRoll=Primary attack.  Right-click to assign skills.
+tagHUDQuickslotRM=Right-click Assignment
+tagHUDQuickslotRMRoll=Secondary attack.  Right-click to assign skills.
+tagHUDQuickslotBarSwap=Toggle alternate quickslot bars.
+
+tagHUDButtonCharacter=Character Window
+tagHUDButtonSkills=Skills Window
+tagHUDButtonGroup=Group Window
+tagHUDButtonQuest=Quest Window
+tagHUDButtonMap=Map Window
+tagHUDButtonChat=Chat Window
+tagHUDButtonHelp=Help Window
+tagHUDButtonOptions=Options Menu
+
+tagHUDButtonRollCharacter=Character attributes, inventory, and equipment management.
+tagHUDButtonRollSkills=Skill class selection and skill assignment.
+tagHUDButtonRollGroup=Player invite and group management.
+tagHUDButtonRollQuest=Quest log with details about quest status and objects.
+tagHUDButtonRollMap=Detailed local and world maps.
+tagHUDButtonRollChat=Send messages to other players in your game.
+tagHUDButtonRollHelp=Access the in-game help.
+tagHUDButtonRollOptions=Save, exit and configure game options.
+
+#SkillUI
+
+tagSkillUndoClass=Jiné povolání
+tagSkillUndoPoints=Vrátit body
+tagSkillClassSelect=Vybrat povolání
+tagCurrentLevel=Současná úroveň: {%d0}
+tagNextLevel=Další úroveň: {%d0}
+tagSkillClassSelectInfo=Vyber si povolání své postavy{^n}{^n} Jakmile si některé vybereš a zavřeš okno s dovednostmi, bude tvůj výběr trvalý.
+tagSkillReq01=Vyžaduje dalších {%d0} bodů v povolání {%s1}.
+tagSkillReq01Singular=Vyžaduje ještě {%d0} bod v povolání {%s1}.
+tagSkillReq02=Vyžaduje dalších {%d0} bodů v povolání {%s1} a dovednost  {%s2}.
+tagSkillReq02Singular=Vyžaduje ještě {%d0} bod v povolání {%s1} a dovednost {%s2}.
+tagSkillReq03=Vyžaduje dovednost {%s1}.
+tagSkillPointsRemain={%d0} zbývajících bodů
+tagSkillPointsRemainSingular={%d0} zbývající bod
+
+#Character
+
+tagInventoryBag=Pytel na věci
+
+tagStatsResistanceTitle=Odolnosti
+tagStatsResistance01=Oheň
+tagStatsResistance01Desc=Resistance to incendiary attacks and spells that deal Fire or Burn damage.
+tagStatsResistance02=Blesky
+tagStatsResistance02Desc=Resistance to electricity and shocks from attacks and spells that deal Lightning or Electrocute damage.
+tagStatsResistance03=Led
+tagStatsResistance03Desc=Resistance to chilling ice attacks and spells that deal Cold or Cold Burn damage.
+tagStatsResistance04=Jed & kyselina
+tagStatsResistance04Desc=Resistance to foul poisons and potent acids that deal Acid or Poison damage.
+tagStatsResistance05=Bodná zranění
+tagStatsResistance05Desc=Resistance to armor piercing projectiles and blades that deal Pierce damage.
+tagStatsResistance06=Krvácení
+tagStatsResistance06Desc=Resistance to bleeding induced by lacerations and spells that deal Bleed damage
+tagStatsResistance07=Životní síla
+tagStatsResistance07Desc=Resistance to vitality-draining incantations that deal Vitality or Vitality-Decay damage.
+tagStatsResistance08=Éter
+tagStatsResistance08Desc=Resistance to Aether-bound attacks and sorcery that deal Aether damage.
+tagStatsResistance09=Omráčení
+tagStatsResistance09Desc=Reduces the duration of stun attacks and spells, which leave you unable to react.
+tagStatsResistance10=Chaos
+tagStatsResistance10Desc=Resistance to Chaos damage dealt by the unstable energies of the universe itself, often used by Chthonian beings.
+tagStatsResistance11=Doražení
+tagStatsResistance11Desc=Resistance to knockdowns.
+tagStatsResistance12=Ochromení
+tagStatsResistance12Desc=Resistance to effects that interrupt the use of spells and abilities.
+
+tagCharStatsTab1Name=Primární
+tagCharStatsTab2Name=Sekundární
+tagCharAttributeTitle=Atributy
+tagCharAttributeName01=Lstivost
+tagCharAttributeName02=Fyzická síla
+tagCharAttributeName03=Duchovno
+tagCharAttributeName04=Zdraví
+tagCharAttributeName05=Energie
+
+tagCharAttributeDescription01=A cunning intellect improves your combat technique, increasing physical and pierce damage. Cunning also increases your chances of landing melee and ranged attacks, and critically hitting enemies.
+
+tagCharAttributeDescription02=Physical conditioning gives you the strength to fight in heavier gear and the agility to avoid enemy attacks. Physique also increases your capacity for pain and the ability to avoid being critically hit.
+
+tagCharAttributeDescription03=A strong spirit increases the flow of energy into your being and allows you to withstand the spiritual burden of using more powerful enchanted items. Spirit also magnifies the damage of magical attacks.
+
+tagCharAttributeDescription04=Health is a measure of how much pain and damage you can withstand before you collapse or die.
+
+tagCharAttributeDescription05=Energy is a measure of your spirit's capacity to hold magical energies.  The greater this capacity, the larger the pool of energy you can immediately draw upon before waiting to regenerate.
+
+tagCharAttributeIncrement01=Each point increases Cunning by 10.
+tagCharAttributeIncrement02=Each point increases Physique by 10.
+tagCharAttributeIncrement03=Each point increases Spirit by 10.
+tagCharAttributeIncrement04=Each point increases Health by 50.
+tagCharAttributeIncrement05=Each point increases Energy by 50.
+
+tagCharStatsDA=Defensive Ability
+tagCharStatsOA=Offensive Ability
+tagCharStatsDADescription=A higher Defensive Ability (DA) allows you to avoid enemy hits more often, decreases the chance of suffering a critical hit and reduces the damage taken when you are critically hit. Defensive Ability is affected by skills, items, and Physique.
+tagCharStatsOADescription=A higher Offensive Ability (OA) increases your chance of successfully landing melee and ranged attacks, scoring critical hits, and the damage of critical hits. An Offensive Ability lower than your opponent's Defensive Ability will greatly increase your chance to miss.  Offensive Ability is affected by skills, items, and Cunning.
+
+tagRollFormat01={%s0}     {%d1}
+tagRollFormat02={%s0}     {%d1} + {^b}{%d2}
+tagRollFormat03={%s0}     {%+.0f1}%
+tagRollFormat04={%s0}  ({^y}{%t1}{^w})
+tagRollFormat05={%s0}     {%+.0f1}% +  {^b}{%.0f2}%
+tagRollFormat06={%s0}     {%.0f1}%
+tagRollFormat07={%s0}     {%.2f1} + {^b}{%.2f2}
+tagRollFormat08={%s0}     {%.2f1}
+tagFormatPercent={%.0f}%
+tagCharPointAvailable={^y}{%d0}{^w} dostupný bod
+tagCharPointsAvailable={^y}{%d0}{^w} dostupných bodů
+tagCharLevel=Úroveň {%d0}
+tagCharXP=Zkušenosti : {%t0}
+tagCharLevelAndClass=Úroveň {%d0} {%t1}
+
+tagInfoPage=Informace:
+
+tagTimePlayedName=Odehraný čas
+tagTimePlayedNumber={%d0}:{%d1}:{%d2}
+
+tagCharHeaderResistance=Odolnosti
+tagCharHeaderDefense=Defensive Stats
+tagCharHeaderOffense=Offensive Stats
+tagCharHeaderCombat=Combat Stats
+
+tagCharStatsAttackSpeed=Attack Speed
+tagCharStatsAttackSpeedDescription=Your weapon attack speed relative to the baseline (Includes Total Speed).
+tagCharStatsBlockChance=Chance to Block
+tagCharStatsBlockChanceDescription=The percent chance of blocking an incoming attack.
+tagCharStatsBlockAmount=Damage Blocked
+tagCharStatsBlockAmountDescription=The amount of damage that will be negated by a successful block.
+tagCharStatsAvgDmg=Average Damage
+tagCharStatsAvgDmgDescription=The average damage done per hit with your base attack including bonuses.
+tagCharStatsDPS=Damage Per Second
+tagCharStatsDPSDescription=Average damage per second, does not factor in enemy defenses.
+
+tagCharStatsArmorTotal=Armor Rating
+tagCharStatsArmorTotalDescription=The combined value of all your armor. The higher your Armor Rating, the less damage you will take from physical attacks.
+tagCharStatsArmorUnprotected=Unprotected
+tagCharStatsArmorBonus=Bonus:
+tagCharStatsArmorHead=Head:
+tagCharStatsArmorChest=Chest:
+tagCharStatsArmorArms=Arms:
+tagCharStatsArmorLegs=Legs:
+tagCharStatsArmorJewelry=Jewelry:
+tagCharStatsArmorFeet=Feet:
+tagCharStatsArmorWaist=Waist:
+tagCharStatsArmorShoulders=Shoulders:
+
+tagFormulaLearn01=Congratulations! You have learned how to craft:
+tagFormulaLearn02={^r}You have already learned this blueprint
+tagFormulaLearn03={^r}[Already Learned]
+
+tagItemCompareEquipped=Momentálně máš na sobě
+tagItemCompareVendor=Předmět na prodej
+tagItemCompareInventory=Předmět v inventáři
+
+
+tagCharStatsLifeRegen=Health Regeneration
+tagCharStatsEnergyRegen=Energy Regeneration
+tagCharStatsLifeRegenInfo=The rate at which your health replenishes while in combat.
+tagCharStatsEnergyRegenInfo=The rate at which your energy replenishes.
+
+
+tagCharStatsCastSpeed=Cast Speed
+tagCharStatsCastSpeedInfo=The speed at which your character casts spells relative to the baseline (includes Total Speed).
+
+tagCharStatsRunSpeed=Run Speed
+tagCharStatsRunSpeedInfo=The speed at which your character can run relative to the baseline (Includes Total Speed).
+
+tagCharStatsSecondaryResist=Secondary Resistances:
+
+tagCharacterStats=Statistiky postavy
+tagCharStatsFactionTitle=Frakce
+tagCPercentageValue={%.0f}%
+
+tagRecordMonsterKills=Zabití nepřátelé
+tagRecordMonsterKillsInfo=Celkový počet nepřátel, které tvá postava zabila.
+tagRecordHighestMonster=Nejlepší zabitý nepřítel
+tagRecordHighestMonsterInfo=Nejsilnější nepřítel, kterého tvá postava byla schopna zabít.
+tagRecordHighestDamage=Nejvyšší poškození
+tagRecordHighestDamageInfo=Největší poškození, která tvá postava způsobila.
+tagRecordTime=Uplynulý čas
+tagRecordTimeNumber={%d0}:{%d1}:{%d2}
+tagRecordTimeInfo=Celkově odehraný čas ve dnech, hodinách a minutách.
+tagRecordDeath=Počet smrtí
+tagRecordDeathInfo=Číslo udává, kolikrát tvá postava zemřela.
+
+#Vendor
+
+tagVendorTabArtifactA=Artefakty
+tagVendorTabArtifactB=PLACEHOLDER
+tagVendorTab01A=Melee Weapons
+tagVendorTab01B=An assortment of martial weapons salvaged from abandoned homes, the long deceased, and those soon to be.
+tagVendorTab02A=Ranged Weapons
+tagVendorTab02B=Everything from pistols pieced together from mismatched parts to old crossbows refitted with automatic rotary firing mechanisms.
+tagVendorTab03A=Armor
+tagVendorTab03B=A collection of body armor assembled from worn clothing and metal scraps. Some are even pieced together from real armor plates from the battlefields of old.
+tagVendorTab04A=Accessories and Consumables
+tagVendorTab04B=A mix of old relics and home-brewed remedies.
+tagVendorTab05A=Buyback
+tagVendorTab05B=Changed your mind? You can buy your items back at no additional charge while you are at the vendor. As soon as you leave though, the sale is finalized.
+
+tagVendorRolloverName=Prodejce předmětů
+tagVendorRolloverDescription=Dealers profit from humankind's misfortune by selling salvaged or stolen goods to those who dare venture out beyond the human strongholds. It's best not to ask for an item's origins.
+
+MarketCostAffordable={^g}Cena  {%d0}
+MarketCostTooExpensive={^r}Cena  {%d0} ~ Nedostatek železných mincí
+MarketCostPreviousTransaction={^g}Cena  {%d0} ~ Původní prodejní cena
+MarketCostPreviousTransactionTooExpensive={^r}Cena  {%d0} ~ Nedostatek železných mincí
+MarketValue={^g}Prodejní hodnota  {%d0}
+MarketValuePreviousTransaction={^g}Výkupní hodnota  {%d0} ~ Původní prodejní cena
+MarketSalePending=Probíhající prodej
+MarketPurchasePending=Probíhající nákup
+
+tagMarketError01=Nemáš dostatek železných mincí.
+tagMarketError02=Ve svém inventáři nemáš dostatek místa.
+tagMarketError03=Tato položka byla prodána.
+tagMarketError04=Tato položka nemůže být prodána.
+CanNotBeSoldHere=Tento prodejnce nepřijímá tento druh zboží.
+Sold=Prodáno
+
+
+#Crafting
+
+tagCrafting=Crafting
+tagInventorNamePlate=Inventor
+tagCrafterNamePlate=Blacksmith
+tagCraftingComponentCount=Quantity of this component in inventory.
+tagCraftingComponentMissing=This component is not currently in your inventory.
+tagCraftingWindowTitle=Inventor
+tagCraftingPanelA=Equipment Modification
+tagCraftingPanelB=Equipment Detatchment
+tagCraftingCost=Cost:
+tagCraftingBlueprint=Blueprint
+tagCraftingComponent=Component
+tagCraftingComponentRequired=Ingredients:
+tagCraftingCombine=Combine
+tagCraftingDisplayBoxHelp=To begin crafting equipment, place a blueprint on the worktable.
+tagCraftingBlueprintInfo=The inventor can use blueprints to craft upgraded items out of various salvaged materials.
+tagCraftingDeviceCost=Cena v železných mincích :  {%t0}
+tagCraftingCreate=Crafts:
+tagCraftingLearn=[Right-Click to Learn]
+tagCraftingRandom=+Random Stat(s)
+
+tagCraftingItemType00= ~ Device
+tagCraftingItemType01= ~ Completed Component
+tagCraftingItemType02= ~ Completed Supplies
+tagCraftingItemType03= ~ Scroll
+tagCraftingItemType04= ~ Gear
+
+tagCraftingConfirmation=Are you sure you want to complete this combination?
+
+tagCraftingDetatchmentInfo=
+
+tagCraftingProductBoxInfo=The constructed item will appear here once the required components have been put in place.
+tagCraftingProductBoxCompletion=Take your newly assembled item from the worktable.
+
+tagCraftingInsterComponent=Add components specified by a blueprint to these slots.
+
+tagDividerTab02=Salvage
+tagDividerRoll02=The salvage chamber is used to strip component parts from items.  Unfortunately, the process is imperfect and always results in the destruction of either the item or the component part but you can choose which one to salvage and which to sacrifice.
+
+tagDividingButtonKeepItem=Keep Item
+tagDividingBoxInfo=Place an item with an attached component in the chamber.
+tagDividingButtonKeepComponent=Keep Add-on
+tagDividingKeepItemWarning=Choosing to salvage the item will destroy the attached component.
+tagDividingKeepComponentWarning=Choosing to salvage the component part will destroy the item.
+tagDividingCost=Salvage Cost:
+
+#Smuggler
+
+tagStorageRefund=Storage Refund
+tagCaravanTitle=Smuggler
+tagCaravanCost=Cost: {%d0}
+tagCaravanRefund=Refund: {%d0}
+tagCaravanExpand=Expand Stash
+tagCaravanItemStorage=Item Stash
+tagStorageInfo01=Use the Item Stash as an extension of your inventory. Right click or drag and drop items to and from the Item Stash. Items stored this way are accessible from any Smuggler in the game.
+tagTransferCost=Transfer Cost: {%d0}
+tagTransferAdd=Are you sure you wish to add this item to the Shared Storage?
+tagTransferInfo01=Use the Smuggler to transfer items to other characters. Simply drop in an item and it will be available to all of your characters.
+tagCaravanItemTransfer=Item Transfer
+tagTransferInfo02=Place items in the transfer area to have the Smuggler make them available to all your characters.
+tagCaravanError01=You do not have enough gold to transfer this item.
+tagStorageError01=You do not have enough gold to purchase a storage expansion.
+
+#Chat
+
+tagChatSend=Poslat...
+tagChatCommand01=Skupině
+tagChatCommand02=Všem
+tagChatCommand03=Odpovědět
+tagChatCommand04=Říci
+
+#Maps
+
+tagAerialMapCenteredButton=Centrovat
+tagAerialMapZoomText=Přiblížení
+
+tagMapWindowName=Místní mapa
+tagRiftWindowName=Mapa bran
+
+tagMapSymbolAOI=Bod zájmu
+tagMapSymbolAOIDesc=Zajímavé místo.
+tagMapSymbolSmuggler=Pašerák
+tagMapSymbolSmugglerDesc=Pochybná osoba, která je schopna uchovávat vaše předměty a vybavení a cestovat s nimi mezi vašimi ostatními postavami.
+tagMapSymbolHero=Hráč
+tagMapSymbolHeroDesc=Tvá aktuální pozice.
+tagMapSymbolInventor=Vynálezce
+tagMapSymbolInventorDesc=Dráteník je schopen odstraňovat komponenty z tvé výbavy a vytvářet předměty podle plánů.
+tagMapSymbolMission=Úkol
+tagMapSymbolMissionDesc=Současný aktivní úkol.
+tagMapSymbolNPC=NPC
+tagMapSymbolNPCDesc=Nehratelná postava.
+tagMapSymbolGroup=Skupina
+tagMapSymbolGroupDesc=Pozice tvých spoluhráčů.
+tagMapSymbolRespawn=Léčitel
+tagMapSymbolRespawnDesc=Léčitel je schopný omladit vaše tělo a vyléčit rozličná zranění.
+tagMapSymbolRiftgate=Brána
+tagMapSymbolRiftgateDesc=Brány z jiných světů jsou schopné vás přenést na jiná místa.
+tagMapSymbolVendor=Prodejce
+tagMapSymbolVendorDesc=Obchodník s vybavením.
+tagMapSymbolWitch=Průvodce duchovnem
+tagMapSymbolWitchDesc=Duchovní postava, která vám může pomoci odnaučit se vaše dovednosti.
+tagMapSymbolShrine=Svatyně
+tagMapSymbolShrineDesc=POPIS SVATYNĚ
+
+#SystemStatsSkillUI
+
+tagOptionsMenuReturn=Návrat do hry
+tagOptionsMenuSave=Uložit hru
+tagOptionsMenuExit=Hlavní nabídka
+tagOptionsMenuQuit=Ukončit hru
+tagOptionsMenuOptions=Nastavení
+tagOptionsMenuGameSaved=Tvá hra byla uložena
+tagOptionsMenuAreUSure=Opravdu chceš opustit hru a vrátit se do hlavní nabídky?
+tagInfoTitle=Informace
+tagInfoButtonYes=Ano
+tagInfoButtonNo=Ne
+tagInfoButtonOk=OK
+tagGameOver=Jsi mrtvý!
+
+SimpleStringFormat={%s0}
+SkillBaseNamesFormat={    %s0}
+CostFormat=Cost: {%d0}
+ManaDisplayFormat=Energy  {%d0} / {%d1} ( {%d2} rezervováno)
+LifeDisplayFormat=Health  {%d0} / {%d1}
+ExperienceDisplayFormat=Současné zkušenosti: {^y}{%d0}{^w}  ~  Zkušenosti na další úroveň: {^y}{%d1}
+
+tagExpDisplayFormat=Současné zkušenosti: {^y}{%t0}{^w}  ~  Zkušenosti do další úrovně: {^y}{%t1}
+
+tagCharAttribute01={%+.0f0} Lstivost
+tagCharAttribute02={%+.0f0} Fyzická síla
+tagCharAttribute03={%+.0f0} Duchovno
+tagCharAttribute04={%+.0f0} Zdraví
+tagCharAttribute05={%+.0f0} Energie
+tagCharLifeRegen={%+.1f0} Zdraví obnovené za sekundu
+tagCharManaRegen={%+.1f0} Energie obnovená za sekundu
+
+tagCharAttribute01Modifier={%+.0f0}% lstivost
+tagCharAttribute02Modifier={%+.0f0}% fyzická síla
+tagCharAttribute03Modifier={%+.0f0}% duchovno
+tagCharAttribute04Modifier={%+.0f0}% zdraví
+tagCharAttribute05Modifier={%+.0f0}% energie
+tagCharLifeRegenModifier=Zvyšuje obnovu zdraví o {%.0f0}%
+tagCharManaRegenModifier=Zvyšuje obnovu energie o {%.0f0}%
+
+tagCharManaLimitReserve={%+.0f0} Energy Reserved
+tagCharManaLimitReserveReduction=-{%.0f0} Reserved Energy Cost
+tagCharManaLimitReserveModifier={+%.0f0}% Energy Reserve
+tagCharManaLimitReserveReductionModifier=-{%.0f0}% Energy Reserve
+
+tagCharRunSpeed={%+.0f0}% Movement Speed
+tagCharSpellCastSpeed={%+.0f0}% Casting Speed
+tagCharAttackSpeed={%+.0f0}% Attack Speed
+tagCharTotalSpeedModifier={%+.0f0}% Total Speed
+tagCharRunSpeedModifier={%+.0f0}% Movement Speed
+tagCharSpellCastSpeedModifier={%+.0f0}% Casting Speed
+tagCharAttackSpeedModifier={%+.0f0}% Attack Speed
+
+tagAttackSpeedNotSet=Speed:  Not Set
+tagAttackSpeedVerySlow=Speed:  Very Slow
+tagAttackSpeedSlow=Speed:  Slow
+tagAttackSpeedAverage=Speed:  Average
+tagAttackSpeedFast=Speed:  Fast
+tagAttackSpeedVeryFast=Speed:  Very Fast
+
+tagCharOffensiveAbility={%+.0f0} Offensive Ability
+tagCharDefensiveAbility={%+.0f0} Defensive Ability
+tagCharOffensiveAbilityModifier={%+.0f0}% Offensive Ability
+tagCharDefensiveAbilityModifier={%+.0f0}% Defensive Ability
+
+tagCharDefensiveBlockRecoveryReduction={-%.0f0}% Shield Recovery Time
+tagCharEnergyAbsorptionPercent={%+.0f0}% Energy Absorption from Attacks
+tagCharDodgePercent={%.0f0}% Chance to Avoid Melee Attacks
+tagCharDeflectProjectiles={%.0f0}% Chance to Avoid Projectiles
+
+tagCharIncreasedExperience={%+.0f0}% Experience Gained
+tagCharLightRadius={%+.0f0}% Light Radius
+
+tagCharItemGlobalReduction={%.0f0}% Reduction to all Requirements
+tagCharLevelReqReduction=-{%.0f0} Player Level Requirement for Items
+tagCharArmorStrengthReqReduction=-{%.0f0}% Physique Requirement for Armor
+tagCharArmorDexterityReqReduction=-{%.0f0}% Cunning Requirement for Armor
+tagCharArmorIntelligenceReqReduction=-{%.0f0}% Spirit Requirement for Armor
+tagCharJewelryIntelligenceReqReduction=-{%.0f0}% Spirit Requirement for Jewelry
+tagCharJewelryStrengthReqReduction=-{%.0f0}% Physique Requirement for Jewelry
+tagCharJewelryDexterityReqReduction=-{%.0f0}% Cunning Requirement for Jewelry
+tagCharShieldStrengthReqReduction=-{%.0f0}% Physique Requirement for Shields
+tagCharShieldIntelligenceReqReduction=-{%.0f0}% Spirit Requirement for Shields
+tagCharShieldDexterityReqReduction=-{%.0f0}% Cunning Requirement for Shields
+tagCharMeleeStrengthReqReduction=-{%.0f0}% Physique Requirement for Melee Weapons
+tagCharMeleeDexterityReqReduction=-{%.0f0}% Cunning Requirement for Melee Weapons
+tagCharMeleeIntelligenceReqReduction=-{%.0f0}% Spirit Requirement for Melee Weapons
+tagCharHuntingStrengthReqReduction=-{%.0f0}% Physique Requirement for Ranged Weapons
+tagCharHuntingDexterityReqReduction=-{%.0f0}% Cunning Requirement for Ranged Weapons
+tagCharHuntingIntelligenceReqReduction=-{%.0f0}% Spirit Requirement for Ranged Weapons
+tagCharStaffIntelligenceReqReduction=-{%.0f0}% Spirit Requirement for Staff Weapons
+tagCharStaffStrengthReqReduction=-{%.0f0}% Physique Requirement for Staff Weapons
+tagCharStaffDexterityReqReduction=-{%.0f0}% Cunning Requirement for Staff Weapons
+tagCharWeaponIntelligenceReqReduction=-{%.0f0}% Spirit Requirement for all Weapons
+tagCharWeaponStrengthReqReduction=-{%.0f0}% Physique Requirement for all Weapons
+tagCharWeaponDexterityReqReduction=-{%.0f0}% Cunning Requirement for all Weapons
+
+tagChanceOf={%.1f0}% šance z
+tagChanceTo={%.1f0}% šance na
+
+Strength=Fyzická síla
+Dexterity=Lstivost
+Intelligence=Duchovno
+Life=Zdraví
+Mana=Energie
+UnusedPointsText={%d0} nepoužitých bodů
+LifeText={%.0f0} zdraví
+ManaText={%.0f0} energie
+StrengthText={%.0f0} fyzické síly
+DexterityText={%.0f0} lstivosti
+IntelligenceText={%.0f0} duchovna
+FloatFormat={%.0f0}
+Float1Format={%.1f0}
+Float2Format={%.2f0}
+IntFormat={%d0}
+CharacterLevelDescription={%s0} - [Úroveň {%d1}]
+ObjectIdFormat=({%d0})  
+SkillLevelFormat={%d0} / {%d1}
+ShortManaText=Energie  {%.0f0} / {%.0f1} / {%.1f2}
+ShortLifeText=Zdraví {%.0f0} / {%.0f1}
+ShortExperienceText=Zkuěenosti {%d0} / {%d1}
+ShortLevel=Úroveň {%d0}
+HitFormat={%.0f0}
+CriticalHitFormat={%.0f0} (x{%.1f1})
+tagMiss=Vedle
+tagFumble=Šmátrat
+tagDodge=Vyhnout se
+tagBlock=Blokovat
+tagDeflect=Odklonit
+tagInvulnerable=Nezranitelný
+MoneyFormat=+{%d0} železných mincí
+ExperienceFormat=+{%d0} zkušeností
+FactionFormat=+{%d0} {%s1} reputace
+LevelUpFormat=Nová úroveň!
+SkillPointFormat={%d0} bodů dovednosti
+MenuName=Jméno:
+MenuLevel=Úroveň:   {%d0}
+ItemSkillIncrement={+%d0} do {%s1}
+ItemMasteryIncrement={+%d0} na všechny dovednosti v {%s1}
+ItemAllSkillIncrement={+%d0} na všechny dovednosti
+ItemBasicAttributeBanner={^w}
+ItemBonusAttributeBanner={^b}
+tagPerSecond= za sekundu
+tagDPS={%.1g0} poškození za sekundu
+
+LevelRequirement=Úroveň hráče
+ShieldBlockAbsorption={%.0f0}% Absorption
+ShieldBlockRecoveryTime={%.2f0} second Block Recovery
+MeetsRequirement=Požadavek: {%s0}: {%.0f1}
+MeetsRequirementWithReduction=Požadavek: {%s0}: {%.0f1} [ {^r%.0f2 ^y- %.0f3}% Reduction]
+FailsRequirementWithReduction={^r}Požadavek: {%s0: %.0f1} [ {%.0f2 ^y- %.0f3}% Reduction]
+FailsRequirement={^r}Požadavek: {%s0: %.0f1}
+SkillIntFormat={%d0 %s1}
+SkillFloatFormat={%.0f0 %s1}
+SkillFloat1Format={%.1f0 %s1}
+SkillFloat2Format={%.2f0 %s1}
+SkillSecondFormat={%.1f0 Second %s1}
+SkillDistanceFormat={%.1f0 Meter %s1}
+SkillCostFormat={%.0f0 %s1}
+SkillPercentFormat={%.0f0% %s1}
+SkillNumProjectilesFormat=Launches {%d0} Projectile(s)
+SkillWeaponDamageFormat={%.0f0%} Weapon Damage
+SkillChargeFactor=per Charge Level
+SkillChargeMax=Charge Levels
+SkillChargeDuration=Charge Level Duration
+SkillChargeFactorMod=increase per Charge Level
+SkillChargeMaxMod=Charge Levels
+SkillChargeDurationMod=increase in Charge Duration
+SkillChanceWeight={%d0}% Chance to be Used
+SkillActivationChance=Chance of Activating
+SkillDamageAbsorption={%.0f0} Damage Absorption
+SkillDamageAbsorptionPercent={%.0f0}% Damage Absorption
+SkillPetLimit={%d0} Summon Limit 
+SkillLifeBonus={%+.1f0} Health Restored
+SkillManaBonus={%+.1f0} Energy Restored
+SkillLifePercent={%.1f0}% Health Restored
+SkillManaPercent={%.1f0}% Energy Restored
+SkillLifeBonusAndPercent={%.0f1}% + {%.0f0} Health Restored
+SkillManaBonusAndPercent={%.0f1}% + {%.0f0} Energy Restored
+SkillPetDescriptionHeading={%s0} Attributes:
+tagSkillPetAbilities={%s0} Abilities:
+SkillPetDescriptionNextHeading=Next {%s0} Level:
+SkillPetDescriptionHealth=    {%.0f0}  Health
+SkillPetDescriptionMana=    {%.0f0}  Energy
+SkillPetDescriptionDamageMinOnly=    {%.0f0}  Damage
+SkillPetDescriptionDamageMinMax=    {%.0f0} - {%.0f1}  Damage
+tagSkillPetTimeToLive=Lives for {%.1f0} Seconds
+tagSkillPrevious=… Previous
+tagSkillNext=Next …
+PressToAddUnusedSkillPoints=Press to add unused skill points.
+SkillEnhancement=+{%d0} to all skills
+NoSkillPointsToAdd=No skill points to add.
+YouMustIncreaseMasteryLevel=You must increase your Mastery Level to add more points.
+EnableOneBaseSkill=At Least One Requisite Skill Must Be Enabled
+MaxSkillLevelReached=Maximum Skill Level Reached
+ActiveMasteriesAllowedReached=Number of Active Masteries Allowed has been reached
+LifeMonitorPercent=Activates when Health drops below {%.1f0}%
+FailedSkillDependancy=Requires: {%s0} 
+ManaCost=Energy Cost
+ActiveLifeCost= Active Health Cost per Second
+ActiveManaCost= Active Energy Cost per Second
+ActiveDuration=Duration
+TargetRadius=Radius
+TargetAngle={%.0f0} Degree Attack Arc
+TargetNumber={%d0} Target Maximum
+CooldownTime= Skill Recharge
+ExplosionRadius=Radius
+ProjectileLaunchRotation={%.1f0} Projectile Spread
+ProjectileLaunchNumber={%d0} Projectile(s)
+ProjectileFragmentsLaunchNumberMinMax={%d0 - %d1} Fragments
+ProjectileFragmentsLaunchNumber={%d0} Fragments
+ProjectilePiercingChance={%.1f0}% Chance to pass through Enemies
+
+
+
+
+tagShieldBlockInfo={%.0f0}% Chance to block {%.0f1} damage
+
+
+
+SkillManaCostReduction=-{%.0f0}% Energy Cost
+SkillCooldownReduction=-{%.0f0}% Skill Recharge
+SkillProjectileSpeedModifier={%+.0f0}% Increase in Projectile Speed
+SkillManaCostReductionModifier=-{%.0f0}% Energy Cost
+SkillCooldownReductionModifier=-{%.0f0}% Skill Recharge
+
+GlobalChanceOfAllTag=Chance of: 
+GlobalChanceOfOneTag=Chance for one of the following: 
+GlobalPercentChanceOfAllTag={%.1f0}% Chance of:
+GlobalPercentChanceOfOneTag={%.1f0}% Chance for one of the following:
+tagIndent={     }
+tagDamageAbsorptionTitle=Protects Against:
+formatQualifyingDamage={     %s0}
+tagQualifyingDamagePhysical=Physical
+tagQualifyingDamagePierce=Pierce
+tagQualifyingDamageLightning=Lightning
+tagQualifyingDamageFire=Oheň
+tagQualifyingDamageCold=Led
+tagQualifyingDamagePoison=Poison or Acid
+tagQualifyingDamageLife=Životní síla
+tagQualifyingDamageBleeding=Krvácení
+tagQualifyingDamageElemental=Elemental
+
+DamageSingleFormat={%.0f0}
+DamageRangeFormat={%.0f0}-{%.0f1}
+DamageInfluenceSingleFormat={%.1f0}
+DamageInfluenceRangeFormat={%.1f0}-{%.1f1}
+DamageReflexSingleFormat={%.1f0}
+DamageReflexRangeFormat={%.1f0}-{%.1f1}
+DamageSingleFormatTime= více než {%.1f0} sekund
+DamageRangeFormatTime= více než {%.1f0}-{%.1f1} sekund
+DamageFixedSingleFormatTime= na {%.1f0} sekundy
+DamageFixedRangeFormatTime= na {%.1f0} - {%.1f1} sekund
+
+tagSecond=second
+tagSeconds=seconds
+DamageBasePhysical= Physical Damage
+DamageBasePierceRatio={%.0f0}% Armor Piercing
+DamageBonusPhysical=+{%t0} Physical Damage
+tagDamageBaseFire= Base Fire Damage
+tagDamageBaseLightning= Base Lightning Damage
+tagDamageBaseCold= Base Cold Damage
+tagDamageBaseVitality= Base Vitality Damage
+tagDamageBasePoison= Base Acid Damage
+DamageCold={%t0} Cold Damage
+DamageFire={%t0} Fire Damage
+DamageAether={%t0} Aether Damage
+DamageChaos={%t0} Chaos Damage
+DamageLife={%t0} Vitality Damage
+DamageLifeLeech={%t0}% of Attack damage converted to Health
+DamageLightning={%t0} Lightning Damage
+DamageElemental={%t0} Elemental Damage
+DamageModifierElemental={%+.0f0}% Elemental Damage
+DamagePhysical=+{%t0} Physical Damage
+DamagePierce={%t0} Piercing Damage
+DamagePoison={%t0} Acid Damage
+DamageKnockdown=Knockdown target for {%t0} {%z1}
+DamageStun=Stun target for {%t0} {%z1}
+DamageFreeze=Freeze target for {%t0} {%z1}
+DamagePetrify=Petrify target for {%t0} {%z1}
+DamageTrap=Immobilize target for {%t0} {%z1}
+DamageTaunt=Taunt
+DamageConvert=Control target's mind for {%t0} {%z1}
+DamageFear=Terrify target for {%t0} {%z1}
+DamageConfusion=Confuse target for {%t0} {%z1}
+DamageDisruption=Disrupt target's skills for {%t0} {%z1}
+DamagePercentCurrentLife={%t0}% Reduction to Enemy's Health
+DamageManaDrain={%t0}% Energy Drained
+DamageManaBurnRatio= ({%.0f0}% of Energy Drained causes Damage)
+DamageModifierManaBurn={%.0f0}% of Energy Drained causes Damage
+
+DamageDurationAttackSpeed=% Slower Enemy Attack
+DamageDurationCold= Frostburn Damage
+DamageDurationReduced= Reduced Defense
+DamageDurationFire= Burn Damage
+DamageDurationLife= Vitality Decay
+DamageDurationLifeLeach= Life Leech
+DamageDurationLightning= Electrocute Damage
+DamageDurationManaLeach= Energy Leech
+DamageDurationOffensiveAbility= Reduced taget's Offensive Ability
+DamageDurationOffensiveReduction= Reduced target's Physical Damage
+DamageDurationDefensiveAbility= Reduced target's Defensive Ability
+DamageDurationDefensiveReduction= Reduced target's Armor
+DamageDurationPhysical= Internal Trauma
+DamageDurationPoison= Poison Damage
+DamageDurationTotalSpeed=% Slow target
+DamageDurationRunSpeed=% Slower target Movement
+DamageDurationSpellCastSpeed=% Slower target Casting
+DamageDurationBleeding= Bleeding Damage
+
+DamageTotalDamageReductionPercent=% Reduced target's Damage
+DamageTotalDamageReductionAbsolute= Reduced target's Damage
+DamageTotalResistanceReductionPercent=% Reduced target's Resistances
+DamageTotalResistanceReductionAbsolute= Reduced target's Resistances
+DamageDurationFumble=% Chance for target to Fumble attacks
+DamageDurationProjectileFumble=% Chance of Impaired Aim to target
+
+DamageModifierPhysical={%+.0f0}% Physical Damage
+DamageModifierPierceRatio={%+.0f0}% Armor Piercing
+DamageModifierPierce={%+.0f0}% Pierce Damage
+DamageModifierCold={%+.0f0}% Cold Damage
+DamageModifierFire={%+.0f0}% Fire Damage
+DamageModifierPoison={%+.0f0}% Acid Damage
+DamageModifierLightning={%+.0f0}% Lightning Damage
+DamageModifierLife={%+.0f0}% Vitality Damage
+DamageModifierStun={%+.0f0}% Stun Duration
+DamageModifierChaos={%+.0f0}% Chaos Damage
+DamageModifierAether={%+.0f0}% Aether Damage
+DamageModifierKnockdown={%+.0f0}% Knockdown Duration
+
+DamageDurationModifierPhysical={%+.0f0}% Internal Trauma Damage 
+DamageDurationModifierBleeding={%+.0f0}% Bleeding Damage 
+DamageDurationModifierCold={%+.0f0}% Frostburn Damage 
+DamageDurationModifierFire={%+.0f0}% Burn Damage 
+DamageDurationModifierPoison={%+.0f0}% Poison Damage 
+DamageDurationModifierLightning={%+.0f0}% Electrocute Damage 
+DamageDurationModifierLife={%+.0f0}% Vitality Decay 
+DamageDurationModifierAttackSpeed={%+.0f0}% Slow Attack 
+DamageDurationModifierSpellCastSpeed={%+.0f0}% Slow Casting 
+DamageDurationModifierRunSpeed={%+.0f0}% Slow Movement 
+DamageDurationModifierLifeLeach={%+.0f0}% Life Leech 
+DamageDurationModifierManaLeach={%+.0f0}% Energy Leech 
+DamageDurationModifierOffensiveAbility={%+.0f0}% Offensive Ability 
+DamageDurationModifierDefensiveAbility={%+.0f0}% Defensive Ability 
+DamageDurationModifierOffensiveReduction={%+.0f0}% Reduced target Physical Damage 
+ImprovedTimeFormat= with {%+.0f0}% Increased Duration
+
+RetaliationCold={%t0} Cold Retaliation
+RetaliationFire={%t0} Fire Retaliation
+RetaliationLife={%t0} Vitality Retaliation
+RetaliationLightning={%t0} Lightning Retaliation
+RetaliationElemental={%t0} Elemental Retaliation
+RetaliationPhysical={%t0} Physical Damage Retaliation
+RetaliationPierce={%t0} Piercing Retaliation
+RetaliationPoison={%t0} Acid Retaliation
+RetaliationStun={%t0}s Stun Retaliation
+RetaliationPercentCurrentLife=Retaliate causing {%t0}% Reduction to Enemy's Health
+RetaliationDurationAttackSpeed=% Reduced Attack Speed Retaliation
+RetaliationDurationCold= Frostburn Retaliation
+RetaliationDurationDefensiveAbility= Reduced Defense Retaliation
+RetaliationDurationFire= Burn Retaliation
+RetaliationDurationLife= Vitality Decay Retaliation
+RetaliationDurationLifeLeach= Life Leech Retaliation
+RetaliationDurationLightning= Electrocute Retaliation
+RetaliationDurationManaLeach= Energy Leech Retaliation
+RetaliationDurationOffensiveAbility= Offensive Ability Retaliation
+RetaliationDurationOffensiveReduction= Damage Reduction Retaliation
+RetaliationDurationPhysical= Internal Trauma Retaliation
+RetaliationDurationBleeding= Bleeding Retaliation
+RetaliationDurationPoison= Poison Retaliation
+RetaliationDurationRunSpeed=% Slowed Movement Retaliation
+RetaliationDurationSpellCastSpeed=% Slowed Casting Retaliation
+RetaliationModifierPhysical={%+.0f0}% Physical Damage Retaliation
+RetaliationModifierPierceRatio={%+.0f0}% Pierce Retaliation
+RetaliationModifierPierce={%+.0f0}% Piercing Retaliation
+RetaliationModifierCold={%+.0f0}% Cold Retaliation
+RetaliationModifierFire={%+.0f0}% Fire Retaliation
+RetaliationModifierPoison={%+.0f0}% Poison & Acid Retaliation
+RetaliationModifierLightning={%+.0f0}% Lightning Retaliation
+RetaliationModifierLife={%+.0f0}% Vitality Damage Retaliation
+RetaliationModifierStun={%+.0f0}% Stun Retaliation
+
+DefenseAbsorptionProtection={%.0f0} Armor
+DefenseAbsorptionProtectionBonus=+{%.0f0} Armor
+DefensePhysical={%.0f0}% Physical Damage Resistance
+DefensePierce={%.0f0}% Pierce Resistance
+DefenseElementalResistance={%.0f0}% Elemental Resistance
+DefenseCold={%.0f0}% Cold Resistance
+DefenseFire={%.0f0}% Fire Resistance
+DefenseAether={%.0f0}% Aether Resistance
+DefenseChaos={%.0f0}% Chaos Resistance
+DefensePoison={%.0f0}% Poison & Acid Resistance
+DefenseLightning={%.0f0}% Lightning Resistance
+DefenseLife={%.0f0}% Vitality Damage Resistance
+DefenseStun={%.0f0}% Reduced Stun Duration
+DefenseLifeLeach={%.0f0}% Life Leech Resistance
+DefenseManaLeach={%.0f0}% Energy Leech Resistance
+DefenseTrap={%.0f0}% Reduced Entrapment Duration
+DefenseFreeze={%.0f0}% Reduced Freeze Duration
+DefenseKnockdown={%.0f0}% Reduced Knockdown Duration
+DefensePetrify={%.0f0}% Reduced Petrify Duration
+DefenseTaunt={%.0f0}% Protection from Taunting (Pet/Trap Only)
+DefenseConvert={%.0f0}% Reduced Mind Control Duration (Pet/Trap Only)
+DefenseFear={%.0f0}% Reduced Fear Duration (Pet/Trap Only)
+DefenseConfusion={%.0f0}% Reduced Confusion Duration (Pet/Trap Only)
+DefenseDisruption={%.0f0}% Skill Disruption Protection
+DefensePercentLife={%.0f0}% Vitality Reduction Resistance
+DefenseBleeding={%.0f0}% Bleeding Resistance
+DefenseBlock={%.0f0} Damage Blocked
+DefenseReflect={%.0f0}% Damage Reflected
+DefensePhysicalDuration={%.0f0}% Reduction in Physical Duration
+DefenseBleedingDuration={%.0f0}% Reduction in Bleeding Duration
+DefenseColdDuration={%.0f0}% Reduction in Frostburn Duration
+DefenseFireDuration={%.0f0}% Reduction in Burn Duration
+DefensePoisonDuration={%.0f0}% Reduction in Poison Duration
+DefenseLightningDuration={%.0f0}% Reduction in Lightning Duration
+DefenseLifeDuration={%.0f0}% Reduction in Vitality Decay Duration
+DefenseLifeLeachDuration={%.0f0}% Reduction in Life Leech Duration
+DefenseManaLeachDuration={%.0f0}% Reduction in Energy Leech Duration
+DefenseProtectionModifier=Increases Armor Protection by {%.0f0}%
+DefenseAbsorptionModifier=Increases Armor Absorption by {%.0f0}%
+DefensePhysicalModifier=Increases Physical Resistance by {%.0f0}%
+DefensePierceModifier=Increases Pierce Resistance by {%.0f0}%
+DefenseColdModifier=Increases Cold Resistance by {%.0f0}%
+DefenseFireModifier=Increases Fire Resistance by {%.0f0}%
+DefensePoisonModifier=Increases Poison and Acid Resistance by {%.0f0}%
+DefenseLightningModifier=Increases Lightning Resistance by {%.0f0}%
+DefenseLifeModifier=Increases Vitality Resistance by {%.0f0}%
+DefenseStunModifier=Increases Stun Resistance by {%.0f0}%
+DefenseBlockModifier=Increases Shield Block Chance by {%.0f0}%
+DefenseLifeLeachModifier=Increases Life Leech Resistance by {%.0f0}%
+DefenseManaLeachModifier=Increases Energy Leech Resistance by {%.0f0}%
+DefensePercentLifeModifier=Increases Percent Life Resistance by {%.0f0}%
+DefenseBleedingModifier=Increases Bleed Resistance by {%.0f0}%
+DefensePhysicalDurationModifier={%+.0f0}% Wound Duration Reduction
+DefenseBleedingDurationModifier={%+.0f0}% Bleeding Duration Reduction
+DefenseColdDurationModifier={%+.0f0}% Frostburn Duration Reduction
+DefenseFireDurationModifier={%+.0f0}% Burn Duration Reduction
+DefensePoisonDurationModifier={%+.0f0}% Poison Duration Reduction
+DefenseLightningDurationModifier={%+.0f0}% Electrocute Duration Reduction
+DefenseLifeDurationModifier={%+.0f0}% Vitality Decay Duration Reduction
+DefenseLifeLeachDurationModifier={%+.0f0}% Life Leech Duration Reduction
+DefenseManaLeachDurationModifier={%+.0f0}% Energy Leech Duration Reduction
+
+RacialBonusPercentDamage={%+.0f0}% Damage to {%s1}
+RacialBonusAbsoluteDamage={%+.0f0} Damage to {%s1}
+RacialBonusPercentDefense={%.0f0}% Less Damage from {%s1}
+RacialBonusAbsoluteDefense={%.0f0} Less Damage from {%s1}
+RacialBonusRaceName={%s0}
+
+
+tagDamageSleep=Put target to Sleep for {%t0} {%z1}
+tagDamageModifierSleep={%+.0f0}% Sleep Damage
+tagDefenseSleep={%.0f0}% Sleep Resistance
+tagDefenseSleepModifier={%+.0f0}% Sleep Resistance
+tagDamageModifierTotalDamage={%+.0f0}% Total Damage
+tagTotalSpeedResistance={%.0f0}% Slow Resistance
+tagMindcontrolledMonster=Mind-controlled
+tagSparkMaxNumber=Affects up to {%d0} targets
+
+tagItemGrantSkill=Grants Skill :
+tagItemSkill=   (Granted by Item)
+tagItemSkillShort=   (Item)
+
+tagInspectTitle=Inspect
+tagInspectOption=Inspect Player
+tagInspectWarning=That player is too far away to be inspected.
+tagGroup01=PVP Enabled
+tagGroup02=Auto Group Enabled
+tagAutoItemSkill=   (Granted by Item - Passive Activation)
+tagExclusiveSkill=Exclusive Skill - Only one Exclusive Skill can be active at any one time.
+
+tagAutoSort=Automatické řazení
+tagAttributeUndo=Zpět
+
+tagQuestItem=Úkolový předmět
+
+tagCR_Jewelry=Jewelry:
+tagRelicError=You cannot apply a relic or charm to an Epic or Legendary item.
+
+tagExperienceDisplayFormat=Current Experience : {^y}{%t0}{^w}  ~  Experience to Next Level : {^y}{%t1}
+tagCXP=XP : {%t0}
+tagDifficulty01=Normal Difficulty
+tagDifficulty02=Epic Difficulty 
+tagDifficulty03=Legendary Difficulty
+tagGrave01=Player Grave ~ {%t0}
+tagGrave02=Slain By {%t0}
+tagGrave03=Experience Reclaimed : {%d0}
+tagHeroXPShort={%d0} Hero XP
+tagBossXPShort={%d0} Boss XP
+tagBossXPLong01=Boss Monster Killed
+tagBossXPLong02={%d0} XP Granted
+tagHeroXPLong01=Hero Monster Killed
+tagHeroXPLong02={%d0} XP Granted
+
+tagPetBonusNameAllPets=Bonus to All Pets:
+tagPetBonusNameOnePet=Bonus to {%s0} Pet:
+tagPetBonusNameTwoPets=Bonus to {%s0} and {%s1} Pets:
+tagPetBonusNameManyPets=Bonus to Pets:
+
+TagSpeakerSetup=Speaker Setup
+TagHeadphoneSpeakers=Headphone Speakers
+Tag41Speakers=4 Speakers
+Tag51Speakers=5.1 Speakers
+TagKeybind40=Use Alternate Hot Slot Bar
+
+tagSelectPet1=Select Pet 1
+tagSelectPet2=Select Pet 2
+tagSelectPet3=Select Pet 3
+tagSelectPet4=Select Pet 4
+tagSelectPet5=Select Pet 5
+tagSelectAllPets=Select All Pets
+tagPortraitAggressive=Set to Aggressive
+tagPortraitNormal=Set to Normal
+tagPortraitDefensive=Set to Defensive
+
+#tagReclaimPoint=Click to Reclaim Skill Point (Cost {^y}{%t0}{^g})
+#tagReclaimNoGold=Not Enough Gold to Reclaim (Cost {^y}{%t0}{^r})
+
+
+tagUC_Button=Odemknout obsah
+tagUC_Message=Zadej prosím svůj kód pro odemčení nového obsahu.
+tagUC_OK=OK
+tagUC_Cancel=Zrušit
+tagUC_Error=S touto postavou byl již odemčen dodatečný obsah.
+
+tagHotSlotSwap=Přepínání mezi primárním a sekundárním slotem pro zbraň.
+tagHotSlotTitle=Alternativní panel
+tagEmptyHotSlot=Vymazat přidružení k tomuto tlačítku.
+
+#Multiplayer
+
+tagMPGroup=Group
+tagMPInGame=In Game
+tagMPCharName=Character Name
+tagMPCharLevel=Level
+tagMPCharClass=Class
+tagMPAdd=Add
+tagMPRemove=Remove
+tagMPMessage=Message
+tagMPInvite=Invite
+tagMPLeave=Leave Group
+tagMPBan=Ban
+tagMPAvailable=Available Players
+tagMPGroup1=Group 1
+tagMPGroup2=Group 2
+tagMPGroup3=Group 3
+tagMPInviteMessage={%t0} has invited you to join a group.
+tagMPInviteError={%t0} is already in a party.
+tagMPInviteSend={%t0} has been sent an invitation to join your party.
+tagMPInviteRemove={%t0} has been removed from the party.
+tagMPMessageJoin={%t0} has joined your party.
+tagMPMessageLeave={%t0} has left your party.
+tagMPMessageDeny={%t0} has declined your invitation.
+tagMPMessageBan={%t0} has been banned from the game.
+tagMPMessageGameJoin={%t0} has joined the game.  The difficulty level has been adjusted for more players.
+tagMPMessageGameLeave={%t0} has left the game.
+tagMPQuestionBan=Are you sure you wish to ban {%t0} from the game?
+tagMPInviteAccept=Accept
+tagMPInviteDeny=Deny
+tagMPStats=Game Stats
+tagMPMapName=Map Name :
+tagMPServerName=Server Name :
+tagMPPing=Ping :
+tagMPTime=Elapsed Game Time :
+tagMPErrorNoTarget=That player is too far away to target.
+tagTradeError01={%t0} is currently trading with another player.
+tagTradeError02={%t0} has denied your trade request.
+tagTradeError03={%t0} has requested a trade.
+tagTradeError04=You do not have enough room in your inventory to accept this trade.
+tagTradeButton01=Trade
+tagTradeButton02=Cancel
+tagTradeDistance=That player is too far away to trade with.
+tagChatGroup=Group
+tagChatAll=ALL
+tagChatFriends=FRIENDS
+tagChatReply=REPLY
+tagChatSpeak=Speak To . . .
+tagChatError=No player with that name exists.
+tagChatCommandShort01=p
+tagChatCommandShort02=a
+tagChatCommandShort03=r
+tagChatCommandShort04=t
+
+
+
+
