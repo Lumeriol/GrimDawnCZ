@@ -1,0 +1,485 @@
+#Region Names
+
+tagMapDevilsCrossing01=Ďáblův průsmyk
+tagMapLowerCrossing01=Dolní rozcestí
+tagMapBurialHill=Pohřební vrch
+tagMapOldDump=Stará skládka
+tagMapFoggyBank=Mlhavé pobřeží
+tagMapBurrwitchRoad01=Mlhavé pobřeží
+tagMapWightmire01=Wightmire
+tagMapSoddenHollow=Promáčená pustina
+tagMapFloodedPassage01=Zatopená průchod
+tagMapBurrwitchOutskirts01=Burrwitchské předměstí
+tagMapMolderingFields=Tlející pláně
+tagMapMudRow=Blátivá alej
+tagMapBurrwitchVillage01=Vesnice Burrwitch
+tagMapWardensCellar01=* Wardenovo sklepení
+tagMapWardensLabratory01=Podzemní průchod
+tagMapWardensLabratory02=Skrytá laboratoř
+tagMapLaboratoryStorerooms=Opuštěná skladiště
+tagMapLaboratoryJail=Podzemní žalář
+tagMapLaboratoryLivingQuarters=* Obytné části
+tagMapLaboratoryInner=Vnitřní laboratoř
+tagMapOminousLair=Zlověstné doupě
+tagMapLowerCrossing=Dolní rozcestí
+tagMapHallowedHill=Posvěcený vrch
+tagMapBurrwitchSlums=Burrwitchské slumy
+tagMapDumpingGrounds=Smetiště
+tagMapAbandonedWaterfront=Opuštěné nábřeží
+tagMapMerchantsRow=Obchodníkova cesta
+tagMapBurrwitchCenter=Burrwitchské centrum
+tagMapBurrwitchEstates=Burrwitchské statky
+tagMapBrokenTeeth=* Zlomené zuby
+tagMapDevilsSpur=Ďáblův výběžek
+tagMapNecropolis=Pohřebiště
+tagMapOldGrove=Starý háj
+tagMapVoidlands=Pustiny
+
+tagMapBrokenHills01=* Zbořené kopce
+tagMapRockyCoast01=Stará Arkovia
+tagMapCoastRoad01=Arkoviánské podhůří
+tagMapTwinFalls01=* Dvojité vodopády
+
+tagMapLedgewood01=Ledgewood
+tagMapWitheringFields01=Schnoucí pole
+tagMapHomestead01=Homestead
+
+#Underground Names
+
+tagUGLowerCrossingRatDen01=Zatuchlá nora
+tagUGBurrwitchVillageRatDen01=* Doupě hnisu
+tagUGCellar01=Zapomenutý sklep
+tagUGCellar02=Svatyně neřesti
+tagBurrwitchCellar01=Zamořené sklepení
+tagBurrwitchCellar02=Vlhké sklepení
+tagBurrwitchCellar03=Zatuchlé sklepení
+tagWightmireCellar01=Kultistovo doupě
+tagBurrwitchRiverCave=* Říční cesta
+tagUGBurialCave=Pohřební jeskyně
+tagUGWightmireCave01=Sluj
+tagUGDevilsCrossingAquifer=Ďáblův kolektor
+tagUGDevilsCrossingDungeon01=Vězeňské kobky
+tagUGDevilsCrossingHiddenPassage01=Tunel odsouzených
+tagUGBurrwitchFloodedCellars=Zatopené sklepení
+tagUGBurrwitchOutskirtsBasin=Pašerácká kotlina
+
+tagUGRockyCoast01=Pobřežní skrýš
+tagUGRockyCoast02=Stauntonův důl
+tagUGOldArkovia01=Hanneffyho důl
+tagUGOldArkovia02=Podzemní město
+tagUGOldArkovia03=* Neklidný úl
+tagUGOldArkovia04=* Strhující úl
+tagUGBrokenHills01=Točitá zátoka
+tagUGBrokenHills02=Věž vyhnanství
+tagUGBrokenHills03=Opuštěné doupě
+
+#Riftgate Names
+
+tagRiftDevilsCrossing=Brána v Ďáblově průsmyku
+tagRiftLowerCrossing=Brána na Dolním rozcestí
+tagRiftBurrwitchRoad=Brána na Mlhavém pobřeží
+tagRiftWightmire=Brána ve Wightmire
+tagRiftFloodedPassage=Brána v Zatopeném průchodu
+tagRiftBurrwitchOutskirts=Brána na Burrwitchském předměstí
+tagRiftBurrwitchVillage=Brána ve vesnici Burrwitch
+tagRiftWardensCellar=Brána ve Wardenově sklepení
+tagRiftWardensLabratory01=Brána ve Wardenově průchodu
+tagRiftWardensLabratory02=Brána ve Wardenově laboratoři
+
+tagRiftBrokenHills=Brána ve Zbořených kopcích
+tagRiftRockyCoast=Brána ve Staré Arkovii
+tagRiftCoastRoad=Brána v Arkoviánském podhůří
+tagRiftTwinFalls=Brána u Dvojitých vodopádů
+tagRiftHighPass=Brána ve Vrchním průsmyku
+tagRiftWitheringFields=Brána na Schnoucích polích
+tagRiftHomestead=Brána v Homestead
+
+tagRiftRandom01=Ch'thónická brána
+
+#Signs
+
+tagSign_BurialHill=Pohřební vrch
+tagSign_DevilsCrossing=Ďáblův průsmyk
+tagSign_Wightmire=Wightmire
+tagSign_Burrwitch=Vesnice Burrwitch
+tagSign_Malmouth=Malmouth
+tagSign_BrokenHills=* Zbořené kopce
+tagSign_CoastRoad=Arkoviánské podhůří
+tagSign_EastMarsh=Východní bažina
+tagSign_Homestead=Homestead
+tagSign_MistyVale=Mlhavé údolí
+tagSign_RockyCoast=Stará Arkovia
+
+tagSign_OldGrove=Starý háj
+
+#Points of Interest
+
+tagPOI001A=Vstup
+tagPOI001B=Východ
+tagPOI002A=Schodiště dolů
+tagPOI002B=Schodiště nahoru
+tagPOI003A=Vstup do jeskyně
+tagPOI003B=Východ z jeskyně
+tagPOI004A=Přechod řeky
+tagPOI005A=Vstup do vosího hnízda
+tagPOI005B=Východ z vosího hnízda
+tagPOI006A=Vstup do starobylé zříceniny
+tagPOI006B=Východ ze starobylé zříceniny
+tagPOI007A=Vstup do dolu
+tagPOI007B=Východ z dolu
+
+tagPOIFloodedPassageA=Vstup do Zatopeného průchodu
+tagPOIFloodedPassageB=Východ ze Zatopeného průchodu
+tagPOICaveBurialHillA=Vstup do Pohřebního vrchu
+tagPOICaveBurialHillB=Východ z Pohřebního vrchu
+tagPOIPrisonCellarA=Přístup k vězeňským kobkám
+tagPOIWardensCellarA=Vstup do Wardenova sklepení
+tagPOIWardensCellarB=Východ z Wardenova sklepení
+tagPOIUndergroundTransitA=Vstup do Podzemního průchodu
+tagPOIUndergroundTransitB=Východ z Podzemního průchodu
+tagPOIArkovianFoothillsMineA=Vstup do Stauntonova dolu
+tagPOIArkovianFoothillsMineB=Východ ze Stauntonova dolu
+
+tagPOIQuest_Burrwitch=Zabezpeč Burrwitchskou bránu
+tagPOIQuest_WardenLab=Najdi Wardenovu laboratoř
+tagPOIQuest_ArkovianFoothills=Vstup do Arkoviánského podhůří
+tagPOIQuest_Elsa=Najdi Elsu
+tagPOIQuestHomestead=Homestead
+tagPOIQuestHomesteadTown=Město Homestead
+tagPOIQuest_Sacrifice=Isaacův poklad
+
+
+#Notifications
+
+tagNotification_WightmireBurialCaveFound=Zdroj Mrtvých je nedaleko...
+tagNotification_WightmireReanimatorFound=Stvoření je znovuoživená mrtvola!
+tagNotification_WightmireCaravanFound=Tenhle masakr se stal nedávno...
+tagNotification_WightmireCaravanDriverFound=Vězeň žádá o pomoc!
+tagNotification_InventoryBagAcquired=Získán pytel na věci!
+tagNotification_BurrwitchRiftgateSecured=Burrwitchská brána je zabezpečena!
+tagNotification_WardenCellarFound=Tohle musí být Wardenovo sklepení...
+tagNotification_WardenLabFound=Laboratoř. Warden musí být někde poblíž...
+tagNotification_LostApprenticeCellar=Někdo tady nedávno byl...
+tagNotification_LostApprenticeFound=Kasparův učeň je tady!
+
+tagNotification_HS_RemoveTheHead_ElsaFound=Zdá se, že u těchto psanců se Elsa nenachází...
+tagNotification_HS_SpoilsOfTheGrimDawn=Prohledal jsi starou zříceninu.
+tagNotification_HS_WeNeedFood_HomesteadRegionFound=Objevil jsi oblast Homestead.
+tagNotification_HS_WeNeedFood_HomesteadTownFound=Nalezl jsi město Homestead.
+
+tagNotification_WarningToughArea=Na tomhle místě se nachází mnohem mocnější síly, než jsi schopen porazit...
+
+#Factions
+
+tagFactionDrifters=Tuláci
+tagFactionUser2=Starousedlíci
+tagFactionUser3=Svobodní muži z Corriganova dolu
+tagFactionUser4=Vyhnanci
+tagFactionUser5=Řád Černých strážců
+
+#NPC Names
+
+tagNPC_JohnBourbon=Kapitán John Bourbon
+tagNPC_Kasparov=Kasparov
+tagNPC_Harmond=Harmond
+tagNPC_Barnabas=Barnabas
+tagNPC_SybilHart=Sybil Hart
+tagNPC_LutherGraves=Luther Graves
+tagNPC_Ulgrim=Ulgrim
+tagNPC_Direni=Direni
+tagNPC_CaptiveInventor=Darlet
+
+tagNPC_GuardA04=McCaul - Strážce
+tagNPC_Guard_DCRanged01=Mainard - Strážce
+tagNPC_Guard_DCRanged02=Russ - Strážce
+tagNPC_Guard_DCMelee01=Brigs - Strážce
+tagNPC_Guard_DCMelee02=Oxley - Strážce
+tagNPC_BountyBoard=Vývěska Ďáblova průsmyku
+
+tagNPC_DevilsCrossing_01=Jasper
+tagNPC_DevilsCrossing_02=Zajatý tulák
+tagNPC_DevilsCrossing_03=Isaac
+tagNPC_DevilsCrossing_04=Torven
+tagNPC_DevilsCrossing_05=Kaldo
+
+tagNPC_Homestead_01=Angela Harrington
+tagNPC_Homestead_02=Darius Cronley
+tagNPC_Homestead_03=Douglass Sullivan Oldbarrow
+tagNPC_Homestead_04=Drew Larkin
+tagNPC_Homestead_05=Edmund "Noha" Doyle
+tagNPC_Homestead_06=Elizabeth Skinner
+tagNPC_Homestead_07=Isaiah Reddan
+tagNPC_Homestead_08=Josephine Reddan
+tagNPC_Homestead_09=Lord Reginald Marrowbane
+tagNPC_Homestead_10=Milah Skinner
+tagNPC_Homestead_11=Myles Finegan
+tagNPC_Homestead_12=Morris Burton
+tagNPC_Homestead_13=Samantha Colton
+tagNPC_Homestead_14=Stanley Larsen
+tagNPC_Homestead_15=Stephen Skinner
+tagNPC_Homestead_16=Mornay
+tagNPC_Homestead_17=Elsa
+tagNPC_Homestead_18=Nathan
+tagNPC_Homestead_19=Lydia
+tagNPC_Homestead_20=Jonas
+tagNPC_Homestead_21=Bernard
+tagNPC_Homestead_22=Alicia
+tagNPC_Homestead_23=Silas
+tagNPC_Homestead_24=Greven
+tagNPC_Homestead_25=Elder Mathias
+
+
+tagNPC_DetonationSite=* Stanoviště výbuchu
+
+tagNPC_BrokenHillsBridge=Stanoviště opravy mostu v Arkoviánském podhůří
+tagNPC_OldGroveBridge=Stanoviště opravy mostu ve Starém háji
+tagNPC_HomesteadBridge=Stanoviště opravy mostu ve městě Homestead
+
+
+tagNPC_JosephClaxton=Joseph Claxton
+tagNPC_MariaFletcher=Maria Fletcher
+tagNPC_NathanielGage=Nathaniel Gage
+tagNPC_ByronHale=Byron Hale
+tagNPC_AliciaDrake=Alicia Drake
+tagNPC_OliverLott=Oliver Lott
+tagNPC_SybilGreene=Sybil Greene
+
+
+#Flavor NPC Names
+
+tagNPC_Jailor=Kat Jarvis
+tagNPC_Villager=Vesničan
+tagNPC_Flavor_DevilsCrossing01=Constance
+tagNPC_Flavor_DevilsCrossing02=Jane
+tagNPC_Flavor_DevilsCrossing03=Alex
+tagNPC_Flavor_Homestead_01=Dean Oldbarrow
+tagNPC_Flavor_Homestead_02=Denny Oldbarrow
+tagNPC_Flavor_Homestead_03=Helen Fletcher
+tagNPC_Flavor_Homestead_04=Julius Cole
+tagNPC_Flavor_Homestead_05=Maria Oldbarrow
+tagNPC_Flavor_Homestead_06=Jebediah
+tagNPC_Flavor_Homestead_07=Oscar
+tagNPC_Flavor_Homestead_08=Judith
+tagNPC_Flavor_Homestead_09=Oscar Jr.
+
+
+#Quest Items
+
+tagQuestItemHartsAmulet_Name=Hartův amulet
+tagQuestItemHartsAmulet_Text="Mému drahému bratrovi: Ať tě tento amulet učiní v boji silným. -Sybil"
+
+tagQuestItemCultistKey_Name=Zvláštní klíč
+tagQuestItemCultistKey_Text="Na klíči je vyryto mnoho podivných run a chlípných symbolů charakteristických pro Ch'thonův kult."
+tagQuestItemDirections_Name=Direniho instrukce
+tagQuestItemDirections_Text=Dohoda je dohoda: Kultisté si pohodlně sedí na zadku v horách mimo trasy obyčejných cestovatelů. Vydej se k rozbitému mostu na Burrwitchském předměstí. Až tam budeš, obejdi celý útes, dokud nenarazíš na cestu vedoucí do kopců.{^n}{^n}Jakmile nalezneš muže v krví nasáklé róbě, velícího temným silám, jsi na správném místě. Vstup do jejich svatyně vede skrz tábor vytesaný do úbočí hory.
+
+tagQuestChestLostJournal=Zaprášený pult
+tagQuestItemLostJournal_Name=Řád kultistů
+tagQuestItemLostJournal_Text="Bratři krve,{^n}{^n}Přítomnost Éterických stvoření v Burrwitchi sílí s každým dalším dnem. Své aktivity přesouváme za hranice města, kde můžeme nerušeně pokračovat v našich plánech. Nyní se zaměřujeme na Ďáblův průsmyk, kde náš nejnovější zástupce Direni úspěšně sabotoval jejich vodní čerpadlo. Brzy tahle protivná skupinka bude nucena opustit své útočiště a hned poté je vezmeme na milost. Připravte se, bratři. Brzy budeme pít jejich krev!{^n}{^n}Salazar, Čepel Ch'thona"
+
+tagQuestItemDynamite=Dynamit
+tagQuestItemDynamiteDesc=^b"Surová výbušnina kdysi umístěná ničitely, aby čelili ničivým silám uživatelů magie."
+tagQuestItemSupplies=Bedna se zásobami
+tagQuestItemSuppliesDesc=^b"Bedna plná cenných materiálů a nekazícího se zboží."
+tagQuestItemSlithNecklace=Náhrdelník Slithů
+tagQuestItemSlithNecklaceDesc=^b"Nošen šamany Slithů, z důvodu známého pouze jim samotným."
+
+tagQuestItemAncientHeart=Starověké srdce
+tagQuestItemAncientHeartDesc=^b"Stále bije v děsivě pravidelném rytmu ve tvém pytli s věcmi."
+
+tagQuestItemSaltMineKey_Name=Klíč do Zapomenutých hlubin
+tagQuestItemSaltMineKey_Text="Klíč k železným dveřím oddělujících Zapomenuté hlubiny od zbytku Corriganova dolu."
+
+tagQuestItemLostElderTalisman_Name=Kostěný talisman
+tagQuestItemLostElderTalisman_Text="Tento odštěpek kosti byl pečlivě popsán frázemi a symboly mající duchovní význam pro Tuláky."
+
+
+#Journals
+
+tagLoreObj_InquisitorCreedA01Name=Deník inkvizitora Creeda - 1. článek
+tagLoreObj_InquisitorCreedA01Text=V současné době jsem na cestě do vesnice Burrwitch za účelem prošetření řady podivných událostí, které byly v této oblasti nahlášeny. Něco mi říká, že s blížícím se soumrakem je v této oblasti plné bažin nebezpečné cestovat za noci. Neochotně jsem přijal ubytováno v malé špinavé krčmě v Dolním rozcestí.{^n}{^n}Nejspíš jsem jen unavený z téhle uspíšené cesty, ale cítím, že se ve vzduchu vznáší nějaký podivný tlak a neznámá energie. Je to takřka podobné jako ticho před bouřlivou letní vichřicí, kdy ještě svítí slunce a není vidět ani mráček.  Všechno vypadá tak, jak má, ale ve svých střevech cítím, že brzy přijde něco dost hrozného...
+
+tagLoreObj_InquisitorCreedA02Name=Deník inkvizitora Creeda - 2. článek
+tagLoreObj_InquisitorCreedA02Text=As I was packing to resume my journey to Burrwitch, my assistance was urgently requested at a logging camp in the Old Grove west of Devil's Crossing, where strange animal attacks have left three lumbermen listless and pale.{^n}{^n}Upon arriving, I received a somber greeting from the foreman who informed me that the bitten workers had gone mad and fled the premises. They were reported to have spoken in an unknown tongue.  The foreman showed me the remains of the animals. Two gray foxes and a hound, suffering some sort of horrific mange, lay in a hastily dug pit behind the outhouse. The foreman told me the animals suddenly died when confronted by the workers and a strange green vapor emanated from their remains. Shortly afterward, the three lumbermen fell ill and their mental state rapidly deteriorated. It appears that my presence in this region is most warranted.
+
+tagLoreObj_InquisitorCreedA03Name=Deník inkvizitora Creeda - 3. článek
+tagLoreObj_InquisitorCreedA03Text=I've finally arrived in Burrwitch after passing through the dismal area known as Wightmire. For years, tales of supernatural occurrences have circulated about Wightmire and indeed the name itself makes one uneasy. I hadn't put much stock in them but my recent experiences lend some credence to the old tales.{^n}{^n}Nevertheless, I have reached my destination and it seems the Warden of Devil's Crossing, who resides in Burrwitch, somehow anticipated my arrival. A footman greeted me as soon as I entered town and insisted I accept Krieg's invitation to be put up at his manor. I find this very peculiar but I have accepted the offer as it may be my best chance to investigate the manor itself.{^n}{^n}Going to make this entry short as I've just been summoned to join Krieg for supper in the dining hall. This should prove...  illuminating.
+
+tagLoreObj_InquisitorCreedA04Name=Deník inkvizitora Creeda - 4. článek
+tagLoreObj_InquisitorCreedA04Text=I've been a guest to Warden Krieg at his manor for over a week now and my suspicions that something terrible is going on here grow with each day. Every day, I set out to some destination in or around Burrwitch to investigate yet another unusual crime or ominous rumor. Some are easily dismissed as more mundane human crimes or merely fantastic tales, but many of my investigations have come to darker conclusions. I feel there is a pattern emerging here but I cannot yet put the pieces together.{^n}{^n}These are peripheral cases though and the main purpose of my involvement in them is to give pretense for my prolonged stay in Burrwitch. Krieg himself has become the focus of my primary investigation. Despite an overwhelming conviction that Krieg is not what he appears to be and is almost certainly involved in some sort of unnatural activity, I have found no irrefutable evidence of wrongdoing that could be used to open an official inquiry.{^n}{^n}Much of the manor itself is closed off to me. There are rooms upstairs from which Krieg and other visitors come and go but I am not permitted to enter. Stranger yet, I've awoken in the night to sounds like the creaking of wagons moving along a road but then looked out my window down upon the village and seen nothing. Where are these sounds coming from? The game of cat and mouse continues but, as of yet, I am not certain who is the cat and who is the mouse...
+
+tagLoreObject_PrisonNoteName=Hrubě načmáraná poznámka
+tagLoreObject_PrisonNoteText=Now, I ain't a decent man and I sure ain't good at writing, but word needs to get out 'bout what this place really is. This prison, it ain't like no joint I ever been in, and I've seen double my share. Men don't stay here long neither and some of the lads they haul in, they ain't criminals. I'd know. Moment I see a man, I can tell by his eyes that he done wrong. These boys? I see fear.{^n}{^n}I seen this warden a coupla times, big man in black armor. If you ain't know better, you'd think he was on the wrong side of the bars. Every day, he and his lackeys take prisoners out to this hut in the yard by the dozen. They ain't never come out. Later, a wagon rolls in by the hut. It always leaves full.{^n}{^n}They don't let us outa our cells no more, but I can tell there ain't much of us left. The halls are quiet. I'm the last man in my row. The others? They was taken in yesterday's batch. I ain't asking for pity. I know my end's in that hut; but perhaps this note will be my one good deed in my pathetic life...
+
+
+tagLoreObj_LowerCrossingA01Name=Deník správce přístavu
+tagLoreObj_LowerCrossingA01Text=Autumn fogs are appearing early this year but traffic remains unusually high.  There is a steady flow of small craft coming down from Malmouth and other townships to the Nor'East. Some of these boats are barely afloat burdened with what looks like people's every possession. These travelers, sometimes entire families, bring with them strange tales of wars and the unnatural. Bunch'a hogwash riling up the soft townsfolk. Can't complain tho', keeps the dock busy. Most are Westbound, trying to get as far away as they can.{^n}{^n}The lads at the docks are starting to lose their nerve. Some have talked about setting out West themselves but I've assured them this is all nonsense and will pass. Youth are easily caught up in the energy of the moment.
+
+tagLoreObj_BurrwitchB01Name=Deník správce přístavu
+tagLoreObj_BurrwitchB01Text=Another boat arrived filled with hooded prisoners, dozens of 'em. As usual, a wagon was waiting for them but from what I hear, it doesn't take 'em far. One of the loading boys came back from Burrwitch after visiting that there new doctor and he said the wagon stopped outside the Warden's mansion. The lad asked 'bout the prisoners and one of the handlers said "rehabilitation". Not sure what to make of that.{^n}{^n}There's been o'er a dozen of these prisoner transports in as many weeks. I just don't see how they can fit 'em all in that mansion. I don't care how big that place may be, Krieg won't be keeping a prison's worth of no good thieves under his roof. Somethin' peculiar is going on there and it don't settle right in my stomach. Might have to send word up the lake to Malmouth, get one of them inquisitors down here to look into this curiosity. Can't say I want one o'them inquisitors poking around here much either though. They make a man uneasy.
+
+
+tagLoreObj_LowerCrossingA02Name=Francisova poznámka
+tagLoreObj_LowerCrossingA02Text=I'm trapped here...I realize now, I will die in this house.  Margaret, I fear that you are already dead and so it may not be so bad if I am shortly to join you.  If by some miracle, you yet live and return here to find this note, please know that I am not angry with you. I've never regretted our life together but now only regret that I lost my temper and spoke unkind words when last we parted.{^n}{^n}I hope you will not think me a coward for what I am about to do. They are already in the house. I've barricaded myself in this room but it is only a matter of time before they break through.  All I can do now is choose the manner in which I face death and I would rather die a man than be changed into one of those horrid things or eaten alive.  I will love you always...{^n}{^n}Francis
+
+tagLoreObj_WightmireA01Name=Úřední dopis pro Wightmirského Krvepřísežníka
+tagLoreObj_WightmireA01Text=The time has come to strike at our Aetherial nemesis in Wightmire. Even now, we gather our forces in the hills above Burrwitch for an assault on the Village. However, before that can happen, we must first secure Wightmire so that there are no enemies at our backs.{^n}{^n}Though strong, loyal and ready to die in the name of Ch'thon, I believe you have insufficient Bloodbound to overcome the Aetherials presence. We have had great success recently in bringing forth more powerful servants of Ch'thon from the Void. A single Harbinger could wipe out all of the Aetherians in Wightmire and even take on Devil's Crossing, which could serve as a stronghold for our order in this region.{^n}{^n}To bring forth a Harbinger, you will need the blood and lives of at least three men. Gather the sacrifices however you see fit; either from refugees on the road, rover camps or chosen amongst your own Bloodbound. Inform me of your success when it is complete.{^n}{^n}Ulto Treig, Grand Priest
+
+tagLoreObj_WardensJournalA01Name=List Wardena Kriega
+tagLoreObj_WardensJournalA01Text=I have taken possession of my assigned vessel, the local prison warden. I appeared to him in his bed chamber and proposed the joining. I had anticipated fear and skepticism but these humans are apparently all too ready to enter into any pact they believe will profit them. Krieg is not a particularly strong willed human but he is persistent and constantly scratches at my consciousness. I have him under control though.{^n}{^n}Krieg's position as an incarcerator of other humans will greatly facilitate our efforts. His expansive dwelling has a massive cellar that I believe we can use to fashion an underground transit to conceal our activities and the transport of bodies. There is much work ahead to prepare for our Glorious Dawn but I rather enjoy this physical body. It has many advantages.
+
+tagLoreObj_WardensLabA01Name=Gethrandovy poznámky - 1. článek
+tagLoreObj_WardensLabA01Text=It is unclear why the Aetherials are so interested in tissue preservation. One of my colleagues has posited that they may intend to use human corpses as vessels for possession when they bring more of their kind into our realm.{^n}{^n}Wagon loads of corpses continue to stream in day and night. The sheer quantity is staggering and I begin to suspect that they are not merely executed criminals as we've been told.
+
+tagLoreObj_WardensLabA02Name=Gethrandovy poznámky - 2. článek
+tagLoreObj_WardensLabA02Text=We entered stage two of our trials today but the results were not what I had anticipated.  We've progressed to the point where the corpses can endure for months, possibly years, with minimal, mostly external, deterioration. Our Aetherial overseer seemed satisfied and he, or it, unexpectedly placed his hand upon one of the corpses and released a spark of aetherial energy. The thing began to move as if it were alive again. It was a ghastly sight.{^n}{^n}What I found far more troubling though is that these corpses are clearly not meant to serve as Aetherial hosts. It has become known to me that they prefer living hosts. The sheer number of corpses they are hauling through here suggests a far worse realization: an army.
+
+tagLoreObj_WardensLabA03Name=Gethrandovy poznámky - Závěrečný článek
+tagLoreObj_WardensLabA03Text=This will be my last entry as I have determined to end my life. I cannot bring myself to carry out these abominable experiments any longer. I may have already doomed humanity with my actions. Though I have long felt shunned by my fellows at the academy and thought the Aetherials could offer me something greater, I can no longer be a part of this. I fear that if they find my body, they will use me for their experimentations, so I must be discreet. Returning as one of those...things would be unbearable.
+
+tagLoreObj_WardensLabB01Name=Zanbrandtovy poznámky - 1. článek
+tagLoreObj_WardensLabB01Text=My colleague Gethrand took his life today - that shortsighted fool. He could never see the big picture and this project was no different. Gethrand could not fathom the glorious vision of the Aetherials and the role we will play as early human collaborators. This isn't about personal gain. We will elevate humanity! Certainly there has been a cost in lives but progress always has a price. So what of the dirty masses who will perish in the Glorious Dawn when the Aetherials reveal themselves to the world. To the Aetherials we are like some base primitive creature, as the Slith are to us. Those of us who will serve, or better yet, bond with an Aetherial, shall forge a new human future.
+
+tagLoreObj_WardensLabC01Name=Úřední dopis pro Wardena Kriega
+tagLoreObj_WardensLabC01Text=Warden Krieg,{^n}{^n}Excuse this crude form of communication. I am far to the North and it seems my thoughts are unable to reach you. In all future material correspondence we will use our host names and common human language forms.{^n}{^n}I write looking for clarification of recent perplexing reports on your conduct.  Is it true that you have been incarcerating and tormenting humans?  What is the purpose for this?  It would seem that your host's predilections are affecting your own behavior. You must bring this under your control and cease this superfluous activity.  Your role is to facilitate our laboratories with the collection of corpses. Limit yourself to the parameters of this task or you will be recalled.
+
+tagLoreObj_VilagerNoteB01Name=Alisteřin diář
+tagLoreObj_VillagerNoteB01Text=1st entry{^n}Momma told me to write in this thing, so I suppose now is as good as ever, seeing as I'm grounded, again! So I pulled Abigail's hair. She started it! Why doesn't she have to sit in her room and write in her stupid diary?{^n}{^n}Tomorrow, I'll catch the biggest frog I can find in the marshes and leave it in sister's room. We'll see how she likes that.{^n}{^n}2nd entry{^n}So Momma's been reading my diary and now I'm grounded again. The frog got out before sister even saw it! Why isn't Poppa home yet? He was supposed to take me out to Burrwitch today and he's still not back from business.{^n}{^n}Alister's Diary - 3rd entry{^n}Momma's saying that I'm not allowed to play outside anymore. Perkins said that there are monsters roaming the marshes, but Momma said there is no such thing and she whooped me with the ladle for talking rumors again. I wish Poppa would come home already. I want to go to Burrwitch!{^n}{^n}Alister's Diary - 4th entry{^n}I'm scared. I'm really really scared. Momma locked me and sister in my room while she checked out some noises behind the house. It's been forever and now I hear noises inside the house too. Poppa, please come home and make the noises go away. I don't care about Burrwitch anymore. Just please come home, Poppa.
+
+TagLoreObj_VillagerNoteH01Name=Abbyho poznámka
+TagLoreObj_VillagerNoteH01Text=Town is falling apart around me. Those things are everywhere. God knows what's making them rise. Half of Burrwitch is in flames and still they continue to multiply. No sense trying to stick this out so I'm packing some basics and leaving immediately. I hear the north is all but overrun so I'll try my luck in the south, through Wightmire.{^n}{^n}Horace, if you are reading this note, I'll make camp at Devil's Crossing. Last place I'd want to end up on a good day, but the prison sounds safer than being out in the wild with those things about. Meet me there, if you're still alive.
+
+TagLoreObj_VillagerNoteJ01Name=Nořina poznámka
+TagLoreObj_VillagerNoteJ01Text=Third bunch of bandits this month. You would think that with all that's happened recently people would be a bit more willing to help out one another. But no, seems the world is still teeming with scum who would take advantage of a bad situation.{^n}{^n}If you are a friend of these dirt-bags, follow me and die. There is still room on my belt for a few more notches. If perhaps you are just another lost soul wandering these ruins, don't look for friends out here. People out here are just as likely to slit your throat for a few bullets as to point you in a safe direction. I'm not going to hesitate to fire the first shot, and neither should you.
+
+
+
+
+#ScriptedGuardChatter
+
+tagChat_GrdA01_KillFoeA01=Tohle nemůže vydržet věčně...
+tagChat_GrdA01_KillFoeA02=Dochází munice!
+tagChat_GrdA01_KillFoeA03=Hej! Ten byl můj!
+tagChat_GrdA01_KillFoeA04=K=ž bych měl svou starou pušku...
+tagChat_GrdA01_KillFoeA05=Bez boje mě nedostanou!
+tagChat_GrdA01_KillFoeA06=Bože!  Všude mám jejich zbytky!
+tagChat_GrdA01_KillFoeA07=Sakra, to bylo o fous!
+tagChat_GrdA01_KillFoeA08=Kéž bychom ta těla spálili než to všechno propuklo.
+tagChat_GrdA01_KillFoeA09=Odkud to pořád vylejzá?
+tagChat_GrdA01_KillFoeA10=Hej! Můžeš nám laskavě trochu pomoci?!
+
+tagChat_GrdA01_1stSeePlrA01=Nikdy před tím jsem tě tu neviděl.
+tagChat_GrdA01_1stSeePlrA02=Kdybych byl tebou, cizinče, raději zůstanu na druhé straně mostu
+
+tagChat_GrdA01_2ndSeePlrA01=Nikdy jsem si nemyslel, že tě znovu uvidím.
+tagChat_GrdA01_2ndSeePlrA02=Docela se divím, že jsi stále naživu!
+tagChat_GrdA01_2ndSeePlrA03=Dobře že jsi zpátky.
+
+tagChat_GrdA02_KillFoeA01=Vrať se zpátky do hrobu!
+tagChat_GrdA02_KillFoeA02=Zatraceně s těmito věcmi z pekel!
+tagChat_GrdA02_KillFoeA03=Kdy tohle skončí?
+tagChat_GrdA02_KillFoeA04=Prostě stále přicházejí...
+tagChat_GrdA02_KillFoeA05=Další pro mě!
+tagChat_GrdA02_KillFoeA06=Viděls, kam ta jeho noha šla!
+tagChat_GrdA02_KillFoeA07=Tohle bude další nekonečná noc, není-liž pravda?
+tagChat_GrdA02_KillFoeA08=K čertu, tohle je fakt ošklivá matka!
+tagChat_GrdA02_KillFoeA09=Kolik jich tam proboha ještě je?
+tagChat_GrdA02_KillFoeA10=Po tomhle budu potřebovat pořádnýho panáka...
+
+tagChat_GrdA02_1stSeePlrA01=Odkud si sakra přišel?
+tagChat_GrdA02_1stSeePlrA02=Nechceš tam jít, že ne?!
+
+tagChat_GrdA02_2ndSeePlrA01=Pane bože! Smrdíš jako odhalená zombie!
+tagChat_GrdA02_2ndSeePlrA02=Hej, nemáš nějakou whisky?
+tagChat_GrdA02_2ndSeePlrA03=Nenašel jsi, ehm, malé stříbrné baňky tam venku?
+
+tagNPC_GuardA03=Halsey - Strážce
+
+tagChat_GrdA03_1stSeePlrA01=Neznám tě.  Ani nechci.  Takže doufám, že to tak zůstane.
+
+tagChat_GrdA03_2ndSeePlrA01=Nezkoušej dělat potíže. Už takhle máme dost nepřátel.
+tagChat_GrdA03_2ndSeePlrA02=eznám tě.  Ani nechci.  Takže doufám, že to tak zůstane.
+tagChat_GrdA03_2ndSeePlrA03=Z obyčejného tlachání nemůže vzejít nic dobrého.
+
+#ScriptedMerchantChatter
+
+tagNPC_GateGuardA01=Rook - Strážce brány
+
+tagNPC_MerchantA01=Roan
+tagStoreTitle_MerchantA01=Prodejce předmětů
+
+tagChat_MerchA01_1stSeePlrA01=Pokud plánuješ opustit město, budeš potřebovat nějaké zásoby.
+
+tagChat_MerchA01_2ndSeePlrA01=Hledáš nějaké vylepšení?  Opravdu bys měl.
+tagChat_MerchA01_2ndSeePlrA02=Právě jsem dostal novou zásilku. Pojďme se na to podívat!
+tagChat_MerchA01_2ndSeePlrA03=Jsou to snad železné mince, co slyším cinkat ve tvém váčku?
+tagChat_MerchA01_2ndSeePlrA04=Přijď se podívat na mé nejnovější zboží.
+
+tagNPC_MerchantA02=Kerrick
+tagStoreTitle_MerchantA02=Prodejce předmětů
+
+tagChat_MerchA02_1stSeePlrA01=Hledáš tady nějaké nové vybavení?
+
+tagChat_MerchA02_2ndSeePlrA01=Budeš mít hodně velké štěstí, pokud zabiješ další tucet nepřátel a tahle zbraň se nerozpadne.
+tagChat_MerchA02_2ndSeePlrA02=V tomhle zničeném vybavení nemáš šanci dlouho přežít.
+tagChat_MerchA02_2ndSeePlrA03=Mám něco vzácného, co nikde jinde nenajdeš.
+tagChat_MerchA02_2ndSeePlrA04=Argis nemá jedinou šanci mne předčit v cenách a šíři sortimentu!
+
+tagNPC_MerchantA03=Luther Graves
+tagStoreTitle_MerchantA03=Pochybný prodejce
+
+tagChat_MerchA03_1stSeePlrA01=Mám prémiové položky na prodej. Jen se prosím tě neptej, odkud jsou.
+
+tagChat_MerchA03_2ndSeePlrA01=Jste připraveni udělat obchod?
+
+tagNPC_MerchantB01=Pobuda Benny
+tagStoreTitle_MerchantB01=Znalec nelegálního zboží
+
+tagNPC_MerchantB02=Morris Burton
+tagStoreTitle_MerchantB02=Vzácné zboží
+
+tagNPC_MerchantT01=Potulný obchodník
+tagStoreTitle_MerchantT01=Potulný obchodník
+
+tagNPC_SmugglerA01=Carlile - Pašerák
+tagStoreTitle_SmugglerA01=Pašerák
+
+tagNPC_ReallocatorA01=Morland - Průvodce duchovnem
+tagStoreTitle_ReallocatorA01=Průvodce duchovnem
+
+tagNPC_InventorA01=Kasparův asistent
+tagStoreTitle_InventorA01=Vynálezce
+
+tagNPC_SmithA01=Jacob
+tagStoreTitle_SmithA01=Kovář
+
+tagChat_InvtrA01_1stSeePlrA01=Hele pokud potřebuješ upravit nebo sestavit nějaký kousek výbavy, bude mi potěšením ti pomoci.
+
+tagChat_InvtrA01_2ndSeePlrA01=Našels tam nějaké zajímavé předměty?
+tagChat_InvtrA01_2ndSeePlrA02=Máš pro mě nějaké návody?
+
+
+#Q2 Claxton Diary
+
+tagQ2Title_Claxton Diary_01=Claxtonův deníček{^n}
+
+tagQ2Item_ClaxtonDiary_01A=Claxtonův rodinný deník
+tagQ2ItemDesc_ClaxtonDiary_01A=Stará tlustá kniha s vyrytým názvem "Claxton" do hodně opotřebovaného hřbetu a ušpiněná mnoha skvrnami.
+
+tagQ2Dialog_ClaxtonDiary_01A=Slyšel jsem, že se chceš vydat do vesnice něco zachránit.  Pokud náhodou narazíš na starý tlustý deník s vyrytým názvem "Claxton" na hřbetu knihy, budu ti velice vděčný, pokud mi jej vrátíš. Dám ti za něj něco jinačího.
+
+tagQ2Dialog_ClaxtonDiary_01A2=Nezapomněl ses poohlédnout po deníku?
+
+tagQ2Dialog_ClaxtonDiary_01A3=Zkus nesejít z cesty, ale pokud na to narazíš, budu ti vděčný, pokud mi to vrátíš.
+
+tagQ2Dialog_ClaxtonDiary_01B=Děkuji ti za navrácení deníku.  Alespoň zmínka o mojí rodině bude žít dál.
+
+tagQ2Journal_ClaxtonDiary_01A=Joseph Claxton z Ďáblova průsmyku tě požádal, aby ses poohlédl po jeho rodinném deníku, až budeš prohledávat domy v Burrwitch.  Pokud mu jej vrátíš, máš přislíbeno dostat něco, co budeš moci využít.{^n}
+
+tagQ2Journal_ClaxtonDiary_01B=Vrať získaný deník Josephu Claxtonovi do Ďáblova průsmyku a řekni si o svou odměnu.{^n}
+
+tagQ2Journal_ClaxtonDiary_01C=Vrátil jsi Josephu Claxtonovi jeho rodinný deník.  Vypadal dost smutně, když jej držel v rukách. Krutá smrt jeho rodiny ho prostě dostala.  Byl ti ovšem vděčný a navrácení deníku ti opětoval malou odměnou.{^n}
+
+tagQ2ItemDesc_SavingTime_A01=Staré mosazné hodinky s nápisem "Evans".
+
+tagQ2Dialog_SavingTime_A01=Slyšel jsem, že se chystáš do vesnice.  Pokud náhodou narazíš na kapesní hodinky s nápisem "Evans", budu velice poctěn, pokud mi je vrátíš.  Je to rodinné dědictví, které se předává mezi generacemi a... teď když můj otec navždy odešel, bych je měl nosit já.  Dám ti za ně na oplátku něco jiného.
