@@ -1,17 +1,17 @@
 Torven
-Return to this refuge again if you need respite from your journey.
-Thank you.
-Ah, so you've returned. Do you have the necklaces?
-Will these suffice?
-Ah yes, there is raw power in these bones and my deft old hands will weave it into something more potent yet. I will have the finished ring for you shortly.
-Thank you.
-Our paths converge again.
-Farewell.
-You travel a dangerous path stranger. This solitary refuge is one of the few safe places left in the Wightmire. If you plan to set out on the road again, perhaps there is a way that we could help one another.
-And what might that be?
-The Slith are unnatural creatures and poison the land itself; so it seems only fitting that we should turn some of their vile magic against them. Their shamans carry bone necklaces, primitive things, but they carry primal power within them. I can weave this power into something more potent for you.{^n}{^n}If you bring me a few of their necklaces, and say 100 iron bits to aid us in return, I will fashion for you a magical ring. What say you?
-You have a deal.
-Not interested.
-Will these necklaces suffice?
+Vrať se do tohoto útočiště, pokud si budeš potřebovat na svých cestách odpočinout.
+Díky.
+Ah, tak jsi se vrátil. Máš ty náhrdelníky?
+Budou tyhle stačit?
+Ah ano, v těch kostech je hrubá síla a mé staré, ale opratné ruce z nich vyrobí ještě něco mocnějšího. Za chvilku pro tebe budu mít vyrobený prsten.
+Díky.
+Naše cesty se zase setkávají.
+Měj se.
+Jdeš nebezpečnou cestou, cestovateli. Tohle osamělé útočiště je jedno z mála bezpečných míst, které ve Wightmire zůstaly. Pokud plánuješ zase vyrazit na cesty, možná bysme si mohli vzájemně vypomoct.
+A jak konkrétně?
+Slithové jsou nepřirozené bytosti a otravují kraj sami o sobě; takže obrátit něco z jejich odporné magie proti nim se jeví jako dobrá příležitost. Jejich šamané nosí kostěné náhrdelníky, primitivní věci, ale uvnitř nich je prvopočáteční energie.  Můžu z nich pro tebe vyrobit ještě něco mocnějšího.{^n}{^n}Pokud přineseš pár jejich náhrdelníků, a řekněme sto železných mincí, abys nám vypomohl, vyrobím pro tebe magický prsten. Co na to říkáš?
+Že máme dohodu.
+Nezájem.
+Budou tyhle náhrdelníky stačit?
 
-No thank you.
+Ne, já děkuji tobě.
