@@ -36,7 +36,7 @@ Potřebujeme zabezpečit cestu do Burrwitche. Všechno závisí právě na tom.
 Jdu na to.
 Jeden z mých zvědů se vrátil zpátky s novinkami, které vcelku vyjasnily, jaké budou naše další kroky. {^n}{^n}Mrtví jsou vysoce koncentrovaní v Burrwitchské vesnici, která leží severně odtud, za Wightmirskými močály. Musí být důvod, proč tomu tak je. Možná že Aetherian zodpovědný za ty útoky je právě tam. {^n}{^n}To ale nebudeme vědět jistě, aniž bychom to podrobně prozkoumali.
 Jak mohu pomoci?
-Zatím jsi dokázal, že jsi docela užitečný! {^n}{^n}Tvoje schopnost zabezpečovat Brány pro využití lidmi může být v naší situaci bodem zvratu. Se vší tou aktivitou okolo Burrwitche zde musí být Brána. {^n}{^n} Pokud ji dokážeš získat, dodá nám to v této oblasti solidní oporu.
+Zatím jsi dokázal, že jsi docela užitečný! {^n}{^n}Tvoje schopnost zabezpečovat Brány pro využití lidmi může být v naší situaci bodem zvratu. Se vší tou aktivitou okolo Burrwitche zde musí být Brána. {^n}{^n}Pokud ji dokážeš získat, dodá nám to v této oblasti solidní oporu.
 Jak se dostanu do Burrwitche?
 Jdi po cestě na sever, skrz Wightmire. Ikdyž ve sledu dnešních událostí asi budeš muset cestu opustit dlouho před tím, než dorazíš do vesnice. {^n}{^n}Stále postupuj na sever, až dorazíš na Burrwitchské předměstí. To je opevněno plotem z kůlů, takže budeš muset nějak najít cestu dovnitř. {^n}{^n}Jakmile zajistíš Bránu, vrať se do Ďáblova průsmyku.
 Jsem připravený.
@@ -48,7 +48,7 @@ Všude kolem je Éterické poškození, ale Brána je zabezpečená.
 Dobře, že jsi zpátky. Slyšel jsem nějaké dobré zprávy jak od Barnabase, tak od Kasparova. Pro naši komunitu jsi opravdovým přínosem.
 Díky.
 
-Stále čekám na to, až se ohlásí jeden z mých zvědů. {^n}{^n}Udělej si trošku času a popovídej si s ostatními, hlavně s Kasparovem a Barnabasem. Vypadá to, že by užili tvoji pomoc. {^n}{^n}Až s tím skončíš, zajdi za mnou do mé kanceláře, která je uvnitř vězení.
+Stále čekám na to, až se ohlásí jeden z mých zvědů.  {^n}{^n}Udělej si trošku času a popovídej si s ostatními, hlavně s Kasparovem a Barnabasem. Vypadá to, že by užili tvoji pomoc.  {^n}{^n}Až s tím skončíš, zajdi za mnou do mé kanceláře, která je uvnitř vězení.
 Pak tedy vyrazím.
 Rád bych ti položil pár otázek.
 Udělám, co je v mých silách, abych ti na vše odpověděl. Zasloužíš si to.
@@ -58,7 +58,6 @@ Oba dva jsou venku mimo vězení. Kasparov je blízko domu hned vedle Brány, a 
 Jdu si tedy promluvit s Kasparovem a Barnabasem.
 Kat mě nazval 'Posedlým'. Co tím myslel?
 Je to naše slovo pro ty, kteří jsou posedlí Aetheriany. {^n}{^n}Posedlé nelze jen tak rozlišit od normálních lidí, ale ty, nebo to, co tě ovládalo, přišlo právě sem skrze tu trhlinu a chytilo se do Kasparovy pasti. {^n}{^n}A když si se pohupoval na šibenici, sledovali jsme, jak tvůj duch opouštěl tvé tělo v době, kdy jsi umíral. To byl přesně ten moment, kdy tě Jarvis odřízl. {^n}{^n}Nebudu ti lhát; nebude to jednoduché, aby si na tebe lidi tady kolem zvykli... v dnešní době...
-Vrátím se.
 
 Jdu si tedy promluvit s Kasparovem a Barnabasem.
 Jaká je tam situace?
@@ -118,9 +117,11 @@ Dobrá, ale rychle. Čím déle váháš, tím více mrtvých se shromažďuje u
 Jaká je tam situace?
 Ti Aetheriané ti doopravdy zašifrovali myšlenky, huh? Svět se proměnil v noční můru a jsou tady věci, které jsou mnohem strašnější než chodící mrtvoly. Tohle staré vězení nyní slouží jako poslední uprchlické útočiště v této oblasti. {^n}{^n}Čas od času tudy projde tulák a vypráví o jiných útočištích, ale nic, co bych měl potvrzené. Myslím si, že z nás nezbylo mnoho až na bandity, divné kulty a lakomé sběrače, kteří touží po zisku dokonce i v těchto zoufalých dobách. {^n}{^n}Chceš moji radu? Ukaž, že tady nejsi k ničemu. Tvoje druhá možnost je tam venku zemřít.
 
+
 Jdu k Pohřebnímu vrchu.
 Kdo jsou ti Aetheriané?
 To není jednoduchá otázka. Nikdo to s jistotou neví. Nejvíce jsem se dozvěděl ze starých zpráv, které šířil odpor krátce po Ponurém úsvitu. {^n}{^n}Říká se, že Aetheriané nejsou z tohoto světa. Znalci okultních vědomostí je pojmenovali po Éteru, který tak moc rádi využívají pro své kouzelnické umění. Aetheriané ovládnou živého tvora a zformují jeho tělo do jakéhokoliv hrůzného tvaru si zamanou... Předpokládám, že přemýšlíš nad tím, co dobrého jsi v životě zažil. A asi jsi vcelku rád, že jsi nebyl posedlý dostatečně dlouho. Soudě podle toho, co vím.
+
 
 Jdu k Pohřebnímu vrchu.
 Nezabývej se tím. Kdeže najdu Pohřební vrch?
