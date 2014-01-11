@@ -75,26 +75,26 @@ tagUGBrokenHills03=Opuštěné doupě
 
 #Riftgate Names
 
-tagRiftDevilsCrossing=Brána v Ďáblově průsmyku
-tagRiftLowerCrossing=Brána na Dolním rozcestí
-tagRiftBurrwitchRoad=Brána na Mlhavém pobřeží
-tagRiftWightmire=Brána ve Wightmire
-tagRiftFloodedPassage=Brána v Zatopeném průchodu
-tagRiftBurrwitchOutskirts=Brána na Burrwitchském předměstí
-tagRiftBurrwitchVillage=Brána ve vesnici Burrwitch
-tagRiftWardensCellar=Brána ve Wardenově sklepení
-tagRiftWardensLabratory01=Brána ve Wardenově průchodu
-tagRiftWardensLabratory02=Brána ve Wardenově laboratoři
+tagRiftDevilsCrossing=Portál v Ďáblově průsmyku
+tagRiftLowerCrossing=Portál na Dolním rozcestí
+tagRiftBurrwitchRoad=Portál na Mlhavém pobřeží
+tagRiftWightmire=Portál ve Wightmire
+tagRiftFloodedPassage=Portál v Zatopeném průchodu
+tagRiftBurrwitchOutskirts=Portál na Burrwitchském předměstí
+tagRiftBurrwitchVillage=Portál ve vesnici Burrwitch
+tagRiftWardensCellar=Portál ve Wardenově sklepení
+tagRiftWardensLabratory01=Portál ve Wardenově průchodu
+tagRiftWardensLabratory02=Portál ve Wardenově laboratoři
 
-tagRiftBrokenHills=Brána ve Zbořených kopcích
-tagRiftRockyCoast=Brána ve Staré Arkovii
-tagRiftCoastRoad=Brána v Arkoviánském podhůří
-tagRiftTwinFalls=Brána u Dvojitých vodopádů
-tagRiftHighPass=Brána ve Vrchním průsmyku
-tagRiftWitheringFields=Brána na Schnoucích polích
-tagRiftHomestead=Brána v Homestead
+tagRiftBrokenHills=Portál ve Zbořených kopcích
+tagRiftRockyCoast=Portál ve Staré Arkovii
+tagRiftCoastRoad=Portál v Arkoviánském podhůří
+tagRiftTwinFalls=Portál u Dvojitých vodopádů
+tagRiftHighPass=Portál ve Vrchním průsmyku
+tagRiftWitheringFields=Portál na Schnoucích polích
+tagRiftHomestead=Portál v Homestead
 
-tagRiftRandom01=Ch'thónická brána
+tagRiftRandom01=Ch'thónický portál
 
 #Signs
 
@@ -140,7 +140,7 @@ tagPOIUndergroundTransitB=Východ z Podzemního průchodu
 tagPOIArkovianFoothillsMineA=Vstup do Stauntonova dolu
 tagPOIArkovianFoothillsMineB=Východ ze Stauntonova dolu
 
-tagPOIQuest_Burrwitch=Zabezpeč Burrwitchskou bránu
+tagPOIQuest_Burrwitch=Zabezpeč Burrwitchský portál
 tagPOIQuest_WardenLab=Najdi Wardenovu laboratoř
 tagPOIQuest_ArkovianFoothills=Vstup do Arkoviánského podhůří
 tagPOIQuest_Elsa=Najdi Elsu
@@ -156,7 +156,7 @@ tagNotification_WightmireReanimatorFound=Stvoření je znovuoživená mrtvola!
 tagNotification_WightmireCaravanFound=Tenhle masakr se stal nedávno...
 tagNotification_WightmireCaravanDriverFound=Vězeň žádá o pomoc!
 tagNotification_InventoryBagAcquired=Získán pytel na věci!
-tagNotification_BurrwitchRiftgateSecured=Burrwitchská brána je zabezpečena!
+tagNotification_BurrwitchRiftgateSecured=Burrwitchský portál je zabezpečen!
 tagNotification_WardenCellarFound=Tohle musí být Wardenovo sklepení...
 tagNotification_WardenLabFound=Laboratoř. Warden musí být někde poblíž...
 tagNotification_LostApprenticeCellar=Někdo tady nedávno byl...
