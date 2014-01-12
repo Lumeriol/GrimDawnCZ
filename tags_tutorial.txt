@@ -1,9 +1,8 @@
 # B17
-tagTutorialTitle=Základní nápověda
-tagTutorialRollOver=Pro vypnutí základní pomoci zaškrtni toto políčko. Po vypnutí muže být základní pomoc opět aktivována, a to ve spodní části obrazovky tlacítkem "pomoc".
+tagTutorialTitle=Herní nápověda
+tagTutorialRollOver=Pro vypnutí herní nápovědy zaškrtni toto políčko. Po vypnutí muže být herní nápověda opět aktivována, a to ve spodní části obrazovky tlacítkem "nápověda".
 tagTutorialOf=Vypnuto
 tagTutorialDisable=Vypnout nápovědu
-
 
 tagTutorialTip08Title=Vítejte ve hře Grim Dawn
 tagTutorialTip08TextA=Děkujeme za podporu a pomoc - díky tobě může Grim Dawn existovat! Doufáme, že si užiješ první část hry.{^n}{^n}Měj prosím měj na paměti, že toto je alpha verze hry, která je vytvořená nezávislým týmem o šesti lidech.  Setkáš se s chybami, nedokončnými částmi a jen se zhruba první třetinou hry. Velice uvítáme hlášení o chybách a pocitu z hraní hry na našich fórech na www.grimdawn.com.
@@ -12,118 +11,117 @@ tagTutorialTip09Title=Okno obchodníka
 tagTutorialTip09TextA=Obchodník prodává a nakupuje zbraně nutné pro prežití v oblasti Cairn.
 tagTutorialTip09TextB=V těchto zoufalých dobách není kvalitní vybavení zrovna levné. Obchodník ti nezaplatí příliš mnoho za běžné veci, ale predměty, které jsou očarované, mohou mít cenu výrazně vyšší.{^n}
 
-tagTutorialTip10Title=Brány
-tagTutorialTip10TextA=Zabezpečené Brány ti umožnují rychle cestovat mezi různými lokacemi v oblasti Cairn. Klikni levým tlačítkem na Bránu a otevře se {^y}Mapa Bran{^w}.
-tagTutorialTip10TextB=Objevil jsi Bránu v Dolním rozcestí. Umístění všech Bran, které objevíš, budou nadále přístupné na {^y}Mapě Bran{^w}.
-tagTutorialTip10SubtitleA=Osobnní brána:
-tagTutorialTip10TextC=Protože jsi Éterem dotčený člověk, můžeš otevírat {^y}Osobní brány{^w}. Abys aktivoval svou Osobní bránu, klikni na tlačítko Cestovat bránou ve spodní části obrazovky.
+tagTutorialTip10Title=Portály
+tagTutorialTip10TextA=Zabezpečené portály ti umožnují rychle cestovat mezi různými lokacemi v oblasti Cairn. Klikni levým tlačítkem na portál a otevře se {^y}Mapa portálů{^w}.
+tagTutorialTip10TextB=Objevil jsi portál v Dolním rozcestí. Umístění všech portálů, které objevíš, budou nadále přístupné na {^y}Mapě portálů{^w}.
+tagTutorialTip10SubtitleA=Osobnní portál:
+tagTutorialTip10TextC=Protože jsi Éterem dotčený člověk, můžeš otevírat {^y}Osobní portály{^w}. Abys aktivoval svůj Osobní portál, klikni na tlačítko Cestovat portálem ve spodní části obrazovky.
 tagTutorialTip10CaptionA=Klávesová zkratka: {^b}{%t0}{^w}{^n}
 
-tagTutorialTip11Title=Osobní brána
-tagTutorialTip11TextA=Osobní brány mohou být otevřeny kdekoliv na světě a jsou propojeny se sítí ostatních Bran.
+tagTutorialTip11Title=Osobní portál
+tagTutorialTip11TextA=Osobní portály mohou být otevřeny kdekoliv na světě a jsou propojeny se sítí ostatních postálů.
 tagTutorialTip11CaptionA=Klávesová zkratka: {^b}{%t0}{^w}
-tagTutorialTip11TextB=Stejně jako u klasických Bran, klikni levým tlačítkem myši na svou Osobní bránu a zobrazí se ti {^y}Mapa bran{^w}. Klikni na pozici, kam chceš odcestovat.
-tagTutorialTip11TextC=Tvá Brána zůstane otevřena do doby, než skrz ní přicestuješ zpět. Jakmile se Brána otevře, mohou skrze ni chodit i tví spoluhráči. Vždy můžeš mít v jeden okamžik otevřenou maximálně jednu Osobní bránu.
+tagTutorialTip11TextB=Stejně jako u klasických portálů, klikni levým tlačítkem myši na svůj Osobní portál a zobrazí se ti {^y}Mapa portálů{^w}. Klikni na pozici, kam chceš odcestovat.
+tagTutorialTip11TextC=Tvůj portál zůstane otevřen do doby, než skrz něj přicestuješ zpět. Jakmile se portál otevře, mohou skrze něj cestovat i tvoji spojenci. Vždy můžeš mít v jeden okamžik otevřený maximálně jeden Osobní portál.
 
 tagTutorialTip14Title=Lektvary
 tagTutorialTip14TextA=Lektvary zdraví a energie obnovují zdraví, respektive energii tvé postavy. Pro vypití lektvaru klikni na jeho ikonu na spodní liště a nebo stiskni přidruženou klávesu.
 tagTutorialTip14TextB=Lektvary jsou automaticky přiřazovány na poslední dvě místa na spodní liště. Lektvary můžeš libovolně přemístit tak, že klikneš pravým tlačítkem myši na požadovaný lektvar a přesuneš ho na jiné volné políčko na spodní liště.
 tagTutorialTip14TextC=Pro vypití lektvaru klikni na jeho ikonu na spodní liště a nebo stiskni přidruženou klávesu.
 
-tagTutorialTip15Title=Level Up
-tagTutorialTip15TextA=You have gained a level. Each time your character levels up, you will earn Skill and Attribute points.{^n}{^n}You can assign Skill points in the {^y}Skill Window{^w}.
-tagTutorialTip15CaptionA=Shortcut key: {^b}{%t0}{^w}
-tagTutorialTip15TextB=You can assign Attribute points in the {^y}Character Window{^w}. Each Attribute point increases an attribute by eight.
-tagTutorialTip15CaptionB=Shortcut key: {^b}{%t0}{^w}
+tagTutorialTip15Title=Nová úroveň
+tagTutorialTip15TextA=Získal jsi novou úroveň. Pokaždé, když dosáhneš vyšší úrovně, získáš volné body k dovednostem a atributům.{^n}{^n} Dovednosti body můžeš uplatnit v {^y}Okně dovedností{^w}.
+tagTutorialTip15CaptionA=Klávesová zkratka: {^b}{%t0}{^w}
+tagTutorialTip15TextB=Body atributu můžeš přiřadit v {^y}Okně postavy{^w}. Každý bod atributu zvyšuje konkrétní atribut o 8.
+tagTutorialTip15CaptionB=Klávesová zkratka: {^b}{%t0}{^w}
 tagTutorialTip15TextC=You can track your experience gain on the green bar at the bottom of the HUD and in the {^y}Character Window{^w}. The amount of experience required for your next level is shown on the green bar at the bottom of the HUD and in the {^y}Character Window{^w}. When the bar fills up, you will gain a level.
 
-tagTutorialTip16Title=Character Window
-tagTutorialTip16TextA=Use the {^y}Character Window{^w} to equip items, organize your inventory, spend attribute points and see a summary of your character's stats.
-tagTutorialTip16SubtitleA=Inventory:
-tagTutorialTip16TextB=To equip an item, right-click it from your inventory or move it to an appropriate equipment slot. You may drop an item by moving it out of the character window, or by clicking on it and pressing the "{^b}{%t0}{^w}" key.
-tagTutorialTip16SubtitleB=Attribute Points:
-tagTutorialTip16TextC=Spend attribute points by clicking on the "{^y}+{^w}" buttons to the left of the desired attribute. Each attribute point increases the attribute by 8.
+tagTutorialTip16Title=Okno postavy
+tagTutorialTip16TextA=Použij {^y}Okno postavy{^w} a můžeš svou postavu vybavit předměty, přerovnat si svůj inventář, využít body atributů nebo shlédnout statistiky své postavy.
+tagTutorialTip16SubtitleA=Inventář:
+tagTutorialTip16TextB=Pokud chceš nějaký předmět použít, klikni pravým tlačítkem v inventáři nebo přesuň předmět do adekvátního slotu. Předmět můžeš také odhodit tím, že jej přesuneš mimo okno postavy, nebo na něj klikneš a stiskneš klávesu "{^b}{%t0}{^w}".
+tagTutorialTip16SubtitleB=Body atributů:
+tagTutorialTip16TextC=Body atributů využiješ tak, že klikneš na "{^y}+{^w}" vlevo od požadovaného atributu. Každý bod atributu zvyšuje konkrétní atribut o 8.
 
-tagTutorialTip17Title=Skill Mastery
-tagTutorialTip17TextA=Choosing a skill mastery is a character-defining decision. Different masteries cater to very different play styles, so choose wisely.
-tagTutorialTip17TextB=Once you choose a mastery and apply skill points, you will not be able to revert your mastery selection.
-tagTutorialTip17TextC=You will have the option to select a second mastery when your character reaches level 10.
+tagTutorialTip17Title=Povolání
+tagTutorialTip17TextA=Volba povolání je rozhodnutí, které rýsuje tvou postavu. Různá povolání vede ke zcela jinému hernímu stylu, takže vybírej moudře.
+tagTutorialTip17TextB=Jakmile si vybereš své povolání a investuješ do něj body, nebudeš moci toto povolání už změnit.
+tagTutorialTip17TextC=Jakmile dosáhneš 10. úrovně, budeš si moci zvolit druhé povolání.
 
-tagTutorialTip19Title=Components
-tagTutorialTip19TextA=Components can be used to upgrade your equipment. They always come in fragments, which can be combined for more potent bonuses.{^n}{^n}Legends speak of rare components teeming with ancient power, denoted by a light yellow color.
-tagTutorialTip19TextB=To use a component, right-click on it. You can then merge it with another matching fragment or apply it to an item.
+tagTutorialTip19Title=Komponenty
+tagTutorialTip19TextA=Komponenty mohou být použity k vylepšení tvého vybavení. Vždy je nalezneš jen jako úlomky, které mohou být spojeny dohromady, čímž se zvyšují jejich bonusy.{^n}{^n}Legendy vypráví o vzácných komponentách s pradávnou mocí, které jsou označeny světle žlutou barvou.
+tagTutorialTip19TextB=Pro použití úlomku na něj klikni pravým tlačítkem. Poté ho můžeš buď spojit s jiným úlomkem stejného typu, nebo jej použít na nějaký předmět.
 
-tagTutorialTip20Title=Using Components
-tagTutorialTip20SubtitleA=Attaching Components
-tagTutorialTip20TextA=Right-click a component to select it, then left-click on the item you wish to attach it to. Note that each component can only go in certain item types.
-tagTutorialTip20SubtitleB=Combining Components
-tagTutorialTip20TextB=You can combine component fragments of the same name to create more powerful bonuses. A completed component will generate an additional completion bonus.{^n}{^n}Component fragments of the same type may be attached to items after the first fragment has been applied.
+tagTutorialTip20Title=Použití komponenet
+tagTutorialTip20SubtitleA=Připevňování komponent
+tagTutorialTip20TextA=Pravým tlačítkem myši si vyber komponentu a pak klikni levým tlačítkem myši na předmět, ke kterému chceš komponentu připevnit. Pamatuj, že každá komponenta může být použita pouze na určitém typu předmětů.
+tagTutorialTip20SubtitleB=Skládání komponent
+tagTutorialTip20TextB=Můžeš si skládat jednotlivé úlomky komponent stejného typu do jednoho a získat tak mnohem větší bonusy. Kompletní komponenta pak ještě vytvoří dodatečný bonus za složení.{^n}{^n}Úlomky komponent stejného typu mohou být připevněny k předmětům i poté, co tam byl již jeden úlomek připevněn.
 
-tagTutorialTip21Title=Second Skill Mastery
-tagTutorialTip21TextA=At level 10, you will have the option to select a second mastery. To select your second mastery, open the Skill Window. You are not required to select a second mastery, but you will always have the option after reaching level 10.
+tagTutorialTip21Title=Druhé povolání
+tagTutorialTip21TextA=Po dosažení 10. úrovně si budeš moci vybrat druhé povolání. Pro vybrání druhého povolání otevři okno dovedností. Nemusíš si ho nutně volit, ale stále budeš mít tu možnost po dosažení 10. úrovně.
 
-tagTutorialTip22Title=Skill Window
-tagTutorialTip22TextA=You will earn additional skill points each time you gain a level. Invest these skill points in your mastery level or unlocked skills.
-tagTutorialTip22SubtitleA=Mastery Level
-tagTutorialTip22TextB=If you invest skill points in your skill mastery, you will unlock new tiers of skills. You can increase your mastery level by clicking on the mastery button in the lower left of the {^y}Skill Window{^w}.
-tagTutorialTip22TextC=You must have at least one point in your mastery level to unlock the first skill tier.
-tagTutorialTip22SubtitleB=Skill Level
-tagTutorialTip22TextD=Click on an unlocked skill icon to add points to that skill. The first skill point will allow you to use the ability. Additional skill points will make the ability more powerful.
-tagTutorialTip22TextE=Green lines indicate connections to that skill's modifiers. You must have at least one point in the base skill before you can invest in its modifiers.
+tagTutorialTip22Title=Okno dovedností
+tagTutorialTip22TextA=Vždy když získáš novou úroveň, obdržíš nové dovednostní body. Investuj tyto body do úrovně svého povolání, nebo do odemčených dovedností.
+tagTutorialTip22SubtitleA=Úroveň povolání
+tagTutorialTip22TextB=Pokud investuješ své dovednostní body do úrovně povolání, odemkneš nové řady dovedností. Úroveň svého povolání můžeš zvyšovat tak, že klikneš na tlačítko povolání v levém dolním rohu {^y}Okna dovedností{^w}.
+tagTutorialTip22TextC=Pro odemčení první řadu dovedností, musíš vložit alespoň jeden bod do úrovně svého povolání.
+tagTutorialTip22SubtitleB=Úroveň dovednosti
+tagTutorialTip22TextD=Kliknutím na odemčenou ikonku dovednosti přidáš body do této dovednosti. První bod dovednosti ti umožňí danou dovednost používat. Další body v dovednosti ji učiné mnohem mocnější.
+tagTutorialTip22TextE=Zelené linky označují propojení s dalšími vlastnostmi této dovednosti. Musíš mít alespoň jeden bod v základní dovednosti, než budeš moci investovat body do těchto vlastností.
 
-tagTutorialTip23Title=Skill Assignment
-tagTutorialTip23TextA=Active skills (square icons) need to be assigned to your mouse buttons or Quickbar before you can use them.{^n}{^n}To assign a skill, right-click on a slot in the Quickbar or on the mouse buttons to the right of it and select the desired skill from the menu.
-tagTutorialTip23SubtitleA=Using Skills
-tagTutorialTip23TextB=Activate skills on the Quickbar by left-clicking the icon, or by pressing the assigned shortcut.
-tagTutorialTip23TextC=Passive skills (circular icons) are always active and do not need to be assigned to the Quickbar. Once you assign points to them, they will immediately provide their benefits.{^N}{^N}
+tagTutorialTip23Title=Přiřazení dovednosti
+tagTutorialTip23TextA=Aktivní dovednosti (čtvercové ikonky) musí být přiřazeny na tlačítka myši nebo do panelu rychlých voleb před tím, než jej budeš moci používat.{^n}{^n}Pro přiřazení dovednosti klikni pravým tlačítkem myši do pole v panelu ve spodní části obrazovky, nebo na pole tlačítka myši vpravo od panelu a vyber si z nabídky požadovanou dovednost.
+tagTutorialTip23SubtitleA=Používání dovedností
+tagTutorialTip23TextB=K aktivování dovednosti dojde kliknutím levého tlačítka v panelu rychlých voleb nebo stisknutím přiřazení klávesy.
+tagTutorialTip23TextC=Pasivní dovednosti (kulaté ikonky) jsou vždy aktivní a nemusejí být přiřazené do panelu rychlých voleb. Jakmile jim přidělíš body, okamžitě začnou účinkovat.{^N}{^N}
 
-tagTutorialTip24Title=Death
-tagTutorialTip24TextA=When your health reaches 0, your character will die.{^n}{^n}Take advantage of your character's rapid health regeneration, which activates when out of combat for a few seconds. When that is not enough, remember to use potions and skills to stay alive.
-tagTutorialTip24TextB=When you die, you will lose some experience and your character will respawn in the last sanctuary you visited. The experience penalty will increase as your character gains levels, but you can regain some of the lost experience by recovering your Grave Marker.
+tagTutorialTip24Title=Smrt
+tagTutorialTip24TextA=Když tvé zdraví klesne na 0, tvá postava zemře.{^n}{^n}Využívej možnosti, že se tvá postava může velmi rychle léčit, pokud jsi jen pár sekund mimo souboj. POkud ti ani toto nestačí, pamatuj na používání lektvarů a dovedností, aby tvá postava zůstala naživu.
+tagTutorialTip24TextB=Jkamile zemřeč, přijdeš o nějaké zkušeností a tvá postava ožije v posledním útočišti, které navštívila. Ztráta zkušeností se zvyšuje s přibývající úrovní tvé postavy, ale část z nich můžeš získat zpět, pokud se ti podaří dostat k mohyle, kde tvá postava zemřela.
 
-tagTutorialTip30Title=Assign Your Skills
-tagTutorialTip30TextA=You have unassigned active skills. Active skills need to be assigned to the Quickbar or mouse buttons before you can use them.
-tagTutorialTip30TextB=To assign a skill, right-click on a slot in the Quickbar or on the mouse buttons to the right of it and select the desired skill from the menu.
+tagTutorialTip30Title=Přidělování tvých dovedností
+tagTutorialTip30TextA=Máš nepřidělené aktivní dovednosti. Aktivní dovednosti musí být přiřazeny na panel rychlých voleb nebo na tlačítka myši dříve než je budeš moci použít.
+tagTutorialTip30TextB=Pro přiřazení dovednosti klikni pravým tlačítkem myši do pole v panelu ve spodní části obrazovky, nebo na pole tlačítka myši vpravo od panelu a vyber si z nabídky požadovanou dovednost.
 
-tagTutorialTip31Title=Use Health Potions
-tagTutorialTip31TextA=When your health gets low, consider drinking a health potion. They have a long cooldown, but they restore you to full health. To drink a potion, click on the potion icon on the Quickbar or press the assigned hotkey.
-tagTutorialTip31TextB=You will find potions in chests and from monsters, but you can always purchase more from any merchant if you find yourself running low.
+tagTutorialTip31Title=Používání uzdravujících lektvarů
+tagTutorialTip31TextA=Pokud je úroveň tvého zdraví nízká, zvaž, zda nevypít lektvar. Než budeš moci vypít další, je třeba vyčkat delší prodlevu kvůli svým mocným účinkům. Ovšem lektvar tě plně uzdraví. Pro vypití lektvaru klikni na jeho ikonku v panelu rychlých voleb nebo stiskni přiřazenou klávesovou zkratku.
+tagTutorialTip31TextB=Lektvary můžeš najít v bednách nebo u mrtvých nepřátel, ale pokud ti docházejí, vždy si můžeš nějaké přikoupit u obchodníků.
 
-tagTutorialTip32Title=Use Earned Attribute and Skill Points
-tagTutorialTip32TextA=You have unassigned Attribute and/or Skill points. Attribute points can be used to increase your Cunning, Physique and Spirit by 8 per point. Skill points can be used to increase your mastery level, unlock new skills, or improve skills you have already unlocked.
+tagTutorialTip32Title=Užití získaných bodů atributů a dovedností
+tagTutorialTip32TextA=Máš nepřiřazené body atributů a/nebo dovedností. Body atributů mohou být použity ke zvýšení tvé rafinovanosti, fyzické kondice nebo duchovna o 8 bodů za jeden vložený bod. Body dovedností můžeš použít ke zvýšení úrovně tvého povolání, odemčení nových dovedností, nebo vylepšení dovedností, které již máš odemčené.
 
-tagTutorialTip33Title=Learn Skills
-tagTutorialTip33TextA=You have been investing all of your skill points in the mastery level rather than acquiring skills. When you gain a level, try putting some of your skill points into skills instead.
-tagTutorialTip33TextB=To apply skill points to an ability, click on an unlocked skill icon in the {^y}Skill Window{^w}. The first skill point will allow you to use the ability. Additional skill points will make the ability more powerful.
+tagTutorialTip33Title=Učení dovedností
+tagTutorialTip33TextA=Investoval jsi všechny své body dovedností do úrovně svého povolání místo toho, abys získal nějakou dovednost. Až získáš další úroveň, zkus vložit některý z bodů do některé dovednosti.
+tagTutorialTip33TextB=Abys přidělil body dovednosti k některé schopnosti, klikni na odemčenou ikonku dovednosti v {^y}Okně dovedností{^w}. První bod dovednosti ti umožní použít tuto dovednost. Další body učiní dovednost mnohem mocnější.
 
-tagTutorialTip34Title=Visit a Merchant
-tagTutorialTip34TextA=If your inventory becomes full, you may wish to visit a merchant and sell unwanted items.
-tagTutorialTip34TextB=Merchants can be found in human-controlled sanctuaries, but you may also encounter traveling merchants out in the world. Look for the merchant symbol on the Compass or in the Map Window.
+tagTutorialTip34Title=Návštěva obchodníka
+tagTutorialTip34TextA=Pokud začíná být tvůj inventář přeplněný, měl bys nejspíš navštívit obchodníka a prodat mu nepotřebné předměty.
+tagTutorialTip34TextB=Obchodníky můžeš nalézt v útočištích ovládaných lidmi, ale zrovna tak můžeš potkat nějakého obchodníka toulajícího se po světě. Hledej značku obchodníka na kompasu nebo na mapě.
 
-tagTutorialTip35Title=Pets
-tagTutorialTip35TextA=Pets automatically travel and fight alongside you. If you wish to give your pets direct commands, you can hold down "{^b}{%t0}{^w}" while clicking on the desired pet in the lower left of the screen, then select a target.
-tagTutorialTip35TextB=You can dismiss your pets at any time by right-clicking their portraits and selecting "{^Y}Disband Pet{^w}".
+tagTutorialTip35Title=Spojenci
+tagTutorialTip35TextA=Spojenci automaticky cestují s tebou a bojují po tvém boku. Pokud si přeješ dát svému spojenci přímý rozkaz, můžeš podržet klávesu "{^b}{%t0}{^w}" a kliknout na požadovaného spojence v levém spodním okraji obrazovky a následně si vyber cíl.
+tagTutorialTip35TextB=Svého spojence můžeš kdykoliv propustit pravým kliknutím myši na jeho portrét a zvolením možnosti "{^Y}Propustit spojence{^w}".
 
-tagTutorialTip36Title=Skill Reallocation
-tagTutorialTip36TextA=Spirit Guides allow you to undo your skill point selections. Click on a skill icon in the Spirit Guide's UI to remove one point from that skill. The cost of doing so increases as you remove subsequent skill points.
-tagTutorialTip36TextB=You cannot remove points invested in your Mastery level. In addition, you cannot remove the last point from a skill that has any modifiers with points invested in them.
+tagTutorialTip36Title=Přerozdělení dovedností
+tagTutorialTip36TextA=Průvodci duchovnem ti umožňují odebrat přidělené body dovedností. Kliknutím na ikonku dovednosti u Průvodce se odebere jeden bod dovednosti. Čím více bodů odebereš, tím se zvyšuje cena dalšího odebraného bodu.
+tagTutorialTip36TextB=Nemůžeš odebrat body vložené do úrovně svého povolání. Navíc nemůžeš odebrat ani poslední bod dovednosti, která má přidělené body v některé přídavné vlastnosti.
 
-tagTutorialTip37Title=Smuggler Window
-tagTutorialTip37TextA=The Smuggler can store your items, and even exchange them between your characters! You can access your stash at any Smuggler you find throughout Cairn.
-tagTutorialTip37TextB=You can expand your storage by clicking the Expand Stash button. This will cost you some Iron Bits.{^N}{^N}Click on Item Transfer to share items with your other characters.
+tagTutorialTip37Title=Okno pašeráka
+tagTutorialTip37TextA=Pašerák může uchovávat tvé předměty a nebo je dokonce přesouvat mezi tvými dalšími postavami! K úschovně máš přístup u jakéhokoliv pašeráka, kterého v Cairnu najdeš.
+tagTutorialTip37TextB=Svou prostor pro úschovu předmětů můžeš rozšířit tak, že klikneš na tlačítko Rozšířit místo. Bude tě to stát nějaké železné mince.{^N}{^N}Kliknutím na Přesun předmětů umožníš sdílení předmětů mezi svými dalšími postavami.
 
-tagTutorialTip38Tile=Item Transfer
-tagTutorialTip38TextA=Items placed in the Smuggler's Item Transfer UI are shared between all your characters.
-tagTutorialTip38SubtitleA=Transfer Between Characters
-tagTutorialTip38TextB=To transfer items, place them in the Item Transfer UI. When you load another character, you can access these items from the Smuggler.
-tagTutorialTip38SubtitleB=Transfer Between Players
-tagTutorialTip38TextC=In order to trade items with other player's characters in multiplayer games, you must use the Trade function instead.
+tagTutorialTip38Tile=Přesun předmětů
+tagTutorialTip38TextA=Předměty umístěné v Pašerákově komoře pro přesun předmětů budou sdíleny mezi tvými ostatními postavami.
+tagTutorialTip38SubtitleA=Přesun předmětů mezi postavami
+tagTutorialTip38TextB=Pro přesun předmětů umístit předmět do předávací komory. Jakmile budeš hrát s jinou postavou, předměty u Pašeráka ti budou opět dostupné.
+tagTutorialTip38SubtitleB=Přesun mezi hráči
+tagTutorialTip38TextC=Pro zprosředkování přesunu předmětů mezi hráči v multihře musíš použít funkci obchodu.
 
-tagTutorialTip39Title=Inventor
-tagTutorialTip39TextA=Inventors serve two purposes: removing components from items and crafting new items from blueprints.
-tagTutorialTip39SubtitleA=Blueprints
-tagTutorialTip39CaptionA=A Blueprint and Relic
-tagTutorialTip39TextB=The Inventor requires Blueprints in order to craft items. When the appropriate parts are provided, the item is crafted.
-tagTutorialTip39SubtitleB=Removing Components
-tagTutorialTip39TextC=The Inventor can remove components from items for a fee. Place an item with a component in the Inventor's UI to begin.{^N}{^N}You can recover either the item or the component.{^N}{^N}If you recover the item, the component will be lost. The same goes in reverse.{^N}{^N}
-
+tagTutorialTip39Title=Vynálezce
+tagTutorialTip39TextA=Vynálezci ti slouží ke dvě účelům: odstraňují komponenty z předmětů a vytváří nové předměty podle návodů.
+tagTutorialTip39SubtitleA=Návody
+tagTutorialTip39CaptionA=Návody
+tagTutorialTip39TextB=Vynálezce potřebuje návody, aby mohl vyrábět nové předměty. Jakmile jsou dodány potřebné části, předmět může být vytvořen.
+tagTutorialTip39SubtitleB=Odstraňování komponenet
+tagTutorialTip39TextC=Vynálezce může odstraňovat za poplatek odstraňovat komponenty z předmětů. Umísti předmět s komponentou do Rozkladové komory.{^N}{^N}Můžeš získat zpět buď předmět nebo komponentu.{^N}{^N}Pokud chceš získat předmět, přijdeš o komponentu. To platí i obráceně.{^N}{^N}
