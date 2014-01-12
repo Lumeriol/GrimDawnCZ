@@ -69,7 +69,7 @@ tagSkillClassDescription09=
 tagSkillDefaultAttackName01=Základní útok zbraně
 tagSkillDefaultAttackDescription01=Útoky s nasazenou zbraní.
 
-tagSkillInnate=Vrozená schopnostInnate Ability
+tagSkillInnate=Vrozená schopnost
 tagSkillSumLVL=Roste s úrovní vyvolávání.
 
 tagSkillUsableReady=Dovednost je možno použít

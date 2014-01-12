@@ -1085,10 +1085,10 @@ tagNoteHelp=[Right-Click to Read]
 
 #ItemComponents
 
-tagComponentIncomplete=Partial Component
-tagComponentComplete=Completed Component
+tagComponentIncomplete=Dílčí komponenta
+tagComponentComplete=Celá komponeneta
 tagComponentNumber={%s0 - %d1 / %d2}
-tagComponentBonus=Completed Component Set Bonus
+tagComponentBonus=Bonus za složenou komponentu
 tagComponentQualities=Component Qualities:
 tagComponentHelp=[Right-Click to Apply or Combine]
 tagComponentError=[Cannot Use - Requirements Not Met]
@@ -1345,7 +1345,7 @@ tagCompAetherCrystalDesc="A crystalline shard still lingering with aetherial pow
 tagCompAmmoBox=Ammunition Box
 tagCompAmmoBoxDesc="The resistance can always use more ammunition to hold off the dark forces plaguing Cairn."
 
-tagCompAScrap=Scrap
+tagCompAScrap=Kovový šrot
 tagCompAScrapDesc=Scrap materials such as bolts, leather cords and low-grade metals that can be used to fasten together items or structures.
 
 #Misc
