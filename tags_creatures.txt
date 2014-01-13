@@ -69,9 +69,9 @@ tagChthonianMinionHeroH07=Sharanatu ~ Chráněný
 
 #CreatureCthonianFiend
 
-tagEnemyVoidFiendA01=Neuplatněný zloduch
-tagEnemyVoidFiendA02=Neuplatněná anomálie
-tagEnemyVoidFiendC01=Neuplatněná ohavnost
+tagEnemyVoidFiendA01=Marnivý zloduch
+tagEnemyVoidFiendA02=Anomálie nicoty
+tagEnemyVoidFiendC01=Ohavnost nicoty
 
 tagVoidFiendHeroH01=Innugaru, Zděšení Neuplatněných
 tagVoidFiendHeroH02=Hiln'Raz, the Dark Omen
@@ -104,7 +104,7 @@ tagFleshHulkHeroH04=Festerlis ~ Rváč
 
 #CreatureGazer
 
-tagEnemyGazerA01=Škoditel
+tagEnemyGazerA01=Záškodník
 tagEnemyGazerB01=Dozorce
 tagEnemyGazerC01=Lovec myšlenek
 
@@ -309,7 +309,7 @@ tagInsectSwarmHeroH03=Omnol, Plíseň ~ Nemocný
 #CreatureRaptor
 
 tagEnemyRaptorA_JuvenileA01=Mrchožravý raptor ~ Mládě
-tagEnemyRaptorA_MeleeA01=Mrchožravý raptor ~ lLvec
+tagEnemyRaptorA_MeleeA01=Mrchožravý raptor ~ Lovec
 tagEnemyRaptorA_RangedA01=Mrchožravý raptor ~ Pískle
 tagEnemyRaptorA_ChampionA01=Mrchožravý raptor ~ Pán zmijí
 

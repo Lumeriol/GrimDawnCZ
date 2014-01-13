@@ -8,7 +8,7 @@ tagItemSuffix= %s0
 
 #Weapons
 
-tagWeaponSwordA000=shiv
+tagWeaponSwordA000=nožík
 tagWeaponSwordA001=gladius
 tagWeaponSwordA002=břitva
 tagWeaponSwordA003=krátký meč
@@ -24,9 +24,9 @@ tagWeaponSwordA012=dobyvatelský meč
 tagWeaponSwordA013=šavle
 
 tagWeaponSwordB001=Salazarova suverénní čepel
-tagWeaponSwordB001Desc=^b"Granted to the Blade of Ch'thon for his unwavering service."
-tagWeaponSwordB002=Spektrální široký meč
-tagWeaponSwordB003=Spektrální dlouhý meč
+tagWeaponSwordB001Desc=^b"Vykována z Čepele Ch'thona za jeho neochvějnou službu."
+tagWeaponSwordB002=spektrální široký meč
+tagWeaponSwordB003=spektrální dlouhý meč
 
 tagWeaponSwordC001=Lightning Rod
 tagWeaponSwordC002=Hound's Bite
@@ -63,19 +63,19 @@ tagWeaponSwordD007=Ortus
 tagWeaponSwordD007Desc=^b"The mere sight of this blade fills you with hope."
 
 
-tagWeaponBluntA000=Club
-tagWeaponBluntA001=Ball Mace
-tagWeaponBluntA002=Mace
-tagWeaponBluntA003=Flanged Mace
-tagWeaponBluntA004=Mallet
-tagWeaponBluntA005=Morningstar
-tagWeaponBluntA006=Truncheon
-tagWeaponBluntA007=Bladed Mace
-tagWeaponBluntA008=Bludgeon
-tagWeaponBluntA009=Warhammer
-tagWeaponBluntA010=Scepter
+tagWeaponBluntA000=klacek
+tagWeaponBluntA001=řemdih
+tagWeaponBluntA002=palcát
+tagWeaponBluntA003=obroubený palcát
+tagWeaponBluntA004=palice
+tagWeaponBluntA005=kropáč
+tagWeaponBluntA006=obušek
+tagWeaponBluntA007=ostrý palcát
+tagWeaponBluntA008=kyj
+tagWeaponBluntA009=válečné kladivo
+tagWeaponBluntA010=žezlo
 
-tagWeaponBluntB000=Torch
+tagWeaponBluntB000=Pochodeň
 tagWeaponBluntB001=Warden's Verdict
 tagWeaponBluntB001Desc=^b"It is unclear how many innocent men lost their lives at the mercy of this weapon."
 tagWeaponBluntB002=Warden's Judgement
@@ -112,20 +112,20 @@ tagWeaponBluntD005Desc=^b"Bearer of the seven plagues of the witch god Dreeg."
 tagWeaponBluntD006=Dawnbreaker's Sledge
 
 
-tagWeaponAxeA000=Woodsman's Axe
-tagWeaponAxeA001=Sawblade
-tagWeaponAxeA002=Hatchet
-tagWeaponAxeA003=Double Axe
-tagWeaponAxeA004=Cleaver
-tagWeaponAxeA005=Blade Axe
-tagWeaponAxeA006=Battle Axe
-tagWeaponAxeA007=Crescent Axe
-tagWeaponAxeA008=Heavy Axe
-tagWeaponAxeA009=Bearded Axe
+tagWeaponAxeA000=dřevorubecká sekera
+tagWeaponAxeA001=kotoučová pila
+tagWeaponAxeA002=sekyrka
+tagWeaponAxeA003=sekera se zdvojeným ostřím
+tagWeaponAxeA004=sekáček
+tagWeaponAxeA005=kalač
+tagWeaponAxeA006=bitevní sekera
+tagWeaponAxeA007=půlkruhová sekera
+tagWeaponAxeA008=těžká sekera
+tagWeaponAxeA009=háková sekera
 
-tagWeaponAxeB001=Spectral Cleaver
-tagWeaponAxeB002=Spectral Battle Axe
-tagWeaponAxeB003=Pit Master's Axe
+tagWeaponAxeB001=spektrální sekáček
+tagWeaponAxeB002=spektrální bitevní sekera
+tagWeaponAxeB003=sekera mistra jámy
 
 
 tagWeaponAxeC001=Cruel Edge
@@ -157,16 +157,16 @@ tagWeaponAxeD004Desc=^b"Legends speak of a mortal who, when beseeched by the god
 tagWeaponAxeD005=Damnation
 
 
-tagWeaponGun1hA001=Hand-Blunderbuss
-tagWeaponGun1hA002=Howdah
-tagWeaponGun1hA003=Pepperbox Gun
-tagWeaponGun1hA004=Hand Cannon
-tagWeaponGun1hA005=Revolver
-tagWeaponGun1hA006=Sixgun
-tagWeaponGun1hA007=Derringer
-tagWeaponGun1hA008=Repeater
-tagWeaponGun1hA009=Scope Revolver
-tagWeaponGun1hA010=Volley Gun
+tagWeaponGun1hA001=ruční mušketa
+tagWeaponGun1hA002=pistole howdah
+tagWeaponGun1hA003=pistole pepperbox
+tagWeaponGun1hA004=ruční dělo
+tagWeaponGun1hA005=revolver
+tagWeaponGun1hA006=6-komorový revolver
+tagWeaponGun1hA007=pistole deringer
+tagWeaponGun1hA008=opakovací puška
+tagWeaponGun1hA009=zaměřovací revolver
+tagWeaponGun1hA010=vícehlavňové dělo
 
 tagWeaponGun1hC001=Leander Greene's Hand Cannon
 tagWeaponGun1hC001Desc=^b"Taken from the cold dead hands of the Blackwater bandit."
@@ -203,17 +203,17 @@ tagWeaponGun1hD008=Barrelsmith's Salvo
 tagWeaponGun1hD009=Barrelsmith's Crossfire
 
 
-tagWeaponGun2hA001=Musket
-tagWeaponGun2hA002=Flintlock Rifle
-tagWeaponGun2hA003=Bolt-Action Rifle
-tagWeaponGun2hA004=Blunderbuss
-tagWeaponGun2hA005=Revolving Rifle
-tagWeaponGun2hA006=Repeating Rifle
-tagWeaponGun2hA007=Carbine
-tagWeaponGun2hA008=Breechloading Rifle
-tagWeaponGun2hA009=Revolving Cannon
-tagWeaponGun2hA010=Shotgun
-tagWeaponGun2hA011=Combat Shotgun
+tagWeaponGun2hA001=předovka
+tagWeaponGun2hA002=flinta
+tagWeaponGun2hA003=zaměřovací puška
+tagWeaponGun2hA004=mušketa
+tagWeaponGun2hA005=komorová puška
+tagWeaponGun2hA006=opakovací puška
+tagWeaponGun2hA007=karabina
+tagWeaponGun2hA008=zadovka
+tagWeaponGun2hA009=kanon
+tagWeaponGun2hA010=brokovnice
+tagWeaponGun2hA011=bitevní brokovnice
 
 tagWeaponGun2hC001=The Huntsman
 tagWeaponGun2hC002=The Eye
@@ -240,11 +240,11 @@ tagWeaponGun2hD005=Gutripper
 
 
 tagWeaponCrossbow2hA001=kuše
-tagWeaponCrossbow2hA002=Arbalest
-tagWeaponCrossbow2hA003=Heavy Crossbow
-tagWeaponCrossbow2hA004=Scorpion
+tagWeaponCrossbow2hA002=samostříl
+tagWeaponCrossbow2hA003=těžká kuše
+tagWeaponCrossbow2hA004=škorpion
 
-tagWeaponCrossbow2hB001=Spectral Crossbow
+tagWeaponCrossbow2hB001=spektrální kuše
 
 tagWeaponCrossbow2hC001=Boltspitter
 tagWeaponCrossbow2hC001Desc=^b"A prototype weapon. Unfortunately, its inventor was slain before it could be taken to mass production."
@@ -324,38 +324,38 @@ tagWeaponMelee2hD008=Temporal Arcblade
 tagWeaponMelee2hD009=Wildblood Crusher
 
 
-tagWeaponArcaneA001=Crude Staff
-tagWeaponArcaneA002=Gnargled Staff
-tagWeaponArcaneA003=Pine Staff
-tagWeaponArcaneA004=Ash Staff
-tagWeaponArcaneA005=Cedar Staff
-tagWeaponArcaneA006=Oak Staff
-tagWeaponArcaneA007=Blackwood Staff
+tagWeaponArcaneA001=hrubá hůl
+tagWeaponArcaneA002=sukovitá hůl
+tagWeaponArcaneA003=hůl z borovice
+tagWeaponArcaneA004=hůl z jasanu
+tagWeaponArcaneA005=hůl z cedru
+tagWeaponArcaneA006=hůl z dubu
+tagWeaponArcaneA007=hůl z Černého lesa
 
-tagWeaponCrossbow1hA001=Pistol Crossbow
-tagWeaponCrossbow1hA002=Compound Crossbow
-tagWeaponCrossbow1hA003=Windlass Crossbow
-tagWeaponCrossbow1hA004=Repeating Crossbow
+tagWeaponCrossbow1hA001=kuše se spouští
+tagWeaponCrossbow1hA002=skládaná kuše
+tagWeaponCrossbow1hA003=rumpálová kuše
+tagWeaponCrossbow1hA004=opakovací kuše
 
 
 #Shields
 
-tagShieldA000=Plank Shield
-tagShieldA001=Buckler
-tagShieldA002=Round Shield
-tagShieldA003=Heater Shield
-tagShieldA004=Tower Shield
-tagShieldA005=Riot Shield
-tagShieldA006=War Shield
-tagShieldA007=Aegis
-tagShieldA008=Targe
-tagShieldA009=Rondache
-tagShieldA010=Kite Shield
+tagShieldA000=dřevěný štít
+tagShieldA001=pukléř
+tagShieldA002=kulatý štít
+tagShieldA003=erbový štít
+tagShieldA004=vysoký štít
+tagShieldA005=povstalecký štít
+tagShieldA006=válečný štít
+tagShieldA007=egida
+tagShieldA008=kruhový štít
+tagShieldA009=vypouklý štít
+tagShieldA010=pavéza
 
-tagShieldB001=Warden's Bulwark
-tagShieldB001Desc=^b"Forged from hardened steel and ruthless hatred."
-tagShieldB002=Warden's Fortress
-tagShieldB003=Spectral War Shield
+tagShieldB001=Wardenova hradba
+tagShieldB001Desc=^b"Kovaná z kalené oceli s bezohlednou nenávistí."
+tagShieldB002=Wardenono opevnění
+tagShieldB003=Spektrální válečný štít
 
 tagShieldC001=Defender of Devil's Crossing
 tagShieldC002=Elementium
@@ -397,38 +397,38 @@ tagQualityShieldA10=Imperial
 
 #Focus
 
-tagFocusA001=Musty Tome
-tagFocusA002=Fleshbound Tome
-tagFocusA003=Runebound Archive
-tagFocusA004=Leatherbound Spellbook
-tagFocusA005=Eldritch Tome
-tagFocusA006=Arcane Codex
+tagFocusA001=plesnivá bible
+tagFocusA002=mmasem svázaná bible
+tagFocusA003=runami popsaná kniha
+tagFocusA004=kůží svázaná kniha kouzel
+tagFocusA005=podivná bible
+tagFocusA006=tajmný kodex
 
-tagFocusA007=Runed Bone
-tagFocusA008=Fiendish Effigy
-tagFocusA009=Etched Horn
-tagFocusA010=Glyphed Skull
-tagFocusA011=Savage Wand
-tagFocusA012=Eldritch Wand
+tagFocusA007=runová kost
+tagFocusA008=ďáblova podobizna
+tagFocusA009=vyleptaný roh
+tagFocusA010=lebka s piktogramem
+tagFocusA011=barbarská hůlka
+tagFocusA012=podivná hůlka
 
 tagFocusB001=Zarthuzellan's Codex
 tagFocusB001Desc=^b"Filled with fiery invocations to consecrate the nonbelievers."
 
-tagFocusC001=Dementia
-tagFocusC002=Crushing Will
-tagFocusC003=Maiven's Tome
-tagFocusC004=Heretic's Tome
-tagFocusC005=Malformed Effigy
-tagFocusC006=Banshee's Misery
-tagFocusC006Desc=^b"Wails of misery emanate from this tome with every page turn."
-tagFocusC007=Wyrmclaw
-tagFocusC008=Black Grimoire of Og'Napesh
-tagFocusC008Desc=^b"The dark writings of Og'Napesh, condemned necromancer."
-tagFocusC009=Edrick's Backscratcher
-tagFocusC010=Sacred Texts of Menhir
-tagFocusC010Desc=^b"Scripture once carried by the devout knights of Menhir."
-tagFocusC011=Nocturnis
-tagFocusC012=Channeling Orb of the Covenant
+tagFocusC001=Demence
+tagFocusC002=Zdrcující vůle
+tagFocusC003=Maivenova Bible
+tagFocusC004=Kacířská Bible
+tagFocusC005=Znetvořená podobizna
+tagFocusC006=Smrtelné trápení
+tagFocusC006Desc=^b"Nářek a utrpení vychází z každí další otočené stránky této knihy."
+tagFocusC007=Dračí dráp
+tagFocusC008=Černý grimoár Og'Napeshe
+tagFocusC008Desc=^b"Temné spisy Og'Napeshe, odsouzeného nekromanta."
+tagFocusC009=Edrikovo škrabadlo zad
+tagFocusC010=Posvátné texty z Menhiru
+tagFocusC010Desc=^b"Písmo kdysi donesené Menhirskými zbožnými rytíři."
+tagFocusC011=Nokturnis
+tagFocusC012=Vědoucí koule úmluvy
 
 tagFocusD001=Fiend's Resolve
 tagFocusD002=Aldanar's Vanity
@@ -522,20 +522,20 @@ tagStyle040=Apprentice
 
 #ArmorHead
 
-tagHeadA001=Helm
-tagHeadA002=Cap
-tagHeadA003=Helmet
-tagHeadA004=Mask
-tagHeadA005=Coif
-tagHeadA006=Basinet
-tagHeadA007=Casque
-tagHeadA008=Hat
-tagHeadA009=Visage
-tagHeadA010=Cowl
-tagHeadA011=Hood
-tagHeadA012=Circlet
-tagHeadA013=Diadem
-tagHeadA014=Coronet
+tagHeadA001=helma
+tagHeadA002=čepec
+tagHeadA003=přilba
+tagHeadA004=maska
+tagHeadA005=čepka
+tagHeadA006=rytířská helma
+tagHeadA007=přilbice
+tagHeadA008=klobouk
+tagHeadA009=kšilt
+tagHeadA010=kutna
+tagHeadA011=kapuce
+tagHeadA012=čelenka
+tagHeadA013=diadém
+tagHeadA014=korunka
 
 tagHeadC001=Stormcaller's Circlet
 tagHeadC002=Berserker's Cowl
@@ -582,12 +582,12 @@ tagHeadD010=Archmage's Hat
 
 #ArmorShoulders
 
-tagShoulderA001=Spaulders
-tagShoulderA002=Mantle
-tagShoulderA003=Shoulderguard
-tagShoulderA004=Epaulets
-tagShoulderA005=Shoulderplates
-tagShoulderA006=Pauldrons
+tagShoulderA001=rytířské nárameníky
+tagShoulderA002=rukávky
+tagShoulderA003=chrániče ramen
+tagShoulderA004=nárameníky
+tagShoulderA005=plátované nárameníky
+tagShoulderA006=skládané nárameníky
 
 tagShoulderC001=Razorback's Spined Mantle
 tagShoulderC001Desc=^b"Stitched together from the carcass of Razorback."
@@ -625,24 +625,24 @@ tagShoulderD010=Archamge's Mantle
 
 #ArmorTorso
 
-tagTorsoA000=Clothing
-tagTorsoA001L=Coat
-tagTorsoA002L=Doublet
-tagTorsoA003L=Cuirass
-tagTorsoA004L=Hauberk
-tagTorsoA005H=Armor
-tagTorsoA006H=Trenchcoat
-tagTorsoA007H=Surcoat
-tagTorsoA008H=Chainmail
-tagTorsoA009H=Platemail
-tagTorsoA010M=Jacket
-tagTorsoA011M=Breastplate
-tagTorsoA012M=Chestguard
-tagTorsoA013M=Harness
-tagTorsoA014C=Tunic
-tagTorsoA015C=Vestment
-tagTorsoA016C=Raiment
-tagTorsoA017C=Robe
+tagTorsoA000=hadry
+tagTorsoA001L=kabát
+tagTorsoA002L=uniforma
+tagTorsoA003L=kyrys
+tagTorsoA004L=drátěná košile
+tagTorsoA005H=brnění
+tagTorsoA006H=pláštěnka
+tagTorsoA007H=plášť
+tagTorsoA008H=kroužkové brnění
+tagTorsoA009H=plátované brnění
+tagTorsoA010M=bunda
+tagTorsoA011M=hrudní plát
+tagTorsoA012M=hrudní chránič
+tagTorsoA013M=postroj
+tagTorsoA014C=tunika
+tagTorsoA015C=háv
+tagTorsoA016C=roucho
+tagTorsoA017C=róba
 
 tagTorsoC001=
 tagTorsoC002=Ornate Chestguard
@@ -691,14 +691,14 @@ tagTorsoM003=Bloodstained Robes
 
 #ArmorWaist
 
-tagWaistA001=Cloth Strap
-tagWaistA002=Woven Cord
-tagWaistA003=Hide Sash
-tagWaistA004=Leather Belt
-tagWaistA005=Chain Belt
-tagWaistA006=Infantry Waistguard
-tagWaistA007=Platemail Girdle
-tagWaistA008=Imperial Belt
+tagWaistA001=plátěný hadr
+tagWaistA002=tkaná šňůra
+tagWaistA003=kožená pelerína
+tagWaistA004=kožený opasek
+tagWaistA005=řetez
+tagWaistA006=opasek pěší stráže
+tagWaistA007=Plátovaný opasek
+tagWaistA008=císařský písek
 
 tagWaistC001=Oldenar's Stabilizer
 tagWaistC002=Frizzick's Utility Pack
@@ -728,16 +728,16 @@ tagWaistD007=Spellbreaker Waistguard
 tagWaistD007Desc=^b"Waistguard worn by the Spellbreaker regiment, a selective group of paladins within the Templar of Menhir."
 tagWaistD008=Phantom-Thread Girdle
 tagWaistD008Desc=^b"Woven using thread spun upon the Satan's Spindle from the souls of the damned."
-tagWaistD009=Wildblood Girdle
+tagWaistD009=Opasek divoké krve
 
 
 #ArmorHands
 
-tagHandsA001=Gloves
-tagHandsA002=Vambraces
-tagHandsA003=Gauntlets
-tagHandsA004=Grips
-tagHandsA005=Handguards
+tagHandsA001=rukavice
+tagHandsA002=* Vambraces
+tagHandsA003=rytířské rukavice
+tagHandsA004=* Grips
+tagHandsA005=* Handguards
 
 tagHandsC001=Shadow's Grasp
 tagHandsC002=Zealot's Gauntlets
@@ -773,12 +773,12 @@ tagHandsD009=Archmage's Handwraps
 
 #ArmorLegs
 
-tagLegsA001=Pants
-tagLegsA002=Leggings
-tagLegsA003=Legwraps
-tagLegsA004=Breeches
-tagLegsA005=Chausses
-tagLegsA006=Legguards
+tagLegsA001=spodky
+tagLegsA002=kamaše
+tagLegsA003=omotávky
+tagLegsA004=kalhoty
+tagLegsA005=nohavice
+tagLegsA006=náholeníky
 
 tagLegsC001=Mistwalker Leggings
 tagLegsC002=Hermit's Legguards
@@ -812,11 +812,11 @@ tagLegsD008=Archmage's Leggings
 
 #ArmorFeet
 
-tagFeetA001=Footpads
-tagFeetA002=Boots
-tagFeetA003=Greaves
-tagFeetA004=Sabatons
-tagFeetA005=Treads
+tagFeetA001=žabky
+tagFeetA002=boty
+tagFeetA003=pohorky
+tagFeetA004=sabatony
+tagFeetA005=sandály
 
 tagFeetC001=Molten Walkers
 tagFeetC002=Windborne Greaves
@@ -1081,272 +1081,272 @@ tagSuppliesA004Description=Even in death, the eye of a gazer holds lingering pow
 
 #ItemNote
 
-tagNoteHelp=[Right-Click to Read]
+tagNoteHelp=[pravým kliknitím přečti]
 
 #ItemComponents
 
 tagComponentIncomplete=Dílčí komponenta
-tagComponentComplete=Celá komponeneta
+tagComponentComplete=Celá komponenta
 tagComponentNumber={%s0 - %d1 / %d2}
 tagComponentBonus=Bonus za složenou komponentu
-tagComponentQualities=Component Qualities:
-tagComponentHelp=[Right-Click to Apply or Combine]
-tagComponentError=[Cannot Use - Requirements Not Met]
-tagComponentConfirmation=Are you sure you want to complete this combination?
+tagComponentQualities=Vlastnosti komponenety:
+tagComponentHelp=[pravým kliknutím použij nebo zkombinuj]
+tagComponentError=[nelze použít - nesplňuješ podmínky]
+tagComponentConfirmation=Opravdu chceš složit tuto kombinaci?
 
-tagCompA001Name=Spined Carapace
+tagCompA001Name=Hřbetní krunýř
 tagCompA001Desc=^b"A thick carapace lined with jagged spines."^w^n(Used in all armor)
 
-tagCompA002Name=Ballistic Plating
+tagCompA002Name=Oplátovaná střela
 tagCompA002Desc=^b"Fragments of old armor designed to withstand arrows, bolts, and bullets."^w^n(Used in chest armor)
 
-tagCompA003Name=Sanctified Bone
+tagCompA003Name=Posvěcená kost
 tagCompA003Desc=^b"Desecrated bones made pure again by priests of various faiths."^w^n(Used in chest armor)
 
-tagCompA004Name=Leathery Hide
+tagCompA004Name=Hrubá kůže
 tagCompA004Desc=^b"A thick hide with a rough surface, perfect for absorbing sudden shocks."^w^n(Used in head armor)
 
-tagCompA005Name=Runestone
+tagCompA005Name=Runový kámen
 tagCompA005Desc=^b"A mysterious rune decorates this stone."^w^n(Used in head armor)
 
-tagCompA006Name=Mutagenic Ichor
+tagCompA006Name=Mutagenní krev bohů
 tagCompA006Desc=^b"Discharge from the creatures of Cairn infected with otherwordly energies."^w^n(Used in all weapons, shields and off-hands)
 
-tagCompA007Name=Rotten Heart
+tagCompA007Name=Shnilé srdce
 tagCompA007Desc=^b"A long silenced heart shriveled with necromantic power."^w^n(Used in chest armor)
 
-tagCompA008Name=Mutated Scales
-tagCompA008Desc=^b"Unusually thick, tough scales mutated by exposure to Aetherial energy."^w^n(Used in chest and shoulder armor)
+tagCompA008Name=* Zmutované šupiny (váhy)
+tagCompA008Desc=^b"Neobvykle silné a těžké šupiny zmutované působením Éterické energie."^w^n(Used in chest and shoulder armor)
 
-tagCompA009Name=Corpse Dust
+tagCompA009Name=Prach z mrtvoly
 tagCompA009Desc=^b"Dust derived from the freshly deceased, often used for witchcraft and enchantments."^w^n(Used in rings and amulets)
 
-tagCompA010Name=Soul Shard
+tagCompA010Name=Střepina duše
 tagCompA010Desc=^b"A magical gem used by witch hunters rumored to trap the souls of the damned."^w^n(Used in amulets and medals)
 
-tagCompA011Name=Ectoplasm
+tagCompA011Name=Ektoplazma
 tagCompA011Desc=^b"A gelatinous residue sometimes left behind by non-corporeal entities."^w^n(Used in rings and amulets)
 
-tagCompA012Name=Blessed Steel
+tagCompA012Name=Požehnaná ocel
 tagCompA012Desc=^b"Steel blessed by the priests of Menhir to vanquish the spreading darkness."^w^n(Used in all weapons, shields and off-hands)
 
-tagCompA013Name=Venomous Fang
+tagCompA013Name=Jedovatý tesák
 tagCompA013Desc=^b"A ferocious fang still dripping with foul toxins."^w^n(Used in melee weapons)
 
-tagCompA014Name=Purified Salt
+tagCompA014Name=Rafinovaná sůl
 tagCompA014Desc=^b"Rock salt extracted for the exorcism and deterrence of otherworldly demons."^w^n(Used in all weapons, shields and off-hands)
 
-tagCompA015Name=Hollowed Fang
+tagCompA015Name=Dutý tesák
 tagCompA015Desc=^b"A curved fang intended for the consumption of vital fluids."^w^n(Used in all weapons, shields and off-hands)
 
-tagCompA016Name=Severed Claw
+tagCompA016Name=Odseknutý dráp
 tagCompA016Desc=^b"A ruthless claw torn from the limb of a mighty beast."^w^n(Used in all weapons, shields and off-hands)
 
-tagCompA017Name=Imbued Silver
+tagCompA017Name=Zabarvené stříbro
 tagCompA017Desc=^b"Silver dust enhanced with powerful sorcery."^w^n(Used in all weapons, shields and off-hands)
 
-tagCompA018Name=Vicious Spikes
-tagCompA018Desc=^b"Savage spikes from an unnatural being."^w^n(Used in shields and off-hands)
+tagCompA018Name=Zlomyslné hroty
+tagCompA018Desc=^b"Divoké hroty z nepřirozené bytosti."^w^n(Může vylepšit štíty a předměty do ruky)
 
-tagCompA019Name=Radiant Gem
-tagCompA019Desc=^b"A reflective gem that shimmers with the elements."^w^n(Used in shields and off-hands)
+tagCompA019Name=Zářivý klenot
+tagCompA019Desc=^b"Lesknoucí se klenot, který hraje všemi barvami."^w^n(Může vylepšit štíty a předměty do ruky)
 
-tagCompA020Name=Hell's Bane Ammo
+tagCompA020Name=Peklem prokletá střela
 tagCompA020Desc=^b"Consecrated ammunition intended to inflict great pain upon those of impure intent."^w^n(Used in guns and crossbows)
 
-tagCompA021Name=Deathchill Bolts
+tagCompA021Name=Smrtelně ledové šipky
 tagCompA021Desc=^b"Deliver the cold chill of death upon your enemies."^w^n(Used in guns and crossbows)
 
-tagCompA022Name=Aether Soul
+tagCompA022Name=Éterická duše
 tagCompA022Desc=^b"A stone vibrating with energy, often left behind by Aetherial beings destroyed in the material plane."^w^n(Used in amulets and medals)
 
-tagCompA023Name=Rigid Shell
-tagCompA023Desc=^b"A tough shell seemingly impervious to shock."^w^n(Used in all armor)
+tagCompA023Name=Tuhá skořepina
+tagCompA023Desc=^b"Tvrdá skořepina zdánlivě odolná vůči nárazům."^w^n(Může vylepšit všechny druhy zbroje.)
 
-tagCompA024Name=Molten Skin
-tagCompA024Desc=^b"A thick layer of skin from a fiery creature."^w^n(Used in all armor)
+tagCompA024Name=Rozžhavená kůže
+tagCompA024Desc=^b"Silná vrstva kůže z ohnivého stvoření."^w^n(Může vylepšit všechny druhy zbroje.)
 
-tagCompA025Name=Enchanted Flint
+tagCompA025Name=Očarovaný pazourek
 tagCompA025Desc=^b"This enchanted flint will impart a spirit of flame within any weapon it caresses."^w^n(Used in melee weapons)
 
-tagCompA026Name=Coldstone
+tagCompA026Name=Studený kámen
 tagCompA026Desc=^b"In folklore, these mysterious stones that radiate cold are said to be the hearts of banished revenants."^w^n(Used in melee weapons)
 
-tagCompA027Name=Amber
+tagCompA027Name=Jantar
 tagCompA027Desc=^b"It is said that sometimes storm spirits become entrapped in the crystalized sap of lightning struck trees."^w^n(Used in melee weapons)
 
-tagCompA028Name=Vitriolic Gallstone
-tagCompA028Desc=^b"Vitriolic stones formed in the bile of foul beasts."^w^n(Used in melee weapons)
+tagCompA028Name=Žíravý žlučníkový kámen
+tagCompA028Desc=^b"Jedovaté kameny vytvořené ve žluči odporných bestií."^w^n(Může vylepšit zbraně na blízko.)
 
-tagCompA029Name=Blessed Whetstone
+tagCompA029Name=Blahořečený brousek
 tagCompA029Desc=^b"Sharpens even the sharpest of edges, increasing the damage that penetrates enemy armor."^w^n(Used in axes and swords)
 
-tagCompA030Name=Silk Swatch
-tagCompA030Desc=^b"Western nomads have long known that layered silk can envelop and slow the penetration of piercing projectiles."^w^n(Used in shoulder, chest and leg armor)
+tagCompA030Name=Vzorek hedvábí
+tagCompA030Desc=^b"Západní kočovníci již dlouho vědí, že vrstvené hedvábí může zahalit tělo a zpomalit průnik bodavých úderů."^w^n(Může vylepšit ramenní, hrudní a nožní zbroje)
 
-tagCompA031Name=Scaled Hide
+tagCompA031Name=Odloupnutá kůže
 tagCompA031Desc=^b"These dense but lightweight scales can be layered onto armor for extra protection."^w^n(Used in shoulder, chest and leg armor)
 
-tagCompA032Name=Flintcore Bolts
-tagCompA032Desc=^b"The enchanted core sparks flame with any surface."^w^n(Used in guns and crossbows)
+tagCompA032Name=Šipky z tvrdého pazourku
+tagCompA032Desc=^b"Jádro kamene očarované jiskrami plamene."^w^n(Může vylepšit pušky a kuše)
 
-tagCompA033Name=Venom-Tipped Ammo
+tagCompA033Name=Munice s jedovatým hrotem
 tagCompA033Desc=^b"Toxins from a poisonous maw coat the tip of this ammunition."^w^n(Used in guns and crossbows)
 
-tagCompA034Name=Mark of the Traveler
+tagCompA034Name=Znamení cestovatele
 tagCompA034Desc=^b"Travelers used these marks when passing through wild country, so as not to be mistaken as hunters by Mogdrogen, the beast god."^w^n(Used in boots)
 
-tagCompA035Name=Consecrated Wrappings
+tagCompA035Name=Zasvěcená obálka
 tagCompA035Desc=^b"Blood stained wrappings worn by Ch'thonic cultists."^w^n(Used in hand armor)
 
-tagCompA036Name=Restless Remains
+tagCompA036Name=Nepokojné ostatky
 tagCompA036Desc=^b"The remains of a tortured being denied its rightful peace."^w^n(Used in hand armor)
 
-tagCompA037Name=Dense Fur
+tagCompA037Name=HUstá srst
 tagCompA037Desc=^b"A dense coat of fur perfect for harsh winter conditions."^w^n(Used in all armor)
 
-tagCompA038Name=Serrated Spike
+tagCompA038Name=Zoubkovaný hrot
 tagCompA038Desc=^b"A flimsy but extremely sharp spike from a beast."^w^n(Used in all weapons, shields and off-hands)
 
-tagCompA039Name=Searing Ember
+tagCompA039Name=Žhavý popel
 tagCompA039Desc=^b"An everlasting ember from a burnt-down home."^w^n(Used in all weapons, shields and off-hands)
 
-tagCompA040Name=Chilled Steel
+tagCompA040Name=Chladná ocel
 tagCompA040Desc=^b"This steel is infused with a chilling winter wind."^w^n(Used in all weapons, shields and off-hands)
 
-tagCompA041Name=Cracked Lodestone
-tagCompA041Desc=^b"Sparks of energy jump across its surface."^w^n(Used in all weapons, shields and off-hands)
+tagCompA041Name=Prasklý magnetovec
+tagCompA041Desc=^b"Po jeho povrchu poskakují jisrky energie."^w^n(Může vylepšit všechny zbraně, štíty a předměty do ruky)
 
-tagCompA042Name=Chipped Claw
+tagCompA042Name=Odštípnutý dráp
 tagCompA042Desc=^b"A claw from a ruthless predator that finally met its match."^w^n(Used in all weapons, shields and off-hands)
 
-tagCompA043Name=Scavenged Plating
-tagCompA043Desc=^b"Plating from armor that's seen better days."^w^n(Used in all armor)
+tagCompA043Name=Zmršené plátování
+tagCompA043Desc=^b"Plátování ze zbroje, která už zažila lepší časy."^w^n(Může vylepšit všechny zbroje)
 
-tagCompA044Name=Bristly Fur
+tagCompA044Name=Zježená srst
 tagCompA044Desc=^b"A thick patch of fur from an unnatural beast."^w^n(Used in all armor)
 
-tagCompA045Name=Resilient Plating
+tagCompA045Name=Odolné plátování
 tagCompA045Desc=^b"A plate of armor that's survived countless battles and looks fit to survive many more."^w^n(Used in shields, off-hands, chest and shoulder armor)
 
-tagCompA046Name=Polished Emerald
+tagCompA046Name=Vyleštěný smaragd
 tagCompA046Desc=^b"A fine gem polished to perfection."^w^n(Used in shields, rings, head and chest armor)
 
-tagCompA047Name=Frozen Heart
+tagCompA047Name=Zmrzlé srdce
 tagCompA047Desc=^b"Eternally encased in black ice."^w^n(Used in rings)
 
-tagCompA048Name=Roiling Blood
+tagCompA048Name=Vířící krev
 tagCompA048Desc=^b"Bubbling with the rage that once fueled it."^w^n(Used in rings and amulets)
 
-tagCompA049Name=Wardstone
-tagCompA049Desc=^b"A stone etching of an ancient protective symbol."^w^n(Used in amulets)
+tagCompA049Name=Kámen ochrany
+tagCompA049Desc=^b"Kámen s vyleptaným starověkým ochranným symbolem."^w^n(Může vylepšit amulety)
 
-tagCompA050Name=Focusing Prism
+tagCompA050Name=Zaměřující hranol
 tagCompA050Desc=^b"Used by arcanists to channel their powers during particularly straining rituals."^w^n(Used amulets)
 
-tagCompA051Name=Black Tallow
+tagCompA051Name=Černý ĺůj
 tagCompA051Desc=^b"Tallow from a candle burnt during Chthonic rituals."^w^n(Used in amulets and medals)
 
-tagCompA052Name=Vengeful Wraith
-tagCompA052Desc=^b"A spirit of vengeance."^w^n(Used in amulets and medals)
+tagCompA052Name=Pomstychtivý přízrak
+tagCompA052Desc=^b"Duch pomsty."^w^n(Může vylepšit amulety a medaile)
 
-tagCompA053Name=Mark of Illusions
+tagCompA053Name=Znamení iluze
 tagCompA053Desc=^b"A symbol of power used in many inscriptions."^w^n(Used in rings and amulets)
 
-tagCompA054Name=Vicious Jawbone
+tagCompA054Name=Zlomyslná čelist
 tagCompA054Desc=^b"The jaw of a beast built to snap bones as if they were sticks."^w^n(Used in amulets and medals)
 
-tagCompA055Name=Wrathstone
+tagCompA055Name=Kámen hněvu
 tagCompA055Desc=^b"It vibrates at the slightest contact with living flesh."^w^n(Used in melee weapons)
 
-tagCompA056Name=Riftstone
-tagCompA056Desc=^b"Teeming with the raw power of a riftgate."^w^n(Used in melee weapons)
+tagCompA056Name=Portálový kámen
+tagCompA056Desc=^b"Hemží se v něm surová síla trhající vzduch."^w^n(Může vylepšit zbraně na blízko)
 
-tagCompA057Name=Aethersteel Bolts
+tagCompA057Name=Éterické šipky
 tagCompA057Desc=^b"Augmented with the essence of Aetherial monstrosities."^w^n(Used in guns and crossbows)
 
-tagCompA058Name=Void-Touched Ammo
+tagCompA058Name=Prázdnotou dotčená munice
 tagCompA058Desc=^b"Dipped in fresh Chthonian blood."^w^n(Used in guns and crossbows)
 
-tagCompA059Name=Aethersteel Alloy
+tagCompA059Name=Slitina Éteru a ocele
 tagCompA059Desc=^b"An exceptionally light yet durable metal."^w^n(Used in shields)
 
-tagCompA060Name=Battered Shell
+tagCompA060Name=Otlučená skořápka
 tagCompA060Desc=^b"A shell that has survived seemingly impossible blows."^w^n(Used in shields)
 
-tagCompA061Name=Viscous Venom
+tagCompA061Name=Viskózní jed
 tagCompA061Desc=^b"Acidic bile from a particularly toxic creature."^w^n(Used in all armor)
 
 
-tagCompB001Name=^kBindings of Bysmiel
+tagCompB001Name=^kBysmielova vazba
 tagCompB001Desc=^b"Spellwoven bindings used by the coven of Bysmiel to strengthen control over summoned beings."^w^n(Used in chest armor)
 
-tagCompB002Name=^kChains of Oleron
+tagCompB002Name=^kOleronovy řetězy
 tagCompB002Desc=^b"The broken chains once used to contain the fury of the deity Oleron."^w^n(Used in chest armor)
 
-tagCompB003Name=^kHallowed Ground
+tagCompB003Name=^kPosvátná zemina
 tagCompB003Desc=^b"Dirt from the base of the standing stones of Menhir."^w^n(Used in chest armor)
 
-tagCompB004Name=^kPrismatic Diamond
+tagCompB004Name=^kHranolový diamant
 tagCompB004Desc=^b"The core shimmers with untold power."^w^n(Used in head armor)
 
-tagCompB005Name=^kSpellwoven Threads
+tagCompB005Name=^kKouzlem tkané vlákno
 tagCompB005Desc=^b"Strips of fabric cut from the death shroud of a once powerful magi."^w^n(Used in hand armor)
 
-tagCompB006Name=^kUnholy Inscription
-tagCompB006Desc=^b"Words of power from an ancient language that cannot be spoken by mortal men."^w^n(Used in hand armor)
+tagCompB006Name=^kBezbožné věnování
+tagCompB006Desc=^b"Slova moci ze starověkého jazyka, které smrtelník nemůže vyslovit."^w^n(Může vylepšit zbroj na rukou)
 
-tagCompB007Name=^kAncient Armor Plate
+tagCompB007Name=^kStarodávný pancíř
 tagCompB007Desc=^b"Plating from a once mighty set of armor."^w^n(Used in chest and leg armor)
 
-tagCompB008Name=^kArcane Lens
+tagCompB008Name=^kTajemná čočka
 tagCompB008Desc=^b"A locus for the arcane flows of the universe."^w^n(Used in amulets)
 
-tagCompB009Name=^kDevil-Touched Ammo
+tagCompB009Name=^kĎáblem dotčená munice
 tagCompB009Desc=^b"Infused with sacrilegious flame."^w^n(Used in guns and crossbows)
 
-tagCompB010Name=^kSilvercore Bolts
-tagCompB010Desc=^b"Purge evil with the faintest scratch."^w^n(Used in guns and crossbows)
+tagCompB010Name=^kStříbřité šipky
+tagCompB010Desc=^b"Zlem vyčištěné od nejjemnějšího poškrábání."^w^n(Může vylepšit pušky a kuše)
 
-tagCompB011Name=^kSymbol of Solael
+tagCompB011Name=^kSolaelův symbol
 tagCompB011Desc=^b"A secret symbol used by followers of Solael to identify themselves to one another."^w^n(Used in all weapons, shields and off-hands)
 
-tagCompB012Name=^kMark of Dreeg
+tagCompB012Name=^kDreegovo znamení
 tagCompB012Desc=^b"An inscription of a lidless eye dripping tears of vitriolic blood."^w^n(Used in all weapons, shields and off-hands)
 
-tagCompB013Name=^kHaunted Steel
+tagCompB013Name=^kStrašidelná ocel
 tagCompB013Desc=^b"It fills your mind with the maddening whispers of trapped spirits."^w^n(Used in all weapons, shields and off-hands)
 
-tagCompB014Name=^kShard of Beronath
-tagCompB014Desc=^b"But a piece of the legendary blade Beronath, yet still retains great power."^w^n(Used in axes and swords)
+tagCompB014Name=^kBeronathův střep
+tagCompB014Desc=^b"Kousek legendárního Beronathova nože, přesto si stále zachovává své ostří."^w^n(Může vylepšit sekery a meče)
 
-tagCompB015Name=^kBloody WhetStone
+tagCompB015Name=^kKrvavý brousek
 tagCompB015Desc=^b"Soaked in the blood of the fallen, this accursed whetstone gives blades a hunger for blood."^w^n(Used in axes and swords)
 
-tagCompB016Name=^kAttuned Lodestone
+tagCompB016Name=^kNaladěný magnetovec
 tagCompB016Desc=^b"These rare and potent stones still echo with the thunder of the storm that birthed them."^w^n(Used in amulets and medals)
 
-tagCompB017Name=^kMark of Mogdrogen
+tagCompB017Name=^kMogdrogenovo znamení
 tagCompB017Desc=^b"A secret mark worn by druidic worshipers of Mogdrogen, the beast god."^w^n(Used in boots)
 
-tagCompB018Name=^kDread Skull
+tagCompB018Name=^kDěsivá lebka
 tagCompB018Desc=^b"An assassin's symbol granted upon the acceptance of a particularly dangerous bounty."^w^n(Used in amulets)
 
-tagCompB019Name=^kArcane Spark
+tagCompB019Name=^kTajemná jiskra
 tagCompB019Desc=^b"A spark of the purest arcane energy."^w^n(Used in amulets)
 
-tagCompB020Name=^kMark of the Myrmidon
+tagCompB020Name=^kMyrmidonské znamení
 tagCompB020Desc=^b"A powerful symbol bestowed upon the most fearless battle lords."^w^n(Used in shields)
 
 
-tagCompAetherCrystal=Aether Crystal
-tagCompAetherCrystalDesc="A crystalline shard still lingering with aetherial power.  Can be used in the creation of arcane items."
+tagCompAetherCrystal=Éterický krystal
+tagCompAetherCrystalDesc="Střep krystalu s přetrvávající mocí Éteru.  Může být použit při výrobě tajemných předmětů."
 
-tagCompAmmoBox=Ammunition Box
-tagCompAmmoBoxDesc="The resistance can always use more ammunition to hold off the dark forces plaguing Cairn."
+tagCompAmmoBox=Pouzdro na munici
+tagCompAmmoBoxDesc="Aby temné síly zamořující Cairn byly zlikvidovány, můžeš vždycky použít víc munice."
 
 tagCompAScrap=Kovový šrot
-tagCompAScrapDesc=Scrap materials such as bolts, leather cords and low-grade metals that can be used to fasten together items or structures.
+tagCompAScrapDesc=Kusy železa, jako jsou šipky, kožené šňůry nebo nekvalitní kovy mohou být sloučeny dohromady a být tak použity ke zpevnění předmětů nebo staveb.
 
 #Misc
 
