@@ -286,8 +286,8 @@ tagCharStatsAvgDmgDescription=Průměrné zranění uštědřené zásahem včet
 tagCharStatsDPS=Zranění za sekundu
 tagCharStatsDPSDescription=Průměrné zranění nepřítele za sekundu. Nezahrnuje obrannou schopnost nepřítele.
 
-tagCharStatsArmorTotal=Celkové brnění
-tagCharStatsArmorTotalDescription=Sloučená hodnota tvé kompletní výstroje. Čím vyšší je tvé celkové brnění, tím méně zranění obdržíš fyzickým zásahem.
+tagCharStatsArmorTotal=Celková zbroj
+tagCharStatsArmorTotalDescription=Sloučená hodnota tvé kompletní výstroje. Čím vyšší je tvá celková zbroj, tím méně zranění obdržíš fyzickým zásahem.
 tagCharStatsArmorUnprotected=Bez ochrany
 tagCharStatsArmorBonus=Bonus:
 tagCharStatsArmorHead=Hlava:
@@ -401,7 +401,7 @@ tagCraftingItemType02= ~ Kompletní doplňky
 tagCraftingItemType03= ~ Svitek
 tagCraftingItemType04= ~ Výstroj
 
-tagCraftingConfirmation=Opravdu chceš složit tuhle kombinaci?
+tagCraftingConfirmation=Opravdu chceš sloučit tyto předměty?
 
 tagCraftingDetatchmentInfo=
 
@@ -413,12 +413,12 @@ tagCraftingInsterComponent=Přidat součástky zobrazené v návodu do těchto s
 tagDividerTab02=Rozložení
 tagDividerRoll02=Rozkladová komora se používá pro oddělení součástek od předmětu. Bohužel je tento proces nedokonalý a má za následek zničení buď součástky nebo předmětu. Ale můžeš si vybrat, kterou věc raději obětuješ.
 
-tagDividingButtonKeepItem=Zachovat předmět
-tagDividingBoxInfo=Umísti předmět se součástkou do komory.
-tagDividingButtonKeepComponent=Zachovat přídavek
-tagDividingKeepItemWarning=Vybráním zachování předmětu zničíš připojenou součástku.
-tagDividingKeepComponentWarning=Vybráním zachování součástky zničíš předmět.
-tagDividingCost=Cena záchrany:
+tagDividingButtonKeepItem=Předmět
+tagDividingBoxInfo=Umísti do komory předmět s připojenou komponentou.
+tagDividingButtonKeepComponent=Přídavek
+tagDividingKeepItemWarning=Vybráním zachování předmětu zničíš připojenou komponentu.
+tagDividingKeepComponentWarning=Vybráním zachování komponenty zničíš předmět.
+tagDividingCost=Cena rozkladu:
 
 #Smuggler
 
@@ -428,7 +428,7 @@ tagCaravanCost=Cena: {%d0}
 tagCaravanRefund=Vrátit peníze: {%d0}
 tagCaravanExpand=Rozšířit místo
 tagCaravanItemStorage=Úschovna
-tagStorageInfo01=Úschovnu můžeš použít jako rozšíření své inventáře Pravým tlačítkem myši nebo přetažením můžeš přenášet předměty mezi inventářem a úschovnou. Předměty uložené v úschovně jsou dostupné u každého pašeráka ve hře.
+tagStorageInfo01=Úschovnu můžeš použít jako rozšíření svého inventáře Pravým tlačítkem myši nebo přetažením můžeš přenášet předměty mezi inventářem a úschovnou. Předměty uložené v úschovně jsou dostupné u každého pašeráka ve hře.
 tagTransferCost=Cena za převod: {%d0}
 tagTransferAdd=Opravdu chceš přidat tento předmět do sdílené úschovny?
 tagTransferInfo01=Můžeš využít služeb pašeráka pro přesun předmětů mezi tvými dalšími postavami. Jednoduše přetáhni předmět do sdílené úschovny a ten pak bude dotupný tvým dalším postavám.
@@ -616,7 +616,7 @@ LevelUpFormat=Nová úroveň!
 SkillPointFormat={%d0} bodů dovednosti
 MenuName=Jméno:
 MenuLevel=Úroveň:   {%d0}
-ItemSkillIncrement={+%d0} do {%s1}
+ItemSkillIncrement={+%d0} do dovednosti {%s1}
 ItemMasteryIncrement={+%d0} na všechny dovednosti v {%s1}
 ItemAllSkillIncrement={+%d0} na všechny dovednosti
 ItemBasicAttributeBanner={^w}
@@ -636,7 +636,7 @@ SkillFloatFormat={%.0f0 %s1}
 SkillFloat1Format={%.1f0 %s1}
 SkillFloat2Format={%.2f0 %s1}
 SkillSecondFormat={%.1f0 sekund %s1}
-SkillDistanceFormat={%.1f0 metrů %s1}
+SkillDistanceFormat={%s1 %.1f0 metrů}
 SkillCostFormat={%.0f0 %s1}
 SkillPercentFormat={%.0f0% %s1}
 SkillNumProjectilesFormat=Vystřelí {%d0} projektilů
@@ -659,7 +659,7 @@ SkillManaPercent={%.1f0}% obnovené energie
 SkillLifeBonusAndPercent={%.0f1}% + {%.0f0} obnoveného zdraví
 SkillManaBonusAndPercent={%.0f1}% + {%.0f0} obnovené energie
 SkillPetDescriptionHeading={%s0} atributy:
-tagSkillPetAbilities={%s0} schopnosti:
+tagSkillPetAbilities=Schopnosti ~ {%s0}:
 SkillPetDescriptionNextHeading=Další {%s0} úroveň:
 SkillPetDescriptionHealth=    {%.0f0}  zdraví
 SkillPetDescriptionMana=    {%.0f0}  energie
@@ -685,7 +685,7 @@ TargetRadius=Dosah
 TargetAngle=Zásah v úhlu {%.0f0}°
 TargetNumber={%d0} cílů maximálně
 CooldownTime= času na obnovení dovednosti
-ExplosionRadius=dosah
+ExplosionRadius=Dosah
 ProjectileLaunchRotation={%.1f0}° rozsah projektilů
 ProjectileLaunchNumber={%d0} projektilů
 ProjectileFragmentsLaunchNumberMinMax={%d0 - %d1} úlomků
@@ -824,7 +824,7 @@ DamageDurationModifierManaLeach={%+.0f0}% vysátí energie
 DamageDurationModifierOffensiveAbility={%+.0f0}% útočné schopnosti
 DamageDurationModifierDefensiveAbility={%+.0f0}% obranné schopnosti
 DamageDurationModifierOffensiveReduction={%+.0f0}% snížení nepřátelského fyzického zranění
-ImprovedTimeFormat= se zvýšenou dobrou trvání o {%+.0f0}%
+ImprovedTimeFormat= se zvýšenou dobou trvání o {%+.0f0}%
 
 RetaliationCold={%t0} odplaty ledem
 RetaliationFire={%t0} odplaty ohněm

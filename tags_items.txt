@@ -162,7 +162,7 @@ tagWeaponGun1hA002=pistole howdah
 tagWeaponGun1hA003=pistole pepperbox
 tagWeaponGun1hA004=ruční dělo
 tagWeaponGun1hA005=revolver
-tagWeaponGun1hA006=6-komorový revolver
+tagWeaponGun1hA006=šestikomorový revolver
 tagWeaponGun1hA007=pistole deringer
 tagWeaponGun1hA008=opakovací puška
 tagWeaponGun1hA009=zaměřovací revolver
@@ -398,7 +398,7 @@ tagQualityShieldA10=Imperial
 #Focus
 
 tagFocusA001=plesnivá bible
-tagFocusA002=mmasem svázaná bible
+tagFocusA002=masem svázaná bible
 tagFocusA003=runami popsaná kniha
 tagFocusA004=kůží svázaná kniha kouzel
 tagFocusA005=podivná bible
@@ -526,7 +526,7 @@ tagHeadA001=helma
 tagHeadA002=čepec
 tagHeadA003=přilba
 tagHeadA004=maska
-tagHeadA005=čepka
+tagHeadA005=čapka
 tagHeadA006=rytířská helma
 tagHeadA007=přilbice
 tagHeadA008=klobouk
@@ -734,10 +734,10 @@ tagWaistD009=Opasek divoké krve
 #ArmorHands
 
 tagHandsA001=rukavice
-tagHandsA002=* Vambraces
+tagHandsA002=návleky
 tagHandsA003=rytířské rukavice
-tagHandsA004=* Grips
-tagHandsA005=* Handguards
+tagHandsA004=palčáky
+tagHandsA005=chrániče rukou
 
 tagHandsC001=Shadow's Grasp
 tagHandsC002=Zealot's Gauntlets
@@ -775,7 +775,7 @@ tagHandsD009=Archmage's Handwraps
 
 tagLegsA001=spodky
 tagLegsA002=kamaše
-tagLegsA003=omotávky
+tagLegsA003=motané kalhoty
 tagLegsA004=kalhoty
 tagLegsA005=nohavice
 tagLegsA006=náholeníky
@@ -1202,7 +1202,7 @@ tagCompA035Desc=^b"Blood stained wrappings worn by Ch'thonic cultists."^w^n(Used
 tagCompA036Name=Nepokojné ostatky
 tagCompA036Desc=^b"The remains of a tortured being denied its rightful peace."^w^n(Used in hand armor)
 
-tagCompA037Name=HUstá srst
+tagCompA037Name=Hustá srst
 tagCompA037Desc=^b"A dense coat of fur perfect for harsh winter conditions."^w^n(Used in all armor)
 
 tagCompA038Name=Zoubkovaný hrot
@@ -1797,14 +1797,14 @@ tagChestCorpse_RoverElder=Elder Mathias' Corpse
 
 tagLectern_WardensLabA01=Research Journal
 
-tagChestHeroD01=Heroic Chest
-tagChestHeroD01_Dropped=Heroic Spoils
-tagChestHeroD02=Grand Chest
-tagChestHeroD02_Dropped=Grand Spoils
-tagChestHeroD03=Supreme Chest
-tagChestHeroD03_Dropped=Supreme Spoils
-tagChestHeroD04=Magnificent Chest
-tagChestHeroD04_Dropped=Magnificent Spoils
+tagChestHeroD01=Truhla hrdinů
+tagChestHeroD01_Dropped=Kořist hrdinů
+tagChestHeroD02=Luxusní truhla
+tagChestHeroD02_Dropped=Luxusní kořist
+tagChestHeroD03=Královská truhla
+tagChestHeroD03_Dropped=Královská kořist
+tagChestHeroD04=Velkolepá truhla
+tagChestHeroD04_Dropped=Velkolepá kořist
 
 tagBreakableA01=Sud
 tagBreakableA02=Bedna
@@ -1824,7 +1824,7 @@ tagChestLocked= {^R} ~ Uzamčeno
 tagChestLockedBoss= {^R} ~ Uzamčeno mocnou silou
 tagChestLockedQuest= {^R} ~ Uzamčeno úkolem
 
-tagChestBossOneShot_Warden=Warden's Chest
+tagChestBossOneShot_Warden=Wardenova truhla
 tagChestBossOneShot_Darius=Darius's Stash
 tagChestOneShot_Sacrifice=Isaac's Stash
 tagChestOneShot_Generic01=Glorious Stash
