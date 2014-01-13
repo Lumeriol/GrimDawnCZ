@@ -330,7 +330,7 @@ tagWeaponArcaneA003=hůl z borovice
 tagWeaponArcaneA004=hůl z jasanu
 tagWeaponArcaneA005=hůl z cedru
 tagWeaponArcaneA006=hůl z dubu
-tagWeaponArcaneA007=hůl z Černého lesa
+tagWeaponArcaneA007=hůl z černého dřeva
 
 tagWeaponCrossbow1hA001=kuše se spouští
 tagWeaponCrossbow1hA002=skládaná kuše
@@ -912,9 +912,9 @@ tagRingD011=Archmage's Signet
 
 #Necklaces
 
-tagNecklaceA001=fetišův dráp
+tagNecklaceA001=úctyhodný dráp
 tagNecklaceA002=stříbrný amulet
-tagNecklaceA003=fetišova lebka
+tagNecklaceA003=úctyhodná lebka
 tagNecklaceA004=platinový amulet
 tagNecklaceA005=kostěný talisman
 tagNecklaceA006=měsíční amulet
@@ -929,8 +929,8 @@ tagNecklaceA013=diamantový přívěšek
 tagNecklaceB001=Hnilobný náhrdelník
 tagNecklaceB001Desc=^b"Lebka je potažena páchnoucím slizem."
 
-tagNecklaceC001=Amulet s okem
-tagNecklaceC001Desc=^b"Jedinečné oko uvnitř drahokamu pohybující z jedné strany na druhou."
+tagNecklaceC001=Amulet Oka
+tagNecklaceC001Desc=^b"Jedinečné oko uvnitř drahokamu pohybující se z jedné strany na druhou."
 tagNecklaceC002=Alazra's Ruby
 tagNecklaceC003=Bloodmoon
 tagNecklaceC004=Devil's Charm
@@ -1115,13 +1115,13 @@ tagCompA006Desc=^b"Discharge from the creatures of Cairn infected with otherword
 tagCompA007Name=Shnilé srdce
 tagCompA007Desc=^b"A long silenced heart shriveled with necromantic power."^w^n(Used in chest armor)
 
-tagCompA008Name=* Zmutované šupiny (váhy)
+tagCompA008Name=Zmutované šupiny
 tagCompA008Desc=^b"Neobvykle silné a těžké šupiny zmutované působením Éterické energie."^w^n(Used in chest and shoulder armor)
 
 tagCompA009Name=Prach z mrtvoly
 tagCompA009Desc=^b"Dust derived from the freshly deceased, often used for witchcraft and enchantments."^w^n(Used in rings and amulets)
 
-tagCompA010Name=Střepina duše
+tagCompA010Name=Kousek duše
 tagCompA010Desc=^b"A magical gem used by witch hunters rumored to trap the souls of the damned."^w^n(Used in amulets and medals)
 
 tagCompA011Name=Ektoplazma
