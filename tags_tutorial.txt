@@ -119,7 +119,7 @@ tagTutorialTip38SubtitleB=Přesun mezi hráči
 tagTutorialTip38TextC=Pro zprosředkování přesunu předmětů mezi hráči v multihře musíš použít funkci obchodu.
 
 tagTutorialTip39Title=Vynálezce
-tagTutorialTip39TextA=Vynálezci ti slouží ke dvě účelům: odstraňují komponenty z předmětů a vytváří nové předměty podle návodů.
+tagTutorialTip39TextA=Vynálezci ti slouží ke dvěma účelům: odstraňují komponenty z předmětů a vytváří nové předměty podle návodů.
 tagTutorialTip39SubtitleA=Návody
 tagTutorialTip39CaptionA=Návody
 tagTutorialTip39TextB=Vynálezce potřebuje návody, aby mohl vyrábět nové předměty. Jakmile jsou dodány potřebné části, předmět může být vytvořen.
