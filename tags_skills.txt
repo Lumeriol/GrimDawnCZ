@@ -46,15 +46,15 @@ tagSkillClassName0709=
 tagSkillClassName0809=
 
 
-tagSkillClassDescription01=Soldiers of the imperial army were trained to survive in the{^n}most hellish conditions and hold the line against the deadliest{^n}enemies of the empire. Soldiers prefer the use of close combat{^n}weaponry, such as a sword and shield, but can also prove{^n}formidable with firearms. What a Soldier may lack in outright{^n}damage output is made up for in fortitude and leadership.
+tagSkillClassDescription01=Vojáci císařské armády byli trénování k přežití{^n}v nejhorších podmínkách a udrželi linii před nejnebezpečnějšími{^n}nepřáteli říše. Vojáci upřednosňují používání zbraní{^n}na blízko jako jsou meče a štíty, ale mohou se také uplatnit{^n}jako střelci ze zálohy. Co může vojákovi chybět v jeho přímém{^n}úderu a zranění, to může nabídnout svou statečností a vedením.
 
-tagSkillClassDescription02=Pyrotechnic masters of the imperial army; Demolitionists are{^n}part engineer; part sorcerer. They were used to break enemy{^n}ranks and breach fortifications with their devastating array{^n}of explosives and destructive magic. They usually prefer to{^n}fight at range; engaging enemies with guns, traps and explosives{^n}but they can also be proficient with melee weapons.
+tagSkillClassDescription02=Pyrotechničtí mistři císařské armády; Ničitelé jsou{^n}částečně inženýři a částečně kouzelníci. Byli využíváni k prolomení nepřátelských{^n}pozic a opevnění za pomoci jejich zničující výbavy{^n}různých výbušnin a destruktivní magie. Obvykle dávali přednost {^n}boji na dálku; útočili na nepřátele střelnými zbraněmi, pastmi a výbušninami.{^n}Samozřejmě jsou také schopni použít zbraň na blízko.
 
-tagSkillClassDescription03=Once hunted by imperial forces in an effort to control eldritch{^n}power, the Occultist's craft focuses heavily on summoning and{^n}borrowed powers granted by the three witch "gods" Bysmiel,{^n}Solael and Dreeg. Their diverse arts include abhorrent curses{^n}and spells that inflict damage with poison, acid, and entropic{^n}energy. Excelling with neither sword nor gun, they can use{^n}either to augment their offense.
+tagSkillClassDescription03=Poté, co byli pronásledováni císařskými vojsky ve snaze ovládnout jejich podivnou{^n}moc, Okultisté se zaměřili na vyvolávání a{^n}vypůjčili si energii od tří čarodějnických "bohů" - Bysmiela,{^n}Solaela a Dreega. Mezi jejich různorodá umění patří odporné kletby {^n}a kouzla, která způsobují zranění jedem, kyselinou a chaotickou{^n}energií. Nevynikají v boji s mečem ani střelnou zbraní, ale mohou je použít{^n}jako dodatečnou údernou sílu.
 
-tagSkillClassDescription04=Nightblades were clandestine warriors that sold their services to the great houses of the empire. Nightblades excel with all manner of martial weapons, but are even more feared for the deadly blade magic that is the secret of their trade. Nightblades are not suited to go toe to toe with tougher enemies and rely on illusion to close for quick, devastating attacks or fight from a distance with phantasmal blades.
+tagSkillClassDescription04=Noční lovci byli tajní bojovníci, kteří nabízeli své služby velkým rodům v říši. Noční lovci vynikají v boji se všemi druhy bojových zbraní, ale největší obavy vzbuzují jejich smrtící magické nože, které jsou jejich obchodním tajemstvím. Noční lovci nejsou přizpůsobeni k tělesnímu kontaktu s odolnějším nepřítelem a raději se spoláhají na svou iluzi o rychlém a zničujícím napadení nebo na boj z určité vzdálenosti s jeich přízračnými noži.
 
-tagSkillClassDescription05=To Arcanists, the manifestation of magic is not some unexplainable mystery or the will of the gods, but a science meant to be unraveled.  This pursuit of knowledge drives all Arcanists, always eager to discover a new technique to make their namesake.  Arcanists warp Aetherial and elemental energy to their will, creating devastating demonstrations of power that rival small armies.  However, such raw force leaves little in terms of defense.
+tagSkillClassDescription05=Pro Pány temnoty není tajemství magie nšjaká nevysvětlitelná záhada nebo vůle bohů, ale věda, která chce být odtajněna. Tato snaha o poznání žene všechny Pány temnoty dychtivě dál za objevováním nových způsobů, které by si mohli osvojit. Pán temnoty vychyluje Éterickou a živelnou energii podle své vůle, čímž tvoří ničivou demonstraci síly, kterou může použít na malé armády. Nicméně je především využívá na sovu obranu.
 
 tagSkillClassDescription06=
 
@@ -77,7 +77,7 @@ tagSkillUsableReady=Dovednost je možno použít
 #Class01
 
 tagClass01SkillName00A=Voják
-tagClass01SkillDescription00A=Intense physical conditioning necessary to brave the harsh reality of Cairn.
+tagClass01SkillDescription00A=Velká fyzická kondice je nutná pro čelení kruté realitě v Cairnu.
 
 tagClass01SkillName01A=Spád
 tagClass01SkillDescription01A=The use of weapon forms in combat gives your attacks a natural cadence with peaks and ebbs that, while predictable, are none the less effective and difficult to counter.  When used as your default weapon attack, Cadence will magnify the power of every 3rd strike.
@@ -245,132 +245,132 @@ tagClass02SkillDescription14A=A powerful attack that does increased damage and k
 
 #Class03
 
-tagClass03SkillName00=Occultist
+tagClass03SkillName00=Okultista
 tagClass03SkillDescription00=An in-depth study on the manipulation and control of the occult.
 
-tagClass03SkillName01A=Summon Familiar
+tagClass03SkillName01A=Přivolání známosti
 tagClass03SkillDescription01A=Summon a mythical storm raven to support you. Storm ravens are eldritch creatures of uncanny intelligence and magical ability quite different from mundane ravens. Some believe they are not birds at all but rather some manner of ancient sky spirit for which the raven is a preferred manifestation. Only one raven may be summoned at any one time.
-tagClass03SkillName01B=Storm Orb
-tagClass03SkillDescription01B=Innate Attack.
-tagClass03SkillName01C=Mend Flesh
-tagClass03SkillDescription01C=The raven channels eldritch energies to mend the flesh of wounded allies.
-tagClass03SkillName01D=Storm Spirit
+tagClass03SkillName01B=Bouřná koule
+tagClass03SkillDescription01B=Vrozený útok.
+tagClass03SkillName01C=Zacelení ran
+tagClass03SkillDescription01C=Havran usměrňuje tajemné energie, které zacelují rány po těle zraněných spojenců.
+tagClass03SkillName01D=Bouřný přízrak
 tagClass03SkillDescription01D=The raven projects its eldritch spirit into selected allies, empowering them beyond their mortal means.
-tagClass03SkillName01E=Lightning Strike
+tagClass03SkillName01E=Úder blesku
 tagClass03SkillDescription01E=The storm raven calls forth a powerful lightning bolt to electrocute nearby foes.
 
-tagClass03SkillName02A=Summon Hellhound
+tagClass03SkillName02A=Vyvolání pekelného psa
 tagClass03SkillDescription02A=Calls forth a hellhound from the phantom realm to savage the Occultist's enemies. This vicious beast will battle alongside you until its life is extinguished in a blazing inferno. Only one Hellhound can be summoned at any one time.
-tagClass03SkillName02B=Ember Claw
+tagClass03SkillName02B=Žhavý dráp
 tagClass03SkillDescription02B=Brimstone claws tear an arc of flame through enemies within the hellhound's reach.
-tagClass03SkillName02C=Hellfire
+tagClass03SkillName02C=Ďábelský oheň
 tagClass03SkillDescription02C=An aura of hellfire surrounds the hellhound, augmenting it with power from its natural realm and searing enemies that draw too close.
-tagClass03SkillName02D=Infernal Breath
+tagClass03SkillName02D=Pekelný dech
 tagClass03SkillDescription02D=The hellhound belches forth furious hellfire, incinerating your enemies.
-tagClass03SkillName02E=Claw and Fang Attacks
-tagClass03SkillDescription02E=Innate Attack.
-tagClass03SkillName02F=Blazing Death
+tagClass03SkillName02E=Útok pomocí drápů a tesáků
+tagClass03SkillDescription02E=Vrozený útok.
+tagClass03SkillName02F=Planoucí smrt
 tagClass03SkillDescription02F=The Hellhound's flesh erupts as it returns to its natural realm, incinerating nearby enemies.
 
-tagClass03SkillName03A=Bonds of Bysmiel
+tagClass03SkillName03A=Smlouva s Bysmielem
 tagClass03SkillDescription03A=Strengthens the bonds of control with your minions causing them to fight with greater vigor and determination.
-tagClass03SkillName03B=Devotion
+tagClass03SkillName03B=Oddanost
 tagClass03SkillDescription03B=Subtle manipulation of the bonds of control beguiles minions into feeling overwhelming devotion towards you, causing them to fight with fanatical strength and speed.
 
-tagClass03SkillName04A=Blood of Dreeg
+tagClass03SkillName04A=Dreegova krev
 tagClass03SkillDescription04A=A binding with the great guardian confers some of Dreeg's regenerative ability, while wounds inflicted by enemies will spray caustic blood as though inflicted upon Dreeg himself.
-tagClass03SkillName04B=Armor of the Guardian
+tagClass03SkillName04B=Strážcova zbroj
 tagClass03SkillDescription04B=The Occultist becomes ensconced in a phantasmal barrier that causes enemy hits to impact as though they were striking the quilled scales of Dreeg.
 
-tagClass03SkillName05A=Solael's Witchfire
+tagClass03SkillName05A=Solaelův kouzelný oheň
 tagClass03SkillDescription05A=Harness the eldritch power of Solael, burning your enemies with entropic energy upon every strike. This ability must be toggled to maintain its effect.
-tagClass03SkillName05B=Second Rite
+tagClass03SkillName05B=Druhý obřad
 tagClass03SkillDescription05B=Deepens the Occultist's bond to the hidden realm, intensifying the power of witchfire such that the slightest touch burns through the arcane essence of foes.
 
-tagClass03SkillName06A=Curse of Frailty
+tagClass03SkillName06A=Prokletí křehkostí
 tagClass03SkillDescription06A=A cruel word of power that robs enemies of their fortitude, making them slow and fragile.
-tagClass03SkillName06B=Vulnerability
+tagClass03SkillName06B=Zranitelnost
 tagClass03SkillDescription06B=Empowers the curse's vile potency so that it also weakens the constitution of your enemies, making them more susceptible to witchcraft and poisons.
 
-tagClass03SkillName10A=Sigil of Consumption
+tagClass03SkillName10A=Pečeť záhuby
 tagClass03SkillDescription10A=Creates an occult sigil on the ground that consumes the life-force of enemies caught within its power, returning a portion of the damage dealt as health to the Occultist.
-tagClass03SkillName10B=Destruction
+tagClass03SkillName10B=Zkáza
 tagClass03SkillDescription10B=Imbues the sigil with the destructive powers of chaos itself.
 
-tagClass03SkillName11A=Dreeg's Evil Eye
+tagClass03SkillName11A=Dreegovo ďábelské oko
 tagClass03SkillDescription11A=Summons one of the infinite eyes of Dreeg, the great guardian of the hidden realm. The eye quickly speeds toward the target and then detonates itself.
-tagClass03SkillName11B=Blood Burst
-tagClass03SkillDescription11B=The mystical eye bursts on impact, showering nearby enemies with vitriolic gore.
-tagClass03SkillName11C=Terrifying Gaze
+tagClass03SkillName11B=Krvavý výbuch
+tagClass03SkillDescription11B=Mystické oko při nárazu praskne a zmáčí blízké nepřátele sžíravou krví.
+tagClass03SkillName11C=Děsivý pohled
 tagClass03SkillDescription11C=The frightful gaze of the eldritch and immortal Dreeg may cause enemies to stand frozen in fear or simply run in fruitless terror.
-tagClass03SkillName11D=Vile Eruption
+tagClass03SkillName11D=Odporný výbuch
 tagClass03SkillDescription11D=Putrid chunks burst forth from the eye upon impact, inflicting further pain upon any foes unfortunate enough to be close to its detonation.
 
-tagClass03SkillName12A=Possession
+tagClass03SkillName12A=Posedlost
 tagClass03SkillDescription12A=You allow your body to act as a mortal vessel for the witch god Solael. The great one temporarily inhabits your flesh, bestowing upon you formidable physical prowess.
 
-tagClass03SkillName13A=Bloody Pox
+tagClass03SkillName13A=Krvavé neštovice
 tagClass03SkillDescription13A=Shunned even by many Occultists for the prolonged suffering it inflicts, this abhorrent curse calls down a virulent plague to spread amongst foes, inexorably sapping their life-force and causing them to bleed from every orifice.
-tagClass03SkillName13B=Wasting
+tagClass03SkillName13B=Plýtvání
 tagClass03SkillDescription13B=Causes Pox to destroy your foe's vitality and turn weeping sores into gouts of blood. Such insidious spell-craft has earned Occultists their dark repute and seen many burnt at the stake.
-tagClass03SkillName13C=Black Death
+tagClass03SkillName13C=Černá smrt
 tagClass03SkillDescription13C=Burning with fever and suffering the liquefaction of their internal organs, the infected may be hit by sudden bouts of confusion and wander the battlefield attacking the air or even their own allies.
 
-tagClass03SkillName14A=Doom Bolt
+tagClass03SkillName14A=Zhoubná šipka
 tagClass03SkillDescription14A=A bolt of entropic power tears through the fabric of reality to inflict massive damage on any foe it strikes.
 
 
-tagClass03SkillName07A=Hex of Nullification
+tagClass03SkillName07A=Zrušení zaklínadla
 tagClass03SkillDescription07A=Nullifies enemy enchantments and inflicts energy-burn damage based on the ammount of the enemy's remaining energy.
-tagClass03SkillName08A=Chaos Bolt
+tagClass03SkillName08A=Šipka chaosu
 tagClass03SkillDescription08A=Sends out a swarm of entropic energy that tears into the very material of your enemy's being.
-tagClass03SkillName08B=Energy Burn
+tagClass03SkillName08B=Spálení energie
 tagClass03SkillDescription08B=Magnifies chaos damage while also burning a portion of the target's energy, inflicting additional energy burn damage.
-tagClass03SkillName09A=Circle of Protection
+tagClass03SkillName09A=Kruh ochrany
 tagClass03SkillDescription09A=Creates a magical circle around the caster that regenerates life and repels those with evil intention.
-tagClass03SkillName15A=Bysmiel's Sanctuary
+tagClass03SkillName15A=Bysmielova ochrana
 tagClass03SkillDescription15A=Seals the target within a protective, healing sanctuary where they are unable to move but shielded against all harm.
 
 
 
 #Class04
 
-tagClass04SkillName00=Nightblade
+tagClass04SkillName00=Noční lovec
 tagClass04SkillDescription00=Practice in the arts of illusion and whirling blades.
 
-tagClass04SkillName01A=Phantasmal Blades
+tagClass04SkillName01A=Přízračné čepele
 tagClass04SkillDescription01A=A legendary technique of the Nightblades. Hurl a conjured blade infused with shadow magic that rends through flesh like paper.
-tagClass04SkillName01B=Heart Seeker
+tagClass04SkillName01B=Hledač srdce
 tagClass04SkillDescription01B=With refined technique, Phantasmal Blades are conjured so sharp that they can pierce through multiple targets while invisible phantasmal threads draw vitality from the victims.
-tagClass04SkillName01C=Nether Edge
+tagClass04SkillName01C=Spodní hrana
 tagClass04SkillDescription01C=Empowers the Phantom Blade with dark magic, a loathsome technique used only in the most dire circumstances.
 
-tagClass04SkillName02A=Shadow Strike
+tagClass04SkillName02A=Úder ze stínu
 tagClass04SkillDescription02A=A cunning combination of illusion and mental deflection allows you to seemingly vanish and reappear above your victim like a nightmarish specter. ^oRequires a melee weapon.
-tagClass04SkillName02B=Nidalla's Justifiable Ends
+tagClass04SkillName02B=Nidallin ospravedlňující konec
 tagClass04SkillDescription02B=As a practitioner of poisons, found unsavory by most Nightblades, Nidalla maintained that the ends justified the means. This toxic twist on the traditional Shadow Strike will ensure the end of any foe that survives the initial attack.
-tagClass04SkillName02C=Nightfall
+tagClass04SkillName02C=Soumrak
 tagClass04SkillDescription02C=As you reappear and engage your prime target, a pall of darkness will descend upon surrounding enemies like the darkest, coldest night, chilling their blood and invading their minds with an uncontrollable weariness.
 
-tagClass04SkillName03A=Blade Barrier
+tagClass04SkillName03A=Bariéra z čepelí
 tagClass04SkillDescription03A=For a master Nightblade, Belgothian was rumored to lack fine control of his conjuring; but he had the unremitting willpower to summon so many blades that they would form an impenetrable shield surrounding him, giving him a moment of respite from his foes.
 
-tagClass04SkillName04A=Ring of Steel
+tagClass04SkillName04A=Prstenec z oceli
 tagClass04SkillDescription04A=In the blink of an eye, hundreds of phantasmal blades encircle you at lethal speed, cutting down adjacent foes.
-tagClass04SkillName04B=Circle of Slaughter
+tagClass04SkillName04B=Vražedný kruh
 tagClass04SkillDescription04B=Vicious phantasmal blades slice deep into foes caught within the ring, spilling copious amounts of blood.
 
-tagClass04SkillName05A=Dual Blades
+tagClass04SkillName05A=Dvojité ostří
 tagClass04SkillDescription05A=Allows for the wielding of two one handed melee weapons and provides a chance to attack with both weapons together, potentially landing two successive hits on an enemy.
-tagClass04SkillName05B=Belgothian's Shears
+tagClass04SkillName05B=Belgothianovy nůžky
 tagClass04SkillDescription05B=The brawny Belgothian was an anomaly among the lithe Nightblade masters, but he exceeded them all in raw power. Leveraging his strength in direct but lethal attacks like the shears, Belgothian could often finish an enemy in a single move. ^oThis is a dual-wielding technique.
-tagClass04SkillName05C=Amarasta's Quick Cut
+tagClass04SkillName05C=Amarastin rychlý řez
 tagClass04SkillDescription05C=Legendary for her speed, Amarasta's blades were said to sound like a whip through the air, leaving only streaks of light too fast for the eye to follow. Masters of this technique can strike thrice in the space of a normal attack. ^oThis is a dual-wielding technique.
-tagClass04SkillName05D=Whirling Death
+tagClass04SkillName05D=Vářivá smrt
 tagClass04SkillDescription05D=A devastating technique intended for multi-target combat. Those that survive are left bleeding as if from a thousand cuts. ^oThis is a dual-wielding technique.
 tagClass04SkillName05E=Nidalla's Hidden Hand
 tagClass04SkillDescription05E=The controversial Nightblade master Nidalla demonstrated the cruel effectiveness of poisons during the Age of Unreason when she combined the foul toxins with the Whirling Death technique, allowing her to prevail in battle against greatly superior numbers.
-tagClass04SkillName05F=Execution
+tagClass04SkillName05F=Poprava
 tagClass04SkillDescription05F=A merciless blow, struck during a moment of opportunity, with the intent to quickly finish a foe. Those that survive are not likely to remain alive very long. ^oThis is a dual-wielding technique.
 
 tagClass04SkillName06A=Pneumatic Burst
@@ -415,18 +415,18 @@ tagClass04SkillName07X=Deepening Darkness
 tagClass04SkillDescription07X=Deepening shadow further diminishes the visibility of foes, impeding their defense against physical attacks.
 tagClass04SkillName07C=Amarasta's Unseen Blade
 tagClass04SkillDescription07C=Throughout combat with the nightblade, wounds appear on enemies where no weapon was seen to strike.
-tagClass04SkillName09A=Life Taker
+tagClass04SkillName09A=Příjemce života
 tagClass04SkillDescription09A=This attack literally takes life from opponents and returns it to the nightblade, allowing them to grow stronger even as the life leaves their quarry.
-tagClass04SkillName12A=Pneuma Tap
+tagClass04SkillName12A=Vzduchový kohout
 tagClass04SkillDescription12A=Draw vital breathe from enemies within an area, gaining life and energy as it flees their bodies.
-tagClass04SkillName13D=Merciless Repertoire
+tagClass04SkillName13D=Nemilosrdný repertoár
 tagClass04SkillDescription13D=Efficient use of poisons and anti-clotting agents can sometimes be the deadliest weapon of all.
 
 
 
 #Class05
 
-tagClass05SkillName00=Arcanist
+tagClass05SkillName00=Pán temnoty
 tagClass05SkillDescription00=Conditioning of the body and mind to withstand the corrupting power of raw magic.
 
 tagClass05SkillName01A=Arcane Missile
@@ -498,28 +498,28 @@ tagClass05SkillDescription15A=The mental acuity necessary to deal with the every
 
 #Class06
 
-tagClass06SkillName00=Vigilante
-tagClass06SkillDescription00=Training in the field to take down the toughest bounties, and all who stand on the path to your quarry.
+tagClass06SkillName00=Civilní stráž
+tagClass06SkillDescription00=Trénink v oblasti získávání těch nejtěžších odměn a v poražení všech, kteří stojí v cestě za tvou kožistí.
 
-tagClass06SkillName01A=Bulwark
-tagClass06SkillDescription01A=Your combat skills are adapted to defensive fighting, absorbing damage, and holding out against superior numbers.
-tagClass06SkillName01B=Honor Guard
+tagClass06SkillName01A=Val
+tagClass06SkillDescription01A=Tvé bojové schopnosti jsou uzpůsobeny obranným bojům, vstřebání zranění a udržení se proti přesile.
+tagClass06SkillName01B=Čestná stráž
 tagClass06SkillDescription01B=Your combat skills are adapted to defensive fighting, absorbing damage, and holding out against superior numbers.
-tagClass06SkillName01C=Last Line of Defense
+tagClass06SkillName01C=Poslední obranná linie
 tagClass06SkillDescription01C=Your combat skills are adapted to defensive fighting, absorbing damage, and holding out against superior numbers.
 
 
-tagClass06SkillName02A=Vanguard
+tagClass06SkillName02A=Předvoj
 tagClass06SkillDescription02A=Your combat skills are adapted to front-line fighting, dealing out damage and breaking the enemy.
-tagClass06SkillName02B=Frontline
+tagClass06SkillName02B=Přední linie
 tagClass06SkillDescription02B=Your combat skills are adapted to front-line fighting, dealing out damage and breaking the enemy.
-tagClass06SkillName02C=Shock Trooper
+tagClass06SkillName02C=Šokující výpad
 tagClass06SkillDescription02C=Your combat skills are adapted to front-line fighting, dealing out damage and breaking the enemy.
 
 
-tagClass06SkillName07B=Second Wind
+tagClass06SkillName07B=Druhý vítr
 tagClass06SkillDescription07B=A surge of renewed strength fills your body washing away your wounds and fatigue.
-tagClass06SkillName07C=Celerity
+tagClass06SkillName07C=Zrychlení
 tagClass06SkillDescription07C=Alive with the fury of battle, adrenaline courses through your veins making you move and attack faster.
 
 #Class07
@@ -678,7 +678,7 @@ tagItemSkillC004Desc=Calls forth a guardian with strong defenses and high threat
 tagItemSkillC004PetSkill01=Taunting Roar
 tagItemSkillC004PetSkill01Desc=The guardian roars in challenge, taunting nearby enemies.
 
-tagItemSkillC004PetSkill02=Innate Attributes
+tagItemSkillC004PetSkill02=Vrozené vlastnosti
 
 tagItemSkillC005Name=Reckless Guardian
 tagItemSkillC005Desc=Calls forth a guardian with strong attacks.
@@ -954,17 +954,17 @@ tagItemSkillFailDesc=Fail a little harder.
 
 #Component Skills
 
-tagCompSkillA001Name=Acid Strike
-tagCompSkillA001Desc=Lash out at your opponent using corrosive acid, melting through even the toughest defenses.
+tagCompSkillA001Name=Zásah kyselinou
+tagCompSkillA001Desc=Udeř svého soupeře zžíravou kyselinou, která si poradí i nejtužším materiálem.
 
-tagCompSkillA002Name=Aether Tendril
-tagCompSkillA002Desc=Unleash a blast of pure aether energy at your target.
+tagCompSkillA002Name=Úponek Éteru
+tagCompSkillA002Desc=Uvolní výbuch čisté éterické energie vůči tvému nepříteli.
 
-tagCompSkillA003Name=Banish
-tagCompSkillA003Desc=Strike with your weapon, devastating to Aetherial beings.
+tagCompSkillA003Name=Odstranění
+tagCompSkillA003Desc=Úder tvé zbraně je zničující pro Éterické bytosti.
 
-tagCompSkillA004Name=Piercing Aura
-tagCompSkillA004Desc=Empower your attacks and those of your nearby allies to pierce through armor.
+tagCompSkillA004Name=Pronikavá aura
+tagCompSkillA004Desc=Umocní tvé útoky a útoky tvých nejbližších spojenců probodávajícím úderem skrz zbroj.
 
 tagCompSkillA005Name=Blade Ward I
 tagCompSkillA005Desc=Empower your armor against piercing attacks, retaliating against your attackers in kind.
@@ -1056,39 +1056,39 @@ tagCompSkillB003Desc=Launch a burst of silver-coated projectiles intended to kil
 tagCompSkillB004Name=Dreeg's Infinite Gaze
 tagCompSkillB004Desc=Unleash the infinite gaze of Dreeg around you.
 
-tagCompSkillB005Name=Solael's Flame
-tagCompSkillB005Desc=Coat your target with the dark flame of Solael.
+tagCompSkillB005Name=Solaelův plamen
+tagCompSkillB005Desc=Spal svého nepřítele temným plamenem Solaela.
 
 
 #ConsumableSkills
 
-tagConsumableSkillResistancePoison01Name=Minor Poison Resistance
-tagConsumableSkillResistancePoison01Desc=Increases poison resistance by a small amount.
+tagConsumableSkillResistancePoison01Name=Menší odolnost vůči jedu
+tagConsumableSkillResistancePoison01DescZvyšuje o menší množství tvou odolnost vůči jedu.
 
 #SkillsGeneral
 
-MasteriesAvailable=Select from {%d0} Additional Tabs
-NoMasteriesAvailable=No Additional Tabs Available
+MasteriesAvailable=Vyber z {%d0} přídavné záložky
+NoMasteriesAvailable=Žádné další záložky nejsou k dispozici
 SkillPointsAvailable={%d0} nevyužitých bodů dovedností
 SkillPointsAvailableSingular={%d0} nevyužitý bod dovednosti
 NoSkillPointsAvailable=Žádné dostupné body dovednosti
 
 #SkillsReallocator
 
-tagReallocateError01=You need to remove all points from all modifiers before you can remove the last point from this skill.
-tagReallocateError02=You do not have enough gold to remove any more skill points.
-tagReallocateError03=You cannot remove points from your Mastery.
-tagDecreaseMasteryError=Cannot reclaim points from the mastery.
-tagReclaimPoint=Click to Reclaim Skill Point (Cost {^y}{%t0}{^-})
-tagReclaimBase=Remove Modifiers to Reclaim Final Point
-tagReclaimNoPoints=No Points to Reclaim
-tagReclaimNoGold=Insufficient Gold (Cost {^y}{%t0}{^r})
-tagReallocateTitle=Skill Reallocation
-tagReallocationDescription=Clicking on a skill icon will remove a skill point.  The cost to remove a skill point increases with each point removed.
+tagReallocateError01=Musíš odstranit všechny body ze všech vlastností než budeš moci odstranit poslední bod dovednosti.
+tagReallocateError02=Nemáš dostatek železných mincí pro odstranění dalších bodů dovedností.
+tagReallocateError03=Nemůžeš odstranit body ze svého povolání.
+tagDecreaseMasteryError=Z povolání nelze získat zpět body dovednosti.
+tagReclaimPoint=Kliknutím získáš zpětbod dovednosti (Cena {^y}{%t0}{^-})
+tagReclaimBase=Odstraň vlasnosti pro navrácení posledního bodu dovednosti
+tagReclaimNoPoints=Žádné body k navrácení
+tagReclaimNoGold=Nedostatek železných mincí (Cena {^y}{%t0}{^r})
+tagReallocateTitle=Přerozdělení dovedností
+tagReallocationDescription=Klinutím na ikonku dovednosti odstraníš bod dovednosti. Cena se zvyšuje s každým odebraným bodem dovednosti.
 
 tagTemplateNamePřejmenuj mě
 tagTemplateDescription=Popiš mě
 
 #ItemSets
 
-tagItemSetA001=SoulChill Set
+tagItemSetA001=Sada Zmrzlé duše

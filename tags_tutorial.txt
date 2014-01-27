@@ -1,7 +1,7 @@
 # B17
 tagTutorialTitle=Herní nápověda
 tagTutorialRollOver=Pro vypnutí herní nápovědy zaškrtni toto políčko. Po vypnutí muže být herní nápověda opět aktivována, a to ve spodní části obrazovky tlacítkem "nápověda".
-tagTutorialOf=Vypnuto
+tagTutorialOf=z
 tagTutorialDisable=Vypnout nápovědu
 
 tagTutorialTip08Title=Vítejte ve hře Grim Dawn

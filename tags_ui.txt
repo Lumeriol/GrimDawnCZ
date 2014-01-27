@@ -30,8 +30,8 @@ tagGamePaused=Hra je pozastavena
 tagRiftgatePersonal=Osobní portál
 tagRiftgateDestination=Lokace
 tagRiftgateError01=Tento portál nemůžeš použít. Byl vytvořen hráčem, který není ve tvé skupině.
-tagRiftgateDialog01=Otevřením nového portálu uzavřeš svůj stávající portál. Opravdu to tak chceš?
-tagRiftGateMapA01=Mohyla
+tagRiftgateDialog01=Otevřením nového portálu uzavřeš svůj stávající portál. Je to tvým záměrem?
+tagRiftGateMapA01=Cairn
 
 #Quest
 
