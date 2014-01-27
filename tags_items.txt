@@ -1235,7 +1235,7 @@ tagCompA046Desc=^b"A fine gem polished to perfection."^w^n(Used in shields, ring
 tagCompA047Name=Zmrzlé srdce
 tagCompA047Desc=^b"Eternally encased in black ice."^w^n(Used in rings)
 
-tagCompA048Name=Vířící krev
+tagCompA048Name=Bublající krev
 tagCompA048Desc=^b"Bubbling with the rage that once fueled it."^w^n(Used in rings and amulets)
 
 tagCompA049Name=Kámen ochrany
@@ -1274,18 +1274,18 @@ tagCompA059Desc=^b"An exceptionally light yet durable metal."^w^n(Used in shield
 tagCompA060Name=Otlučená skořápka
 tagCompA060Desc=^b"A shell that has survived seemingly impossible blows."^w^n(Used in shields)
 
-tagCompA061Name=Viskózní jed
-tagCompA061Desc=^b"Acidic bile from a particularly toxic creature."^w^n(Used in all armor)
+tagCompA061Name=Lepkavý jed
+tagCompA061Desc=^b"Kyselá žluč z obzvláště toxických nestvůr."^w^n(Může vylepšit všechny druhy zbroje.)
 
 
 tagCompB001Name=^kBysmielova vazba
 tagCompB001Desc=^b"Spellwoven bindings used by the coven of Bysmiel to strengthen control over summoned beings."^w^n(Used in chest armor)
 
-tagCompB002Name=^kOleronovy řetězy
-tagCompB002Desc=^b"The broken chains once used to contain the fury of the deity Oleron."^w^n(Used in chest armor)
+tagCompB002Name=^kOleronské řetězy
+tagCompB002Desc=^b"Rozbité řetězy kdysi obsahovaly zuřivost Oleronského božstva."^w^n(Může vylepšit hrudní zbroj.)
 
 tagCompB003Name=^kPosvátná zemina
-tagCompB003Desc=^b"Dirt from the base of the standing stones of Menhir."^w^n(Used in chest armor)
+tagCompB003Desc=^b"Bláto z místa, kde stojí Menhirské kameny."^w^n(Může vylepšit hrudní zbroj.)
 
 tagCompB004Name=^kHranolový diamant
 tagCompB004Desc=^b"The core shimmers with untold power."^w^n(Used in head armor)
