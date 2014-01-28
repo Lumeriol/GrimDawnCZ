@@ -954,7 +954,7 @@ tagNecklaceC016=Unseeing Eye of the Blind Assassin
 tagNecklaceC017=Pendant of the Royal Crown
 tagNecklaceC018=Pendant of Valiance
 
-tagNecklaceD001=Will of Bysmiel
+tagNecklaceD001=Bysmielova vůle
 tagNecklaceD002=Thread of Mortality
 tagNecklaceD003=Avatar of Mercy
 tagNecklaceD003Desc=^b"First of the seven sacred virtues of humanity."
