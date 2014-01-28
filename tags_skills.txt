@@ -46,11 +46,11 @@ tagSkillClassName0709=
 tagSkillClassName0809=
 
 
-tagSkillClassDescription01=Vojáci císařské armády byli trénování k přežití{^n}v nejhorších podmínkách a udrželi linii před nejnebezpečnějšími{^n}nepřáteli říše. Vojáci upřednosňují používání zbraní{^n}na blízko jako jsou meče a štíty, ale mohou se také uplatnit{^n}jako střelci ze zálohy. Co může vojákovi chybět v jeho přímém{^n}úderu a zranění, to může nabídnout svou statečností a vedením.
+tagSkillClassDescription01=Vojáci císařské armády byli trénování k přežití v nejhorších podmínkách a udrželi linii před nejnebezpečnějšími nepřáteli říše. Vojáci upřednosňují používání zbraní na blízko jako jsou meče a štíty, ale mohou se také uplatnit jako střelci ze zálohy. Co může vojákovi chybět v jeho přímém úderu a zranění, to může nabídnout svou statečností a vedením.
 
-tagSkillClassDescription02=Pyrotechničtí mistři císařské armády; Ničitelé jsou{^n}částečně inženýři a částečně kouzelníci. Byli využíváni k prolomení nepřátelských{^n}pozic a opevnění za pomoci jejich zničující výbavy{^n}různých výbušnin a destruktivní magie. Obvykle dávali přednost {^n}boji na dálku; útočili na nepřátele střelnými zbraněmi, pastmi a výbušninami.{^n}Samozřejmě jsou také schopni použít zbraň na blízko.
+tagSkillClassDescription02=Pyrotechničtí mistři císařské armády. Ničitelé jsou částečně inženýři a částečně kouzelníci. Byli využíváni k prolomení nepřátelských pozic a opevnění za pomoci jejich zničující výbavy různých výbušnin a destruktivní magie. Obvykle dávali přednost boji na dálku; útočili na nepřátele střelnými zbraněmi, pastmi a výbušninami. Samozřejmě jsou také schopni použít zbraň na blízko.
 
-tagSkillClassDescription03=Poté, co byli pronásledováni císařskými vojsky ve snaze ovládnout jejich podivnou{^n}moc, Okultisté se zaměřili na vyvolávání a{^n}vypůjčili si energii od tří čarodějnických "bohů" - Bysmiela,{^n}Solaela a Dreega. Mezi jejich různorodá umění patří odporné kletby {^n}a kouzla, která způsobují zranění jedem, kyselinou a chaotickou{^n}energií. Nevynikají v boji s mečem ani střelnou zbraní, ale mohou je použít{^n}jako dodatečnou údernou sílu.
+tagSkillClassDescription03=Poté, co byli pronásledováni císařskými vojsky ve snaze ovládnout jejich podivnou moc, Okultisté se zaměřili na vyvolávání a vypůjčili si energii od tří čarodějnických "bohů" - Bysmiela, Solaela a Dreega. Mezi jejich různorodá umění patří odporné kletby a kouzla, která způsobují zranění jedem, kyselinou a chaotickou energií. Nevynikají v boji s mečem ani střelnou zbraní, ale mohou je použít jako dodatečnou údernou sílu.
 
 tagSkillClassDescription04=Noční lovci byli tajní bojovníci, kteří nabízeli své služby velkým rodům v říši. Noční lovci vynikají v boji se všemi druhy bojových zbraní, ale největší obavy vzbuzují jejich smrtící magické nože, které jsou jejich obchodním tajemstvím. Noční lovci nejsou přizpůsobeni k tělesnímu kontaktu s odolnějším nepřítelem a raději se spoláhají na svou iluzi o rychlém a zničujícím napadení nebo na boj z určité vzdálenosti s jeich přízračnými noži.
 
@@ -140,7 +140,7 @@ tagClass01SkillName15A=Zaštítování
 tagClass01SkillDescription15A=Assume a defensive stance that greatly boosts your combat awareness. You can only maintain this focus for a short duration. ^oRequires a shield.
 
 tagClass01SkillName16=Jizvy z bitvy
-tagClass01SkillDescription16=Through countless violent encounters, you have seen the worst that battle has to offer. The horrors of war no longer hinder your actions, and neither does a little spilled blood.
+tagClass01SkillDescription16=Přes nespočet násilných střetů jsi viděl tu nejhorší bitvu, která mohla kdy být. Hrůzy války už nezabrání tvým akcícm a ani ti nebude vadit trocha prolité krve.
 
 tagClass01SkillName17=Protiúder
 tagClass01SkillDescription17=Enter a state of intense readiness in order to unleash lightning-fast counter strikes against your attackers.
@@ -156,14 +156,14 @@ tagClass01SkillDescription05C=Greatly magnifies the power of Blade Arc and incre
 #Class02
 
 tagClass02SkillName00A=Ničitel
-tagClass02SkillDescription00A=Expertise in the combination of science and sorcery to unleash fiery hell upon the battlefield.
+tagClass02SkillDescription00A=Odbornost v kombinaci vědy a magie dokáže rozpoutat ohnivé peklo na bitevním poli.
 
 tagClass02SkillName01A=Granát
 tagClass02SkillDescription01A=Granát je poměrně nový vynález, který se rychle uchytil v bojovém poli a dorovnal tak poměr mezi využitím kouzelnými schopnostmi a konvenčními zbraněmi.
-tagClass02SkillName01B=Vysoká odolnost
-tagClass02SkillDescription01B=An improved design on the standard Grenado causes it to explode with intense heat and gives it a chance to inflict devastating physical harm.
+tagClass02SkillName01B=Vysoký účinek
+tagClass02SkillDescription01B=Vylepšený koncept klasického Granátu způsobí, že vybuchne v rámci působení silného žáru, jež dává šanci zasadit zničující fyzickou újmu.
 tagClass02SkillName01C=Granát nebeského ohně
-tagClass02SkillDescription01C=When just exploding an enemy is not enough, this alchemical alteration to Grenado's chemistry unleashes a maelstrom of electricity upon detonation.
+tagClass02SkillDescription01C=Pokud exploze nepříteli nestačí, tahle alchymistická úprava chemického složení Granátu rozpoutá smršť elektrické energie, dokud znovu nevybuchne.
 
 tagClass02SkillName02A=Třesk blesku
 tagClass02SkillDescription02A=A blinding light temporarily confuses enemies and disrupts their ability to defend themselves.
@@ -385,7 +385,7 @@ tagClass04SkillDescription07A=A psionic veil clouds the minds of nearby enemies,
 tagClass04SkillName07B=Night's Chill
 tagClass04SkillDescription07B=Causes foes affected by the Veil of Shadow to feel the dark chill of the night fall over them, slowing their attacks and enfeebling their minds.
 
-tagClass04SkillName08A=Blade Spirit
+tagClass04SkillName08A=Přízračná čepel
 tagClass04SkillDescription08A=Conjure a swirling cloud of lethal blades that will roam the battlefield, slicing enemies to pieces before finally expiring in a shower of jagged shards.
 tagClass04SkillName08PetA=Whirling Blades
 tagClass04SkillName08PetB=Blade Burst
