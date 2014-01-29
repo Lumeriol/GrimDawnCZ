@@ -73,7 +73,7 @@ tagEnemyVoidFiendA01=Marnivý zloduch
 tagEnemyVoidFiendA02=Anomálie nicoty
 tagEnemyVoidFiendC01=Ohavnost nicoty
 
-tagVoidFiendHeroH01=Innugaru, Zděšení Neuplatněných
+tagVoidFiendHeroH01=Innugaru, Zděšení z Nicoty
 tagVoidFiendHeroH02=Hiln'Raz, the Dark Omen
 tagVoidFiendHeroH03=Sen'Thel Nositel prázdnoty
 tagVoidFiendHeroH04=Nii'Thel ~ Rváč
@@ -84,7 +84,7 @@ tagVoidFiendHeroH05=Gurgoth'Siin ~ Hořící
 tagEnemyDrangoulWarriorA01=Dranghoulský vymahač
 tagEnemyDrangoulWarriorB01=Dranghoulský tyran
 
-tagDranghoulMiniBoss01=Gutworm, pojídač lidí
+tagDranghoulMiniBoss01=Gutworm, požírač lidí
 
 tagDranghoulHeroH01=Ralture, Nedotknutelný
 tagDranghoulHeroH02=Rugaru, mistr ohařů

@@ -1236,25 +1236,25 @@ tagCompA047Name=Zmrzlé srdce
 tagCompA047Desc=^b"Eternally encased in black ice."^w^n(Used in rings)
 
 tagCompA048Name=Bublající krev
-tagCompA048Desc=^b"Bubbling with the rage that once fueled it."^w^n(Used in rings and amulets)
+tagCompA048Desc=^b"Bubbling with the rage that once fueled it."^w^n(Může vylepšit prsteny a amulety)
 
 tagCompA049Name=Kámen ochrany
 tagCompA049Desc=^b"Kámen s vyleptaným starověkým ochranným symbolem."^w^n(Může vylepšit amulety)
 
 tagCompA050Name=Zaměřující hranol
-tagCompA050Desc=^b"Used by arcanists to channel their powers during particularly straining rituals."^w^n(Used amulets)
+tagCompA050Desc=^b"Used by arcanists to channel their powers during particularly straining rituals."^w^n(Může vylepšit amulety)
 
 tagCompA051Name=Černý ĺůj
-tagCompA051Desc=^b"Tallow from a candle burnt during Chthonic rituals."^w^n(Used in amulets and medals)
+tagCompA051Desc=^b"Tallow from a candle burnt during Chthonic rituals."^w^n(Může vylepšit amulety a medaile)
 
 tagCompA052Name=Pomstychtivý přízrak
 tagCompA052Desc=^b"Duch pomsty."^w^n(Může vylepšit amulety a medaile)
 
 tagCompA053Name=Znamení iluze
-tagCompA053Desc=^b"A symbol of power used in many inscriptions."^w^n(Used in rings and amulets)
+tagCompA053Desc=^b"A symbol of power used in many inscriptions."^w^n(Může vylepšit prsteny a amulety)
 
 tagCompA054Name=Zlomyslná čelist
-tagCompA054Desc=^b"The jaw of a beast built to snap bones as if they were sticks."^w^n(Used in amulets and medals)
+tagCompA054Desc=^b"The jaw of a beast built to snap bones as if they were sticks."^w^n(Může vylepšit amulety a medaile)
 
 tagCompA055Name=Kámen hněvu
 tagCompA055Desc=^b"It vibrates at the slightest contact with living flesh."^w^n(Used in melee weapons)
@@ -1263,7 +1263,7 @@ tagCompA056Name=Portálový kámen
 tagCompA056Desc=^b"Hemží se v něm surová síla trhající vzduch."^w^n(Může vylepšit zbraně na blízko)
 
 tagCompA057Name=Éterické šipky
-tagCompA057Desc=^b"Augmented with the essence of Aetherial monstrosities."^w^n(Used in guns and crossbows)
+tagCompA057Desc=^b"Augmented with the essence of Aetherial monstrosities."^w^n(Může vylepšit pušky a kuše)
 
 tagCompA058Name=Prázdnotou dotčená munice
 tagCompA058Desc=^b"Dipped in fresh Chthonian blood."^w^n(Used in guns and crossbows)
