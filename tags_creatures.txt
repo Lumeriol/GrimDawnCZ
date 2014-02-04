@@ -248,7 +248,7 @@ tagHumanHeroH03=Hudson Fury
 tagHumanHeroH04=Nadra, Stín
 tagHumanHeroH05=Serul Shadesong
 tagHumanHeroH06=Wiley, Mrskač ~ Rychlý
-tagHumanHeroH07=Everett, the Krvavý pes ~ Planoucí
+tagHumanHeroH07=Everett, Krvavý pes ~ Planoucí
 tagHumanHeroH08=Jednooký Dred
 
 tagHumanBoss01="Zazobanec" Martin

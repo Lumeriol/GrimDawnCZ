@@ -686,7 +686,7 @@ TargetAngle=Zásah v úhlu {%.0f0} stupňů
 TargetNumber={%d0} cílů maximálně
 CooldownTime=Čas na obnovení dovednosti:
 ExplosionRadius=Dosah:
-ProjectileLaunchRotation={%.1f0}° rozsah projektilů
+ProjectileLaunchRotation=Rozsah projektilů: {%.1f0} stupňů
 ProjectileLaunchNumber={%d0} projektilů
 ProjectileFragmentsLaunchNumberMinMax={%d0 - %d1} úlomků
 ProjectileFragmentsLaunchNumber={%d0} úlomků
@@ -701,7 +701,7 @@ tagShieldBlockInfo={%.0f0}% šance na vykrytí {%.0f1} zranění
 
 SkillManaCostReduction=-{%.0f0}% energie
 SkillCooldownReduction=-{%.0f0}% času obnovy dovednosti
-SkillProjectileSpeedModifier={%+.0f0}% zrychlení projektil§
+SkillProjectileSpeedModifier={%+.0f0}% zrychlení projektilů
 SkillManaCostReductionModifier=-{%.0f0}% energie
 SkillCooldownReductionModifier=-{%.0f0}% času obnovy dovednosti
 
