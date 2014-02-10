@@ -1,24 +1,24 @@
-Sága odporu
+Příběh odporu
 Warden
 Vstup do Wardenových sklepení
-John Bourbon věří, že Éterium způsobující zvěrsva v Burrwitchi posedlo tělo bývalého strážce Ďáblova průsmyku, Wardena Kriega. {^n}{^n} Vzhledem k záznamům nalezeným ve vězení je jasné, že Warden Krieg, nebo to, co se z něj stalo, experimentoval s vězni v utajené laboratoři pod jeho panským sídlem v místě Burrwitche. {^n}{^n} Do laboratoře lze vstoupit skrze Wardenova sklepení pod jeho panským sídlem v Burrwitchi.
+John Bourbon věří, že Éterium způsobující zvěrsva v Burrwitchi posedlo tělo bývalého dozorce Ďáblova průsmyku, Wardena Kriega.{^n}{^n}Vzhledem k záznamům nalezených ve vězení je jasné, že Warden Krieg, nebo to, co se z něj stalo, experimentoval s vězni v utajené laboratoři pod jeho panským sídlem, spadajícím do vesnice Burrwitch.{^n}{^n}Do laboratoře lze vstoupit skrze Wardenovo sklepení pod jeho panským sídlem v Burrwitchi.
 Vstup do Wardenových sklepení
 
 Najdi Wardenovu laboratoř
-John Bourbon věří, že Éterium způsobující zvěrsva v Burrwitchi posedlo tělo bývalého strážce Ďáblova průsmyku, Wardena Kriega. {^n}{^n} Vzhledem k záznamům nalezeným ve vězení je jasné, že Warden Krieg, nebo to, co se z něj stalo, experimentoval s vězni v utajené laboratoři pod jeho panským sídlem v místě Burrwitche. {^n}{^n} Do laboratoře lze vstoupit skrze Wardenova sklepení pod jeho panským sídlem v Burrwitchi.
-Vstup do Wardenových sklepení
+John Bourbon věří, že Éterium způsobující zvěrsva v Burrwitchi posedlo tělo bývalého strážce Ďáblova průsmyku, Wardena Kriega.{^n}{^n}Vzhledem k záznamům nalezených ve vězení je jasné, že Warden Krieg, nebo to, co se z něj stalo, experimentoval s vězni v utajené laboratoři pod jeho panským sídlem, spadajícím do vesnice Burrwitch.{^n}{^n}Do laboratoře lze vstoupit skrze Wardenovo sklepení pod jeho panským sídlem v Burrwitchi.
+Najdi Wardenovu laboratoř
 
 Zabij Wardena
-Vstoupil jsi do nitra Wardenových přetvořených prostor. Všechna ta zvěrstva jsou právě odtud. {^n}{^n}Najdi Wardena Kriega v jeho laboratoři a ukonči jeho život.
+Vstoupil jsi do nitra Wardenových přetvořených prostor. Všechna ta zvěrstva jsou právě odtud.{^n}{^n}Najdi Wardena Kriega v jeho laboratoři a ukonči jeho život.
 Zabij Wardena Kriega
 
 Ohlaš se Bourbonovi
-Warden Krieg byl zabit tvoji rukou! John Bourbon a ostatní přeživší jistě rádi uslyší o tomto velkém vítězství. {^n}{^n}Vrať se zpět do Ďáblova průsmyku.
+Warden Krieg byl zabit tvoji rukou! John Bourbon a ostatní přeživší jistě rádi uslyší o tomto velkém vítězství.{^n}{^n}Vrať se zpět do Ďáblova průsmyku.
 Ohlaš se kapitánu Johnu Bourbonovi
 
 
-Už tak zabitý Warden
-Řekni Kapitánovi Johnu Bourbonovi, že jsi zabil Wardena.
-Řekni Kapitánovi Johnu Bourbonovi, že jsi zabil Wardena
+Warden byl zabit
+Řekni kapitánovi Johnu Bourbonovi, že jsi zabil Wardena.
+Řekni kapitánovi Bourbonovi, že jsi zabil Wardena
 
 
