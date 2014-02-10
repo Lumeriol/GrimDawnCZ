@@ -80,7 +80,7 @@ tagClass01SkillName00A=Voják
 tagClass01SkillDescription00A=Velká fyzická kondice je nutná pro čelení kruté realitě v Cairnu.
 
 tagClass01SkillName01A=Rychlý útok
-tagClass01SkillDescription01A=Využití povahy zbraně v hoji dodá tvému útoku přirozený spád se všemi jeho klady i zápory, které, ačkoliv jsou předvídatelné, jsou neméně účinné a těžce se jim čelí. Pokud jej využiješ jako výchozí typ útoku, zvýší Rychlost útoku sílu každého třetího úderu.
+tagClass01SkillDescription01A=Využití povahy zbraně v boji dodá tvému útoku přirozený spád se všemi jeho klady i zápory, které, ačkoliv jsou předvídatelné, jsou neméně účinné a těžce se jim čelí. Pokud jej využiješ jako výchozí typ útoku, zvýší Rychlost útoku sílu každého třetího úderu.
 tagClass01SkillName01B=Bojová formace
 tagClass01SkillDescription01B=Běsnění tvé zbraně se odráží na protivníkovi a způsobuje mu těžké krvácení. ^oSe zbraněmi na blízko způsobí odraz Rychlosti útoku další udeření blízkých nepřátel.
 tagClass01SkillName01C=Smrtící pohyb
@@ -366,7 +366,7 @@ tagClass04SkillName05B=Belgothianovy nůžky
 tagClass04SkillDescription05B=The brawny Belgothian was an anomaly among the lithe Nightblade masters, but he exceeded them all in raw power. Leveraging his strength in direct but lethal attacks like the shears, Belgothian could often finish an enemy in a single move. ^oThis is a dual-wielding technique.
 tagClass04SkillName05C=Amarastin rychlý řez
 tagClass04SkillDescription05C=Legendary for her speed, Amarasta's blades were said to sound like a whip through the air, leaving only streaks of light too fast for the eye to follow. Masters of this technique can strike thrice in the space of a normal attack. ^oThis is a dual-wielding technique.
-tagClass04SkillName05D=Vářivá smrt
+tagClass04SkillName05D=Vířivá smrt
 tagClass04SkillDescription05D=A devastating technique intended for multi-target combat. Those that survive are left bleeding as if from a thousand cuts. ^oThis is a dual-wielding technique.
 tagClass04SkillName05E=Nidalla's Hidden Hand
 tagClass04SkillDescription05E=The controversial Nightblade master Nidalla demonstrated the cruel effectiveness of poisons during the Age of Unreason when she combined the foul toxins with the Whirling Death technique, allowing her to prevail in battle against greatly superior numbers.
