@@ -41,6 +41,7 @@ tagQuestJournalNoQuests=Žádné úkoly
 tagQuestIncentives=Pobídky:
 tagQuestObjectives=Cíle:
 tagQuestRewards=Odměny:
+tagCodexJournalNoNotes=Žádné záznamy
 tagAccept=Přijmout
 tagDecline=Odmítnout
 tagContinue=Pokračovat
@@ -55,10 +56,21 @@ tagQuestFailed=Úkol selhal: {^n}"{%t0}"
 tagActionGiveMoney={%d0} železných mincí
 tagActionGiveExperience={%d0} zkušeností
 tagActionGiveFaction={%d0} {%t1} frakcí
-tagActionGiveLevel={%d0} úrovní
-tagActionGiveSkillPoint={%d0} bodů dovedností
+tagActionGiveLevel={%d0} úroveň
+tagActionGiveLevels={%d0} úrovní
+tagActionGiveSkillPoint={%d0} bod dovednosti
+tagActionGiveSkillPoints={%d0} bodů dovedností
+tagActionGiveAttributePoint={%d0} Attribute Point
+tagActionGiveAttributePoints={%d0} Attribute Points
 tagConditionHasKilled={%t0} ({%d1}/{%d2})
 tagConditionHasItem={%t0} ({%d1}/{%d2})
+tagQuestRewardWindowTitle=Quest Complete
+tagQuestRewardTitle=Rewards:
+tagQuestRewardMoney={%d0} Iron
+tagQuestRewardXP=Experience
+tagQuestRewardReputationPositive=+{%d0} {%s1} Reputation
+tagQuestRewardReputationNegative=-{%d0} {%s1} Reputation
+tagQuestRewardAcceptButton=Accept
 
 #Faction
 
@@ -66,18 +78,18 @@ tagFactionAlone=Osamocený
 tagFactionInvisible=Neviditelný
 tagFactionGenericMonster=Nepřátelé
 tagFactionPlayer=Hráči
-tagFactionSurvivors=Přeživší
+tagFactionSurvivors=Devil's Crossing
 tagFactionAetherials=Éterijští
 tagFactionCthonians=Chthonští
-tagFactionOutlaws=Psanci
+tagFactionOutlaws=Cronley's Gang
 tagFactionBeasts=Bestie
-tagFactionUser0=Hráč 0
-tagFactionUser1=Hráč 1
-tagFactionUser2=Hráč 2
-tagFactionUser3=Hráč 3
-tagFactionUser4=Hráč 4
-tagFactionUser5=Hráč 5
-tagFactionUser6=Hráč 6
+tagFactionUser0=Rovers
+tagFactionUser1=Neutral NPCs
+tagFactionUser2=Homestead
+tagFactionUser3=Free Men of Corrigan Mine
+tagFactionUser4=The Exile
+tagFactionUser5=Order of the Black Vigil
+tagFactionUser6=Undead
 tagFactionUser7=Hráč 7
 tagFactionUser8=Hráč 8
 tagFactionUser9=Hráč 9
@@ -239,6 +251,11 @@ tagCharAttributeDescription04=Zdraví je měřítkem tvého prahu bolesti a zran
 
 tagCharAttributeDescription05=Energie je mšřítkem tvé duševní síly udržet si magické energie. Čím větší je zásoba energie, tím větší máš možnost ji vyčerpat před tím, než se ti znovu obnoví.
 
+tagCharBonusPhysicalDmg=Bonus Physical Damage
+tagCharBonusPierceDmg=Bonus Pierce Damage
+tagCharBonusMagicalDmg=Bonus Magical Damage
+tagCharBonusDurDmg=Bonus Duration Damage
+
 tagCharAttributeIncrement01=Každý bod zvyšuje rafinovanost o 10.
 tagCharAttributeIncrement02=Každý bod zvyšuje fyzickou kondici o 10.
 tagCharAttributeIncrement03=Každý bod zvyšuje duchovno o 10.
@@ -258,12 +275,20 @@ tagRollFormat05={%s0}     {%+.0f1}% +  {^b}{%.0f2}%
 tagRollFormat06={%s0}     {%.0f1}%
 tagRollFormat07={%s0}     {%.2f1} + {^b}{%.2f2}
 tagRollFormat08={%s0}     {%.2f1}
+tagRollFormat09={%s0}     {^b}{%.1f1}%
+tagRollFormat10={%s0}     {%.0f1} - {%.0f2}
+tagRollFormat11={%s0}     {%d1} - {%d2}
 tagFormatPercent={%.0f}%
+tagFormatPlus=+ {%d0}
+tagFormatDash={%d0} - {%d1}
 tagCharPointAvailable={^y}{%d0}{^w} dostupný bod
 tagCharPointsAvailable={^y}{%d0}{^w} dostupných bodů
 tagCharLevel=Úroveň {%d0}
 tagCharXP=Zkušenosti : {%t0}
 tagCharLevelAndClass=Úroveň {%d0} {%t1}
+
+tagCharRollLeftHand=Left Hand
+tagCharRollRightHand=Right Hand
 
 tagInfoPage=Informace:
 
@@ -274,15 +299,19 @@ tagCharHeaderResistance=Odolnosti
 tagCharHeaderDefense=Obranná statistika
 tagCharHeaderOffense=Útočná statistika
 tagCharHeaderCombat=Bojová statistika
+tagCharHeaderCharacter=Character
+tagCharHeaderPhysical=Physical
+tagCharHeaderMagical=Magical
+tagCharHeaderPets=Pets
+tagCharHeaderDefense=Defense
+tagCharHeaderRetaliation=Retaliation
+tagCharHeaderStats=Stats
+tagCharHeaderMisc=Misc
 
-tagCharStatsAttackSpeed=Útočná rychlost
-tagCharStatsAttackSpeedDescription=Tvá rychlost zbraně vzhledem k výchozí hodnotě (včetně celkové rychlosti).
 tagCharStatsBlockChance=Šance na vykrytí
 tagCharStatsBlockChanceDescription=Procentuální šance na vykrytí příchozího útoku.
 tagCharStatsBlockAmount=Vykryté zranění
 tagCharStatsBlockAmountDescription=Výše zranění, které nebude způsobeno úspěšným vykrytím.
-tagCharStatsAvgDmg=Průměrné zranění
-tagCharStatsAvgDmgDescription=Průměrné zranění uštědřené zásahem včetně základního útoku a bonusů.
 tagCharStatsDPS=Zranění za sekundu
 tagCharStatsDPSDescription=Průměrné zranění nepřítele za sekundu. Nezahrnuje obrannou schopnost nepřítele.
 
@@ -306,19 +335,68 @@ tagFormulaLearn03={^r}[Už umíš]
 tagItemCompareEquipped=Momentálně máš na sobě
 tagItemCompareVendor=Předmět na prodej
 tagItemCompareInventory=Předmět v inventáři
+tagItemCompareGround=Item on Ground
 
 
+#Char Stats Tab 2
+
+#Character
+tagCharStatsRunSpeed=Run Speed
+tagCharStatsRunSpeedInfo=The speed at which your character can run relative to the baseline (Includes Total Speed).
 tagCharStatsLifeRegen=Obnova zdraví
-tagCharStatsEnergyRegen=Obnova energie
 tagCharStatsLifeRegenInfo=Hodnota, jakou rychlostí se obnovuje tvé zdraví, zatímco jsi v boji.
+tagCharStatsEnergyRegen=Obnova energie
 tagCharStatsEnergyRegenInfo=Hodnota, s kterou se obnovuje tvá energie.
+tagCharStatsEnergyAbsorption=Energy Absorption
+tagCharStatsEnergyAbsorptionInfo=Energy Absorption
+tagCharStatsExpGainedBonus=Experience Gained
+tagCharStatsExpGainedBonusInfo=Bonus to Experience Gained
+tagCharStatsLightRadiusBonus=Light Radius
+tagCharStatsLightRadiusBonusInfo=Bonus to Light Radius
+tagCharStatsAllSkillsBonus=All Skills
+tagCharStatsAllSkillsBonusInfo=Bonus to All Skills
+tagCharStatsSoldierSkillsBonus=Soldier Skills
+tagCharStatsSoldierSkillsBonusInfo=Bonus to Soldier Skills
+tagCharStatsDemoSkillsBonus=Demolitionist Skills
+tagCharStatsDemoSkillsBonusInfo=Bonus to Demolitionist Skills
+tagCharStatsOccuSkillsBonus=Occultist Skills
+tagCharStatsOccuSkillsBonusInfo=Bonus to Occultist Skills
+tagCharStatsNightbladeSkillsBonus=Nightblade Skills
+tagCharStatsNightbladeSkillsBonusInfo=Bonus to Nightblade Skills
+tagCharStatsArcanistSkillsBonus=Arcanist Skills
+tagCharStatsArcanistSkillsBonusInfo=Bonus to Arcanist Skills
 
+#Physical
+tagCharStatsAttackSpeed=Attack Speed
+tagCharStatsAttackSpeedDescription=Your weapon attack speed relative to the baseline (Includes Total Speed).
+tagCharStatsAvgDmg=Average Damage
+tagCharStatsAvgDmgDescription=The average damage done per hit with your base attack including bonuses.
+tagCharStatsPhysicalAbsDmg=Physical Damage
+tagCharStatsPhysicalAbsDmgInfo=Physical Absolute Damage
+tagCharStatsPhysicalPercentDmg=% Physical Damage
+tagCharStatsPhysicalPercentDmgInfo=Physical Damage
+tagCharStatsPierceAbsDmg=Pierce Damage
+tagCharStatsPierceAbsDmgInfo=Pierce Absolute Damage
+tagCharStatsPiercePercentDmg=% Pierce Damage
+tagCharStatsPiercePercentDmgInfo=Pierce Damage
+tagCharStatsBleedAbsDmg=Bleed Damage
+tagCharStatsBleedAbsDmgInfo=Bleed Absolute Damage
+tagCharStatsBleedPercentDmg=% Bleed Damage
+tagCharStatsBleedPercentDmgInfo=Bleed Damage
+tagCharStatsBleedDuration=Bleed Duration
+tagCharStatsBleedDurationInfo=Bleed Duration
+tagCharStatsInternalTraumaAbsDmg=Trauma Damage
+tagCharStatsInternalTraumaAbsDmgInfo=Internal Trauma Absolute Damage
+tagCharStatsInternalTraumaPercentDmg=% Trauma Damage
+tagCharStatsInternalTraumaPercentDmgInfo=Internal Trauma Damage
+tagCharStatsInternalTraumaDuration=Trauma Duration
+tagCharStatsInternalTraumaDurationInfo=Internal Trauma Duration
+tagCharStatsDamageToHealth=Life Steal
+tagCharStatsDamageToHealthInfo=Damage Converted to Health
 
+#Magical
 tagCharStatsCastSpeed=Rychlost kouzlení
 tagCharStatsCastSpeedInfo=Rychlost, s jakou tvá postava sesílá kouzla vzhledem k výchozí hodnotě (včetně celkové rychlosti).
-
-tagCharStatsRunSpeed=Rychlost běhu
-tagCharStatsRunSpeedInfo=Rychlost, jakou tvá postava může běhat vzhledem k výchozí hodnotě (včetně celkové rychlosti).
 
 tagCharStatsSecondaryResist=Druhotné odolnosti:
 
@@ -410,6 +488,31 @@ tagCraftingProductBoxCompletion=Vezmi si nově složený předmět ze stolu.
 
 tagCraftingInsterComponent=Přidat součástky zobrazené v návodu do těchto slotů.
 
+#Subheadings
+
+tagCraftingAxes=AXES
+tagCraftingBlunt=BLUNT
+tagCraftingSwords=SWORDS
+
+tagCraftingOneHanded=ONE-HANDED RANGED
+tagCraftingTwoHanded=TWO-HANDED RANGED
+
+tagCraftingBelts=BELTS
+tagCraftingHelms=HELMS
+tagCraftingTorso=TORSO
+tagCraftingShoulders=SHOULDERS
+tagCraftingLegs=LEGS
+tagCraftingHands=HANDS
+tagCraftingFeet=FEET
+tagCraftingOffhands=OFF-HANDS
+
+tagCraftingComponents=COMPONENTS
+tagCraftingAccessories=ACCESSORIES
+tagCraftingConsumables=CONSUMABLES
+tagCraftingMaterials=MATERIALS
+
+tagCraftingRelics=RELICS
+
 tagDividerTab02=Rozložení
 tagDividerRoll02=Rozkladová komora se používá pro oddělení součástek od předmětu. Bohužel je tento proces nedokonalý a má za následek zničení buď součástky nebo předmětu. Ale můžeš si vybrat, kterou věc raději obětuješ.
 
@@ -433,7 +536,6 @@ tagTransferCost=Cena za převod: {%d0}
 tagTransferAdd=Opravdu chceš přidat tento předmět do sdílené úschovny?
 tagTransferInfo01=Můžeš využít služeb pašeráka pro přesun předmětů mezi tvými dalšími postavami. Jednoduše přetáhni předmět do sdílené úschovny a ten pak bude dotupný tvým dalším postavám.
 tagCaravanItemTransfer=Přesun předmětů
-
 tagTransferInfo02=Umísti předměty do předávací oblasti, aby byl pašerák schopný je převést mezi tvé další postavy.
 tagCaravanError01=Pro převod tohoto předmětu nemáš dostatek železných mincí.
 tagStorageError01=Nemáš dostatek železných mincí pro nákup dalšího místa v úschovně.
@@ -453,6 +555,7 @@ tagAerialMapZoomText=Přiblížení
 
 tagMapWindowName=Místní mapa
 tagRiftWindowName=Mapa portálů
+tagWorldMapWindowName=World Map
 
 tagMapSymbolAOI=Bod zájmu
 tagMapSymbolAOIDesc=Zajímavé místo.
@@ -478,6 +581,8 @@ tagMapSymbolWitch=Průvodce duchovnem
 tagMapSymbolWitchDesc=Duchovní postava, která ti může pomoci odnaučit se tvé dovednosti.
 tagMapSymbolShrine=Svatyně
 tagMapSymbolShrineDesc=POPIS SVATYNĚ
+tagMapSymbolSmith=Smith
+tagMapSymbolSmithDesc=A skilled craftsman capable of creating new items.
 
 #SystemStatsSkillUI
 
@@ -497,7 +602,7 @@ tagGameOver=Jsi mrtvý!
 SimpleStringFormat={%s0}
 SkillBaseNamesFormat={    %s0}
 CostFormat=Cost: {%d0}
-ManaDisplayFormat=Energie  {%d0} / {%d1} ( {%d2} rezervováno)
+ManaDisplayFormat=Energie  {%d0} / {%d1} ({%d2} rezervováno)
 LifeDisplayFormat=Zdraví  {%d0} / {%d1}
 ExperienceDisplayFormat=Současné zkušenosti: {^y}{%d0}{^w}  ~  Zkušenosti na další úroveň: {^y}{%d1}
 
@@ -545,7 +650,7 @@ tagCharOffensiveAbilityModifier={%+.0f0}% útočné schopnosti
 tagCharDefensiveAbilityModifier={%+.0f0}% obranné schopnosti
 
 tagCharDefensiveBlockRecoveryReduction={-%.0f0}% doby obnovení štítu
-tagCharEnergyAbsorptionPercent={%+.0f0}% absorpce energie z útoků
+tagCharEnergyAbsorptionPercent=={%+.0f0}% absorpce energie z nepřátelských kouzel
 tagCharDodgePercent={%.0f0}% šance se vyhnout útokům zblízka
 tagCharDeflectProjectiles={%.0f0}% ěance se vyhnout projektilům
 
@@ -602,18 +707,21 @@ ShortLifeText=Zdraví {%.0f0} / {%.0f1}
 ShortExperienceText=Zkuěenosti {%d0} / {%d1}
 ShortLevel=Úroveň {%d0}
 HitFormat={%.0f0}
-CriticalHitFormat={%.0f0} (x{%.1f1})
+CriticalHitFormat={%.0f0}
+CriticalHitFormatMult={%.0f0} (x{%.1f1})
 tagMiss=Vedle
 tagFumble=Neobratný úder
 tagDodge=Vyhnul ses
 tagBlock=Vykrytý úder
 tagDeflect=Odražený úder
 tagInvulnerable=Nezranitelný
-MoneyFormat=+{%d0} železných mincí
+GiveMoneyFormat=+{%d0} železných mincí
+TakeMoneyFormat={%d0} železných mincí
 ExperienceFormat=+{%d0} zkušeností
 FactionFormat=+{%d0} {%s1} reputace
 LevelUpFormat=Nová úroveň!
-SkillPointFormat={%d0} bodů dovednosti
+SkillPointFormat={%d0} Skill Point(s)
+AttributePointFormat={%d0} Attribute Point(s)
 MenuName=Jméno:
 MenuLevel=Úroveň:   {%d0}
 ItemSkillIncrement={+%d0} k dovednosti {%s1}
@@ -940,7 +1048,7 @@ tagMindcontrolledMonster=Ovládaný myšlenkami
 tagSparkMaxNumber=Ovlivňuje až {%d0} nepřátel
 
 tagItemGrantSkill=Přiděluje dovednost:
-tagItemSkill=   (přidáno předmětem)
+tagItemSkill=   (přiděleno předmětem)
 tagItemSkillShort=   (předmět)
 
 tagInspectTitle=Prohlédnout
@@ -961,6 +1069,9 @@ tagRelicError=Nemůžeš použít relikvie na veteránské nebo elitní předmě
 
 tagExperienceDisplayFormat=Aktuální zkušenost: {^y}{%t0}{^w}  ~  Zkušenost na další úroveň: {^y}{%t1}
 tagCXP=Zkušenost : {%t0}
+tagDifficulty01=Normal Difficulty
+tagDifficulty02=Epic Difficulty
+tagDifficulty03=Legendary Difficulty
 tagGrave01=Hrob hráče ~ {%t0}
 tagGrave02=Zabil tě {%t0}
 tagGrave03=Znovunavrácené zkušenosti: {%d0}
@@ -992,9 +1103,8 @@ tagPortraitAggressive=Nastavit na agresivní chování
 tagPortraitNormal=Nastavit na normální chování
 tagPortraitDefensive=Nastavit na obranné chování
 
-#tagReclaimPoint=Klikni pro získání dovednostního bodu zpět (Cena {^y}{%t0}{^g})
-#tagReclaimNoGold=Nedostatek železných mincí pro získání (Cena {^y}{%t0}{^r})
-
+tagMove=Move
+tagForceMove=Force Move
 
 tagUC_Button=Odemknout obsah
 tagUC_Message=Zadej prosím svůj kód pro odemčení nového obsahu.

@@ -207,7 +207,7 @@ tagClass02SkillDescription06C=Emits a deadly jet of white-hot flame to incinerat
 tagClass02SkillName07A=Neuhasitelný plamen
 tagClass02SkillDescription07A=Crossing over, as many demolitionists eventually do, into the secret arts of pyromancy provides flame and electricity that burns unnaturally long and hot.
 tagClass02SkillName07B=Ulzuin vyvolený
-tagClass02SkillDescription07B=Those who have sacrificed much in the pursuit of pyrotechnics eventually come to be favored by Ulzuin, receiving his blessing in wreaking fiery devastation upon the world. ^o[Affects Stun Jacks, Grenado and Canister Bomb]
+tagClass02SkillDescription07B=Those who have sacrificed much in the pursuit of pyrotechnics eventually come to be favored by Ulzuin, receiving his blessing in wreaking fiery devastation upon the world. ^o[Requires and affects Stun Jacks, Grenado and Canister Bomb]
 
 tagClass02SkillName08A=Černovodý koktejl
 tagClass02SkillDescription08A=Blackwater Cocktails were concocted when more conventional explosives ran low. These improvised fire bombs leave a self-fueled blaze upon impact and are particularly effective against tightly packed enemies.
@@ -339,7 +339,7 @@ tagClass04SkillName00=Noční lovec
 tagClass04SkillDescription00=Practice in the arts of illusion and whirling blades.
 
 tagClass04SkillName01A=Přízračné čepele
-tagClass04SkillDescription01A=A legendary technique of the Nightblades. Hurl a conjured blade infused with shadow magic that rends through flesh like paper.
+tagClass04SkillDescription01A=A legendary technique of the Nightblades. Hurl conjured blades infused with shadow magic that rends through flesh like paper.
 tagClass04SkillName01B=Hledač srdce
 tagClass04SkillDescription01B=With refined technique, Phantasmal Blades are conjured so sharp that they can pierce through multiple targets while invisible phantasmal threads draw vitality from the victims.
 tagClass04SkillName01C=Spodní hrana
@@ -361,7 +361,7 @@ tagClass04SkillName04B=Vražedný kruh
 tagClass04SkillDescription04B=Vicious phantasmal blades slice deep into foes caught within the ring, spilling copious amounts of blood.
 
 tagClass04SkillName05A=Dvojité ostří
-tagClass04SkillDescription05A=Allows for the wielding of two one handed melee weapons and provides a chance to attack with both weapons together, potentially landing two successive hits on an enemy.
+tagClass04SkillDescription05A=Mastery of dual wielding melee weapons, favoring the use of blades and piercing implements. ^oEnables the ability to dual wield melee weapons.
 tagClass04SkillName05B=Belgothianovy nůžky
 tagClass04SkillDescription05B=The brawny Belgothian was an anomaly among the lithe Nightblade masters, but he exceeded them all in raw power. Leveraging his strength in direct but lethal attacks like the shears, Belgothian could often finish an enemy in a single move. ^oThis is a dual-wielding technique.
 tagClass04SkillName05C=Amarastin rychlý řez
@@ -392,7 +392,7 @@ tagClass04SkillName08PetB=Blade Burst
 tagClass04SkillDescription08PetB=The Blade Spirit shoots out eviscerating blades in all directions.
 
 tagClass04SkillName11A=Blade Trap
-tagClass04SkillDescription11A=Your command of Nightblade techniques allows you to entrap an enemy within a prison of deadly phantasmal blades.
+tagClass04SkillDescription11A=Your command of Nightblade techniques allows you to entrap enemies within a prison of deadly phantasmal blades.
 tagClass04SkillName11B=Devouring Blades
 tagClass04SkillDescription11B=The phantasmal blades drain the life essence of the foes trapped within their grasp, transferring it to you.
 
@@ -422,6 +422,15 @@ tagClass04SkillDescription12A=Draw vital breathe from enemies within an area, ga
 tagClass04SkillName13D=Nemilosrdný repertoár
 tagClass04SkillDescription13D=Efficient use of poisons and anti-clotting agents can sometimes be the deadliest weapon of all.
 
+tagClass04SkillName14A=Lethal Gambit
+tagClass04SkillDescription14A=A risky technique favored by the master of assassins Amarasta. Lethal Gambit has the potential to inflict devastating harm when carried off perfectly, but with the risk that it may falter.
+tagClass04SkillName14B=Amarasta's Blade Burst
+tagClass04SkillDescription14B=Mastery of the Lethal Gambit technique enhances it with a burst of dozens of deadly phantasmal blades which spread out from the point of attack to damage all adjacent foes.
+
+tagClass04SkillName15A=Eviscerate
+tagClass04SkillDescription15A=A quick cut to the gut that will bleed out a victim over time, while impairing their mobility and attack speed. ^oRequires a Sword or Axe.
+tagClass04SkillName15B=Amarasta's Gambit
+tagClass04SkillDescription15B=A master technique that enhances eviscerate and has the potential to cause devastating damage if carried off perfectly but with the risk that it may falter and do little to nothing.
 
 
 #Class05
@@ -470,8 +479,8 @@ tagClass05SkillDescription07A=A charge of arcane electricity saps enchantments f
 tagClass05SkillName07B=Unmake
 tagClass05SkillDescription07B=Unleashes the full potential of Nullification, creating a blast of energy that erases the very existence of your enemies.
 
-tagClass05SkillName08A=Agrivix' Energy Vortex
-tagClass05SkillDescription08A=Agrivix was a scholar willing to study the most dangerous aspects of the Arcane that most deem too risky. This technique saps arcane energies from nearby targets and transfers them to the caster.
+tagClass05SkillName08A=Wizard's Trap
+tagClass05SkillDescription08A=Drops arcane mystical power shit on the ground that blows up when enemies get near it.
 tagClass05SkillName08B=Mental Burn
 tagClass05SkillDescription08B=Further training in this vile technique causes Energy Vortex to burn excess energy from the target, causing great mental anguish.
 
@@ -606,6 +615,9 @@ tagItemSkillA009Desc=Unleashes a blast of lightning energy, damaging all nearby 
 tagItemSkillA010=Static Charge
 tagItemSkillDescA010=A surge of electricity discharges from you, damaging nearby enemies.
 
+tagItemSkillA011=Kilrian's Flame
+tagItemSkillDescA011=A dark flame engulfs your flesh, incinerating any that dare come near and draining their vitality.
+
 tagItemSkillB001Name=Blastwave
 tagItemSkillB001Desc=A wave of fire erupts from your attack.
 
@@ -665,6 +677,9 @@ tagItemSkillB018Desc=A soothing mist envelops you, clearing your mind.
 
 tagItemSkillB019Name=Zarthuzellan's Flame
 tagItemSkillB019Desc=Unleashes a fiery blast upon the heathens.
+
+tagItemSkillB020Name=Touch of Rolderathis
+tagItemSkillB020Desc=Hurl a chilled projectile at the target, coating it with immobilizing ice.
 
 tagItemSkillC002Name=Lightning Orb
 tagItemSkillC002Desc=Retaliates with an orb of lightning launched in the attacker's direction, damaging and stunning all in its path.
@@ -887,6 +902,18 @@ tagItemSkillC071Desc=Your voice carries with it the command of kings, few can wi
 tagItemSkillC072Name=Menhir's Touch
 tagItemSkillC072Desc=The devout of Menhir find their faith to be their most formidable shield in times of grave danger.
 
+tagItemSkillC073Name=Mind Control
+tagItemSkillC073Desc=Mesmerizes the target, making them confuse friend with foe.
+
+tagItemSkillC074Name=Guardian's Will
+tagItemSkillC074Desc=Your stubborn will to live can save you even from the jaws of death itself. ^oRequires a shield.
+
+tagItemSkillC075Name=Marauder's Fury
+tagItemSkillC075Desc=Unleashes a salvo of fire-infused ammunition. ^oEnables the ability to dual wield ranged weapons.
+
+tagItemSkillC076Name=Marauder's Justice
+tagItemSkillC076Desc=Unleashes a salvo of cold-infused ammunition. ^oEnables the ability to dual wield ranged weapons.
+
 tagItemSkillM001Name=Life's Essence
 tagItemSkillM001Desc=Mends wounds and revitalizes the weary hero.
 
@@ -1033,7 +1060,7 @@ tagCompSkillA026Name=Shield Slam
 tagCompSkillA026Desc=Slam your enemy with your shield, disabling lesser foes completely.
 
 tagCompSkillA027Name=Shield Spike
-tagCompSkillA027Desc=Slam your enemy with your shield, impaling them upon its spikes.
+tagCompSkillA027Desc=Slam your enemy with your shield, impaling your target upon its spikes.
 
 tagCompSkillA028Name=Silver Edge
 tagCompSkillA028Desc=Strike with your weapon, devastating to Chthonic beings.
@@ -1059,8 +1086,14 @@ tagCompSkillB004Desc=Unleash the infinite gaze of Dreeg around you.
 tagCompSkillB005Name=Solaelův plamen
 tagCompSkillB005Desc=Spal svého nepřítele temným plamenem Solaela.
 
+tagCompSkillB006Name=Oleron's Might
+tagCompSkillB006Desc=Strikes with your weapon, inflicting grevious wounds and crippling the target.
+
 
 #ConsumableSkills
+
+tagConsumableSkill_RoyalJellyBalmName=Royal Jelly Balm
+tagConsumableSkill_RoyalJellyBalmDesc=Fills you with a soothing warmth.
 
 tagConsumableSkillResistancePoison01Name=Menší odolnost vůči jedu
 tagConsumableSkillResistancePoison01DescZvyšuje o menší množství tvou odolnost vůči jedu.
