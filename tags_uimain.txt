@@ -1,5 +1,4 @@
-# B17
-tagTitleScreenText=Grim Dawn Alpha{^n}©2013 Crate Entertainment, LLC{^n}{^n}Vítej ve hře Grim Dawn Alpha! Vážíme si tvé zpětné vazby.{^n}{^n}Navštiv prosím naše webové stránky www.grimdawn.com pro podílení se{^n}na pokračujícím vývoji hry Grim Dawn!
+tagTitleScreenText=Grim Dawn Alpha{^n}©2014 Crate Entertainment, LLC{^n}{^n}Vítej ve hře Grim Dawn Alpha! Vážíme si tvé zpětné vazby.{^n}{^n}Navštiv prosím naše webové stránky www.grimdawn.com pro podílení se{^n}na pokračujícím vývoji hry Grim Dawn!
 tagMenu01=Hrát Grim Dawn
 tagMenu02=Hrát vlastní hru
 tagMenu03=Informace
@@ -57,7 +56,8 @@ tagGameplayTitle=Obecné
 tagGameplayDesc01=Tato možnost povoluje zobrazit herní nápovědu.
 tagGameplayDesc02=Tato možnost povoluje prodávat věci u obchodníka pravým tlačítkem myši.
 tagGameplayDesc03=Tato možnost povoluje porovnávat předměty v inventáři a na postavě.
-tagGameplayDesc04=Tato možnost povoluje zobrazit informaci o kritickém zásahu nepřítele.
+tagGameplayDesc04=Display damage numbers when you hit enemies.
+tagGameplayDesc22=Display critical hit multipliers when you crit enemies.
 tagGameplayOption01=Zobrazovat nápovědu
 tagGameplayOption02=Rychlý prodej (pravým tlačítkem)
 tagGameplayOption03=Povolit porovnávání předmětů
@@ -82,6 +82,7 @@ tagGameplayOption18=Výuková nápověda
 tagGameplayOption19=Doba mizení mrtvol
 tagGameplayOption20=Klasické zaměřování
 tagGameplayOption21=Posílat anonymní statistiky
+tagGameplayOption22=Show Crit Multipliers
 tagNone=Žádná
 tagRed=Červená
 tagGreen=Zelená

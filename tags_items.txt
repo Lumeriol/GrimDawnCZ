@@ -1,10 +1,6 @@
 #prefix/quality/style/name/suffix concatenation
 
-tagItemNameOrder=%t0%t1%t2%t3%t4^n
-tagItemPrefix=%s0 
-tagItemQuality=%s0 
-tagItemStyle=%s0 
-tagItemSuffix= %s0
+tagItemNameOrder={%_s0}{%_s1}{%_s2}{%_s3}{%_s4}
 
 #Weapons
 
@@ -48,6 +44,8 @@ tagWeaponSwordC013=Vrahovo volání
 tagWeaponSwordC013Desc=^b"Do čepele je zapuštěna malá lahvička jedu, vyvolávající tuhnoucí ochrnutí a konečnou smrt."
 tagWeaponSwordC014=Břitva slepého vraha
 tagWeaponSwordC015=Zkrvavená dýka úmluvy
+tagWeaponSwordC016=Willie's Razor
+tagWeaponSwordC016Desc=^b"The edge of this blade never dulls."
 
 tagWeaponSwordD001=Purpurový bodec
 tagWeaponSwordD001Desc=^b"Zbraň naplní svého nositele neukojitelou žízní po krvi."
@@ -83,7 +81,9 @@ tagWeaponBluntB003=Zlobrovo mačkadlo hlav
 tagWeaponBluntB004=Zlobrův drtič lebek
 tagWeaponBluntB005=Přízračný kropáč
 tagWeaponBluntB006=Přízračný kyj
-tagWeaponBluntB007=Kilrianův drtič lebek
+tagWeaponBluntB007=Kilrianův rozbíječ lebek
+tagWeaponBluntB008=Skinner's Torch
+tagWeaponBluntB008Desc=^b"A desperate man's last hope..."
 
 tagWeaponBluntC001=Éterická bída
 tagWeaponBluntC002=Anarchie
@@ -245,6 +245,7 @@ tagWeaponCrossbow2hA003=těžká kuše
 tagWeaponCrossbow2hA004=škorpion
 
 tagWeaponCrossbow2hB001=spektrální kuše
+tagWeaponCrossbow2hB002=Spectral Arbalest
 
 tagWeaponCrossbow2hC001=Boltspitter
 tagWeaponCrossbow2hC001Desc=^b"A prototype weapon. Unfortunately, its inventor was slain before it could be taken to mass production."
@@ -272,18 +273,18 @@ tagWeaponCrossbow2hD004=Raka'Jax
 tagWeaponCrossbow2hD005=Harbinger of Eternal Suffering
 
 
-tagWeaponMelee2hA001=
-tagWeaponMelee2hA002=
-tagWeaponMelee2hA003=
-tagWeaponMelee2hA004=
-tagWeaponMelee2hA005=
-tagWeaponMelee2hA006=
-tagWeaponMelee2hA007=
-tagWeaponMelee2hA008=
-tagWeaponMelee2hA009=
-tagWeaponMelee2hA010=
-tagWeaponMelee2hA011=
-tagWeaponMelee2hA012=
+tagWeaponMelee2hA001=Greatsword
+tagWeaponMelee2hA002=Flamberge
+tagWeaponMelee2hA003=Claymore
+tagWeaponMelee2hA004=Reaver
+tagWeaponMelee2hA005=Great Axe
+tagWeaponMelee2hA006=Carver
+tagWeaponMelee2hA007=Decapitator
+tagWeaponMelee2hA008=Executioner
+tagWeaponMelee2hA009=Mallet
+tagWeaponMelee2hA010=Maul
+tagWeaponMelee2hA011=Sledgehammer
+tagWeaponMelee2hA012=Crusher
 
 tagWeaponMelee2hC001=Gutwrench Eviscerator
 tagWeaponMelee2hC002=Massacre
@@ -355,7 +356,8 @@ tagShieldA010=pavéza
 tagShieldB001=Wardenova hradba
 tagShieldB001Desc=^b"Kovaná z kalené oceli s bezohlednou nenávistí."
 tagShieldB002=Wardenono opevnění
-tagShieldB003=Spektrální válečný štít
+tagShieldB003=Spektrální štít
+tagShieldB004=Spektrální válečný štít
 
 tagShieldC001=Defender of Devil's Crossing
 tagShieldC002=Elementium
@@ -413,6 +415,8 @@ tagFocusA012=podivná hůlka
 
 tagFocusB001=Zarthuzellan's Codex
 tagFocusB001Desc=^b"Filled with fiery invocations to consecrate the nonbelievers."
+tagFocusB002=Rolderathis' Tome
+tagFocusB002Desc=^b"Words within this tome chill your heart with their maddening hatred."
 
 tagFocusC001=Demence
 tagFocusC002=Zdrcující vůle
@@ -537,6 +541,13 @@ tagHeadA012=čelenka
 tagHeadA013=diadém
 tagHeadA014=korunka
 
+tagHeadB001=Incendiary Helm
+tagHeadB002=Incendiary Casque
+tagHeadB003=Ascended Helm
+tagHeadB004=Ascended Casque
+tagHeadB005=Murderer's Coif
+tagHeadB006=Murderer's Cowl
+
 tagHeadC001=Stormcaller's Circlet
 tagHeadC002=Berserker's Cowl
 tagHeadC003=Nether Crown
@@ -588,6 +599,14 @@ tagShoulderA003=chrániče ramen
 tagShoulderA004=nárameníky
 tagShoulderA005=plátované nárameníky
 tagShoulderA006=skládané nárameníky
+
+tagShoulderB001=Incendiary Spaulders
+tagShoulderB002=Incendiary Shoulderplates
+tagShoulderB003=Ascended Spaulders
+tagShoulderB004=Ascended Shoulderplates
+tagShoulderB005=Murderer's Spaulders
+tagShoulderB006=Murderer's Epaulets
+tagShoulderB007=Isaac's Spaulders
 
 tagShoulderC001=Razorback's Spined Mantle
 tagShoulderC001Desc=^b"Stitched together from the carcass of Razorback."
@@ -643,6 +662,9 @@ tagTorsoA014C=tunika
 tagTorsoA015C=háv
 tagTorsoA016C=roucho
 tagTorsoA017C=róba
+
+tagTorsoB001=Murderer's Armor
+tagTorsoB002=Murderer's Breastplate
 
 tagTorsoC001=
 tagTorsoC002=Ornate Chestguard
@@ -756,6 +778,7 @@ tagHandsC012=Herald's Gloves
 tagHandsC013=Menhir's Touch
 tagHandsC014=Handguards of Redemption
 tagHandsC015=Dawnguard Gauntlets
+tagHandsC016=Embergrip Handguards
 
 tagHandsD001=Grasp of Unchained Might
 tagHandsD001Desc=^b"Gloves blessed with the ferocity of Oleron himself."
@@ -785,12 +808,12 @@ tagLegsC002=Hermit's Legguards
 tagLegsC003=Swampdweller's Legguards
 tagLegsC004=Explorer's Trousers
 tagLegsC005=Soiled Trousers
-tagLegsC005Desc=^b"The previous owner seems to have left a little something in the seat of these trousers."
+tagLegsC005Desc=^b"The previous owner seems to have left a little surprise in the seat of these trousers."
 tagLegsC006=Slithscale Legwraps
 tagLegsC007=Templar's Leg Armor
 tagLegsC008=Legplates of Valor
 tagLegsC009=Flesheater Legwraps
-tagLegsC009Desc=^b"The origins of some relics are best left to the annals history."
+tagLegsC009Desc=^b"The origins of some objects are best left to the annals history."
 tagLegsC010=Shadeleather Leggings
 tagLegsC011=Hulking Legguards
 tagLegsC012=Legguards of Redemption
@@ -802,9 +825,9 @@ tagLegsD001Desc=^b"The real challenge in the creation of this armor came in acqu
 tagLegsD002=Boneweave Leggings
 tagLegsD003=Deathwhisper Leggings
 tagLegsD004=Hellforged Legplates
-tagLegsD004Desc=^b"Forged in the s breath of a hellhound."
+tagLegsD004Desc=^b"Forged in the smoldering breath of a hellhound."
 tagLegsD005=Spellweave Legwraps
-tagLegsD005Desc=^b"Dozens of incantations and words of power were whispered into the thread which now forms these legwraps."
+tagLegsD005Desc=^b"Dozens of incantations and words of power were whispered into the thread which now forms this armor."
 tagLegsD006=Legguards of Justice
 tagLegsD007=Beastcaller's Leggings
 tagLegsD008=Archmage's Leggings
@@ -870,8 +893,10 @@ tagRingA013=diamantová pečeť
 
 tagRingB001=Reddan Memento Ring
 tagRingB001Desc=^b"A worn out inscription along the band says: With love - Amelia"
-tagRingB002=Darius' Signet
+tagRingB002=Cronley's Signet
 tagRingB002Desc=^b"Stained with the blood of his victims, now joined by his own."
+tagRingB003=Skinner Family Seal
+tagRingB003Desc=^b"Likely the most valuable item the family had ever owned."
 
 tagRingC001=Marrow Band
 tagRingC002=Obsidian Seal
@@ -942,7 +967,7 @@ tagNecklaceC007=Warmaster's Pride
 tagNecklaceC008=Spiritstone Charm
 tagNecklaceC009=Vortex Stone
 tagNecklaceC010=Death Ward
-tagNecklaceC010Desc=^b"A talisman once worn to ward off evil spirits."
+tagNecklaceC010Desc=^b"A charm once worn to ward off evil spirits."
 tagNecklaceC011=Essence of Beronath
 tagNecklaceC011Desc=^b"Trapped residual essence of the great beast Beronath."
 tagNecklaceC012=Bane of Nuram'Siin
@@ -1012,12 +1037,57 @@ tagMedalD008Desc=^b"Named in honor of the famed tactician Markovian, this medal 
 
 
 #Blueprints
-
-tagTorsoBlueprintA0301=Blueprint: Silverclad Fieldcoat
-tagComponentBlueprintA0101=Blueprint: Silver Plating
-tagComponentBlueprintA0201=Blueprint: Amulet of Eye
 tagTestBlueprint=Blueprint: Item Name of the Awesomesauce
 tagTestBlueprintDescription="Flavor text of the Awesomesauce item that is awesome at things."
+
+tagBlueprint_RelicB001=Blueprint: Relic - Calamity
+tagBlueprint_RelicB002=Blueprint: Relic - Ruination
+tagBlueprint_RelicB003=Blueprint: Relic - Tranquility
+tagBlueprint_RelicB004=Blueprint: Relic - Glacier
+tagBlueprint_RelicB005=Blueprint: Relic - Squall
+tagBlueprint_RelicB006=Blueprint: Relic - Inferno
+tagBlueprint_RelicB007=Blueprint: Relic - Corruption
+tagBlueprint_RelicB008=Blueprint: Relic - Sanctuary
+tagBlueprint_RelicB009=Blueprint: Relic - Guile
+tagBlueprint_RelicB010=Blueprint: Relic - Rampage
+tagBlueprint_RelicB011=Blueprint: Relic - Mistborn Talisman
+tagBlueprint_RelicB012=Blueprint: Relic - Bladesworn Talisman
+tagBlueprint_RelicB013=Blueprint: Relic - Gunslinger's Talisman
+tagBlueprint_RelicC001=Blueprint: Relic - Arbiter
+tagBlueprint_RelicC002=Blueprint: Relic - Fortress
+tagBlueprint_RelicC003=Blueprint: Relic - Slaughter
+tagBlueprint_RelicC004=Blueprint: Relic - Juggernaut
+tagBlueprint_RelicC005=Blueprint: Relic - Terror
+tagBlueprint_RelicC006=Blueprint: Relic - Torment
+tagBlueprint_RelicC007=Blueprint: Relic - Haunt
+tagBlueprint_RelicC008=Blueprint: Relic - Conflagration
+tagBlueprint_RelicC009=Blueprint: Relic - Savagery
+tagBlueprint_RelicC010=Blueprint: Relic - Deathchill
+tagBlueprint_RelicC011=Blueprint: Relic - Sacrifice
+tagBlueprint_RelicC012=Blueprint: Relic - Zeal
+tagBlueprint_RelicC013=Blueprint: Relic - Desolation
+tagBlueprint_RelicC014=Blueprint: Relic - Blight
+tagBlueprint_RelicC015=Blueprint: Relic - Ancestor
+tagBlueprint_RelicD001=Blueprint: Relic - Aegis
+tagBlueprint_RelicD002=Blueprint: Relic - Malediction
+tagBlueprint_RelicD003=Blueprint: Relic - Belgothian's Carnage
+tagBlueprint_RelicD004=Blueprint: Relic - Citadel
+tagBlueprint_RelicD005=Blueprint: Relic - Eye of the Storm
+tagBlueprint_RelicD006=Blueprint: Relic - Reckoning
+tagBlueprint_RelicD007=Blueprint: Relic - Scourge
+tagBlueprint_RelicD008=Blueprint: Relic - Ulzuin's Pyroclasm
+tagBlueprint_RelicD009=Blueprint: Relic - Necrosis
+tagBlueprint_RelicD010=Blueprint: Relic - Agravix's Malice
+tagBlueprint_RelicD011=Blueprint: Relic - Oblivion
+tagBlueprint_RelicD012=Blueprint: Relic - Nemesis
+tagBlueprint_RelicD013=Blueprint: Relic - Annihilation
+tagBlueprint_RelicD014=Blueprint: Relic - Avenger
+tagBlueprint_RelicD015=Blueprint: Relic - Primal Instinct
+tagBlueprint_RelicD016=Blueprint: Relic - Devastation of Solael
+tagBlueprint_RelicD017=Blueprint: Relic - Affliction of Dreeg
+tagBlueprint_RelicD018=Blueprint: Relic - Domination of Bysmiel
+tagBlueprint_RelicD019=Blueprint: Relic - Wrath of Oleron
+tagBlueprint_RelicD020=Blueprint: Relic - Bastion of Menhir
 
 #Relics
 
@@ -1026,9 +1096,88 @@ tagDeviceTier01=Mundane
 tagDeviceTier02=Empowered
 tagDeviceTier03=Sacred
 
-#Crafting
+tagRelicB001=Calamity
+tagRelicB002=Ruination
+tagRelicB003=Tranquility
+tagRelicB004=Glacier
+tagRelicB005=Squall
+tagRelicB006=Inferno
+tagRelicB007=Corruption
+tagRelicB008=Sanctuary
+tagRelicB009=Guile
+tagRelicB010=Rampage
+tagRelicB011=Mistborn Talisman
+tagRelicB011Desc=^b"A talisman carried by trolls to drive them into a mindless battlerage that does not end until every enemy lies dead."
+tagRelicB012=Bladesworn Talisman
+tagRelicB013=Gunslinger's Talisman
+tagRelicB014=Bone Talisman
+tagRelicB014Desc=^b"This chip of bone was meticulously covered with phrases and symbols of spiritual importance to the Rovers."
 
-tagCraftRandomItemDesc=^bGenerates a random item appropriate to your level with at least one rare-quality affix.
+tagRelicC001=Arbiter
+tagRelicC002=Fortress
+tagRelicC003=Slaughter
+tagRelicC004=Juggernaut
+tagRelicC005=Terror
+tagRelicC006=Torment
+tagRelicC007=Haunt
+tagRelicC008=Conflagration
+tagRelicC009=Savagery
+tagRelicC010=Deathchill
+tagRelicC011=Sacrifice
+tagRelicC012=Zeal
+tagRelicC013=Desolation
+tagRelicC014=Blight
+tagRelicC015=Ancestor
+
+tagRelicD001=Aegis
+tagRelicD002=Malediction
+tagRelicD003=Belgothian's Carnage
+tagRelicD004=Citadel
+tagRelicD005=Eye of the Storm
+tagRelicD006=Reckoning
+tagRelicD007=Scourge
+tagRelicD008=Ulzuin's Pyroclasm
+tagRelicD009=Necrosis
+tagRelicD010=Agrivix's Malice
+tagRelicD011=Oblivion
+tagRelicD012=Nemesis
+tagRelicD013=Annihilation
+tagRelicD014=Avenger
+tagRelicD015=Primal Instinct
+tagRelicD016=Devastation of Solael
+tagRelicD017=Affliction of Dreeg
+tagRelicD018=Domination of Bysmiel
+tagRelicD019=Wrath of Oleron
+tagRelicD020=Bastion of Menhir
+
+
+#Crafting
+tagCraftTabArtifactA=Relics
+tagCraftTabArtifactB=Talismans, charms and artifacts of great power.
+tagCraftTabMeleeA=Melee Weapons
+tagCraftTabMeleeB=An assortment of martial weapons intended for slicing, chopping and smashing.
+tagCraftTabRangedA=Ranged Weapons
+tagCraftTabRangedB=A selection of pistols, rifles and crossbows for those who prefer to fight at range.
+tagCraftTabArmorA=Armor
+tagCraftTabArmorB=A collection of shields, foci and body armor of various makes and materials.
+tagCraftTabMiscA=Accessories and Consumables
+tagCraftTabMiscB=A mix of techniques that sometimes go beyond use of the forge.
+
+tagCraftMaterial_RoyalJelly=Royal Jelly
+tagCraftMaterial_RoyalJelly_Desc=^b"Concentrated secretion from giant wasps of Old Arkovia. Widely believed to carry restorative properties."
+tagCraftMaterial_AetherShard=Aether Shard
+tagCraftMaterial_AetherShard_Desc=^b"A large shard from an aether crystal formation, still teeming with untapped power."
+tagCraftMaterial_AetherCluster=Aether Cluster
+tagCraftMaterial_AetherCluster_Desc=^b"A concentrated cluster of Aether Shards, bursting with unstable energies."
+tagCraftMaterial_TaintedBrain=Tainted Brain Matter
+tagCraftMaterial_TaintedBrain_Desc=^b"Brain tissue scarred and twisted by the presence of a powerful Aetherial."
+tagCraftMaterial_BloodChthon=Blood of Ch'thon
+tagCraftMaterial_BloodChthon_Desc=^b"Coalesced essence of the void god."
+tagCraftMaterial_AncientHeart=Ancient Heart
+tagCraftMaterial_AncientHeart_Desc=^b"It continues to beat within your bag with an eerily steady rhythm."
+
+tagCraftRandomItemDesc=^bThe blacksmith crafts a random item appropriate to your level of at least magical quality.
+tagCraftComponentDesc=^bExperienced forging technique can yield materials of superior quality.
 
 tagCraftRandomAxe=Random Axe
 tagCraftRandomBlunt=Random Mace
@@ -1067,31 +1216,36 @@ tagSuppliesBonus=
 tagSuppliesHelp=[Crafting Supplies are used with Blueprints]
 tagSuppliesError=
 
-tagSuppliesA001Name=Assembly Kit
-tagSuppliesA001Description=Assembly kits are necessary to construct certain blueprint items.
 
-tagSuppliesA002Name=Whetstone
-tagSuppliesA002Description=Whetstones are used for metal sharpening.
+#Consumables
 
-tagSuppliesA003Name=Leather Scraps
-tagSuppliesA003Description=Leather scraps can be stiched together and used in the creation of new armor pieces.
+tagScrollDirections=[Right-Click to Consume]
 
-tagSuppliesA004Name=Gazer Eye
-tagSuppliesA004Description=Even in death, the eye of a gazer holds lingering power that can be used in the creation of magical items.
+tagConsumableRoyalJellyBalmBlueprint=Recipe: Royal Jelly Balm
+tagConsumableRoyalJellyBalmBlueprintDesc=^b"A secret medicinal technique of the Rovers."
+tagConsumable_RoyalJellyBalm=Royal Jelly Balm
+tagConsumable_RoyalJellyBalmDesc=^b"A soothing concoction made from concentrated Royal Jelly."
+
+tagConsumablePotionResistancePoison01=Draught of Poison Resistance
+tagConsumablePotionResistancePoison01Desc=^b"Grants minor resistance to poison for a short time."
+
 
 #ItemNote
 
 tagNoteHelp=[pravým kliknitím přečti]
+tagNoteKnown=[Already Known]
+tagNoteExcerpt=^b"{%t}.."
 
 #ItemComponents
 
 tagComponentIncomplete=Dílčí komponenta
 tagComponentComplete=Celá komponenta
 tagComponentNumber={%s0 - %d1 / %d2}
-tagComponentBonus=Bonus za složenou komponentu
+tagComponentBonus=Bonus za složení:
 tagComponentQualities=Vlastnosti komponenety:
 tagComponentHelp=[pravým kliknutím použij nebo zkombinuj]
 tagComponentError=[nelze použít - nesplňuješ podmínky]
+tagComponentCombine=[pravým kliknutím složit]
 tagComponentConfirmation=Opravdu chceš složit tuto kombinaci?
 
 tagCompA001Name=Hřbetní krunýř
@@ -1338,15 +1492,22 @@ tagCompB019Desc=^b"A spark of the purest arcane energy."^w^n(Used in amulets)
 tagCompB020Name=^kMyrmidonské znamení
 tagCompB020Desc=^b"A powerful symbol bestowed upon the most fearless battle lords."^w^n(Used in shields)
 
+tagCompB021Name=^kOleron's Blood
+tagCompB021Desc=^b"Sacred blood of the war god."^w^n(Used in all weapons)
+
+tagCompB022Name=^kKilrian's Shattered Soul
+tagCompB022Desc=^b"The tainted soul of Kilrian, terror of the Arkovian Undercity."^w^n(Used in chest armor)
+
 
 tagCompAetherCrystal=Éterický krystal
-tagCompAetherCrystalDesc="Střep krystalu s přetrvávající mocí Éteru.  Může být použit při výrobě tajemných předmětů."
+tagCompAetherCrystalDesc=^b"Střep krystalu s přetrvávající mocí Éteru.  Může být použit při výrobě tajemných předmětů."
 
 tagCompAmmoBox=Pouzdro na munici
 tagCompAmmoBoxDesc="Aby temné síly zamořující Cairn byly zlikvidovány, můžeš vždycky použít víc munice."
 
 tagCompAScrap=Kovový šrot
-tagCompAScrapDesc=Kusy železa, jako jsou šipky, kožené šňůry nebo nekvalitní kovy mohou být sloučeny dohromady a být tak použity ke zpevnění předmětů nebo staveb.
+tagCompAScrapDesc=^b"Kusy železa, jako jsou šipky, kožené šňůry nebo nekvalitní kovy mohou být sloučeny dohromady a být tak použity ke zpevnění předmětů nebo staveb."
+
 
 #Misc
 
@@ -1358,6 +1519,8 @@ tagPotionHealthA01Desc=^b"Utěsňuje zranění a spravuje zlámané kosti."
 tagPotionEnergyA01=Elixír ducha
 tagPotionEnergyA01Desc=^b"Omlazuje mysl a ducha."
 tagPotionDirections=[použít pravým tlačítkem myši]
+
+
 #ItemSets
 
 tagItemSetC001Name=Guardsman's Raiment
@@ -1418,13 +1581,13 @@ tagItemSetD002Name=The Sacred Balance
 tagItemSetD002Desc=^b"The very essence of Life and Death is imbued within these blades."
 
 tagItemSetD003Name=Beastcaller's Regalia
-tagItemSetD003Desc=^b"Strength of the bear, wisdom of the owl, fury of the wolf."
+tagItemSetD003Desc=^b"Might of the bear, wisdom of the owl, fury of the wolf."
 
 tagItemSetD004Name=Dawnbreaker's Light
-tagItemSetD004Desc=^b"The fury of the sun against the encroaching darkness."
+tagItemSetD004Desc=^b"The wrath of the sun against the encroaching darkness."
 
 tagItemSetD005Name=The Harbinger
-tagItemSetD005Desc=^b"Tools of the Harbinger, renown bounty hunter in the outskirts of Erulan."
+tagItemSetD005Desc=^b"Tools of the Harbinger, renowned bounty hunter in the outskirts of Erulan."
 
 tagItemSetD006Name=Judicator's Signets
 tagItemSetD006Desc=^b"The fates of many decided by the heavy hand of one."
@@ -1436,13 +1599,13 @@ tagItemSetD008Name=Barrelsmith's Twins
 tagItemSetD008Desc=^b"Forged together, fight as one."
 
 tagItemSetD009Name=Wildblood Vanguard
-tagItemSetD009Desc=^b"A relic from a less civilized era."
+tagItemSetD009Desc=^b"A collection from a less civilized era."
 
 tagItemSetD010Name=The Archmage
 tagItemSetD010Desc=^b"Vestments once worn by the archmage of the Silver Tower, principal keep of the Gildam Arcanum."
 
 tagItemSetD011Name=Invoker's Elements
-tagItemSetD011Desc=^b"Vestments once worn by the archmage of the Silver Tower, principal keep of the Gildam Arcanum."
+tagItemSetD011Desc=^b"The raging power of a volcano balanced by the chill of the northern wind."
 
 
 #Prefixes
@@ -1506,7 +1669,7 @@ tagPrefixAO006=otrávený
 tagPrefixAO007=nabitý
 tagPrefixAO008=upírský
 tagPrefixAO009=přízračný
-tagPrefixAO010=smrtící
+tagPrefixAO010=oslabující
 tagPrefixAO011=korozivní
 tagPrefixAO012=pokroucený
 tagPrefixAO013=znehodnocený
@@ -1520,82 +1683,83 @@ tagPrefixB006_WpnMelee1h_A=krvežíznivý
 tagPrefixB007_WpnMelee1h_A=důstojníkův
 tagPrefixB008_WpnMelee1h_A=démonický
 tagPrefixB009_WpnMelee1h_A=pekelný
-tagPrefixB010_WpnMelee1h_A=Flamecaster
-tagPrefixB010_WpnMelee1h_B=Flamecaster
-tagPrefixB011_WpnMelee1h_A=Eldritch
-tagPrefixB012_WpnMelee1h_A=Skyfallen
-tagPrefixB013_WpnMelee1h_A=Frostborn
-tagPrefixB014_WpnMelee1h_A=Earthbound
-tagPrefixB015_WpnMelee1h_A=Stormheart
-tagPrefixB016_WpnMelee1h_A=Hellfire
-tagPrefixB017_WpnMelee1h_A=Hoarfrost
-tagPrefixB018_WpnMelee1h_A=Venomfang
-tagPrefixB019_WpnMelee1h_A=Aetherfire
-tagPrefixB020_WpnMelee1h_A=Sinister
-tagPrefixB021_WpnMelee1h_A=Heart Piercing
+tagPrefixB010_WpnMelee1h_A=mistra plamene
+tagPrefixB010_WpnMelee1h_B=vyvolavače plamenů
+tagPrefixB011_WpnMelee1h_A=tajuplný
+tagPrefixB012_WpnMelee1h_A=z nebe spadlý
+tagPrefixB013_WpnMelee1h_A=z mrazu zkutý
+tagPrefixB014_WpnMelee1h_A=se zemí svázaný
+tagPrefixB015_WpnMelee1h_A=ze srdce bouře
+tagPrefixB016_WpnMelee1h_A=z pekelného ohně
+tagPrefixB017_WpnMelee1h_A=jinovatkou potřísněný
+tagPrefixB018_WpnMelee1h_A=z jedovatého tesáku
+tagPrefixB019_WpnMelee1h_A=z éterického ohně
+tagPrefixB020_WpnMelee1h_A=zlověstný
+tagPrefixB021_WpnMelee1h_A=srdce probodávající
+tagPrefixB022_WpnMelee1h_A=horečný
 
-tagPrefixB001_Ar_A=Celestial
-tagPrefixB002_Ar_A=Rampage
-tagPrefixB003_Ar_A=Renegade's
-tagPrefixB004_Ar_A=Lich's
-tagPrefixB005_Ar_A=Harmonious
-tagPrefixB006_Ar_A=Dread Lord's
-tagPrefixB007_Ar_A=Devastating
-tagPrefixB008_Ar_A=Ancient
-tagPrefixB009_Ar_A=Tempest
-tagPrefixB010_Ar_A=Survivalist's
-tagPrefixB011_Ar_A=Maniacal
-tagPrefixB012_Ar_A=Overseer's
-tagPrefixB013_Ar_A=Paladin's
-tagPrefixB014_Ar_A=Seraphim
-tagPrefixB015_Ar_A=Consecrated
-tagPrefixB016_Ar_A=Rimefrost
-tagPrefixB017_Ar_A=Blighted
-tagPrefixB018_Ar_A=Incorruptible
-tagPrefixB019_Ar_A=Light Bringer's
-tagPrefixB020_Ar_A=Unyielding
-tagPrefixB021_Ar_A=Resonant
-tagPrefixB022_Ar_A=Menacing
-tagPrefixB023_Ar_A=Formidable
-tagPrefixB024_Ar_A=Imposing
-tagPrefixB025_Ar_A=Merciless
-tagPrefixB026_Ar_A=Cutthroat's
-tagPrefixB027_Ar_A=Bloodletter's
-tagPrefixB028_Ar_A=Stonehide
-tagPrefixB029_Ar_A=General's
+tagPrefixB001_Ar_A=nebeský
+tagPrefixB002_Ar_A=běsnící
+tagPrefixB003_Ar_A=zrádcův
+tagPrefixB004_Ar_A=lichův
+tagPrefixB005_Ar_A=harmonický
+tagPrefixB006_Ar_A=temného rytíře
+tagPrefixB007_Ar_A=ničivý
+tagPrefixB008_Ar_A=pradávný
+tagPrefixB009_Ar_A=bouřný
+tagPrefixB010_Ar_A=přeživšího
+tagPrefixB011_Ar_A=šílený
+tagPrefixB012_Ar_A=dozorcův
+tagPrefixB013_Ar_A=paladinův
+tagPrefixB014_Ar_A=serafínský
+tagPrefixB015_Ar_A=posvěcený
+tagPrefixB016_Ar_A=namrzlý
+tagPrefixB017_Ar_A=zkázonosný
+tagPrefixB018_Ar_A=nazkazitelný
+tagPrefixB019_Ar_A=světlonošův
+tagPrefixB020_Ar_A=nepoddajný
+tagPrefixB021_Ar_A=zvučný
+tagPrefixB022_Ar_A=ohrožující
+tagPrefixB023_Ar_A=ohromující
+tagPrefixB024_Ar_A=impozantní
+tagPrefixB025_Ar_A=nemilosrdný
+tagPrefixB026_Ar_A=hrdložezův
+tagPrefixB027_Ar_A=krvavého démona
+tagPrefixB028_Ar_A=z kamenné kůže
+tagPrefixB029_Ar_A=vojevůdcův
 
-tagPrefixB001_Class_A=Commando's
-tagPrefixB002_Class_A=Witchblade's
-tagPrefixB003_Class_A=Blademaster's
-tagPrefixB004_Class_A=Battlemage's
-tagPrefixB005_Class_A=Pyromancer's
-tagPrefixB006_Class_A=Saboteur's
-tagPrefixB007_Class_A=Deathdealer's
-tagPrefixB008_Class_A=Witch Hunter's
-tagPrefixB009_Class_A=Warlock's
-tagPrefixB010_Class_A=Nightstalker's
-tagPrefixB011_Class_A=Warrior's
-tagPrefixB012_Class_A=Arsonist's
-tagPrefixB013_Class_A=Heretic's
-tagPrefixB014_Class_A=Assassin's
-tagPrefixB015_Class_A=Magi's
+tagPrefixB001_Class_A=úderníkův
+tagPrefixB002_Class_A=bijce čarodějnic
+tagPrefixB003_Class_A=mistra čepelí
+tagPrefixB004_Class_A=bojového mága
+tagPrefixB005_Class_A=pyromancerův
+tagPrefixB006_Class_A=sabotérův
+tagPrefixB007_Class_A=obchodníka se smrtí
+tagPrefixB008_Class_A=lovce čarodějnic
+tagPrefixB009_Class_A=čarodějův
+tagPrefixB010_Class_A=nočního lovce
+tagPrefixB011_Class_A=bojovníkův
+tagPrefixB012_Class_A=žhářův
+tagPrefixB013_Class_A=kacířův
+tagPrefixB014_Class_A=vrahův
+tagPrefixB015_Class_A=kouzelníkův
 
-tagPrefixB001_Sh_A=Immovable
-tagPrefixB002_Sh_A=Keeper's
-tagPrefixB003_Sh_A=Supercharged
-tagPrefixB004_Sh_A=Chronomancer's
-tagPrefixB005_Sh_A=Overlord's
-tagPrefixB006_Sh_A=Houndmaster's
-tagPrefixB007_Sh_A=Sandstorm
-tagPrefixB008_Sh_A=Glacial
-tagPrefixB009_Sh_A=Thunderstruck
-tagPrefixB010_Sh_A=Caustic
-tagPrefixB011_Sh_A=Destroyer's
-tagPrefixB012_Sh_A=Flamewall
-tagPrefixB013_Sh_A=Glacial
-tagPrefixB014_Sh_A=Thunderstruck
-tagPrefixB015_Sh_A=Caustic
-tagPrefixB016_Sh_A=Stonehide
+tagPrefixB001_Sh_A=nehybný
+tagPrefixB002_Sh_A=správcův
+tagPrefixB003_Sh_A=přeplněný
+tagPrefixB004_Sh_A=pána času
+tagPrefixB005_Sh_A=vrchního pána
+tagPrefixB006_Sh_A=mistra psů
+tagPrefixB007_Sh_A=písečné bouře
+tagPrefixB008_Sh_A=ledový
+tagPrefixB009_Sh_A=bleskem zasažený
+tagPrefixB010_Sh_A=leptavý
+tagPrefixB011_Sh_A=ničitelův
+tagPrefixB012_Sh_A=zdi z plamene
+tagPrefixB013_Sh_A=ledový
+tagPrefixB014_Sh_A=bleskem zasažený
+tagPrefixB015_Sh_A=leptavý
+tagPrefixB016_Sh_A=z kamenné kůže
 
 #Suffixes
 
@@ -1637,7 +1801,7 @@ tagSuffixA031=hromu
 tagSuffixA032=koroze
 tagSuffixA033=rozkladu
 tagSuffixA034=jedu
-tagSuffixA035=krveprolití
+tagSuffixA035=krve
 tagSuffixA036=opevnění
 tagSuffixA037=ostnů
 tagSuffixA038=éteru
@@ -1722,9 +1886,12 @@ tagSuffixB026_Ar_A=vyvážené oceli
 tagSuffixB027_Ar_A=nadvlády
 tagSuffixB028_Ar_A=stínů
 tagSuffixB029_Ar_A=nemravných ostnů
-tagSuffixB030_Ar_A=krve
+tagSuffixB030_Ar_A=masakru
 tagSuffixB031_Ar_A=zaklínadel
 tagSuffixB032_Ar_A=pochopení
+tagSuffixB033_Ar_A=prázdnoty
+tagSuffixB034_Ar_A=přežití
+tagSuffixB035_Ar_A=králů
 
 tagSuffixB001_Sh_A=nesmrtelnosti
 tagSuffixB002_Sh_A=statečnosti
@@ -1751,25 +1918,24 @@ tagSuffixB022_Sh_A=vyhlazení
 tagSuffixB023_Sh_A=rituálů
 tagSuffixB024_Sh_A=vazby
 tagSuffixB025_Sh_A=utrpení
+tagSuffixB026_Sh_A=písků
+tagSuffixB027_Sh_A=smrtelného chladu
+tagSuffixB028_Sh_A=bouří
 
 #ItemSkills
 
-tagAutoSkillCondition01= ({%d0}% šance při nízkém zdraví)
-tagAutoSkillCondition02= ({%d0}% šance při nízké energii)
+tagAutoSkillCondition01= ({%d0}% šance při nízkém zdraví)
+tagAutoSkillCondition02= ({%d0}% šance při nízké energii)
 tagAutoSkillCondition03= ({%d0}% šance při zásahu)
-tagAutoSkillCondition04= ({%d0}% šance při zásahu zbraní na blízko)
-tagAutoSkillCondition05= ({%d0}% šance při zásahu střelnou zbraní)
-tagAutoSkillCondition06= ({%d0}% šance při kouzlení zlepšujícího kouzla)
-tagAutoSkillCondition07= ({%d0}% šance na útok)
-tagAutoSkillCondition08= (Aktivní, pokud je nasazeno)
-tagAutoSkillCondition09= ({%d0}% šance při zásahu kritickým úderem)
-tagAutoSkillCondition10= ({%d0}% šance na kritický úder)
-tagAutoSkillCondition11= ({%d0}% šance na vykrytí)
+tagAutoSkillCondition04= ({%d0}% šance při zásahu zbraní na blízko)
+tagAutoSkillCondition05= ({%d0}% šance při zásahu střelnou zbraní)
+tagAutoSkillCondition06= ({%d0}% šance při kouzlení zlepšujícího kouzla)
+tagAutoSkillCondition07= ({%d0}% šance na útok)
+tagAutoSkillCondition08= (Aktivní, pokud je nasazeno)
+tagAutoSkillCondition09= ({%d0}% šance při zásahu kritickým úderem)
+tagAutoSkillCondition10= ({%d0}% šance na kritický úder)
+tagAutoSkillCondition11= ({%d0}% ance na vykrytí)
 
-#Consumables
-
-tagConsumablePotionResistancePoison01=Doušek odolnosti vůči jedu
-tagConsumablePotionResistancePoison01Desc=Poskytne na krátkou dobu menší odolnost vůči jedu.
 
 #LootChests
 
@@ -1796,6 +1962,7 @@ tagChestCorpse_Mornay=Mornayova mrtvola
 tagChestCorpse_RoverElder=Mrtvola staršího Mathiase
 
 tagLectern_WardensLabA01=Výzkumný deníček
+tagLectern_OldArkoviaRuinsA01=Starodávný řečnický pult
 
 tagChestHeroD01=Truhla hrdinů
 tagChestHeroD01_Dropped=Kořist hrdinů
@@ -1854,15 +2021,17 @@ tagDoorLocked=Zamčeno
 
 tagCellDoor=Posuvné dveře
 tagPrisonEntranceDoor=Burrwitchská vězeňská brána
-tagLocked=(Zamčeno)
+tagMineDoor=Přepážka do dolu
+tagEpicDoor_StepsOfTorment=Brány Utrpení
+tagEpicDoor_StepsOfTormentLocked= {^R} ~ Zapečetěno starodávnou civilizací
+tagLocked= {^R} ~ Zamčeno
 
-#Quest Items
+#Quest Rewards
 
 tagQuestItemBrothersAmulet=Sesterský amulet životní síly
 tagQuestItemBrothersAmuletDesc=^b"Pro mého drahého bratra: Nechť ti tento amulet dává sílu v boji. -Sybil"
 
-tagQuestItemFamilyCrisis=Skinnerova rodinná pečeť
-tagQuestItemFamilyCrisisDesc=^b"Pravděpodobně nejcennější věc, co rodina kdy mohla vlastnit."
+
 
 tagQuestItemSlithRing=Slithův prvotní prsten
 tagQuestItemSlithRingDesc=^b"Zápach po prstenu tady přetrvává a zdá se, že jen tak nevyčichne."

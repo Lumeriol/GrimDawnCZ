@@ -35,10 +35,18 @@ tagMapNecropolis=Pohřebiště
 tagMapOldGrove=Starý háj
 tagMapVoidlands=Pustiny
 
-tagMapBrokenHills01=* Zbořené kopce
-tagMapRockyCoast01=Stará Arkovia
-tagMapCoastRoad01=Arkoviánské podhůří
-tagMapTwinFalls01=* Dvojité vodopády
+tagMapBrokenHills=Broken Hills
+tagMapOldArkovia=Old Arkovia
+tagMapArkovianFoothills=Arkovian Foothills
+tagMapKymons=Kymon's Retreat
+tagMapCoastRoad=Coast Road
+tagMapTwinFalls=Twin Falls
+tagMapFourHills=Four Hills
+tagMapRockyCoast=Rocky Coast
+tagMapNewHarbor=New Harbor
+tagMapBarrenHighlands=Barren Highlands
+tagMapCrumblingWatch=CrumblingWatch
+tagMapCronleysHideout=Cronley's Hideout
 
 tagMapLedgewood01=Ledgewood
 tagMapWitheringFields01=Schnoucí pole
@@ -62,16 +70,23 @@ tagUGDevilsCrossingDungeon01=Vězeňské kobky
 tagUGDevilsCrossingHiddenPassage01=Tunel odsouzených
 tagUGBurrwitchFloodedCellars=Zatopené sklepení
 tagUGBurrwitchOutskirtsBasin=Pašerácká kotlina
+tagUGFloodedPassageRuin=Sunken Reliquary
 
-tagUGRockyCoast01=Pobřežní skrýš
-tagUGRockyCoast02=Stauntonův důl
+tagUGArkovianFoothills01=Staunton Mine
+tagUGArkovianFoothills02=Spined Cove
 tagUGOldArkovia01=Hanneffyho důl
 tagUGOldArkovia02=Podzemní město
-tagUGOldArkovia03=* Neklidný úl
-tagUGOldArkovia04=* Strhující úl
+tagUGOldArkovia03=Neklidný úl
+tagUGOldArkovia04=Strhující úl
+tagUGOldArkovia05=Cronley's Hideout
 tagUGBrokenHills01=Točitá zátoka
-tagUGBrokenHills02=Věž vyhnanství
+tagUGBrokenHills02=The Steps of Torment
+tagUGBrokenHills02A=Pain
+tagUGBrokenHills02B=Misery
+tagUGBrokenHills02C=Suffering
+tagUGBrokenHills02D=Anguish
 tagUGBrokenHills03=Opuštěné doupě
+tagUGBrokenHills04=Smuggler's Pass
 
 #Riftgate Names
 
@@ -83,14 +98,16 @@ tagRiftFloodedPassage=Portál v Zatopeném průchodu
 tagRiftBurrwitchOutskirts=Portál na Burrwitchském předměstí
 tagRiftBurrwitchVillage=Portál ve vesnici Burrwitch
 tagRiftWardensCellar=Portál ve Wardenově sklepení
-tagRiftWardensLabratory01=Portál ve Wardenově průchodu
+tagRiftWardensLabratory01=Underground Transit Rift
 tagRiftWardensLabratory02=Portál ve Wardenově laboratoři
 
 tagRiftBrokenHills=Portál ve Zbořených kopcích
-tagRiftRockyCoast=Portál ve Staré Arkovii
-tagRiftCoastRoad=Portál v Arkoviánském podhůří
+tagRiftOldArkovia=Old Arkovia Rift
+tagRiftArkovianFoothills=Arkovian Foothills Rift
+tagRiftCronleysHideout=Cronley's Hideout Rift
 tagRiftTwinFalls=Portál u Dvojitých vodopádů
 tagRiftHighPass=Portál ve Vrchním průsmyku
+
 tagRiftWitheringFields=Portál na Schnoucích polích
 tagRiftHomestead=Portál v Homestead
 
@@ -109,8 +126,13 @@ tagSign_EastMarsh=Východní bažina
 tagSign_Homestead=Homestead
 tagSign_MistyVale=Mlhavé údolí
 tagSign_RockyCoast=Stará Arkovia
+tagSign_FoothillsVillage=Kymon's Retreat
 
 tagSign_OldGrove=Starý háj
+
+tagGravestone_OldArkovia01=Here Lies: Robert
+tagGravestone_OldArkovia02=Here Lies: Rockford
+tagGravestone_OldArkovia03=Here Lies: Ryan
 
 #Points of Interest
 
@@ -139,14 +161,39 @@ tagPOIUndergroundTransitA=Vstup do Podzemního průchodu
 tagPOIUndergroundTransitB=Východ z Podzemního průchodu
 tagPOIArkovianFoothillsMineA=Vstup do Stauntonova dolu
 tagPOIArkovianFoothillsMineB=Východ ze Stauntonova dolu
+tagPOIHomesteadPassageMineA=Smuggler's Pass Entrance
+tagPOIHomesteadPassageMineB=Smuggler's Pass Exit
+tagPOIOldArkoviaRuinsA=Arkovian Undercity Entrance
+tagPOIOldArkoviaRuinsB=Arkovian Undercity Exit
+tagPOIOldArkoviaRuins2A=Arkovian Undercity (Floor 2) Entrance
+tagPOIOldArkoviaRuins2B=Arkovian Undercity (Floor 2) Exit
+tagPOIOldArkoviaRuins3A=Arkovian Undercity (Floor 3) Entrance
+tagPOIOldArkoviaRuins3B=Arkovian Undercity (Floor 4) Exit
+tagPOIBrokenHillsMylesCaveA=Myles' Hideout Entrance
+tagPOIBrokenHillsMylesCaveB=Forsaken Den Exit
+tagPOIOldArkoviaMineA=Cronley's Hideout Eentrance
+tagPOIOldArkoviaMineB=Cronley's Hideout Exit
+
+tagPOIStepsOfTorment1A=Steps of Torment Entrance
+tagPOIStepsOfTorment1B=Steps of Torment Exit
+tagPOIStepsOfTorment2A=Steps of Torment (Floor 2) Entrance
+tagPOIStepsOfTorment2B=Steps of Torment (Floor 2) Exit
+tagPOIStepsOfTorment3A=Steps of Torment (Floor 3) Entrance
+tagPOIStepsOfTorment3B=Steps of Torment (Floor 3) Exit
+tagPOIStepsOfTorment4A=Steps of Torment (Floor 4) Entrance
+tagPOIStepsOfTorment4B=Steps of Torment (Floor 4) Exit
+tagPOIStepsOfTorment5A=Steps of Torment (Floor 5) Entrance
+tagPOIStepsOfTorment5B=Steps of Torment (Floor 5) Exit
 
 tagPOIQuest_Burrwitch=Zabezpeč Burrwitchský portál
 tagPOIQuest_WardenLab=Najdi Wardenovu laboratoř
 tagPOIQuest_ArkovianFoothills=Vstup do Arkoviánského podhůří
 tagPOIQuest_Elsa=Najdi Elsu
 tagPOIQuestHomestead=Homestead
+tagPOIQuestHomesteadBridge=Twin Falls Bridge
 tagPOIQuestHomesteadTown=Město Homestead
-tagPOIQuest_Sacrifice=Isaacův poklad
+tagPOIQuest_Sacrifice=Isaac's Stash
+tagPOIQuest_StrangeKey=The Depraved Sanctuary
 
 
 #Notifications
@@ -162,20 +209,16 @@ tagNotification_WardenLabFound=Laboratoř. Warden musí být někde poblíž...
 tagNotification_LostApprenticeCellar=Někdo tady nedávno byl...
 tagNotification_LostApprenticeFound=Kasparův učeň je tady!
 
-tagNotification_HS_RemoveTheHead_ElsaFound=Zdá se, že u těchto psanců se Elsa nenachází...
+tagNotification_HS_RemoveTheHead_ElsaFound=It appears that Cronley does not have Elsa...
 tagNotification_HS_SpoilsOfTheGrimDawn=Prohledal jsi starou zříceninu.
+tagNotification_HS_WeNeedFood_HomesteadBridgeFound=You have found the bridge connecting Old Arkovia to Homestead.
+tagNotification_HS_WeNeedFood_HomesteadSmugglerPassFound=You have discovered an alternate route to Homestead.
 tagNotification_HS_WeNeedFood_HomesteadRegionFound=Objevil jsi oblast Homestead.
 tagNotification_HS_WeNeedFood_HomesteadTownFound=Nalezl jsi město Homestead.
+tagNotification_HS_OldArkoviaPassagesCompleted=You have completed the Arkovian Passage and examined its contents.
+tagNotification_HS_OldArkoviaPassagesBossKilled=You acquire a piece of the Tainted One's shattered soul!
 
 tagNotification_WarningToughArea=Na tomhle místě se nachází mnohem mocnější síly, než jsi schopen porazit...
-
-#Factions
-
-tagFactionDrifters=Tuláci
-tagFactionUser2=Starousedlíci
-tagFactionUser3=Svobodní muži z Corriganova dolu
-tagFactionUser4=Vyhnanci
-tagFactionUser5=Řád Černých strážců
 
 #NPC Names
 
@@ -186,6 +229,7 @@ tagNPC_Barnabas=Barnabas
 tagNPC_SybilHart=Sybil Hart
 tagNPC_LutherGraves=Luther Graves
 tagNPC_Ulgrim=Ulgrim
+
 tagNPC_Direni=Direni
 tagNPC_CaptiveInventor=Darlet
 
@@ -196,44 +240,63 @@ tagNPC_Guard_DCMelee01=Brigs - Strážce
 tagNPC_Guard_DCMelee02=Oxley - Strážce
 tagNPC_BountyBoard=Vývěska Ďáblova průsmyku
 
+tagNPC_Guard_Female01=Guardian
+tagNPC_Guard_Female02=Ranger
+
 tagNPC_DevilsCrossing_01=Jasper
 tagNPC_DevilsCrossing_02=Zajatý tulák
 tagNPC_DevilsCrossing_03=Isaac
 tagNPC_DevilsCrossing_04=Torven
-tagNPC_DevilsCrossing_05=Kaldo
+tagNPC_DevilsCrossing_05=Kuldo
 
-tagNPC_Homestead_01=Angela Harrington
+tagNPC_Homestead_01=Minova
 tagNPC_Homestead_02=Darius Cronley
-tagNPC_Homestead_03=Douglass Sullivan Oldbarrow
+tagNPC_Homestead_03=
 tagNPC_Homestead_04=Drew Larkin
 tagNPC_Homestead_05=Edmund "Noha" Doyle
 tagNPC_Homestead_06=Elizabeth Skinner
 tagNPC_Homestead_07=Isaiah Reddan
 tagNPC_Homestead_08=Josephine Reddan
-tagNPC_Homestead_09=Lord Reginald Marrowbane
+tagNPC_Homestead_09=
 tagNPC_Homestead_10=Milah Skinner
 tagNPC_Homestead_11=Myles Finegan
-tagNPC_Homestead_12=Morris Burton
-tagNPC_Homestead_13=Samantha Colton
-tagNPC_Homestead_14=Stanley Larsen
+tagNPC_Homestead_12=
+tagNPC_Homestead_13=
+tagNPC_Homestead_14=
 tagNPC_Homestead_15=Stephen Skinner
 tagNPC_Homestead_16=Mornay
 tagNPC_Homestead_17=Elsa
-tagNPC_Homestead_18=Nathan
-tagNPC_Homestead_19=Lydia
-tagNPC_Homestead_20=Jonas
+tagNPC_Homestead_18=
+tagNPC_Homestead_19=
+tagNPC_Homestead_20=
 tagNPC_Homestead_21=Bernard
 tagNPC_Homestead_22=Alicia
 tagNPC_Homestead_23=Silas
 tagNPC_Homestead_24=Greven
 tagNPC_Homestead_25=Elder Mathias
+tagNPC_Homestead_26=Quade
+tagNPC_Homestead_27=Eva
+tagNPC_Homestead_28=Hiram
+tagNPC_Homestead_29=NECROMANCER GHOST BOOOOO
+tagNPC_Homestead_30=NECROMANCER MAN
+
+tagNPC_Necropolis_01=Angela Harrington
+tagNPC_Necropolis_02=Douglass Sullivan Oldbarrow
+tagNPC_Necropolis_03=Lord Reginald Marrowbane
+tagNPC_Necropolis_04=Morris Burton
+tagNPC_Necropolis_05=Samantha Colton
+tagNPC_Necropolis_06=Stanley Larsen
+tagNPC_Necropolis_07=Nathan
+tagNPC_Necropolis_08=Jonas
 
 
 tagNPC_DetonationSite=* Stanoviště výbuchu
 
 tagNPC_BrokenHillsBridge=Stanoviště opravy mostu v Arkoviánském podhůří
 tagNPC_OldGroveBridge=Stanoviště opravy mostu ve Starém háji
-tagNPC_HomesteadBridge=Stanoviště opravy mostu ve městě Homestead
+tagNPC_HomesteadBridge=Twin Falls Bridge Repair Site
+tagNPC_WightmireBridge=Wightmire Bridge Repair Site
+tagNPC_BurrwitchBridge=Burrwitch Bridge Repair Site
 
 
 tagNPC_JosephClaxton=Joseph Claxton
@@ -252,24 +315,31 @@ tagNPC_Villager=Vesničan
 tagNPC_Flavor_DevilsCrossing01=Constance
 tagNPC_Flavor_DevilsCrossing02=Jane
 tagNPC_Flavor_DevilsCrossing03=Alex
-tagNPC_Flavor_Homestead_01=Dean Oldbarrow
-tagNPC_Flavor_Homestead_02=Denny Oldbarrow
+tagNPC_Flavor_Homestead_01=
+tagNPC_Flavor_Homestead_02=
 tagNPC_Flavor_Homestead_03=Helen Fletcher
 tagNPC_Flavor_Homestead_04=Julius Cole
-tagNPC_Flavor_Homestead_05=Maria Oldbarrow
+tagNPC_Flavor_Homestead_05=
 tagNPC_Flavor_Homestead_06=Jebediah
-tagNPC_Flavor_Homestead_07=Oscar
+tagNPC_Flavor_Homestead_07=Oskar
 tagNPC_Flavor_Homestead_08=Judith
-tagNPC_Flavor_Homestead_09=Oscar Jr.
+tagNPC_Flavor_Homestead_09=Oskar Jr.
+tagNPC_Flavor_Homestead_10=Injured Rover
+tagNPC_Flavor_Homestead_11=Amkala
+tagNPC_Flavor_Homestead_12=Horace
+
+tagNPC_Flavor_Necropolis_01=Dean Oldbarrow
+tagNPC_Flavor_Necropolis_02=Denny Oldbarrow
+tagNPC_Flavor_Necropolis_03=Maria Oldbarrow
 
 
 #Quest Items
 
 tagQuestItemHartsAmulet_Name=Hartův amulet
-tagQuestItemHartsAmulet_Text="Mému drahému bratrovi: Ať tě tento amulet učiní v boji silným. -Sybil"
+tagQuestItemHartsAmulet_Text=^b"Mému drahému bratrovi: Ať tě tento amulet učiní v boji silným. -Sybil"
 
 tagQuestItemCultistKey_Name=Zvláštní klíč
-tagQuestItemCultistKey_Text="Na klíči je vyryto mnoho podivných run a chlípných symbolů charakteristických pro Ch'thonův kult."
+tagQuestItemCultistKey_Text=^bNa klíči je vyryto mnoho podivných run a chlípných symbolů charakteristických pro Ch'thonův kult."
 tagQuestItemDirections_Name=Direniho instrukce
 tagQuestItemDirections_Text=Dohoda je dohoda: Kultisté si pohodlně sedí na zadku v horách mimo trasy obyčejných cestovatelů. Vydej se k rozbitému mostu u Burrwitchskhom předměstí. Až tam budeš, obejdi celý útes, dokud nenarazíš na cestu vedoucí do skal.{^n}{^n}Jakmile nalezneš muže v krví nasáklých róbách, velících temným silám, jsi na správném místě. Vstup do svatyně vede skrz jejich tábor a je vytesaný do úbočí hory.
 
@@ -284,38 +354,40 @@ tagQuestItemSuppliesDesc=^b"Bedna plná cenných materiálů a nekazícího se z
 tagQuestItemSlithNecklace=Náhrdelník Slithů
 tagQuestItemSlithNecklaceDesc=^b"Nošen šamany Slithů, z důvodu známého pouze jim samotným."
 
-tagQuestItemAncientHeart=Starověké srdce
-tagQuestItemAncientHeartDesc=^b"Stále bije v děsivě pravidelném rytmu ve tvém pytli s věcmi."
-
 tagQuestItemSaltMineKey_Name=Klíč do Zapomenutých hlubin
-tagQuestItemSaltMineKey_Text="Klíč k železným dveřím oddělujících Zapomenuté hlubiny od zbytku Corriganova dolu."
+tagQuestItemSaltMineKey_Text=^b"Klíč k železným dveřím oddělujících Zapomenuté hlubiny od zbytku Corriganova dolu."
 
-tagQuestItemLostElderTalisman_Name=Kostěný talisman
-tagQuestItemLostElderTalisman_Text="Tento odštěpek kosti byl pečlivě popsán frázemi a symboly mající duchovní význam pro Tuláky."
-
+tagQuestItemForgottenPassage=Forgotten Passage
+tagQuestItemForgottenPassage_Desc=^b"A fragmented passage on Old Arkovia's history. Impossible to decipher without the remaining pieces."
 
 #Journals
 
 tagLoreObj_InquisitorCreedA01Name=Deník inkvizitora Creeda - 1. článek
+tagLoreObj_InquisitorCreedA01codexTitle=Inquisitor Creed - 1st Entry
 tagLoreObj_InquisitorCreedA01Text=V současné době jsem na cestě do vesnice Burrwitch za účelem prošetření řady podivných událostí, které byly v této oblasti nahlášeny. Něco mi říká, že s blížícím se soumrakem je v této oblasti plné bažin nebezpečné cestovat za noci. Neochotně jsem přijal ubytováno v malé špinavé krčmě v Dolním rozcestí.{^n}{^n}Nejspíš jsem jen unavený z téhle uspíšené cesty, ale cítím, že se ve vzduchu vznáší nějaký podivný tlak a neznámá energie. Je to takřka podobné jako ticho před bouřlivou letní vichřicí, kdy ještě svítí slunce a není vidět ani mráček.  Všechno vypadá tak, jak má, ale ve svých střevech cítím, že brzy přijde něco dost hrozného...
 
 tagLoreObj_InquisitorCreedA02Name=Deník inkvizitora Creeda - 2. článek
+tagLoreObj_InquisitorCreedA02codexTitle=Inquisitor Creed - 2nd Entry
 tagLoreObj_InquisitorCreedA02Text=Když jsem se balil zpátky na cestu do vesnice Burrwitch, byl jsem naléhavě požádán o dostavení se do dřevorubeckého tábora ve Starém háji západně od Ďáblova průsmyku, kde po útoku divokých zvířat zůstali tři dřevorubci naprosto bledí a apatičtí.{^n}{^n}Po mém příjezdu jsem dostal pouze ponurý pozdrav od předáka dřevorubců, který mě informoval, že pokousaní dělníci naprosto zešíleli a utekli pryč. Navíc prý mluvili nějakým neznámým jazykem. Předák mi ukázat ostatky zvířat. Dvě šedé lišky a loveckého psa trpících nějakým druhem svrabu, ležících v narychlo vykopané jámě mimo obytné prostory. Předák mi tkaé řekl, že zvířata najednou zemřela při kontrontování ostatními dělníky. Z jejich těl vystoupala podivná zelená pára. Krátce poté tři dřevorubci náhle onemocněli a jejich duševní stav se prudce zhoršil. Zdá se, že moje přítomnost v tomto regionu je více než oprávněná.
 
 tagLoreObj_InquisitorCreedA03Name=Deník inkvizitora Creeda - 3. článek
+tagLoreObj_InquisitorCreedA03codexTitle=Inquisitor Creed - 3rd Entry
 tagLoreObj_InquisitorCreedA03Text=Konečně jsem dorazil do vesnice Burrwitch poté, co jsem prošel ponurou oblastí známou jako Wightmire. Dlouhé roky se vypráví příběhy o nadpřirozených událostech dějících se ve Wightmire a dokonce samozný název oblasti ji nečiní zrovna poklidnou. Nenabral jsem už tolik zásob, ale mé nedávné zkušenosti mi propůjčili nějakou víru k těmto starým příběhům.{^n}{^n}Nicméně jsem došel do cíle a zdá se, že Warden z Ďáblova průsmysku, sídlícího ve vesnici Burrwitch, nějak očekával můj příchod. Sluha mě uvítal hned po příchodu do města a trval na tom, abych přijal Kriehovo pozvání na jeho panství. Přijde mi to docela zvláštní, ale tu nabídku jsem přijal. Může to být šance prozkoumovat samotné panství.{^n}{^n}Snažím se tuto poznámku zkrátit, protože jsem byl zavolánm, abych se připojil ke Kriegovi na večeři v jídelně. To by mělo být...  vše říkající.
 
 tagLoreObj_InquisitorCreedA04Name=Deník inkvizitora Creeda - 4. článek
+tagLoreObj_InquisitorCreedA04codexTitle=Inquisitor Creed - 4th Entry
 tagLoreObj_InquisitorCreedA04Text=Jsem hostem Wardena Kriega na jeho panství už víc než týden a mé podezření, že se tady děje hrozivého, roste den ze dne. Každý den vyrážím na některé místo v okolí vesnice Burrwitch nebo přímo do ní, abych prošetřil další neobvyklý trestný čin nebo neblahou zvěst. Některé jsou jednoduše vyvratitelné jako víc světské lidské přečiny nebo jde o výplody fantazie, ale mnoho z mých vyšetřování došlo s temnějším závěrům. Mám pocit, že se tady vynořuje nějaká struktura, ale nedokážu si to dát do nějaké souvislosti.{^n}{^n}To jsou okrajové případy, i když hlavním cílem mé účasti u nich je získat záminku pro můj další pobyt ve vesnici Burrwitch. Sám Krieg se stal předmětem mého hlavního vyšetřování. Navzdory naprostému přesvědčení, že Krieg není tím, kým se zdá být, je téměř jistě zapojen do jakési nepřirozené činnosti, ale nenašel jsem jediný nezvratný důkaz k tomu, aby bylo možné zahájit oficiální vyšetřování.{^n}{^n}Většina částí panství je mi uzavřena. V horním patře jsou pokoje, ze kterých Krieg a další návštěvníci odcházejí a přicházejí, ale tam nemám právo vstupovat. Další záhodou bylo, když mě v noci probudily zvuky připomínající vrzání povozů pohybujících se venku po silnici, ale když jsem se podíval z okna směrem k vesnici, nic jsem nezahlédl. Odkud ty zvuky pocházely? Hra na košku a myš pokračuje, ale nejsem si zcela jistý, kdo je tou kočkou a kdo myší...
 
 tagLoreObject_PrisonNoteName=Hrubě načmáraná poznámka
 tagLoreObject_PrisonNoteText=Takže, nejsem zrovna slušnej člověk a jsem si jistej, že neumím ani dobře psát, ale slova o tomhle místě se prostě musej dostat ven. Tohle vězení nemá nic společnýho s tím, kde jsem kdy byl a to nejsem vožralej. Lidi se tady nezdržujou dlouho a ani někteří chlapci, který sem dotáhli, nejsou žádnými zločinci. Měl jsem to tušit. V okamžiku jsem viděl muže, o kterém bych mohl říct, že v jeho očích je vidět, že udělal něco špatně. Tihle chlapci? Vidím jejich strach.{^n}{^n}Tohohle dozorce jsem už párkrát zahlíd - velkej chlap v černý zbroji. Když ho neznáš líp, budeš si myslet že to je jeden z těch na špatný straně mříží. Každej den berou on a jeho nohsledi vězně po tuctech ven do týhle boudy. Ale nikdy se z ní nevrátí. O něco pozdějc je u tý boudy povoz. Vždycky odjíždí plnej.{^n}{^n}Už nás ani nenechávaj odcházet z cel, ale můžu říct, že nás moc nezbejvá. Chodby jsou tichý. Jsem poslední člověk v týhle řadě. Ostatní? Odvedli je ve včerejší dávce. Nehodlám se ptát na smilování. Vím, že můj konec je v týhle boudě, ale tahle poznámka bude aspoň jeden dobrej skutek v mym ubohym životě...
 
 
-tagLoreObj_LowerCrossingA01Name=Deník správce přístavu
+tagLoreObj_LowerCrossingA01Name=Harbormaster's Log - Lower Crossing
+tagLoreObj_LowerCrossingA01codexTitle=Harbormaster's Log
 tagLoreObj_LowerCrossingA01Text=Od začátku letošního roku se objevují podzimní mlhy, ale provoz zůstává neobvykle vysoký. Neustále sem proudí malá plavidla od Malmouthu a jiných obcí ze severozápadu. Některé z těchto lodí se sotva drží nad vodou, vypadá to, že ty lidi se snad zbláznili. Tihle cestovatelé, někdy celé rodiny, s sebou přináší podivné příběhy o válkách a nadpřirozenu. Stále se množící kecy začaly štvát slabší měšťany. Nemohu si stěžovat na ty, kteří udržují přístav v chodu. Většina z nich jsou ze Západu a snaží se dostat co nejdál mohou.{^n}{^n}Chlapci v docích začínají ztrácet nervy. Někteří hovořili o tom, že hodlají jít na Západ sami, ale ujistil jsem je, že to jsou všechno nesmysly, které přejdou. Mládež často jedná jako bez rozumu v náporu energie.
 
-tagLoreObj_BurrwitchB01Name=Deník správce přístavu
+tagLoreObj_BurrwitchB01Name=Harbormaster's Log - Burrwitch
+tagLoreObj_BurrwitchB01codexTitle=Harbormaster's Log
 tagLoreObj_BurrwitchB01Text=Dorazila další loď plná vězňů s kapucemi, byly jich tucty. Jako obvykle na ně čeká povoz, ale co jsem zaslechl, nevozí je nikam daleko. Jeden z nakládajících chlapců se vrátil zpátky z návštěvy vesnice Burrwitch poté, co zjistil, že se tam nachází nový doktor a říkal něco o tom, že povoz zastavil před Wardenovým sídlem. Chlapci se ptali na vězně a jeden z posluhovačů mu řekl, že se jedná o  "rehabilitaci". Nejsem si jist, co si o tom mám myslet.{^n}{^n}Během pár týdnů tady bylo přes tucet vězeňských převozů. Já prostě nechápu, jak se můžou do toho baráku všichni vejít. Nezajímá mě, jak může být velký, kolik místa tam může být, Ale Krieg určitě nebude držet ve vězení zlodějíčky, kteří mu nebudou k užitku. Děje se tam něco zvláštního, ale není to jen pocit žaludku. Možná bych měl poslat zmínku přes jezero do Malmouthu, aby se sem na ty podivnosti přišel podívat některý z inkvizitorů. Ne že bych chtěl tady nechat čmuchat nějakého inkvizitora. Člověk je z nich celý nesvůj.
 
 
@@ -323,6 +395,7 @@ tagLoreObj_LowerCrossingA02Name=Francisova poznámka
 tagLoreObj_LowerCrossingA02Text=Jsem tu v pasti... Až teď si uvědomuji, že v tomto domě zemřu.  Margaret, obávám se, že jsi už mrtvá, ale nemusí to být zas tak špatně, pokud se k tobě brzy připojím.  Pokud nějakým zázrakem přežiješ a najdeš tady tyhle řádky, věz prosím, že se na tebe nezlobím. Nikdy jsem nelitoval našeho společného života, ale teď jsem prostě ztratil trpělivost a neřekl ti zrovna hezká slova, když jsme se posledně rozešli.{^n}{^n}Doufám, že mě nebudeš považovat za zbabělce za to, co teď dělám. Už jsou tady v domě. Zabarikádoval jsem se v tomhle pokoji, ale je to pouze otázka času, než se ke mě dostanou.  Všechno co můžu nyní dělat, je vybrat si způsob jakým budu čelit své smrti. A já bych rád zemřel jako člověk než se proměnit v jednu z těch hrozných věcí. Ani nechci být sežrán zaživa.  Vždycky tě budu milovat...{^n}{^n}Francis
 
 tagLoreObj_WightmireA01Name=Úřední dopis pro Wightmirského Krvepřísežníka
+tagLoreObj_WightmireA01codexTitle=Bloodbound Missive
 tagLoreObj_WightmireA01Text=Nadešel čas udeřit a vykonat Éterijskou pomstu ve Wightmire. V klidu jsme shromáždili naše síly v kopcích nad Burrwitch, abychom mohli zaútočit na Vesnici. Nicméně předtím, než k tomu dojde, musíme zabezpečit Wightmire, abychom neměli nepřítele v zádech.{^n}{^n}I když jsou silní, loajální a připraveni zemřít ve jménu Ch'thona, mám dojem, že máte nedostatek Krvepřísežníků ke zdolání Éterisjkých bojovníků. V poslední době jsme měli obrovský úspěch při zrodu mnohem silnějších služebníků Ch'thona z Prázdnoty. Jeden Posel může rozdrtit všechny Éterijské ve Wightmire a klidně může pokračovat do Ďáblova průsmyku, který by mohl v této oblasti sloužit jako pevnost našeho řádu.{^n}{^n}Ke zrodu Posla budete potřebovat krev a životy alespoň tří mužů. Shromážděte oběti jak uznáte za vhodné; buď z uprchlíků na cestách, tuláckých osad nebo vybírejte mezi vlastními Krvepřísežníky. Informujte mne o vašem úspěchu, až je jej splníte.{^n}{^n}Ulto Treig, Nejvyšší kněží
 
 tagLoreObj_WardensJournalA01Name=List Wardena Kriega
@@ -352,134 +425,112 @@ TagLoreObj_VillagerNoteH01Text=Město kolem mě se rozpadá. Ty věci jsou všud
 TagLoreObj_VillagerNoteJ01Name=Nořina poznámka
 TagLoreObj_VillagerNoteJ01Text=Třetí tlupa banditů tento měsíc. Člověk by si myslel, že po tom všem, co se v poslední době stalo, se lidé trochu víc semknout a vzájemně si pomůžou. Ale to ne, zdá se, že svět je stále plný nenechavců, kteří využívají této neblahé situace.{^n}{^n}Pokud jsi jeden z těchto hajzlů, následuj mne a chcípneš. Stále mám na svém opasku místo pro několik dalších zářezů. Pokud jsi pouze další ztracená duše bloudící těmito ruinami, nehledej tu žádné přátele. Lidé tady přebývající ti pravděpodobně podříznou hrdlo nebo tě prošpikujou pár kulkama, aby tě navedli bezpečným směrem. Nebudu váhat vystřelit první ránu a ty bys také neměl.
 
+TagLoreObj_Kymon01Name=Kymon's Scripture: First Passage
+TagLoreObj_Kymon01codexTitle=Kymon - First Passage
+TagLoreObj_Kymon01Text=They mocked us and drove us out. They called us heretics and madmen. They thought our great prophecy and purpose was fanciful and ridiculous.{^n}{^n}Woe unto them! Behold the divine wrath that has been delivered onto the unbelievers in the remaking of the world! Our prophecy has come to pass and I hear not laugher anymore. I hear only deathly silence!{^n}{^n}Doom has befallen the wicked, the ignorant and the indolent. Only we chosen few, who have trained and prepared our bodies and our souls to weather the cleansing of the world will survive and thrive amongst this death and decay.{^n}{^n}Look to your right and to your left, in front and behind you. You see the faces of your hallowed brothers and sisters, bonded together in this holy quest. We have been tasked with the sacred duty to extinguish the last remnants of corruption and reseed the purified land with our progeny so that the new dawn can arise! Take strength in each other and in the knowledge that we are destined to fulfill this divine purpose.{^n}{^n}Long have we prepared for this moment and our time of concealment is ending. We will strike forth, boldly Northward and to our destiny. Let not the faithless, the corrupted or the demonic stand in our path, lest our divine wrath be visited upon them! Now muster my children, gather only those belongings that can profit us in our holy war and let us march forth from this humble refuge unto destiny!
+
+TagLoreObj_OldArkovia_History01Name=Last Days of Arkovia
+TagLoreObj_OldArkovia_History01Text=As I write this, dark columns of smoke billow up from the port where the madness long pullulating in the restive populace has finally boiled over. A blazing merchant's galley, abandoned by its crew and freed of its moorings plows into a group of fishing boats, wood splintering, the fire quickly spreading among the sails. I hear shouting in the courtyard below and the clash of iron not far beyond; a woman screams repeatedly, her words undiscernible.{^n}{^n}For so long, we feared our doom would come from the barbarous mountain tribes but in the end, we've been the instruments of our own demise; helped along by the insidious promises of the necromancers.{^n}{^n}It is not yet two moons since the great rituals were undertaken, led by our ever reaching Oligarchs; the rituals intended to bring immortality and ensure the lasting greatness of Arkovia. Ever the skeptic, I figured it for a sham; political theatre at best, but the ritual seems to have been a tragic success.{^n}{^n}This ritual was the invention of a necromancer named Uroboruuk. A man imprisoned in the Steps of Torment, who it is said did not age and could not be killed by any means. The leaders of the three greatest houses, including my own patron, Laudos Vagra, made an ill-conceived journey to the tower in hopes of compelling this Uroboruuk to give up his secrets. Here, immortality worked against Uroboruuk as he was subjected to the most brutal and imaginative forms of torture that could be devised for a man who could not die. Finally, Uroboruuk agreed to instruct them in the ritual and the Oligarchs, blinded by their lust for immortality, were all too eager to believe his will broken and accepted the ritual as genuine.{^n}{^n}It has become clear that the people of Arkovia have indeed gained a form of immortality but it is a cruel and twisted fulfillment of that promise. Our bodies still suffer the ravages of time, eventually dying and decaying, whilst our spirits remain trapped within, eternally bound to this land.{^n}{^n}I have witnessed this myself as the sick and elderly, near death at the time of the ritual, remain with us yet. Their bodies visibly decay, in the manner of a corpse, yet they continue on as though living, able to move and talk; still much the same persons as they were in life, yet not.{^n}{^n}All who suffer this death of the body become somehow less vital, less dynamic of thought. They become ever more narrowly focused on whatever concerned them most in life. It is disturbing to witness families that do not know what to do with their deceased, yet still present, loved ones.{^n}{^n}More horrible still are the rumors of babies born since the ritual. Abominations they say, deformed and bearing dark grisly feathers. It is said that many forlorn new fathers have been seen trekking into the broken hills, bundle in arm, to leave their unnatural offspring to the elements.{^n}{^n}The din of fighting and wailing continues on below. I expect it shall for quite some time since the combatants cannot die by any mortal means. I will sit with my books and continue my writing for whatever time may remain... perhaps all eternity...{^n}{^n}Theodokus Vagra, Scribe of Arkovia
+
+tagLoreObj_FloodedPassageRuins01Name=Writings of Rolderathis - 1st Entry
+tagLoreObj_FloodedPassageRuins01codexTitle=Rolderathis - 1st Entry
+tagLoreObj_FloodedPassageRuins01Text=The end of days is upon us! Glorious Arkovia, beacon of the west, is crumbling from within. But fear not, brothers and sisters, for we are the chosen of Ishtak.{^n}{^n}Here, upon the sacred ground of our forefathers, we shall be safe from the ruin brought about by the hubris of the oligarchs. Here, we shall outlast the immortal plague and return to the surface as the second dawn of man.{^n}{^n}It is with a heavy heart that I seal the entrance to our temple. May Ishtak have mercy on the damned souls beyond these walls. They will find no solace here.
+
+tagLoreObj_FloodedPassageRuins02Name=Writings of Rolderathis - 2nd Entry
+tagLoreObj_FloodedPassageRuins02codexTitle=Rolderathis - 2nd Entry
+tagLoreObj_FloodedPassageRuins02Text=The blessings of Ishtak have failed us. The wards did not protect us.  The curse of Arkovia had found its way here.{^n}{^n}We are dying, yet we cannot die. My brothers and sisters tear at each other in their growing madness, only to rise again to renew the carnage once more.{^n}{^n}The gods have abandoned us. This wasn't to be our salvation. This was to be our tomb...
+
+#Random Burrwitch Notes
+tagLoreObj_BookA01Name=Ch'thonic Heresy - Page 1
+tagLoreObj_BookA01Text=Fear, my brothers. Fear ye the Ch'thonian, for it is the harbinger of our sins. Speak not the name of its master, for it is the manifestation of malevolence and vile intent. Abhor the heretic, for his words are poison to the ears of the faithful. Just as evil must be purged of the soul, so the heretic must be purged of the living.
+
+tagLoreObj_BookA02Name=Ch'thonic Heresy - Page 2
+tagLoreObj_BookA02Text=Blood, my brothers. Blood is the essence, for it gives us life. Drink not of the blood of demons, for it is corruption manifest. Those that partake of blood shall forever be damned. Abhor the gifts of the Ch'thonian, lest its touch contaminate your soul. Purity of blood heralds the purity of the soul.
+
+tagLoreObj_BookA03Name=Ch'thonic Heresy - Page 3
+tagLoreObj_BookA03Text=Faith, my brothers. Let your faith shield you, for it is to the Ch'thonian as salt upon a festering wound. Guard your faith, for it defines you. Abhor the writing of the heretic, for his texts speak of lies and deceit. The strong of faith will be sung as heroes. The weak shall forever be forgotten.
+
+tagLoreObj_BookA04Name=Ch'thonic Heresy - Page 4
+tagLoreObj_BookA04Text= Justice, my brothers. Justice shall be swift and merciless, for it was tempered with faith, blood and fear. Justice shall descend upon the heretic, unforgiving and relentless. Those that take up arms against the Ch'thonian shall become the fiery vengeance of divine retribution. Those that call the Ch'thonian god shall taste righteous flame. Justice be done.
+
+tagLoreObj_CriminalA01Name=Criminal Records - Page 1
+tagLoreObj_CriminalA01Text=Leander "Blackwater" Greene{^n}{^n}Ex-military man wanted for extortion and murder. Leander was dishonorably discharged from the demolitions division following a grisly civilian incident. Leander escaped custody on at least two separate occasions using unsanctioned explosive devices. {^n}{^n}News of sightings or proof of death should be brought before Warden Krieg of Burrwitch Prison. A reward of 1000 royal crowns is offered for the successful capture and delivery of Leander Greene alive.
+
+tagLoreObj_CriminalA02Name=Criminal Records - Page 2
+tagLoreObj_CriminalA02Text=Bloody Jack{^n}{^n}Reckless murderer and known worshipper of Solael, the heathen god. Reports have been received of Bloody Jack's signature murders, a carved throat and witch symbols etched into the left breast, appearing increasingly close to Burrwitch. Citizens are advised to avoid traveling alone and to steer clear of forest roads whenever possible.{^n}{^n}News of sightings or proof of death should be brought before Warden Krieg of Burrwitch Prison. A reward of 400 royal crowns is offered for the successful capture and delivery of Bloody Jack alive.
+
+tagLoreObj_CriminalA03Name=Criminal Records - Page 3
+tagLoreObj_CriminalA03Text=Everett the Bloodbound {^n}{^n}A Heathen and blood drinker. Known associate of Ch'thonian cults and supplier for the heretics. When confronted by the law, Everett unleashed a fury of arcane atrocities upon the enforcers and escaped. Extremely dangerous individual. Personnel not trained to deal with the heathen arts are advised to steer clear.{^n}{^n}News of sightings or proof of death should be brought before Warden Krieg of Burrwitch Prison. A reward of 1200 royal crowns is offered for the successful capture and delivery of Everett the Bloodbound alive.
+
+tagLoreObj_BookC01Name=Gildam Arcanum - Page 1
+tagLoreObj_BookC01Text=To understand the flows of the Aether, one must first learn to appreciate its inherent risks. The arcane art is not a plaything, nor is it a tool meant to be abused. Countless young arcanists have lost their lives to carelessness and malpractice. Proper control of the Aether requires years of practice under the careful supervision of the Gildam Arcanum, the only formal office sanctioned to instruct and research the art of the arcane. Do not confuse what is lectured here with the teachings of the hypothetical witch gods, a common misconception amongst the uneducated. There are no gods. There is only reality and the science of the arcane.
+
+tagLoreObj_BookC02Name=Gildam Arcanum - Page 2
+tagLoreObj_BookC02Text=To reinforce the ingenuity of arcanists both living and dead, we turn to the works of Master Maiven, a prolific arcanist from the third age of our glorious empire. Master Maiven was able to bend the inherently destructive flows of the Aether to her will in order to manifest a protective barrier around herself. This technique is a stellar example of how the Gildam Arcanum continually strives to break our preconceptions of the Aether, creating entirely new schools of thought within the arcane arts.
+
+tagLoreObj_BookD01Name=Origin of the Slith - Page 1
+tagLoreObj_BookD01Text=In all the history of our great nation, no greater atrocity had been observed than the origins of the aberrant species we call the Slith. Part man, part serpent, the Slith is a testament to the dangers of the arcane and the motivation behind the founding of the Gildam Arcanum, and its tighter sanctions on arcane practices. The first Slith was created by Arcanist Oliver Hargate, who thought he could supersede god in His endeavor to create new life. The unfortunate man selected for this grisly experiment was never identified...
+
+tagLoreObj_BookD02Name=Origin of the Slith - Page 2
+tagLoreObj_BookD02Text=The resulting abomination bore the torso of a man and tail of a snake, with a reptilian snout unlike either species. Its eyes stared back at you with a hint of human sorrow, though it was clearly a dulled mind with no indication that the original person was present within. It slithered around with surprising agility when food was placed within the confines of its cage. Evidently, the late Arcanist Hargate considered this experiment a success, calling it a Slith in his notes. It was not long before the Slith turned on its creator during feeding, tearing the arcanist limb from limb.{^n}{^n}None can say for sure what happened next, but the Slith must have escaped into the sewer systems, and eventually out into the wild...
+
+tagLoreObj_BookD03Name=Origin of the Slith - Page 3
+tagLoreObj_BookD03Text=The Slith dominated its new habitat with ease. An invasive species unlike any other, the Slith reproduced with alarming speed, leaving egg nests throughout the many dank caves of Wightmire. How it came to be that the Slith propagated from a single individual is unknown, but the Aether influence cannot be ruled out.{^n}{^n}Though beastlike, the Slith had adapted a tribal hierarchy, with certain members of a group exhibiting dominance over the rest. Most alarming of all is the shamanistic behavior that was observed amongst some Slith populations, indicating the strong connection to their arcane origins.{^n}{^n}Without a doubt, the actions of one arrogant man will reverberate across countless generations.
+
+tagLoreObj_VillagerNoteE01Name=Warning: Groble Attacks on the Rise
+tagLoreObj_VillagerNoteE01codexTitle=Warning: Groble Attacks
+tagLoreObj_VillagerNoteE01Text=The office of the Magistrate of Burrwitch has received increased reports of Groble activity in the area. Citizens are advised to secure their homes as Grobles are known to steal lose scrap and valuables. While encounters with individual Grobles rarely lead to injury, it is highly advisable that citizens avoid larger gatherings of the foul beastkin.{^n}{^n}Groble encampments are characterized by heathen totems and piles of stolen property. If you discover the presence of Groble totems in your area, do not approach them. Report the camp to proper authorities immediately.
+
+#Random Old Arkovia Notes
+tagLoreObj_OldArkovia_NoteA01Name=Malros Khas' Journal
+tagLoreObj_OldArkovia_NoteA01Text=I thought about ending it. But I witnessed first-hand what happens when you try. Good people, driven to madness by this...this curse... I don't blame them for trying to escape this never-ending torment, even if escape seemingly comes at the edge of a knife. There is no way out though. We are bound to our flesh and bone, even as they rot away to the winds of time.{^n}{^n}To others, a knife brings a sharp reminder that we once lived. There are those who willingly partake of this newfound pleasure, carving each other apart in a downward spiral of decadence and depravity. But I cannot deny the temptation to join those in the streets as they spill their blood onto the cold stone. As I look upon my rotting hands, I begin to wonder if perhaps it is too late even for that. How long will this torture last? How far will we decay before we are at last set free?
+
+tagLoreObj_OldArkovia_NoteB01Name=Passing Judgment
+tagLoreObj_OldArkovia_NoteB01Text=This is to be a record of the passing of the final verdict regarding the practice of necromancy and its prominence in Arkovian society.{^n}{^n}The grand court has reviewed the case of one Olurokk who had willfully and consciously committed the despicable act of raising the deceased form of his neighbor's wife and using her to torture and exploit the victim for personal pleasure and financial gain. Under the weight of undeniable evidence and witness reports, this court had no choice but to sentence the necromancer Olurokk to hanging until dead.{^n}{^n}This crime is but a drop in the well of the sins committed by necromancers in our land. The people have spoken and action must be taken. For this, and countless other crimes, against nature, against the gods and against Arkovia, let it be known that the practice of necromancy, the most vile of the ancient arts, is henceforth forbidden from the lands of Arkovia under the strictest of punishments. Those found ignorant of this proclamation shall be transported, without trial, to the Steps of Torment, where they shall be locked away to the last of their days in the deepest pits of Anguish.
+
+tagLoreObj_OldArkovia_BookA01Name=Forbidden Art - Part 1
+tagLoreObj_OldArkovia_BookA01Text=They whisper about us when they think we're not listening. They fear what we can do, and yet they crave it. It is only in man's nature to fear what he does not understand and our art is no different. Necromancy was never held in high regard in Arkovian society, but it is only in recent years that we have been treated with such growing animosity.{^n}{^n}Now with the recent formal decree from the high court we are not just outcasts, we are criminals. What they fail to understand is that the only crime committed that day was against the pursuit of knowledge and the advancement of our people. Already they are rounding up my brethren under the guise of justice and taking them deep into their den of torture they call the Steps of Torment. I suppose it is only a matter of time before they coming knocking on my door.
+
+tagLoreObj_OldArkovia_BookA02Name=Forbidden Art - Part 2
+tagLoreObj_OldArkovia_BookA02Text=A woman, her face a mix of woe and desperation, came to my home this morning. I have to admit, I thought her fervent knocking marked the end of my freedom. I dreaded opening that door but there she was, covered in tears, a small bundle in her arms.{^n}{^n}She begged me to help, that the gods had turned away from her in her greatest time of need. With a shaking hand I uncovered the bundle to reveal the motionless face of her infant child. It was dead for no more than a day at most. Her pleading eyes locked into mine, but I could not what she asked of me. With great sorrow, I turned her away.{^n}{^n} Had I done as she had asked, the child would become a monster, an abomination not fit for this world. There are some things even man, in our endless arrogance, cannot...should not interfere with.
+
+tagLoreObj_OldArkovia_BookA03Name=Forbidden Art - Part 3
+tagLoreObj_OldArkovia_BookA03Text=I can hear them bustling about outside. They came at last, and in great numbers. Wise...{^n}{^n}Many tales had been spun around my persona over the centuries, most of them grossly exaggerated, but they served a subtle purpose in keeping me free of abuse and interference. It appears that even the stories will not keep the Arkovians away this time.{^n}{^n}I must end this entry as they will soon be upon me. I do not fear what will come next. In the end of all things, they will be ashes, and only I will remain...{^n}{^n}Uroboruuk
 
 
+#Guards
 
-#ScriptedGuardChatter
+tagNPC_GateGuardA01=Rook - Gate Keeper
 
-tagChat_GrdA01_KillFoeA01=Tohle nemůže vydržet věčně...
-tagChat_GrdA01_KillFoeA02=Dochází munice!
-tagChat_GrdA01_KillFoeA03=Hej! Ten byl můj!
-tagChat_GrdA01_KillFoeA04=K=ž bych měl svou starou pušku...
-tagChat_GrdA01_KillFoeA05=Bez boje mě nedostanou!
-tagChat_GrdA01_KillFoeA06=Bože!  Všude mám jejich zbytky!
-tagChat_GrdA01_KillFoeA07=Sakra, to bylo o fous!
-tagChat_GrdA01_KillFoeA08=Kéž bychom ta těla spálili než to všechno propuklo.
-tagChat_GrdA01_KillFoeA09=Odkud to pořád vylejzá?
-tagChat_GrdA01_KillFoeA10=Hej! Můžeš nám laskavě trochu pomoci?!
 
-tagChat_GrdA01_1stSeePlrA01=Nikdy před tím jsem tě tu neviděl.
-tagChat_GrdA01_1stSeePlrA02=Kdybych byl tebou, cizinče, raději zůstanu na druhé straně mostu
-
-tagChat_GrdA01_2ndSeePlrA01=Nikdy jsem si nemyslel, že tě znovu uvidím.
-tagChat_GrdA01_2ndSeePlrA02=Docela se divím, že jsi stále naživu!
-tagChat_GrdA01_2ndSeePlrA03=Dobře že jsi zpátky.
-
-tagChat_GrdA02_KillFoeA01=Vrať se zpátky do hrobu!
-tagChat_GrdA02_KillFoeA02=Zatraceně s těmito věcmi z pekel!
-tagChat_GrdA02_KillFoeA03=Kdy tohle skončí?
-tagChat_GrdA02_KillFoeA04=Prostě stále přicházejí...
-tagChat_GrdA02_KillFoeA05=Další pro mě!
-tagChat_GrdA02_KillFoeA06=Viděls, kam ta jeho noha šla!
-tagChat_GrdA02_KillFoeA07=Tohle bude další nekonečná noc, není-liž pravda?
-tagChat_GrdA02_KillFoeA08=K čertu, tohle je fakt ošklivá matka!
-tagChat_GrdA02_KillFoeA09=Kolik jich tam proboha ještě je?
-tagChat_GrdA02_KillFoeA10=Po tomhle budu potřebovat pořádnýho panáka...
-
-tagChat_GrdA02_1stSeePlrA01=Odkud si sakra přišel?
-tagChat_GrdA02_1stSeePlrA02=Nechceš tam jít, že ne?!
-
-tagChat_GrdA02_2ndSeePlrA01=Pane bože! Smrdíš jako odhalená zombie!
-tagChat_GrdA02_2ndSeePlrA02=Hej, nemáš nějakou whisky?
-tagChat_GrdA02_2ndSeePlrA03=Nenašel jsi, ehm, malé stříbrné baňky tam venku?
-
-tagNPC_GuardA03=Halsey - Strážce
-
-tagChat_GrdA03_1stSeePlrA01=Neznám tě.  Ani nechci.  Takže doufám, že to tak zůstane.
-
-tagChat_GrdA03_2ndSeePlrA01=Nezkoušej dělat potíže. Už takhle máme dost nepřátel.
-tagChat_GrdA03_2ndSeePlrA02=eznám tě.  Ani nechci.  Takže doufám, že to tak zůstane.
-tagChat_GrdA03_2ndSeePlrA03=Z obyčejného tlachání nemůže vzejít nic dobrého.
-
-#ScriptedMerchantChatter
-
-tagNPC_GateGuardA01=Rook - Strážce brány
+#Merchants and Other Services
 
 tagNPC_MerchantA01=Roan
-tagStoreTitle_MerchantA01=Prodejce předmětů
-
-tagChat_MerchA01_1stSeePlrA01=Pokud plánuješ opustit město, budeš potřebovat nějaké zásoby.
-
-tagChat_MerchA01_2ndSeePlrA01=Hledáš nějaké vylepšení?  Opravdu bys měl.
-tagChat_MerchA01_2ndSeePlrA02=Právě jsem dostal novou zásilku. Pojďme se na to podívat!
-tagChat_MerchA01_2ndSeePlrA03=Jsou to snad železné mince, co slyším cinkat ve tvém váčku?
-tagChat_MerchA01_2ndSeePlrA04=Přijď se podívat na mé nejnovější zboží.
+tagStoreTitle_MerchantA01=Salvage Dealer
 
 tagNPC_MerchantA02=Kerrick
-tagStoreTitle_MerchantA02=Prodejce předmětů
-
-tagChat_MerchA02_1stSeePlrA01=Hledáš tady nějaké nové vybavení?
-
-tagChat_MerchA02_2ndSeePlrA01=Budeš mít hodně velké štěstí, pokud zabiješ další tucet nepřátel a tahle zbraň se nerozpadne.
-tagChat_MerchA02_2ndSeePlrA02=V tomhle zničeném vybavení nemáš šanci dlouho přežít.
-tagChat_MerchA02_2ndSeePlrA03=Mám něco vzácného, co nikde jinde nenajdeš.
-tagChat_MerchA02_2ndSeePlrA04=Argis nemá jedinou šanci mne předčit v cenách a šíři sortimentu!
+tagStoreTitle_MerchantA02=Salvage Dealer
 
 tagNPC_MerchantA03=Luther Graves
-tagStoreTitle_MerchantA03=Pochybný prodejce
+tagStoreTitle_MerchantA03=Shady Dealer
 
-tagChat_MerchA03_1stSeePlrA01=Mám prémiové položky na prodej. Jen se prosím tě neptej, odkud jsou.
-
-tagChat_MerchA03_2ndSeePlrA01=Jste připraveni udělat obchod?
-
-tagNPC_MerchantB01=Pobuda Benny
-tagStoreTitle_MerchantB01=Znalec nelegálního zboží
+tagNPC_MerchantB01=Benny the Vagrant
+tagStoreTitle_MerchantB01=Connoisseur of Illicit Goods
 
 tagNPC_MerchantB02=Morris Burton
-tagStoreTitle_MerchantB02=Vzácné zboží
+tagStoreTitle_MerchantB02=Rare Goods
 
-tagNPC_MerchantT01=Potulný obchodník
-tagStoreTitle_MerchantT01=Potulný obchodník
+tagNPC_MerchantT01=Roving Dealer
+tagStoreTitle_MerchantT01=Roving Dealer
 
-tagNPC_SmugglerA01=Carlile - Pašerák
-tagStoreTitle_SmugglerA01=Pašerák
+tagNPC_SmugglerA01=Carlile - Smuggler
+tagStoreTitle_SmugglerA01=Smuggler
 
-tagNPC_ReallocatorA01=Morland - Průvodce duchovnem
-tagStoreTitle_ReallocatorA01=Průvodce duchovnem
+tagNPC_ReallocatorA01=Mullone - Spirit Guide
+tagStoreTitle_ReallocatorA01=Spirit Guide
 
-tagNPC_InventorA01=Kasparův asistent
-tagStoreTitle_InventorA01=Vynálezce
+tagNPC_InventorA01=Kasparov's Assistant
+tagStoreTitle_InventorA01=Inventor
 
 tagNPC_SmithA01=Jacob
-tagStoreTitle_SmithA01=Kovář
-
-tagChat_InvtrA01_1stSeePlrA01=Hele pokud potřebuješ upravit nebo sestavit nějaký kousek výbavy, bude mi potěšením ti pomoci.
-
-tagChat_InvtrA01_2ndSeePlrA01=Našels tam nějaké zajímavé předměty?
-tagChat_InvtrA01_2ndSeePlrA02=Máš pro mě nějaké návody?
-
-
-#Q2 Claxton Diary
-
-tagQ2Title_Claxton Diary_01=Claxtonův deníček{^n}
-
-tagQ2Item_ClaxtonDiary_01A=Claxtonův rodinný deník
-tagQ2ItemDesc_ClaxtonDiary_01A=Stará tlustá kniha s vyrytým názvem "Claxton" do hodně opotřebovaného hřbetu a ušpiněná mnoha skvrnami.
-
-tagQ2Dialog_ClaxtonDiary_01A=Slyšel jsem, že se chceš vydat do vesnice něco zachránit.  Pokud náhodou narazíš na starý tlustý deník s vyrytým názvem "Claxton" na hřbetu knihy, budu ti velice vděčný, pokud mi jej vrátíš. Dám ti za něj něco jinačího.
-
-tagQ2Dialog_ClaxtonDiary_01A2=Nezapomněl ses poohlédnout po deníku?
-
-tagQ2Dialog_ClaxtonDiary_01A3=Zkus nesejít z cesty, ale pokud na to narazíš, budu ti vděčný, pokud mi to vrátíš.
-
-tagQ2Dialog_ClaxtonDiary_01B=Děkuji ti za navrácení deníku.  Alespoň zmínka o mojí rodině bude žít dál.
-
-tagQ2Journal_ClaxtonDiary_01A=Joseph Claxton z Ďáblova průsmyku tě požádal, aby ses poohlédl po jeho rodinném deníku, až budeš prohledávat domy v Burrwitch.  Pokud mu jej vrátíš, máš přislíbeno dostat něco, co budeš moci využít.{^n}
-
-tagQ2Journal_ClaxtonDiary_01B=Vrať získaný deník Josephu Claxtonovi do Ďáblova průsmyku a řekni si o svou odměnu.{^n}
-
-tagQ2Journal_ClaxtonDiary_01C=Vrátil jsi Josephu Claxtonovi jeho rodinný deník.  Vypadal dost smutně, když jej držel v rukách. Krutá smrt jeho rodiny ho prostě dostala.  Byl ti ovšem vděčný a navrácení deníku ti opětoval malou odměnou.{^n}
-
-tagQ2ItemDesc_SavingTime_A01=Staré mosazné hodinky s nápisem "Evans".
-
-tagQ2Dialog_SavingTime_A01=Slyšel jsem, že se chystáš do vesnice.  Pokud náhodou narazíš na kapesní hodinky s nápisem "Evans", budu velice poctěn, pokud mi je vrátíš.  Je to rodinné dědictví, které se předává mezi generacemi a... teď když můj otec navždy odešel, bych je měl nosit já.  Dám ti za ně na oplátku něco jiného.
+tagStoreTitle_SmithA01=Blacksmith

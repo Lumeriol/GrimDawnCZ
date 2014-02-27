@@ -5,7 +5,7 @@ tagTutorialOf=z
 tagTutorialDisable=Vypnout nápovědu
 
 tagTutorialTip08Title=Vítejte ve hře Grim Dawn
-tagTutorialTip08TextA=Děkujeme za podporu a pomoc - díky tobě může Grim Dawn existovat! Doufáme, že si užiješ první část hry.{^n}{^n}Měj prosím měj na paměti, že toto je alpha verze hry, která je vytvořená nezávislým týmem o šesti lidech.  Setkáš se s chybami, nedokončnými částmi a jen se zhruba první třetinou hry. Velice uvítáme hlášení o chybách a pocitu z hraní hry na našich fórech na www.grimdawn.com.
+tagTutorialTip08TextA=Děkujeme za podporu a pomoc - díky tobě může Grim Dawn existovat! Doufáme, že si užiješ první část hry.{^n}{^n}Měj prosím měj na paměti, že toto je alpha verze hry, která je vytvořená nezávislým týmem o sedmi lidech.  Setkáš se s chybami, nedokončnými částmi a jen se zhruba dvěma třetinami hry. Velice uvítáme hlášení o chybách a pocitu z hraní hry na našich fórech na www.grimdawn.com.
 
 tagTutorialTip09Title=Okno obchodníka
 tagTutorialTip09TextA=Obchodník prodává a nakupuje zbraně nutné pro prežití v oblasti Cairn.
@@ -112,16 +112,28 @@ tagTutorialTip37TextA=Pašerák může uchovávat tvé předměty a nebo je doko
 tagTutorialTip37TextB=Svou prostor pro úschovu předmětů můžeš rozšířit tak, že klikneš na tlačítko Rozšířit místo. Bude tě to stát nějaké železné mince.{^N}{^N}Kliknutím na Přesun předmětů umožníš sdílení předmětů mezi svými dalšími postavami.
 
 tagTutorialTip38Tile=Přesun předmětů
-tagTutorialTip38TextA=Předměty umístěné v Pašerákově komoře pro přesun předmětů budou sdíleny mezi tvými ostatními postavami.
+tagTutorialTip38TextA=Předměty umístěné v Pašerákově komoře pro přesun předmětů budou sdíleny mezi tvými ostatními postavami (předměty pro normální a hardcore hru jsou však odděleny).
 tagTutorialTip38SubtitleA=Přesun předmětů mezi postavami
 tagTutorialTip38TextB=Pro přesun předmětů umístit předmět do předávací komory. Jakmile budeš hrát s jinou postavou, předměty u Pašeráka ti budou opět dostupné.
 tagTutorialTip38SubtitleB=Přesun mezi hráči
 tagTutorialTip38TextC=Pro zprosředkování přesunu předmětů mezi hráči v multihře musíš použít funkci obchodu.
 
 tagTutorialTip39Title=Vynálezce
-tagTutorialTip39TextA=Vynálezci ti slouží ke dvěma účelům: odstraňují komponenty z předmětů a vytváří nové předměty podle návodů.
-tagTutorialTip39SubtitleA=Návody
-tagTutorialTip39CaptionA=Návody
-tagTutorialTip39TextB=Vynálezce potřebuje návody, aby mohl vyrábět nové předměty. Jakmile jsou dodány potřebné části, předmět může být vytvořen.
-tagTutorialTip39SubtitleB=Odstraňování komponenet
-tagTutorialTip39TextC=Vynálezce může odstraňovat za poplatek odstraňovat komponenty z předmětů. Umísti předmět s komponentou do Rozkladové komory.{^N}{^N}Můžeš získat zpět buď předmět nebo komponentu.{^N}{^N}Pokud chceš získat předmět, přijdeš o komponentu. To platí i obráceně.{^N}{^N}
+tagTutorialTip39TextA=Inventors are capable of removing components from items. Either the item or the component is preserved in the process.
+tagTutorialTip39SubtitleA=Removing Components
+tagTutorialTip39TextB=The removal of components from items costs a fee proportional to the combined value of the item and the component. Place an item with a component in the Inventor's UI to begin.{^N}{^N}You can recover either the item or the component.{^N}{^N}If you recover the item, the component will be lost. The same goes in reverse.{^N}{^N}
+
+tagTutorialTip42Title=Blacksmith
+tagTutorialTip42TextA=The Blacksmith is capable of crafting items of great power. He is already an experienced craftsman, but his knowledge can be expanded upon with the discovery of new blueprints.
+tagTutorialTip42SubtitleA=Blueprints
+tagTutorialTip42TextB=The Blacksmith will learn to craft new items when you discover new blueprints. Blueprints can be earned from quests, or found out in the world.
+tagTutorialTip42SubtitleB=Crafting
+tagTutorialTip42TextC=To begin crafting an item, select a recipe in the Crafting UI. Place the required items into the designated spaces in the UI or shift-click them within your inventory.{^N}{^N}When all required materials are in the UI, press the Combine button to craft the item.{^N}{^N}
+
+tagTutorialTip43Title=Blueprints
+tagTutorialTip43TextA=Blueprints are forgotten templates for the creation of powerful items, which a Blacksmith can study.
+tagTutorialTip43TextB=To learn a blueprint, right-click on it. If you have not yet learned this blueprint, it will be added to your Blacksmith's list of items.{^n}{^n}Blueprints are stored across all characters (separated by Normal and Hardcore mode) and you can only learn each Blueprint once.
+
+tagTutorialTip44Title=The Blacksmith is Missing! (Not in this Build)
+tagTutorialTip44TextA=You have learned a new blueprint, but you do not have a Blacksmith capable of crafting the item for you.{^n}{^n}You must first find a Blacksmith before you can craft items.{^n}{^n}The Blacksmith will know how to craft this new blueprint immediately.
+tagTutorialTip44TextB=
