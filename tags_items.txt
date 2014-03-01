@@ -1,28 +1,29 @@
 #prefix/quality/style/name/suffix concatenation
-
-tagItemNameOrder={%_s0}{%_s1}{%_s2}{%_s3}{%_s4}
+#[ms] Masculine Singular[fs] Feminine Singular[ns] Neuter Singular
+#[mp] Masculine Plural[fp] Feminine Plural[np] Neuter Plural
+tagItemNameOrder=${%_3a0}{%_3a1}{%_3a2}{%_s3}{%_3a4}
 
 #Weapons
 
-tagWeaponSwordA000=nožík
-tagWeaponSwordA001=gladius
-tagWeaponSwordA002=břitva
-tagWeaponSwordA003=krátký meč
-tagWeaponSwordA004=kráječ
-tagWeaponSwordA005=dlouhý meč
-tagWeaponSwordA006=široký meč
-tagWeaponSwordA007=sekáček
-tagWeaponSwordA008=palaš
-tagWeaponSwordA009=mandlovač
-tagWeaponSwordA010=ostrá čepel
-tagWeaponSwordA011=lamač kostí
-tagWeaponSwordA012=dobyvatelský meč
-tagWeaponSwordA013=šavle
+tagWeaponSwordA000=[ms]]nožík
+tagWeaponSwordA001=[ms]gladius
+tagWeaponSwordA002=[fs]břitva
+tagWeaponSwordA003=[ms]krátký meč
+tagWeaponSwordA004=[ms]kráječ
+tagWeaponSwordA005=[ms]dlouhý meč
+tagWeaponSwordA006=[ms]široký meč
+tagWeaponSwordA007=[ms]sekáček
+tagWeaponSwordA008=[ms]palaš
+tagWeaponSwordA009=[ms]mandlovač
+tagWeaponSwordA010=[fs]ostrá čepel
+tagWeaponSwordA011=[ms]lamač kostí
+tagWeaponSwordA012=[ms]dobyvatelský meč
+tagWeaponSwordA013=[fs]šavle
 
 tagWeaponSwordB001=Salazarova suverénní čepel
 tagWeaponSwordB001Desc=^b"Vykována z Čepele Ch'thona za jeho neochvějnou službu."
-tagWeaponSwordB002=přízračný široký meč
-tagWeaponSwordB003=přízračný dlouhý meč
+tagWeaponSwordB002=[ms]přízračný široký meč
+tagWeaponSwordB003=[ms]přízračný dlouhý meč
 
 tagWeaponSwordC001=Bleskosvod
 tagWeaponSwordC002=Ohařský skus
@@ -61,17 +62,17 @@ tagWeaponSwordD007=Ortus
 tagWeaponSwordD007Desc=^b"Pouhý pohled na tuto čepel tě naplňuje nadějí."
 
 
-tagWeaponBluntA000=klacek
-tagWeaponBluntA001=řemdih
-tagWeaponBluntA002=palcát
-tagWeaponBluntA003=obroubený palcát
-tagWeaponBluntA004=palice
-tagWeaponBluntA005=kropáč
-tagWeaponBluntA006=obušek
-tagWeaponBluntA007=ostrý palcát
-tagWeaponBluntA008=kyj
-tagWeaponBluntA009=válečné kladivo
-tagWeaponBluntA010=žezlo
+tagWeaponBluntA000=[ms]klacek
+tagWeaponBluntA001=[ms]řemdih
+tagWeaponBluntA002=[ms]palcát
+tagWeaponBluntA003=[ms]obroubený palcát
+tagWeaponBluntA004=[fs]palice
+tagWeaponBluntA005=[ms]kropáč
+tagWeaponBluntA006=[ms]obušek
+tagWeaponBluntA007=[ms]ostrý palcát
+tagWeaponBluntA008=[ms]kyj
+tagWeaponBluntA009=[ns]válečné kladivo
+tagWeaponBluntA010=[ns]žezlo
 
 tagWeaponBluntB000=Pochodeň
 tagWeaponBluntB001=Wardenův rozsudek
@@ -112,20 +113,20 @@ tagWeaponBluntD005Desc=^b"Nositel sedmi morových ran čarodějného boha Dreega
 tagWeaponBluntD006=Sáně zpožděného svítání
 
 
-tagWeaponAxeA000=dřevorubecká sekera
-tagWeaponAxeA001=kotoučová pila
-tagWeaponAxeA002=sekyrka
-tagWeaponAxeA003=sekera se zdvojeným ostřím
-tagWeaponAxeA004=sekáček
-tagWeaponAxeA005=kalač
-tagWeaponAxeA006=bitevní sekera
-tagWeaponAxeA007=půlkruhová sekera
-tagWeaponAxeA008=těžká sekera
-tagWeaponAxeA009=háková sekera
+tagWeaponAxeA000=[fs]dřevorubecká sekera
+tagWeaponAxeA001=[fs]kotoučová pila
+tagWeaponAxeA002=[fs]sekyrka
+tagWeaponAxeA003=[fs]sekera se zdvojeným ostřím
+tagWeaponAxeA004=[ms]sekáček
+tagWeaponAxeA005=[ms]kalač
+tagWeaponAxeA006=[fs]bitevní sekera
+tagWeaponAxeA007=[fs]půlkruhová sekera
+tagWeaponAxeA008=[fs]těžká sekera
+tagWeaponAxeA009=[fs]háková sekera
 
-tagWeaponAxeB001=spektrální sekáček
-tagWeaponAxeB002=spektrální bitevní sekera
-tagWeaponAxeB003=sekera mistra jámy
+tagWeaponAxeB001=[ms]spektrální sekáček
+tagWeaponAxeB002=[fs]spektrální bitevní sekera
+tagWeaponAxeB003=[fs]sekera mistra jámy
 
 
 tagWeaponAxeC001=Cruel Edge
@@ -157,16 +158,16 @@ tagWeaponAxeD004Desc=^b"Legends speak of a mortal who, when beseeched by the god
 tagWeaponAxeD005=Damnation
 
 
-tagWeaponGun1hA001=ruční mušketa
-tagWeaponGun1hA002=pistole howdah
-tagWeaponGun1hA003=pistole pepperbox
-tagWeaponGun1hA004=ruční dělo
-tagWeaponGun1hA005=revolver
-tagWeaponGun1hA006=šestikomorový revolver
-tagWeaponGun1hA007=pistole deringer
-tagWeaponGun1hA008=opakovací puška
-tagWeaponGun1hA009=zaměřovací revolver
-tagWeaponGun1hA010=vícehlavňové dělo
+tagWeaponGun1hA001=[fs]ruční mušketa
+tagWeaponGun1hA002=[ms]howdah
+tagWeaponGun1hA003=[ms]pepperbox
+tagWeaponGun1hA004=[ns]ruční dělo
+tagWeaponGun1hA005=[ms]revolver
+tagWeaponGun1hA006=[ms]šestikomorový revolver
+tagWeaponGun1hA007=[ms]derringer
+tagWeaponGun1hA008=[fs]opakovací puška
+tagWeaponGun1hA009=[ms]zaměřovací revolver
+tagWeaponGun1hA010=[ns]vícehlavňové dělo
 
 tagWeaponGun1hC001=Leander Greene's Hand Cannon
 tagWeaponGun1hC001Desc=^b"Taken from the cold dead hands of the Blackwater bandit."
@@ -203,17 +204,17 @@ tagWeaponGun1hD008=Barrelsmith's Salvo
 tagWeaponGun1hD009=Barrelsmith's Crossfire
 
 
-tagWeaponGun2hA001=předovka
-tagWeaponGun2hA002=flinta
-tagWeaponGun2hA003=zaměřovací puška
-tagWeaponGun2hA004=mušketa
-tagWeaponGun2hA005=komorová puška
-tagWeaponGun2hA006=opakovací puška
-tagWeaponGun2hA007=karabina
-tagWeaponGun2hA008=zadovka
-tagWeaponGun2hA009=kanon
-tagWeaponGun2hA010=brokovnice
-tagWeaponGun2hA011=bitevní brokovnice
+tagWeaponGun2hA001=[fs]předovka
+tagWeaponGun2hA002=[fs]flinta
+tagWeaponGun2hA003=[fs]zaměřovací puška
+tagWeaponGun2hA004=[fs]mušketa
+tagWeaponGun2hA005=[fs]komorová puška
+tagWeaponGun2hA006=[fs]opakovací puška
+tagWeaponGun2hA007=[fs]karabina
+tagWeaponGun2hA008=[fs]zadovka
+tagWeaponGun2hA009=[ms]kanon
+tagWeaponGun2hA010=[fs]brokovnice
+tagWeaponGun2hA011=[fs]bitevní brokovnice
 
 tagWeaponGun2hC001=The Huntsman
 tagWeaponGun2hC002=The Eye
@@ -239,13 +240,13 @@ tagWeaponGun2hD004Desc=^b"Every shot fired sends a ripples through the aether."
 tagWeaponGun2hD005=Gutripper
 
 
-tagWeaponCrossbow2hA001=kuše
-tagWeaponCrossbow2hA002=samostříl
-tagWeaponCrossbow2hA003=těžká kuše
-tagWeaponCrossbow2hA004=škorpion
+tagWeaponCrossbow2hA001=[fs]kuše
+tagWeaponCrossbow2hA002=[ms]samostříl
+tagWeaponCrossbow2hA003=[fs]těžká kuše
+tagWeaponCrossbow2hA004=[ms]škorpion
 
-tagWeaponCrossbow2hB001=spektrální kuše
-tagWeaponCrossbow2hB002=Spectral Arbalest
+tagWeaponCrossbow2hB001=[fs]přízračná kuše
+tagWeaponCrossbow2hB002=[ms]přízračný samostříl
 
 tagWeaponCrossbow2hC001=Boltspitter
 tagWeaponCrossbow2hC001Desc=^b"A prototype weapon. Unfortunately, its inventor was slain before it could be taken to mass production."
@@ -325,39 +326,39 @@ tagWeaponMelee2hD008=Temporal Arcblade
 tagWeaponMelee2hD009=Wildblood Crusher
 
 
-tagWeaponArcaneA001=hrubá hůl
-tagWeaponArcaneA002=sukovitá hůl
-tagWeaponArcaneA003=hůl z borovice
-tagWeaponArcaneA004=hůl z jasanu
-tagWeaponArcaneA005=hůl z cedru
-tagWeaponArcaneA006=hůl z dubu
-tagWeaponArcaneA007=hůl z černého dřeva
+tagWeaponArcaneA001=[fs]hrubá hůl
+tagWeaponArcaneA002=[fs]sukovitá hůl
+tagWeaponArcaneA003=[fs]hůl z borovice
+tagWeaponArcaneA004=[fs]hůl z jasanu
+tagWeaponArcaneA005=[fs]hůl z cedru
+tagWeaponArcaneA006=[fs]hůl z dubu
+tagWeaponArcaneA007=[fs]hůl z černého dřeva
 
-tagWeaponCrossbow1hA001=kuše se spouští
-tagWeaponCrossbow1hA002=skládaná kuše
-tagWeaponCrossbow1hA003=rumpálová kuše
-tagWeaponCrossbow1hA004=opakovací kuše
+tagWeaponCrossbow1hA001=[fs]kuše se spouští
+tagWeaponCrossbow1hA002=[fs]skládaná kuše
+tagWeaponCrossbow1hA003=[fs]rumpálová kuše
+tagWeaponCrossbow1hA004=[fs]opakovací kuše
 
 
 #Shields
 
-tagShieldA000=dřevěný štít
-tagShieldA001=pukléř
-tagShieldA002=kulatý štít
-tagShieldA003=erbový štít
-tagShieldA004=vysoký štít
-tagShieldA005=povstalecký štít
-tagShieldA006=válečný štít
-tagShieldA007=egida
-tagShieldA008=kruhový štít
-tagShieldA009=vypouklý štít
-tagShieldA010=pavéza
+tagShieldA000=[ms]dřevěný štít
+tagShieldA001=[ms]pukléř
+tagShieldA002=[ms]kulatý štít
+tagShieldA003=[ms]erbový štít
+tagShieldA004=[ms]vysoký štít
+tagShieldA005=[ms]povstalecký štít
+tagShieldA006=[ms]válečný štít
+tagShieldA007=[fs]egida
+tagShieldA008=[ms]kruhový štít
+tagShieldA009=[ms]vypouklý štít
+tagShieldA010=[fs]pavéza
 
 tagShieldB001=Wardenova hradba
 tagShieldB001Desc=^b"Kovaná z kalené oceli s bezohlednou nenávistí."
 tagShieldB002=Wardenono opevnění
-tagShieldB003=Spektrální štít
-tagShieldB004=Spektrální válečný štít
+tagShieldB003=[ms]přízračný štít
+tagShieldB004=[ms]přízračný válečný štít
 
 tagShieldC001=Defender of Devil's Crossing
 tagShieldC002=Elementium
@@ -449,36 +450,36 @@ tagFocusD007=Archmage's Codex
 
 #WEAPON_QUALITY
 
-TagQualityBrokenWeapon01=Broken
-TagQualityBrokenWeapon02=Shattered
-TagQualityBrokenWeapon03=Bent
-TagQualityBrokenArmor01=Ruined
-TagQualityBrokenAll01=Destroyed
+TagQualityBrokenWeapon01=zlomený
+TagQualityBrokenWeapon02=rozbitý
+TagQualityBrokenWeapon03=pokřivený
+TagQualityBrokenArmor01=poničený
+TagQualityBrokenAll01=zničený
 
-tagQualityWeaponMetal01=Scrapmetal
-tagQualityWeaponMetal02=Tarnished
-tagQualityWeaponMetal03=Iron
-tagQualityWeaponMetal04=Steel
-tagQualityWeaponMetal05=Imbued
-tagQualityWeaponMetal06=Raider
-tagQualityWeaponMetal07=Assault
-tagQualityWeaponMetal08=Imperial
+tagQualityWeaponMetal01=[ms]nesourodý[fs]nesourodá[ns]nesourodé[mp]nesourodé[fp]nesourodé[np]nesourodé
+tagQualityWeaponMetal02=[ms]zakalený[fs]zakalená[ns]zakalené[mp]zakalené[fp]zakalené[np]zakalené
+tagQualityWeaponMetal03=[ms]železný[fs]železná[ns]železné[mp]železné[fp]železné[np]železné
+tagQualityWeaponMetal04=[ms]ocelový[fs]ocelová[ns]ocelové[mp]ocelové[fp]ocelové[np]ocelové
+tagQualityWeaponMetal05=[ms]zabarvený[fs]zabarvená[ns]zabarvené[mp]zabarvené[fp]zabarvené[np]zabarvené
+tagQualityWeaponMetal06=[ms]jezdecký[fs]jezdecká[ns]jezdecké[mp]jezdecké[fp]jezdecké[np]jezdecké
+tagQualityWeaponMetal07=[ms]útočný[fs]útočná[ns]útočné[mp]útočné[fp]útočné[np]útočné
+tagQualityWeaponMetal08=[ms]císařský[fs]císařská[ns]císařské[mp]císařské[fp]císařské[np]císařské
 
-tagQualityWeaponWood01=Splintered
-tagQualityWeaponWood02=Crude
-tagQualityWeaponWood03=Savage
-tagQualityWeaponWood04=Weathered
-tagQualityWeaponWood05=Solid
-tagQualityWeaponWood06=Polished
-tagQualityWeaponWood07=Imbued
-tagQualityWeaponWood08=Raider
-tagQualityWeaponWood09=Assault
-tagQualityWeaponWood10=Imperial
+tagQualityWeaponWood01=rozlámaný
+tagQualityWeaponWood02=primitivní
+tagQualityWeaponWood03=domorodcův
+tagQualityWeaponWood04=obstojný
+tagQualityWeaponWood05=masivní
+tagQualityWeaponWood06=lesklý
+tagQualityWeaponWood07=[ms]zabarvený[fs]zabarvená[ns]zabarvené[mp]zabarvené[fp]zabarvené[np]zabarvené
+tagQualityWeaponWood08=[ms]jezdecký[fs]jezdecká[ns]jezdecké[mp]jezdecké[fp]jezdecké[np]jezdecké
+tagQualityWeaponWood09=[ms]útočný[fs]útočná[ns]útočné[mp]útočné[fp]útočné[np]útočné
+tagQualityWeaponWood10=[ms]císařský[fs]císařská[ns]císařské[mp]císařské[fp]císařské[np]císařské
 
 
 #ARMOR_STYLES
 
-tagStyle001=Worn
+tagStyle001=obnošený
 tagStyle002=Cloth
 tagStyle003=Padded
 tagStyle004=Quilted
@@ -488,7 +489,7 @@ tagStyle007=Ornate
 tagStyle008=Gilded
 tagStyle009=Patchwork
 
-tagStyle010=Leather
+tagStyle010=[ms]kožený[fs]kožená[ns]kožené[mp]kožené[fp]kožené[np]kožené
 tagStyle011=Hide
 tagStyle012=Fur-lined
 tagStyle013=Spiked
@@ -526,20 +527,20 @@ tagStyle040=Apprentice
 
 #ArmorHead
 
-tagHeadA001=helma
-tagHeadA002=čepec
-tagHeadA003=přilba
-tagHeadA004=maska
-tagHeadA005=čapka
-tagHeadA006=rytířská helma
-tagHeadA007=přilbice
-tagHeadA008=klobouk
-tagHeadA009=kšilt
-tagHeadA010=kutna
-tagHeadA011=kapuce
-tagHeadA012=čelenka
-tagHeadA013=diadém
-tagHeadA014=korunka
+tagHeadA001=[fs]helma
+tagHeadA002=[ms]čepec
+tagHeadA003=[fs]přilba
+tagHeadA004=[fs]maska
+tagHeadA005=[fs]čapka
+tagHeadA006=[fs]rytířská helma
+tagHeadA007=[fs]přilbice
+tagHeadA008=[ms]klobouk
+tagHeadA009=[ms]kšilt
+tagHeadA010=[fs]kutna
+tagHeadA011=[fs]kapuce
+tagHeadA012=[fs]čelenka
+tagHeadA013=[ms]diadém
+tagHeadA014=[fs]korunka
 
 tagHeadB001=Incendiary Helm
 tagHeadB002=Incendiary Casque
@@ -593,12 +594,12 @@ tagHeadD010=Archmage's Hat
 
 #ArmorShoulders
 
-tagShoulderA001=rytířské nárameníky
-tagShoulderA002=rukávky
-tagShoulderA003=chrániče ramen
-tagShoulderA004=nárameníky
-tagShoulderA005=plátované nárameníky
-tagShoulderA006=skládané nárameníky
+tagShoulderA001=[mp]rytířské nárameníky
+tagShoulderA002=[mp]rukávky
+tagShoulderA003=[mp]chrániče ramen
+tagShoulderA004=[mp]nárameníky
+tagShoulderA005=[mp]plátové nárameníky
+tagShoulderA006=[mp]skládané nárameníky
 
 tagShoulderB001=Incendiary Spaulders
 tagShoulderB002=Incendiary Shoulderplates
@@ -644,24 +645,24 @@ tagShoulderD010=Archamge's Mantle
 
 #ArmorTorso
 
-tagTorsoA000=hadry
-tagTorsoA001L=kabát
-tagTorsoA002L=uniforma
-tagTorsoA003L=kyrys
-tagTorsoA004L=drátěná košile
-tagTorsoA005H=zbroj
-tagTorsoA006H=pláštěnka
-tagTorsoA007H=plášť
-tagTorsoA008H=kroužková zbroj
-tagTorsoA009H=plátovaná zbroj
-tagTorsoA010M=bunda
-tagTorsoA011M=hrudní plát
-tagTorsoA012M=hrudní chránič
-tagTorsoA013M=postroj
-tagTorsoA014C=tunika
-tagTorsoA015C=háv
-tagTorsoA016C=roucho
-tagTorsoA017C=róba
+tagTorsoA000=[mp]hadry
+tagTorsoA001L=[ms]kabát
+tagTorsoA002L=[fs]uniforma
+tagTorsoA003L=[ms]kyrys
+tagTorsoA004L=[fs]drátěná košile
+tagTorsoA005H=[fs]zbroj
+tagTorsoA006H=[fs]pláštěnka
+tagTorsoA007H=[ms]plášť
+tagTorsoA008H=[fs]kroužková zbroj
+tagTorsoA009H=[fs]plátová zbroj
+tagTorsoA010M=[fs]bunda
+tagTorsoA011M=[ms]hrudní plát
+tagTorsoA012M=[ms]hrudní chránič
+tagTorsoA013M=[ms]postroj
+tagTorsoA014C=[fs]tunika
+tagTorsoA015C=[ms]háv
+tagTorsoA016C=[ns]roucho
+tagTorsoA017C=[fs]róba
 
 tagTorsoB001=Murderer's Armor
 tagTorsoB002=Murderer's Breastplate
@@ -713,14 +714,14 @@ tagTorsoM003=Bloodstained Robes
 
 #ArmorWaist
 
-tagWaistA001=plátěný hadr
-tagWaistA002=tkaná šňůra
-tagWaistA003=kožená pelerína
-tagWaistA004=kožený opasek
-tagWaistA005=řetez
-tagWaistA006=opasek pěší stráže
-tagWaistA007=Plátovaný opasek
-tagWaistA008=císařský písek
+tagWaistA001=[ms]plátěný hadr
+tagWaistA002=[fs]tkaná šňůra
+tagWaistA003=[fs]kožená pelerína
+tagWaistA004=[ms]kožený opasek
+tagWaistA005=[ms]řetez
+tagWaistA006=[ms]opasek pěší stráže
+tagWaistA007=[ms]plátový opasek
+tagWaistA008=[ms]císařský pásek
 
 tagWaistC001=Oldenar's Stabilizer
 tagWaistC002=Frizzick's Utility Pack
@@ -755,11 +756,11 @@ tagWaistD009=Opasek divoké krve
 
 #ArmorHands
 
-tagHandsA001=rukavice
-tagHandsA002=návleky
-tagHandsA003=rytířské rukavice
-tagHandsA004=palčáky
-tagHandsA005=chrániče rukou
+tagHandsA001=[fp]rukavice
+tagHandsA002=[mp]návleky
+tagHandsA003=[fp]rytířské rukavice
+tagHandsA004=[mp]palčáky
+tagHandsA005=[mp]chrániče rukou
 
 tagHandsC001=Shadow's Grasp
 tagHandsC002=Zealot's Gauntlets
@@ -796,12 +797,12 @@ tagHandsD009=Archmage's Handwraps
 
 #ArmorLegs
 
-tagLegsA001=spodky
-tagLegsA002=kamaše
-tagLegsA003=motané kalhoty
-tagLegsA004=kalhoty
-tagLegsA005=nohavice
-tagLegsA006=náholeníky
+tagLegsA001=[mp]spodky
+tagLegsA002=[fp]kamaše
+tagLegsA003=[fp]omotaniny
+tagLegsA004=[fp]kalhoty
+tagLegsA005=[fp]nohavice
+tagLegsA006=[mp]náholeníky
 
 tagLegsC001=Mistwalker Leggings
 tagLegsC002=Hermit's Legguards
@@ -835,11 +836,11 @@ tagLegsD008=Archmage's Leggings
 
 #ArmorFeet
 
-tagFeetA001=žabky
-tagFeetA002=boty
-tagFeetA003=pohorky
-tagFeetA004=sabatony
-tagFeetA005=sandály
+tagFeetA001=[fp]žabky
+tagFeetA002=[fp]boty
+tagFeetA003=[fp]pohorky
+tagFeetA004=[mp]sabatony
+tagFeetA005=[fp]sandály
 
 tagFeetC001=Molten Walkers
 tagFeetC002=Windborne Greaves
@@ -877,19 +878,19 @@ tagFeetD009=Archmage's Boots
 
 #Rings
 
-tagRingA001=měděný kroužek
-tagRingA002=stříbrný kroužek
-tagRingA003=zlatý kroužek
-tagRingA004=platinový kroužek
-tagRingA005=ametystový prsten
-tagRingA006=kroužek z měsíčního kamene
-tagRingA007=opálová pečeť
-tagRingA008=smaragdový prsten
-tagRingA009=safírový kroužek
-tagRingA010=topasová pečeť
-tagRingA011=rubínový prsten
-tagRingA012=zásnubní kroužek
-tagRingA013=diamantová pečeť
+tagRingA001=[ms]měděný kroužek
+tagRingA002=[ms]stříbrný kroužek
+tagRingA003=[ms]zlatý kroužek
+tagRingA004=[ms]platinový kroužek
+tagRingA005=[ms]ametystový prsten
+tagRingA006=[ms]kroužek z měsíčního kamene
+tagRingA007=[fs]opálová pečeť
+tagRingA008=[ms]smaragdový prsten
+tagRingA009=[ms]safírový kroužek
+tagRingA010=[fs]topasová pečeť
+tagRingA011=[ms]rubínový prsten
+tagRingA012=[ms]zásnubní kroužek
+tagRingA013=[fs]diamantová pečeť
 
 tagRingB001=Reddan Memento Ring
 tagRingB001Desc=^b"A worn out inscription along the band says: With love - Amelia"
@@ -937,19 +938,19 @@ tagRingD011=Archmage's Signet
 
 #Necklaces
 
-tagNecklaceA001=úctyhodný dráp
-tagNecklaceA002=stříbrný amulet
-tagNecklaceA003=úctyhodná lebka
-tagNecklaceA004=platinový amulet
-tagNecklaceA005=kostěný talisman
-tagNecklaceA006=měsíční amulet
-tagNecklaceA007=opálový přívěšek
-tagNecklaceA008=smaragdový náhrdelník
-tagNecklaceA009=safírový amulet
-tagNecklaceA010=topasový přívěšek
-tagNecklaceA011=rubínový náhrdelník
-tagNecklaceA012=podepsaný amulet
-tagNecklaceA013=diamantový přívěšek
+tagNecklaceA001=[ms]úctyhodný dráp
+tagNecklaceA002=[ms]stříbrný amulet
+tagNecklaceA003=[fs]úctyhodná lebka
+tagNecklaceA004=[ms]platinový amulet
+tagNecklaceA005=[ms]kostěný talisman
+tagNecklaceA006=[ms]měsíční amulet
+tagNecklaceA007=[ms]opálový přívěšek
+tagNecklaceA008=[ms]smaragdový náhrdelník
+tagNecklaceA009=[ms]safírový amulet
+tagNecklaceA010=[ms]topasový přívěšek
+tagNecklaceA011=[ms]rubínový náhrdelník
+tagNecklaceA012=[ms]podepsaný amulet
+tagNecklaceA013=[ms]diamantový přívěšek
 
 tagNecklaceB001=Hnilobný náhrdelník
 tagNecklaceB001Desc=^b"Lebka je potažena páchnoucím slizem."
@@ -1000,11 +1001,11 @@ tagNecklaceD013=Demonslayer's Defense
 
 #Medals
 
-tagMedalA001=stuha
-tagMedalA002=odznak
-tagMedalA003=znak
-tagMedalA004=erb
-tagMedalA005=hvězda
+tagMedalA001=[fs]stuha
+tagMedalA002=[ms]odznak
+tagMedalA003=[ms]znak
+tagMedalA004=[ms]erb
+tagMedalA005=[fs]hvězda
 
 tagMedalC001=Beast Slayer's Mark
 tagMedalC002=Badge of Tenacity
@@ -1618,7 +1619,8 @@ tagPrefixAA006=mystický
 tagPrefixAA007=prudký
 tagPrefixAA008=povzbuzující
 tagPrefixAA009=agresivní
-tagPrefixAA010=oddaný
+tagPrefixAA010=[ms]oddaný[fs]oddaná[ns]oddané[mp]oddané[fp]oddané[np]oddané
+
 
 tagPrefixAA011=vojákův
 tagPrefixAA012=ničitelův
