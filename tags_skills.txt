@@ -2,7 +2,7 @@ tagSkillClassName01=Voják
 tagSkillClassName02=Ničitel
 tagSkillClassName03=Okultista
 tagSkillClassName04=Noční lovec
-tagSkillClassName05=Pán temnoty
+tagSkillClassName05=Pán temnot
 tagSkillClassName06=?
 tagSkillClassName07=?
 tagSkillClassName08=?
@@ -54,7 +54,7 @@ tagSkillClassDescription03=Poté, co byli pronásledováni císařskými vojsky 
 
 tagSkillClassDescription04=Noční lovci byli tajní bojovníci, kteří nabízeli své služby velkým rodům v říši. Noční lovci vynikají v boji se všemi druhy bojových zbraní, ale největší obavy vzbuzují jejich smrtící magické nože, které jsou jejich obchodním tajemstvím. Noční lovci nejsou přizpůsobeni k tělesnímu kontaktu s odolnějším nepřítelem a raději se spoláhají na svou iluzi o rychlém a zničujícím napadení nebo na boj z určité vzdálenosti s jeich přízračnými noži.
 
-tagSkillClassDescription05=Pro Pány temnoty není tajemství magie nšjaká nevysvětlitelná záhada nebo vůle bohů, ale věda, která chce být odtajněna. Tato snaha o poznání žene všechny Pány temnoty dychtivě dál za objevováním nových způsobů, které by si mohli osvojit. Pán temnoty vychyluje Éterickou a živelnou energii podle své vůle, čímž tvoří ničivou demonstraci síly, kterou může použít na malé armády. Nicméně je především využívá na sovu obranu.
+tagSkillClassDescription05=Pro Pány temnot není tajemství magie nšjaká nevysvětlitelná záhada nebo vůle bohů, ale věda, která chce být odtajněna. Tato snaha o poznání žene všechny Pány temnoty dychtivě dál za objevováním nových způsobů, které by si mohli osvojit. Pán temnot vychyluje Éterickou a živelnou energii podle své vůle, čímž tvoří ničivou demonstraci síly, kterou může použít na malé armády. Nicméně je především využívá na sovu obranu.
 
 tagSkillClassDescription06=
 
@@ -435,7 +435,7 @@ tagClass04SkillDescription15B=A master technique that enhances eviscerate and ha
 
 #Class05
 
-tagClass05SkillName00=Pán temnoty
+tagClass05SkillName00=Pán temnot
 tagClass05SkillDescription00=Conditioning of the body and mind to withstand the corrupting power of raw magic.
 
 tagClass05SkillName01A=Arcane Missile
