@@ -1,6 +1,8 @@
 #prefix/quality/style/name/suffix concatenation
 #[ms] Masculine Singular[fs] Feminine Singular[ns] Neuter Singular
 #[mp] Masculine Plural[fp] Feminine Plural[np] Neuter Plural
+#adjective[ms]í[fs]í[ns]í[mp]í[fp]í[np]í
+#adjective[ms]ý[fs]á[ns]é[mp]é[fp]é[np]é
 tagItemNameOrder=${%_3a0}{%_3a1}{%_3a2}{%_s3}{%_3a4}
 
 #Weapons
@@ -45,11 +47,11 @@ tagWeaponSwordC013=Vrahovo volání
 tagWeaponSwordC013Desc=^b"Do čepele je zapuštěna malá lahvička jedu, vyvolávající tuhnoucí ochrnutí a konečnou smrt."
 tagWeaponSwordC014=Břitva slepého vraha
 tagWeaponSwordC015=Zkrvavená dýka úmluvy
-tagWeaponSwordC016=Willie's Razor
-tagWeaponSwordC016Desc=^b"The edge of this blade never dulls."
+tagWeaponSwordC016=Willieho břitva
+tagWeaponSwordC016Desc=^b"Ostří tohoto nože se nikdy neotupí."
 
 tagWeaponSwordD001=Purpurový bodec
-tagWeaponSwordD001Desc=^b"Zbraň naplní svého nositele neukojitelou žízní po krvi."
+tagWeaponSwordD001Desc=^b"Zbraň naplní svého nositele neukojitelou touhou po krvi."
 tagWeaponSwordD002=Krystalická čepel
 tagWeaponSwordD002Desc=^b"Soladrinova krystalická čepel se hemží nevyužitou silou."
 tagWeaponSwordD003=Chmurná zhouba
@@ -83,8 +85,8 @@ tagWeaponBluntB004=Zlobrův drtič lebek
 tagWeaponBluntB005=Přízračný kropáč
 tagWeaponBluntB006=Přízračný kyj
 tagWeaponBluntB007=Kilrianův rozbíječ lebek
-tagWeaponBluntB008=Skinner's Torch
-tagWeaponBluntB008Desc=^b"A desperate man's last hope..."
+tagWeaponBluntB008=Skinnerova louč
+tagWeaponBluntB008Desc=^b"Poslední naděje zoufalého muže..."
 
 tagWeaponBluntC001=Éterická bída
 tagWeaponBluntC002=Anarchie
@@ -110,7 +112,7 @@ tagWeaponBluntD004=Zvěstovatel apokalypsy
 tagWeaponBluntD004Desc=^b"Proslýchá se, že udělal trhlinu k otevření prvního portálu na počátku Ponurého úsvitu."
 tagWeaponBluntD005=Dreegův mor
 tagWeaponBluntD005Desc=^b"Nositel sedmi morových ran čarodějného boha Dreega."
-tagWeaponBluntD006=Sáně zpožděného svítání
+tagWeaponBluntD006=Perlík zpožděného svítání
 
 
 tagWeaponAxeA000=[fs]dřevorubecká sekera
@@ -129,33 +131,33 @@ tagWeaponAxeB002=[fs]spektrální bitevní sekera
 tagWeaponAxeB003=[fs]sekera mistra jámy
 
 
-tagWeaponAxeC001=Cruel Edge
-tagWeaponAxeC002=Reaper's Touch
-tagWeaponAxeC002Desc=^b"An ancient implement of ritual sacrifice, forged by a long-dead people."
-tagWeaponAxeC003=Gorefeast
-tagWeaponAxeC004=Bloodreaper's Cleaver
-tagWeaponAxeC005=Storm's Edge
-tagWeaponAxeC006=Krieg's Cleaver
-tagWeaponAxeC006Desc=^b"A cruel weapon owned by a cruel man."
+tagWeaponAxeC001=Surové ostří
+tagWeaponAxeC002=Žencův dotek
+tagWeaponAxeC002Desc=^b"Starodávný nástroj rituálního obětování, skutý dlouho mrtvými lidmi."
+tagWeaponAxeC003=Krvavá oslava
+tagWeaponAxeC004=Sekáček krvavého žence
+tagWeaponAxeC005=Bouřné ostří
+tagWeaponAxeC006=Kriegův sekáček
+tagWeaponAxeC006Desc=^b"Drsná zbraň krutého muže."
 tagWeaponAxeC007=Maleficus
-tagWeaponAxeC008=Doomsaw of Gluttony
-tagWeaponAxeC009=Thirsting Maw
-tagWeaponAxeC010=Immaterial Edge
-tagWeaponAxeC010Desc=^b"The edge of this weapon harnesses the Aether itself."
-tagWeaponAxeC011=Notched Bone of a Thousand Deaths
-tagWeaponAxeC011Desc=^b"Every notch is a life claimed."
-tagWeaponAxeC012=Corpse Desecrator
+tagWeaponAxeC008=Usudová pila žravosti
+tagWeaponAxeC009=Žíznivý chřtán
+tagWeaponAxeC010=Nehmnotné ostří
+tagWeaponAxeC010Desc=^b"Ostří této zbraně je spoutáno se samotným Éterem."
+tagWeaponAxeC011=Kost se zářezy tisícera smrtí
+tagWeaponAxeC011Desc=^b"Každý zářez je potvrzením života."
+tagWeaponAxeC012=Znesvětitel mrtvol
 tagWeaponAxeC013=Chonag'Ri
-tagWeaponAxeC013Desc=^b"A shamanistic axe comprising of various unidentifiable human and animal bones."
+tagWeaponAxeC013Desc=^b"Šamanská sekyra skládající se z různých neidentifikovatelných lidských a zvířecích kostí."
 
-tagWeaponAxeD001=The Butcher of Burrwitch
-tagWeaponAxeD001Desc=^b"Embodiment of the madness and depravity that overwhelmed the people of Cairn following the Grim Dawn."
-tagWeaponAxeD002=Crescent Moon
-tagWeaponAxeD002Desc=^b"Blessed weapon of moon worshippers, thought destroyed during the Sacred Purge."
-tagWeaponAxeD003=Brutallax
-tagWeaponAxeD004=Earthsplitter
-tagWeaponAxeD004Desc=^b"Legends speak of a mortal who, when beseeched by the gods, cleaved Mount Menhir in two, forming Menhir's Twins."
-tagWeaponAxeD005=Damnation
+tagWeaponAxeD001=Burrwitchský řezník
+tagWeaponAxeD001Desc=^b"Ztělesnění šílenství a zvrácenosti, které přemohlo lidé Cairnu ihned po Ponurém úsvitu."
+tagWeaponAxeD002=Půlměsíc
+tagWeaponAxeD002Desc=^b"Posvěcená zbraň uctívačů Měsíce, o které se myslelo, že byla zničena během Duchovních čistek."
+tagWeaponAxeD003=Laxní brutalita
+tagWeaponAxeD004=Motyka
+tagWeaponAxeD004Desc=^b"Legendy vypráví o smrtelníkovi, který na naléhání bohů rozštěpil horu Menhir vedví, dnes známou jako Menhirská dvojčata."
+tagWeaponAxeD005=Zatracení
 
 
 tagWeaponGun1hA001=[fs]ruční mušketa
@@ -163,7 +165,7 @@ tagWeaponGun1hA002=[ms]howdah
 tagWeaponGun1hA003=[ms]pepperbox
 tagWeaponGun1hA004=[ns]ruční dělo
 tagWeaponGun1hA005=[ms]revolver
-tagWeaponGun1hA006=[ms]šestikomorový revolver
+tagWeaponGun1hA006=[ms]šestiranný revolver
 tagWeaponGun1hA007=[ms]derringer
 tagWeaponGun1hA008=[fs]opakovací puška
 tagWeaponGun1hA009=[ms]zaměřovací revolver
@@ -274,18 +276,18 @@ tagWeaponCrossbow2hD004=Raka'Jax
 tagWeaponCrossbow2hD005=Harbinger of Eternal Suffering
 
 
-tagWeaponMelee2hA001=Greatsword
-tagWeaponMelee2hA002=Flamberge
-tagWeaponMelee2hA003=Claymore
-tagWeaponMelee2hA004=Reaver
-tagWeaponMelee2hA005=Great Axe
-tagWeaponMelee2hA006=Carver
-tagWeaponMelee2hA007=Decapitator
-tagWeaponMelee2hA008=Executioner
-tagWeaponMelee2hA009=Mallet
-tagWeaponMelee2hA010=Maul
-tagWeaponMelee2hA011=Sledgehammer
-tagWeaponMelee2hA012=Crusher
+tagWeaponMelee2hA001=[ms]velký meč
+tagWeaponMelee2hA002=[ms]flamberk
+tagWeaponMelee2hA003=[ms]dvoubřitý meč
+tagWeaponMelee2hA004=[ms]zoubkovaný meč
+tagWeaponMelee2hA005=[ms]velká sekyra
+tagWeaponMelee2hA006=[ms]porcovací nůž
+tagWeaponMelee2hA007=[ms]stínač hlav
+tagWeaponMelee2hA008=[ms]popravčí meč
+tagWeaponMelee2hA009=[fs]palička
+tagWeaponMelee2hA010=[fs]palice
+tagWeaponMelee2hA011=[ms]perlík
+tagWeaponMelee2hA012=[ms]drtič
 
 tagWeaponMelee2hC001=Gutwrench Eviscerator
 tagWeaponMelee2hC002=Massacre
@@ -386,33 +388,33 @@ tagShieldD004Desc=^b"Formerly  the King's Crest, this shield was reborn in Chtho
 tagShieldD005=Dawnbreaker's Duty
 
 
-tagQualityShieldA01=Scrapmetal
-tagQualityShieldA02=Rusty
-tagQualityShieldA03=Improvised
-tagQualityShieldA04=Tarnished
-tagQualityShieldA05=Raider
-tagQualityShieldA06=Fortified
-tagQualityShieldA07=Weathered
-tagQualityShieldA08=Reinforced
-tagQualityShieldA09=Assault
-tagQualityShieldA10=Imperial
+tagQualityShieldA01=[ms]nesourodý[fs]nesourodá[ns]nesourodé[mp]nesourodé[fp]nesourodé[np]nesourodé
+tagQualityShieldA02=[ms]rezavý[fs]rezavá[ns]rezavé[mp]rezavé[fp]rezavé[np]rezavé
+tagQualityShieldA03=[ms]improvizovaný[fs]improvizovaná[ns]improvizované[mp]improvizované[fp]improvizované[np]improvizované
+tagQualityShieldA04=[ms]špinavý[fs]špinavá[ns]špinavé[mp]špinavé[fp]špinavé[np]špinavé
+tagQualityShieldA05=[ms]jezdecký[fs]jezdecká[ns]jezdecké[mp]jezdecké[fp]jezdecké[np]jezdecké
+tagQualityShieldA06=[ms]opevňující[fs]opevňující[ns]opevňující[mp]opevňující[fp]opevňující[np]opevňující
+tagQualityShieldA07=[ms]zvštralý[fs]zvštralá[ns]zvštralé[mp]zvštralé[fp]zvštralé[np]zvštralé
+tagQualityShieldA08=[ms]vyztužený[fs]vyztužená[ns]vyztužené[mp]vyztužené[fp]vyztužené[np]vyztužené
+tagQualityShieldA09=[ms]útočný[fs]útočná[ns]útočné[mp]útočné[fp]útočné[np]útočné
+tagQualityShieldA10=[ms]císařský[fs]císařská[ns]císařské[mp]císařské[fp]císařské[np]císařské
 
 
 #Focus
 
-tagFocusA001=plesnivá bible
-tagFocusA002=masem svázaná bible
-tagFocusA003=runami popsaná kniha
-tagFocusA004=kůží svázaná kniha kouzel
-tagFocusA005=podivná bible
-tagFocusA006=tajmný kodex
+tagFocusA001=[fs]plesnivá bible
+tagFocusA002=[fs]masem svázaná bible
+tagFocusA003=[fs]runami popsaná kniha
+tagFocusA004=[fs]kůží svázaná kniha kouzel
+tagFocusA005=[fs]podivná bible
+tagFocusA006=[ms]tajemný kodex
 
-tagFocusA007=runová kost
-tagFocusA008=ďáblova podobizna
-tagFocusA009=vyleptaný roh
-tagFocusA010=lebka s piktogramem
-tagFocusA011=barbarská hůlka
-tagFocusA012=podivná hůlka
+tagFocusA007=[fs]runová kost
+tagFocusA008=[fs]ďáblova podobizna
+tagFocusA009=[ms]vyleptaný roh
+tagFocusA010=[fs]lebka s piktogramem
+tagFocusA011=[fs]barbarská hůlka
+tagFocusA012=[fs]podivná hůlka
 
 tagFocusB001=Zarthuzellan's Codex
 tagFocusB001Desc=^b"Filled with fiery invocations to consecrate the nonbelievers."
@@ -450,11 +452,11 @@ tagFocusD007=Archmage's Codex
 
 #WEAPON_QUALITY
 
-TagQualityBrokenWeapon01=zlomený
-TagQualityBrokenWeapon02=rozbitý
-TagQualityBrokenWeapon03=pokřivený
-TagQualityBrokenArmor01=poničený
-TagQualityBrokenAll01=zničený
+TagQualityBrokenWeapon01=[ms]zlomený[fs]zlomená[ns]zlomené[mp]zlomené[fp]zlomené[np]zlomené
+TagQualityBrokenWeapon02=[ms]rozbitý[fs]rozbitá[ns]rozbité[mp]rozbité[fp]rozbité[np]rozbité
+TagQualityBrokenWeapon03=[ms]pokřivený[fs]pokřivená[ns]pokřivené[mp]pokřivené[fp]pokřivené[np]pokřivené
+TagQualityBrokenArmor01=[ms]poničený[fs]poničená[ns]poničené[mp]poničené[fp]poničené[np]poničené
+TagQualityBrokenAll01=[ms]zničený[fs]zničená[ns]zničené[mp]zničené[fp]zničené[np]zničené
 
 tagQualityWeaponMetal01=[ms]nesourodý[fs]nesourodá[ns]nesourodé[mp]nesourodé[fp]nesourodé[np]nesourodé
 tagQualityWeaponMetal02=[ms]zakalený[fs]zakalená[ns]zakalené[mp]zakalené[fp]zakalené[np]zakalené
@@ -465,12 +467,12 @@ tagQualityWeaponMetal06=[ms]jezdecký[fs]jezdecká[ns]jezdecké[mp]jezdecké[fp]
 tagQualityWeaponMetal07=[ms]útočný[fs]útočná[ns]útočné[mp]útočné[fp]útočné[np]útočné
 tagQualityWeaponMetal08=[ms]císařský[fs]císařská[ns]císařské[mp]císařské[fp]císařské[np]císařské
 
-tagQualityWeaponWood01=rozlámaný
-tagQualityWeaponWood02=primitivní
-tagQualityWeaponWood03=domorodcův
-tagQualityWeaponWood04=obstojný
-tagQualityWeaponWood05=masivní
-tagQualityWeaponWood06=lesklý
+tagQualityWeaponWood01=[ms]rozlámaný[fs]rozlámaná[ns]rozlámané[mp]rozlámané[fp]rozlámané[np]rozlámané
+tagQualityWeaponWood02=[ms]zabarvený[fs]zabarvená[ns]zabarvené[mp]zabarvené[fp]zabarvené[np]zabarvenéprimitivní
+tagQualityWeaponWood03=[ms]zabarvený[fs]zabarvená[ns]zabarvené[mp]zabarvené[fp]zabarvené[np]zabarvenédomorodcův
+tagQualityWeaponWood04=[ms]zabarvený[fs]zabarvená[ns]zabarvené[mp]zabarvené[fp]zabarvené[np]zabarvenéobstojný
+tagQualityWeaponWood05=[ms]zabarvený[fs]zabarvená[ns]zabarvené[mp]zabarvené[fp]zabarvené[np]zabarvenémasivní
+tagQualityWeaponWood06=[ms]zabarvený[fs]zabarvená[ns]zabarvené[mp]zabarvené[fp]zabarvené[np]zabarvenélesklý
 tagQualityWeaponWood07=[ms]zabarvený[fs]zabarvená[ns]zabarvené[mp]zabarvené[fp]zabarvené[np]zabarvené
 tagQualityWeaponWood08=[ms]jezdecký[fs]jezdecká[ns]jezdecké[mp]jezdecké[fp]jezdecké[np]jezdecké
 tagQualityWeaponWood09=[ms]útočný[fs]útočná[ns]útočné[mp]útočné[fp]útočné[np]útočné
@@ -479,50 +481,50 @@ tagQualityWeaponWood10=[ms]císařský[fs]císařská[ns]císařské[mp]císařs
 
 #ARMOR_STYLES
 
-tagStyle001=obnošený
-tagStyle002=Cloth
-tagStyle003=Padded
-tagStyle004=Quilted
-tagStyle005=Brigandine
-tagStyle006=Embroidered
-tagStyle007=Ornate
-tagStyle008=Gilded
-tagStyle009=Patchwork
+tagStyle001=[ms]obnošený[fs]obnošená[ns]obnošené[mp]obnošené[fp]obnošené[np]obnošené
+tagStyle002=[ms]plátěný[fs]plátěná[ns]plátěné[mp]plátěné[fp]plátěné[np]plátěné
+tagStyle003=[ms]zateplený[fs]zateplená[ns]zateplené[mp]zateplené[fp]zateplené[np]zateplené
+tagStyle004=[ms]prošívaný[fs]prošívaná[ns]prošívané[mp]prošívané[fp]prošívané[np]prošívané
+tagStyle005=[ms]lupičský[fs]lupičská[ns]lupičské[mp]lupičské[fp]lupičské[np]lupičské
+tagStyle006=[ms]vyšívaný[fs]vyšívaná[ns]vyšívané[mp]vyšívané[fp]vyšívané[np]vyšívané
+tagStyle007=[ms]zdobený[fs]zdobená[ns]zdobené[mp]zdobené[fp]zdobené[np]zdobené
+tagStyle008=[ms]pozlacený[fs]pozlacená[ns]pozlacené[mp]pozlacené[fp]pozlacené[np]pozlacené
+tagStyle009=[ms]záplatovaný[fs]záplatovaná[ns]záplatované[mp]záplatované[fp]záplatované[np]záplatované
 
 tagStyle010=[ms]kožený[fs]kožená[ns]kožené[mp]kožené[fp]kožené[np]kožené
-tagStyle011=Hide
-tagStyle012=Fur-lined
-tagStyle013=Spiked
-tagStyle014=Frontier
-tagStyle015=Hinterland
-tagStyle016=Raider
+tagStyle011=[ms]usňový[fs]usňová[ns]usňové[mp]usňové[fp]usňové[np]usňové
+tagStyle012=[ms]zateplený[fs]zateplená[ns]zateplené[mp]zateplené[fp]zateplené[np]zateplené
+tagStyle013=[ms]ostnatý[fs]ostnatá[ns]ostnaté[mp]ostnaté[fp]ostnaté[np]ostnaté
+tagStyle014=[ms]pohraniční[fs]pohraniční[ns]pohraniční[mp]pohraniční[fp]pohraniční[np]pohraniční
+tagStyle015=[ms]domácí[fs]domácí[ns]domácí[mp]domácí[fp]domácí[np]domácí
+tagStyle016=[ms]jezdecký[fs]jezdecká[ns]jezdecké[mp]jezdecké[fp]jezdecké[np]jezdecké
 
-tagStyle017=Restored
-tagStyle018=Salvaged
-tagStyle019=Engraved
-tagStyle020=Combat
-tagStyle021=Infantry
-tagStyle022=Imperial
+tagStyle017=[ms]obnovený[fs]obnovená[ns]obnovené[mp]obnovené[fp]obnovené[np]obnovené
+tagStyle018=[ms]zachráněný[fs]zachráněná[ns]zachráněné[mp]zachráněné[fp]zachráněné[np]zachráněné
+tagStyle019=[ms]gravírovaný[fs]gravírovaná[ns]gravírované[mp]gravírované[fp]gravírované[np]gravírované
+tagStyle020=[ms]bojový[fs]bojová[ns]bojové[mp]bojové[fp]bojové[np]bojové
+tagStyle021=[ms]pěchotní[fs]pěchotní[ns]pěchotní[mp]pěchotní[fp]pěchotní[np]pěchotní
+tagStyle022=[ms]císařský[fs]císařská[ns]císařské[mp]císařské[fp]císařské[np]císařské
 
-tagStyle023=Scrapmetal
-tagStyle024=Splinted
-tagStyle025=Chain
-tagStyle026=Chainmail
-tagStyle027=Scalemail
-tagStyle028=Bronze
-tagStyle029=Steel
-tagStyle030=Plate
-tagStyle031=Plated
-tagStyle032=Field
-tagStyle033=Heavy
-tagStyle034=Assault
+tagStyle023=[ms]nesourodý[fs]nesourodá[ns]nesourodé[mp]nesourodé[fp]nesourodé[np]nesourodé
+tagStyle024=[ms]roztřískaný[fs]roztřískaná[ns]roztřískané[mp]roztřískané[fp]roztřískané[np]roztřískané
+tagStyle025=[ms]řetízkový[fs]řetízková[ns]řetízkové[mp]řetízkové[fp]řetízkové[np]řetízkové
+tagStyle026=[ms]kroužkový[fs]kroužková[ns]kroužkové[mp]kroužkové[fp]kroužkové[np]kroužkové
+tagStyle027=[ms]plátový[fs]plátová[ns]plátové[mp]plátové[fp]plátové[np]plátové
+tagStyle028=[ms]bronzový[fs]bronzová[ns]bronzové[mp]bronzové[fp]bronzové[np]bronzové
+tagStyle029=[ms]ocelový[fs]ocelová[ns]ocelové[mp]ocelové[fp]ocelové[np]ocelové
+tagStyle030=[ms]plechový[fs]plechová[ns]plechové[mp]plechové[fp]plechové[np]plechové
+tagStyle031=[ms]oplátovaný[fs]oplátovaná[ns]oplátované[mp]oplátované[fp]oplátované[np]oplátované
+tagStyle032=[ms]polní[fs]polní[ns]polní[mp]polní[fp]polní[np]polní
+tagStyle033=[ms]těžký[fs]těžká[ns]těžké[mp]těžké[fp]těžké[np]těžké
+tagStyle034=[ms]bojový[fs]bojová[ns]bojové[mp]bojové[fp]bojové[np]bojové
 
-tagStyle035=Studded
-tagStyle036=Woven
-tagStyle037=Reinforced
-tagStyle038=Savage
-tagStyle039=Novice
-tagStyle040=Apprentice
+tagStyle035=[ms]silný[fs]silná[ns]silné[mp]silné[fp]silné[np]silné
+tagStyle036=[ms]tkaný[fs]tkaná[ns]tkané[mp]tkané[fp]tkané[np]tkané
+tagStyle037=[ms]vyztužený[fs]vyztužená[ns]vyztužené[mp]vyztužené[fp]vyztužené[np]vyztužené
+tagStyle038=[ms]hrubý[fs]hrubá[ns]hrubé[mp]hrubé[fp]hrubé[np]hrubé
+tagStyle039=[ms]nováčkovský[fs]nováčkovská[ns]nováčkovské[mp]nováčkovské[fp]nováčkovské[np]nováčkovské
+tagStyle040=[ms]učňovský[fs]učňovská[ns]učňovské[mp]učňovské[fp]učňovské[np]učňovské
 
 
 #ArmorHead
@@ -1234,7 +1236,7 @@ tagConsumablePotionResistancePoison01Desc=^b"Grants minor resistance to poison f
 #ItemNote
 
 tagNoteHelp=[pravým kliknitím přečti]
-tagNoteKnown=[Already Known]
+tagNoteKnown=[již znáš]
 tagNoteExcerpt=^b"{%t}.."
 
 #ItemComponents
@@ -1658,7 +1660,7 @@ tagPrefixAD021=spektrální
 tagPrefixAD022=drsný
 tagPrefixAD023=oslabující
 tagPrefixAD024=rozmrazující
-tagPrefixAD025=trvanlivý
+tagPrefixAD025=odolný
 tagPrefixAD026=stálý
 tagPrefixAD027=neproniknutelný
 
@@ -2032,8 +2034,6 @@ tagLocked= {^R} ~ Zamčeno
 
 tagQuestItemBrothersAmulet=Sesterský amulet životní síly
 tagQuestItemBrothersAmuletDesc=^b"Pro mého drahého bratra: Nechť ti tento amulet dává sílu v boji. -Sybil"
-
-
 
 tagQuestItemSlithRing=Slithův prvotní prsten
 tagQuestItemSlithRingDesc=^b"Zápach po prstenu tady přetrvává a zdá se, že jen tak nevyčichne."
