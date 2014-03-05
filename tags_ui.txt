@@ -367,7 +367,7 @@ tagCharStatsArcanistSkillsBonus=Dovednosti Pána temnot
 tagCharStatsArcanistSkillsBonusInfo=Bonus k dovednostem Pána temnot
 
 #Physical
-tagCharStatsAttackSpeed=)Utočná rychlost
+tagCharStatsAttackSpeed=Útočná rychlost
 tagCharStatsAttackSpeedDescription=Rychlost útoku tvé zbraně vzhledem k výchozímu stavu (včetně celkové rychlosti).
 tagCharStatsAvgDmg=Průměrné zranění
 tagCharStatsAvgDmgDescription=Průměrné zranění způsobené zásahem dle základního útoku a bonusů.
@@ -555,7 +555,7 @@ tagAerialMapZoomText=Přiblížení
 
 tagMapWindowName=Místní mapa
 tagRiftWindowName=Mapa portálů
-tagWorldMapWindowNameSvětová mapa
+tagWorldMapWindowName=Světová mapa
 
 tagMapSymbolAOI=Bod zájmu
 tagMapSymbolAOIDesc=Zajímavé místo.
