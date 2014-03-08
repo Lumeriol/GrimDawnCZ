@@ -73,16 +73,16 @@ tagWeaponBluntA008=[ms]kyj
 tagWeaponBluntA009=[ns]válečné kladivo
 tagWeaponBluntA010=[ns]žezlo
 
-tagWeaponBluntB000=Pochodeň
-tagWeaponBluntB001=Wardenův rozsudek
+tagWeaponBluntB000=[ms]pochodeň
+tagWeaponBluntB001=[ms]Wardenův rozsudek
 tagWeaponBluntB001Desc=^b"Není zcela jasné, kolik nevinných lidí přišlo o život na milost a nemilost této zbraně."
-tagWeaponBluntB002=Wardenův úsudek
-tagWeaponBluntB003=Zlobrovo mačkadlo hlav
-tagWeaponBluntB004=Zlobrův drtič lebek
-tagWeaponBluntB005=Přízračný kropáč
-tagWeaponBluntB006=Přízračný kyj
-tagWeaponBluntB007=Kilrianův rozbíječ lebek
-tagWeaponBluntB008=Skinnerova louč
+tagWeaponBluntB002=[ms]Wardenův úsudek
+tagWeaponBluntB003=[ns]zlobrovo mačkadlo hlav
+tagWeaponBluntB004=[ms]zlobrův drtič lebek
+tagWeaponBluntB005=[ms]přízračný kropáč
+tagWeaponBluntB006=[ms]přízračný kyj
+tagWeaponBluntB007=$[ms]Kilrianův rozbíječ lebek
+tagWeaponBluntB008=$[ms]Skinnerova louč
 tagWeaponBluntB008Desc=^b"Poslední naděje zoufalého muže..."
 
 tagWeaponBluntC001=Éterická bída
@@ -123,8 +123,8 @@ tagWeaponAxeA007=[fs]půlkruhová sekera
 tagWeaponAxeA008=[fs]těžká sekera
 tagWeaponAxeA009=[fs]háková sekera
 
-tagWeaponAxeB001=[ms]spektrální sekáček
-tagWeaponAxeB002=[fs]spektrální bitevní sekera
+tagWeaponAxeB001=[ms]přízračný sekáček
+tagWeaponAxeB002=[fs]přízračná bitevní sekera
 tagWeaponAxeB003=[fs]sekera mistra jámy
 
 
@@ -168,15 +168,15 @@ tagWeaponGun1hA008=[fs]opakovací puška
 tagWeaponGun1hA009=[ms]zaměřovací revolver
 tagWeaponGun1hA010=[ns]vícehlavňové dělo
 
-tagWeaponGun1hC001=Leander Greene's Hand Cannon
-tagWeaponGun1hC001Desc=^b"Taken from the cold dead hands of the Blackwater bandit."
-tagWeaponGun1hC002=Witchstalker
-tagWeaponGun1hC002Desc=^b"Infused with dark magic to battle foul abusers of the arcane on their own terms."
-tagWeaponGun1hC003=Orwell's Revolver
-tagWeaponGun1hC003Desc=^b"The old priest wasn't known for his peace talks."
-tagWeaponGun1hC004=Marauder's Fury
-tagWeaponGun1hC005=Marauder's Justice
-tagWeaponGun1hC006=The Slugger
+tagWeaponGun1hC001=Ruční dělo Leandera Greena
+tagWeaponGun1hC001Desc=^b"Vzato z ledových mrtvých rukou Černovodého bandity."
+tagWeaponGun1hC002=Stopař čarodějnic
+tagWeaponGun1hC002Desc=^b"Nasáknutý temnou magií, aby bojoval proti zkaženým zneužívatelům tajemna za jejich vlastních podmínek."
+tagWeaponGun1hC003=Orwellův revolver
+tagWeaponGun1hC003Desc=^b"Starý kněz nebyl zrovna známý svými mírovými rozhovory."
+tagWeaponGun1hC004=Záškodníkova zuřivost
+tagWeaponGun1hC005=Záškodníkova spravedlnost
+tagWeaponGun1hC006=Ranař
 tagWeaponGun1hC007=3rd Company's Revolver
 tagWeaponGun1hC007Desc=^b"Inscribed on the barrel is a single word: Loyal."
 tagWeaponGun1hC008=Mutiny
@@ -359,7 +359,7 @@ tagShieldB002=Wardenono opevnění
 tagShieldB003=[ms]přízračný štít
 tagShieldB004=[ms]přízračný válečný štít
 
-tagShieldC001=Defender of Devil's Crossing
+tagShieldC001=Obránce Ďáblova průsmyku
 tagShieldC002=Elementium
 tagShieldC002Desc=^b"Blessed by the Templars of Menhir as a bulwark against the elements."
 tagShieldC003=Guardsman's Defender
