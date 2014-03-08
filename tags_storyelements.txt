@@ -293,7 +293,7 @@ tagNPC_Necropolis_08=Jonas
 tagNPC_DetonationSite=Místo výbuchu
 
 tagNPC_BrokenHillsBridge=Stanoviště opravy mostu do Arkoviánského podhůří
-tagNPC_OldGroveBridge=Stanoviště opravy mostu do Starého háji
+tagNPC_OldGroveBridge=Stanoviště opravy mostu do Starého háje
 tagNPC_HomesteadBridge=Stanoviště opravy mostu do Dvojspádů
 tagNPC_WightmireBridge=Stanoviště opravy mostu do Wightmire
 tagNPC_BurrwitchBridge=Stanoviště opravy mostu do Burrwitch
@@ -529,7 +529,7 @@ tagStoreTitle_SmugglerA01=Pašerák
 tagNPC_ReallocatorA01=Mullone - Duchovní
 tagStoreTitle_ReallocatorA01=Duchovní
 
-tagNPC_InventorA01=Kasparovův pomocník
+tagNPC_InventorA01=Kasparova pomocnice
 tagStoreTitle_InventorA01=Vynálezce
 
 tagNPC_SmithA01=Jacob
