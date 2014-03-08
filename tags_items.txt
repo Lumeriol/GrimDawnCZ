@@ -4,7 +4,7 @@ tagItemNameOrder=${%_3a0}{%_3a1}{%_3a2}{%_s3}{%_3a4}
 
 #Weapons
 
-tagWeaponSwordA000=[ms]]nožík
+tagWeaponSwordA000=[ms]nožík
 tagWeaponSwordA001=[ms]gladius
 tagWeaponSwordA002=[fs]břitva
 tagWeaponSwordA003=[ms]krátký meč
@@ -19,7 +19,7 @@ tagWeaponSwordA011=[ms]lamač kostí
 tagWeaponSwordA012=[ms]dobyvatelský meč
 tagWeaponSwordA013=[fs]šavle
 
-tagWeaponSwordB001=Salazarova suverénní čepel
+tagWeaponSwordB001=$[fs]Salazarova suverénní čepel
 tagWeaponSwordB001Desc=^b"Vykována z Čepele Ch'thona za jeho neochvějnou službu."
 tagWeaponSwordB002=[ms]přízračný široký meč
 tagWeaponSwordB003=[ms]přízračný dlouhý meč
@@ -31,7 +31,7 @@ tagWeaponSwordC003=Věštba
 tagWeaponSwordC004=Šílenství
 tagWeaponSwordC004Desc=^b"Zkroucené ostří Šílenství dožene vše, čeho se dotkne, k zešílení."
 tagWeaponSwordC005=Krvavý kráječ
-tagWeaponSwordC006=Dráp Krvavého žence
+tagWeaponSwordC006=Dráp krvavého žence
 tagWeaponSwordC007=Duelantova šavle
 tagWeaponSwordC007Desc=^b"Jemně vybalancovaná generacemi mistrovských šermířů."
 tagWeaponSwordC008=Soudcova cenzura
@@ -54,7 +54,7 @@ tagWeaponSwordD002Desc=^b"Soladrinova krystalická čepel se hemží nevyužitou
 tagWeaponSwordD003=Chmurná zhouba
 tagWeaponSwordD004=Bořič mysli
 tagWeaponSwordD005=Beronath, znovu zkutý
-tagWeaponSwordD005Desc=^b"Zabiják Beronatha kdysi zlomený, konečně znovu zkutý."
+tagWeaponSwordD005Desc=^b"Zabiják Beronatha, kdysi zlomený, konečně znovu zkutý."
 tagWeaponSwordD006=Nex
 tagWeaponSwordD006Desc=^b"Při pohledu na tento nůž pociťuješ vlastní smrtelnost."
 tagWeaponSwordD007=Ortus
@@ -74,9 +74,9 @@ tagWeaponBluntA009=[ns]válečné kladivo
 tagWeaponBluntA010=[ns]žezlo
 
 tagWeaponBluntB000=[ms]pochodeň
-tagWeaponBluntB001=[ms]Wardenův rozsudek
+tagWeaponBluntB001=$[ms]Wardenův rozsudek
 tagWeaponBluntB001Desc=^b"Není zcela jasné, kolik nevinných lidí přišlo o život na milost a nemilost této zbraně."
-tagWeaponBluntB002=[ms]Wardenův úsudek
+tagWeaponBluntB002=$[ms]Wardenův úsudek
 tagWeaponBluntB003=[ns]zlobrovo mačkadlo hlav
 tagWeaponBluntB004=[ms]zlobrův drtič lebek
 tagWeaponBluntB005=[ms]přízračný kropáč
@@ -91,7 +91,7 @@ tagWeaponBluntC002Desc=^b"Toto kdysi svaté žezlo bylo zkroucené do své souč
 tagWeaponBluntC003=Dotek zloby
 tagWeaponBluntC003Desc=^b"Opovrženíhodná zbraň, která si vyžádala bezpočet lidských životů."
 tagWeaponBluntC004=Gardistův buchar
-tagWeaponBluntC005=Hůlka z černího dřeva
+tagWeaponBluntC005=Hůlka z černého dřeva
 tagWeaponBluntC006=Posvátné kladivo věčného hněvu
 tagWeaponBluntC007=Požehnaná pochodeň
 tagWeaponBluntC007Desc=^b"Hořící kladivo strážců Menhiru."
@@ -137,7 +137,7 @@ tagWeaponAxeC005=Bouřné ostří
 tagWeaponAxeC006=Kriegův sekáček
 tagWeaponAxeC006Desc=^b"Drsná zbraň krutého muže."
 tagWeaponAxeC007=Maleficus
-tagWeaponAxeC008=Usudová pila žravosti
+tagWeaponAxeC008=Osudová pila žravosti
 tagWeaponAxeC009=Žíznivý chřtán
 tagWeaponAxeC010=Nehmnotné ostří
 tagWeaponAxeC010Desc=^b"Ostří této zbraně je spoutáno se samotným Éterem."
@@ -148,7 +148,7 @@ tagWeaponAxeC013=Chonag'Ri
 tagWeaponAxeC013Desc=^b"Šamanská sekyra skládající se z různých neidentifikovatelných lidských a zvířecích kostí."
 
 tagWeaponAxeD001=Burrwitchský řezník
-tagWeaponAxeD001Desc=^b"Ztělesnění šílenství a zvrácenosti, které přemohlo lidé Cairnu ihned po Ponurém úsvitu."
+tagWeaponAxeD001Desc=^b"Ztělesnění šílenství a zvrácenosti, které přemohlo lid Cairnu ihned po Ponurém úsvitu."
 tagWeaponAxeD002=Půlměsíc
 tagWeaponAxeD002Desc=^b"Posvěcená zbraň uctívačů Měsíce, o které se myslelo, že byla zničena během Duchovních čistek."
 tagWeaponAxeD003=Laxní brutalita
@@ -171,36 +171,36 @@ tagWeaponGun1hA010=[ns]vícehlavňové dělo
 tagWeaponGun1hC001=Ruční dělo Leandera Greena
 tagWeaponGun1hC001Desc=^b"Vzato z ledových mrtvých rukou Černovodého bandity."
 tagWeaponGun1hC002=Stopař čarodějnic
-tagWeaponGun1hC002Desc=^b"Nasáknutý temnou magií, aby bojoval proti zkaženým zneužívatelům tajemna za jejich vlastních podmínek."
+tagWeaponGun1hC002Desc=^b"Nasáknutý temnou magií, aby bojoval proti zkaženým zneužívačům tajemna za jejich vlastních podmínek."
 tagWeaponGun1hC003=Orwellův revolver
 tagWeaponGun1hC003Desc=^b"Starý kněz nebyl zrovna známý svými mírovými rozhovory."
 tagWeaponGun1hC004=Záškodníkova zuřivost
 tagWeaponGun1hC005=Záškodníkova spravedlnost
 tagWeaponGun1hC006=Ranař
-tagWeaponGun1hC007=3rd Company's Revolver
-tagWeaponGun1hC007Desc=^b"Inscribed on the barrel is a single word: Loyal."
-tagWeaponGun1hC008=Mutiny
-tagWeaponGun1hC009=Outlaw's Retribution
-tagWeaponGun1hC009Desc=^b"A twisted sense of justice."
-tagWeaponGun1hC010=Slime Bolter
-tagWeaponGun1hC011=Soulflayer
-tagWeaponGun1hC012=Plagueborne Revolver
-tagWeaponGun1hC013=The Arbiter
-tagWeaponGun1hC014=Frigid Barrel of the Relentless North
-tagWeaponGun1hC015=Burrwitch Peacekeeper
-tagWeaponGun1hC015Desc=^b"Trusted sidearm of Sheriff Harmon Griffith."
-tagWeaponGun1hC016=Menhir's Pennance
-tagWeaponGun1hC017=Oathbreaker
+tagWeaponGun1hC007=Revolver 3. roty
+tagWeaponGun1hC007Desc=^b"Na hlavni je napsáno jediné slovo: Oddanost."
+tagWeaponGun1hC008=Vzpoura
+tagWeaponGun1hC009=Psancova msta
+tagWeaponGun1hC009Desc=^b"Zvrácený smysl pro spravedlnost."
+tagWeaponGun1hC010=Odpalovač slizu
+tagWeaponGun1hC011=Stahovač duší
+tagWeaponGun1hC012=Moronosný revolver
+tagWeaponGun1hC013=Soudce
+tagWeaponGun1hC014=Mrazivá hlaveň neúprosného Severu
+tagWeaponGun1hC015=Burrwitchský dojednavač míru
+tagWeaponGun1hC015Desc=^b"Důvěryhodná pistole šerifa Harmona Griffitha."
+tagWeaponGun1hC016=Menhirovo pokání
+tagWeaponGun1hC017=Lamač přísah
 
-tagWeaponGun1hD001=Deviltongue Blaster
-tagWeaponGun1hD002=Havoc
-tagWeaponGun1hD003=The Exonerator
-tagWeaponGun1hD004=Exterminus
-tagWeaponGun1hD005=Arcanum Sigillis
-tagWeaponGun1hD006=Deathdealer's Sidearm
-tagWeaponGun1hD007=Demonslayer's Life-Ender
-tagWeaponGun1hD008=Barrelsmith's Salvo
-tagWeaponGun1hD009=Barrelsmith's Crossfire
+tagWeaponGun1hD001=Střílna ďábelských jazyků
+tagWeaponGun1hD002=Pohroma
+tagWeaponGun1hD003=Osvoboditel
+tagWeaponGun1hD004=Deratizátor
+tagWeaponGun1hD005=Pečetitel tajemství
+tagWeaponGun1hD006=Pistole obchodníka se smrtí
+tagWeaponGun1hD007=Plenitel života vraha démonů
+tagWeaponGun1hD008=Soudkařova salva
+tagWeaponGun1hD009=Soudkařova křížová palba
 
 
 tagWeaponGun2hA001=[fs]předovka
@@ -211,31 +211,31 @@ tagWeaponGun2hA005=[fs]komorová puška
 tagWeaponGun2hA006=[fs]opakovací puška
 tagWeaponGun2hA007=[fs]karabina
 tagWeaponGun2hA008=[fs]zadovka
-tagWeaponGun2hA009=[ms]kanon
+tagWeaponGun2hA009=[ns]rotační dělo
 tagWeaponGun2hA010=[fs]brokovnice
 tagWeaponGun2hA011=[fs]bitevní brokovnice
 
-tagWeaponGun2hC001=The Huntsman
+tagWeaponGun2hC001=Lovec
 tagWeaponGun2hC002=Oko
-tagWeaponGun2hC002Desc=^b"One shot, one kill"
-tagWeaponGun2hC003=Hellmaw Shotgun
+tagWeaponGun2hC002Desc=^b"Jeden výstřel, jeden mrtvý"
+tagWeaponGun2hC003=Brokovnice ze chřtánu pekla
 tagWeaponGun2hC004=Ďáblova značka
-tagWeaponGun2hC005=Will of Fate
-tagWeaponGun2hC005Desc=^b"Every bullet is destined to meet its true mark."
-tagWeaponGun2hC006=The Scarlet Marksman
-tagWeaponGun2hC007=Salt-core Bolter
-tagWeaponGun2hC007Desc=^b"A scrapped-together weapon designed to destroy Aetherials."
-tagWeaponGun2hC008=Wrathbringer
-tagWeaponGun2hC009=Thunderclap
-tagWeaponGun2hC010=Sharpshooter's Bolt Rifle
+tagWeaponGun2hC005=Vůle osudu
+tagWeaponGun2hC005Desc=^b"Každá kulka je předurčena setkat se s jejím pravým terčem."
+tagWeaponGun2hC006=Šarlatový střelec
+tagWeaponGun2hC007=Solná střílna
+tagWeaponGun2hC007Desc=^b"Nesourodě pospojovaná zbraň navržená k likvidaci Éterijských."
+tagWeaponGun2hC008=Nositel hněvu
+tagWeaponGun2hC009=Zahřmění
+tagWeaponGun2hC010=Ostrostřelcova čepová puška
 
-tagWeaponGun2hD001=The Adversary
-tagWeaponGun2hD002=Witching Hour
-tagWeaponGun2hD002Desc=^b"Weapon used by followers of the witch gods to defend their sanctuaries from the wrath of the inquisition."
-tagWeaponGun2hD003=Hellborne
-tagWeaponGun2hD003Desc=^b"The barrel spews forth the fury of the seven hells."
-tagWeaponGun2hD004=Vortex of Souls
-tagWeaponGun2hD004Desc=^b"Every shot fired sends a ripples through the aether."
+tagWeaponGun2hD001=Odpůrce
+tagWeaponGun2hD002=Hodina čarodějnic
+tagWeaponGun2hD002Desc=^b"Zbraň používaná uctívači čarodějných bohů k obraně jejich svatyní před hněvem inkvizice."
+tagWeaponGun2hD003=Zplozenec pekla
+tagWeaponGun2hD003Desc=^b"Hlaveň chrlí ven zuřivost sedmi pekel."
+tagWeaponGun2hD004=Vír duší
+tagWeaponGun2hD004Desc=^b"Každá vystřelená rána způsobuje zčeření uvnitř éteru."
 tagWeaponGun2hD005=Kuchač střev
 
 
@@ -353,15 +353,15 @@ tagShieldA008=[ms]kruhový štít
 tagShieldA009=[ms]vypouklý štít
 tagShieldA010=[fs]pavéza
 
-tagShieldB001=Wardenova hradba
+tagShieldB001=$[fs]Wardenova hradba
 tagShieldB001Desc=^b"Kovaná z kalené oceli s bezohlednou nenávistí."
-tagShieldB002=Wardenono opevnění
+tagShieldB002=$[fs]Wardenona záštita
 tagShieldB003=[ms]přízračný štít
 tagShieldB004=[ms]přízračný válečný štít
 
 tagShieldC001=Obránce Ďáblova průsmyku
-tagShieldC002=Elementium
-tagShieldC002Desc=^b"Blessed by the Templars of Menhir as a bulwark against the elements."
+tagShieldC002=Elementum
+tagShieldC002Desc=^b"Požehnaný Menhirskými templáři jako záštita proti elementům."
 tagShieldC003=Guardsman's Defender
 tagShieldC004=Flamebreaker
 tagShieldC005=Devil's Grin
@@ -400,7 +400,7 @@ tagQualityShieldA10=[ms]císařský[fs]císařská[ns]císařské[mp]císařské
 #Focus
 
 tagFocusA001=[fs]plesnivá bible
-tagFocusA002=[fs]masem svázaná bible
+tagFocusA002=[fs]masem vázaná bible
 tagFocusA003=[fs]runami popsaná kniha
 tagFocusA004=[fs]kůží svázaná kniha kouzel
 tagFocusA005=[fs]podivná bible
@@ -413,15 +413,15 @@ tagFocusA010=[fs]lebka s piktogramem
 tagFocusA011=[fs]barbarská hůlka
 tagFocusA012=[fs]podivná hůlka
 
-tagFocusB001=Zarthuzellan's Codex
-tagFocusB001Desc=^b"Filled with fiery invocations to consecrate the nonbelievers."
-tagFocusB002=Rolderathis' Tome
-tagFocusB002Desc=^b"Words within this tome chill your heart with their maddening hatred."
+tagFocusB001=Zarthuzellanův kodex
+tagFocusB001Desc=^b"Vyplněný hořlavým vzýváním k vysvěcení nevěřících."
+tagFocusB002=Rolderathisův tlustopis
+tagFocusB002Desc=^b"Slova v této knize zchladí tvé srdce jejich nesnesitelnou nenávistí."
 
 tagFocusC001=Demence
 tagFocusC002=Zdrcující vůle
-tagFocusC003=Maivenova Bible
-tagFocusC004=Kacířská Bible
+tagFocusC003=Maivenova bible
+tagFocusC004=Kacířská bible
 tagFocusC005=Znetvořená podobizna
 tagFocusC006=Smrtelné trápení
 tagFocusC006Desc=^b"Nářek a utrpení vychází z každí další otočené stránky této knihy."
@@ -535,18 +535,18 @@ tagHeadA006=[fs]rytířská helma
 tagHeadA007=[fs]přilbice
 tagHeadA008=[ms]klobouk
 tagHeadA009=[ms]kšilt
-tagHeadA010=[fs]kutna
+tagHeadA010=[fs]kápě
 tagHeadA011=[fs]kapuce
 tagHeadA012=[fs]čelenka
 tagHeadA013=[ms]diadém
 tagHeadA014=[fs]korunka
 
-tagHeadB001=Incendiary Helm
-tagHeadB002=Incendiary Casque
-tagHeadB003=Ascended Helm
-tagHeadB004=Ascended Casque
-tagHeadB005=Murderer's Coif
-tagHeadB006=Murderer's Cowl
+tagHeadB001=[fs]žhářská helma
+tagHeadB002=[fs]žhářská přilbice
+tagHeadB003=[fs]vystouplá helma
+tagHeadB004=[fs]vystouplá přilbice
+tagHeadB005=[fs]vrahova čapka
+tagHeadB006=[fs]vrahova kápě
 
 tagHeadC001=Stormcaller's Circlet
 tagHeadC002=Berserker's Cowl
@@ -596,17 +596,17 @@ tagHeadD010=Archmage's Hat
 tagShoulderA001=[mp]rytířské nárameníky
 tagShoulderA002=[mp]rukávky
 tagShoulderA003=[mp]chrániče ramen
-tagShoulderA004=[mp]nárameníky
+tagShoulderA004=[fp]epolety
 tagShoulderA005=[mp]plátové nárameníky
 tagShoulderA006=[mp]skládané nárameníky
 
-tagShoulderB001=Incendiary Spaulders
-tagShoulderB002=Incendiary Shoulderplates
-tagShoulderB003=Ascended Spaulders
-tagShoulderB004=Ascended Shoulderplates
-tagShoulderB005=Murderer's Spaulders
-tagShoulderB006=Murderer's Epaulets
-tagShoulderB007=Isaac's Spaulders
+tagShoulderB001=[mp]žhářské rytířské nárameníky
+tagShoulderB002=[mp]žhářské plátové nárameníky
+tagShoulderB003=[mp]vystouplé rytířské nárameníky
+tagShoulderB004=[mp]vystouplé plátové nárameníky
+tagShoulderB005=[mp]vrahovy rytířské nárameníky
+tagShoulderB006=[fp]vrahovy epolety
+tagShoulderB007=$[mp]Isaacovy rytířské nárameníky
 
 tagShoulderC001=Razorback's Spined Mantle
 tagShoulderC001Desc=^b"Stitched together from the carcass of Razorback."
@@ -663,8 +663,8 @@ tagTorsoA015C=[ms]háv
 tagTorsoA016C=[ns]roucho
 tagTorsoA017C=[fs]róba
 
-tagTorsoB001=Murderer's Armor
-tagTorsoB002=Murderer's Breastplate
+tagTorsoB001=[fs]vrahova zbroj
+tagTorsoB002=[ms]vrahův hrudní plát
 
 tagTorsoC001=
 tagTorsoC002=Ornate Chestguard
@@ -706,9 +706,9 @@ tagTorsoD007=Beastcaller's Shroud
 tagTorsoD008=Demonslayer's Jacket
 tagTorsoD009=Archmage's Robe
 
-tagTorsoM001=Ragged Tunic
-tagTorsoM002=Bloodstained Tunic
-tagTorsoM003=Bloodstained Robes
+tagTorsoM001=[fs]rozdrbaná tunika
+tagTorsoM002=[fs]zakrvavená tunika
+tagTorsoM003=[fs]zakrvavená róba
 
 
 #ArmorWaist
@@ -891,12 +891,12 @@ tagRingA011=[ms]rubínový prsten
 tagRingA012=[ms]zásnubní kroužek
 tagRingA013=[fs]diamantová pečeť
 
-tagRingB001=Reddan Memento Ring
-tagRingB001Desc=^b"A worn out inscription along the band says: With love - Amelia"
-tagRingB002=Cronley's Signet
+tagRingB001=$[ms]Reddanův vzpomínkový prsten
+tagRingB001Desc=^b"Opotřebovaný nápis podél kroužku říká: S láskou - Amelia"
+tagRingB002=$[fs]Cronleyho pečeť
 tagRingB002Desc=^b"Stained with the blood of his victims, now joined by his own."
-tagRingB003=Skinner Family Seal
-tagRingB003Desc=^b"Likely the most valuable item the family had ever owned."
+tagRingB003=$[ms]Skinnerův rodinný pečetní prsten
+tagRingB003Desc=^b"Pravděpodobně nejcennější předmět, který rodinka může vůbec vlastnit."
 
 tagRingC001=Marrow Band
 tagRingC002=Obsidian Seal
@@ -951,7 +951,7 @@ tagNecklaceA011=[ms]rubínový náhrdelník
 tagNecklaceA012=[ms]podepsaný amulet
 tagNecklaceA013=[ms]diamantový přívěšek
 
-tagNecklaceB001=Hnilobný náhrdelník
+tagNecklaceB001=[ms]hnilobný náhrdelník
 tagNecklaceB001Desc=^b"Lebka je potažena páchnoucím slizem."
 
 tagNecklaceC001=Amulet Oka
@@ -1037,61 +1037,61 @@ tagMedalD008Desc=^b"Named in honor of the famed tactician Markovian, this medal 
 
 
 #Blueprints
-tagTestBlueprint=Blueprint: Item Name of the Awesomesauce
-tagTestBlueprintDescription="Flavor text of the Awesomesauce item that is awesome at things."
+tagTestBlueprint=Plánek: Název úžasného předmětu
+tagTestBlueprintDescription="Chutný text úžasných keců patřící úžasnému předmětu."
 
-tagBlueprint_RelicB001=Blueprint: Relic - Calamity
-tagBlueprint_RelicB002=Blueprint: Relic - Ruination
-tagBlueprint_RelicB003=Blueprint: Relic - Tranquility
-tagBlueprint_RelicB004=Blueprint: Relic - Glacier
-tagBlueprint_RelicB005=Blueprint: Relic - Squall
-tagBlueprint_RelicB006=Blueprint: Relic - Inferno
-tagBlueprint_RelicB007=Blueprint: Relic - Corruption
-tagBlueprint_RelicB008=Blueprint: Relic - Sanctuary
-tagBlueprint_RelicB009=Blueprint: Relic - Guile
-tagBlueprint_RelicB010=Blueprint: Relic - Rampage
-tagBlueprint_RelicB011=Blueprint: Relic - Mistborn Talisman
-tagBlueprint_RelicB012=Blueprint: Relic - Bladesworn Talisman
-tagBlueprint_RelicB013=Blueprint: Relic - Gunslinger's Talisman
-tagBlueprint_RelicC001=Blueprint: Relic - Arbiter
-tagBlueprint_RelicC002=Blueprint: Relic - Fortress
-tagBlueprint_RelicC003=Blueprint: Relic - Slaughter
-tagBlueprint_RelicC004=Blueprint: Relic - Juggernaut
-tagBlueprint_RelicC005=Blueprint: Relic - Terror
-tagBlueprint_RelicC006=Blueprint: Relic - Torment
-tagBlueprint_RelicC007=Blueprint: Relic - Haunt
-tagBlueprint_RelicC008=Blueprint: Relic - Conflagration
-tagBlueprint_RelicC009=Blueprint: Relic - Savagery
-tagBlueprint_RelicC010=Blueprint: Relic - Deathchill
-tagBlueprint_RelicC011=Blueprint: Relic - Sacrifice
-tagBlueprint_RelicC012=Blueprint: Relic - Zeal
-tagBlueprint_RelicC013=Blueprint: Relic - Desolation
-tagBlueprint_RelicC014=Blueprint: Relic - Blight
-tagBlueprint_RelicC015=Blueprint: Relic - Ancestor
-tagBlueprint_RelicD001=Blueprint: Relic - Aegis
-tagBlueprint_RelicD002=Blueprint: Relic - Malediction
-tagBlueprint_RelicD003=Blueprint: Relic - Belgothian's Carnage
-tagBlueprint_RelicD004=Blueprint: Relic - Citadel
-tagBlueprint_RelicD005=Blueprint: Relic - Eye of the Storm
-tagBlueprint_RelicD006=Blueprint: Relic - Reckoning
-tagBlueprint_RelicD007=Blueprint: Relic - Scourge
-tagBlueprint_RelicD008=Blueprint: Relic - Ulzuin's Pyroclasm
-tagBlueprint_RelicD009=Blueprint: Relic - Necrosis
-tagBlueprint_RelicD010=Blueprint: Relic - Agravix's Malice
-tagBlueprint_RelicD011=Blueprint: Relic - Oblivion
-tagBlueprint_RelicD012=Blueprint: Relic - Nemesis
-tagBlueprint_RelicD013=Blueprint: Relic - Annihilation
-tagBlueprint_RelicD014=Blueprint: Relic - Avenger
-tagBlueprint_RelicD015=Blueprint: Relic - Primal Instinct
-tagBlueprint_RelicD016=Blueprint: Relic - Devastation of Solael
-tagBlueprint_RelicD017=Blueprint: Relic - Affliction of Dreeg
-tagBlueprint_RelicD018=Blueprint: Relic - Domination of Bysmiel
-tagBlueprint_RelicD019=Blueprint: Relic - Wrath of Oleron
-tagBlueprint_RelicD020=Blueprint: Relic - Bastion of Menhir
+tagBlueprint_RelicB001=Plánek: Relic - Calamity
+tagBlueprint_RelicB002=Plánek: Relic - Ruination
+tagBlueprint_RelicB003=Plánek: Relic - Tranquility
+tagBlueprint_RelicB004=Plánek: Relic - Glacier
+tagBlueprint_RelicB005=Plánek: Relic - Squall
+tagBlueprint_RelicB006=Plánek: Relic - Inferno
+tagBlueprint_RelicB007=Plánek: Relic - Corruption
+tagBlueprint_RelicB008=Plánek: Relic - Sanctuary
+tagBlueprint_RelicB009=Plánek: Relic - Guile
+tagBlueprint_RelicB010=Plánek: Relic - Rampage
+tagBlueprint_RelicB011=Plánek: Relic - Mistborn Talisman
+tagBlueprint_RelicB012=Plánek: Relic - Bladesworn Talisman
+tagBlueprint_RelicB013=Plánek: Relic - Gunslinger's Talisman
+tagBlueprint_RelicC001=Plánek: Relic - Arbiter
+tagBlueprint_RelicC002=Plánek: Relic - Fortress
+tagBlueprint_RelicC003=Plánek: Relic - Slaughter
+tagBlueprint_RelicC004=Plánek: Relic - Juggernaut
+tagBlueprint_RelicC005=Plánek: Relic - Terror
+tagBlueprint_RelicC006=Plánek: Relic - Torment
+tagBlueprint_RelicC007=Plánek: Relic - Haunt
+tagBlueprint_RelicC008=Plánek: Relic - Conflagration
+tagBlueprint_RelicC009=Plánek: Relic - Savagery
+tagBlueprint_RelicC010=Plánek: Relic - Deathchill
+tagBlueprint_RelicC011=Plánek: Relic - Sacrifice
+tagBlueprint_RelicC012=Plánek: Relic - Zeal
+tagBlueprint_RelicC013=Plánek: Relic - Desolation
+tagBlueprint_RelicC014=Plánek: Relic - Blight
+tagBlueprint_RelicC015=Plánek: Relic - Ancestor
+tagBlueprint_RelicD001=Plánek: Relic - Aegis
+tagBlueprint_RelicD002=Plánek: Relic - Malediction
+tagBlueprint_RelicD003=Plánek: Relic - Belgothian's Carnage
+tagBlueprint_RelicD004=Plánek: Relic - Citadel
+tagBlueprint_RelicD005=Plánek: Relic - Eye of the Storm
+tagBlueprint_RelicD006=Plánek: Relic - Reckoning
+tagBlueprint_RelicD007=Plánek: Relic - Scourge
+tagBlueprint_RelicD008=Plánek: Relic - Ulzuin's Pyroclasm
+tagBlueprint_RelicD009=Plánek: Relic - Necrosis
+tagBlueprint_RelicD010=Plánek: Relic - Agravix's Malice
+tagBlueprint_RelicD011=Plánek: Relic - Oblivion
+tagBlueprint_RelicD012=Plánek: Relic - Nemesis
+tagBlueprint_RelicD013=Plánek: Relic - Annihilation
+tagBlueprint_RelicD014=Plánek: Relic - Avenger
+tagBlueprint_RelicD015=Plánek: Relic - Primal Instinct
+tagBlueprint_RelicD016=Plánek: Relic - Devastation of Solael
+tagBlueprint_RelicD017=Plánek: Relic - Affliction of Dreeg
+tagBlueprint_RelicD018=Plánek: Relic - Domination of Bysmiel
+tagBlueprint_RelicD019=Plánek: Relic - Wrath of Oleron
+tagBlueprint_RelicD020=Plánek: Relic - Bastion of Menhir
 
 #Relics
 
-tagDeviceBonus=Completion Bonus:
+tagDeviceBonus=Bonus za složení:
 tagDeviceTier01=Mundane
 tagDeviceTier02=Empowered
 tagDeviceTier03=Sacred
@@ -1219,7 +1219,7 @@ tagSuppliesError=
 
 #Consumables
 
-tagScrollDirections=[Right-Click to Consume]
+tagScrollDirections=[spotřebuj pravým kliknutím]
 
 tagConsumableRoyalJellyBalmBlueprint=Recipe: Royal Jelly Balm
 tagConsumableRoyalJellyBalmBlueprintDesc=^b"A secret medicinal technique of the Rovers."
@@ -1249,13 +1249,13 @@ tagComponentCombine=[pravým kliknutím složit]
 tagComponentConfirmation=Opravdu chceš složit tuto kombinaci?
 
 tagCompA001Name=Hřbetní krunýř
-tagCompA001Desc=^b"A thick carapace lined with jagged spines."^w^n(Used in all armor)
+tagCompA001Desc=^b"Silný krunýř lemovaný rozeklanými ostny."^w^n(Může vylepšit všechny druhy zbroje)
 
-tagCompA002Name=Oplátovaná střela
-tagCompA002Desc=^b"Fragments of old armor designed to withstand arrows, bolts, and bullets."^w^n(Used in chest armor)
+tagCompA002Name=Balistické plátování
+tagCompA002Desc=^b"Části staré zbroje navržené tak, aby odolaly šípům, šipkám a střelám."^w^n(Může vylepšit hrudní zbroj)
 
 tagCompA003Name=Posvěcená kost
-tagCompA003Desc=^b"Desecrated bones made pure again by priests of various faiths."^w^n(Used in chest armor)
+tagCompA003Desc=^b"Znesvěcená kost znovu čistě vytvořená kněžími různých vyznání."^w^n(Může vylepšit hrudní zbroj)
 
 tagCompA004Name=Hrubá kůže
 tagCompA004Desc=^b"A thick hide with a rough surface, perfect for absorbing sudden shocks."^w^n(Used in head armor)
@@ -1330,7 +1330,7 @@ tagCompA027Name=Jantar
 tagCompA027Desc=^b"It is said that sometimes storm spirits become entrapped in the crystalized sap of lightning struck trees."^w^n(Used in melee weapons)
 
 tagCompA028Name=Žíravý žlučníkový kámen
-tagCompA028Desc=^b"Jedovaté kameny vytvořené ve žluči odporných bestií."^w^n(Může vylepšit zbraně na blízko.)
+tagCompA028Desc=^b"Jedovaté kameny vytvořené ve žluči odporných bestií."^w^n(Může vylepšit chladné zbraně)
 
 tagCompA029Name=Blahořečený brousek
 tagCompA029Desc=^b"Sharpens even the sharpest of edges, increasing the damage that penetrates enemy armor."^w^n(Used in axes and swords)
@@ -1390,16 +1390,16 @@ tagCompA047Name=Zmrzlé srdce
 tagCompA047Desc=^b"Eternally encased in black ice."^w^n(Used in rings)
 
 tagCompA048Name=Bublající krev
-tagCompA048Desc=^b"Bubbling with the rage that once fueled it."^w^n(Může vylepšit prsteny a amulety)
+tagCompA048Desc=^b"Bublá hněvem, který ji kdysi poháněl."^w^n(Může vylepšit prsteny a amulety)
 
 tagCompA049Name=Kámen ochrany
 tagCompA049Desc=^b"Kámen s vyleptaným starověkým ochranným symbolem."^w^n(Může vylepšit amulety)
 
 tagCompA050Name=Zaměřující hranol
-tagCompA050Desc=^b"Used by arcanists to channel their powers during particularly straining rituals."^w^n(Může vylepšit amulety)
+tagCompA050Desc=^b"Používaný temnými pány, aby usměrňovali své síly během zvláště namáhavých rituálů."^w^n(Může vylepšit amulety)
 
 tagCompA051Name=Černý ĺůj
-tagCompA051Desc=^b"Tallow from a candle burnt during Chthonic rituals."^w^n(Může vylepšit amulety a medaile)
+tagCompA051Desc=^b"Lůj ze svíčky vyhořel během Chthonických rituálů."^w^n(Může vylepšit amulety a medaile)
 
 tagCompA052Name=Pomstychtivý přízrak
 tagCompA052Desc=^b"Duch pomsty."^w^n(Může vylepšit amulety a medaile)
@@ -1408,16 +1408,16 @@ tagCompA053Name=Znamení iluze
 tagCompA053Desc=^b"A symbol of power used in many inscriptions."^w^n(Může vylepšit prsteny a amulety)
 
 tagCompA054Name=Zlomyslná čelist
-tagCompA054Desc=^b"The jaw of a beast built to snap bones as if they were sticks."^w^n(Může vylepšit amulety a medaile)
+tagCompA054Desc=^b"Čelist bestie přirostlá ke kostem, jako by se jednalo o hůlky."^w^n(Může vylepšit amulety a medaile)
 
 tagCompA055Name=Kámen hněvu
 tagCompA055Desc=^b"It vibrates at the slightest contact with living flesh."^w^n(Used in melee weapons)
 
 tagCompA056Name=Portálový kámen
-tagCompA056Desc=^b"Hemží se v něm surová síla trhající vzduch."^w^n(Může vylepšit zbraně na blízko)
+tagCompA056Desc=^b"Hemží se v něm surová síla trhající vzduch."^w^n(Může vylepšit chladné zbraně)
 
 tagCompA057Name=Éterické šipky
-tagCompA057Desc=^b"Augmented with the essence of Aetherial monstrosities."^w^n(Může vylepšit pušky a kuše)
+tagCompA057Desc=^b"Rozšiřující se na základě Éterických zrůdností."^w^n(Může vylepšit pušky a kuše)
 
 tagCompA058Name=Prázdnotou dotčená munice
 tagCompA058Desc=^b"Dipped in fresh Chthonian blood."^w^n(Used in guns and crossbows)
@@ -1492,11 +1492,11 @@ tagCompB019Desc=^b"A spark of the purest arcane energy."^w^n(Used in amulets)
 tagCompB020Name=^kMyrmidonské znamení
 tagCompB020Desc=^b"A powerful symbol bestowed upon the most fearless battle lords."^w^n(Used in shields)
 
-tagCompB021Name=^kOleron's Blood
-tagCompB021Desc=^b"Sacred blood of the war god."^w^n(Used in all weapons)
+tagCompB021Name=^kOleronova krev
+tagCompB021Desc=^b"Posvátná krev boha války."^w^n(Může vylepšit všechny zbraně)
 
-tagCompB022Name=^kKilrian's Shattered Soul
-tagCompB022Desc=^b"The tainted soul of Kilrian, terror of the Arkovian Undercity."^w^n(Used in chest armor)
+tagCompB022Name=^kKilrianova roztříštěná duše
+tagCompB022Desc=^b"Poskvrněná duše Kilriana, postrachu Arkoviánského podzemního města."^w^n(Může vylepšit hrudní zbroj)
 
 
 tagCompAetherCrystal=Éterický krystal
@@ -1928,7 +1928,7 @@ tagSuffixB028_Sh_A=bouří
 tagAutoSkillCondition01= ({%d0}% šance při nízkém zdraví)
 tagAutoSkillCondition02= ({%d0}% šance při nízké energii)
 tagAutoSkillCondition03= ({%d0}% šance při zásahu)
-tagAutoSkillCondition04= ({%d0}% šance při zásahu zbraní na blízko)
+tagAutoSkillCondition04= ({%d0}% šance při zásahu chladnou zbraní)
 tagAutoSkillCondition05= ({%d0}% šance při zásahu střelnou zbraní)
 tagAutoSkillCondition06= ({%d0}% šance při kouzlení zlepšujícího kouzla)
 tagAutoSkillCondition07= ({%d0}% šance na útok)
