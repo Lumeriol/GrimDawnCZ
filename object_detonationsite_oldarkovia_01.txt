@@ -1,7 +1,7 @@
-Detonation Site
-This blockade was clearly put up by local bandits in the hopes of slowing down unwary travelers and turning them into easy pickings.{^n}{^n}It will take 1 Dynamite to destroy.
-Not enough Dynamite.
-Destroy the Barricade.
-Leave it.
-You have cleared this barricade.
+Místo výbuchu
+Tato blokáda byla s jistotou postavena místními bandity v naději, že zpomalí nic netušící cestovatele, a proměnili je ve snadnou kořist.{^n}{^n}Na zničení barikády budeš potřebovat 1 dynamit.
+Nemáš dynamit.
+Znič barikádu.
+Nechat to být.
+Zničil jsi tuto barikádu.
 Ok.

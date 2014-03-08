@@ -399,7 +399,7 @@ tagSkeletalGolemHeroH03=Bralgarr, Plamenný pozorovatel ~ Hořící
 tagEnemySkeletonA01=Kosterní bojovník
 tagEnemySkeletonA02=Kosterní lukostřelec
 tagEnemySkeletonB01=Kosterní střelec smrtících šípů
-tagEnemySkeletonB02=Kosterný rytíř
+tagEnemySkeletonB02=Kosterní rytíř
 tagEnemySkeletonB03=Kosterní kněz
 tagEnemySkeletonB04=Kosterní čaroděj
 tagEnemySkeletonC01=Plamenný přízrak
@@ -546,8 +546,8 @@ tagEnemyZombieBerserkerA01=Mrtvolný démon
 
 tagEnemyZombieVoidA01=Ch'thonický chodec bez duše
 
-tagEnemyZombieMutatedA01=Rozpadavý řezník
-tagEnemyZombieMutatedB01=Rozpadavá mlátička
+tagEnemyZombieMutatedA01=Zdeformovaný řezník
+tagEnemyZombieMutatedB01=Zdeformovaná mlátička
 
 tagZombieHeroH01=Abner, Opuštěnec
 tagZombieHeroH02=Crimson Bane

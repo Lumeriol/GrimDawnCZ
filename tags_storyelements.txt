@@ -45,7 +45,7 @@ tagMapFourHills=Čtvery vršky
 tagMapRockyCoast=Skalnaté pobřeží
 tagMapNewHarbor=Nový přístav
 tagMapBarrenHighlands=Neúrodná vysočina
-tagMapCrumblingWatch=Rozpadlá vyhlídka
+tagMapCrumblingWatch=Rozpadlá strážní věž
 tagMapCronleysHideout=Cronleyho úkryt
 
 tagMapLedgewood01=Ledgewood
@@ -103,7 +103,7 @@ tagRiftWardensLabratory02=Portál ve Wardenově laboratoři
 
 tagRiftBrokenHills=Portál v Sesutých kopcích
 tagRiftOldArkovia=Portál ve Staré Arkovii
-tagRiftArkovianFoothills=Portál v Arkoviánském poddhůří
+tagRiftArkovianFoothills=Portál v Arkoviánském podhůří
 tagRiftCronleysHideout=Portál v Cronleyho úkrytu
 tagRiftTwinFalls=Portál u Dvojspádů
 tagRiftHighPass=Portál ve Vrchním průsmyku

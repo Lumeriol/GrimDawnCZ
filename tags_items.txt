@@ -74,9 +74,9 @@ tagWeaponBluntA009=[ns]válečné kladivo
 tagWeaponBluntA010=[ns]žezlo
 
 tagWeaponBluntB000=[ms]pochodeň
-tagWeaponBluntB001=$[ms]Wardenův rozsudek
+tagWeaponBluntB001=$Wardenův rozsudek
 tagWeaponBluntB001Desc=^b"Není zcela jasné, kolik nevinných lidí přišlo o život na milost a nemilost této zbraně."
-tagWeaponBluntB002=$[ms]Wardenův úsudek
+tagWeaponBluntB002=$Wardenův úsudek
 tagWeaponBluntB003=[ns]zlobrovo mačkadlo hlav
 tagWeaponBluntB004=[ms]zlobrův drtič lebek
 tagWeaponBluntB005=[ms]přízračný kropáč
@@ -353,9 +353,9 @@ tagShieldA008=[ms]kruhový štít
 tagShieldA009=[ms]vypouklý štít
 tagShieldA010=[fs]pavéza
 
-tagShieldB001=$[fs]Wardenova hradba
+tagShieldB001=$Wardenova hradba
 tagShieldB001Desc=^b"Kovaná z kalené oceli s bezohlednou nenávistí."
-tagShieldB002=$[fs]Wardenona záštita
+tagShieldB002=$Wardenona záštita
 tagShieldB003=[ms]přízračný štít
 tagShieldB004=[ms]přízračný válečný štít
 
@@ -891,11 +891,11 @@ tagRingA011=[ms]rubínový prsten
 tagRingA012=[ms]zásnubní kroužek
 tagRingA013=[fs]diamantová pečeť
 
-tagRingB001=$[ms]Reddanův vzpomínkový prsten
+tagRingB001=$Reddanův vzpomínkový prsten
 tagRingB001Desc=^b"Opotřebovaný nápis podél kroužku říká: S láskou - Amelia"
-tagRingB002=$[fs]Cronleyho pečeť
-tagRingB002Desc=^b"Stained with the blood of his victims, now joined by his own."
-tagRingB003=$[ms]Skinnerův rodinný pečetní prsten
+tagRingB002=$Cronleyho pečeť
+tagRingB002Desc=^b"Potřísněná krví jeho obětí, nyní doplněná o jeho vlastní."
+tagRingB003=$Skinnerův rodinný pečetní prsten
 tagRingB003Desc=^b"Pravděpodobně nejcennější předmět, který rodinka může vůbec vlastnit."
 
 tagRingC001=Marrow Band
@@ -1422,7 +1422,7 @@ tagCompA057Desc=^b"Rozšiřující se na základě Éterických zrůdností."^w^
 tagCompA058Name=Prázdnotou dotčená munice
 tagCompA058Desc=^b"Dipped in fresh Chthonian blood."^w^n(Used in guns and crossbows)
 
-tagCompA059Name=Slitina Éteru a ocele
+tagCompA059Name=Slitina Éteru a oceli
 tagCompA059Desc=^b"An exceptionally light yet durable metal."^w^n(Used in shields)
 
 tagCompA060Name=Otlučená skořápka
