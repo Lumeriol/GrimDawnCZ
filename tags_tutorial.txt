@@ -119,21 +119,21 @@ tagTutorialTip38SubtitleB=Přesun mezi hráči
 tagTutorialTip38TextC=Pro zprosředkování přesunu předmětů mezi hráči v multihře musíš použít funkci obchodu.
 
 tagTutorialTip39Title=Vynálezce
-tagTutorialTip39TextA=Inventors are capable of removing components from items. Either the item or the component is preserved in the process.
-tagTutorialTip39SubtitleA=Removing Components
-tagTutorialTip39TextB=The removal of components from items costs a fee proportional to the combined value of the item and the component. Place an item with a component in the Inventor's UI to begin.{^N}{^N}You can recover either the item or the component.{^N}{^N}If you recover the item, the component will be lost. The same goes in reverse.{^N}{^N}
+tagTutorialTip39TextA=Vynálezci jsou schopni odstranit komponenty z předmětů. V tomto procesu zůstane zachován buď předmět, nebo patřičná komponenta.
+tagTutorialTip39SubtitleA=Odstraňování komponent
+tagTutorialTip39TextB=Odstranění komponent z předmětů stojí poplatek úměrný sjednocené hodnotě předmětu a komponenty. Pro započetí odstranění umísti předmět s komponentou k vynálezci.{^N}{^N}Můžeš zachovat buď předmět nebo komponentu.{^N}{^N}Pokud zachováš předmět, komponenta bude zničena. A samozřejmě to platí i obráceně.{^N}{^N}
 
-tagTutorialTip42Title=Blacksmith
-tagTutorialTip42TextA=The Blacksmith is capable of crafting items of great power. He is already an experienced craftsman, but his knowledge can be expanded upon with the discovery of new blueprints.
-tagTutorialTip42SubtitleA=Blueprints
-tagTutorialTip42TextB=The Blacksmith will learn to craft new items when you discover new blueprints. Blueprints can be earned from quests, or found out in the world.
-tagTutorialTip42SubtitleB=Crafting
-tagTutorialTip42TextC=To begin crafting an item, select a recipe in the Crafting UI. Place the required items into the designated spaces in the UI or shift-click them within your inventory.{^N}{^N}When all required materials are in the UI, press the Combine button to craft the item.{^N}{^N}
+tagTutorialTip42Title=Kovář
+tagTutorialTip42TextA=Kovář je schopný vytvářet předmět mocnou silou. Je to už zkušený řemeslník, ale jeho znalosti mohou být prohloubeny pomocí nových návodů.
+tagTutorialTip42SubtitleA=Návody
+tagTutorialTip42TextB=Kovář se naučí, jak vyrábět nové předměty, jakmile najdeš nový návod. Návody mohou být získány z úkolů, nebo je lze najít různě po světě.
+tagTutorialTip42SubtitleB=Vytváření předmětů
+tagTutorialTip42TextC=Chceš-li vytvořit předmět, nejprve si vyber recept ze seznamu. Pak umísti požadované předměty do určených prostorů v rozhraní pro vytváření předmětů, nebo použij Shift + kliknutí na předmět ve svém inventáři.{^N}{^N}Jakmile jsou všechny požadované materiály na svých pozicích, stiskni tlačítko Zkombinuj, aby byl předmět vytvořen.{^N}{^N}
 
-tagTutorialTip43Title=Blueprints
-tagTutorialTip43TextA=Blueprints are forgotten templates for the creation of powerful items, which a Blacksmith can study.
-tagTutorialTip43TextB=To learn a blueprint, right-click on it. If you have not yet learned this blueprint, it will be added to your Blacksmith's list of items.{^n}{^n}Blueprints are stored across all characters (separated by Normal and Hardcore mode) and you can only learn each Blueprint once.
+tagTutorialTip43Title=Návody
+tagTutorialTip43TextA=Návody jsou zapomenuté plánky pro vytváření mocných předmětů, které může kovář zkoumat.
+tagTutorialTip43TextB=Aby ses naučil návodu, klikni na něj pravým tlačítkem myši. Pokud tento návod ještě neznáš, bude přidán na seznam předmětů u kováře.{^n}{^n}Bávody pak umí každý kovář, ať už hraješ za jakoukoliv postavu (odděluje se pouze normální a hardcore hra). Každý návod se tak musíš učit nanejvýše jednou.
 
-tagTutorialTip44Title=The Blacksmith is Missing! (Not in this Build)
-tagTutorialTip44TextA=You have learned a new blueprint, but you do not have a Blacksmith capable of crafting the item for you.{^n}{^n}You must first find a Blacksmith before you can craft items.{^n}{^n}The Blacksmith will know how to craft this new blueprint immediately.
+tagTutorialTip44Title=Ztracený kovář! (není v tomto sestavení hry)
+tagTutorialTip44TextA=Naučil ses novému návodu, ale nemáš kováře schopného pro tebe daný předmět.{^n}{^n}Než budeš moci vytvářet předmět, budeš muset yejdříve najít kováře.{^n}{^n}Kovář bude vědět, jak okamžitě vytvořit tento předmět podle návodu.
 tagTutorialTip44TextB=

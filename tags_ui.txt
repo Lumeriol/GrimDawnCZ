@@ -1103,8 +1103,8 @@ tagPortraitAggressive=Nastavit na agresivní chování
 tagPortraitNormal=Nastavit na normální chování
 tagPortraitDefensive=Nastavit na obranné chování
 
-tagMove=Move
-tagForceMove=Force Move
+tagMove=Pohyb
+tagForceMove=Přímý pohyb
 
 tagUC_Button=Odemknout obsah
 tagUC_Message=Zadej prosím svůj kód pro odemčení nového obsahu.
