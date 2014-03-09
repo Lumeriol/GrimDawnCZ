@@ -358,7 +358,7 @@ tagQuestItemSaltMineKey_Name=Klíč do Zapomenutých hlubin
 tagQuestItemSaltMineKey_Text=^b"Klíč k železným dveřím oddělujících Zapomenuté hlubiny od zbytku Corriganova dolu."
 
 tagQuestItemForgottenPassage=Zapomenutý průchod
-tagQuestItemForgottenPassage_Desc=^b"Roztříštěná mapa z minulosti Staré Arkovie. Nerozluštitelná bez zbávajících částí."
+tagQuestItemForgottenPassage_Desc=^b"Roztříštěná mapa z minulosti Staré Arkovie. Nerozluštitelná bez zbývajících částí."
 
 #Journals
 
