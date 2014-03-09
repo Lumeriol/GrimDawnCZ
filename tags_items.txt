@@ -74,9 +74,9 @@ tagWeaponBluntA009=[ns]válečné kladivo
 tagWeaponBluntA010=[ns]žezlo
 
 tagWeaponBluntB000=[ms]pochodeň
-tagWeaponBluntB001=$Wardenův rozsudek
+tagWeaponBluntB001=[ms]Wardenův rozsudek
 tagWeaponBluntB001Desc=^b"Není zcela jasné, kolik nevinných lidí přišlo o život na milost a nemilost této zbraně."
-tagWeaponBluntB002=$Wardenův úsudek
+tagWeaponBluntB002=[ms]Wardenův úsudek
 tagWeaponBluntB003=[ns]zlobrovo mačkadlo hlav
 tagWeaponBluntB004=[ms]zlobrův drtič lebek
 tagWeaponBluntB005=[ms]přízračný kropáč
@@ -353,9 +353,9 @@ tagShieldA008=[ms]kruhový štít
 tagShieldA009=[ms]vypouklý štít
 tagShieldA010=[fs]pavéza
 
-tagShieldB001=$Wardenova hradba
+tagShieldB001=[fs]Wardenova hradba
 tagShieldB001Desc=^b"Kovaná z kalené oceli s bezohlednou nenávistí."
-tagShieldB002=$Wardenona záštita
+tagShieldB002=[fs]Wardenona záštita
 tagShieldB003=[ms]přízračný štít
 tagShieldB004=[ms]přízračný válečný štít
 
@@ -550,9 +550,9 @@ tagHeadB006=[fs]vrahova kápě
 
 tagHeadC001=Stormcaller's Circlet
 tagHeadC002=Berserker's Cowl
-tagHeadC003=Nether Crown
+tagHeadC003=Podsvětní koruna
 tagHeadC003Desc=^b"Once worn by the first and only Arcanist king of Cairn, King Samuel Drake, before he was stripped of his title and executed for heresy by the clergy."
-tagHeadC004=Crown of Command
+tagHeadC004=Velitelská koruna
 tagHeadC005=Templar's Headguard
 tagheadC005Desc=^b"An initiate's helm for the Guardians of Menhir."
 tagHeadC006=Guardsman's Helm
@@ -611,7 +611,7 @@ tagShoulderB007=$[mp]Isaacovy rytířské nárameníky
 tagShoulderC001=Razorback's Spined Mantle
 tagShoulderC001Desc=^b"Stitched together from the carcass of Razorback."
 tagShoulderC002=Astral Mantle
-tagShoulderC003=Warlord's Spaulders
+tagShoulderC003=Válečníkovy rytířské nárameníky
 tagShoulderC004=Guardsman's Spaulders
 tagShoulderC005=Grenadier Shoulderguard
 tagShoulderC005Desc=^b"Seared and shredded by shrapnel, this shoulderguard nevertheless retains much of its protective qualities."
@@ -723,10 +723,10 @@ tagWaistA007=[ms]plátový opasek
 tagWaistA008=[ms]císařský pásek
 
 tagWaistC001=Oldenar's Stabilizer
-tagWaistC002=Frizzick's Utility Pack
-tagWaistC002Desc=^b"Worked wonders for Frizzick until it ran out of zombie repellant."
+tagWaistC002=Frizzickův prospěšný váček
+tagWaistC002Desc=^b"Fungující Frizzickovy zázraky, dokud neodběhneš od všech těch odpudivých zombií."
 tagWaistC003=Alchemist's Belt
-tagWaistC004=Marauder's Ammo Belt
+tagWaistC004=Záškodníkův opasek s náboji
 tagWaistC005=Warchief's Glory
 tagWaistC006=Headhunter's Trophy
 tagWaistC007=Acolyte's Cord
@@ -765,7 +765,7 @@ tagHandsC001=Shadow's Grasp
 tagHandsC002=Zealot's Gauntlets
 tagHandsC003=Bladedancer's Handguards
 tagHandsC004=Spellbinder's Grip
-tagHandsC005=Marauder's Quickdraw Gloves
+tagHandsC005=Záškodníkovy pohotové rukavice
 tagHandsC006=Soul's Touch
 tagHandsC007=Incribed Bracers
 tagHandsC008=Brawler's Gloves
@@ -843,9 +843,9 @@ tagFeetA005=[fp]sandály
 
 tagFeetC001=Molten Walkers
 tagFeetC002=Windborne Greaves
-tagFeetC003=Boots of Unseeing Swiftness
-tagFeetC003Desc=^b"These boots appear to be of a make and material unlike any of this world."
-tagFeetC004=Stonewrought Groundbreakers
+tagFeetC003=Boty nevidomé rychlosti
+tagFeetC003Desc=^b"Tyhle boty se zdají být vyrobeny z něčeho, co se v tomhle světě nenachází."
+tagFeetC004=Kamenem tepané zemědrtiče
 tagFeetC005=Cestovatelovy žabky
 tagFeetC006=Bloodreaper's Boots
 tagFeetC007=The Final March
@@ -891,15 +891,15 @@ tagRingA011=[ms]rubínový prsten
 tagRingA012=[ms]zásnubní kroužek
 tagRingA013=[fs]diamantová pečeť
 
-tagRingB001=$Reddanův vzpomínkový prsten
+tagRingB001=Reddanův vzpomínkový prsten
 tagRingB001Desc=^b"Opotřebovaný nápis podél kroužku říká: S láskou - Amelia"
-tagRingB002=$Cronleyho pečeť
+tagRingB002=[fs]Cronleyho pečeť
 tagRingB002Desc=^b"Potřísněná krví jeho obětí, nyní doplněná o jeho vlastní."
-tagRingB003=$Skinnerův rodinný pečetní prsten
+tagRingB003=Skinnerův rodinný pečetní prsten
 tagRingB003Desc=^b"Pravděpodobně nejcennější předmět, který rodinka může vůbec vlastnit."
 
 tagRingC001=Marrow Band
-tagRingC002=Obsidian Seal
+tagRingC002=Obsidiánový pečetní prsten
 tagRingC003=Lorekeeper's Band
 tagRingC004=Twilight Signet
 tagRingC005=Blackwatch Seal
@@ -957,7 +957,7 @@ tagNecklaceB001Desc=^b"Lebka je potažena páchnoucím slizem."
 tagNecklaceC001=Amulet Oka
 tagNecklaceC001Desc=^b"Jedinečné oko uvnitř drahokamu pohybující se z jedné strany na druhou."
 tagNecklaceC002=Alazra's Ruby
-tagNecklaceC003=Bloodmoon
+tagNecklaceC003=Krvavý měsíc
 tagNecklaceC004=Devil's Charm
 tagNecklaceC004Desc=^b"A Forked Tongue weaving lies and deceit."
 tagNecklaceC005=Maiven's Lens
@@ -1163,8 +1163,8 @@ tagCraftTabArmorB=A collection of shields, foci and body armor of various makes 
 tagCraftTabMiscA=Accessories and Consumables
 tagCraftTabMiscB=A mix of techniques that sometimes go beyond use of the forge.
 
-tagCraftMaterial_RoyalJelly=Royal Jelly
-tagCraftMaterial_RoyalJelly_Desc=^b"Concentrated secretion from giant wasps of Old Arkovia. Widely believed to carry restorative properties."
+tagCraftMaterial_RoyalJelly=Mateří kašička
+tagCraftMaterial_RoyalJelly_Desc=^b"Koncentrovaný výměšek obřích vos ze Staré Arkovie. Má se za to, že její účinky regenerují tělo."
 tagCraftMaterial_AetherShard=Aether Shard
 tagCraftMaterial_AetherShard_Desc=^b"A large shard from an aether crystal formation, still teeming with untapped power."
 tagCraftMaterial_AetherCluster=Aether Cluster
@@ -1398,7 +1398,7 @@ tagCompA049Desc=^b"Kámen s vyleptaným starověkým ochranným symbolem."^w^n(M
 tagCompA050Name=Zaměřující hranol
 tagCompA050Desc=^b"Používaný temnými pány, aby usměrňovali své síly během zvláště namáhavých rituálů."^w^n(Může vylepšit amulety)
 
-tagCompA051Name=Černý ĺůj
+tagCompA051Name=Černý lůj
 tagCompA051Desc=^b"Lůj ze svíčky vyhořel během Chthonických rituálů."^w^n(Může vylepšit amulety a medaile)
 
 tagCompA052Name=Pomstychtivý přízrak
@@ -1511,8 +1511,8 @@ tagCompAScrapDesc=^b"Kusy železa, jako jsou šipky, kožené šňůry nebo nekv
 
 #Misc
 
-tagMoney01=železných mincí
-tagMoneyFormat={^s}{%d0}  {%s1}
+tagMoney01=Železné mince
+tagMoneyFormat={^s}{%d0}  {železných mincí}
 
 tagPotionHealthA01=Uzdravující tonikum
 tagPotionHealthA01Desc=^b"Utěsňuje zranění a spravuje zlámané kosti."
@@ -1535,8 +1535,8 @@ tagItemSetC003Desc=^b"Regalia honoring the legendary Arcanist Maiven."
 tagItemSetC004Name=Bloodreaper's Glory
 tagItemSetC004Desc=^b"Armor and weapons used only by the most bloodthirsty assassins of Cairn."
 
-tagItemSetC005Name=Marauder's Justice
-tagItemSetC005Desc=^b"Judge, jury, and executioner."
+tagItemSetC005Name=Záškodníkova spravedlnost
+tagItemSetC005Desc=^b"Soudce, porota a popravčí."
 
 tagItemSetC006Name=Herald's Regalia
 tagItemSetC006Desc=^b"Armor worn by the King's herald on diplomatic missions."
@@ -1955,7 +1955,7 @@ tagChestStoneMonolithC01=Kamenná truhla
 tagChestStoneSarcophagusC01=Starověký sarkofág
 
 tagChestRackArmorA01=Stojan na zbroj
-tagChestRackArmorB01=Sbérka zbrojí
+tagChestRackArmorB01=Sbírka zbrojí
 tagChestRackWeaponsA01=Stojan na zbraně
 tagChestRackWeaponsB01=Sbírka zbraní
 
@@ -2022,7 +2022,7 @@ tagDoorLocked=Zamčeno
 
 tagCellDoor=Posuvné dveře
 tagPrisonEntranceDoor=Burrwitchská vězeňská brána
-tagMineDoor=Přepážka do dolu
+tagMineDoor=Důlní dveře
 tagEpicDoor_StepsOfTorment=Brány Utrpení
 tagEpicDoor_StepsOfTormentLocked= {^R} ~ Zapečetěno starodávnou civilizací
 tagLocked= {^R} ~ Zamčeno
