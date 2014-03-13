@@ -1,32 +1,32 @@
-Old Arkovia
-Paying Tributes
-Deliver item or kill bandit
-Alicia from New Harbor in Old Arkovia. Her village is being extorted by the nearby bandits and the quota for their deliveries keeps increasing. With her people spread thin trying to collect enough fish for the tribute, they have fallen behind on their scrap collecting. If they do not deliver enough scrap to Silas, their overseer, he will undoubtedly execute someone. Alicia was very clear that no harm should come to Silas as she fears retribution. She has asked you to collect the missing scrap in the village's stead. The bandits have a stronghold on the Four Hills nearby that should have scrap.
-Collect Scrap
-Deliver the Scrap to Silas at New Harbor
-Return
-You have delivered the scrap to Silas, ensuring that New Harbor does not suffer the wrath of the bandits. You should let Alicia know that Silas is appeased.
-Return to Alicia at New Harbor
+Stará Arkovie
+Placení daní
+Doruč věci nebo zabij banditu
+Alicia z Nového přístavu ve Staré Arkovii. Její vesnice je vydírána nedalekými bandity a jimi požadované dodávky se zvětšují. S tím, jak se její lidé snaží nashromáždit dostatek ryb a zaplatily tak daň, opožďují se se shromažďováním šrotu. Pokud nedoručí dostatek šrotu Silasovi, jejich veliteli, zcela jistě někoho popraví. Alicia jasně naznačila, že Silasovi se nesmí nic stát, protože se bojí odplaty. Abys vesnici vypomohl, požádala tě o sehnání dostatečného množství šrotu. Bandité mají pevnost nedaleko, na Čtvero vršcích, a ti by šrot mít měli.
+Posbírej šrot
+Doruč šrot Silasovi do Nového přístavu
+Návrat
+Dručil jsi šrot Silasovi, ujištěný, že Nový přístav nepocítí hněv banditů. Měl bys dát Alicii vědět, že je Silas umírněný.
+Vrať se za Alicií do Nového přístavu
 
 
-Bribe Return
-You have bribed Silas to leave New Harbor alone. You should let Alicia know that the outlaws will leave them alone from now on.
-Return to Alicia at New Harbor
+Návrat s úplatkem
+Uplatil jsi Silase, aby nechal Nový přístav na pokoji. Měl bys dát Alicii vědět, že psanci je prozatím nechají být.
+Vrať se za Alicií do Nového přístavu
 
 
 
-Kill Silas
-You have opted to slay Silas rather than perpetrating the extortion happening at New Harbor. Kill Silas and end his tyranny over the fishermen.
-Kill Silas
+Zabij Silase
+Rozhodl jsi se Silase zabít místo toho, abys ho nechal vydírat Nový přístav. Zabij Silase a ukonči jeho hrůzovládu nad rybáři.
+Zabij Silase
 
-Silas Killed
-You have slain Silas, liberating New Harbor of the bandit influence. You should let Alicia know of your actions.
-Return to Alicia at New Harbor
+Silas zabit
+Zabij jsi Silase a osvobodil tak Nový přístav od vlivu banditů. Měl bys dát Alicii o svých skutcích vědět.
+Vrať se za Alicií do Nového přístavu
 
 
-Silas Fled
-You have slain Cronley and scattered his gang. Silas fled before you had a chance to deal with him. Speak to Alicia about the good news.
-Return to Alicia at New Harbor
+Silas uprchl
+Zabil jsi Cronleyho a rozprášil jsi jeho gang. Silas uprchl ještě předtím, než jsi měl šanci se s ním vypořádat. Promluv si s Alicií o dobrých zprávách.
+Vrať se za Alicií do Nového přístavu
 
 
 
