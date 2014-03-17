@@ -1,54 +1,54 @@
 Elsa
-ACCUSE OR NOT
+Obvinit či neobvinit
 
-QUESTION ABOUT DISAPPEARANCES
+Otázka ohledně zmizení
 
-You again?
-Where's Mornay?
-You mean he came out here looking for me? That fool probably got himself eaten by a troll.
-You're awfully content with that.
-He and I never saw eye to eye. I don't wish anything evil upon him, but whether he lives or dies doesn't matter much to me either.
-Goodbye.
-Perhaps I should go look for him.
-Stuff.
-Goodbye.
-Looking for trouble? I've gutted punks much tougher than you, so just give me a reason.
-Do you happen to know Mornay from Devil's Crossing?
-Yes... I know Mornay. Idiot nearly got me killed out in Old Arkovia. Bandits got us in the night, drawn to his damned fire. They tied me up and dragged me back towards their camp, probably to share me with the rest of the gang.{^n}{^n}Shame for them they weren't very good at tying knots. I slit their throats while they slept and made off on my own.
-Why didn't you return to Mornay?
-Well, for starters I thought he was dead. But no matter. That fawning loser can't seem to get over the loss of his wife. Frankly, it felt like he was trying to make me a replacement. I didn't have any strong connections with Devil's Crossing, so I decided to see what else was out there.
-Should I tell him you're alive?
-Don't care either way what you do. Far as I'm concerned, we have nothing left to say to each other.
-
-
-Goodbye.
-What are you doing out here?
-I'm sorry, when did we become close friends?
-You don't see a lone traveler out here that often.
-Could say the same about you. If you must know, I'm traveling north. I've heard there are still some relatively untouched places in the mountains. If not, I've heard people are trying to establish a hold in Homestead and I'm sure they could use help; that place is a mess.
-Devil's Crossing is in the south. It's safe.
-I'd rather try my luck out here than be penned up with bad company in that old prison.
+Zase ty?
+Kde je Mornay?
+Myslíš, že mě sem ven šel hledat? Ten blázen se pravděpodobně nechal sežrat trolem.
+Jsi s tím až moc smířená.
+On a já jsme si nikdy neviděli z očí do očí. Nechci, aby se mu stalo něco zlého, ale to, jestli žije nebo nežije pro mě taky moc neznamená.
+Sbohem.
+Možná bych se po něm měl podívat.
+Věci.
+Sbohem.
+Vyhledáváš problémy? Vykuchala jsem grázly mnohem drsnější než ty, jenom mi k tomu dej důvod.
+Neznáš náhodou Mornaye z Ďáblova průsmyku?
+Ano... znám Mornaye. Ten idiot mě ve Staré Arkovii málem zabil. Banditi nás dostali v noci, šli za tím jeho proklatým ohněm. Svázali mě a odtáhli k jejich tábořišti, pravděpodobně proto, aby se se mnou podělili se zbytkem gangu.{^n}{^n}Jejich smůla, že nebyli moc dobří ve vázání uzlů. Podřezala jsem jim krky, když spali a sama zvládla odejít.
+Proč si se k Mornaymu nevrátila?
+No, tak na začátek jsem si myslela, že je mrtvý. Ale na tom nezáleží. Ten podlézavý břídil vypadal, že se nedokázal přenést přes smrt své ženy. Upřímně to vypadalo, že ze mě chce udělat nějakou náhradu. S Ďáblovým průsmykem jsem neměla žádné silné vztahy, tak jsem se rozhodla se podívat, co dalšího tam je.
+Neměl bych mu říct, že jsi naživu?
+Je mi jedno, jestli mu to řekneš, nebo ne. Mám obavy z toho, že už si jeden druhému nemáme co říct.
 
 
-Alright. Farewell.
-You're always welcome back in Devil's Crossing.
-Thanks but I have no plans to return there. I'd rather find my fate on the open road.
+Sbohem.
+Co tady děláš?
+Omlouvám se, kdyže jsme se stali blízkými přáteli?
+Osamělého cestovatele tady jen tak nepotkáš.
+To samé bych mohl říct o tobě. Pokud to musíš vědět, cestuju na sever. Slyšela jsem, že jsou tam stále skoro nedotčená místa v horách. Pokud ne, slyšela jsem, že se lidé snaží vybudovat si pozici v Homesteadu a jsem si jistá, že by potřebovali pomoc; to místo je chaos.
+Na jihu je Ďáblův průsmyk. Je tam bezpečno.
+Raději zkusím moje štěstí tam, než být zavřená se špatnou společností v tom starém vězení.
 
 
-Alright. Farewell.
-Good luck out there.
-Nevermind, sorry I asked.
-What can you tell me of this area?
-I can tell you it's swarming with trolls and harpies, and that your best bet would be to leave by whatever way you got here.{^n}{^n}I was headed for Smuggler's Pass, which leads through the mountains but found the way blocked by half-troll tribes. If you're not familiar with trolls and their ilk, they have a perverse predilection to abduct and keep humans as mates. That's not the fate I have planned for myself, so I'm biding my time, looking for another way through.
-I take it you have some experience with trolls?
-I'm not sure how you meant that but, in either case, no. I've never seen a troll until after the Grim Dawn, just heard the odd tales of travelers gone missing or abductions from villages in the mountains. Apparently there were a lot more of them living up in these remote parts than anyone realized.{^n}{^n}In some folklore, trolls are a primitive ancestor of humankind that never advanced beyond their bestial impulses. Others say they're the terrible result of generations of inbreeding among small mountain tribes. They're temperamental, greedy and extremely violent; with just enough cunning to be dangerous.
+Dobrá. Sbohem.
+V Ďáblově průsmyku budeš vždy vítána.
+Díky, ale nemám v plánu se tam vracet. Raději najdu svůj osud na otevřené cestě.
 
 
-Interesting. Thanks.
+Dobrá. Sbohem.
+Hodně štěstí tam venku.
+Neřeš to, promiň, že jsem se ptal.
+Co mi můžeš říct o této oblasti?
+Můžu ti říct, že se to tu hemží troly a harpyjemi, a tvoje nejlepší sázka by byla na to odejít odtud cestou, kterou jsi přišel, ať už byla jakákoliv.{^n}{^n}Měla jsem namířeno do Pašerákova průsmyku, který vede skrze hory, ale zjistila jsem, že cesta je zablokovaná napůl trolími kmeny. Pokud nejsi seznámený s troly a jejich druhem, mají zvrácenou zálibu v unášení lidí, které pak drží jako mazlíčky. To není osud, který bych si pro sebe plánovala, takže natahuju svůj čas a hledám jinou cestu skrz.
+Chápu to dobře, že máš nějaké zkušenosti s troly?
+Nejsem si jistá, jak jsi to myslel, ale tak jako tak ne. Nikdy jsem neviděla trola - až do doby po Ponurém úsvitu - jen jsem slýchávala divné povídky o ztracených cestovatelích nebo únosech od vesničanů v horách. Očividně jich v těchto odlehlých částech bylo mnohem víc, než si kdokoliv představoval.{^n}{^n}V některých folklórech jsou trolové primitivními předky lidstva, kteří se nikdy nepřeklenuli přes jejich zvířecí impulsy. Jsou temperamentní, lakomí a extrémně násilničtí; a právě tak proradní, aby byli nebezpeční.
 
 
-Thanks for the info.
-NEW STUFF FOR ACT 3
-Things to say.
-Bye.
-Alright then.
+Zajímavé. Díky.
+
+
+Díky za informace
+NOVÉ VĚCI PRO AKT 3
+Věci k vyřčení.
+Ahoj.
+Tak tedy dobrá.
