@@ -1,7 +1,7 @@
-Detonation Site
-Looks like this path has been blocked off by an avalanche. Perhaps you could clear it out with some heavy explosives.{^n}{^n}It will take 3 Dynamite to clear a path.
-Not enough Dynamite.
-Clear the Avalanche.
-Leave it.
-You have cleared this barricade.
+Místo výbuchu
+Vypadá to, že tato cesta byla zablokována lavinou. Možná, že by to šlo odstranit s trochou výbušniny.{^n}{^n}Abys mohl pokračovat v cestě, budeš potřebovat 3 dynamity.
+Nemáš dynamit.
+Odstranit lavinu.
+Nechat to být.
+Tato barikáda byla odstraněna.
 Ok.
