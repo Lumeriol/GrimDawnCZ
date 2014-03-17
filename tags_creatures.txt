@@ -1,4 +1,4 @@
-#CreatureAllSurvivors
+﻿#CreatureAllSurvivors
 
 tagSurvivorGuardGenericRangedA01=Přeživší ~ Zvěd
 tagSurvivorGuardGenericRangedB01=Přeživší ~ Vyzyvatel
@@ -211,7 +211,7 @@ tagHarpyHeroH03=Tyrronax, Velký hlídač
 tagHarpyHeroH04=Scyliss, Bouří dotknutá ~ Elektrizovaná
 tagHarpyHeroH05=Holdrexna, Větrná chodkyně ~ Rychlá
 
-tagHarpyBossB01=Nemravná Lutra
+tagHarpyBossB01=Zanechaná Lutra
 
 #CreatureHarvestman
 

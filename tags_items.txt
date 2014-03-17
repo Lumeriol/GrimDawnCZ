@@ -755,8 +755,8 @@ tagWaistD009=Opasek divoké krve
 
 #ArmorHands
 
-tagHandsA001=[fp]rukavice
-tagHandsA002=[mp]návleky
+tagHandsA001=[mp]návleky
+tagHandsA002=[fp]rukavice
 tagHandsA003=[fp]rytířské rukavice
 tagHandsA004=[mp]palčáky
 tagHandsA005=[mp]chrániče rukou
