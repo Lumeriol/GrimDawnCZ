@@ -1,7 +1,7 @@
-Detonation Site
-Looks like a portion of the Flooded Passage has caved-in. Perhaps you could clear it out with some heavy explosives.{^n}{^n}It will take 3 Dynamite to clear a path.
-Not enough Dynamite.
-Clear the Cave-in.
-Leave it.
-You have cleared this cave-in.
+Místo výbuchu
+Vypadá to, že část Zatopeného průchodu se zřítila. Možná, že by to šlo odklidit pomocí nějakých těžkých výbušnin.{^n}{^n}K odstranění závalu budeš potřebovat 3 dynamity.
+Nemáš dynamit.
+Odstranit zával.
+Nechat to být.
+Tento zával byl odstraněn.
 Ok.
