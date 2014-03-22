@@ -5,7 +5,7 @@ tagTutorialOf=z
 tagTutorialDisable=Vypnout nápovědu
 
 tagTutorialTip08Title=Vítejte ve hře Grim Dawn
-tagTutorialTip08TextA=Děkujeme za podporu a pomoc - díky tobě může Grim Dawn existovat! Doufáme, že si užiješ první část hry.{^n}{^n}Měj prosím měj na paměti, že toto je alpha verze hry, která je vytvořená nezávislým týmem o sedmi lidech.  Setkáš se s chybami, nedokončnými částmi a jen se zhruba dvěma třetinami hry. Velice uvítáme hlášení o chybách a pocitu z hraní hry na našich fórech na www.grimdawn.com.
+tagTutorialTip08TextA=Děkujeme za podporu a pomoc - díky tobě může Grim Dawn existovat! Doufáme, že si užiješ první část hry.{^n}{^n}Měj prosím na paměti, že toto je alpha verze hry, která je vytvořena nezávislým týmem o sedmi lidech.  Setkáš se s chybami, nedokončnými částmi a jen se zhruba dvěma třetinami hry. Velice uvítáme hlášení o chybách a pocitu z hraní hry na našich fórech na www.grimdawn.com.
 
 tagTutorialTip09Title=Okno obchodníka
 tagTutorialTip09TextA=Obchodník prodává a nakupuje zbraně nutné pro prežití v oblasti Cairn.
@@ -39,7 +39,7 @@ tagTutorialTip15TextC=You can track your experience gain on the green bar at the
 tagTutorialTip16Title=Okno postavy
 tagTutorialTip16TextA=Použij {^y}Okno postavy{^w} a můžeš svou postavu vybavit předměty, přerovnat si svůj inventář, využít body atributů nebo shlédnout statistiky své postavy.
 tagTutorialTip16SubtitleA=Inventář:
-tagTutorialTip16TextB=Pokud chceš nějaký předmět použít, klikni pravým tlačítkem v inventáři nebo přesuň předmět do adekvátního slotu. Předmět můžeš také odhodit tím, že jej přesuneš mimo okno postavy, nebo na něj klikneš a stiskneš klávesu "{^b}{%t0}{^w}".
+tagTutorialTip16TextB=Pokud chceš nějaký předmět použít, klikni na něj pravým tlačítkem v inventáři nebo předmět přesuň do adekvátního slotu. Předmět můžeš také odhodit tím, že jej přesuneš mimo okno postavy, nebo na něj klikneš a stiskneš klávesu "{^b}{%t0}{^w}".
 tagTutorialTip16SubtitleB=Body atributů:
 tagTutorialTip16TextC=Body atributů využiješ tak, že klikneš na "{^y}+{^w}" vlevo od požadovaného atributu. Každý bod atributu zvyšuje konkrétní atribut o 8.
 
