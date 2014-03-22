@@ -1,11 +1,11 @@
-# B17
+﻿# B17
 tagTutorialTitle=Herní nápověda
 tagTutorialRollOver=Pro vypnutí herní nápovědy zaškrtni toto políčko. Po vypnutí muže být herní nápověda opět aktivována, a to ve spodní části obrazovky tlacítkem "nápověda".
 tagTutorialOf=z
 tagTutorialDisable=Vypnout nápovědu
 
 tagTutorialTip08Title=Vítejte ve hře Grim Dawn
-tagTutorialTip08TextA=Děkujeme za podporu a pomoc - díky tobě může Grim Dawn existovat! Doufáme, že si užiješ první část hry.{^n}{^n}Měj prosím na paměti, že toto je alpha verze hry, která je vytvořena nezávislým týmem o sedmi lidech.  Setkáš se s chybami, nedokončnými částmi a jen se zhruba dvěma třetinami hry. Velice uvítáme hlášení o chybách a pocitu z hraní hry na našich fórech na www.grimdawn.com.
+tagTutorialTip08TextA=Děkujeme za podporu a pomoc - díky tobě může Grim Dawn existovat! Doufáme, že si užiješ první část hry.{^n}{^n}Měj prosím na paměti, že toto je alpha verze hry, která je vytvořena nezávislým týmem o sedmi lidech. Setkáš se s chybami, nedokončenými částmi a jen se zhruba dvěma třetinami hry. Velice uvítáme příspěvky o chybách a pocitech z hraní hry na našich fórech na www.grimdawn.com.
 
 tagTutorialTip09Title=Okno obchodníka
 tagTutorialTip09TextA=Obchodník prodává a nakupuje zbraně nutné pro prežití v oblasti Cairn.
