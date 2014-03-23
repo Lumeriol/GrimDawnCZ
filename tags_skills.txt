@@ -52,7 +52,7 @@ tagSkillClassDescription02=Pyrotechničtí mistři císařské armády. Ničitel
 
 tagSkillClassDescription03=Poté, co byli pronásledováni císařskými vojsky ve snaze ovládnout jejich podivnou moc, Okultisté se zaměřili na vyvolávání a vypůjčili si energii od tří čarodějnických "bohů" - Bysmiela, Solaela a Dreega. Mezi jejich různorodá umění patří odporné kletby a kouzla, která způsobují zranění jedem, kyselinou a chaotickou energií. Nevynikají v boji s mečem ani střelnou zbraní, ale mohou je použít jako dodatečnou údernou sílu.
 
-tagSkillClassDescription04=Noční lovci byli tajní bojovníci, kteří nabízeli své služby velkým rodům v říši. Noční lovci vynikají v boji se všemi druhy bojových zbraní, ale největší obavy vzbuzují jejich smrtící magické nože, které jsou jejich obchodním tajemstvím. Noční lovci nejsou přizpůsobeni k tělesnímu kontaktu s odolnějším nepřítelem a raději se spoláhají na svou iluzi o rychlém a zničujícím napadení nebo na boj z určité vzdálenosti s jeich přízračnými noži.
+tagSkillClassDescription04=Noční lovci byli tajní bojovníci, kteří nabízeli své služby velkým rodům v říši. Noční lovci vynikají v boji se všemi druhy bojových zbraní, ale největší obavy vzbuzují smrtící magické nože, jež jsou jejich obchodním tajemstvím. Noční lovci nejsou přizpůsobeni k tělesnému kontaktu s odolnějším nepřítelem a raději se spoléhají na svou iluzi o rychlém a zničujícím přepadení, nebo na boj z určité vzdálenosti s jejich přízračnými noži.
 
 tagSkillClassDescription05=Pro Pány temnot není tajemství magie nšjaká nevysvětlitelná záhada nebo vůle bohů, ale věda, která chce být odtajněna. Tato snaha o poznání žene všechny Pány temnoty dychtivě dál za objevováním nových způsobů, které by si mohli osvojit. Pán temnot vychyluje Éterickou a živelnou energii podle své vůle, čímž tvoří ničivou demonstraci síly, kterou může použít na malé armády. Nicméně je především využívá na sovu obranu.
 
@@ -77,7 +77,7 @@ tagSkillUsableReady=Dovednost je možno použít
 #Class01
 
 tagClass01SkillName00A=Voják
-tagClass01SkillDescription00A=Velká fyzická kondice je nutná pro čelení kruté realitě v Cairnu.
+tagClass01SkillDescription00A=Velká fyzická kondice je nutná, aby voják dokázal čelit kruté realitě v oblastech Cairnu.
 
 tagClass01SkillName01A=Rychlý útok
 tagClass01SkillDescription01A=Využití povahy zbraně v boji dodá tvému útoku přirozený spád se všemi jeho klady i zápory, které, ačkoliv jsou předvídatelné, jsou neméně účinné a těžce se jim čelí. Pokud jej využiješ jako výchozí typ útoku, zvýší Rychlost útoku sílu každého třetího úderu.
@@ -579,8 +579,8 @@ xxxtagClass05SkillDescription02A=Coats your weapons with oil from the vile brew.
 
 #ItemSkills
 
-tagItemSkillA001=Coldsnap
-tagItemSkillDescA001=A blast of negative energy freezes anything in its path.
+tagItemSkillA001=Chladné počasí
+tagItemSkillDescA001=Výbuch negativní energie zmrazí vše, co mu stojí v cestě.
 
 tagItemSkillA002=Spectral Vortex
 tagItemSkillDescA002=Vital essense is siphoned from nearby enemies leaving them weakened and more susceptible to attacks for a brief period.
@@ -588,14 +588,14 @@ tagItemSkillDescA002=Vital essense is siphoned from nearby enemies leaving them 
 tagItemSkillA003=Static Reflux
 tagItemSkillDescA003=Launches an orb of electricity at enemies that hit the player.
 
-tagItemSkillA004=Fireball
-tagItemSkillDescA004=Launches a fireball at nearby enemies.
+tagItemSkillA004=Ohnivá koule
+tagItemSkillDescA004=Vypustí ohnivou kouli na blízké nepřátele.
 
-tagItemSkillA004B=Fireball
-tagItemSkillDescA004B=Launches multiple fireballs at nearby enemies.
+tagItemSkillA004B=Ohnivá koule
+tagItemSkillDescA004B=Vypustí několik ohnivých koulí na blízké nepřátele.
 
-tagItemSkillA005A=Ring of Flame
-tagItemSkillDescA005A=Surrounds the caster in a ring of flame that burns enemies within its radius.
+tagItemSkillA005A=Plamenný prstenec
+tagItemSkillDescA005A=Obklopí sesílatele prstencem z plamenů, které budou v jejich dosahu spalovat nepřátele.
 
 tagItemSkillA006A=Poison Weapon
 tagItemSkillDescA006A=Coats weapons in a veneer of deadly toxin.
@@ -606,8 +606,8 @@ tagItemSkillC001Description=This sword's blade was once a metal sign that once h
 tagItemSkillA007Name=Focus
 tagItemSkillA007Desc=Focuses on the art of battle, accelerating all attacks.
 
-tagItemSkillA008Name=Survival Instincts
-tagItemSkillA008Desc=Provides a boost of adrenaline at low health, temporarily increasing run speed.
+tagItemSkillA008Name=Pud sebezáchovy
+tagItemSkillA008Desc=Při nízkém zdraví zvedne adrenalin a dočasně zvýší rychlost běhu.
 
 tagItemSkillA009Name=Lightning Nova
 tagItemSkillA009Desc=Unleashes a blast of lightning energy, damaging all nearby enemies.
@@ -1092,11 +1092,11 @@ tagCompSkillB006Desc=Strikes with your weapon, inflicting grevious wounds and cr
 
 #ConsumableSkills
 
-tagConsumableSkill_RoyalJellyBalmName=Royal Jelly Balm
-tagConsumableSkill_RoyalJellyBalmDesc=Fills you with a soothing warmth.
+tagConsumableSkill_RoyalJellyBalmName=Balzám z mateří kašičky
+tagConsumableSkill_RoyalJellyBalmDesc=Naplní tě uklidňujícím teplem.
 
 tagConsumableSkillResistancePoison01Name=Menší odolnost vůči jedu
-tagConsumableSkillResistancePoison01DescZvyšuje o menší množství tvou odolnost vůči jedu.
+tagConsumableSkillResistancePoison01Desc=Zvyšuje o menší množství tvou odolnost vůči jedu.
 
 #SkillsGeneral
 

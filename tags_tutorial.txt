@@ -34,7 +34,7 @@ tagTutorialTip15TextA=Získal jsi novou úroveň. Pokaždé, když dosáhneš vy
 tagTutorialTip15CaptionA=Klávesová zkratka: {^b}{%t0}{^w}
 tagTutorialTip15TextB=Body atributu můžeš přiřadit v {^y}Okně postavy{^w}. Každý bod atributu zvyšuje konkrétní atribut o 8.
 tagTutorialTip15CaptionB=Klávesová zkratka: {^b}{%t0}{^w}
-tagTutorialTip15TextC=You can track your experience gain on the green bar at the bottom of the HUD and in the {^y}Character Window{^w}. The amount of experience required for your next level is shown on the green bar at the bottom of the HUD and in the {^y}Character Window{^w}. When the bar fills up, you will gain a level.
+tagTutorialTip15TextC=Zkušenosti své postavy a množstvé zkušeností potřebných na další úroveň můžeš sledovat na zeleném pruhu na spodním panelu a v {^y}Okně postavy{^w}. Jakmile je potřebné množství naplněno, tvá postava získá novou úroveň.
 
 tagTutorialTip16Title=Okno postavy
 tagTutorialTip16TextA=Použij {^y}Okno postavy{^w} a můžeš svou postavu vybavit předměty, přerovnat si svůj inventář, využít body atributů nebo shlédnout statistiky své postavy.
