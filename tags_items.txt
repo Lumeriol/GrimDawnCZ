@@ -644,7 +644,7 @@ tagShoulderD010=Archamge's Mantle
 
 #ArmorTorso
 
-tagTorsoA000=[mp]hadry
+tagTorsoA000=[fs]vařená kůže
 tagTorsoA001L=[ms]kabát
 tagTorsoA002L=[fs]uniforma
 tagTorsoA003L=[ms]kyrys
@@ -654,7 +654,7 @@ tagTorsoA006H=[fs]pláštěnka
 tagTorsoA007H=[ms]plášť
 tagTorsoA008H=[fs]kroužková zbroj
 tagTorsoA009H=[fs]plátová zbroj
-tagTorsoA010M=[fs]bunda
+tagTorsoA010M=[ms]kabátec
 tagTorsoA011M=[ms]hrudní plát
 tagTorsoA012M=[ms]hrudní chránič
 tagTorsoA013M=[ms]postroj
@@ -1506,7 +1506,7 @@ tagCompAmmoBox=Pouzdro na munici
 tagCompAmmoBoxDesc="Aby temné síly zamořující Cairn byly zlikvidovány, můžeš vždycky použít víc munice."
 
 tagCompAScrap=Kovový šrot
-tagCompAScrapDesc=^b"Kusy železa, jako jsou šipky, kožené šňůry nebo nekvalitní kovy mohou být sloučeny dohromady a být tak použity ke zpevnění předmětů nebo staveb."
+tagCompAScrapDesc=^b"Kusy železa, zlámané šipky, kožené šňůry nebo nekvalitní kovy mohou být sloučeny dohromady a být tak použity ke zpevnění předmětů nebo staveb."
 
 
 #Misc
@@ -1515,7 +1515,7 @@ tagMoney01=Železné mince
 tagMoneyFormat={^s}{%d0}  {železných mincí}
 
 tagPotionHealthA01=Uzdravující tonikum
-tagPotionHealthA01Desc=^b"Utěsňuje zranění a spravuje zlámané kosti."
+tagPotionHealthA01Desc=^b"Zaceluje rány a spravuje zlámané kosti."
 tagPotionEnergyA01=Elixír ducha
 tagPotionEnergyA01Desc=^b"Omlazuje mysl a ducha."
 tagPotionDirections=[použít pravým tlačítkem myši]
