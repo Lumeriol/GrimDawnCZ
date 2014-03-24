@@ -985,7 +985,7 @@ tagCompSkillA001Name=Zásah kyselinou
 tagCompSkillA001Desc=Udeř svého soupeře zžíravou kyselinou, která si poradí i nejtužším materiálem.
 
 tagCompSkillA002Name=Úponek Éteru
-tagCompSkillA002Desc=Uvolní výbuch čisté éterické energie vůči tvému nepříteli.
+tagCompSkillA002Desc=Uvolní výbuch čisté Éterické energie vůči tvému nepříteli.
 
 tagCompSkillA003Name=Odstranění
 tagCompSkillA003Desc=Úder tvé zbraně je zničující pro Éterické bytosti.

@@ -224,7 +224,7 @@ tagWeaponGun2hC005=Vůle osudu
 tagWeaponGun2hC005Desc=^b"Každá kulka je předurčena setkat se s jejím pravým terčem."
 tagWeaponGun2hC006=Šarlatový střelec
 tagWeaponGun2hC007=Solná střílna
-tagWeaponGun2hC007Desc=^b"Nesourodě pospojovaná zbraň navržená k likvidaci Éterijských."
+tagWeaponGun2hC007Desc=^b"Nesourodě pospojovaná zbraň navržená k likvidaci Aetherijských."
 tagWeaponGun2hC008=Nositel hněvu
 tagWeaponGun2hC009=Zahřmění
 tagWeaponGun2hC010=Ostrostřelcova čepová puška
@@ -235,7 +235,7 @@ tagWeaponGun2hD002Desc=^b"Zbraň používaná uctívači čarodějných bohů k 
 tagWeaponGun2hD003=Zplozenec pekla
 tagWeaponGun2hD003Desc=^b"Hlaveň chrlí ven zuřivost sedmi pekel."
 tagWeaponGun2hD004=Vír duší
-tagWeaponGun2hD004Desc=^b"Každá vystřelená rána způsobuje zčeření uvnitř éteru."
+tagWeaponGun2hD004Desc=^b"Každá vystřelená rána způsobuje zčeření uvnitř Éteru."
 tagWeaponGun2hD005=Kuchač střev
 
 
