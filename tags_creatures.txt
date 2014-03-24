@@ -544,7 +544,7 @@ tagEnemyZombieSoldierA01=Hnilobný voják
 tagEnemyZombieSoldierB01=Hnilobný žhavý strážce
 tagEnemyZombieBerserkerA01=Mrtvolný démon
 
-tagEnemyZombieVoidA01=Ch'thonický chodec bez duše
+tagEnemyZombieVoidA01=Ch'thonský chodec bez duše
 
 tagEnemyZombieMutatedA01=Zdeformovaný řezník
 tagEnemyZombieMutatedB01=Zdeformovaná mlátička

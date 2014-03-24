@@ -1,4 +1,4 @@
-﻿#General
+#General
 
 tagGameDifficultySetting01=Normální obtížnost
 tagGameDifficultySetting02=Veteránská obtížnost
@@ -447,7 +447,7 @@ tagMarketError01=Nemáš dostatek železných mincí.
 tagMarketError02=Ve svém inventáři nemáš dostatek místa.
 tagMarketError03=Tato položka byla prodána.
 tagMarketError04=Tato položka nemůže být prodána.
-CanNotBeSoldHere=Tento prodejnce nepřijímá tento druh zboží.
+CanNotBeSoldHere=Tento prodejce nepřijímá tento druh zboží.
 Sold=Prodáno
 
 
