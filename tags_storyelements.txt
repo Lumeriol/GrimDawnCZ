@@ -37,7 +37,7 @@ tagMapVoidlands=Pustiny
 
 tagMapBrokenHills=Sesuté kopce
 tagMapOldArkovia=Stará Arkovia
-tagMapArkovianFoothills=Arkovianské podhůří
+tagMapArkovianFoothills=Arkoviánské podhůří
 tagMapKymons=Kymonův ústup
 tagMapCoastRoad=Pobřežní cesta
 tagMapTwinFalls=Dvojspády
@@ -351,8 +351,8 @@ tagQuestItemDynamite=Dynamit
 tagQuestItemDynamiteDesc=^b"Surová výbušnina kdysi umístěná ničitely, aby čelili ničivým silám uživatelů magie."
 tagQuestItemSupplies=Bedna se zásobami
 tagQuestItemSuppliesDesc=^b"Bedna plná cenných materiálů a nekazícího se zboží."
-tagQuestItemSlithNecklace=Náhrdelník Slithů
-tagQuestItemSlithNecklaceDesc=^b"Nošen šamany Slithů, z důvodu známého pouze jim samotným."
+tagQuestItemSlithNecklace=Náhrdelník slithů
+tagQuestItemSlithNecklaceDesc=^b"Nošen šamany slithů, z důvodu známého pouze jim samotným."
 
 tagQuestItemSaltMineKey_Name=Klíč do Zapomenutých hlubin
 tagQuestItemSaltMineKey_Text=^b"Klíč k železným dveřím oddělujících Zapomenuté hlubiny od zbytku Corriganova dolu."
@@ -411,7 +411,7 @@ tagLoreObj_WardensLabA03Name=Gethrandovy poznámky - Závěrečný zápisek
 tagLoreObj_WardensLabA03Text=Tohle bude můj poslední zápisek, jelikož jsem se rozhodl ukončit svůj život. Nedokážu se donutit, abych dál prováděl tyhle odporné experimenty. Svým jednáním jsem nejspíš odsoudil celé lidstvo. Ačkoliv jsem se dlouho vyhýbal svým kolegům v akademii a s myšlenkou, že Aetheriané by mi mohli nabídnout něco většího, už nemůžu být součástí téhle hrůzy. Obávám se, že když najdou mé tělo, tak mě použijou pro své pokusy. Proto bych měl zůstat diskrétní. Vrátit se do života jako jedna z těch... věcí by bylo nesnesitelné.
 
 tagLoreObj_WardensLabB01Name=Zanbrandtovy poznámky - 1. zápisek
-tagLoreObj_WardensLabB01Text=Můj kolega Gethrand si dnes vzal život - ten krátkozraký blázen. Nikdo nedokázal vidět velký obraz a tento projekt není v ničem odlišný. Gethrand nedokázal pochopit skvělou vizi Aetherijských a roli, kterou budeme hrát jako první lidští spolupracovníci. Tohle není o osobních zájmech. Pozvedneme lidstvo! Samozřejmě jsou tady ztráty na životech, ale pokrok vždycky něco stojí. Takže tolik o špinavých masách, které zahynou do Nádherného Rozbřesku, kdy Aetherijští se vynoří do světa. Pro Aetherijské jsme něco jako obyčejná primitivní stvoření, jako jsou pro nás Slithové. Těm z nás, kteří budou sloužit, nebo ještě lépe těm, kteří budou spjati z Aetherijskými, se naskytne nová lidská budoucnost.
+tagLoreObj_WardensLabB01Text=Můj kolega Gethrand si dnes vzal život - ten krátkozraký blázen. Nikdo nedokázal vidět velký obraz a tento projekt není v ničem odlišný. Gethrand nedokázal pochopit skvělou vizi Aetherijských a roli, kterou budeme hrát jako první lidští spolupracovníci. Tohle není o osobních zájmech. Pozvedneme lidstvo! Samozřejmě jsou tady ztráty na životech, ale pokrok vždycky něco stojí. Takže tolik o špinavých masách, které zahynou do Nádherného Rozbřesku, kdy Aetherijští se vynoří do světa. Pro Aetherijské jsme něco jako obyčejná primitivní stvoření, jako jsou pro nás slithové. Těm z nás, kteří budou sloužit, nebo ještě lépe těm, kteří budou spjati z Aetherijskými, se naskytne nová lidská budoucnost.
 
 tagLoreObj_WardensLabC01Name=Úřední dopis pro Wardena Kriega
 tagLoreObj_WardensLabC01Text=Wardene Kriegu,{^n}{^n}Omluvte tuto primitivní formu komunikace. Nacházím se daleko na Severu a zdá se, že mé myšlenky nejsou schopny se s vámi spojit. Ve veškeré budoucí komunikaci budeme používat jména našich hostitelů a běžný lidský jazyk.{^n}{^n}Píšu vám, protože bych si rád objasnil nedávné matoucí zprávy o vašem chování.  Je pravda, že jste věznil a mučil lidi?  Jaký jste k tomu měl důvod?  Zdá se, že záliby vašeho hostitele ovlivňují vaše chování. Musíte se víc ovládat a přestat s touto zbytečnou činností.  Vaší úlohou je usnadnit našim laboratořím shromažďování mrtvol. Omezte se pouze na tuto činnost, jinak budete odvolán.
