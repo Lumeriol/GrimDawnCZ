@@ -1536,7 +1536,7 @@ tagItemSetC004Name=Bloodreaper's Glory
 tagItemSetC004Desc=^b"Armor and weapons used only by the most bloodthirsty assassins of Cairn."
 
 tagItemSetC005Name=Záškodníkova spravedlnost
-tagItemSetC005Desc=^b"Soudce, porota a popravčí."
+tagItemSetC005Desc=^b"Soudce, porota a kat."
 
 tagItemSetC006Name=Herald's Regalia
 tagItemSetC006Desc=^b"Armor worn by the King's herald on diplomatic missions."
@@ -1878,7 +1878,7 @@ tagSuffixB017_Ar_A=pekelného psa
 tagSuffixB018_Ar_A=ledovce
 tagSuffixB019_Ar_A=vichřice
 tagSuffixB020_Ar_A=baziliška
-tagSuffixB021_Ar_A=Slitha
+tagSuffixB021_Ar_A=slitha
 tagSuffixB022_Ar_A=odlišnosti
 tagSuffixB023_Ar_A=proroka
 tagSuffixB024_Ar_A=masitého hromotluka
@@ -1950,7 +1950,7 @@ tagChestCorpseA01=Hnijící mrtvola
 tagChestRockCairnA01=Kamenitá mohyla
 tagChestStoneAltarC01=Kamenný oltář
 tagChestCocoonA01=Zamotané ostatky
-tagChestSlithAltarC01=Oltář Slithů
+tagChestSlithAltarC01=Oltář slithů
 tagChestStoneMonolithC01=Kamenná truhla
 tagChestStoneSarcophagusC01=Starověký sarkofág
 
@@ -2033,4 +2033,4 @@ tagQuestItemBrothersAmulet=Sesterský amulet životní síly
 tagQuestItemBrothersAmuletDesc=^b"Pro mého drahého bratra: Nechť ti tento amulet dává sílu v boji. -Sybil"
 
 tagQuestItemSlithRing=Slithův prvotní prsten
-tagQuestItemSlithRingDesc=^b"Zápach po prstenu tady přetrvává a zdá se, že jen tak nevyčichne."
+tagQuestItemSlithRingDesc=^b"Zápach po prstenu přetrvává a zdá se, že jen tak nevyčichne."
