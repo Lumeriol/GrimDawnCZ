@@ -652,7 +652,7 @@ tagCharDefensiveAbilityModifier={%+.0f0}% obranné schopnosti
 tagCharDefensiveBlockRecoveryReduction={-%.0f0}% doby obnovení štítu
 tagCharEnergyAbsorptionPercent=={%+.0f0}% absorpce energie z nepřátelských kouzel
 tagCharDodgePercent={%.0f0}% šance se vyhnout útokům zblízka
-tagCharDeflectProjectiles={%.0f0}% ěance se vyhnout projektilům
+tagCharDeflectProjectiles={%.0f0}% šance se vyhnout projektilům
 
 tagCharIncreasedExperience={%+.0f0}% získaných zkušeností
 tagCharLightRadius={%+.0f0}% dosah světla
