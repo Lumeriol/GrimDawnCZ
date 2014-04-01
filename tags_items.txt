@@ -19,7 +19,7 @@ tagWeaponSwordA011=[ms]lamač kostí
 tagWeaponSwordA012=[ms]dobyvatelský meč
 tagWeaponSwordA013=[fs]šavle
 
-tagWeaponSwordB001=$[fs]Salazarova suverénní čepel
+tagWeaponSwordB001=[fs]Salazarova suverénní čepel
 tagWeaponSwordB001Desc=^b"Vykována z Čepele Ch'thona za jeho neochvějnou službu."
 tagWeaponSwordB002=[ms]přízračný široký meč
 tagWeaponSwordB003=[ms]přízračný dlouhý meč
@@ -75,7 +75,7 @@ tagWeaponBluntA010=[ns]žezlo
 
 tagWeaponBluntB000=[ms]pochodeň
 tagWeaponBluntB001=[ms]Wardenův rozsudek
-tagWeaponBluntB001Desc=^b"Není zcela jasné, kolik nevinných lidí přišlo o život na milost a nemilost této zbraně."
+tagWeaponBluntB001Desc=^b"Není zcela jasné, kolik nevinných lidí přišlo o život z milosti a nemilosti této zbraně."
 tagWeaponBluntB002=[ms]Wardenův úsudek
 tagWeaponBluntB003=[ns]zlobrovo mačkadlo hlav
 tagWeaponBluntB004=[ms]zlobrův drtič lebek
@@ -113,7 +113,7 @@ tagWeaponBluntD006=Perlík zpožděného svítání
 
 
 tagWeaponAxeA000=[fs]dřevorubecká sekera
-tagWeaponAxeA001=[fs]kotoučová pila
+tagWeaponAxeA001=[fs]ozubená sekera
 tagWeaponAxeA002=[fs]sekyrka
 tagWeaponAxeA003=[fs]sekera se zdvojeným ostřím
 tagWeaponAxeA004=[ms]sekáček
@@ -121,7 +121,7 @@ tagWeaponAxeA005=[ms]kalač
 tagWeaponAxeA006=[fs]bitevní sekera
 tagWeaponAxeA007=[fs]půlkruhová sekera
 tagWeaponAxeA008=[fs]těžká sekera
-tagWeaponAxeA009=[fs]háková sekera
+tagWeaponAxeA009=[fs]bradatice
 
 tagWeaponAxeB001=[ms]přízračný sekáček
 tagWeaponAxeB002=[fs]přízračná bitevní sekera
@@ -207,7 +207,7 @@ tagWeaponGun2hA001=[fs]předovka
 tagWeaponGun2hA002=[fs]flinta
 tagWeaponGun2hA003=[fs]zaměřovací puška
 tagWeaponGun2hA004=[fs]mušketa
-tagWeaponGun2hA005=[fs]komorová puška
+tagWeaponGun2hA005=[fs]rotační kulovnice
 tagWeaponGun2hA006=[fs]opakovací puška
 tagWeaponGun2hA007=[fs]karabina
 tagWeaponGun2hA008=[fs]zadovka
@@ -224,7 +224,7 @@ tagWeaponGun2hC005=Vůle osudu
 tagWeaponGun2hC005Desc=^b"Každá kulka je předurčena setkat se s jejím pravým terčem."
 tagWeaponGun2hC006=Šarlatový střelec
 tagWeaponGun2hC007=Solná střílna
-tagWeaponGun2hC007Desc=^b"Nesourodě pospojovaná zbraň navržená k likvidaci Aetherijských."
+tagWeaponGun2hC007Desc=^b"Nesourodě pospojovaná zbraň navržená k likvidaci Aetherianů."
 tagWeaponGun2hC008=Nositel hněvu
 tagWeaponGun2hC009=Zahřmění
 tagWeaponGun2hC010=Ostrostřelcova čepová puška
@@ -235,42 +235,42 @@ tagWeaponGun2hD002Desc=^b"Zbraň používaná uctívači čarodějných bohů k 
 tagWeaponGun2hD003=Zplozenec pekla
 tagWeaponGun2hD003Desc=^b"Hlaveň chrlí ven zuřivost sedmi pekel."
 tagWeaponGun2hD004=Vír duší
-tagWeaponGun2hD004Desc=^b"Každá vystřelená rána způsobuje zčeření uvnitř Éteru."
-tagWeaponGun2hD005=Kuchač střev
+tagWeaponGun2hD004Desc=^b"Každá vystřelená rána způsobuje zčeření uvnitř éteru."
+tagWeaponGun2hD005=Trhač střev
 
 
 tagWeaponCrossbow2hA001=[fs]kuše
 tagWeaponCrossbow2hA002=[ms]samostříl
 tagWeaponCrossbow2hA003=[fs]těžká kuše
-tagWeaponCrossbow2hA004=[ms]škorpion
+tagWeaponCrossbow2hA004=[ms]šípomet
 
 tagWeaponCrossbow2hB001=[fs]přízračná kuše
 tagWeaponCrossbow2hB002=[ms]přízračný samostříl
 
-tagWeaponCrossbow2hC001=Boltspitter
-tagWeaponCrossbow2hC001Desc=^b"A prototype weapon. Unfortunately, its inventor was slain before it could be taken to mass production."
-tagWeaponCrossbow2hC002=Malady
-tagWeaponCrossbow2hC003=Curse of Burrwitch
-tagWeaponCrossbow2hC003Desc=^b"An ill-fated weapon with too many past owners to speak of."
-tagWeaponCrossbow2hC004=Blackwood Arbalest
-tagWeaponCrossbow2hC004Desc=^b"Crafted using wood from the forest outside Blackwood Manor."
-tagWeaponCrossbow2hC005=Frigid Quillbreath
-tagWeaponCrossbow2hC006=Stake-Thrower
-tagWeaponCrossbow2hC007=The Arachnid's Embrace
-tagWeaponCrossbow2hC008=Wretched Crow of Bysmiel
-tagWeaponCrossbow2hC008Desc=^b"Symbolic weapon of devout followers of Bysmiel."
+tagWeaponCrossbow2hC001=Šipkomet
+tagWeaponCrossbow2hC001Desc=^b"Prototyp zbraně. Bohužel její vynálezce byl zabit dříve než mohla být zahájena hromadná výroba."
+tagWeaponCrossbow2hC002=Choroba
+tagWeaponCrossbow2hC003=Burrwitchské prokletí
+tagWeaponCrossbow2hC003Desc=^b"Nešťastná zbraň, která promluvila k příliš mnoha bývalým vlastníkům."
+tagWeaponCrossbow2hC004=Černoleský samostříl
+tagWeaponCrossbow2hC004Desc=^b"Vyroben použřitím dřeva z lesa nedaleka Černoleského panství."
+tagWeaponCrossbow2hC005=Mrazem bodající dech
+tagWeaponCrossbow2hC006=Vrhač tyčí
+tagWeaponCrossbow2hC007=Pavoučí objetí
+tagWeaponCrossbow2hC008=Bysmielův mizerný sochor
+tagWeaponCrossbow2hC008Desc=^b"Symbolická zbraň oddaných stoupenců Bysmiela."
 tagWeaponCrossbow2hC009=Ulda'Jax
-tagWeaponCrossbow2hC009Desc=^b"A crude, yet surprisingly effective, weapon of the mountain wilds."
-tagWeaponCrossbow2hC010=Herald's Protector
+tagWeaponCrossbow2hC009Desc=^b"Primitivní, ale překvapivě efektivní zbraň z horské divočiny."
+tagWeaponCrossbow2hC010=Heraldův ochránce
 
-tagWeaponCrossbow2hD001=Silverbolt
-tagWeaponCrossbow2hD001Desc=^b"The weapon of choice for Demon Hunter Edith the Bloodied, Chthonian cultist turned demonslayer."
-tagWeaponCrossbow2hD002=Quillthrower of Dreeg
-tagWeaponCrossbow2hD002Desc=^b"Infused with the very essence of the witch god Dreeg."
-tagWeaponCrossbow2hD003=Dragon of the North
-tagWeaponCrossbow2hD003Desc=^b"The rimeblood dragon of the chilling northern winds."
+tagWeaponCrossbow2hD001=Stříbrný šíp
+tagWeaponCrossbow2hD001Desc=^b"Vybraná zbraň lovkyně démonů Kravé Edith, bývalé Ch'thonské kultistky posedlé zabíjením démonů."
+tagWeaponCrossbow2hD002=Dreegův ostnovrh
+tagWeaponCrossbow2hD002Desc=^b"Nasáknutá samotnou podstatou čarodějnického boha Dreega."
+tagWeaponCrossbow2hD003=Drak ze Severu
+tagWeaponCrossbow2hD003Desc=^b"Chladnokrevný drak z mrazivých severských větrů."
 tagWeaponCrossbow2hD004=Raka'Jax
-tagWeaponCrossbow2hD005=Harbinger of Eternal Suffering
+tagWeaponCrossbow2hD005=Posel věčného utrpení
 
 
 tagWeaponMelee2hA001=[ms]velký meč
@@ -286,43 +286,43 @@ tagWeaponMelee2hA010=[fs]palice
 tagWeaponMelee2hA011=[ms]perlík
 tagWeaponMelee2hA012=[ms]drtič
 
-tagWeaponMelee2hC001=Gutwrench Eviscerator
-tagWeaponMelee2hC002=Massacre
-tagWeaponMelee2hC003=Slithbane
-tagWeaponMelee2hC003Desc=^b"Earned its name for the countless abomination skulls it crushed."
-tagWeaponMelee2hC004=Falcon's Claw
-tagWeaponMelee2hC005=Tremor
-tagWeaponMelee2hC006=The Conduit
-tagWeaponMelee2hC006Desc=^b"A rare success in the experimentation of arcane forging techniques."
-tagWeaponMelee2hC007=Boneshard Lacerator
-tagWeaponMelee2hC008=Golemfist Gavel
-tagWeaponMelee2hC009=Wrathblade
-tagWeaponMelee2hC010=The Farmstead Liberator
-tagWeaponMelee2hC010Desc=^b"A historic weapon from the rebellion of Farmstead, mercilessly crushed by Imperial forces."
-tagWeaponMelee2hC011=Alvarick's Rebuke
-tagWeaponMelee2hC012=Prismatic Eviscerator
-tagWeaponMelee2hC013=Razorleaf Glaive
-tagWeaponMelee2hC013Desc=^b"Forged using ancient techniques now lost to the ages."
-tagWeaponMelee2hC014=Scythe of Tenebris
-tagWeaponMelee2hC014Desc=^b"The Lifestealer of Tenebris, the Blood Drinker."
-tagWeaponMelee2hC015=Warhammer of Heavenly Judgment
-tagWeaponMelee2hC015Desc=^b"Great hammer of Brother Bernard Mellington of the Templar."
-tagWeaponMelee2hC016=Champion of the Light
+tagWeaponMelee2hC001=Vykuchávající škubač střev
+tagWeaponMelee2hC002=Masakr
+tagWeaponMelee2hC003=Zhouba slithů
+tagWeaponMelee2hC003Desc=^b"Svůj název získal pro nespočet rozmlácených ohavných lebek."
+tagWeaponMelee2hC004=Sokolí dráp
+tagWeaponMelee2hC005=Záchvěv
+tagWeaponMelee2hC006=Roura
+tagWeaponMelee2hC006Desc=^b"Vzácný úspěch vzejitý z experimentování s tajemnými kovářskými technikami."
+tagWeaponMelee2hC007=Rozdírač zbytků kostí
+tagWeaponMelee2hC008=Palička z golemovy pěsti
+tagWeaponMelee2hC009=Čepel hněvu
+tagWeaponMelee2hC010=Dvorní osvoboditel
+tagWeaponMelee2hC010Desc=^b"Historická zbraň z povstání usedlostí, nemilosrdně rozdrceného císařskou armádou."
+tagWeaponMelee2hC011=Alvarickovo pokárání
+tagWeaponMelee2hC012=Prizmatický kuchač
+tagWeaponMelee2hC013=Ostrohraná kůsa
+tagWeaponMelee2hC013Desc=^b"Kovaná pomocí starodávné techniky, nyní na věky ztracené."
+tagWeaponMelee2hC014=Kosa z Tenebrisu
+tagWeaponMelee2hC014Desc=^b"Zloděj života z Tenebrisu, oblasti pijanů krve."
+tagWeaponMelee2hC015=Válečné kladivo nebeského soudu
+tagWeaponMelee2hC015Desc=^b"Velké kladivo templářského bratra Bernarda Mellingtona."
+tagWeaponMelee2hC016=Šampion světla
 
-tagWeaponMelee2hD001=Stonefist Rebuke
-tagWeaponMelee2hD002=The Guillotine
-tagWeaponMelee2hD003=Nightshade's Reach
-tagWeaponMelee2hD003Desc=^b"Unorthodox tool of Master of Assassins Belanor. Few Nightblades had ever mastered the art of the greatsword as he had."
-tagWeaponMelee2hD004=Obsidian Juggernaut
-tagWeaponMelee2hD004Desc=^b"Forged within the molten depths of a living volcano."
-tagWeaponMelee2hD005=Infernal Brimstone
-tagWeaponMelee2hD005Desc=^b"Birthed when the blessed spear of Paladin Allister Forgebearer met with the heart of a greater demon."
-tagWeaponMelee2hD006=Stormreaver
-tagWeaponMelee2hD006Desc=^b"Charged over countless lightning storms, this weapon is primed to unleash nature's fury."
-tagWeaponMelee2hD007=Bane of the Winter King
-tagWeaponMelee2hD007Desc=^b"Sacred blade of King Hrothnar, ruler of the northern reaches and son of the great white wolf."
-tagWeaponMelee2hD008=Temporal Arcblade
-tagWeaponMelee2hD009=Wildblood Crusher
+tagWeaponMelee2hD001=Výtka kamennou pěstí
+tagWeaponMelee2hD002=Gilotina
+tagWeaponMelee2hD003=Dosah nočního stínu
+tagWeaponMelee2hD003Desc=^b"Neortodoxní nástroj Belanora - mistra zabijáků . Jen několik Nočních lovců zvládlo umění v zacházení s velkým mečem jako on."
+tagWeaponMelee2hD004=Obsidiánový moloch
+tagWeaponMelee2hD004Desc=^b"Kovaný v rozžhavených hlubinách probuzené sopky."
+tagWeaponMelee2hD005=Pekelná síra
+tagWeaponMelee2hD005Desc=^b"Vznikla, když požehnané kopí paladýna Allistera Forgebearera zasáhlo srdce většího démona."
+tagWeaponMelee2hD006=Zloděj bouří
+tagWeaponMelee2hD006Desc=^b"Nabitá nespočtem bouřek je tato zbraň uzpůsobená k uvolnění přírodní zuživosti."
+tagWeaponMelee2hD007=Zhouba Zimního krále
+tagWeaponMelee2hD007Desc=^b"Posvátná čepel krále Hrothnara, vládce severských držav a syn velkého bílého vlka."
+tagWeaponMelee2hD008=Světská zaoblená čepel
+tagWeaponMelee2hD009=Krvavý drtič
 
 
 tagWeaponArcaneA001=[fs]hrubá hůl
@@ -349,8 +349,8 @@ tagShieldA004=[ms]vysoký štít
 tagShieldA005=[ms]povstalecký štít
 tagShieldA006=[ms]válečný štít
 tagShieldA007=[fs]egida
-tagShieldA008=[ms]kruhový štít
-tagShieldA009=[ms]vypouklý štít
+tagShieldA008=[fs]tarče
+tagShieldA009=[ms]rondaš
 tagShieldA010=[fs]pavéza
 
 tagShieldB001=[fs]Wardenova hradba
@@ -362,27 +362,27 @@ tagShieldB004=[ms]přízračný válečný štít
 tagShieldC001=Obránce Ďáblova průsmyku
 tagShieldC002=Elementum
 tagShieldC002Desc=^b"Požehnaný Menhirskými templáři jako záštita proti elementům."
-tagShieldC003=Guardsman's Defender
-tagShieldC004=Flamebreaker
-tagShieldC005=Devil's Grin
-tagShieldC006=Maw of the Beast
-tagShieldC007=Crest of the Black Legion
-tagShieldC007Desc=^b"Carried by the Black Legion of the Imperial army, also known as the Death's Bannermen."
-tagShieldC008=Lichguard
-tagShieldC009=Dawnshard Bulwark
-tagShieldC009Desc=^b"Forged from the purest shard of soladrin crystal."
-tagShieldC010=Templar's Faith
-tagShieldC011=Shield of Redemption
-tagShieldC012=Oathbreaker's Guard
+tagShieldC003=Gardistův ochránce
+tagShieldC004=Lamač plamenů
+tagShieldC005=Ďáblův úsměv
+tagShieldC006=Chřtán šelmy
+tagShieldC007=Erb Černé legie
+tagShieldC007Desc=^b"Nošen Černou legií císařské armády, téže známé jako Smrtící vlajkonoši."
+tagShieldC008=Lichova stráž
+tagShieldC009=Záštita úlomku světla
+tagShieldC009Desc=^b"Kovaná z nejčistšího úlomku soladrinského křišťálu."
+tagShieldC010=Templářova důvěra
+tagShieldC011=Štít vykoupení
+tagShieldC012=Chránič porušené přísahy
 
-tagShieldD001=Meat Shield
-tagShieldD001Desc=^b"Necromantic shield molded from the chest cavity of an unfortunate peasant."
-tagShieldD002=The Final Stop
-tagShieldD002Desc=^b"Forged by railyard workers during a desparate battle against the rising Chthonian forces."
-tagShieldD003=The Untouchable
-tagShieldD004=Will of the Living
-tagShieldD004Desc=^b"Formerly  the King's Crest, this shield was reborn in Chthonian flame as a paragon of mankind."
-tagShieldD005=Dawnbreaker's Duty
+tagShieldD001=Štít z masa
+tagShieldD001Desc=^b"Necromantický štít vytvarovaný z hrudní dutiny nešťastného rolníka."
+tagShieldD002=Konečná zastávka
+tagShieldD002Desc=^b"Kovaný staviteli železnice během v zoufalém boji s rozrůstající se Ch'thonskou armádou."
+tagShieldD003=Nedotknutelný
+tagShieldD004=Budoucnost Živých
+tagShieldD004Desc=^b"Dříve Králův erb byl tento štít znovuzrozen v Ch'thonských plamenech jako ideál lidského druhu."
+tagShieldD005=Zaniklá povinnost
 
 
 tagQualityShieldA01=[ms]nesourodý[fs]nesourodá[ns]nesourodé[mp]nesourodé[fp]nesourodé[np]nesourodé
@@ -434,17 +434,17 @@ tagFocusC010Desc=^b"Písmo kdysi donesené Menhirskými zbožnými rytíři."
 tagFocusC011=Nokturnis
 tagFocusC012=Vědoucí koule úmluvy
 
-tagFocusD001=Fiend's Resolve
-tagFocusD002=Aldanar's Vanity
-tagFocusD003=Codex of Lies
-tagFocusD003Desc=^b"Forbidden texts of the witch god Solael, as recorded by Cabalist Hester Maughan."
-tagFocusD004=Tome of Names
-tagFocusD004Desc=^b"This book contains the names of every mortal that ever was and ever will be."
-tagFocusD005=Blood Orb of Cht'thon
-tagFocusD005Desc=^b"Fanatical cabalists swear that a drop of their ancient god's blood is contained within this orb."
-tagFocusD006=Speaker for the Dead
-tagFocusD006Desc=^b"A compilation of poems and religious texts intended for burial rites."
-tagFocusD007=Archmage's Codex
+tagFocusD001=Ďáblovo odhodlání
+tagFocusD002=Aldanarova ješitnost
+tagFocusD003=Kodex lží
+tagFocusD003Desc=^b"Zakázané texty čarodějnického boha Solaela, zaznamenané kabalistou Hesterem Maughanem."
+tagFocusD004=Tlustopis jmen
+tagFocusD004Desc=^b"Tato kniha obsahuje jména všech smrtelníků. Bývalých i těch budoucích."
+tagFocusD005=Krvavá koule Ch'thona
+tagFocusD005Desc=^b"Fanatičtí kabalisté přísahali, že v této kouli je obsažena kapka krve jejich starověkého boha."
+tagFocusD006=Mluvčí mrtvých
+tagFocusD006Desc=^b"Sbírka básní a náboženských textů určených k pohřebním obřadům."
+tagFocusD007=Arcimágův kodex
 
 
 #WEAPON_QUALITY
@@ -507,7 +507,7 @@ tagStyle023=[ms]nesourodý[fs]nesourodá[ns]nesourodé[mp]nesourodé[fp]nesourod
 tagStyle024=[ms]roztřískaný[fs]roztřískaná[ns]roztřískané[mp]roztřískané[fp]roztřískané[np]roztřískané
 tagStyle025=[ms]řetízkový[fs]řetízková[ns]řetízkové[mp]řetízkové[fp]řetízkové[np]řetízkové
 tagStyle026=[ms]kroužkový[fs]kroužková[ns]kroužkové[mp]kroužkové[fp]kroužkové[np]kroužkové
-tagStyle027=[ms]plátový[fs]plátová[ns]plátové[mp]plátové[fp]plátové[np]plátové
+tagStyle027=[ms]šupinový[fs]šupinová[ns]šupinové[mp]šupinové[fp]šupinové[np]šupinové
 tagStyle028=[ms]bronzový[fs]bronzová[ns]bronzové[mp]bronzové[fp]bronzové[np]bronzové
 tagStyle029=[ms]ocelový[fs]ocelová[ns]ocelové[mp]ocelové[fp]ocelové[np]ocelové
 tagStyle030=[ms]plechový[fs]plechová[ns]plechové[mp]plechové[fp]plechové[np]plechové
@@ -533,7 +533,7 @@ tagHeadA004=[fs]maska
 tagHeadA005=[fs]čapka
 tagHeadA006=[fs]rytířská helma
 tagHeadA007=[fs]přilbice
-tagHeadA008=[ms]klobouk
+tagHeadA008=[ms]kapalec
 tagHeadA009=[ms]kšilt
 tagHeadA010=[fs]kápě
 tagHeadA011=[fs]kapuce
@@ -650,12 +650,12 @@ tagTorsoA002L=[fs]uniforma
 tagTorsoA003L=[ms]kyrys
 tagTorsoA004L=[fs]drátěná košile
 tagTorsoA005H=[fs]zbroj
-tagTorsoA006H=[fs]pláštěnka
+tagTorsoA006H=[ms]spalníř
 tagTorsoA007H=[ms]plášť
 tagTorsoA008H=[fs]kroužková zbroj
 tagTorsoA009H=[fs]plátová zbroj
 tagTorsoA010M=[ms]kabátec
-tagTorsoA011M=[ms]hrudní plát
+tagTorsoA011M=[ms]prsní plát
 tagTorsoA012M=[ms]hrudní chránič
 tagTorsoA013M=[ms]postroj
 tagTorsoA014C=[fs]tunika
@@ -755,10 +755,10 @@ tagWaistD009=Opasek divoké krve
 
 #ArmorHands
 
-tagHandsA001=[mp]návleky
-tagHandsA002=[fp]rukavice
+tagHandsA001=[fp]prstové rukavice
+tagHandsA002=[fp]dlouhé rukavice
 tagHandsA003=[fp]rytířské rukavice
-tagHandsA004=[mp]palčáky
+tagHandsA004=[fp]pěstnice
 tagHandsA005=[mp]chrániče rukou
 
 tagHandsC001=Shadow's Grasp
@@ -798,7 +798,7 @@ tagHandsD009=Archmage's Handwraps
 
 tagLegsA001=[mp]spodky
 tagLegsA002=[fp]kamaše
-tagLegsA003=[fp]omotaniny
+tagLegsA003=[fp]hnátnice
 tagLegsA004=[fp]kalhoty
 tagLegsA005=[fp]nohavice
 tagLegsA006=[mp]náholeníky
@@ -834,7 +834,7 @@ tagLegsD008=Archmage's Leggings
 
 
 #ArmorFeet
-
+# žehličky
 tagFeetA001=[fp]žabky
 tagFeetA002=[fp]boty
 tagFeetA003=[fp]pohorky
@@ -1267,7 +1267,7 @@ tagCompA006Name=Mutagenní krev bohů
 tagCompA006Desc=^b"Discharge from the creatures of Cairn infected with otherwordly energies."^w^n(Used in all weapons, shields and off-hands)
 
 tagCompA007Name=Shnilé srdce
-tagCompA007Desc=^b"A long silenced heart shriveled with necromantic power."^w^n(Used in chest armor)
+tagCompA007Desc=^b"A long silenced heart shriveled with necromantic power."^w^n(Může vylepšit hrudní zbroj)
 
 tagCompA008Name=Zmutované šupiny
 tagCompA008Desc=^b"Neobvykle silné a těžké šupiny zmutované působením Éterické energie."^w^n(Used in chest and shoulder armor)
@@ -1357,7 +1357,7 @@ tagCompA036Name=Nepokojné ostatky
 tagCompA036Desc=^b"The remains of a tortured being denied its rightful peace."^w^n(Used in hand armor)
 
 tagCompA037Name=Hustá srst
-tagCompA037Desc=^b"A dense coat of fur perfect for harsh winter conditions."^w^n(Used in all armor)
+tagCompA037Desc=^b"A dense coat of fur perfect for harsh winter conditions."^w^n(Může vylepšit všechny druhy zbroje)
 
 tagCompA038Name=Zoubkovaný hrot
 tagCompA038Desc=^b"A flimsy but extremely sharp spike from a beast."^w^n(Used in all weapons, shields and off-hands)
@@ -1374,11 +1374,11 @@ tagCompA041Desc=^b"Po jeho povrchu poskakují jisrky energie."^w^n(Může vylep�
 tagCompA042Name=Odštípnutý dráp
 tagCompA042Desc=^b"A claw from a ruthless predator that finally met its match."^w^n(Used in all weapons, shields and off-hands)
 
-tagCompA043Name=Zmršené plátování
+tagCompA043Name=Otřískané plátování
 tagCompA043Desc=^b"Plátování ze zbroje, která už zažila lepší časy."^w^n(Může vylepšit všechny zbroje)
 
 tagCompA044Name=Zježená srst
-tagCompA044Desc=^b"A thick patch of fur from an unnatural beast."^w^n(Used in all armor)
+tagCompA044Desc=^b"A thick patch of fur from an unnatural beast."^w^n(Může vylepšit všechny druhy zbroje)
 
 tagCompA045Name=Odolné plátování
 tagCompA045Desc=^b"A plate of armor that's survived countless battles and looks fit to survive many more."^w^n(Used in shields, off-hands, chest and shoulder armor)
@@ -1433,7 +1433,7 @@ tagCompA061Desc=^b"Kyselá žluč z obzvláště toxických nestvůr."^w^n(Můž
 
 
 tagCompB001Name=^kBysmielova vazba
-tagCompB001Desc=^b"Spellwoven bindings used by the coven of Bysmiel to strengthen control over summoned beings."^w^n(Used in chest armor)
+tagCompB001Desc=^b"Spellwoven bindings used by the coven of Bysmiel to strengthen control over summoned beings."^w^n(Může vylepšit hrudní zbroj)
 
 tagCompB002Name=^kOleronské řetězy
 tagCompB002Desc=^b"Rozbité řetězy kdysi obsahovaly zuřivost Oleronského božstva."^w^n(Může vylepšit hrudní zbroj.)
