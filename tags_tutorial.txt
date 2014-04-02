@@ -135,5 +135,5 @@ tagTutorialTip43TextA=Plánky jsou zapomenuté šablony pro vytváření mocnýc
 tagTutorialTip43TextB=Aby ses naučil plánku, klikni na něj pravým tlačítkem myši. Pokud tento plánek ještě neznáš, bude přidán na seznam předmětů u kováře.{^n}{^n}Plánky pak zná každý kovář, ať už hraješ za jakoukoliv postavu (odděluje se pouze normální a hardcore hra). Každý plánek se tak musíš učit nanejvýše jednou.
 
 tagTutorialTip44Title=Ztracený kovář! (není v tomto sestavení hry)
-tagTutorialTip44TextA=Naučil ses novému plánku, ale nemáš kováře schopného pro tebe daný předmě vytvořitt.{^n}{^n}Než budeš moci vytvářet předměty, budeš muset nejdříve najít kováře.{^n}{^n}Kovář bude vědět, jak okamžitě vytvořit tento předmět podle plánku.
+tagTutorialTip44TextA=Naučil ses novému plánku, ale nemáš kováře schopného pro tebe daný předmět vytvořit.{^n}{^n}Než budeš moci vytvářet předměty, budeš muset nejdříve najít kováře.{^n}{^n}Kovář bude okamžitě vědět, jak tento předmět podle plánku vytvořit.
 tagTutorialTip44TextB=
