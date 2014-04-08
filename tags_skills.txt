@@ -16,7 +16,7 @@ tagSkillClassName0106=
 tagSkillClassName0107=
 tagSkillClassName0108=
 tagSkillClassName0109=
-tagSkillClassName0203=Pyromancer
+tagSkillClassName0203=Pyromant
 tagSkillClassName0204=Sabotér
 tagSkillClassName0205=Obchodník se smrtí
 tagSkillClassName0206=
@@ -46,7 +46,7 @@ tagSkillClassName0709=
 tagSkillClassName0809=
 
 
-tagSkillClassDescription01=Vojáci císařské armády byli trénování k přežití v nejhorších podmínkách a udrželi linii před nejnebezpečnějšími nepřáteli říše. Vojáci upřednosňují používání zbraní na blízko jako jsou meče a štíty, ale mohou se také uplatnit jako střelci ze zálohy. Co může vojákovi chybět v jeho přímém úderu a zranění, to může nabídnout svou statečností a vedením.
+tagSkillClassDescription01=Vojáci císařské armády byli trénováni k přežití v těch nejhorších podmínkách a udrželi linii před těmi nejnebezpečnějšími nepřáteli říše. Vojáci upřednosňují používání zbraní na blízko jako jsou meče a štíty, ale mohou se také uplatnit jako střelci ze zálohy. Co může vojákovi chybět v množství jím uděleného poškození, to doplní svou statečností a vedením.
 
 tagSkillClassDescription02=Pyrotechničtí mistři císařské armády. Ničitelé jsou částečně inženýři a částečně kouzelníci. Byli využíváni k prolomení nepřátelských pozic a opevnění za pomoci jejich zničující výbavy různých výbušnin a destruktivní magie. Obvykle dávali přednost boji na dálku; útočili na nepřátele střelnými zbraněmi, pastmi a výbušninami. Samozřejmě jsou také schopni použít zbraň na blízko.
 
@@ -54,7 +54,7 @@ tagSkillClassDescription03=Poté, co byli pronásledováni císařskými vojsky 
 
 tagSkillClassDescription04=Noční lovci byli tajní bojovníci, kteří nabízeli své služby velkým rodům v říši. Noční lovci vynikají v boji se všemi druhy bojových zbraní, ale největší obavy vzbuzují smrtící magické nože, jež jsou jejich obchodním tajemstvím. Noční lovci nejsou přizpůsobeni k tělesnému kontaktu s odolnějším nepřítelem a raději se spoléhají na svou iluzi o rychlém a zničujícím přepadení, nebo na boj z určité vzdálenosti s jejich přízračnými noži.
 
-tagSkillClassDescription05=Pro Pány temnot není tajemství magie nšjaká nevysvětlitelná záhada nebo vůle bohů, ale věda, která chce být odtajněna. Tato snaha o poznání žene všechny Pány temnoty dychtivě dál za objevováním nových způsobů, které by si mohli osvojit. Pán temnot vychyluje Éterickou a živelnou energii podle své vůle, čímž tvoří ničivou demonstraci síly, kterou může použít na malé armády. Nicméně je především využívá na sovu obranu.
+tagSkillClassDescription05=Pro Pány temnot není tajemství magie nějaká nevysvětlitelná záhada nebo vůle bohů, ale věda, která chce být odtajněna. Tato snaha o poznání žene všechny Pány temnoty dychtivě dál za objevováním nových způsobů, které by si mohli osvojit. Pán temnot vychyluje Éterickou a živelnou energii podle své vůle, čímž tvoří ničivou demonstraci síly, kterou může použít na malé armády. Nicméně tahle hrubá síla znamená chabou obranu.
 
 tagSkillClassDescription06=
 
@@ -82,41 +82,41 @@ tagClass01SkillDescription00A=Velká fyzická kondice je nutná, aby voják dok�
 tagClass01SkillName01A=Rychlý útok
 tagClass01SkillDescription01A=Využití povahy zbraně v boji dodá tvému útoku přirozený spád se všemi jeho klady i zápory, které, ačkoliv jsou předvídatelné, jsou neméně účinné a těžce se jim čelí. Pokud jej využiješ jako výchozí typ útoku, zvýší Rychlost útoku sílu každého třetího úderu.
 tagClass01SkillName01B=Bojová formace
-tagClass01SkillDescription01B=Běsnění tvé zbraně se odráží na protivníkovi a způsobuje mu těžké krvácení. ^oSe zbraněmi na blízko způsobí odraz Rychlosti útoku další udeření blízkých nepřátel.
+tagClass01SkillDescription01B=Běsnění tvé zbraně se odráží na protivníkovi a způsobuje mu těžké krvácení. ^oSe zbraněmi na blízko způsobí odraz Rychlosti útoku další udeření nepřátel v blízkosti.
 tagClass01SkillName01C=Smrtící pohyb
 tagClass01SkillDescription01C=Rychlost útoku udeří ohromnou silou a dává každému Rychlému útoku šanci zasadit další bolestivé rány.
 
 tagClass01SkillName02A=Tlaková vlna
 tagClass01SkillDescription02A=Do útoku je dána taková síla, že stlačuje samotný vzduch a vyvolává vlnu energie, která omráčí a zraní protivníka.  ^oTento druh útoku vyžaduje štít.
 tagClass01SkillName02B=Drásající síla
-tagClass01SkillDescription02B=Forcewave shatters enemy armor, making them more susceptible to physical attacks.
+tagClass01SkillDescription02B=Tlaková vlna roztřese protivníkovo brnění, což ho činí citlivějšího vůči fyzickým útokům.
 tagClass01SkillName02C=Vnitřní trauma
-tagClass01SkillDescription02C=Forcewave shatters bones and ruptures organs, causing profuse internal and external bleeding.
+tagClass01SkillDescription02C=Tlaková vlna tříští kosti a trhá orgány, což způsobuje velké vnitřní a běžné krvácení.
 
 tagClass01SkillName03A=Prudký útok
-tagClass01SkillDescription03A=Charge forth into the fray with devastating momentum, taking your enemies by surprise. ^oRequires a melee weapon.
+tagClass01SkillDescription03A=Vyraž do boje s drtivou otočkou a nepřátele překvapivě zasáhni. ^oVyžaduje chladnou zbraň.
 tagClass01SkillName03B=Ohromení
-tagClass01SkillDescription03B=The suddenness and ferocity of your attack puts enemies off-balance, reducing their combat prowess.
+tagClass01SkillDescription03B=Neočekávanost a zuřivost tvého útoku rozhodí tvé nepřátele, což sníží jejich odvahu bojovat.
 
 tagClass01SkillName04A=Válečný pokřik
-tagClass01SkillDescription04A=A blood-chilling war cry weakens the resolve of your foes and disrupts their focus.
+tagClass01SkillDescription04A=Válečný pokřik, po kterém tuhle krev v žilách, oslabí odhodlání tvých nepřátel a naruší jejich soustředění.
 tagClass01SkillName04B=Zlomení morálky
-tagClass01SkillDescription04B=War Cry shatters enemy morale, rendering them powerless against you.
+tagClass01SkillDescription04B=Válečný pokřik ochromí morálku nepřítele, což způsobuje bezmocnost vůči tvé osobě.
 
 tagClass01SkillName05A=Obloukový útok
-tagClass01SkillDescription05A=An arched swing that slices through multiple enemies around you. ^oRequires a melee weapon.
+tagClass01SkillDescription05A=Obloukový švih, který projde i skrze více nepřátel kolem tebe. ^oVyžaduje chladnou zbraň.
 tagClass01SkillName05B=Rozdrásání
-tagClass01SkillDescription05B=Expert technique causes Blade Arc to strike more enemies and to tear them open, causing bleeding.
+tagClass01SkillDescription05B=Specializovaná technika způsobí, že Rozdrásání udeří více nepřátel a rozerveje, což způsobí krvácení.
 
 tagClass01SkillName06A=Markoviánská výhoda
-tagClass01SkillDescription06A=The renowned tactician Markovian always maneuvered to strike from the higher ground.  This classic attack, inspired by Markovian's battlefield tactics, features a powerful downward strike to throw enemies off balance, weakening their defenses.
+tagClass01SkillDescription06A=Věhlasný taktik Markovian vždy útočil z vyšších poloh. Tento klasický útok, inspirovaný Markoviánskými bitevními taktikami, představuje velmi silný, dolů směřující úder, což rozhodí tvé nepřátele a oslabí jejich obranu.
 tagClass01SkillName06B=Zolhanova technika
-tagClass01SkillDescription06B=Named for the famed fighting master, this attack uses a low center of mass and powerful thrust to imbalance your opponents.
+tagClass01SkillDescription06B=Po známém bojovém mistrovi pojmenovaný útok využívá nízké těžiště a silný úder, aby rozhodil tvé protivníky.
 
 tagClass01SkillName07A=Bojový duch
 tagClass01SkillDescription07A=Far from beating you into submission, the sting of enemy blows rouses your anger instead, adding extra force to your attacks.
 tagClass01SkillName08A=Menhirova vůle
-tagClass01SkillDescription08A=As you draw close to death, the unyielding will of Menhir fills you with renewed strength. ^oRequires a shield.
+tagClass01SkillDescription08A=As you draw close to death, the unyielding will of Menhir fills you with renewed strength. ^oVyžaduje štít.
 
 tagClass01SkillName09A=Polní velení
 tagClass01SkillDescription09A=A superior sense of discipline and knowledge of battlefield tactics makes you a natural leader in the heat of battle.
@@ -131,13 +131,13 @@ tagClass01SkillName12A=Vyznamenaný voják
 tagClass01SkillDescription12A=An ability to remain calm and think clearly in the heat of battle enables veterans to more easily spot the gaps in an enemy's defense, or predict the flow of their attacks so that they can be easily countered.
 
 tagClass01SkillName13A=Menhirův val
-tagClass01SkillDescription13A=Call out to the earth deity, Menhir. Menhir is an ancient aspect that blesses his followers with the tenacity of the very earth. ^oRequires a shield.
+tagClass01SkillDescription13A=Call out to the earth deity, Menhir. Menhir is an ancient aspect that blesses his followers with the tenacity of the very earth. ^oVyžaduje štít.
 
 tagClass01SkillName14A=Oleronův vztek
 tagClass01SkillDescription14A=Call out to the war deity, Oleron. Oleron is an ancient aspect that inspires unwavering ferocity in his followers.
 
 tagClass01SkillName15A=Zaštítování
-tagClass01SkillDescription15A=Assume a defensive stance that greatly boosts your combat awareness. You can only maintain this focus for a short duration. ^oRequires a shield.
+tagClass01SkillDescription15A=Assume a defensive stance that greatly boosts your combat awareness. You can only maintain this focus for a short duration. ^oVyžaduje štít.
 
 tagClass01SkillName16=Jizvy z bitvy
 tagClass01SkillDescription16=Přes nespočet násilných střetů jsi viděl tu nejhorší bitvu, která mohla kdy být. Hrůzy války už nezabrání tvým akcícm a ani ti nebude vadit trocha prolité krve.
@@ -346,7 +346,7 @@ tagClass04SkillName01C=Spodní hrana
 tagClass04SkillDescription01C=Empowers the Phantom Blade with dark magic, a loathsome technique used only in the most dire circumstances.
 
 tagClass04SkillName02A=Úder ze stínu
-tagClass04SkillDescription02A=A cunning combination of illusion and mental deflection allows you to seemingly vanish and reappear above your victim like a nightmarish specter. ^oRequires a melee weapon.
+tagClass04SkillDescription02A=A cunning combination of illusion and mental deflection allows you to seemingly vanish and reappear above your victim like a nightmarish specter. ^oVyžaduje chladnou zbraň.
 tagClass04SkillName02B=Nidallin ospravedlňující konec
 tagClass04SkillDescription02B=As a practitioner of poisons, found unsavory by most Nightblades, Nidalla maintained that the ends justified the means. This toxic twist on the traditional Shadow Strike will ensure the end of any foe that survives the initial attack.
 tagClass04SkillName02C=Soumrak
@@ -906,7 +906,7 @@ tagItemSkillC073Name=Mind Control
 tagItemSkillC073Desc=Mesmerizes the target, making them confuse friend with foe.
 
 tagItemSkillC074Name=Guardian's Will
-tagItemSkillC074Desc=Your stubborn will to live can save you even from the jaws of death itself. ^oRequires a shield.
+tagItemSkillC074Desc=Your stubborn will to live can save you even from the jaws of death itself. ^oVyžaduje štít.
 
 tagItemSkillC075Name=Marauder's Fury
 tagItemSkillC075Desc=Unleashes a salvo of fire-infused ammunition. ^oEnables the ability to dual wield ranged weapons.
