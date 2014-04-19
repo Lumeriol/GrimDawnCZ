@@ -114,59 +114,59 @@ tagClass01SkillName06B=Zolhanova technika
 tagClass01SkillDescription06B=Po známém bojovém mistrovi pojmenovaný útok využívá nízké těžiště a silný úder, aby rozhodil tvé protivníky.
 
 tagClass01SkillName07A=Bojový duch
-tagClass01SkillDescription07A=Far from beating you into submission, the sting of enemy blows rouses your anger instead, adding extra force to your attacks.
+tagClass01SkillDescription07A=Místo toho, aby tě nepřátelské zásahy donutily k rezignaci umocňují tvůj hněv, což dodává tvým útokům extra sílu.
 tagClass01SkillName08A=Menhirova vůle
-tagClass01SkillDescription08A=As you draw close to death, the unyielding will of Menhir fills you with renewed strength. ^oVyžaduje štít.
+tagClass01SkillDescription08A=Když se blíží tvá smrt, nepoddajná Mehrinova vůle tě naplní a obnoví tvé síly. ^oVyžaduje štít.
 
 tagClass01SkillName09A=Polní velení
-tagClass01SkillDescription09A=A superior sense of discipline and knowledge of battlefield tactics makes you a natural leader in the heat of battle.
+tagClass01SkillDescription09A=Vyšší cit pro disciplínu a znalost bojové taktiky z tebe v žáru bitvy činí rozeného vůdce.
 tagClass01SkillName09B=Taktika družstva
-tagClass01SkillDescription09B=Inspires your allies to perform to the very best of their abilities.
+tagClass01SkillDescription09B=Inspiruje tvé spojence, aby předvedli to nejlepší z jejich schopností.
 
 tagClass01SkillName10A=Vojenská podmíněnost
-tagClass01SkillDescription10A=Heavily regimented military training strengthens and fortifies the body against the hardships of war.
+tagClass01SkillDescription10A=Velké množství vojenských výcviků chrání tvé tělo vůči válečným strastem.
 tagClass01SkillName11A=Veteránství
-tagClass01SkillDescription11A=Experience in some of the toughest theatres of the colonial wars has given you the ability to survive ordeals that would be fatal to others.
+tagClass01SkillDescription11A=Zkušenosti na těch nejtvrdších dějištích koloniálních válek ti dává možnost přežít utrpení, která by pro ostatní byla smrtelná.
 tagClass01SkillName12A=Vyznamenaný voják
-tagClass01SkillDescription12A=An ability to remain calm and think clearly in the heat of battle enables veterans to more easily spot the gaps in an enemy's defense, or predict the flow of their attacks so that they can be easily countered.
+tagClass01SkillDescription12A=Schopnost zůstat klidný a jasně přemýšlet uprostřed žáru bitvy umožňuje veteránům snadněji zjistit slabiny v nepřátelské obraně či předpovídat dráhu jejich útoku a tak se dají snadno vykrýt.
 
 tagClass01SkillName13A=Menhirův val
-tagClass01SkillDescription13A=Call out to the earth deity, Menhir. Menhir is an ancient aspect that blesses his followers with the tenacity of the very earth. ^oVyžaduje štít.
+tagClass01SkillDescription13A=Odvolej se na pozemského boha, Menhira. Menhir je pradávný aspekt, který žehná jeho následovníkům houževnatostí samotné země. ^oVyžaduje štít.
 
 tagClass01SkillName14A=Oleronův vztek
-tagClass01SkillDescription14A=Call out to the war deity, Oleron. Oleron is an ancient aspect that inspires unwavering ferocity in his followers.
+tagClass01SkillDescription14A=Odvolej se na pozemského boha, Olerona. Oleron je pradávný aspekt, který inspiruje jeho následnovníky urputnou zuřivostí.
 
 tagClass01SkillName15A=Zaštítování
-tagClass01SkillDescription15A=Assume a defensive stance that greatly boosts your combat awareness. You can only maintain this focus for a short duration. ^oVyžaduje štít.
+tagClass01SkillDescription15A=Zaujme defenzivní postoj, který vysoce zvýší tvé bojové vnímání. Tento postoj můžeš zaujmout jen na krátkou chvíli. ^oVyžaduje štít.
 
 tagClass01SkillName16=Jizvy z bitvy
-tagClass01SkillDescription16=Přes nespočet násilných střetů jsi viděl tu nejhorší bitvu, která mohla kdy být. Hrůzy války už nezabrání tvým akcícm a ani ti nebude vadit trocha prolité krve.
+tagClass01SkillDescription16=Přes nespočet násilných střetů jsi viděl tu nejhorší bitvu, která mohla kdy být. Hrůzy války už nezabrání tvým akcím a ani ti nebude vadit trocha prolité krve.
 
 tagClass01SkillName17=Protiúder
-tagClass01SkillDescription17=Enter a state of intense readiness in order to unleash lightning-fast counter strikes against your attackers.
-
+tagClass01SkillDescription17=Vstup do stavu intenzivní připravenosti, abys uvolnil množství bleskově rychlých protiútoků proti tvému nepříteli.
 
 tagClass01SkillName09C=Držení linie
-tagClass01SkillDescription09C=Strong leadership helps maintain morale and fighting order in combat allowing you and your allies to prevail in situations that would normally be hopeless.
+tagClass01SkillDescription09C=Silná schopnost vést udržuje morálku a bojový řád, což ti umožňuje převládat v situacích, které by za normálních podmínek byly beznadějné.
+
 tagClass01SkillName05C=Smrtící otočka
-tagClass01SkillDescription05C=Greatly magnifies the power of Blade Arc and increases the number of targets hit.
+tagClass01SkillDescription05C=Výrazně umocňuje sílu Obloukového útoku a zvyšuje počet zasažených cílů.
 
 
 
 #Class02
 
 tagClass02SkillName00A=Ničitel
-tagClass02SkillDescription00A=Odbornost v kombinaci vědy a magie dokáže rozpoutat ohnivé peklo na bitevním poli.
+tagClass02SkillDescription00A=Odbornost v kombinaci vědy a magie dokáže rozpoutat na bitevním poli ohnivé peklo.
 
 tagClass02SkillName01A=Granát
-tagClass02SkillDescription01A=Granát je poměrně nový vynález, který se rychle uchytil v bojovém poli a dorovnal tak poměr mezi využitím kouzelnými schopnostmi a konvenčními zbraněmi.
+tagClass02SkillDescription01A=Granát je poměrně nový vynález, který se rychle uchytil v bojovém poli a dorovnal tak poměr mezi využitím kouzelných schopností a konvenčních zbraní.
 tagClass02SkillName01B=Vysoký účinek
 tagClass02SkillDescription01B=Vylepšený koncept klasického Granátu způsobí, že vybuchne v rámci působení silného žáru, jež dává šanci zasadit zničující fyzickou újmu.
 tagClass02SkillName01C=Granát nebeského ohně
 tagClass02SkillDescription01C=Pokud exploze nepříteli nestačí, tahle alchymistická úprava chemického složení Granátu rozpoutá smršť elektrické energie, dokud znovu nevybuchne.
 
 tagClass02SkillName02A=Třesk blesku
-tagClass02SkillDescription02A=A blinding light temporarily confuses enemies and disrupts their ability to defend themselves.
+tagClass02SkillDescription02A=Oslepující světlo dočasně ochromí nepřátele a přeruší jejich schopnost se bránit.
 tagClass02SkillName02B=Spalující světlo
 tagClass02SkillDescription02B=After-images burnt into enemy's retina reduce their ability to land attacks.
 
