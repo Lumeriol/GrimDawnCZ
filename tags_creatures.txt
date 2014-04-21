@@ -137,7 +137,7 @@ tagGhostBoss04=Rhovena Kur
 
 #CreatureGolem
 
-tagEnemyGolemRockA01=Hliněný looudal
+tagEnemyGolemRockA01=Hliněný loudal
 tagEnemyGolemRockB01=Mechem obrostlý loudal
 tagEnemyGolemRockC01=Kamenem tepaný loudal
 tagEnemyGolemRockMiniBoss01=Starodávný loudal

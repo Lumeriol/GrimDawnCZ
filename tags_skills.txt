@@ -84,14 +84,14 @@ tagClass01SkillDescription01A=Využití povahy zbraně v boji dodá tvému útok
 tagClass01SkillName01B=Bojová formace
 tagClass01SkillDescription01B=Běsnění tvé zbraně se odráží na protivníkovi a způsobuje mu těžké krvácení. ^oSe zbraněmi na blízko způsobí odraz Rychlosti útoku další udeření nepřátel v blízkosti.
 tagClass01SkillName01C=Smrtící pohyb
-tagClass01SkillDescription01C=Rychlost útoku udeří ohromnou silou a dává každému Rychlému útoku šanci zasadit další bolestivé rány.
+tagClass01SkillDescription01C=Rychlý útok udeří ohromnou silou a dává každému Rychlému útoku šanci zasadit další bolestivé rány.
 
 tagClass01SkillName02A=Tlaková vlna
 tagClass01SkillDescription02A=Do útoku je dána taková síla, že stlačuje samotný vzduch a vyvolává vlnu energie, která omráčí a zraní protivníka.  ^oTento druh útoku vyžaduje štít.
 tagClass01SkillName02B=Drásající síla
 tagClass01SkillDescription02B=Tlaková vlna roztřese protivníkovo brnění, což ho činí citlivějšího vůči fyzickým útokům.
 tagClass01SkillName02C=Vnitřní trauma
-tagClass01SkillDescription02C=Tlaková vlna tříští kosti a trhá orgány, což způsobuje velké vnitřní a běžné krvácení.
+tagClass01SkillDescription02C=Tlaková vlna tříští kosti a trhá orgány, což způsobuje velké vnitřní a vnější krvácení.
 
 tagClass01SkillName03A=Prudký útok
 tagClass01SkillDescription03A=Vyraž do boje s drtivou otočkou a nepřátele překvapivě zasáhni. ^oVyžaduje chladnou zbraň.
@@ -99,14 +99,14 @@ tagClass01SkillName03B=Ohromení
 tagClass01SkillDescription03B=Neočekávanost a zuřivost tvého útoku rozhodí tvé nepřátele, což sníží jejich odvahu bojovat.
 
 tagClass01SkillName04A=Válečný pokřik
-tagClass01SkillDescription04A=Válečný pokřik, po kterém tuhle krev v žilách, oslabí odhodlání tvých nepřátel a naruší jejich soustředění.
+tagClass01SkillDescription04A=Válečný pokřik, po kterém tuhne krev v žilách, oslabí odhodlání tvých nepřátel a naruší jejich soustředění.
 tagClass01SkillName04B=Zlomení morálky
 tagClass01SkillDescription04B=Válečný pokřik ochromí morálku nepřítele, což způsobuje bezmocnost vůči tvé osobě.
 
 tagClass01SkillName05A=Obloukový útok
 tagClass01SkillDescription05A=Obloukový švih, který projde i skrze více nepřátel kolem tebe. ^oVyžaduje chladnou zbraň.
 tagClass01SkillName05B=Rozdrásání
-tagClass01SkillDescription05B=Specializovaná technika způsobí, že Rozdrásání udeří více nepřátel a rozerveje, což způsobí krvácení.
+tagClass01SkillDescription05B=Specializovaná technika způsobí, že Rozdrásání udeří více nepřátel a rozerve je, což způsobí krvácení.
 
 tagClass01SkillName06A=Markoviánská výhoda
 tagClass01SkillDescription06A=Věhlasný taktik Markovian vždy útočil z vyšších poloh. Tento klasický útok, inspirovaný Markoviánskými bitevními taktikami, představuje velmi silný, dolů směřující úder, což rozhodí tvé nepřátele a oslabí jejich obranu.
@@ -159,48 +159,48 @@ tagClass02SkillName00A=Ničitel
 tagClass02SkillDescription00A=Odbornost v kombinaci vědy a magie dokáže rozpoutat na bitevním poli ohnivé peklo.
 
 tagClass02SkillName01A=Granát
-tagClass02SkillDescription01A=Granát je poměrně nový vynález, který se rychle uchytil v bojovém poli a dorovnal tak poměr mezi využitím kouzelných schopností a konvenčních zbraní.
+tagClass02SkillDescription01A=Granát je poměrně nový vynález, který se na bojišti rychle uchytil a dorovnal tak poměr mezi využitím čarovných schopností a konvenčních zbraní.
 tagClass02SkillName01B=Vysoký účinek
-tagClass02SkillDescription01B=Vylepšený koncept klasického Granátu způsobí, že vybuchne v rámci působení silného žáru, jež dává šanci zasadit zničující fyzickou újmu.
+tagClass02SkillDescription01B=Vylepšený koncept klasického Granátu výbuchem zároveň uvolní silný žár, jež dává šanci uštědřit zničující fyzickou újmu.
 tagClass02SkillName01C=Granát nebeského ohně
-tagClass02SkillDescription01C=Pokud exploze nepříteli nestačí, tahle alchymistická úprava chemického složení Granátu rozpoutá smršť elektrické energie, dokud znovu nevybuchne.
+tagClass02SkillDescription01C=Pokud exploze není na nepřítele dost, při výbuchu tahle alchymistická úprava chemického složení Granátu rozpoutá smršť elektrické energie.
 
 tagClass02SkillName02A=Třesk blesku
 tagClass02SkillDescription02A=Oslepující světlo dočasně ochromí nepřátele a přeruší jejich schopnost se bránit.
 tagClass02SkillName02B=Spalující světlo
-tagClass02SkillDescription02B=After-images burnt into enemy's retina reduce their ability to land attacks.
+tagClass02SkillDescription02B=Vypálí nepřátelům to, co naposledy viděli do sítnice a sníží tak jejich schopnost přesně zasáhnout.
 
 tagClass02SkillName03A=Ohnivý úder
-tagClass02SkillDescription03A=A deadly alchemical technique causes martial attacks to combust the air around the enemy. When used as your default weapon attack, Fire Strike inflicts additional physical and fire damage.
+tagClass02SkillDescription03A=Smrtící alchimistická technika způsobuje, že útoky bojových umění spalují vzduch okolo nepřítele. Pokud je používána jako výchozí útok, přidává Ohnivý útok fyzické a ohnivé poškození.
 tagClass02SkillName03B=Výbušný úder
-tagClass02SkillDescription03B=Increases the potency of Fire Strike with a chance to inflict great physical harm.  ^oWith ranged attacks, it also explodes, causing damage to nearby enemies.
+tagClass02SkillDescription03B=Zvyšuje potenciál Ohnivého úderu a dává mu tak šanci na to způsobit těžká fyzická poranění. ^oS útokem na dálku také exploduje, což způsobuje zranění nepřátelům v blízkém okolí.
 tagClass02SkillName03C=Statický úder
-tagClass02SkillDescription03C=Further alchemical alterations cause Fire Strike to electrocute the target with a chance of knocking them off their feet.
+tagClass02SkillDescription03C=Další chemické modifikace způsobují, že Ohnivý úder zasáhne cíl elektrickým výbojem a zároveň je šance, že upadnou na zem.
 tagClass02SkillName03D=Roztříštění
-tagClass02SkillDescription03D=Further improves upon Fire Strike, adding piercing shrapnel and enhancing its fiery payload. ^oRanged attacks will also splinter into molten fragments.
+tagClass02SkillDescription03D=Další vylepšení Ohnivého úderu, která přidají průbojnost a vylepší jeho ohnivý účinek. ^oÚtokům na dálku také dodá tříštění na roztavené úlomky.
 
 tagClass02SkillName04A=Tříštivá bomba
-tagClass02SkillDescription04A=An explosive packed with more explosives, this devilish contraption is capable of laying waste to an entire field of enemies. 
+tagClass02SkillDescription04A=Výbušnina obalená dalšími výbušninami; tento ďábelský vynález je schopný rozmetat celé hordy nepřátel.
 tagClass02SkillName04B=Vylepšené poudro
-tagClass02SkillDescription04B=An adjustment to the Canister Bomb's casing improves its concussive power, inflicting internal trauma on enemies and slowing them down; all in an even larger blast radius.
+tagClass02SkillDescription04B=Vylepšení Tříštivé bomby má za následek zvýšení její poškozující síly, což nepřátelům způsobí vnitřní trauma a zpomalí je; to vše včetně většího rádiusu výbuchu.
 tagClass02SkillName04C=Pronikavý výbuch
-tagClass02SkillDescription04C=A more efficient packing technique adds piercing shrapnel and increases the fiery devastation of Canister Bomb.
+tagClass02SkillDescription04C=Technika lepšího zabalení přidává průrazné úlomky a zvyšuje ohnivou sílu Tříštivé bomby.
 
 tagClass02SkillName05A=Hmoždířová past
-tagClass02SkillDescription05A=Places a mortar that will continuously lob explosives into the air until depleted.
+tagClass02SkillDescription05A=Umístí minomet, který bude nepřetržitě vystřelovat výbušniny do vzduchu, dokud nebude vyčerpán.
 tagClass02SkillName05B=Těžké dělo
-tagClass02SkillDescription05B=Potent sorcery increases the damage output of mortar shells and infuses them with electrical damage.
+tagClass02SkillDescription05B=Mocná magie zvyšuje celkovou účinnost minometných střel a obohacuje je o poškození elektřinou.
 tagClass02SkillName05C="Velikán"
-tagClass02SkillDescription05C=Loads the Mortar Trap with a devastating bomb known only as "The Big One", which will be fired off towards the end of the mortar trap's barrage. The resulting colossal explosion will leave your enemies shellshocked, if they survive at all.
+tagClass02SkillDescription05C=Naláduje Hmoždířovou past devastující bombou, známou pod jediným názvem "Velikán", která bude odpálena až na konec. Výsledná ničivá exploze poznamená tvé nepřátele post-traumatickým syndromem, pokud to tedy vůbec přežijí.
 tagClass02SkillName05D=Ohnivý minomet
-tagClass02SkillDescription05D=Launches an explosive mortar at enemies.
+tagClass02SkillDescription05D=Odpálí explozivní střelu na nepřátele.
 tagClass02SkillName05E=Bleskový minomet
-tagClass02SkillDescription05E=Launches an electrically charged mortar at enemies.
+tagClass02SkillDescription05E=Odpálí elektřinou nabitou střelu na nepřátele.
 
 tagClass02SkillName06A=Termitová mina
-tagClass02SkillDescription06A=Drops a trio of small but deadly pyrotechnic charges that will sear enemies with intense jets of flame.
+tagClass02SkillDescription06A=Spustí trio malých, ale smrtících pyrotechnických náloží, které spálí tvé nepřátele intesivními plameny.
 tagClass02SkillName06B=Kulový blesk
-tagClass02SkillDescription06B=Half pyrotechnics, half alchemy, this lethal improvement to the Thermite Mine causes it to scorch enemies with both intense fire and bolts of electricity.
+tagClass02SkillDescription06B=Napůl pyrotechnika, napůl chemie - toto smrtící vylepšení Termitové miny způsobuje, ze spálí nepřátele jak intezivním plamenem, tak výboji elektřiny.
 tagClass02SkillName06C=Proud plamenů
 tagClass02SkillDescription06C=Emits a deadly jet of white-hot flame to incinerate enemies that pass over it.
 
