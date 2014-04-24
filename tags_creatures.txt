@@ -129,11 +129,14 @@ tagEnemyGhostB02=Strašidelný šampion
 tagHeroGhostH01=Lady Valavan, Putující duše
 tagHeroGhostH02=Lord Blacktail ~ Zrcadlící
 tagHeroGhostH03=Lady Rosenthal ~ Obnovitelka
+tagHeroGhostH04=Stormshriek ~ Elektrizovaný
+tagHeroGhostH05=Lord Oldrakan ~ Rychlý
 
 tagGhostBoss01=Baron Wradlith, Pán ztracených duší
 tagGhostBoss02=Nomos Dred
 tagGhostBoss03=Laudos Vagra
 tagGhostBoss04=Rhovena Kur
+tagGhostBoss05=Alkamos, Pán katů
 
 #CreatureGolem
 
@@ -236,12 +239,14 @@ tagEnemyBloodswornMiniBoss01=Salazar, Čepel Ch'thona
 tagEnemyHumanOutlaw_Wightmire_MeleeA01=Odsouzenec ~ poskok
 tagEnemyHumanOutlaw_Wightmire_MeleeB01=Odsouzenec ~ rváč
 tagEnemyHumanOutlaw_Wightmire_MeleeB02=Odsouzenec ~ surovec
+tagEnemyHumanOutlaw_Wightmire_MeleeB03=Odsouzenec ~ sadista
 tagEnemyHumanOutlaw_Wightmire_RangedA01=Odsouzenec ~ pistolník
 tagEnemyHumanOutlaw_Wightmire_RangedB01=Odsouzenec ~ násilník
 
 tagEnemyHumanOutlaw_MeleeA01=Člen Cronleyho bandy ~ poskok
 tagEnemyHumanOutlaw_MeleeB01=Člen Cronleyho bandy ~ rváč
 tagEnemyHumanOutlaw_MeleeB02=Člen Cronleyho bandy ~ surovec
+tagEnemyHumanOutlaw_MeleeB03=Člen Cronleyho bandy ~ sadista
 tagEnemyHumanOutlaw_RangedA01=Člen Cronleyho bandy ~ pistolník
 tagEnemyHumanOutlaw_RangedB01=Člen Cronleyho bandy ~ násilník
 tagEnemyHumanOutlaw_ArsonistC01=Člen Cronleyho bandy ~ žhář
@@ -251,6 +256,7 @@ tagEnemyHumanOutlaw_HereticC01=Člen Cronleyho bandy ~ kacíř
 tagEnemyHumanOutlaw_AetherA01=Člen Cronleyho bandy ~ vybraný
 tagEnemyHumanOutlaw_AetherA02=Člen Cronleyho bandy ~ vyvolený
 tagEnemyHumanOutlaw_AetherB01=Člen Cronleyho bandy ~ předurčený
+tagEnemyHumanOutlaw_AetherB02=Člen Cronleyho bandy ~ šampion
 tagEnemyHumanOutlaw_AetherC01=Člen Cronleyho bandy ~ stoupenec
 
 tagHumanOutlawLeader01=Darius Cronley
@@ -313,8 +319,10 @@ tagEnemyInsectWaspB01=Bodač s jedovatými perutěmi
 tagEnemyInsectWaspC01=Královna s jedovatými perutěmi
 
 tagInsectWaspHeroH01=Scarprax, Horečný
-tagInsectWaspHeroH02= Caraprax ~ Obránce
+tagInsectWaspHeroH02=Caraprax ~ Obránce
 tagInsectWaspHeroH03=Harprax, Královnina vůle ~ Zastánce
+tagInsectWaspHeroH04=Ralkara ~ Obnovitelka
+tagInsectWaspHeroH05=Folcrax ~ Zmrzlý
 
 tagInsectWaspBoss01=Ulraprax, Včelí matriarcha
 tagInsectWaspBoss02=Ronaprax, Velká královna
@@ -394,6 +402,8 @@ tagSkeletalGolemHeroH01=Grulgor, Trýznitel ~ Nemocný
 tagSkeletalGolemHeroH02=Falgarr, Ledový pozorovatel ~ Zmrzlý
 tagSkeletalGolemHeroH03=Bralgarr, Plamenný pozorovatel ~ Hořící
 
+tagSkeletalGolemBossB01=Ilgorr, Věčný
+
 #CreatureSkeleton
 
 tagEnemySkeletonA01=Kosterní bojovník
@@ -405,6 +415,7 @@ tagEnemySkeletonB04=Kosterní čaroděj
 tagEnemySkeletonC01=Plamenný přízrak
 tagEnemySkeletonC02=Zmražený přízrak
 tagEnemySkeletonC03=Bouřný přízrak
+tagEnemySkeletonC04=Smrtící přízrak
 
 tagSkeletonHeroH01=Tenebris, Opilý krví
 tagSkeletonHeroH02=Balrazar, Dreegův věčný sluha
@@ -442,7 +453,7 @@ tagEnemyBloodscale_SlithWarriorC01=Šampion z Krvavých šupin
 tagEnemyBloodscale_SlithShamanB01=Šaman z Krvavých šupin
 tagEnemyBloodscale_SlithShamanC01=Zaříkávač z Krvavých šupin
 
-tagSlithHeroH01=Igrixx, Zmražený
+tagSlithHeroH01=Igrixx, Zjihlé srdce
 tagSlithHeroH02=Jaron, Pán bouře
 tagSlithHeroH03=Lorkhan, Pán hlubin
 tagSlithHeroH04=Farnlan, Hnusný ~ Nezastavitelný
@@ -483,6 +494,14 @@ tagThornedHorrorHeroH01=Terrolean, Blázen
 tagThornedHorrorHeroH02=Korplax,Přerostlý
 tagThornedHorrorHeroH03=Blackthorn ~ Odrážející
 tagThornedHorrorHeroH04=Rotthorn ~ Nemocný
+tagThornedHorrorHeroH05=Everbark ~ Obnovitel
+tagThornedHorrorHeroH06=Rimebark ~ Zmražený
+
+
+#Traps
+
+tagEnemyTrapA01=Zápalná past
+tagEnemyTrapA02=Odpalovací past
 
 #Trolls
 
@@ -600,12 +619,16 @@ tagItemGuardianA01=Oddaný ochránce
 tagItemGuardianA02=Šílený ochránce
 tagItemAncestorA01=Rodový duch
 tagItemRevenantA01=Duch Og'Napeshe
+tagRelicStormhound=Bouřný pes
+tagRelicNemesis=Mstitel
+tagRelicSwarm=Bláznivý roj
 
 #EnemySummons
 
 tagEnemySummonHellspawn=Zplozenec pekla
 tagEnemySummonChthonianMinion=Salazarův posel
 tagEnemySummonDariusAetherCrystal=Nestabilní formace Éteru
+tagEnemySummonRifthound=Azurový pes
 
 #Boss&Quest
 
