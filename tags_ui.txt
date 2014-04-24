@@ -65,15 +65,19 @@ tagActionGiveAttributePoints={%d0} body atributů
 tagConditionHasKilled={%t0} ({%d1}/{%d2})
 tagConditionHasItem={%t0} ({%d1}/{%d2})
 tagQuestRewardWindowTitle=Úkol byl splněn
+tagQuestRewardWindowInterim=Stav úkolu
 tagQuestRewardTitle=Odměny:
 tagQuestRewardMoney={%d0} železných mincí
-tagQuestRewardXP=Zkušenosti
+tagQuestRewardXP=Zkušenosti: {%d0}
 tagQuestRewardReputationPositive=+{%d0} {%s1} reputace
 tagQuestRewardReputationNegative=-{%d0} {%s1} reputace
 tagQuestRewardAcceptButton=Přijmout
 
 #Faction
 
+tagFaction=Frakce: {^g}{%s0}
+tagFactionStanding=Postoj: {^g}{%t0}
+tagFactionQuestReq=Přídavný úkol: {^b}{%+d0}
 tagFactionAlone=Osamocený
 tagFactionInvisible=Neviditelný
 tagFactionGenericMonster=Nepřátelé
@@ -84,13 +88,13 @@ tagFactionCthonians=Ch'thonský kult
 tagFactionOutlaws=Cronleyho banda
 tagFactionBeasts=Bestie
 tagFactionUser0=Tuláci
-tagFactionUser1=Neutrální postavy
+tagFactionUser1=Neutrální
 tagFactionUser2=Obyvatelé z Homestead
 tagFactionUser3=Svobodní muži Corriganova dolu
 tagFactionUser4=Vyhnanci
-tagFactionUser5=Řád Černé stráže
+tagFactionUser5=Řád Smrtícího bdění
 tagFactionUser6=Nemrtví
-tagFactionUser7=Hráč 7
+tagFactionUser7=Černá legie
 tagFactionUser8=Hráč 8
 tagFactionUser9=Hráč 9
 tagFactionUnknown=Neznámý
@@ -152,6 +156,9 @@ tagHUD_RightMouse_R1=Tohle je tvůj sekundární útok.  Pravým kliknutím myš
 tagHUD_CompassToggleName=Přepínač kompasové mapy
 tagHUD_CompassToggleDescription=Kliknutím změníš velikost nebo pozici kompasové mapy.
 
+tagHUD_LeftMouse=L
+tagHUD_RightMouse=P
+
 tagHUDPortraitLevelUP=Nová úroveň
 tagHUDWeaponSwap=Přehození zbraní
 tagHUDWeaponSwapRoll=Přepíná mezi tvou výzbrojí.  Musíš být vyzbrojen sadou zbraní na alternativním slotu.
@@ -205,6 +212,7 @@ tagSkillPointsRemainSingular={%d0} zbývající bod
 #Character
 
 tagInventoryBag=Pytel na věci
+tagInventoryBagDescription=Rozšiřuje velikost tvého inventáře
 
 tagStatsResistanceTitle=Odolnosti
 tagStatsResistance01=Oheň
@@ -241,7 +249,7 @@ tagCharAttributeName03=Duchovno
 tagCharAttributeName04=Zdraví
 tagCharAttributeName05=Energie
 
-tagCharAttributeDescription01=Rafinovanost zlepšuje tvůj způsob boje, zvyšuje fyzické a bodné poranění. Rafinovanost také zvyšuje šanci uštědřit ránu, ať již v souboji zblízka nebo na dálku. Dále zvyšuje šanci na kritický zásah nepřítele.
+tagCharAttributeDescription01=Rafinovanost zlepšuje tvůj způsob boje, zvyšuje fyzické a bodné zranění, krvácení a vnitřní poranění. Rafinovanost také zvyšuje šanci uštědřit ránu, ať již v souboji zblízka nebo na dálku. Dále zvyšuje šanci na kritický zásah nepřítele.
 
 tagCharAttributeDescription02=Fyzická kondice ti dodává sílu bojovat s těžším vybavením a hbitost ve vyhnutí se nepřátelskému útoku. Fyzická kondice ti také zvyšuje práh bolesti a dodává schopnost vyhnout se kritickému útoku.
 
@@ -251,10 +259,10 @@ tagCharAttributeDescription04=Zdraví je měřítkem tvého prahu bolesti a zran
 
 tagCharAttributeDescription05=Energie je mšřítkem tvé duševní síly udržet si magické energie. Čím větší je zásoba energie, tím větší máš možnost ji vyčerpat před tím, než se ti znovu obnoví.
 
-tagCharBonusPhysicalDmg=Bonus k fyzickému zranění
-tagCharBonusPierceDmg=Bonus ke zranění probodnutím
-tagCharBonusMagicalDmg=Bonus k magickému zranění
-tagCharBonusDurDmg=Bonus k trvání zranění
+tagCharBonusPhysicalDmg=Bonus k fyzickému zranění:
+tagCharBonusPierceDmg=Bonus ke zranění probodnutím:
+tagCharBonusMagicalDmg=Bonus k magickému zranění:
+tagCharBonusDurDmg=Bonus k trvání zranění:
 
 tagCharAttributeIncrement01=Každý bod zvyšuje rafinovanost o 10.
 tagCharAttributeIncrement02=Každý bod zvyšuje fyzickou kondici o 10.
@@ -262,25 +270,38 @@ tagCharAttributeIncrement03=Každý bod zvyšuje duchovno o 10.
 tagCharAttributeIncrement04=Každý bod zvyšuje tvé zdraví o 50.
 tagCharAttributeIncrement05=Každý bod zvyšuje tvou energii o 50.
 
-tagCharStatsDA=Obranná schopnost
 tagCharStatsOA=Útočná schopnost
-tagCharStatsDADescription=Vyšší obranyschopnost ti umožňuje častěji se vyhnout nepřátelským zásahům, snižuje šanci na utrpení kritického zásahu a snižuje zranění udělené kritickým zásahem. Obranná schopnost je ovlivněna dovednostmi, předměty a fyzickou kondicí.
+tagCharStatsOALast=Poslední zásah:
+tagCharStatsOAHit=Šance na zásah:
+tagCharStatsOACrit=Šance na kritický zásah:
 tagCharStatsOADescription=Vyšší útočná schopnost zvyšuje tvou šanci úspěšně zasáhnout nepřítele zblízka nebo na dálku, uštědřit mu kritický zásah a také zvyšuje zranění uštědřené kritickým zásahem. Tvá útočná schopnost, pokud je nižší než obranná schopnost nepřítele, razantně zvyšuje šanci na to, že se netrefíš. Útočná schopnost je ovlivněna dovednostmi, předměty a rafinovaností.
 
-tagRollFormat01={%s0}     {%d1}
-tagRollFormat02={%s0}     {%d1} + {^b}{%d2}
+tagCharStatsDA=Obranná schopnost
+tagCharStatsDALast=Naposledy zasažen:
+tagCharStatsDAHit=Šance být zasažen:
+tagCharStatsDACrit=Šance obdržet kritický zásah:
+tagCharStatsDADescription=Vyšší obranyschopnost ti umožňuje častěji se vyhnout nepřátelským zásahům, snižuje šanci na utrpení kritického zásahu a snižuje zranění udělené kritickým zásahem. Obranná schopnost je ovlivněna dovednostmi, předměty a fyzickou kondicí.
+
+tagRollFormat01={%s0} {^b}{%d1}
+tagRollFormat02={%s0} {^s}{%d1} {^b}+ {%d2}
 tagRollFormat03={%s0}     {%+.0f1}%
 tagRollFormat04={%s0}  ({^y}{%t1}{^w})
-tagRollFormat05={%s0}     {%+.0f1}% +  {^b}{%.0f2}%
-tagRollFormat06={%s0}     {%.0f1}%
-tagRollFormat07={%s0}     {%.2f1} + {^b}{%.2f2}
-tagRollFormat08={%s0}     {%.2f1}
-tagRollFormat09={%s0}     {^b}{%.1f1}%
-tagRollFormat10={%s0}     {%.0f1} - {%.0f2}
-tagRollFormat11={%s0}     {%d1} - {%d2}
+tagRollFormat05={%s0} {^s}+{%.0f1}% {^b}+ {%.0f2}%
+tagRollFormat06={%s0} {^b}{%.0f1}%
+tagRollFormat07={%s0} {^s}{%.2f1} {^b}+ {%.2f2}
+tagRollFormat08={%s0} {^b}{%.2f1}
+tagRollFormat09={%s0} {^b}+ {%.1f1}%
+tagRollFormat10={%s0} {^b}{%.0f1} - {%.0f2}
+tagRollFormat11={%s0} {^b}{%d1} - {%d2}
+tagRollFormat12={%s0} {^b}{%.0f1}% - {%.0f2}%
+tagRollFormat13={%s0} {^b}{%.1f1}%
+tagRollFormat14={%s0} {^b}{%.0f1}
 tagFormatPercent={%.0f}%
+tagFormatPlusPercent=+ {%.0f}%
+tagFormatMinusPercent=- {%.0f}%
 tagFormatPlus=+ {%d0}
 tagFormatDash={%d0} - {%d1}
+tagFormatDashPercent={%d0}% - {%d1}%
 tagCharPointAvailable={^y}{%d0}{^w} dostupný bod
 tagCharPointsAvailable={^y}{%d0}{^w} dostupných bodů
 tagCharLevel=Úroveň {%d0}
@@ -302,22 +323,20 @@ tagCharHeaderCombat=Bojová statistika
 tagCharHeaderCharacter=Postava
 tagCharHeaderPhysical=Fyzické vlastnosti
 tagCharHeaderMagical=Magické vlastnosti
-tagCharHeaderPets=Spojenci
-tagCharHeaderDefense=Obrana
+tagCharHeaderPets=Bonusy spojenců
+tagCharHeaderDefenseSection=Obrana
 tagCharHeaderRetaliation=Oplácení
 tagCharHeaderStats=Statistiky
 tagCharHeaderMisc=Různé
 
-tagCharStatsBlockChance=Šance na vykrytí
-tagCharStatsBlockChanceDescription=Procentuální šance na vykrytí příchozího útoku.
-tagCharStatsBlockAmount=Vykryté zranění
-tagCharStatsBlockAmountDescription=Výše zranění, které nebude způsobeno úspěšným vykrytím.
 tagCharStatsDPS=Zranění za sekundu
 tagCharStatsDPSDescription=Průměrné zranění nepřítele za sekundu. Nezahrnuje obrannou schopnost nepřítele.
 
 tagCharStatsArmorTotal=Hodnocení zbroje
-tagCharStatsArmorTotalDescription=Sloučená hodnota tvé kompletní výstroje. Čím vyšší je tvá celková zbroj, tím méně zranění obdržíš fyzickým zásahem.
+tagCharStatsArmorTotalDescription=Čím vyšší je tvá celková zbroj, tím méně zranění obdržíš fyzickými zásahy. Bonus je sečtenou hodnotou ze všech předmětů, které nejsou výstrojí a je rozdělen mezi všechny sloty výstroje.
+tagCharStatsHitArmor=Šance na zásah oblasti
 tagCharStatsArmorUnprotected=Bez ochrany
+tagCharStatsArmorNA= -
 tagCharStatsArmorBonus=Bonus:
 tagCharStatsArmorHead=Hlava:
 tagCharStatsArmorChest=Hruď:
@@ -348,73 +367,325 @@ tagCharStatsLifeRegenInfo=Hodnota, jakou rychlostí se obnovuje tvé zdraví, za
 tagCharStatsEnergyRegen=Obnova energie
 tagCharStatsEnergyRegenInfo=Hodnota, s kterou se obnovuje tvá energie.
 tagCharStatsEnergyAbsorption=Absorpce energie
-tagCharStatsEnergyAbsorptionInfo=Absorpce energie
+tagCharStatsEnergyAbsorptionInfo=The percent by which the energy spent on attacks and spells that strike you will replenish your own energy reserves.
 tagCharStatsExpGainedBonus=Získané zkušenosti
-tagCharStatsExpGainedBonusInfo=Bonus k získaným zkušenostem
+tagCharStatsExpGainedBonusInfo=The percent bonus to all experience gained from monster kills.
 tagCharStatsLightRadiusBonus=Dosah světla
-tagCharStatsLightRadiusBonusInfo=Bonus k dosahu světla
+tagCharStatsLightRadiusBonusInfo=The percent bonus to the light radius around your character.
 tagCharStatsAllSkillsBonus=Všechny dovednosti
-tagCharStatsAllSkillsBonusInfo=Bonus ke všem dovednostem
+tagCharStatsAllSkillsBonusInfo=Bonus to all learned skills in your masteries.
 tagCharStatsSoldierSkillsBonus=Dovednosti Vojáka
-tagCharStatsSoldierSkillsBonusInfo=Bonus k dovednostem Vojáka
+tagCharStatsSoldierSkillsBonusInfo=Bonus to all learned skills in the Soldier Mastery.
 tagCharStatsDemoSkillsBonus=Dovednosti Ničitele
-tagCharStatsDemoSkillsBonusInfo=Bonus k dovednostem Ničitele
+tagCharStatsDemoSkillsBonusInfo=Bonus to all learned skills in the Demolitionist Mastery.
 tagCharStatsOccuSkillsBonus=Dovednosti Okultisty
-tagCharStatsOccuSkillsBonusInfo=Bonus k dovednostem Okultisty
+tagCharStatsOccuSkillsBonusInfo=Bonus to all learned skills in the Occultist Mastery.
 tagCharStatsNightbladeSkillsBonus=Dovednosti Nočního lovce
-tagCharStatsNightbladeSkillsBonusInfo=Bonus k dovednostem Nočního lovce
+tagCharStatsNightbladeSkillsBonusInfo=Bonus to all learned skills in the Nightblade Mastery.
 tagCharStatsArcanistSkillsBonus=Dovednosti Pána temnot
-tagCharStatsArcanistSkillsBonusInfo=Bonus k dovednostem Pána temnot
+tagCharStatsArcanistSkillsBonusInfo=Bonus to all learned skills in the Arcanist Mastery.
 
 #Physical
 tagCharStatsAttackSpeed=Útočná rychlost
 tagCharStatsAttackSpeedDescription=Rychlost útoku tvé zbraně vzhledem k výchozímu stavu (včetně celkové rychlosti).
-tagCharStatsAvgDmg=Průměrné zranění
-tagCharStatsAvgDmgDescription=Průměrné zranění způsobené zásahem dle základního útoku a bonusů.
+tagCharStatsAvgDmg=Rozsah zranění
+tagCharStatsAvgDmgDescription=Zranění způsobené zásahem dle základního útoku a bonusů.
+
 tagCharStatsPhysicalAbsDmg=Fyzické zranění
-tagCharStatsPhysicalAbsDmgInfo=Absolutní fyzické zranění
-tagCharStatsPhysicalPercentDmg=% fyzického zranění
-tagCharStatsPhysicalPercentDmgInfo=Fyzické zranění
+tagCharStatsPhysicalAbsDmgInfo=The Physical Damage done per hit with your base attack, including bonuses.
+tagCharStatsPhysicalPercentDmg=Physical Modifier
+tagCharStatsPhysicalPercentDmgInfo=The percent bonus to all Physical Damage.
+
 tagCharStatsPierceAbsDmg=Zranění probodnutím
-tagCharStatsPierceAbsDmgInfo=Absolutní zranění probodnutím
-tagCharStatsPiercePercentDmg=% zranění probodnutím
-tagCharStatsPiercePercentDmgInfo=Zranění probodnutím
+tagCharStatsPierceAbsDmgInfo=The Pierce Damage done per hit with your base attack, including bonuses.
+tagCharStatsPiercePercentDmg=Pierce Modifier
+tagCharStatsPiercePercentDmgInfo=The percent bonus to all Pierce Damage.
+
 tagCharStatsBleedAbsDmg=Zranění krvácením
-tagCharStatsBleedAbsDmgInfo=Absolutní zranění krvácením
-tagCharStatsBleedPercentDmg=% zranění krvácením
-tagCharStatsBleedPercentDmgInfo=Zranění krvácením
+tagCharStatsBleedAbsDmgInfo=The Bleed Damage done over 3 seconds applied per hit with your base attack, including bonuses.
+tagCharStatsBleedPercentDmg=Bleed Modifier
+tagCharStatsBleedPercentDmgInfo=The percent bonus to all Bleed Damage.
 tagCharStatsBleedDuration=Doba krvácení
-tagCharStatsBleedDurationInfo=Doba krvácení
+tagCharStatsInternalTraumaDurationInfo=The percent bonus to the duration of your Internal Trauma Damage attacks. The damage per second is not increased.
+
 tagCharStatsInternalTraumaAbsDmg=Zranění šokem
-tagCharStatsInternalTraumaAbsDmgInfo=Absolutní zranění vnitřním poraněním
-tagCharStatsInternalTraumaPercentDmg=% zranění šokem
-tagCharStatsInternalTraumaPercentDmgInfo=Zranění vnitřním poraněním
+tagCharStatsInternalTraumaAbsDmgInfo=The Internal Trauma Damage done over 5 seconds applied per hit with your base attack, including bonuses.
+tagCharStatsInternalTraumaPercentDmg=Trauma Modifier
+tagCharStatsInternalTraumaPercentDmgInfo=The percent bonus to all Internal Trauma Damage.
 tagCharStatsInternalTraumaDuration=Délka šoku
-tagCharStatsInternalTraumaDurationInfo=Trvání vnitřního poranění
-tagCharStatsDamageToHealth=Krádež života
-tagCharStatsDamageToHealthInfo=Zranění převedení do života
+tagCharStatsInternalTraumaDurationInfo=The percent bonus to the duration of your Internal Trauma Damage attacks. The damage per second is not increased.
+
+tagCharStatsDamageToHealth=Sání života
+tagCharStatsDamageToHealthInfo=The percent of the damage you deal on attack which also replenishes your health.
 
 #Magical
 tagCharStatsCastSpeed=Rychlost kouzlení
 tagCharStatsCastSpeedInfo=Rychlost, s jakou tvá postava sesílá kouzla vzhledem k výchozí hodnotě (včetně celkové rychlosti).
 
-tagCharStatsSecondaryResist=Druhotné odolnosti:
+tagCharStatsCooldownReduction=Cooldown Reduction
+tagCharStatsCooldownReductionInfo=The percent by which your skill cooldowns are reduced.
 
-tagCharacterStats=Statistiky postavy
-tagCharStatsFactionTitle=Frakce
-tagCPercentageValue={%.0f}%
+tagCharStatsManaCostReduction=Skill Energy Cost
+tagCharStatsManaCostReductionInfo=The percent by which the energy cost of your skills is reduced.
 
-tagRecordMonsterKills=Zabití nepřátelé
-tagRecordMonsterKillsInfo=Celkový počet nepřátel, které tvá postava zabila.
-tagRecordHighestMonster=Nejlepší zabitý nepřítel
-tagRecordHighestMonsterInfo=Nejsilnější nepřítel, kterého tvá postava byla schopna zabít.
-tagRecordHighestDamage=Nejvyšší zranění
-tagRecordHighestDamageInfo=Největší zranění, která tvá postava způsobila.
+tagCharStatsPercentHealthDamage=Health Damage
+tagCharStatsPercentHealthDamageInfo=The percent of the target's Current Health dealt as damage done per hit with your base attack.
+
+tagCharStatsFireAbsDmg=Fire Damage
+tagCharStatsFireAbsDmgInfo=The Fire Damage done per hit with your base attack, including bonuses.
+tagCharStatsFirePercentDmg=Fire Modifier
+tagCharStatsFirePercentDmgInfo=The percent bonus to all Fire Damage.
+
+tagCharStatsColdAbsDmg=Cold Damage
+tagCharStatsColdAbsDmgInfo=The Cold Damage done per hit with your base attack, including bonuses.
+tagCharStatsColdPercentDmg=Cold Modifier
+tagCharStatsColdPercentDmgInfo=The percent bonus to all Cold Damage.
+
+tagCharStatsLightningAbsDmg=Lightning Damage
+tagCharStatsLightningAbsDmgInfo=The Lightning Damage done per hit with your base attack, including bonuses.
+tagCharStatsLightningPercentDmg=Lightning Modifier
+tagCharStatsLightningPercentDmgInfo=The percent bonus to all Lightning Damage.
+
+tagCharStatsAcidAbsDmg=Acid Damage
+tagCharStatsAcidAbsDmgInfo=The Acid Damage done per hit with your base attack, including bonuses.
+tagCharStatsAcidPercentDmg=Acid Modifier
+tagCharStatsAcidPercentDmgInfo=The percent bonus to all Acid Damage.
+
+tagCharStatsVitalityAbsDmg=Vitality Damage
+tagCharStatsVitalityAbsDmgInfo=The Vitality Damage done per hit with your base attack, including bonuses.
+tagCharStatsVitalityPercentDmg=Vitality Modifier
+tagCharStatsVitalityPercentDmgInfo=The percent bonus to all Vitality Damage.
+
+tagCharStatsAetherAbsDmg=Aether Damage
+tagCharStatsAetherAbsDmgInfo=The Aether Damage done per hit with your base attack, including bonuses.
+tagCharStatsAetherPercentDmg=Aether Modifier
+tagCharStatsAetherPercentDmgInfo=The percent bonus to all Aether Damage.
+
+tagCharStatsChaosAbsDmg=Chaos Damage
+tagCharStatsChaosAbsDmgInfo=The Chaos Damage done per hit with your base attack, including bonuses.
+tagCharStatsChaosPercentDmg=Chaos Modifier
+tagCharStatsChaosPercentDmgInfo=The percent bonus to all Chaos Damage.
+
+tagCharStatsBurnAbsDmg=Burn Damage
+tagCharStatsBurnAbsDmgInfo=The Burn Damage done over 3 seconds applied per hit with your base attack, including bonuses.
+tagCharStatsBurnPercentDmg=Burn Modifier
+tagCharStatsBurnPercentDmgInfo=The percent bonus to all Burn Damage.
+tagCharStatsBurnDuration=Burn Duration
+tagCharStatsBurnDurationInfo=The percent bonus to the duration of your Burn Damage attacks. The damage per second is not increased.
+
+tagCharStatsColdburnAbsDmg=Coldburn Damage
+tagCharStatsColdburnAbsDmgInfo=The Coldburn Damage done over 3 seconds applied per hit with your base attack, including bonuses.
+tagCharStatsColdburnPercentDmg=Coldburn Modifier
+tagCharStatsColdburnPercentDmgInfo=The percent bonus to all Coldburn Damage.
+tagCharStatsColdburnDuration=Coldburn Duration
+tagCharStatsColdburnDurationInfo=The percent bonus to the duration of your Coldburn Damage attacks. The damage per second is not increased.
+
+tagCharStatsElectrocuteAbsDmg=Electrocute Damage
+tagCharStatsElectrocuteAbsDmgInfo=The Electrocute Damage done over 3 seconds applied per hit with your base attack, including bonuses.
+tagCharStatsElectrocutePercentDmg=Electrocute Modifier
+tagCharStatsElectrocutePercentDmgInfo=The percent bonus to all Electrocute Damage.
+tagCharStatsElectrocuteDuration=Electrocute Duration
+tagCharStatsElectrocuteDurationInfo=The percent bonus to the duration of your Electrocute Damage attacks. The damage per second is not increased.
+
+tagCharStatsPoisonAbsDmg=Poison Damage
+tagCharStatsPoisonAbsDmgInfo=The Poison Damage done over 5 seconds applied per hit with your base attack, including bonuses.
+tagCharStatsPoisonPercentDmg=Poison Modifier
+tagCharStatsPoisonPercentDmgInfo=The percent bonus to all Poison Damage.
+tagCharStatsPoisonDuration=Poison Duration
+tagCharStatsPoisonDurationInfo=The percent bonus to the duration of your Poison Damage attacks. The damage per second is not increased.
+
+tagCharStatsVitalityDecayAbsDmg=Vitality Decay Damage
+tagCharStatsVitalityDecayAbsDmgInfo=The Vitality Decay Damage done over 3 seconds applied per hit with your base attack, including bonuses.
+tagCharStatsVitalityDecayPercentDmg=Vitality Decay Modifier
+tagCharStatsVitalityDecayPercentDmgInfo=The percent bonus to all Vitality Decay Damage.
+tagCharStatsVitalityDecayDuration=Vitality Decay Duration
+tagCharStatsVitalityDecayDurationInfo=The percent bonus to the duration of your Vitality Decay Damage attacks. The damage per second is not increased.
+
+#Pets
+tagCharStatsPetHealth=Life
+tagCharStatsPetHealthInfo=The percent bonus to the Health of your pets and summoned minions.
+
+tagCharStatsPetDamage=Damage
+tagCharStatsPetDamageInfo=The percent bonus to the Damage of your pets and summoned minions.
+
+tagCharStatsPetAttackSpeed=Attack Speed
+tagCharStatsPetAttackSpeedInfo=The percent bonus to the Attack Speed of your pets and summoned minions.
+
+tagCharStatsPetCastSpeed=Cast Speed
+tagCharStatsPetCastSpeednfo=The percent bonus to the Cast Speed of your pets and summoned minions.
+
+tagCharStatsPetRunSpeed=Run Speed
+tagCharStatsPetRunSpeednfo=The percent bonus to the Run Speed of your pets and summoned minions.
+
+tagCharStatsPetOA=Offensive Ability
+tagCharStatsPetOAInfo=The percent bonus to the Offensive Ability of your pets and summoned minions.
+
+tagCharStatsPetDA=Defensive Ability
+tagCharStatsPetDAInfo=The percent bonus to the Defensive Ability of your pets and summoned minions.
+
+#Char Stats Tab 3
+
+#Defense
+tagCharStatsBlockChance=Chance to Block
+tagCharStatsBlockChanceDescription=The percent chance of blocking an incoming attack.
+
+tagCharStatsBlockAmount=Damage Blocked
+tagCharStatsBlockAmountDescription=The amount of damage that will be negated by a successful block.
+
+tagCharStatsBlockRecovery=Block Recovery
+tagCharStatsBlockRecoveryInfo=The percent by which your block recovery is reduced.
+
+tagCharStatsDodgeChance=Dodge Chance
+tagCharStatsDodgeChanceInfo=The percent chance of evading a melee attack, negating the damage completely.
+
+tagCharStatsProjDeflectChance=Deflect Chance
+tagCharStatsProjDeflectChanceInfo=The percent chance of deflecting a ranged attack, negating the damage completely.
+
+tagCharStatsPhysicalResist=Physical Resist
+tagCharStatsPhysicalResistInfo=Resistance to spells and attacks which cause direct Physical Damage.
+
+tagCharStatsDisruptionResist=Disruption Resist
+tagCharStatsDisruptionResistInfo=Resistance to spells and attacks which interrupt your ability to cast skills.
+
+tagCharStatsLifeLeechResist=Life Leech Resist
+tagCharStatsLifeLeechResistInfo=Resistance to life-draining attacks.
+
+tagCharStatsEnergyLeechResist=Energy Leech Resist
+tagCharStatsEnergyLeechResistInfo=Resistance to attacks which drain your energy.
+
+tagCharStatsTrapResist=Trap Resist
+tagCharStatsTrapResistInfo=Resistance to entrapment effects which immobilize you.
+
+tagCharStatsPetrifyResist=Petrify Resist
+tagCharStatsPetrifyResistInfo=Resistance to spells that petrify the flesh, which leave you unable to react.
+
+tagCharStatsFreezeResist=Freeze Resist
+tagCharStatsFreezeResistInfo=Resistance to spells that freeze you solid, which leave you unable to react.
+
+tagCharStatsSleepResist=Sleep Resist
+tagCharStatsSleepResistInfo=Resistance to spells that place you in a deep sleep-like state, which leave you unable to react until struck.
+
+tagCharStatsSlowResist=Slow Resist
+tagCharStatsSlowResistInfo=Resistance to effects which reduce your ability to attack, cast spells and run.
+
+#Retaliation
+tagCharStatsDamageReflect=Damage Reflect
+tagCharStatsDamageReflectInfo=The percent of damage inflicted upon you which is reflected back at an attacker.
+
+tagCharStatsCurrentLifeReflect=Life Retaliation
+tagCharStatsCurrentLifeReflectInfo=The percent of an attacker's Current Health dealt as damage whenever you are hit.
+
+tagCharStatsPhysicalRet=Physical
+tagCharStatsPhysicalRetInfo=The Physical Damage dealt to an attacker whenever you are hit.
+tagCharStatsPhysicalPercentRet=Physical Modifier
+tagCharStatsPhysicalPercentRetInfo=The percent bonus to all Physical Damage Retaliation effects.
+
+tagCharStatsPierceRet=Pierce
+tagCharStatsPierceRetInfo=The Pierce Damage dealt to an attacker whenever you are hit.
+tagCharStatsPiercePercentRet=Pierce Modifier
+tagCharStatsPiercePercentRetInfo=The percent bonus to all Pierce Damage Retaliation effects.
+
+tagCharStatsBleedRet=Bleed
+tagCharStatsBleedRetInfo=The Bleed Damage done over 3 seconds applied on an attacker whenever you are hit.
+tagCharStatsBleedPercentRet=Bleed Modifier
+tagCharStatsBleedPercentRetInfo=The percent bonus to all Bleed Damage Retaliation effects.
+
+tagCharStatsInternalTraumaRet=Trauma
+tagCharStatsInternalTraumaRetInfo=The Internal Trauma Damage done over 5 seconds applied on an attacker whenever you are hit.
+tagCharStatsInternalTraumaPercentRet=Trauma Modifier
+tagCharStatsInternalTraumaPercentRetInfo=The percent bonus to all Internal Trauma Damage Retaliation effects.
+
+tagCharStatsFireRet=Fire
+tagCharStatsFireRetInfo=The Fire Damage dealt to an attacker whenever you are hit.
+tagCharStatsFirePercentRet=Fire Modifier
+tagCharStatsFirePercentRetInfo=The percent bonus to all Fire Damage Retaliation effects.
+
+tagCharStatsColdRet=Cold
+tagCharStatsColdRetInfo=The Cold Damage dealt to an attacker whenever you are hit.
+tagCharStatsColdPercentRet=Cold Modifier
+tagCharStatsColdPercentRetInfo=The percent bonus to all Cold Damage Retaliation effects.
+
+tagCharStatsLightningRet=Lightning
+tagCharStatsLightningRetInfo=The Lightning Damage dealt to an attacker whenever you are hit.
+tagCharStatsLightningPercentRet=Lightning Modifier
+tagCharStatsLightningPercentRetInfo=The percent bonus to all Lightning Damage Retaliation effects.
+
+tagCharStatsAcidRet=Acid
+tagCharStatsAcidRetInfo=The Acid Damage dealt to an attacker whenever you are hit.
+tagCharStatsAcidPercentRet=Acid Modifier
+tagCharStatsAcidPercentRetInfo=The percent bonus to all Acid Damage Retaliation effects.
+
+tagCharStatsVitalityRet=Vitality
+tagCharStatsVitalityRetInfo=The Vitality Damage dealt to an attacker whenever you are hit.
+tagCharStatsVitalityPercentRet=Vitality Modifier
+tagCharStatsVitalityPercentRetInfo=The percent bonus to all Vitality Damage Retaliation effects.
+
+tagCharStatsAetherRet=Aether
+tagCharStatsAetherRetInfo=The Aether Damage dealt to an attacker whenever you are hit.
+tagCharStatsAetherPercentRet=Aether Modifier
+tagCharStatsAetherPercentRetInfo=The percent bonus to all Aether Damage Retaliation effects.
+
+tagCharStatsChaosRet=Chaos
+tagCharStatsChaosRetInfo=The Chaos Damage dealt to an attacker whenever you are hit.
+tagCharStatsChaosPercentRet=Chaos Modifier
+tagCharStatsChaosPercentRetInfo=The percent bonus to all Chaos Damage Retaliation effects.
+
+tagCharStatsBurnRet=Burn
+tagCharStatsBurnRetInfo=The Burn Damage done over 3 seconds applied on an attacker whenever you are hit.
+tagCharStatsBurnPercentRet=Burn Modifier
+tagCharStatsBurnPercentRetInfo=The percent bonus to all Burn Damage Retaliation effects.
+
+tagCharStatsColdburnRet=Coldburn
+tagCharStatsColdburnRetInfo=The Coldburn Damage done over 3 seconds applied on an attacker whenever you are hit.
+tagCharStatsColdburnPercentRet=Coldburn Modifier
+tagCharStatsColdburnPercentRetInfo=The percent bonus to all Coldburn Damage Retaliation effects.
+
+tagCharStatsElectrocuteRet=Electrocute
+tagCharStatsElectrocuteRetInfo=The Electrocute Damage done over 3 seconds applied on an attacker whenever you are hit.
+tagCharStatsElectrocutePercentRet=Electrocute Modifier
+tagCharStatsElectrocutePercentRetInfo=The percent bonus to all Electrocute Damage Retaliation effects.
+
+tagCharStatsPoisonRet=Poison
+tagCharStatsPoisonRetInfo=The Poison Damage done over 5 seconds applied on an attacker whenever you are hit.
+tagCharStatsPoisonPercentRet=Poison Modifier
+tagCharStatsPoisonPercentRetInfo=The percent bonus to all Poison Damage Retaliation effects.
+
+tagCharStatsVitalityDecayRet=Vitality Decay
+tagCharStatsVitalityDecayRetInfo=The Vitality Decay Damage done over 3 seconds applied on an attacker whenever you are hit.
+tagCharStatsVitalityDecayPercentRet=Vitality Decay Modifier
+tagCharStatsVitalityDecayPercentRetInfo=The percent bonus to all Vitality Decay Damage Retaliation effects.
+
+#Stats
+tagCharStatsItemLevel=Item Level
+tagCharStatsItemLevelInfo=The average item level of all your equipment.
+
 tagRecordTime=Uplynulý čas
 tagRecordTimeNumber={%d0}:{%d1}:{%d2}
 tagRecordTimeInfo=Celkově odehraný čas ve dnech, hodinách a minutách.
+
+tagRecordMonsterKills=Zabití nepřátelé
+tagRecordMonsterKillsInfo=Celkový počet nepřátel, které tvá postava zabila.
+
+tagRecordChampionKills=Champions Killed
+tagRecordChampionKillsInfo=Total number of enemy Heroes and Bosses your character has killed.
+
+tagRecordHighestMonster=Nejlepší zabitý nepřítel
+tagRecordHighestMonsterInfo=Nejsilnější nepřítel, kterého tvá postava byla schopna zabít.
+
+tagRecordHighestDamage=Nejvyšší zranění
+tagRecordHighestDamageInfo=Největší zranění, která tvá postava způsobila.
+
+tagRecordHighestDamageTaken=Greatest Damage Taken
+tagRecordHighestDamageTakenInfo=Most damage your character has ever received at one time.
+
 tagRecordDeath=Počet smrtí
 tagRecordDeathInfo=Číslo udává, kolikrát tvá postava zemřela.
+
+tagCharStatsSecondaryResist=Secondary Resistances:
+
+tagCharacterStats=Character Stats
+tagCharStatsFactionTitle=Factions
+tagCPercentageValue={%.0f}%
 
 #Vendor
 
@@ -455,9 +726,8 @@ Sold=Prodáno
 
 tagCrafting=Tvorba předmětů
 tagInventorNamePlate=Vynálezce
-tagCrafterNamePlate=Kovář
-tagCraftingComponentCount=Množství těchto součástek v inventáři.
-tagCraftingComponentMissing=Tato součástka se momentálně ve tvém inventáři nenachází.
+tagCraftingComponentCount=Množství tohoto materiálu v inventáři.
+tagCraftingComponentMissing=Tento materiál se momentálně ve tvém inventáři nenachází.
 tagCraftingWindowTitle=Vynálezce
 tagCraftingPanelA=Úprava výstroje
 tagCraftingPanelB=Rozložení výstroje
@@ -467,11 +737,11 @@ tagCraftingComponent=Komponenta
 tagCraftingComponentRequired=Složení:
 tagCraftingCombine=Zkombinovat
 tagCraftingDisplayBoxHelp=Aby vynalezení mohlo začít, polož plánek na pracovní desku.
-tagCraftingBlueprintInfo=Vynálezce může použít plánky k vynalezení vylepšení předmětů z různých zachráněných materiálů.
+tagCraftingBlueprintInfo=Kovář může použít plánky k vynalezení vylepšení předmětů z různých zachráněných materiálů.
 tagCraftingDeviceCost=Cena v železných mincích :  {%t0}
 tagCraftingCreate=Vyrobit:
 tagCraftingLearn=[pravým tlačítkem myši se naučit]
-tagCraftingRandom=+náhodná statistika(y)
+tagCraftingRandom={^E}+náhodná statistika(y)
 
 tagCraftingItemType00= ~ Zařízení
 tagCraftingItemType01= ~ Kompletní součástka
@@ -504,7 +774,8 @@ tagCraftingShoulders=RAMENA
 tagCraftingLegs=NOHY
 tagCraftingHands=RUCE
 tagCraftingFeet=CHODIDLA
-tagCraftingOffhands=DO RUKY
+tagCraftingOffhands=LEVÁ RUKA
+tagCraftingShields=ŠTÍTY
 
 tagCraftingComponents=KOMPONENTY
 tagCraftingAccessories=DOPLŇKY
@@ -564,7 +835,7 @@ tagMapSymbolSmugglerDesc=Pochybná osoba, která je schopna uchovávat vaše př
 tagMapSymbolHero=Hráč
 tagMapSymbolHeroDesc=Tvá aktuální pozice.
 tagMapSymbolInventor=Vynálezce
-tagMapSymbolInventorDesc=Dráteník je schopen odstraňovat komponenty z tvé výbavy a vytvářet předměty podle plánů.
+tagMapSymbolInventorDesc=Dráteník je schopen odstraňovat komponenty z tvé výbavy.
 tagMapSymbolMission=Úkol
 tagMapSymbolMissionDesc=Současný aktivní úkol.
 tagMapSymbolNPC=NPC
@@ -608,34 +879,99 @@ ExperienceDisplayFormat=Současné zkušenosti: {^y}{%d0}{^w}  ~  Zkušenosti na
 
 tagExpDisplayFormat=Současné zkušenosti: {^y}{%t0}{^w}  ~  Zkušenosti do další úrovně: {^y}{%t1}
 
-tagCharAttribute01={%+.0f0} rafinovanost
-tagCharAttribute02={%+.0f0} fyzická kondice
-tagCharAttribute03={%+.0f0} duchovno
-tagCharAttribute04={%+.0f0} zdraví
-tagCharAttribute05={%+.0f0} energie
-tagCharLifeRegen={%+.1f0} bodů obnovy zdraví za sekundu
-tagCharManaRegen={%+.1f0} bodů obnovy energie za sekundu
+tagCharAttribute01={%+.0f0} {^E}rafinovanost
+tagCharAttribute02={%+.0f0} {^E}fyzická kondice
+tagCharAttribute03={%+.0f0} {^E}duchovno
+tagCharAttribute04={%+.0f0} {^E}zdraví
+tagCharAttribute05={%+.0f0} {^E}energie
+tagCharLifeRegen={%+.1f0} {^E}bodů obnovy zdraví za sekundu
+tagCharManaRegen={%+.1f0} {^E}bodů obnovy energie za sekundu
 
-tagCharAttribute01Modifier={%+.0f0}% rafinovanosti
-tagCharAttribute02Modifier={%+.0f0}% fyzické kondice
-tagCharAttribute03Modifier={%+.0f0}% duchovna
-tagCharAttribute04Modifier={%+.0f0}% zdraví
-tagCharAttribute05Modifier={%+.0f0}% energie
-tagCharLifeRegenModifier=Zvyšuje obnovu zdraví o {%.0f0}%
-tagCharManaRegenModifier=Zvyšuje obnovu energie o {%.0f0}%
+tagCharAttribute01Modifier={%+.0f0}% {^E}rafinovanosti
+tagCharAttribute02Modifier={%+.0f0}% {^E}fyzické kondice
+tagCharAttribute03Modifier={%+.0f0}% {^E}duchovna
+tagCharAttribute04Modifier={%+.0f0}% {^E}zdraví
+tagCharAttribute05Modifier={%+.0f0}% {^E}energie
+tagCharLifeRegenModifier={^E}Zvyšuje obnovu zdraví o {%.0f0}%
+tagCharManaRegenModifier={^E}Zvyšuje obnovu energie o {%.0f0}%
 
-tagCharManaLimitReserve={%+.0f0} rezervované energie
+tagCharManaLimitReserve={%+.0f0} {^E}rezervované energie
 tagCharManaLimitReserveReduction=-{%.0f0} cena rezervované energie
 tagCharManaLimitReserveModifier={+%.0f0}% zásoby energie
 tagCharManaLimitReserveReductionModifier=-{%.0f0}% zásoby energie
 
-tagCharRunSpeed={%+.0f0}% rychlosti pohybu
-tagCharSpellCastSpeed={%+.0f0}% rychlosti kouzlení
-tagCharAttackSpeed={%+.0f0}% útočné rychlosti
-tagCharTotalSpeedModifier={%+.0f0}% celkové rychlosti
-tagCharRunSpeedModifier={%+.0f0}% rychlosti pohybu
-tagCharSpellCastSpeedModifier={%+.0f0}% rychlosti kouzlení
-tagCharAttackSpeedModifier={%+.0f0}% útočné rychlosti
+tagCharRunSpeed={%+.0f0}% {^E}rychlosti pohybu
+tagCharSpellCastSpeed={%+.0f0}% {^E}rychlosti kouzlení
+tagCharAttackSpeed={%+.0f0}% {^E}útočné rychlosti
+tagCharTotalSpeedModifier={%+.0f0}% {^E}celkové rychlosti
+tagCharRunSpeedModifier={%+.0f0}% {^E}rychlosti pohybu
+tagCharSpellCastSpeedModifier={%+.0f0}% {^E}rychlosti kouzlení
+tagCharAttackSpeedModifier={%+.0f0}% {^E}útočné rychlosti
+
+tagCharAttribute01R={%+.0f0}-{%.0f1} Cunning
+tagCharAttribute02R={%+.0f0}-{%.0f1} Physique
+tagCharAttribute03R={%+.0f0}-{%.0f1} Spirit
+tagCharAttribute04R={%+.0f0}-{%.0f1} Health
+tagCharAttribute05R={%+.0f0}-{%.0f1} Energy
+tagCharLifeRegenR={%+.1f0}-{%.1f1} Health Regenerated per second
+tagCharManaRegenR={%+.1f0}-{%.1f1} Energy Regenerated per second
+tagCharAttribute01ModifierR={%+.0f0}-{%.0f1}% Cunning
+tagCharAttribute02ModifierR={%+.0f0}-{%.0f1}% Physique
+tagCharAttribute03ModifierR={%+.0f0}-{%.0f1}% Spirit
+tagCharAttribute04ModifierR={%+.0f0}-{%.0f1}% Health
+tagCharAttribute05ModifierR={%+.0f0}-{%.0f1}% Energy
+tagCharLifeRegenModifierR=Increases Health Regeneration by {%.0f0}-{%.0f1}%
+tagCharManaRegenModifierR=Increases Energy Regeneration by {%.0f0}-{%.0f1}%
+tagCharManaLimitReserveR={%+.0f0}-{%.0f1} Energy Reserved
+tagCharManaLimitReserveReductionR=-({%.0f0}-{%.0f1}) Reserved Energy Cost
+tagCharManaLimitReserveModifierR={+%.0f0}-{%.0f1}% Energy Reserve
+tagCharManaLimitReserveReductionModifierR=-({%.0f0}-{%.0f1}%) Energy Reserve
+tagCharRunSpeedR={%+.0f0}-{%.0f1}% Movement Speed
+tagCharSpellCastSpeedR={%+.0f0}-{%.0f1}% Casting Speed
+tagCharAttackSpeedR={%+.0f0}-{%.0f1}% Attack Speed
+tagCharTotalSpeedModifierR={%+.0f0}-{%.0f1}% Total Speed
+tagCharRunSpeedModifierR={%+.0f0}-{%.0f1}% Movement Speed
+tagCharSpellCastSpeedModifierR={%+.0f0}-{%.0f1}% Casting Speed
+tagCharAttackSpeedModifierR={%+.0f0}-{%.0f1}% Attack Speed
+tagCharOffensiveAbilityR={%+.0f0}-{%.0f1} Offensive Ability
+tagCharDefensiveAbilityR={%+.0f0}-{%.0f1} Defensive Ability
+tagCharOffensiveAbilityModifierR={%+.0f0}-{%.0f1}% Offensive Ability
+tagCharDefensiveAbilityModifierR={%+.0f0}-{%.0f1}% Defensive Ability
+tagCharDefensiveBlockRecoveryReductionR=-({%.0f0}-%.0f1})% Shield Recovery Time
+tagCharEnergyAbsorptionPercentR={%+.0f0}-{%.0f1}% Energy Absorbed from Enemy Spells
+tagCharDodgePercentR={%.0f0}-{%.0f1}% Chance to Avoid Melee Attacks
+tagCharDeflectProjectilesR={%.0f0}-{%.0f1}% Chance to Avoid Projectiles
+tagCharIncreasedExperienceR={%+.0f0}-{%.0f1}% Experience Gained
+tagCharLightRadiusR={%+.0f0}-{%.0f1}% Light Radius
+tagCharItemGlobalReductionR={%.0f0}-{%.0f1}% Reduction to all Requirements
+tagCharLevelReqReductionR=-({%.0f0}-{%.0f1}) Player Level Requirement for Items
+tagCharArmorStrengthReqReductionR=-({%.0f0}-{%.0f1}%) Physique Requirement for Armor
+tagCharArmorDexterityReqReductionR=-({%.0f0}--{%.0f1}%) Cunning Requirement for Armor
+tagCharArmorIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) Spirit Requirement for Armor
+tagCharJewelryIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) Spirit Requirement for Jewelry
+tagCharJewelryStrengthReqReductionR=-({%.0f0}-{%.0f1}%) Physique Requirement for Jewelry
+tagCharJewelryDexterityReqReductionR=-({%.0f0}-{%.0f1}%) Cunning Requirement for Jewelry
+tagCharShieldStrengthReqReductionR=-({%.0f0}-{%.0f1}%) Physique Requirement for Shields
+tagCharShieldIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) Spirit Requirement for Shields
+tagCharShieldDexterityReqReductionR=-({%.0f0}-{%.0f1}%) Cunning Requirement for Shields
+tagCharMeleeStrengthReqReductionR=-({%.0f0}-{%.0f1}%) Physique Requirement for Melee Weapons
+tagCharMeleeDexterityReqReductionR=-({%.0f0}-{%.0f1}%) Cunning Requirement for Melee Weapons
+tagCharMeleeIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) Spirit Requirement for Melee Weapons
+tagCharHuntingStrengthReqReductionR=-({%.0f0}-{%.0f1}%) Physique Requirement for Ranged Weapons
+tagCharHuntingDexterityReqReductionR=-({%.0f0}-{%.0f1}%) Cunning Requirement for Ranged Weapons
+tagCharHuntingIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) Spirit Requirement for Ranged Weapons
+tagCharStaffIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) Spirit Requirement for Staff Weapons
+tagCharStaffStrengthReqReductionR=-({%.0f0}-{%.0f1}%) Physique Requirement for Staff Weapons
+tagCharStaffDexterityReqReductionR=-({%.0f0}-{%.0f1}%) Cunning Requirement for Staff Weapons
+tagCharWeaponIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) Spirit Requirement for all Weapons
+tagCharWeaponStrengthReqReductionR=-({%.0f0}-{%.0f1}%) Physique Requirement for all Weapons
+tagCharWeaponDexterityReqReductionR=-({%.0f0}-{%.0f1}%) Cunning Requirement for all Weapons
+
+SkillManaCostReductionR=-{%.0f0}% Skill Energy Cost
+SkillCooldownReductionR=+{%.0f0}% Skill Cooldown Reduction
+SkillProjectileSpeedModifierR={%+.0f0}% Increase in Projectile Speed
+SkillManaCostReductionModifierR=-{%.0f0}% Skill Energy Cost
+SkillCooldownReductionModifierR=-{%.0f0}% Skill Recharge
 
 tagAttackSpeedNotSet=Rychlost:  nezadáno
 tagAttackSpeedVerySlow=Rychlost:  velmi pomalá
@@ -644,45 +980,45 @@ tagAttackSpeedAverage=Rychlost:  průměrná
 tagAttackSpeedFast=Rychlost:  rychlá
 tagAttackSpeedVeryFast=Rychlost:  velmi rychlá
 
-tagCharOffensiveAbility={%+.0f0} útočná schopnost
-tagCharDefensiveAbility={%+.0f0} obranná schopnost
-tagCharOffensiveAbilityModifier={%+.0f0}% útočné schopnosti
-tagCharDefensiveAbilityModifier={%+.0f0}% obranné schopnosti
+tagCharOffensiveAbility={%+.0f0} {^E}útočná schopnost
+tagCharDefensiveAbility={%+.0f0} {^E}obranná schopnost
+tagCharOffensiveAbilityModifier={%+.0f0}% {^E}útočné schopnosti
+tagCharDefensiveAbilityModifier={%+.0f0}% {^E}obranné schopnosti
 
-tagCharDefensiveBlockRecoveryReduction={-%.0f0}% doby obnovení štítu
-tagCharEnergyAbsorptionPercent=={%+.0f0}% absorpce energie z nepřátelských kouzel
-tagCharDodgePercent={%.0f0}% šance se vyhnout útokům zblízka
-tagCharDeflectProjectiles={%.0f0}% šance se vyhnout projektilům
+tagCharDefensiveBlockRecoveryReduction={-%.0f0}% {^E}doby obnovení štítu
+tagCharEnergyAbsorptionPercent=={%+.0f0}% {^E}absorpce energie z nepřátelských kouzel
+tagCharDodgePercent={%.0f0}% {^E}šance se vyhnout útokům zblízka
+tagCharDeflectProjectiles={%.0f0}% {^E}šance se vyhnout projektilům
 
-tagCharIncreasedExperience={%+.0f0}% získaných zkušeností
-tagCharLightRadius={%+.0f0}% dosah světla
+tagCharIncreasedExperience={%+.0f0}% {^E}získaných zkušeností
+tagCharLightRadius={%+.0f0}% {^E}dosah světla
 
-tagCharItemGlobalReduction={%.0f0}% snížení všech požadavků
-tagCharLevelReqReduction=-{%.0f0} úrovně hráče na nošení předmětů
-tagCharArmorStrengthReqReduction=-{%.0f0}% fyzické kondice pro výstroj
-tagCharArmorDexterityReqReduction=-{%.0f0}% rafinovanosti pro výstroj
-tagCharArmorIntelligenceReqReduction=-{%.0f0}% duchovna pro výstroj
-tagCharJewelryIntelligenceReqReduction=-{%.0f0}% duchovna pro šperky
-tagCharJewelryStrengthReqReduction=-{%.0f0}% fyzické kondice pro šperky
-tagCharJewelryDexterityReqReduction=-{%.0f0}% rafinovanosti pro šperky
-tagCharShieldStrengthReqReduction=-{%.0f0}% fyzické kondice pro štíty
-tagCharShieldIntelligenceReqReduction=-{%.0f0}% duchovna pro štíty
-tagCharShieldDexterityReqReduction=-{%.0f0}% rafinovanosti pro štíty
-tagCharMeleeStrengthReqReduction=-{%.0f0}% fyzické kondice pro zbraně na blízko
-tagCharMeleeDexterityReqReduction=-{%.0f0}% rafinovanosti pro zbraně na blízko
-tagCharMeleeIntelligenceReqReduction=-{%.0f0}% duchovna pro zbraně na blízko
-tagCharHuntingStrengthReqReduction=-{%.0f0}% fyzické kondice pro střelné zbraně
-tagCharHuntingDexterityReqReduction=-{%.0f0}% rafinovanosti pro střelné zbraně
-tagCharHuntingIntelligenceReqReduction=-{%.0f0}% duchovna pro střelné zbraně
-tagCharStaffIntelligenceReqReduction=-{%.0f0}% duchovna pro hole
-tagCharStaffStrengthReqReduction=-{%.0f0}% fyzické kondice pro hole
-tagCharStaffDexterityReqReduction=-{%.0f0}% rafinovanosti pro hole
-tagCharWeaponIntelligenceReqReduction=-{%.0f0}% duchovna na všechny zbraně
-tagCharWeaponStrengthReqReduction=-{%.0f0}% fyzické kondice na všechny zbraně
-tagCharWeaponDexterityReqReduction=-{%.0f0}% rafinovanosti na všechny zbraně
+tagCharItemGlobalReduction={%.0f0}% {^E}snížení všech požadavků
+tagCharLevelReqReduction=-{%.0f0} {^E}úrovně hráče na nošení předmětů
+tagCharArmorStrengthReqReduction=-{%.0f0}% {^E}fyzické kondice pro výstroj
+tagCharArmorDexterityReqReduction=-{%.0f0}% {^E}rafinovanosti pro výstroj
+tagCharArmorIntelligenceReqReduction=-{%.0f0}% {^E}duchovna pro výstroj
+tagCharJewelryIntelligenceReqReduction=-{%.0f0}% {^E}duchovna pro šperky
+tagCharJewelryStrengthReqReduction=-{%.0f0}% {^E}fyzické kondice pro šperky
+tagCharJewelryDexterityReqReduction=-{%.0f0}% {^E}rafinovanosti pro šperky
+tagCharShieldStrengthReqReduction=-{%.0f0}% {^E}fyzické kondice pro štíty
+tagCharShieldIntelligenceReqReduction=-{%.0f0}% {^E}duchovna pro štíty
+tagCharShieldDexterityReqReduction=-{%.0f0}% {^E}rafinovanosti pro štíty
+tagCharMeleeStrengthReqReduction=-{%.0f0}% {^E}fyzické kondice pro zbraně na blízko
+tagCharMeleeDexterityReqReduction=-{%.0f0}% {^E}rafinovanosti pro zbraně na blízko
+tagCharMeleeIntelligenceReqReduction=-{%.0f0}% {^E}duchovna pro zbraně na blízko
+tagCharHuntingStrengthReqReduction=-{%.0f0}% {^E}fyzické kondice pro střelné zbraně
+tagCharHuntingDexterityReqReduction=-{%.0f0}% {^E}rafinovanosti pro střelné zbraně
+tagCharHuntingIntelligenceReqReduction=-{%.0f0}% {^E}duchovna pro střelné zbraně
+tagCharStaffIntelligenceReqReduction=-{%.0f0}% {^E}duchovna pro hole
+tagCharStaffStrengthReqReduction=-{%.0f0}% {^E}fyzické kondice pro hole
+tagCharStaffDexterityReqReduction=-{%.0f0}% {^E}rafinovanosti pro hole
+tagCharWeaponIntelligenceReqReduction=-{%.0f0}% {^E}duchovna na všechny zbraně
+tagCharWeaponStrengthReqReduction=-{%.0f0}% {^E}fyzické kondice na všechny zbraně
+tagCharWeaponDexterityReqReduction=-{%.0f0}% {^E}rafinovanosti na všechny zbraně
 
-tagChanceOf={%.1f0}% šance na 
-tagChanceTo={%.1f0}% šance na 
+tagChanceOf={%.1f0}% {^E}šance na {^H}
+tagChanceTo={%.1f0}% {^E}šance na {^H}
 
 Strength=Fyzická kondice
 Dexterity=Rafinovanost
@@ -724,9 +1060,9 @@ SkillPointFormat={%d0} bod(y) dovedností
 AttributePointFormat={%d0} bod(y) atributů
 MenuName=Jméno:
 MenuLevel=Úroveň:   {%d0}
-ItemSkillIncrement={+%d0} k dovednosti {%s1}
-ItemMasteryIncrement={+%d0} na všechny dovednosti v {%s1}
-ItemAllSkillIncrement={+%d0} na všechny dovednosti
+ItemSkillIncrement={+%d0} {^E}k dovednosti {%s1}
+ItemMasteryIncrement={+%d0} {^E}na všechny dovednosti v {%s1}
+ItemAllSkillIncrement={+%d0} {^E}na všechny dovednosti
 ItemBasicAttributeBanner={^w}
 ItemBonusAttributeBanner={^b}
 tagPerSecond= za sekundu
@@ -743,34 +1079,34 @@ SkillIntFormat={%d0 %s1}
 SkillFloatFormat={%.0f0 %s1}
 SkillFloat1Format={%.1f0 %s1}
 SkillFloat2Format={%.2f0 %s1}
-SkillSecondFormat={%s1 %.1f0 sekund}
-SkillDistanceFormat={%s1 %.1f0 metrů}
+SkillSecondFormat={%s1 %.1f0 {^E}sekund}
+SkillDistanceFormat={%s1 %.1f0 {^E}metrů}
 SkillCostFormat={%.0f0 %s1}
 SkillPercentFormat={%.0f0% %s1}
 SkillNumProjectilesFormat=Vystřelí {%d0} projektilů
-SkillWeaponDamageFormat={%.0f0%} zranění zbraní
+SkillWeaponDamageFormat={%.0f0%} {^E}zranění zbraní
 SkillChargeFactor=za úroveň nabití
-SkillChargeMax=Úrovně nabití
+SkillChargeMax={^E}Úrovně nabití
 SkillChargeDuration=Trvání úrovně nabití
 SkillChargeFactorMod=zvyšuje za úroveň nabití
 SkillChargeMaxMod=Úrovně nabití
 SkillChargeDurationMod=zvyšuje v trvání nabití
-SkillChanceWeight={%d0}% šance na použití
-SkillActivationChance=šance na aktivování
-SkillDamageAbsorption={%.0f0} pohlcení zranění
-SkillDamageAbsorptionPercent={%.0f0}% pohlcení zranění
-SkillPetLimit={%d0} limit přivolání
-SkillLifeBonus={%+.1f0} obnoveného zdraví
-SkillManaBonus={%+.1f0} obnovené energie
-SkillLifePercent={%.1f0}% obnoveného zdraví
-SkillManaPercent={%.1f0}% obnovené energie
-SkillLifeBonusAndPercent={%.0f1}% + {%.0f0} obnoveného zdraví
-SkillManaBonusAndPercent={%.0f1}% + {%.0f0} obnovené energie
+SkillChanceWeight={%d0}% {^E}šance na použití
+SkillActivationChance={^E}šance na aktivování
+SkillDamageAbsorption={%.0f0} {^E}pohlcení zranění
+SkillDamageAbsorptionPercent={%.0f0}% {^E}pohlcení zranění
+SkillPetLimit={%d0} {^E}limit přivolání
+SkillLifeBonus={%+.1f0} {^E}obnoveného zdraví
+SkillManaBonus={%+.1f0} {^E}obnovené energie
+SkillLifePercent={%.1f0}% {^E}obnoveného zdraví
+SkillManaPercent={%.1f0}% {^E}obnovené energie
+SkillLifeBonusAndPercent={%.0f1}% + {%.0f0} {^E}obnoveného zdraví
+SkillManaBonusAndPercent={%.0f1}% + {%.0f0} {^E}obnovené energie
 SkillPetDescriptionHeading=^o{%s0} ~ atributy:
 tagSkillPetAbilities=^o{%s0} ~ schopnosti:
 SkillPetDescriptionNextHeading=Další {%s0} úroveň:
-SkillPetDescriptionHealth=    {%.0f0}  zdraví
-SkillPetDescriptionMana=    {%.0f0}  energie
+SkillPetDescriptionHealth=    {%.0f0}  {^E}zdraví
+SkillPetDescriptionMana=    {%.0f0}  {^E}energie
 SkillPetDescriptionDamageMinOnly=    {%.0f0}  zranění
 SkillPetDescriptionDamageMinMax=    {%.0f0} - {%.0f1}  zranění
 tagSkillPetTimeToLive=Žije pouze {%.1f0} sekund
@@ -783,40 +1119,41 @@ YouMustIncreaseMasteryLevel=Pro přidání více bodů musíš zvýšit úroveň
 EnableOneBaseSkill=Alespoň jedna požadovaná dovednost musí být povolena
 MaxSkillLevelReached=Dosažena maximální úroveň dovednosti
 ActiveMasteriesAllowedReached=Byl dosažen počet aktivních povolání
-LifeMonitorPercent=Aktivovat, pokud zdraví klesne pod hodnotu {%.1f0}%
+LifeMonitorPercent={^E}Aktivovat, pokud zdraví klesne pod hodnotu {^H}{%.1f0}%
 FailedSkillDependancy=Požadavek ~ {%s0}
-ManaCost=energie za použití
-ActiveLifeCost= aktivního zdraví za sekundu
-ActiveManaCost= aktivní energie za sekundu
+ManaCost={^E}energie za použití
+ActiveLifeCost={^E} aktivního zdraví za sekundu
+ActiveManaCost={^E} aktivní energie za sekundu
 ActiveDuration=Doba účinkování:
 TargetRadius=Dosah:
-TargetAngle=Zásah v úhlu {%.0f0} stupňů
-TargetNumber={%d0} cílů maximálně
-CooldownTime=Čas na obnovení dovednosti:
+TargetAngle={^E}Zásah v úhlu {^H}{%.0f0} {^E}stupňů
+TargetNumber={%d0} {^E}cílů maximálně
+CooldownTime={^E}Čas na obnovení dovednosti:
 ExplosionRadius=Dosah:
 ProjectileLaunchRotation=Rozsah projektilů: {%.1f0} stupňů
 ProjectileLaunchNumber={%d0} projektilů
-ProjectileFragmentsLaunchNumberMinMax={%d0 - %d1} úlomků
-ProjectileFragmentsLaunchNumber={%d0} úlomků
-ProjectilePiercingChance={%.1f0}% šance na projití skrz nepřátele
+ProjectileFragmentsLaunchNumberMinMax={%d0 - %d1} {^E}úlomků
+ProjectileFragmentsLaunchNumber={%d0} {^E}úlomků
+ProjectilePiercingChance={%.1f0}% {^E}šance na projití skrz nepřátele
+
+
+tagTooltipPetsHeader=Spojenci
+tagTooltipSkillsHeader=Přidělené dovednosti
+
+tagShieldBlockInfo={%.0f0}% šance na vykrytí {^W}{%.0f1} zranění
 
 
 
+SkillManaCostReduction=-{%.0f0}% {^E}energie dovednosti
+SkillCooldownReduction=-{%.0f0}% {^E}snížení času obnovy dovednosti
+SkillProjectileSpeedModifier={%+.0f0}% {^E}zrychlení projektilů
+SkillManaCostReductionModifier=-{%.0f0}% {^E}energie dovednosti
+SkillCooldownReductionModifier=-{%.0f0}% {^E}času obnovy dovednosti
 
-tagShieldBlockInfo={%.0f0}% šance na vykrytí {%.0f1} zranění
-
-
-
-SkillManaCostReduction=-{%.0f0}% energie
-SkillCooldownReduction=-{%.0f0}% času obnovy dovednosti
-SkillProjectileSpeedModifier={%+.0f0}% zrychlení projektilů
-SkillManaCostReductionModifier=-{%.0f0}% energie
-SkillCooldownReductionModifier=-{%.0f0}% času obnovy dovednosti
-
-GlobalChanceOfAllTag=Šance na:
-GlobalChanceOfOneTag=Šance na jedno z následujících:
-GlobalPercentChanceOfAllTag={%.1f0}% Šance na:
-GlobalPercentChanceOfOneTag={%.1f0}% Šance na jedno z následujících:
+GlobalChanceOfAllTag={^E}Šance na: {^H}
+GlobalChanceOfOneTag={^E}Šance na jedno z následujících: {^H}
+GlobalPercentChanceOfAllTag={%.1f0}% {^E}Šance na: {^H}
+GlobalPercentChanceOfOneTag={%.1f0}% {^E}Šance na jedno z následujících: {^H}
 tagIndent={     }
 tagDamageAbsorptionTitle=Ochrana proti:
 formatQualifyingDamage={     %s0}
@@ -836,233 +1173,310 @@ DamageInfluenceSingleFormat={%.1f0}
 DamageInfluenceRangeFormat={%.1f0}-{%.1f1}
 DamageReflexSingleFormat={%.1f0}
 DamageReflexRangeFormat={%.1f0}-{%.1f1}
-DamageSingleFormatTime= více než {%.1f0} sekund
-DamageRangeFormatTime= více než {%.1f0}-{%.1f1} sekund
-DamageFixedSingleFormatTime= na {%.1f0} sekundy
-DamageFixedRangeFormatTime= na {%.1f0} - {%.1f1} sekund
+DamageSingleFormatTime= {^E}více než {^H}{%.1f0} {^E}sekund
+DamageRangeFormatTime= {^E}více než {^H}{%.1f0}-{%.1f1} {^E}sekund
+DamageFixedSingleFormatTime= {^E}na {^H}{%.1f0} {^E}sekundy
+DamageFixedRangeFormatTime={^E} na {^H}{%.1f0} - {%.1f1} {^E}sekund
+tagDurationDamageOverTime={%d0} {^E}Damage Over {^H}{%.1f1} {^E}Seconds
+tagDotBleeding=Bleeding
+tagDotCold=Chilled
+tagDotFire=Burning
+tagDotPoison=Poisoned
+tagDotLightning=Electrocuted
+tagDotChaos=Chaos
+tagDotAether=Aether
+tagDotLifeLeech=Life Leech
 
 tagSecond=sekund
 tagSeconds=sekundy
+DamagePhysicalChance= {^E}fyzického zranění
 DamageBasePhysical= fyzického zranění
 DamageBasePierceRatio={%.0f0}% proražení zbroje
-DamageBonusPhysical=+{%t0} fyzického zranění
+DamageBasePierceRatioR={%.0f0}-{%.0f1}% proražení zbroje
+DamageBonusPhysical=+{%t0} {^E}fyzického zranění
 tagDamageBaseFire= základního zranění ohněm
 tagDamageBaseLightning= základního zranění bleskem
 tagDamageBaseCold= Základního zranění ledem
 tagDamageBaseVitality= základního zranění ztrátou životní energie
 tagDamageBasePoison= základního zranění kyselinou
-DamageCold={%t0} zranění ledem
-DamageFire={%t0} zranění ohněm
-DamageAether={%t0} zranění Éterem
-DamageChaos={%t0} zranění chaosem
-DamageLife={%t0} zranění ztrátou životní energie
-DamageLifeLeech={%t0}% útočného zranění převedeno do zdraví
-DamageLightning={%t0} zranění blesky
-DamageElemental={%t0} zranění živly
-DamageModifierElemental={%+.0f0}% zranění živly
-DamagePhysical=+{%t0} fyzického zranění
-DamagePierce={%t0} zranění probodnutím
-DamagePoison={%t0} zranění kyselinou
-DamageKnockdown= Skolení protivníka na {%t0} {%z1}
-DamageStun= Omráčení protivníka na {%t0} {%z1}
-DamageFreeze= Zmražení protivníka na {%t0} {%z1}
-DamagePetrify= Ochromení protivníka na {%t0} {%z1}
-DamageTrap= Znehybnění protivníka na {%t0} {%z1}
+DamageCold={%t0} {^E}zranění ledem
+DamageFire={%t0} {^E}zranění ohněm
+DamageAether={%t0} {^E}zranění Éterem
+DamageChaos={%t0} {^E}zranění chaosem
+DamageLife={%t0} {^E}zranění ztrátou životní energie
+DamageLifeLeech={%t0}% {^E}útočného zranění převedeno do zdraví
+DamageLightning={%t0} {^E}zranění blesky
+DamageElemental={%t0} {^E}zranění živly
+DamageModifierElemental={%+.0f0}% {^E}zranění živly
+DamageModifierElementalR={%+.0f0}-{%.0f1}% {^E}zranění živly
+DamagePhysical=+{%t0} {^E}fyzického zranění
+DamagePierce={%t0} {^E}zranění probodnutím
+DamagePoison={%t0} {^E}zranění kyselinou
+DamageKnockdown={^E}Skolení protivníka na {^H}{%t0} {^E}{%z1}
+DamageStun={^E}Omráčení protivníka na {^H}{%t0} {^E}{%z1}
+DamageFreeze={^E}Zmražení protivníka na {^H}{%t0} {^E}{%z1}
+DamagePetrify={^E}Ochromení protivníka na {^H}{%t0} {^E}{%z1}
+DamageTrap={^E}Znehybnění protivníka na {^H}{%t0} {^E}{%z1}
 DamageTaunt=Posměch
-DamageConvert= Ovládnutí protivníkovy mysli na {%t0} {%z1}
-DamageFear= Vyděšení nepřítele na {%t0} {%z1}
-DamageConfusion= Zmatení nepřítele na {%t0} {%z1}
-DamageDisruption= Narušení protivníkovy dovednosti {%t0} {%z1}
-DamagePercentCurrentLife= Snížení protivníkova zdraví o {%t0}%
-DamageManaDrain={%t0}% vysáté energie
-DamageManaBurnRatio= ({%.0f0}% vysáté energie způsobeného zraněním)
-DamageModifierManaBurn={%.0f0}% vysáté energie způsobeného zranění
+DamageConvert={^E}Ovládnutí protivníkovy mysli na {^H}{%t0} {^E}{%z1}
+DamageFear={^E}Vyděšení nepřítele na {^H}{%t0} {^E}{%z1}
+DamageConfusion={^E}Zmatení nepřítele na {^H}{%t0} {^E}{%z1}
+DamageDisruption={^E}Narušení protivníkovy dovednosti {^H}{%t0} {^E}{%z1}
+DamagePercentCurrentLife={^E}Snížení protivníkova zdraví o {^H}{%t0}%
+DamageManaDrain={%t0}% {^E}vysáté energie
+DamageManaBurnRatio= {^E}({^H}{%.0f0}% {^E}vysáté energie způsobeného zraněním)
+DamageModifierManaBurn={%.0f0}% {^E}vysáté energie způsobeného zranění
 
-DamageDurationAttackSpeed=% zpomalení nepřátelského útoku
-DamageDurationCold= zranění omrzlinami
-DamageDurationReduced= snížení obrany
-DamageDurationFire= zranění popálením
-DamageDurationLife= zranění ztrátou životní energie
-DamageDurationLifeLeach= vysátí života
-DamageDurationLightning= zranění elektrickým proudem
-DamageDurationManaLeach= vysátí energie
-DamageDurationOffensiveAbility= snížení nepřátelské útočné schopnosti
-DamageDurationOffensiveReduction= snížení nepřátelského fyzického zranění
-DamageDurationDefensiveAbility= snížení nepřátelské obranyschopnosti
-DamageDurationDefensiveReduction= snížení nepřátelské zbroje
-DamageDurationPhysical= zranění vnitřním poraněním
-DamageDurationPoison= zranění jedem
-DamageDurationTotalSpeed=% zpomalení nepřítele
-DamageDurationRunSpeed=% zpomalení nepřátelského pohybu
-DamageDurationSpellCastSpeed=% zpomalení nepřátelského kouzlení
-DamageDurationBleeding= zranění krvácením
+DamageDurationAttackSpeed=% {^E}zpomalení nepřátelského útoku
+DamageDurationCold= {^E}zranění omrzlinami
+DamageDurationReduced= {^E}snížení obrany
+DamageDurationFire= {^E}zranění popálením
+DamageDurationLife= {^E}zranění ztrátou životní energie
+DamageDurationLifeLeach= {^E}vysátí života
+DamageDurationLightning= {^E}zranění elektrickým proudem
+DamageDurationManaLeach= {^E}vysátí energie
+DamageDurationOffensiveAbility= {^E}snížení nepřátelské útočné schopnosti
+DamageDurationOffensiveReduction= {^E}snížení nepřátelského fyzického zranění
+DamageDurationDefensiveAbility= {^E}snížení nepřátelské obranyschopnosti
+DamageDurationDefensiveReduction= {^E}snížení nepřátelské zbroje
+DamageDurationPhysical= {^E}zranění vnitřním poraněním
+DamageDurationPoison= {^E}zranění jedem
+DamageDurationTotalSpeed=% {^E}zpomalení nepřítele
+DamageDurationRunSpeed=% {^E}zpomalení nepřátelského pohybu
+DamageDurationSpellCastSpeed=% {^E}zpomalení nepřátelského kouzlení
+DamageDurationBleeding= {^E}zranění krvácením
 
-DamageTotalDamageReductionPercent=% snížení nepřátelského zranění
-DamageTotalDamageReductionAbsolute= snížení nepřátelského zranění
-DamageTotalResistanceReductionPercent=% snížení nepřátelských odolností
-DamageTotalResistanceReductionAbsolute= snížení nepřátelských odolností
-DamageDurationFumble=% šance, že nepřítel promáchne svůj útok
-DamageDurationProjectileFumble=% šance narušení zamíření na cíl
+DamageTotalDamageReductionPercent=% {^E}snížení nepřátelského zranění
+DamageTotalDamageReductionAbsolute= {^E}snížení nepřátelského zranění
+DamageTotalResistanceReductionPercent=% {^E}snížení nepřátelských odolností
+DamageTotalResistanceReductionAbsolute= {^E}snížení nepřátelských odolností
+DamageDurationFumble=% {^E}šance, že nepřítel promáchne svůj útok
+DamageDurationProjectileFumble=% {^E}šance narušení zamíření na cíl
 
-DamageModifierPhysical={%+.0f0}% fyzického zranění
-DamageModifierPierceRatio={%+.0f0}% proražení zbroje
-DamageModifierPierce={%+.0f0}% zranění probodnutím
-DamageModifierCold={%+.0f0}% zranění ledem
-DamageModifierFire={%+.0f0}% zranění ohněm
-DamageModifierPoison={%+.0f0}% zranění kyselinou
-DamageModifierLightning={%+.0f0}% zranění bleskem
-DamageModifierLife={%+.0f0}% zranění ztrátou životní síly
-DamageModifierStun={%+.0f0}% trvání omráčení
-DamageModifierChaos={%+.0f0}% zranění chaosem
-DamageModifierAether={%+.0f0}% zranění Éterem
-DamageModifierKnockdown={%+.0f0}% trvání doražení
+DamageModifierPhysical={%+.0f0}% {^E}fyzického zranění
+DamageModifierPhysicalR={%+.0f0}-{%.0f1}% {^E}fyzického zranění
+DamageModifierPierceRatio={%+.0f0}% {^E}proražení zbroje
+DamageModifierPierceRatioR={%+.0f0}-{%.0f1}% {^E}proražení zbroje
+DamageModifierPierce={%+.0f0}% {^E}zranění probodnutím
+DamageModifierPierceR={%+.0f0}-{%.0f1}% {^E}zranění probodnutím
+DamageModifierCold={%+.0f0}% {^E}zranění ledem
+DamageModifierColdR={%+.0f0}-{%.0f1}% {^E}zranění ledem
+DamageModifierFire={%+.0f0}% {^E}zranění ohněm
+DamageModifierFireR={%+.0f0}-{%.0f1}% {^E}zranění ohněm
+DamageModifierPoison={%+.0f0}% {^E}zranění kyselinou
+DamageModifierPoisonR={%+.0f0}-{%.0f1}% {^E}zranění kyselinou
+DamageModifierLightning={%+.0f0}% {^E}zranění bleskem
+DamageModifierLightningR={%+.0f0}-{%.0f1}% {^E}zranění bleskem
+DamageModifierLife={%+.0f0}% {^E}zranění ztrátou životní síly
+DamageModifierLifeR={%+.0f0}-{%.0f1}% {^E}zranění ztrátou životní síly
+DamageModifierStun={%+.0f0}% {^E}trvání omráčení
+DamageModifierStunR={%+.0f0}-{%.0f1}% {^E}trvání omráčení
+DamageModifierChaos={%+.0f0}% {^E}zranění chaosem
+DamageModifierChaosR={%+.0f0}-{%.0f1}% {^E}zranění chaosem
+DamageModifierAether={%+.0f0}% {^E}zranění Aetherem
+DamageModifierAetherR={%+.0f0}-{%.0f1}% {^E}zranění Aetherem
+DamageModifierKnockdown={%+.0f0}% {^E}trvání doražení
+DamageModifierKnockdownR={%+.0f0}-{%.0f1}% {^E}trvání doražení
 
-DamageDurationModifierPhysical={%+.0f0}% zranění vnitřím poraněním
-DamageDurationModifierBleeding={%+.0f0}% zranění krvácením
-DamageDurationModifierCold={%+.0f0}% zranění omrzlinami
-DamageDurationModifierFire={%+.0f0}% zranění popálením
-DamageDurationModifierPoison={%+.0f0}% zranění jedem
-DamageDurationModifierLightning={%+.0f0}% zranění elektrickým proudem
-DamageDurationModifierLife={%+.0f0}% ztráty životní síly
-DamageDurationModifierAttackSpeed={%+.0f0}% zpomalení útoku
-DamageDurationModifierSpellCastSpeed={%+.0f0}% zpomalení kouzlení
-DamageDurationModifierRunSpeed={%+.0f0}% zpomalení pohybu
-DamageDurationModifierLifeLeach={%+.0f0}% vysátí života
-DamageDurationModifierManaLeach={%+.0f0}% vysátí energie
-DamageDurationModifierOffensiveAbility={%+.0f0}% útočné schopnosti
-DamageDurationModifierDefensiveAbility={%+.0f0}% obranné schopnosti
-DamageDurationModifierOffensiveReduction={%+.0f0}% snížení nepřátelského fyzického zranění
-ImprovedTimeFormat= se zvýšenou dobou trvání o {%+.0f0}%
+DamageDurationModifierPhysical={%+.0f0}% {^E}zranění vnitřím poraněním
+DamageDurationModifierBleeding={%+.0f0}% {^E}zranění krvácením
+DamageDurationModifierCold={%+.0f0}% {^E}zranění omrzlinami
+DamageDurationModifierFire={%+.0f0}% {^E}zranění popálením
+DamageDurationModifierPoison={%+.0f0}% {^E}zranění jedem
+DamageDurationModifierLightning={%+.0f0}% {^E}zranění elektrickým proudem
+DamageDurationModifierLife={%+.0f0}% {^E}ztráty životní síly
+DamageDurationModifierAttackSpeed={%+.0f0}% {^E}zpomalení útoku
+DamageDurationModifierSpellCastSpeed={%+.0f0}% {^E}zpomalení kouzlení
+DamageDurationModifierRunSpeed={%+.0f0}% {^E}zpomalení pohybu
+DamageDurationModifierLifeLeach={%+.0f0}% {^E}vysátí života
+DamageDurationModifierManaLeach={%+.0f0}% {^E}vysátí energie
+DamageDurationModifierOffensiveAbility={^E}snížení nepřátelské útočné schopnosti o {^H}{%+.0f0}%
+DamageDurationModifierDefensiveAbility={^E}snížení nepřátelské obranné schopnosti o {^H}{%+.0f0}%
+DamageDurationModifierOffensiveReduction={^E}snížení nepřátelského fyzického zranění{%+.0f0}%
+ImprovedTimeFormat={^E}se zvýšenou dobou trvání o {^H}{%+.0f0}%
+ImprovedTimeFormatR= {^E}se zvýšenou dobou trvání o {^H}{%+.0f0}-{%.0f1}%
 
-RetaliationCold={%t0} odplaty ledem
-RetaliationFire={%t0} odplaty ohněm
-RetaliationLife={%t0} odplaty životní silou
-RetaliationLightning={%t0} odplaty bleskem
-RetaliationElemental={%t0} odplaty živlem
-RetaliationPhysical={%t0} odplaty fyzickým zraněním
-RetaliationPierce={%t0} odplaty bodnutím
-RetaliationPoison={%t0} odplaty kyselinou
-RetaliationStun={%t0}s odplaty omráčením
-RetaliationPercentCurrentLife=Odplata způsobí {%t0}% snížení života nepřítele
-RetaliationDurationAttackSpeed=% odplaty zpomalením útoku
-RetaliationDurationCold= odplaty omrzlinami
-RetaliationDurationDefensiveAbility= odplaty snížením obrany
-RetaliationDurationFire= odplaty popálením
-RetaliationDurationLife= odplaty ztrátou životní síly
-RetaliationDurationLifeLeach= odplaty vysátím života
-RetaliationDurationLightning= odplaty elektrickým proudem
-RetaliationDurationManaLeach= odplaty vysátím energie
-RetaliationDurationOffensiveAbility= odplaty útočnou schopností
-RetaliationDurationOffensiveReduction= odplaty snížením zranění
-RetaliationDurationPhysical= odplaty vnitřním zraněním
-RetaliationDurationBleeding= odplaty krvácením
-RetaliationDurationPoison= odplaty jedem
-RetaliationDurationRunSpeed=% odplaty zpomalením pohybu
-RetaliationDurationSpellCastSpeed=% odplaty zpomalením kouzlení
-RetaliationModifierPhysical={%+.0f0}% odplaty fyzickým zraněním
-RetaliationModifierPierceRatio={%+.0f0}% odplaty probodnutím
-RetaliationModifierPierce={%+.0f0}% odplaty bodným zraněním
-RetaliationModifierCold={%+.0f0}% odplaty ledem
-RetaliationModifierFire={%+.0f0}% odplaty ohněm
-RetaliationModifierPoison={%+.0f0}% odplaty jedem a kyselinou
-RetaliationModifierLightning={%+.0f0}% odplaty bleskem
-RetaliationModifierLife={%+.0f0}% odplaty zraněním životní síly
-RetaliationModifierStun={%+.0f0}% odplaty omráčením
+RetaliationCold={%t0} {^E}odplaty ledem
+RetaliationFire={%t0} {^E}odplaty ohněm
+RetaliationLife={%t0} {^E}odplaty životní silou
+RetaliationLightning={%t0} {^E}odplaty bleskem
+RetaliationElemental={%t0} {^E}odplaty živlem
+RetaliationPhysical={%t0} {^E}odplaty fyzickým zraněním
+RetaliationPierce={%t0} {^E}odplaty bodnutím
+RetaliationPoison={%t0} {^E}odplaty kyselinou
+RetaliationAether={%t0} {^E}Aether Retaliation
+RetaliationChaos={%t0} {^E}Chaos Retaliation
+RetaliationStun={%t0} {^E}{%z1} odplaty omráčením
+RetaliationFreeze={%t0} {^E}{%z1} of Freeze Retaliation
+RetaliationPetrify={%t0} {^E}{%z1} of Petrify Retaliation
+RetaliationTrap={%t0} {^E}{%z1} of Immobilize Retaliation
+RetaliationConvert={%t0} {^E}{%z1} of Mind Control Retaliation
+RetaliationFear={%t0} {^E}{%z1} of Terrify Retaliation
+RetaliationConfusion={%t0} {^E}{%z1} of Confuse Retaliation
+RetaliationSleep={%t0} {^E}{%z1} of Sleep Retaliation
+RetaliationPercentCurrentLife={^E}Odplata způsobí {^H}{%t0}% {^E}snížení života nepřítele
+RetaliationDurationAttackSpeed=% {^E}odplaty zpomalením útoku
+RetaliationDurationCold= {^E}odplaty omrzlinami
+RetaliationDurationDefensiveAbility= {^E}odplaty snížením obrany
+RetaliationDurationFire= {^E}odplaty popálením
+RetaliationDurationLife= {^E}odplaty ztrátou životní síly
+RetaliationDurationLifeLeach= {^E}odplaty vysátím života
+RetaliationDurationLightning= {^E}odplaty elektrickým proudem
+RetaliationDurationManaLeach= {^E}odplaty vysátím energie
+RetaliationDurationOffensiveAbility= {^E}odplaty útočnou schopností
+RetaliationDurationOffensiveReduction= {^E}odplaty snížením zranění
+RetaliationDurationPhysical={^E}odplaty vnitřním zraněním
+RetaliationDurationBleeding= {^E}odplaty krvácením
+RetaliationDurationPoison= {^E}odplaty jedem
+RetaliationDurationRunSpeed=% {^E}odplaty zpomalením pohybu
+RetaliationDurationSpellCastSpeed=% {^E}odplaty zpomalením kouzlení
+RetaliationModifierPhysical={%+.0f0}% {^E}odplaty fyzickým zraněním
+RetaliationModifierPierceRatio={%+.0f0}% {^E}odplaty probodnutím
+RetaliationModifierPierce={%+.0f0}% {^E}odplaty bodným zraněním
+RetaliationModifierCold={%+.0f0}% {^E}odplaty ledem
+RetaliationModifierFire={%+.0f0}% {^E}odplaty ohněm
+RetaliationModifierPoison={%+.0f0}% {^E}odplaty jedem a kyselinou
+RetaliationModifierLightning={%+.0f0}% {^E}odplaty bleskem
+RetaliationModifierAether={%+.0f0}% {^E}odplaty Aetherem
+RetaliationModifierChaos={%+.0f0}% {^E}odplaty chaosem
+RetaliationModifierElemental={%+.0f0}% {^E}odplaty živlem
+RetaliationModifierLife={%+.0f0}% {^E}odplaty zraněním životní síly
+RetaliationModifierStun={%+.0f0}% {^E}odplaty omráčením
+RetaliationModifierSleep={%+.0f0}% {^E}Sleep Retaliation
+RetaliationDurationModifierPhysical={%+.0f0}% {^E}Internal Trauma Retaliation
+RetaliationDurationModifierBleeding={%+.0f0}% {^E}Bleeding Retaliation
+RetaliationDurationModifierCold={%+.0f0}% {^E}Frostburn Retaliation
+RetaliationDurationModifierDefensiveAbility={%+.0f0}% {^E}Reduced Defense Retaliation
+RetaliationDurationModifierFire={%+.0f0}% {^E}Burn Retaliation
+RetaliationDurationModifierLife={%+.0f0}% {^E}Vitality Decay Retaliation
+RetaliationDurationModifierLifeLeach={%+.0f0}% {^E}Life Leech Retaliation
+RetaliationDurationModifierLightning={%+.0f0}% {^E}Electrocute Retaliation
+RetaliationDurationModifierManaLeach={%+.0f0}% {^E}Energy Leech Retaliation
+RetaliationDurationModifierOffensiveAbility={%+.0f0}% {^E}Offensive Ability Retaliation
+RetaliationDurationModifierOffensiveReduction={%+.0f0}% {^E}Damage Reduction Retaliation
+RetaliationDurationModifierPoison={%+.0f0}% {^E}Poison Retaliation
 
 DefenseAbsorptionProtection={%.0f0} zbroje
-DefenseAbsorptionProtectionBonus=+{%.0f0} zbroje
-DefensePhysical={%.0f0}% odolnost vůči fyzickému zranění
-DefensePierce={%.0f0}% odolnost vůči probodnutí
-DefenseElementalResistance={%.0f0}% odolnost vůči živlům
-DefenseCold={%.0f0}% odolnost vůči ledu
-DefenseFire={%.0f0}% odolnost vůči ohni
-DefenseAether={%.0f0}% odolnost vůči Éteru
-DefenseChaos={%.0f0}% odolnost vůči chaosu
-DefensePoison={%.0f0}% odolnost vůči jedu a kyselinám
-DefenseLightning={%.0f0}% odolnost vůči bleskům
-DefenseLife={%.0f0}% odolnost vůči ztrátě životní síly
-DefenseStun={%.0f0}% snížení trvání omráčení
-DefenseLifeLeach={%.0f0}% odolnost vůči vysátí života
-DefenseManaLeach={%.0f0}% odolnost vůči vysátí energie
-DefenseTrap={%.0f0}% snížení doby chycení do pasti
-DefenseFreeze={%.0f0}% snížení doby zmražení
-DefenseKnockdown={%.0f0}% snížení doby doražení
-DefensePetrify={%.0f0}% snížení doby zkamenění
-DefenseTaunt={%.0f0}% ochrany proti vyprovokání (pouze pro spojence nebo pasti)
-DefenseConvert={%.0f0}% snížení doby trvání ovládnutí mysli (pouze pro spojence nebo pasti)
-DefenseFear={%.0f0}% snížení doby trvání strachu (pouze pro spojence nebo pasti)
-DefenseConfusion={%.0f0}% snížení doby trvání zmatení (pouze pro spojence nebo pasti)
-DefenseDisruption={%.0f0}% ochrany před narušením dovednosti
-DefensePercentLife={%.0f0}% odolnost vůči ztrátě životní síly
-DefenseBleeding={%.0f0}% odolnost vůči krvácení
-DefenseBlock={%.0f0} vykrytého zranění
-DefenseReflect={%.0f0}% odraženého zranění
-DefensePhysicalDuration={%.0f0}% snížení trvání fyzického zranění
-DefenseBleedingDuration={%.0f0}% snížení doby krvácení
-DefenseColdDuration={%.0f0}% snížení doby omrznutí
-DefenseFireDuration={%.0f0}% snížení doby popálení
-DefensePoisonDuration={%.0f0}% snížení doby účinku jedu
-DefenseLightningDuration={%.0f0}% snížení doby elektrického šoku
-DefenseLifeDuration={%.0f0}% snížení doby ztráty životní síly
-DefenseLifeLeachDuration={%.0f0}% snížení doby vysávání života
-DefenseManaLeachDuration={%.0f0}% snížení doby vysávání energie
-DefenseProtectionModifier=Zvýšení ochrany výstroje o {%.0f0}%
-DefenseAbsorptionModifier=Zvýšení pohlcení zranění o {%.0f0}%
-DefensePhysicalModifier=Zvýšení fyzické odolnosti o  {%.0f0}%
-DefensePierceModifier=Zvýšení odolnosti vůči probodnutí o {%.0f0}%
-DefenseColdModifier=Zvýšení odolnosti vůči ledu o {%.0f0}%
-DefenseFireModifier=Zvýšení odolnosti vůči ohni o {%.0f0}%
-DefensePoisonModifier=Zvýšení odolnosti vůči jedu a kyselinám o {%.0f0}%
-DefenseLightningModifier=Zvýšení odolnosti vůči bleskům o {%.0f0}%
-DefenseLifeModifier=Zvýšení odolnosti vůči ztrátě životnísíly o {%.0f0}%
-DefenseStunModifier=Zvýšení odolnosti vůči omráčení o {%.0f0}%
-DefenseBlockModifier=Zvýšení šance vykrytí štítem o {%.0f0}%
-DefenseLifeLeachModifier=Zvýšení odolnosti vůči vysátí života o {%.0f0}%
-DefenseManaLeachModifier=Zvýšení odolnosti vůči vysátí energie o {%.0f0}%
-DefensePercentLifeModifier=Zvýšení odolnosti vůči procentuální ztrátě života o {%.0f0}%
-DefenseBleedingModifier=Zvýšení odolnosti vůči krvácení o {%.0f0}%
-DefensePhysicalDurationModifier={%+.0f0}% snížení doby zranění
-DefenseBleedingDurationModifier={%+.0f0}% snížení doby krvácení
-DefenseColdDurationModifier={%+.0f0}% snížení doby omrznutí
-DefenseFireDurationModifier={%+.0f0}% snížení doby popálení
-DefensePoisonDurationModifier={%+.0f0}% snížení doby účinku jedu
-DefenseLightningDurationModifier={%+.0f0}% snížení doby účinku elektrického proudu
-DefenseLifeDurationModifier={%+.0f0}% snížení doby ztráty životní síly
-DefenseLifeLeachDurationModifier={%+.0f0}% snížení doby vysávání života
-DefenseManaLeachDurationModifier={%+.0f0}% snížení doby vysávání energie
+DefenseAbsorptionProtectionR={%.0f0}-{%.0f1} zbroje
+DefenseAbsorptionProtectionBonus=+{%.0f0} {^E}zbroje
+DefenseAbsorptionProtectionBonusR=+{%.0f0}-{%.0f1} {^E}zbroje
+DefensePhysical={%.0f0}% {^E}odolnost vůči fyzickému zranění
+DefensePhysicalR={%.0f0}-{%.0f1}% {^E}odolnost vůči fyzickému zranění
+DefensePierce={%.0f0}% {^E}odolnost vůči probodnutí
+DefensePierceR={%.0f0}-{%.0f1}% {^E}odolnost vůči probodnutí
+DefenseElementalResistance={%.0f0}% {^E}odolnost vůči živlům
+DefenseElementalResistanceR={%.0f0}-{%.0f1}% {^E}odolnost vůči živlům
+DefenseCold={%.0f0}% {^E}odolnost vůči ledu
+DefenseColdR={%.0f0}-{%.0f1}% {^E}odolnost vůči ledu
+DefenseFire={%.0f0}% {^E}odolnost vůči ohni
+DefenseFireR={%.0f0}-{%.0f1}% {^E}odolnost vůči ohni
+DefenseAether={%.0f0}% {^E}odolnost vůči Aetheru
+DefenseAetherR={%.0f0}-{%.0f1}% {^E}odolnost vůči Aetheru
+DefenseChaos={%.0f0}% {^E}odolnost vůči chaosu
+DefenseChaosR={%.0f0}-{%.0f1}% {^E}odolnost vůči chaosu
+DefensePoison={%.0f0}% {^E}odolnost vůči jedu a kyselinám
+DefensePoisonR={%.0f0}-{%.0f1}% {^E}odolnost vůči jedu a kyselinám
+DefenseLightning={%.0f0}% {^E}odolnost vůči bleskům
+DefenseLightningR={%.0f0}-{%.0f1}% {^E}odolnost vůči bleskům
+DefenseLife={%.0f0}% {^E}odolnost vůči ztrátě životní síly
+DefenseLifeR={%.0f0}-{%.0f1}% {^E}odolnost vůči ztrátě životní síly
+DefenseStun={%.0f0}% {^E}snížení trvání omráčení
+DefenseStunR={%.0f0}-{%.0f1}% {^E}snížení trvání omráčení
+DefenseLifeLeach={%.0f0}% {^E}odolnost vůči vysátí života
+DefenseLifeLeachR={%.0f0}-{%.0f1}% {^E}odolnost vůči vysátí života
+DefenseManaLeach={%.0f0}% {^E}odolnost vůči vysátí energie
+DefenseManaLeachR={%.0f0}-{%.0f1}% {^E}odolnost vůči vysátí energie
+DefenseTrap={%.0f0}% {^E}snížení doby chycení do pasti
+DefenseTrapR={%.0f0}-{%.0f1}% {^E}snížení doby chycení do pasti
+DefenseFreeze={%.0f0}% {^E}snížení doby zmražení
+DefenseFreezeR={%.0f0}-{%.0f1}% {^E}snížení doby zmražení
+DefenseKnockdown={%.0f0}% {^E}snížení doby doražení
+DefenseKnockdownR={%.0f0}-{%.0f1}% {^E}snížení doby doražení
+DefensePetrify={%.0f0}% {^E}snížení doby zkamenění
+DefensePetrifyR={%.0f0}-{%.0f1}% {^E}snížení doby zkamenění
+DefenseTaunt={%.0f0}% {^E}ochrany proti vyprovokání (pouze pro spojence nebo pasti)
+DefenseConvert={%.0f0}% {^E}snížení doby trvání ovládnutí mysli (pouze pro spojence nebo pasti)
+DefenseFear={%.0f0}% {^E}snížení doby trvání strachu (pouze pro spojence nebo pasti)
+DefenseConfusion={%.0f0}% {^E}snížení doby trvání zmatení (pouze pro spojence nebo pasti)
+DefenseDisruption={%.0f0}% {^E}ochrany před narušením dovednosti
+DefensePercentLife={%.0f0}% {^E}odolnost vůči ztrátě životní síly
+DefenseBleeding={%.0f0}% {^E}odolnost vůči krvácení
+DefenseBlock={%.0f0} {^E}vykrytého zranění
+DefenseReflect={%.0f0}% {^E}odraženého zranění
+DefensePhysicalDuration={%.0f0}% {^E}snížení trvání fyzického zranění
+DefenseBleedingDuration={%.0f0}% {^E}snížení doby krvácení
+DefenseColdDuration={%.0f0}% {^E}snížení doby omrznutí
+DefenseFireDuration={%.0f0}% {^E}snížení doby popálení
+DefensePoisonDuration={%.0f0}% {^E}snížení doby účinku jedu
+DefenseLightningDuration={%.0f0}% {^E}snížení doby elektrického šoku
+DefenseLifeDuration={%.0f0}% {^E}snížení doby ztráty životní síly
+DefenseLifeLeachDuration={%.0f0}% {^E}snížení doby vysávání života
+DefenseManaLeachDuration={%.0f0}% {^E}snížení doby vysávání energie
+DefenseProtectionModifier={^E}Zvýšení ochrany výstroje o {%.0f0}%
+DefenseProtectionModifierR={^E}Zvýšení ochrany výstroje o {^H}{%.0f0}-{%.0f1}%
+DefenseAbsorptionModifier={^E}Zvýšení pohlcení zranění o {%.0f0}%
+DefenseAbsorptionModifierR={^E}Zvýšení pohlcení zranění o {^H}{%.0f0}-{%.0f1}%
+DefensePhysicalModifier={^E}Zvýšení fyzické odolnosti o  {%.0f0}%
+DefensePierceModifier={^E}Zvýšení odolnosti vůči probodnutí o {%.0f0}%
+DefenseColdModifier={^E}Zvýšení odolnosti vůči ledu o {%.0f0}%
+DefenseFireModifier={^E}Zvýšení odolnosti vůči ohni o {%.0f0}%
+DefensePoisonModifier={^E}Zvýšení odolnosti vůči jedu a kyselinám o {%.0f0}%
+DefenseLightningModifier={^E}Zvýšení odolnosti vůči bleskům o {%.0f0}%
+DefenseLifeModifier={^E}Zvýšení odolnosti vůči ztrátě životnísíly o {%.0f0}%
+DefenseStunModifier={^E}Zvýšení odolnosti vůči omráčení o {%.0f0}%
+DefenseBlockModifier={^E}Zvýšení šance vykrytí štítem o {%.0f0}%
+DefenseLifeLeachModifier={^E}Zvýšení odolnosti vůči vysátí života o {%.0f0}%
+DefenseChaosModifier={^E}Zvýšení odolnosti vůči chaosu o {^H}{%.0f0}%
+DefenseAetherModifier={^E}Zvýšení odolnosti vůči Aetheru o {^H}{%.0f0}%
+DefenseManaLeachModifier={^E}Zvýšení odolnosti vůči vysátí energie o {%.0f0}%
+DefensePercentLifeModifier={^E}Zvýšení odolnosti vůči procentuální ztrátě života o {%.0f0}%
+DefenseBleedingModifier={^E}Zvýšení odolnosti vůči krvácení o {%.0f0}%
+DefenseElementalModifier={^E}Zvýšení odolnosti vůči živlům o {^H}{%.0f0}%
+DefensePhysicalDurationModifier={%+.0f0}% {^E}snížení doby zranění
+DefenseBleedingDurationModifier={%+.0f0}% {^E}snížení doby krvácení
+DefenseColdDurationModifier={%+.0f0}% {^E}snížení doby omrznutí
+DefenseFireDurationModifier={%+.0f0}% {^E}snížení doby popálení
+DefensePoisonDurationModifier={%+.0f0}% {^E}snížení doby účinku jedu
+DefenseLightningDurationModifier={%+.0f0}% {^E}snížení doby účinku elektrického proudu
+DefenseLifeDurationModifier={%+.0f0}% {^E}snížení doby ztráty životní síly
+DefenseLifeLeachDurationModifier={%+.0f0}% {^E}snížení doby vysávání života
+DefenseManaLeachDurationModifier={%+.0f0}% {^E}snížení doby vysávání energie
 
-RacialBonusPercentDamage={%+.0f0}% zranění na {%s1}
-RacialBonusAbsoluteDamage={%+.0f0} zranění na {%s1}
-RacialBonusPercentDefense={%.0f0}% menší zranění z {%s1}
-RacialBonusAbsoluteDefense={%.0f0} menší zranění z {%s1}
+RacialBonusPercentDamage={%+.0f0}% {^E}zranění na {%s1}
+RacialBonusAbsoluteDamage={%+.0f0} {^E}zranění na {%s1}
+RacialBonusPercentDefense={%.0f0}% {^E}menší zranění z {%s1}
+RacialBonusAbsoluteDefense={%.0f0} {^E}menší zranění z {%s1}
 RacialBonusRaceName={%s0}
 
 
-tagDamageSleep=Uspi nepřítele na {%t0} {%z1}
-tagDamageModifierSleep={%+.0f0}% zranění spánkem
-tagDefenseSleep={%.0f0}% odlonost vůči spánku
-tagDefenseSleepModifier={%+.0f0}% odolnost vůči spánku
-tagDamageModifierTotalDamage={%+.0f0}% celkového zranění
-tagTotalSpeedResistance={%.0f0}% odolnost vůči zpomalení
+tagDamageSleep={^E}Uspat nepřítele na {^H}{%t0} {^E}{%z1}
+tagDamageModifierSleep={%+.0f0}% {^E}zranění spánkem
+tagDefenseSleep={%.0f0}% {^E}odolnost vůči spánku
+tagDefenseSleepModifier={%+.0f0}% {^E}odolnost vůči spánku
+tagDamageModifierTotalDamage={%+.0f0}% {^E}celkového zranění
+tagTotalSpeedResistance={%.0f0}% {^E}odolnost vůči zpomalení
 tagMindcontrolledMonster=Ovládaný myšlenkami
 tagSparkMaxNumber=Ovlivňuje až {%d0} nepřátel
 
 tagItemGrantSkill=Přiděluje dovednost:
-tagItemSkill=   (přiděleno předmětem)
-tagItemSkillShort=   (předmět)
+tagItemSkill= (přiděleno předmětem)
+tagItemSkillShort= (předmět)
+tagEffect=Efekt:
+tagSkillGrantEffect=Druhotný efekt:
 
 tagInspectTitle=Prohlédnout
 tagInspectOption=Prohlédnout si hráče
 tagInspectWarning=Tento hráč je příliš daleko než abys sis jej mohl prohlédnout.
 tagGroup01=Povoleny souboje mezi hráči
 tagGroup02=Automatické seskupování povoleno
-tagAutoItemSkill=   (uděleno předmětem - pasivní aktivace)
+tagAutoItemSkill= (uděleno předmětem - pasivní aktivace)
 tagExclusiveSkill=Exkluzivní dovednosti - pouze jedna exkluzivní dovednost může být aktivována najednou.
 
 tagAutoSort=Automatické řazení
 tagAttributeUndo=Zpět
 
 tagQuestItem=Úkolový předmět
+
 
 tagCR_Jewelry=Šperky:
 tagRelicError=Nemůžeš použít relikvie na veteránské nebo elitní předměty.
@@ -1102,6 +1516,7 @@ tagSelectAllPets=Vybrat všechny spojence
 tagPortraitAggressive=Nastavit na agresivní chování
 tagPortraitNormal=Nastavit na normální chování
 tagPortraitDefensive=Nastavit na obranné chování
+tagPortraitHireling=Prohlédnout
 
 tagMove=Pohyb
 tagForceMove=Přímý pohyb
@@ -1151,6 +1566,9 @@ tagMPMapName=Název mapy:
 tagMPServerName=Název serveru:
 tagMPPing=Ping:
 tagMPTime=Uplynulý čas hry:
+tagMPServer=Název serveru: {%t0}
+tagMPIPAddress=IP: {%t0}
+tagMPPort=Port: {%t0}
 tagMPErrorNoTarget=Tento hráč je pro zaměření příliš daleko.
 tagTradeError01={%t0} momentálně obchoduje s jiným hráčem.
 tagTradeError02={%t0} odmítl tvůj požadavek na obchod.
