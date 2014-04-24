@@ -124,7 +124,7 @@ tagTutorialTip39SubtitleA=Odstraňování komponent
 tagTutorialTip39TextB=Odstranění komponent z předmětů stojí poplatek úměrný sjednocené hodnotě předmětu a komponenty. Pro započetí odstranění umísti předmět s komponentou k vynálezci.{^N}{^N}Můžeš zachovat buď předmět nebo komponentu.{^N}{^N}Pokud zachováš předmět, komponenta bude zničena. A samozřejmě to platí i obráceně.{^N}{^N}
 
 tagTutorialTip42Title=Kovář
-tagTutorialTip42TextA=Kovář je schopný vytvářet předmět mocnou silou. Je to už zkušený řemeslník, ale jeho znalosti mohou být prohloubeny pomocí nových plánků.
+tagTutorialTip42TextA=Kovář je schopný vytvářet předmět mocnou silou. Je to už zkušený řemeslník a všechno co vyrobí, obsahuje malý kovářský bonus, ale jeho znalosti mohou být prohloubeny pomocí nových plánků.
 tagTutorialTip42SubtitleA=Plánky
 tagTutorialTip42TextB=Kovář se naučí, jak vyrábět nové předměty, jakmile najdeš nový plánek. Plánky mohou být získány z úkolů, nebo je lze najít různě po světě.
 tagTutorialTip42SubtitleB=Vytváření předmětů
@@ -134,6 +134,6 @@ tagTutorialTip43Title=Plánky
 tagTutorialTip43TextA=Plánky jsou zapomenuté šablony pro vytváření mocných předmětů, které může kovář zkoumat.
 tagTutorialTip43TextB=Aby ses naučil plánku, klikni na něj pravým tlačítkem myši. Pokud tento plánek ještě neznáš, bude přidán na seznam předmětů u kováře.{^n}{^n}Plánky pak zná každý kovář, ať už hraješ za jakoukoliv postavu (odděluje se pouze normální a hardcore hra). Každý plánek se tak musíš učit nanejvýše jednou.
 
-tagTutorialTip44Title=Ztracený kovář! (není v tomto sestavení hry)
+tagTutorialTip44Title=Ztracený kovář!
 tagTutorialTip44TextA=Naučil ses novému plánku, ale nemáš kováře schopného pro tebe daný předmět vytvořit.{^n}{^n}Než budeš moci vytvářet předměty, budeš muset nejdříve najít kováře.{^n}{^n}Kovář bude okamžitě vědět, jak tento předmět podle plánku vytvořit.
 tagTutorialTip44TextB=
