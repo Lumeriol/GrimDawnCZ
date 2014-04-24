@@ -202,12 +202,12 @@ tagClass02SkillDescription06A=Spustí trio malých, ale smrtících pyrotechnick
 tagClass02SkillName06B=Kulový blesk
 tagClass02SkillDescription06B=Napůl pyrotechnika, napůl chemie - toto smrtící vylepšení Termitové miny způsobuje, ze spálí nepřátele jak intezivním plamenem, tak výboji elektřiny.
 tagClass02SkillName06C=Proud plamenů
-tagClass02SkillDescription06C=Emits a deadly jet of white-hot flame to incinerate enemies that pass over it.
+tagClass02SkillDescription06C=Vytvoří smrtící proud velice teplých plamenů, který zapálí nepřátele, kteří skrze něj projdou.
 
 tagClass02SkillName07A=Neuhasitelný plamen
-tagClass02SkillDescription07A=Crossing over, as many demolitionists eventually do, into the secret arts of pyromancy provides flame and electricity that burns unnaturally long and hot.
+tagClass02SkillDescription07A=Zaměřením na tajné umění pyromancie (tak to dělá mnoho ničitelů) poskytne plamen a elektřinu, jež pálí nepřirozeně dlouho a hodně.
 tagClass02SkillName07B=Ulzuin vyvolený
-tagClass02SkillDescription07B=Those who have sacrificed much in the pursuit of pyrotechnics eventually come to be favored by Ulzuin, receiving his blessing in wreaking fiery devastation upon the world. ^o[Requires and affects Stun Jacks, Grenado and Canister Bomb]
+tagClass02SkillDescription07B=Ti, kteří obětovali mnoho při pronásledování pyrotechniky mohou vejít do přízně Ulzuina a dostane se jim tak jeho požehnání ve formě způsobení ohnivé devastace na tomto světě. ^o[Potřebuje a zároveň ovlivňuje Omračující částice, Granát a Tříštivou bombu]
 
 tagClass02SkillName08A=Černovodý koktejl
 tagClass02SkillDescription08A=Blackwater Cocktails were concocted when more conventional explosives ran low. These improvised fire bombs leave a self-fueled blaze upon impact and are particularly effective against tightly packed enemies.
