@@ -681,10 +681,10 @@ tagRecordHighestDamageTakenInfo=Most damage your character has ever received at 
 tagRecordDeath=Počet smrtí
 tagRecordDeathInfo=Číslo udává, kolikrát tvá postava zemřela.
 
-tagCharStatsSecondaryResist=Secondary Resistances:
+tagCharStatsSecondaryResist=Druhotné odolnosti:
 
-tagCharacterStats=Character Stats
-tagCharStatsFactionTitle=Factions
+tagCharacterStats=Statistiky postavy
+tagCharStatsFactionTitle=Frakce
 tagCPercentageValue={%.0f}%
 
 #Vendor
