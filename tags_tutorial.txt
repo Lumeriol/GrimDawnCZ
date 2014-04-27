@@ -128,7 +128,7 @@ tagTutorialTip42TextA=Kovář je schopný vytvářet předmět mocnou silou. Je 
 tagTutorialTip42SubtitleA=Plánky
 tagTutorialTip42TextB=Kovář se naučí, jak vyrábět nové předměty, jakmile najdeš nový plánek. Plánky mohou být získány z úkolů, nebo je lze najít různě po světě.
 tagTutorialTip42SubtitleB=Vytváření předmětů
-tagTutorialTip42TextC=Chceš-li vytvořit předmět, nejprve si vyber recept ze seznamu. Pak umísti požadované předměty do určených prostorů v rozhraní pro vytváření předmětů, nebo použij Shift + kliknutí na předmět ve svém inventáři.{^N}{^N}Jakmile jsou všechny požadované materiály na svých pozicích, stiskni tlačítko Zkombinuj, aby byl předmět vytvořen.{^N}{^N}
+tagTutorialTip42TextC=Chceš-li vytvořit předmět, nejprve si vyber recept ze seznamu. Pak umísti požadované předměty do určených prostorů v rozhraní pro vytváření předmětů, nebo použij Shift + kliknutí na předmět ve svém inventáři.{^N}{^N}Jakmile jsou všechny požadované materiály na svých pozicích, stiskni tlačítko Zkombinovat, aby byl předmět vytvořen.{^N}{^N}
 
 tagTutorialTip43Title=Plánky
 tagTutorialTip43TextA=Plánky jsou zapomenuté šablony pro vytváření mocných předmětů, které může kovář zkoumat.
