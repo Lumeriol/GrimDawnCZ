@@ -46,9 +46,9 @@ tagSkillClassName0709=
 tagSkillClassName0809=
 
 
-tagSkillClassDescription01=Vojáci císařské armády byli trénováni k přežití v těch nejhorších podmínkách a udrželi linii před těmi nejnebezpečnějšími nepřáteli říše. Vojáci upřednostňují používání zbraní na blízko jako jsou meče a štíty, ale mohou se také uplatnit jako střelci ze zálohy. Co může vojákovi chybět v množství jím uděleného poškození, to doplní svou statečností a vedením.
+tagSkillClassDescription01=Vojáci císařské armády byli trénováni k přežití v těch nejhorších podmínkách a udrželi linii před těmi nejnebezpečnějšími nepřáteli říše. Vojáci upřednostňují používání chladných zbraní jako jsou meče a štíty, ale mohou se také uplatnit jako střelci ze zálohy. Co může vojákovi chybět v množství jím uděleného poškození, to doplní svou statečností a vedením.
 
-tagSkillClassDescription02=Pyrotechničtí mistři císařské armády. Ničitelé jsou částečně inženýři a částečně kouzelníci. Byli využíváni k prolomení nepřátelských pozic a opevnění za pomoci jejich zničující výbavy různých výbušnin a destruktivní magie. Obvykle dávali přednost boji na dálku; útočili na nepřátele střelnými zbraněmi, pastmi a výbušninami. Samozřejmě jsou také schopni použít zbraň na blízko.
+tagSkillClassDescription02=Pyrotechničtí mistři císařské armády. Ničitelé jsou částečně inženýři a částečně kouzelníci. Byli využíváni k prolomení nepřátelských pozic a opevnění za pomoci jejich zničující výbavy různých výbušnin a destruktivní magie. Obvykle dávali přednost boji na dálku; útočili na nepřátele střelnými zbraněmi, pastmi a výbušninami. Samozřejmě jsou také schopni použít chladnou zbraň.
 
 tagSkillClassDescription03=Poté, co byli pronásledováni císařskými vojsky ve snaze ovládnout jejich podivnou moc, Okultisté se zaměřili na vyvolávání a vypůjčili si energii od tří čarodějnických "bohů" - Bysmiela, Solaela a Dreega. Mezi jejich různorodá umění patří odporné kletby a kouzla, která způsobují zranění jedem, kyselinou a chaotickou energií. Nevynikají v boji s mečem ani střelnou zbraní, ale mohou je použít jako dodatečnou údernou sílu.
 
@@ -80,9 +80,9 @@ tagClass01SkillName00A=Voják
 tagClass01SkillDescription00A=Velká fyzická kondice je nutná, aby voják dokázal čelit kruté realitě v oblastech Cairnu.
 
 tagClass01SkillName01A=Rychlý útok
-tagClass01SkillDescription01A=Využití povahy zbraně v boji dodá tvému útoku přirozený spád se všemi jeho klady i zápory, které, ačkoliv jsou předvídatelné, jsou neméně účinné a těžce se jim čelí. Pokud jej využiješ jako výchozí typ útoku, zvýší Rychlost útoku sílu každého třetího úderu.
+tagClass01SkillDescription01A=Využití vlastností zbraně v boji dodá tvému útoku přirozený spád se všemi jeho klady i zápory, které, ačkoliv jsou předvídatelné, jsou neméně účinné a těžce se jim čelí. Pokud jej využiješ jako výchozí typ útoku, zvýší sílu každého třetího úderu.
 tagClass01SkillName01B=Bojová formace
-tagClass01SkillDescription01B=Běsnění tvé zbraně se odráží na protivníkovi a způsobuje mu těžké krvácení. ^oSe zbraněmi na blízko způsobí odraz Rychlosti útoku další udeření nepřátel v blízkosti.
+tagClass01SkillDescription01B=Běsnění tvé zbraně rozechvěje protivníka a způsobuje mu těžké krvácení. ^oS chladnými zbraněmi zasáhne Rychlý útok i další nepřátele v blízkosti.
 tagClass01SkillName01C=Smrtící pohyb
 tagClass01SkillDescription01C=Rychlý útok udeří ohromnou silou a dává každému Rychlému útoku šanci zasadit další bolestivé rány.
 
@@ -361,7 +361,7 @@ tagClass04SkillName04B=Vražedný kruh
 tagClass04SkillDescription04B=Brutální přízračné čepele rozřeže protivníky zachycené v kruhu, z kterých začnou cákat proudy krve.
 
 tagClass04SkillName05A=Dvojité ostří
-tagClass04SkillDescription05A=Mezi ty nejzásadnější dovednosti Nočních čepelí patří také mistrovství v užívání dvou zbraní na blízko, z nichž jsou v oblibě průrazné čepele, a také čerpání živelného chladu z železa a oceli. ^oAplikuje schopnost ovládat dvě zbraně na blízko.
+tagClass04SkillDescription05A=Mezi ty nejzásadnější dovednosti Nočních čepelí patří také mistrovství v užívání dvou chladných zbraní, z nichž jsou v oblibě průrazné čepele, a také čerpání živelného chladu z železa a oceli. ^oAplikuje schopnost ovládat dvě chladné zbraně.
 tagClass04SkillName05B=Belgothianovy nůžky
 tagClass04SkillDescription05B=The brawny Belgothian was an anomaly among the lithe Nightblade masters, but he exceeded them all in raw power. Leveraging his strength in direct but lethal attacks like the shears, Belgothian could often finish an enemy in a single move. ^oToto je technika dvou zbraní.
 tagClass04SkillName05C=Amarastin rychlý řez
@@ -423,7 +423,7 @@ tagClass04SkillName13D=Nemilosrdný repertoár
 tagClass04SkillDescription13D=Efficient use of poisons and anti-clotting agents can sometimes be the deadliest weapon of all.
 
 tagClass04SkillName14A=Lethal Gambit
-tagClass04SkillDescription14A=A risky technique favored by the master of assassins Amarasta. Lethal Gambit has the potential to inflict devastating harm when carried off perfectly, but with the risk that it may falter. ^oVyžaduje zbraň na útok zblízka.
+tagClass04SkillDescription14A=A risky technique favored by the master of assassins Amarasta. Lethal Gambit has the potential to inflict devastating harm when carried off perfectly, but with the risk that it may falter. ^oVyžaduje chladnou zbraň.
 tagClass04SkillName14B=Amarasta's Blade Burst
 tagClass04SkillDescription14B=Mastery of the Lethal Gambit technique enhances it with a burst of dozens of deadly phantasmal blades which spread out from the point of attack to damage all adjacent foes.
 
@@ -883,10 +883,10 @@ tagItemSkillC060Name=Flame Burst
 tagItemSkillC060Desc=Create a burst of hellish flames around you, incinerating nearby enemies.
 
 tagItemSkillC061Name=Serpent Lash
-tagItemSkillC061Desc=Lash out at your enemy like a vile serpent, injecting your target with a deadly poison. ^oVyžaduje zbraň na útok zblízka.
+tagItemSkillC061Desc=Lash out at your enemy like a vile serpent, injecting your target with a deadly poison. ^oVyžaduje chladnou zbraň.
 
 tagItemSkillC062Name=Knockout
-tagItemSkillC062Desc=Take your opponent out of the fight with a swift and precise strike. ^oVyžaduje zbraň na útok zblízka.
+tagItemSkillC062Desc=Take your opponent out of the fight with a swift and precise strike. ^oVyžaduje chladnou zbraň.
 
 tagItemSkillC063Name=Prismatic Shield
 tagItemSkillC063Desc=Triggers the runes engraved upon these bracers, creating a protective shield around you.
@@ -898,7 +898,7 @@ tagItemSkillC065Name=Madness
 tagItemSkillC065Desc=Unleash the spirit of madness from within the mask, destroying the minds of nearby enemies.
 
 tagItemSkillC066Name=Abolish Evil
-tagItemSkillC066Desc=Banish evil with a mighty melee strike of divine retribution. ^oVyžaduje zbraň na útok zblízka.
+tagItemSkillC066Desc=Banish evil with a mighty melee strike of divine retribution. ^oVyžaduje chladnou zbraň.
 
 tagItemSkillC067Name=Tidal Wave
 tagItemSkillC067Desc=Unleash a torrent of cascading water at your enemies, a technique mastered by the foul slith.
@@ -1144,7 +1144,7 @@ tagRelicSkillB010Name=Rampage
 tagRelicSkillB010Desc=Enter an enraged state upon landing a critical blow against your target, assuring that there are more to follow.
 
 tagRelicSkillB011Name=Troll Rage
-tagRelicSkillB011Desc=Wage battle like a ruthless half-troll. When used as your default weapon attack, Troll Rage throws you into an ever deeper fury with every strike, but at the cost of focus. ^oVyžaduje zbraň na útok zblízka.
+tagRelicSkillB011Desc=Wage battle like a ruthless half-troll. When used as your default weapon attack, Troll Rage throws you into an ever deeper fury with every strike, but at the cost of focus. ^oVyžaduje chladnou zbraň.
 
 tagRelicSkillB012Name=Mutilate
 tagRelicSkillB012Desc=Mutilates your target with three quick attacks, causing heavy bleeding. ^oToto je technika dvou zbraní. Also enables the ability to dual wield melee weapons.
@@ -1186,7 +1186,7 @@ tagRelicSkillC011Name=Sacrifice
 tagRelicSkillC011Desc=Harness the power of your lifeblood to imbue your attacks with your very vitality.
 
 tagRelicSkillC012Name=Zeal
-tagRelicSkillC012Desc=Push the advantage, unleashing a flurry of attacks upon landing a critical blow. ^oVyžaduje zbraň na útok zblízka.
+tagRelicSkillC012Desc=Push the advantage, unleashing a flurry of attacks upon landing a critical blow. ^oVyžaduje chladnou zbraň.
 
 tagRelicSkillC013Name=Desolation
 tagRelicSkillC013Desc=Corrupt the very earth beneath your feet and leave it a poisonous field of death.
@@ -1216,7 +1216,7 @@ tagRelicSkillD006Name=Reckoning
 tagRelicSkillD006Desc=A vicious reckoning upon those who strike you that leaves them vulnerable to a counterattack.
 
 tagRelicSkillD007Name=Scourge Strike
-tagRelicSkillD007Desc=Strike at your enemies with a chilling blow that cuts to their very core with death's chill, returning some of the stolen vitality to you. ^oVyžaduje zbraň na útok zblízka.
+tagRelicSkillD007Desc=Strike at your enemies with a chilling blow that cuts to their very core with death's chill, returning some of the stolen vitality to you. ^oVyžaduje chladnou zbraň.
 
 tagRelicSkillD008Name=Pyroclasm
 tagRelicSkillD008Desc=Unleash a storm of hellfire that tears through the heavens to descend upon your enemies.
