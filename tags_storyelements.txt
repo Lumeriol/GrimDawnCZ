@@ -37,7 +37,7 @@ tagMapVoidlands=Pustiny
 
 tagMapBrokenHills=Sesuté kopce
 tagMapOldArkovia=Stará Arkovia
-tagMapArkovianFoothills=Arkoviánské podhůří
+tagMapArkovianFoothills=Arkovianské podhůří
 tagMapKymons=Kymonův ústup
 tagMapCoastRoad=Pobřežní cesta
 tagMapTwinFalls=Dvojspády
@@ -108,7 +108,7 @@ tagRiftWardensLabratory02=Portál ve Wardenově laboratoři
 
 tagRiftBrokenHills=Portál v Sesutých kopcích
 tagRiftOldArkovia=Portál ve Staré Arkovii
-tagRiftArkovianFoothills=Portál v Arkoviánském podhůří
+tagRiftArkovianFoothills=Portál v Arkovianském podhůří
 tagRiftCronleysHideout=Portál v Cronleyově úkrytu
 tagRiftTwinFalls=Portál u Dvojspádů
 tagRiftHighPass=Portál ve Vrchním průsmyku
@@ -138,7 +138,7 @@ tagWorldMapBurialHill=Pohřební{^n}vrch
 tagWorldMapLowerCrossing=Dolní{^n}průchod
 tagWorldMapDevilsCrossing=Ďáblův{^n}průsmyk
 tagWorldMapKymonsRetreat=Kymonův{^n}ústup
-tagWorldMapArkovianFoothills=Arkoviánské{^n}podhůří
+tagWorldMapArkovianFoothills=Arkovianské{^n}podhůří
 tagWorldMapCrumblingWatch=Rozpadlá{^n}strážní věž
 tagWorldMapTheRockyCoast=Skalnaté{^n}pobřeží
 tagWorldMapStauntonMine=Stauntonův{^n}důl
@@ -201,12 +201,12 @@ tagPOIArkovianFoothillsMineA=Vstup do Stauntonova dolu
 tagPOIArkovianFoothillsMineB=Východ ze Stauntonova dolu
 tagPOIHomesteadPassageMineA=Vstup do Pašerákova průsmyku
 tagPOIHomesteadPassageMineB=Východ z Pašeárkova průsmyku
-tagPOIOldArkoviaRuinsA=Vstup do Arkoviánského podzemního města
-tagPOIOldArkoviaRuinsB=Východ z Arkoviánského podzemního města
-tagPOIOldArkoviaRuins2A=Vstup do Arkoviánského podzemního města (2. patro)
-tagPOIOldArkoviaRuins2B=Východ z Arkoviánského podzemního města (2. patro)
-tagPOIOldArkoviaRuins3A=Vstup do Arkoviánského podzemního města (3. patro)
-tagPOIOldArkoviaRuins3B=Východ z Arkoviánského podzemního města (3. patro)
+tagPOIOldArkoviaRuinsA=Vstup do Arkovianského podzemního města
+tagPOIOldArkoviaRuinsB=Východ z Arkovianského podzemního města
+tagPOIOldArkoviaRuins2A=Vstup do Arkovianského podzemního města (2. patro)
+tagPOIOldArkoviaRuins2B=Východ z Arkovianského podzemního města (2. patro)
+tagPOIOldArkoviaRuins3A=Vstup do Arkovianského podzemního města (3. patro)
+tagPOIOldArkoviaRuins3B=Východ z Arkovianského podzemního města (3. patro)
 tagPOIBrokenHillsMylesCaveA=Vstup do Mylesova úkrytu
 tagPOIBrokenHillsMylesCaveB=Východ z Opuštěného doupěte
 tagPOIOldArkoviaMineA=Vstup do Cronleyova úkrytu
@@ -227,7 +227,7 @@ tagPOIStepsOfTorment5B=Východ z Trýznivých kroků (5. patro)
 
 tagPOIQuest_Burrwitch=Zabezpeč Burrwitchský portál
 tagPOIQuest_WardenLab=Najdi Wardenovu laboratoř
-tagPOIQuest_ArkovianFoothills=Vstup do Arkoviánského podhůří
+tagPOIQuest_ArkovianFoothills=Vstup do Arkovianského podhůří
 tagPOIQuest_Elsa=Najdi Elsu
 tagPOIQuestHomestead=Homestead
 tagPOIQuestHomesteadBridge=Dvojpádské přemostění
@@ -256,7 +256,7 @@ tagNotification_HS_WeNeedFood_HomesteadBridgeFound=Našel jsi most spojující S
 tagNotification_HS_WeNeedFood_HomesteadSmugglerPassFound=Objevil jsi alternativní cestu do Homestead.
 tagNotification_HS_WeNeedFood_HomesteadRegionFound=Objevil jsi oblast Homestead.
 tagNotification_HS_WeNeedFood_HomesteadTownFound=Nalezl jsi město Homestead.
-tagNotification_HS_OldArkoviaPassagesCompleted=Prošel jsi Arkoviánskou chodbou a prozkoumal její obsah.
+tagNotification_HS_OldArkoviaPassagesCompleted=Prošel jsi Arkovianskou chodbou a prozkoumal její obsah.
 tagNotification_HS_OldArkoviaPassagesBossKilled=Získal jsi kousek roztříštěné duše Poskvrněného!
 
 tagNotification_WarningToughArea=Na tomhle místě se nachází mnohem mocnější síly, než jsi schopen porazit...
@@ -334,7 +334,7 @@ tagNPC_Necropolis_08=Jonas
 
 tagNPC_DetonationSite=Místo výbuchu
 
-tagNPC_BrokenHillsBridge=Stanoviště opravy mostu do Arkoviánského podhůří
+tagNPC_BrokenHillsBridge=Stanoviště opravy mostu do Arkovianského podhůří
 tagNPC_OldGroveBridge=Stanoviště opravy mostu do Starého háje
 tagNPC_HomesteadBridge=Stanoviště opravy mostu do Dvojspádů
 tagNPC_WightmireBridge=Stanoviště opravy mostu do Wightmire
@@ -468,7 +468,7 @@ tagLoreObj_WardensLabC01Name=Úřední dopis pro Wardena Kriega
 tagLoreObj_WardensLabC01Text=Wardene Kriegu,{^n}{^n}Omluvte tuto primitivní formu komunikace. Nacházím se daleko na Severu a zdá se, že mé myšlenky nejsou schopny se s vámi spojit. Ve veškeré budoucí komunikaci budeme používat jména našich hostitelů a běžný lidský jazyk.{^n}{^n}Píšu vám, protože bych si rád objasnil nedávné matoucí zprávy o vašem chování.  Je pravda, že jste věznil a mučil lidi?  Jaký jste k tomu měl důvod?  Zdá se, že záliby vašeho hostitele ovlivňují vaše chování. Musíte se víc ovládat a přestat s touto zbytečnou činností.  Vaší úlohou je usnadnit našim laboratořím shromažďování mrtvol. Omezte se pouze na tuto činnost, jinak budete odvolán.
 
 tagLoreObj_VilagerNoteB01Name=Alisteřin diář
-tagLoreObj_VillagerNoteB01Text=První záznam{^n}Máma mi řekla, že sem mám začít psát, a protože je jedno kdy začnu, začnu teď, protože mám zase domácí vězení! Tak jsem zatahala Abigail za vlasy. Ona si začala! Proč ona nemusí sedět ve svém pokoji a psát si do toho jejího pitomýho deníčku?{^n}{^n}Zítra půjdu chytit tu největší žábu, kterou najdu v močálech a nechám jí sestře v pokoji. Uvidíme, jak se jí to bude líbit.{^n}{^n}Druhý záznam{^n}Tak máma četla můj deník a znovu mám domácí vězení. Žába zdrhla dřív, než ji sestra vůbec viděla! Proč ještě není doma taťka? Měl mě dnes vzít s sebou do Burrwitche, ale stále není doma z práce.{^n}{^n}Alisteřin diář - třetí záznam{^n}Máma říká, že si už nesmím chodit hrát ven. Perkins mi říkal, že se v bažinách potulují příšery, ale máma tvrdí, že žádný takový věci neexistujou a nařezala mi vařečkou, protože zase mluvím o drbech. Přála bych si, aby se taťka už vrátil domů. Chtěla bych jít do Burrwitche!{^n}{^n}Alisteřin diář - čtvrtý záznam{^n}Bojím se. Opravdu se děsně bojím. Máme mě a sestru zamkla v mém pokoji a šla se podívat ven, protože slyšela za domem nějaké zvuky. Už je to věčnost a teď slyším ty zvuky také v našem domě. Tati, prosím tě přijď domů a zažeň ty zvuky pryč. Už mě nebude víckrát zajímat Burrwitch. Jen prosím tě přijď domů, tati.
+tagLoreObj_VillagerNoteB01Text=První záznam{^n}Máma mi řekla, že sem mám začít psát, a protože je jedno kdy začnu, začnu teď, protože mám zase domácí vězení! Tak jsem zatahala Abigail za vlasy. Ona si začala! Proč ona nemusí sedět ve svém pokoji a psát si do toho jejího pitomýho deníčku?{^n}{^n}Zítra půjdu chytit tu největší žábu, kterou najdu v močálech a nechám jí sestře v pokoji. Uvidíme, jak se jí to bude líbit.{^n}{^n}Druhý záznam{^n}Tak máma četla můj deník a znovu mám domácí vězení. Žába zdrhla dřív, než ji sestra vůbec viděla! Proč ještě není doma taťka? Měl mě dnes vzít s sebou do Burrwitche, ale stále není doma z práce.{^n}{^n}Alisteřin diář - třetí záznam{^n}Máma říká, že si už nesmím chodit hrát ven. Perkins mi říkal, že se v bažinách potulují příšery, ale máma tvrdí, že žádný takový věci neexistujou a nařezala mi vařečkou, protože zase mluvím o drbech. Přála bych si, aby se taťka už vrátil domů. Chtěla bych jít do Burrwitche!{^n}{^n}Alisteřin diář - čtvrtý záznam{^n}Bojím se. Opravdu se děsně bojím. Máma mě a sestru zamkla v mém pokoji a šla se podívat ven, protože slyšela za domem nějaké zvuky. Už je to věčnost a teď slyším ty zvuky také v našem domě. Tati, prosím tě přijď domů a zažeň ty zvuky pryč. Už mě nebude víckrát zajímat Burrwitch. Jen prosím tě přijď domů, tati.
 
 TagLoreObj_VillagerNoteH01Name=Abbyho poznámka
 TagLoreObj_VillagerNoteH01Text=Město kolem mě se rozpadá. Ty věci jsou všude. Bůh ví odkud se pořád berou. Polovina vesnice Burrwitch je v plamenech a oni se přesto stále množí. Nemá smysl se tu zdržovat, takže si balím nějaké základní věci a ihned odsud odcházím. Dle slov to přichází ze severu, takže zkusím své štěstí na jihu, za Wightmire.{^n}{^n}Horace, pokud čteš tahle slova, tak se zdržuji v Ďáblově průsmyku. Je to asi to poslední místo, kde bych chtěl skončit, ale vězení zní pořád lépe než být někde v přírodě s těmito věcmi okolo. Pokud jsi stále naživu, sejdeme se tam.

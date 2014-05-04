@@ -532,9 +532,9 @@ tagBossTrollB02=Voldrak, Ničitel
 
 #Vultures
 
-tagEnemyVultureSummon=Arkoviánský kamenodráp
-tagEnemyVultureA01=Arkoviánský skálodráp
-tagEnemyVultureB01=Arkoviánský morozobák
+tagEnemyVultureSummon=Arkovianský kamenodráp
+tagEnemyVultureA01=Arkovianský skálodráp
+tagEnemyVultureB01=Arkovianský morozobák
 
 tagHeroVultureH01=Volaxna, Krvavá roklina
 tagHeroVultureH02=Plaguewing ~ Nemocný

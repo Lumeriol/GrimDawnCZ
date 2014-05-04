@@ -1748,7 +1748,7 @@ tagCompB021Name=^kOleronova krev
 tagCompB021Desc=^b"Posvátná krev boha války."^w^n(Může vylepšit všechny zbraně)
 
 tagCompB022Name=^kKilrianova roztříštěná duše
-tagCompB022Desc=^b"Poskvrněná duše Kilriana, postrachu Arkoviánského podzemního města."^w^n(Může vylepšit hrudní zbroj)
+tagCompB022Desc=^b"Poskvrněná duše Kilriana, postrachu Arkovianského Podzemního města."^w^n(Může vylepšit hrudní zbroj)
 
 
 tagCompAetherCrystal=Aetherický krystal
