@@ -23,9 +23,9 @@ tagWeaponSwordB001=[fs]Salazarova suverénní čepel
 tagWeaponSwordB001Desc=^b"Vykována z Čepele Ch'thona za jeho neochvějnou službu."
 tagWeaponSwordB002=[ms]přízračný široký meč
 tagWeaponSwordB003=[ms]přízračný dlouhý meč
-tagWeaponSwordB004=Honed Longsword
-tagWeaponSwordB005=Honed Broadsword
-tagWeaponSwordB006=Honed Conqueror
+tagWeaponSwordB004=[ms]nabroušený dlouhý meč
+tagWeaponSwordB005=[ms]nabroušený široký meč
+tagWeaponSwordB006=[ms]nabroušený dobyvatelský meč
 
 tagWeaponSwordC001=Bleskosvod
 tagWeaponSwordC002=Ohařský skus
@@ -38,7 +38,7 @@ tagWeaponSwordC006=Dráp krvavého žence
 tagWeaponSwordC007=Duelantova šavle
 tagWeaponSwordC007Desc=^b"Jemně vybalancovaná generacemi mistrovských šermířů."
 tagWeaponSwordC008=Soudcova cenzura
-tagWeaponSwordC008Desc=^b"Když se uplácení politických protivníků ukázalo jako nedostačující, Soudce ze Malmouthu zavedl alternativní způsoby jednání."
+tagWeaponSwordC008Desc=^b"Když se uplácení politických protivníků ukázalo jako nedostačující, Soudce z Malmouthu zavedl alternativní způsoby jednání."
 tagWeaponSwordC009=Ohnivá cejchovačka
 tagWeaponSwordC010=Zlodějská duše
 tagWeaponSwordC011=Chladný žár
@@ -87,9 +87,9 @@ tagWeaponBluntB006=[ms]přízračný kyj
 tagWeaponBluntB007=$[ms]Kilrianův rozbíječ lebek
 tagWeaponBluntB008=$[ms]Skinnerova louč
 tagWeaponBluntB008Desc=^b"Poslední naděje zoufalého muže..."
-tagWeaponBluntB009=Adept's Bladed Mace
-tagWeaponBluntB010=Adept's Morningstar
-tagWeaponBluntB011=Adept's Flanged Mace
+tagWeaponBluntB009=[ms]adeptův ostrý palcát
+tagWeaponBluntB010=[ms]adeptův kropáč
+tagWeaponBluntB011=[ms]adeptův obroubený palcát
 
 tagWeaponBluntC001=Aetherianská bída
 tagWeaponBluntC002=Anarchie
@@ -133,7 +133,6 @@ tagWeaponAxeB001=[ms]přízračný sekáček
 tagWeaponAxeB002=[fs]přízračná bitevní sekera
 tagWeaponAxeB003=[fs]sekera mistra jámy
 
-
 tagWeaponAxeC001=Surové ostří
 tagWeaponAxeC002=Žencův dotek
 tagWeaponAxeC002Desc=^b"Starodávný nástroj rituálního obětování, skutý dlouho mrtvými lidmi."
@@ -162,6 +161,7 @@ tagWeaponAxeD004=Motyka
 tagWeaponAxeD004Desc=^b"Legendy vypráví o smrtelníkovi, který na naléhání bohů rozštěpil horu Menhir vedví, dnes známou jako Menhirská dvojčata."
 tagWeaponAxeD005=Zatracení
 
+
 tagWeaponGun1hA001=[fs]ruční mušketa
 tagWeaponGun1hA002=[ms]howdah
 tagWeaponGun1hA003=[ms]pepperbox
@@ -173,9 +173,9 @@ tagWeaponGun1hA008=[fs]opakovací puška
 tagWeaponGun1hA009=[ms]zaměřovací revolver
 tagWeaponGun1hA010=[ns]vícehlavňové dělo
 
-tagWeaponGun1hB001=Double-Barrel Pistol
-tagWeaponGun1hB002=Hand Mortar
-tagWeaponGun1hB003=Shrapnel Pistol
+tagWeaponGun1hB001=[fs]dvouhlavňová pistole
+tagWeaponGun1hB002=[ms]ruční minomet
+tagWeaponGun1hB003=[fs]šrapnelová pistole
 
 tagWeaponGun1hC001=Ruční dělo Leandera Greena
 tagWeaponGun1hC001Desc=^b"Vzato z ledových mrtvých rukou Černovodého bandity."
@@ -224,9 +224,9 @@ tagWeaponGun2hA009=[ns]rotační dělo
 tagWeaponGun2hA010=[fs]brokovnice
 tagWeaponGun2hA011=[fs]bitevní brokovnice
 
-tagWeaponGun2hB001=Rotating Rifle
-tagWeaponGun2hB002=Frontloading Rifle
-tagWeaponGun2hB003=Shrapnel Gun
+tagWeaponGun2hB001=[fs]rotační puška
+tagWeaponGun2hB002=[fs]předovka
+tagWeaponGun2hB003=[fs]šrapnelová puška
 
 tagWeaponGun2hC001=Lovec
 tagWeaponGun2hC002=Oko
@@ -298,15 +298,15 @@ tagWeaponMelee2hA009=[fs]palice
 tagWeaponMelee2hA010=[ms]perlík
 tagWeaponMelee2hA011=[fs]válečná palice
 
-tagWeaponMelee2hB001=Troll Headsmasher
-tagWeaponMelee2hB002=Troll Skullcrusher
-tagWeaponMelee2hB003=Brutal Great Axe (2H NYI)
-tagWeaponMelee2hB004=Brutal Carver (2H NYI)
-tagWeaponMelee2hB005=[ms]brutální stínač hlav (2H NYI)
-tagWeaponMelee2hB006=Alkamos' Scythe
-tagWeaponMelee2hB007=Spectral War Axe
-tagWeaponMelee2hB008=Alkamos' Warsword
-tagWeaponMelee2hB009=Spectral Warmaul
+tagWeaponMelee2hB001=[ms]trolův rozbíječ hlav
+tagWeaponMelee2hB002=[ms]trolův drtič lebek
+tagWeaponMelee2hB003=[fs]brutální velká sekyra (obouruční zbraň)
+tagWeaponMelee2hB004=[ms]brutální kráječ (obouruční zbraň)
+tagWeaponMelee2hB005=[ms]brutální stínač hlav (obouruční zbraň)
+tagWeaponMelee2hB006=[fs]Alkamosova kosa
+tagWeaponMelee2hB007=[fs]přízračná válečná sekyra
+tagWeaponMelee2hB008=[ms]Alkamosův válečný meč
+tagWeaponMelee2hB009=[fs]přízračná válečná palice
 
 tagWeaponMelee2hC001=Vykuchávající škubač střev
 tagWeaponMelee2hC002=Masakr
@@ -374,15 +374,15 @@ tagShieldA007=[fs]egida
 tagShieldA008=[fs]tarče
 tagShieldA009=[ms]rondaš
 tagShieldA010=[fs]pavéza
-tagShieldB005=Battle Shield
-tagShieldB006=Siege Shield
-tagShieldB007=Sovereign Shield
 
 tagShieldB001=[fs]Wardenova hradba
 tagShieldB001Desc=^b"Kovaná z kalené oceli s bezohlednou nenávistí."
 tagShieldB002=[fs]Wardenona záštita
 tagShieldB003=[ms]přízračný štít
 tagShieldB004=[ms]přízračný válečný štít
+tagShieldB005=[ms]bitevní štít
+tagShieldB006=[ms]taras
+tagShieldB007=[ms]výsostný štít
 
 tagShieldC001=Obránce Ďáblova průsmyku
 tagShieldC002=Elementum
@@ -420,7 +420,7 @@ tagQualityShieldA07=[ms]zvštralý[fs]zvštralá[ns]zvštralé[mp]zvštralé[fp]
 tagQualityShieldA08=[ms]vyztužený[fs]vyztužená[ns]vyztužené[mp]vyztužené[fp]vyztužené[np]vyztužené
 tagQualityShieldA09=[ms]útočný[fs]útočná[ns]útočné[mp]útočné[fp]útočné[np]útočné
 tagQualityShieldA10=[ms]císařský[fs]císařská[ns]císařské[mp]císařské[fp]císařské[np]císařské
-tagQualityShieldA11=Exalted
+tagQualityShieldA11=[ms]vznešený[fs]vznešená[ns]vznešené[mp]vznešené[fp]vznešené[np]vznešené
 
 
 #Focus
@@ -436,7 +436,7 @@ tagFocusA013=[ms]tajemný kodex
 tagFocusA007=[fs]runová kost
 tagFocusA008=[fs]ďáblova podobizna
 tagFocusA009=[ms]vyleptaný roh
-tagFocusA010=[fs]lebka s piktogramem
+tagFocusA010=[fs]zdobená lebka
 tagFocusA011=[fs]barbarská hůlka
 tagFocusA012=[fs]podivná hůlka
 tagFocusA014=[fs]podivná hůlka
@@ -445,12 +445,12 @@ tagFocusB001=Zarthuzellanův kodex
 tagFocusB001Desc=^b"Vyplněný hořlavým vzýváním k vysvěcení nevěřících."
 tagFocusB002=Rolderathisův tlustopis
 tagFocusB002Desc=^b"Slova v této knize zchladí tvé srdce jejich nesnesitelnou nenávistí."
-tagFocusB003A=Glyphed Archive
-tagFocusB003B=Occult Horn
-tagFocusB004A=Glyphed Spellbook
-tagFocusB004B=Occult Skull
-tagFocusB005A=Glyphed Tome
-tagFocusB005B=Occult Wand
+tagFocusB003A=Zdobená kniha
+tagFocusB003B=Okultní roh
+tagFocusB004A=Zdobená kniha kouzel
+tagFocusB004B=Okultní lebka
+tagFocusB005A=Zdobený tlustopis
+tagFocusB005B=Okultní hůlka
 
 tagFocusC001=Demence
 tagFocusC002=Zdrcující vůle
@@ -497,7 +497,7 @@ tagQualityWeaponMetal05=[ms]zabarvený[fs]zabarvená[ns]zabarvené[mp]zabarvené
 tagQualityWeaponMetal06=[ms]jezdecký[fs]jezdecká[ns]jezdecké[mp]jezdecké[fp]jezdecké[np]jezdecké
 tagQualityWeaponMetal07=[ms]útočný[fs]útočná[ns]útočné[mp]útočné[fp]útočné[np]útočné
 tagQualityWeaponMetal08=[ms]císařský[fs]císařská[ns]císařské[mp]císařské[fp]císařské[np]císařské
-tagQualityWeaponMetal09=Exalted
+tagQualityWeaponMetal09=[ms]vznešený[fs]vznešená[ns]vznešené[mp]vznešené[fp]vznešené[np]vznešené
 
 tagQualityWeaponWood01=[ms]rozlámaný[fs]rozlámaná[ns]rozlámané[mp]rozlámané[fp]rozlámané[np]rozlámané
 tagQualityWeaponWood02=[ms]zabarvený[fs]zabarvená[ns]zabarvené[mp]zabarvené[fp]zabarvené[np]zabarvenéprimitivní
@@ -509,7 +509,7 @@ tagQualityWeaponWood07=[ms]zabarvený[fs]zabarvená[ns]zabarvené[mp]zabarvené[
 tagQualityWeaponWood08=[ms]jezdecký[fs]jezdecká[ns]jezdecké[mp]jezdecké[fp]jezdecké[np]jezdecké
 tagQualityWeaponWood09=[ms]útočný[fs]útočná[ns]útočné[mp]útočné[fp]útočné[np]útočné
 tagQualityWeaponWood10=[ms]císařský[fs]císařská[ns]císařské[mp]císařské[fp]císařské[np]císařské
-tagQualityWeaponMetal09=Exalted
+tagQualityWeaponMetal09=[ms]vznešený[fs]vznešená[ns]vznešené[mp]vznešené[fp]vznešené[np]vznešené
 
 
 #ARMOR_STYLES
@@ -560,9 +560,9 @@ tagStyle039=[ms]nováčkovský[fs]nováčkovská[ns]nováčkovské[mp]nováčkov
 tagStyle040=[ms]učňovský[fs]učňovská[ns]učňovské[mp]učňovské[fp]učňovské[np]učňovské
 
 #ArmorClass
-tagArmorClass01=Caster Armor
-tagArmorClass02=Light Armor
-tagArmorClass03=Heavy Armor
+tagArmorClass01=kouzelnická zbroj
+tagArmorClass02=lehká zbroj
+tagArmorClass03=těžká zbroj
 
 #ArmorHead
 
@@ -587,10 +587,10 @@ tagHeadB003=[fs]vystouplá helma
 tagHeadB004=[fs]vystouplá přilbice
 tagHeadB005=[fs]vrahova čapka
 tagHeadB006=[fs]vrahova kápě
-tagHeadB007=Adept's Hood
-tagHeadB008=Ranger's Helm
-tagHeadB009=Adept's Circlet
-tagHeadB010=Ranger's Casque
+tagHeadB007=[fs]adeptova kapuce
+tagHeadB008=[fs]lovcova helma
+tagHeadB009=[fs]adeptova čelenka
+tagHeadB010=[fs]lovcova přilbice
 
 tagHeadC001=Stormcaller's Circlet
 tagHeadC002=Berserker's Cowl
@@ -603,8 +603,8 @@ tagHeadC006=Guardsman's Helm
 tagHeadC007=Cestovatelova pokrývka hlavy
 tagHeadC008=Maiven's Hood
 tagHeadC009=Bloodreaper's Cowl
-tagHeadC010=Eye of the Beholder
-tagHeadC010Desc=^b"A gazer eye worn by a mad witch obsessed with appearances and beauty."
+tagHeadC010=Civějící oko
+tagHeadC010Desc=^b"Zírající oko nošené šílenou čarodějnicí posedlou vzhledem a krásou."
 tagHeadC011=Mask of Delirium
 tagHeadC012=Tempest of the Void
 tagHeadC013=Glory of the Silver Knight
@@ -709,7 +709,7 @@ tagTorsoA017C=[fs]róba
 
 tagTorsoB001=[fs]vrahova zbroj
 tagTorsoB002=[ms]vrahův hrudní plát
-tagTorsoB003=Fortified Doublet
+tagTorsoB003=[ms]vyztužený kabátec
 
 tagTorsoC001=
 tagTorsoC002=Ornate Chestguard
@@ -813,10 +813,10 @@ tagHandsA003=[fp]rytířské rukavice
 tagHandsA004=[fp]pěstnice
 tagHandsA005=[mp]chrániče rukou
 
-tagHandsB001=Adept's Gloves
-tagHandsB002=Squire's Gauntlets
-tagHandsB003=Adept's Grips
-tagHandsB004=Squire's Handguards
+tagHandsB001=[fp]adeptovy rukavice
+tagHandsB002=[fp]panošovy rytířské rukavice
+tagHandsB003=[fp]adeptovy pěstnice
+tagHandsB004=[mp]panošovy chrániče rukou
 
 tagHandsC001=Shadow's Grasp
 tagHandsC002=Zealot's Gauntlets
@@ -891,7 +891,6 @@ tagLegsD008=Archmage's Leggings
 
 
 #ArmorFeet
-# žehličky
 tagFeetA001=[fp]žabky
 tagFeetA002=[fp]boty
 tagFeetA003=[fp]pohorky
@@ -959,14 +958,14 @@ tagRingB002=[fs]Cronleyova pečeť
 tagRingB002Desc=^b"Potřísněná krví jeho obětí, nyní doplněná o jeho vlastní."
 tagRingB003=Skinnerův rodinný pečetní prsten
 tagRingB003Desc=^b"Pravděpodobně nejcennější předmět, který rodinka může vůbec vlastnit."
-tagRingB004A=Alkamos' Dread
-tagRingB004B=Alkamos' Misery
-tagRingB004C=Alkamos' Agony
-tagRingB004Desc=^b"Death...."
-tagRingB005A=Alkamos' Suffering
-tagRingB005B=Alkamos' Anguish
-tagRingB005C=Alkamos' Torment
-tagRingB005Desc=^b"Agony..."
+tagRingB004A=Alkamosův děs
+tagRingB004B=Alkamosova bída
+tagRingB004C=Alkamosova agónie
+tagRingB004Desc=^b"Smrt...."
+tagRingB005A=Alkamosovo utrpení
+tagRingB005B=Alkamosova úzkost
+tagRingB005C=Alkamosova muka
+tagRingB005Desc=^b"Agónie..."
 
 tagRingC001=Marrow Band
 tagRingC002=Obsidiánový pečetní prsten
@@ -1079,8 +1078,8 @@ tagMedalA003=[ms]znak
 tagMedalA004=[ms]erb
 tagMedalA005=[fs]hvězda
 
-tagMedalB001=Ranger's Ribbon
-tagMedalB002=Ranger's Badge
+tagMedalB001=[fs]lovcova stuha
+tagMedalB002=[ms]lovcův odznak
 
 tagMedalC001=Beast Slayer's Mark
 tagMedalC002=Badge of Tenacity
@@ -1116,122 +1115,122 @@ tagMedalD008Desc=^b"Named in honor of the famed tactician Markovian, this medal 
 tagTestBlueprint=Plánek: Název úžasného předmětu
 tagTestBlueprintDescription="Chutný text úžasných keců patřící úžasnému předmětu."
 
-tagBlueprint_RelicB001=Plánek: Relic - Calamity
-tagBlueprint_RelicB002=Plánek: Relic - Ruination
-tagBlueprint_RelicB003=Plánek: Relic - Equilibrium
-tagBlueprint_RelicB004=Plánek: Relic - Glacier
-tagBlueprint_RelicB005=Plánek: Relic - Squall
-tagBlueprint_RelicB006=Plánek: Relic - Inferno
-tagBlueprint_RelicB007=Plánek: Relic - Corruption
-tagBlueprint_RelicB008=Plánek: Relic - Sanctuary
-tagBlueprint_RelicB009=Plánek: Relic - Guile
-tagBlueprint_RelicB010=Plánek: Relic - Rampage
-tagBlueprint_RelicB011=Plánek: Relic - Mistborn Talisman
-tagBlueprint_RelicB012=Plánek: Relic - Bladesworn Talisman
-tagBlueprint_RelicB013=Plánek: Relic - Gunslinger's Talisman
-tagBlueprint_RelicC001=Plánek: Relic - Arbiter
-tagBlueprint_RelicC002=Plánek: Relic - Fortress
-tagBlueprint_RelicC003=Plánek: Relic - Slaughter
-tagBlueprint_RelicC004=Plánek: Relic - Juggernaut
-tagBlueprint_RelicC005=Plánek: Relic - Terror
-tagBlueprint_RelicC006=Plánek: Relic - Torment
-tagBlueprint_RelicC007=Plánek: Relic - Haunt
-tagBlueprint_RelicC008=Plánek: Relic - Conflagration
-tagBlueprint_RelicC009=Plánek: Relic - Savagery
-tagBlueprint_RelicC010=Plánek: Relic - Deathchill
-tagBlueprint_RelicC011=Plánek: Relic - Sacrifice
-tagBlueprint_RelicC012=Plánek: Relic - Zeal
-tagBlueprint_RelicC013=Plánek: Relic - Desolation
-tagBlueprint_RelicC014=Plánek: Relic - Blight
-tagBlueprint_RelicC015=Plánek: Relic - Ancestor
-tagBlueprint_RelicD001=Plánek: Relic - Aegis
-tagBlueprint_RelicD002=Plánek: Relic - Malediction
-tagBlueprint_RelicD003=Plánek: Relic - Nemesis
-tagBlueprint_RelicD004=Plánek: Relic - Citadel
-tagBlueprint_RelicD005=Plánek: Relic - Eye of the Storm
-tagBlueprint_RelicD006=Plánek: Relic - Reckoning
-tagBlueprint_RelicD007=Plánek: Relic - Scourge
-tagBlueprint_RelicD008=Plánek: Relic - Ulzuin's Pyroclasm
-tagBlueprint_RelicD009=Plánek: Relic - Necrosis
-tagBlueprint_RelicD010=Plánek: Relic - Agravix's Malice
-tagBlueprint_RelicD011=Plánek: Relic - Oblivion
-tagBlueprint_RelicD012=Plánek: Relic - Belgothian's Carnage
-tagBlueprint_RelicD013=Plánek: Relic - Annihilation
-tagBlueprint_RelicD014=Plánek: Relic - Avenger
-tagBlueprint_RelicD015=Plánek: Relic - Primal Instinct
-tagBlueprint_RelicD016=Blueprint: Relic - Solael's Devastation
-tagBlueprint_RelicD017=Blueprint: Relic - Dreeg's Affliction
-tagBlueprint_RelicD018=Blueprint: Relic - Bysmiel's Domination
-tagBlueprint_RelicD019=Blueprint: Relic - Oleron's Wrath
-tagBlueprint_RelicD020=Blueprint: Relic - Menhir's Bastion
+tagBlueprint_RelicB001=Plánek: Relikvie - Kalamita
+tagBlueprint_RelicB002=Plánek: Relikvie - Ztroskotání
+tagBlueprint_RelicB003=Plánek: Relikvie - Rovnováha
+tagBlueprint_RelicB004=Plánek: Relikvie - Ledovec
+tagBlueprint_RelicB005=Plánek: Relikvie - Bouřka
+tagBlueprint_RelicB006=Plánek: Relikvie - Peklo
+tagBlueprint_RelicB007=Plánek: Relikvie - Zkaženost
+tagBlueprint_RelicB008=Plánek: Relikvie - Svatostánek
+tagBlueprint_RelicB009=Plánek: Relikvie - Záludnost
+tagBlueprint_RelicB010=Plánek: Relikvie - Běsnění
+tagBlueprint_RelicB011=Plánek: Relikvie - Mistbornský talisman
+tagBlueprint_RelicB012=Plánek: Relikvie - Přísežníkův talisman
+tagBlueprint_RelicB013=Plánek: Relikvie - Pistolníkův talisman
+tagBlueprint_RelicC001=Plánek: Relikvie - Soudce
+tagBlueprint_RelicC002=Plánek: Relikvie - Opevnění
+tagBlueprint_RelicC003=Plánek: Relikvie - Krveprolití
+tagBlueprint_RelicC004=Plánek: Relikvie - Kolos
+tagBlueprint_RelicC005=Plánek: Relikvie - Postrach
+tagBlueprint_RelicC006=Plánek: Relikvie - Mučení
+tagBlueprint_RelicC007=Plánek: Relikvie - Strašení
+tagBlueprint_RelicC008=Plánek: Relikvie - Vzplanutí
+tagBlueprint_RelicC009=Plánek: Relikvie - Divokost
+tagBlueprint_RelicC010=Plánek: Relikvie - Smrtelný chlad
+tagBlueprint_RelicC011=Plánek: Relikvie - Oběť
+tagBlueprint_RelicC012=Plánek: Relikvie - Úsilí
+tagBlueprint_RelicC013=Plánek: Relikvie - Pustota
+tagBlueprint_RelicC014=Plánek: Relikvie - Zkáza
+tagBlueprint_RelicC015=Plánek: Relikvie - Předek
+tagBlueprint_RelicD001=Plánek: Relikvie - Záštita
+tagBlueprint_RelicD002=Plánek: Relikvie - Kletba
+tagBlueprint_RelicD003=Plánek: Relikvie - Odplata
+tagBlueprint_RelicD004=Plánek: Relikvie - Citadela
+tagBlueprint_RelicD005=Plánek: Relikvie - Oko bouře
+tagBlueprint_RelicD006=Plánek: Relikvie - Zůčtování
+tagBlueprint_RelicD007=Plánek: Relikvie - Pohroma
+tagBlueprint_RelicD008=Plánek: Relikvie - Ulzuinova ohnivá bouře
+tagBlueprint_RelicD009=Plánek: Relikvie - Odumření
+tagBlueprint_RelicD010=Plánek: Relikvie - Agravixova zášť
+tagBlueprint_RelicD011=Plánek: Relikvie - Zapomnění
+tagBlueprint_RelicD012=Plánek: Relikvie - Belgothianův masakr
+tagBlueprint_RelicD013=Plánek: Relikvie - Vyhlazení
+tagBlueprint_RelicD014=Plánek: Relikvie - Mstitel
+tagBlueprint_RelicD015=Plánek: Relikvie - Prvotní instinkt
+tagBlueprint_RelicD016=Plánek: Relikvie - Solaelova devastace
+tagBlueprint_RelicD017=Plánek: Relikvie - Dreegovo utrpení
+tagBlueprint_RelicD018=Plánek: Relikvie - Bysmielova nadvláda
+tagBlueprint_RelicD019=Plánek: Relikvie - Oleronův hněv
+tagBlueprint_RelicD020=Plánek: Relikvie - Menhirova bašta
 
-tagBlueprint_ComponentC01=Blueprint: Oleron's Blood
-tagBlueprint_ComponentC02=Blueprint: Shard of Beronath
-tagBlueprint_ComponentC03=Blueprint: Arcane Spark
-tagBlueprint_ComponentC04=Blueprint: Prismatic Diamond
+tagBlueprint_ComponentC01=Plánek: Oleronova krev
+tagBlueprint_ComponentC02=Plánek: Úlomek z Beronatha
+tagBlueprint_ComponentC03=Plánek: Tajemná jiskra
+tagBlueprint_ComponentC04=Plánek: Prizmatický diamant
 
-tagBlueprint_WaistB001=Blueprint: Bounty Hunter's Girdle
-tagBlueprint_WaistB002=Blueprint: Shockweave Sash
-tagBlueprint_WaistB003=Blueprint: Warmonger's Belt
-tagBlueprint_WaistB004=Blueprint: Flamesilk Sash
-tagBlueprint_WaistB005=Blueprint: Frostguard Girdle
-tagBlueprint_WaistB006=Blueprint: Wraithbone Sash
+tagBlueprint_WaistB001=Plánek: Pásek lovce odměn
+tagBlueprint_WaistB002=Plánek: Třesem tkaná pelerína
+tagBlueprint_WaistB003=Plánek: Štváčův opasek
+tagBlueprint_WaistB004=Plánek: Pelerína z plamenného hedvábí
+tagBlueprint_WaistB005=Plánek: Pásek mrazivé stráže
+tagBlueprint_WaistB006=Plánek: Pelerína z přízračné kosti
 
-tagBlueprint_WeaponB001=Blueprint: Battle Shield
-tagBlueprint_WeaponB002=Blueprint: Siege Shield
-tagBlueprint_WeaponB003=Blueprint: Sovereign Shield
-tagBlueprint_WeaponB004=Blueprint: Rotating Rifle
-tagBlueprint_WeaponB005=Blueprint: Frontloading Rifle
-tagBlueprint_WeaponB006=Blueprint: Shrapnel Gun
-tagBlueprint_WeaponB007=Blueprint: Honed Longsword
-tagBlueprint_WeaponB008=Blueprint: Honed Broadsword
-tagBlueprint_WeaponB009=Blueprint: Honed Conqueror
-tagBlueprint_WeaponB010=Blueprint: Barbaric Great Axe
-tagBlueprint_WeaponB011=Blueprint: Barbaric Cleaver
-tagBlueprint_WeaponB012=Blueprint: Barbaric Decapitator
-tagBlueprint_WeaponB013=Blueprint: Glyphed Archive
-tagBlueprint_WeaponB014=Blueprint: Glyphed Spellbook
-tagBlueprint_WeaponB015=Blueprint: Glyphed Tome
-tagBlueprint_WeaponB016=Blueprint: Occult Horn
-tagBlueprint_WeaponB017=Blueprint: Occult Skull
-tagBlueprint_WeaponB018=Blueprint: Occult Wand
-tagBlueprint_WeaponB019=Blueprint: Double-Barrel Pistol
-tagBlueprint_WeaponB020=Blueprint: Hand Mortar
-tagBlueprint_WeaponB021=Blueprint: Shrapnel Pistol
-tagBlueprint_WeaponB022=Blueprint: Adept's Bladed Mace
-tagBlueprint_WeaponB023=Blueprint: Adept's Morningstar
-tagBlueprint_WeaponB024=Blueprint: Adept's Flanged Mace
+tagBlueprint_WeaponB001=Plánek: Battle Shield
+tagBlueprint_WeaponB002=Plánek: Siege Shield
+tagBlueprint_WeaponB003=Plánek: Sovereign Shield
+tagBlueprint_WeaponB004=Plánek: Rotating Rifle
+tagBlueprint_WeaponB005=Plánek: Frontloading Rifle
+tagBlueprint_WeaponB006=Plánek: Shrapnel Gun
+tagBlueprint_WeaponB007=Plánek: Honed Longsword
+tagBlueprint_WeaponB008=Plánek: Honed Broadsword
+tagBlueprint_WeaponB009=Plánek: Honed Conqueror
+tagBlueprint_WeaponB010=Plánek: Barbaric Great Axe
+tagBlueprint_WeaponB011=Plánek: Barbaric Cleaver
+tagBlueprint_WeaponB012=Plánek: Barbaric Decapitator
+tagBlueprint_WeaponB013=Plánek: Glyphed Archive
+tagBlueprint_WeaponB014=Plánek: Glyphed Spellbook
+tagBlueprint_WeaponB015=Plánek: Glyphed Tome
+tagBlueprint_WeaponB016=Plánek: Occult Horn
+tagBlueprint_WeaponB017=Plánek: Occult Skull
+tagBlueprint_WeaponB018=Plánek: Occult Wand
+tagBlueprint_WeaponB019=Plánek: Double-Barrel Pistol
+tagBlueprint_WeaponB020=Plánek: Hand Mortar
+tagBlueprint_WeaponB021=Plánek: Shrapnel Pistol
+tagBlueprint_WeaponB022=Plánek: Adept's Bladed Mace
+tagBlueprint_WeaponB023=Plánek: Adept's Morningstar
+tagBlueprint_WeaponB024=Plánek: Adept's Flanged Mace
 
-tagBlueprint_WeaponC001=Blueprint: Witchstalker
-tagBlueprint_WeaponC002=Blueprint: The Eye
-tagBlueprint_WeaponC003=Blueprint: Storm's Edge
-tagBlueprint_WeaponC004=Blueprint: Omen
-tagBlueprint_WeaponC005=Blueprint: Tremor
+tagBlueprint_WeaponC001=Plánek: Witchstalker
+tagBlueprint_WeaponC002=Plánek: The Eye
+tagBlueprint_WeaponC003=Plánek: Storm's Edge
+tagBlueprint_WeaponC004=Plánek: Omen
+tagBlueprint_WeaponC005=Plánek: Tremor
 
-tagBlueprint_ArmorB001=Blueprint: Adept's Boots
-tagBlueprint_ArmorB002=Blueprint: Adept's Greaves
-tagBlueprint_ArmorB003=Blueprint: Squire's Boots
-tagBlueprint_ArmorB004=Blueprint: Squire's Greaves
-tagBlueprint_ArmorB005=Blueprint: Adept's Gloves
-tagBlueprint_ArmorB006=Blueprint: Adept's Grips
-tagBlueprint_ArmorB007=Blueprint: Squire's Gauntlets
-tagBlueprint_ArmorB008=Blueprint: Squire's Handguards
-tagBlueprint_ArmorB009=Blueprint: Adept's Hood
-tagBlueprint_ArmorB010=Blueprint: Adept's Circlet
-tagBlueprint_ArmorB011=Blueprint: Ranger's Helm
-tagBlueprint_ArmorB012=Blueprint: Ranger's Casque
+tagBlueprint_ArmorB001=Plánek: Adept's Boots
+tagBlueprint_ArmorB002=Plánek: Adept's Greaves
+tagBlueprint_ArmorB003=Plánek: Squire's Boots
+tagBlueprint_ArmorB004=Plánek: Squire's Greaves
+tagBlueprint_ArmorB005=Plánek: Adept's Gloves
+tagBlueprint_ArmorB006=Plánek: Adept's Grips
+tagBlueprint_ArmorB007=Plánek: Squire's Gauntlets
+tagBlueprint_ArmorB008=Plánek: Squire's Handguards
+tagBlueprint_ArmorB009=Plánek: Adept's Hood
+tagBlueprint_ArmorB010=Plánek: Adept's Circlet
+tagBlueprint_ArmorB011=Plánek: Ranger's Helm
+tagBlueprint_ArmorB012=Plánek: Ranger's Casque
 
-tagBlueprint_ArmorC001=Blueprint: Guardsman's Defender
-tagBlueprint_ArmorC002=Blueprint: Guardsman's Breastplate
-tagBlueprint_ArmorC003=Blueprint: Explorer's Tunic
-tagBlueprint_ArmorC004=Blueprint: Explorer's Trousers
+tagBlueprint_ArmorC001=Plánek: Guardsman's Defender
+tagBlueprint_ArmorC002=Plánek: Guardsman's Breastplate
+tagBlueprint_ArmorC003=Plánek: Explorer's Tunic
+tagBlueprint_ArmorC004=Plánek: Explorer's Trousers
 
-tagBlueprint_AccessoryC001=Blueprint: Maiven's Lens
+tagBlueprint_AccessoryC001=Plánek: Maivenova čočka
 
 
-tagBlueprint_MiscA01=Blueprint: Skeleton Key
+tagBlueprint_MiscA01=Plánek: Kostěný klíč
 
-tagBlueprint_MaterialA01=Blueprint: Aether Cluster
+tagBlueprint_MaterialA01=Plánek: Trs Aetheru
 
 #Relics
 
@@ -1343,33 +1342,33 @@ tagRelicD020Desc=^b"The earth will suffer neither foul spirit nor vile blood hea
 
 
 #Crafting
-tagCraftTabArtifactA=Relics
-tagCraftTabArtifactB=Talismans, relics and artifacts of great power.
-tagCraftTabMeleeA=Melee Weapons
-tagCraftTabMeleeB=An assortment of martial weapons intended for slicing, chopping and smashing.
-tagCraftTabRangedA=Ranged Weapons
-tagCraftTabRangedB=A selection of pistols, rifles and crossbows for those who prefer to fight at range.
-tagCraftTabArmorA=Armor
-tagCraftTabArmorB=A collection of shields, foci and body armor of various makes and materials.
-tagCraftTabMiscA=Accessories and Consumables
-tagCraftTabMiscB=A mix of techniques that sometimes go beyond use of the forge.
+tagCraftTabArtifactA=Relikvie
+tagCraftTabArtifactB=Talismany, relikvie a artefakty s obrovskou mocí.
+tagCraftTabMeleeA=Chladné zbraně
+tagCraftTabMeleeB=Sortiment bojových zbraní určených ke krájení, sekání a rozbíjení.
+tagCraftTabRangedA=Střelné zbraně
+tagCraftTabRangedB=Výběr z pistolí, pušek a kuší pro ty, kteří dávají přednost boji na dálku.
+tagCraftTabArmorA=Výstroj
+tagCraftTabArmorB=Sbírka štítů, tělesných ochran a hrudních plátů různých druhů a materiálů.
+tagCraftTabMiscA=Příslušenství a spotřební materiál
+tagCraftTabMiscB=Směs technik, které někdy přesahují možnosti kovárny.
 
 tagCraftMaterial_RoyalJelly=Mateří kašička
 tagCraftMaterial_RoyalJelly_Desc=^b"Koncentrovaný výměšek obřích vos ze Staré Arkovie. Má se za to, že její účinky regenerují tělo."
-tagCraftMaterial_AetherShard=Aether Shard
-tagCraftMaterial_AetherShard_Desc=^b"A large shard from an aether crystal formation, still teeming with untapped power."
-tagCraftMaterial_AetherCluster=Aether Cluster
-tagCraftMaterial_AetherCluster_Desc=^b"A concentrated cluster of Aether Shards, bursting with unstable energies."
-tagCraftMaterial_TaintedBrain=Tainted Brain Matter
-tagCraftMaterial_TaintedBrain_Desc=^b"Brain tissue scarred and twisted by the manipulations of a powerful Aetherial."
-tagCraftMaterial_BloodChthon=Blood of Ch'thon
-tagCraftMaterial_BloodChthon_Desc=^b"Coalesced essence of the void god."
-tagCraftMaterial_AncientHeart=Ancient Heart
-tagCraftMaterial_AncientHeart_Desc=^b"It continues to beat within your bag with an eerily steady rhythm."
-tagCraftMaterial_Manticore=Manticore Eye (Not available until Act 3)
-tagCraftMaterial_Mancitore_Desc=^b"The sharp eye of an unmatched predator."
-tagCraftMaterial_SkeletonKey=Skeleton Key
-tagCraftMaterial_SkeletonKey_Desc=^b"If the stories are to be believed, this key will open nearly any ancient door."
+tagCraftMaterial_AetherShard=Úlomek aetheru
+tagCraftMaterial_AetherShard_Desc=^b"Velký úlomek z aetherického krystalu, ve kterém se hemží nevyužitá síla."
+tagCraftMaterial_AetherCluster=Trs aetherů
+tagCraftMaterial_AetherCluster_Desc=^b"Shromážděný trs úlomků aetheru, překypujících nestabilními energiemi."
+tagCraftMaterial_TaintedBrain=Zkažená mozková hmota
+tagCraftMaterial_TaintedBrain_Desc=^b"Mozková tkáň zjizvená a zkroucená manipulací mocnými Aetheriany."
+tagCraftMaterial_BloodChthon=Krev Ch'thona
+tagCraftMaterial_BloodChthon_Desc=^b"Sloučená esence boha prázdnoty."
+tagCraftMaterial_AncientHeart=Starověké srdce
+tagCraftMaterial_AncientHeart_Desc=^b"Nepřestává tlouci v děsivě pravidelném rytmu, zatímco je ukryté ve tvém batohu."
+tagCraftMaterial_Manticore=Mantikoří oko (Nedostupné před 3. aktem)
+tagCraftMaterial_Mancitore_Desc=^b"Bystré oko nepřekonatelného dravce."
+tagCraftMaterial_SkeletonKey=Kostěný klíč
+tagCraftMaterial_SkeletonKey_Desc=^b"Pokud se dá věřit příběhům, tento klíč otevře téměř každé starobylé dveře."
 
 tagCraftRandomItemDesc=^bThe blacksmith crafts an enchanted item appropriate to your level of at least magical quality.
 tagCraftComponentDesc=^bExperienced forging technique can yield materials of superior quality.
@@ -1377,19 +1376,19 @@ tagCraftComponentRareDesc=^bAn extraordinary crafting technique thought lost to 
 tagCraftShardBeronathDesc=^bTransmute steel into a shard of the sacred Beronath.
 tagCraftRelicDesc=^bAncient forging technique thought lost to the Grim Dawn.
 
-tagCraftRandomAxe=Enchanted Axe
-tagCraftRandomBlunt=Enchanted Mace
-tagCraftRandomCrossbow2h=Enchanted Crossbow
+tagCraftRandomAxe=Očarovaná sekyra
+tagCraftRandomBlunt=Očarovaná palice
+tagCraftRandomCrossbow2h=Ořarovaná kuše
 tagCraftRandomFocus=Enchanted Focus
-tagCraftRandomGun2h=Enchanted Two-Handed Gun
-tagCraftRandomShield=Enchanted Shield
-tagCraftRandomSword=Enchanted Sword
-tagCraftRandomGun1h=Enchanted One-Handed Gun
+tagCraftRandomGun2h=Očarovaná obouruční zbraň
+tagCraftRandomShield=Očarovaný štít
+tagCraftRandomSword=Očarovaný meč
+tagCraftRandomGun1h=Očarovaná jednoruční zbraň
 
-tagCraftRandomRing=Enchanted Ring
-tagCraftRandomNecklace=Enchanted Necklace
-tagCraftRandomMedal=Enchanted Medal
-tagCraftRandomBelt=Enchanted Belt
+tagCraftRandomRing=Očarovaný prsten
+tagCraftRandomNecklace=Očarovaný náhrdelník
+tagCraftRandomMedal=Očarovaná medaile
+tagCraftRandomBelt=Očarovaný opasek
 
 tagCraftRandomFeet_Heavy=Enchanted Heavy Boots
 tagCraftRandomFeet_Light=Enchanted Light Boots
@@ -1419,30 +1418,30 @@ tagSuppliesError=
 
 tagScrollDirections=[spotřebuj pravým kliknutím]
 
-tagConsumableRoyalJellyBalmBlueprint=Recipe: Royal Jelly Balm
-tagConsumableRoyalJellyBalmBlueprintDesc=^b"A secret medicinal technique of the Rovers."
-tagConsumableBlueprintA01=Recipe: Flamedrinker Ointment
-tagConsumableBlueprintA02=Recipe: Frostshroud Ointment
-tagConsumableBlueprintA03=Recipe: Stormshroud Ointment
-tagConsumableBlueprintA04=Recipe: Venomguard Ointment
-tagConsumableBlueprintA05=Recipe: Bloodbound Ointment
-tagConsumableBlueprintA06=Recipe: Spiritbane Ointment
-tagConsumableBlueprintA07=Recipe: Deathwhisper Ointment
-tagConsumableBlueprintA08=Recipe: Hoarfrost Ointment
-tagConsumableBlueprintA09=Recipe: Lifestealer Oil
-tagConsumableBlueprintA10=Recipe: Venomfang Oil
-tagConsumableBlueprintA11=Recipe: Bloodfang Oil
-tagConsumableBlueprintA12=Recipe: Arcanum Oil
-tagConsumableBlueprintA13=Recipe: Elixir of the Ancients
-tagConsumableBlueprintA13Desc=^b"A forgotten art that dabbles in forbidden magic."
-tagConsumableBlueprintA14=Recipe: Elixir of the Aether
+tagConsumableRoyalJellyBalmBlueprint=Recept: Balzám z mateří kašičky
+tagConsumableRoyalJellyBalmBlueprintDesc=^b"Tajemství léčitelských způsobů tuláků."
+tagConsumableBlueprintA01=Recept: Flamedrinker mast
+tagConsumableBlueprintA02=Recept: Frostshroud mast
+tagConsumableBlueprintA03=Recept: Stormshroud mast
+tagConsumableBlueprintA04=Recept: Venomguard mast
+tagConsumableBlueprintA05=Recept: Bloodbound mast
+tagConsumableBlueprintA06=Recept: Spiritbane mast
+tagConsumableBlueprintA07=Recept: Deathwhisper mast
+tagConsumableBlueprintA08=Recept: Hoarfrost mast
+tagConsumableBlueprintA09=Recept: Lifestealer olej
+tagConsumableBlueprintA10=Recept: Venomfang olej
+tagConsumableBlueprintA11=Recept: Bloodfang olej
+tagConsumableBlueprintA12=Recept: Arcanum olej
+tagConsumableBlueprintA13=Recept: Elixír starobylých
+tagConsumableBlueprintA13Desc=^b"Zapomenuté umění, které fušuje do zakázané magie."
+tagConsumableBlueprintA14=Recept: Elixír aetheru
 tagConsumableBlueprintA14Desc=^b"A concoction perfected by the Gildam Arcanum to clear the mind of all distractions."
-tagConsumableBlueprintA15=Recipe: Elixir of the Void
+tagConsumableBlueprintA15=Recept: Elixír prázdnoty
 tagConsumableBlueprintA15Desc=^b"A concoction often used by the Cult of Ch'thon to bring them closer to their god."
-tagConsumableBlueprintA16=Recipe: Elixir of the Hunt
+tagConsumableBlueprintA16=Recept: Elixír lovu
 tagConsumableBlueprintA16Desc=^b"A mixture used by hunters to better track their prey."
 
-tagConsumable_RoyalJellyBalm=Royal Jelly Balm
+tagConsumable_RoyalJellyBalm=Balzám z mateří kašičky
 tagConsumable_RoyalJellyBalmDesc=^b"A soothing concoction made from concentrated Royal Jelly."
 tagConsumableA01=Flamedrinker Ointment
 tagConsumableA01Desc=^b"A foul-smelling concoction which refuses to catch fire."
@@ -1480,14 +1479,14 @@ tagConsumableA16Desc=^b"A powerful elixir employed by hunters and assassins to b
 
 #ItemNote
 
-tagNoteHelp=[pravým kliknitím přečti]
+tagNoteHelp=[pravým kliknutím přečti]
 tagNoteKnown=[již znáš]
 tagNoteExcerpt=^b"{%t}.."
 
 #ItemEnchantment
 
-tagEnchantmentUsable=Right click to Enchant Item.
-tagEnchantmentUnusable=[Cannot Use - Requirements Not Met]
+tagEnchantmentUsable=Pravým tlačítkem očaruješ předmět.
+tagEnchantmentUnusable=[Nelze použít - nejsou splněny požadavky]
 
 #ItemComponents
 
@@ -1523,7 +1522,7 @@ tagCompA007Name=Shnilé srdce
 tagCompA007Desc=^b"A long silenced heart shriveled with necromantic power."^w^n(Může vylepšit hrudní zbroj)
 
 tagCompA008Name=Zmutované šupiny
-tagCompA008Desc=^b"Neobvykle silné a těžké šupiny zmutované působením Aetherické energie."^w^n(Used in chest and shoulder armor)
+ttagCompA008Desc=^b"Neobvykle silné a těžké šupiny zmutované působením Aetherické energie."^w^n(Může vylepšit hrudní a ramenní zbroj)
 
 tagCompA009Name=Prach z mrtvoly
 tagCompA009Desc=^b"Dust derived from the remains of the deceased, often used for witchcraft and enchantments."^w^n(Used in rings and amulets)
@@ -1765,14 +1764,14 @@ tagCompAScrapDesc=^b"Kusy železa, zlámané šipky, kožené šňůry nebo nekv
 #Misc
 
 tagMoney01=Železné mince
-tagMoneyFormat={^s}{%d0}  {železných mincí}
+tagMoneyFormat={^s}{%d0} {železných mincí}
 
-tagPotionHealthA01=Tonic of Mending
+tagPotionHealthA01=Léčící tonikum
 tagPotionHealthA01Desc=^b"Zaceluje rány a spravuje zlámané kosti."
-tagPotionHealthA02=Tonic of Healing
-tagPotionHealthA02Desc=^b"Seals wounds and mends broken bones."
-tagPotionHealthA03=Tonic of Revival
-tagPotionHealthA03Desc=^b"Seals wounds and mends broken bones."
+tagPotionHealthA02=Uzdravující tonikum
+tagPotionHealthA02Desc=^b"Zaceluje rány a spravuje zlámané kosti."
+tagPotionHealthA03=Oživující tonikum
+tagPotionHealthA03Desc=^b"Zaceluje rány a spravuje zlámané kosti."
 
 tagPotionEnergyA01=Elixír ducha
 tagPotionEnergyA01Desc=^b"Omlazuje mysl a ducha."
@@ -1782,16 +1781,16 @@ tagCombineStacks=[While holding, right-click to combine stacks]
 
 # Bonuses
 
-tagBonusLifePercentAbs=Restores {%.0f0}% + {%.0f1} Life
-tagBonusLifePercent=Restores {%.0f0}% Life
-tagBonusLifeAbs=Restores {%.0f0} Life
-tagBonusManaPercentAbs=Restores {%.0f0}% + {%.0f1} Energy
-tagBonusManaPercent=Restores {%.0f0}% Energy
-tagBonusManaAbs=Restores {%.0f0}% Energy
-tagBonusExperience={%+d0} Experience
-tagBonusMoney={%+d0} Iron
-tagBonusSkillPoint={%+d0} Skill Points
-tagBonusAttribPoint={%+d0} Attribute Points
+tagBonusLifePercentAbs=Obnoví {%.0f0}% + {%.0f1} bodů života
+tagBonusLifePercent=Obnoví {%.0f0}% bodů života
+tagBonusLifeAbs=Obnoví {%.0f0} bodů života
+tagBonusManaPercentAbs=Obnoví {%.0f0}% + {%.0f1} bodů energie
+tagBonusManaPercent=Obnoví {%.0f0}% bodů energie
+tagBonusManaAbs=Obnoví {%.0f0}% bodů energie
+tagBonusExperience={%+d0} zkušeností
+tagBonusMoney={%+d0} železných mincí
+tagBonusSkillPoint={%+d0} bodů dovedností
+tagBonusAttribPoint={%+d0} bodů atributů
 
 #ItemSets
 
