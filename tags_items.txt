@@ -712,14 +712,14 @@ tagTorsoB002=[ms]vrahův hrudní plát
 tagTorsoB003=[ms]vyztužený kabátec
 
 tagTorsoC001=
-tagTorsoC002=Ornate Chestguard
-tagTorsoC003=Gunslinger's Jacket
-tagTorsoC004=Malduin's Cloth
-tagTorsoC005=Doomforged Breastplate
-tagTorsoC006=Guardsman's Breastplate
+tagTorsoC002=Ozdobený hrudní chránič
+tagTorsoC003=Pistolníkův kabátec
+tagTorsoC004=Malduinin obleček
+tagTorsoC005=Osudem kovaný prsní plát
+tagTorsoC006=Strážcův prsní plát
 tagTorsoC007=Cestovatelova tunika
-tagTorsoC008=Bloodreaper's Coat
-tagTorsoC009=Fanatic's Overcoat
+tagTorsoC008=Kabát krvavého žence
+tagTorsoC009=Fanatikův zimník
 tagTorsoC010=Fused Carapace Armor
 tagTorsoC011=Skinflayer Raiment
 tagTorsoC011Desc=^b"It is unknown as to how many victims it took to sew together these foul robes."
@@ -1230,7 +1230,7 @@ tagBlueprint_AccessoryC001=Plánek: Maivenova čočka
 
 tagBlueprint_MiscA01=Plánek: Kostěný klíč
 
-tagBlueprint_MaterialA01=Plánek: Trs Aetheru
+tagBlueprint_MaterialA01=Plánek: Trs Aetherů
 
 #Relics
 
@@ -1355,9 +1355,9 @@ tagCraftTabMiscB=Směs technik, které někdy přesahují možnosti kovárny.
 
 tagCraftMaterial_RoyalJelly=Mateří kašička
 tagCraftMaterial_RoyalJelly_Desc=^b"Koncentrovaný výměšek obřích vos ze Staré Arkovie. Má se za to, že její účinky regenerují tělo."
-tagCraftMaterial_AetherShard=Úlomek aetheru
-tagCraftMaterial_AetherShard_Desc=^b"Velký úlomek z aetherického krystalu, ve kterém se hemží nevyužitá síla."
-tagCraftMaterial_AetherCluster=Trs aetherů
+tagCraftMaterial_AetherShard=Úlomek Aetheru
+tagCraftMaterial_AetherShard_Desc=^b"Velký úlomek z Aetherického krystalu, ve kterém se hemží nevyužitá síla."
+tagCraftMaterial_AetherCluster=Trs Aetherů
 tagCraftMaterial_AetherCluster_Desc=^b"Shromážděný trs úlomků aetheru, překypujících nestabilními energiemi."
 tagCraftMaterial_TaintedBrain=Zkažená mozková hmota
 tagCraftMaterial_TaintedBrain_Desc=^b"Mozková tkáň zjizvená a zkroucená manipulací mocnými Aetheriany."
@@ -1752,7 +1752,7 @@ tagCompB022Desc=^b"Poskvrněná duše Kilriana, postrachu Arkovianského Podzemn
 
 
 tagCompAetherCrystal=Aetherický krystal
-tagCompAetherCrystalDesc=^b"Střep krystalu s přetrvávající mocí Aetheru.  Může být použit při výrobě tajemných předmětů."
+tagCompAetherCrystalDesc=^b"Střep krystalu s přetrvávající mocí Aetheru. Může být použit při výrobě tajemných předmětů."
 
 tagCompAmmoBox=Pouzdro na munici
 tagCompAmmoBoxDesc="Aby temné síly zamořující Cairn byly zlikvidovány, můžeš vždycky použít víc munice."
@@ -2209,7 +2209,7 @@ tagAutoSkillCondition07= ({%d0}% šance na útok)
 tagAutoSkillCondition08= (Aktivní, pokud je nasazeno)
 tagAutoSkillCondition09= ({%d0}% šance při zásahu kritickým úderem)
 tagAutoSkillCondition10= ({%d0}% šance na kritický úder)
-tagAutoSkillCondition11= ({%d0}% ance na vykrytí)
+tagAutoSkillCondition11= ({%d0}% šance na vykrytí)
 
 
 #LootChests
@@ -2227,7 +2227,7 @@ tagChestCocoonA01=Zamotané ostatky
 tagChestSlithAltarC01=Oltář slithů
 tagChestStoneMonolithC01=Kamenná truhla
 tagChestStoneSarcophagusC01=Starověký sarkofág
-tagChestBoneChestD01=Bone Reliquary
+tagChestBoneChestD01=Kostěný relikviář
 
 tagChestRackArmorA01=Stojan na zbroj
 tagChestRackArmorB01=Sbírka zbrojí
@@ -2236,7 +2236,7 @@ tagChestRackWeaponsB01=Sbírka zbraní
 
 tagChestCorpse_Mornay=Mornayova mrtvola
 tagChestCorpse_RoverElder=Mrtvola Mathiase staršího
-tagChestCorpse_Jacob=Jacob's Corpse
+tagChestCorpse_Jacob=Jacobova mrtvola
 
 tagLectern_WardensLabA01=Výzkumný deníček
 tagLectern_OldArkoviaRuinsA01=Starodávný řečnický pult
@@ -2276,8 +2276,6 @@ tagChestOneShot_Generic02=Povznesená skrýš
 tagChestOneShot_BurrwitchCave01=Hromada nestvůr
 tagChestOneShot_LowerCrossingCave01=Hromada nestvůr
 
-
-
 #Breakables
 
 tagWoodenDoor=Dřevěné dveře
@@ -2295,8 +2293,8 @@ tagUGDoorIronDoorSecret01=Železné dveře
 tagUGDoorPortcullisFloor01=Portcullis
 tagDoorLocked=Zamčeno
 
-tagDoorOneWay01=Escape to the Surface
-tagDoorLever01=Portcullis Control
+tagDoorOneWay01=Útěk na povrch
+tagDoorLever01=Ovládání portcullisu
 
 #Doors
 
