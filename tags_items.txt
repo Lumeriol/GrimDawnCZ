@@ -104,7 +104,7 @@ tagWeaponBluntC007Desc=^b"Hořící kladivo strážců Menhiru."
 tagWeaponBluntC008=Drtič duchů
 tagWeaponBluntC009=Vzdor
 tagWeaponBluntC009Desc=^b"Ztělesnění přizpůsobivosti lidstva."
-tagWeaponBluntC010=Étericko-ocelový arbitr
+tagWeaponBluntC010=Aethericko-ocelový arbitr
 tagWeaponBluntC011=Pěst slepého vraha
 
 tagWeaponBluntD001=Smrtící věštba
@@ -146,7 +146,7 @@ tagWeaponAxeC007=Maleficus
 tagWeaponAxeC008=Osudová pila žravosti
 tagWeaponAxeC009=Žíznivý chřtán
 tagWeaponAxeC010=Nehmnotné ostří
-tagWeaponAxeC010Desc=^b"Ostří této zbraně je spoutáno se samotným Éterem."
+tagWeaponAxeC010Desc=^b"Ostří této zbraně je spoutáno se samotným Aetherem."
 tagWeaponAxeC011=Kost se zářezy tisícera smrtí
 tagWeaponAxeC011Desc=^b"Každý zářez je potvrzením života."
 tagWeaponAxeC012=Znesvětitel mrtvol
@@ -248,7 +248,7 @@ tagWeaponGun2hD002Desc=^b"Zbraň používaná uctívači čarodějných bohů k 
 tagWeaponGun2hD003=Zplozenec pekla
 tagWeaponGun2hD003Desc=^b"Hlaveň chrlí ven zuřivost sedmi pekel."
 tagWeaponGun2hD004=Vír duší
-tagWeaponGun2hD004Desc=^b"Každá vystřelená rána způsobuje zčeření uvnitř éteru."
+tagWeaponGun2hD004Desc=^b"Každá vystřelená rána způsobuje zčeření uvnitř Aetheru."
 tagWeaponGun2hD005=Trhač střev
 
 
@@ -955,7 +955,7 @@ tagRingA013=[fs]diamantová pečeť
 
 tagRingB001=Reddanův vzpomínkový prsten
 tagRingB001Desc=^b"Opotřebovaný nápis podél kroužku říká: S láskou - Amelia"
-tagRingB002=[fs]Cronleyho pečeť
+tagRingB002=[fs]Cronleyova pečeť
 tagRingB002Desc=^b"Potřísněná krví jeho obětí, nyní doplněná o jeho vlastní."
 tagRingB003=Skinnerův rodinný pečetní prsten
 tagRingB003Desc=^b"Pravděpodobně nejcennější předmět, který rodinka může vůbec vlastnit."
@@ -1523,7 +1523,7 @@ tagCompA007Name=Shnilé srdce
 tagCompA007Desc=^b"A long silenced heart shriveled with necromantic power."^w^n(Může vylepšit hrudní zbroj)
 
 tagCompA008Name=Zmutované šupiny
-tagCompA008Desc=^b"Neobvykle silné a těžké šupiny zmutované působením Éterické energie."^w^n(Used in chest and shoulder armor)
+tagCompA008Desc=^b"Neobvykle silné a těžké šupiny zmutované působením Aetherické energie."^w^n(Used in chest and shoulder armor)
 
 tagCompA009Name=Prach z mrtvoly
 tagCompA009Desc=^b"Dust derived from the remains of the deceased, often used for witchcraft and enchantments."^w^n(Used in rings and amulets)
@@ -1564,7 +1564,7 @@ tagCompA020Desc=^b"Consecrated ammunition intended to inflict great pain upon th
 tagCompA021Name=Smrtelně ledové šipky
 tagCompA021Desc=^b"Deliver the cold chill of death upon your enemies."^w^n(Used in guns and crossbows)
 
-tagCompA022Name=Éterická duše
+tagCompA022Name=Aetherická duše
 tagCompA022Desc=^b"A stone vibrating with energy, often left behind by Aetherial beings destroyed in the material plane."^w^n(Used in amulets and medals)
 
 tagCompA023Name=Tuhá skořepina
@@ -1669,8 +1669,8 @@ tagCompA055Desc=^b"It vibrates at the slightest contact with living flesh."^w^n(
 tagCompA056Name=Portálový kámen
 tagCompA056Desc=^b"Hemží se v něm surová síla trhající vzduch."^w^n(Může vylepšit chladné zbraně)
 
-tagCompA057Name=Éterické šipky
-tagCompA057Desc=^b"Rozšiřující se na základě Éterických zrůdností."^w^n(Může vylepšit pušky a kuše)
+tagCompA057Name=Aetherické šipky
+tagCompA057Desc=^b"Rozšiřující se na základě Aetherických zrůdností."^w^n(Může vylepšit pušky a kuše)
 
 tagCompA058Name=Prázdnotou dotčená munice
 tagCompA058Desc=^b"Dipped in fresh Chthonian blood."^w^n(Used in guns and crossbows)
@@ -1752,8 +1752,8 @@ tagCompB022Name=^kKilrianova roztříštěná duše
 tagCompB022Desc=^b"Poskvrněná duše Kilriana, postrachu Arkoviánského podzemního města."^w^n(Může vylepšit hrudní zbroj)
 
 
-tagCompAetherCrystal=Éterický krystal
-tagCompAetherCrystalDesc=^b"Střep krystalu s přetrvávající mocí Éteru.  Může být použit při výrobě tajemných předmětů."
+tagCompAetherCrystal=Aetherický krystal
+tagCompAetherCrystalDesc=^b"Střep krystalu s přetrvávající mocí Aetheru.  Může být použit při výrobě tajemných předmětů."
 
 tagCompAmmoBox=Pouzdro na munici
 tagCompAmmoBoxDesc="Aby temné síly zamořující Cairn byly zlikvidovány, můžeš vždycky použít víc munice."
@@ -1969,7 +1969,7 @@ tagPrefixB015_WpnMelee1h_A=ze srdce bouře
 tagPrefixB016_WpnMelee1h_A=z pekelného ohně
 tagPrefixB017_WpnMelee1h_A=[ms]jinovatkou potřísněný[fs]jinovatkou potřísněná[ns]jinovatkou potřísněné[mp]jinovatkou potřísněné[fp]jinovatkou potřísněné[np]jinovatkou potřísněné
 tagPrefixB018_WpnMelee1h_A=z jedovatého tesáku
-tagPrefixB019_WpnMelee1h_A=z éterického ohně
+tagPrefixB019_WpnMelee1h_A=z Aetherického ohně
 tagPrefixB020_WpnMelee1h_A=[ms]zlověstný[fs]zlověstná[ns]zlověstné[mp]zlověstné[fp]zlověstné[np]zlověstné
 tagPrefixB021_WpnMelee1h_A=[ms]srdce probodávající[fs]srdce probodávající[ns]srdce probodávající[mp]srdce probodávající[fp]srdce probodávající[np]srdce probodávající
 tagPrefixB022_WpnMelee1h_A=[ms]horečný[fs]horečná[ns]horečné[mp]horečné[fp]horečné[np]horečné
@@ -2080,7 +2080,7 @@ tagSuffixA034=jedu
 tagSuffixA035=krve
 tagSuffixA036=opevnění
 tagSuffixA037=ostnů
-tagSuffixA038=éteru
+tagSuffixA038=Aetheru
 tagSuffixA039=prázdnoty
 tagSuffixA040=trnů
 

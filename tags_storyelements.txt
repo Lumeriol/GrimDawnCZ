@@ -46,7 +46,7 @@ tagMapRockyCoast=Skalnaté pobřeží
 tagMapNewHarbor=Nový přístav
 tagMapBarrenHighlands=Neúrodná vysočina
 tagMapCrumblingWatch=Rozpadlá strážní věž
-tagMapCronleysHideout=Cronleyho úkryt
+tagMapCronleysHideout=Cronleyův úkryt
 tagMapJaggedWaste=Jagged Waste
 tagMapDeadmansGulch=Deadman's Gulch
 tagMapHighpass=High Pass
@@ -81,7 +81,7 @@ tagUGOldArkovia01=Hanneffyho důl
 tagUGOldArkovia02=Podzemní město
 tagUGOldArkovia03=Neklidný úl
 tagUGOldArkovia04=Strhující úl
-tagUGOldArkovia05=Cronleyho úkryt
+tagUGOldArkovia05=Cronleyův úkryt
 tagUGBrokenHills01=Točitá zátoka
 tagUGBrokenHills02=Trýznivé kroky
 tagUGBrokenHills02A=Bolest
@@ -109,7 +109,7 @@ tagRiftWardensLabratory02=Portál ve Wardenově laboratoři
 tagRiftBrokenHills=Portál v Sesutých kopcích
 tagRiftOldArkovia=Portál ve Staré Arkovii
 tagRiftArkovianFoothills=Portál v Arkoviánském podhůří
-tagRiftCronleysHideout=Portál v Cronleyho úkrytu
+tagRiftCronleysHideout=Portál v Cronleyově úkrytu
 tagRiftTwinFalls=Portál u Dvojspádů
 tagRiftHighPass=Portál ve Vrchním průsmyku
 tagRiftJaggedWaste=Jagged Waste Rift
@@ -209,8 +209,8 @@ tagPOIOldArkoviaRuins3A=Vstup do Arkoviánského podzemního města (3. patro)
 tagPOIOldArkoviaRuins3B=Východ z Arkoviánského podzemního města (3. patro)
 tagPOIBrokenHillsMylesCaveA=Vstup do Mylesova úkrytu
 tagPOIBrokenHillsMylesCaveB=Východ z Opuštěného doupěte
-tagPOIOldArkoviaMineA=Vstup do Cronleyho úkrytu
-tagPOIOldArkoviaMineB=Východ z Cronleyho úkrytu
+tagPOIOldArkoviaMineA=Vstup do Cronleyova úkrytu
+tagPOIOldArkoviaMineB=Východ z Cronleyova úkrytu
 tagPOIFesteringLairA=Festering Lair Entrance
 tagPOIFesteringLairB=Festering Lair Exit
 
@@ -447,7 +447,7 @@ tagLoreObj_LowerCrossingA02Text=Jsem tu v pasti... Až teď si uvědomuji, že v
 
 tagLoreObj_WightmireA01Name=Úřední dopis pro Wightmirského Krvepřísežníka
 tagLoreObj_WightmireA01codexTitle=Krvopříseřníkův úřední dopis
-tagLoreObj_WightmireA01Text=Nadešel čas udeřit a vykonat Aetherianskou pomstu ve Wightmire. V klidu jsme shromáždili naše síly v kopcích nad Burrwitchem, abychom na něj mohli snáze zaútočit. Nicméně předtím, než k tomu dojde, musíme zabezpečit Wightmire, abychom neměli nepřítele v zádech.{^n}{^n}I když jsou silní, loajální a připraveni zemřít ve jménu Ch'thona, mám dojem, že máte nedostatek Krvepřísežníků ke zdolání Aetherianských bojovníků. V poslední době jsme měli obrovský úspěch při zrodu mnohem silnějších služebníků Ch'thona z Prázdnoty. Jeden Posel může rozdrtit všechny Aetherianské ve Wightmire a klidně může pokračovat do Ďáblova průsmyku, který by mohl v této oblasti sloužit jako pevnost našeho řádu.{^n}{^n}Ke zrodu Posla budete potřebovat krev a životy alespoň tří mužů. Shromážděte oběti jak uznáte za vhodné; buď z uprchlíků na cestách, tuláckých osad nebo vybírejte mezi vlastními Krvepřísežníky. Informujte mne o vašem úspěchu, až jej splníte.{^n}{^n}Ulto Treig, Nejvyšší kněží
+tagLoreObj_WightmireA01Text=Nadešel čas udeřit na naše největší nepřátele, Aetheriany, ve Wightmire. V klidu jsme shromáždili naše síly v kopcích nad Burrwitchem, abychom na něj mohli snáze zaútočit. Nicméně předtím, než k tomu dojde, musíme zabezpečit Wightmire, abychom neměli nepřítele v zádech.{^n}{^n}I když jsou silní, loajální a připraveni zemřít ve jménu Ch'thona, mám dojem, že máte nedostatek Krvepřísežníků ke zdolání Aetherianských bojovníků. V poslední době jsme měli obrovský úspěch při zrodu mnohem silnějších služebníků Ch'thona z Prázdnoty. Jeden Posel může rozdrtit všechny Aetherianské ve Wightmire a klidně může pokračovat do Ďáblova průsmyku, který by mohl v této oblasti sloužit jako pevnost našeho řádu.{^n}{^n}Ke zrodu Posla budete potřebovat krev a životy alespoň tří mužů. Shromážděte oběti jak uznáte za vhodné; buď z uprchlíků na cestách, tuláckých osad nebo vybírejte mezi vlastními Krvepřísežníky. Informujte mne o vašem úspěchu, až jej splníte.{^n}{^n}Ulto Treig, Nejvyšší kněží
 
 tagLoreObj_WardensJournalA01Name=List Wardena Kriega
 tagLoreObj_WardensJournalA01Text=Zmocnil jsem se svého hostitele, místního vzeňského dozorce. Dostavil jsem se k němu do jeho spací komory a navrhl mu spojení. Očekával jsem strach a nedůvěru, ale tito lidé jsou prý připraveni vstoupit do jakéhokoliv svazku, ze kterého, jak věří, budou něco mít. Krieg není zrovna ten typ člověka se silnou vůlí, ale je neodbytný a neustále se mi přehrabuje v mém vědomí. Nicméně ho mám pod kontrolou.{^n}{^n}Kriegova pozice jako věznitele jiných lidí značně usnadňuje naše úsilí. Jeho rozsáhlé obydlí má obrovský sklep, který, jak se domnívám, můžeme využít jako způsob podzemní přepravy těl a ukrytí našich aktivit. Před námi je ještě dost práce, abychom přichystali náš Nádherný rozbřesk, ale dost se bavím tímto fyzickým tělem. Skrývá mnoho výhod.
@@ -456,7 +456,7 @@ tagLoreObj_WardensLabA01Name=Gethrandovy poznámky - 1. zápisek
 tagLoreObj_WardensLabA01Text=Není mi jasné, proč Aetheriané mají takový zájem na uchovávání tkání. Jeden z mých kolegů podokl, že možná chtějí použít lidské mrtvoly jako nějaká pouzdra, až rozšíří své druhy mezi lidstvo.{^n}{^n}Mrtvolami naložené povozy sem jsou přiváženy dnem i nocí. Naprostá většina vypadá otřesně a já začínám mít podezření, že se nejedná pouze o popravené zločince, jak nám bylo řečeno.
 
 tagLoreObj_WardensLabA02Name=Gethrandovy poznámky - 2. zápisek
-tagLoreObj_WardensLabA02Text=Dnes jsme vstoupili do druhé fáze našich experimentů, ale výsledky nebyly takové, jaké jsem očekával. Dospěli jsme do stavu, kdy mrtvoly mohou vydržet celé měsíce, možná i léta, s minimálním, především vnějším, rozkladem. Náš Aetherianský dozorce se zdá být spokojen. Když položil, nebo spíš To položilo, ruku na jednu z mrtvol, přeskočila jiskra Éterické energie. Ta věc se začala hýbat, jako by byla zase živá. Byl to příšerný pohled.{^n}{^n}Co mne však podstatně víc znepokojuje, je to, že tyto mrtvoly jsou zjevně hostitely Aetherianů. Začalo se proslýchat, že upřednostňují živé hostitele. Prostý počet mrtvol, které sem byly dotaženy, ovšem směřuje k mnohem děsivější skutečnosti: armádě.
+tagLoreObj_WardensLabA02Text=Dnes jsme vstoupili do druhé fáze našich experimentů, ale výsledky nebyly takové, jaké jsem očekával. Dospěli jsme do stavu, kdy mrtvoly mohou vydržet celé měsíce, možná i léta, s minimálním, především vnějším, rozkladem. Náš Aetherianský dozorce se zdá být spokojen. Když položil, nebo spíš To položilo, ruku na jednu z mrtvol, přeskočila jiskra Aetherické energie. Ta věc se začala hýbat, jako by byla zase živá. Byl to příšerný pohled.{^n}{^n}Co mne však podstatně víc znepokojuje, je to, že tyto mrtvoly jsou zjevně hostitely Aetherianů. Začalo se proslýchat, že upřednostňují živé hostitele. Prostý počet mrtvol, které sem byly dotaženy, ovšem směřuje k mnohem děsivější skutečnosti: armádě.
 
 tagLoreObj_WardensLabA03Name=Gethrandovy poznámky - Závěrečný zápisek
 tagLoreObj_WardensLabA03Text=Tohle bude můj poslední zápisek, jelikož jsem se rozhodl ukončit svůj život. Nedokážu se donutit, abych dál prováděl tyhle odporné experimenty. Svým jednáním jsem nejspíš odsoudil celé lidstvo. Ačkoliv jsem se dlouho vyhýbal svým kolegům v akademii a s myšlenkou, že Aetheriané by mi mohli nabídnout něco většího, už nemůžu být součástí téhle hrůzy. Obávám se, že když najdou mé tělo, tak mě použijou pro své pokusy. Proto bych měl zůstat diskrétní. Vrátit se do života jako jedna z těch... věcí by bylo nesnesitelné.
