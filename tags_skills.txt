@@ -46,7 +46,7 @@ tagSkillClassName0709=
 tagSkillClassName0809=
 
 
-tagSkillClassDescription01=Vojáci císařské armády byli trénováni k přežití v těch nejhorších podmínkách a udrželi linii před těmi nejnebezpečnějšími nepřáteli říše. Vojáci upřednosňují používání zbraní na blízko jako jsou meče a štíty, ale mohou se také uplatnit jako střelci ze zálohy. Co může vojákovi chybět v množství jím uděleného poškození, to doplní svou statečností a vedením.
+tagSkillClassDescription01=Vojáci císařské armády byli trénováni k přežití v těch nejhorších podmínkách a udrželi linii před těmi nejnebezpečnějšími nepřáteli říše. Vojáci upřednostňují používání zbraní na blízko jako jsou meče a štíty, ale mohou se také uplatnit jako střelci ze zálohy. Co může vojákovi chybět v množství jím uděleného poškození, to doplní svou statečností a vedením.
 
 tagSkillClassDescription02=Pyrotechničtí mistři císařské armády. Ničitelé jsou částečně inženýři a částečně kouzelníci. Byli využíváni k prolomení nepřátelských pozic a opevnění za pomoci jejich zničující výbavy různých výbušnin a destruktivní magie. Obvykle dávali přednost boji na dálku; útočili na nepřátele střelnými zbraněmi, pastmi a výbušninami. Samozřejmě jsou také schopni použít zbraň na blízko.
 
@@ -119,7 +119,7 @@ tagClass01SkillName08A=Menhirova vůle
 tagClass01SkillDescription08A=Když se blíží tvá smrt, nepoddajná Mehrinova vůle tě naplní a obnoví tvé síly. ^oVyžaduje štít.
 
 tagClass01SkillName09A=Polní velení
-tagClass01SkillDescription09A=Vyšší cit pro disciplínu a znalost bojové taktiky z tebe v žáru bitvy činí rozeného vůdce. ^oThis ability must be toggled to maintain its effect.
+tagClass01SkillDescription09A=Vyšší cit pro disciplínu a znalost bojové taktiky z tebe v žáru bitvy činí rozeného vůdce. ^oTato schopnost musí být nastavena jako výchozí typ útoku, aby účinkovala.
 tagClass01SkillName09B=Taktika družstva
 tagClass01SkillDescription09B=Inspiruje tvé spojence, aby předvedli to nejlepší z jejich schopností.
 
@@ -134,7 +134,7 @@ tagClass01SkillName13A=Menhirův val
 tagClass01SkillDescription13A=Odvolej se na pozemského boha, Menhira. Menhir je pradávný aspekt, který žehná jeho následovníkům houževnatostí samotné země. ^oVyžaduje štít.
 
 tagClass01SkillName14A=Oleronův vztek
-tagClass01SkillDescription14A=Odvolej se na pozemského boha, Olerona. Oleron je pradávný aspekt, který inspiruje jeho následnovníky urputnou zuřivostí.
+tagClass01SkillDescription14A=Odvolej se na pozemského boha, Olerona. Oleron je pradávný aspekt, který inspiruje jeho následovníky urputnou zuřivostí.
 
 tagClass01SkillName15A=Zaštítování
 tagClass01SkillDescription15A=Zaujme defenzivní postoj, který vysoce zvýší tvé bojové vnímání. Tento postoj můžeš zaujmout jen na krátkou chvíli. ^oVyžaduje štít.
@@ -143,7 +143,7 @@ tagClass01SkillName16=Jizvy z bitvy
 tagClass01SkillDescription16=Přes nespočet násilných střetů jsi viděl tu nejhorší bitvu, která mohla kdy být. Hrůzy války už nezabrání tvým akcím a ani ti nebude vadit trocha prolité krve.
 
 tagClass01SkillName17=Protiúder
-tagClass01SkillDescription17=Vstup do stavu intenzivní připravenosti, abys uvolnil množství bleskově rychlých protiútoků proti tvému nepříteli. ^oThis ability must be toggled to maintain its effect.
+tagClass01SkillDescription17=Vstup do stavu intenzivní připravenosti, abys uvolnil množství bleskově rychlých protiútoků proti tvému nepříteli. ^oTato schopnost musí být nastavena jako výchozí typ útoku, aby účinkovala.
 
 tagClass01SkillName09C=Držení linie
 tagClass01SkillDescription09C=Silná schopnost vést udržuje morálku a bojový řád, což ti umožňuje převládat v situacích, které by za normálních podmínek byly beznadějné.
@@ -181,7 +181,7 @@ tagClass02SkillDescription03D=Další vylepšení Ohnivého úderu, která přid
 
 tagClass02SkillName04A=Tříštivá bomba
 tagClass02SkillDescription04A=Výbušnina obalená dalšími výbušninami; tento ďábelský vynález je schopný rozmetat celé hordy nepřátel.
-tagClass02SkillName04B=Vylepšené poudro
+tagClass02SkillName04B=Vylepšené pouzdro
 tagClass02SkillDescription04B=Vylepšení Tříštivé bomby má za následek zvýšení její poškozující síly, což nepřátelům způsobí vnitřní trauma a zpomalí je; to vše včetně většího rádiusu výbuchu.
 tagClass02SkillName04C=Pronikavý výbuch
 tagClass02SkillDescription04C=Technika lepšího zabalení přidává průrazné úlomky a zvyšuje ohnivou sílu Tříštivé bomby.
@@ -198,9 +198,9 @@ tagClass02SkillName05E=Bleskový minomet
 tagClass02SkillDescription05E=Odpálí elektřinou nabitou střelu na nepřátele.
 
 tagClass02SkillName06A=Termitová mina
-tagClass02SkillDescription06A=Spustí trio malých, ale smrtících pyrotechnických náloží, které spálí tvé nepřátele intesivními plameny.
+tagClass02SkillDescription06A=Spustí trio malých, ale smrtících pyrotechnických náloží, které spálí tvé nepřátele intenzivními plameny.
 tagClass02SkillName06B=Kulový blesk
-tagClass02SkillDescription06B=Napůl pyrotechnika, napůl chemie - toto smrtící vylepšení Termitové miny způsobuje, ze spálí nepřátele jak intezivním plamenem, tak výboji elektřiny.
+tagClass02SkillDescription06B=Napůl pyrotechnika, napůl chemie - toto smrtící vylepšení Termitové miny způsobuje, ze spálí nepřátele jak intenzivním plamenem, tak výboji elektřiny.
 tagClass02SkillName06C=Proud plamenů
 tagClass02SkillDescription06C=Vytvoří smrtící proud velice teplých plamenů, který zapálí nepřátele, kteří skrze něj projdou.
 
@@ -210,178 +210,178 @@ tagClass02SkillName07B=Ulzuin vyvolený
 tagClass02SkillDescription07B=Ti, kteří obětovali mnoho při pronásledování pyrotechniky mohou vejít do přízně Ulzuina a dostane se jim tak jeho požehnání ve formě způsobení ohnivé devastace na tomto světě. ^o[Potřebuje a zároveň ovlivňuje Omračující částice, Granát a Tříštivou bombu]
 
 tagClass02SkillName08A=Černovodý koktejl
-tagClass02SkillDescription08A=Blackwater Cocktails were concocted when more conventional explosives ran low. These improvised fire bombs leave a self-fueled blaze upon impact and are particularly effective against tightly packed enemies.
+tagClass02SkillDescription08A=Černovodý koktejl byl namíchán v době, kdy více účinné výbušniny docházely. Tyto vylepšené ohnivé pumy vytvoří po dopadu plameny a jsou účinné zejména proti nepřátelům, kteří jsou velmi blízko sebe.
 tagClass02SkillName08B=Intenzivní teplo
-tagClass02SkillDescription08B=A hotter burning Blackwater solution melts armor and incinerates flesh.
+tagClass02SkillDescription08B=Černovodý koktejl se zvýšenou teplotou hoření taví brnění a zapaluje kůži.
 tagClass02SkillName08C=Bolestné plameny
-tagClass02SkillDescription08C=Driven mad by the searing pain of their flame covered bodies, enemy ranks scatter in panic with those still able to function barely able to strike back.
+tagClass02SkillDescription08C=Jak jsou nepřátelé pobláznění pronikavou bolestí od plamenů pokrývajících jejich tělo, jsou jejich řady v panice rozehnány a ti, co mohou něco dělat jsou sotva schopní udeřit zpět. 
 
 tagClass02SkillName09A=Omračující částice
-tagClass02SkillDescription09A=Throw out an array of tiny, electrically charged jacks that will temporarily stop enemies in their tracks.
+tagClass02SkillDescription09A=Vypustí množství drobných, elektricky nabitých částic, které dočasně zastaví nepřátele v jejich pohybu.
 tagClass02SkillName09B=Celoplošnost
-tagClass02SkillDescription09B=Boosts the electrical capacity of each stun jack and increases the number of jacks that can be thrown at once.
+tagClass02SkillDescription09B=Umocňuje elektrickou kapacitu každé ochromující částice a zvyšuje množství těchto částic, které můžeš naráz vypustit.
 
 
 tagClass02SkillName12A=Výbušný štít
-tagClass02SkillDescription12A=A combination of military equipment and sorcery creates a shield capable of absorbing a fixed amount of pierce and fire damage before collapsing.
+tagClass02SkillDescription12A=Kombinace vojenského vybavení a kouzelnictví vytváří štít schopný absorbovat pevně dané množství průrazného a ohnivého poškození, než se zhroutí.
 tagClass02SkillName12B=Vztek
-tagClass02SkillDescription12B=The sorcerous flame powering the Blast Shield is extended to equipped weapons and armor, tempering them beyond conventional methods.
+tagClass02SkillDescription12B=Magický plamen, který napájí Výbušný štít je rozšířen na vybavené zbraně a brnění, čímž je zahřívá na teploty, které jsou běžnými způsoby nedosažitelné.
 
 tagClass02SkillName13A=Mstivý plamen
-tagClass02SkillDescription13A=Ulzuin's eternal flame once brought life and healing to the world, but betrayal and torment twisted this gift into a weapon of vengeance. Those sworn to Ulzuin receive vigor in battle and fiery retaliation upon their foes. ^oThis ability must be toggled to maintain its effect.
-tagClass02SkillName13B=Ulzuin hněv
-tagClass02SkillDescription13B=As the flame of Ulzuin scorches adjacent enemies, bolts of sorcerous flame and electricity will arc out to strike more distant foes.
+tagClass02SkillDescription13A=Ulzuinův věčný plamen kdysi přinesl život a zdraví na tento svět, ale zrada a muka jej přeměnily ve zbraň pomsty. Ti, kteří jsou oddaní Ulzuinovi, získají na bojišti proti svým nepřátelům sílu a odvetný ohnivý úder. ^oTato schopnost musí být nastavena na výchozí typ útoku, aby účinkovala.
+tagClass02SkillName13B=Ulzuinův hněv
+tagClass02SkillDescription13B=Když Ulzuinův plamen pálí nepřátele v blízkosti, střely magických plamenů a elektřiny jsou vypuštěny do všech směrů, aby zasáhly více vzdálené nepřátele.
 
 tagClass02SkillName10A=Elektrický výboj
-tagClass02SkillDescription10A=Lobs a powerful electrically charged bomb at enemies. Effective against tough single targets.
+tagClass02SkillDescription10A=Vrhne na nepřátele mocnou elektricky nabitou bombu. Účinné proti samostatným silným nepřátelům.
 tagClass02SkillName10B=Přetížení
-tagClass02SkillDescription10B=Increases the electrical damage of Lightning Charge.
+tagClass02SkillDescription10B=Elektrickému výboji je zvýšeno poškození elektřinou.
 tagClass02SkillName11A=Těžký arzenál
-tagClass02SkillDescription11A=Increases the firepower of Grenado and Canister Bomb.
+tagClass02SkillDescription11A=Zvyšuje účinek Granátu a Tříštivé bomby.
 tagClass02SkillName14A=Vysoký účinek
-tagClass02SkillDescription14A=A powerful attack that does increased damage and knocks down most small to mid-sized enemies.
+tagClass02SkillDescription14A=Mocný útok, který způsobuje zvýšené poškození a srazí většinu malých až středně silných nepřátel.
 
 
 
 #Class03
 
 tagClass03SkillName00=Okultista
-tagClass03SkillDescription00=An in-depth study on the manipulation and control of the occult.
+tagClass03SkillDescription00=Do hloubky studovaná manipulace a ovládání okultních věd.
 
 tagClass03SkillName01A=Přivolání známosti
-tagClass03SkillDescription01A=Summon a mythical storm raven to support you. Storm ravens are eldritch creatures of uncanny intelligence and magical ability quite different from mundane ravens. Some believe they are not birds at all but rather some manner of ancient sky spirit for which the raven is a preferred manifestation. ^oOnly one raven may be summoned at any one time.
+tagClass03SkillDescription01A=Vyvolá útočného havrana, aby tě podpořil. Útoční havrani jsou podivná stvoření tajemného vědění a magických schopností a jsou velice odlišní od běžných havranů. Někteří věří, že to nejsou vůbec ptáci, ale spíše nějaký druh nebeského ducha, pro kterého je havran preferovaným zhmotněním. ^oV jeden čas může být vyvolán pouze jeden havran.
 tagClass03SkillName01B=Bouřná koule
 tagClass03SkillDescription01B=Vrozený útok.
 tagClass03SkillName01C=Zacelení ran
-tagClass03SkillDescription01C=Havran usměrňuje tajemné energie, které zacelují rány po těle zraněných spojenců.
+tagClass03SkillDescription01C=Havran usměrňuje tajemné energie, které zacelují rány na tělech zraněných spojenců.
 tagClass03SkillName01D=Bouřný přízrak
-tagClass03SkillDescription01D=The raven projects its eldritch spirit into selected allies, empowering them beyond their mortal means.
+tagClass03SkillDescription01D=Havran přesouvá svou podivnou energii do vybraných spojenců, čímž je činí silnějšími než jsou běžní smrtelníci.
 tagClass03SkillName01E=Úder blesku
-tagClass03SkillDescription01E=The storm raven calls forth a powerful lightning bolt to electrocute nearby foes.
+tagClass03SkillDescription01E=Útočný havran přivolá mocný výboj blesku, který zasáhne nepřátele v blízkosti.
 
 tagClass03SkillName02A=Vyvolání pekelného psa
-tagClass03SkillDescription02A=Calls forth a hellhound from the phantom realm to savage the Occultist's enemies. This vicious beast will battle alongside you until its life is extinguished in a blazing inferno. ^oOnly one Hellhound can be summoned at any one time.
+tagClass03SkillDescription02A=Přivolá pekelného psa z říše přeludů, aby se vrhnul na Okultistovy nepřátele. Tato krutá bestie bude bojovat po tvém boku do té doby, než její život vyhasne v žáru pekla. ^oV jeden čas může být vyvolán pouze jeden pekelný pes.
 tagClass03SkillName02B=Žhavý dráp
-tagClass03SkillDescription02B=Brimstone claws tear an arc of flame through enemies within the hellhound's reach.
+tagClass03SkillDescription02B=Sirnaté pařáty rozdrásají plamenným obloukovým útokem nepřátele v dosahu.
 tagClass03SkillName02C=Ďábelský oheň
-tagClass03SkillDescription02C=An aura of hellfire surrounds the hellhound, augmenting it with power from its natural realm and searing enemies that draw too close. This power extends to nearby allies.
+tagClass03SkillDescription02C=Aura pekelného ohně obklopuje pekelného psa, jež je posilována z její přirozené sféry a popálí nepřátele, kteří se příliš přiblíží. Tuto schopnost získají i spojenci v blízkosti.
 tagClass03SkillName02D=Pekelný dech
-tagClass03SkillDescription02D=The hellhound belches forth furious hellfire, incinerating your enemies.
+tagClass03SkillDescription02D=Pekelný pes chrlí vpřed zuřivé pekelné plameny, které tvé nepřátele zapálí.
 tagClass03SkillName02E=Útok pomocí drápů a tesáků
 tagClass03SkillDescription02E=Vrozený útok.
 tagClass03SkillName02F=Planoucí smrt
-tagClass03SkillDescription02F=The Hellhound's flesh erupts as it returns to its natural realm, incinerating nearby enemies.
+tagClass03SkillDescription02F=Tělo pekelného psa vybuchne ve chvíli, kdy se navrací do své přirozené sféry a zapálí nepřátele v blízkosti.
 
 tagClass03SkillName03A=Smlouva s Bysmielem
-tagClass03SkillDescription03A=Strengthens the bonds of control with your minions causing them to fight with greater vigor and determination.
+tagClass03SkillDescription03A=Posiluje pouta, kterými ovládáš své nohsledy, díky čemuž bojují s větším důrazem a odhodláním.
 tagClass03SkillName03B=Oddanost
-tagClass03SkillDescription03B=Subtle manipulation of the bonds of control beguiles minions into feeling overwhelming devotion towards you, causing them to fight with fanatical strength and speed.
+tagClass03SkillDescription03B=Jemná manipulace s pouty, kterými ovládáš své nohsledy, je okouzlí a získají pocit ohromující oddanosti vůči tobě, což způsobí, že budou bojovat s až fanatickou silou a rychlostí.
 
 tagClass03SkillName04A=Dreegova krev
-tagClass03SkillDescription04A=A binding with the great guardian confers some of Dreeg's regenerative ability, while wounds inflicted by enemies will spray caustic blood as though inflicted upon Dreeg himself.
+tagClass03SkillDescription04A=Souznění s velkým ochráncem ti uděluje některé Dreegovy regenerační schopnosti a ze zranění uštědřených nepřáteli bude rozprašována žíravá krev, jakoby se jednalo o zranění samotného Dreega.
 tagClass03SkillName04B=Strážcova zbroj
-tagClass03SkillDescription04B=The Occultist becomes ensconced in a phantasmal barrier that causes enemy hits to impact as though they were striking the quilled scales of Dreeg.
+tagClass03SkillDescription04B=Okultista se usadí ve spektrální ohradě a způsobí reflexi útoku, jako kdyby nepřátelé útočili na Dreegovy ostnaté šupiny.
 
 tagClass03SkillName05A=Solaelův kouzelný oheň
-tagClass03SkillDescription05A=Harness the eldritch power of Solael, burning your enemies with entropic energy upon every strike. ^oThis ability must be toggled to maintain its effect.
+tagClass03SkillDescription05A=Ovládne podivnou Solaelovu sílu, což popálí nepřátele entropickou energií při každém útoku. ^oTato schopnost musí být nastavena jako výchozí typ útoku, aby účinkovala.
 tagClass03SkillName05B=Druhý obřad
-tagClass03SkillDescription05B=Deepens the Occultist's bond to the hidden realm, intensifying the power of witchfire such that the slightest touch burns through the arcane essence of foes.
+tagClass03SkillDescription05B=Prohlubuje Okultistovo spojení se skrytou sférou a tak umocňuje sílu kouzelného ohně natolik, že i ten nejmenší dotek pálí tajemnou podstatu tvých nepřátel.
 
 tagClass03SkillName06A=Prokletí křehkostí
-tagClass03SkillDescription06A=A cruel word of power that robs enemies of their fortitude, making them slow and fragile.
+tagClass03SkillDescription06A=Kruté mocné slovo, které okrade tvé nepřátele o sílu ducha, čímž je učiní křehkými a pomalými.
 tagClass03SkillName06B=Zranitelnost
-tagClass03SkillDescription06B=Empowers the curse's vile potency so that it also weakens the constitution of your enemies, making them more susceptible to witchcraft and poisons.
+tagClass03SkillDescription06B=Posiluje odpornou moc prokletí, takže oslabí i zdraví tvých nepřátel a snadněji pak podléhají jedům a čarodějnictví.
 
 tagClass03SkillName10A=Pečeť záhuby
-tagClass03SkillDescription10A=Creates an occult sigil on the ground that consumes the life-force of enemies caught within its power, returning a portion of the damage dealt as health to the Occultist.
+tagClass03SkillDescription10A=Vytvoří na zemi okultní pečeť a pokud jsou v ni zachyceni nepřátelé, konzumuje jejich životní sílu a část z tohoto poškození vrací Okultistovi ve formě zdraví.
 tagClass03SkillName10B=Zkáza
-tagClass03SkillDescription10B=Imbues the sigil with the destructive powers of chaos itself.
+tagClass03SkillDescription10B=Dodává pečeti destruktivní sílu samotného chaosu.
 
 tagClass03SkillName11A=Dreegovo ďábelské oko
-tagClass03SkillDescription11A=Summons one of the infinite eyes of Dreeg, the great guardian of the hidden realm. The eye quickly speeds toward the target and then detonates itself.
+tagClass03SkillDescription11A=Vytvoří jedno z nekonečného množství očí Dreega, velkého vládce skryté sféry. Oko prudce zrychlí směrem k nepříteli a pak odpálí samo sebe.
 tagClass03SkillName11B=Krvavý výbuch
 tagClass03SkillDescription11B=Mystické oko při nárazu praskne a zmáčí blízké nepřátele sžíravou krví.
 tagClass03SkillName11C=Děsivý pohled
-tagClass03SkillDescription11C=The frightful gaze of the eldritch and immortal Dreeg may cause enemies to stand frozen in fear or simply run in fruitless terror.
+tagClass03SkillDescription11C=Děsivý pohled podivného a nesmrtelného Dreega může způsobit, že nepřátelé strnou strachy a nebo jednoduše začnou prchat díky zbytečnému zděšení.
 tagClass03SkillName11D=Odporný výbuch
-tagClass03SkillDescription11D=Putrid chunks burst forth from the eye upon impact, inflicting further pain upon any foes unfortunate enough to be close to its detonation.
+tagClass03SkillDescription11D=Při úderu vychrstne vetší hnijící část z oka, což uštědří další bolest tvým nepřátelům stojícím v blízkosti v době výbuchu.
 
 tagClass03SkillName12A=Posedlost
-tagClass03SkillDescription12A=You allow your body to act as a mortal vessel for the witch god Solael. The great one temporarily inhabits your flesh, bestowing upon you formidable physical prowess.
+tagClass03SkillDescription12A=Umožňuješ svému tělu, aby se chovalo jako koráb pro čarodějnického boha Solaela. Velký dočasně osídlí tvé tělo a propůjčí ti úctyhodné fyzické schopnosti.
 
 tagClass03SkillName13A=Krvavé neštovice
-tagClass03SkillDescription13A=Shunned even by many Occultists for the prolonged suffering it inflicts, this abhorrent curse calls down a virulent plague to spread amongst foes, inexorably sapping their life-force and causing them to bleed from every orifice.
+tagClass03SkillDescription13A=Dokonce i mnozí Okultisté se vyhýbají této odporné kletbě s prodlouženou dobou utrpení, kterou způsobuje. Sešle prudce nakažlivý mor na tvé nepřátele a nezadržitelně oslabuje jejich životní sílu a způsobuje jim krvácení z každého otvoru.
 tagClass03SkillName13B=Plýtvání
-tagClass03SkillDescription13B=Causes Pox to destroy your foe's vitality and turn weeping sores into gouts of blood. Such insidious spell-craft has earned Occultists their dark repute and seen many burnt at the stake.
+tagClass03SkillDescription13B=Způsobuje, že neštovice zničí vitalitu zdraví tvých nepřátel a promění mokvavé rány v krvavou dnu. Toto vnitřní kouzelnictví vysloužilo Okultistům jejich temnou reputaci a mnoho z nich bylo upáleno na hranici.
 tagClass03SkillName13C=Černá smrt
-tagClass03SkillDescription13C=Burning with fever and suffering the liquefaction of their internal organs, the infected may be hit by sudden bouts of confusion and wander the battlefield attacking the air or even their own allies.
+tagClass03SkillDescription13C=S vysokou horečkou a zkapalněním vnitřních orgánů trpící infikovaní mohou být náhle zmateni a bloudit po bojišti, přičemž budou útočit bez cíle či na své vlastní spojence.
 
 tagClass03SkillName14A=Zhoubná šipka
-tagClass03SkillDescription14A=A bolt of entropic power tears through the fabric of reality to inflict massive damage on any foe it strikes.
+tagClass03SkillDescription14A=Šipka podivné energie pronikne skrze závoj reality, aby uštědřila masivní poškození těm nepřátelům, které zasáhne.
 
 
 tagClass03SkillName07A=Zrušení zaklínadla
-tagClass03SkillDescription07A=Nullifies enemy enchantments and inflicts energy-burn damage based on the ammount of the enemy's remaining energy.
+tagClass03SkillDescription07A=Zruší nepřátelská kouzla a uštědří jim poškození energickým popálením, které je odvozeno od množství nepřítelovy zbývající energie.
 tagClass03SkillName08A=Šipka chaosu
-tagClass03SkillDescription08A=Sends out a swarm of entropic energy that tears into the very material of your enemy's being.
+tagClass03SkillDescription08A=Vyšle roj podivné energie, která se prorve až do samotné hmoty tvého nepřítele.
 tagClass03SkillName08B=Spálení energie
-tagClass03SkillDescription08B=Magnifies chaos damage while also burning a portion of the target's energy, inflicting additional energy burn damage.
+tagClass03SkillDescription08B=Umocňuje poškození chaosem a navíc spálí část nepřítelovy energie a způsobí další poškození energickým popálením.
 tagClass03SkillName09A=Kruh ochrany
-tagClass03SkillDescription09A=Creates a magical circle around the caster that regenerates life and repels those with evil intention.
+tagClass03SkillDescription09A=Vytvoří okolo sesilatele magický kruh, který obnovuje život a odrazí ty, jež mají zlý úmysl.
 tagClass03SkillName15A=Bysmielova ochrana
-tagClass03SkillDescription15A=Seals the target within a protective, healing sanctuary where they are unable to move but shielded against all harm.
+tagClass03SkillDescription15A=Uzamkne cíl uvnitř ochraňující a uzdravující svatyně, kde se nemůžou hýbat, ale jsou ochráněni před jakoukoliv újmou.
 
 
 
 #Class04
 
 tagClass04SkillName00=Noční lovec
-tagClass04SkillDescription00=Practice in the arts of illusion and whirling blades.
+tagClass04SkillDescription00=Umění iluze a vířících se nožů v praxi.
 
 tagClass04SkillName01A=Přízračné čepele
-tagClass04SkillDescription01A=A legendary technique of the Nightblades. Hurl conjured blades infused with shadow magic that rends through flesh like paper.
+tagClass04SkillDescription01A=Legendární technika nočních lovců. Vychrlí vyčarované čepele naplněné kouzlem stínu, které protnou maso stejně lehce jako papír.
 tagClass04SkillName01B=Hledač srdce
-tagClass04SkillDescription01B=With refined technique, Phantasmal Blades are conjured so sharp that they can pierce through multiple targets while invisible phantasmal threads draw vitality from the victims.
+tagClass04SkillDescription01B=S touto vylepšenou technikou jsou vyčarované Přízračné čepele tak ostré, že mohou protnout vícero cílů a neviditelná přízračná vlákna odčerpají vitalitu z obětí.
 tagClass04SkillName01C=Spodní hrana
-tagClass04SkillDescription01C=Empowers the Phantom Blade with dark magic, a loathsome technique used only in the most dire circumstances.
+tagClass04SkillDescription01C=Posilní Přízračnou čepel temnou magií, odpornou technikou používanou pouze za těch nejzoufalejších podmínek.
 
 tagClass04SkillName02A=Úder ze stínu
-tagClass04SkillDescription02A=A cunning combination of illusion and mental deflection allows you to seemingly vanish and reappear above your victim like a nightmarish specter. ^oVyžaduje chladnou zbraň.
+tagClass04SkillDescription02A=Lstivá kombinace iluze a duševního vychýlení ti umožňuje zdánlivě se vypařit a objevit znovu před obětí jako hrůzostrašný přízrak. ^oVyžaduje chladnou zbraň.
 tagClass04SkillName02B=Nidallin ospravedlňující konec
-tagClass04SkillDescription02B=As a practitioner of poisons, found unsavory by most Nightblades, Nidalla maintained that the ends justified the means. This toxic twist on the traditional Shadow Strike will ensure the end of any foe that survives the initial attack.
+tagClass04SkillDescription02B=Většina Nočních čepelí shledala charakter Nidally odporným, protože využívala jedy, ale pro Nidallu "účel světí prostředky". Tato jedovatá otočka spolu s Klasickým úderem ze stínu zajistí konec jakéhokoliv nepřítele, který přežije původní útok.
 tagClass04SkillName02C=Soumrak
-tagClass04SkillDescription02C=As you reappear and engage your prime target, a pall of darkness will descend upon surrounding enemies like the darkest, coldest night, chilling their blood and invading their minds with an uncontrollable weariness.
+tagClass04SkillDescription02C=Když se znovu objevíš a zaútočíš na svůj primární cíl, plášť temnoty padne na nepřátele v okolí jako ta nejtmavší, nejchladnější noc, která ochladí jejich krev a napadne jejich mysl nekontrolovatelnou únavou.
 
 tagClass04SkillName03A=Bariéra z čepelí
-tagClass04SkillDescription03A=For a master Nightblade, Belgothian was rumored to lack fine control of his conjuring; but he had the unremitting willpower to summon so many blades that they would form an impenetrable shield surrounding him, giving him a moment of respite from his foes.
+tagClass04SkillDescription03A=Proslíchá se, že pán Nočních čepelí, Belgothian, postrádal kvalitní ovládání svých kouzel; měl ale vždy dostatečně silnou vůli vyčarovat tak velké množství čepelí, že kolem něj vytvořily neprorazitelný štít, což mu dopřálo čas na oddech od jeho nepřátel.
 
 tagClass04SkillName04A=Prstenec z oceli
-tagClass04SkillDescription04A=In the blink of an eye, hundreds of phantasmal blades encircle you at lethal speed, cutting down adjacent foes.
+tagClass04SkillDescription04A=Během mrknutí oka tě obklopí stovky Přízračných čepelí rotujících smrtící rychlostí, jež setnou protivníky v blízkosti.
 tagClass04SkillName04B=Vražedný kruh
-tagClass04SkillDescription04B=Vicious phantasmal blades slice deep into foes caught within the ring, spilling copious amounts of blood.
+tagClass04SkillDescription04B=Brutální přízračné čepele rozřeže protivníky zachycené v kruhu, z kterých začnou cákat proudy krve.
 
 tagClass04SkillName05A=Dvojité ostří
-tagClass04SkillDescription05A=Among the most fundamental skills of the nightblade are the mastery of melee dual wielding, favoring the use of piercing blades, and the art of drawing elemental cold from iron and steel. ^oEnables the ability to dual wield melee weapons.
+tagClass04SkillDescription05A=Mezi ty nejzásadnější dovednosti Nočních čepelí patří také mistrovství v užívání dvou zbraní na blízko, z nichž jsou v oblibě průrazné čepele, a také čerpání živelného chladu z železa a oceli. ^oAplikuje schopnost ovládat dvě zbraně na blízko.
 tagClass04SkillName05B=Belgothianovy nůžky
-tagClass04SkillDescription05B=The brawny Belgothian was an anomaly among the lithe Nightblade masters, but he exceeded them all in raw power. Leveraging his strength in direct but lethal attacks like the shears, Belgothian could often finish an enemy in a single move. ^oThis is a dual-wielding technique.
+tagClass04SkillDescription05B=The brawny Belgothian was an anomaly among the lithe Nightblade masters, but he exceeded them all in raw power. Leveraging his strength in direct but lethal attacks like the shears, Belgothian could often finish an enemy in a single move. ^oToto je technika dvou zbraní.
 tagClass04SkillName05C=Amarastin rychlý řez
-tagClass04SkillDescription05C=Legendary for her speed, Amarasta's blades were said to sound like a whip through the air, leaving only streaks of light too fast for the eye to follow. Masters of this technique can strike thrice in the space of a normal attack. ^oThis is a dual-wielding technique.
+tagClass04SkillDescription05C=Legendary for her speed, Amarasta's blades were said to sound like a whip through the air, leaving only streaks of light too fast for the eye to follow. Masters of this technique can strike thrice in the space of a normal attack. ^oToto je technika dvou zbraní.
 tagClass04SkillName05D=Vířivá smrt
-tagClass04SkillDescription05D=A devastating technique intended for multi-target combat. Those that survive are left bleeding as if from a thousand cuts. ^oThis is a dual-wielding technique.
-tagClass04SkillName05E=Nidalla's Hidden Hand
-tagClass04SkillDescription05E=The controversial Nightblade master Nidalla demonstrated the cruel effectiveness of poisons during the Age of Unreason when she combined the foul toxins with the Whirling Death technique, allowing her to prevail in battle against greatly superior numbers. ^oThis technique modifies Whirling Death.
+tagClass04SkillDescription05D=Devastující technika zaměřená na boj s vícero cíli. Ti, kteří přežijí, budou krvácet, jako z tisíce řezných ran. ^oToto je technika dvou zbraní.
+tagClass04SkillName05E=Nidallanina skrytá dlaň
+tagClass04SkillDescription05E=Nidalla, kontroverzní mistrině nočních lovců, zosobňovala krutou účinnost jedů během Věku Nerozumu, kdy kombinovala odporné jedy s technikou Vířivé smrti, což jí umožnilo převládat v boji proti obrovské převaze. ^oTato technika modifikuje Vířivou smrt.
 tagClass04SkillName05F=Poprava
-tagClass04SkillDescription05F=A merciless blow, struck during a moment of opportunity, with the intent to quickly finish a foe. Those that survive are not likely to remain alive very long. ^oThis is a dual-wielding technique.
+tagClass04SkillDescription05F=Nelítostný úder, uštědřený během chvilky kdy byla příležitost, s úmyslem rychle dorazit protivníka. Ti, kteří přežijí, nebudou s největší pravděpodobnosti žít dlouho. ^oToto je technika dvou zbraní.
 
 tagClass04SkillName06A=Pneumatic Burst
 tagClass04SkillDescription06A=Secret martial techniques of the Nightblades enable you to draw vital breath or "pneuma" from your surroundings for short bursts of speed and power. The metabolic acceleration caused by these vital breaths also confers minor healing. ^oThis technique requires melee weapons.
-tagClass04SkillName06B=Shadow Dance
+tagClass04SkillName06B=Tanec stínu
 tagClass04SkillDescription06B=Practice in combat meditation allows you to achieve a calm clarity in the heat of battle where you can calculate the path of enemy attacks and shift subtly to lessen the impact of weapon hits on your armor or to deflect projectiles.
 tagClass04SkillName06C=Elemental Awakening
 tagClass04SkillDescription06C=Adept Nightblades can pull energy from the air or even foes their weapons come in contact with to deliver attacks of intense cold.
 
 tagClass04SkillName07A=Veil of Shadow
-tagClass04SkillDescription07A=A psionic veil clouds the minds of nearby enemies, obscuring their sight and diminishing their effectiveness in combat. ^oThis ability must be toggled to maintain its effect.
+tagClass04SkillDescription07A=A psionic veil clouds the minds of nearby enemies, obscuring their sight and diminishing their effectiveness in combat. ^oTato schopnost musí být nastavena jako výchozí typ útoku, aby účinkovala.
 tagClass04SkillName07B=Night's Chill
 tagClass04SkillDescription07B=Causes foes affected by the Veil of Shadow to feel the dark chill of the night fall over them, slowing their attacks and enfeebling their minds.
 
@@ -423,7 +423,7 @@ tagClass04SkillName13D=Nemilosrdný repertoár
 tagClass04SkillDescription13D=Efficient use of poisons and anti-clotting agents can sometimes be the deadliest weapon of all.
 
 tagClass04SkillName14A=Lethal Gambit
-tagClass04SkillDescription14A=A risky technique favored by the master of assassins Amarasta. Lethal Gambit has the potential to inflict devastating harm when carried off perfectly, but with the risk that it may falter. ^oRequires a melee weapon.
+tagClass04SkillDescription14A=A risky technique favored by the master of assassins Amarasta. Lethal Gambit has the potential to inflict devastating harm when carried off perfectly, but with the risk that it may falter. ^oVyžaduje zbraň na útok zblízka.
 tagClass04SkillName14B=Amarasta's Blade Burst
 tagClass04SkillDescription14B=Mastery of the Lethal Gambit technique enhances it with a burst of dozens of deadly phantasmal blades which spread out from the point of attack to damage all adjacent foes.
 
@@ -582,11 +582,11 @@ xxxtagClass05SkillDescription02A=Coats your weapons with oil from the vile brew.
 tagItemSkillA001=Chladné počasí
 tagItemSkillDescA001=Výbuch negativní energie zmrazí vše, co mu stojí v cestě.
 
-tagItemSkillA002=Spectral Vortex
-tagItemSkillDescA002=Vital essense is siphoned from nearby enemies leaving them weakened and more susceptible to attacks for a brief period.
+tagItemSkillA002=Spektrální vír
+tagItemSkillDescA002=Životní síla z přilehlých nepřátel je odčerpána, což je zanechá na krátký okamžik oslabené a snadněji podlehnou tvým útokům.
 
-tagItemSkillA003=Static Reflux
-tagItemSkillDescA003=Launches an orb of electricity at enemies that hit the player.
+tagItemSkillA003=Navrácení statické elektřiny
+tagItemSkillDescA003=Vypustí kouli elektřiny na ty nepřátele, jež tě zasáhli.
 
 tagItemSkillA004=Ohnivá koule
 tagItemSkillDescA004=Vypustí ohnivou kouli na blízké nepřátele.
@@ -597,38 +597,38 @@ tagItemSkillDescA004B=Vypustí několik ohnivých koulí na blízké nepřátele
 tagItemSkillA005A=Plamenný prstenec
 tagItemSkillDescA005A=Obklopí sesílatele prstencem z plamenů, které budou v jejich dosahu spalovat nepřátele.
 
-tagItemSkillA006A=Poison Weapon
-tagItemSkillDescA006A=Coats weapons in a veneer of deadly toxin.
+tagItemSkillA006A=Jedovatá zbraň
+tagItemSkillDescA006A=Pokryje povrch zbraní smrtícím jedem.
 
-tagItemSkillC001Name=Magistrate's Censor
-tagItemSkillC001Description=This sword's blade was once a metal sign that once hung above the office of a merciless magistrate known to "censor" reputed blasphemers by cutting out their tongues.  Imprinted with the spiritual memory of those horrors, this weapon will similarly silence your enemies.
+tagItemSkillC001Name=Úředníkův cenzor
+tagItemSkillC001Description=Čepel tohoto meče kdysi bývala plechovou cedulí, která visela nad úřadem nemilosrdného úředníka, známého jako "cenzor", jež údajným rouhačům vyřezával jazyky. Tato zbraň se stopami spirituální paměti těchto hrůz podobně umlčí i tvé nepřátele.
 
-tagItemSkillA007Name=Focus
-tagItemSkillA007Desc=Focuses on the art of battle, accelerating all attacks.
+tagItemSkillA007Name=Soustředění
+tagItemSkillA007Desc=Zaměřuje se na umění boje, čímž urychluje všechny útoky.
 
 tagItemSkillA008Name=Pud sebezáchovy
 tagItemSkillA008Desc=Při nízkém zdraví zvedne adrenalin a dočasně zvýší rychlost běhu.
 
-tagItemSkillA009Name=Lightning Nova
-tagItemSkillA009Desc=Unleashes a blast of lightning energy, damaging all nearby enemies.
+tagItemSkillA009Name=Nova z blesků
+tagItemSkillA009Desc=Uvolní výbuch energie blesku, což poškodí nepřátele v blízkosti.
 
-tagItemSkillA010=Static Charge
-tagItemSkillDescA010=A surge of electricity discharges from you, damaging nearby enemies.
+tagItemSkillA010=Statický náboj
+tagItemSkillDescA010=Uvolní se z tebe vlna elektřiny, která poškodí nepřátele v blízkosti.
 
-tagItemSkillA011=Kilrian's Flame
-tagItemSkillDescA011=A dark flame engulfs your flesh, incinerating any that dare come near and draining their vitality.
+tagItemSkillA011=Kilrianův plamen
+tagItemSkillDescA011=Temný plamen pohltí tvé tělo a zapálí všechny, kteří se opováží přiblížit a odčerpá jejich vitalitu.
 
-tagItemSkillB001Name=Blastwave
-tagItemSkillB001Desc=A wave of fire erupts from your attack.
+tagItemSkillB001Name=Výbušná vlna
+tagItemSkillB001Desc=Z tvých útoků vzniká ohnivá vlna.
 
-tagItemSkillB002Name=Frigid Wave
-tagItemSkillB002Desc=Retaliates with the chill of death, launching projectiles at nearby enemies, freezing them.
+tagItemSkillB002Name=Mrazivá vlna
+tagItemSkillB002Desc=Jako odplata s mrazivým dotekem smrti vymrští projektily na nepřátele v blízkosti a zmrazí je.
 
-tagItemSkillB003Name=Sands of Nox
-tagItemSkillB003Desc=Retaliates with a potent sleeping hex, putting nearby enemies to sleep.
+tagItemSkillB003Name=Písky Noxu
+tagItemSkillB003Desc=Pomstí se silným kouzlem spánku, jež nepřátele v blízkosti uspí.
 
-tagItemSkillB004Name=Chain Lightning
-tagItemSkillB004Desc=Zaps the target with lightning which can leap to nearby targets.
+tagItemSkillB004Name=Řetězový blesk
+tagItemSkillB004Desc=Cíl je zasažen bleskem, který pak může přeskočit na další nepřátele v okolí.
 
 tagItemSkillA006Name=Lightning Nova
 tagItemSkillA006Desc=Retaliates with a blast of lightning energy, damaging all nearby enemies.
@@ -829,7 +829,7 @@ tagItemSkillC042Name=Add a Notch
 tagItemSkillC042Desc=Adds another notch to the supposed existing thousand, but who is counting anyway?
 
 tagItemSkillC043Name=Ring of Everlasting Flame
-tagItemSkillC043Desc=Bathe yourself in incinerating flames that burn all around you to cinders, but leave you unharmed. ^oThis ability must be toggled to maintain its effect.
+tagItemSkillC043Desc=Bathe yourself in incinerating flames that burn all around you to cinders, but leave you unharmed. ^oTato schopnost musí být nastavena jako výchozí typ útoku, aby účinkovala.
 
 tagItemSkillC044Name=Curse of Crushed Resolve
 tagItemSkillC044Desc=A mind-numbing word of power that dulls the senses of your enemies and robs them of their vigor.
@@ -856,7 +856,7 @@ tagItemSkillC051Name=Summon Revenant of Og'Napesh
 tagItemSkillC051Desc=Channel the dark writings of the grimoire of Og'Napesh to summon his most foul revenant back into the world of the living.
 
 tagItemSkillC052Name=Menhir's Blessing
-tagItemSkillC052Desc=Bless nearby allies with a sacred word of power, bestowing Menhir's Blessing. ^oThis ability must be toggled to maintain its effect.
+tagItemSkillC052Desc=Bless nearby allies with a sacred word of power, bestowing Menhir's Blessing. ^oTato schopnost musí být nastavena jako výchozí typ útoku, aby účinkovala.
 
 tagItemSkillC053Name=Defy Death
 tagItemSkillC053Desc=Deny death's advances when its call is strongest.
@@ -883,22 +883,22 @@ tagItemSkillC060Name=Flame Burst
 tagItemSkillC060Desc=Create a burst of hellish flames around you, incinerating nearby enemies.
 
 tagItemSkillC061Name=Serpent Lash
-tagItemSkillC061Desc=Lash out at your enemy like a vile serpent, injecting your target with a deadly poison. ^oRequires a melee weapon.
+tagItemSkillC061Desc=Lash out at your enemy like a vile serpent, injecting your target with a deadly poison. ^oVyžaduje zbraň na útok zblízka.
 
 tagItemSkillC062Name=Knockout
-tagItemSkillC062Desc=Take your opponent out of the fight with a swift and precise strike. ^oRequires a melee weapon.
+tagItemSkillC062Desc=Take your opponent out of the fight with a swift and precise strike. ^oVyžaduje zbraň na útok zblízka.
 
 tagItemSkillC063Name=Prismatic Shield
 tagItemSkillC063Desc=Triggers the runes engraved upon these bracers, creating a protective shield around you.
 
 tagItemSkillC064Name=Gaze Weakness
-tagItemSkillC064Desc=Gaze through your new eye and detect the slightest flaws in your enemies that you can then relay to your allies. ^oThis ability must be toggled to maintain its effect.
+tagItemSkillC064Desc=Gaze through your new eye and detect the slightest flaws in your enemies that you can then relay to your allies. ^oTato schopnost musí být nastavena jako výchozí typ útoku, aby účinkovala.
 
 tagItemSkillC065Name=Madness
 tagItemSkillC065Desc=Unleash the spirit of madness from within the mask, destroying the minds of nearby enemies.
 
 tagItemSkillC066Name=Abolish Evil
-tagItemSkillC066Desc=Banish evil with a mighty melee strike of divine retribution. ^oRequires a melee weapon.
+tagItemSkillC066Desc=Banish evil with a mighty melee strike of divine retribution. ^oVyžaduje zbraň na útok zblízka.
 
 tagItemSkillC067Name=Tidal Wave
 tagItemSkillC067Desc=Unleash a torrent of cascading water at your enemies, a technique mastered by the foul slith.
@@ -1012,7 +1012,7 @@ tagCompSkillA003Name=Odstranění
 tagCompSkillA003Desc=Úder tvé zbraně je zničující pro Aetherické bytosti.
 
 tagCompSkillA004Name=Pronikavá aura
-tagCompSkillA004Desc=Umocní tvé útoky a útoky tvých nejbližších spojenců probodávajícím úderem skrz zbroj. ^oThis ability must be toggled to maintain its effect.
+tagCompSkillA004Desc=Umocní tvé útoky a útoky tvých nejbližších spojenců probodávajícím úderem skrz zbroj. ^oTato schopnost musí být nastavena jako výchozí typ útoku, aby účinkovala.
 
 tagCompSkillA005Name=Blade Ward I
 tagCompSkillA005Desc=Empower your armor against piercing attacks, retaliating against your attackers in kind.
@@ -1030,7 +1030,7 @@ tagCompSkillA009Name=Chaos Bolt
 tagCompSkillA009Desc=Unleashe a bolt of chaotic energies at the target.
 
 tagCompSkillA010Name=Chill Aura I
-tagCompSkillA010Desc=Empower your attacks and those of your nearby allies with a deathly chill. ^oThis ability must be toggled to maintain its effect.
+tagCompSkillA010Desc=Empower your attacks and those of your nearby allies with a deathly chill. ^oTato schopnost musí být nastavena jako výchozí typ útoku, aby účinkovala.
 
 tagCompSkillA011Name=Decapitate I
 tagCompSkillA011Desc=Attempt to decapitate your foe with a deadly blow capable of causing intense bleeding.
@@ -1039,7 +1039,7 @@ tagCompSkillA012Name=Decapitate II
 tagCompSkillA012Desc=Attempt to decapitate your foe with a deadly blow capable of causing intense bleeding.
 
 tagCompSkillA013Name=Fire Aura
-tagCompSkillA013Desc=Empower your attacks and those of your nearby allies with a blazing flame. ^oThis ability must be toggled to maintain its effect.
+tagCompSkillA013Desc=Empower your attacks and those of your nearby allies with a blazing flame. ^oTato schopnost musí být nastavena jako výchozí typ útoku, aby účinkovala.
 
 tagCompSkillA014Name=Fireblast I
 tagCompSkillA014Desc=Launch a ball of incinerating flame at your target.
@@ -1054,7 +1054,7 @@ tagCompSkillA017Name=Ice Spike II
 tagCompSkillA017Desc=Launch a spike of rock solid ice to impale your enemies.
 
 tagCompSkillA018Name=Lightning Aura
-tagCompSkillA018Desc=Empower your attacks and those of your nearby allies with the power of lightning. ^oThis ability must be toggled to maintain its effect.
+tagCompSkillA018Desc=Empower your attacks and those of your nearby allies with the power of lightning. ^oTato schopnost musí být nastavena jako výchozí typ útoku, aby účinkovala.
 
 tagCompSkillA019Name=Lightning Strike I
 tagCompSkillA019Desc=Strike at your enemies with the force of a lightning bolt.
@@ -1063,7 +1063,7 @@ tagCompSkillA020Name=Lightning Strike II
 tagCompSkillA020Desc=Strike at your enemies with the force of a lightning bolt.
 
 tagCompSkillA021Name=Poison Aura
-tagCompSkillA021Desc=Empower your attacks and those of your nearby allies with a foul poison. ^oThis ability must be toggled to maintain its effect.
+tagCompSkillA021Desc=Empower your attacks and those of your nearby allies with a foul poison. ^oTato schopnost musí být nastavena jako výchozí typ útoku, aby účinkovala.
 
 tagCompSkillA022Name=Poison Bomb I
 tagCompSkillA022Desc=Launch a foul bomb which explodes at the target point, coating your enemies with toxins.
@@ -1086,11 +1086,11 @@ tagCompSkillA027Desc=Slam your enemy with your shield, impaling your target upon
 tagCompSkillA028Name=Silver Edge
 tagCompSkillA028Desc=Strike with your weapon, devastating to Chthonic beings.
 
-tagCompSkillA029Name=Slam I
-tagCompSkillA029Desc=Slam your enemy with an overpowering blow.
+tagCompSkillA029Name=Udeření I
+tagCompSkillA029Desc=Udeří tvého nepřítele zdrcující ranou.
 
-tagCompSkillA030Name=Slam II
-tagCompSkillA030Desc=Slam your enemy with an overpowering blow.
+tagCompSkillA030Name=Udeření II
+tagCompSkillA030Desc=Udeří tvého nepřítele zdrcující ranou.
 
 tagCompSkillB001Name=Demonfire
 tagCompSkillB001Desc=Launch a bolt of unearthly flame at your enemy.
@@ -1138,16 +1138,16 @@ tagRelicSkillB008Name=Sanctuary
 tagRelicSkillB008Desc=A protective barrier forms around you whenever an enemy manages to find a weak point in your defenses.
 
 tagRelicSkillB009Name=Guile
-tagRelicSkillB009Desc=Your cunning intellect inspires your allies to better predict your enemy's actions and to land devastating blows. ^oThis ability must be toggled to maintain its effect.
+tagRelicSkillB009Desc=Your cunning intellect inspires your allies to better predict your enemy's actions and to land devastating blows. ^oTato schopnost musí být nastavena jako výchozí typ útoku, aby účinkovala.
 
 tagRelicSkillB010Name=Rampage
 tagRelicSkillB010Desc=Enter an enraged state upon landing a critical blow against your target, assuring that there are more to follow.
 
 tagRelicSkillB011Name=Troll Rage
-tagRelicSkillB011Desc=Wage battle like a ruthless half-troll. When used as your default weapon attack, Troll Rage throws you into an ever deeper fury with every strike, but at the cost of focus. ^oRequires a melee weapon.
+tagRelicSkillB011Desc=Wage battle like a ruthless half-troll. When used as your default weapon attack, Troll Rage throws you into an ever deeper fury with every strike, but at the cost of focus. ^oVyžaduje zbraň na útok zblízka.
 
 tagRelicSkillB012Name=Mutilate
-tagRelicSkillB012Desc=Mutilates your target with three quick attacks, causing heavy bleeding. ^oThis is a dual-wielding technique. Also enables the ability to dual wield melee weapons.
+tagRelicSkillB012Desc=Mutilates your target with three quick attacks, causing heavy bleeding. ^oToto je technika dvou zbraní. Also enables the ability to dual wield melee weapons.
 
 tagRelicSkillB013Name=Volley
 tagRelicSkillB013Desc=Unleash a calculated volley of bullets at your target. ^oThis is a ranged dual-wielding technique. Also enables the ability to dual wield ranged weapons.
@@ -1156,10 +1156,10 @@ tagRelicSkillC001Name=Sacred Justice
 tagRelicSkillC001Desc=Pass righteous judgement upon the wicked.
 
 tagRelicSkillC002Name=Living Fortress
-tagRelicSkillC002Desc=Skin like stone, you become nearly untouchable by blade and claw. ^oRequires a shield.
+tagRelicSkillC002Desc=Skin like stone, you become nearly untouchable by blade and claw. ^oVyžaduje štít.
 
 tagRelicSkillC003Name=Bloodbath
-tagRelicSkillC003Desc=A vicious technique that leaves your enemies hemorrhaging profusely, leading to a slow and painful death.  ^oThis is a dual-wielding technique. Also enables the ability to dual wield melee weapons.
+tagRelicSkillC003Desc=A vicious technique that leaves your enemies hemorrhaging profusely, leading to a slow and painful death.  ^oToto je technika dvou zbraní. Also enables the ability to dual wield melee weapons.
 
 tagRelicSkillC004Name=Unstoppable
 tagRelicSkillC004Desc=You are like an unstoppable force, shaking off blows that would fell lesser mortals.
@@ -1180,13 +1180,13 @@ tagRelicSkillC009Name=Summon Stormhound
 tagRelicSkillC009Desc=Call forth a loyal Stormhound, an eldritch beast born of the heavens. ^oOnly one Stormhound can be summoned at any one time.
 
 tagRelicSkillC010Name=Deathchill Aura
-tagRelicSkillC010Desc=Empower your attacks and those of your nearby allies with the ghastly chill of death. ^oThis ability must be toggled to maintain its effect.
+tagRelicSkillC010Desc=Empower your attacks and those of your nearby allies with the ghastly chill of death. ^oTato schopnost musí být nastavena jako výchozí typ útoku, aby účinkovala.
 
 tagRelicSkillC011Name=Sacrifice
 tagRelicSkillC011Desc=Harness the power of your lifeblood to imbue your attacks with your very vitality.
 
 tagRelicSkillC012Name=Zeal
-tagRelicSkillC012Desc=Push the advantage, unleashing a flurry of attacks upon landing a critical blow. ^oRequires a melee weapon.
+tagRelicSkillC012Desc=Push the advantage, unleashing a flurry of attacks upon landing a critical blow. ^oVyžaduje zbraň na útok zblízka.
 
 tagRelicSkillC013Name=Desolation
 tagRelicSkillC013Desc=Corrupt the very earth beneath your feet and leave it a poisonous field of death.
@@ -1195,28 +1195,28 @@ tagRelicSkillC014Name=Blight
 tagRelicSkillC014Desc=Surround yourself with a cloud of blight, countless diseases capable of infecting anything they come in contact with.
 
 tagRelicSkillC015Name=Ancestral Bond
-tagRelicSkillC015Desc=Your ancestral bond with your minions unlocks power within them previously thought impossible. ^oThis ability must be toggled to maintain its effect.
+tagRelicSkillC015Desc=Your ancestral bond with your minions unlocks power within them previously thought impossible. ^oTato schopnost musí být nastavena jako výchozí typ útoku, aby účinkovala.
 
 tagRelicSkillD001Name=Aegis
 tagRelicSkillD001Desc=Imbue your shield with divine light, protecting you from further harm as it absorbs incoming blows.
 
 tagRelicSkillD002Name=Malediction
-tagRelicSkillD002Desc=Imbue your weapons with caustic poisons and virulent disease, infecting your enemies with every strike. ^oThis ability must be toggled to maintain its effect.
+tagRelicSkillD002Desc=Imbue your weapons with caustic poisons and virulent disease, infecting your enemies with every strike. ^oTato schopnost musí být nastavena jako výchozí typ útoku, aby účinkovala.
 
 tagRelicSkillD003Name=Summon Nemesis
 tagRelicSkillD003Desc=Call forth Nemesis, demigod of the shadows and lord of the night hunt. ^oYou can only summon one manifestation of Nemesis at any one time.
 
 tagRelicSkillD004Name=Citadel
-tagRelicSkillD004Desc=Empower your defenses and those of your allies to become a moving fortress. ^oRequires a shield. This ability must be toggled to maintain its effect.
+tagRelicSkillD004Desc=Empower your defenses and those of your allies to become a moving fortress. ^oVyžaduje štít. Tato schopnost musí být nastavena jako výchozí typ útoku, aby účinkovala.
 
 tagRelicSkillD005Name=Stormcaller Aura
-tagRelicSkillD005Desc=Empower yourself and your allies with the power of a lightning storm. ^oThis ability must be toggled to maintain its effect.
+tagRelicSkillD005Desc=Empower yourself and your allies with the power of a lightning storm. ^oTato schopnost musí být nastavena jako výchozí typ útoku, aby účinkovala.
 
 tagRelicSkillD006Name=Reckoning
 tagRelicSkillD006Desc=A vicious reckoning upon those who strike you that leaves them vulnerable to a counterattack.
 
 tagRelicSkillD007Name=Scourge Strike
-tagRelicSkillD007Desc=Strike at your enemies with a chilling blow that cuts to their very core with death's chill, returning some of the stolen vitality to you. ^oRequires a melee weapon.
+tagRelicSkillD007Desc=Strike at your enemies with a chilling blow that cuts to their very core with death's chill, returning some of the stolen vitality to you. ^oVyžaduje zbraň na útok zblízka.
 
 tagRelicSkillD008Name=Pyroclasm
 tagRelicSkillD008Desc=Unleash a storm of hellfire that tears through the heavens to descend upon your enemies.
@@ -1231,7 +1231,7 @@ tagRelicSkillD011Name=Oblivion
 tagRelicSkillD011Desc=Unleash the pure destructive force of chaos upon your enemies.
 
 tagRelicSkillD012Name=Carnage
-tagRelicSkillD012Desc=The more carnage and devastation you cause, the easier it becomes to do so once again. ^oThis is a dual-wielding technique.
+tagRelicSkillD012Desc=The more carnage and devastation you cause, the easier it becomes to do so once again. ^oToto je technika dvou zbraní.
 
 tagRelicSkillD013Name=Meteor
 tagRelicSkillD013Desc=Rip through the fragile barrier between the nether and the mortal realm as you conjure a massive burning rock to drop upon your enemies.
@@ -1255,7 +1255,7 @@ tagRelicSkillD019Name=Oleron's Wrath
 tagRelicSkillD019Desc=Become empowered with the power of the war god's blood, unleashing his wrath upon nearby enemies.
 
 tagRelicSkillD020Name=Menhir's Bastion
-tagRelicSkillD020Desc=Become empowered with the protective spirit of Menhir, shielding yourself and your allies from physical harm. ^oRequires a shield.
+tagRelicSkillD020Desc=Become empowered with the protective spirit of Menhir, shielding yourself and your allies from physical harm. ^oVyžaduje štít.
 
 
 
@@ -1300,7 +1300,7 @@ tagConsumableSkill_A16Desc=Fills you with boundless energy.
 
 MasteriesAvailable=Vyber z {%d0} přídavné záložky
 NoMasteriesAvailable=Žádné další záložky nejsou k dispozici
-SkillPointsAvailable={%d0} nevyužitých bodů dovedností
+SkillPointsAvailable={%d0} nevyužitých bodů dovednosti
 SkillPointsAvailableSingular={%d0} nevyužitý bod dovednosti
 NoSkillPointsAvailable=Žádné dostupné body dovednosti
 
