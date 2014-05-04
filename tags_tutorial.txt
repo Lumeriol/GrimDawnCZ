@@ -15,7 +15,7 @@ tagTutorialTip10Title=Portály
 tagTutorialTip10TextA=Zabezpečené portály ti umožnují rychle cestovat mezi různými lokacemi v oblasti Cairn. Klikni levým tlačítkem na portál a otevře se {^y}Mapa portálů{^w}.
 tagTutorialTip10TextB=Objevil jsi portál v Dolním rozcestí. Umístění všech portálů, které objevíš, budou nadále přístupné na {^y}Mapě portálů{^w}.
 tagTutorialTip10SubtitleA=Osobnní portál:
-tagTutorialTip10TextC=Protože jsi Éterem dotčený člověk, můžeš otevírat {^y}Osobní portály{^w}. Abys aktivoval svůj Osobní portál, klikni na tlačítko Cestovat portálem ve spodní části obrazovky.
+tagTutorialTip10TextC=Protože jsi Aetherem dotčený člověk, můžeš otevírat {^y}Osobní portály{^w}. Abys aktivoval svůj Osobní portál, klikni na tlačítko Cestovat portálem ve spodní části obrazovky.
 tagTutorialTip10CaptionA=Klávesová zkratka: {^b}{%t0}{^w}{^n}
 
 tagTutorialTip11Title=Osobní portál

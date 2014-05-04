@@ -10,7 +10,7 @@ tagHumanRover_GuardGeneric_MeleeA01=Tulácký vymahač
 
 #CreatureAetherial
 
-tagAetherCrystalA01=Éterický krystal
+tagAetherCrystalA01=Aetherický krystal
 tagAnomalyB01=Zvlněný živel
 tagWindDevil_PoisonA01=Ďábel s jedovým dechem
 
@@ -18,9 +18,9 @@ tagEnemyPossessedA01=Posedlý šlechtic
 tagEnemyPossessedB01=Posedlý kouzelník
 tagEnemyPossessedC01=Posedlý čaroděj
 
-tagEnemyAetherialA01=Éterický hlídač
-tagEnemyAetherialB01=Éterický přízrak
-tagEnemyAetherialC01=Éterické zjevení
+tagEnemyAetherialA01=Aetherijský hlídač
+tagEnemyAetherialB01=Aetherijský přízrak
+tagEnemyAetherialC01=Aetherijské zjevení
 
 tagAetherialPhantomHeroH01=Aetherblaze
 tagAetherialPhantomHeroH02=Corpus ~ Stoupenec
@@ -243,21 +243,21 @@ tagEnemyHumanOutlaw_Wightmire_MeleeB03=Odsouzenec ~ sadista
 tagEnemyHumanOutlaw_Wightmire_RangedA01=Odsouzenec ~ pistolník
 tagEnemyHumanOutlaw_Wightmire_RangedB01=Odsouzenec ~ násilník
 
-tagEnemyHumanOutlaw_MeleeA01=Člen Cronleyho bandy ~ poskok
-tagEnemyHumanOutlaw_MeleeB01=Člen Cronleyho bandy ~ rváč
-tagEnemyHumanOutlaw_MeleeB02=Člen Cronleyho bandy ~ surovec
-tagEnemyHumanOutlaw_MeleeB03=Člen Cronleyho bandy ~ sadista
-tagEnemyHumanOutlaw_RangedA01=Člen Cronleyho bandy ~ pistolník
-tagEnemyHumanOutlaw_RangedB01=Člen Cronleyho bandy ~ násilník
-tagEnemyHumanOutlaw_ArsonistC01=Člen Cronleyho bandy ~ žhář
-tagEnemyHumanOutlaw_MurdererC01=Člen Cronleyho bandy ~ vrah
-tagEnemyHumanOutlaw_HereticC01=Člen Cronleyho bandy ~ kacíř
+tagEnemyHumanOutlaw_MeleeA01=Člen Cronleyovy bandy ~ poskok
+tagEnemyHumanOutlaw_MeleeB01=Člen Cronleyovy bandy ~ rváč
+tagEnemyHumanOutlaw_MeleeB02=Člen Cronleyovy bandy ~ surovec
+tagEnemyHumanOutlaw_MeleeB03=Člen Cronleyovy bandy ~ sadista
+tagEnemyHumanOutlaw_RangedA01=Člen Cronleyovy bandy ~ pistolník
+tagEnemyHumanOutlaw_RangedB01=Člen Cronleyovy bandy ~ násilník
+tagEnemyHumanOutlaw_ArsonistC01=Člen Cronleyovy bandy ~ žhář
+tagEnemyHumanOutlaw_MurdererC01=Člen Cronleyovy bandy ~ vrah
+tagEnemyHumanOutlaw_HereticC01=Člen Cronleyovy bandy ~ kacíř
 
-tagEnemyHumanOutlaw_AetherA01=Člen Cronleyho bandy ~ vybraný
-tagEnemyHumanOutlaw_AetherA02=Člen Cronleyho bandy ~ vyvolený
-tagEnemyHumanOutlaw_AetherB01=Člen Cronleyho bandy ~ předurčený
-tagEnemyHumanOutlaw_AetherB02=Člen Cronleyho bandy ~ šampion
-tagEnemyHumanOutlaw_AetherC01=Člen Cronleyho bandy ~ stoupenec
+tagEnemyHumanOutlaw_AetherA01=Člen Cronleyovy bandy ~ vybraný
+tagEnemyHumanOutlaw_AetherA02=Člen Cronleyovy bandy ~ vyvolený
+tagEnemyHumanOutlaw_AetherB01=Člen Cronleyovy bandy ~ předurčený
+tagEnemyHumanOutlaw_AetherB02=Člen Cronleyovy bandy ~ šampion
+tagEnemyHumanOutlaw_AetherC01=Člen Cronleyovy bandy ~ stoupenec
 
 tagHumanOutlawLeader01=Darius Cronley
 tagHumanOutlawMiniBoss01=Edmund "Noha" Doyle
@@ -278,7 +278,7 @@ tagHumanHeroH05=Serul Shadesong
 tagHumanHeroH06=Wiley, Mrskač ~ Rychlý
 tagHumanHeroH07=Everett, Krvavý pes ~ Planoucí
 tagHumanHeroH08=Jednooký Dred
-tagHumanHeroH09=Meric Éterem dotčený ~ Dobíječ
+tagHumanHeroH09=Meric Aetherem dotčený ~ Dobíječ
 tagHumanHeroH10=Eldon "Hadí kůže" ~ Obnovitel
 
 tagHumanBoss01="Zazobanec" Martin
@@ -627,7 +627,7 @@ tagRelicSwarm=Bláznivý roj
 
 tagEnemySummonHellspawn=Zplozenec pekla
 tagEnemySummonChthonianMinion=Salazarův posel
-tagEnemySummonDariusAetherCrystal=Nestabilní formace Éteru
+tagEnemySummonDariusAetherCrystal=Nestabilní formace Aetheru
 tagEnemySummonRifthound=Azurový pes
 
 #Boss&Quest
@@ -645,7 +645,7 @@ tagRace001=Nemrtvý
 tagRace002=Zvíře
 tagRace003=Aetherianský bojovník
 tagRace004=Ch'thonský bojovník
-tagRace005=Éterem posedlý bojovník
+tagRace005=Aetherem posedlý bojovník
 tagRace006=Krvepřísežník
 tagRace007=Nadpřirozená bytost
 tagRace008=Hmyzák
@@ -658,7 +658,7 @@ tagRace001P=Nemrtví
 tagRace002P=Zvířata
 tagRace003P=Aetherianští bojovníci
 tagRace004P=Ch'thonští bojovníci
-tagRace005P=Éterem posedlí bojovníci
+tagRace005P=Aetherem posedlí bojovníci
 tagRace006P=Krvepřísežníci
 tagRace007P=Nadpřirozené bytosti
 tagRace008P=Hmyzáci
