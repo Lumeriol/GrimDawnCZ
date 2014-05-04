@@ -761,7 +761,7 @@ tagCraftingInsterComponent=Přidat komponenety zobrazené v plánku do těchto s
 #Subheadings
 
 tagCraftingAxes=SEKYRY
-tagCraftingBlunt=TUPÉ PŘEDMĚTY
+tagCraftingBlunt=TUPÉ ZBRANĚ
 tagCraftingSwords=MEČE
 
 tagCraftingOneHanded=JEDNORUČNÍ ZBRANĚ
@@ -1061,8 +1061,8 @@ AttributePointFormat={%d0} bod(y) atributů
 MenuName=Jméno:
 MenuLevel=Úroveň:   {%d0}
 ItemSkillIncrement={+%d0} {^E}k dovednosti {%s1}
-ItemMasteryIncrement={+%d0} {^E}na všechny dovednosti v {%s1}
-ItemAllSkillIncrement={+%d0} {^E}na všechny dovednosti
+ItemMasteryIncrement={+%d0} {^E}ke všem dovednostem v {%s1}
+ItemAllSkillIncrement={+%d0} {^E}ke všem dovednostem
 ItemBasicAttributeBanner={^w}
 ItemBonusAttributeBanner={^b}
 tagPerSecond= za sekundu
@@ -1293,7 +1293,7 @@ DamageDurationModifierManaLeach={%+.0f0}% {^E}vysátí energie
 DamageDurationModifierOffensiveAbility={^E}snížení nepřátelské útočné schopnosti o {^H}{%+.0f0}%
 DamageDurationModifierDefensiveAbility={^E}snížení nepřátelské obranné schopnosti o {^H}{%+.0f0}%
 DamageDurationModifierOffensiveReduction={^E}snížení nepřátelského fyzického zranění{%+.0f0}%
-ImprovedTimeFormat={^E}se zvýšenou dobou trvání o {^H}{%+.0f0}%
+ImprovedTimeFormat= {^E}se zvýšenou dobou trvání o {^H}{%+.0f0}%
 ImprovedTimeFormatR= {^E}se zvýšenou dobou trvání o {^H}{%+.0f0}-{%.0f1}%
 
 RetaliationCold={%t0} {^E}odplaty ledem
