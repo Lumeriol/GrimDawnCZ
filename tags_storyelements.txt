@@ -409,7 +409,7 @@ tagQuestItemForgottenPassage=Zapomenutý průchod
 tagQuestItemForgottenPassage_Desc=^b"Roztříštěná mapa z minulosti Staré Arkovie. Nerozluštitelná bez zbývajících částí."
 
 tagQuestItemSmithHammer=Malleum Menhir
-tagQuestItemSmithHammer_Desc=^b"An ancient forging hammer passed down through generations. It bore witness to the birth of countless artifacts, and will bear the creation of countless more."
+tagQuestItemSmithHammer_Desc=^b"Staré kovářské kladivo, jež se dědí z generace na generaci. Je světdkem vzniku nesčetného množství artefaktů a bude u výroby mnoha dalších."
 
 #Journals
 
@@ -586,7 +586,7 @@ tagStoreTitle_ReallocatorA01=Duchovní
 tagNPC_InventorA01=Darlet
 tagStoreTitle_InventorA01=Vynálezkyně
 
-agNPC_SmithA01=Angrim
+tagNPC_SmithA01=Angrim
 tagStoreTitle_SmithA01=Forgemaster
 tagStoreDesc_SmithA01_1={^b}Practiced Skill
 tagStoreDesc_SmithA01_2=Angrim uses his many years of experience to forge deadly weapons and fortify armor.

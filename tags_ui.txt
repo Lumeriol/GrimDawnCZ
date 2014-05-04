@@ -741,7 +741,7 @@ tagCraftingBlueprintInfo=Kovář může použít plánky k vynalezení vylepšen
 tagCraftingDeviceCost=Cena v železných mincích :  {%t0}
 tagCraftingCreate=Vyrobit:
 tagCraftingLearn=[pravým tlačítkem myši se naučit]
-tagCraftingRandom={^E}+náhodná statistika(y)
+tagCraftingRandom={^E}+náhodné vlastnosti
 
 tagCraftingItemType00= ~ Zařízení
 tagCraftingItemType01= ~ Kompletní součástka
