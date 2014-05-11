@@ -257,7 +257,7 @@ tagCharAttributeDescription03=Silný duch zvyšuje tok energie tvého bytí a um
 
 tagCharAttributeDescription04=Zdraví je měřítkem tvého prahu bolesti a zranění, která ustojíš před tím, než zkolabuješ nebo zemřeš.
 
-tagCharAttributeDescription05=Energie je mšřítkem tvé duševní síly udržet si magické energie. Čím větší je zásoba energie, tím větší máš možnost ji vyčerpat před tím, než se ti znovu obnoví.
+tagCharAttributeDescription05=Energie je měřítkem tvé duševní síly udržet si magické energie. Čím větší je zásoba energie, tím větší máš možnost ji vyčerpat před tím, než se ti znovu obnoví.
 
 tagCharBonusPhysicalDmg=Bonus k fyzickému zranění:
 tagCharBonusPierceDmg=Bonus ke zranění probodnutím:
@@ -986,7 +986,7 @@ tagCharOffensiveAbilityModifier={%+.0f0}% {^E}útočné schopnosti
 tagCharDefensiveAbilityModifier={%+.0f0}% {^E}obranné schopnosti
 
 tagCharDefensiveBlockRecoveryReduction={-%.0f0}% {^E}doby obnovení štítu
-tagCharEnergyAbsorptionPercent=={%+.0f0}% {^E}absorpce energie z nepřátelských kouzel
+tagCharEnergyAbsorptionPercent={%+.0f0}% {^E}absorpce energie z nepřátelských kouzel
 tagCharDodgePercent={%.0f0}% {^E}šance se vyhnout útokům zblízka
 tagCharDeflectProjectiles={%.0f0}% {^E}šance se vyhnout projektilům
 
@@ -1114,7 +1114,7 @@ tagSkillPrevious=… Předchozí
 tagSkillNext=Další …
 PressToAddUnusedSkillPoints=Stiskni pro přidání nevyužitých bodů dovednosti.
 SkillEnhancement=+{%d0} ke všem dovednostem
-NoSkillPointsToAdd=Nepřidá žádné body dovednosti.
+NoSkillPointsToAdd=Nemáš dovednostní body, které by šly přidat.
 YouMustIncreaseMasteryLevel=Pro přidání více bodů musíš zvýšit úroveň svého povolání.
 EnableOneBaseSkill=Alespoň jedna požadovaná dovednost musí být povolena
 MaxSkillLevelReached=Dosažena maximální úroveň dovednosti
