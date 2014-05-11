@@ -137,7 +137,7 @@ tagClass01SkillName14A=Oleronův vztek
 tagClass01SkillDescription14A=Odvolej se na pozemského boha, Olerona. Oleron je pradávný aspekt, který inspiruje jeho následovníky urputnou zuřivostí.
 
 tagClass01SkillName15A=Zaštítování
-tagClass01SkillDescription15A=Zaujme defenzivní postoj, který vysoce zvýší tvé bojové vnímání. Tento postoj můžeš zaujmout jen na krátkou chvíli. ^oVyžaduje štít.
+tagClass01SkillDescription15A=Zaujmi defenzivní postoj, který vysoce zvýší tvé bojové vnímání. Tento postoj můžeš zaujmout jen na krátkou chvíli. ^oVyžaduje štít.
 
 tagClass01SkillName16=Jizvy z bitvy
 tagClass01SkillDescription16=Přes nespočet násilných střetů jsi viděl tu nejhorší bitvu, která mohla kdy být. Hrůzy války už nezabrání tvým akcím a ani ti nebude vadit trocha prolité krve.
@@ -171,7 +171,7 @@ tagClass02SkillName02B=Spalující světlo
 tagClass02SkillDescription02B=Vypálí nepřátelům to, co naposledy viděli do sítnice a sníží tak jejich schopnost přesně zasáhnout.
 
 tagClass02SkillName03A=Ohnivý úder
-tagClass02SkillDescription03A=Smrtící alchimistická technika způsobuje, že útoky bojových umění spalují vzduch okolo nepřítele. Pokud je používána jako výchozí útok, přidává Ohnivý útok fyzické a ohnivé poškození.
+tagClass02SkillDescription03A=Smrtící alchimistická technika způsobuje, že útoky bojových umění spalují vzduch okolo nepřítele. Pokud je používána jako výchozí útok, přidává Ohnivému úderu fyzické a ohnivé poškození.
 tagClass02SkillName03B=Výbušný úder
 tagClass02SkillDescription03B=Zvyšuje potenciál Ohnivého úderu a dává mu tak šanci na to způsobit těžká fyzická poranění. ^oS útokem na dálku také exploduje, což způsobuje zranění nepřátelům v blízkém okolí.
 tagClass02SkillName03C=Statický úder
@@ -206,7 +206,7 @@ tagClass02SkillDescription06C=Vytvoří smrtící proud velice teplých plamenů
 
 tagClass02SkillName07A=Neuhasitelný plamen
 tagClass02SkillDescription07A=Zaměřením na tajné umění pyromancie (tak to dělá mnoho ničitelů) poskytne plamen a elektřinu, jež pálí nepřirozeně dlouho a hodně.
-tagClass02SkillName07B=Ulzuin vyvolený
+tagClass02SkillName07B=Ulzuinův vyvolený
 tagClass02SkillDescription07B=Ti, kteří obětovali mnoho při pronásledování pyrotechniky mohou vejít do přízně Ulzuina a dostane se jim tak jeho požehnání ve formě způsobení ohnivé devastace na tomto světě. ^o[Potřebuje a zároveň ovlivňuje Omračující částice, Granát a Tříštivou bombu]
 
 tagClass02SkillName08A=Černovodý koktejl
@@ -264,7 +264,7 @@ tagClass03SkillDescription02A=Přivolá pekelného psa z říše přeludů, aby 
 tagClass03SkillName02B=Žhavý dráp
 tagClass03SkillDescription02B=Sirnaté pařáty rozdrásají plamenným obloukovým útokem nepřátele v dosahu.
 tagClass03SkillName02C=Ďábelský oheň
-tagClass03SkillDescription02C=Aura pekelného ohně obklopuje pekelného psa, jež je posilována z její přirozené sféry a popálí nepřátele, kteří se příliš přiblíží. Tuto schopnost získají i spojenci v blízkosti.
+tagClass03SkillDescription02C=Aura pekelného ohně obklopuje pekelného psa, jež je posilována z jeho přirozené sféry a popálí nepřátele, kteří se příliš přiblíží. Tuto schopnost získají i spojenci v blízkosti.
 tagClass03SkillName02D=Pekelný dech
 tagClass03SkillDescription02D=Pekelný pes chrlí vpřed zuřivé pekelné plameny, které tvé nepřátele zapálí.
 tagClass03SkillName02E=Útok pomocí drápů a tesáků
@@ -283,12 +283,12 @@ tagClass03SkillName04B=Strážcova zbroj
 tagClass03SkillDescription04B=Okultista se usadí ve spektrální ohradě a způsobí reflexi útoku, jako kdyby nepřátelé útočili na Dreegovy ostnaté šupiny.
 
 tagClass03SkillName05A=Solaelův kouzelný oheň
-tagClass03SkillDescription05A=Ovládne podivnou Solaelovu sílu, což popálí nepřátele entropickou energií při každém útoku. ^oTato schopnost musí být nastavena jako výchozí typ útoku, aby účinkovala.
+tagClass03SkillDescription05A=Ovládne podivnou Solaelovu sílu, což způsobí popálení nepřátel entropickou energií při každém útoku. ^oTato schopnost musí být nastavena jako výchozí typ útoku, aby účinkovala.
 tagClass03SkillName05B=Druhý obřad
 tagClass03SkillDescription05B=Prohlubuje Okultistovo spojení se skrytou sférou a tak umocňuje sílu kouzelného ohně natolik, že i ten nejmenší dotek pálí tajemnou podstatu tvých nepřátel.
 
 tagClass03SkillName06A=Prokletí křehkostí
-tagClass03SkillDescription06A=Kruté mocné slovo, které okrade tvé nepřátele o sílu ducha, čímž je učiní křehkými a pomalými.
+tagClass03SkillDescription06A=Kruté a mocné slovo, které okrade tvé nepřátele o sílu ducha, čímž je učiní křehkými a pomalými.
 tagClass03SkillName06B=Zranitelnost
 tagClass03SkillDescription06B=Posiluje odpornou moc prokletí, takže oslabí i zdraví tvých nepřátel a snadněji pak podléhají jedům a čarodějnictví.
 
@@ -302,17 +302,17 @@ tagClass03SkillDescription11A=Vytvoří jedno z nekonečného množství očí D
 tagClass03SkillName11B=Krvavý výbuch
 tagClass03SkillDescription11B=Mystické oko při nárazu praskne a zmáčí blízké nepřátele sžíravou krví.
 tagClass03SkillName11C=Děsivý pohled
-tagClass03SkillDescription11C=Děsivý pohled podivného a nesmrtelného Dreega může způsobit, že nepřátelé strnou strachy a nebo jednoduše začnou prchat díky zbytečnému zděšení.
+tagClass03SkillDescription11C=Děsivý pohled podivného a nesmrtelného Dreega může způsobit, že nepřátelé strnou strachy a nebo zkrátka začnou zděšeně prchat.
 tagClass03SkillName11D=Odporný výbuch
-tagClass03SkillDescription11D=Při úderu vychrstne vetší hnijící část z oka, což uštědří další bolest tvým nepřátelům stojícím v blízkosti v době výbuchu.
+tagClass03SkillDescription11D=Při úderu vychrstne z oka velká hnijící část, což tvým nepřátelům, stojícím v blízkosti, způsobí v době výbuchu další bolest.
 
 tagClass03SkillName12A=Posedlost
-tagClass03SkillDescription12A=Umožňuješ svému tělu, aby se chovalo jako koráb pro čarodějnického boha Solaela. Velký dočasně osídlí tvé tělo a propůjčí ti úctyhodné fyzické schopnosti.
+tagClass03SkillDescription12A=Umožňuješ tvému tělu, aby se chovalo jako koráb pro čarodějnického boha Solaela. Velký dočasně osídlí tvé tělo a propůjčí ti úctyhodné fyzické schopnosti.
 
 tagClass03SkillName13A=Krvavé neštovice
 tagClass03SkillDescription13A=Dokonce i mnozí Okultisté se vyhýbají této odporné kletbě s prodlouženou dobou utrpení, kterou způsobuje. Sešle prudce nakažlivý mor na tvé nepřátele a nezadržitelně oslabuje jejich životní sílu a způsobuje jim krvácení z každého otvoru.
 tagClass03SkillName13B=Plýtvání
-tagClass03SkillDescription13B=Způsobuje, že neštovice zničí vitalitu zdraví tvých nepřátel a promění mokvavé rány v krvavou dnu. Toto vnitřní kouzelnictví vysloužilo Okultistům jejich temnou reputaci a mnoho z nich bylo upáleno na hranici.
+tagClass03SkillDescription13B=Způsobuje, že neštovice zničí vitalitu tvých nepřátel a promění mokvavé rány v krvavou dnu. Toto vnitřní kouzelnictví vysloužilo Okultistům jejich temnou reputaci a mnoho z nich bylo upáleno na hranici.
 tagClass03SkillName13C=Černá smrt
 tagClass03SkillDescription13C=S vysokou horečkou a zkapalněním vnitřních orgánů trpící infikovaní mohou být náhle zmateni a bloudit po bojišti, přičemž budou útočit bez cíle či na své vlastní spojence.
 
