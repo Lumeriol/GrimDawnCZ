@@ -348,7 +348,7 @@ tagClass04SkillDescription01C=Posilní Přízračnou čepel temnou magií, odpor
 tagClass04SkillName02A=Úder ze stínu
 tagClass04SkillDescription02A=Lstivá kombinace iluze a duševního vychýlení ti umožňuje zdánlivě se vypařit a objevit znovu před obětí jako hrůzostrašný přízrak. ^oVyžaduje chladnou zbraň.
 tagClass04SkillName02B=Nidallin ospravedlňující konec
-tagClass04SkillDescription02B=Většina Nočních čepelí shledala charakter Nidally odporným, protože využívala jedy, ale pro Nidallu "účel světí prostředky". Tato jedovatá otočka spolu s Klasickým úderem ze stínu zajistí konec jakéhokoliv nepřítele, který přežije původní útok.
+tagClass04SkillDescription02B=Většina Nočních čepelí shledala charakter Nidally odporným, protože využívala jedy, ale pro Nidallu "účel světí prostředky". Tato jedovatá otočka spolu s klasickým Úderem ze stínu zajistí konec jakéhokoliv nepřítele, který přežije původní útok.
 tagClass04SkillName02C=Soumrak
 tagClass04SkillDescription02C=Když se znovu objevíš a zaútočíš na svůj primární cíl, plášť temnoty padne na nepřátele v okolí jako ta nejtmavší, nejchladnější noc, která ochladí jejich krev a napadne jejich mysl nekontrolovatelnou únavou.
 
@@ -358,80 +358,79 @@ tagClass04SkillDescription03A=Proslíchá se, že pán Nočních čepelí, Belgo
 tagClass04SkillName04A=Prstenec z oceli
 tagClass04SkillDescription04A=Během mrknutí oka tě obklopí stovky Přízračných čepelí rotujících smrtící rychlostí, jež setnou protivníky v blízkosti.
 tagClass04SkillName04B=Vražedný kruh
-tagClass04SkillDescription04B=Brutální přízračné čepele rozřeže protivníky zachycené v kruhu, z kterých začnou cákat proudy krve.
+tagClass04SkillDescription04B=Brutální přízračné čepele rozřežou protivníky zachycené v kruhu a začnou z nich prýštit proudy krve.
 
 tagClass04SkillName05A=Dvojité ostří
 tagClass04SkillDescription05A=Mezi ty nejzásadnější dovednosti Nočních čepelí patří také mistrovství v užívání dvou chladných zbraní, z nichž jsou v oblibě průrazné čepele, a také čerpání živelného chladu z železa a oceli. ^oAplikuje schopnost ovládat dvě chladné zbraně.
 tagClass04SkillName05B=Belgothianovy nůžky
-tagClass04SkillDescription05B=The brawny Belgothian was an anomaly among the lithe Nightblade masters, but he exceeded them all in raw power. Leveraging his strength in direct but lethal attacks like the shears, Belgothian could often finish an enemy in a single move. ^oToto je technika dvou zbraní.
+tagClass04SkillDescription05B=Svalnatý Belgothian byl anomálií mezi pružnými mistry Nočních lovců, ale všechny je v hrubé síle překonal. S využitím jeho síly a páky byly jeho útoky přímé, avšak smrtící a tak mnohdy dorazil nepřítele jediným pohybem. ^oToto je technika dvou zbraní.
 tagClass04SkillName05C=Amarastin rychlý řez
-tagClass04SkillDescription05C=Legendary for her speed, Amarasta's blades were said to sound like a whip through the air, leaving only streaks of light too fast for the eye to follow. Masters of this technique can strike thrice in the space of a normal attack. ^oToto je technika dvou zbraní.
+tagClass04SkillDescription05C=Amarasta je legendou díky její rychlosti a říkalo se, že zvuk jejích mečů je jako svistot vzduchu, zanechávající pouze paprsky světla, protože byly tak rychlé, že je okem nebylo možné sledovat. Mistři v této technice mohou zaútočit třikrát za dobu jediného klasického útoku. ^oToto je technika dvou zbraní.
 tagClass04SkillName05D=Vířivá smrt
-tagClass04SkillDescription05D=Devastující technika zaměřená na boj s vícero cíli. Ti, kteří přežijí, budou krvácet, jako z tisíce řezných ran. ^oToto je technika dvou zbraní.
+tagClass04SkillDescription05D=Devastující technika zaměřená na boj s vícero cíli. Ti, kteří přežijí, budou krvácet jako z tisíce řezných ran. ^oToto je technika dvou zbraní.
 tagClass04SkillName05E=Nidallanina skrytá dlaň
 tagClass04SkillDescription05E=Nidalla, kontroverzní mistrině nočních lovců, zosobňovala krutou účinnost jedů během Věku Nerozumu, kdy kombinovala odporné jedy s technikou Vířivé smrti, což jí umožnilo převládat v boji proti obrovské převaze. ^oTato technika modifikuje Vířivou smrt.
 tagClass04SkillName05F=Poprava
 tagClass04SkillDescription05F=Nelítostný úder, uštědřený během chvilky kdy byla příležitost, s úmyslem rychle dorazit protivníka. Ti, kteří přežijí, nebudou s největší pravděpodobnosti žít dlouho. ^oToto je technika dvou zbraní.
 
-tagClass04SkillName06A=Pneumatic Burst
-tagClass04SkillDescription06A=Secret martial techniques of the Nightblades enable you to draw vital breath or "pneuma" from your surroundings for short bursts of speed and power. The metabolic acceleration caused by these vital breaths also confers minor healing. ^oThis technique requires melee weapons.
+tagClass04SkillName06A=Dávka vzduchu
+tagClass04SkillDescription06A=Tajné techniky bojových umění Nočních lovců ti umožňují použít vitální dech, nazývaný také "pneuma", který nakrátko zvýší tvou sílu a rychlost. Urychlení metabolismu způsobené těmito vitálními nádechy také poskytuje minoritní léčbu. ^oTato technika vyžaduje chladné zbraně.
 tagClass04SkillName06B=Tanec stínu
-tagClass04SkillDescription06B=Practice in combat meditation allows you to achieve a calm clarity in the heat of battle where you can calculate the path of enemy attacks and shift subtly to lessen the impact of weapon hits on your armor or to deflect projectiles.
-tagClass04SkillName06C=Elemental Awakening
-tagClass04SkillDescription06C=Adept Nightblades can pull energy from the air or even foes their weapons come in contact with to deliver attacks of intense cold.
+tagClass04SkillDescription06B=Trénování v oblasti bojové meditace ti umožňuje dosáhnout klidu a jasné mysli uprostřed boje, kde můžeš propočítat trasu nepřátelských útoků a jemně se pohybovat, abys zajistil, že zbraně zasáhnou brnění a nebo odrazil projektily.
+tagClass04SkillName06C=Probouzení živlu
+tagClass04SkillDescription06C=Zkušené noční čepele mohou vytáhnout energii ze vzduchu a nebo dokonce ze zbraní, se kterými přišly do styku a dodají útok pronikavým chladem.
 
-tagClass04SkillName07A=Veil of Shadow
-tagClass04SkillDescription07A=A psionic veil clouds the minds of nearby enemies, obscuring their sight and diminishing their effectiveness in combat. ^oTato schopnost musí být nastavena jako výchozí typ útoku, aby účinkovala.
-tagClass04SkillName07B=Night's Chill
-tagClass04SkillDescription07B=Causes foes affected by the Veil of Shadow to feel the dark chill of the night fall over them, slowing their attacks and enfeebling their minds.
+tagClass04SkillName07A=Závoj stínu
+tagClass04SkillDescription07A=Psionický závoj zamlží mysl nepřátel v blízkosti, zatemní jejich zrak a sníží jejich efektivitu v boji. ^oTato schopnost musí být nastavena jako výchozí typ útoku, aby účinkovala.
+tagClass04SkillName07B=Chlad noci
+tagClass04SkillDescription07B=Způsobí, že protivníci zasaženi Závojem stínu pocítí temné mrazení jak je tma obklopuje, což zpomalí jejich útoky a oslabí jejich mysl.
 
-tagClass04SkillName08A=Přízračná čepel
-tagClass04SkillDescription08A=Conjure a swirling cloud of lethal blades that will roam the battlefield, slicing enemies to pieces before finally expiring in a shower of jagged shards.
-tagClass04SkillName08PetA=Whirling Blades
-tagClass04SkillName08PetB=Blade Burst
-tagClass04SkillDescription08PetB=The Blade Spirit shoots out eviscerating blades in all directions.
+tagClass04SkillName08A=Duch meče
+tagClass04SkillDescription08A=Vyvolá vířící se mrak smrtících mečů, který bude brázdit bojiště a krájet tvé nepřátele na kousky do té doby, než se nakonec promění ve sprchu zubatých úlomků.
+tagClass04SkillName08PetA=Vířící se meče
+tagClass04SkillName08PetB=Vystřelovací meče
+tagClass04SkillDescription08PetB=Duch meče vystřeluje vyvrhovací meče do všech směrů.
 
-tagClass04SkillName11A=Blade Trap
-tagClass04SkillDescription11A=Your command of Nightblade techniques allows you to entrap enemies within a prison of deadly phantasmal blades.
-tagClass04SkillName11B=Devouring Blades
-tagClass04SkillDescription11B=The phantasmal blades drain the life essence of the foes trapped within their grasp, transferring it to you.
+tagClass04SkillName11A=Past z mečů
+tagClass04SkillDescription11A=Tvé ovládání techniky Nočních lovců ti umožňuje uvěznit nepřátele uvnitř vězení ze smrtících spektrálních mečů.
+tagClass04SkillName11B=Žravé meče
+tagClass04SkillDescription11B=Spektrální meče vysávají životní sílu z tvých nepřátel, jež jsou uvězněni v jejich spárech a převádí ji do tebe.
 
-tagClass04SkillName10A=Blade Swarm
-tagClass04SkillDescription10A=Conjure a swarm of phantasmal blades to envelop your foes, lacerating their flesh and driving the weak of heart into terror.
-tagClass04SkillName10B=Amarasta's Double Edge
-tagClass04SkillDescription10B=A master technique that causes the Blade Swarm to turn the weapons of your foes against themselves, causing them to inflict further suffering with their own tools of war.
+tagClass04SkillName10A=Roj mečů
+tagClass04SkillDescription10A=Vyvolá roj spektrálních mečů, které obklopí tvé protivníky, začne drásat jejich maso a slabší jedinci dostanou panický strach.
+tagClass04SkillName10B=Amarastino dvojí ostří
+tagClass04SkillDescription10B=Tato mistrovská technika způsobuje, že Roj mečů obrátí zbraně tvých protivníků proti jim samotným, což jim způsobí ještě větší utrpení za pomoci jejich vlastních nástrojů války.
 
-tagClass04SkillName13A=Phantasmal Armor
-tagClass04SkillDescription13A=A metaphysical barrier forms around you, brought into being through the focused power of mind and spirit. This barrier repels physical damage and transfers energy from magical attacks into your own pneuma reserves.
-tagClass04SkillName13B=Anatomy of Murder
-tagClass04SkillDescription13B=Knowledge prized by royal assassins, the extensive study of anatomy familiarizes you with all of the most vulnerable and damaging locations in which to slide a blade. 
-tagClass04SkillName13C=Merciless Repertoire
-tagClass04SkillDescription13C=Though traditionally shunned, sometimes a knowledge of poisons and elemental powers can be the most effective means to gain the upper hand in combat.
+tagClass04SkillName13A=Spektrální brnění
+tagClass04SkillDescription13A=Okolo tebe se vytvoří metafyzická bariéra, která vzniká za pomoci soustředěné síly a mysli. Tato bariéra odvrací fyzický útok a převádí energii z magických útoků do tvých vlastních rezerv.
+tagClass04SkillName13B=Anatomie vraždy
+tagClass04SkillDescription13B=Znalost vysloužená královskými vrahy a rozsáhlým studiem anatomie, která tě seznámí se všemi škodu páchajícími citlivými a škodlivými místy, do kterých se dá zabodnout meč.
+tagClass04SkillName13C=Nemilosrdný repertoár
+tagClass04SkillDescription13C=Ikdyž ne standardně využívané, znalosti jedů a elementárních sil mohou být těmi nejvíce účinnými prostředky, jak získat v boji navrch.
 
 
-tagClass04SkillName04C=Devouring Blades
-tagClass04SkillDescription04C=Cutting away the very life-force of nearby foes, you absorb some of this fleeting vitality through the Ring of Steel.
-tagClass04SkillName07X=Deepening Darkness
-tagClass04SkillDescription07X=Deepening shadow further diminishes the visibility of foes, impeding their defense against physical attacks.
-tagClass04SkillName07C=Amarasta's Unseen Blade
-tagClass04SkillDescription07C=Throughout combat with the nightblade, wounds appear on enemies where no weapon was seen to strike.
+tagClass04SkillName04C=Žravé meče
+tagClass04SkillDescription04C=Jak odřezávají samotnou životní sílu z nepřátel v blízkosti, část z ní absorbuješ skrze Prstenec z oceli.
+tagClass04SkillName07X=Prohlubující se temnota
+tagClass04SkillDescription07X=Tmavnoucí stín dále oslabuje schopnost tvých nepřátel vidět, což ztěžuje schopnost se bránit proti fyzickým útokům.
+tagClass04SkillName07C=Amarastin neviditelný meč
+tagClass04SkillDescription07C=Během boje s nočními lovci se na tělech nepřátel objevují zranění tam, kde nebyla spatřena žádná zbraň, která by udeřila.
 tagClass04SkillName09A=Příjemce života
-tagClass04SkillDescription09A=This attack literally takes life from opponents and returns it to the nightblade, allowing them to grow stronger even as the life leaves their quarry.
+tagClass04SkillDescription09A=Tento útok doslova bere život protivníkům a vrací ho zpět nočním lovcům, což jim umožňuje být silnějšími.
 tagClass04SkillName12A=Vzduchový kohout
-tagClass04SkillDescription12A=Draw vital breathe from enemies within an area, gaining life and energy as it flees their bodies.
+tagClass04SkillDescription12A=Čerpá životně důležitý dech z nepřátel v oblasti a dodá ti život a energii, zatímco jsou odčerpávány z jejich těl.
 tagClass04SkillName13D=Nemilosrdný repertoár
-tagClass04SkillDescription13D=Efficient use of poisons and anti-clotting agents can sometimes be the deadliest weapon of all.
+tagClass04SkillDescription13D=Efektivní využívání jedů a anti-koagulačních činidel mohou být někdy ty nejúčinnější zbraně.
 
-tagClass04SkillName14A=Lethal Gambit
-tagClass04SkillDescription14A=A risky technique favored by the master of assassins Amarasta. Lethal Gambit has the potential to inflict devastating harm when carried off perfectly, but with the risk that it may falter. ^oVyžaduje chladnou zbraň.
-tagClass04SkillName14B=Amarasta's Blade Burst
-tagClass04SkillDescription14B=Mastery of the Lethal Gambit technique enhances it with a burst of dozens of deadly phantasmal blades which spread out from the point of attack to damage all adjacent foes.
+tagClass04SkillName14A=Smrtelný manévr
+tagClass04SkillDescription14A=Odvážná technika, oblíbena vražednou mistryní, Amarastou. Smrtelný manévr má potenciál způsobit devastující zranění, pokud se perfektně zdaří, ale s riskem, že se nemusí povést. ^oVyžaduje chladnou zbraň.
+tagClass04SkillName14B=Amarastino vypuštění mečů
+tagClass04SkillDescription14B=Mistrovství v technice Smrtelného manévru jej vylepšuje tím, že vypustí tucty smrtících mečů, které se rozletí z místa útoku a poškodí všechny nepřátele v blízkosti.
 
-tagClass04SkillName15A=Eviscerate
-tagClass04SkillDescription15A=A quick cut to the gut that will bleed out a victim over time, while impairing their mobility and attack speed. ^oRequires a Sword or Axe.
-tagClass04SkillName15B=Amarasta's Gambit
-tagClass04SkillDescription15B=A master technique that enhances eviscerate and has the potential to cause devastating damage if carried off perfectly but with the risk that it may falter and do little to nothing.
-
+tagClass04SkillName15A=Vyvržení
+tagClass04SkillDescription15A=Rychlé říznutí do vnitřností zajistí, že za čas oběť vykrvácí, ale do té doby naruší jejich pohyblivost a ovlivní rychlost útoku. ^oVyžaduje buď meč nebo sekyru.
+tagClass04SkillName15B=Amarastin manévr
+tagClass04SkillDescription15B=Mistrovská technika, která vylepšuje Vyvržení a má potenciál způsobit devastující zranění, pokud se perfektně zdaří, ale s riskem že se nemusí povést a může tak způsobit malé nemo žádné zranění.
 
 #Class05
 
