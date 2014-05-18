@@ -629,136 +629,135 @@ tagItemSkillB003Desc=Pomstí se silným kouzlem spánku, jež nepřátele v blí
 tagItemSkillB004Name=Řetězový blesk
 tagItemSkillB004Desc=Cíl je zasažen bleskem, který pak může přeskočit na další nepřátele v okolí.
 
-tagItemSkillA006Name=Lightning Nova
-tagItemSkillA006Desc=Retaliates with a blast of lightning energy, damaging all nearby enemies.
+tagItemSkillA006Name=Elektrický výboj
+tagItemSkillA006Desc=Vrací úder explozí elektrických výbojů, které zasáhnou všechny nepřátele v blízkosti.
 
-tagItemSkillB005Name=Poison Nova
-tagItemSkillB005Desc=Retaliates with a blast of poisonous fumes, poisoning all nearby enemies.
+tagItemSkillB005Name=Exploze jedu
+tagItemSkillB005Desc=Vrací úder jedovatým kouřem a tak otráví všechny nepřátele v blízkosti.
 
-tagItemSkillB006Name=Hemorrhage
-tagItemSkillB006Desc=Wounds the target, causing bleeding and increased susceptability to bleed damage.
+tagItemSkillB006Name=Krvácení
+tagItemSkillB006Desc=Zraní cíl, způsobí mu krvácení a navíc je cíl náchylnější na krvácející poškození.
 
-tagItemSkillB007Name=Shatter
-tagItemSkillB007Desc=Releases a cone of ice shards at the target.
+tagItemSkillB007Name=Roztříštění
+tagItemSkillB007Desc=Vypustí na cíl proud ledových úlomků.
 
-tagItemSkillB008Name=Warcry
-tagItemSkillB008Desc=Embolden nearby allies with a mighty roar.
+tagItemSkillB008Name=Váleční pokřik
+tagItemSkillB008Desc=Mohutným řevem povzbudí spojence v okolí.
 
-tagItemSkillB009Name=Ice Spike
-tagItemSkillB009Desc=Launch a spike of rock solid ice to impale your enemies.
+tagItemSkillB009Name=Ledový hrot
+tagItemSkillB009Desc=Vypustí šipku tvrdou jako kámen, která dokáže probodnout tvé nepřátele.
 
-tagItemSkillB010Name=Ground Ripper
-tagItemSkillB010Desc=Unleash a wave of seismic energy towards your enemies.
+tagItemSkillB010Name=Pozemní párač
+tagItemSkillB010Desc=Uvolní vlnu seismické energie směrem k tvým nepřátelům.
 
-tagItemSkillB011Name=Heal
-tagItemSkillB011Desc=A soothing power seals your wounds.
+tagItemSkillB011Name=Uzdravení
+tagItemSkillB011Desc=Konejšivá síla zacelí tvé rány.
 
-tagItemSkillB012Name=Seismic Blast
-tagItemSkillB012Desc=A seismic force erupts around you, damaging and knocking down nearby foes.
+tagItemSkillB012Name=Seismický výbuch
+tagItemSkillB012Desc=Ve tvém okolí propukne seismická aktivita, která poškodí tvé protivníky a srazí je na zem.
 
-tagItemSkillB013Name=Arcane Blast
-tagItemSkillB013Desc=A surge of arcane energies erupts from you, damaging all nearby enemies.
+tagItemSkillB013Name=Tajemný výbuch
+tagItemSkillB013Desc=Vlna tajemných sil ve tvém okolí poškodí všechny nepřátele v blízkosti.
 
-tagItemSkillB014Name=Earth Ward
-tagItemSkillB014Desc=Embrace the protective essence of the earth, raising armor and regeneration.
+tagItemSkillB014Name=Pozemský hlídač
+tagItemSkillB014Desc=Obklopí tě ochranná síla Země, která vylepší tvé brnění a regeneraci.
 
-tagItemSkillB015Name=Enrage
-tagItemSkillB015Desc=Throws you into a berserker-like rage, causing you to attack faster and with greater ferocity, but also make you more susceptible to attacks.
+tagItemSkillB015Name=Rozzuření
+tagItemSkillB015Desc=Uvrhne tě v zuřivost jako kdyby jsi byl šílený, což ti umožní útočit rychleji a s větší dravostí, ale také te činí více citlivým vůči útokům.
 
-tagItemSkillB016Name=Insight
-tagItemSkillB016Desc=Enter a trance of greater understanding, channeling arcane forces through your flesh.
+tagItemSkillB016Name=Porozumění
+tagItemSkillB016Desc=Vstup do tranzu většího vědění a nech tajemné síly, ať prostoupí tvé tělo.
 
-tagItemSkillB017Name=Vile Brew
-tagItemSkillB017Desc=Launches an exploding concoction of corrosive fluid.
+tagItemSkillB017Name=Odporná směs
+tagItemSkillB017Desc=Vypustí výbušnou směs leptavé kapaliny.
 
-tagItemSkillB018Name=Mana Infusion
-tagItemSkillB018Desc=A soothing mist envelops you, clearing your mind.
+tagItemSkillB018Name=Příliv many
+tagItemSkillB018Desc=Uklidňující mlha tě obklopí a očistí tvou mysl.
 
-tagItemSkillB019Name=Zarthuzellan's Flame
-tagItemSkillB019Desc=Unleashes a fiery blast upon the heathens.
+tagItemSkillB019Name=Zarthuzellanův plamen
+tagItemSkillB019Desc=Na pohany vypustí ohnivou vlnu.
 
-tagItemSkillB020Name=Touch of Rolderathis
-tagItemSkillB020Desc=Hurl a chilled projectile at the target, coating it with immobilizing ice.
+tagItemSkillB020Name=Rolderathisův dotek
+tagItemSkillB020Desc=Vrhne zmrazený projektil na cíl a pokryje jej ledem, díky čemuž se nebude moci pohybovat.
 
-tagItemSkillB021Name=Frostguard
-tagItemSkillB021Desc=Launches a volatile chunk of ice at those who manage to find a weak point in your defenses, freezing them solid.
+tagItemSkillB021Name=Ledový strážce
+tagItemSkillB021Desc=Vypustí nestabilní kus ledu na ty, kterým se podařilo najít slabinu ve tvé obraně a na kost je zmrazí.
 
-tagItemSkillB022Name=Battle Fury
-tagItemSkillB022Desc=Enter a combat-ready state of mind.
+tagItemSkillB022Name=Bojová zuřivost
+tagItemSkillB022Desc=Uvrhne tvou mysl do stavu bojové pohotovosti.
 
-tagItemSkillB023Name=Death Mark
-tagItemSkillB023Desc=Mark your target for a painful and imminent death.
+tagItemSkillB023Name=Značka smrti
+tagItemSkillB023Desc=Označí tvůj cíl bolestivou a bezprostřední smrtí.
 
-tagItemSkillB024Name=Decimate
-tagItemSkillB024Desc=Smash your foe with a crushing blow.
+tagItemSkillB024Name=Decimace
+tagItemSkillB024Desc=Zasáhni tvého protivníka drtivým úderem.
 
-tagItemSkillB025Name=Lightning Bolt
-tagItemSkillB025Desc=A pure bolt of lightning strikes your target.
+tagItemSkillB025Name=Blesk
+tagItemSkillB025Desc=Tvůj cíl zasáhne blesk.
 
+tagItemSkillC002Name=Kulový blesk
+tagItemSkillC002Desc=Oplácí kulovým bleskem, jež je vypuštěn směrem na útočníka, poškozujíc a omračujíc vše, co mu stojí v cestě.
 
-tagItemSkillC002Name=Lightning Orb
-tagItemSkillC002Desc=Retaliates with an orb of lightning launched in the attacker's direction, damaging and stunning all in its path.
+tagItemSkillC003Name=Rozzuření
+tagItemSkillC003Desc=Uvrhne tě v zuřivost jako kdyby jsi byl šílený, což ti umožní útočit rychleji a s větší dravostí, ale také te činí více citlivým vůči útokům.
 
-tagItemSkillC003Name=Enrage
-tagItemSkillC003Desc=Throws the target into a berserker-like rage, causing it to deal more damage, but also make it more susceptible to attacks.
+tagItemSkillC004Name=Oddaný strážce
+tagItemSkillC004Desc=Přivolá nepřátelům nebezpečného strážce se silnou obranou.
 
-tagItemSkillC004Name=Stalwart Guardian
-tagItemSkillC004Desc=Calls forth a guardian with strong defenses and high threat.
-
-tagItemSkillC004PetSkill01=Taunting Roar
-tagItemSkillC004PetSkill01Desc=The guardian roars in challenge, taunting nearby enemies.
+tagItemSkillC004PetSkill01=Vysmívavý řev
+tagItemSkillC004PetSkill01Desc=Strážce v bitvě zařve a vysměje se nepřátelům v okolí.
 
 tagItemSkillC004PetSkill02=Vrozené vlastnosti
 
-tagItemSkillC005Name=Reckless Guardian
-tagItemSkillC005Desc=Calls forth a guardian with strong attacks.
+tagItemSkillC005Name=Lehkomyslný strážce
+tagItemSkillC005Desc=Přivolá strážce s velikou útočnou schopností.
 
-tagItemSkillC005PetSkill01=Frenzied Roar
-tagItemSkillC005PetSkill01Desc=The guardian roars, emboldening nearby allies.
+tagItemSkillC005PetSkill01=Šílený řev
+tagItemSkillC005PetSkill01Desc=Strážce zařve a tak povzbudí spojence v okolí.
 
-tagItemSkillC006Name=Plague of Rust
-tagItemSkillC006Desc=Unleashes a powerful contagion among your enemies that eats away at armor and spreads rapidly.
+tagItemSkillC006Name=Nákaza rezi
+tagItemSkillC006Desc=Rozpoutá nad tvými nepřáteli nákazu, která rozežere brnění a rychle se šíří.
 
-tagItemSkillC007Name=Plague of Brittle Bones
-tagItemSkillC007Desc=Unleashes a powerful contagion among your enemies that devours bones and spreads rapidly.
+tagItemSkillC007Name=Nákaza křehkosti kostí
+tagItemSkillC007Desc=Rozpoutá nad tvými nepřáteli nákazu, která ničí kosti a rychle se šíří.
 
-tagItemSkillC008Name=Plague of Shattered Souls
-tagItemSkillC008Desc=Unleashes a powerful contagion among your enemies that saps the spirit and spreads rapidly.
+tagItemSkillC008Name=Nákaza rozbitím duše
+tagItemSkillC008Desc=Rozpoutá nad tvými nepřáteli nákazu, která vysává ducha a rychle se šíří.
 
-tagItemSkillC009Name=Plague of Consumption
-tagItemSkillC009Desc=Unleashes a powerful contagion among your enemies that saps vitality and spreads rapidly.
+tagItemSkillC009Name=Nákaza požitím
+tagItemSkillC009Desc=Rozpoutá nad tvými nepřáteli nákazu, která vysává vitalitu a rychle se šíří.
 
-tagItemSkillC010Name=Plague of Terror
-tagItemSkillC010Desc=Unleashes a powerful contagion among your enemies that incites fear and spreads rapidly.
+tagItemSkillC010Name=Nákaza terorem
+tagItemSkillC010Desc=Rozpoutá nad tvými nepřáteli nákazu, která podněcuje strach a rychle se šíří.
 
-tagItemSkillC011Name=Plague of Fatigue
-tagItemSkillC011Desc=Unleashes a powerful contagion among your enemies that causes fatigue and spreads rapidly.
+tagItemSkillC011Name=Nákaza únavou
+tagItemSkillC011Desc=Rozpoutá nad tvými nepřáteli nákazu, která způsobuje únavu a rychle se šíří.
 
-tagItemSkillC012Name=Plague of Rot
-tagItemSkillC012Desc=Unleashes a powerful contagion among your enemies that infects with toxins and spreads rapidly.
+tagItemSkillC012Name=Nákaza hnilobou
+tagItemSkillC012Desc=Rozpoutá nad tvými nepřáteli nákazu, která infikuje pomocí jedů a rychle se šíří.
 
-tagItemSkillC013Name=Plague of Corruption
-tagItemSkillC013Desc=Unleashes a powerful contagion among your enemies that creates dissent and spreads rapidly.
+tagItemSkillC013Name=Nákaza korupce
+tagItemSkillC013Desc=Rozpoutá nad tvými nepřáteli nákazu, která vyvolává rozdílnost názorů a rychle se šíří.
 
-tagItemSkillC014Name=Dominate
-tagItemSkillC014Desc=Overpowers the mind of the target, forcing it to fight for you for a period of time.
+tagItemSkillC014Name=Dominace
+tagItemSkillC014Desc=Ovládne misi cíle, čímž ho donutí krátký čas bojovat po tvém boku. 
 
-tagItemSkillC015Name=Gutripper
-tagItemSkillC015Desc=Hurl a clump of jagged shrapnel at nearby enemies.
+tagItemSkillC015Name=Rozparovač vnitřností
+tagItemSkillC015Desc=Vrhne shluk subatých úlomků na nepřátele v blízkosti.
 
-tagItemSkillC016Name=Volcanic Burst
-tagItemSkillC016Desc=Unleash a burst of molten fragments at nearby enemies.
+tagItemSkillC016Name=Vulkanická exploze
+tagItemSkillC016Desc=Rozpoutá explozi roztavených fragmentů, která poškodí nepřátele v blízkosti.
 
 tagItemSkillC017Name=Static Burst
-tagItemSkillC017Desc=Unleash a burst of electric bolts at nearby enemies.
+tagItemSkillC017Desc=Rozpoutá explozi statických výbojů, které poškodí nepřátele v blízkosti.
 
-tagItemSkillC018Name=Hooked Net
-tagItemSkillC018Desc=Capture your prey with a net that ensnares and constricts the target.
+tagItemSkillC018Name=Zaháčkovaná síť
+tagItemSkillC018Desc=Chytne tvoji kořist do sítě, která upoutá a stáhne tvůj cíl.
 
-tagItemSkillC019Name=Flamer
-tagItemSkillC019Desc=Unleash a burst of fiery death in a line.
+tagItemSkillC019Name=Plameňák
+tagItemSkillC019Desc=Rozpoutá v řadě řízenou explozi ohnivé smrti. 
 
-tagItemSkillC020Name=Arctic Blast
+tagItemSkillC020Name=Arktický výbuch
 tagItemSkillC020Desc=Hurl an exploding charge of potent ice energy capable of freezing enemies solid.
 
 tagItemSkillC021Name=Lightning Bolt
@@ -1013,71 +1012,71 @@ tagCompSkillA003Desc=Úder tvé zbraně je zničující pro Aetherické bytosti.
 tagCompSkillA004Name=Pronikavá aura
 tagCompSkillA004Desc=Umocní tvé útoky a útoky tvých nejbližších spojenců probodávajícím úderem skrz zbroj. ^oTato schopnost musí být nastavena jako výchozí typ útoku, aby účinkovala.
 
-tagCompSkillA005Name=Blade Ward I
-tagCompSkillA005Desc=Empower your armor against piercing attacks, retaliating against your attackers in kind.
+tagCompSkillA005Name=Čepelová ochrana I
+tagCompSkillA005Desc=Dodá tvému brnění obranu proti probodávajícím útokům a podobně oplácí těm, co na tebe útočí.
 
-tagCompSkillA006Name=Blade Ward II
-tagCompSkillA006Desc=Imbue your armor against piercing attacks, retaliating against your attackers in kind.
+tagCompSkillA006Name=Čepelová ochrana II
+tagCompSkillA006Desc=Dodá tvému brnění obranu proti probodávajícím útokům a podobně oplácí těm, co na tebe útočí.
 
-tagCompSkillA007Name=Blooddrinker I
-tagCompSkillA007Desc=Empower your attacks with vampiric energy.
+tagCompSkillA007Name=Krvesaj I
+tagCompSkillA007Desc=Posílí tvé útoky vampirickou energií.
 
-tagCompSkillA008Name=Blooddrinker II
-tagCompSkillA008Desc=Empower your attacks with vampiric energy.
+tagCompSkillA008Name=Krvesaj II
+tagCompSkillA008Desc=Posílí tvé útoky vampirickou energií.
 
-tagCompSkillA009Name=Chaos Bolt
-tagCompSkillA009Desc=Unleashe a bolt of chaotic energies at the target.
+tagCompSkillA009Name=Výboj chaosu
+tagCompSkillA009Desc=Vypustí na cíl výboj chaotické energie.
 
-tagCompSkillA010Name=Chill Aura I
-tagCompSkillA010Desc=Empower your attacks and those of your nearby allies with a deathly chill. ^oTato schopnost musí být nastavena jako výchozí typ útoku, aby účinkovala.
+tagCompSkillA010Name=Ledová aura I
+tagCompSkillA010Desc=Tvým útokům a spojencům v okolí dodá smrtící mrazení. ^oTato schopnost musí být nastavena jako výchozí typ útoku, aby účinkovala.
 
-tagCompSkillA011Name=Decapitate I
-tagCompSkillA011Desc=Attempt to decapitate your foe with a deadly blow capable of causing intense bleeding.
+tagCompSkillA011Name=Setnutí I
+tagCompSkillA011Desc=Pokus se setnout tvé protivníky smrtícím úderem, který je schopný způsobit intensivní krvácení.
 
-tagCompSkillA012Name=Decapitate II
-tagCompSkillA012Desc=Attempt to decapitate your foe with a deadly blow capable of causing intense bleeding.
+tagCompSkillA012Name=Setnutí II
+tagCompSkillA012Desc=Pokus se setnout tvé protivníky smrtícím úderem, který je schopný způsobit intensivní krvácení.
 
-tagCompSkillA013Name=Fire Aura
-tagCompSkillA013Desc=Empower your attacks and those of your nearby allies with a blazing flame. ^oTato schopnost musí být nastavena jako výchozí typ útoku, aby účinkovala.
+tagCompSkillA013Name=Ohnivá aura
+tagCompSkillA013Desc=Tvým útokům a spojencům v okolí dodá spalující plamen. ^oTato schopnost musí být nastavena jako výchozí typ útoku, aby účinkovala.
 
-tagCompSkillA014Name=Fireblast I
-tagCompSkillA014Desc=Launch a ball of incinerating flame at your target.
+tagCompSkillA014Name=Ohnivý výbuch I
+tagCompSkillA014Desc=Vypustí kouli spalujících plamenů na tvůj cíl.
 
-tagCompSkillA015Name=Fireblast II
-tagCompSkillA015Desc=Launch a ball of incinerating flame at your target.
+tagCompSkillA015Name=Ohnivý výbuch II
+tagCompSkillA015Desc=Vypustí kouli spalujících plamenů na tvůj cíl.
 
-tagCompSkillA016Name=Ice Spike I
-tagCompSkillA016Desc=Launch a spike of rock solid ice to impale your enemies.
+tagCompSkillA016Name=Ledový bodec I
+tagCompSkillA016Desc=Vypustí šipku tvrdou jako kámen, která dokáže probodnout tvé nepřátele.
 
-tagCompSkillA017Name=Ice Spike II
-tagCompSkillA017Desc=Launch a spike of rock solid ice to impale your enemies.
+tagCompSkillA017Name=Ledový bodec II
+tagCompSkillA017Desc=Vypustí šipku tvrdou jako kámen, která dokáže probodnout tvé nepřátele.
 
-tagCompSkillA018Name=Lightning Aura
-tagCompSkillA018Desc=Empower your attacks and those of your nearby allies with the power of lightning. ^oTato schopnost musí být nastavena jako výchozí typ útoku, aby účinkovala.
+tagCompSkillA018Name=Aura z blesků
+tagCompSkillA018Desc=Tvým útokům a spojencům v okolí dodá energii blesku. ^oTato schopnost musí být nastavena jako výchozí typ útoku, aby účinkovala.
 
-tagCompSkillA019Name=Lightning Strike I
-tagCompSkillA019Desc=Strike at your enemies with the force of a lightning bolt.
+tagCompSkillA019Name=Úder blesku I
+tagCompSkillA019Desc=Tvůj cíl je zasažen energií blesku.
 
-tagCompSkillA020Name=Lightning Strike II
-tagCompSkillA020Desc=Strike at your enemies with the force of a lightning bolt.
+tagCompSkillA020Name=Úder blesku II
+tagCompSkillA020Desc=Tvůj cíl je zasažen energií blesku.
 
-tagCompSkillA021Name=Poison Aura
-tagCompSkillA021Desc=Empower your attacks and those of your nearby allies with a foul poison. ^oTato schopnost musí být nastavena jako výchozí typ útoku, aby účinkovala.
+tagCompSkillA021Name=Jedovatá aura
+tagCompSkillA021Desc=Tobě a tvým spojencům v okolí dodá útok odpornými jedy. ^oTato schopnost musí být nastavena jako výchozí typ útoku, aby účinkovala.
 
-tagCompSkillA022Name=Poison Bomb I
-tagCompSkillA022Desc=Launch a foul bomb which explodes at the target point, coating your enemies with toxins.
+tagCompSkillA022Name=Jedovatá bomba I
+tagCompSkillA022Desc=Vypustí jedovatou pumu, která exploduje v blízkosti cíle a pokryje tvé nepřátele jedem.
 
-tagCompSkillA023Name=Poison Bomb II
-tagCompSkillA023Desc=Launch a foul bomb which explodes at the target point, coating your enemies with toxins.
+tagCompSkillA023Name=Jedovatá bomba II
+tagCompSkillA023Desc=Vypustí jedovatou pumu, která exploduje v blízkosti cíle a pokryje tvé nepřátele jedem.
 
-tagCompSkillA024Name=Radiant Shield
-tagCompSkillA024Desc=Imbue your shield against the elements.
+tagCompSkillA024Name=Zářící štít
+tagCompSkillA024Desc=Posilní tvůj štít proti živlům.
 
-tagCompSkillA025Name=Sacred Strike
-tagCompSkillA025Desc=Strike your enemies with a devastating blow which weakens their resistance to the elements.
+tagCompSkillA025Name=Posvátný úder
+tagCompSkillA025Desc=Udeří na nepřátele devastujícím zásahem, který oslabí jejich odolnost proti živlům.
 
-tagCompSkillA026Name=Shield Slam
-tagCompSkillA026Desc=Slam your enemy with your shield, disabling lesser foes completely.
+tagCompSkillA026Name=Úder štítem
+tagCompSkillA026Desc=Prašť tvého nepřítele štítem a slabší nepřátele můžeš úplně ochromit.
 
 tagCompSkillA027Name=Shield Spike
 tagCompSkillA027Desc=Slam your enemy with your shield, impaling your target upon its spikes.
@@ -1091,11 +1090,11 @@ tagCompSkillA029Desc=Udeří tvého nepřítele zdrcující ranou.
 tagCompSkillA030Name=Udeření II
 tagCompSkillA030Desc=Udeří tvého nepřítele zdrcující ranou.
 
-tagCompSkillB001Name=Demonfire
-tagCompSkillB001Desc=Launch a bolt of unearthly flame at your enemy.
+tagCompSkillB001Name=Démonický oheň
+tagCompSkillB001Desc=Vypustí nadpřirozený plamen k tvému nepříteli.
 
-tagCompSkillB002Name=Beronath's Fury
-tagCompSkillB002Desc=Strike out at your enemies with the fury of the great beast Beronath. When used as your default weapon attack, Beronath's Fury increase the intensity of your attacks with every strike.
+tagCompSkillB002Name=Beronathův vztek
+tagCompSkillB002Desc=Udeří na tvé nepřátele zlobou mocné bestie Beronatha. Pokud je použita jako výchozí typ útoku, Beronathův vztek zvýší intenzitu tvého útoku s každým úderem.
 
 tagCompSkillB003Name=Silver Spread
 tagCompSkillB003Desc=Launch a burst of silver-coated projectiles intended to kill Chthonic beings.
