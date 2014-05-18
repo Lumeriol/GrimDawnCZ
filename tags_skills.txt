@@ -760,8 +760,8 @@ tagItemSkillC019Desc=Rozpoutá v řadě řízenou explozi ohnivé smrti.
 tagItemSkillC020Name=Arktický výbuch
 tagItemSkillC020Desc=Hurl an exploding charge of potent ice energy capable of freezing enemies solid.
 
-tagItemSkillC021Name=Lightning Bolt
-tagItemSkillC021Desc=Calls forth holy justice from the heavens.
+tagItemSkillC021Name=Blesk
+tagItemSkillC021Desc=Přivolá z nebes svaté právo.
 
 tagItemSkillC022Name=Bolt Burst
 tagItemSkillC022Desc=A trick with the loading mechanism allows for an occasional burst of ammo to be unleashed in rapid succession.
@@ -1076,13 +1076,13 @@ tagCompSkillA025Name=Posvátný úder
 tagCompSkillA025Desc=Udeří na nepřátele devastujícím zásahem, který oslabí jejich odolnost proti živlům.
 
 tagCompSkillA026Name=Úder štítem
-tagCompSkillA026Desc=Prašť tvého nepřítele štítem a slabší nepřátele můžeš úplně ochromit.
+tagCompSkillA026Desc=Udeř svého nepřítele štítem, slabší nepřátele můžeš úplně ochromit.
 
-tagCompSkillA027Name=Shield Spike
-tagCompSkillA027Desc=Slam your enemy with your shield, impaling your target upon its spikes.
+tagCompSkillA027Name=Ostnatý štít
+tagCompSkillA027Desc=Udeř svého nepřítele štítem s ostny, na které ho nabodneš.
 
-tagCompSkillA028Name=Silver Edge
-tagCompSkillA028Desc=Strike with your weapon, devastating to Chthonic beings.
+tagCompSkillA028Name=Stříbrné ostří
+tagCompSkillA028Desc=Úder zbraní, který ničí Chtonické bytosti.
 
 tagCompSkillA029Name=Udeření I
 tagCompSkillA029Desc=Udeří tvého nepřítele zdrcující ranou.
@@ -1096,19 +1096,17 @@ tagCompSkillB001Desc=Vypustí nadpřirozený plamen k tvému nepříteli.
 tagCompSkillB002Name=Beronathův vztek
 tagCompSkillB002Desc=Udeří na tvé nepřátele zlobou mocné bestie Beronatha. Pokud je použita jako výchozí typ útoku, Beronathův vztek zvýší intenzitu tvého útoku s každým úderem.
 
-tagCompSkillB003Name=Silver Spread
-tagCompSkillB003Desc=Launch a burst of silver-coated projectiles intended to kill Chthonic beings.
+tagCompSkillB003Name=Pokrytí stříbrem
+tagCompSkillB003Desc=Vypustí množství projektilů potažených stříbrem za účelem zničení Chtonických bytostí.
 
-tagCompSkillB004Name=Dreeg's Infinite Gaze
-tagCompSkillB004Desc=Unleash the infinite gaze of Dreeg around you.
+tagCompSkillB004Name=Dreegův neustávající pohled
+tagCompSkillB004Desc=Rozpoutá okolo tebe nekonečný pohled.
 
 tagCompSkillB005Name=Solaelův plamen
 tagCompSkillB005Desc=Spal svého nepřítele temným plamenem Solaela.
 
-tagCompSkillB006Name=Oleron's Might
-tagCompSkillB006Desc=Strikes with your weapon, inflicting grevious wounds and crippling the target.
-
-
+tagCompSkillB006Name=Oleronova moc
+tagCompSkillB006Desc=Úder zbraní, jež způsobí těžkou újmu nepříteli a ochromí ho.
 #Relic Skills
 
 tagRelicSkillB001Name=Calamity
@@ -1261,38 +1259,38 @@ tagRelicSkillD020Desc=Become empowered with the protective spirit of Menhir, shi
 
 tagConsumableSkill_RoyalJellyBalmName=Balzám z mateří kašičky
 tagConsumableSkill_RoyalJellyBalmDesc=Naplní tě uklidňujícím teplem.
-tagConsumableSkill_A01=Flamedrinker Ointment
-tagConsumableSkill_A01Desc=Fortifies the flesh against the heat of flame.
-tagConsumableSkill_A02=Frostshroud Ointment
-tagConsumableSkill_A02Desc=Fortifies the flesh against the punishment of winter.
-tagConsumableSkill_A03=Stormshroud Ointment
-tagConsumableSkill_A03Desc=Fortifies the flesh against the wrath of lightning.
-tagConsumableSkill_A04=Venomguard Ointment
-tagConsumableSkill_A04Desc=Fortifies the flesh against vile poisons.
-tagConsumableSkill_A05=Bloodbound Ointment
-tagConsumableSkill_A05Desc=Fortifies the flesh against fiends of the void.
-tagConsumableSkill_A06=Spiritbane Ointment
-tagConsumableSkill_A06Desc=Fortifies the flesh against foul Aetherials.
-tagConsumableSkill_A07=Deathwhisper Ointment
-tagConsumableSkill_A07Desc=Fortifies the flesh against death magic.
-tagConsumableSkill_A08=Hoarfrost Ointment
-tagConsumableSkill_A08Desc=A reassuring warmth fills your flesh.
-tagConsumableSkill_A09=Lifestealer Oil
-tagConsumableSkill_A09Desc=Coats your weapon with the Lifestealer toxin.
-tagConsumableSkill_A10=Venomfang Oil
-tagConsumableSkill_A10Desc=Coats your weapon with the Venomfang toxin.
-tagConsumableSkill_A11=Bloodfang Oil
-tagConsumableSkill_A11Desc=Coats your weapon with the Bloodfang toxin.
-tagConsumableSkill_A12=Arcanum Oil
-tagConsumableSkill_A12Desc=Coats your weapon with an Arcanum elixir.
-tagConsumableSkill_A13=Elixir of the Ancients
-tagConsumableSkill_A13Desc=Fills you with the power of the Ancients.
-tagConsumableSkill_A14=Elixir of the Void
-tagConsumableSkill_A14Desc=Fills you with the untamed power of the Void.
-tagConsumableSkill_A15=Elixir of the Aether
-tagConsumableSkill_A15Desc=Fills you with the raw power of the Aether.
-tagConsumableSkill_A16=Elixir of the Hunt
-tagConsumableSkill_A16Desc=Fills you with boundless energy.
+tagConsumableSkill_A01=Mast pojídače ohně
+tagConsumableSkill_A01Desc=Posilní tvé tělo proti žáru plamenů.
+tagConsumableSkill_A02=Mast ledového rubáše
+tagConsumableSkill_A02Desc=Posilní tvé tělo proti drsné zimě.
+tagConsumableSkill_A03=Mast bouřkového rubáše
+tagConsumableSkill_A03Desc=Posilní tvé tělo proti zlobě blesku.
+tagConsumableSkill_A04=Mast strážce jedu
+tagConsumableSkill_A04Desc=Posilní tvé tělo proti hnusným jedům.
+tagConsumableSkill_A05=Mast spoutání krve
+tagConsumableSkill_A05Desc=Posilní tvé tělo proti nestvůrám z prázdnoty.
+tagConsumableSkill_A06=Mast prokletí ducha
+tagConsumableSkill_A06Desc=Posilní tvé tělo proti odporným Aetherianům.
+tagConsumableSkill_A07=Mast smrtelného šepotu
+tagConsumableSkill_A07Desc=Posilní tvé tělo proti smrtící magii.
+tagConsumableSkill_A08=Mast bílého mrazu
+tagConsumableSkill_A08Desc=Uklidňující teplo naplňuje tvé tělo.
+tagConsumableSkill_A09=Olej krádeže života
+tagConsumableSkill_A09Desc=Pokryje tvoji zbraň toxinem, který krade život.
+tagConsumableSkill_A10=Olej jedovatého tesáku
+tagConsumableSkill_A10Desc=Pokryje tvoji zbraň toxinem z jedovatého tesáku.
+tagConsumableSkill_A11=Olej krvavého tesáku
+tagConsumableSkill_A11Desc=Pokryje tvoji zbraň toxinem z krvavého tesáku.
+tagConsumableSkill_A12=Arkanický olej
+tagConsumableSkill_A12Desc=Pokryje tvoji zbraň arkanickým elixírem.
+tagConsumableSkill_A13=Elixír starověkých
+tagConsumableSkill_A13Desc=Naplní tě silou starověkých.
+tagConsumableSkill_A14=Elixír prázdnoty
+tagConsumableSkill_A14Desc=Naplní tě nezpoutanou silou Prázdnoty.
+tagConsumableSkill_A15=Elixír Aetheru
+tagConsumableSkill_A15Desc=Naplní tě hrubou silou Aetheru.
+tagConsumableSkill_A16=Elixír lovce
+tagConsumableSkill_A16Desc=Naplní tě nezpoutanou energií.
 
 #SkillsGeneral
 
