@@ -94,7 +94,7 @@ tagClass01SkillName02C=Vnitřní trauma
 tagClass01SkillDescription02C=Tlaková vlna tříští kosti a trhá orgány, což způsobuje velké vnitřní a vnější krvácení.
 
 tagClass01SkillName03A=Prudký útok
-tagClass01SkillDescription03A=Vyraž do boje s drtivou otočkou a nepřátele překvapivě zasáhni. ^oVyžaduje chladnou zbraň.
+tagClass01SkillDescription03A=Vyraz do boje s drtivou otočkou a nepřátele překvapivě zasáhni. ^oVyžaduje chladnou zbraň.
 tagClass01SkillName03B=Ohromení
 tagClass01SkillDescription03B=Neočekávanost a zuřivost tvého útoku rozhodí tvé nepřátele, což sníží jejich odvahu bojovat.
 
@@ -111,7 +111,7 @@ tagClass01SkillDescription05B=Specializovaná technika způsobí, že Rozdrásá
 tagClass01SkillName06A=Markoviánská výhoda
 tagClass01SkillDescription06A=Věhlasný taktik Markovian vždy útočil z vyšších poloh. Tento klasický útok, inspirovaný Markoviánskými bitevními taktikami, představuje velmi silný, dolů směřující úder, což rozhodí tvé nepřátele a oslabí jejich obranu.
 tagClass01SkillName06B=Zolhanova technika
-tagClass01SkillDescription06B=Po známém bojovém mistrovi pojmenovaný útok využívá nízké těžiště a silný úder, aby rozhodil tvé protivníky. ^oWhen used with a melee weapon, the attack strikes multiple nearby targets.
+tagClass01SkillDescription06B=Po známém bojovém mistrovi pojmenovaný útok využívá nízké těžiště a silný úder, aby rozhodil tvé protivníky. ^oKdyž je použita chladná zbraň, útok zasáhne více cílů v blízkosti.
 
 tagClass01SkillName07A=Bojový duch
 tagClass01SkillDescription07A=Místo toho, aby tě nepřátelské zásahy donutily k rezignaci umocňují tvůj hněv, což dodává tvým útokům extra sílu.
@@ -163,7 +163,7 @@ tagClass02SkillDescription01A=Granát je poměrně nový vynález, který se na 
 tagClass02SkillName01B=Vysoký účinek
 tagClass02SkillDescription01B=Vylepšený koncept klasického Granátu výbuchem zároveň uvolní silný žár, jež dává šanci uštědřit zničující fyzickou újmu.
 tagClass02SkillName01C=Granát nebeského ohně
-tagClass02SkillDescription01C=Pokud exploze není na nepřítele dost, při výbuchu tahle alchymistická úprava chemického složení Granátu rozpoutá smršť elektrické energie.
+tagClass02SkillDescription01C=Pokud exploze není na nepřítele dost, při výbuchu tahle alchimistická úprava chemického složení Granátu rozpoutá smršť elektrické energie.
 
 tagClass02SkillName02A=Třesk blesku
 tagClass02SkillDescription02A=Oslepující světlo dočasně ochromí nepřátele a přeruší jejich schopnost se bránit.
@@ -353,7 +353,7 @@ tagClass04SkillName02C=Soumrak
 tagClass04SkillDescription02C=Když se znovu objevíš a zaútočíš na svůj primární cíl, plášť temnoty padne na nepřátele v okolí jako ta nejtmavší, nejchladnější noc, která ochladí jejich krev a napadne jejich mysl nekontrolovatelnou únavou.
 
 tagClass04SkillName03A=Bariéra z čepelí
-tagClass04SkillDescription03A=Proslíchá se, že pán Nočních čepelí, Belgothian, postrádal kvalitní ovládání svých kouzel; měl ale vždy dostatečně silnou vůli vyčarovat tak velké množství čepelí, že kolem něj vytvořily neprorazitelný štít, což mu dopřálo čas na oddech od jeho nepřátel.
+tagClass04SkillDescription03A=Proslýchá se, že pán Nočních čepelí, Belgothian, postrádal kvalitní ovládání svých kouzel; měl ale vždy dostatečně silnou vůli vyčarovat tak velké množství čepelí, že kolem něj vytvořily neprorazitelný štít, což mu dopřálo čas na oddech od jeho nepřátel.
 
 tagClass04SkillName04A=Prstenec z oceli
 tagClass04SkillDescription04A=Během mrknutí oka tě obklopí stovky Přízračných čepelí rotujících smrtící rychlostí, jež setnou protivníky v blízkosti.
@@ -369,7 +369,7 @@ tagClass04SkillDescription05C=Amarasta je legendou díky její rychlosti a řík
 tagClass04SkillName05D=Vířivá smrt
 tagClass04SkillDescription05D=Devastující technika zaměřená na boj s vícero cíli. Ti, kteří přežijí, budou krvácet jako z tisíce řezných ran. ^oToto je technika dvou zbraní.
 tagClass04SkillName05E=Nidallanina skrytá dlaň
-tagClass04SkillDescription05E=Nidalla, kontroverzní mistrině nočních lovců, zosobňovala krutou účinnost jedů během Věku Nerozumu, kdy kombinovala odporné jedy s technikou Vířivé smrti, což jí umožnilo převládat v boji proti obrovské převaze. ^oTato technika modifikuje Vířivou smrt.
+tagClass04SkillDescription05E=Nidalla, kontroverzní mistryně nočních lovců, zosobňovala krutou účinnost jedů během Věku Nerozumu, kdy kombinovala odporné jedy s technikou Vířivé smrti, což jí umožnilo převládat v boji proti obrovské převaze. ^oTato technika modifikuje Vířivou smrt.
 tagClass04SkillName05F=Poprava
 tagClass04SkillDescription05F=Nelítostný úder, uštědřený během chvilky kdy byla příležitost, s úmyslem rychle dorazit protivníka. Ti, kteří přežijí, nebudou s největší pravděpodobnosti žít dlouho. ^oToto je technika dvou zbraní.
 
@@ -406,7 +406,7 @@ tagClass04SkillDescription13A=Okolo tebe se vytvoří metafyzická bariéra, kte
 tagClass04SkillName13B=Anatomie vraždy
 tagClass04SkillDescription13B=Znalost vysloužená královskými vrahy a rozsáhlým studiem anatomie, která tě seznámí se všemi škodu páchajícími citlivými a škodlivými místy, do kterých se dá zabodnout meč.
 tagClass04SkillName13C=Nemilosrdný repertoár
-tagClass04SkillDescription13C=Ikdyž ne standardně využívané, znalosti jedů a elementárních sil mohou být těmi nejvíce účinnými prostředky, jak získat v boji navrch.
+tagClass04SkillDescription13C=I když ne standardně využívané, znalosti jedů a elementárních sil mohou být těmi nejvíce účinnými prostředky, jak získat v boji navrch.
 
 
 tagClass04SkillName04C=Žravé meče
@@ -430,7 +430,7 @@ tagClass04SkillDescription14B=Mistrovství v technice Smrtelného manévru jej v
 tagClass04SkillName15A=Vyvržení
 tagClass04SkillDescription15A=Rychlé říznutí do vnitřností zajistí, že za čas oběť vykrvácí, ale do té doby naruší jejich pohyblivost a ovlivní rychlost útoku. ^oVyžaduje buď meč nebo sekyru.
 tagClass04SkillName15B=Amarastin manévr
-tagClass04SkillDescription15B=Mistrovská technika, která vylepšuje Vyvržení a má potenciál způsobit devastující zranění, pokud se perfektně zdaří, ale s riskem že se nemusí povést a může tak způsobit malé nemo žádné zranění.
+tagClass04SkillDescription15B=Mistrovská technika, která vylepšuje Vyvržení a má potenciál způsobit devastující zranění, pokud se perfektně zdaří, ale s riskem že se nemusí povést a může tak způsobit malé nebo žádné zranění.
 
 #Class05
 
@@ -648,13 +648,13 @@ tagItemSkillB009Name=Ledový hrot
 tagItemSkillB009Desc=Vypustí šipku tvrdou jako kámen, která dokáže probodnout tvé nepřátele.
 
 tagItemSkillB010Name=Pozemní párač
-tagItemSkillB010Desc=Uvolní vlnu seismické energie směrem k tvým nepřátelům.
+tagItemSkillB010Desc=Uvolní vlnu seizmické energie směrem k tvým nepřátelům.
 
 tagItemSkillB011Name=Uzdravení
 tagItemSkillB011Desc=Konejšivá síla zacelí tvé rány.
 
-tagItemSkillB012Name=Seismický výbuch
-tagItemSkillB012Desc=Ve tvém okolí propukne seismická aktivita, která poškodí tvé protivníky a srazí je na zem.
+tagItemSkillB012Name=Seizmický výbuch
+tagItemSkillB012Desc=Ve tvém okolí propukne seizmická aktivita, která poškodí tvé protivníky a srazí je na zem.
 
 tagItemSkillB013Name=Tajemný výbuch
 tagItemSkillB013Desc=Vlna tajemných sil ve tvém okolí poškodí všechny nepřátele v blízkosti.
@@ -663,10 +663,10 @@ tagItemSkillB014Name=Pozemský hlídač
 tagItemSkillB014Desc=Obklopí tě ochranná síla Země, která vylepší tvé brnění a regeneraci.
 
 tagItemSkillB015Name=Rozzuření
-tagItemSkillB015Desc=Uvrhne tě v zuřivost jako kdyby jsi byl šílený, což ti umožní útočit rychleji a s větší dravostí, ale také te činí více citlivým vůči útokům.
+tagItemSkillB015Desc=Uvrhne tě v zuřivost jako kdyby jsi byl šílený, což ti umožní útočit rychleji a s větší dravostí, ale také tě činí více citlivým vůči útokům.
 
 tagItemSkillB016Name=Porozumění
-tagItemSkillB016Desc=Vstup do tranzu většího vědění a nech tajemné síly, ať prostoupí tvé tělo.
+tagItemSkillB016Desc=Vstup do transu většího vědění a nech tajemné síly, ať prostoupí tvé tělo.
 
 tagItemSkillB017Name=Odporná směs
 tagItemSkillB017Desc=Vypustí výbušnou směs leptavé kapaliny.
@@ -699,7 +699,7 @@ tagItemSkillC002Name=Kulový blesk
 tagItemSkillC002Desc=Oplácí kulovým bleskem, jež je vypuštěn směrem na útočníka, poškozujíc a omračujíc vše, co mu stojí v cestě.
 
 tagItemSkillC003Name=Rozzuření
-tagItemSkillC003Desc=Uvrhne tě v zuřivost jako kdyby jsi byl šílený, což ti umožní útočit rychleji a s větší dravostí, ale také te činí více citlivým vůči útokům.
+tagItemSkillC003Desc=Uvrhne tě v zuřivost jako kdyby jsi byl šílený, což ti umožní útočit rychleji a s větší dravostí, ale také tě činí více citlivým vůči útokům.
 
 tagItemSkillC004Name=Oddaný strážce
 tagItemSkillC004Desc=Přivolá nepřátelům nebezpečného strážce se silnou obranou.
@@ -715,7 +715,7 @@ tagItemSkillC005Desc=Přivolá strážce s velikou útočnou schopností.
 tagItemSkillC005PetSkill01=Šílený řev
 tagItemSkillC005PetSkill01Desc=Strážce zařve a tak povzbudí spojence v okolí.
 
-tagItemSkillC006Name=Nákaza rezi
+tagItemSkillC006Name=Nákaza rzí
 tagItemSkillC006Desc=Rozpoutá nad tvými nepřáteli nákazu, která rozežere brnění a rychle se šíří.
 
 tagItemSkillC007Name=Nákaza křehkosti kostí
@@ -743,7 +743,7 @@ tagItemSkillC014Name=Dominace
 tagItemSkillC014Desc=Ovládne misi cíle, čímž ho donutí krátký čas bojovat po tvém boku. 
 
 tagItemSkillC015Name=Rozparovač vnitřností
-tagItemSkillC015Desc=Vrhne shluk subatých úlomků na nepřátele v blízkosti.
+tagItemSkillC015Desc=Vrhne shluk zubatých úlomků na nepřátele v blízkosti.
 
 tagItemSkillC016Name=Vulkanická exploze
 tagItemSkillC016Desc=Rozpoutá explozi roztavených fragmentů, která poškodí nepřátele v blízkosti.
@@ -764,7 +764,7 @@ tagItemSkillC021Name=Blesk
 tagItemSkillC021Desc=Přivolá z nebes svaté právo.
 
 tagItemSkillC022Name=Exploze bodců
-tagItemSkillC022Desc=Trik s mechanismem nabíjení umožnuje  příležitostně vypustit dávku nábojů v rychlém sledu.
+tagItemSkillC022Desc=Trik s mechanismem nabíjení umožňuje  příležitostně vypustit dávku nábojů v rychlém sledu.
 
 tagItemSkillC023Name=Jedovaté kousnutí
 tagItemSkillC023Desc=Meč se zaryje do masa jako ohavné kousnutí psa z trhliny.
@@ -818,7 +818,7 @@ tagItemSkillC039Name=Omračující nálož
 tagItemSkillC039Desc=Vrhne omračující bombu, která ponechá tvé nepřátele ochromené.
 
 tagItemSkillC040Name=Protisrážlivá šipka
-tagItemSkillC040Desc=Vypálí šipku s protisrážlivími chemikáliemi, které zabrání hojení ran a způsobí mohutné krvácení.
+tagItemSkillC040Desc=Vypálí šipku s protisrážlivými chemikáliemi, které zabrání hojení ran a způsobí mohutné krvácení.
 
 tagItemSkillC041Name=Spektrální vlna
 tagItemSkillC041Desc=Uvolní vlnu zlostných duchů, kteří vysají životní sílu z tvých nepřátel.
@@ -827,7 +827,7 @@ tagItemSkillC042Name=Další zářez
 tagItemSkillC042Desc=Přidá další zářez k již asi existujícímu tisíci, ale kdo to vlastně počítá?
 
 tagItemSkillC043Name=Kruh nekonečného ohně
-tagItemSkillC043Desc=Bykoupej sám sebe ve spalujících plamenech, kterí vše kolem tebe spálí na škvarek, ale tebe zanechá nezraněným. ^oTato schopnost musí být nastavena jako výchozí typ útoku, aby účinkovala.
+tagItemSkillC043Desc=Vykoupej sám sebe ve spalujících plamenech, které vše kolem tebe spálí na škvarek, ale tebe zanechá nezraněným. ^oTato schopnost musí být nastavena jako výchozí typ útoku, aby účinkovala.
 
 tagItemSkillC044Name=Kletba zdrcujícího rozřešení
 tagItemSkillC044Desc=Mysl otupující zaříkávadlo, které otupí smysly tvých nepřátel a okrade je o vitalitu.
@@ -941,7 +941,7 @@ tagItemSkillM003Name=Apokalypsa
 tagItemSkillM003Desc=Zasype tvé nepřátele očišťujícím pekelným ohněm.
 
 tagItemSkillM004Name=Soustředění Tajemna
-tagItemSkillM004Desc=S každým útokem vstoupíš do stavu podobného tranzu a tím znásobíš svou tajemnou sílu.
+tagItemSkillM004Desc=S každým útokem vstoupíš do stavu podobného transu a tím znásobíš svou tajemnou sílu.
 
 tagItemSkillM005Name=Zběsilost
 tagItemSkillM005Desc=Ponoř se do stavu šílence, který dělá výpady se zvýšenou zuřivostí na úkor schopnosti přežít.
@@ -952,11 +952,11 @@ tagItemSkillM006Desc=Zvoláš směrem k příšerám, které berou tvoji vůli v
 tagItemSkillM007Name=Mrazivá nálož
 tagItemSkillM007Desc=Vrhne zmrazený projektil na cíl a pokryje jej ledem, díky čemuž se nebude moci pohybovat.
 
-tagItemSkillM008Name=Empowerment
+tagItemSkillM008Name=Posilnění
 tagItemSkillM008Desc=Posílí tvůj útok za cenu vzácné životní síly.
 
 tagItemSkillM009Name=Vyvolat kolos z masa a kostí
-tagItemSkillM009Desc=Z prokletých prostředí mosntrum bez mysli, které ti bude sloužit tak dlouho, jak jen to jeho tělo vydrží.
+tagItemSkillM009Desc=Z prokletých prostředí monstrum bez mysli, které ti bude sloužit tak dlouho, jak jen to jeho tělo vydrží.
 
 tagItemSkillM010Name=Upírství
 tagItemSkillM010Desc=Osvoj si temnější stranu, abys obnovil svou vlastní vitalitu na úkor tvých nepřátel.
@@ -971,7 +971,7 @@ tagItemSkillM014Name=Spasitel
 tagItemSkillM014Desc=Vdechnutí života v zoufalé situaci.
 
 tagItemSkillM015Name=Tajuplná zuřivost
-tagItemSkillM015Desc=Síla diamantu může být čerpána v zoufalých situacích a zajistí tak přístup k nesmérné tajuplné energii.
+tagItemSkillM015Desc=Síla diamantu může být čerpána v zoufalých situacích a zajistí tak přístup k nesmírné tajuplné energii.
 
 tagItemSkillM016Name=Prapůvodní zuřivost
 tagItemSkillM016Desc=Síla diamantu může být čerpána v zoufalých situacích a zajistí tak přístup k nezastavitelné fyzické udatnosti.
@@ -980,10 +980,10 @@ tagItemSkillM017Name=Prizmatická zuřivost
 tagItemSkillM017Desc=Síla diamantu může být čerpána v zoufalých situacích a zajistí tak přístup k jeho pravému potenciálu a nespočetným kosmickým silám.
 
 tagItemSkillD017Name=Meteor
-tagItemSkillD017Desc=Ze spoda vyčaruje mohutnou hořící skálu a spustí ji na tvé nepřátele.
+tagItemSkillD017Desc=Ze spodu vyčaruje mohutnou hořící skálu a spustí ji na tvé nepřátele.
 
 tagItemSkillD018Name=Vrhání výkalů
-tagItemSkillD018Desc=Sáhni do zadní části svých kalhot a vytáhni něco, co tvé nepřátele zceja jistě zalarmuje. 
+tagItemSkillD018Desc=Sáhni do zadní části svých kalhot a vytáhni něco, co tvé nepřátele zcela jistě zalarmuje. 
 
 tagItemSkillD019Name=Krupobití
 tagItemSkillD019Desc=Vyčaruj bouři smrtícího ledu nad zvolenou oblastí.
@@ -1125,7 +1125,7 @@ tagRelicSkillB005Name=Bouře
 tagRelicSkillB005Desc=Vyvolá bouřkový mrak nad zvolenou oblastí a pravidelně bude elektřinou zasahovat ty nepřátele, kteří pod se pod ním ocitnou.
 
 tagRelicSkillB006Name=Vulkanická zuřivost
-tagRelicSkillB006Desc=Naplní tě uhnivou zlobou a způsobí tak, že tvé útoky zapálí nepřítele.
+tagRelicSkillB006Desc=Naplní tě ohnivou zlobou a způsobí tak, že tvé útoky zapálí nepřítele.
 
 tagRelicSkillB007Name=Zkaženost
 tagRelicSkillB007Desc=Zkomolí tvůj štít a způsobí, že začne šířit smrtelnou nákazu na ty, jež se opováží tě napadnout.
@@ -1155,10 +1155,10 @@ tagRelicSkillC002Name=Živoucí pevnost
 tagRelicSkillC002Desc=Máš kůži jako kámen, díky které se stáváš téměř nedotknutelným, když na tebe nepřítel zaútočí mečem nebo pařátem. ^oVyžaduje štít.
 
 tagRelicSkillC003Name=Krvavá lázeň
-tagRelicSkillC003Desc=Brutální technika, která zanechává tvé nepřátele hojně mrvácející, což vede k pomalé a bolestivé smrti. ^oToto je technika dvou zbraní. Také aplikuje schopnost ovládat dvě chladné zbraně.
+tagRelicSkillC003Desc=Brutální technika, která zanechává tvé nepřátele hojně krvácející, což vede k pomalé a bolestivé smrti. ^oToto je technika dvou zbraní. Také aplikuje schopnost ovládat dvě chladné zbraně.
 
 tagRelicSkillC004Name=Nezastavitelný
-tagRelicSkillC004Desc=Jsi jako nezastavitelná síla, která se otřese po ranách, jež by slabší jedince zkolila.
+tagRelicSkillC004Desc=Jsi jako nezastavitelná síla, která se otřese po ranách, jež by slabší jedince skolila.
 
 tagRelicSkillC005Name=Teror
 tagRelicSkillC005Desc=Do srdcí tvých nepřátel umožní vštípit čirý teror, jež je bude požírat zevnitř.
@@ -1167,7 +1167,7 @@ tagRelicSkillC006Name=Trýzeň
 tagRelicSkillC006Desc=Vyvolej strašlivou kletbu slabosti a intenzivní bolesti na ty, jež se opováží tě napadnout.
 
 tagRelicSkillC007Name=Strašení
-tagRelicSkillC007Desc=Vyvolej umučené duchy, kteří budou strašit tvé nepřátele a schladí jejich krev.
+tagRelicSkillC007Desc=Vyvolej umučené duchy, kteří budou strašit tvé nepřátele a zchladí jejich krev.
 
 tagRelicSkillC008Name=Požár
 tagRelicSkillC008Desc=Rozpoutá čirý plamen tak intenzivní, že mu neodolá ani to nejtěžší brnění.
@@ -1177,80 +1177,80 @@ tagRelicSkillC009Desc=Přivolá oddaného Bouřného psa, podivnou bestii zrozen
 tagRelicSkillC010Name=Aura smrtícího mrazu
 tagRelicSkillC010Desc=Posílí příšerným mrazem smrti tvé útoky a útoky těch spojenců, kteří jsou v blízkosti. ^oTato schopnost musí být nastavena jako výchozí typ útoku, aby účinkovala.
 
-tagRelicSkillC011Name=Objeť
+tagRelicSkillC011Name=Oběť
 tagRelicSkillC011Desc=Spoutá tvou mízu, aby posílila útoky samotnou životní silou.
 
 tagRelicSkillC012Name=Horlivost
-tagRelicSkillC012Desc=Push the advantage, unleashing a flurry of attacks upon landing a critical blow. ^oVyžaduje chladnou zbraň.
+tagRelicSkillC012Desc=Využij výhodu a jakmile zasadíš kritický zásah, spusť vlnu úderů. ^oVyžaduje chladnou zbraň.
 
-tagRelicSkillC013Name=Desolation
-tagRelicSkillC013Desc=Corrupt the very earth beneath your feet and leave it a poisonous field of death.
+tagRelicSkillC013Name=Spoušť
+tagRelicSkillC013Desc=Znič samotnou zemi pod tvými nohami a zanech ji jako smrtící jedovaté pole.
 
-tagRelicSkillC014Name=Blight
-tagRelicSkillC014Desc=Surround yourself with a cloud of blight, countless diseases capable of infecting anything they come in contact with.
+tagRelicSkillC014Name=Plíseň
+tagRelicSkillC014Desc=Obklop se oblakem plísně, jež je nespočetným množstvím chorob schopná nakazit cokoliv, co s ní přijde do styku.
 
-tagRelicSkillC015Name=Ancestral Bond
-tagRelicSkillC015Desc=Your ancestral bond with your minions unlocks power within them previously thought impossible. ^oTato schopnost musí být nastavena jako výchozí typ útoku, aby účinkovala.
+tagRelicSkillC015Name=Pouto s předky
+tagRelicSkillC015Desc=Pouto k předkům tvým posluhovačům odkryje síly, které pro ně předtím byly nepředstavitelné. ^oTato schopnost musí být nastavena jako výchozí typ útoku, aby účinkovala.
 
-tagRelicSkillD001Name=Aegis
-tagRelicSkillD001Desc=Imbue your shield with divine light, protecting you from further harm as it absorbs incoming blows.
+tagRelicSkillD001Name=Pod ochranou
+tagRelicSkillD001Desc=Naplní tvůj štít božským světlem a ochrání tě od dalších zranění díky tomu, že pohlcuje rány na tebe vedené.
 
-tagRelicSkillD002Name=Malediction
-tagRelicSkillD002Desc=Imbue your weapons with caustic poisons and virulent disease, infecting your enemies with every strike. ^oTato schopnost musí být nastavena jako výchozí typ útoku, aby účinkovala.
+tagRelicSkillD002Name=Prokletí
+tagRelicSkillD002Desc=Obohatí tvé zbraně žíravými jedy a zhoubnou chorobou, díky čemuž infikuješ své nepřátele každou ranou. ^oTato schopnost musí být nastavena jako výchozí typ útoku, aby účinkovala.
 
-tagRelicSkillD003Name=Summon Nemesis
-tagRelicSkillD003Desc=Call forth Nemesis, demigod of the shadows and lord of the night hunt. ^oYou can only summon one manifestation of Nemesis at any one time.
+tagRelicSkillD003Name=Přivolání Nemesis
+tagRelicSkillD003Desc=Přivolá Nemesis, polobohyni stínů a paní nočního lovu. ^oZtělesnění Nemesis může V jeden čas být vyvoláno pouze jednou.
 
-tagRelicSkillD004Name=Citadel
-tagRelicSkillD004Desc=Empower your defenses and those of your allies to become a moving fortress. ^oVyžaduje štít. Tato schopnost musí být nastavena jako výchozí typ útoku, aby účinkovala.
+tagRelicSkillD004Name=Citadela
+tagRelicSkillD004Desc=Posílí tvou obranu a obranu tvých spojenců a stanete se tak chodícími pevnostmi. ^oVyžaduje štít. Tato schopnost musí být nastavena jako výchozí typ útoku, aby účinkovala.
 
-tagRelicSkillD005Name=Stormcaller Aura
-tagRelicSkillD005Desc=Empower yourself and your allies with the power of a lightning storm. ^oTato schopnost musí být nastavena jako výchozí typ útoku, aby účinkovala.
+tagRelicSkillD005Name=Aura vyvolávače bouří
+tagRelicSkillD005Desc=Posilni sebe a tvé spojence silou bouře. ^oTato schopnost musí být nastavena jako výchozí typ útoku, aby účinkovala.
 
-tagRelicSkillD006Name=Reckoning
-tagRelicSkillD006Desc=A vicious reckoning upon those who strike you that leaves them vulnerable to a counterattack.
+tagRelicSkillD006Name=Odplata
+tagRelicSkillD006Desc=Brutální odplata těm, jež na tebe útočí v podobě toho, že jsou ponecháni zranitelní vůči protiútoku.
 
-tagRelicSkillD007Name=Scourge Strike
-tagRelicSkillD007Desc=Strike at your enemies with a chilling blow that cuts to their very core with death's chill, returning some of the stolen vitality to you. ^oVyžaduje chladnou zbraň.
+tagRelicSkillD007Name=Morová rána
+tagRelicSkillD007Desc=Zaútoč na tvé nepřátele mrazivým útokem, který se zaryje až do jejich samotného jádra se smrtícím chladem, čímž ti bude část uloupené vitality navrácena. ^oVyžaduje chladnou zbraň.
 
-tagRelicSkillD008Name=Pyroclasm
-tagRelicSkillD008Desc=Unleash a storm of hellfire that tears through the heavens to descend upon your enemies.
+tagRelicSkillD008Name=Ohnivé peklo
+tagRelicSkillD008Desc=Rozpoutá bouři pekelného ohně, který se prorve skrze nebesa, aby padl na tvé nepřátele.
 
-tagRelicSkillD009Name=Necrosis
-tagRelicSkillD009Desc=Invoke a debilitating curse upon your enemies, causing their flesh to rot and their senses to slow.
+tagRelicSkillD009Name=Nekróza
+tagRelicSkillD009Desc=Přivolá oslabující kletbu na tvé nepřátele, jež způsobí hnilobu jejich masa a kostí a zpomalí jejich smysly.
 
-tagRelicSkillD010Name=Summon Flesh Hulk
-tagRelicSkillD010Desc=Perform a forbidden ritual reminiscent of the Arcanist Agrivix's old techniques, summoning a Flesh Hulk to do your bidding.
+tagRelicSkillD010Name=Vyvolání obra z masa a kostí
+tagRelicSkillD010Desc=Proveď zakázaný rituál připomínající staré techniky arkanisty Agrivixe a vyvolej tak obra z masa a kostí, který bude vykonávat rozkazy.
 
-tagRelicSkillD011Name=Oblivion
-tagRelicSkillD011Desc=Unleash the pure destructive force of chaos upon your enemies.
+tagRelicSkillD011Name=Zapomnění
+tagRelicSkillD011Desc=Rozpoutá čistě destruktivní sílu chaosu zaměřenou na tvé nepřátele.
 
-tagRelicSkillD012Name=Carnage
-tagRelicSkillD012Desc=The more carnage and devastation you cause, the easier it becomes to do so once again. ^oToto je technika dvou zbraní.
+tagRelicSkillD012Name=Krveprolití
+tagRelicSkillD012Desc=Čím více krve proliješ a škody způsobíš, tím lehčeji se to zopakuje. ^oToto je technika dvou zbraní.
 
 tagRelicSkillD013Name=Meteor
-tagRelicSkillD013Desc=Rip through the fragile barrier between the nether and the mortal realm as you conjure a massive burning rock to drop upon your enemies.
+tagRelicSkillD013Desc=Tebou vyvolaný masivní hořící kámen se prorve skrze křehkou bariéru mezi světem živých a prázdnotou a dopadne na tvé nepřátele.
 
-tagRelicSkillD014Name=Vengeance
-tagRelicSkillD014Desc=Unleash the combined energy of the blows absorbed by your shield in one devastating shockwave.
+tagRelicSkillD014Name=Pomsta
+tagRelicSkillD014Desc=Jak se ve štítu kumuluje energie z úderů, je uvolněna v jednu devastující tlakovou vlnu.
 
-tagRelicSkillD015Name=Swarm Mind
-tagRelicSkillD015Desc=The rhythmic pace of your never-ending strife calls forth a Swarmling to your aid.
+tagRelicSkillD015Name=Mysl hejna
+tagRelicSkillD015Desc=Rytmické tempo tvého nekonečného sporu přivolá na pomoc Swarmlinga.
 
-tagRelicSkillD016Name=Devastation
-tagRelicSkillD016Desc=Unleash the fury of Solael upon any who would dare strike his chosen servant.
+tagRelicSkillD016Name=Devastace
+tagRelicSkillD016Desc=Uvolní Solaelovu zlobu na ty, kteří se opováží napadnout jeho služebníka.
 
-tagRelicSkillD017Name=Dreeg's Afflicted Spines
-tagRelicSkillD017Desc=Unleash a ring of Dreeg's poisonous spines upon your unsuspecting foes, infecting them with the great one's blood.
+tagRelicSkillD017Name=Dreegovy nemocí sužované bodliny
+tagRelicSkillD017Desc=Uvolní prstenec Dreegových jedovatých bodlin na nic netušící nepřátele a infikuje je krví mocného.
 
-tagRelicSkillD018Name=Frenzied Devotion
-tagRelicSkillD018Desc=Seeing their master injured drives your minions into a vicious frenzy.
+tagRelicSkillD018Name=Horečná oddanost
+tagRelicSkillD018Desc=Vidět svého pána raněného dohání tvé sluhy ke krutému záchvatu zuřivosti.
 
-tagRelicSkillD019Name=Oleron's Wrath
-tagRelicSkillD019Desc=Become empowered with the power of the war god's blood, unleashing his wrath upon nearby enemies.
+tagRelicSkillD019Name=Oleronova zloba
+tagRelicSkillD019Desc=Buď posilněn silou krve válečného boha a rozpoutej hněv nad blízkými nepřáteli.
 
-tagRelicSkillD020Name=Menhir's Bastion
-tagRelicSkillD020Desc=Become empowered with the protective spirit of Menhir, shielding yourself and your allies from physical harm. ^oVyžaduje štít.
+tagRelicSkillD020Name=Menhirova bašta
+tagRelicSkillD020Desc=Buď posilněn ochraňujícím duchem Menhira a ochraň tak sebe a své spojence před fyzickou újmou.^oVyžaduje štít.
 
 
 
@@ -1306,13 +1306,13 @@ tagReallocateError02=Nemáš dostatek železných mincí pro odstranění dalš�
 tagReallocateError03=Nemůžeš odstranit body ze svého povolání.
 tagDecreaseMasteryError=Z povolání nelze získat zpět body dovednosti.
 tagReclaimPoint=Kliknutím získáš zpět bod dovednosti (Cena {^y}{%t0}{^-})
-tagReclaimBase=Odstraň vlasnosti pro navrácení posledního bodu dovednosti
+tagReclaimBase=Odstraň vlastnosti pro navrácení posledního bodu dovednosti
 tagReclaimNoPoints=Žádné body k navrácení
 tagReclaimNoGold=Nedostatek železných mincí (Cena {^y}{%t0}{^r})
 tagReallocateTitle=Přerozdělení dovedností
 tagReallocationDescription=Klinutím na ikonku dovednosti odstraníš bod dovednosti. Cena se zvyšuje s každým odebraným bodem dovednosti.
 
-tagTemplateNamePřejmenuj mě
+tagTemplateName=Přejmenuj mě
 tagTemplateDescription=Popiš mě
 
 #ItemSets
