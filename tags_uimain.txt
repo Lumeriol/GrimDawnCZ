@@ -1,4 +1,4 @@
-tagTitleScreenText=Grim Dawn Alpha{^n}©2014 Crate Entertainment, LLC{^n}{^n}Vítej ve hře Grim Dawn Alpha! Vážíme si tvé zpětné vazby.{^n}{^n}Navštiv prosím naše webové stránky www.grimdawn.com pro podílení se{^n}na pokračujícím vývoji hry Grim Dawn!
+tagTitleScreenText=Grim Dawn Early Access{^n}©2014 Crate Entertainment, LLC{^n}{^n}Vítej ve hře Grim Dawn Early Access! Vážíme si tvé zpětné vazby.{^n}{^n}Navštiv prosím naše webové stránky www.grimdawn.com pro podílení se{^n}na pokračujícím vývoji hry Grim Dawn!
 tagMenu01=Hrát Grim Dawn
 tagMenu02=Hrát vlastní hru
 tagMenu03=Informace
@@ -225,20 +225,22 @@ tagWindowed=Okno
 tagVideoOptionDepthOfField=Hloubka ostrosti
 tagVideoOptionSoftParticles=Drobné detaily
 tagVideoOptionUIScale=UI škálování
+
 tagMultiplayer01=Název hry
 tagMultiplayer02=Obtížnost
 tagMultiplayer03=Mapa
 tagMultiplayer04=Hráči
 tagMultiplayer05=Ping
 tagMultiplayer06=Přehled
-tagMultiplayer07=Filtr:
+tagMultiplayer07=Filtr názvu hry:
 tagMultiplayer08=Skrýt:
 tagMultiplayer09=Nedostupná mapa
-tagMultiplayer10=Obsazené hry
-tagMultiplayer11=Zamčené hry
+tagMultiplayer10=Skrýt obsazené hry
+tagMultiplayer11=Skrýt uzamčené hry
 tagMultiplayer12={%d0} / {%d1} 
 tagMultiplayer13={%d0} hodin {%d1} minut {%d2} sekund
 tagMultiplayer14=Zamčeno
+
 tagMultiStats01=Mapa:
 tagMultiStats02=Hráči: {%d0} / {%d1}
 tagMultiStats03=Obtížnost:
@@ -246,6 +248,7 @@ tagMultiStats04=Uplynulý čas:
 tagMultiStats05=Rozsah úrovní +/-
 tagMultiButtonRefresh=Obnovit
 tagMultiNameFormat={%t0} (Úroveň {%d0})
+
 tagDefaultMap=Grim Dawn
 tagMenuErrorTitle=Informace
 tagMenuError07=Zadej prosím jméno své postavy.
@@ -315,12 +318,7 @@ tagLanguagePatchError=Hře Grim Dawn se nepodařilo aktualizovat originální di
 tagMenuPatcher01=Aktualizuji originální soubory hry Grim Dawn…
 tagMenuPatcher02=Chyba v souboru:
 tagGameSummary={%d0} her / {%d1} hráčů
-tagLobbyLock=Zamčeno na heslo
-tagLobbyDifficulty=Obtížnost
-tagLobbyAutoparty=Automatické sdružování povoleno
-tagLobbyLanguage=Jazyk
-tagLobbyPVP=PvP povoleno
-tagLobbyPlayers=Hráči ve hře / Maximální počet hráčů
+
 tagCharCreatePVP=PvP
 tagCharCreateAutoParty=Automatické sdružování
 tagCharCreatePVPwarning=Právě jsi povolil režim PvP (Souboj hráče proti hráči). V tomto režimu můžeš zaútočit na jiné hráče, ale i oni mohou útočit na tebe. Poznámka: Hra může být v režimu PvP nebo Automatické sdružování, ale ne v obojím najednou.
@@ -330,6 +328,17 @@ tagCharImportTQCampaign=Postavy z kampaně Grim Dawn
 tagCharImportTQCustom=Postavy z vlastní hry Grim Dawn
 tagCharImportTQXCampaign=Postavy z kampaně Grim Dawn
 tagCharImportTitle=Importovat postavy
+
+tagLobbyLock=Zamčeno na heslo
+tagLobbyDifficulty=Obtížnost
+tagLobbyAutoparty=Automatické sdružování povoleno
+tagLobbyLanguage=Jazyk
+tagLobbyPVP=PvP povoleno
+tagLobbyNormalDifficulty=Normální obtížnost
+tagLobbyEliteDifficulty=Elitní obtížnost
+tagLobbyUltimateDifficulty=Ultimátní obtížnost
+tagLobbyChallenge=Veteránská obtížnost
+tagLobbyPlayers=Hráči ve hře / Maximální počet hráčů
 tagLobbySearchTitle=Pokročilé hledání
 tagLobbySearchPingBelow=Ping nižší než
 tagLobbySearchMaxPlayers=Maximální počet hráčů
@@ -348,6 +357,36 @@ tagLobbyDirectIP=IP:
 tagLobbyDirectPort=Port:
 tagLobbyDirectSave=Uložit
 tagLobbyDirectCancel=Zrušit
+tagLobbyCurrentQuest=Current Quest:
+tagLobbyPlayersTitle=Players:
+tagLobbyServerTypeTitle=Server Type:
+tagLobbyServerTypeAll=All
+tagLobbyServerTypeFriends=Friends
+tagLobbyServerTypeRecent=Recent
+
+tagCharDetailsPlayerLevel=Level:
+tagCharDetailsItemLevel=Item Level:
+tagCharDetailsPlayerLocation=Location:
+tagCharDetailsFaction=Faction Status:
+tagCharDetailsActiveQuests=Active Quests:
+
+tagDirectConnectMenuConnecting=Connecting to Server {%t0}
+tagDirectConnectMenuStatus1=Contacting Server...
+tagDirectConnectMenuStatus2=Connecting to Server...
+tagDirectConnectMenuStatus3=Connection complete, launching game.
+
+
+tagFriendOffline=Offline
+tagFriendOnline=Online
+tagFriendBusy=Busy
+tagFriendAway=Away
+tagFriendUnknown=Status Unknown
+tagFriendPlayingGrimDawnSP=Playing Grim Dawn Offline
+tagFriendPlayingGrimDawnMP=Playing Grim Dawn Online
+tagFriendAddButton=Add Friend
+tagFriendJoinGameButton=Join Game
+
+
 tagOptionOff=Vypnuto
 tagVideoOptionTripleBuffering=Trojitý buffering
 tagVideoOptionCameraShake=Otřesy kamery
@@ -363,4 +402,4 @@ tagOverwriteKeymap=Funkce ^y{%t0}^w už je přiřazena na klávesu ^y{%t1}^w. Ch
 tagHardDiskError=Tvému počítači dochází místo na pevném disku. Grim Dawn tak může mít problémy s ukládáním hry. Abys tomuto problému předešel, zkus uvolnit nějaké místo na disku.
 tagMenuError10=Nepodařilo se připojit k serveru. Režim nebo verze mapy neodpovídá hostitelské verzi.
 
-tagReportUsageStats=Vítej ve hře Grim Dawn Alpha.{^n}Pomoz nám prosím zlepšit Grim Dawn tím, že budeš pravidelně posílat anonymní systémové a herní statistiky.
+tagReportUsageStats=Vítej ve hře Grim Dawn Early Access.{^n}Pomoz nám prosím zlepšit Grim Dawn tím, že budeš pravidelně posílat anonymní systémové a herní statistiky.

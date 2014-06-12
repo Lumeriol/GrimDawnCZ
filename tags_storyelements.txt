@@ -50,6 +50,7 @@ tagMapCronleysHideout=Cronleyův úkryt
 tagMapJaggedWaste=Jagged Waste
 tagMapDeadmansGulch=Deadman's Gulch
 tagMapHighpass=High Pass
+tagMapAlpineRoad=Alpine Road
 
 tagMapLedgewood01=Ledgewood
 tagMapWitheringFields01=Schnoucí pole
@@ -114,6 +115,7 @@ tagRiftTwinFalls=Portál u Dvojspádů
 tagRiftHighPass=Portál ve Vrchním průsmyku
 tagRiftJaggedWaste=Jagged Waste Rift
 tagRiftDeadmansGulch=Deadman's Gulch Rift
+tagRiftAlpineRoad=Alpine Road Rift
 
 tagRiftWitheringFields=Portál na Schnoucích polích
 tagRiftHomestead=Portál v Homestead
@@ -367,9 +369,9 @@ tagNPC_Flavor_Homestead_03=Helen Fletcher
 tagNPC_Flavor_Homestead_04=Julius Cole
 tagNPC_Flavor_Homestead_05=
 tagNPC_Flavor_Homestead_06=Jebediah
-tagNPC_Flavor_Homestead_07=Oskar
+tagNPC_Flavor_Homestead_07=Oscar
 tagNPC_Flavor_Homestead_08=Judith
-tagNPC_Flavor_Homestead_09=Oskar Jr.
+tagNPC_Flavor_Homestead_09=Oscar Jr.
 tagNPC_Flavor_Homestead_10=Injured Rover
 tagNPC_Flavor_Homestead_11=Amkala
 tagNPC_Flavor_Homestead_12=Horace
@@ -382,10 +384,10 @@ tagNPC_Flavor_Necropolis_03=Maria Oldbarrow
 #Quest Items
 
 tagQuestItemHartsAmulet_Name=Hartův amulet
-tagQuestItemHartsAmulet_Text=^b"Mému drahému bratrovi: Ať tě tento amulet učiní v boji silným. -Sybil"
+tagQuestItemHartsAmulet_Text="Mému drahému bratrovi: Ať tě tento amulet učiní v boji silným. -Sybil"
 
 tagQuestItemCultistKey_Name=Zvláštní klíč
-tagQuestItemCultistKey_Text=^b"Na klíči je vyryto mnoho podivných run a chlípných symbolů charakteristických pro Ch'thonův kult."
+tagQuestItemCultistKey_Text="Na klíči je vyryto mnoho podivných run a chlípných symbolů charakteristických pro Ch'thonův kult."
 tagQuestItemDirections_Name=Direniho instrukce
 tagQuestItemDirections_Text=Dohoda je dohoda: Kultisté si pohodlně sedí na zadku v horách mimo trasy obyčejných cestovatelů. Vydej se k rozbitému mostu u Burrwitchskhom předměstí. Až tam budeš, obejdi celý útes, dokud nenarazíš na cestu vedoucí do skal.{^n}{^n}Jakmile nalezneš muže v krví nasáklých róbách, velících temným silám, jsi na správném místě. Vstup do svatyně vede skrz jejich tábor a je vytesaný do úbočí hory.
 
@@ -394,22 +396,22 @@ tagQuestItemLostJournal_Name=Řád kultistů
 tagQuestItemLostJournal_Text="Bratři krve,{^n}{^n}Přítomnost Aetherianských stvoření v Burrwitchi sílí s každým dalším dnem. Své aktivity přesouváme za hranice města, kde můžeme nerušeně pokračovat v našich plánech. Nyní se zaměřujeme na Ďáblův průsmyk, kde náš nejnovější zástupce Direni úspěšně sabotoval jejich vodní čerpadlo. Brzy bude tahle protivná skupinka nucena opustit své útočiště a hned poté je vezmeme na milost. Připravte se, bratři. Brzy budeme pít jejich krev!{^n}{^n}Salazar, Čepel Ch'thona"
 
 tagQuestItemDynamite=Dynamit
-tagQuestItemDynamiteDesc=^b"Surová výbušnina kdysi umístěná ničitely, aby čelili ničivým silám uživatelů magie."
+tagQuestItemDynamiteDesc="Surová výbušnina kdysi umístěná ničitely, aby čelili ničivým silám uživatelů magie."
 tagQuestItemSupplies=Bedna se zásobami
-tagQuestItemSuppliesDesc=^b"Bedna plná cenných materiálů a nekazícího se zboží."
+tagQuestItemSuppliesDesc="Bedna plná cenných materiálů a nekazícího se zboží."
 tagQuestItemSlithNecklace=Náhrdelník slithů
-tagQuestItemSlithNecklaceDesc=^b"Nošen šamany slithů, z důvodu známého pouze jim samotným."
+tagQuestItemSlithNecklaceDesc="Nošen šamany slithů, z důvodu známého pouze jim samotným."
 tagQuestItemFabric=Fabric
-tagQuestItemFabricDesc=^b"A little worn and stained, but otherwise in good condition."
+tagQuestItemFabricDesc="A little worn and stained, but otherwise in good condition."
 
 tagQuestItemSaltMineKey_Name=Klíč do Zapomenutých hlubin
-tagQuestItemSaltMineKey_Text=^b"Klíč k železným dveřím oddělujících Zapomenuté hlubiny od zbytku Corriganova dolu."
+tagQuestItemSaltMineKey_Text="Klíč k železným dveřím oddělujících Zapomenuté hlubiny od zbytku Corriganova dolu."
 
 tagQuestItemForgottenPassage=Zapomenutý průchod
-tagQuestItemForgottenPassage_Desc=^b"Roztříštěná mapa z minulosti Staré Arkovie. Nerozluštitelná bez zbývajících částí."
+tagQuestItemForgottenPassage_Desc="Roztříštěná mapa z minulosti Staré Arkovie. Nerozluštitelná bez zbývajících částí."
 
 tagQuestItemSmithHammer=Malleum Menhir
-tagQuestItemSmithHammer_Desc=^b"Staré kovářské kladivo, jež se dědí z generace na generaci. Je světdkem vzniku nesčetného množství artefaktů a bude u výroby mnoha dalších."
+tagQuestItemSmithHammer_Desc="Staré kovářské kladivo, jež se dědí z generace na generaci. Je svědkem vzniku nesčetného množství artefaktů a bude u výroby mnoha dalších."
 
 #Journals
 
@@ -489,7 +491,12 @@ tagLoreObj_FloodedPassageRuins01Text=The end of days is upon us! Glorious Arkovi
 
 tagLoreObj_FloodedPassageRuins02Name=Writings of Rolderathis - 2nd Entry
 tagLoreObj_FloodedPassageRuins02codexTitle=Rolderathis - 2nd Entry
-tagLoreObj_FloodedPassageRuins02Text=The blessings of Ishtak have failed us. The wards did not protect us.  The curse of Arkovia had found its way here.{^n}{^n}We are dying, yet we cannot die. My brothers and sisters tear at each other in their growing madness, only to rise again to renew the carnage once more.{^n}{^n}The gods have abandoned us. This wasn't to be our salvation. This was to be our tomb...
+tagLoreObj_FloodedPassageRuins02Text=The blessings of Ishtak have failed us. The wards did not protect us.  The curse of Arkovia had found its way here.{^n}{^n}We are dying, yet we cannot die. My brothers and sisters tear at each other in their growing madness, only to rise again and renew the carnage once more.{^n}{^n}The gods have abandoned us. This wasn't to be our salvation. This was to be our tomb...
+
+tagLoreObj_StepsOfTorment01Name=Writings of Zarthuzellan
+tagLoreObj_StepsOfTorment01codexTitle=Writings of Zarthuzellan
+tagLoreObj_StepsOfTorment01Text=The one they call Uroboruuk makes mockery of the gods. The Lord Executioner cut at his flesh, but the wounds refused to bleed. His limbs grow back; his skin is impervious to flame.{^n}{^n}I believe the time has come for me to descend into that vile place and deal with the heathen myself. We shall see how he reacts to the cleansing flame of the divine.
+
 
 #Random Burrwitch Notes
 tagLoreObj_BookA01Name=Ch'thonic Heresy - Page 1
@@ -588,16 +595,16 @@ tagStoreTitle_InventorA01=Vynálezkyně
 
 tagNPC_SmithA01=Angrim
 tagStoreTitle_SmithA01=Forgemaster
-tagStoreDesc_SmithA01_1={^b}Practiced Skill
+tagStoreDesc_SmithA01_1={}Practiced Skill
 tagStoreDesc_SmithA01_2=Angrim uses his many years of experience to forge deadly weapons and fortify armor.
 tagStoreDesc_SmithA01_3=
 tagStoreDesc_SmithA01_4=Crafted Weapons, Armor and Accessories are imbued with one of the following properties:
 
 tagNPC_SmithA02=Duncan
 tagStoreTitle_SmithA02=Arcane Blacksmith
-tagStoreDesc_SmithA02_1={^b}Arcane Forging
+tagStoreDesc_SmithA02_1={}Arcane Forging
 tagStoreDesc_SmithA02_2=Duncan uses experimental techniques to imbue weapons and armor with arcane properties.
 tagStoreDesc_SmithA02_3=
 tagStoreDesc_SmithA02_4=Crafted Weapons, Armor and Accessories are imbued with one of the following properties:
 
-tagStoreTitle_SmithA01=Kovář
+tagStoreTitle_SmithA03=Kovář
