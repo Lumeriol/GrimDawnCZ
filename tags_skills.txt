@@ -100,6 +100,8 @@ tagClass01SkillDescription03B=Neočekávanost a zuřivost tvého útoku rozhodí
 
 tagClass01SkillName04A=Válečný pokřik
 tagClass01SkillDescription04A=Válečný pokřik, po kterém tuhne krev v žilách, oslabí odhodlání tvých nepřátel a naruší jejich soustředění.
+tagClass01SkillName04C=Terrify
+tagClass01SkillDescription04C=Less resolute foes will flee at the sound of your fearsome challenge.
 tagClass01SkillName04B=Zlomení morálky
 tagClass01SkillDescription04B=Válečný pokřik ochromí morálku nepřítele, což způsobuje bezmocnost vůči tvé osobě.
 
@@ -116,7 +118,7 @@ tagClass01SkillDescription06B=Po známém bojovém mistrovi pojmenovaný útok v
 tagClass01SkillName07A=Bojový duch
 tagClass01SkillDescription07A=Místo toho, aby tě nepřátelské zásahy donutily k rezignaci umocňují tvůj hněv, což dodává tvým útokům extra sílu.
 tagClass01SkillName08A=Menhirova vůle
-tagClass01SkillDescription08A=Když se blíží tvá smrt, nepoddajná Mehrinova vůle tě naplní a obnoví tvé síly. ^oVyžaduje štít.
+tagClass01SkillDescription08A=Když se blíží tvá smrt, nepoddajná Mehrinova vůle tě naplní a obnoví tvé síly. ^oVyžaduje štít nebo obouruční chladnou zbraň.
 
 tagClass01SkillName09A=Polní velení
 tagClass01SkillDescription09A=Vyšší cit pro disciplínu a znalost bojové taktiky z tebe v žáru bitvy činí rozeného vůdce. ^oTato schopnost musí být nastavena jako výchozí typ útoku, aby účinkovala.
@@ -344,6 +346,8 @@ tagClass04SkillName01B=Hledač srdce
 tagClass04SkillDescription01B=S touto vylepšenou technikou jsou vyčarované Přízračné čepele tak ostré, že mohou protnout vícero cílů a neviditelná přízračná vlákna odčerpají vitalitu z obětí.
 tagClass04SkillName01C=Spodní hrana
 tagClass04SkillDescription01C=Posilní Přízračnou čepel temnou magií, odpornou technikou používanou pouze za těch nejzoufalejších podmínek.
+tagClass04SkillName01D=Frenetic Throw
+tagClass04SkillDescription01D=Dispense continuous volleys of phantasmal blades with frenetic speed but less killing power per blade.
 
 tagClass04SkillName02A=Úder ze stínu
 tagClass04SkillDescription02A=Lstivá kombinace iluze a duševního vychýlení ti umožňuje zdánlivě se vypařit a objevit znovu před obětí jako hrůzostrašný přízrak. ^oVyžaduje chladnou zbraň.
@@ -374,16 +378,16 @@ tagClass04SkillName05F=Poprava
 tagClass04SkillDescription05F=Nelítostný úder, uštědřený během chvilky kdy byla příležitost, s úmyslem rychle dorazit protivníka. Ti, kteří přežijí, nebudou s největší pravděpodobnosti žít dlouho. ^oToto je technika dvou zbraní.
 
 tagClass04SkillName06A=Dávka vzduchu
-tagClass04SkillDescription06A=Tajné techniky bojových umění Nočních lovců ti umožňují použít vitální dech, nazývaný také "pneuma", který nakrátko zvýší tvou sílu a rychlost. Urychlení metabolismu způsobené těmito vitálními nádechy také poskytuje minoritní léčbu. ^oTato technika vyžaduje chladné zbraně.
+tagClass04SkillDescription06A=Tajné techniky bojových umění Nočních lovců ti umožňují použít vitální dech, nazývaný také "pneuma", který nakrátko zvýší tvou sílu a rychlost. Urychlení metabolismu způsobené těmito vitálními nádechy také poskytuje minoritní léčbu. ^oTato technika vyžaduje jednoruční chladné zbraně.
 tagClass04SkillName06B=Tanec stínu
 tagClass04SkillDescription06B=Trénování v oblasti bojové meditace ti umožňuje dosáhnout klidu a jasné mysli uprostřed boje, kde můžeš propočítat trasu nepřátelských útoků a jemně se pohybovat, abys zajistil, že zbraně zasáhnou brnění a nebo odrazil projektily.
 tagClass04SkillName06C=Probouzení živlu
 tagClass04SkillDescription06C=Zkušené noční čepele mohou vytáhnout energii ze vzduchu a nebo dokonce ze zbraní, se kterými přišly do styku a dodají útok pronikavým chladem.
 
 tagClass04SkillName07A=Závoj stínu
-tagClass04SkillDescription07A=Psionický závoj zamlží mysl nepřátel v blízkosti, zatemní jejich zrak a sníží jejich efektivitu v boji. ^oTato schopnost musí být nastavena jako výchozí typ útoku, aby účinkovala.
+tagClass04SkillDescription07A=Psionický závoj zamlží mysl nepřátel v blízkosti, zpomalí jejich kroky a sníží jejich efektivitu v boji. ^oTato schopnost musí být nastavena jako výchozí typ útoku, aby účinkovala.
 tagClass04SkillName07B=Chlad noci
-tagClass04SkillDescription07B=Způsobí, že protivníci zasaženi Závojem stínu pocítí temné mrazení jak je tma obklopuje, což zpomalí jejich útoky a oslabí jejich mysl.
+tagClass04SkillDescription07B=Způsobí, že protivníci zasaženi Závojem stínu pocítí temné mrazení jak je tma obklopuje, což ovlivní jejich životy a oslabí obranu.
 
 tagClass04SkillName08A=Duch meče
 tagClass04SkillDescription08A=Vyvolá vířící se mrak smrtících mečů, který bude brázdit bojiště a krájet tvé nepřátele na kousky do té doby, než se nakonec promění ve sprchu zubatých úlomků.
@@ -606,7 +610,7 @@ tagItemSkillA007Name=Soustředění
 tagItemSkillA007Desc=Zaměřuje se na umění boje, čímž urychluje všechny útoky.
 
 tagItemSkillA008Name=Pud sebezáchovy
-tagItemSkillA008Desc=Při nízkém zdraví zvedne adrenalin a dočasně zvýší rychlost běhu.
+tagItemSkillA008Desc=Zvedne adrenalin a dočasně zvýší rychlost běhu.
 
 tagItemSkillA009Name=Nova z blesků
 tagItemSkillA009Desc=Uvolní výbuch energie blesku, což poškodí nepřátele v blízkosti.
@@ -694,6 +698,12 @@ tagItemSkillB024Desc=Zasáhni tvého protivníka drtivým úderem.
 
 tagItemSkillB025Name=Blesk
 tagItemSkillB025Desc=Tvůj cíl zasáhne blesk.
+
+tagItemSkillB026NameA=Spectral Strike
+tagItemSkillB026DescA=Disappear into the veil of the dead and re-emerge next to your intended target in an instant.
+tagItemSkillB026NameB=Rimefire
+tagItemSkillB026DescB=A ring of spectral flame expands around you.
+
 
 tagItemSkillC002Name=Kulový blesk
 tagItemSkillC002Desc=Oplácí kulovým bleskem, jež je vypuštěn směrem na útočníka, poškozujíc a omračujíc vše, co mu stojí v cestě.
@@ -828,6 +838,8 @@ tagItemSkillC042Desc=Přidá další zářez k již asi existujícímu tisíci, 
 
 tagItemSkillC043Name=Kruh nekonečného ohně
 tagItemSkillC043Desc=Vykoupej sám sebe ve spalujících plamenech, které vše kolem tebe spálí na škvarek, ale tebe zanechá nezraněným. ^oTato schopnost musí být nastavena jako výchozí typ útoku, aby účinkovala.
+tagItemSkillC043NameB=Ring of Everlasting Flame
+tagItemSkillC043DescB=Bathe yourself in incinerating flames that burn all around you to cinders, but leave you unharmed.
 
 tagItemSkillC044Name=Kletba zdrcujícího rozřešení
 tagItemSkillC044Desc=Mysl otupující zaříkávadlo, které otupí smysly tvých nepřátel a okrade je o vitalitu.
@@ -1009,7 +1021,7 @@ tagCompSkillA002Desc=Uvolní výbuch čisté Aetherické energie vůči tvému n
 tagCompSkillA003Name=Odstranění
 tagCompSkillA003Desc=Úder tvé zbraně je zničující pro Aetherické bytosti.
 
-tagCompSkillA004Name=Pronikavá aura
+tagCompSkillA004Name=Pronikavá aura I
 tagCompSkillA004Desc=Umocní tvé útoky a útoky tvých nejbližších spojenců probodávajícím úderem skrz zbroj. ^oTato schopnost musí být nastavena jako výchozí typ útoku, aby účinkovala.
 
 tagCompSkillA005Name=Čepelová ochrana I
@@ -1076,10 +1088,10 @@ tagCompSkillA025Name=Posvátný úder
 tagCompSkillA025Desc=Udeří na nepřátele devastujícím zásahem, který oslabí jejich odolnost proti živlům.
 
 tagCompSkillA026Name=Úder štítem
-tagCompSkillA026Desc=Udeř svého nepřítele štítem, slabší nepřátele můžeš úplně ochromit.
+tagCompSkillA026Desc=Udeř svého nepřítele štítem, slabší nepřátele můžeš úplně ochromit. ^oVyžaduje chladnou zbraň.
 
 tagCompSkillA027Name=Ostnatý štít
-tagCompSkillA027Desc=Udeř svého nepřítele štítem s ostny, na které ho nabodneš.
+tagCompSkillA027Desc=Udeř svého nepřítele štítem s ostny, na které ho nabodneš. ^oVyžaduje chladnou zbraň.
 
 tagCompSkillA028Name=Stříbrné ostří
 tagCompSkillA028Desc=Úder zbraní, který ničí Chtonické bytosti.
@@ -1089,6 +1101,15 @@ tagCompSkillA029Desc=Udeří tvého nepřítele zdrcující ranou.
 
 tagCompSkillA030Name=Udeření II
 tagCompSkillA030Desc=Udeří tvého nepřítele zdrcující ranou.
+
+tagCompSkillA031Name=Piercing Aura II
+tagCompSkillA031Desc=Empower your attacks and those of your nearby allies to pierce through armor. ^oThis ability must be toggled to maintain its effect.
+
+tagCompSkillA032Name=Aether Aura
+tagCompSkillA032Desc=Empower your attacks and those of your nearby allies with the aether itself. ^oThis ability must be toggled to maintain its effect.
+
+tagCompSkillA033Name=Chaos Strike
+tagCompSkillA033Desc=Strike at your enemies with the destructive power of the void.
 
 tagCompSkillB001Name=Démonický oheň
 tagCompSkillB001Desc=Vypustí nadpřirozený plamen k tvému nepříteli.
@@ -1107,7 +1128,12 @@ tagCompSkillB005Desc=Spal svého nepřítele temným plamenem Solaela.
 
 tagCompSkillB006Name=Oleronova moc
 tagCompSkillB006Desc=Úder zbraní, jež způsobí těžkou újmu nepříteli a ochromí ho.
-#Relic Skills
+
+
+
+
+
+
 
 tagRelicSkillB001Name=Kalamita
 tagRelicSkillB001Desc=Odpálí z tebe množství spalujících sirných kamenů.
@@ -1152,7 +1178,7 @@ tagRelicSkillC001Name=Posvátná spravedlnost
 tagRelicSkillC001Desc=Vynese spravedlivý rozsudek nad bezbožnými.
 
 tagRelicSkillC002Name=Živoucí pevnost
-tagRelicSkillC002Desc=Máš kůži jako kámen, díky které se stáváš téměř nedotknutelným, když na tebe nepřítel zaútočí mečem nebo pařátem. ^oVyžaduje štít.
+tagRelicSkillC002Desc=Máš kůži jako kámen, díky které se stáváš téměř nedotknutelným, když na tebe nepřítel zaútočí mečem, magií nebo něčím podobným. ^oVyžaduje štít.
 
 tagRelicSkillC003Name=Krvavá lázeň
 tagRelicSkillC003Desc=Brutální technika, která zanechává tvé nepřátele hojně krvácející, což vede k pomalé a bolestivé smrti. ^oToto je technika dvou zbraní. Také aplikuje schopnost ovládat dvě chladné zbraně.
@@ -1170,7 +1196,7 @@ tagRelicSkillC007Name=Strašení
 tagRelicSkillC007Desc=Vyvolej umučené duchy, kteří budou strašit tvé nepřátele a zchladí jejich krev.
 
 tagRelicSkillC008Name=Požár
-tagRelicSkillC008Desc=Rozpoutá čirý plamen tak intenzivní, že mu neodolá ani to nejtěžší brnění.
+tagRelicSkillC008Desc=Rozpoutá čirý plamen tak intenzivní, že mu neodolá ani to nejtěžší brnění. ^oThis is a channeled skill and must be held down to maintain.
 
 tagRelicSkillC009Name=Vyvolání Bouřného psa
 tagRelicSkillC009Desc=Přivolá oddaného Bouřného psa, podivnou bestii zrozenou z nebes. ^oV jeden čas může být vyvolán pouze jeden Bouřný pes.
