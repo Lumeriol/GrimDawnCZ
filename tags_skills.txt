@@ -100,8 +100,8 @@ tagClass01SkillDescription03B=Neočekávanost a zuřivost tvého útoku rozhodí
 
 tagClass01SkillName04A=Válečný pokřik
 tagClass01SkillDescription04A=Válečný pokřik, po kterém tuhne krev v žilách, oslabí odhodlání tvých nepřátel a naruší jejich soustředění.
-tagClass01SkillName04C=Terrify
-tagClass01SkillDescription04C=Less resolute foes will flee at the sound of your fearsome challenge.
+tagClass01SkillName04C=Vyděšení
+tagClass01SkillDescription04C=Méně rozhodní nepřátelé uprchnou za zvuků tvé hrůzu nahánějící výzvy.
 tagClass01SkillName04B=Zlomení morálky
 tagClass01SkillDescription04B=Válečný pokřik ochromí morálku nepřítele, což způsobuje bezmocnost vůči tvé osobě.
 
@@ -346,9 +346,8 @@ tagClass04SkillName01B=Hledač srdce
 tagClass04SkillDescription01B=S touto vylepšenou technikou jsou vyčarované Přízračné čepele tak ostré, že mohou protnout vícero cílů a neviditelná přízračná vlákna odčerpají vitalitu z obětí.
 tagClass04SkillName01C=Spodní hrana
 tagClass04SkillDescription01C=Posilní Přízračnou čepel temnou magií, odpornou technikou používanou pouze za těch nejzoufalejších podmínek.
-tagClass04SkillName01D=Frenetic Throw
-tagClass04SkillDescription01D=Dispense continuous volleys of phantasmal blades with frenetic speed but less killing power per blade.
-
+tagClass04SkillName01D=Zběsilé vrhnutí
+tagClass04SkillDescription01D=Spusť nekonečné salvy přízračných čepelí se zuřivou rychostí, ale každá z čepelí bude mít méně smrtící účinky.
 tagClass04SkillName02A=Úder ze stínu
 tagClass04SkillDescription02A=Lstivá kombinace iluze a duševního vychýlení ti umožňuje zdánlivě se vypařit a objevit znovu před obětí jako hrůzostrašný přízrak. ^oVyžaduje chladnou zbraň.
 tagClass04SkillName02B=Nidallin ospravedlňující konec
@@ -699,10 +698,10 @@ tagItemSkillB024Desc=Zasáhni tvého protivníka drtivým úderem.
 tagItemSkillB025Name=Blesk
 tagItemSkillB025Desc=Tvůj cíl zasáhne blesk.
 
-tagItemSkillB026NameA=Spectral Strike
-tagItemSkillB026DescA=Disappear into the veil of the dead and re-emerge next to your intended target in an instant.
-tagItemSkillB026NameB=Rimefire
-tagItemSkillB026DescB=A ring of spectral flame expands around you.
+tagItemSkillB026NameA=Spektrální útok
+tagItemSkillB026DescA=Ztrať se v závoji smrti a znovu se ve mžiku objev vedle zamýšleného cíle.
+tagItemSkillB026NameB=Mrazivý oheň
+tagItemSkillB026DescB=Okolo tvé postavy se rozvine kruh spektrálního ohně.
 
 
 tagItemSkillC002Name=Kulový blesk
@@ -838,8 +837,8 @@ tagItemSkillC042Desc=Přidá další zářez k již asi existujícímu tisíci, 
 
 tagItemSkillC043Name=Kruh nekonečného ohně
 tagItemSkillC043Desc=Vykoupej sám sebe ve spalujících plamenech, které vše kolem tebe spálí na škvarek, ale tebe zanechá nezraněným. ^oTato schopnost musí být nastavena jako výchozí typ útoku, aby účinkovala.
-tagItemSkillC043NameB=Ring of Everlasting Flame
-tagItemSkillC043DescB=Bathe yourself in incinerating flames that burn all around you to cinders, but leave you unharmed.
+tagItemSkillC043NameB=Kruh Nekonečného ohně
+tagItemSkillC043DescB=Vykoupej sám sebe ve spalujících plamenech, které vše kolem tebe spálí na škvarek, ale tebe zanechá nezraněným.
 
 tagItemSkillC044Name=Kletba zdrcujícího rozřešení
 tagItemSkillC044Desc=Mysl otupující zaříkávadlo, které otupí smysly tvých nepřátel a okrade je o vitalitu.
@@ -1102,14 +1101,14 @@ tagCompSkillA029Desc=Udeří tvého nepřítele zdrcující ranou.
 tagCompSkillA030Name=Udeření II
 tagCompSkillA030Desc=Udeří tvého nepřítele zdrcující ranou.
 
-tagCompSkillA031Name=Piercing Aura II
-tagCompSkillA031Desc=Empower your attacks and those of your nearby allies to pierce through armor. ^oThis ability must be toggled to maintain its effect.
+tagCompSkillA031Name=Pronikavá aura II
+tagCompSkillA031Desc=Umocní tvé útoky a útoky tvých nejbližších spojenců probodávajícím úderem skrz zbroj. ^oTato schopnost musí být nastavena jako výchozí typ útoku, aby účinkovala.
 
-tagCompSkillA032Name=Aether Aura
-tagCompSkillA032Desc=Empower your attacks and those of your nearby allies with the aether itself. ^oThis ability must be toggled to maintain its effect.
+tagCompSkillA032Name=Aetherická aura
+tagCompSkillA032Desc=Umocní tvé útoky a útoky tvých nejbližších spojenců samotným Aetherem.  ^oTato schopnost musí být nastavena jako výchozí typ útoku, aby účinkovala.
 
-tagCompSkillA033Name=Chaos Strike
-tagCompSkillA033Desc=Strike at your enemies with the destructive power of the void.
+tagCompSkillA033Name=Útok chaosem
+tagCompSkillA033Desc=Udeř na tvé nepřátele destruktivní silou z prázdnoty.
 
 tagCompSkillB001Name=Démonický oheň
 tagCompSkillB001Desc=Vypustí nadpřirozený plamen k tvému nepříteli.
@@ -1196,7 +1195,7 @@ tagRelicSkillC007Name=Strašení
 tagRelicSkillC007Desc=Vyvolej umučené duchy, kteří budou strašit tvé nepřátele a zchladí jejich krev.
 
 tagRelicSkillC008Name=Požár
-tagRelicSkillC008Desc=Rozpoutá čirý plamen tak intenzivní, že mu neodolá ani to nejtěžší brnění. ^oThis is a channeled skill and must be held down to maintain.
+tagRelicSkillC008Desc=Rozpoutá čirý plamen tak intenzivní, že mu neodolá ani to nejtěžší brnění. ^oToto je směrovaná dovednost a tlačítko musí být stisknuté, aby se dala ovládat.
 
 tagRelicSkillC009Name=Vyvolání Bouřného psa
 tagRelicSkillC009Desc=Přivolá oddaného Bouřného psa, podivnou bestii zrozenou z nebes. ^oV jeden čas může být vyvolán pouze jeden Bouřný pes.
