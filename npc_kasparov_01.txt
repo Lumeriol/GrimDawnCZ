@@ -1,43 +1,43 @@
 Kasparov
-Hello there, friend. What can Kasparov do for you?
-Can you provide me with Inventor services?
-Oh, that paltry stuff? Busy work! Speak with my apprentice. She handles the menial labor.
-Hmm, alright.
-Just passing through.
-Your allies have already provided me with the materials I required for my experiment. They are quite industrious.
-Very well.
-Hmm, yes? Do you have the dynamite we require?
-Here it is.
-Oh, good good! Let us start the experiment immediately! Darlet! Prep the blast furnace!
-Is this safe?
-Of course! I am fully confident that it will function as intended. Well, uh, there may be a slight chance that we will tear apart reality when the artifact is consumed by the conflagration...{^n}{^n}But chances of that are very low. So low! One in a billion. You're safe. Really.
-This can't end well.
-Aha! I was correct! Just look at these wonderful components. We can finally begin studying artifacts properly. If only the Erulan Museum Society could see me now. They would be absolutely furious!{^n}{^n}Oh, and uh, If you wish, you can have Darlet break down any items you find. Just bring her more explosives.
-I...um, thanks.
-I think I'll step back.
-Not yet.
-Hmm, yes? Do you have the dynamite we require?
-Where should I look?
-There are several run-down mines out past the northwest bridge, in the Arkovian Foothills and Old Arkovia. I'd start by looking there.
-I'll check them out.
-Not yet.
-Ah, there you are! Come, come, we have an errand you must perform immediately.
-Excuse me?
-Yes, at once. Do not tarry! There are experiments to be run and Darlet and I require explosive materials immediately. No time for questions. These magical artifacts aren't going to break themselves down, now are they?{^n}{^n}Are you still here? Head to the mines around the Arkovian Foothills and Old Arkovia immediately!
-Very well. I'll gather the explosives.
-Oh no, I'm not getting involved in another of your experiments.
-Will this Dynamite suffice?
+Vítej zde, příteli. Co pro tebe může Kasparov udělat?
+Můžeš mi poskytnout služby vynálezce?
+Oh, ty myslíš tu mizernou věc? Jsem zaneprázdněný prací! Promluv si s mou učnicí. To ona se stará o činnosti sluhy.
+Hmm, dobrá.
+Jenom procházím.
+Tví přátelé mi již poskytli všechen materiál, který jsem pro experiment potřeboval. Jsou opravdu pracovití.
+Dobře.
+Hm, ano? Máš dynamit, který potřebujeme?
+Tady je.
+Oh, dobře, dobře! Nech nás tedy začít s experimentem okamžitě! Darlet! Připrav vysokou pec!
+Je to bezpečné?
+Samozřejmě! Jsem zcela jistý, že to bude fungovat tak, jak je zamýšleno. No, uh, možná je tady malá šance, že roztrhneme realitu, až bude artefakt pohlcen konflagrací...{^n}{^n}Ale šance, že se to stane, je velmi malá. Tak malá! Jedna k miliardě. Jsi v bezpečí. Opravdu.
+Tohle nemůže dopadnout dobře.
+Ha! Měl jsem pravdu! Jen se podívej na ty úžasné komponenty! Konečně můžeme začít pořádně studovat artefakty. Kdyby mě tak společnost Erulanského muzea mohla nyní vidět! Úplně by zuřila!{^n}{^n}Oh, a uh, pokud chceš, můžeš využít Darlet a rozložit všechny předměty, co najdeš. Jenom přines víc výbušnin.
+Já...um, díky.
+Myslím, že ustoupím.
+Ještě ne.
+Hm, ano? Máš dynamit, který potřebujeme?
+Kde bych se měl podívat?
+Spousta uzavřených dolů je za severozápadním mostem, v Arkoviánském podhůří a Staré Arkovii. Já bych začal s hledáním pávě tam.
+Podívám se do nich.
+Ještě ne.
+Ah, tady jsi! Pojď, pojď, máme tady záležitost, kterou musíš ihned vyřídit.
+Prosím?
+Ano, konečně. Nezdržuj se! Jsou zde experimenty, které musejí být vyzkoušeny a Darlet a já potřebujeme neprodleně explozivní materiály. Není čas na otázky. Magické artefakty se samy o sobě nerozloží, nebo snad ano?{^n}{^n}Ještě pořád jsi tady? Zamiř ihned do dolů v okolí Arkoviánského podhůří a Staré Arkovie!
+Dobře. Posbírám ty výbušniny.
+Nene, nebudu se už zapojovat do žádného z tvých experimentů.
+Bude tenhle dynamit stačit?
 
-Did my allies deliver the Dynamite?
-Yes, yes. The experiment was a smashing, no...an explosive success! There may have been an explosion. But everyone was fine, really.{^n}{^n}You should speak to Darlet if you want anything else...uh, exploded.
+Doručili mí přátelé dynamit?
+Ano, ano. Experiment měl ohromný, ne...explozivní úsopěch! Možná to vybuchlo. Ale nikomu se nic nestalo, doopravdy. {^n}{^n}Měl by sis promluvit s Darlet, tedy pokud chceš ještě něco dalšího, uh... vyhodit do povětří.
 
-Oh no, not another experiment...
+Oh ne, už žádný další experiment...
 Ty ses vrátil! Je něco, s čím bych ti mohl pomoci?
 Můžeš mi poskytnout služby vynálezce?
 Oh, ty myslíš tu mizernou věc? Jsem zaneprázdněný prací! Promluv si s mou učnicí. To ona se stará o činnosti sluhy.
 Hmm, dobrá.
-Your allies have already rescued my incompetent apprentice. So I imagine we are finished, yes?
-Very well.
+Tví přátelé již zachránili mou neschopnou učnici. Takže předpokládám, že jsme hotovi, ano?
+Výborně.
 Vidím, že se moje líná asistentka konečně vrátila ze svého malého výletu. Dobře, dobře. Znovu ji zaměstnám.{^n}{^n}Zmínila se o tobě. Měl by sis s ní promluvit.
 Promluvím s ní.
 Podařilo se ti najít mou učnici? Jsem si docela jistý, že je v nějakém sklepení v Burrwitchských statcích. Můžeš jí přivést zpátky otevřením brány. Vlastně, pokud bys našel v okolí další lidi, mohl bys je přivést také.
@@ -47,8 +47,8 @@ Ty jsi ztratil učnici?
 Musím říct, že se za ni cítím tak trošku zodpovědný, když už je mojí učnicí. Mohl by jsi tam prosím jít a podívat se po té beznadějné holce?
 Budu se mít na pozoru.
 Dokáže se o sebe postarat.
-Ah, your allies have already provided me with everything I need. But thank you for asking.
-Very well.
+Ah, tví přátelé mi poskytli všechno, co jsem potřeboval. Ale děkuji za optání.
+Výborně.
 Přinesl jsi zpátky ty fragmenty Aetherických krystalů, které potřebuji?
 Tady jsou.
 Výborně, tyhle určitě budou pasovat! Jenom je dám sem do mého zařízení a... ale ne. To nené dobré, to není vůbec dobré. Ten puls, neměl z toho zařízení uniknout. Božíčku. Jedna, dvě, tři... ano, mé prsty jsou stále celé. Dostalo se to až k tobě? Jak se cítíš?
@@ -79,9 +79,9 @@ Um... myslím, že tady už jsme hotoví.
 
 
 Um... myslím, že tady už jsme hotoví.
-Did my ally deliver the crystals?
-Ah, yes yes! There was a bit of an...explosion, but I'm sure a little more Aether in your system won't do you the slightest harm. Ok... maybe it was a lot more. But you look fine! Fitter than ever.{^n}{^n}A real shame about the prototype though. Showed such promise. Perhaps if I had more fragments...
+Doručili mí spojenci ty krystaly?
+Ah, ano, ano! Byla to něco jako...exploze, ale jsem si jist, že troška Aetheru navíc v tvém systému ti vůbec nic neudělá. Ok... možná to byla mnohem větší troška. Ale vypadáš dobře! Lépe než kdy předtím.{^n}{^n}Ale toho prototypu je škoda. Vypadalo to tak slibně. Možná, že kdybych měl víc fragmentů...
 
-Um... I think we're done here.
+Um... myslím, že tady už jsme hotoví.
 Ah, ty musíš být ten posedlý! Slyšel jsem o těch potížích u šibenice, příšerná práce, nemám ji rád. {^n}{^n}Docela rád bych se o tobě dozvěděl víc, ale před tím by sis měl promluvit s kapitánem, než se budeš chtít pohybovat po kempu.
 Dobrá.
