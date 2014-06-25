@@ -1,4 +1,4 @@
-#prefix/quality/style/name/suffix concatenation
+﻿#prefix/quality/style/name/suffix concatenation
 
 tagItemNameOrder=${%_3a0}{%_3a1}{%_3a2}{%_s3}{%_3a4}
 
@@ -1245,7 +1245,7 @@ tagBlueprint_ArmorC004=Plánek: Explorer's Trousers
 tagBlueprint_AccessoryC001=Plánek: Maivenova čočka
 
 
-tagBlueprint_MiscA01=Plánek: Kostěný klíč
+tagBlueprint_MiscA01=Plánek: Univerzální klíč
 tagBlueprint_MiscA01Desc=An ancient crafting technique known only by a select few.
 
 tagBlueprint_MaterialA01=Plánek: Trs Aetherů
@@ -1385,7 +1385,7 @@ tagCraftMaterial_AncientHeart=Starověké srdce
 tagCraftMaterial_AncientHeart_Desc="Nepřestává tlouci v děsivě pravidelném rytmu, zatímco je ukryté ve tvém batohu."
 tagCraftMaterial_Manticore=Mantikoří oko (Nedostupné před 3. aktem)
 tagCraftMaterial_Mancitore_Desc="Bystré oko nepřekonatelného dravce."
-tagCraftMaterial_SkeletonKey=Kostěný klíč
+tagCraftMaterial_SkeletonKey=Univerzální klíč
 tagCraftMaterial_SkeletonKey_Desc="Pokud se dá věřit příběhům, tento klíč otevře téměř každé starobylé dveře."
 
 tagCraftRandomItemDesc=The blacksmith crafts an enchanted item appropriate to your level of at least magical quality.
