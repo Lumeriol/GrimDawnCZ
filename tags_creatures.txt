@@ -136,7 +136,7 @@ tagGhostBoss01=Baron Wradlith, Pán ztracených duší
 tagGhostBoss02=Nomos Dred
 tagGhostBoss03=Laudos Vagra
 tagGhostBoss04=Rhovena Kur
-tagGhostBoss05=Alkamos, Pán katů
+tagGhostBoss05=Alkamos, Vykonavatel spravedlnosti
 
 #CreatureGolem
 
