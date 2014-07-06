@@ -653,7 +653,7 @@ tagShoulderB003=[mp]vystouplé rytířské nárameníky
 tagShoulderB004=[mp]vystouplé plátové nárameníky
 tagShoulderB005=[mp]vrahovy rytířské nárameníky
 tagShoulderB006=[fp]vrahovy epolety
-tagShoulderB007=$[mp]Isaacovy rytířské nárameníky
+tagShoulderB007=[mp]Isaacovy rytířské nárameníky
 
 tagShoulderC001=Razorback's Spined Mantle
 tagShoulderC001Desc="Stitched together from the carcass of Razorback."

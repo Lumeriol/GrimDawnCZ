@@ -18,9 +18,9 @@ tagEnemyPossessedA01=Posedlý šlechtic
 tagEnemyPossessedB01=Posedlý kouzelník
 tagEnemyPossessedC01=Posedlý čaroděj
 
-tagEnemyAetherialA01=Aetherijský hlídač
-tagEnemyAetherialB01=Aetherijský přízrak
-tagEnemyAetherialC01=Aetherijské zjevení
+tagEnemyAetherialA01=Aetherianský hlídač
+tagEnemyAetherialB01=Aetherianský přízrak
+tagEnemyAetherialC01=Aetherianské zjevení
 
 tagAetherialPhantomHeroH01=Aetherblaze
 tagAetherialPhantomHeroH02=Corpus ~ Stoupenec
@@ -341,14 +341,14 @@ tagInsectSwarmHeroH03=Omnol, Plíseň ~ Nemocný
 
 #Manticores
 
-tagEnemyManticoreB01=Manticore Blackmane
-tagEnemyManticoreB02=Manticore Nightstalker
-tagEnemyManticoreC01=Manticore Alpha
+tagEnemyManticoreB01=Černohřívnatá mantikora
+tagEnemyManticoreB02=Mantikoří noční stopař
+tagEnemyManticoreC01=Mantikoří alfa samec
 
-tagManticoreHeroH01=Raxa, the Jade Huntress
-tagManticoreHeroH02=Neleron, the Eyes of Death
-tagManticoreHeroH03=Uroxis Swiftclaw ~ Swift
-tagManticoreHeroH04=Waroxis Crimsonclaw ~ Bruiser
+tagManticoreHeroH01=Raxa, Nefritová lovkyně
+tagManticoreHeroH02=Neleron, Oko smrti
+tagManticoreHeroH03=Uroxis Swiftclaw ~ Rychlý
+tagManticoreHeroH04=Waroxis Crimsonclaw ~ Rváč
 
 #CreatureRaptor
 
@@ -545,28 +545,28 @@ tagBossTrollB02=Voldrak, Ničitel
 
 #Underdwellers
 
-tagEnemyCaveTrollHalfA01=Underdweller Brute
-tagEnemyCaveTrollHalfB01=Underdweller Savage
-tagEnemyCaveTrollHalfB02=Underdweller Mystic
-tagEnemyCaveGrobleA01=Underdweller Runt
-tagEnemyCaveGrobleB01=Underdweller Ritualist
-tagEnemyCaveTrollB01=Underdweller Troll
-tagEnemyCaveTrollC01=Underdweller Behemoth
-tagEnemyCaveSpiderA01=Terrorweave Spiderling
-tagEnemyCaveSpiderB01=Terrorweave Arachnid
-tagEnemyCaveSpiderB02=Terrorweave Widow
-tagEnemyCaveSpiderC01=Terrorweave Matriarch
+tagEnemyCaveTrollHalfA01=Jeskynní rváč
+tagEnemyCaveTrollHalfB01=Jeskynní hrubián
+tagEnemyCaveTrollHalfB02=Jeskynní mystik
+tagEnemyCaveGrobleA01=Jeskynní skrček
+tagEnemyCaveGrobleB01=Jeskynní kněz
+tagEnemyCaveTrollB01=Jeskynní zlobr
+tagEnemyCaveTrollC01=Jeskynní netvor
+tagEnemyCaveSpiderA01=Spřadač teroru ~ pavoučí mládě
+tagEnemyCaveSpiderB01=Spřadač teroru ~ pavoukovec
+tagEnemyCaveSpiderB02=Přadlena teroru ~ vdova
+tagEnemyCaveSpiderC01=Přadlena teroru ~ matka rodu
 
-tagCaveTrollHalfHeroH01=Glukrok, the Darkdweller
-tagCaveTrollHalfHeroH02=Algrok, the Blind Berserker
-tagCaveTrollHalfHeroH03=Savarok ~ Shielded
-tagCaveGrobleHeroH01=Akala ~ Swift
-tagCaveGrobleHeroH02=Ulbalak ~ Supporter
-tagCaveTrollHeroH01=Balglak, the Cave Warden
-tagCaveTrollHeroH02=Toros ~ Charger
-tagCaveSpiderHeroH01=Ungoliax, the Darkness
-tagCaveSpiderHeroH02=Vilaxna ~ Regenerator
-tagCaveSpiderHeroH03=Ravnix ~ Swift
+tagCaveTrollHalfHeroH01=Glukrok, Tajemný obyvatel
+tagCaveTrollHalfHeroH02=Algrok, Slepý zběsilec
+tagCaveTrollHalfHeroH03=Savarok ~ Chráněný
+tagCaveGrobleHeroH01=Akala ~ Rychlá
+tagCaveGrobleHeroH02=Ulbalak ~ Podporovatel
+tagCaveTrollHeroH01=Balglak, Správce jeskyně
+tagCaveTrollHeroH02=Toros ~ Nabíječ
+tagCaveSpiderHeroH01=Ungoliax, Temný
+tagCaveSpiderHeroH02=Vilaxna ~ Oživovač
+tagCaveSpiderHeroH03=Ravnix ~ Rychlý
 
 #Vultures
 
@@ -574,7 +574,7 @@ tagEnemyVultureSummon=Arkovianský kamenodráp
 tagEnemyVultureA01=Arkovianský skálodráp
 tagEnemyVultureB01=Arkovianský morozobák
 
-tagHeroVultureH01=Volaxna, Krvavá roklina
+tagHeroVultureH01=Volaxna, Krvavé hrdlo
 tagHeroVultureH02=Plaguewing ~ Nemocný
 tagHeroVultureH03=Harrowbeak ~ Nezastavitelný
 
@@ -585,7 +585,7 @@ tagEnemyWormB01=Zemilam ~ hnilobný červ
 
 
 tagWormHeroH01=Gravner, Požírač žluči
-tagWormHeroH02=Groundsplitter ~ Elektrizovaný
+tagWormHeroH02=Groundsplitter ~ Elektrizující
 tagWormHeroH03=Stonespitter ~ Chráněný
 
 #CreatureZombie
@@ -613,7 +613,7 @@ tagZombieHeroH04=Gilisten, Znovuzrozený
 tagZombieHeroH05=Bolvaris, Zrozený z ledu
 tagZombieHeroH06=Aldanar, Neumírající
 tagZombieHeroH07=Gutripper ~ Nezastavitelný
-tagZombieHeroH08=Teselon ~ Elektrizovaný
+tagZombieHeroH08=Teselon ~ Elektrizující
 tagZombieHeroH09=Blightfeast ~ Nabíječ
 tagZombieHeroH10=Alrick Magefire
 
