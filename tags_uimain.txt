@@ -357,34 +357,34 @@ tagLobbyDirectIP=IP:
 tagLobbyDirectPort=Port:
 tagLobbyDirectSave=Uložit
 tagLobbyDirectCancel=Zrušit
-tagLobbyCurrentQuest=Current Quest:
-tagLobbyPlayersTitle=Players:
-tagLobbyServerTypeTitle=Server Type:
-tagLobbyServerTypeAll=All
-tagLobbyServerTypeFriends=Friends
-tagLobbyServerTypeRecent=Recent
+tagLobbyCurrentQuest=Současný úkol:
+tagLobbyPlayersTitle=Hráči:
+tagLobbyServerTypeTitle=Druh serveru:
+tagLobbyServerTypeAll=Všichni
+tagLobbyServerTypeFriends=Přátelé
+tagLobbyServerTypeRecent=Nedávní
 
-tagCharDetailsPlayerLevel=Level:
-tagCharDetailsItemLevel=Item Level:
-tagCharDetailsPlayerLocation=Location:
-tagCharDetailsFaction=Faction Status:
-tagCharDetailsActiveQuests=Active Quests:
+tagCharDetailsPlayerLevel=Úroveň:
+tagCharDetailsItemLevel=Úroveň předmětů:
+tagCharDetailsPlayerLocation=Lokace:
+tagCharDetailsFaction=Prestiž frakce:
+tagCharDetailsActiveQuests=Aktivní úkoly:
 
-tagDirectConnectMenuConnecting=Connecting to Server {%t0}
-tagDirectConnectMenuStatus1=Contacting Server...
-tagDirectConnectMenuStatus2=Connecting to Server...
-tagDirectConnectMenuStatus3=Connection complete, launching game.
+tagDirectConnectMenuConnecting=Připojování k serveru {%t0}
+tagDirectConnectMenuStatus1=Vyhledávání spojení...
+tagDirectConnectMenuStatus2=Připojování k serveru...
+tagDirectConnectMenuStatus3=Spojení dokončeno, spouští se hra.
 
 
-tagFriendOffline=Offline
-tagFriendOnline=Online
-tagFriendBusy=Busy
-tagFriendAway=Away
-tagFriendUnknown=Status Unknown
-tagFriendPlayingGrimDawnSP=Playing Grim Dawn Offline
-tagFriendPlayingGrimDawnMP=Playing Grim Dawn Online
-tagFriendAddButton=Add Friend
-tagFriendJoinGameButton=Join Game
+tagFriendOffline=Nepřipojen
+tagFriendOnline=Připojen
+tagFriendBusy=Zaněprázdněný
+tagFriendAway=Pryč
+tagFriendUnknown=Neznámý stav
+tagFriendPlayingGrimDawnSP=Hrát Grim Dawn samostatně
+tagFriendPlayingGrimDawnMP=Hrát Grim Dawn připojený
+tagFriendAddButton=Přidat přítele
+tagFriendJoinGameButton=Připojit ke hře
 
 
 tagOptionOff=Vypnuto
