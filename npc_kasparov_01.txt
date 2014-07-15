@@ -1,7 +1,7 @@
 Kasparov
 Vítej zde, příteli. Co pro tebe může Kasparov udělat?
 Můžeš mi poskytnout služby vynálezce?
-Oh, ty myslíš tu mizernou věc? Jsem zaneprázdněný prací! Promluv si s mou učnicí. To ona se stará o činnosti sluhy.
+Oh, ty myslíš tu mizernou věc? Jsem zaneprázdněný prací! Promluv si s mou učednicí. To ona se stará o činnosti sluhy.
 Hmm, dobrá.
 Jenom procházím.
 Tví přátelé mi již poskytli všechen materiál, který jsem pro experiment potřeboval. Jsou opravdu pracovití.
@@ -29,22 +29,22 @@ Nene, nebudu se už zapojovat do žádného z tvých experimentů.
 Bude tenhle dynamit stačit?
 
 Doručili mí přátelé dynamit?
-Ano, ano. Experiment měl ohromný, ne...explozivní úsopěch! Možná to vybuchlo. Ale nikomu se nic nestalo, doopravdy. {^n}{^n}Měl by sis promluvit s Darlet, tedy pokud chceš ještě něco dalšího, uh... vyhodit do povětří.
+Ano, ano. Experiment měl ohromný, ne... explozivní úspěch! Možná to vybuchlo. Ale nikomu se nic nestalo, doopravdy. {^n}{^n}Měl by sis promluvit s Darlet, tedy pokud chceš ještě něco dalšího, uh... vyhodit do povětří.
 
-Oh ne, už žádný další experiment...
+Ale ne, už žádný další experiment...
 Ty ses vrátil! Je něco, s čím bych ti mohl pomoci?
 Můžeš mi poskytnout služby vynálezce?
-Oh, ty myslíš tu mizernou věc? Jsem zaneprázdněný prací! Promluv si s mou učnicí. To ona se stará o činnosti sluhy.
+Och, ty myslíš tu mizernou věc? Jsem zaneprázdněný prací! Promluv si s mou učednicí. To ona se stará o takovouto podřadnou práci.
 Hmm, dobrá.
-Tví přátelé již zachránili mou neschopnou učnici. Takže předpokládám, že jsme hotovi, ano?
+Tví přátelé již zachránili mou neschopnou učedici. Takže předpokládám, že jsme hotovi, ne?
 Výborně.
 Vidím, že se moje líná asistentka konečně vrátila ze svého malého výletu. Dobře, dobře. Znovu ji zaměstnám.{^n}{^n}Zmínila se o tobě. Měl by sis s ní promluvit.
 Promluvím s ní.
-Podařilo se ti najít mou učnici? Jsem si docela jistý, že je v nějakém sklepení v Burrwitchských statcích. Můžeš jí přivést zpátky otevřením brány. Vlastně, pokud bys našel v okolí další lidi, mohl bys je přivést také.
+Podařilo se ti najít mou učednici? Jsem si docela jistý, že je v nějakém sklepení v Burrwitchských statcích. Můžeš jí přivést zpátky otevřením brány. Vlastně, pokud bys našel v okolí další lidi, mohl bys je přivést také.
 Budu dál hledat.
-Ah, byli jsme tak moc zaměstnáni tou věcí s Bránou, že jsem úplně zapomněl na mou učnici, Darlet! {^n}{^n}Poslal jsem ji ven do Burrwitchských statků, aby se podívala po nějakých dílech pro náš výzkum a už je pryč až příliš dlouho. Vypadá to, že její hloupost se plně projevuje i mimo pracoviště.
-Ty jsi ztratil učnici?
-Musím říct, že se za ni cítím tak trošku zodpovědný, když už je mojí učnicí. Mohl by jsi tam prosím jít a podívat se po té beznadějné holce?
+Ah, byli jsme tak moc zaměstnáni tou věcí s Bránou, že jsem úplně zapomněl na mou učednici, Darlet! {^n}{^n}Poslal jsem ji ven do Burrwitchských statků, aby se podívala po nějakých dílech pro náš výzkum a už je pryč až příliš dlouho. Vypadá to, že její hloupost se plně projevuje i mimo pracoviště.
+Ty jsi ztratil učednici?
+Musím říct, že se za ni cítím tak trošku zodpovědný, když už je mojí učednicí. Mohl by jsi tam prosím jít a podívat se po té beznadějné holce?
 Budu se mít na pozoru.
 Dokáže se o sebe postarat.
 Ah, tví přátelé mi poskytli všechno, co jsem potřeboval. Ale děkuji za optání.
@@ -53,7 +53,7 @@ Přinesl jsi zpátky ty fragmenty Aetherických krystalů, které potřebuji?
 Tady jsou.
 Výborně, tyhle určitě budou pasovat! Jenom je dám sem do mého zařízení a... ale ne. To nené dobré, to není vůbec dobré. Ten puls, neměl z toho zařízení uniknout. Božíčku. Jedna, dvě, tři... ano, mé prsty jsou stále celé. Dostalo se to až k tobě? Jak se cítíš?
 Cítím se... silnější.
-Ah! Velmi dobře! Jsem si jist, že troška Aetheru navíc v tvém systému ti vůbec nic neudělá. Ok... možná to byla mnohem větší troška. Ale vypadáš dobře! Lépe než kdy předtím.{^n}{^n}Ale toho prototypu je škoda. Vypadalo to tak slibně. Možná, že kdybych měl víc fragmentů...
+Ah! Velmi dobře! Jsem si jist, že troška Aetheru navíc ve tvém organismu ti vůbec nic neudělá. Ok... možná to byla mnohem větší troška. Ale vypadáš dobře! Lépe než kdy předtím.{^n}{^n}Ale toho prototypu je škoda. Vypadalo to tak slibně. Možná, že kdybych měl víc fragmentů...
 Um... myslím, že tady už jsme hotoví.
 
 
@@ -62,7 +62,7 @@ Rád bych si s tebou popovídal, ale jsem opravdu zaneprázdněn s tímto protot
 Kdeže můžu najít ty fragmenty Aetherických krystalů?
 Porozhlédni se po velkých fragmentech krystalů, které nepřirozeně zeleně září. Jsou roztroušené po kraji, všude tam, kde Aetheriané zanechali jejich stopy. Nemělo by být těžké je najít, hlavně v místech, kde je velká koncentrace mrtvol. {^n}{^n}Zkontroloval bych hřbitov. Ale buď opatrný. Ty krystaly jsou v blízkosti živých trošku nestabilní.
 Přinesu nějaké zpátky.
-Vítej v mé dílně! Viděl jsem tě bojovat s mrtvými u Dolního rozcestí a troufám se říct, že jsi byl absolutně skvělý! Vypadá to, že odříznutí tě na šibenici bylo to nerozumnější rozhodnutí, které kapitán ten den udělal... {^n}{^n}Ah! Kde jsou moje způsoby? Já jsem Kasparov, věděc a vynálezce. Co tě přivádí do mého skromného obchodu?
+Vítej v mé dílně! Viděl jsem tě bojovat s mrtvými u Dolního rozcestí a troufám se říct, že jsi byl absolutně skvělý! Vypadá to, že odříznutí tě ze šibenice bylo to nejrozumnější rozhodnutí, které kapitán ten den udělal... {^n}{^n}Ah! Kde jsou moje způsoby? Já jsem Kasparov, věděc a vynálezce. Co tě přivádí do mého skromného obchodu?
 Kapitán říkal, že jsi se mnou chtěl mluvit?
 Brány, ach ano! Aetheriané je používají pro to, aby se sem dostali. Pracoval jsem na tom, jak je zavřít, ale pak jsi se z ní vynořil ty! {^n}{^n}Ještě nikdy jsme neviděli člověka, ať už posedlého či nikoliv, projít skrze jednu z nich. Vlastně nikoho, kdo žil... A právě tehdy jsem si uvědomil, že bysme ty portály mohly využít pro naše dobro! {^n}{^n}Něco na tobě je a má to spojitost s Branami a já mám v úmyslu to rozluštit!
 Počkat... Já co?
@@ -78,10 +78,9 @@ Ah! Velmi dobře! Jsem si jist, že troška Aetheru navíc v tvém systému ti v
 Um... myslím, že tady už jsme hotoví.
 
 
-Um... myslím, že tady už jsme hotoví.
-Doručili mí spojenci ty krystaly?
-Ah, ano, ano! Byla to něco jako...exploze, ale jsem si jist, že troška Aetheru navíc v tvém systému ti vůbec nic neudělá. Ok... možná to byla mnohem větší troška. Ale vypadáš dobře! Lépe než kdy předtím.{^n}{^n}Ale toho prototypu je škoda. Vypadalo to tak slibně. Možná, že kdybych měl víc fragmentů...
+Doručili moji spojenci ty krystaly?
+Ah, ano, ano! Byla to něco jako... exploze, ale jsem si jist, že troška Aetheru navíc ve tvém organismu ti vůbec nic neudělá. Ok... možná to byla mnohem větší troška. Ale vypadáš dobře! Lépe než kdy předtím.{^n}{^n}Ale toho prototypu je škoda. Vypadalo to tak slibně. Možná, že kdybych měl víc fragmentů...
 
 Um... myslím, že tady už jsme hotoví.
-Ah, ty musíš být ten posedlý! Slyšel jsem o těch potížích u šibenice, příšerná práce, nemám ji rád. {^n}{^n}Docela rád bych se o tobě dozvěděl víc, ale před tím by sis měl promluvit s kapitánem, než se budeš chtít pohybovat po kempu.
+Ah, ty musíš být ten posedlý! Slyšel jsem o těch potížích u šibenice, příšerná práce, nemám ji rád.{^n}{^n}Docela rád bych se o tobě dozvěděl víc, ale před tím by sis měl promluvit s kapitánem, než se budeš chtít pohybovat po tábořišti.
 Dobrá.
