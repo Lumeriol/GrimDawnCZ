@@ -1,28 +1,28 @@
 Balvoruuk
-Bud pozdraven.
-Mel bych nějaké otázky.
+Buď pozdraven.
+Měl bych nějaké otázky.
 Můžeš se ptát.
 Jak to, že tě nemrtví neobtěžují?
-Skryl jsem před nimi svou přítomnost a Kalderos je jen další duch kráčející Cairnem. Nicméně by tento klam neuspěl proti množství duchu kráčejících v Podzemním městě; je to tíživá situace.
-Mel bych ještě otázku.
+Skryl jsem před nimi svou přítomnost a Kalderos je jen další duch kráčející Cairnem. Nicméně by tento klam neuspěl proti množství duchů kráčejících v Podzemním městě; je to tíživá situace.
+Měl bych ještě otázku.
 Chápu.
 Proč jsi zde a likviduješ mrtvé?
 Hříchy Arkovie už nadále nemusí ničit tuto zemi. Dělám to, protože to tak musí být.
-Mel bych ještě otázku.
+Měl bych ještě otázku.
 Sbohem.
-Co je rád hlídky smrti?
-Vše co potřebuješ vedet je to, že jsem zde ve službách Cairnu.
-Mel bych ještě otázku.
+Co je Řád hlídky smrti?
+Vše co potřebuješ vědět je to, že jsem zde ve službách Cairnu.
+Měl bych ještě otázku.
 Dobrá.
 Už nic.
 Sbohem.
-Bud pozdraven.
+Buď pozdraven.
 Kde je Kelderos?
 Očekává tě v Trýznivých krocích, jak jsem přikázal. Trýznivé kroky leží v útrobách Sesutých kopců.
-Dekuji ti.
+Děkuji ti.
 
 Sbohem.
-Bud pozdraven.
+Buď pozdraven.
 Sbohem.
 Udělal jsi, oč jsem žádal?
 Oligarchové již nejsou.
@@ -32,13 +32,13 @@ Dobře.
 Sbohem.
 Udělal jsi, oč jsem žádal?
 Kam že to mám znovu jít?
-Musíš putovat do Arkovianského Podzemního města. Jeho vchod leží v ruinách na západ odtud. Tam najdeš duchy oligarchu. Vypuď jejich duše z tohoto světa!
+Musíš putovat do Arkovianského Podzemního města. Jeho vchod leží v ruinách na západ odtud. Tam najdeš duchy oligarchů. Vypuď jejich duše z tohoto světa!
 Půjdu tam hned teď.
 
 Sbohem.
-Bud pozdraven. Neznáš mne, ale já jsem o tobě slyšel. Já jsem Balvoruuk, z Rádu hlídky smrti. Tvé hrdinské činy mne přesvědčily, že bys mohl být osobou, kterou potřebuji pro můj...úkol.
+Buď pozdraven. Neznáš mne, ale já jsem o tobě slyšel. Já jsem Balvoruuk, z Řádu hlídky smrti. Tvé hrdinské činy mne přesvědčily, že bys mohl být osobou, kterou potřebuji pro můj...úkol.
 Úkol?
-Ano. Jsem zde od toho, abych tento kraj očistil od mnoha zlovolných duchu. Jejich poskvrněná přítomnost poškozovala Arkovii už dost dlouho.{^n}{^n}Nicméně mí páni podcenili úroveň toho, jak tito starodávní oligarchové sami sebe obklopili dalšími. Arkovianské Podzemní město se hemží mrtvými; musím přiznat, že je jich mnohem více, než jsem schopný zvládnout bez pomoci mých bratru. Ale ty, ty jsi rychle dokázal, že jsi tak mocnou odplatou, jakou tento svět ještě nikdy nespatřil. Jdi dolu do Podzemního města a znič duchy Nomose Reda, Laudose Vagra a Rhovenaa Kura. Až budeš hotov, vyhledej mého společníka, Kalderose, u vstupu do Trýznivých kroku. Povede tě směrem k tvému poslednímu cíli.
+Ano. Jsem zde od toho, abych tento kraj očistil od mnoha zlovolných duchů. Jejich poskvrněná přítomnost poškozovala Arkovii už dost dlouho.{^n}{^n}Nicméně mí páni podcenili úroveň toho, jak tito starodávní oligarchové sami sebe obklopili dalšími. Arkovianské Podzemní město se hemží mrtvými; musím přiznat, že je jich mnohem více, než jsem schopný zvládnout bez pomoci mých bratrů. Ale ty, ty jsi rychle dokázal, že jsi tak mocnou odplatou, jakou tento svět ještě nikdy nespatřil. Jdi dolů do Podzemního města a znič duchy Nomose Reda, Laudose Vagra a Rhovenaa Kura. Až budeš hotov, vyhledej mého společníka, Kalderose, u vstupu do Trýznivých kroků. Povede tě směrem k tvému poslednímu cíli.
 Splním ten úkol.
 To nemohu udělat.
 Oligarchy jsem již vypudil.
@@ -46,11 +46,11 @@ Skvělé. Má důvěra v tebe nebyla nesmyslná. Promluv si s Kalderosem v Trýz
 Dobrá.
 Nechci se tohohle zúčastnit.
 Ten duch, ty jsi snad nekromancer?
-Vyděsil tě Kalderos? Ano, já jsem z Rádu. Býval bych doufal, že vyvrhel jako jsi ty bude více schopný porozumět lidem jako já...Zde se střetáváme s realitou.{^n}{^n}Budeš nyní naslouchat mým problémům a nebo budeš dál civět do nemrtvých očí mého společníka?
-Co chceš, abych Udělal?
+Vyděsil tě Kalderos? Ano, já jsem z Řádu. Býval bych doufal, že vyvrhel jako jsi ty Bude více schopný porozumět lidem jako já...Zde se střetáváme s realitou.{^n}{^n}Budeš nyní naslouchat mým problémům a nebo Budeš dál civět do nemrtvých očí mého společníka?
+Co chceš, abych udělal?
 Mel bych tě zabít teď a tady.
-Ujišťuji tě, že jakákoliv forma nepřátelství vůči mne by byla marná snaha. Mimochodem, nejsem zde, abych se s tebou přel. Pokud nesplníš můj úkol, je pak naše shledání u konce.
+Ujišťuji tě, že jakákoliv forma nepřátelství vůči mně by byla marná snaha. Mimochodem, nejsem zde, abych se s tebou přel. Pokud nesplníš můj úkol, je pak naše shledání u konce.
 Co chceš, abych Udělal?
 Tady jsme skončili.
 S takovými jako jsi ty se nezabývám.
-Nechci to vedet.
+Nechci to vědět.
