@@ -15,9 +15,9 @@ tagGraveName=Hrob hráče ~ {%t0}
 tagGraveSlainBy={%t0} tě zabil
 tagGraveXPRecovered=Navrácené zkušenosti: {%d0}
 tagHeroXP={%d0} zkušeností za nepřátelského hrdinu
-tagBossXP={%d0} zkušeností za nepřátelského bosse
+tagBossXP={%d0} zkušeností za nepřátelského padoucha
 tagHeroKilled=Nepřátelský hrdina zabit
-tagBossKilled=Nepřátelský boss zabit
+tagBossKilled=Nepřátelský padouch zabit
 tagXPAwarded=Získáno {%d0} zkušeností
 
 tagUndo=Zpět
@@ -108,7 +108,7 @@ tagFactionStateFriend1=Přijatelný
 tagFactionStateFriend2=Přátelský
 tagFactionStateFriend3=Důvěryhodný
 tagFactionStateFriend4=Poctěný
-tagFactionStateFriend5=Ctěný
+tagFactionStateFriend5=Uctívaný
 tagFactionStateNemesis=Toužící po pomstě
 tagFactionStateHated=Nenáviděný
 tagFactionStateReviled=Nadávající
@@ -118,7 +118,7 @@ tagFactionStateSuspicious=Podezřelý
 tagFactionStateFriendly=Přátelský
 tagFactionStateTrusted=Důvěryhodný
 tagFactionStateHonored=Poctěný
-tagFactionStateRevered=Ctěný
+tagFactionStateRevered=Uctívaný
 
 #HUD
 
@@ -162,10 +162,10 @@ tagHUD_RightMouse=P
 tagHUDPortraitLevelUP=Nová úroveň
 tagHUDWeaponSwap=Přehození zbraní
 tagHUDWeaponSwapRoll=Přepíná mezi tvou výzbrojí.  Musíš být vyzbrojen sadou zbraní na alternativním slotu.
-tagHUDWeaponSwapHelpRoll=Před tím než budeš moci použít přehození zbraní, musíš se vyzbrojit druhou sadou zbraní do alternativních slotů v okně postavy.
+tagHUDWeaponSwapHelpRoll=Dříve než budeš moci použít přehození zbraní, musíš se vyzbrojit druhou sadou zbraní do alternativních slotů v okně postavy.
 
 tagHUDRiftgateButton=Cestování portálem
-tagHUDRiftgateButtonRoll=Rozerve vzduch a vytvoří malý vstup do brány s východem v některém z dříve objevených portálů nebo můžeš vyjít v některém z portálů tvého spojence.
+tagHUDRiftgateButtonRoll=Rozerve vzduch a vytvoří malý vstup do brány s východem v některém z dříve objevených portálů, nebo můžeš vyjít v některém z portálů tvého spojence.
 
 tagHUDQuickslot=Nepřiřazená rychlá volba
 tagHUDQuickslotRoll=Pravým tlačítkem přiřaď dovednost.
@@ -234,7 +234,7 @@ tagStatsResistance08Desc=Odolnost vůči ovládnutí mysli Aetherem a vůči ča
 tagStatsResistance09=Omráčení
 tagStatsResistance09Desc=Snižuje dobu trvání omračujících útoků a kouzel, po kterou nemůžeš reagovat na ostatní podněty.
 tagStatsResistance10=Chaos
-tagStatsResistance10Desc=Odolnost vůči zranění chaosem, způsobeným nestabilními energiemi samotného vesmíru, které obvykle používají Chthoniánské bytosti.
+tagStatsResistance10Desc=Odolnost vůči zranění chaosem, způsobeným nestabilními energiemi samotného vesmíru, které obvykle používají Ch'thonské bytosti.
 tagStatsResistance11=Doražení
 tagStatsResistance11Desc=Odolnost vůči doražení.
 tagStatsResistance12=Ochromení
@@ -345,7 +345,7 @@ tagCharStatsArmorArms=Ruce:
 tagCharStatsArmorLegs=Nohy:
 tagCharStatsArmorJewelry=Šperky:
 tagCharStatsArmorFeet=Chodidla:
-tagCharStatsArmorWaist=Pás:
+tagCharStatsArmorWaist=Pas:
 tagCharStatsArmorShoulders=Ramena:
 
 tagFormulaLearn01=Blahopřeji! Naučil ses vytvořit:
@@ -364,7 +364,7 @@ tagItemCompareGround=Předmět na zemi
 tagCharStatsRunSpeed=Rychlost běhu
 tagCharStatsRunSpeedInfo=Rychlost, jakou může tvá postava běhat vzhledem k výchozímu stavu (včetně celkové rychlosti).
 tagCharStatsLifeRegen=Obnova zdraví
-tagCharStatsLifeRegenInfo=The rate at which your health replenishes while in combat. Percent bonuses only affect regeneration from gear, not base regeneration.
+tagCharStatsLifeRegenInfo=Hodnot udávající rychlost doplnění tvého zdraví, zatímco jsi v boji. Procentuální bonusy mají vliv pouze na regeneraci z výstroje a nikoliv na základní regeneraci.
 tagCharStatsEnergyRegen=Obnova energie
 tagCharStatsEnergyRegenInfo=The rate at which your energy replenishes. Percent bonuses only affect regeneration from gear, not base regeneration.
 tagCharStatsEnergyAbsorption=Absorpce energie

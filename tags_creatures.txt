@@ -12,7 +12,7 @@ tagHumanRover_GuardGeneric_MeleeA01=Tulácký vymahač
 
 tagAetherCrystalA01=Aetherický krystal
 tagAnomalyB01=Zvlněný živel
-tagWindDevil_PoisonA01=Ďábel s jedovým dechem
+tagWindDevil_PoisonA01=Ďábel s jedovatým dechem
 
 tagEnemyPossessedA01=Posedlý šlechtic
 tagEnemyPossessedB01=Posedlý kouzelník
