@@ -1,8 +1,10 @@
-# B17
 tagTutorialTitle=Herní nápověda
 tagTutorialRollOver=Pro vypnutí herní nápovědy zaškrtni toto políčko. Po vypnutí muže být herní nápověda opět aktivována, a to ve spodní části obrazovky tlacítkem "nápověda".
 tagTutorialOf=z
 tagTutorialDisable=Vypnout nápovědu
+
+tagTutorialTip06Title=Untouched Meal
+tagTutorialTip06TextA=You have discovered an abandoned meal, likely left behind by a less fortunate adventurer.{^n}{^n}By consuming it, you restored some of your Constitution.
 
 tagTutorialTip08Title=Vítejte ve hře Grim Dawn
 tagTutorialTip08TextA=Děkujeme za podporu a pomoc - díky tobě může Grim Dawn existovat! Doufáme, že si užiješ první část hry.{^n}{^n}Měj prosím na paměti, že toto je alpha verze hry, která je vytvořena nezávislým týmem o sedmi lidech. Setkáš se s chybami, nedokončenými částmi a jen se zhruba dvěma třetinami hry. Velice uvítáme příspěvky o chybách a pocitech z hraní hry na našich fórech na www.grimdawn.com.
@@ -80,6 +82,17 @@ tagTutorialTip24Title=Smrt
 tagTutorialTip24TextA=Když tvé zdraví klesne na 0, tvá postava zemře.{^n}{^n}Využívej možnosti, že se tvá postava může velmi rychle léčit, pokud jsi jen pár sekund mimo souboj. POkud ti ani toto nestačí, pamatuj na používání lektvarů a dovedností, aby tvá postava zůstala naživu.
 tagTutorialTip24TextB=Jakmile zemřeš, přijdeš o nějaké zkušenosti a tvá postava ožije v posledním útočišti, které navštívila. Ztráta zkušeností se zvyšuje s přibývající úrovní tvé postavy, ale část z nich můžeš získat zpět, pokud se ti podaří dostat k mohyle, kde tvá postava zemřela.
 
+tagTutorialTip27Title=Grim Dawn Multiplayer
+tagTutorialTip27TextA=You can join a party with other players in the game to share experience, iron bits and to initiate trades. Parties are also important for PvP sessions.
+tagTutorialTip27CaptionA=Shortcut key: {^b}{%t0}{^w}
+tagTutorialTip27TextB=You can initiate a trade with another player in your party by right-clicking on their status display in the upper left.
+tagTutorialTip27TextC=You can also chat with other players in the game by using the {^y}Chat Window{^w}.
+tagTutorialTip27CaptionB=Shortcut key: {^b}{%t0}{^w}
+
+tagTutorialTip28Title=Player Trading
+tagTutorialTip28TextA=You can trade items by placing them within your side of the trade window. You can trade iron bits by typing a value next to the icon at the top of the window.
+tagTutorialTip28TextB=Both players must accept the trade before an exchange will take place. If the trade is cancelled, all items and iron bits are returned to player inventories.
+
 tagTutorialTip30Title=Přidělování tvých dovedností
 tagTutorialTip30TextA=Máš nepřidělené aktivní dovednosti. Aktivní dovednosti musí být přiřazeny na panel rychlých voleb nebo na tlačítka myši dříve než je budeš moci použít.
 tagTutorialTip30TextB=Pro přiřazení dovednosti klikni pravým tlačítkem myši do pole v panelu ve spodní části obrazovky, nebo na pole tlačítka myši vpravo od panelu a vyber si z nabídky požadovanou dovednost.
@@ -108,7 +121,7 @@ tagTutorialTip36TextA=Průvodci duchovnem ti umožňují odebrat přidělené bo
 tagTutorialTip36TextB=Nemůžeš odebrat body vložené do úrovně svého povolání. Navíc nemůžeš odebrat ani poslední bod dovednosti, která má přidělené body v některé přídavné vlastnosti.
 
 tagTutorialTip37Title=Okno pašeráka
-tagTutorialTip37TextA=Pašerák může uchovávat tvé předměty a nebo je dokonce přesouvat mezi tvými dalšími postavami! K úschovně máš přístup u jakéhokoliv pašeráka, kterého v Cairnu najdeš.
+tagTutorialTip37TextA=Pašerák může uchovávat tvé předměty a nebo je dokonce přesouvat mezi tvými dalšími postavami! K úschovně máš přístup u jakéhokoliv pašeráka, kterého v Cairnu najdeš.{^N}Předměty můžeš rychle přesouvat pomocí klávesy Shift a pravého kliknutí myši.
 tagTutorialTip37TextB=Svůj prostor pro úschovu předmětů můžeš rozšířit tak, že klikneš na tlačítko Rozšířit místo. Bude tě to stát nějaké železné mince.{^N}{^N}Kliknutím na Přesun předmětů umožníš sdílení předmětů mezi svými dalšími postavami.
 
 tagTutorialTip38Tile=Přesun předmětů

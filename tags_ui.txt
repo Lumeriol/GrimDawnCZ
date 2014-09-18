@@ -95,7 +95,7 @@ tagFactionUser4=Vyhnanci
 tagFactionUser5=Řád Smrtícího bdění
 tagFactionUser6=Nemrtví
 tagFactionUser7=Černá legie
-tagFactionUser8=Hráč 8
+tagFactionUser8=Kymonovi vyvolení
 tagFactionUser9=Hráč 9
 tagFactionUnknown=Neznámý
 tagFactionStateEnemy5=Toužící po pomstě
@@ -125,8 +125,8 @@ tagFactionStateRevered=Uctívaný
 tagHUDMenu=Tlačítka menu
 tagHUDAttacks=Aktuální útok
 tagHUDSkills=Rychlé volby
-tagHUD_PotionHealth=Uzdravující tonikum
-tagHUD_PotionEnergy=Elixír ducha
+tagHUD_PotionHealth=Tonic of Mending
+tagHUD_PotionEnergy=Elixir of Spirit
 
 tagPortraitKick=Vykopnout ze serveru
 tagPortraitTrade=Obchodovat
@@ -259,6 +259,9 @@ tagCharAttributeDescription04=Zdraví je měřítkem tvého prahu bolesti a zran
 
 tagCharAttributeDescription05=Energie je měřítkem tvé duševní síly udržet si magické energie. Čím větší je zásoba energie, tím větší máš možnost ji vyčerpat před tím, než se ti znovu obnoví.
 
+tagCharBonusHealth=Bonus Health:
+tagCharBonusEnergy=Bonus Energy:
+
 tagCharBonusPhysicalDmg=Bonus k fyzickému zranění:
 tagCharBonusPierceDmg=Bonus ke zranění probodnutím:
 tagCharBonusMagicalDmg=Bonus k magickému zranění:
@@ -270,12 +273,14 @@ tagCharAttributeIncrement03=Každý bod zvyšuje duchovno o 10.
 tagCharAttributeIncrement04=Každý bod zvyšuje tvé zdraví o 50.
 tagCharAttributeIncrement05=Každý bod zvyšuje tvou energii o 50.
 
+tagCharStatsOAAlert=Offensive Ability {^b}(?)
 tagCharStatsOA=Útočná schopnost
 tagCharStatsOALast=Poslední zásah:
 tagCharStatsOAHit=Šance na zásah:
 tagCharStatsOACrit=Šance na kritický zásah:
 tagCharStatsOADescription=Vyšší útočná schopnost zvyšuje tvou šanci úspěšně zasáhnout nepřítele zblízka nebo na dálku, uštědřit mu kritický zásah a také zvyšuje zranění uštědřené kritickým zásahem. Tvá útočná schopnost, pokud je nižší než obranná schopnost nepřítele, razantně zvyšuje šanci na to, že se netrefíš. Útočná schopnost je ovlivněna dovednostmi, předměty a rafinovaností.
 
+tagCharStatsDAAlert=Defensive Ability {^b}(?)
 tagCharStatsDA=Obranná schopnost
 tagCharStatsDALast=Naposledy zasažen:
 tagCharStatsDAHit=Šance být zasažen:
@@ -333,8 +338,9 @@ tagCharHeaderMisc=Různé
 tagCharStatsDPS=Zranění za sekundu
 tagCharStatsDPSDescription=Průměrné zranění nepřítele za sekundu. Nezahrnuje obrannou schopnost nepřítele.
 
+tagCharStatsArmorTotalAlert=Hodnocení zbroje {^b}(?)
 tagCharStatsArmorTotal=Hodnocení zbroje
-tagCharStatsArmorTotalDescription=Čím vyšší je tvá celková zbroj, tím méně zranění obdržíš fyzickými zásahy. Bonus je sečtenou hodnotou ze všech předmětů, které nejsou výstrojí a je rozdělen mezi všechny sloty výstroje.
+tagCharStatsArmorTotalDescription=Čím vyšší je tvá celková zbroj, tím méně zranění obdržíš fyzickými zásahy. Bonuses on skills and on non-armor pieces are added to all armor slots.
 tagCharStatsHitArmor=Šance na zásah oblasti
 tagCharStatsArmorUnprotected=Bez ochrany
 tagCharStatsArmorNA= -
@@ -369,6 +375,8 @@ tagCharStatsEnergyRegen=Obnova energie
 tagCharStatsEnergyRegenInfo=The rate at which your energy replenishes. Percent bonuses only affect regeneration from gear, not base regeneration.
 tagCharStatsEnergyAbsorption=Absorpce energie
 tagCharStatsEnergyAbsorptionInfo=The percent by which the energy spent on attacks and spells that strike you will replenish your own energy reserves.
+tagCharStatsConstitution=Constitution Bonus
+tagCharStatsConstitutionInfo=The percentage bonus to your maximum constitution.
 tagCharStatsExpGainedBonus=Získané zkušenosti
 tagCharStatsExpGainedBonusInfo=The percent bonus to all experience gained from monster kills.
 tagCharStatsLightRadiusBonus=Dosah světla
@@ -417,7 +425,7 @@ tagCharStatsInternalTraumaDuration=Délka šoku
 tagCharStatsInternalTraumaDurationInfo=The percent bonus to the duration of your Internal Trauma Damage attacks. The damage per second is not increased.
 
 tagCharStatsDamageToHealth=Sání života
-tagCharStatsDamageToHealthInfo=The percent of the damage you deal on attack which also replenishes your health.
+tagCharStatsDamageToHealthInfo=The percent of the weapon attack damage you deal which also replenishes your health.
 
 #Magical
 tagCharStatsCastSpeed=Rychlost kouzlení
@@ -587,12 +595,12 @@ tagCharStatsPiercePercentRet=Pierce Modifier
 tagCharStatsPiercePercentRetInfo=The percent bonus to all Pierce Damage Retaliation effects.
 
 tagCharStatsBleedRet=Bleed
-tagCharStatsBleedRetInfo=The Bleed Damage done over 3 seconds applied on an attacker whenever you are hit.
+tagCharStatsBleedRetInfo=The Bleed Damage done per second over 3 seconds applied on an attacker whenever you are hit.
 tagCharStatsBleedPercentRet=Bleed Modifier
 tagCharStatsBleedPercentRetInfo=The percent bonus to all Bleed Damage Retaliation effects.
 
 tagCharStatsInternalTraumaRet=Trauma
-tagCharStatsInternalTraumaRetInfo=The Internal Trauma Damage done over 5 seconds applied on an attacker whenever you are hit.
+tagCharStatsInternalTraumaRetInfo=The Internal Trauma Damage done per second over 5 seconds applied on an attacker whenever you are hit.
 tagCharStatsInternalTraumaPercentRet=Trauma Modifier
 tagCharStatsInternalTraumaPercentRetInfo=The percent bonus to all Internal Trauma Damage Retaliation effects.
 
@@ -632,27 +640,27 @@ tagCharStatsChaosPercentRet=Chaos Modifier
 tagCharStatsChaosPercentRetInfo=The percent bonus to all Chaos Damage Retaliation effects.
 
 tagCharStatsBurnRet=Burn
-tagCharStatsBurnRetInfo=The Burn Damage done over 3 seconds applied on an attacker whenever you are hit.
+tagCharStatsBurnRetInfo=The Burn Damage done per second over 3 seconds applied on an attacker whenever you are hit.
 tagCharStatsBurnPercentRet=Burn Modifier
 tagCharStatsBurnPercentRetInfo=The percent bonus to all Burn Damage Retaliation effects.
 
 tagCharStatsColdburnRet=Frostburn
-tagCharStatsColdburnRetInfo=The Frostburn Damage done over 3 seconds applied on an attacker whenever you are hit.
+tagCharStatsColdburnRetInfo=The Frostburn Damage done per second over 3 seconds applied on an attacker whenever you are hit.
 tagCharStatsColdburnPercentRet=Frostburn Modifier
 tagCharStatsColdburnPercentRetInfo=The percent bonus to all Frostburn Damage Retaliation effects.
 
 tagCharStatsElectrocuteRet=Electrocute
-tagCharStatsElectrocuteRetInfo=The Electrocute Damage done over 3 seconds applied on an attacker whenever you are hit.
+tagCharStatsElectrocuteRetInfo=The Electrocute Damage done per second over 3 seconds applied on an attacker whenever you are hit.
 tagCharStatsElectrocutePercentRet=Electrocute Modifier
 tagCharStatsElectrocutePercentRetInfo=The percent bonus to all Electrocute Damage Retaliation effects.
 
 tagCharStatsPoisonRet=Poison
-tagCharStatsPoisonRetInfo=The Poison Damage done over 5 seconds applied on an attacker whenever you are hit.
+tagCharStatsPoisonRetInfo=The Poison Damage done per second over 5 seconds applied on an attacker whenever you are hit.
 tagCharStatsPoisonPercentRet=Poison Modifier
 tagCharStatsPoisonPercentRetInfo=The percent bonus to all Poison Damage Retaliation effects.
 
 tagCharStatsVitalityDecayRet=Vitality Decay
-tagCharStatsVitalityDecayRetInfo=The Vitality Decay Damage done over 3 seconds applied on an attacker whenever you are hit.
+tagCharStatsVitalityDecayRetInfo=The Vitality Decay Damage done per second over 3 seconds applied on an attacker whenever you are hit.
 tagCharStatsVitalityDecayPercentRet=Vitality Decay Modifier
 tagCharStatsVitalityDecayPercentRetInfo=The percent bonus to all Vitality Decay Damage Retaliation effects.
 
@@ -790,8 +798,11 @@ tagDividerTab01=Rozložení
 tagDividerRoll01=Rozkladová komora se používá pro oddělení součástek od předmětu. Bohužel je tento proces nedokonalý a má za následek zničení buď součástky nebo předmětu. Ale můžeš si vybrat, kterou věc raději obětuješ.
 
 tagDividerTab02=Dismantle
-tagDividerRoll02=The dismantling chamber is used to break down powerful magical items into their basic parts. The Inventor has not yet learned this ability. (NOT YET IMPLEMENTED)
+tagDividerRoll02=The dismantling chamber is used to break down powerful magical items into their basic parts. The Inventor has not yet learned this ability.
 tagDividerRoll02B=The dismantling chamber is used to break down powerful magical items into their basic parts. This process requires great energy and so the clever inventor has made use of dynamite to fulfill this function.
+
+tagDividerTab03=Tinkering
+tagDividerRoll03=The tinkering chamber is used for tinkering.
 
 tagDividingButtonKeepItem=Předmět
 tagDividingBoxInfo=Umísti do komory předmět s připojenou komponentou.
@@ -805,6 +816,13 @@ tagDismantleCost=Dismantle Cost:
 tagDismantleButton=Choosing to dismantle will destroy this item.
 tagDismantleDestroyItemWarning=Choosing to dismantle will destroy this item. Continue?
 tagDismantleDestroyItemComponentWarning=Choosing to dismantle will destroy this item and keep the component. Continue?
+tagDismantleBoxInfo=Place an item greater than common quality in the chamber.
+
+tagTinkerAetherTotal=Total Aether Crystals:
+tagTinkerCost=Tinkering Cost:
+tagTinkerButton=Choosing to Tinker will reroll the completion bonus on this item. This has a chance to destroy the item!
+tagTinkerDestroyItem=Your Item was destroyed! Aw shucks!
+tagTinkerBoxInfo=Place a component or relic in the chamber.
 
 #Smuggler
 
@@ -822,6 +840,12 @@ tagCaravanItemTransfer=Přesun předmětů
 tagTransferInfo02=Umísti předměty do předávací oblasti, aby byl pašerák schopný je převést mezi tvé další postavy.
 tagCaravanError01=Pro převod tohoto předmětu nemáš dostatek železných mincí.
 tagStorageError01=Nemáš dostatek železných mincí pro nákup dalšího místa v úschovně.
+tagTransferError01=You need {%d0} iron to purchase a storage expansion.
+tagTransferPurchase01=Spend {%d0} iron to purchase a storage expansion?
+tagTransferTab01=Tab 1
+tagTransferTab02=Tab 2
+tagTransferTab03=Tab 3
+tagTransferTab04=Tab 4
 
 #Chat
 
@@ -832,7 +856,7 @@ tagChatCommand03=Odpovědět
 tagChatCommand04=Říci
 tagChatCommand05=Umlčet
 tagChatCommand06=Odmlčet
-tagChatBrag=Najeď sem kurzorem myši pro zobrazení mého {%t0}{%t1}{^-} ...
+tagChatBrag=[{%t0}{%t1}{^-}]
 
 #NPC Conversation
 tagNpcConversationBusy=Tato postava právě hovoří s jiným hráčem.
@@ -889,6 +913,7 @@ tagInfoButtonOk=OK
 tagGameOver=Jsi mrtvý!
 
 SimpleStringFormat={%s0}
+SimpleStringsFormat={%s0} {%s1}
 SkillBaseNamesFormat={    %s0}
 CostFormat=Cost: {%d0}
 ManaDisplayFormat=Energie  {%d0} / {%d1} ({%d2} rezervováno)
@@ -963,7 +988,7 @@ tagCharDodgePercentR={%.0f0}-{%.0f1}%{^E} Chance to Avoid Melee Attacks
 tagCharDeflectProjectilesR={%.0f0}-{%.0f1}%{^E} Chance to Avoid Projectiles
 tagCharIncreasedExperienceR={%+.0f0}-{%.0f1}%{^E} Experience Gained
 tagCharLightRadiusR={%+.0f0}-{%.0f1}%{^E} Light Radius
-tagCharItemGlobalReductionR={%.0f0}-{%.0f1}%{^E} Reduction to all Requirements
+tagCharItemGlobalReductionR={%.0f0}-{%.0f1}%{^E} Reduction to Attribute Requirements
 tagCharLevelReqReductionR=-({%.0f0}-{%.0f1}) {^E}Player Level Requirement for Items
 tagCharArmorStrengthReqReductionR=-({%.0f0}-{%.0f1}%) {^E}Physique Requirement for Armor
 tagCharArmorDexterityReqReductionR=-({%.0f0}--{%.0f1}%) {^E}Cunning Requirement for Armor
@@ -993,6 +1018,19 @@ SkillProjectileSpeedModifierR={%+.0f0}% {^E}Increase in Projectile Speed
 SkillManaCostReductionModifierR=-{%.0f0}% {^E}Skill Energy Cost
 SkillCooldownReductionModifierR=-{%.0f0}% {^E}Skill Recharge
 
+tagDamageConversion={%.0f0}% {^E}{%s1} converted to {%s2}
+tagDamageRemoval={%.0f0}% {^E}{%s1} Reduction
+tagConversionPhysical=Physical Damage
+tagConversionElemental=Elemental Damage
+tagConversionCold=Cold Damage
+tagConversionFire=Fire Damage
+tagConversionPoison=Poison Damage
+tagConversionLightning=Lightning Damage
+tagConversionLife=Life Damage
+tagConversionChaos=Chaos Damage
+tagConversionAether=Aether Damage
+tagConversionStun=Stun Duration
+
 tagAttackSpeedNotSet=Rychlost:  nezadáno
 tagAttackSpeedVerySlow=Rychlost:  velmi pomalá
 tagAttackSpeedSlow=Rychlost:  pomalá
@@ -1013,7 +1051,7 @@ tagCharDeflectProjectiles={%.0f0}% {^E}šance se vyhnout projektilům
 tagCharIncreasedExperience={%+.0f0}% {^E}získaných zkušeností
 tagCharLightRadius={%+.0f0}% {^E}dosah světla
 
-tagCharItemGlobalReduction={%.0f0}% {^E}snížení všech požadavků
+tagCharItemGlobalReduction={%.0f0}% {^E}Reduction to Attribute Requirements
 tagCharLevelReqReduction=-{%.0f0} {^E}úrovně hráče na nošení předmětů
 tagCharArmorStrengthReqReduction=-{%.0f0}% {^E}fyzické kondice pro výstroj
 tagCharArmorDexterityReqReduction=-{%.0f0}% {^E}rafinovanosti pro výstroj
@@ -1132,9 +1170,16 @@ SkillPetDescriptionDamageMinMax={%.0f0} - {%.0f1}  zranění
 tagSkillPetTimeToLive={^E}Žije pouze {^H}{%.1f0} {^E}sekund
 tagSkillPrevious=… Předchozí
 tagSkillNext=Další …
-PressToAddUnusedSkillPoints=Stiskni pro přidání nevyužitých bodů dovednosti.
+PressToAddUnusedSkillPoints=Levým tlačítkem myši přidáš nevyužité body dovednosti.
+PressToAddUnusedDevotionPoints=Left Click to Add Unused Devotion Points
+PressToActivateDevotion=Left Click to Activate
+PressToAssignDevotion=Left Click to Assign
 SkillEnhancement=+{%d0} ke všem dovednostem
 NoSkillPointsToAdd=Nemáš dovednostní body, které by šly přidat.
+NoDevotionPointsToAdd=No Devotion Points Available
+LockedDevotion=Locked
+ActiveDevotion=Active
+PressToAssignDevotion=Left click to assign.
 YouMustIncreaseMasteryLevel=Pro přidání více bodů musíš zvýšit úroveň svého povolání.
 EnableOneBaseSkill=Alespoň jedna požadovaná dovednost musí být povolena
 MaxSkillLevelReached=Dosažena maximální úroveň dovednosti
@@ -1145,7 +1190,7 @@ ManaCost={^E}energie za použití
 ActiveLifeCost={^E} aktivního zdraví za sekundu
 ActiveManaCost={^E} aktivní energie za sekundu
 ActiveDuration=Doba účinkování:
-TargetRadius=Dosah:
+TargetRadius=Target Area:
 TargetAngle={^E}Zásah v úhlu {^H}{%.0f0} {^E}stupňů
 TargetNumber={%d0} {^E}cílů maximálně
 CooldownTime={^E}Čas na obnovení dovednosti:
@@ -1208,8 +1253,10 @@ tagDotChaos=Chaos
 tagDotAether=Aether
 tagDotLifeLeech=Life Leech
 
+tagSetItems=({%d0}) Set
 tagSecond={^E}sekund
 tagSeconds={^E}sekundy
+DamagePerSecond={%.1f0} {^S}Damage Per Second (If Equipped)
 DamagePhysicalChance= {^E}fyzického zranění
 DamageBasePhysical= {^S}fyzického zranění
 DamageBasePierceRatio={%.0f0}% {^S}proražení zbroje
@@ -1269,6 +1316,8 @@ DamageDurationBleeding= {^E}zranění krvácením
 
 DamageTotalDamageReductionPercent=% {^E}snížení nepřátelského zranění
 DamageTotalDamageReductionAbsolute= {^E}snížení nepřátelského zranění
+DamagePhysicalReductionPercent=% {^E}Reduced target's Physical Damage
+DamageElementalReductionPercent=% {^E}Reduced target's Elemental Damage
 DamageTotalResistanceReductionPercent=% {^E}snížení nepřátelských odolností
 DamageTotalResistanceReductionAbsolute= {^E}snížení nepřátelských odolností
 DamageDurationFumble=% {^E}šance, že nepřítel promáchne svůj útok
@@ -1316,6 +1365,7 @@ DamageDurationModifierDefensiveAbility={^E}snížení nepřátelské obranné sc
 DamageDurationModifierOffensiveReduction={^E}snížení nepřátelského fyzického zranění{%+.0f0}%
 ImprovedTimeFormat= {^E}se zvýšenou dobou trvání o {^H}{%+.0f0}%
 ImprovedTimeFormatR= {^E}se zvýšenou dobou trvání o {^H}{%+.0f0}-{%.0f1}%
+IncreasedDuration={^H}{%+.0f0}% {^E}Increased{%s1} Duration
 
 RetaliationCold={%t0} {^E}odplaty ledem
 RetaliationFire={%t0} {^E}odplaty ohněm
@@ -1356,7 +1406,7 @@ RetaliationModifierPierceRatio={%+.0f0}% {^E}odplaty probodnutím
 RetaliationModifierPierce={%+.0f0}% {^E}odplaty bodným zraněním
 RetaliationModifierCold={%+.0f0}% {^E}odplaty ledem
 RetaliationModifierFire={%+.0f0}% {^E}odplaty ohněm
-RetaliationModifierPoison={%+.0f0}% {^E}odplaty jedem a kyselinou
+RetaliationModifierPoison={%+.0f0}% {^E}odplaty kyselinou
 RetaliationModifierLightning={%+.0f0}% {^E}odplaty bleskem
 RetaliationModifierAether={%+.0f0}% {^E}odplaty Aetherem
 RetaliationModifierChaos={%+.0f0}% {^E}odplaty chaosem
@@ -1383,8 +1433,8 @@ DefenseAbsorptionProtectionPlus=+{%.0f0} {^E}zbroje
 DefenseAbsorptionProtectionPlusR=+{%.0f0}-{%.0f1} {^E}zbroje
 DefenseAbsorptionProtectionBonus=+{%.0f0} {^E}bonusové zbroje
 DefenseAbsorptionProtectionBonusR=+{%.0f0}-{%.0f1} {^E}bonusové zbroje
-DefensePhysical={%.0f0}% {^E}odolnost vůči fyzickému zranění
-DefensePhysicalR={%.0f0}-{%.0f1}% {^E}odolnost vůči fyzickému zranění
+DefensePhysical={%.0f0}% {^E}fyzické odolnosti
+DefensePhysicalR={%.0f0}-{%.0f1}% {^E}fyzické odolnosti
 DefensePierce={%.0f0}% {^E}odolnost vůči probodnutí
 DefensePierceR={%.0f0}-{%.0f1}% {^E}odolnost vůči probodnutí
 DefenseElementalResistance={%.0f0}% {^E}odolnost vůči živlům
@@ -1435,6 +1485,8 @@ DefenseLightningDuration={%.0f0}% {^E}snížení doby elektrického šoku
 DefenseLifeDuration={%.0f0}% {^E}snížení doby ztráty životní síly
 DefenseLifeLeachDuration={%.0f0}% {^E}snížení doby vysávání života
 DefenseManaLeachDuration={%.0f0}% {^E}snížení doby vysávání energie
+DefensePercentCurrentLife={%.0f0}% {^E}Resistance to Life Reduction
+DefenseManaBurnRatio={%.0f0}% {^E}Resistance to Mana Burn
 DefenseProtectionModifier={^E}Zvýšení zbroje o {%.0f0}%
 DefenseProtectionModifierR={^E}Zvýšení zbroje o {^H}{%.0f0}-{%.0f1}%
 DefenseAbsorptionModifier={^E}Zvýšení pohlcení zranění o {%.0f0}%
@@ -1448,6 +1500,7 @@ DefenseLightningModifier={^E}Zvýšení odolnosti vůči bleskům o {%.0f0}%
 DefenseLifeModifier={^E}Zvýšení odolnosti vůči ztrátě životnísíly o {%.0f0}%
 DefenseStunModifier={^E}Zvýšení odolnosti vůči omráčení o {%.0f0}%
 DefenseBlockModifier={^E}Zvýšení šance vykrytí štítem o {%.0f0}%
+DefenseBlockAmountModifier={%+.0f0}% {^E}Shield Damage Blocked
 DefenseLifeLeachModifier={^E}Zvýšení odolnosti vůči vysátí života o {%.0f0}%
 DefenseChaosModifier={^E}Zvýšení odolnosti vůči chaosu o {^H}{%.0f0}%
 DefenseAetherModifier={^E}Zvýšení odolnosti vůči Aetheru o {^H}{%.0f0}%
@@ -1497,6 +1550,7 @@ tagAutoItemSkill= (uděleno předmětem - pasivní aktivace)
 tagExclusiveSkill=Exkluzivní dovednosti - pouze jedna exkluzivní dovednost může být aktivována najednou.
 
 tagAutoSort=Automatické řazení
+tagAutoComplete=Complete Components
 tagAttributeUndo=Zpět
 
 tagQuestItem=Úkolový předmět
@@ -1520,10 +1574,10 @@ tagBossXPLong02={%d0} přidělených zkušeností
 tagHeroXPLong01=Zabit hrdina nepřátel
 tagHeroXPLong02={%d0} zkušeností přiděleno
 
-tagPetBonusNameAllPets=Bonus pro všechny spojence:
-tagPetBonusNameOnePet=Bonus pro spojence {%s0}:
-tagPetBonusNameTwoPets=Bonus pro spojence {%s0} a {%s1}:
-tagPetBonusNameManyPets=Bonus pro spojence:
+tagPetBonusNameAllPets=Bonus pro všechny spojence
+tagPetBonusNameOnePet=Bonus pro spojence {%s0}
+tagPetBonusNameTwoPets=Bonus pro spojence {%s0} a {%s1}
+tagPetBonusNameManyPets=Bonus pro spojence
 
 TagSpeakerSetup=Nastavení reproduktorů
 TagHeadphoneSpeakers=Sluchátka
@@ -1555,8 +1609,11 @@ tagHotSlotSwap=Přepínání mezi primárním a sekundárním slotem pro zbraň.
 tagHotSlotTitle=Alternativní panel
 tagEmptyHotSlot=Vymazat přidružení k tomuto tlačítku.
 
+tagDevotionUnassigned=Žádné dovednosti
+
 #Multiplayer
 
+tagMPTrade=Obchod
 tagMPGroup=Skupina
 tagMPInGame=Ve hře
 tagMPCharName=Jméno postavy
@@ -1572,6 +1629,7 @@ tagMPAvailable=Dostupní hráči
 tagMPGroup1=1. skupina
 tagMPGroup2=2. skupina
 tagMPGroup3=3. skupina
+tagMPNoClass=N/A
 tagMPInviteMessage={%t0} ti poslal pozvánku do skupiny.
 tagMPInviteError={%t0} se už nachází ve skupině.
 tagMPInviteSend={%t0} poslal pozvánku pro přidání do tvé skupiny.
@@ -1585,15 +1643,19 @@ tagMPMessageGameLeave={%t0} opustil hru.
 tagMPQuestionBan=Opravdu chceš vykopnout {%t0} ze hry?
 tagMPInviteAccept=Přijmout
 tagMPInviteDeny=Odmítnout
-tagMPStats=Herní statistiky
+tagMPStats=Herní statistiky:
 tagMPMapName=Název mapy:
 tagMPServerName=Název serveru:
 tagMPPing=Ping:
-tagMPTime=Uplynulý čas hry:
+tagMPTime=Uplynulý čas:
 tagMPServer=Název serveru: {%t0}
 tagMPIPAddress=IP: {%t0}
 tagMPPort=Port: {%t0}
 tagMPErrorNoTarget=Tento hráč je pro zaměření příliš daleko.
+tagMPNameLevel={%t0} ({%d1})
+tagMPClass={%s0}
+tagMPLocation={%s0}
+tagMPLifeMana={^r}{%d0}/{%d1} {^g}{%d2}/{%d3}
 tagTradeError01={%t0} momentálně obchoduje s jiným hráčem.
 tagTradeError02={%t0} odmítl tvůj požadavek na obchod.
 tagTradeError03={%t0} s tebou chce obchodovat.

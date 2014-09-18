@@ -47,10 +47,12 @@ tagMapNewHarbor=Nový přístav
 tagMapBarrenHighlands=Neúrodná vysočina
 tagMapCrumblingWatch=Rozpadlá strážní věž
 tagMapCronleysHideout=Cronleyův úkryt
+tagMapSmugglersPass=Smuggler's Pass
 tagMapJaggedWaste=Jagged Waste
 tagMapDeadmansGulch=Deadman's Gulch
-tagMapHighpass=High Pass
+tagMapHighPass=High Pass
 tagMapAlpineRoad=Alpine Road
+tagMapMountainDeeps=Mountain Deeps
 
 tagMapLedgewood01=Ledgewood
 tagMapWitheringFields01=Schnoucí pole
@@ -112,6 +114,7 @@ tagRiftOldArkovia=Portál ve Staré Arkovii
 tagRiftArkovianFoothills=Portál v Arkovianském podhůří
 tagRiftCronleysHideout=Portál v Cronleyově úkrytu
 tagRiftTwinFalls=Portál u Dvojspádů
+tagRiftSmugglersPass=Smuggler's Pass Rift
 tagRiftHighPass=Portál ve Vrchním průsmyku
 tagRiftJaggedWaste=Jagged Waste Rift
 tagRiftDeadmansGulch=Deadman's Gulch Rift
@@ -209,12 +212,12 @@ tagPOIOldArkoviaRuins2A=Vstup do Arkovianského podzemního města (2. patro)
 tagPOIOldArkoviaRuins2B=Východ z Arkovianského podzemního města (2. patro)
 tagPOIOldArkoviaRuins3A=Vstup do Arkovianského podzemního města (3. patro)
 tagPOIOldArkoviaRuins3B=Východ z Arkovianského podzemního města (3. patro)
-tagPOIBrokenHillsMylesCaveA=Vstup do Mylesova úkrytu
-tagPOIBrokenHillsMylesCaveB=Východ z Opuštěného doupěte
 tagPOIOldArkoviaMineA=Vstup do Cronleyova úkrytu
 tagPOIOldArkoviaMineB=Východ z Cronleyova úkrytu
 tagPOIFesteringLairA=Festering Lair Entrance
 tagPOIFesteringLairB=Festering Lair Exit
+tagPOIMylesCaveA=Vstup do Mylesova úkrytu
+tagPOIMylesCaveB=Východ z Opuštěného doupěte
 
 tagPOIStepsOfTorment1A=Vstup do Trýznivých kroků
 tagPOIStepsOfTorment1B=Východ z Trýznivých kroků
@@ -254,15 +257,15 @@ tagNotification_LostApprenticeFound=Kasparova učnice je tady!
 
 tagNotification_HS_RemoveTheHead_ElsaFound=Zdá se, že Cronley nemá Elsu...
 tagNotification_HS_SpoilsOfTheGrimDawn=Prohledal jsi starou zříceninu.
-tagNotification_HS_WeNeedFood_HomesteadBridgeFound=Našel jsi most spojující Starou Arkovii a Homestead.
-tagNotification_HS_WeNeedFood_HomesteadSmugglerPassFound=Objevil jsi alternativní cestu do Homestead.
-tagNotification_HS_WeNeedFood_HomesteadRegionFound=Objevil jsi oblast Homestead.
-tagNotification_HS_WeNeedFood_HomesteadTownFound=Nalezl jsi město Homestead.
+tagNotification_HS_WeNeedFood_HomesteadBridgeFound=The old coastal bridge is destroyed. You will need to find a way through Smuggler's Pass
+tagNotification_HS_WeNeedFood_HomesteadSmugglerPassCrossed=You have gone through Smuggler's Pass. Seek a way into Homestead.
+tagNotification_HS_WeNeedFood_HomesteadRefugees=You discovered a group of refugees beyond Smuggler's Pass.
 tagNotification_HS_OldArkoviaPassagesCompleted=Prošel jsi Arkovianskou chodbou a prozkoumal její obsah.
 tagNotification_HS_OldArkoviaPassagesBossKilled=Získal jsi kousek roztříštěné duše Poskvrněného!
 
 tagNotification_WarningToughArea=Na tomhle místě se nachází mnohem mocnější síly, než jsi schopen porazit...
 tagNotification_WarningRiftgateDisabled=Your connection to riftgates feels absent within this place...
+tagNotification_WarningGatesOfAnguish=The Gates of Anguish have been opened. Make haste, as they will not remain open for long...
 
 #NPC Names
 
@@ -292,6 +295,7 @@ tagNPC_DevilsCrossing_02=Zajatý tulák
 tagNPC_DevilsCrossing_03=Isaac
 tagNPC_DevilsCrossing_04=Torven
 tagNPC_DevilsCrossing_05=Kuldo
+tagNPC_DevilsCrossing_06=Edwin
 
 tagNPC_Homestead_01=Minova
 tagNPC_Homestead_02=Darius Cronley
@@ -303,7 +307,7 @@ tagNPC_Homestead_07=Isaiah Reddan
 tagNPC_Homestead_08=Josephine Reddan
 tagNPC_Homestead_09=
 tagNPC_Homestead_10=Milah Skinner
-tagNPC_Homestead_11=Myles Finegan
+tagNPC_Homestead_11=
 tagNPC_Homestead_12=
 tagNPC_Homestead_13=
 tagNPC_Homestead_14=
@@ -324,23 +328,39 @@ tagNPC_Homestead_28=Hiram
 tagNPC_Homestead_29=Kalderos
 tagNPC_Homestead_30=Balvoruuk
 
-tagNPC_Necropolis_01=Angela Harrington
-tagNPC_Necropolis_02=Douglass Sullivan Oldbarrow
-tagNPC_Necropolis_03=Lord Reginald Marrowbane
-tagNPC_Necropolis_04=Morris Burton
-tagNPC_Necropolis_05=Samantha Colton
-tagNPC_Necropolis_06=Stanley Larsen
-tagNPC_Necropolis_07=Nathan
-tagNPC_Necropolis_08=Jonas
-
+tagNPC_AreaC_01=Anasteria
+tagNPC_AreaC_02=Douglass Sullivan Oldbarrow
+tagNPC_AreaC_03=Myles Finegan
+tagNPC_AreaC_04=Inquisitor Creed
+tagNPC_AreaC_05=Kadris
+tagNPC_AreaC_06=Alleria
+tagNPC_AreaC_07=Kalista
+tagNPC_AreaC_08=Nathaniel
+tagNPC_AreaC_09=Lisandra
+tagNPC_AreaC_10=Brother Elluvius
+tagNPC_AreaC_11=Father Kymon
+tagNPC_AreaC_12=Master Varukk
+tagNPC_AreaC_13=The Keeper of Tomes
+tagNPC_AreaC_14=Rallia
+tagNPC_AreaC_15=
+tagNPC_AreaC_16=
+tagNPC_AreaC_17=
+tagNPC_AreaC_18=
+tagNPC_AreaC_19=
+tagNPC_AreaC_20=
+tagNPC_AreaC_21=
+tagNPC_AreaC_22=
+tagNPC_AreaC_23=
+tagNPC_AreaC_24=
+tagNPC_AreaC_25=
 
 tagNPC_DetonationSite=Místo výbuchu
 
 tagNPC_BrokenHillsBridge=Stanoviště opravy mostu do Arkovianského podhůří
-tagNPC_OldGroveBridge=Stanoviště opravy mostu do Starého háje
-tagNPC_HomesteadBridge=Stanoviště opravy mostu do Dvojspádů
-tagNPC_WightmireBridge=Stanoviště opravy mostu do Wightmire
-tagNPC_BurrwitchBridge=Stanoviště opravy mostu do Burrwitch
+tagNPC_OldGroveBridge=Staveniště mostu do Starého háje
+tagNPC_HomesteadBridge=Staveniště mostu do Dvojspádů
+tagNPC_WightmireBridge=Staveniště mostu do Wightmire
+tagNPC_BurrwitchBridge=Staveniště mostu do Burrwitch
 
 
 tagNPC_JosephClaxton=Joseph Claxton
@@ -376,10 +396,35 @@ tagNPC_Flavor_Homestead_10=Injured Rover
 tagNPC_Flavor_Homestead_11=Amkala
 tagNPC_Flavor_Homestead_12=Horace
 
-tagNPC_Flavor_Necropolis_01=Dean Oldbarrow
-tagNPC_Flavor_Necropolis_02=Denny Oldbarrow
-tagNPC_Flavor_Necropolis_03=Maria Oldbarrow
+tagNPC_Flavor_AreaC_01=Dean Oldbarrow
+tagNPC_Flavor_AreaC_02=Denny Oldbarrow
+tagNPC_Flavor_AreaC_03=Maria Oldbarrow
+tagNPC_Flavor_AreaC_04=Collin Taverin
+tagNPC_Flavor_AreaC_05=Rob Halloway
+tagNPC_Flavor_AreaC_06=Beatrice Summers
+tagNPC_Flavor_AreaC_07=Tricia Windborough
+tagNPC_Flavor_AreaC_08=Taris Windborough
+tagNPC_Flavor_AreaC_09=Emily Larkson
+tagNPC_Flavor_AreaC_10=Bolvis
+tagNPC_Flavor_AreaC_11=Vaam
+tagNPC_Flavor_AreaC_12=Elaine Cobble
+tagNPC_Flavor_AreaC_13=Julia Applesworth
+tagNPC_Flavor_AreaC_14=Shane Cobble
+tagNPC_Flavor_AreaC_15=Davis Morden
+tagNPC_Flavor_AreaC_16=Laaruka
+tagNPC_Flavor_AreaC_17=Caaraka
+tagNPC_Flavor_AreaC_18=Galarokk
+tagNPC_Flavor_AreaC_19=Ralukk
+tagNPC_Flavor_AreaC_20=Sister Thaddia
+tagNPC_Flavor_AreaC_21=Brother Lector
+tagNPC_Flavor_AreaC_22=Brother Ulnox
 
+tagNPC_Flavor_AreaD_01=
+tagNPC_Flavor_AreaD_02=
+tagNPC_Flavor_AreaD_03=
+tagNPC_Flavor_AreaD_04=
+tagNPC_Flavor_AreaD_05=
+tagNPC_Flavor_AreaD_06=
 
 #Quest Items
 
@@ -430,6 +475,14 @@ tagLoreObj_InquisitorCreedA03Text=Konečně jsem dorazil do vesnice Burrwitch po
 tagLoreObj_InquisitorCreedA04Name=Deník inkvizitora Creeda - 4. zápis
 tagLoreObj_InquisitorCreedA04codexTitle=Inkvizitor Creed - 4. zápis
 tagLoreObj_InquisitorCreedA04Text=Jsem hostem Wardena Kriega na jeho panství už víc než týden a mé podezření, že se tady děje hrozivého, roste den ze dne. Každý den vyrážím na některé místo v okolí vesnice Burrwitch nebo přímo do ní, abych prošetřil další neobvyklý trestný čin nebo neblahou zvěst. Některé jsou jednoduše vyvratitelné jako víc světské lidské přečiny nebo jde o výplody fantazie, ale mnoho z mých vyšetřování došlo k temnějším závěrům. Mám pocit, že se tady vynořuje nějaká struktura, ale nedokážu si to dát do nějaké souvislosti.{^n}{^n}To jsou okrajové případy, i když hlavním cílem mé účasti u nich je získat záminku pro můj další pobyt ve vesnici Burrwitch. Sám Krieg se stal předmětem mého hlavního vyšetřování. Navzdory naprostému přesvědčení, že Krieg není tím, kým se zdá být, je téměř jistě zapojen do jakési nepřirozené činnosti, ale nenašel jsem jediný nezvratný důkaz k tomu, aby bylo možné zahájit oficiální vyšetřování.{^n}{^n}Většina částí panství je mi uzavřena. V horním patře jsou pokoje, ze kterých Krieg a další návštěvníci odcházejí a přicházejí, ale tam nemám právo vstupovat. Další záhodou bylo, když mě v noci probudily zvuky připomínající vrzání povozů pohybujících se venku po silnici, ale když jsem se podíval z okna směrem k vesnici, nic jsem nezahlédl. Odkud ty zvuky pocházely? Hra na kočku a myš pokračuje, ale nejsem si zcela jistý, kdo je tou kočkou a kdo myší...
+
+tagLoreObj_InquisitorCreedA05Name=Journal of Inquisitor Creed - 5th Entry
+tagLoreObj_InquisitorCreedA05codexTitle=Inquisitor Creed - 5th Entry
+tagLoreObj_InquisitorCreedA05Text=Krieg has gotten the better of me and I am presently at his mercy, imprisoned beneath his manor.{^n}{^n}Seeing no other way to progress in my investigation, I forced my way into the locked portion of the manor and found myself in a veritable house of horrors. The unusual sorcery on the locks should have been my first clue that I was dealing with something more extraordinary than some rogue occultist.{^n}{^n}My search led me through a room filled with the rotting bodies of men and woman subjected to brutal torture or horrible experimentation, or perhaps some mix of the two. Behind the manor I found a door leading down into the earth beneath the estate, where I found myself quickly lost in an implausibly large dungeon. It wasn't long before I sensed things moving in the darkness all around me and they quickly closed in, surrounding me. As I prepared to fight for all I was worth, Krieg's massive form emerged from the shadows, his face expressionless. He spoke coolly as though nothing at all was out of the ordinary and invited me to tour his facility. While I had no doubt that something unpleasant was planned for me, it at least delayed my confrontation with the living horrors gathering in the dark.
+
+tagLoreObj_InquisitorCreedA06Name=Journal of Inquisitor Creed - 6th Entry
+tagLoreObj_InquisitorCreedA06codexTitle=Inquisitor Creed - 6th Entry
+tagLoreObj_InquisitorCreedA06Text=I've lingered in this dank cell for one long unsettling day and a night of terrors. Krieg allowed me to witness the process by which they are preserving human bodies for what he calls the Glorious Dawn.{^n}{^n}I have gotten glimmerings of another consciousness within Krieg, which is joined with or possibly in control of him. From the way he spoke, it is clear that this is only some small part of a much greater conspiracy and I suspect many other persons in key positions have been possessed by things akin to that which now inhabits Krieg. I was arrogant in my initial handling of Krieg and seriously misjudged the power and scale of the threat we are faced with.{^n}{^n}Fortunately, Krieg's own arrogance has likewise led him to misjudge the resourcefulness of his prisoner. He has invited me to ascend beyond humanity by pledging myself to his cause or to join his inventory of embalmed corpses. I've been left to contemplate this decision but this cell, even magically warded, cannot hold the likes of me and I have no intention of being here when Krieg returns for my answer.
 
 tagLoreObject_PrisonNoteName=Hrubě načmáraná poznámka
 tagLoreObject_PrisonNoteText=Takže, nejsem zrovna slušnej člověk a jsem si jistej, že neumím ani dobře psát, ale slova o tomhle místě se prostě musej dostat ven. Tohle vězení nemá nic společnýho s tím, kde jsem kdy byl a to nejsem vožralej. Lidi se tady nezdržujou dlouho a ani někteří chlapci, který sem dotáhli, nejsou žádnými zločinci. Měl jsem to tušit. V okamžiku jsem viděl muže, o kterém bych mohl říct, že v jeho očích je vidět, že udělal něco špatně. Tihle chlapci? Vidím jejich strach.{^n}{^n}Tohohle dozorce jsem už párkrát zahlíd - velkej chlap v černý zbroji. Když ho neznáš líp, budeš si myslet že to je jeden z těch na špatný straně mříží. Každej den berou on a jeho nohsledi vězně po tuctech ven do tamtý boudy. Ale nikdy se z ní nevrátí. O něco pozdějc je u tý boudy povoz. Vždycky odjíždí plnej.{^n}{^n}Už nás ani nenechávaj odcházet z cel, ale můžu říct, že nás moc nezbejvá. Chodby jsou tichý. Jsem poslední člověk v týhle řadě. Ostatní? Odvedli je ve včerejší dávce. Nehodlám se ptát na smilování. Vím, že můj konec je v tý boudě, ale tahle poznámka bude aspoň jeden dobrej skutek v mym ubohym životě...
