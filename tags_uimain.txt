@@ -20,7 +20,7 @@ tagMenuButton10=Obnovit
 tagMenuChar={%d0} ~ {%d1}
 
 # Temporary popup message for alpha multiplayer build warning
-tagMenuMPWarning=Vítejte v testovacím režimu hry více hráčů! Varování: during the test phase, you will encounter bugs, crashes and performance issues. Please post problems to the Grim Dawn forum.
+tagMenuMPWarning=Vítejte v testovacím režimu hry více hráčů! Varování: během testovací fáze se budou vyskytovat chyby, pády hry a problémy s výkonem. Informuj nás prosím o veškerých problémech na našich forech Grim Dawn.
 
 #
 # Play Menu
@@ -296,7 +296,7 @@ tagIPCheckFailMaybe=Veřejná IP adresa dodána tvým routerem (%t0) není platn
 
 tagIPCheckPass=Test síťové konfigurace byl úspěšný.  Veřejná IP adresa dodána tvým routerem odpovídá té, která je viditelná na internetu.
 
-tagIPCheckUnable=Nelze otestovat síťovou konfiguraci.  Tato kontrola vyžaduje, že lokální router má povolený UPnP protocol a že je UPnP povoleno v nastavení hry Grim Dawn.  Pokud není povolen, udělej to, restartuj Grim Dawn, a znovu spusť tento test.
+tagIPCheckUnable=Nelze otestovat síťovou konfiguraci.  Tato kontrola vyžaduje, že lokální router má povolený UPnP protokol a že je UPnP povoleno v nastavení hry Grim Dawn.  Pokud není povolen, udělej to, restartuj Grim Dawn, a znovu spusť tento test.
 
 tagIPCheckUnableIP=Nelze získat z venku viditelnou IP adresu. Test nedokáže v tuto chvíli spustit hru.
 

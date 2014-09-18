@@ -1891,23 +1891,23 @@ tagPotionHealthA03Desc="Zaceluje rány a spravuje zlámané kosti."
 tagPotionEnergyA01=Elixír ducha
 tagPotionEnergyA01Desc="Omlazuje mysl a ducha."
 
-tagPotionConstitutionA01=Food Ration
-tagPotionConstitutionA01Desc="Tastes like stale dirt but lasts forever and restores lost constitution."
+tagPotionConstitutionA01=Krmná dávka
+tagPotionConstitutionA01Desc="Chutná to sice jako zatuchlé bláto, ale obnovuje to ztracenou konstituci."
 
-tagPotionConstitutionB01=Vital Essence
-tagPotionConstitutionB01Desc=Lingering vital energy that can be absorbed to restore lost constitution.
+tagPotionConstitutionB01=Esence života
+tagPotionConstitutionB01Desc=Přetrvávající životní energie, která může být vstřebána pro obnovení ztracené konstituce.
 
 tagPotionDirections=[použít pravým tlačítkem myši]
-tagCombineStacks=[While holding, right-click to combine stacks]
+tagCombineStacks=[Podrž předmět a klikni pravým tlačítkem myši pro jejich zkombinování]
 
 # Bonuses
-tagBonusLifePercentPercent={^E}Restores {^H}{%.0f0}% {^E}Health {^H}+{%.0f1}% {^E}Over Time
-tagBonusLifePercentAbs={^E}Restores {^H}{%.0f0}% + {%.0f1} {^E}Health
-tagBonusLifePercent={^E}Restores {^H}{%.0f0}% {^E}Health
-tagBonusLifeAbs={^E}Restores {^H}{%.0f0} {^E}Health
-tagBonusManaPercentAbs={^E}Restores {^H}{%.0f0}% + {%.0f1} {^E}Energy
-tagBonusManaPercent={^E}Restores {^H}{%.0f0}% {^E}Energy
-tagBonusManaAbs={^E}Restores {^H}{%.0f0}% {^E}Energy
+tagBonusLifePercentPercent={^E}Obnovuje {^H}{%.0f0}% {^E}zdraví {^H}+{%.0f1}% {^E}v průběhu času
+tagBonusLifePercentAbs={^E}Obnovuje {^H}{%.0f0}% + {%.0f1} {^E}zdraví
+tagBonusLifePercent={^E}Obnovuje {^H}{%.0f0}% {^E}zdraví
+tagBonusLifeAbs={^E}Obnovuje {^H}{%.0f0} {^E}zdraví
+tagBonusManaPercentAbs={^E}Obnovuje {^H}{%.0f0}% + {%.0f1} {^E}energie
+tagBonusManaPercent={^E}Obnovuje {^H}{%.0f0}% {^E}energie
+tagBonusManaAbs={^E}Obnovuje {^H}{%.0f0}% {^E}energie
 tagBonusExperience={%+d0} zkušeností
 tagBonusMoney={%+d0} železných mincí
 tagBonusSkillPoint={%+d0} bodů dovedností
