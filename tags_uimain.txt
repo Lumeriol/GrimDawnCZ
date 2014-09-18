@@ -18,6 +18,14 @@ tagMenuButton08=Výchozí
 tagMenuButton09=Ok
 tagMenuButton10=Obnovit
 tagMenuChar={%d0} ~ {%d1}
+
+# Temporary popup message for alpha multiplayer build warning
+tagMenuMPWarning=Vítejte v testovacím režimu hry více hráčů! Varování: during the test phase, you will encounter bugs, crashes and performance issues. Please post problems to the Grim Dawn forum.
+
+#
+# Play Menu
+#
+
 tagMenuGame01=Hra jednoho hráče
 tagMenuGame02=Přidat se ke hře více hráčů
 tagMenuGame03=Založit hru více hráčů
@@ -45,15 +53,43 @@ tagMenuImport03=Jméno
 tagMenuImport04=Třída
 tagMenuImport05=Úroveň
 tagMenuImport06=Přejmenovat postavu:
+
 tagRDifficultyTitle01=Normální
 tagRDifficultyTitle02=Elitní
 tagRDifficultyTitle03=Ultimátní
-tagChallengeDifficulty=Veteránská obtížnost
+tagChallengeDifficulty=Veteránská
 tagHardcore=Hardcore
 tagChallenge=Veterán
 tagRDifficultyDesc01=Pro odemčení těžších obtížností musíš dokončit hru na této obtížnosti.
 tagRDifficultyDesc02=Pro odemčení veteránské obtížnosti musíš dokončit hru na normální obtížnost.
 tagRDifficultyDesc03=Pro odemčení elitní obtížnosti musíš dokončit hru na veteránskou obtížnost.
+tagDifficultyTitleSet=Vyber obtížnost:
+tagDifficultyTitleShow=Obtížnosti dostupné pro připojení:
+tagDifficultyNormal=Normální obtížnost
+tagDifficultyNormalVeteran=Veteránská obtížnost
+tagDifficultyElite=Elitní obtížnost
+tagDifficultyUltimate=Ultimátní obtížnost
+tagDifficultyJoinNormal=Pouze normální obtížnost
+tagDifficultyJoinElite=Až do elitní obtížnosti
+tagDifficultyJoinUltimate=Až do ultimátní obtížnosti
+tagDifficultyJoinAny=Jakákoliv obtížnost
+
+tagPlayOptionsAccept=Přijmout
+tagPlayOptionsCancel=Zrušit
+tagPlayGameModeCampaign=Hlavní kampaň
+tagPlayGameModeCustom=Vlastní hra
+tagPlayGameModeSurvival=Režim přežití
+
+tagGameStateInit=Spouštění...
+tagGameStateLoading=Načítání...
+tagGameStateStarting=Spouštění hry...
+tagGameStateConnecting=Připojování k serveru...
+tagGameStateData=Čekání na server...
+
+#
+# Options
+#
+
 tagGameplayTitle=Obecné
 tagGameplayDesc01=Tato možnost povoluje zobrazit herní nápovědu.
 tagGameplayDesc02=Tato možnost povoluje prodávat věci u obchodníka pravým tlačítkem myši.
@@ -176,10 +212,14 @@ tagAudioOption08=Častěji
 tagAudioOption09=Povolit EAX
 tagAudioOption10=Povolit hardwarové míchání zvuků
 tagAudioOption11=Hlasitost prostředí
+tagSoundDevice=Zvuková zařízení
 tagSpeakerSetup=Reproduktory
 tagHeadphoneSpeakers=Sluchátka
-tag41Speakers=4 reproduktory
-tag51Speakers=5.1 reproduktorů
+tagStereoSpeakers=Stereo
+tagQuadraphonicSpeakers=Kvadrofonní
+tagSurroundSpeakers=Prostorový zvuk
+tag51Speakers=5.1 prostorový zvuk
+tag71Speakers=7.1 prostorový zvuk
 tagVideoTitle=Grafika
 tagVideoResolution01=800 x 600
 tagVideoResolution02=1024 x 768
@@ -226,6 +266,46 @@ tagVideoOptionDepthOfField=Hloubka ostrosti
 tagVideoOptionSoftParticles=Drobné detaily
 tagVideoOptionUIScale=UI škálování
 
+tagNetworkTitle=Síť
+tagUpnpTitle=UPnP:
+tagUpnpStatus=Stav UPnP:
+tagUpnpAvailable=Dostupný
+tagUpnpNotAvailable=Nedostupný
+tagUpnpHelp=Nápověda
+tagUpnpControl=Povolit UPnP
+tagNetworkStatusTitle=Stav sítě:
+tagNetworkStatusTest=Otestovat
+tagNetworkNoOpts=Nastavení sítě není z důvodu konfigurace ve hře dostupné.{^n}Vrať se prosím do hlavního menu a otevři menu Nastavení.
+tagCloudSaving=Povolit ukládání do cloudu
+tagResetCloud=Smazat data v cloudu
+
+tagUPnPCheckFail=Služby UPnP nejsou dostupné, aby bylo možné nakonfigurovat tvůj router pro hostování serveru Grim Dawn. Zkontroluj prosím nastavení svého routeru a povol UPnP, nebo, pokud to není možné, ručně nastav svůj router tak, aby měl otevřený port 27016 pro protokoly UDP a TCP.
+
+tagUPnPNotAvailableHelp=UPnP není dostupné.  Grim Dawn nebude schopen automaticky nastavit tvůj router, abys mohl hostit internetový server. Zkontroluj prosím nastavení svého routeru a povol UPnP nebo ručně nastav svůj router tak, aby měl otevřený port 27016 pro protokoly UDP a TCP.
+
+tagUPnPEnabledHelp=UPnP je povoleno.  Není potřeba žádná manuální konfigurace.
+tagUPnPDisabledHelp=UPnP je zakázáno.  Port 27016 musí být otevřený na tvém routeru pro oba protokoly UDP a TCP, pokud chceš hostovat Grim Dawn server.
+
+tagUPnPHelp=UPnP je protokol, který umožňuje hře Grim Dawn komunikovat a ovládat tvůj router.  Pro hostování internetového serveru musí být na tvém routeru otevřeny porty.  UPnP umožňuje hře Grim Dawn otevírat tyto porty a zavírat je, pokud je server ukončen, bez nutného manuálního zásahu do konfigurace.
+
+tagIPCheckHelp=Test síťové konfigurace zkontroluje, zda lokální router má platnou, z venku viditelnou IP adresu, a že tato adresa odpovídá adresám viditelným v internetu.
+
+tagIPCheckFail=Veřejná IP adresa dodaná tvým routerem neodpovídá veřejné adrese viditelné v internetu. Obvykle je toto způsobeno pokusem hostovat Grim Dawn server za více než jedním routerem.  Zkontroluj prosím nastavení tvého routeru a znovu spusť Grim Dawn.
+
+tagIPCheckFailMaybe=Veřejná IP adresa dodána tvým routerem (%t0) není platná IP adresa.  Je možné, že tvůj router sice funguje správně, ale nehlásí veřejnou IP adresu správně.  Nicméně pokud nemůžeš hostovat Grim Dawn server, zkontroluj prostím nastavení svého routeru.  Především zkontroluj, zda Grim Dawn server není za více než jedním routerem.  Někteří internetoví poskytovatelé používají zařízení, které je modemem i routerem dohromady.  Pokud je mezi tvým Grim Dawn serverem a tímto zařízením další router, nebudeš mít možnost hostovat internetový server.
+
+tagIPCheckPass=Test síťové konfigurace byl úspěšný.  Veřejná IP adresa dodána tvým routerem odpovídá té, která je viditelná na internetu.
+
+tagIPCheckUnable=Nelze otestovat síťovou konfiguraci.  Tato kontrola vyžaduje, že lokální router má povolený UPnP protocol a že je UPnP povoleno v nastavení hry Grim Dawn.  Pokud není povolen, udělej to, restartuj Grim Dawn, a znovu spusť tento test.
+
+tagIPCheckUnableIP=Nelze získat z venku viditelnou IP adresu. Test nedokáže v tuto chvíli spustit hru.
+
+tagIPTesting=Testuji konfiguraci...
+tagIPLocalPublic=Veřejná IP adresa hlášená tvým routerem:
+tagIPExternalPublic=Veřejná IP adresa viditelná v internetu:
+tagIPInvalid=<Nelze získat adresu>
+
+
 tagMultiplayer01=Název hry
 tagMultiplayer02=Obtížnost
 tagMultiplayer03=Mapa
@@ -233,13 +313,13 @@ tagMultiplayer04=Hráči
 tagMultiplayer05=Ping
 tagMultiplayer06=Přehled
 tagMultiplayer07=Filtr názvu hry:
-tagMultiplayer08=Skrýt:
 tagMultiplayer09=Nedostupná mapa
 tagMultiplayer10=Skrýt obsazené hry
 tagMultiplayer11=Skrýt uzamčené hry
 tagMultiplayer12={%d0} / {%d1} 
 tagMultiplayer13={%d0} hodin {%d1} minut {%d2} sekund
 tagMultiplayer14=Zamčeno
+tagMultiplayer15=Verze
 
 tagMultiStats01=Mapa:
 tagMultiStats02=Hráči: {%d0} / {%d1}
@@ -265,12 +345,13 @@ tagMenuError18=Nelze se připojit. Hra, ke které se pokoušíš přidat, je ji�
 tagMenuError19=Nelze se připojit. S touto postavou nemáš odemčenu požadovanou úroveň obtížnosti.
 tagMenuError20=Špatné heslo.
 tagMenuError21=Tato hra vyžaduje vlastní mapu: {%t0}
+tagMenuError21a=Tato hra používá nekompatibilní herní režim. Tvůj režim je "{%s0"}, kdežto na serveru je "{%s1}".
+tagMenuError21b=Postavy na hardcore a klasické postavy spolu hrát nemohou. Zkus si vybrat jinou hru.
 tagMenuError22=Tato hra je plně obsazená. Vyber si prosím jinou.
 tagMenuError23=Tato hra vyžaduje úroveň postavy v rozmezí {%d0} ~ {%d1}. Vyber si prosím jinou hru.
 tagMenuError24=Některé z požadovaných změn se projeví až po restartování hry.
 tagMenuError25=V nastavení hry byly provedeny některé změny. Chceš je nyní použít?
 tagMenuError26=Nepodařilo se připojit k serveru - nemáš platný licenční klíč.
-tagMenuError27=Kliknutím na "{^y}Obnovit{^w}" zobrazíš všechny dostupné servery.
 tagMenuError28=Neplatný licenční klíč.
 tagMenuError29=Tvůj licenční klíč již používá někdo jiný.
 tagMenuError30=Tento licenční klíč byl zablokován.
@@ -286,6 +367,7 @@ tagMenuError39=Chyba při stahování aktualizačního balíčku.
 tagMenuError40=Chyba v souboru s postavou.
 tagMenuError41=Vlož prosím originální disk Grim Dawn.
 tagMenuError42=Ověření hráče pomocí Steamu se nezdařilo.
+tagConnectAborted=Spojení přerušeno.
 tagMenuWarning01=Varování: Tato činnost vytvoří kopii tvé postavy {%s}. Kopírovaná postava může být použita pouze ve vlastní hře.
 tagMenuWarning02=Přeješ si přejmenovat tuto postavu? Provede se pouze pro vlastní hru.
 tagMenuWarning03=Pokud jméno nevyplníš a stiskneš "OK", postava se stále bude jmenovat {%s}.
@@ -334,6 +416,7 @@ tagLobbyDifficulty=Obtížnost
 tagLobbyAutoparty=Automatické sdružování povoleno
 tagLobbyLanguage=Jazyk
 tagLobbyPVP=PvP povoleno
+tagLobbyHardcore=Hardcore povolen
 tagLobbyNormalDifficulty=Normální obtížnost
 tagLobbyEliteDifficulty=Elitní obtížnost
 tagLobbyUltimateDifficulty=Ultimátní obtížnost
@@ -357,7 +440,6 @@ tagLobbyDirectIP=IP:
 tagLobbyDirectPort=Port:
 tagLobbyDirectSave=Uložit
 tagLobbyDirectCancel=Zrušit
-tagLobbyCurrentQuest=Současný úkol:
 tagLobbyPlayersTitle=Hráči:
 tagLobbyServerTypeTitle=Druh serveru:
 tagLobbyServerTypeAll=Všichni
@@ -381,8 +463,8 @@ tagFriendOnline=Připojen
 tagFriendBusy=Zaněprázdněný
 tagFriendAway=Pryč
 tagFriendUnknown=Neznámý stav
-tagFriendPlayingGrimDawnSP=Hrát Grim Dawn samostatně
-tagFriendPlayingGrimDawnMP=Hrát Grim Dawn připojený
+tagFriendPlayingGrimDawnSP=Ve hře (jeden hráč)
+tagFriendPlayingGrimDawnMP=Ve hře (hra více hráčů)
 tagFriendAddButton=Přidat přítele
 tagFriendJoinGameButton=Připojit ke hře
 
@@ -397,9 +479,16 @@ tagTQ1ModInvalid=Tato mapa byla vytvořena ve starší verzi hry Grim Dawn.
 tagBrightness=Jas
 tagContrast=Kontrast
 tagGamma=Gamma obrazovky
+tagColorblind=Barvoslepost
+tagNormal=Normální
+tagProtanopia=Protanopia
+tagDeuteranopia=Deuteranopia
+tagTritanopia=Tritanopia
 
 tagOverwriteKeymap=Funkce ^y{%t0}^w už je přiřazena na klávesu ^y{%t1}^w. Chceš ji přepsat?
 tagHardDiskError=Tvému počítači dochází místo na pevném disku. Grim Dawn tak může mít problémy s ukládáním hry. Abys tomuto problému předešel, zkus uvolnit nějaké místo na disku.
 tagMenuError10=Nepodařilo se připojit k serveru. Režim nebo verze mapy neodpovídá hostitelské verzi.
 
-tagReportUsageStats=Vítej ve hře Grim Dawn Early Access.{^n}Pomoz nám prosím zlepšit Grim Dawn tím, že budeš pravidelně posílat anonymní systémové a herní statistiky.
+tagReportUsageStats=Pomoz nám prosím zlepšit Grim Dawn tím, že budeš pravidelně posílat anonymní systémové a herní statistiky.
+tagImportToSteamCloud=Máš povolené ukládání do Steam cloudu. Chceš importovat existující postavy?
+tagResetCloudWarning=Opravdu chceš smazat všechny postavy a data uložená v cloudovém uložišti?
