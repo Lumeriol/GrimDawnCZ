@@ -199,7 +199,7 @@ tagWeaponGun1hC014=Mrazivá hlaveň neúprosného Severu
 tagWeaponGun1hC015=Burrwitchský dojednavač míru
 tagWeaponGun1hC015Desc="Důvěryhodná pistole šerifa Harmona Griffitha."
 tagWeaponGun1hC016=Menhirovo pokání
-tagWeaponGun1hC017=Lamač přísah
+tagWeaponGun1hC017=Zrádce
 tagWeaponGun1hC018=Stahovač mrtvol
 
 tagWeaponGun1hD001=Střílna ďábelských jazyků
@@ -276,7 +276,7 @@ tagWeaponCrossbow2hC008=Bysmielův mizerný sochor
 tagWeaponCrossbow2hC008Desc="Symbolická zbraň oddaných stoupenců Bysmiela."
 tagWeaponCrossbow2hC009=Ulda'Jax
 tagWeaponCrossbow2hC009Desc="Primitivní, ale překvapivě efektivní zbraň z horské divočiny."
-tagWeaponCrossbow2hC010=Heraldův ochránce
+tagWeaponCrossbow2hC010=Heroldův ochránce
 
 tagWeaponCrossbow2hD001=Stříbrný šíp
 tagWeaponCrossbow2hD001Desc="Vybraná zbraň lovkyně démonů Krvavé Edith, bývalé Ch'thonské kultistky posedlé zabíjením démonů."
@@ -400,7 +400,7 @@ tagShieldC009=Záštita úlomku světla
 tagShieldC009Desc="Kovaná z nejčistšího úlomku soladrinského křišťálu."
 tagShieldC010=Templářova důvěra
 tagShieldC011=Štít vykoupení
-tagShieldC012=Chránič porušené přísahy
+tagShieldC012=Zrádcův chránič
 
 tagShieldD001=Štít z masa
 tagShieldD001Desc="Nekromantický štít vytvarovaný z hrudní dutiny nešťastného rolníka."
@@ -624,7 +624,7 @@ tagHeadC003Desc="Kdysi nošena prvním a jediným králem temnot z Cairnu, král
 tagHeadC004=Velitelská koruna
 tagHeadC005=Templářův kryt hlavy
 tagheadC005Desc="Prvotní helma Strážců Menhiru."
-tagHeadC006=Strážcova helma
+tagHeadC006=Gardistova helma
 tagHeadC007=Cestovatelova pokrývka hlavy
 tagHeadC008=Maivenina kapuce
 tagHeadC009=Kápě krvavého žence
@@ -637,7 +637,7 @@ tagHeadC014=Hrůza z hájů
 tagHeadC014Desc="Vyjmuta z kůže starodávného Trnitého děsu."
 tagHeadC015=Čelenka přadleny duší
 tagHeadC016=Vyvrhelova kapuce
-tagHeadC017=Poslova maska
+tagHeadC017=Maska herolda
 tagHeadC018=Spásný chránič obličeje
 tagHeadC019=Kápě slepého zabijáka
 tagHeadC020=Ostrostřelcovo skleněné oko
@@ -687,7 +687,7 @@ tagShoulderC001=Rukávky z bodlin divočáka
 tagShoulderC001Desc="Sešity dohromady ze zdechlin divočáků."
 tagShoulderC002=Hvězdné rukávky
 tagShoulderC003=Válečníkovy rytířské nárameníky
-tagShoulderC004=Strážcovy rytířské nárameníky
+tagShoulderC004=Gardistovy rytířské nárameníky
 tagShoulderC005=Granátníkovy chrániče ramen
 tagShoulderC005Desc="Sežehnuté a potrhané od šrapnelů a i přesto si tento kousek zbroje zachovává většinu svých ochranných vlastností."
 tagShoulderC006=Rukávky z plačícího oka
@@ -754,7 +754,7 @@ tagTorsoC002=Hrudní chránič nočního lovce
 tagTorsoC003=Pistolníkův kabátec
 tagTorsoC004=Malduinin obleček
 tagTorsoC005=Osudem kovaný prsní plát
-tagTorsoC006=Strážcův prsní plát
+tagTorsoC006=Gardistův prsní plát
 tagTorsoC007=Cestovatelova tunika
 tagTorsoC008=Kabát krvavého žence
 tagTorsoC009=Fanatikův zimník
@@ -768,7 +768,7 @@ tagTorsoC014Desc="Tento kněžský hábit kdysi nosili členové tajného spolku
 tagTorsoC015=Drátěná košile z pavoučích vláken
 tagTorsoC016=Oděv nepopsatelného vyvolávání
 tagTorsoC016Desc="Ch'thonské róby jsou nošeny pouze vybranými členy krvelačného kultu."
-tagTorsoC017=Zvěstovatelův kabátec
+tagTorsoC017=Heroldův kabátec
 tagTorsoC018=Vykoupený hrudní chránič
 tagTorsoC019=Neviditelný kabátec slepého zabijáka
 tagTorsoC020=Ostrostřelcův kabát
@@ -1098,7 +1098,7 @@ tagNecklaceC012=Nuram'Siinova zhouba
 tagNecklaceC013=Lapis lupus
 tagNecklaceC014= Androneova lakota
 tagNecklaceC014Desc="Perfektní smaragd, jímž se otevřeně vychloubal mistr daní Androneus Phillian. Než mu někdo vrazil nůž do zad."
-tagNecklaceC015=Zvěstovatelova ochrana
+tagNecklaceC015=Heroldský talisman
 tagNecklaceC016=Nevidoucí oko slepého zabijáka
 tagNecklaceC017=Přívěsek Královské koruny
 tagNecklaceC018=Přívěsek udatnosti
@@ -1149,8 +1149,8 @@ tagMedalC002=Odznak houževnatosti
 tagMedalC003=Odznak spravedlnosti
 tagMedalC004=Znak krvavého žence
 tagMedalC005=Rudé srdce
-tagMedalC006=Znak bojového zdravotníka
-tagMedalC006Desc="Udělován zdravotníkům účastnícím se bitev za jejich statečné služby v zápalu boje."
+tagMedalC006=Znak bojového léčitele
+tagMedalC006Desc="Udělován léčitelům účastnícím se bitev za jejich statečné služby v zápalu boje."
 tagMedalC007=Znak templáře
 tagMedalC008=Pečeť tajemství
 tagMedalC009=Hvězda předvoje
@@ -1311,7 +1311,7 @@ tagBlueprint_ArmorB011=Plánek: Lovcova helma
 tagBlueprint_ArmorB012=Plánek: Lovcova přilbice
 
 tagBlueprint_ArmorC001=Plánek: Gardistův ochránce
-tagBlueprint_ArmorC002=Plánek: Strážcův prsní plát
+tagBlueprint_ArmorC002=Plánek: Gardistův prsní plát
 tagBlueprint_ArmorC003=Plánek: Cestovatelova tunika
 tagBlueprint_ArmorC004=Plánek: Cestovatelovy kalhoty
 
@@ -1529,7 +1529,7 @@ tagConsumableBlueprintA12=Recept: Tajemný olej
 tagConsumableBlueprintA13=Recept: Elixír starobylých
 tagConsumableBlueprintA13Desc="Zapomenuté umění, které fušuje do zakázané magie."
 tagConsumableBlueprintA14=Recept: Elixír aetheru
-tagConsumableBlueprintA14Desc="Odvar dokonalosti podle Gildama Tajemného, aby očistil mysl od všech rozptýlení."
+tagConsumableBlueprintA14Desc="Odvar dokonalosti z pevnosti Gildam Arcanum, aby očistil mysl od všech rozptýlení."
 tagConsumableBlueprintA15=Recept: Elixír prázdnoty
 tagConsumableBlueprintA15Desc="Často používaný odvar kultem Ch'thona, aby se podobali více svému bohu."
 tagConsumableBlueprintA16=Recept: Elixír lovu
@@ -1568,7 +1568,7 @@ tagConsumableA10Desc="Odporný toxin smíšený z různých jedovatých tvorů a
 tagConsumableA11=Olej z krvavého tesáku
 tagConsumableA11Desc="Nečistý toxin způsobující svému cíli těžké krvácení."
 tagConsumableA12=Tajemný olej
-tagConsumableA12Desc="Směs, která zaměstnala Gildama Tajemného ke zvýšení magických vlastnostní zbraní."
+tagConsumableA12Desc="Směs, která zaměstnala všechny z Gildam Arcanum ke zvýšení magických vlastnostní zbraní."
 tagConsumableA13=Elixír starobylých
 tagConsumableA13Desc="Mocný elixír získaný z dávných bestií Cairnu."
 tagConsumableA14=Elixír aetheru
@@ -1917,98 +1917,98 @@ tagBonusAttribPoint={%+d0} bodů atributů
 #ItemSets
 
 
-tagItemSetC001Name=Guardsman's Raiment
-tagItemSetC001Desc="Once the standard issue equipment of peacekeepers and royal guards, only a few of these outfits survived the Grim Dawn."
+tagItemSetC001Name=Gardistovo roucho
+tagItemSetC001Desc="Kdysi to bylo běžné vybavení udržovalů míru a královských stráží. Ale pouze pár kouksů této výbavy přečkalo Ponurý úsvit."
 
 tagItemSetC002Name=Cestovatelův oděv
 tagItemSetC002Desc="Lehká, ale odolná zbroj pro dychtivého cestovatele."
 
-tagItemSetC003Name=Maiven's Sanctuary
-tagItemSetC003Desc="Regalia honoring the legendary Arcanist Maiven."
+tagItemSetC003Name=Maivenina svatyně
+tagItemSetC003Desc="Klenoty na počest legendární temné lady Maiven."
 
-tagItemSetC004Name=Bloodreaper's Glory
-tagItemSetC004Desc="Armor and weapons used only by the most bloodthirsty assassins of Cairn."
+tagItemSetC004Name=Sláva krvavého žence
+tagItemSetC004Desc="Zbroj a zbraně používané jen těmi nejkrvelačnějšími zabijáky v Cairnu."
 
 tagItemSetC005Name=Záškodníkova spravedlnost
 tagItemSetC005Desc="Soudce, porota a kat."
 
-tagItemSetC006Name=Herald's Regalia
-tagItemSetC006Desc="Armor worn by the King's herald on diplomatic missions."
+tagItemSetC006Name=Heroldské klenoty
+tagItemSetC006Desc="Zbroj nošená královskými heroldy při diplomatických misích."
 
-tagItemSetC007Name=Menhir's Touch
-tagItemSetC007Desc="Regalia worn by the priesthood of the Guardians of Menhir, designating them as healers with no diplomatic affiliation."
+tagItemSetC007Name=Dotek Menhiru
+tagItemSetC007Desc="Klenoty nošené kněžími Strážců Menhiru. Kněží byli označováni jako léčitelé bez diplomatických vlivů."
 
-tagItemSetC008Name=Redemption
-tagItemSetC008Desc="Armor worn by Templar Randall Grayweather during his lifelong crusade, in absolution for his fall from grace when he broke his sacred vows and took on a wife."
+tagItemSetC008Name=Vykoupení
+tagItemSetC008Desc="Zbroj, jež musel nosit templář Randall Grayweather na své celoživotní pouti, aby se oprostil od svého selhání, když porušil posvátné sliby a pojal ženu za svou manželku."
 
-tagItemSetC009Name=The Unseeing Eye
-tagItemSetC009Desc="The blind assassin, Thaddeus Brannagan, earned his fame when he assassinated a headmaster of the Templar order in broad daylight."
+tagItemSetC009Name=Nevidoucí oko
+tagItemSetC009Desc="Slepý zabiják Thaddeus Brannagan si vydobil svou pověst na slunci, když zavraždil templářského Velmistra za denního světla."
 
-tagItemSetC010Name=Sharpshooter's Mark
-tagItemSetC010Desc="Arsenal of master riflemen capable of hitting a flying bird at 500 yards."
+tagItemSetC010Name=Ostrostřelcův terč
+tagItemSetC010Desc="Arzenál mistrovských střelců schopných zasáhnout letíící ptáka na 500 yardů."
 
-tagItemSetC011Name=Unholy Covenant
-tagItemSetC011Desc="Cabal regalia worn during unspeakable rituals."
+tagItemSetC011Name=Bezbožná úmluva
+tagItemSetC011Desc="Spiklenecké klenoty nošené během nepopsatelných rituálů."
 
-tagItemSetC012Name=Royal Exuberance
-tagItemSetC012Desc="Royal collection of jewelry thought lost to the ravages of the Grim Dawn."
+tagItemSetC012Name=Královská nevázanost
+tagItemSetC012Desc="Královská sbírka korunovačních klenotů, o které se myslelo, že se ztratila během plenění za Ponurého úsvitu."
 
-tagItemSetC013Name=Oathbreaker
-tagItemSetC013Desc="Equipment once carried by the Oathbreaker, a knight who betrayed his king by opening the city gates to the enemy."
+tagItemSetC013Name=Zrádce
+tagItemSetC013Desc="Výbava nošená Zrádcem, rytířem, který oklamal svého krále tím, že otevřel městské brány nepříteli."
 
-tagItemSetC014Name=Adorments of Valiance
-tagItemSetC014Desc="Commendations bestowed upon soldiers for heroic actions in time of war."
+tagItemSetC014Name=Ozdoby udatnosti
+tagItemSetC014Desc="Uznání propůjčenované vojákům za hrdinství v době války."
 
-tagItemSetC015Name=Carnage
-tagItemSetC015Desc="These rings inspire bloodshed in whoever wears them."
+tagItemSetC015Name=Krveprolití
+tagItemSetC015Desc="Tyto prsteny podněcují krveprolití v tom, kdo je nosí."
 
-tagItemSetC016Name=The Paragon of Arcanum
-tagItemSetC016Desc="Regalia bestowed upon arcanists who had made extraordinary leaps in the understanding of the arcane."
+tagItemSetC016Name=Příkladné tajemství
+tagItemSetC016Desc="Klenoty kdysi zapůjčené temným pánům, kteří udělali mimořádný pokrok v pochopení temnoty."
 
-tagItemSetC017Name=Dawnguard
-tagItemSetC017Desc="Armor worn only by the most zealous defenders of the holy faith of Menhir."
+tagItemSetC017Name=Budoucí strážce
+tagItemSetC017Desc="Zbroj nošená pouze nejhorlivějšími zastánci svaté víry Menhiru."
 
-tagItemSetC018Name=Wrath of Alkamos
-tagItemSetC018Desc="Sigils of Alkamos, Lord Executioner of Arkovia"
+tagItemSetC018Name=Alkamosův hněv
+tagItemSetC018Desc="Pečetě Alkamose, Arkovianského vykonavatele spravedlnosti"
 
-tagItemSetC019Name=Miasma
-tagItemSetC019Desc="Regalia worn by Dreeg's Chosen."
+tagItemSetC019Name=Nepříjemnost
+tagItemSetC019Desc="Klenoty nošené Dreegovými Vybranými."
 
-tagItemSetC020Name=Brimstone
-tagItemSetC020Desc="Armor and weapon carried by the devout of Ulzuin."
+tagItemSetC020Name=Síra
+tagItemSetC020Desc="Zbraň a zbroj nošená Ulzuininými oddanci."
 
-tagItemSetD001Name=Justicar Armor
-tagItemSetD001Desc="Armor of Horvald the Silent, Grand Arbiter of the Guardians of Menhir."
+tagItemSetD001Name=Soudcova zbroj
+tagItemSetD001Desc="Zbroj Tichého Horvalda, nejvyššího soudce Strážců Menhiru."
 
-tagItemSetD002Name=The Sacred Balance
-tagItemSetD002Desc="The very essence of Life and Death is imbued within these blades."
+tagItemSetD002Name=Posvátná rovnováha
+tagItemSetD002Desc="V těchto nožích je prostoupena samotná podstata života a smrti."
 
-tagItemSetD003Name=Beastcaller's Regalia
-tagItemSetD003Desc="Might of the bear, wisdom of the owl, fury of the wolf."
+tagItemSetD003Name=Klenoty přivolavače zvířat
+tagItemSetD003Desc="Síla medvěda, moudrost sovy, zběsilost vlka."
 
-tagItemSetD004Name=Dawnbreaker's Light
-tagItemSetD004Desc="The wrath of the sun against the encroaching darkness."
+tagItemSetD004Name=Bojovník ranního světla
+tagItemSetD004Desc="Hněv slunce proti rozpínající se temnotě."
 
-tagItemSetD005Name=The Harbinger
-tagItemSetD005Desc="Tools of the Harbinger, renowned bounty hunter in the outskirts of Erulan."
+tagItemSetD005Name=Zvěstovatel
+tagItemSetD005Desc="Nástroje Zvěstovatele, proslulého lovce odměn odněkud z Erulanu."
 
-tagItemSetD006Name=Judicator's Signets
-tagItemSetD006Desc="The fates of many decided by the heavy hand of one."
+tagItemSetD006Name=Soudcovy pečetě
+tagItemSetD006Desc="Osudy mnoha jsou rozhodovány těžkou rukou jednoho."
 
-tagItemSetD007Name=Demonslayer's Garb
-tagItemSetD007Desc="Attire of Oliver Barnstead, pious follower of Menhir and exorcist of demons."
+tagItemSetD007Name=Oděv zabijáka démonů
+tagItemSetD007Desc="Roucho Olivera Barnsteada, zbožného stoupence Menhiru a vymítače démonů."
 
-tagItemSetD008Name=Barrelsmith's Twins
-tagItemSetD008Desc="Forged together, fight as one."
+tagItemSetD008Name=Soudkařova dvojčata
+tagItemSetD008Desc="Společně ukovány, bojují jako jeden."
 
-tagItemSetD009Name=Wildblood Vanguard
-tagItemSetD009Desc="A collection from a less civilized era."
+tagItemSetD009Name=Zdivočelý předvoj
+tagItemSetD009Desc="Sbírka z méně civilizované doby."
 
-tagItemSetD010Name=The Archmage
-tagItemSetD010Desc="Vestments once worn by the archmage of the Silver Tower, principal keep of the Gildam Arcanum."
+tagItemSetD010Name=Arcimág
+tagItemSetD010Desc="Roucho kdysi dávno nosil arcimág Stříbrné věže, hlavní pevnosti Gildam Arcanum."
 
-tagItemSetD011Name=Invoker's Elements
-tagItemSetD011Desc="The raging power of a volcano balanced by the chill of the northern wind."
+tagItemSetD011Name=Vyvolavač elementů
+tagItemSetD011Desc="Zuřivou sílu sopky vyvažuje chladem severních větrů."
 
 
 #Prefixes
@@ -2292,7 +2292,7 @@ tagSuffixB005_Ar_A=$Solaelovy potměšilosti
 tagSuffixB006_Ar_A=$Oleronova trestu
 tagSuffixB007_Ar_A=$Natuřiny úrody
 tagSuffixB008_Ar_A=$Albrechtovy pozornosti
-tagSuffixB009_Ar_A=$Gildamova tajemství
+tagSuffixB009_Ar_A=$Gildamského tajemství
 tagSuffixB010_Ar_A=prázdnoty
 tagSuffixB011_Ar_A=druida
 tagSuffixB012_Ar_A=ostří
