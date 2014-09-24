@@ -1,22 +1,22 @@
 tagTutorialTitle=Herní nápověda
-tagTutorialRollOver=Pro vypnutí herní nápovědy zaškrtni toto políčko. Po vypnutí muže být herní nápověda opět aktivována, a to ve spodní části obrazovky tlacítkem "nápověda".
+tagTutorialRollOver=Pro vypnutí herní nápovědy zaškrtni toto políčko. Po vypnutí může být herní nápověda opět aktivována, a to ve spodní části obrazovky tlačítkem "nápověda".
 tagTutorialOf=z
 tagTutorialDisable=Vypnout nápovědu
 
-tagTutorialTip06Title=Untouched Meal
-tagTutorialTip06TextA=You have discovered an abandoned meal, likely left behind by a less fortunate adventurer.{^n}{^n}By consuming it, you restored some of your Constitution.
+tagTutorialTip06Title=Nedotčené jídlo
+tagTutorialTip06TextA=Objevil jsi zbytky jídla, které po sobě nejspíš zanechal nějaký méně šťasný dobrodruh.{^n}{^n}Pokud jej pozřeš, obnovíš část své konstituce.
 
 tagTutorialTip08Title=Vítejte ve hře Grim Dawn
 tagTutorialTip08TextA=Děkujeme za podporu a pomoc - díky tobě může Grim Dawn existovat! Doufáme, že si užiješ první část hry.{^n}{^n}Měj prosím na paměti, že toto je alpha verze hry, která je vytvořena nezávislým týmem o sedmi lidech. Setkáš se s chybami, nedokončenými částmi a jen se zhruba dvěma třetinami hry. Velice uvítáme příspěvky o chybách a pocitech z hraní hry na našich fórech na www.grimdawn.com.
 
 tagTutorialTip09Title=Okno obchodníka
-tagTutorialTip09TextA=Obchodník prodává a nakupuje zbraně nutné pro prežití v oblasti Cairn.
-tagTutorialTip09TextB=V těchto zoufalých dobách není kvalitní vybavení zrovna levné. Obchodník ti nezaplatí příliš mnoho za běžné veci, ale predměty, které jsou očarované, mohou mít cenu výrazně vyšší.{^n}
+tagTutorialTip09TextA=Obchodník prodává a nakupuje zbraně a jinou výbavu nutnou pro přežití v oblasti Cairnu.
+tagTutorialTip09TextB=V těchto zoufalých dobách není kvalitní vybavení zrovna levné. Obchodník ti za běžné věci nezaplatí příliš mnoho, ale předměty, které jsou očarované, mohou mít cenu výrazně vyšší.{^n}
 
 tagTutorialTip10Title=Portály
-tagTutorialTip10TextA=Zabezpečené portály ti umožnují rychle cestovat mezi různými lokacemi v oblasti Cairn. Klikni levým tlačítkem na portál a otevře se {^y}Mapa portálů{^w}.
+tagTutorialTip10TextA=Zabezpečené portály ti umožňují rychle cestovat mezi různými lokacemi v oblasti Cairnu. Klikni levým tlačítkem na portál a otevře se {^y}Mapa portálů{^w}.
 tagTutorialTip10TextB=Objevil jsi portál v Dolním rozcestí. Umístění všech portálů, které objevíš, budou nadále přístupné na {^y}Mapě portálů{^w}.
-tagTutorialTip10SubtitleA=Osobnní portál:
+tagTutorialTip10SubtitleA=Osobní portál:
 tagTutorialTip10TextC=Protože jsi Aetherem dotčený člověk, můžeš otevírat {^y}Osobní portály{^w}. Abys aktivoval svůj Osobní portál, klikni na tlačítko Cestovat portálem ve spodní části obrazovky.
 tagTutorialTip10CaptionA=Klávesová zkratka: {^b}{%t0}{^w}{^n}
 
@@ -27,16 +27,16 @@ tagTutorialTip11TextB=Stejně jako u klasických portálů, klikni levým tlač�
 tagTutorialTip11TextC=Tvůj portál zůstane otevřen do doby, než skrz něj přicestuješ zpět. Jakmile se portál otevře, mohou skrze něj cestovat i tvoji spojenci. Vždy můžeš mít v jeden okamžik otevřený maximálně jeden Osobní portál.
 
 tagTutorialTip14Title=Lektvary
-tagTutorialTip14TextA=Lektvary zdraví a energie obnovují zdraví, respektive energii tvé postavy. Pro vypití lektvaru klikni na jeho ikonu na spodní liště a nebo stiskni přidruženou klávesu.
+tagTutorialTip14TextA=Lektvary zdraví a energie obnovují život, respektive energii, tvé postavy. Pro vypití lektvaru klikni na jeho ikonu na spodní liště a nebo stiskni přidruženou klávesu.
 tagTutorialTip14TextB=Lektvary jsou automaticky přiřazovány na poslední dvě místa na spodní liště. Lektvary můžeš libovolně přemístit tak, že klikneš pravým tlačítkem myši na požadovaný lektvar a přesuneš ho na jiné volné políčko na spodní liště.
 tagTutorialTip14TextC=Pro vypití lektvaru klikni na jeho ikonu na spodní liště a nebo stiskni přidruženou klávesu.
 
 tagTutorialTip15Title=Nová úroveň
-tagTutorialTip15TextA=Získal jsi novou úroveň. Pokaždé, když dosáhneš vyšší úrovně, získáš volné body k dovednostem a atributům.{^n}{^n} Dovednosti body můžeš uplatnit v {^y}Okně dovedností{^w}.
+tagTutorialTip15TextA=Získal jsi novou úroveň. Pokaždé, když dosáhneš vyšší úrovně, získáš volné body k dovednostem a atributům.{^n}{^n} Dovednostní body můžeš uplatnit v {^y}Okně dovedností{^w}.
 tagTutorialTip15CaptionA=Klávesová zkratka: {^b}{%t0}{^w}
-tagTutorialTip15TextB=Body atributu můžeš přiřadit v {^y}Okně postavy{^w}. Každý bod atributu zvyšuje konkrétní atribut o 8.
+tagTutorialTip15TextB=Body atributů můžeš přiřadit v {^y}Okně postavy{^w}. Každý bod atributu zvyšuje konkrétní atribut o 8.
 tagTutorialTip15CaptionB=Klávesová zkratka: {^b}{%t0}{^w}
-tagTutorialTip15TextC=Zkušenosti své postavy a množstvé zkušeností potřebných na další úroveň můžeš sledovat na zeleném pruhu na spodním panelu a v {^y}Okně postavy{^w}. Jakmile je potřebné množství naplněno, tvá postava získá novou úroveň.
+tagTutorialTip15TextC=Zkušenosti své postavy a množství zkušeností potřebných na další úroveň můžeš sledovat na zeleném pruhu na spodním panelu a v {^y}Okně postavy{^w}. Jakmile je potřebné množství naplněno, tvá postava získá novou úroveň.
 
 tagTutorialTip16Title=Okno postavy
 tagTutorialTip16TextA=Použij {^y}Okno postavy{^w} a můžeš svou postavu vybavit předměty, přerovnat si svůj inventář, využít body atributů nebo shlédnout statistiky své postavy.
@@ -46,7 +46,7 @@ tagTutorialTip16SubtitleB=Body atributů:
 tagTutorialTip16TextC=Body atributů využiješ tak, že klikneš na "{^y}+{^w}" vlevo od požadovaného atributu. Každý bod atributu zvyšuje konkrétní atribut o 8.
 
 tagTutorialTip17Title=Povolání
-tagTutorialTip17TextA=Volba povolání je rozhodnutí, které rýsuje tvou postavu. Různá povolání vede ke zcela jinému hernímu stylu, takže vybírej moudře.
+tagTutorialTip17TextA=Volba povolání je rozhodnutí, které rýsuje tvou postavu. Různá povolání veou ke zcela jinému hernímu stylu, takže vybírej moudře.
 tagTutorialTip17TextB=Jakmile si vybereš své povolání a investuješ do něj body, nebudeš moci toto povolání už změnit.
 tagTutorialTip17TextC=Jakmile dosáhneš 10. úrovně, budeš si moci zvolit druhé povolání.
 
@@ -67,9 +67,9 @@ tagTutorialTip22Title=Okno dovedností
 tagTutorialTip22TextA=Vždy když získáš novou úroveň, obdržíš nové dovednostní body. Investuj tyto body do úrovně svého povolání nebo do odemčených dovedností.
 tagTutorialTip22SubtitleA=Úroveň povolání
 tagTutorialTip22TextB=Pokud investuješ své dovednostní body do úrovně povolání, odemkneš nové řady dovedností. Úroveň svého povolání můžeš zvyšovat tak, že klikneš na tlačítko povolání v levém dolním rohu {^y}Okna dovedností{^w}.
-tagTutorialTip22TextC=Pro odemčení první řadu dovedností, musíš vložit alespoň jeden bod do úrovně svého povolání.
+tagTutorialTip22TextC=Pro odemčení první řady dovedností musíš vložit alespoň jeden bod do úrovně svého povolání.
 tagTutorialTip22SubtitleB=Úroveň dovednosti
-tagTutorialTip22TextD=Kliknutím na odemčenou ikonku dovednosti přidáš body do této dovednosti. První bod dovednosti ti umožňí danou dovednost používat. Další body v dovednosti ji učiní mnohem mocnější.
+tagTutorialTip22TextD=Kliknutím na odemčenou ikonku dovednosti přidáš body do této dovednosti. První bod dovednosti ti umožní danou dovednost používat. Další body v dovednosti ji učiní mnohem mocnější.
 tagTutorialTip22TextE=Zelené linky označují propojení s dalšími vlastnostmi této dovednosti. Musíš mít alespoň jeden bod v základní dovednosti, než budeš moci investovat body do těchto vlastností.
 
 tagTutorialTip23Title=Přiřazení dovednosti
@@ -79,22 +79,22 @@ tagTutorialTip23TextB=K aktivování dovednosti dojde kliknutím levého tlačí
 tagTutorialTip23TextC=Pasivní dovednosti (kulaté ikonky) jsou vždy aktivní a nemusejí být přiřazené do panelu rychlých voleb. Jakmile jim přidělíš body, okamžitě začnou účinkovat.{^N}{^N}
 
 tagTutorialTip24Title=Smrt
-tagTutorialTip24TextA=Když tvé zdraví klesne na 0, tvá postava zemře.{^n}{^n}Využívej možnosti, že se tvá postava může velmi rychle léčit, pokud jsi jen pár sekund mimo souboj. POkud ti ani toto nestačí, pamatuj na používání lektvarů a dovedností, aby tvá postava zůstala naživu.
+tagTutorialTip24TextA=Když tvé zdraví klesne na 0, tvá postava zemře.{^n}{^n}Využívej možnosti, že se tvá postava může velmi rychle léčit, pokud jsi jen pár sekund mimo souboj. Pokud ti ani toto nestačí, pamatuj na používání lektvarů a dovedností, aby tvá postava zůstala naživu.
 tagTutorialTip24TextB=Jakmile zemřeš, přijdeš o nějaké zkušenosti a tvá postava ožije v posledním útočišti, které navštívila. Ztráta zkušeností se zvyšuje s přibývající úrovní tvé postavy, ale část z nich můžeš získat zpět, pokud se ti podaří dostat k mohyle, kde tvá postava zemřela.
 
-tagTutorialTip27Title=Grim Dawn Multiplayer
-tagTutorialTip27TextA=You can join a party with other players in the game to share experience, iron bits and to initiate trades. Parties are also important for PvP sessions.
-tagTutorialTip27CaptionA=Shortcut key: {^b}{%t0}{^w}
-tagTutorialTip27TextB=You can initiate a trade with another player in your party by right-clicking on their status display in the upper left.
-tagTutorialTip27TextC=You can also chat with other players in the game by using the {^y}Chat Window{^w}.
-tagTutorialTip27CaptionB=Shortcut key: {^b}{%t0}{^w}
+tagTutorialTip27Title=Hra více hráčů
+tagTutorialTip27TextA=Můžeš se připojit do nějaké skupiny s ostatními hráči ve hře, abys s nimi mohl sdílet zkušenosti, železné mince nebo obchodovat. Skupiny jsou také důležiré pro pořádání soubojů hráčů mezi sebou.
+tagTutorialTip27CaptionKlávesová zkratka: {^b}{%t0}{^w}
+tagTutorialTip27TextB=Začít obchodovat můžeš s jiným hráčem ve své skupině tím, že klikneš pravým tlačítkem na jeho stav zobrazeným v levém horním rohu obrazovky.
+tagTutorialTip27TextC=S ostatními hráči ve hře si můžeš také povídat v {^y}Okně zpráv{^w}.
+tagTutorialTip27CaptionB=Klávesová zkratka: {^b}{%t0}{^w}
 
-tagTutorialTip28Title=Player Trading
-tagTutorialTip28TextA=You can trade items by placing them within your side of the trade window. You can trade iron bits by typing a value next to the icon at the top of the window.
-tagTutorialTip28TextB=Both players must accept the trade before an exchange will take place. If the trade is cancelled, all items and iron bits are returned to player inventories.
+tagTutorialTip28Title=Obchodování mezi hráči
+tagTutorialTip28TextA=Obchodování probíhá tak, že umístíš předměty na svou stranu obchodovacího okna. Také můžeš obchodovat se železnými mincemi zadáním počtz vedle ikony v horní části okna.
+tagTutorialTip28TextB=Oba hráči musí před výměnou předmětů souhlasit a přijmout obchod. Pokud je obchod zrušen, veškeré tvé předměty a železné mince se přesunou zpět do inventáře.
 
 tagTutorialTip30Title=Přidělování tvých dovedností
-tagTutorialTip30TextA=Máš nepřidělené aktivní dovednosti. Aktivní dovednosti musí být přiřazeny na panel rychlých voleb nebo na tlačítka myši dříve než je budeš moci použít.
+tagTutorialTip30TextA=Máš nepřidělené aktivní dovednosti. Aktivní dovednosti musí být přiřazeny na panel rychlých voleb nebo na tlačítka myši dříve, než je budeš moci použít.
 tagTutorialTip30TextB=Pro přiřazení dovednosti klikni pravým tlačítkem myši do pole v panelu ve spodní části obrazovky, nebo na pole tlačítka myši vpravo od panelu a vyber si z nabídky požadovanou dovednost.
 
 tagTutorialTip31Title=Používání uzdravujících lektvarů
@@ -105,7 +105,7 @@ tagTutorialTip32Title=Užití získaných bodů atributů a dovedností
 tagTutorialTip32TextA=Máš nepřiřazené body atributů a/nebo dovedností. Body atributů mohou být použity ke zvýšení tvé rafinovanosti, fyzické kondice nebo duchovna o 8 bodů za jeden vložený bod. Body dovedností můžeš použít ke zvýšení úrovně tvého povolání, odemčení nových dovedností, nebo vylepšení dovedností, které již máš odemčené.
 
 tagTutorialTip33Title=Učení dovedností
-tagTutorialTip33TextA=Investoval jsi všechny své body dovedností do úrovně svého povolání místo toho, abys získal nějakou dovednost. Až získáš další úroveň, zkus vložit některý z bodů do některé dovednosti.
+tagTutorialTip33TextA=Investoval jsi všechny své body dovedností do úrovně svého povolání místo toho, abys získal nějakou dovednost. Až získáš další úroveň, zkus vložit nějaký bod do některé dovednosti.
 tagTutorialTip33TextB=Abys přidělil body dovednosti k některé schopnosti, klikni na odemčenou ikonku dovednosti v {^y}Okně dovedností{^w}. První bod dovednosti ti umožní použít tuto dovednost. Další body učiní dovednost mnohem mocnější.
 
 tagTutorialTip34Title=Návštěva obchodníka
@@ -127,9 +127,9 @@ tagTutorialTip37TextB=Svůj prostor pro úschovu předmětů můžeš rozšíři
 tagTutorialTip38Tile=Přesun předmětů
 tagTutorialTip38TextA=Předměty umístěné v Pašerákově komoře pro přesun předmětů budou sdíleny mezi tvými ostatními postavami (předměty pro normální a hardcore hru jsou však odděleny).
 tagTutorialTip38SubtitleA=Přesun předmětů mezi postavami
-tagTutorialTip38TextB=Pro přesun předmětů umístit předmět do předávací komory. Jakmile budeš hrát s jinou postavou, předměty u Pašeráka ti budou opět dostupné.
+tagTutorialTip38TextB=Pro přesun předmětů umísti předmět do předávací komory. Jakmile budeš hrát s jinou postavou, předměty u Pašeráka ti budou opět dostupné.
 tagTutorialTip38SubtitleB=Přesun mezi hráči
-tagTutorialTip38TextC=Pro zprosředkování přesunu předmětů mezi hráči v multihře musíš použít funkci obchodu.
+tagTutorialTip38TextC=Pro zprosředkování přesunu předmětů mezi hráči ve hře více hráčů musíš použít funkci obchodu.
 
 tagTutorialTip39Title=Vynálezce
 tagTutorialTip39TextA=Vynálezci jsou schopni odstranit komponenty z předmětů. V tomto procesu zůstane zachován buď předmět, nebo patřičná komponenta.
@@ -137,28 +137,28 @@ tagTutorialTip39SubtitleA=Odstraňování komponent
 tagTutorialTip39TextB=Odstranění komponent z předmětů stojí poplatek úměrný sjednocené hodnotě předmětu a komponenty. Pro započetí odstranění umísti předmět s komponentou k vynálezci.{^N}{^N}Můžeš zachovat buď předmět nebo komponentu.{^N}{^N}Pokud zachováš předmět, komponenta bude zničena. A samozřejmě to platí i obráceně.{^N}{^N}
 
 tagTutorialTip42Title=Kovář
-tagTutorialTip42TextA=Kovář je schopný vytvářet předmět mocnou silou. Je to už zkušený řemeslník a všechno co vyrobí, obsahuje malý kovářský bonus, ale jeho znalosti mohou být prohloubeny pomocí nových plánků.
+tagTutorialTip42TextA=Kovář je schopný vytvářet předmět mocnou silou. Je to už zkušený řemeslník a všechno co vyrobí, obsahuje malý kovářský bonus. Kovářovy znalosti mohou být prohloubeny pomocí nových plánků.
 tagTutorialTip42SubtitleA=Plánky
 tagTutorialTip42TextB=Kovář se naučí, jak vyrábět nové předměty, jakmile najdeš nový plánek. Plánky mohou být získány z úkolů, nebo je lze najít různě po světě.
 tagTutorialTip42SubtitleB=Vytváření předmětů
-tagTutorialTip42TextC=Chceš-li vytvořit předmět, nejprve si vyber recept ze seznamu. Pak umísti požadované předměty do určených prostorů v rozhraní pro vytváření předmětů, nebo použij Shift + kliknutí na předmět ve svém inventáři.{^N}{^N}Jakmile jsou všechny požadované materiály na svých pozicích, stiskni tlačítko Zkombinovat, aby byl předmět vytvořen.{^N}{^N}
+tagTutorialTip42TextC=Chceš-li vytvořit předmět, nejprve si vyber recept ze seznamu. Pak umísti požadované předměty do určených prostorů v rozhraní pro vytváření předmětů, nebo použij klávesu Shift + kliknutí na předmět ve svém inventáři.{^N}{^N}Jakmile jsou všechny požadované materiály na svých pozicích, stiskni tlačítko Zkombinovat, aby byl předmět vytvořen.{^N}{^N}
 
 tagTutorialTip43Title=Plánky
 tagTutorialTip43TextA=Plánky jsou zapomenuté šablony pro vytváření mocných předmětů, které může kovář zkoumat.
 tagTutorialTip43TextB=Aby ses naučil plánku, klikni na něj pravým tlačítkem myši. Pokud tento plánek ještě neznáš, bude přidán na seznam předmětů u kováře.{^n}{^n}Plánky pak zná každý kovář, ať už hraješ za jakoukoliv postavu (odděluje se pouze normální a hardcore hra). Každý plánek se tak musíš učit nanejvýše jednou.
 
 tagTutorialTip44Title=Ztracený kovář!
-tagTutorialTip44TextA=Naučil ses novému plánku, ale nemáš kováře schopného pro tebe daný předmět vytvořit.{^n}{^n}Než budeš moci vytvářet předměty, budeš muset nejdříve najít kováře.{^n}{^n}Kovář bude okamžitě vědět, jak tento předmět podle plánku vytvořit.
+tagTutorialTip44TextA=Naučil ses novému plánku, ale nemáš kováře schopného pro tebe daný předmět vytvořit.{^n}{^n}Než budeš moci vytvářet předměty, budeš muset nejdříve najít nějakého kováře.{^n}{^n}Kovář bude okamžitě vědět, jak daný předmět podle plánku vytvořit.
 tagTutorialTip44TextB=
 
-tagTutorialTip45Title=Constitution
-tagTutorialTip45TextA=When combat ends and your health bar is not full, a secondary regeneration system activates called Constitution.{^N}{^N}Constitution will rapidly refill your health bar, but will also be drained in the process. The yellow indicator over your health bar is your Constitution.{^N}{^N}
-tagTutorialTip45TextB=Constitution automatically refills when you find Food Rations or Vital Essence, and when you reach the next Character Level or Die.{^N}{^N}If your Constitution runs out, you will no longer rapidly regenerate health outside of combat.{^N}{^N}
+tagTutorialTip45Title=Konstituce
+tagTutorialTip45TextA=Jakmile skončí souboj a tvůj život není na maximu, aktivuje se druhotný regenerační systém zvaný Konstituce.{^N}{^N}Konstituce ti urychleně doplní tvůj život, ale její hodnota pro změnu klesne. KOnstituci indikuje žlá barva na tvém ukazateli života.{^N}{^N}
+tagTutorialTip45TextB=Konstituce se automaticky sama doplní, jakmile najdeš nějakou porci jídla nebo esenci života, případně pokud dosáhneš další úrovně. Také se doplní pokud zemřeš.{^N}{^N}Pokud tvá konstituce z tebe vyprchá, nebude se ti mimo bojiště tak rychle obnovovat zdraví.{^N}{^N}
 
-tagTutorialTip46Title=Out of Constitution
-tagTutorialTip46TextA=You have run out of Constitution and will no longer rapidly regenerate health out of combat. You can restore your Constitution with Food Rations or Vital Essence.
+tagTutorialTip46Title=Nedostatek konstituce
+tagTutorialTip46TextA=Vyprchala z tebe veškerá konstituce, což znamená, že nebudeš schopen rychle obnovovat své zdraví mimo bojiště. Svou konstituci můžeš opět obnovit požitím porce jídla nebo esence života.
 
-tagTutorialTip47Title=Dismantling
-tagTutorialTip47TextA=You have unlocked a new feature for the Inventor, allowing you to break down items into Scrap, with a chance of generating a Component piece. The more powerful the item, the more likely it will generate powerful Components.
-tagTutorialTip47SubtitleA=Dismantling an Item
-tagTutorialTip47TextB=To Dismantle an item, you will require Dynamite and iron bits. A Dismantled item is destroyed forever. Place an item of at least Magical quality in the Inventor's Dismantling UI to begin.{^N}{^N}Upon pressing the Dismantle button, the required Dynamite and iron bits cost is deducted from your inventory and the item is converted to basic parts.{^N}{^N}
+tagTutorialTip47Title=Rozebírání
+tagTutorialTip47TextA=Odemkl jsi novou vlastnost vynálezce - rozebírání předmětů na základní součástky, s malou možností získat část komponenty. Čím mocnější předmět rozebereš, tím větší je pravděpodobnost, že získáš lepší komponentu.
+tagTutorialTip47SubtitleA=Rozebrání předmětu
+tagTutorialTip47TextB=K rozebrání předmětu budeš potřebovat dynamit a železné mince. Rozebraný předmět je tak navždy zničen. Umísti předmět alespoň magické kvality do vynálezcovy rozkladové komory, aby proces mohl začít.{^N}{^N}Po stisknutí tlačítka Rozebrat se z tvého inventáře odebere potřebné množství dynamitu a železných mincí, a předmět se rozebere na základní součástky{^N}{^N}
