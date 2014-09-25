@@ -370,29 +370,29 @@ tagItemCompareGround=Předmět na zemi
 tagCharStatsRunSpeed=Rychlost běhu
 tagCharStatsRunSpeedInfo=Rychlost, jakou může tvá postava běhat vzhledem k výchozímu stavu (včetně celkové rychlosti).
 tagCharStatsLifeRegen=Obnova zdraví
-tagCharStatsLifeRegenInfo=Hodnot udávající rychlost doplnění tvého zdraví, zatímco jsi v boji. Procentuální bonusy mají vliv pouze na regeneraci z výstroje a nikoliv na základní regeneraci.
+tagCharStatsLifeRegenInfo=Hodnota udávající rychlost obnovení tvého zdraví, zatímco jsi v boji. Procentuální bonusy mají vliv pouze na regeneraci z výstroje a nikoliv na základní regeneraci.
 tagCharStatsEnergyRegen=Obnova energie
-tagCharStatsEnergyRegenInfo=The rate at which your energy replenishes. Percent bonuses only affect regeneration from gear, not base regeneration.
+tagCharStatsEnergyRegenInfo=Hodnota udávající rychlost obnovení tvé energie. Procentuální bonusy mají vliv pouze regeneraci z výstroje a nikoliv na základní regeneraci.
 tagCharStatsEnergyAbsorption=Absorpce energie
-tagCharStatsEnergyAbsorptionInfo=The percent by which the energy spent on attacks and spells that strike you will replenish your own energy reserves.
-tagCharStatsConstitution=Constitution Bonus
-tagCharStatsConstitutionInfo=The percentage bonus to your maximum constitution.
+tagCharStatsEnergyAbsorptionInfo=Udává, kolik procent energie vydané na výpady a kouzla, kterými se strefíš, ti bude navráceno zpět do tvé zásoby energie.
+tagCharStatsConstitution=Bonus ke konstituci
+tagCharStatsConstitutionInfo=Procentuální bonus ke tvé maximální konstituci.
 tagCharStatsExpGainedBonus=Získané zkušenosti
-tagCharStatsExpGainedBonusInfo=The percent bonus to all experience gained from monster kills.
+tagCharStatsExpGainedBonusInfo=Procentuální bonus ke všem zkušenostem získaných za zabití nepřátel.
 tagCharStatsLightRadiusBonus=Dosah světla
-tagCharStatsLightRadiusBonusInfo=The percent bonus to the light radius around your character.
+tagCharStatsLightRadiusBonusInfo=Procentuální bonus k dosahu světla, které vydává tvá postava.
 tagCharStatsAllSkillsBonus=Všechny dovednosti
-tagCharStatsAllSkillsBonusInfo=Bonus to all learned skills in your masteries.
+tagCharStatsAllSkillsBonusInfo=Bonus ke všem naučeným povoláním.
 tagCharStatsSoldierSkillsBonus=Dovednosti Vojáka
-tagCharStatsSoldierSkillsBonusInfo=Bonus to all learned skills in the Soldier Mastery.
+tagCharStatsSoldierSkillsBonusInfo=Bonus ke všem naučeným dovednostem v povolání Vojáka,
 tagCharStatsDemoSkillsBonus=Dovednosti Ničitele
-tagCharStatsDemoSkillsBonusInfo=Bonus to all learned skills in the Demolitionist Mastery.
+tagCharStatsDemoSkillsBonusInfo=Bonus ke všem naučeným dovednostem v povolání Ničitele.
 tagCharStatsOccuSkillsBonus=Dovednosti Okultisty
-tagCharStatsOccuSkillsBonusInfo=Bonus to all learned skills in the Occultist Mastery.
+tagCharStatsOccuSkillsBonusInfo=Bonus ke všem naučeným dovednostem v povolání Okultisty.
 tagCharStatsNightbladeSkillsBonus=Dovednosti Nočního lovce
-tagCharStatsNightbladeSkillsBonusInfo=Bonus to all learned skills in the Nightblade Mastery.
+tagCharStatsNightbladeSkillsBonusInfo=Bonus ke všem naučeným dovednostem v povolání Nočního lovce.
 tagCharStatsArcanistSkillsBonus=Dovednosti Pána temnot
-tagCharStatsArcanistSkillsBonusInfo=Bonus to all learned skills in the Arcanist Mastery.
+tagCharStatsArcanistSkillsBonusInfo=Bonus ke všem naučeným dovednostem v povolání Pána temnot.
 
 #Physical
 tagCharStatsAttackSpeed=Útočná rychlost
@@ -402,12 +402,12 @@ tagCharStatsAvgDmgDescription=Zranění způsobené zásahem dle základního ú
 
 tagCharStatsPhysicalAbsDmg=Fyzické zranění
 tagCharStatsPhysicalAbsDmgInfo=The Physical Damage done per hit with your base attack, including bonuses.
-tagCharStatsPhysicalPercentDmg=Physical Modifier
+tagCharStatsPhysicalPercentDmg=Fyzický násobitel
 tagCharStatsPhysicalPercentDmgInfo=The percent bonus to all Physical Damage.
 
 tagCharStatsPierceAbsDmg=Zranění probodnutím
 tagCharStatsPierceAbsDmgInfo=The Pierce Damage done per hit with your base attack, including bonuses.
-tagCharStatsPiercePercentDmg=Pierce Modifier
+tagCharStatsPiercePercentDmg=Násobitel probodnutí
 tagCharStatsPiercePercentDmgInfo=The percent bonus to all Pierce Damage.
 
 tagCharStatsBleedAbsDmg=Zranění krvácením
@@ -511,47 +511,47 @@ tagCharStatsVitalityDecayDuration=Vitality Decay Duration
 tagCharStatsVitalityDecayDurationInfo=The percent bonus to the duration of your Vitality Decay Damage attacks. The damage per second is not increased.
 
 #Pets
-tagCharStatsPetHealth=Life
-tagCharStatsPetHealthInfo=The percent bonus to the Health of your pets and summoned minions.
+tagCharStatsPetHealth=Život
+tagCharStatsPetHealthInfo=Procentuální bonus ke zdraví tvých spojenců a vyvolaných příšer.
 
-tagCharStatsPetDamage=Damage
-tagCharStatsPetDamageInfo=The percent bonus to the Damage of your pets and summoned minions.
+tagCharStatsPetDamage=Zranění
+tagCharStatsPetDamageInfo=Procentuální bonus ke zranění způsobeného tvými spojenci a vyvolanými příšerami.
 
-tagCharStatsPetAttackSpeed=Attack Speed
-tagCharStatsPetAttackSpeedInfo=The percent bonus to the Attack Speed of your pets and summoned minions.
+tagCharStatsPetAttackSpeed=Útočná rychlost
+tagCharStatsPetAttackSpeedInfo=Procentuální bonus k útočné rychlosti tvých spojenců a vyvolaných příšer.
 
-tagCharStatsPetCastSpeed=Cast Speed
-tagCharStatsPetCastSpeednfo=The percent bonus to the Cast Speed of your pets and summoned minions.
+tagCharStatsPetCastSpeed=Rychlost kouzlení
+tagCharStatsPetCastSpeednfo=Procentuální bonus k rychlosti kouzlení tvých spojenců a vyvolaných příšer.
 
-tagCharStatsPetRunSpeed=Run Speed
-tagCharStatsPetRunSpeednfo=The percent bonus to the Run Speed of your pets and summoned minions.
+tagCharStatsPetRunSpeed=Rychlost běhu
+tagCharStatsPetRunSpeednfo=Procentuální bonus k rychlosti běhu tvých spojenců a vyvolaných příšer.
 
-tagCharStatsPetOA=Offensive Ability
-tagCharStatsPetOAInfo=The percent bonus to the Offensive Ability of your pets and summoned minions.
+tagCharStatsPetOA=Útočná schopnost
+tagCharStatsPetOAInfo=Procentuální bonus k útočné schopnosti tvých spojenců a vyvolaných příšer.
 
-tagCharStatsPetDA=Defensive Ability
-tagCharStatsPetDAInfo=The percent bonus to the Defensive Ability of your pets and summoned minions.
+tagCharStatsPetDA=Obranná schopnost
+tagCharStatsPetDAInfo=Procentuální bonus k obranné schopnosti tvých spojenců a vyvolaných příšer.
 
 #Char Stats Tab 3
 
 #Defense
-tagCharStatsBlockChance=Chance to Block
-tagCharStatsBlockChanceDescription=The percent chance of blocking an incoming attack.
+tagCharStatsBlockChance=Šance na vykrytí
+tagCharStatsBlockChanceDescription=Procentuální šance na vykrytí příchozího útoku.
 
-tagCharStatsBlockAmount=Damage Blocked
-tagCharStatsBlockAmountDescription=The amount of damage that will be negated by a successful block.
+tagCharStatsBlockAmount=Vykrytí zranění
+tagCharStatsBlockAmountDescription=Množství zranění, které jsi odvrátil úspěšným vykrytím.
 
-tagCharStatsBlockRecovery=Block Recovery
-tagCharStatsBlockRecoveryInfo=The percent by which your block recovery is reduced.
+tagCharStatsBlockRecovery=Obnovení vykrytí
+tagCharStatsBlockRecoveryInfo=Udává počet procent, o které se sníží tvé obnovení vykrytí.
 
-tagCharStatsDodgeChance=Dodge Chance
-tagCharStatsDodgeChanceInfo=The percent chance of evading a melee attack, negating the damage completely.
+tagCharStatsDodgeChance=Šance na vyhnutí
+tagCharStatsDodgeChanceInfo=Procentuální šance na vyhnutí se útoku zblízka a úplnému se vyhnutí zranění.
 
-tagCharStatsProjDeflectChance=Deflect Chance
-tagCharStatsProjDeflectChanceInfo=The percent chance of deflecting a ranged attack, negating the damage completely.
+tagCharStatsProjDeflectChance=Šance na odražení
+tagCharStatsProjDeflectChanceInfo=Procentuální šance na odražení střeleckého útoku a úplnému se vyhnutí zranění.
 
-tagCharStatsPhysicalResist=Physical Resist
-tagCharStatsPhysicalResistInfo=Resistance to spells and attacks which cause direct Physical Damage.
+tagCharStatsPhysicalResist=Fyzická odolnost
+tagCharStatsPhysicalResistInfo=Odolnost vůči kouzlům a útokům způsobujícím fyzické zranění.
 
 tagCharStatsDisruptionResist=Disruption Resist
 tagCharStatsDisruptionResistInfo=Resistance to spells and attacks which interrupt your ability to cast skills.
@@ -665,8 +665,8 @@ tagCharStatsVitalityDecayPercentRet=Vitality Decay Modifier
 tagCharStatsVitalityDecayPercentRetInfo=The percent bonus to all Vitality Decay Damage Retaliation effects.
 
 #Stats
-tagCharStatsItemLevel=Average Item Level
-tagCharStatsItemLevelInfo=The average item level of all your equipment.
+tagCharStatsItemLevel=Průměrná úroveň předmětů
+tagCharStatsItemLevelInfo=Průměrná úroveň celé tvé výbavy a předmětů, které máš na sobě.
 
 tagRecordTime=Uplynulý čas
 tagRecordTimeNumber={%d0}:{%d1}:{%d2}
@@ -675,8 +675,8 @@ tagRecordTimeInfo=Celkově odehraný čas ve dnech, hodinách a minutách.
 tagRecordMonsterKills=Zabití nepřátelé
 tagRecordMonsterKillsInfo=Celkový počet nepřátel, které tvá postava zabila.
 
-tagRecordChampionKills=Champions Killed
-tagRecordChampionKillsInfo=Total number of enemy Heroes and Bosses your character has killed.
+tagRecordChampionKills=Zabití šampióni
+tagRecordChampionKillsInfo=Celkový počet nepřátelských hrdinů a padouchů, které tvá postava zabila.
 
 tagRecordHighestMonster=Nejlepší zabitý nepřítel
 tagRecordHighestMonsterInfo=Nejsilnější nepřítel, kterého tvá postava byla schopna zabít.
@@ -927,7 +927,7 @@ tagCharAttribute02={%+.0f0} {^E}fyzická kondice
 tagCharAttribute03={%+.0f0} {^E}duchovno
 tagCharAttribute04={%+.0f0} {^E}zdraví
 tagCharAttribute05={%+.0f0} {^E}energie
-tagCharConstitution={%+.0f0} {^E}Výdrž
+tagCharConstitution={%+.0f0} {^E}konstituce
 tagCharLifeRegen={%+.1f0} {^E}bodů obnovy zdraví za sekundu
 tagCharManaRegen={%+.1f0} {^E}bodů obnovy energie za sekundu
 
@@ -936,7 +936,7 @@ tagCharAttribute02Modifier={%+.0f0}% {^E}fyzické kondice
 tagCharAttribute03Modifier={%+.0f0}% {^E}duchovna
 tagCharAttribute04Modifier={%+.0f0}% {^E}zdraví
 tagCharAttribute05Modifier={%+.0f0}% {^E}energie
-tagCharConstitutionModifier={%+.0f0}% {^E}Výdrž
+tagCharConstitutionModifier={%+.0f0}% {^E}konstituce
 tagCharLifeRegenModifier={^E}Zvyšuje obnovu zdraví o {%.0f0}%
 tagCharManaRegenModifier={^E}Zvyšuje obnovu energie o {%.0f0}%
 

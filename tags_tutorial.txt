@@ -4,7 +4,7 @@ tagTutorialOf=z
 tagTutorialDisable=Vypnout nápovědu
 
 tagTutorialTip06Title=Nedotčené jídlo
-tagTutorialTip06TextA=Objevil jsi zbytky jídla, které po sobě nejspíš zanechal nějaký méně šťasný dobrodruh.{^n}{^n}Pokud jej pozřeš, obnovíš část své konstituce.
+tagTutorialTip06TextA=Objevil jsi zbytky jídla, které po sobě nejspíš zanechal nějaký méně šťastný dobrodruh.{^n}{^n}Pokud jej pozřeš, obnovíš část své konstituce.
 
 tagTutorialTip08Title=Vítejte ve hře Grim Dawn
 tagTutorialTip08TextA=Děkujeme za podporu a pomoc - díky tobě může Grim Dawn existovat! Doufáme, že si užiješ první část hry.{^n}{^n}Měj prosím na paměti, že toto je alpha verze hry, která je vytvořena nezávislým týmem o sedmi lidech. Setkáš se s chybami, nedokončenými částmi a jen se zhruba dvěma třetinami hry. Velice uvítáme příspěvky o chybách a pocitech z hraní hry na našich fórech na www.grimdawn.com.
@@ -54,7 +54,7 @@ tagTutorialTip19Title=Komponenty
 tagTutorialTip19TextA=Komponenty mohou být použity k vylepšení tvého vybavení. Vždy je nalezneš jen jako úlomky, které mohou být spojeny dohromady, čímž se zvyšují jejich bonusy.{^n}{^n}Legendy vypráví o vzácných komponentách s pradávnou mocí, které jsou označeny světle žlutou barvou.
 tagTutorialTip19TextB=Pro použití úlomku na něj klikni pravým tlačítkem. Poté ho můžeš buď spojit s jiným úlomkem stejného typu, nebo jej použít na nějaký předmět.
 
-tagTutorialTip20Title=Použití komponenet
+tagTutorialTip20Title=Použití komponent
 tagTutorialTip20SubtitleA=Připevňování komponent
 tagTutorialTip20TextA=Pravým tlačítkem myši si vyber komponentu a pak klikni levým tlačítkem myši na předmět, ke kterému chceš komponentu připevnit. Pamatuj, že každá komponenta může být použita pouze na určitém typu předmětů.
 tagTutorialTip20SubtitleB=Skládání komponent
@@ -84,7 +84,7 @@ tagTutorialTip24TextB=Jakmile zemřeš, přijdeš o nějaké zkušenosti a tvá 
 
 tagTutorialTip27Title=Hra více hráčů
 tagTutorialTip27TextA=Můžeš se připojit do nějaké skupiny s ostatními hráči ve hře, abys s nimi mohl sdílet zkušenosti, železné mince nebo obchodovat. Skupiny jsou také důležiré pro pořádání soubojů hráčů mezi sebou.
-tagTutorialTip27CaptionKlávesová zkratka: {^b}{%t0}{^w}
+tagTutorialTip27Caption=Klávesová zkratka: {^b}{%t0}{^w}
 tagTutorialTip27TextB=Začít obchodovat můžeš s jiným hráčem ve své skupině tím, že klikneš pravým tlačítkem na jeho stav zobrazeným v levém horním rohu obrazovky.
 tagTutorialTip27TextC=S ostatními hráči ve hře si můžeš také povídat v {^y}Okně zpráv{^w}.
 tagTutorialTip27CaptionB=Klávesová zkratka: {^b}{%t0}{^w}
