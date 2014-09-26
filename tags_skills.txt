@@ -1023,8 +1023,8 @@ tagItemSkillC083Desc=Vypustí salvu munice naplněnou tajemnem. Aplikuje schopno
 tagItemSkillC084Name=Tíživá atmosféra
 tagItemSkillC084Desc=Vypustí oblak toxických plynů, který začne dusit tvé nepřátele a zmate je.
 
-tagItemSkillC085Name=Vyvolá Blighted Rift Scourge
-tagItemSkillC085Desc=Vyvolá Blighted Rift Scourge z hlubin, aby následoval jakýkoliv tvůj rozkaz. ^oV jeden čas může být vyvolán pouze jeden Blighted Rift Scourge.
+tagItemSkillC085Name=Vyvolá Zkázonosného kreveraka
+tagItemSkillC085Desc=Vyvolá Zkázonosného kreveraka z hlubin, aby následoval jakýkoliv tvůj rozkaz. ^oV jeden čas může být vyvolán pouze jeden Zkázonosný kreverak.
 tagItemSkillC085PetSkillName01=Jedovaté plivnutí
 tagItemSkillC085PetSkillName02=Exploze jedu
 
