@@ -55,7 +55,7 @@ tagSkillClassDescription03=Poté, co byli pronásledováni císařskými vojsky 
 
 tagSkillClassDescription04=Noční lovci byli tajní bojovníci, kteří nabízeli své služby velkým rodům v říši. Noční lovci vynikají v boji se všemi druhy bojových zbraní, ale největší obavy vzbuzují smrtící magické nože, jež jsou jejich obchodním tajemstvím. Noční lovci nejsou přizpůsobeni k tělesnému kontaktu s odolnějším nepřítelem a raději se spoléhají na svou iluzi o rychlém a zničujícím přepadení, nebo na boj z určité vzdálenosti s jejich přízračnými noži.
 
-tagSkillClassDescription05=Pro Pány temnot není tajemství magie nějaká nevysvětlitelná záhada nebo vůle bohů, ale věda, která chce být odtajněna. Tato snaha o poznání žene všechny Pány temnoty dychtivě dál za objevováním nových způsobů, které by si mohli osvojit. Pán temnot vychyluje Éterickou a živelnou energii podle své vůle, čímž tvoří ničivou demonstraci síly, kterou může použít na malé armády. Nicméně tahle hrubá síla znamená chabou obranu.
+tagSkillClassDescription05=Pro Pány temnot není tajemství magie nějaká nevysvětlitelná záhada nebo vůle bohů, ale věda, která chce být odtajněna. Tato snaha o poznání žene všechny Pány temnot dychtivě dál za objevováním nových způsobů, které by si mohli osvojit. Pán temnot vychyluje Éterickou a živelnou energii podle své vůle, čímž tvoří ničivou demonstraci síly, kterou může použít na malé armády. Nicméně hrubá síla znamená chabou obranu.
 
 tagSkillClassDescription06=
 
@@ -458,93 +458,93 @@ tagClass04SkillDescription15B=Mistrovská technika, která vylepšuje Vyvržení
 #Class05
 
 tagClass05SkillName00=Pán temnot
-tagClass05SkillDescription00=Conditioning of the body and mind to withstand the corrupting power of raw magic.
+tagClass05SkillDescription00=Trénování těla a mysli pomáhá snést zničující síly prvotní m
 
-tagClass05SkillName01A=Panetti's Replicating Missile
-tagClass05SkillDescription01A=The greatest of the Cortosian Arcanists, Panetti devoted himself to advancing the classic arcane missile. His triumph is an alteration that seemingly defies the laws of conservation of energy, causing the missile to be replicated on impact, spawning multiple copies of itself.
-tagClass05SkillName01B=Distortion
-tagClass05SkillDescription01B=Replicating Missile distorts your enemy's very being, increasing the chance that the projectile will pass through your target.
-tagClass05SkillName01C=Supercharged
-tagClass05SkillDescription01C=The air around the Replicating Missile becomes supercharged with static energy, electrocuting any enemies unfortunate enough to come in contact with the projectile.
-tagClass05SkillName01D=Proliferation
-tagClass05SkillDescription01D=A more advanced technique of Replicating Missile perfected by a student of Panetti draws upon the energy of the target itself to spawn even more missiles on impact.
-tagClass05SkillName01E=Concussive Missile
-tagClass05SkillDescription01E=Manifests the power of the Replicating Missile into the corporeal realm, causing it to inflict physical as well as metaphysical harm.
+tagClass05SkillName01A=Panettiho replikující se raketa
+tagClass05SkillDescription01A=Největší s Cortosianských arkanistů, Panetti, se věnoval vylepšení klasické arkanické rakety. Jeho triumfem je změna, která očividně popírá zákony zachování energie, což způsobí, že raketa při dopadu vytvoří vícero vlastních kopií.
+tagClass05SkillName01B=Zkomolení
+tagClass05SkillDescription01B=Replikující se raketa zkomolí samotnou podstatu tvého nepřítele, což zvýší šance na to, že raketa projde skrze tvůj cíl.
+tagClass05SkillName01C=Přeplňování
+tagClass05SkillDescription01C=Vzduch kolem Replikující se rakety se stává přeplněnou statickou energií a ta zasáhne elektrickým proudem jakéhokoliv nepřítele, který se, bohužel pro něj, dostane do kontaktu s projektilem.
+tagClass05SkillName01D=Proliferace
+tagClass05SkillDescription01D=Pokročilá technika Replikující se rakety k dokonalosti dovedená Panettiho studentem. Při dopadu přejímá energii od samotného cíle a tak může vzniknout ještě větší počet raket.
+tagClass05SkillName01E=Konkuzivní raketa
+tagClass05SkillDescription01E=Převede energii Replikující se rakety do hmotného světa a tak způsobí fyzické i metafyzické škody.
 
-tagClass05SkillName02A=Iskandra's Elemental Exchange
-tagClass05SkillDescription02A=Iskandra taught her students that the most efficient path of victory was to turn an opponent's own energies against them. Just so, Elemental Exchange causes the weapons of allies to hungrily absorb arcane energy from foes and return it in the form of elemental damage. ^oThis ability must be toggled to maintain its effect.
-tagClass05SkillName02B=Overload
-tagClass05SkillDescription02B=The incantation becomes overloaded with arcane forces, causing your weapons to crackle with the raw powers of the elements.
-tagClass05SkillName02C=Elemental Balance
-tagClass05SkillDescription02C=Strike a finely-tuned balance within your incantation, harmonizing the opposing forces of fire and ice with wild electricity to create pure arcane energy.
-tagClass05SkillName02D=Manifestation
-tagClass05SkillDescription02D=Arcane energies manifest in many forms. Arcanists who delve into the art of summoning often transfer some of their power to their loyal minions so that they can better serve the will of their masters.
+tagClass05SkillName02A=Iskandřina Výměna živlů
+tagClass05SkillDescription02A=Iskandra učila svoje studenty, že nejúčinější cesta k vítězství je obrátit energie tvých nepřátel proti nim samotným. A právě Výměna živlů způsobuje, že zbraně tvých spojenců hladově absorbuje arkanickou energii z tvých nepřátel a vrací jí ve formě elementárního poškození. ^oTato schopnost musí být nastavena jako výchozí typ útoku, aby účinkovala.
+tagClass05SkillName02B=Přetížení
+tagClass05SkillDescription02B=Zaklínadlo se stává přetíženým arkanickými silami, což způsobuje, že tvé zbraně doslova praskají pod hrubou sílou živlů.
+tagClass05SkillName02C=Elementární rovnováha
+tagClass05SkillDescription02C=Zaklínadlem vyvolaný a velmi dobře vybalancovaný úder, jež harmonizuje oheň a led spolu s nespoutanou elektřinou, jež dohromady tvoří čistou arkanickou energii.
+tagClass05SkillName02D=Zjevení
+tagClass05SkillDescription02D=Arkanické energie se zjevují v mnoha formách. Arkanisté, kteří se odevzdali umění vyvolávání, často převádějí některou z jejich sil na jejich přisluhovače a ti pak mohou lépe posloužit vůli svých pánů.
 
-tagClass05SkillName03A=Trozan's Sky Shard
-tagClass05SkillDescription03A=The mythical Trozan was said to be a natural; wild and unwilling to conform to the doctrines of the Imperial Arcanists. When the Imperials finally surrounded his mountaintop refuge, Trozan humbled them using an unknown technique to bring down the very sky upon them. ^oDrops 3 shards upon the target area.
-tagClass05SkillName03B=Frozen Core
-tagClass05SkillDescription03B=The ice trapped within the Sky Shard becomes released upon collision, bathing those near the point of impact with a freezing chill.
-tagClass05SkillName03C=Shattered Star
-tagClass05SkillDescription03C=The Sky Shard becomes increasingly unstable upon descent, building up a dangerous amount of charge as it propels through the sky.
+tagClass05SkillName03A=Trozanův Úlomek nebe
+tagClass05SkillDescription03A=O mytickém Trozanovi se říkávalo, že byl přirozený; divoký a nechtějící se přizpůsobit doktrínám Imperiálních arkanistů. Když Imperiálští nakonec obklíčili jeho úkryt na vrcholu hory, Trozan je pokořil za použití neznámé techniky, která na ně snesla samotnou oblohu. ^oDo cílené oblasti dopadnou 3 úlomky.
+tagClass05SkillName03B=Zmrzlé jádro
+tagClass05SkillDescription03B=Led zachycený v Úlomcích nebe se uvolní v okamžiku dopadu a zaplaví mrazivým chladem všechny, kteří jsou v blízkém okolí.
+tagClass05SkillName03C=Roztříštěná hvězda
+tagClass05SkillDescription03C=Úlomky nebe se při pádu stávají čím dál více nestabilními a ke konci velmi nebezpečně nabitými. 
 
-tagClass05SkillName04A=Callidor's Tempest
-tagClass05SkillDescription04A=Master Callidor famously served as a general in King Samuel's army. While deployed on the front lines, Callidor perfected a technique which, by creating a sudden concentrated burst of raw aether energy, would ignite the air around him in an arcane tempest.
+tagClass05SkillName04A=Callidorova Smršť
+tagClass05SkillDescription04A=Mistr Callidor věhlasně sloužil jako generál armády krále Samuela. Když byl v prvních liniích, Callidor si osvojil techniku, která díky vytvoření náhlého a koncentrovaného výbuchu čisté aetherické energie zapálila vzduch a roznítila kolem něj tajemnou bouři.
 tagClass05SkillName04B=Inferno
-tagClass05SkillDescription04B=The tempest becomes a blazing inferno, searing flesh and melting armor.
-tagClass05SkillName04C=Wrath of Agrivix
-tagClass05SkillDescription04C=Agrivix was reknown for channeling such immense power into the Tempest that the resulting explosion would leave nothing but ashes of anyone foolish enough to stray within reach. However, his technique required great concentration and could not be repeated without rest.
+tagClass05SkillDescription04B=Ze Smrště se stává zuřící inferno, jež pálí maso a taví brnění.
+tagClass05SkillName04C=Agrivixova zloba
+tagClass05SkillDescription04C=Agrivix byl proslulý převáděním tak ohromného množství energie do Smrště, že její výsledná exploze by nezanechala v okolí nic než prach z těch, jež by byli tak hloupí, aby zůstali v dosahu výbuchu. Tato technika ale vyžaduje hluboké soustředění a nemůže být bez odpočinku znovu vyvolána.
 
-tagClass05SkillName05A=Maiven's Sphere of Protection
-tagClass05SkillDescription05A=A rare defensive technique of arcane magic invented by the revered Arcanist Maiven. Creates a protective shield around the caster, but at a great cost in concentration.
-tagClass05SkillName05B=Conversion
-tagClass05SkillDescription05B=The sphere absorbs harmful debilitating effects and converts them into your energy reserves.
+tagClass05SkillName05A=Maivenina Sféra ochrany
+tagClass05SkillDescription05A=Jedinečná obranná technika arkanické magie vyvinutá vysoce váženou Arkanistkou jménem Maiven. Vytváří v okolí vyvolavatele štít, jež je ale vykoupený ohromnou ztrátou koncentrace.
+tagClass05SkillName05B=Přeměna
+tagClass05SkillDescription05B=Sféra absorbuje zhoubné vysilující efekty a konvertuje je do tvých zásob energie.
 
-tagClass05SkillName06A=Albrecht's Aether Ray
-tagClass05SkillDescription06A=A powerful arcane technique perfected by Master Albrecht in the years just preceeding the Grim Dawn that channels raw arcane energies into a concentrated beam of destruction. ^oRequires a Caster Off-hand.
-tagClass05SkillName06B=Disintegration
-tagClass05SkillDescription06B=Pours all of your energy into the Aether Ray, turning it into a catastrophic force that disintegrates all it touches.
-tagClass05SkillName06C=Tainted Power
-tagClass05SkillDescription06C=Corrupts the beam by instead fueling it with the raging powers of the chaotic void.
+tagClass05SkillName06A=Albrechtův Paprsek Aetheru
+tagClass05SkillDescription06A=Mocná tajuplná technika dovedená k dokonalosti Mistrem Albrechtem v letech těsně před Ponurým úsvitem. Tato technika vysílá prvotní arkanické energie do koncentrovaného paprsku destrukce. ^oVyžaduje kouzelnický předmět v druhé ruce.
+tagClass05SkillName06B=Rozklad
+tagClass05SkillDescription06B=Vloží všechnu tvoji energii do Paprsku Aetheru a promění jej do destruktivní síly která rozloží vše, čeho se dotkne.
+tagClass05SkillName06C=Zkažená síla
+tagClass05SkillDescription06C=Naruší paprsek tím, že jej bude posilňovat zuřivými silami chaotické prázdnoty.
 
-tagClass05SkillName07A=Nullification
-tagClass05SkillDescription07A=Concentrates massive amounts of negative energy within the target area, purging all enemies caught within it of beneficial auras and spells while allies are purged of negative ailments.
+tagClass05SkillName07A=Anulování
+tagClass05SkillDescription07A=Koncentruje masivní množství negativní energie v zaměřené oblasti a odebere nepřátelům posilující aury a kouzla, zatímco spojenci jsou oprošťěni od negativních vlivů.
 
-tagClass05SkillName08A=Devastation
-tagClass05SkillDescription08A=Hailed as the ultimate force of destruction known to Arcanists, this technique tears a rift in reality through which fall embers of raw arcane energy. This dangerous spell is extremely draining and should not be used lightly. ^oRequires a Caster Off-hand. If you stand still beyond the first cast, you will unleash up to 2 additional waves upon the target area.
+tagClass05SkillName08A=Devastace
+tagClass05SkillDescription08A=Vychvalována jako ultimátní síla destrukce známá Arcanistům, tato technika protrhne bránu v realitě, skrze kterou padají uhlíky prvotní arkanické energie. Toto nebezpečné kouzlo je extrémně vyčerpávající a nemělo by být používáno lehkovážně. ^oVyžaduje kouzelnický předmět v druhé ruce. Pokud zůstaneš strnutě stát po prvním zakouzlení, můžeš směrem k cíli vypustit až další dvě vlny.
 
-tagClass05SkillName09A=Inner Focus
-tagClass05SkillDescription09A=Focusing the mind and body into a locus for arcane energies is one of the first meditative techniques taught to aspiring Arcanists.
+tagClass05SkillName09A=Vnitřní soustředění
+tagClass05SkillDescription09A=Soustředění mysli a těla do místa, kde jsou arkanické energie, je jednou z prvních meditačních technik, kterou se ctižádostiví Arkanisté učí.
 
-tagClass05SkillName10A=Arcane Will
-tagClass05SkillDescription10A=Adrenaline is a powerful force in dire situations that can turn the tide of combat. Battle Arcanists learn to use this to their advantage.
+tagClass05SkillName10A=Arkanická vůle
+tagClass05SkillDescription10A=Adrenalin je mocná síla, která dokáže v zoufalých situacích zvrátit průběh boje. Bojovní Arkanisté se právě tuto schopnost učí, aby ji mohli použít ve svůj prospěch.
 
-tagClass05SkillName11A=Mental Alacrity
-tagClass05SkillDescription11A=Master Arcanists learn to channel their powers with great speed and concentration, no longer concerned by the paltry limitations of the mind.
+tagClass05SkillName11A=Železná horlivost
+tagClass05SkillDescription11A=Arkaniští mistři se učí převádět svoje energie s ohromnou rychlostí a koncentrací a nadále se nezabývají ubohými omezeními jejich mysli.
 
-tagClass05SkillName12A=Fabric of Reality
-tagClass05SkillDescription12A=Unravel the secrets of the very fabric of reality. The raw powers of the aether and the void become as playthings to you.
+tagClass05SkillName12A=Materiál z reality
+tagClass05SkillDescription12A=Poodhal roušku samotného stavebního kamene reality. Prvotní síly aetheru a prázdnoty ti přijdou jako věci na hraní.
 
-tagClass05SkillName13A=Olexra's Barrier
-tagClass05SkillDescription13A=Olexra favored the use of ice in her spellcasting. One of her tactics involved raising up a wall of volatile ice spikes to keep her foes at bay while she attacked safely from the other side.
-tagClass05SkillName13B=Icy Aura
-tagClass05SkillDescription13B=Icy Barrier chills nearby enemies.
-tagClass05SkillName13C=Icy End
-tagClass05SkillDescription13C=Icy Barrier collapses in an explosion of ice.
+tagClass05SkillName13A=Olexrařina Bariéra
+tagClass05SkillDescription13A=Olexra se proslavila využíváním ledu v kouzlech. Jeden z jejích taktiků  vynalezl postavení zdi s nestabilními ledovými hroty, které na jedné straně udržely nepřítele, zatímco ona zaútočila na město z druhé strany.
+tagClass05SkillName13B=Ledová aura
+tagClass05SkillDescription13B=Ledová Bariéra mrazí tvé nepřátele v blízkosti.
+tagClass05SkillName13C=Ledový konec
+tagClass05SkillDescription13C=Ledová Bariéra se zhroutí a způsobí výbuch.
 
-tagClass05SkillName14A=Mirror of Ereoctes
-tagClass05SkillDescription14A=In an instant, the air around you becomes hard as stone, absorbing all manner of attacks and reflecting them back at the attacker; a favoured technique of Master Ereoctes.
+tagClass05SkillName14A=Ereoctesovo zrcadlo
+tagClass05SkillDescription14A=Ve vteřině se vzduch kolem tebe promění na kámen jež bude absorbovat všechny typy útoku a bude je obracet proti samotnému útočníkovi; oblíbená to metoda Mistra Ereoctese.
 
-tagClass05SkillName15A=Reckless Power
-tagClass05SkillDescription15A=Turn your body into a conduit of the aether, manifesting terrifying arcane energies while sacrificing some of your humanity and lifeforce.
-tagClass05SkillName15B=Ascendance
-tagClass05SkillDescription15B=You push beyond the limitations of your physical form, extending a portion of your arcane power to nearby allies.
-tagClass05SkillName15C=Unlimited Power
-tagClass05SkillDescription15C=Many Arcanists sacrifice much in the pursuit of limitless power. There are some who do not heed the ancient warnings and open themselves up fully to the aether. It is these Arcanists that strike fear into the hearts of lesser mortals.
+tagClass05SkillName15A=Bezohledná síla
+tagClass05SkillDescription15A=Za cenu části své lidskosti a životní síly nech své tělo proměnit do prostředníka pro aether, jež představuje hrůzostrašné arkanické energie.
+tagClass05SkillName15B=Povznesení
+tagClass05SkillDescription15B=Posouváš se za hranice své fyzické formy, čímž předáš část své arkanické síly na spojence v okolí.
+tagClass05SkillName15C=Neomezená síla
+tagClass05SkillDescription15C=Mnoho Arkanistů obětuje tak moc pro získání nekonečné moci. Jsou zde tací, jež nedbali na starověká varování a plně se oddali aetheru. Jsou to ti Arkanisté, jež zasadí do srdcí smrtelníků nižší formy.
 
-tagClass05SkillName16A=Olexra's Flash Freeze
-tagClass05SkillDescription16A=A victim of political intrigue, Olexra was condemned to the Black Legion where her former life of arcane academia turned into a bitter struggle to survive on the frontlines of a brutal war. Olexra quickly put her studies to practical use, developing a technique to flash freeze enemies who made it within striking distance.
-tagClass05SkillName16B=Absolute Zero
-tagClass05SkillDescription16B=Completely sap the nearby air of heat, leaving anything caught within the Flash Freeze slowed and debilitated even after the initial effects wear off.
+tagClass05SkillName16A=Olexrařino Bleskové mrznutí
+tagClass05SkillDescription16A=Oběť politických intrik, Olexra, byla opuštěna v Černé legii, kde se její průměrný život arkanské studentky proměnil v hořký boj o přežití v prvních liniích v průběhu brutální války. Olexra rychle uvedla své studentské znalosti do praxe a vyvinula techniku, která okamžitě zmrazí nepřátele, kteří jsou v dosahu úderu.
+tagClass05SkillName16B=Absolutní nula
+tagClass05SkillDescription16B=Kompletně zbaví okolní vzduch tepla a cokoliv je zachyceno v dosahu Bleskového mrznutí je zpomalené a oslabené dokonce i poté, co původní účinky odezní.
 
 
 #Class06
