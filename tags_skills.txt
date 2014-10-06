@@ -2,7 +2,7 @@ tagSkillClassName01=Voják
 tagSkillClassName02=Ničitel
 tagSkillClassName03=Okultista
 tagSkillClassName04=Noční lovec
-tagSkillClassName05=Pán temnot
+tagSkillClassName05=Vládce temnot
 tagSkillClassName06=?
 tagSkillClassName07=?
 tagSkillClassName08=?
@@ -55,7 +55,7 @@ tagSkillClassDescription03=Poté, co byli pronásledováni císařskými vojsky 
 
 tagSkillClassDescription04=Noční lovci byli tajní bojovníci, kteří nabízeli své služby velkým rodům v říši. Noční lovci vynikají v boji se všemi druhy bojových zbraní, ale největší obavy vzbuzují smrtící magické nože, jež jsou jejich obchodním tajemstvím. Noční lovci nejsou přizpůsobeni k tělesnému kontaktu s odolnějším nepřítelem a raději se spoléhají na svou iluzi o rychlém a zničujícím přepadení, nebo na boj z určité vzdálenosti s jejich přízračnými noži.
 
-tagSkillClassDescription05=Pro Pány temnot není tajemství magie nějaká nevysvětlitelná záhada nebo vůle bohů, ale věda, která chce být odtajněna. Tato snaha o poznání žene všechny Pány temnot dychtivě dál za objevováním nových způsobů, které by si mohli osvojit. Pán temnot vychyluje Éterickou a živelnou energii podle své vůle, čímž tvoří ničivou demonstraci síly, kterou může použít na malé armády. Nicméně hrubá síla znamená chabou obranu.
+tagSkillClassDescription05=Pro Vládce temnot není tajemství magie nějaká nevysvětlitelná záhada nebo vůle bohů, ale věda, která chce být odtajněna. Tato snaha o poznání žene všechny Vládce temnot dychtivě dál za objevováním nových způsobů, které by si mohli osvojit. Vládce temnot vychyluje Éterickou a živelnou energii podle své vůle, čímž tvoří ničivou demonstraci síly, kterou může použít na malé armády. Nicméně hrubá síla znamená chabou obranu.
 
 tagSkillClassDescription06=
 
@@ -457,11 +457,11 @@ tagClass04SkillDescription15B=Mistrovská technika, která vylepšuje Vyvržení
 
 #Class05
 
-tagClass05SkillName00=Pán temnot
+tagClass05SkillName00=Vládce temnot
 tagClass05SkillDescription00=Trénování těla a mysli pomáhá snést zničující síly prvotní m
 
 tagClass05SkillName01A=Panettiho replikující se raketa
-tagClass05SkillDescription01A=Největší s Cortosianských arkanistů, Panetti, se věnoval vylepšení klasické arkanické rakety. Jeho triumfem je změna, která očividně popírá zákony zachování energie, což způsobí, že raketa při dopadu vytvoří vícero vlastních kopií.
+tagClass05SkillDescription01A=Největší s Cortosianských Vládců temnot, Panetti, se věnoval vylepšení klasické arkanické rakety. Jeho triumfem je změna, která očividně popírá zákony zachování energie, což způsobí, že raketa při dopadu vytvoří vícero vlastních kopií.
 tagClass05SkillName01B=Zkomolení
 tagClass05SkillDescription01B=Replikující se raketa zkomolí samotnou podstatu tvého nepřítele, což zvýší šance na to, že raketa projde skrze tvůj cíl.
 tagClass05SkillName01C=Přeplňování
@@ -478,10 +478,10 @@ tagClass05SkillDescription02B=Zaklínadlo se stává přetíženým arkanickými
 tagClass05SkillName02C=Elementární rovnováha
 tagClass05SkillDescription02C=Zaklínadlem vyvolaný a velmi dobře vybalancovaný úder, jež harmonizuje oheň a led spolu s nespoutanou elektřinou, jež dohromady tvoří čistou arkanickou energii.
 tagClass05SkillName02D=Zjevení
-tagClass05SkillDescription02D=Arkanické energie se zjevují v mnoha formách. Arkanisté, kteří se odevzdali umění vyvolávání, často převádějí některou z jejich sil na jejich přisluhovače a ti pak mohou lépe posloužit vůli svých pánů.
+tagClass05SkillDescription02D=Arkanické energie se zjevují v mnoha formách. Vládci temnot, kteří se odevzdali umění vyvolávání, často převádějí některou z jejich sil na jejich přisluhovače a ti pak mohou lépe posloužit vůli svých pánů.
 
 tagClass05SkillName03A=Trozanův Úlomek nebe
-tagClass05SkillDescription03A=O mytickém Trozanovi se říkávalo, že byl přirozený; divoký a nechtějící se přizpůsobit doktrínám Imperiálních arkanistů. Když Imperiálští nakonec obklíčili jeho úkryt na vrcholu hory, Trozan je pokořil za použití neznámé techniky, která na ně snesla samotnou oblohu. ^oDo cílené oblasti dopadnou 3 úlomky.
+tagClass05SkillDescription03A=O mytickém Trozanovi se říkávalo, že byl přirozený; divoký a nechtějící se přizpůsobit doktrínám Imperiálních Vládců temnot. Když Imperiálští nakonec obklíčili jeho úkryt na vrcholu hory, Trozan je pokořil za použití neznámé techniky, která na ně snesla samotnou oblohu. ^oDo cílené oblasti dopadnou 3 úlomky.
 tagClass05SkillName03B=Zmrzlé jádro
 tagClass05SkillDescription03B=Led zachycený v Úlomcích nebe se uvolní v okamžiku dopadu a zaplaví mrazivým chladem všechny, kteří jsou v blízkém okolí.
 tagClass05SkillName03C=Roztříštěná hvězda
@@ -495,7 +495,7 @@ tagClass05SkillName04C=Agrivixova zloba
 tagClass05SkillDescription04C=Agrivix byl proslulý převáděním tak ohromného množství energie do Smrště, že její výsledná exploze by nezanechala v okolí nic než prach z těch, jež by byli tak hloupí, aby zůstali v dosahu výbuchu. Tato technika ale vyžaduje hluboké soustředění a nemůže být bez odpočinku znovu vyvolána.
 
 tagClass05SkillName05A=Maivenina Sféra ochrany
-tagClass05SkillDescription05A=Jedinečná obranná technika arkanické magie vyvinutá vysoce váženou Arkanistkou jménem Maiven. Vytváří v okolí vyvolavatele štít, jež je ale vykoupený ohromnou ztrátou koncentrace.
+tagClass05SkillDescription05A=Jedinečná obranná technika arkanické magie vyvinutá vysoce váženou Vládkyní temnot jménem Maiven. Vytváří v okolí vyvolavatele štít, jež je ale vykoupený ohromnou ztrátou koncentrace.
 tagClass05SkillName05B=Přeměna
 tagClass05SkillDescription05B=Sféra absorbuje zhoubné vysilující efekty a konvertuje je do tvých zásob energie.
 
@@ -513,13 +513,13 @@ tagClass05SkillName08A=Devastace
 tagClass05SkillDescription08A=Vychvalována jako ultimátní síla destrukce známá Arcanistům, tato technika protrhne bránu v realitě, skrze kterou padají uhlíky prvotní arkanické energie. Toto nebezpečné kouzlo je extrémně vyčerpávající a nemělo by být používáno lehkovážně. ^oVyžaduje kouzelnický předmět v druhé ruce. Pokud zůstaneš strnutě stát po prvním zakouzlení, můžeš směrem k cíli vypustit až další dvě vlny.
 
 tagClass05SkillName09A=Vnitřní soustředění
-tagClass05SkillDescription09A=Soustředění mysli a těla do místa, kde jsou arkanické energie, je jednou z prvních meditačních technik, kterou se ctižádostiví Arkanisté učí.
+tagClass05SkillDescription09A=Soustředění mysli a těla do místa, kde jsou arkanické energie, je jednou z prvních meditačních technik, kterou se ctižádostiví Vládci temnot učí.
 
 tagClass05SkillName10A=Arkanická vůle
-tagClass05SkillDescription10A=Adrenalin je mocná síla, která dokáže v zoufalých situacích zvrátit průběh boje. Bojovní Arkanisté se právě tuto schopnost učí, aby ji mohli použít ve svůj prospěch.
+tagClass05SkillDescription10A=Adrenalin je mocná síla, která dokáže v zoufalých situacích zvrátit průběh boje. Bojovní Vládci temnot se právě tuto schopnost učí, aby ji mohli použít ve svůj prospěch.
 
 tagClass05SkillName11A=Železná horlivost
-tagClass05SkillDescription11A=Arkaniští mistři se učí převádět svoje energie s ohromnou rychlostí a koncentrací a nadále se nezabývají ubohými omezeními jejich mysli.
+tagClass05SkillDescription11A=Ti, jež jsou mistry mezi Vládci temnot, se učí převádět své energie s ohromnou rychlostí a koncentrací a nadále se nezabývají ubohými omezeními jejich mysli.
 
 tagClass05SkillName12A=Materiál z reality
 tagClass05SkillDescription12A=Poodhal roušku samotného stavebního kamene reality. Prvotní síly aetheru a prázdnoty ti přijdou jako věci na hraní.
@@ -539,7 +539,7 @@ tagClass05SkillDescription15A=Za cenu části své lidskosti a životní síly n
 tagClass05SkillName15B=Povznesení
 tagClass05SkillDescription15B=Posouváš se za hranice své fyzické formy, čímž předáš část své arkanické síly na spojence v okolí.
 tagClass05SkillName15C=Neomezená síla
-tagClass05SkillDescription15C=Mnoho Arkanistů obětuje tak moc pro získání nekonečné moci. Jsou zde tací, jež nedbali na starověká varování a plně se oddali aetheru. Jsou to ti Arkanisté, jež zasadí do srdcí smrtelníků nižší formy.
+tagClass05SkillDescription15C=Mnoho Vládců temnot obětuje tak moc pro získání nekonečné moci. Jsou zde tací, jež nedbali na starověká varování a plně se oddali aetheru. Jsou to ti Vládci temnot, jež zasadí do srdcí smrtelníků nižší formy.
 
 tagClass05SkillName16A=Olexrařino Bleskové mrznutí
 tagClass05SkillDescription16A=Oběť politických intrik, Olexra, byla opuštěna v Černé legii, kde se její průměrný život arkanské studentky proměnil v hořký boj o přežití v prvních liniích v průběhu brutální války. Olexra rychle uvedla své studentské znalosti do praxe a vyvinula techniku, která okamžitě zmrazí nepřátele, kteří jsou v dosahu úderu.
@@ -1342,7 +1342,7 @@ tagRelicSkillD009Name=Nekróza
 tagRelicSkillD009Desc=Přivolá oslabující kletbu na tvé nepřátele, jež způsobí hnilobu jejich masa a kostí a zpomalí jejich smysly.
 
 tagRelicSkillD010Name=Vyvolání obra z masa a kostí
-tagRelicSkillD010Desc=Proveď zakázaný rituál připomínající staré techniky arkanisty Agrivixe a vyvolej tak obra z masa a kostí, který bude vykonávat rozkazy.
+tagRelicSkillD010Desc=Proveď zakázaný rituál připomínající staré techniky Vládce temnot Agrivixe a vyvolej tak obra z masa a kostí, který bude vykonávat rozkazy.
 
 tagRelicSkillD011Name=Zapomnění
 tagRelicSkillD011Desc=Rozpoutá čistě destruktivní sílu chaosu zaměřenou na tvé nepřátele.
