@@ -1,4 +1,4 @@
-#prefix/quality/style/name/suffix concatenation
+﻿#prefix/quality/style/name/suffix concatenation
 
 tagItemNameOrder=${%_3a0}{%_3a1}{%_3a2}{%_s3}{%_3a4}
 
@@ -42,11 +42,11 @@ tagWeaponSwordC008Desc="Když se uplácení politických protivníků ukázalo j
 tagWeaponSwordC009=Ohnivá cejchovačka
 tagWeaponSwordC010=Zlodějská duše
 tagWeaponSwordC011=Chladný žár
-tagWeaponSwordC012=Rituální kráječ
+tagWeaponSwordC012=
 tagWeaponSwordC013=Vrahovo volání
 tagWeaponSwordC013Desc="Do čepele je zapuštěna malá lahvička jedu, vyvolávající tuhnoucí ochrnutí a konečnou smrt."
 tagWeaponSwordC014=Břitva slepého vraha
-tagWeaponSwordC015=Zkrvavená dýka úmluvy
+tagWeaponSwordC015=
 tagWeaponSwordC016=Willieho břitva
 tagWeaponSwordC016Desc="Ostří tohoto nože se nikdy neotupí."
 
@@ -106,6 +106,7 @@ tagWeaponBluntC009=Vzdor
 tagWeaponBluntC009Desc="Ztělesnění přizpůsobivosti lidstva."
 tagWeaponBluntC010=Aethericko-ocelový arbitr
 tagWeaponBluntC011=Pěst slepého vraha
+tagWeaponBluntC012=Palička ze zlomené kosti
 
 tagWeaponBluntD001=Smrtící věštba
 tagWeaponBluntD001Desc="Posel smrti."
@@ -276,7 +277,7 @@ tagWeaponCrossbow2hC008=Bysmielův mizerný sochor
 tagWeaponCrossbow2hC008Desc="Symbolická zbraň oddaných stoupenců Bysmiela."
 tagWeaponCrossbow2hC009=Ulda'Jax
 tagWeaponCrossbow2hC009Desc="Primitivní, ale překvapivě efektivní zbraň z horské divočiny."
-tagWeaponCrossbow2hC010=Heroldův ochránce
+tagWeaponCrossbow2hC010=Samostříl s jiskřícími šipkami
 
 tagWeaponCrossbow2hD001=Stříbrný šíp
 tagWeaponCrossbow2hD001Desc="Vybraná zbraň lovkyně démonů Krvavé Edith, bývalé Ch'thonské kultistky posedlé zabíjením démonů."
@@ -347,6 +348,61 @@ tagWeaponMelee2hD007=Zhouba Zimního krále
 tagWeaponMelee2hD007Desc="Posvátná čepel krále Hrothnara, vládce severských držav a syn velkého bílého vlka."
 tagWeaponMelee2hD008=Světská zaoblená čepel
 tagWeaponMelee2hD009=Krvavý drtič
+
+tagWeaponCaster1hA001=[fs]hůlka
+tagWeaponCaster1hA002=[ns]žezlo
+tagWeaponCaster1hA003=[fs]tajemná hůlka
+tagWeaponCaster1hA004=[ns]tajemné žezlo
+tagWeaponCaster1hA005=[fs]rituální hůlka
+tagWeaponCaster1hA006=[ns]rituální žezlo
+tagWeaponCaster1hA007=[ns]vznešené žezlo
+tagWeaponCaster1hA008=[ms]obětní nůž
+tagWeaponCaster1hA009=[fs]runová dýka
+tagWeaponCaster1hA010=[fs]tajemná dýka
+tagWeaponCaster1hA011=[fs]kouzelná čepel
+tagWeaponCaster1hA012=[fs]tajemná čepel
+tagWeaponCaster1hA013=[fs]rituální dýka
+tagWeaponCaster1hA014=[fs]rituální čepel
+tagWeaponCaster1hA015=[fs]vznešená dýka
+
+
+tagWeaponCaster1hB001=[fs]adeptova dýka
+tagWeaponCaster1hB002=[fs]adeptova kouzelná čepel
+tagWeaponCaster1hB003=[fs]mistrova kouzelná čepel
+tagWeaponCaster1hB004=[fs]adeptova hůlka
+tagWeaponCaster1hB005=[ns]adeptovo žezlo
+tagWeaponCaster1hB006=[ns]mistrovo žezlo
+
+tagWeaponCaster1hC001=Spalující nenávist
+tagWeaponCaster1hC002=Hůlka kouzelného ohně
+tagWeaponCaster1hC003=Srdce zmrazující žezlo
+tagWeaponCaster1hC004=KOuzelná čepel vyvolavače bouří
+tagWeaponCaster1hC004_Desc="Čepel jiskřící energií, stále hladová po další moci."
+tagWeaponCaster1hC005=Čepel prázdnoty
+tagWeaponCaster1hC006=Kráječ se zkaženou krví
+tagWeaponCaster1hC007=Kráječ duší
+tagWeaponCaster1hC007_Desc="Říká se, že tento nůž seká hlouběji než jen do masa."
+tagWeaponCaster1hC008=Cortosianský vyvolávač
+tagWeaponCaster1hC008_Desc="Nástroj oblíbený Cortosianskými mistry a používaný převážně během tajemných vyvolávání."
+tagWeaponCaster1hC009=Chladné kouzlo
+tagWeaponCaster1hC010=Vázačka života
+tagWeaponCaster1hC011=Žezlo z jiskřícího kamene
+tagWeaponCaster1hC012=Žezlo ohnivé bouře
+tagWeaponCaster1hC013=Kouzelná čepel nebeského úlomku
+tagWeaponCaster1hC013_Desc="Ukována ze srdce spadlé hvězdy."
+tagWeaponCaster1hC014=Nera'Valiniho poskvrněná dýka
+tagWeaponCaster1hC014_Desc="Nera'Val byl lékař posedlý léčbou smrtícího chřadnutí. Za dobu svého působení nakazil a zabil desítky nevinných lidí. Za své zločiny byl oběšen."
+tagWeaponCaster1hC015=Kouzelná čepel ďáblovy krve
+tagWeaponCaster1hC016=Kouzelná přadlena
+tagWeaponCaster1hC016_Desc="Spřádá aether pomocí reality jako jehla tvoří z nití látku."
+tagWeaponCaster1hC017=Vyvolavač kamenných pohrom
+tagWeaponCaster1hC018=Kosmický vyvolavač
+tagWeaponCaster1hC019=Lapač bouří
+tagWeaponCaster1hC020=Obětní kráječ
+tagWeaponCaster1hC021=Z ledu stvořená kouzelná čepel
+tagWeaponCaster1hC022=Zkrvavená dýka závazku
+
+tagWeaponCaster1hD001=
 
 
 tagWeaponArcaneA001=[fs]hrubá hůl
@@ -1111,6 +1167,8 @@ tagNecklaceC023=Zmrzlé nitro
 tagNecklaceC024=Amulet spálené země
 tagNecklaceC025=Amulet rozsévače moru
 tagNecklaceC026=Blankytný úlomek
+tagNecklaceC027=Odvaha chráněnce čepelí
+tagNecklaceC028=Úlomek Menhiru
 
 tagNecklaceD001=Bysmielova vůle
 tagNecklaceD002=Vlákno smrtelnosti
@@ -1226,7 +1284,7 @@ tagBlueprint_RelicD012=Plánek: Relikvie - Belgothianův masakr
 tagBlueprint_RelicD013=Plánek: Relikvie - Vyhlazení
 tagBlueprint_RelicD014=Plánek: Relikvie - Mstitel
 tagBlueprint_RelicD015=Plánek: Relikvie - Prvotní instinkt
-tagBlueprint_RelicD016=Plánek: Relikvie - Solaelova devastace
+tagBlueprint_RelicD016=Plánek: Relikvie - Solaelovo zdecimování
 tagBlueprint_RelicD017=Plánek: Relikvie - Dreegovo utrpení
 tagBlueprint_RelicD018=Plánek: Relikvie - Bysmielova nadvláda
 tagBlueprint_RelicD019=Plánek: Relikvie - Oleronův hněv
@@ -1245,7 +1303,7 @@ tagBlueprint_ComponentA10=Plánek: Ostnatý krunýř
 tagBlueprint_ComponentA11=Plánek: Mstivý přízrak
 tagBlueprint_ComponentA12=Plánek: Ochranný kámen
 tagBlueprint_ComponentA13=Plánek: Hedvábný vzorek
-tagBlueprint_ComponentA14=Plánek: Šupinatá kůže
+tagBlueprint_ComponentA14=Plánek: Odloupnutá kůže
 tagBlueprint_ComponentA15=Plánek: Rafinovaná sůl
 tagBlueprint_ComponentA16=Plánek: Dutý tesák
 tagBlueprint_ComponentA17=Plánek: Zabarvené stříbro
@@ -1290,12 +1348,20 @@ tagBlueprint_WeaponB021=Plánek: Šrapnelová pistole
 tagBlueprint_WeaponB022=Plánek: Adeptův ostrý palcát
 tagBlueprint_WeaponB023=Plánek: Adeptův kropáč
 tagBlueprint_WeaponB024=Plánek: Adeptův obroubený palcát
+tagBlueprint_WeaponB025=Plánek: Adeptova hůlka
+tagBlueprint_WeaponB026=Plánek: Adeptovo žezlo
+tagBlueprint_WeaponB027=Plánek: Mistrovo žezlo
+tagBlueprint_WeaponB028=Plánek: Adeptova dýka
+tagBlueprint_WeaponB029=Plánek: Adeptova kouzelná čepel
+tagBlueprint_WeaponB030=Plánek: Mistrova kouzelná čepel
 
 tagBlueprint_WeaponC001=Plánek: Pronásledovatel čarodějnic
 tagBlueprint_WeaponC002=Plánek: Oko
 tagBlueprint_WeaponC003=Plánek: Bouřné ostří
 tagBlueprint_WeaponC004=Plánek: Věštba
 tagBlueprint_WeaponC005=Plánek: Záchvěv
+tagBlueprint_WeaponC006=Plánek: Hůlka kouzelného ohně
+tagBlueprint_WeaponC007=Plánek: Žezlo ohnivé bouře
 
 tagBlueprint_ArmorB001=Plánek: Adeptovy boty
 tagBlueprint_ArmorB002=Plánek: Adeptovy pohorky
@@ -1326,9 +1392,9 @@ tagBlueprint_MaterialA01=Plánek: Trs Aetherů
 #Relics
 
 tagDeviceBonus=Bonus za složení:
-tagDeviceTier01=Mocný artefakt
-tagDeviceTier02=Mimořádný artefakt
-tagDeviceTier03=Bájný artefakt
+tagDeviceTier01=Mocná relikvie
+tagDeviceTier02=Mimořádná relikvie
+tagDeviceTier03=Bájná relikvie
 
 tagRelicB001=Kalamita
 tagRelicB001Desc="Nespoutaná destrukce."
@@ -1358,6 +1424,8 @@ tagRelicB013=Pistolníkův talisman
 tagRelicB013Desc="Symbol zkušenosti v umění střelby ze dvou pušek současně se smrtící přesností."
 tagRelicB014=Kostěný talisman
 tagRelicB014Desc="Tento odštěpek z kosti byl pečlivě ozdoben větami a symboly duchovního významu pro Tuláky."
+tagRelicB015=Slonovinový talisman
+tagRelicB016=Posvátný talisman
 
 tagRelicC001=Soudce
 tagRelicC001Desc="Právo, nestranost a spravedlnost..."
@@ -1420,7 +1488,7 @@ tagRelicD014=Mstitel
 tagRelicD014Desc="Je pravda, že jsi uštědřil velkou ránu. Ale ta poslední bude ode mne."
 tagRelicD015=Prvotní instinkt
 tagRelicD015Desc="Pojďte dál moji milí. Je čas na hostinu..."
-tagRelicD016=Solaelova devastace
+tagRelicD016=Solaelovo zdecimování
 tagRelicD016Desc="Říkali, že žádný člověk nemůže využít takovou moc. A tak jsem ukončil svůj lidský život."
 tagRelicD017=Dreegovo utrpení
 tagRelicD017Desc="Největší tajemství, které se od tebe drží daleko, je klam tvé křehké smrtelnosti."
@@ -1460,6 +1528,8 @@ tagCraftMaterial_Manticore=Mantikoří oko (Nedostupné před 3. aktem)
 tagCraftMaterial_Mancitore_Desc="Bystré oko nepřekonatelného dravce."
 tagCraftMaterial_SkeletonKey=Univerzální klíč
 tagCraftMaterial_SkeletonKey_Desc="Pokud se dá věřit příběhům, tento klíč otevře téměř každé starobylé dveře."
+tagCraftMaterial_CultistSeal=Ch'thonická pečeť závazku
+tagCraftMaterial_CultistSeal_Desc="Pečetě využívané Kultem Ch'thona kr svázání mocných tvorů s jejich fyzickou podstatou."
 
 tagCraftRandomItemDesc=Kovář vytvoří očarovaný předmět odpovídající tvé úrovni a alespoň magické kvality.
 tagCraftComponentDesc=Zkušenosti v kovářské technice mohou přinést materiály nejvyšší kvality.
@@ -1478,6 +1548,13 @@ tagCraftRandomGun1h=Očarovaná jednoruční zbraň
 tagCraftRandomAxe2h=Očarovaná obouruční sekyra
 tagCraftRandomBlunt2h=Očarovaná obouruční palice
 tagCraftRandomSword2h=Očarovaný obouruční meč
+tagCraftRandomCasterWeapon_01=Očarovaný nástroj chladu
+tagCraftRandomCasterWeapon_02=Očarovaný nástroj ohně
+tagCraftRandomCasterWeapon_03=Očarovaný nástroj otravy
+tagCraftRandomCasterWeapon_04=Očarovaný nástroj blesků
+tagCraftRandomCasterWeapon_05=Očarovaný nástroj životnosti
+tagCraftRandomCasterWeapon_06=Očarovaný nástroj chaosu
+tagCraftRandomCasterWeapon_07=Očarovaný nástroj Aetheru
 
 tagCraftRandomRing=Očarovaný prsten
 tagCraftRandomNecklace=Očarovaný náhrdelník
@@ -1840,7 +1917,7 @@ tagCompB013Name=^kStrašidelná ocel
 tagCompB013Desc="It fills your mind with the maddening whispers of trapped spirits."^w^n(Used in all weapons, shields and off-hands)
 
 tagCompB014Name=^kBeronathův střep
-tagCompB014Desc="Kousek legendárního Beronathova nože, přesto si stále zachovává své ostří."^w^n(Může vylepšit sekery a meče)
+tagCompB014Desc="Kousek legendárního Beronathova nože, přesto si stále zachovává své ostří."^w^n(Může vylepšit chladné zbraně)
 
 tagCompB015Name=^kKrvavý brousek
 tagCompB015Desc="Soaked in the blood of the fallen, this accursed whetstone gives blades a hunger for blood."^w^n(Used in axes and swords)
@@ -2243,7 +2320,11 @@ tagSuffixA056=pustiny
 tagSuffixA057=bažiny
 tagSuffixA058=větru
 tagSuffixA059=přízraku
-tagSuffixA060=kouzelné přadleny
+tagSuffixA060=předeného kouzla
+tagSuffixA061=plamene
+tagSuffixA062=mrazení
+tagSuffixA063=elektrického výboje
+tagSuffixA064=traumatu
 
 tagSuffixB001_Wpn_A=požáru
 tagSuffixB002_Wpn_A=šílenství
