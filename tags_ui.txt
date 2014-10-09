@@ -19,11 +19,16 @@ tagBossXP={%d0} zkušeností za nepřátelského padoucha
 tagHeroKilled=Nepřátelský hrdina zabit
 tagBossKilled=Nepřátelský padouch zabit
 tagXPAwarded=Získáno {%d0} zkušeností
+tagRepAwarded=Získáno +{%d0} reputace za frakci {%s1}
 
 tagUndo=Zpět
 Chat=Chat:
 
 tagGamePaused=Hra je pozastavena
+
+tagSkillNotReady={^r}Tato dovednost není připravena
+
+tagTransferStashError={^r}Tento předmět sem nelze umístit
 
 #Riftgate
 
@@ -42,6 +47,11 @@ tagQuestIncentives=Pobídky:
 tagQuestObjectives=Cíle:
 tagQuestRewards=Odměny:
 tagCodexJournalNoNotes=Žádné záznamy
+tagCodexJournalSubHeadingAct1=Akt I
+tagCodexJournalSubHeadingAct2=Akt II
+tagCodexJournalSubHeadingAct3=Akt III
+tagCodexJournalSubHeadingAct4=Akt IV
+tagCodexJournalSubHeadingDefault=Různé
 tagAccept=Přijmout
 tagDecline=Odmítnout
 tagContinue=Pokračovat
@@ -83,20 +93,35 @@ tagFactionInvisible=Neviditelný
 tagFactionGenericMonster=Nepřátelé
 tagFactionPlayer=Hráči
 tagFactionSurvivors=Lidé z Ďáblova průsmyku
+tagFactionSurvivorsInfo=Přeživší
 tagFactionAetherials=Aetheriané
+tagFactionAetherialsInfo=Aetheriané
 tagFactionCthonians=Ch'thonský kult
+tagFactionCthoniansInfo==Ch'thonský kult
 tagFactionOutlaws=Cronleyova banda
+tagFactionOutlawsInfo=Cronleyova banda
 tagFactionBeasts=Bestie
+tagFactionBeastsInfo=Bestie
 tagFactionUser0=Tuláci
+tagFactionUser0Info=Tuláci
 tagFactionUser1=Neutrální
+tagFactionUser1Info=Neutrální
 tagFactionUser2=Obyvatelé z Homestead
+tagFactionUser2Info=Obyvatelé z Homestead
 tagFactionUser3=Svobodní muži Corriganova dolu
+tagFactionUser3Info=Svobodní muži Corriganova dolu
 tagFactionUser4=Vyhnanci
+tagFactionUser4Info=Vyhnanci
 tagFactionUser5=Řád Smrtícího bdění
+tagFactionUser5Info=Řád Smrtícího bdění
 tagFactionUser6=Nemrtví
+tagFactionUser6Info=Nemrtví
 tagFactionUser7=Černá legie
+tagFactionUser7Info=Černá legie
 tagFactionUser8=Kymonovi vyvolení
+tagFactionUser8Info=Kymonovi vyvolení
 tagFactionUser9=Hráč 9
+tagFactionUser9Info=User9
 tagFactionUnknown=Neznámý
 tagFactionStateEnemy5=Toužící po pomstě
 tagFactionStateEnemy4=Nenáviděný
@@ -119,6 +144,9 @@ tagFactionStateFriendly=Přátelský
 tagFactionStateTrusted=Důvěryhodný
 tagFactionStateHonored=Poctěný
 tagFactionStateRevered=Uctívaný
+tagFactionProgress=Required to Next Level: {^b}{%d0}
+tagFactionStatusChange={^w}You are now {%s0} {^w}with {^b}{%s1}
+tagFactionEnemies=Nepřátelé: {^b}
 
 #HUD
 
@@ -210,6 +238,8 @@ tagSkillPointsRemain={%d0} zbývajících bodů
 tagSkillPointsRemainSingular={%d0} zbývající bod
 
 #Character
+
+GenderFormat={%t0}{%0a1}
 
 tagInventoryBag=Pytel na věci
 tagInventoryBagDescription=Rozšiřuje velikost tvého inventáře
@@ -354,7 +384,7 @@ tagCharStatsArmorFeet=Chodidla:
 tagCharStatsArmorWaist=Pas:
 tagCharStatsArmorShoulders=Ramena:
 
-tagFormulaLearn01=Blahopřeji! Naučil ses vytvořit:
+tagFormulaLearn01={^w}Blahopřeji! Naučil ses vytvořit:
 tagFormulaLearn02={^r}Tento plánek už dávno znáš
 tagFormulaLearn03={^r}[Už umíš]
 
@@ -772,6 +802,7 @@ tagCraftingInsterComponent=Přidat komponenety zobrazené v plánku do těchto s
 tagCraftingAxes=SEKYRY
 tagCraftingBlunt=TUPÉ ZBRANĚ
 tagCraftingSwords=MEČE
+tagCraftingImplements=NÁSTROJE
 tagCraftingTwoHandedMelee=OBOURUČNÍ CHLADNÉ ZBRANĚ
 
 tagCraftingOneHanded=JEDNORUČNÍ ZBRANĚ
@@ -792,7 +823,9 @@ tagCraftingAccessories=DOPLŇKY
 tagCraftingConsumables=SPOTŘEBNÍ PŘEDMĚTY
 tagCraftingMaterials=MATERIÁLY
 
-tagCraftingRelics=RELIKVIE
+tagCraftingRelicsTier01=MOCNÉ RELIKVIE
+tagCraftingRelicsTier02=JEDINEČNÉ RELIKVIE
+tagCraftingRelicsTier03=BÁJNÉ RELIKVIE
 
 tagDividerTab01=Rozložení
 tagDividerRoll01=Rozkladová komora se používá pro oddělení součástek od předmětu. Bohužel je tento proces nedokonalý a má za následek zničení buď součástky nebo předmětu. Ale můžeš si vybrat, kterou věc raději obětuješ.
@@ -801,9 +834,6 @@ tagDividerTab02=Rozebrání
 tagDividerRoll02=The dismantling chamber is used to break down powerful magical items into their basic parts. The Inventor has not yet learned this ability.
 tagDividerRoll02B=The dismantling chamber is used to break down powerful magical items into their basic parts. This process requires great energy and so the clever inventor has made use of dynamite to fulfill this function.
 
-tagDividerTab03=Tinkering
-tagDividerRoll03=The tinkering chamber is used for tinkering.
-
 tagDividingButtonKeepItem=Předmět
 tagDividingBoxInfo=Umísti do komory předmět s připojenou komponentou.
 tagDividingButtonKeepComponent=Přídavek
@@ -811,18 +841,12 @@ tagDividingKeepItemWarning=Vybráním zachování předmětu zničíš připojen
 tagDividingKeepComponentWarning=Vybráním zachování komponenty zničíš předmět.
 tagDividingCost=Cena rozkladu:
 
-tagDismantleDynamiteTotal=Total Dynamite:
+tagDismantleDynamiteTotal=Počet dynamitů:
 tagDismantleCost=Cena rozebrání:
-tagDismantleButton=Choosing to dismantle will destroy this item.
-tagDismantleDestroyItemWarning=Choosing to dismantle will destroy this item. Continue?
-tagDismantleDestroyItemComponentWarning=Choosing to dismantle will destroy this item and keep the component. Continue?
-tagDismantleBoxInfo=Place an item greater than common quality in the chamber.
-
-tagTinkerAetherTotal=Total Aether Crystals:
-tagTinkerCost=Tinkering Cost:
-tagTinkerButton=Choosing to Tinker will reroll the completion bonus on this item. This has a chance to destroy the item!
-tagTinkerDestroyItem=Your Item was destroyed! Aw shucks!
-tagTinkerBoxInfo=Place a component or relic in the chamber.
+tagDismantleButton=Kliknutím na tlačítko Rozebrání zničíš tento předmět.
+tagDismantleDestroyItemWarning=Kliknutím na tlačítko Rozebrání zničíš tento předmět. Chceš pokračovat?
+tagDismantleDestroyItemComponentWarning=Kliknutím na tlačítko Rozebrání zničíš tento předmět a získáš zpět komponentu. Chceš pokračovat?
+tagDismantleBoxInfo=Umísti do komory předmět lepší kvality než běžné.
 
 #Smuggler
 
@@ -832,7 +856,7 @@ tagCaravanCost=Cena: {%d0}
 tagCaravanRefund=Vrátit peníze: {%d0}
 tagCaravanExpand=Rozšířit místo
 tagCaravanItemStorage=Úschovna
-tagStorageInfo01=Úschovnu můžeš použít jako rozšíření svého inventáře Pravým tlačítkem myši nebo přetažením můžeš přenášet předměty mezi inventářem a úschovnou. Předměty uložené v úschovně jsou dostupné u každého pašeráka ve hře.
+tagStorageInfo01=Úschovnu můžeš použít jako rozšíření svého inventáře. Pravým tlačítkem myši nebo přetažením můžeš přenášet předměty mezi inventářem a úschovnou. Předměty uložené v úschovně jsou dostupné u každého pašeráka ve hře.
 tagTransferCost=Cena za převod: {%d0}
 tagTransferAdd=Opravdu chceš přidat tento předmět do sdílené úschovny?
 tagTransferInfo01=Můžeš využít služeb pašeráka pro přesun předmětů mezi tvými dalšími postavami. Jednoduše přetáhni předmět do sdílené úschovny a ten pak bude dotupný tvým dalším postavám.
@@ -900,12 +924,12 @@ tagMapSymbolSmithDesc=Zručný řemeslník schopný vytvářet nové předměty.
 #SystemStatsSkillUI
 
 tagOptionsMenuReturn=Návrat do hry
-tagOptionsMenuSave=Uložit hru
 tagOptionsMenuExit=Hlavní nabídka
 tagOptionsMenuQuit=Ukončit hru
 tagOptionsMenuOptions=Nastavení
 tagOptionsMenuGameSaved=Tvá hra byla uložena
-tagOptionsMenuAreUSure=Opravdu chceš opustit hru a vrátit se do hlavní nabídky?
+tagOptionsMenuExitMenuConfirm=Opravdu chceš opustit hru a vrátit se do hlavní nabídky?
+tagOptionsMenuExitGameConfirm=Opravdu chceš ukončit hru a vrátit se do Windows?
 tagInfoTitle=Informace
 tagInfoButtonYes=Ano
 tagInfoButtonNo=Ne
@@ -1021,12 +1045,13 @@ SkillCooldownReductionModifierR=-{%.0f0}% {^E}Skill Recharge
 tagDamageConversion={%.0f0}% {^E}{%s1} converted to {%s2}
 tagDamageRemoval={%.0f0}% {^E}{%s1} Reduction
 tagConversionPhysical=Physical Damage
+tagConversionPierce=Piercing Damage
 tagConversionElemental=Elemental Damage
 tagConversionCold=Cold Damage
 tagConversionFire=Fire Damage
 tagConversionPoison=Poison Damage
 tagConversionLightning=Lightning Damage
-tagConversionLife=Life Damage
+tagConversionLife=Vitality Damage
 tagConversionChaos=Chaos Damage
 tagConversionAether=Aether Damage
 tagConversionStun=Stun Duration
@@ -1113,6 +1138,7 @@ GiveMoneyFormat=+{%d0} železných mincí
 TakeMoneyFormat={%d0} železných mincí
 ExperienceFormat=+{%d0} zkušeností
 FactionFormat={%s1}: +{%d0} reputace
+FactionUnlocked=Frakce {%s0} byla odemčena
 LevelUpFormat=Nová úroveň!
 SkillPointFormat={%d0} bod(y) dovedností
 AttributePointFormat={%d0} bod(y) atributů
@@ -1137,8 +1163,8 @@ SkillIntFormat={%d0 %s1}
 SkillFloatFormat={%.0f0 %s1}
 SkillFloat1Format={%.1f0 %s1}
 SkillFloat2Format={%.2f0 %s1}
-SkillSecondFormat={%s1 %.1f0 {^E}sekund}
-SkillDistanceFormat={%s1 %.1f0 {^E}metrů}
+SkillSecondFormat={^E}%s1 {^H}%.1f0 {^E}sekund
+SkillDistanceFormat={^E}%s1 {^H}%.1f0 {^E}metrů
 SkillCostFormat={%.0f0 %s1}
 SkillPercentFormat={%.0f0% %s1}
 SkillNumProjectilesFormat=Vystřelí {%d0} projektilů
@@ -1177,9 +1203,9 @@ PressToAssignDevotion=Left Click to Assign
 SkillEnhancement=+{%d0} ke všem dovednostem
 NoSkillPointsToAdd=Nemáš dovednostní body, které by šly přidat.
 NoDevotionPointsToAdd=No Devotion Points Available
-LockedDevotion=Locked
-ActiveDevotion=Active
-PressToAssignDevotion=Left click to assign.
+LockedDevotion=Zamčené
+ActiveDevotion=Aktivní
+PressToAssignDevotion=Levým kliknutím přiřadíš.
 YouMustIncreaseMasteryLevel=Pro přidání více bodů musíš zvýšit úroveň svého povolání.
 EnableOneBaseSkill=Alespoň jedna požadovaná dovednost musí být povolena
 MaxSkillLevelReached=Dosažena maximální úroveň dovednosti
@@ -1190,7 +1216,7 @@ ManaCost={^E}energie za použití
 ActiveLifeCost={^E} aktivního zdraví za sekundu
 ActiveManaCost={^E} aktivní energie za sekundu
 ActiveDuration=Doba účinkování:
-TargetRadius=Target Area:
+TargetRadius=Cílová oblast:
 TargetAngle={^E}Zásah v úhlu {^H}{%.0f0} {^E}stupňů
 TargetNumber={%d0} {^E}cílů maximálně
 CooldownTime={^E}Čas na obnovení dovednosti:
@@ -1262,11 +1288,13 @@ DamageBasePhysical= {^S}fyzického zranění
 DamageBasePierceRatio={%.0f0}% {^S}proražení zbroje
 DamageBasePierceRatioR={%.0f0}-{%.0f1}% {^S}proražení zbroje
 DamageBonusPhysical={%t0} {^E}fyzického zranění
-tagDamageBaseFire= {^S}základního zranění ohněm
-tagDamageBaseLightning= {^S}základního zranění bleskem
-tagDamageBaseCold= {^S}základního zranění ledem
-tagDamageBaseVitality= {^S}základního zranění ztrátou životní energie
-tagDamageBasePoison= základního zranění kyselinou
+tagDamageBaseFire={%t0} {^S}zranění ohněm
+tagDamageBaseLightning={%t0} {^S}zranění bleskem
+tagDamageBaseCold={%t0} {^S}zranění ledem
+tagDamageBaseVitality={%t0} {^S}zranění ztrátou životní energie
+tagDamageBasePoison={%t0} {^S}zranění kyselinou
+tagDamageBaseChaos={%t0} {^S}zranšní chaosem
+tagDamageBaseAether={%t0} {^S}zranšní Aetherem
 DamageCold={%t0} {^E}zranění ledem
 DamageFire={%t0} {^E}zranění ohněm
 DamageAether={%t0} {^E}zranění Aetherem
@@ -1517,6 +1545,44 @@ DefenseLightningDurationModifier={%+.0f0}% {^E}snížení doby účinku elektric
 DefenseLifeDurationModifier={%+.0f0}% {^E}snížení doby ztráty životní síly
 DefenseLifeLeachDurationModifier={%+.0f0}% {^E}snížení doby vysávání života
 DefenseManaLeachDurationModifier={%+.0f0}% {^E}snížení doby vysávání energie
+DefensePhysicalMaxResist={%+.0f0}% {^E}Maximum Physical Resistance
+DefensePhysicalMaxResistR={%+.0f0}-{%.0f1}% {^E}Maximum Physical Resistance
+DefensePierceMaxResist={%+.0f0}% {^E}Maximum Pierce Resistance
+DefensePierceMaxResistR={%+.0f0}-{%.0f1}% {^E}Maximum Pierce Resistance
+DefenseColdMaxResist={%+.0f0}% {^E}Maximum Cold Resistance
+DefenseColdMaxResistR={%+.0f0}-{%.0f1}% {^E}Maximum Cold Resistance
+DefenseFireMaxResist={%+.0f0}% {^E}Maximum Fire Resistance
+DefenseFireMaxResistR={%+.0f0}-{%.0f1}% {^E}Maximum Fire Resistance
+DefenseAetherMaxResist={%+.0f0}% {^E}Maximum Aether Resistance
+DefenseAetherMaxResistR={%+.0f0}-{%.0f1}% {^E}Maximum Aether Resistance
+DefenseChaosMaxResist={%+.0f0}% {^E}Maximum Chaos Resistance
+DefenseChaosMaxResistR={%+.0f0}-{%.0f1}% {^E}Maximum Chaos Resistance
+DefensePoisonMaxResist={%+.0f0}% {^E}Maximum Poison & Acid Resistance
+DefensePoisonMaxResistR={%+.0f0}-{%.0f1}% {^E}Maximum Poison & Acid Resistance
+DefenseLightningMaxResist={%+.0f0}% {^E}Maximum Lightning Resistance
+DefenseLightningMaxResistR={%+.0f0}-{%.0f1}% {^E}Maximum Lightning Resistance
+DefenseLifeMaxResist={%+.0f0}% {^E}Maximum Vitality Resistance
+DefenseLifeMaxResistR={%+.0f0}-{%.0f1}% {^E}Maximum Vitality Resistance
+DefenseStunMaxResist={%+.0f0}% {^E}Maximum Reduced Stun Duration
+DefenseStunMaxResistR={%+.0f0}-{%.0f1}% {^E}Maximum Reduced Stun Duration
+DefenseLifeLeachMaxResist={%+.0f0}% {^E}Maximum Life Leech Resistance
+DefenseLifeLeachMaxResistR={%+.0f0}-{%.0f1}% {^E}Maximum Life Leech Resistance
+DefenseManaLeachMaxResist={%+.0f0}% {^E}Maximum Energy Leech Resistance
+DefenseManaLeachMaxResistR={%+.0f0}-{%.0f1}% {^E}Maximum Energy Leech Resistance
+DefenseTrapMaxResist={%+.0f0}% {^E}Maximum Reduced Entrapment Duration
+DefenseTrapMaxResistR={%+.0f0}-{%.0f1}% {^E}Maximum Reduced Entrapment Duration
+DefenseFreezeMaxResist={%+.0f0}% {^E}Maximum Reduced Freeze Duration
+DefenseFreezeMaxResistR={%+.0f0}-{%.0f1}% {^E}Maximum Reduced Freeze Duration
+DefensePetrifyMaxResist={%+.0f0}% {^E}Maximum Reduced Petrify Duration
+DefensePetrifyMaxResistR={%+.0f0}-{%.0f1}% {^E}Maximum Reduced Petrify Duration
+DefenseDisruptionMaxResist={%+.0f0}% {^E}Maximum Skill Disruption Protection
+DefenseDisruptionMaxResistR={%+.0f0}-{%.0f1}% {^E}Maximum Skill Disruption Protection
+DefenseBleedingMaxResist={%+.0f0}% {^E}Maximum Bleeding Resistance
+DefenseBleedingMaxResistR={%+.0f0}-{%.0f1}% {^E}Maximum Bleeding Resistance
+DefenseSleepMaxResist={%+.0f0}% {^E}Maximum Sleep Resistance
+DefenseSleepMaxResistR={%+.0f0}-{%.0f1}% {^E}Maximum Sleep Resistance
+DefenseAllMaxResist={%+.0f0}% {^E}Maximum All Resistances
+DefenseAllMaxResistR={%+.0f0}-{%.0f1}% {^E}Maximum All Resistances
 
 RacialBonusPercentDamage={%+.0f0}% {^E}zranění na {%s1}
 RacialBonusAbsoluteDamage={%+.0f0} {^E}zranění na {%s1}
@@ -1584,6 +1650,7 @@ TagHeadphoneSpeakers=Sluchátka
 Tag41Speakers=4 reproduktory
 Tag51Speakers=5.1 reproduktorů
 TagKeybind40=Použít alternativní panel rychlých voleb
+tagKeybindUnassigned=Nepřiřazeno
 
 tagSelectPet1=Výběr 1. spojence
 tagSelectPet2=Výběr 2. spojence
