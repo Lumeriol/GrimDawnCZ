@@ -47,15 +47,15 @@ tagSkillClassName0809=[ms]
 
 tagSkillDevotion=Oddanost
 
-tagSkillClassDescription01=Vojáci císařské armády byli trénováni k přežití v těch nejhorších podmínkách a udrželi linii před těmi nejnebezpečnějšími nepřáteli říše. Vojáci upřednostňují používání chladných zbraní jako jsou meče a štíty, ale mohou se také uplatnit jako střelci ze zálohy. Co může vojákovi chybět v množství jím uděleného poškození, to doplní svou statečností a vedením.
+tagSkillClassDescription01=[[ms]Vojáci císařské armády byli trénováni k přežití v těch nejhorších podmínkách a udrželi linii před těmi nejnebezpečnějšími nepřáteli říše. Vojáci upřednostňují používání chladných zbraní jako jsou meče a štíty, ale mohou se také uplatnit jako střelci ze zálohy. Co může vojákovi chybět v množství jím uděleného poškození, to doplní svou statečností a vedením.[fs]Vojáci císařské armády byli trénováni k přežití v těch nejhorších podmínkách a udrželi linii před těmi nejnebezpečnějšími nepřáteli říše. Vojáci upřednostňují používání chladných zbraní jako jsou meče a štíty, ale mohou se také uplatnit jako střelci ze zálohy. Co může vojákovi chybět v množství jím uděleného poškození, to doplní svou statečností a vedením.]
 
-tagSkillClassDescription02=Pyrotechničtí mistři císařské armády. Ničitelé jsou částečně inženýři a částečně kouzelníci. Byli využíváni k prolomení nepřátelských pozic a opevnění za pomoci jejich zničující výbavy různých výbušnin a destruktivní magie. Obvykle dávali přednost boji na dálku; útočili na nepřátele střelnými zbraněmi, pastmi a výbušninami. Samozřejmě jsou také schopni použít chladnou zbraň.
+tagSkillClassDescription02=[[ms]Pyrotechničtí mistři císařské armády. Ničitelé jsou částečně inženýři a částečně kouzelníci. Byli využíváni k prolomení nepřátelských pozic a opevnění za pomoci jejich zničující výbavy různých výbušnin a destruktivní magie. Obvykle dávali přednost boji na dálku; útočili na nepřátele střelnými zbraněmi, pastmi a výbušninami. Samozřejmě jsou také schopni použít chladnou zbraň.[fs]Pyrotechnické mistryně císařské armády. Ničitelky jsou částečně inženýrky a částečně kouzelnice. Byly využívány k prolomení nepřátelských pozic a opevnění za pomoci jejich zničující výbavy různých výbušnin a destruktivní magie. Obvykle dávaly přednost boji na dálku; útočily na nepřátele střelnými zbraněmi, pastmi a výbušninami. Samozřejmě jsou také schopny použít chladnou zbraň.]
 
-tagSkillClassDescription03=Poté, co byli pronásledováni císařskými vojsky ve snaze ovládnout jejich podivnou moc, Okultisté se zaměřili na vyvolávání a vypůjčili si energii od tří čarodějnických "bohů" - Bysmiela, Solaela a Dreega. Mezi jejich různorodá umění patří odporné kletby a kouzla, která způsobují zranění jedem, kyselinou a chaotickou energií. Nevynikají v boji s mečem ani střelnou zbraní, ale mohou je použít jako dodatečnou údernou sílu.
+tagSkillClassDescription03=[[ms]Poté, co byli pronásledováni císařskými vojsky ve snaze ovládnout jejich podivnou moc, Okultisté se zaměřili na vyvolávání a vypůjčili si energii od tří čarodějnických "bohů" - Bysmiela, Solaela a Dreega. Mezi jejich různorodá umění patří odporné kletby a kouzla, která způsobují zranění jedem, kyselinou a chaotickou energií. Nevynikají v boji s mečem ani střelnou zbraní, ale mohou je použít jako dodatečnou údernou sílu.[fs]Poté, co byly pronásledovány císařskými vojsky ve snaze ovládnout jejich podivnou moc, Okultistky se zaměřily na vyvolávání a vypůjčily si energii od tří čarodějnických "bohů" - Bysmiela, Solaela a Dreega. Mezi jejich různorodá umění patří odporné kletby a kouzla, která způsobují zranění jedem, kyselinou a chaotickou energií. Nevynikají v boji s mečem ani střelnou zbraní, ale mohou je použít jako dodatečnou údernou sílu.]
 
-tagSkillClassDescription04=Noční lovci byli tajní bojovníci, kteří nabízeli své služby velkým rodům v říši. Noční lovci vynikají v boji se všemi druhy bojových zbraní, ale největší obavy vzbuzují smrtící magické nože, jež jsou jejich obchodním tajemstvím. Noční lovci nejsou přizpůsobeni k tělesnému kontaktu s odolnějším nepřítelem a raději se spoléhají na svou iluzi o rychlém a zničujícím přepadení, nebo na boj z určité vzdálenosti s jejich přízračnými noži.
+tagSkillClassDescription04=[[ms]Noční lovci byli tajní bojovníci, kteří nabízeli své služby velkým rodům v říši. Noční lovci vynikají v boji se všemi druhy bojových zbraní, ale největší obavy vzbuzují smrtící magické nože, jež jsou jejich obchodním tajemstvím. Noční lovci nejsou přizpůsobeni k tělesnému kontaktu s odolnějším nepřítelem a raději se spoléhají na svou iluzi o rychlém a zničujícím přepadení, nebo na boj z určité vzdálenosti s jejich přízračnými noži.[fs]Noční lovkyně byly tajné bojovnice, které nabízely své služby velkým rodům v říši. Noční lovkyně vynikají v boji se všemi druhy bojových zbraní, ale největší obavy vzbuzují smrtící magické nože, jež jsou jejich obchodním tajemstvím. Noční lovkyně nejsou přizpůsobeny k tělesnému kontaktu s odolnějším nepřítelem a raději se spoléhají na svou iluzi o rychlém a zničujícím přepadení, nebo na boj z určité vzdálenosti s jejich přízračnými noži.]
 
-tagSkillClassDescription05=Pro Vládce temnot není tajemství magie nějaká nevysvětlitelná záhada nebo vůle bohů, ale věda, která chce být odtajněna. Tato snaha o poznání žene všechny Vládce temnot dychtivě dál za objevováním nových způsobů, které by si mohli osvojit. Vládce temnot vychyluje Éterickou a živelnou energii podle své vůle, čímž tvoří ničivou demonstraci síly, kterou může použít na malé armády. Nicméně hrubá síla znamená chabou obranu.
+tagSkillClassDescription05=[[ms]Pro Vládce temnot není tajemství magie nějaká nevysvětlitelná záhada nebo vůle bohů, ale věda, která chce být odtajněna. Tato snaha o poznání žene všechny Vládce temnot dychtivě dál za objevováním nových způsobů, které by si mohli osvojit. Vládce temnot vychyluje Éterickou a živelnou energii podle své vůle, čímž tvoří ničivou demonstraci síly, kterou může použít na malé armády. Nicméně hrubá síla znamená chabou obranu.[fs]Pro Vládkyně temnot není tajemství magie nějaká nevysvětlitelná záhada nebo vůle bohů, ale věda, která chce být odtajněna. Tato snaha o poznání žene všechny Vládkyně temnot dychtivě dál za objevováním nových způsobů, které by si mohly osvojit. Vládkyně temnot vychyluje Éterickou a živelnou energii podle své vůle, čímž tvoří ničivou demonstraci síly, kterou může použít na malé armády. Nicméně hrubá síla znamená chabou obranu.]
 
 tagSkillClassDescription06=
 
@@ -472,18 +472,18 @@ tagClass05SkillDescription01A=Největší s Cortosianských Vládců temnot, Pan
 tagClass05SkillName01B=Zkomolení
 tagClass05SkillDescription01B=Replikující se raketa zkomolí samotnou podstatu tvého nepřítele, což zvýší šance na to, že raketa projde skrze tvůj cíl.
 tagClass05SkillName01C=Přeplňování
-tagClass05SkillDescription01C=Vzduch kolem Replikující se rakety se stává přeplněnou statickou energií a ta zasáhne elektrickým proudem jakéhokoliv nepřítele, který se, bohužel pro něj, dostane do kontaktu s projektilem.
+tagClass05SkillDescription01C=Vzduch kolem Replikující se rakety se stává přeplněným statickou energií a zasáhne elektrickým proudem jakéhokoliv nepřítele, který se, bohužel pro něj, dostane do kontaktu s projektilem.
 tagClass05SkillName01D=Proliferace
 tagClass05SkillDescription01D=Pokročilá technika Replikující se rakety k dokonalosti dovedená Panettiho studentem. Při dopadu přejímá energii od samotného cíle a tak může vzniknout ještě větší počet raket.
 tagClass05SkillName01E=Konkuzivní raketa
 tagClass05SkillDescription01E=Převede energii Replikující se rakety do hmotného světa a tak způsobí fyzické i metafyzické škody.
 
 tagClass05SkillName02A=Iskandřina Výměna živlů
-tagClass05SkillDescription02A=Iskandra učila svoje studenty, že nejúčinější cesta k vítězství je obrátit energie tvých nepřátel proti nim samotným. A právě Výměna živlů způsobuje, že zbraně tvých spojenců hladově absorbuje arkanickou energii z tvých nepřátel a vrací jí ve formě elementárního poškození. ^oTato schopnost musí být nastavena jako výchozí typ útoku, aby účinkovala.
+tagClass05SkillDescription02A=Iskandra učila své studenty, že nejúčinější cesta k vítězství je obrátit energie svých nepřátel proti nim samotným. A právě Výměna živlů způsobuje, že tvé zbraně a zbraně tvých spojenců hladově absorbují arkanickou energii z nepřátel a vrací ji ve formě elementárního poškození. ^oTato schopnost musí být nastavena jako výchozí typ útoku, aby účinkovala.
 tagClass05SkillName02B=Přetížení
 tagClass05SkillDescription02B=Zaklínadlo se stává přetíženým arkanickými silami, což způsobuje, že tvé zbraně doslova praskají pod hrubou sílou živlů.
 tagClass05SkillName02C=Elementární rovnováha
-tagClass05SkillDescription02C=Zaklínadlem vyvolaný a velmi dobře vybalancovaný úder, jež harmonizuje oheň a led spolu s nespoutanou elektřinou, jež dohromady tvoří čistou arkanickou energii.
+tagClass05SkillDescription02C=Zaklínadlem vyvolaný a velmi dobře vybalancovaný úder, jež harmonizuje oheň a led spolu s nespoutanou elektřinou a tvoří tak společně čistou arkanickou energii.
 tagClass05SkillName02D=Zjevení
 tagClass05SkillDescription02D=Arkanické energie se zjevují v mnoha formách. Vládci temnot, kteří se odevzdali umění vyvolávání, často převádějí některou z jejich sil na jejich přisluhovače a ti pak mohou lépe posloužit vůli svých pánů.
 
@@ -517,7 +517,7 @@ tagClass05SkillName07A=Anulování
 tagClass05SkillDescription07A=Koncentruje masivní množství negativní energie v zaměřené oblasti a odebere nepřátelům posilující aury a kouzla, zatímco spojenci jsou oprošťěni od negativních vlivů.
 
 tagClass05SkillName08A=Devastace
-tagClass05SkillDescription08A=Vychvalována jako ultimátní síla destrukce známá Arcanistům, tato technika protrhne bránu v realitě, skrze kterou padají uhlíky prvotní arkanické energie. Toto nebezpečné kouzlo je extrémně vyčerpávající a nemělo by být používáno lehkovážně. ^oVyžaduje kouzelnický předmět v druhé ruce. Pokud zůstaneš strnutě stát po prvním zakouzlení, můžeš směrem k cíli vypustit až další dvě vlny.
+tagClass05SkillDescription08A=Vychvalována jako ultimátní síla destrukce známá [ms]Vládcům temnot[fs]Vládkyním temnot, tato technika protrhne bránu v realitě, skrze kterou padají uhlíky prvotní arkanické energie. Toto nebezpečné kouzlo je extrémně vyčerpávající a nemělo by být používáno lehkovážně. ^oVyžaduje kouzelnický předmět v druhé ruce. Pokud zůstaneš strnutě stát po prvním zakouzlení, můžeš směrem k cíli vypustit až další dvě vlny.
 
 tagClass05SkillName09A=Vnitřní soustředění
 tagClass05SkillDescription09A=Soustředění mysli a těla do místa, kde jsou arkanické energie, je jednou z prvních meditačních technik, kterou se ctižádostiví Vládci temnot učí.
@@ -529,7 +529,7 @@ tagClass05SkillName11A=Železná horlivost
 tagClass05SkillDescription11A=Ti, jež jsou mistry mezi Vládci temnot, se učí převádět své energie s ohromnou rychlostí a koncentrací a nadále se nezabývají ubohými omezeními jejich mysli.
 
 tagClass05SkillName12A=Materiál z reality
-tagClass05SkillDescription12A=Poodhal roušku samotného stavebního kamene reality. Prvotní síly aetheru a prázdnoty ti přijdou jako věci na hraní.
+tagClass05SkillDescription12A=Poodhal roušku samotného stavebního kamene reality. Prvotní síly aetheru a prázdnoty pro tebe vypadají jako by to byly hračky.
 
 tagClass05SkillName13A=Olexrařina Bariéra
 tagClass05SkillDescription13A=Olexra se proslavila využíváním ledu v kouzlech. Jeden z jejích taktiků  vynalezl postavení zdi s nestabilními ledovými hroty, které na jedné straně udržely nepřítele, zatímco ona zaútočila na město z druhé strany.
@@ -539,19 +539,19 @@ tagClass05SkillName13C=Ledový konec
 tagClass05SkillDescription13C=Ledová Bariéra se zhroutí a způsobí výbuch.
 
 tagClass05SkillName14A=Ereoctesovo zrcadlo
-tagClass05SkillDescription14A=Ve vteřině se vzduch kolem tebe promění na kámen jež bude absorbovat všechny typy útoku a bude je obracet proti samotnému útočníkovi; oblíbená to metoda Mistra Ereoctese.
+tagClass05SkillDescription14A=Ve vteřině se vzduch kolem tebe promění na kámen, jež bude absorbovat všechny typy útoku a bude je obracet proti samotnému útočníkovi; oblíbená to metoda Mistra Ereoctese.
 
 tagClass05SkillName15A=Bezohledná síla
 tagClass05SkillDescription15A=Za cenu části své lidskosti a životní síly nech své tělo proměnit do prostředníka pro aether, jež představuje hrůzostrašné arkanické energie.
 tagClass05SkillName15B=Povznesení
 tagClass05SkillDescription15B=Posouváš se za hranice své fyzické formy, čímž předáš část své arkanické síly na spojence v okolí.
 tagClass05SkillName15C=Neomezená síla
-tagClass05SkillDescription15C=Mnoho Vládců temnot obětuje tak moc pro získání nekonečné moci. Jsou zde tací, jež nedbali na starověká varování a plně se oddali aetheru. Jsou to ti Vládci temnot, jež zasadí do srdcí smrtelníků nižší formy.
+tagClass05SkillDescription15C=Mnoho Vládců temnot obětuje tak moc pro získání nekonečné moci. Jsou zde tací, jež nedbali na starověká varování a plně se oddali aetheru. Jsou to ti Vládci temnot, jež zasadí strach do srdcí smrtelníků nižší formy.
 
-tagClass05SkillName16A=Olexrařino Bleskové mrznutí
+tagClass05SkillName16A=Olexrařino Rychlé mrznutí
 tagClass05SkillDescription16A=Oběť politických intrik, Olexra, byla opuštěna v Černé legii, kde se její průměrný život arkanské studentky proměnil v hořký boj o přežití v prvních liniích v průběhu brutální války. Olexra rychle uvedla své studentské znalosti do praxe a vyvinula techniku, která okamžitě zmrazí nepřátele, kteří jsou v dosahu úderu.
 tagClass05SkillName16B=Absolutní nula
-tagClass05SkillDescription16B=Kompletně zbaví okolní vzduch tepla a cokoliv je zachyceno v dosahu Bleskového mrznutí je zpomalené a oslabené dokonce i poté, co původní účinky odezní.
+tagClass05SkillDescription16B=Kompletně zbaví okolní vzduch tepla a cokoliv je zachyceno v dosahu Rychlého mrznutí je zpomalené a oslabené dokonce i poté, co původní účinky odezní.
 
 
 #Class06
