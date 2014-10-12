@@ -144,8 +144,8 @@ tagFactionStateFriendly=Přátelský
 tagFactionStateTrusted=Důvěryhodný
 tagFactionStateHonored=Poctěný
 tagFactionStateRevered=Uctívaný
-tagFactionProgress=Required to Next Level: {^b}{%d0}
-tagFactionStatusChange={^w}You are now {%s0} {^w}with {^b}{%s1}
+tagFactionProgress=Požadováno do další úrovně: {^b}{%d0}
+tagFactionStatusChange={^w}Nyní jsi {%s0} {^w}s {^b}{%s1}
 tagFactionEnemies=Nepřátelé: {^b}
 
 #HUD
@@ -178,9 +178,9 @@ tagHUD_Riftgate=Rozerve portál na titěrné části a ty pak budeš moci vyjít
 tagHUD_EmptySlot_R=Prázdný rychlý panel
 tagHUD_EmptySlot_R1=Pravým kliknutím přiřaď dovednost.
 tagHUD_LeftMouse_R=Akce na levém tlačítku myši
-tagHUD_LeftMouse_R1=Tohle je tvůj primární útok.  Pravým kliknutím myši přiřaď jinou dovednost.
+tagHUD_LeftMouse_R1=Tohle je tvůj primární útok. Pravým kliknutím myši přiřaď jinou dovednost.
 tagHUD_RightMouse_R=Akce na pravém tlačítku myši
-tagHUD_RightMouse_R1=Tohle je tvůj sekundární útok.  Pravým kliknutím myši přiřaď jinou dovednost.
+tagHUD_RightMouse_R1=Tohle je tvůj sekundární útok. Pravým kliknutím myši přiřaď jinou dovednost.
 tagHUD_CompassToggleName=Přepínač kompasové mapy
 tagHUD_CompassToggleDescription=Kliknutím změníš velikost nebo pozici kompasové mapy.
 
@@ -189,7 +189,7 @@ tagHUD_RightMouse=P
 
 tagHUDPortraitLevelUP=Nová úroveň
 tagHUDWeaponSwap=Přehození zbraní
-tagHUDWeaponSwapRoll=Přepíná mezi tvou výzbrojí.  Musíš být vyzbrojen sadou zbraní na alternativním slotu.
+tagHUDWeaponSwapRoll=Přepíná mezi tvou výzbrojí. Musíš být vyzbrojen sadou zbraní na alternativním slotu.
 tagHUDWeaponSwapHelpRoll=Dříve než budeš moci použít přehození zbraní, musíš se vyzbrojit druhou sadou zbraní do alternativních slotů v okně postavy.
 
 tagHUDRiftgateButton=Cestování portálem
@@ -198,9 +198,9 @@ tagHUDRiftgateButtonRoll=Rozerve vzduch a vytvoří malý vstup do brány s výc
 tagHUDQuickslot=Nepřiřazená rychlá volba
 tagHUDQuickslotRoll=Pravým tlačítkem přiřaď dovednost.
 tagHUDQuickslotLM=Akce na levém tlačítku myši
-tagHUDQuickslotLMRoll=Hlavní útok.  Pravým tlačítkem myši přiřaď dovednost.
+tagHUDQuickslotLMRoll=Hlavní útok. Pravým tlačítkem myši přiřaď dovednost.
 tagHUDQuickslotRM=Akce na pravém tlačítku myši
-tagHUDQuickslotRMRoll=Vedlejší útok.  Pravým tlačítkem myši přiřaď dovednost.
+tagHUDQuickslotRMRoll=Vedlejší útok. Pravým tlačítkem myši přiřaď dovednost.
 tagHUDQuickslotBarSwap=Přepnout na druhý panel rychlých voleb.
 
 tagHUDButtonCharacter=Okno postavy
@@ -231,7 +231,7 @@ tagNextLevel=Další úroveň: {%d0}
 tagSkillClassSelectInfo=Vyber si povolání své postavy{^n}{^n} Jakmile si některé vybereš a zavřeš okno s dovednostmi, bude tvůj výběr trvalý.
 tagSkillReq01=Vyžaduje dalších {%d0} bodů v povolání {%s1}.
 tagSkillReq01Singular=Vyžaduje ještě {%d0} bod v povolání {%s1}.
-tagSkillReq02=Vyžaduje dalších {%d0} bodů v povolání {%s1} a dovednost  {%s2}.
+tagSkillReq02=Vyžaduje dalších {%d0} bodů v povolání {%s1} a dovednost {%s2}.
 tagSkillReq02Singular=Vyžaduje ještě {%d0} bod v povolání {%s1} a dovednost {%s2}.
 tagSkillReq03=Vyžaduje dovednost {%s1}.
 tagSkillPointsRemain={%d0} zbývajících bodů
@@ -342,7 +342,7 @@ tagCharPointAvailable={^y}{%d0}{^w} dostupný bod
 tagCharPointsAvailable={^y}{%d0}{^w} dostupných bodů
 tagCharLevel=Úroveň {%d0}
 tagCharXP=Zkušenosti : {%t0}
-tagCharLevelAndClass=Úroveň {%d0} {%t1}
+tagCharLevelAndClass={%t1} ~ úroveň {%d0}
 
 tagCharRollLeftHand=Levá ruka
 tagCharRollRightHand=Pravá ruka
@@ -421,8 +421,8 @@ tagCharStatsOccuSkillsBonus=Dovednosti Okultisty
 tagCharStatsOccuSkillsBonusInfo=Bonus ke všem naučeným dovednostem v povolání Okultisty.
 tagCharStatsNightbladeSkillsBonus=Dovednosti Nočního lovce
 tagCharStatsNightbladeSkillsBonusInfo=Bonus ke všem naučeným dovednostem v povolání Nočního lovce.
-tagCharStatsArcanistSkillsBonus=Dovednosti Pána temnot
-tagCharStatsArcanistSkillsBonusInfo=Bonus ke všem naučeným dovednostem v povolání Pána temnot.
+tagCharStatsArcanistSkillsBonus=Dovednosti Vládce temnot
+tagCharStatsArcanistSkillsBonusInfo=Bonus ke všem naučeným dovednostem v povolání Vládce temnot.
 
 #Physical
 tagCharStatsAttackSpeed=Útočná rychlost
@@ -431,9 +431,9 @@ tagCharStatsAvgDmg=Rozsah zranění
 tagCharStatsAvgDmgDescription=Zranění způsobené zásahem dle základního útoku a bonusů.
 
 tagCharStatsPhysicalAbsDmg=Fyzické zranění
-tagCharStatsPhysicalAbsDmgInfo=The Physical Damage done per hit with your base attack, including bonuses.
+tagCharStatsPhysicalAbsDmgInfo=Fyzické zranění udělené za jeden zásah pomocí základního útoku včetně bonusů.
 tagCharStatsPhysicalPercentDmg=Fyzický násobitel
-tagCharStatsPhysicalPercentDmgInfo=The percent bonus to all Physical Damage.
+tagCharStatsPhysicalPercentDmgInfo=Procentuální bonus ke všem fyzickým zraněním.
 
 tagCharStatsPierceAbsDmg=Zranění probodnutím
 tagCharStatsPierceAbsDmgInfo=The Pierce Damage done per hit with your base attack, including bonuses.
@@ -1036,25 +1036,25 @@ tagCharWeaponIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) {^E}Spirit Requiremen
 tagCharWeaponStrengthReqReductionR=-({%.0f0}-{%.0f1}%) {^E}Physique Requirement for all Weapons
 tagCharWeaponDexterityReqReductionR=-({%.0f0}-{%.0f1}%) {^E}Cunning Requirement for all Weapons
 
-SkillManaCostReductionR=-{%.0f0}% {^E}Skill Energy Cost
-SkillCooldownReductionR=+{%.0f0}% {^E}Skill Cooldown Reduction
-SkillProjectileSpeedModifierR={%+.0f0}% {^E}Increase in Projectile Speed
-SkillManaCostReductionModifierR=-{%.0f0}% {^E}Skill Energy Cost
-SkillCooldownReductionModifierR=-{%.0f0}% {^E}Skill Recharge
+SkillManaCostReductionR=-{%.0f0}% {^E}energie dovednosti
+SkillCooldownReductionR=+{%.0f0}% {^E}doby obnovy dovednosti
+SkillProjectileSpeedModifierR={%+.0f0}% {^E}zvýšení rychlosti projektilů
+SkillManaCostReductionModifierR=-{%.0f0}% {^E}energie dovednosti
+SkillCooldownReductionModifierR=-{%.0f0}% {^E}dobití dovednosti
 
-tagDamageConversion={%.0f0}% {^E}{%s1} converted to {%s2}
-tagDamageRemoval={%.0f0}% {^E}{%s1} Reduction
-tagConversionPhysical=Physical Damage
-tagConversionPierce=Piercing Damage
-tagConversionElemental=Elemental Damage
-tagConversionCold=Cold Damage
-tagConversionFire=Fire Damage
-tagConversionPoison=Poison Damage
-tagConversionLightning=Lightning Damage
-tagConversionLife=Vitality Damage
-tagConversionChaos=Chaos Damage
-tagConversionAether=Aether Damage
-tagConversionStun=Stun Duration
+tagDamageConversion={%.0f0}% {^E}{%s1} převedeno do {%s2}
+tagDamageRemoval={^E}Pokles {%s1} o {^H}{%.0f0}%
+tagConversionPhysical=fyzického zranění
+tagConversionPierce=zranění probodnutím
+tagConversionElemental=živelného zranění
+tagConversionCold=zranění chladem
+tagConversionFire=ohnivého zranění
+tagConversionPoison=zranění otrávením
+tagConversionLightning=zranění blesky
+tagConversionLife=zranění ztrátou životní energie
+tagConversionChaos=zranění chaosem
+tagConversionAether=zranění Aetherem
+tagConversionStun=doby trvání omráčení
 
 tagAttackSpeedNotSet=Rychlost:  nezadáno
 tagAttackSpeedVerySlow=Rychlost:  velmi pomalá

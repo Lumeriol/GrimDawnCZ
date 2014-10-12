@@ -1519,7 +1519,7 @@ tagCraftMaterial_AetherShard_Desc="Velký úlomek z Aetherického krystalu, ve k
 tagCraftMaterial_AetherCluster=Trs Aetherů
 tagCraftMaterial_AetherCluster_Desc="Shromážděný trs úlomků aetheru, překypujících nestabilními energiemi."
 tagCraftMaterial_TaintedBrain=Zkažená mozková hmota
-tagCraftMaterial_TaintedBrain_Desc="Mozková tkáň zjizvená a zkroucená, manipulací mocnými Aetheriany."
+tagCraftMaterial_TaintedBrain_Desc="Mozková tkáň, zjizvená a zkroucená, manipulací mocnými Aetheriany."
 tagCraftMaterial_BloodChthon=Krev Ch'thona
 tagCraftMaterial_BloodChthon_Desc="Sloučená esence boha prázdnoty."
 tagCraftMaterial_AncientHeart=Starověké srdce
@@ -1715,7 +1715,7 @@ tagCompA008Name=Zmutované šupiny
 ttagCompA008Desc="Neobvykle silné a těžké šupiny zmutované působením Aetherické energie."^w^n(Může vylepšit hrudní zbroje a nárameníky)
 
 tagCompA009Name=Prach z mrtvoly
-tagCompA009Desc="Dust derived from the remains of the deceased, often used for witchcraft and enchantments."^w^n(Může vylepšit prsteny a amulety)
+tagCompA009Desc="Prach získaný z ostatků zemřelého, často využívaný pro čarování a kouzlení."^w^n(Může vylepšit prsteny a amulety)
 
 tagCompA010Name=Kousek duše
 tagCompA010Desc="Kouzelný drahokam používaný lovci čarodějnic, o němž se říká, že v sobě vězní duše zatracených."^w^n(Může vylepšit amulety a medaile)
@@ -1861,7 +1861,7 @@ tagCompA056Desc="Hemží se hrubými silami prázdnoty."^w^n(Může vylepšit ch
 tagCompA057Name=Aetherické šipky
 tagCompA057Desc="Rozšiřující se na základě Aetherických zrůdností."^w^n(Může vylepšit pušky a kuše)
 
-tagCompA058Name=Prázdnotou dotčený náboj
+tagCompA058Name=Náboj prázdnoty
 tagCompA058Desc="Namočený v čerstvé Chthonické krvi."^w^n(Může vylepšit pušky a kuše)
 
 tagCompA059Name=Slitina Aetheru a oceli
