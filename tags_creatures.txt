@@ -50,7 +50,7 @@ tagBoarHeroH02=Ragesnout ~ Hbitý
 tagBoarHeroH03=Hellmane ~ Hořící
 tagBoarHeroH04=Rotmane ~ Nemocný
 tagBoarHeroH05=Aetherean ~ Zkažený
-tagBoarHeroH06=Riftsnout ~ Dotčený prázdnotou
+tagBoarHeroH06=Riftsnout ~ Dotčený Prázdnotou
 
 
 #CreatureBoneRat
@@ -99,7 +99,7 @@ tagEnemyVoidFiendC01=Ohavnost nicoty
 
 tagVoidFiendHeroH01=Innugaru, Zděšení z Nicoty
 tagVoidFiendHeroH02=Hiln'Raz, Temná věštba
-tagVoidFiendHeroH03=Sen'Thel Nositel prázdnoty
+tagVoidFiendHeroH03=Sen'Thel Nositel Prázdnoty
 tagVoidFiendHeroH04=Nii'Thel ~ Rváč
 tagVoidFiendHeroH05=Gurgoth'Siin ~ Hořící
 
@@ -129,7 +129,7 @@ tagDranghoulHeroH03=Ooglar ~ Nezastavitelný
 tagDranghoulHeroH04=Reeve ~ Hořící
 tagDranghoulHeroH05=Wovaar ~ Zmrzlý
 tagDranghoulHeroH06=Ravadaar ~ Zkažený
-tagDranghoulHeroH07=Vinaldaar ~ Dotčený prázdnotou
+tagDranghoulHeroH07=Vinaldaar ~ Dotčený Prázdnotou
 
 #CreatureFleshHulk
 
@@ -186,7 +186,7 @@ tagGolemRockHeroH02=Haldras Plivač plamenů
 tagGolemRockHeroH03=Stoneheart ~ Zrcadlící
 tagGolemRockHeroH04=Stonegrinder ~ Dobíječ
 tagGolemRockHeroH05=Rimestone ~ Zmrzlý
-tagGolemRockHeroH06=Voidstone ~ Dotčený prázdnotou
+tagGolemRockHeroH06=Voidstone ~ Dotčený Prázdnotou
 
 #CreatureGrobles
 
@@ -357,7 +357,7 @@ tagDermapteranHeroH01=Harpallax, požírač slunce
 tagDermapteranHeroH02=Corrosinax
 tagDermapteranHeroH03=Wasparex ~ Rychlý
 tagDermapteranHeroH04=Olmarix ~ Elektrizovaný
-tagDermapteranHeroH05=Vildrix ~ Dotčený prázdnotou
+tagDermapteranHeroH05=Vildrix ~ Dotčený Prázdnotou
 
 tagDermapteranBoss01=Velký vezír Lozakal
 tagDermapteranBoss02=Velký vezír Inixil
@@ -373,7 +373,7 @@ tagInsectMosquitoHeroH01=Vladox, Krví poznamenaný
 tagInsectMosquitoHeroH02=Sarlap ~ Elektrizovaný
 tagInsectMosquitoHeroH03=Jornax, Nenasytný ~ Rychlý
 tagInsectMosquitoHeroH04=Narlax ~ Zkažený
-tagInsectMosquitoHeroH05=Oorlax ~ Dotčený prázdnotou
+tagInsectMosquitoHeroH05=Oorlax ~ Dotčený Prázdnotou
 
 #CreatureInsectWasp
 
@@ -387,7 +387,7 @@ tagInsectWaspHeroH03=Harprax, Královnina vůle ~ Zastánce
 tagInsectWaspHeroH04=Ralkara ~ Obnovitelka
 tagInsectWaspHeroH05=Folcrax ~ Zmrzlý
 tagInsectWaspHeroH06=Walacrax ~ Zkažený
-tagInsectWaspHeroH07=Ooldacrax ~ Dotčený prázdnotou
+tagInsectWaspHeroH07=Ooldacrax ~ Dotčený Prázdnotou
 
 tagInsectWaspBoss01=Ulraprax, Včelí matriarcha
 tagInsectWaspBoss02=Ronaprax, Velká královna
@@ -462,7 +462,7 @@ tagRaptorHeroH02=Aragonax, požírač duší
 tagRaptorHeroH03=Baldim, Nositel chaosu
 tagRaptorHeroH04=Bonesnarl ~ Nezastavitelný
 tagRaptorHeroH05=Idran, Anomálie ~ Obnovitel
-tagRaptorHeroH06=Balra ~ Dotčená prázdnotou
+tagRaptorHeroH06=Balra ~ Dotčená Prázdnotou
 
 #CreatureRiftHound
 
@@ -494,7 +494,7 @@ tagScavengerHeroH02=Krvavý dráp
 tagScavengerHeroH03=Bledá hříva, Ohromený
 tagScavengerHeroH04=Ernol Mrchožravý ~ Nemocný
 tagScavengerHeroH05=Rudý chvost ~ Stoupenec
-tagScavengerHeroH06=Rav ~ Dotčený prázdnotou
+tagScavengerHeroH06=Rav ~ Dotčený Prázdnotou
 
 #CreatureShadowman
 
@@ -511,7 +511,7 @@ tagSkeletalGolemHeroH01=Grulgor, Trýznitel ~ Nemocný
 tagSkeletalGolemHeroH02=Falgarr, Ledový pozorovatel ~ Zmrzlý
 tagSkeletalGolemHeroH03=Bralgarr, Plamenný pozorovatel ~ Hořící
 tagSkeletalGolemHeroH04=Wralgarr, Aetherem dotčený ~ Zkažený
-tagSkeletalGolemHeroH05=Olagarr, Nositel chaosu ~ Dotčený prázdnotou
+tagSkeletalGolemHeroH05=Olagarr, Nositel chaosu ~ Dotčený Prázdnotou
 
 
 tagSkeletalGolemBossB01=Ilgorr, Věčný
@@ -708,7 +708,7 @@ tagHeroVultureH01=Volaxna, Krvavé hrdlo
 tagHeroVultureH02=Plaguewing ~ Nemocný
 tagHeroVultureH03=Harrowbeak ~ Nezastavitelný
 tagHeroVultureH04=Wrathtalon ~ Zkažený
-tagHeroVultureH05=Voidtalon ~ Dotčený prázdnotou
+tagHeroVultureH05=Voidtalon ~ Dotčený Prázdnotou
 
 #CreatureWorm
 
@@ -719,7 +719,7 @@ tagWormHeroH01=Gravner, Požírač žluči
 tagWormHeroH02=Zemilam ~ Elektrizující
 tagWormHeroH03=Kamenolam ~ Chráněnec
 tagWormHeroH04=Hněvivý červ ~ Zkažený
-tagWormHeroH05=Přetržený červ ~ Dotčený prázdnotou
+tagWormHeroH05=Přetržený červ ~ Dotčený Prázdnotou
 
 #CreatureZombie
 
