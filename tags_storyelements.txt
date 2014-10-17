@@ -121,7 +121,7 @@ tagRiftDeadmansGulch=Portál v Rokli mrtvého muže
 tagRiftAlpineRoad=Portál na Alpské stezce
 
 tagRiftWitheringFields=Portál na Schnoucích polích
-tagRiftHomestead=Portál v Homestead
+tagRiftHomestead=Portál v Homesteadu
 
 tagRiftRandom01=Ch'thonský portál
 

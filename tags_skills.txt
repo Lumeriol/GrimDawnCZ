@@ -467,25 +467,25 @@ tagClass04SkillDescription15B=Mistrovská technika, která vylepšuje Vyvržení
 tagClass05SkillName00=[[ms]Vládce temnot[fs]Vládkyně temnot]
 tagClass05SkillDescription00=Trénování těla a mysli pomáhá snést zničující síly prvotní magie.
 
-tagClass05SkillName01A=Panettiho replikující se raketa
-tagClass05SkillDescription01A=Největší s Cortosianských Vládců temnot, Panetti, se věnoval vylepšení klasické arkanické rakety. Jeho triumfem je změna, která očividně popírá zákony zachování energie, což způsobí, že raketa při dopadu vytvoří vícero vlastních kopií.
+tagClass05SkillName01A=Panettiho replikující se střela
+tagClass05SkillDescription01A=Největší s Cortosianských Vládců temnot, Panetti, se zabýval vývojem vylepšené tajuplné střely. Jeho triumfem je změna, která očividně popírá zákony zachování energie, což způsobí, že střela při dopadu vytvoří vícero vlastních kopií.
 tagClass05SkillName01B=Zkomolení
-tagClass05SkillDescription01B=Replikující se raketa zkomolí samotnou podstatu tvého nepřítele, což zvýší šance na to, že raketa projde skrze tvůj cíl.
+tagClass05SkillDescription01B=Replikující se střela zkomolí samotnou podstatu tvého nepřítele, což zvýší šance na to, že projektil projde skrze tvůj cíl.
 tagClass05SkillName01C=Přeplňování
-tagClass05SkillDescription01C=Vzduch kolem Replikující se rakety se stává přeplněným statickou energií a zasáhne elektrickým proudem jakéhokoliv nepřítele, který se, bohužel pro něj, dostane do kontaktu s projektilem.
+tagClass05SkillDescription01C=Vzduch kolem Replikující se střely se stává přeplněným statickou energií a zasáhne elektrickým proudem jakéhokoliv nepřítele, který se, bohužel pro něj, dostane do kontaktu s projektilem.
 tagClass05SkillName01D=Proliferace
-tagClass05SkillDescription01D=Pokročilá technika Replikující se rakety k dokonalosti dovedená Panettiho studentem. Při dopadu přejímá energii od samotného cíle a tak může vzniknout ještě větší počet raket.
-tagClass05SkillName01E=Konkuzivní raketa
-tagClass05SkillDescription01E=Převede energii Replikující se rakety do hmotného světa a tak způsobí fyzické i metafyzické škody.
+tagClass05SkillDescription01D=Pokročilá technika Replikující se střely k dokonalosti dovedená Panettiho studentem. Při dopadu přejímá energii od samotného cíle a tak může vzniknout ještě větší počet střel.
+tagClass05SkillName01E=Konkuzivní střela
+tagClass05SkillDescription01E=Převede energii Replikující se střely do hmotného světa a tak způsobí fyzické i metafyzické škody.
 
 tagClass05SkillName02A=Iskandřina Výměna živlů
-tagClass05SkillDescription02A=Iskandra učila své studenty, že nejúčinější cesta k vítězství je obrátit energie svých nepřátel proti nim samotným. A právě Výměna živlů způsobuje, že tvé zbraně a zbraně tvých spojenců hladově absorbují arkanickou energii z nepřátel a vrací ji ve formě elementárního poškození. ^oTato schopnost musí být nastavena jako výchozí typ útoku, aby účinkovala.
+tagClass05SkillDescription02A=Iskandra učila své studenty, že nejúčinější cesta k vítězství je obrátit energie svých nepřátel proti nim samotným. A právě Výměna živlů způsobuje, že tvé zbraně a zbraně tvých spojenců hladově absorbují tajemnou energii z nepřátel a vrací ji ve formě elementárního poškození. ^oTato schopnost musí být nastavena jako výchozí typ útoku, aby účinkovala.
 tagClass05SkillName02B=Přetížení
-tagClass05SkillDescription02B=Zaklínadlo se stává přetíženým arkanickými silami, což způsobuje, že tvé zbraně doslova praskají pod hrubou sílou živlů.
+tagClass05SkillDescription02B=Zaklínadlo se stává přetíženým tajemnými silami, což způsobuje, že tvé zbraně doslova praskají pod hrubou sílou živlů.
 tagClass05SkillName02C=Elementární rovnováha
-tagClass05SkillDescription02C=Zaklínadlem vyvolaný a velmi dobře vybalancovaný úder, jež harmonizuje oheň a led spolu s nespoutanou elektřinou a tvoří tak společně čistou arkanickou energii.
+tagClass05SkillDescription02C=Zaklínadlem vyvolaný a velmi dobře vybalancovaný úder, jež harmonizuje oheň a led spolu s nespoutanou elektřinou a tvoří tak společně čistou tajemnou energii.
 tagClass05SkillName02D=Zjevení
-tagClass05SkillDescription02D=Arkanické energie se zjevují v mnoha formách. Vládci temnot, kteří se odevzdali umění vyvolávání, často převádějí některou z jejich sil na jejich přisluhovače a ti pak mohou lépe posloužit vůli svých pánů.
+tagClass05SkillDescription02D=Tajemné energie se zjevují v mnoha formách. Vládci temnot, kteří se odevzdali umění vyvolávání, často převádějí některou z jejich sil na jejich přisluhovače a ti pak mohou lépe posloužit vůli svých pánů.
 
 tagClass05SkillName03A=Trozanův Úlomek nebe
 tagClass05SkillDescription03A=O mytickém Trozanovi se říkávalo, že byl přirozený; divoký a nechtějící se přizpůsobit doktrínám Imperiálních Vládců temnot. Když Imperiálští nakonec obklíčili jeho úkryt na vrcholu hory, Trozan je pokořil za použití neznámé techniky, která na ně snesla samotnou oblohu. ^oDo cílené oblasti dopadnou 3 úlomky.
@@ -502,12 +502,12 @@ tagClass05SkillName04C=Agrivixova zloba
 tagClass05SkillDescription04C=Agrivix byl proslulý převáděním tak ohromného množství energie do Smrště, že její výsledná exploze by nezanechala v okolí nic než prach z těch, jež by byli tak hloupí, aby zůstali v dosahu výbuchu. Tato technika ale vyžaduje hluboké soustředění a nemůže být bez odpočinku znovu vyvolána.
 
 tagClass05SkillName05A=Maivenina Sféra ochrany
-tagClass05SkillDescription05A=Jedinečná obranná technika arkanické magie vyvinutá vysoce váženou Vládkyní temnot jménem Maiven. Vytváří v okolí vyvolavatele štít, jež je ale vykoupený ohromnou ztrátou koncentrace.
+tagClass05SkillDescription05A=Jedinečná obranná technika tajemné magie vyvinutá vysoce váženou Vládkyní temnot jménem Maiven. Vytváří v okolí vyvolavatele štít, jež je ale vykoupený ohromnou ztrátou koncentrace.
 tagClass05SkillName05B=Přeměna
 tagClass05SkillDescription05B=Sféra absorbuje zhoubné vysilující efekty a konvertuje je do tvých zásob energie.
 
 tagClass05SkillName06A=Albrechtův Paprsek Aetheru
-tagClass05SkillDescription06A=Mocná tajuplná technika dovedená k dokonalosti Mistrem Albrechtem v letech těsně před Ponurým úsvitem. Tato technika vysílá prvotní arkanické energie do koncentrovaného paprsku destrukce. ^oVyžaduje kouzelnický předmět v druhé ruce.
+tagClass05SkillDescription06A=Mocná tajuplná technika dovedená k dokonalosti Mistrem Albrechtem v letech těsně před Ponurým úsvitem. Tato technika vysílá prvotní tajemné energie do koncentrovaného paprsku destrukce. ^oVyžaduje kouzelnický předmět v druhé ruce.
 tagClass05SkillName06B=Rozklad
 tagClass05SkillDescription06B=Vloží všechnu tvoji energii do Paprsku Aetheru a promění jej do destruktivní síly která rozloží vše, čeho se dotkne.
 tagClass05SkillName06C=Zkažená síla
@@ -517,12 +517,12 @@ tagClass05SkillName07A=Anulování
 tagClass05SkillDescription07A=Koncentruje masivní množství negativní energie v zaměřené oblasti a odebere nepřátelům posilující aury a kouzla, zatímco spojenci jsou oprošťěni od negativních vlivů.
 
 tagClass05SkillName08A=Devastace
-tagClass05SkillDescription08A=Vychvalována jako ultimátní síla destrukce známá [ms]Vládcům temnot[fs]Vládkyním temnot, tato technika protrhne bránu v realitě, skrze kterou padají uhlíky prvotní arkanické energie. Toto nebezpečné kouzlo je extrémně vyčerpávající a nemělo by být používáno lehkovážně. ^oVyžaduje kouzelnický předmět v druhé ruce. Pokud zůstaneš strnutě stát po prvním zakouzlení, můžeš směrem k cíli vypustit až další dvě vlny.
+tagClass05SkillDescription08A=Vychvalována jako ultimátní síla destrukce známá [ms]Vládcům temnot[fs]Vládkyním temnot, tato technika protrhne bránu v realitě, skrze kterou padají uhlíky prvotní tajemné energie. Toto nebezpečné kouzlo je extrémně vyčerpávající a nemělo by být používáno lehkovážně. ^oVyžaduje kouzelnický předmět v druhé ruce. Pokud zůstaneš strnutě stát po prvním zakouzlení, můžeš směrem k cíli vypustit až další dvě vlny.
 
 tagClass05SkillName09A=Vnitřní soustředění
-tagClass05SkillDescription09A=Soustředění mysli a těla do místa, kde jsou arkanické energie, je jednou z prvních meditačních technik, kterou se ctižádostiví Vládci temnot učí.
+tagClass05SkillDescription09A=Soustředění mysli a těla do místa, kde jsou tajemné energie, je jednou z prvních meditačních technik, kterou se ctižádostiví Vládci temnot učí.
 
-tagClass05SkillName10A=Arkanická vůle
+tagClass05SkillName10A=Tajemná vůle
 tagClass05SkillDescription10A=Adrenalin je mocná síla, která dokáže v zoufalých situacích zvrátit průběh boje. Bojovní Vládci temnot se právě tuto schopnost učí, aby ji mohli použít ve svůj prospěch.
 
 tagClass05SkillName11A=Železná horlivost
@@ -542,14 +542,14 @@ tagClass05SkillName14A=Ereoctesovo zrcadlo
 tagClass05SkillDescription14A=Ve vteřině se vzduch kolem tebe promění na kámen, jež bude absorbovat všechny typy útoku a bude je obracet proti samotnému útočníkovi; oblíbená to metoda Mistra Ereoctese.
 
 tagClass05SkillName15A=Bezohledná síla
-tagClass05SkillDescription15A=Za cenu části své lidskosti a životní síly nech své tělo proměnit do prostředníka pro aether, jež představuje hrůzostrašné arkanické energie.
+tagClass05SkillDescription15A=Za cenu části své lidskosti a životní síly nech své tělo proměnit do prostředníka pro aether, jež představuje hrůzostrašné tajemné energie.
 tagClass05SkillName15B=Povznesení
-tagClass05SkillDescription15B=Posouváš se za hranice své fyzické formy, čímž předáš část své arkanické síly na spojence v okolí.
+tagClass05SkillDescription15B=Posouváš se za hranice své fyzické formy, čímž předáš část své tajemné síly na spojence v okolí.
 tagClass05SkillName15C=Neomezená síla
 tagClass05SkillDescription15C=Mnoho Vládců temnot obětuje tak moc pro získání nekonečné moci. Jsou zde tací, jež nedbali na starověká varování a plně se oddali aetheru. Jsou to ti Vládci temnot, jež zasadí strach do srdcí smrtelníků nižší formy.
 
 tagClass05SkillName16A=Olexrařino Rychlé mrznutí
-tagClass05SkillDescription16A=Oběť politických intrik, Olexra, byla opuštěna v Černé legii, kde se její průměrný život arkanské studentky proměnil v hořký boj o přežití v prvních liniích v průběhu brutální války. Olexra rychle uvedla své studentské znalosti do praxe a vyvinula techniku, která okamžitě zmrazí nepřátele, kteří jsou v dosahu úderu.
+tagClass05SkillDescription16A=Oběť politických intrik, Olexra, byla opuštěna v Černé legii, kde se její průměrný život učednice temnoty proměnil v hořký boj o přežití v prvních liniích v průběhu brutální války. Olexra rychle uvedla své studentské znalosti do praxe a vyvinula techniku, která okamžitě zmrazí nepřátele, kteří jsou v dosahu úderu.
 tagClass05SkillName16B=Absolutní nula
 tagClass05SkillDescription16B=Kompletně zbaví okolní vzduch tepla a cokoliv je zachyceno v dosahu Rychlého mrznutí je zpomalené a oslabené dokonce i poté, co původní účinky odezní.
 
@@ -1041,7 +1041,7 @@ tagItemSkillC086Desc=Šiř mor a nákazu každým krokem.
 tagItemSkillC087Name=Odplata
 tagItemSkillC087Desc=Vyprovokuj své nepřátele v blízkosti tlakovou vlnou, jež se uvolňuje z tvého štítu. ^oVyžaduje štít.
 
-tagItemSkillC088Name=Arkanická zuřivost
+tagItemSkillC088Name=Tajemná zuřivost
 tagItemSkillC088Desc=Odmítajíc se pokořit uvolňuješ nespoutaný potenciál své mysli.
 
 tagItemSkillC089Name=Ohnivá bouře
@@ -1420,11 +1420,11 @@ tagConsumableSkill_A10=Olej jedovatého tesáku
 tagConsumableSkill_A10Desc=Pokryje tvoji zbraň toxinem z jedovatého tesáku.
 tagConsumableSkill_A11=Olej krvavého tesáku
 tagConsumableSkill_A11Desc=Pokryje tvoji zbraň toxinem z krvavého tesáku.
-tagConsumableSkill_A12=Arkanický olej
-tagConsumableSkill_A12Desc=Pokryje tvoji zbraň arkanickým elixírem.
+tagConsumableSkill_A12=Tajemný olej
+tagConsumableSkill_A12Desc=Pokryje tvoji zbraň tajuplným elixírem.
 tagConsumableSkill_A13=Elixír starověkých
 tagConsumableSkill_A13Desc=Naplní tě silou starověkých.
-tagConsumableSkill_A14=Elixír prázdnoty
+tagConsumableSkill_A14=Elixír Prázdnoty
 tagConsumableSkill_A14Desc=Naplní tě nezpoutanou silou Prázdnoty.
 tagConsumableSkill_A15=Elixír Aetheru
 tagConsumableSkill_A15Desc=Naplní tě hrubou silou Aetheru.
