@@ -1,4 +1,4 @@
-﻿#prefix/quality/style/name/suffix concatenation
+#prefix/quality/style/name/suffix concatenation
 
 tagItemNameOrder=${%_3a0}{%_3a1}{%_3a2}{%_s3}{%_3a4}
 
@@ -378,7 +378,7 @@ tagWeaponCaster1hC002=Hůlka kouzelného ohně
 tagWeaponCaster1hC003=Srdce zmrazující žezlo
 tagWeaponCaster1hC004=KOuzelná čepel vyvolavače bouří
 tagWeaponCaster1hC004_Desc="Čepel jiskřící energií, stále hladová po další moci."
-tagWeaponCaster1hC005=Čepel prázdnoty
+tagWeaponCaster1hC005=Čepel Prázdnoty
 tagWeaponCaster1hC006=Kráječ se zkaženou krví
 tagWeaponCaster1hC007=Kráječ duší
 tagWeaponCaster1hC007_Desc="Říká se, že tento nůž seká hlouběji než jen do masa."
@@ -687,7 +687,7 @@ tagHeadC009=Kápě krvavého žence
 tagHeadC010=Civějící oko
 tagHeadC010Desc="Zírající oko nošené šílenou čarodějnicí posedlou vzhledem a krásou."
 tagHeadC011=Maska poblouznění
-tagHeadC012=Bouře z prázdnot
+tagHeadC012=Bouře z Prázdnoty
 tagHeadC013=Sláva Stříbrného rytíře
 tagHeadC014=Hrůza z hájů
 tagHeadC014Desc="Vyjmuta z kůže starodávného Trnitého děsu."
@@ -1479,7 +1479,7 @@ tagRelicD009Desc="Na konci všech svých dnů stejně všichni sdílíme stejný
 tagRelicD010=Agravixova zášť
 tagRelicD010Desc="Tajemství aetheru je v našem přijetí jej. Prostě nemám strach, co se skrývá za závojem."
 tagRelicD011=Zapomnění
-tagRelicD011Desc="Díval jsem se do velké tmy očekávajíce prostou prázdnotu. Neměl jsem nikdy v úmyslu se ohlédnout zpátky."
+tagRelicD011Desc="Díval jsem se do velké tmy očekávajíce prostou Prázdnotu. Neměl jsem nikdy v úmyslu se ohlédnout zpátky."
 tagRelicD012=Belgothianův masakr
 tagRelicD012Desc="Moji bratři, noční lovci, mají své metody a já mám zase svou. Neexistují nevinní."
 tagRelicD013=Vyhlazení
@@ -1521,7 +1521,7 @@ tagCraftMaterial_AetherCluster_Desc="Shromážděný trs úlomků aetheru, přek
 tagCraftMaterial_TaintedBrain=Zkažená mozková hmota
 tagCraftMaterial_TaintedBrain_Desc="Mozková tkáň, zjizvená a zkroucená, manipulací mocnými Aetheriany."
 tagCraftMaterial_BloodChthon=Krev Ch'thona
-tagCraftMaterial_BloodChthon_Desc="Sloučená esence boha prázdnoty."
+tagCraftMaterial_BloodChthon_Desc="Sloučená esence boha Prázdnoty."
 tagCraftMaterial_AncientHeart=Starověké srdce
 tagCraftMaterial_AncientHeart_Desc="Nepřestává tlouci v děsivě pravidelném rytmu, zatímco je ukryté ve tvém batohu."
 tagCraftMaterial_Manticore=Mantikoří oko (Nedostupné před 3. aktem)
@@ -1607,7 +1607,7 @@ tagConsumableBlueprintA13=Recept: Elixír starobylých
 tagConsumableBlueprintA13Desc="Zapomenuté umění, které fušuje do zakázané magie."
 tagConsumableBlueprintA14=Recept: Elixír aetheru
 tagConsumableBlueprintA14Desc="Odvar dokonalosti z pevnosti Gildam Arcanum, aby očistil mysl od všech rozptýlení."
-tagConsumableBlueprintA15=Recept: Elixír prázdnoty
+tagConsumableBlueprintA15=Recept: Elixír Prázdnoty
 tagConsumableBlueprintA15Desc="Často používaný odvar kultem Ch'thona, aby se podobali více svému bohu."
 tagConsumableBlueprintA16=Recept: Elixír lovu
 tagConsumableBlueprintA16Desc="Smíšenina používaná lovci, aby lépe mohli sledovat svou kořist."
@@ -1650,7 +1650,7 @@ tagConsumableA13=Elixír starobylých
 tagConsumableA13Desc="Mocný elixír získaný z dávných bestií Cairnu."
 tagConsumableA14=Elixír aetheru
 tagConsumableA14Desc="Mocný elixír získaný z esence Aetheru."
-tagConsumableA15=Elixír prázdnoty
+tagConsumableA15=Elixír Prázdnoty
 tagConsumableA15Desc="Mocný elixír získaný pomocí nečisté krvavé magie."
 tagConsumableA16=Elixír lovu
 tagConsumableA16Desc="Mocný elixír používaný lovci a zabijáky, aby lépe mohli sledovat svou kořist."
@@ -1856,12 +1856,12 @@ tagCompA055Name=Kámen hněvu
 tagCompA055Desc="Vibruje to při sebemenším kontaktu se živým masem."^w^n(Může vylepšit chladné zbraně)
 
 tagCompA056Name=Portálový kámen
-tagCompA056Desc="Hemží se hrubými silami prázdnoty."^w^n(Může vylepšit chladné zbraně)
+tagCompA056Desc="Hemží se hrubými silami Prázdnoty."^w^n(Může vylepšit chladné zbraně)
 
 tagCompA057Name=Aetherické šipky
 tagCompA057Desc="Rozšiřující se na základě Aetherických zrůdností."^w^n(Může vylepšit pušky a kuše)
 
-tagCompA058Name=Náboj prázdnoty
+tagCompA058Name=Náboj Prázdnoty
 tagCompA058Desc="Namočený v čerstvé Chthonické krvi."^w^n(Může vylepšit pušky a kuše)
 
 tagCompA059Name=Slitina Aetheru a oceli
@@ -2297,7 +2297,7 @@ tagSuffixA035=krve
 tagSuffixA036=opevnění
 tagSuffixA037=ostnů
 tagSuffixA038=Aetheru
-tagSuffixA039=prázdnoty
+tagSuffixA039=Prázdnoty
 tagSuffixA040=trnů
 
 tagSuffixA041=opravy
@@ -2374,7 +2374,7 @@ tagSuffixB006_Ar_A=$Oleronova trestu
 tagSuffixB007_Ar_A=$Natuřiny úrody
 tagSuffixB008_Ar_A=$Albrechtovy pozornosti
 tagSuffixB009_Ar_A=$Gildamského tajemství
-tagSuffixB010_Ar_A=prázdnoty
+tagSuffixB010_Ar_A=Prázdnoty
 tagSuffixB011_Ar_A=druida
 tagSuffixB012_Ar_A=ostří
 tagSuffixB013_Ar_A=hrdinství
@@ -2397,7 +2397,7 @@ tagSuffixB029_Ar_A=nemravných ostnů
 tagSuffixB030_Ar_A=masakru
 tagSuffixB031_Ar_A=zaklínadel
 tagSuffixB032_Ar_A=pochopení
-tagSuffixB033_Ar_A=prázdnoty
+tagSuffixB033_Ar_A=Prázdnoty
 tagSuffixB034_Ar_A=přežití
 tagSuffixB035_Ar_A=králů
 tagSuffixB036_Ar_A=zničení

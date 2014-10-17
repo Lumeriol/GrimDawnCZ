@@ -511,7 +511,7 @@ tagClass05SkillDescription06A=Mocná tajuplná technika dovedená k dokonalosti 
 tagClass05SkillName06B=Rozklad
 tagClass05SkillDescription06B=Vloží všechnu tvoji energii do Paprsku Aetheru a promění jej do destruktivní síly která rozloží vše, čeho se dotkne.
 tagClass05SkillName06C=Zkažená síla
-tagClass05SkillDescription06C=Naruší paprsek tím, že jej bude posilňovat zuřivými silami chaotické prázdnoty.
+tagClass05SkillDescription06C=Naruší paprsek tím, že jej bude posilňovat zuřivými silami chaotické Prázdnoty.
 
 tagClass05SkillName07A=Anulování
 tagClass05SkillDescription07A=Koncentruje masivní množství negativní energie v zaměřené oblasti a odebere nepřátelům posilující aury a kouzla, zatímco spojenci jsou oprošťěni od negativních vlivů.
@@ -529,7 +529,7 @@ tagClass05SkillName11A=Železná horlivost
 tagClass05SkillDescription11A=Ti, jež jsou mistry mezi Vládci temnot, se učí převádět své energie s ohromnou rychlostí a koncentrací a nadále se nezabývají ubohými omezeními jejich mysli.
 
 tagClass05SkillName12A=Materiál z reality
-tagClass05SkillDescription12A=Poodhal roušku samotného stavebního kamene reality. Prvotní síly aetheru a prázdnoty pro tebe vypadají jako by to byly hračky.
+tagClass05SkillDescription12A=Poodhal roušku samotného stavebního kamene reality. Prvotní síly aetheru a Prázdnoty pro tebe vypadají jako by to byly hračky.
 
 tagClass05SkillName13A=Olexrařina Bariéra
 tagClass05SkillDescription13A=Olexra se proslavila využíváním ledu v kouzlech. Jeden z jejích taktiků  vynalezl postavení zdi s nestabilními ledovými hroty, které na jedné straně udržely nepřítele, zatímco ona zaútočila na město z druhé strany.
@@ -1111,7 +1111,7 @@ tagItemSkillD019Name=Krupobití
 tagItemSkillD019Desc=Vyčaruj bouři smrtícího ledu nad zvolenou oblastí.
 
 tagItemSkillD020Name=Přivolej posla
-tagItemSkillD020Desc=Vyčaruje Salazarova posla z hlubin prázdnoty.
+tagItemSkillD020Desc=Vyčaruje Salazarova posla z hlubin Prázdnoty.
 tagItemSkillD020PetSkillName=Spektrální miazma
 tagItemSkillD020PetSkillName02=Aura chaosu
 tagItemSkillD020PetSkillDesc02=Posel na tvé spojence snese požehnání Chaosu.
@@ -1219,7 +1219,7 @@ tagCompSkillA032Name=Aetherická aura
 tagCompSkillA032Desc=Umocní tvé útoky a útoky tvých nejbližších spojenců samotným Aetherem.  ^oTato schopnost musí být nastavena jako výchozí typ útoku, aby účinkovala.
 
 tagCompSkillA033Name=Úder chaosem
-tagCompSkillA033Desc=Udeř na své nepřátele destruktivní silou z prázdnoty.
+tagCompSkillA033Desc=Udeř na své nepřátele destruktivní silou z Prázdnoty.
 
 tagCompSkillA034Name=Úder štítem II
 tagCompSkillA034Desc=Udeř svého nepřítele štítem, slabší nepřátele můžeš úplně ochromit. ^oVyžaduje chladnou zbraň.
@@ -1369,7 +1369,7 @@ tagRelicSkillD012Name=Krveprolití
 tagRelicSkillD012Desc=Čím více krve proliješ a škody způsobíš, tím lehčeji se to zopakuje. ^oToto je technika dvou zbraní. Také aplikuje schopnost ovládat dvě chladné zbraně.
 
 tagRelicSkillD013Name=Meteor
-tagRelicSkillD013Desc=Tebou vyvolaný masivní hořící kámen se prorve skrze křehkou bariéru mezi světem živých a prázdnotou a dopadne na tvé nepřátele.
+tagRelicSkillD013Desc=Tebou vyvolaný masivní hořící kámen se prorve skrze křehkou bariéru mezi světem živých a Prázdnotou a dopadne na tvé nepřátele.
 
 tagRelicSkillD014Name=Pomsta
 tagRelicSkillD014Desc=Jak se ve štítu kumuluje energie z úderů, je uvolněna v jednu devastující tlakovou vlnu.
@@ -1407,7 +1407,7 @@ tagConsumableSkill_A03Desc=Posilní tvé tělo proti zlobě blesku.
 tagConsumableSkill_A04=Mast strážce jedu
 tagConsumableSkill_A04Desc=Posilní tvé tělo proti hnusným jedům.
 tagConsumableSkill_A05=Mast spoutání krve
-tagConsumableSkill_A05Desc=Posilní tvé tělo proti nestvůrám z prázdnoty.
+tagConsumableSkill_A05Desc=Posilní tvé tělo proti nestvůrám z Prázdnoty.
 tagConsumableSkill_A06=Mast prokletí ducha
 tagConsumableSkill_A06Desc=Posilní tvé tělo proti odporným Aetherianům.
 tagConsumableSkill_A07=Mast smrtelného šepotu
