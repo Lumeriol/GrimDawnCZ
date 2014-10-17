@@ -584,60 +584,60 @@ tagLoreObj_StepsOfTorment01Text=Ten, kterého nazývají Uroboruuk, se pouze vys
 
 
 #Random Burrwitch Notes
-tagLoreObj_BookA01Name=Ch'thonic Heresy - Page 1
-tagLoreObj_BookA01Text=Fear, my brothers. Fear ye the Ch'thonian, for it is the harbinger of our sins. Speak not the name of its master, for it is the manifestation of malevolence and vile intent. Abhor the heretic, for his words are poison to the ears of the faithful. Just as evil must be purged of the soul, so the heretic must be purged of the living.
+tagLoreObj_BookA01Name=Ch'thonické kacířství - Strana 1
+tagLoreObj_BookA01Text=Strach, moji bratři. Bojte se Ch'thoniana, protože je předzvěstí našich hříchů. Nevyslovujte jméno jejich pána, neboť se jedná o projev škodolibosti a nehorázných rozhodnutí. Vyvarujte se kacířství, protože jejich slova jsou jedem pro uši věřících. Stejně jako ďábel musí být zbaven své duše, i kacíř musí být zbaven svého života.
 
-tagLoreObj_BookA02Name=Ch'thonic Heresy - Page 2
-tagLoreObj_BookA02Text=Blood, my brothers. Blood is the essence, for it gives us life. Drink not of the blood of demons, for it is corruption manifest. Those that partake of blood shall forever be damned. Abhor the gifts of the Ch'thonian, lest its touch contaminate your soul. Purity of blood heralds the purity of the soul.
+tagLoreObj_BookA02Name=Ch'thonické kacířství - Strana 2
+tagLoreObj_BookA02Text=Krev, moji bratři. Krev je podstatou, jež nám dává život. Nepijte krev démonů, protože se jedná o projev zkaženosti. Ti, kteří se živí krví, budou navždy zatraceni. Vyvarujte se darů Ch'thoniana - jejich dotekem očerníte svou duši. Čistota krve zvěstuje čistotu duše.
 
-tagLoreObj_BookA03Name=Ch'thonic Heresy - Page 3
-tagLoreObj_BookA03Text=Faith, my brothers. Let your faith shield you, for it is to the Ch'thonian as salt upon a festering wound. Guard your faith, for it defines you. Abhor the writing of the heretic, for his texts speak of lies and deceit. The strong of faith will be sung as heroes. The weak shall forever be forgotten.
+tagLoreObj_BookA03Name=Ch'thonické kacířství - Strana 3
+tagLoreObj_BookA03Text=Víra, moji bratři. Nechť vás vaše víra ochraňuje, protože to je Ch'thonian, kdo vměšuje sůl do mokvající rány. Ochraňujte svou víru, která vás vymezuje. Vyvarujte se kacířským dopisům, protože jejich slova jsou plná lží a klamu. Silná víra bude opěvována jako hrdinové. Ta slabá... bude navždy zapomenuta.
 
-tagLoreObj_BookA04Name=Ch'thonic Heresy - Page 4
-tagLoreObj_BookA04Text= Justice, my brothers. Justice shall be swift and merciless, for it was tempered with faith, blood and fear. Justice shall descend upon the heretic, unforgiving and relentless. Those that take up arms against the Ch'thonian shall become the fiery vengeance of divine retribution. Those that call the Ch'thonian god shall taste righteous flame. Justice be done.
+tagLoreObj_BookA04Name=Ch'thonické kacířství - Strana 4
+tagLoreObj_BookA04Text=Spravedlnost, moji bratři. Spravedlnost musí být rychlá a nemilosrdná, protože jen ta ve vás vznítí víru, krev a strach. Spravedlnost dostihne kacíře, naprosto vždy a neúprosně. Ti, kteří pozvednou zbraň proti Ch'thonianovi, se stanou horlivými a pomstychtivými ve jménu božím. Ti, kteří vzývají boha Ch'thonian, okusí plamen spravedlnosti. A spravedlnost je třeba vykonat.
 
-tagLoreObj_CriminalA01Name=Criminal Records - Page 1
-tagLoreObj_CriminalA01Text=Leander "Blackwater" Greene{^n}{^n}Ex-military man wanted for extortion and murder. Leander was dishonorably discharged from the demolitions division following a grisly civilian incident. Leander escaped custody on at least two separate occasions using unsanctioned explosive devices. {^n}{^n}News of sightings or proof of death should be brought before Warden Krieg of Burrwitch Prison. A reward of 1000 royal crowns is offered for the successful capture and delivery of Leander Greene alive.
+tagLoreObj_CriminalA01Name=Kriminální záznamy - Strana 1
+tagLoreObj_CriminalA01Text=Leander "Černovoda" Greene{^n}{^n}Propuštěný voják hledaný za vydírání a vraždu. Leander byl nečestně propuštěn z demoliční čety za strašlivé civilní neštěstí. Leander uprchl z vyšetřovací vazby při nejméně dvou různých příležitostech za použití neschválených výbušných zařízení.{^n}{^n}Zprávy o jeho zpozorování nebo důkazy o jeho smrti by měly být doručeny Wardenu Kriegu do Burrwitchské věznice. Za předvedení živého Leandera Greena bude vyplacena odměna 1.000 královských mincí.
 
-tagLoreObj_CriminalA02Name=Criminal Records - Page 2
-tagLoreObj_CriminalA02Text=Bloody Jack{^n}{^n}Reckless murderer and known worshipper of Solael, the heathen god. Reports have been received of Bloody Jack's signature murders, a carved throat and witch symbols etched into the left breast, appearing increasingly close to Burrwitch. Citizens are advised to avoid traveling alone and to steer clear of forest roads whenever possible.{^n}{^n}News of sightings or proof of death should be brought before Warden Krieg of Burrwitch Prison. A reward of 400 royal crowns is offered for the successful capture and delivery of Bloody Jack alive.
+tagLoreObj_CriminalA02Name=Kriminální záznamy - Strana 2
+tagLoreObj_CriminalA02Text=Krvavý Jack{^n}{^n}Nebezpečný vrah a známý uctívač pohanského boha Solaela. V protokolech jsou označeny příznaky vražd Krvavého Jacka - proříznuté hrdlo a čarodějnické symboly vyryté do levého prsu. Tyto symboly e vyskytují stále blíže vesnici Burrwitch. Občanům se doporučuje, aby necestovali samotní a vyhýbali se lesním cestám, kdykoliv je to možné.{^n}{^n}Zprávy o jeho zpozorování nebo důkazy o jeho smrti by měly být doručeny Wardenu Kriegu do Burrwitchské věznice. Za zajetí a předvedení živého Krvavého Jacka bude vyplacena odměna 400 královských mincí.
 
-tagLoreObj_CriminalA03Name=Criminal Records - Page 3
-tagLoreObj_CriminalA03Text=Everett the Bloodbound {^n}{^n}A Heathen and blood drinker. Known associate of Ch'thonian cults and supplier for the heretics. When confronted by the law, Everett unleashed a fury of arcane atrocities upon the enforcers and escaped. Extremely dangerous individual. Personnel not trained to deal with the heathen arts are advised to steer clear.{^n}{^n}News of sightings or proof of death should be brought before Warden Krieg of Burrwitch Prison. A reward of 1200 royal crowns is offered for the successful capture and delivery of Everett the Bloodbound alive.
+tagLoreObj_CriminalA03Name=Kriminální záznamy - Strana 3
+tagLoreObj_CriminalA03Text=Everett ~ Krvavý pes{^n}{^n}Pohan a chlemtač krve. Známý společník Ch'thonských kultů a udavač kacířů. Když se střetl se zákonem, Everett vyvolal rozběsněnou tajemnou zvěř proti vymahačům spravedlnosti a poté uprchl. Extrémně nebezpečný jedinec. Lidem, kteří nemají zkušenosti s odvrácením pohanských umění, se doporučuje vyhnout se mu.{^n}{^n}Zprávy o jeho zpozorování nebo důkazy o jeho smrti by měly být doručeny Wardenu Kriegu do Burrwitchské věznice. Za zajetí a předvedení živého Everetta ~ Krvavého psa bude vyplacena odměna 1.200 královských mincí.
 
-tagLoreObj_BookC01Name=Gildam Arcanum - Page 1
+tagLoreObj_BookC01Name=Gildam Arcanum - Strana 1
 tagLoreObj_BookC01Text=To understand the flows of the Aether, one must first learn to appreciate its inherent risks. The arcane art is not a plaything, nor is it a tool meant to be abused. Countless young arcanists have lost their lives to carelessness and malpractice. Proper control of the Aether requires years of practice under the careful supervision of the Gildam Arcanum, the only formal office sanctioned to instruct and research the art of the arcane. Do not confuse what is lectured here with the teachings of the hypothetical witch gods, a common misconception amongst the uneducated. There are no gods. There is only reality and the science of the arcane.
 
-tagLoreObj_BookC02Name=Gildam Arcanum - Page 2
+tagLoreObj_BookC02Name=Gildam Arcanum - Strana 2
 tagLoreObj_BookC02Text=To reinforce the ingenuity of arcanists both living and dead, we turn to the works of Master Maiven, a prolific arcanist from the third age of our glorious empire. Master Maiven was able to bend the inherently destructive flows of the Aether to her will in order to manifest a protective barrier around herself. This technique is a stellar example of how the Gildam Arcanum continually strives to break our preconceptions of the Aether, creating entirely new schools of thought within the arcane arts.
 
-tagLoreObj_BookD01Name=Origin of the Slith - Page 1
+tagLoreObj_BookD01Name=Původ Slithů - Strana 1
 tagLoreObj_BookD01Text=In all the history of our great nation, no greater atrocity had been observed than the origins of the aberrant species we call the Slith. Part man, part serpent, the Slith is a testament to the dangers of the arcane and the motivation behind the founding of the Gildam Arcanum, and its tighter sanctions on arcane practices. The first Slith was created by Arcanist Oliver Hargate, who thought he could supersede god in His endeavor to create new life. The unfortunate man selected for this grisly experiment was never identified...
 
-tagLoreObj_BookD02Name=Origin of the Slith - Page 2
+tagLoreObj_BookD02Name=Původ Slithů - Strana 2
 tagLoreObj_BookD02Text=The resulting abomination bore the torso of a man and tail of a snake, with a reptilian snout unlike either species. Its eyes stared back at you with a hint of human sorrow, though it was clearly a dulled mind with no indication that the original person was present within. It slithered around with surprising agility when food was placed within the confines of its cage. Evidently, the late Arcanist Hargate considered this experiment a success, calling it a Slith in his notes. It was not long before the Slith turned on its creator during feeding, tearing the arcanist limb from limb.{^n}{^n}None can say for sure what happened next, but the Slith must have escaped into the sewer systems, and eventually out into the wild...
 
-tagLoreObj_BookD03Name=Origin of the Slith - Page 3
+tagLoreObj_BookD03Name=Původ Slithů - Strana 3
 tagLoreObj_BookD03Text=The Slith dominated its new habitat with ease. An invasive species unlike any other, the Slith reproduced with alarming speed, leaving egg nests throughout the many dank caves of Wightmire. How it came to be that the Slith propagated from a single individual is unknown, but the Aether influence cannot be ruled out.{^n}{^n}Though beastlike, the Slith had adapted a tribal hierarchy, with certain members of a group exhibiting dominance over the rest. Most alarming of all is the shamanistic behavior that was observed amongst some Slith populations, indicating the strong connection to their arcane origins.{^n}{^n}Without a doubt, the actions of one arrogant man will reverberate across countless generations.
 
-tagLoreObj_VillagerNoteE01Name=Warning: Groble Attacks on the Rise
-tagLoreObj_VillagerNoteE01codexTitle=Warning: Groble Attacks
+tagLoreObj_VillagerNoteE01Name=Varování: Groblové útočí na říši
+tagLoreObj_VillagerNoteE01codexTitle=Varování: Útok groblů
 tagLoreObj_VillagerNoteE01Text=The office of the Magistrate of Burrwitch has received increased reports of Groble activity in the area. Citizens are advised to secure their homes as Grobles are known to steal loose scrap and valuables. While encounters with individual Grobles rarely lead to injury, it is highly advisable that citizens avoid larger gatherings of the foul beastkin.{^n}{^n}Groble encampments are characterized by heathen totems and piles of stolen property. If you discover the presence of Groble totems in your area, do not approach them. Report the camp to proper authorities immediately.
 
 #Random Old Arkovia Notes
-tagLoreObj_OldArkovia_NoteA01Name=Malros Khas' Journal
+tagLoreObj_OldArkovia_NoteA01Name=Deník Malrose Khas'a
 tagLoreObj_OldArkovia_NoteA01Text=I thought about ending it. But I witnessed first-hand what happens when you try. Good people, driven to madness by this...this curse... I don't blame them for trying to escape this never-ending torment, even if escape seemingly comes at the edge of a knife. There is no way out though. We are bound to our flesh and bone, even as they rot away to the winds of time.{^n}{^n}To others, a knife brings a sharp reminder that we once lived. There are those who willingly partake of this newfound pleasure, carving each other apart in a downward spiral of decadence and depravity. But I cannot deny the temptation to join those in the streets as they spill their blood onto the cold stone. As I look upon my rotting hands, I begin to wonder if perhaps it is too late even for that. How long will this torture last? How far will we decay before we are at last set free?
 
-tagLoreObj_OldArkovia_NoteB01Name=Passing Judgment
+tagLoreObj_OldArkovia_NoteB01Name=Vykonání rozsudku
 tagLoreObj_OldArkovia_NoteB01Text=This is to be a record of the passing of the final verdict regarding the practice of necromancy and its prominence in Arkovian society.{^n}{^n}The grand court has reviewed the case of one Olurokk who had willfully and consciously committed the despicable act of raising the deceased form of his neighbor's wife and using her to torture and exploit the victim for personal pleasure and financial gain. Under the weight of undeniable evidence and witness reports, this court had no choice but to sentence the necromancer Olurokk to hanging until dead.{^n}{^n}This crime is but a drop in the well of the sins committed by necromancers in our land. The people have spoken and action must be taken. For this, and countless other crimes, against nature, against the gods and against Arkovia, let it be known that the practice of necromancy, the most vile of the ancient arts, is henceforth forbidden from the lands of Arkovia under the strictest of punishments. Those found ignorant of this proclamation shall be transported, without trial, to the Steps of Torment, where they shall be locked away to the last of their days in the deepest pits of Anguish.
 
-tagLoreObj_OldArkovia_BookA01Name=Forbidden Art - Part 1
+tagLoreObj_OldArkovia_BookA01Name=Zakázané umění - 1. část
 tagLoreObj_OldArkovia_BookA01Text=They whisper about us when they think we're not listening. They fear what we can do, and yet they crave it. It is only in man's nature to fear what he does not understand and our art is no different. Necromancy was never held in high regard in Arkovian society, but it is only in recent years that we have been treated with such growing animosity.{^n}{^n}Now with the recent formal decree from the high court we are not just outcasts, we are criminals. What they fail to understand is that the only crime committed that day was against the pursuit of knowledge and the advancement of our people. Already they are rounding up my brethren under the guise of justice and taking them deep into their den of torture they call the Steps of Torment. I suppose it is only a matter of time before they coming knocking on my door.
 
-tagLoreObj_OldArkovia_BookA02Name=Forbidden Art - Part 2
+tagLoreObj_OldArkovia_BookA02Name=Zakázané umění - 2. část
 tagLoreObj_OldArkovia_BookA02Text=A woman, her face a mix of woe and desperation, came to my home this morning. I have to admit, I thought her fervent knocking marked the end of my freedom. I dreaded opening that door but there she was, covered in tears, a small bundle in her arms.{^n}{^n}She begged me to help, that the gods had turned away from her in her greatest time of need. With a shaking hand I uncovered the bundle to reveal the motionless face of her infant child. It was dead for no more than a day at most. Her pleading eyes locked into mine, but I could not do what she asked of me. With great sorrow, I turned her away.{^n}{^n} Had I done as she had asked, the child would become a monster, an abomination not fit for this world. There are some things even man, in our endless arrogance, cannot...should not interfere with.
 
-tagLoreObj_OldArkovia_BookA03Name=Forbidden Art - Part 3
+tagLoreObj_OldArkovia_BookA03Name=Zakázané umění - 3. část
 tagLoreObj_OldArkovia_BookA03Text=I can hear them bustling about outside. They came at last, and in great numbers. Wise...{^n}{^n}Many tales had been spun around my persona over the centuries, most of them grossly exaggerated, but they served a subtle purpose in keeping me free of abuse and interference. It appears that even the stories will not keep the Arkovians away this time.{^n}{^n}I must end this entry as they will soon be upon me. I do not fear what will come next. In the end of all things, they will be ashes, and only I will remain...{^n}{^n}Uroboruuk
 
 
