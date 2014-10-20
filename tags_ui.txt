@@ -622,7 +622,7 @@ tagCharStatsPhysicalPercentRetInfo=Procentuální bonus ke všem efektům pomoc�
 tagCharStatsPierceRet=Probodnutí
 tagCharStatsPierceRetInfo=Zranění probodnutím způsobené útočníkovi kdykoliv tě zasáhne.
 tagCharStatsPiercePercentRet=Bonus k probodnutí
-tagCharStatsPiercePercentRetInfo=The percent bonus to all Pierce Damage Retaliation effects.
+tagCharStatsPiercePercentRetInfo=Procentuální bonus ke všem efektům pomocí odplaty probodnutím.
 
 
 tagCharStatsBleedRet=Krvácení
