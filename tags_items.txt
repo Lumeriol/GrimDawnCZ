@@ -199,7 +199,7 @@ tagWeaponGun1hC013=Vyjednavač
 tagWeaponGun1hC014=Mrazivá hlaveň neúprosného Severu
 tagWeaponGun1hC015=Burrwitchský dojednavač míru
 tagWeaponGun1hC015Desc="Důvěryhodná pistole šerifa Harmona Griffitha."
-tagWeaponGun1hC016=Menhirovo pokání
+tagWeaponGun1hC016=Menhirské pokání
 tagWeaponGun1hC017=Zrádce
 tagWeaponGun1hC018=Stahovač mrtvol
 
@@ -638,10 +638,14 @@ tagMedal=[fs]medaile
 tagBelt=[ms]opasek
 
 #QualityClass
-tagMagic=[ms]magický[fs]magická[ns]magické[mp]magické[fp]magické[np]magické
-tagRare=[ms]vzácný[fs]vzácná[ns]vzácné[mp]vzácné[fp]vzácné[np]vzácné
-tagEpic=[ms]epický[fs]epická[ns]epické[mp]epické[fp]epické[np]epické
-tagLegend=[ms]legendární[fs]legendární[ns]legendární[mp]legendární[fp]legendární[np]legendární
+#tagMagic=[ms]magický[fs]magická[ns]magické[mp]magické[fp]magické[np]magické
+#tagRare=[ms]vzácný[fs]vzácná[ns]vzácné[mp]vzácné[fp]vzácné[np]vzácné
+#tagEpic=[ms]epický[fs]epická[ns]epické[mp]epické[fp]epické[np]epické
+#tagLegend=[ms]legendární[fs]legendární[ns]legendární[mp]legendární[fp]legendární[np]legendární
+tagMagic=magický
+tagRare=vzácný
+tagEpic=epický
+tagLegend=legendární
 
 #ArmorHead
 
