@@ -1716,7 +1716,7 @@ tagCompA007Name=Shnilé srdce
 tagCompA007Desc="Dávno utišené srdce svraštělé nějakou nekromantickou mocí."^w^n(Může vylepšit hrudní zbroje)
 
 tagCompA008Name=Zmutované šupiny
-ttagCompA008Desc="Neobvykle silné a těžké šupiny zmutované působením Aetherické energie."^w^n(Může vylepšit hrudní zbroje a nárameníky)
+tagCompA008Desc="Neobvykle silné a těžké šupiny zmutované působením Aetherické energie."^w^n(Může vylepšit hrudní zbroje a nárameníky)
 
 tagCompA009Name=Prach z mrtvoly
 tagCompA009Desc="Prach získaný z ostatků zemřelého, často využívaný pro čarování a kouzlení."^w^n(Může vylepšit prsteny a amulety)

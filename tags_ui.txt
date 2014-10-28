@@ -589,7 +589,7 @@ tagCharStatsDisruptionResistInfo=Odolnost vůči kouzlům a útokům, které moh
 tagCharStatsLifeLeechResist=Odolnost vůči sání života
 tagCharStatsLifeLeechResistInfo=Odolnost vůči útokům vysávajícím život.
 
-tagCharStatsEnergyLeechResist=Odolnost vůči sání  energie
+tagCharStatsEnergyLeechResist=Odolnost vůči sání energie
 tagCharStatsEnergyLeechResistInfo=Odolnost vůči útokům vysávajícím tvou magickou energii.
 
 tagCharStatsTrapResist=Odolnost vůči pastím
