@@ -27,7 +27,7 @@ tagTutorialTip11TextB=Stejně jako u klasických portálů, klikni levým tlač�
 tagTutorialTip11TextC=Tvůj portál zůstane otevřen do doby, než skrz něj přicestuješ zpět. Jakmile se portál otevře, mohou skrze něj cestovat i tvoji spojenci. Vždy můžeš mít v jeden okamžik otevřený maximálně jeden Osobní portál.
 
 tagTutorialTip14Title=Lektvary
-tagTutorialTip14TextA=Lektvary zdraví a energie obnovují život, respektive energii, tvé postavy. Pro vypití lektvaru klikni na jeho ikonu na spodní liště a nebo stiskni přidruženou klávesu.
+tagTutorialTip14TextA=Lektvary zdraví a magické energie obnovují život, respektive magickou energii, tvé postavy. Pro vypití lektvaru klikni na jeho ikonu na spodní liště a nebo stiskni přidruženou klávesu.
 tagTutorialTip14TextB=Lektvary jsou automaticky přiřazovány na poslední dvě místa na spodní liště. Lektvary můžeš libovolně přemístit tak, že klikneš pravým tlačítkem myši na požadovaný lektvar a přesuneš ho na jiné volné políčko na spodní liště.
 tagTutorialTip14TextC=Pro vypití lektvaru klikni na jeho ikonu na spodní liště a nebo stiskni přidruženou klávesu.
 
