@@ -384,7 +384,7 @@ tagCharStatsArmorFeet=Chodidla:
 tagCharStatsArmorWaist=Pas:
 tagCharStatsArmorShoulders=Ramena:
 
-tagFormulaLearn01={^w}Blahopřeji! Naučil ses vytvořit:
+tagFormulaLearn01={^w}Blahopřejeme! Naučil ses vytvořit:
 tagFormulaLearn02={^r}Tento plánek už dávno znáš
 tagFormulaLearn03={^r}[Už umíš]
 
@@ -1077,7 +1077,7 @@ tagCharDeflectProjectiles={%.0f0}% {^E}šance se vyhnout projektilům
 tagCharIncreasedExperience={%+.0f0}% {^E}získaných zkušeností
 tagCharLightRadius={%+.0f0}% {^E}dosah světla
 
-tagCharItemGlobalReduction={%.0f0}% {^E}Reduction to Attribute Requirements
+tagCharItemGlobalReduction={%.0f0}% {^E}náročnosti na potřebné atributy
 tagCharLevelReqReduction=-{%.0f0} {^E}úrovně hráče na nošení předmětů
 tagCharArmorStrengthReqReduction=-{%.0f0}% {^E}fyzické kondice pro výstroj
 tagCharArmorDexterityReqReduction=-{%.0f0}% {^E}rafinovanosti pro výstroj
