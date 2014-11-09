@@ -1,4 +1,4 @@
-tagTitleScreenText=Grim Dawn Early Access{^n}©2014 Crate Entertainment, LLC{^n}{^n}Vítej ve hře Grim Dawn Early Access! Vážíme si tvé zpětné vazby.{^n}{^n}Navštiv prosím naše webové stránky www.grimdawn.com pro podílení se{^n}na pokračujícím vývoji hry Grim Dawn!
+tagTitleScreenText=Grim Dawn (předběžný přístup){^n}©2014 Crate Entertainment, LLC{^n}{^n}Vítej ve hře Grim Dawn (předběžný přístup)! Vážíme si tvé zpětné vazby.{^n}{^n}Navštiv prosím naše webové stránky www.grimdawn.com pro podílení se{^n}na pokračujícím vývoji hry Grim Dawn!
 tagMenu01=Hrát Grim Dawn
 tagMenu02=Hrát vlastní hru
 tagMenu03=Informace
