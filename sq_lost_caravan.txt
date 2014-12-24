@@ -2,15 +2,19 @@
 Ztracená karavana
 Najdi karavanu
 Objevil jsi se u zničené karavany poblíž Mlhavého břehu. Ikdyž jsou zde jasně patrné známky souboje, vozka tu nikde není. {^n}{^n}Stopy a krev Slithů jsou zřetelné a vedou hlouběji do močálů. Možná, že vozka ještě stále žije. Podívej se do táborů Slithů okolo Mlhavého břehu a hledej toho nešťastného cestovatele.
-
 Podívej se po vozkovi v táborech Slithů podél Burrwitchské cesty
 
 Promluv si s vozkou
 Luther Graves je těžce raněn, v zajetí v kleci blízko Mlhavého břehu. Soudě podle mrtvol, které jsou kolem něj, byl právě on ten šťastnější. {^n}{^n}Promluv si s ním a zjisti, co se stalo.
 Promluv si se zajatým vozkou
+
+
+
+
 Pošli Luthera Gravese do bezpečí (Záloha pro staré postavy, už by to nemělo fungovat)
 Luther Graves je těžce raněn, v zajetí v kleci blízko Mlhavého břehu. Soudě podle mrtvol, které jsou kolem něj, byl právě on ten šťastnější. {^n}{^n}Promluv si s ním a zjisti, co se stalo.
 Promluv si se zajatým vozkou
+
 Navštiv Luthera Gravese v Ďáblově průsmyku
 Luther Graves by měl být v bezpečí v Ďáblově průsmyku. {^n}{^n}Promluv si s ním a zjisti, jak se mu vede.
 
