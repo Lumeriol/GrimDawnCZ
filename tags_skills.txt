@@ -73,6 +73,9 @@ tagSkillDefaultAttackDescription01=Útoky s nasazenou zbraní.
 tagSkillDefaultMoveTo=Základní pohyb
 tagSkillDefaultMoveToDescription=Pohyb na požadované místo.
 
+tagSkillDefaultPetAttack=Pet Attack
+tagSkillDefaultPetAttackDescription=Command all controllable pets to attack.
+
 tagSkillInnate=Vrozená schopnost
 tagSkillSumLVL=Roste s úrovní vyvolávání.
 
@@ -219,7 +222,7 @@ tagClass02SkillName06C=Proud plamenů
 tagClass02SkillDescription06C=Vytvoří smrtící proud velice teplých plamenů, který zapálí nepřátele, kteří skrze něj projdou.
 
 tagClass02SkillName07A=Ohnivý štít
-tagClass02SkillDescription07A=Kombinace vojenského vybavení a práce s ohněm tvoří ochranu, která je schopna absorbovat přesně dané množství poškození ohněm, než se zhroutí. ^o Má šanci na aktivování při zasažení ohnivým poškozením. Štít zůstává aktivní do doby, dokud neabsorbuje danou kapacitu ohnivého poškození.
+tagClass02SkillDescription07A=Kombinace vojenského vybavení a práce s ohněm tvoří ochranu, která je schopna absorbovat přesně dané množství poškození ohněm a probodnutím, než se zhroutí. ^o Má šanci na aktivování při zasažení ohnivým poškozením nebo probodnutím. Štít zůstává aktivní do doby, dokud neabsorbuje danou kapacitu poškození.
 
 tagClass02SkillName07B=Ulzuinův vyvolený
 tagClass02SkillDescription07B=Ti, kteří obětovali mnoho při pronásledování pyrotechniky mohou vejít do přízně Ulzuina a dostane se jim tak jeho požehnání ve formě způsobení ohnivé devastace na tomto světě. ^o[Potřebuje a zároveň ovlivňuje Granát a Tříštivou bombu]
@@ -416,7 +419,7 @@ tagClass04SkillName07B=Chlad noci
 tagClass04SkillDescription07B=Způsobí, že protivníci zasaženi Závojem stínu pocítí temné mrazení jak je tma obklopuje, což ovlivní jejich životy a oslabí obranu.
 
 tagClass04SkillName08A=Duch meče
-tagClass04SkillDescription08A=Vyvolá vířící se mrak smrtících mečů, který bude brázdit bojiště a krájet tvé nepřátele na kousky do té doby, než se nakonec promění ve sprchu zubatých úlomků.
+tagClass04SkillDescription08A=Vyvolá vířící se mrak smrtících mečů, který bude brázdit bojiště a krájet tvé nepřátele na kousky do té doby, než se nakonec promění ve sprchu zubatých úlomků. ^oBlade Spirits are considered pets and benefit from pet bonuses.
 tagClass04SkillName08PetA=Vířící se meče
 tagClass04SkillName08PetB=Vystřelovací meče
 tagClass04SkillDescription08PetB=Duch meče vystřeluje vyvrhovací meče do všech směrů.
@@ -483,7 +486,7 @@ tagClass05SkillDescription02A=Iskandra učila své studenty, že nejúčinějš�
 tagClass05SkillName02B=Přetížení
 tagClass05SkillDescription02B=Zaklínadlo se stává přetíženým tajemnými silami, což způsobuje, že tvé zbraně doslova praskají pod hrubou sílou živlů.
 tagClass05SkillName02C=Elementární rovnováha
-tagClass05SkillDescription02C=Zaklínadlem vyvolaný a velmi dobře vybalancovaný úder, jež harmonizuje oheň a led spolu s nespoutanou elektřinou a tvoří tak společně čistou tajemnou energii.
+tagClass05SkillDescription02C=Zaklínadlem vyvolaný a velmi dobře vybalancovaný úder, jež harmonizuje oheň a led spolu s nespoutanou elektřinou.
 tagClass05SkillName02D=Zjevení
 tagClass05SkillDescription02D=Tajemné energie se zjevují v mnoha formách. Vládci temnot, kteří se odevzdali umění vyvolávání, často převádějí některou z jejich sil na jejich přisluhovače a ti pak mohou lépe posloužit vůli svých pánů.
 
@@ -763,7 +766,7 @@ tagItemSkillB029Name=Kruh mrazivého ohně
 tagItemSkillB029Desc=Obklopí vyvolavatele kruhem ledu a mrazí nepřátele v dosahu.
 
 tagItemSkillB030Name=Elektrická koule
-tagItemSkillB030Desc=Vypustí koncentrovanou dávku statické energie na útočníka a navíc je schopna proletět více nepřáteli.
+tagItemSkillB030Desc=Vypustí koncentrovanou dávku statické energie, která je schopná proletět více nepřáteli.
 
 tagItemSkillB031Name=Tajemná smršť
 tagItemSkillB031Desc=Vyvolá okolo tebe koncentrovanou dávku tajuplné energie, která v mžiku zažehne vzduch.
@@ -930,6 +933,8 @@ tagItemSkillC050Desc=Majitele od smrtelných zranění chrání v dobách velké
 
 tagItemSkillC051Name=Vyvolání Og'Napeshovo nemrtvého
 tagItemSkillC051Desc=Soustřeď temné písmo Og'Napeshova žalozpěvu a přivolej zpět jednoho z jeho nejodpornějších nemrtvých do světa živých.
+tagItemSkillC051Pet01=Shield Defense
+tagItemSkillC051Pet01Desc=The Revenant wards off nearby allies against crowd control and bolsters their armor and retaliation.
 
 tagItemSkillC052Name=Menhirovo požehnání
 tagItemSkillC052Desc=Požehná blízké spojence svatým zaříkávadlem a snese na ně Menhirovo požehnání. ^oTato schopnost musí být nastavena jako výchozí typ útoku, aby účinkovala.
@@ -1439,7 +1444,9 @@ tagConsumableSkill_A19Desc=Naplní tě uklidňujícím teplem.
 tagConsumableSkill_A20=Mast z mateří kašičky
 tagConsumableSkill_A20Desc=Naplní tě uklidňujícím teplem.
 tagConsumableSkill_A21=Nebeské prokletí
-tagConsumableSkill_A21Desc=Božské světlo prostupuje tvým tělem.
+tagConsumableSkill_A21Desc=Suffuses your flesh with a divine light.
+tagConsumableSkill_A22=Aether Cluster
+tagConsumableSkill_A22Desc=Shatter the crystal formation to release its energies.
 
 #SkillsGeneral
 
@@ -1494,6 +1501,9 @@ tagReallocationDescription=Klinutím na ikonku dovednosti odstraníš bod dovedn
 tagTemplateName=Přejmenuj mě
 tagTemplateDescription=Popiš mě
 
-#ItemSets
 
-tagItemSetA001=Sada Zmrzlé duše
+
+#EnemySkills
+
+tagEnemySkillA01=Despair Aura
+tagEnemySkillA01_Desc=The Aetherial Harbinger's presence fills you with dread, slowing your actions and inflicting Aether damage.

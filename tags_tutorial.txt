@@ -82,6 +82,11 @@ tagTutorialTip24Title=Smrt
 tagTutorialTip24TextA=Když tvé zdraví klesne na 0, tvá postava zemře.{^n}{^n}Využívej možnosti, že se tvá postava může velmi rychle léčit, pokud jsi jen pár sekund mimo souboj. Pokud ti ani toto nestačí, pamatuj na používání lektvarů a dovedností, aby tvá postava zůstala naživu.
 tagTutorialTip24TextB=Jakmile zemřeš, přijdeš o nějaké zkušenosti a tvá postava ožije v posledním útočišti, které navštívila. Ztráta zkušeností se zvyšuje s přibývající úrovní tvé postavy, ale část z nich můžeš získat zpět, pokud se ti podaří dostat k mohyle, kde tvá postava zemřela.
 
+tagTutorialTip26Title=Chat
+tagTutorialTip26TextA=Můžeš využít Okno chatu k posílání zpráv jiným hráčům ve své herní relaci. Pro poslání soukromé zprávy si vyber příjemce kliknutím na tlačítko "{^y}Poslat...{^w}".
+tagTutorialTip26SubtitleA=Připojení předmětů
+tagTutorialTip26TextB=Pro připojení předmětů do chatu přidrž klávesu Shift a klikni na vybraný předmět. Okno chatu musíš mít samozřejmě otevřené. Zpráva bude automaticky odeslána s odkazem na tvůj předmět.
+
 tagTutorialTip27Title=Hra více hráčů
 tagTutorialTip27TextA=Můžeš se připojit do nějaké skupiny s ostatními hráči ve hře, abys s nimi mohl sdílet zkušenosti, železné mince nebo obchodovat. Skupiny jsou také důležiré pro pořádání soubojů hráčů mezi sebou.
 tagTutorialTip27CaptionA=Klávesová zkratka: {^b}{%t0}{^w}
@@ -113,8 +118,9 @@ tagTutorialTip34TextA=Pokud začíná být tvůj inventář přeplněný, měl b
 tagTutorialTip34TextB=Obchodníky můžeš nalézt v útočištích ovládaných lidmi, ale zrovna tak můžeš potkat nějakého obchodníka toulajícího se po světě. Hledej značku obchodníka na kompasu nebo na mapě.
 
 tagTutorialTip35Title=Spojenci
-tagTutorialTip35TextA=Spojenci automaticky cestují s tebou a bojují po tvém boku. Pokud si přeješ dát svému spojenci přímý rozkaz, můžeš podržet klávesu "{^b}{%t0}{^w}" a kliknout na požadovaného spojence v levém spodním okraji obrazovky a následně si vyber cíl.
+tagTutorialTip35TextA=Spojenci automaticky cestují s tebou a bojují po tvém boku. Pokud si přeješ dát svému spojenci přímý rozkaz, můžeš podržet klávesu "{^b}{%t0}{^w}" a kliknout na požadovaného spojence v levém horním okraji obrazovky a následně si vyber cíl.
 tagTutorialTip35TextB=Svého spojence můžeš kdykoliv propustit pravým kliknutím myši na jeho portrét a zvolením možnosti "{^Y}Propustit spojence{^w}".
+tagTutorialTip35TextC=Můžeš si uspořádat všechny své spojence k útoku nebo pohybu k nepříteli pomocí příkazu {^Y}Útok spojenců{^w}. K přiřazení této dovednosti klikni pravým tlačítkem na místo v panelu rychlých voleb nebo na pravé tlačítko myši a vyber si jej z dostupné nabídky.
 
 tagTutorialTip36Title=Přerozdělení dovedností
 tagTutorialTip36TextA=Průvodci duchovnem ti umožňují odebrat přidělené body dovedností. Kliknutím na ikonku dovednosti u Průvodce se odebere jeden bod dovednosti. Čím více bodů odebereš, tím se zvyšuje cena dalšího odebraného bodu.
@@ -122,14 +128,15 @@ tagTutorialTip36TextB=Nemůžeš odebrat body vložené do úrovně svého povol
 
 tagTutorialTip37Title=Okno pašeráka
 tagTutorialTip37TextA=Pašerák může uchovávat tvé předměty a nebo je dokonce přesouvat mezi tvými dalšími postavami! K úschovně máš přístup u jakéhokoliv pašeráka, kterého v Cairnu najdeš.{^N}Předměty můžeš rychle přesouvat pomocí klávesy Shift a pravého kliknutí myši.
-tagTutorialTip37TextB=Svůj prostor pro úschovu předmětů můžeš rozšířit tak, že klikneš na tlačítko Rozšířit místo. Bude tě to stát nějaké železné mince.{^N}{^N}Kliknutím na Přesun předmětů umožníš sdílení předmětů mezi svými dalšími postavami.
+tagTutorialTip37TextB=Kliknutím na Přesun předmětů umožníš sdílení předmětů mezi svými dalšími postavami.
 
 tagTutorialTip38Tile=Přesun předmětů
 tagTutorialTip38TextA=Předměty umístěné v Pašerákově komoře pro přesun předmětů budou sdíleny mezi tvými ostatními postavami (předměty pro normální a hardcore hru jsou však odděleny).
+tagTutorialTip38TextB=Svou sdílenou truhlu můžeš rozšířit dokoupením přídatných záložek viditelných podél levé strany rozhraní truhly.{^N}{^N}Samozřejmě tě to bude stát pár železných mincí.
 tagTutorialTip38SubtitleA=Přesun předmětů mezi postavami
-tagTutorialTip38TextB=Pro přesun předmětů umísti předmět do předávací komory. Jakmile budeš hrát s jinou postavou, předměty u Pašeráka ti budou opět dostupné.
+tagTutorialTip38TextC=Pro přesun předmětů umísti předmět do předávací komory. Jakmile budeš hrát s jinou postavou, předměty u Pašeráka ti budou opět dostupné.
 tagTutorialTip38SubtitleB=Přesun mezi hráči
-tagTutorialTip38TextC=Pro zprosředkování přesunu předmětů mezi hráči ve hře více hráčů musíš použít funkci obchodu.
+tagTutorialTip38TextD=Pro zprosředkování přesunu předmětů mezi hráči ve hře více hráčů musíš použít funkci obchodu.
 
 tagTutorialTip39Title=Vynálezce
 tagTutorialTip39TextA=Vynálezci jsou schopni odstranit komponenty z předmětů. V tomto procesu zůstane zachován buď předmět, nebo patřičná komponenta.
@@ -162,3 +169,15 @@ tagTutorialTip47Title=Rozebírání
 tagTutorialTip47TextA=Odemkl jsi novou vlastnost vynálezce - rozebírání předmětů na základní součástky, s malou možností získat část komponenty. Čím mocnější předmět rozebereš, tím větší je pravděpodobnost, že získáš lepší komponentu.
 tagTutorialTip47SubtitleA=Rozebrání předmětu
 tagTutorialTip47TextB=K rozebrání předmětu budeš potřebovat dynamit a železné mince. Rozebraný předmět je tak navždy zničen. Umísti předmět alespoň magické kvality do vynálezcovy rozkladové komory, aby proces mohl začít.{^N}{^N}Po stisknutí tlačítka Rozebrat se z tvého inventáře odebere potřebné množství dynamitu a železných mincí, a předmět se rozebere na základní součástky{^N}{^N}
+
+tagTutorialTip49Title=Porovnávání zbraní
+tagTutorialTip49TextA=Když myší ukážeš na některý předmět ve svém inventáři, uvidíš jeho vlastnosti a ihned vedle něj i vlastnosti předmětu, který máš na sobě. V případě zbraní uvidíš také přídatnou informaci porovnávající Zranění za sekundu (DPS).
+tagTutorialTip49SubtitleA=Porovnávání bez komponent
+tagTutorialTip49TextB=Můžeš porovnat dvě zbraně bez toho, aby byly ovlivněny komponentami, přidržením klávesy "{^b}CTRL{^w}".
+
+tagTutorialTip50Title=Vylepšení
+tagTutorialTip50TextA=Vylepšení se nacházejí ve formě ořarovaného prachu, který můžeš použít k vylepšení svých předmětů. Tvorba vylepšení je s velkou opatrností chráněno různými frakcemi Cairnu.
+tagTutorialTip50TextB=K použití vylepšení stačí na něj kliknout pravým tlačítkem myši. Můžeš jej použít pouze na příslušný předmět. Jakmile předmět vylepšíš, vyllepšení již nelze odstranit, ale může být nahrazeno jiným.
+
+tagTutorialTip51Title=Použití vylepšení
+tagTutorialTip51TextA=Klikni pravým tlačítkem myši na Vylepšit a poté levým tlačítkem na předmět, který chceš vylepšit.{^N}{^N}Jen tě musím upozornit, že vylepšení lze použít pouze na určité druhy předmětů a po jeho aplikování nelze vylepšení již odstranit. Na druhou stranu je možné jej nahradit jiným vylepšením.

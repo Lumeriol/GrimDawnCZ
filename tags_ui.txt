@@ -129,8 +129,8 @@ tagFactionStateEnemy3=Jsou vůči tobě neochotní
 tagFactionStateEnemy2=Pohrdají tebou
 tagFactionStateEnemy1=Jste nepřátelé
 tagFactionStateNeutral=Tolerují tě
-tagFactionStateFriend1=Berou tě
-tagFactionStateFriend2=Přátelé se s tebou
+tagFactionStateFriend1=Přátelí se s tebou
+tagFactionStateFriend2=Respektují tě
 tagFactionStateFriend3=Důvěřují ti
 tagFactionStateFriend4=Jsou tebou poctěni
 tagFactionStateFriend5=Uctívají tě
@@ -147,6 +147,11 @@ tagFactionStateRevered=Uctívaný
 tagFactionProgress=Požadováno do další úrovně: {^b}{%d0}
 tagFactionStatusChange={^w}Nyní jsi {%s0} {^w}s {^b}{%s1}
 tagFactionEnemies=Nepřátelé: {^b}
+tagFactionDiscountPositive=Frakční změna: {^r}+ {%.0f0}%
+tagFactionDiscountNegative=Frakční změna: {^g}- {%.0f0}%
+tagFactionDiscountZero=Frakční změna: {^s}{%.0f0}%
+tagFactionDoorLocked={^r}Tvé postavení vůči frakci {^b}{%s0} {^r}ti neumožňuje vstoupit na toto území
+
 
 #HUD
 
@@ -308,7 +313,7 @@ tagCharStatsOA=Útočná schopnost
 tagCharStatsOALast=Poslední zásah:
 tagCharStatsOAHit=Šance na zásah:
 tagCharStatsOACrit=Šance na kritický zásah:
-tagCharStatsOADescription=Vyšší útočná schopnost zvyšuje tvou šanci úspěšně zasáhnout nepřítele zblízka nebo na dálku, uštědřit mu kritický zásah a také zvyšuje zranění uštědřené kritickým zásahem. Tvá útočná schopnost, pokud je nižší než obranná schopnost nepřítele, razantně zvyšuje šanci na to, že se netrefíš. Útočná schopnost je ovlivněna dovednostmi, předměty a rafinovaností.
+tagCharStatsOADescription=Vyšší útočná schopnost zvyšuje tvou šanci úspěšně zasáhnout nepřítele útokem nebo kouzlem, uštědřit mu kritický zásah a také zvyšuje zranění uštědřené kritickým zásahem. Tvá útočná schopnost, pokud je nižší než obranná schopnost nepřítele, razantně zvyšuje šanci na to, že se netrefíš. Útočná schopnost je ovlivněna dovednostmi, předměty a rafinovaností.
 
 tagCharStatsDAAlert=Obranná schopnost {^b}(?)
 tagCharStatsDA=Obranná schopnost
@@ -332,6 +337,7 @@ tagRollFormat12={%s0} {^b}{%.0f1}% - {%.0f2}%
 tagRollFormat13={%s0} {^b}{%.1f1}%
 tagRollFormat14={%s0} {^b}{%.0f1}
 tagRollFormat15={%s0} {^b}+ {%.1f1}% + {%.0f2}
+tagRollFormat16={%s0} {^s}{%.2f1} {^b}- {%.2f2}
 tagFormatPercent={%.0f}%
 tagFormatPlusPercent=+ {%.0f}%
 tagFormatMinusPercent=- {%.0f}%
@@ -742,6 +748,15 @@ tagVendorTab04B=Směs starých cenností a po domácku vyrobených cetek.
 tagVendorTab05A=Zpětný odkup
 tagVendorTab05B=Tvůj názor se změnil? Dokud jsi u obchodníka, můžeš si prodané předměty koupit zpátky bez navýšené ceny. Ale jakmile odejdeš, předměty jsou prodány natrvalo.
 
+tagFactionVendorTab01A=Přátelský
+tagFactionVendorTab01B=Přátelský
+tagFactionVendorTab02A=Respektovaný
+tagFactionVendorTab02B=Respektovaný
+tagFactionVendorTab03A=Důvěryhodný
+tagFactionVendorTab03B=Důvěryhodný
+tagFactionVendorTab04A=Poctěný
+tagFactionVendorTab04B=Poctěný
+
 tagVendorRolloverName=Prodejce předmětů
 tagVendorRolloverDescription=Obchodníci profitují z lidského neštěstí prodejem zachráněných nebo ukradených předmětů těm, kteří se odváží se vydat za hranice lidských pevností. Proto je lepší se raději nepídit po původu těchto předmětů.
 
@@ -758,6 +773,7 @@ tagMarketError01=Nemáš dostatek železných mincí.
 tagMarketError02=Ve svém inventáři nemáš dostatek místa.
 tagMarketError03=Tato položka byla prodána.
 tagMarketError04=Tato položka nemůže být prodána.
+tagMarketError05=Tvé postavení vůči této frakci je nedostatečné.
 CanNotBeSoldHere=Tento prodejce nepřijímá tento druh zboží.
 Sold=Prodáno
 
@@ -938,7 +954,8 @@ tagInfoButtonOk=OK
 tagGameOver=Jsi mrtvý!
 
 SimpleStringFormat={%s0}
-SimpleStringsFormat={%s0} {%s1}
+SimpleStringsFormat={%s0}{%s1}
+TripleStringFormat={%s0}{%s1}{%s2}
 SkillBaseNamesFormat={    %s0}
 CostFormat=Cost: {%d0}
 ManaDisplayFormat=Magická energie  {%d0} / {%d1} ({%d2} rezervováno)
@@ -1118,6 +1135,7 @@ IntelligenceText={%.0f0} duchovna
 FloatFormat={%.0f0}
 Float1Format={%.1f0}
 Float2Format={%.2f0}
+NegativeFloat2Format=- {%.2f0}
 IntFormat={%d0}
 CharacterLevelDescription={%s0} - [Úroveň {%d1}]
 ObjectIdFormat=({%d0})  
@@ -1284,6 +1302,7 @@ tagSetItems={%d0} části setu
 tagSecond={^E}sekund
 tagSeconds={^E}sekundy
 DamagePerSecond={%.1f0} {^S}zranění za sekundu (pokud máš na sobě)
+DamagePerSecondOffHand={%.1f0} {^S}zranění za sekundu (příruční předmět)
 DamagePhysicalChance= {^E}fyzického zranění
 DamageBasePhysical= {^S}fyzického zranění
 DamageBasePierceRatio={%.0f0}% {^S}proražení zbroje

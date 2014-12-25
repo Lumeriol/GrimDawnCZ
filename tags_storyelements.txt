@@ -33,7 +33,7 @@ tagMapBrokenTeeth=Vyražené zuby
 tagMapDevilsSpur=Ďáblův výběžek
 tagMapNecropolis=Pohřebiště
 tagMapOldGrove=Starý háj
-tagMapVoidlands=Pustiny
+tagMapVoidlands=Chthonská pustina
 
 tagMapBrokenHills=Sesuté kopce
 tagMapOldArkovia=Stará Arkovia
@@ -47,16 +47,105 @@ tagMapNewHarbor=Nový přístav
 tagMapBarrenHighlands=Neúrodná vysočina
 tagMapCrumblingWatch=Rozpadlá strážní věž
 tagMapCronleysHideout=Cronleyův úkryt
+
 tagMapSmugglersPass=Pašerákův průsmyk
-tagMapJaggedWaste=Rozeklaná pustina
 tagMapDeadmansGulch=Rokle mrtvého muže
-tagMapHighPass=Stezka ve výšinách
-tagMapAlpineRoad=Alpská stezka
 tagMapMountainDeeps=Horské hlubiny
 
-tagMapLedgewood01=Ledgewood
-tagMapWitheringFields01=Schnoucí pole
-tagMapHomestead01=Homestead
+tagMapDustyRoad=Zlatokopova pěšina
+tagMapShadedBasin=Stinná vodní nádrž
+tagMapPineBarrens=U seschlých borovic
+tagMapJaggedWaste=Rozeklaná pustina
+tagMapJaggedWasteFort=Tyranova država
+
+tagMapWitheringFields=Schnoucí pole
+tagMapHomestead=Homestead
+tagMapInfestedFarms=Zamořené farmy
+tagMapRottedHarvest=Hnijící pole
+tagMapCorruptedPasture=Hrůzné pastviny
+tagMapOldGrove=Starý háj
+tagMapInfestedField01=Thornsburyova farma
+tagMapInfestedField02=Elmsworthova farma
+
+tagMapLedgewood=Ledgewood
+tagMapAlpineRoad=Alpská stezka
+
+#Riftgate Names
+
+tagRiftDevilsCrossing=Portál v Ďáblově průsmyku
+tagRiftLowerCrossing=Portál na Dolním rozcestí
+tagRiftBurrwitchRoad=Portál na Mlhavém pobřeží
+tagRiftWightmire=Portál ve Wightmire
+tagRiftFloodedPassage=Portál v Zatopeném průchodu
+tagRiftBurrwitchOutskirts=Portál na Burrwitchském předměstí
+tagRiftBurrwitchVillage=Portál ve vesnici Burrwitch
+tagRiftWardensCellar=Portál ve Wardenově sklepení
+tagRiftWardensLabratory01=Portál v podzemním průchodu
+tagRiftWardensLabratory02=Portál ve Wardenově laboratoři
+
+tagRiftBrokenHills=Portál v Sesutých kopcích
+tagRiftOldArkovia=Portál ve Staré Arkovii
+tagRiftArkovianFoothills=Portál v Arkovianském podhůří
+tagRiftCronleysHideout=Portál v Cronleyově úkrytu
+tagRiftTwinFalls=Portál u Dvojspádů
+tagRiftSmugglersPass=Portál v Pašerákově průsmyku
+tagRiftSmugglersRoad=Portál na Prašné cestě
+tagRiftJaggedWaste=Portál u Seschlých borovic
+tagRiftDeadmansGulch=Portál v Rokli mrtvého muže
+tagRiftAlpineRoad=Portál na Alpské stezce
+
+tagRiftHomestead=Portál v Homesteadu
+tagRiftWitheringFields=Portál v Schnoucích polích
+tagRiftRottedHarvest=Portál v Hnijících polích
+tagRiftOldGrove=Portál ve Starém háji
+
+tagRiftRandom01=Chthonský portál
+
+#World Map Labels
+
+tagWorldMapBurrwitchEstates=Burrwitchské{^n}statky
+tagWorldMapAbandonedWaterFront=Opuštěné{^n}pobřeží
+tagWorldMapBurrwitchVillage=Vesnice{^n}Burrwitch
+tagWorldMapHallowedHill=Posvěcený{^n}vrch
+tagWorldMapMudRow=Blátivá{^n}alej
+tagWorldMapMolderingFields=Tlející{^n}pláně
+tagWorldMapBurrwitchGraveyard=Burrwitchský{^n}hřbitov
+tagWorldMapBurrwitchOutskirts=Burrwitchské{^n}předměstí
+tagWorldMapTheFoggyBank=Mlhavé{^n}pobřeží
+tagWorldMapSoddenHollow=Promáčená{^n}pustina
+tagWorldMapWightmire=Wightmire
+tagWorldMapTheOldDump=Stará{^n}skládka
+tagWorldMapBurialHill=Pohřební{^n}vrch
+tagWorldMapLowerCrossing=Dolní{^n}rozcestí
+tagWorldMapDevilsCrossing=Ďáblův{^n}průsmyk
+tagWorldMapKymonsRetreat=Kymonův{^n}ústup
+tagWorldMapArkovianFoothills=Arkovianské{^n}podhůří
+tagWorldMapCrumblingWatch=Rozpadlá{^n}strážní věž
+tagWorldMapTheRockyCoast=Skalnaté{^n}pobřeží
+tagWorldMapStauntonMine=Stauntonův{^n}důl
+tagWorldMapNewHarbor=Nový{^n}přístav
+tagWorldMapTheFourHills=Čtvery{^n}vršky
+tagWorldMapOldArkovia=Stará{^n}Arkovia
+tagWorldMapTheStepsOfTorment=Stupně{^n}bolesti
+tagWorldMapBrokenHills=Sesuté{^n}kopce
+tagWorldMapTwinFalls=Dvojspády
+tagWorldMapBarrenHighlands=Neúrodná{^n}vysočina
+tagWorldMapSmugglersPass=Pašerákův{^n}průsmyk
+tagWorldMapProspectorsTrail=Zlatokopova's{^n}pěšina
+tagWorldMapDeadmansGulch=Rokle mrtvého{^n}muže
+tagWorldMapPineBarrens=U seschlých{^n}borovic
+tagWorldMapJaggedWaste=Rozeklaná{^n}pustina
+tagWorldMapShadedBasin=Stinná vodní{^n}nádrž
+tagWorldMapTyrantsHold=Tyranova{^n}država
+tagWorldMapAureateValley=Zlatavá{^n}dolina
+tagWorldMapWitheringFields=Schnoucí{^n}pole
+tagWorldMapHomestead=Homestead
+tagWorldMapInfestedFarms=Zamořené{^n}farmy
+tagWorldMapRottingCroplands=Hnijící{^n}pole
+tagWorldMapGruesomeHarvest=Hrůzné{^n}pastviny
+tagWorldMapBloodGrove=Krvavý háj
+tagWorldMapSorrowsBastian=Bašta zármutku
+
 
 #Underground Names
 
@@ -96,65 +185,13 @@ tagUGBrokenHills03=Opuštěné doupě
 tagUGBrokenHills04=Pašerákův průsmyk
 tagUGBrokenHills05=Skučící dutina
 
-#Riftgate Names
-
-tagRiftDevilsCrossing=Portál v Ďáblově průsmyku
-tagRiftLowerCrossing=Portál na Dolním rozcestí
-tagRiftBurrwitchRoad=Portál na Mlhavém pobřeží
-tagRiftWightmire=Portál ve Wightmire
-tagRiftFloodedPassage=Portál v Zatopeném průchodu
-tagRiftBurrwitchOutskirts=Portál na Burrwitchském předměstí
-tagRiftBurrwitchVillage=Portál ve vesnici Burrwitch
-tagRiftWardensCellar=Portál ve Wardenově sklepení
-tagRiftWardensLabratory01=Portál v podzemním průchodu
-tagRiftWardensLabratory02=Portál ve Wardenově laboratoři
-
-tagRiftBrokenHills=Portál v Sesutých kopcích
-tagRiftOldArkovia=Portál ve Staré Arkovii
-tagRiftArkovianFoothills=Portál v Arkovianském podhůří
-tagRiftCronleysHideout=Portál v Cronleyově úkrytu
-tagRiftTwinFalls=Portál u Dvojspádů
-tagRiftSmugglersPass=Portál v Pašerákově průsmyku
-tagRiftHighPass=Portál na Stezce ve výšinách
-tagRiftJaggedWaste=Portál na Rozeklané pustině
-tagRiftDeadmansGulch=Portál v Rokli mrtvého muže
-tagRiftAlpineRoad=Portál na Alpské stezce
-
-tagRiftWitheringFields=Portál na Schnoucích polích
-tagRiftHomestead=Portál v Homesteadu
-
-tagRiftRandom01=Ch'thonský portál
-
-#World Map Labels
-
-tagWorldMapBurrwitchEstates=Burrwitchské{^n}statky
-tagWorldMapAbandonedWaterFront=Opuštěné{^n}pobřeží
-tagWorldMapBurrwitchVillage=Vesnice{^n}Burrwitch
-tagWorldMapHallowedHill=Posvěcený{^n}vrch
-tagWorldMapMudRow=Blátivá{^n}alej
-tagWorldMapMolderingFields=Tlející{^n}pláně
-tagWorldMapBurrwitchGraveyard=Burrwitchský{^n}hřbitov
-tagWorldMapBurrwitchOutskirts=Burrwitchské{^n}předměstí
-tagWorldMapTheFoggyBank=Mlhavé{^n}pobřeží
-tagWorldMapSoddenHollow=Promáčená{^n}pustina
-tagWorldMapWightmire=Wightmire
-tagWorldMapTheOldDump=Stará{^n}skládka
-tagWorldMapBurialHill=Pohřební{^n}vrch
-tagWorldMapLowerCrossing=Dolní{^n}rozcestí
-tagWorldMapDevilsCrossing=Ďáblův{^n}průsmyk
-tagWorldMapKymonsRetreat=Kymonův{^n}ústup
-tagWorldMapArkovianFoothills=Arkovianské{^n}podhůří
-tagWorldMapCrumblingWatch=Rozpadlá{^n}strážní věž
-tagWorldMapTheRockyCoast=Skalnaté{^n}pobřeží
-tagWorldMapStauntonMine=Stauntonův{^n}důl
-tagWorldMapNewHarbor=Nový{^n}přístav
-tagWorldMapTheFourHills=Čtvery{^n}vršky
-tagWorldMapOldArkovia=Stará{^n}Arkovia
-tagWorldMapTheStepsOfTorment=Stupně{^n}bolesti
-tagWorldMapBrokenHills=Sesuté{^n}kopce
-tagWorldMapTwinFalls=Dvojspády
-tagWorldMapBarrenHighlands=Neúrodná{^n}vysočina
-tagWorldMapSmugglersPass=Pašerákův{^n}průsmyk
+tagUGJaggedWasteCave01=Krvošípkovo doupě
+tagUGJaggedWasteCave02=Zapomenuté hlubiny
+tagUGDermapteran01=Pelech rybolovců
+tagUGDermapteran02=Včelí líheň
+tagUGDermapteran03A=Královský úl
+tagUGDermapteran03B=Brloh včelí královny
+tagUGHomesteadCave01=Doupě ztracených
 
 #Signs
 
@@ -170,6 +207,10 @@ tagSign_Homestead=Homestead
 tagSign_MistyVale=Mlhavé údolí
 tagSign_RockyCoast=Stará Arkovia
 tagSign_FoothillsVillage=Kymonův ústup
+tagSign_TyrantsHold=Tyranova država
+tagSign_SorrowsBastion=Bašta zármutku
+tagSign_Farm=Averlookova oranina
+tagSign_Deeps=Upozornění: Uzavřené doly
 
 tagSign_OldGrove=Starý háj
 
@@ -218,6 +259,8 @@ tagPOIFesteringLairA=Vstup do Zamořeného doupěte
 tagPOIFesteringLairB=Východ ze Zamořeného doupěte
 tagPOIMylesCaveA=Vstup do Mylesova úkrytu
 tagPOIMylesCaveB=Východ z Opuštěného doupěte
+tagPOIMountainDeepsA=Vstup do Horských hlubin
+tagPOIMountainDeepsB=Východ z Horských hlubin
 
 tagPOIStepsOfTorment1A=Vstup do Stupňů bolesti
 tagPOIStepsOfTorment1B=Východ ze Stupňů bolesti
@@ -239,6 +282,7 @@ tagPOIQuestHomesteadBridge=Dvojpádské přemostění
 tagPOIQuestHomesteadTown=Město Homestead
 tagPOIQuest_Sacrifice=Isaacova skrýš
 tagPOIQuest_StrangeKey=Svatyně neřesti
+tagPOIQuest_Homestead=Zabezpeč cestu do Homestead
 
 
 #Notifications
@@ -259,9 +303,12 @@ tagNotification_HS_RemoveTheHead_ElsaFound=Zdá se, že Cronley nemá Elsu...
 tagNotification_HS_SpoilsOfTheGrimDawn=Prohledal jsi starou zříceninu.
 tagNotification_HS_WeNeedFood_HomesteadBridgeFound=Starý pobřežní most je zničený. Budeš muset najít cestu přes Pašerácký průsmyk.
 tagNotification_HS_WeNeedFood_HomesteadSmugglerPassCrossed=Prošel jsi Pašeráckým průsmykem. Teď se podívej po cestě do Homesteadu.
-tagNotification_HS_WeNeedFood_HomesteadRefugees=Objevil jsi skupinku uprchlíků za Pašeráckým průsmykem.
 tagNotification_HS_OldArkoviaPassagesCompleted=Prošel jsi Arkovianskou chodbou a prozkoumal její obsah.
 tagNotification_HS_OldArkoviaPassagesBossKilled=Získal jsi kousek roztříštěné duše Poskvrněného!
+
+tagNotification_AreaC_EnclaveRiftgateEvent=Vstup do Homesteadu je obsazen Aetherijskými bytostmi!
+tagNotification_AreaC_RefugeeRemainsFound=Vypadá to, že Dahlia Taverin nepřežila všechna nebezpečí Horských hlubin.
+tagNotification_AreaC_BloodHarvestFound=Někteří z uvězněných volají o pomoc.
 
 tagNotification_WarningToughArea=Na tomhle místě se nachází mnohem mocnější síly, než jsi schopen porazit...
 tagNotification_WarningRiftgateDisabled=Tvé spojení s bránou se zdá být v tomhle místě nemožné...
@@ -286,6 +333,7 @@ tagNPC_Guard_DCRanged01=Mainard ~ Strážce
 tagNPC_Guard_DCRanged02=Russ ~ Strážce
 tagNPC_Guard_DCMelee01=Brigs ~ Strážce
 tagNPC_Guard_DCMelee02=Oxley ~ Strážce
+tagNPC_Guard_DCMelee03=Chester - Strážce
 tagNPC_BountyBoard=Vývěska Ďáblova průsmyku
 
 tagNPC_Guard_Female01=Strážce
@@ -297,6 +345,8 @@ tagNPC_DevilsCrossing_03=Isaac
 tagNPC_DevilsCrossing_04=Torven
 tagNPC_DevilsCrossing_05=Kuldo
 tagNPC_DevilsCrossing_06=Edwin
+tagNPC_DevilsCrossing_07=Russ - Strážce
+tagNPC_DevilsCrossing_08=Chester
 
 tagNPC_Homestead_01=Minova
 tagNPC_Homestead_02=Darius Cronley
@@ -346,8 +396,8 @@ tagNPC_AreaC_14=Rallia
 tagNPC_AreaC_15=Kapitán Somer
 tagNPC_AreaC_16=Collin Taverin
 tagNPC_AreaC_17=Zaměřovač Vallar
-tagNPC_AreaC_18=
-tagNPC_AreaC_19=
+tagNPC_AreaC_18=Bratr Molltair
+tagNPC_AreaC_19=Haruuv
 tagNPC_AreaC_20=
 tagNPC_AreaC_21=
 tagNPC_AreaC_22=
@@ -361,6 +411,7 @@ tagNPC_AreaD_03=Ubytovatel Edric
 tagNPC_AreaD_04=Anasteria
 
 tagNPC_DetonationSite=Místo výbuchu
+tagNPC_AetherCluster=Shluk Aetherů
 
 tagNPC_BrokenHillsBridge=Stanoviště opravy mostu do Arkovianského podhůří
 tagNPC_OldGroveBridge=Staveniště mostu do Starého háje
@@ -388,9 +439,10 @@ tagNPC_Flavor_DevilsCrossing03=Alex
 tagNPC_Flavor_DevilsCrossing04=Gertrude
 tagNPC_Flavor_DevilsCrossing05=Marcus
 tagNPC_Flavor_DevilsCrossing06=Darian
+tagNPC_Flavor_DevilsCrossing07=Darmošlap Harvey
 
-tagNPC_Flavor_Homestead_01=
-tagNPC_Flavor_Homestead_02=
+tagNPC_Flavor_Homestead_01=Frankie "Kudla"
+tagNPC_Flavor_Homestead_02=Přeběhlík z Cronleyovy bandy
 tagNPC_Flavor_Homestead_03=Helen Fletcher
 tagNPC_Flavor_Homestead_04=Julius Cole
 tagNPC_Flavor_Homestead_05=
@@ -405,7 +457,7 @@ tagNPC_Flavor_Homestead_12=Horace
 tagNPC_Flavor_AreaC_01=Dean Oldbarrow
 tagNPC_Flavor_AreaC_02=Denny Oldbarrow
 tagNPC_Flavor_AreaC_03=Maria Oldbarrow
-tagNPC_Flavor_AreaC_04=Zaměřovač Harriv
+tagNPC_Flavor_AreaC_04=Zaměřovač Harra
 tagNPC_Flavor_AreaC_05=Rob Halloway
 tagNPC_Flavor_AreaC_06=Beatrice Summers
 tagNPC_Flavor_AreaC_07=Tricia Windborough
@@ -413,10 +465,10 @@ tagNPC_Flavor_AreaC_08=Taris Windborough
 tagNPC_Flavor_AreaC_09=Emily Larkson
 tagNPC_Flavor_AreaC_10=Bolvis
 tagNPC_Flavor_AreaC_11=Vaam
-tagNPC_Flavor_AreaC_12=Elaine Cobble
-tagNPC_Flavor_AreaC_13=Julia Applesworth
-tagNPC_Flavor_AreaC_14=Shane Cobble
-tagNPC_Flavor_AreaC_15=Davis Morden
+tagNPC_Flavor_AreaC_12=Elara
+tagNPC_Flavor_AreaC_13=Kaldara
+tagNPC_Flavor_AreaC_14=Tarvic
+tagNPC_Flavor_AreaC_15=Umkalo
 tagNPC_Flavor_AreaC_16=Laruka
 tagNPC_Flavor_AreaC_17=Caaraka
 tagNPC_Flavor_AreaC_18=Galarok
@@ -432,6 +484,10 @@ tagNPC_Flavor_AreaC_27=Homesteadský farmář
 tagNPC_Flavor_AreaC_28=
 tagNPC_Flavor_AreaC_29=Tracy Thornsbury
 tagNPC_Flavor_AreaC_30=Alex Elmsworth
+tagNPC_Flavor_AreaC_12=Elara
+tagNPC_Flavor_AreaC_13=Kaldara
+tagNPC_Flavor_AreaC_14=Tarvic
+tagNPC_Flavor_AreaC_15=Umkalo
 
 tagNPC_Flavor_AreaD_01=
 tagNPC_Flavor_AreaD_02=
@@ -489,6 +545,12 @@ tagQuestItemExileBossDrop_01Desc="Tato tlustá kniha se zdá být zapečetěna t
 
 tagQuestItemExileBossDrop_02=Hlava archiváře Thelona
 tagQuestItemExileBossDrop_02Desc="Stále žhnoucí aetherické oči na tebe upřeně civějí."
+
+tagQuestItemBlackLegionInsignia=Black Legion Insignia
+tagQuestItemBlackLegionInsignia_Desc="Bestowed upon the rank and file for their loyal service."
+
+tagQuestItemAnnalsOfArkovia=Annals of Arkovia
+tagQuestItemAnnalsOfArkovia_Desc="Record of the last days of King Rhowan of Arkovia."
 
 #Journals
 
@@ -582,19 +644,22 @@ tagLoreObj_StepsOfTorment01Name=Zarthuzellanovy spisy
 tagLoreObj_StepsOfTorment01codexTitle=Zarthuzellanovy spisy
 tagLoreObj_StepsOfTorment01Text=Ten, kterého nazývají Uroboruuk, se pouze vysmívá bohům. Vykonavatel spravedlnosti ťal do jeho masa, ale rány odmítaly krvácet. Jeho končetiny znovu dorůstají zpět a jeho kůže je odolná vůči ohni.{^n}{^n}Myslím, že nastal čas, abych sestoupil do onoho odporného místa a vypořádal se s tímto pohanem osobně. Uvidíme jak zareaguje na očistný plamen bohů.
 
+tagLoreObj_BozemanFollyName=Bozeman's Folly
+tagLoreObject_BozemanFollyText=They all say I'm insane for taking the caravan through the deep road. The only thing that's insane is paying bribes to those smug bastards in control of Smuggler's Pass. May as well pay the imperial tariffs!{^n}{^n}I've heard on good account that the dangers in the mountain deeps are well overblown, and that the exit will spit us out far closer to Homestead than that bandit-ridden pass.{^n}{^n}When I'm swimming in gold up to my neck down in Burrwitch, then they'll all see. They'll all see that Bozeman was right.
+
 
 #Random Burrwitch Notes
-tagLoreObj_BookA01Name=Ch'thonické kacířství - Strana 1
-tagLoreObj_BookA01Text=Strach, moji bratři. Bojte se Ch'thoniana, protože je předzvěstí našich hříchů. Nevyslovujte jméno jejich pána, neboť se jedná o projev škodolibosti a nehorázných rozhodnutí. Vyvarujte se kacířství, protože jejich slova jsou jedem pro uši věřících. Stejně jako ďábel musí být zbaven své duše, i kacíř musí být zbaven svého života.
+tagLoreObj_BookA01Name=Chthonické kacířství - Strana 1
+tagLoreObj_BookA01Text=Strach, moji bratři. Bojte se Chthoniana, protože je předzvěstí našich hříchů. Nevyslovujte jméno jejich pána, neboť se jedná o projev škodolibosti a nehorázných rozhodnutí. Vyvarujte se kacířství, protože jejich slova jsou jedem pro uši věřících. Stejně jako ďábel musí být zbaven své duše, i kacíř musí být zbaven svého života.
 
-tagLoreObj_BookA02Name=Ch'thonické kacířství - Strana 2
-tagLoreObj_BookA02Text=Krev, moji bratři. Krev je podstatou, jež nám dává život. Nepijte krev démonů, protože se jedná o projev zkaženosti. Ti, kteří se živí krví, budou navždy zatraceni. Vyvarujte se darů Ch'thoniana - jejich dotekem očerníte svou duši. Čistota krve zvěstuje čistotu duše.
+tagLoreObj_BookA02Name=Chthonické kacířství - Strana 2
+tagLoreObj_BookA02Text=Krev, moji bratři. Krev je podstatou, jež nám dává život. Nepijte krev démonů, protože se jedná o projev zkaženosti. Ti, kteří se živí krví, budou navždy zatraceni. Vyvarujte se darů Chthoniana - jejich dotekem očerníte svou duši. Čistota krve zvěstuje čistotu duše.
 
-tagLoreObj_BookA03Name=Ch'thonické kacířství - Strana 3
-tagLoreObj_BookA03Text=Víra, moji bratři. Nechť vás vaše víra ochraňuje, protože to je Ch'thonian, kdo vměšuje sůl do mokvající rány. Ochraňujte svou víru, která vás vymezuje. Vyvarujte se kacířským dopisům, protože jejich slova jsou plná lží a klamu. Silná víra bude opěvována jako hrdinové. Ta slabá... bude navždy zapomenuta.
+tagLoreObj_BookA03Name=Chthonické kacířství - Strana 3
+tagLoreObj_BookA03Text=Víra, moji bratři. Nechť vás vaše víra ochraňuje, protože to je Chthonian, kdo vměšuje sůl do mokvající rány. Ochraňujte svou víru, která vás vymezuje. Vyvarujte se kacířským dopisům, protože jejich slova jsou plná lží a klamu. Silná víra bude opěvována jako hrdinové. Ta slabá... bude navždy zapomenuta.
 
-tagLoreObj_BookA04Name=Ch'thonické kacířství - Strana 4
-tagLoreObj_BookA04Text=Spravedlnost, moji bratři. Spravedlnost musí být rychlá a nemilosrdná, protože jen ta ve vás vznítí víru, krev a strach. Spravedlnost dostihne kacíře, naprosto vždy a neúprosně. Ti, kteří pozvednou zbraň proti Ch'thonianovi, se stanou horlivými a pomstychtivými ve jménu božím. Ti, kteří vzývají boha Ch'thoniana, okusí plamen spravedlnosti. A spravedlnost je třeba vykonat.
+tagLoreObj_BookA04Name=Chthonické kacířství - Strana 4
+tagLoreObj_BookA04Text=Spravedlnost, moji bratři. Spravedlnost musí být rychlá a nemilosrdná, protože jen ta ve vás vznítí víru, krev a strach. Spravedlnost dostihne kacíře, naprosto vždy a neúprosně. Ti, kteří pozvednou zbraň proti Chthonianovi, se stanou horlivými a pomstychtivými ve jménu božím. Ti, kteří vzývají boha Chthoniana, okusí plamen spravedlnosti. A spravedlnost je třeba vykonat.
 
 tagLoreObj_CriminalA01Name=Kriminální záznamy - Strana 1
 tagLoreObj_CriminalA01Text=Leander "Černovoda" Greene{^n}{^n}Propuštěný voják hledaný za vydírání a vraždu. Leander byl nečestně propuštěn z demoliční čety za strašlivé civilní neštěstí. Leander uprchl z vyšetřovací vazby při nejméně dvou různých příležitostech za použití neschválených výbušných zařízení.{^n}{^n}Zprávy o jeho zpozorování nebo důkazy o jeho smrti by měly být doručeny Wardenu Kriegu do Burrwitchské věznice. Za předvedení živého Leandera Greena bude vyplacena odměna 1.000 královských mincí.
@@ -603,7 +668,7 @@ tagLoreObj_CriminalA02Name=Kriminální záznamy - Strana 2
 tagLoreObj_CriminalA02Text=Krvavý Jack{^n}{^n}Nebezpečný vrah a známý uctívač pohanského boha Solaela. V protokolech jsou označeny příznaky vražd Krvavého Jacka - proříznuté hrdlo a čarodějnické symboly vyryté do levého prsu. Tyto symboly se vyskytují stále blíže vesnici Burrwitch. Občanům se doporučuje, aby necestovali samotní a vyhýbali se lesním cestám, kdykoliv je to možné.{^n}{^n}Zprávy o jeho zpozorování nebo důkazy o jeho smrti by měly být doručeny Wardenu Kriegu do Burrwitchské věznice. Za zajetí a předvedení živého Krvavého Jacka bude vyplacena odměna 400 královských mincí.
 
 tagLoreObj_CriminalA03Name=Kriminální záznamy - Strana 3
-tagLoreObj_CriminalA03Text=Everett ~ Krvavý pes{^n}{^n}Pohan a chlemtač krve. Známý společník Ch'thonských kultů a udavač kacířů. Když se střetl se zákonem, Everett vyvolal rozběsněnou tajemnou zvěř proti vymahačům spravedlnosti a poté uprchl. Extrémně nebezpečný jedinec. Lidem, kteří nemají zkušenosti s odvrácením pohanských umění, se doporučuje vyhnout se mu.{^n}{^n}Zprávy o jeho zpozorování nebo důkazy o jeho smrti by měly být doručeny Wardenu Kriegu do Burrwitchské věznice. Za zajetí a předvedení živého Everetta ~ Krvavého psa bude vyplacena odměna 1.200 královských mincí.
+tagLoreObj_CriminalA03Text=Everett ~ Krvavý pes{^n}{^n}Pohan a chlemtač krve. Známý společník Chthonských kultů a udavač kacířů. Když se střetl se zákonem, Everett vyvolal rozběsněnou tajemnou zvěř proti vymahačům spravedlnosti a poté uprchl. Extrémně nebezpečný jedinec. Lidem, kteří nemají zkušenosti s odvrácením pohanských umění, se doporučuje vyhnout se mu.{^n}{^n}Zprávy o jeho zpozorování nebo důkazy o jeho smrti by měly být doručeny Wardenu Kriegu do Burrwitchské věznice. Za zajetí a předvedení živého Everetta ~ Krvavého psa bude vyplacena odměna 1.200 královských mincí.
 
 tagLoreObj_BookC01Name=Gildam Arcanum - Strana 1
 tagLoreObj_BookC01Text=Chceš-li pochopit průtoky Aetheru, nejprve se musíš naučit uvědomovat si jeho podstatná rizika. Tajemné umění není na hraní, ani to není nástroj, který by se dal zneužívat. Bezpočet mladých učedníků temnoty přišlo o život z neopatrnosti a zanedbání předpisů. Správné ovládání Aetheru vyžaduje roky praxe pod pečlivým dohledem Gildam Arcanum, jediného formálního úřadu schvalujícího pokyny a výzkum umění tajemna. Nepleť si to, co je tady přednášeno s učením hypotetických čarodějnických bohů, což je mezi nevzdělanci často mylně zaměňováno. Nejsou žádní bohové. Existuje pouze realita a věda zahalená tajemstvím.
@@ -641,6 +706,35 @@ tagLoreObj_OldArkovia_BookA03Name=Zakázané umění - 3. část
 tagLoreObj_OldArkovia_BookA03Text=Slyším je hlučet venku. Přišli jako poslední a ve velkém počtu. To je rozumné...{^n}{^n}Ohledně mé osoby se v průběhu staletí vyprávělo mnoho příběhů. Většina z nich byla hodně přehnaná, ale dobře posloužili k tomu, aby mi nechali volnost v jejich zneužívání a narušování. Avšak zdá se, že protentokrát Arkoviané těmto příběhům neuvěří.{^n}{^n}Musím ukončit tento zápisek, protože brzy si pro mě přijdou. Nebojím se toho, co bude dál. Na konci toho všeho z nich zbude popel a zůstanu jenom já...{^n}{^n}Uroboruuk
 
 
+#Cronley's Mine Notes
+tagLoreObj_Cronley_NoteA01Name=Wilkins'Note
+tagLoreObj_Cronley_NoteA01Text=Word going 'round the camp is that the undead finally stopped attacking the walls. Not that I'm complaining, but a man's gotta wonder why. Just the other day, we lost three on the west wall when a bunch of them corpsefiends burst out of the bodies and took everyone by surprise. They was bleeding us dry, with no end in sight to their numbers. Hell, pretty sure I've seen a few of our dead lurking around out there. Now I ain't no general, but seems to me like it was only a matter of time.{^n}{^n}The boss says that we've won, that Old Arkovia belongs to the gang. He's even called in his top lieutenants to join him in the mine for some sorta celebration. Feels too soon to me, but ain't nobody asking what Wilkins thinks.
+
+tagLoreObj_Cronley_NoteA02Name="The Bruiser" Romanov's Note
+tagLoreObj_Cronley_NoteA02Text=The boss says I done good when I smashed them rover skulls for hiding their food. Says I'm next in line to join him and his brothers in the new dawn. I've seen what those boys can do with them green crystals in their flesh. They could tear a man in half like a loaf of bread. But I heard them screaming too when Cronley put the crystals in. Sounded worse than the last time he got his hands on a rover woman.{^n}{^n}But a little pain's not about to turn me into some knife-stabbing wimp. Nobody's gonna out-muscle the Bruiser around here!
+
+tagLoreObj_Cronley_NoteA03Name=Bloodstained Note
+tagLoreObj_Cronley_NoteA03Text=Third time this pale-skinned duo in robes, a man and a woman, has shown up at the hideout. The boss says to let them through, so I let them through.{^n}{^n}The whole camp's on edge whenever those two show up. Maybe it's their eyes. That unsettling green glow reminds me of the dead ones.{^n}{^n}Or maybe I'm just agitated because the crystals Cronley stuck in my back seem to vibrate whenever the duo's around; like they're ready to rip loose. The voices I hear when I sleep are already enough to make a man tense. The others told me that they hear them too, but none of us can remember what the whispers say. Boss says it will pass though, that it's just a part of ascending into the ranks of his glorious army. This new dawn of his had damn better be worth it.
+
+tagLoreObj_Cronley_NoteA04Name=Exert from the Annals of Arkovia
+tagLoreObj_Cronley_NoteA04codexTitle=Annals of Arkovia
+tagLoreObj_Cronley_NoteA04Text=It falls upon strange times that a king would abdicate the throne of his own volition. Stranger still is the reason he gave his court. There is no other way to put it. King Rhowan, the third of his line, had been struck by madness. Upon returning from a successful campaign against the barbarian tribes of Agarond's Peak, the King raved about a chance meeting with a weary traveler whom he called Mogdrogen. Rhowan, in his generosity, offered the old man the use of his horse. The man, and here is where the King's tale loses all sense, declined the proposal and, speaking in a low voice that only his Majesty could hear, instead offered Rhowan a warning.{^n}{^n}The old man spurted prophetic lies about the impending collapse of our great nation and the fall of the beacon of the west, Arkovia herself. He implored the King to leave his title, his wealth, his very identity behind. There were some amongst the court who urged Rhowan to see his madness through, greedy heads of Arkovian Houses who saw this tragedy as an opportunity to seize power. The Queen, the shining jewel of Arkovia, wept before her King and begged him to reconsider; but Rhowan was resolute. With a single decree, he shattered the royal line and abandoned his ordained post as King of Arkovia. Word of the King's madness spread quickly among the populace. To my great surprise, some of his subjects followed Rhowan's lead, abandoning their livelihoods to follow their despondent ruler into a life of poverty and lost identity.{^n}{^n}It has been three fortnights since that fateful day. The queen lies dead in her chambers. They say she had died of sorrow, from the loss of her King, but I suspect more clandestine causes. The court has fallen into chaos as the great Houses bicker amongst themselves for the empty throne. With no end in sight to the squabbles and no clear line to the throne, my patron, Laudos Vagra, has called for the formation of an Oligarchy, ruled by the heads of Arkovia's elite.{^n}{^n}No good can come of this. Of that I am certain. These days I cannot, help but wonder if Rhowan's prophecy was a self-fulfilling one. Or perhaps this storm was a longtime coming and we were merely too blind to see it. I fear for Arkovia. I fear for her soul.{^n}{^n}Theodokus Vagra, Scribe of Arkovia
+
+tagLoreObj_Cronley_NoteA05Name=Cronley's Notes - Part 1
+tagLoreObj_Cronley_NoteA05Text=When attacks stopped and the Aetherials sent in their envoys, they knew they had us by the balls. All they had to do was squeeze and any other man would have sung them a tune worthy of the Erulan opera; but they've never contended with Darius Cronley. They came, two of them, humans in robes. Only thing that'd give them away was the eyes. The eyes glowed that sickly aether-green. They offered me a chance to surrender, a chance to live out our lives as vessels and breeders for their growing army. I sent their heads back on spikes. See if those spirits survive that.{^n}{^n}But when they came back again, with new terms, well...then they were speaking my language. I was to be a piece in their grand design, a master of my very own army of aether-empowered humans. All I had to do was to pledge myself to their cause and to plant one of their crystals within the mine. The rest, they said, would be revealed in time.
+
+tagLoreObj_Cronley_NoteA06Name=Cronley's Notes - Part 2
+tagLoreObj_Cronley_NoteA06Text=The Aetherials left. They are headed north to Homestead in order to squash a human resistance orchestrated by the damned Black Legion. I've been left to my own devices, but for one caveat: eradicate Devil's Crossing. It is a task I will relish with great pleasure.  There are so many ways I could squeeze the life out of Bourbon, but unfortunately I'll have to settle for just one. Perhaps after I behead his mangled corpse, I'll shove him full of aether shards and bring him back as a personal servant. Then I can kill him over and over and over again.{^n}{^n}But first I must finish my glorious army. Another batch of aspiring followers is due to arrive within the hour. They have no idea of what suffering and agony is in store for them. I sometimes wish that more would die during the procedure. The failed ones make for such entertaining playthings, their screams echoing through the tunnels. Perhaps today I will have to slit one's throat, just for good fun.
+
+
+
+#AreaC Notes
+tagLoreObj_HiddenWealth_MapName=The Last Will of Marthos Everbrook
+tagLoreObj_HiddenWealth_MapCodexTitle=Will of Everbrook
+tagLoreObj_HiddenWealth_MapText=Here be written the last will and decree of the late Marthos Anthony Everbrook II.{^n}{^n}To my daughter, dearest Lizzy, I leave the farmstead and its surrounding orchards. Let the land, which has blessed our family with harvest for generations, continue to provide for you and your children. And now to my bullheaded sons, Edric and Anthony, you have filled my remaining years with your endless bickering over whom would inherit my fortune. To you, I leave nothing but these words.{^n}{^n}I had the farmhands bury the gold somewhere on the Everbrook lands. You now have but two options: move on with your miserable lives and start anew through backbreaking labor, just as your great grandfather did before you, or squander your youth searching for that which you do not deserve. I trust you will make the right decision.{^n}{^n}*Along the bottom, you can barely make out some scribbled notes in a different handwriting: In the hills, up the road from Thornsbury's. Bring explosives.*
+
+
+
 #Guards
 
 tagNPC_GateGuardA01=Rook ~ Strážce brány
@@ -656,6 +750,10 @@ tagStoreTitle_MerchantA02=Prodejce předmětů
 
 tagNPC_MerchantA03=Luther Graves
 tagStoreTitle_MerchantA03=Pochybný obchodník
+
+tagNPC_MerchantA04=Isaiah Reddan
+tagStoreTitle_MerchantA04A=Zvláštní zboží
+tagStoreTitle_MerchantA04B=Prodejce předmětů
 
 tagNPC_MerchantB01=Tulák Benny
 tagStoreTitle_MerchantB01=Znalec nelegálního zboží
