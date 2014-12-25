@@ -276,6 +276,7 @@ tagNetworkStatusTest=Otestovat
 tagNetworkNoOpts=Nastavení sítě není z důvodu konfigurace ve hře dostupné.{^n}Vrať se prosím do hlavního menu a otevři menu Nastavení.
 tagCloudSaving=Povolit ukládání do cloudu
 tagResetCloud=Smazat data v cloudu
+tagDownloadCloud=Stáhnout uložené pozice z cloudu
 
 tagUPnPCheckFail=Služby UPnP nejsou dostupné, aby bylo možné nakonfigurovat tvůj router pro hostování serveru Grim Dawn. Zkontroluj prosím nastavení svého routeru a povol UPnP, nebo, pokud to není možné, ručně nastav svůj router tak, aby měl otevřený port 27016 pro protokoly UDP a TCP.
 
@@ -407,11 +408,13 @@ tagCharImportProgress=Importování postav z Grim Dawn. Tato operace může trva
 tagCharImportTQCampaign=Postavy z kampaně Grim Dawn
 tagCharImportTQCustom=Postavy z vlastní hry Grim Dawn
 tagCharImportTQXCampaign=Postavy z kampaně Grim Dawn
-tagCharImportTitle=Importovat postavy
+tagCharImportTitle=Importovat postavu
+tagInstancedLoot=Vlastní kořist
 
 tagLobbyLock=Zamčeno na heslo
 tagLobbyDifficulty=Obtížnost
 tagLobbyAutoparty=Automatické sdružování povoleno
+tagLobbyInstancedLoot=Vlastní kořist
 tagLobbyLanguage=Jazyk
 tagLobbyPVP=PvP povoleno
 tagLobbyHardcore=Hardcore povolen
@@ -490,3 +493,5 @@ tagMenuError10=Nepodařilo se připojit k serveru. Režim nebo verze mapy neodp
 tagReportUsageStats=Pomoz nám prosím zlepšit Grim Dawn tím, že budeš pravidelně posílat anonymní systémové a herní statistiky.
 tagImportToSteamCloud=Máš povolené ukládání do Steam cloudu. Chceš importovat existující postavy?
 tagResetCloudWarning=Opravdu chceš smazat všechny postavy a data uložená v cloudovém uložišti?
+tagDownloadCloudWarning=Opravdu chceš stáhnout uložené pozice z cloudového uložiště? Lokálně uložené postavy a data budou přepsány!
+tagWorking=Zpracovávám požadavky...
