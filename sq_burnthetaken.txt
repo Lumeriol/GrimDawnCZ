@@ -1,27 +1,24 @@
 Homestead
-Burn the Taken
-Speak to Witch
-You have encountered a group of survivors who were about to burn a young woman they suspect of being a 'Taken'. You asked to speak with her before they do anything rash.
-Speak to Rallia
-Speak to Hostiles
-Rallia has convinced you that she is not a 'Taken', but you must now convince Nathaniel to let her go.
-Convince Nathaniel to let Rallia go
-Kill Hostiles
-You are convinced that the men trying to burn Rallia alive are paranoid, but they refuse to listen to reason. They have become violent when you suggested letting her go. There is only one way out of this. Nathaniel and his lackeys have to die.
+Upálení posedlého
+Promluv si s čarodejnicí
+Objevil jsi skupinu přeživších, kteří se rozhodli upálit mladou ženu kvůli podezření, že je "posedlá". Požádal jsi o možnost si s ní promluvit předtím, než udělají něco unáhleného.
+Promluv si s Rallií
+Promluv si s nepřáteli
+Rallia tě přesvědčila že není "posedlá", ale nyní musís přesvědčit Nathaniela, aby ji propustil.
+Přesvědči Nathaniela, aby Rallii propustil.
+Zabij nepřátele
+Jsi přesvědčený, že muži rozhodnutí Rallii upálit jsou paranoidní, ale oni odmítají naslouchat.Začali být nenávistní ve chvíli, kdy jsi začal mluvit o jejím propuštění. Z toho vede jen jediná cesta. Nathaniel a jeho poskoci musí zemřít.
 
 
-Kill Bolvis
-Kill Nathaniel
-Kill Vaam
+Zabij Bolvise
+Zabij Nathaniela
+Zabij Vaama
 
-Freed Witch
-You have freed Rallia from her captors, for which she is eternally grateful. Speak to her for a reward.
-
-
-Speak to Rallia
+Osvoboď čarodějku
+Osvobodil jsi Rallii z rukou jejích zajatců, za což ti ne nesmírně vděčná. Promluv si s ní o odměně.
 
 
-
+Promluv si s Rallií
 
 
 
@@ -29,11 +26,14 @@ Speak to Rallia
 
 
 
-Burn Witch
-You have burnt the 'Taken' Rallia, as she deserved. Speak to Nathaniel about the ordeal.
 
 
-Speak to Nathaniel
+
+Upal čarodějku
+Po právu jsi upálil "posedlou" čarodějku Ralii. Promluv si s Nathanielem o tomto martyriu.
+
+
+Promluv si s Nathanielem
 
 
 
