@@ -39,8 +39,8 @@ tagMenuGame10=-
 tagMenuGame11=Mapa
 tagMenuGame12=Obtížnost
 tagMenuGame13=Povolit souboj mezi hráči
-tagDifficultyUnlock01=Odemkl jsi veteránskou úroveň obtížnosti.
-tagDifficultyUnlock02=Odemkl jsi elitní úroveň obtížnosti.
+tagDifficultyUnlock01=Byla odemčena veteránská úroveň obtížnosti.
+tagDifficultyUnlock02=Byla odemčena elitní úroveň obtížnosti.
 tagMenuCreate01=Založit postavu
 tagMenuCreate02=Jméno
 tagMenuCreate03=Muž
@@ -191,7 +191,7 @@ tagKeybind38=Přepnout zobrazování spojence
 tagKeybind39=Přepnout zobrazování skupiny hráčů
 tagKeybind40=Přepínání pozic panelu
 tagKeybind41=Příkaz chatu: Skupina
-tagKeybind42=Příkaz chatu: Říct
+tagKeybind42=Příkaz chatu: Mluvit
 tagKeybind43=Příkaz chatu: Odpovědět
 tagKeybind44=Otáčet kamerou doleva
 tagKeybind45=Otáčet kamerou doprava
@@ -283,7 +283,7 @@ tagUPnPCheckFail=Služby UPnP nejsou dostupné, aby bylo možné nakonfigurovat 
 tagUPnPNotAvailableHelp=UPnP není dostupné.  Grim Dawn nebude schopen automaticky nastavit tvůj router, abys mohl hostit internetový server. Zkontroluj prosím nastavení svého routeru a povol UPnP nebo ručně nastav svůj router tak, aby měl otevřený port 27016 pro protokoly UDP a TCP.
 
 tagUPnPEnabledHelp=UPnP je povoleno.  Není potřeba žádná manuální konfigurace.
-tagUPnPDisabledHelp=UPnP je zakázáno.  Port 27016 musí být otevřený na tvém routeru pro oba protokoly UDP a TCP, pokud chceš hostovat Grim Dawn server.
+tagUPnPDisabledHelp=UPnP je zakázáno.  Port 27016 musí na tvém routeru být otevřený pro oba protokoly UDP a TCP, pokud chceš hostovat Grim Dawn server.
 
 tagUPnPHelp=UPnP je protokol, který umožňuje hře Grim Dawn komunikovat a ovládat tvůj router.  Pro hostování internetového serveru musí být na tvém routeru otevřeny porty.  UPnP umožňuje hře Grim Dawn otevírat tyto porty a zavírat je, pokud je server ukončen, bez nutného manuálního zásahu do konfigurace.
 

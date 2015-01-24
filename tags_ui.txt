@@ -313,7 +313,7 @@ tagCharStatsOA=Útočná schopnost
 tagCharStatsOALast=Poslední zásah:
 tagCharStatsOAHit=Šance na zásah:
 tagCharStatsOACrit=Šance na kritický zásah:
-tagCharStatsOADescription=Vyšší útočná schopnost zvyšuje tvou šanci úspěšně zasáhnout nepřítele útokem nebo kouzlem, uštědřit mu kritický zásah a také zvyšuje zranění uštědřené kritickým zásahem. Tvá útočná schopnost, pokud je nižší než obranná schopnost nepřítele, razantně zvyšuje šanci na to, že se netrefíš. Útočná schopnost je ovlivněna dovednostmi, předměty a rafinovaností.
+tagCharStatsOADescription=Vyšší útočná schopnost zvyšuje tvou šanci úspěšně zasáhnout nepřítele útokem nebo kouzlem, uštědřit mu kritický zásah, a také zvyšuje zranění uštědřené kritickým zásahem. Tvá útočná schopnost, pokud je nižší než obranná schopnost nepřítele, razantně zvyšuje šanci na to, že se netrefíš. Útočná schopnost je ovlivněna dovednostmi, předměty a rafinovaností.
 
 tagCharStatsDAAlert=Obranná schopnost {^b}(?)
 tagCharStatsDA=Obranná schopnost
@@ -881,7 +881,7 @@ tagCaravanItemTransfer=Přesun předmětů
 tagTransferInfo02=Umísti předměty do předávací oblasti, aby byl pašerák schopný je převést mezi tvé další postavy.
 tagCaravanError01=Pro převod tohoto předmětu nemáš dostatek železných mincí.
 tagStorageError01=Nemáš dostatek železných mincí pro nákup dalšího místa v úschovně.
-tagTransferError01=Potřebuješ {%d0} železných mincí ke koupi další místa v úschovně.
+tagTransferError01=Potřebuješ {%d0} železných mincí ke koupi dalšího místa v úschovně.
 tagTransferPurchase01=Chceš zaplatit {%d0} železných mincí za koupi dalšího místa v úschovně?
 tagTransferTab01=1. záložka
 tagTransferTab02=2. záložka

@@ -30,23 +30,23 @@ tagZealot_AncestralSpirit=Rodový duch
 #CreatureAetherial
 
 tagAetherCrystalA01=Aetherický krystal
-tagAetherCrystalA02=Aether Crystal Cluster
-tagAetherCrystalA03=Aether Crytal Formation
+tagAetherCrystalA02=Shluk aetherických krystalů
+tagAetherCrystalA03=Formace aetherických krystalů
 tagAnomalyB01=Zvlněný živel
 tagWindDevil_PoisonA01=Ďábel s jedovatým dechem
 tagAetherObeliskA01=Aetherianský obelisk
 tagAetherObeliskB01=Aetherianský původní obyvatel
 
-tagBossAetherObelisk01=Herald of the Flame
+tagBossAetherObelisk01=Nositel plamenů
 
 tagEnemyAetherialA01=Aetherianský hlídač
 tagEnemyAetherialB01=Aetherianský přízrak
 tagEnemyAetherialC01=Aetherianské zjevení
 
-tagEnemyAetherialAbominationB01=Aetherial Abomination
-tagEnemyAetherialAbominationC01=Fused Terror
+tagEnemyAetherialAbominationB01=Aetherická ohavnost
+tagEnemyAetherialAbominationC01=Smíšený děs
 
-tagAetherialAbominationBoss01=The Amalgamation
+tagAetherialAbominationBoss01=Sloučenina
 
 #CreatureBoar
 
@@ -118,13 +118,13 @@ tagVoidFiendBoss01=Ballog'Nath, Pekelný oheň
 
 tagEnemyChthonianDevourerA01=Chthonský hladovec
 tagEnemyChthonianDevourerB01=Chthonský žrout
-tagEnemyChthonianDevourerB02=Chthonian Gorger
+tagEnemyChthonianDevourerB02=Chthonský polykač
 
 tagChthonianDevourerHeroH01=Nur'Garu, čelisti zapomnění
 tagChthonianDevourerHeroH02=Sargo'Din, hladová tlama
-tagChthonianDevourerHeroH03=Narl'Maash, the Engorged
-tagChthonianDevourerHeroH04=Nye'Kazul, the Maw of Fire
-tagChthonianDevourerHeroH05=Waban'Ak, the Sparkmaw
+tagChthonianDevourerHeroH03=Narl'Maash, hltač
+tagChthonianDevourerHeroH04=Nye'Kazul, ohnivá tlama
+tagChthonianDevourerHeroH05=Waban'Ak, jiskřící tlama
 
 #CreatureDranghoul
 
@@ -184,7 +184,7 @@ tagGhostBoss02=Nomos Dred
 tagGhostBoss03=Laudos Vagra
 tagGhostBoss04=Rhovena Kur
 tagGhostBoss05=Alkamos, Vykonavatel spravedlnosti
-tagGhostBoss06=Wraith of Sorrows
+tagGhostBoss06=Smuteční přízrak
 
 #CreatureGolem
 
@@ -288,7 +288,7 @@ tagEnemyBloodswornMiniBoss01=Salazar, Čepel Ch'thona
 tagEnemyBloodswornMiniBoss02=Bolvar, Vazač krve
 tagEnemyBloodswornMiniBoss03=Zaria, Řezbář
 tagBloodswornBoss01=Pán krve Thalonis
-tagBloodswornBoss02=Karroz, Sigil of Ch'thon
+tagBloodswornBoss02=Karroz, pečetitel Ch'thona
 
 tagEnemyHumanOutlaw_Wightmire_MeleeA01=Odsouzenec ~ poskok
 tagEnemyHumanOutlaw_Wightmire_MeleeB01=Odsouzenec ~ rváč
@@ -375,7 +375,7 @@ tagDermapteranHeroH05=Vildrix ~ Dotčený Prázdnotou
 tagDermapteranBoss01=Velký vezír Lozakal
 tagDermapteranBoss02=Velký vezír Inixil
 tagDermapteranBoss03=Ravna ~ Královna roje
-tagDermapteranBoss04=Vizier Anoxis
+tagDermapteranBoss04=Vezír Anoxis
 
 #CreatureInsectMosquito
 
@@ -419,9 +419,9 @@ tagInsectSwarmHeroH03=Omnol Plíseň ~ Nemocný
 
 #CreatureManticores
 
-tagEnemyManticoreA01=Manticore Whitemane
+tagEnemyManticoreA01=Bělohřívnatá mantikora
 tagEnemyManticoreA02=Černohřívnatá mantikora
-tagEnemyManticoreB01=Manticore Wastestalker
+tagEnemyManticoreB01=Mantikoří marnivý stopař
 tagEnemyManticoreB02=Mantikoří noční stopař
 tagEnemyManticoreC01=Mantikoří alfa samec
 
@@ -456,8 +456,8 @@ tagEnemyPrawnB02=Ostnosrstý kreverak
 tagEnemyPrawnC01=Morový kreverak
 tagEnemyPrawnSummonA01=Kreverak ~ Jeden z mnoha
 
-tagEnemyCavePrawnA01=Pale Cavern Crawler
-tagEnemyCavePrawnB01=Albino Cavern Crawler
+tagEnemyCavePrawnA01=Vybledlý jeskynní podlézavec
+tagEnemyCavePrawnB01=Jeskynní patolízal - albín
 
 tagPrawnHeroH01=Ravacrix, Hladový
 tagPrawnHeroH02=Palacrix, Starodávný
@@ -633,7 +633,7 @@ tagThornedHorrorHeroH06=Rimebark ~ Zmražený
 
 tagThornedHorrorBoss01=Ol' Krvošípek
 
-tagEnemyAetherHorrorA01=Přízrak s aetherickými trny
+tagEnemyAetherHorrorA01=Přízrak s aetherickými ostny
 
 tagAetherHorrorHeroH01=Aetheros
 
@@ -685,9 +685,9 @@ tagTrollCorruptedBoss01=Řezník Harrath
 
 #CreatureUnderdwellers
 
-tagEnemyCaveTrollHalfA01=Trog Blood Drinker
-tagEnemyCaveTrollHalfB01=Trog Flesh Ripper
-tagEnemyCaveTrollHalfB02=Trog Blood Mage
+tagEnemyCaveTrollHalfA01=Krvežíznivý troglodyt
+tagEnemyCaveTrollHalfB01=Masorvoucí troglodyt
+tagEnemyCaveTrollHalfB02=Troglodytí krvavý mág
 tagEnemyCaveGrobleA01=Jeskynní skrček
 tagEnemyCaveGrobleB01=Jeskynní kněz
 tagEnemyCaveTrollB01=Jeskynní zlobr
@@ -716,9 +716,9 @@ tagCavePrawnHeroH01=Terrocrix
 tagCavePrawnHeroH02=Chiricrix ~ Zmrzlý
 tagCavePrawnHeroH03=Blucrix ~ Obránce
 
-tagCaveSpiderBoss01=Ungoliax, Tkadlec melancholie
+tagCaveSpiderBoss01=Ungoliax, Přadlena smutku
 tagCavePrawnBoss01=Ikrix, Mistr krkavců
-tagCaveTrollHalfBoss01=Gollus, the Deepdweller
+tagCaveTrollHalfBoss01=Gollus, Obyvatel hlubin
 
 #CreatureVultures
 
@@ -737,7 +737,7 @@ tagHeroVultureH05=Voidtalon ~ Dotčený Prázdnotou
 tagEnemyWormA01=Zemilam ~ hrabáč
 tagEnemyWormB01=Zemilam ~ hnilobný červ
 
-tagEnemyWormDeepDwellerA01=Deepdweller Grub
+tagEnemyWormDeepDwellerA01=Hlubinná larva
 
 tagWormHeroH01=Gravner, Požírač žluči
 tagWormHeroH02=Zemilam ~ Elektrizující
@@ -846,7 +846,7 @@ tagBossTheWarden01=Warden
 tagRace001=Nemrtvý
 tagRace002=Zvíře
 tagRace003=Aetherianský bojovník
-tagRace004=Ch'thonský bojovník
+tagRace004=Chthonský bojovník
 tagRace005=Aetherem posedlý bojovník
 tagRace006=Krvepřísežník
 tagRace007=Nadpřirozená bytost
@@ -861,7 +861,7 @@ tagRace015=Pavoukovec
 tagRace001P=Nemrtví
 tagRace002P=Zvířata
 tagRace003P=Aetherianští bojovníci
-tagRace004P=Ch'thonští bojovníci
+tagRace004P=Chthonští bojovníci
 tagRace005P=Aetherem posedlí bojovníci
 tagRace006P=Krvepřísežníci
 tagRace007P=Nadpřirozené bytosti
