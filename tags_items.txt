@@ -26,10 +26,10 @@ tagWeaponSwordB003=[ms]přízračný dlouhý meč
 tagWeaponSwordB004=[ms]nabroušený dlouhý meč
 tagWeaponSwordB005=[ms]nabroušený široký meč
 tagWeaponSwordB006=[ms]nabroušený dobyvatelský meč
-tagWeaponSwordB007=Malkadarr's Deathblade
-tagWeaponSwordB008=Manticore Longsword
-tagWeaponSwordB009=Bonecarver
-tagWeaponSwordB010=Boneblade
+tagWeaponSwordB007=$[fs]Malkadarrova smrtící čepel
+tagWeaponSwordB008=[ms]mantikoří dlouhý meč
+tagWeaponSwordB009=[ms]kostěný kráječ
+tagWeaponSwordB010=[fs]kostěná čepel
 
 tagWeaponSwordC001=Bleskosvod
 tagWeaponSwordC002=Ohařský skus
@@ -78,7 +78,7 @@ tagWeaponBluntA006=[ms]obušek
 tagWeaponBluntA007=[ms]ostrý palcát
 tagWeaponBluntA008=[ms]kyj
 tagWeaponBluntA009=[ns]válečné kladivo
-tagWeaponBluntA010=Warmace
+tagWeaponBluntA010=[ms]válečný palcát
 
 tagWeaponBluntB000=[ms]pochodeň
 tagWeaponBluntB001=[ms]Wardenův rozsudek
@@ -377,9 +377,9 @@ tagWeaponCaster1hB003=[fs]mistrova kouzelná čepel
 tagWeaponCaster1hB004=[fs]adeptova hůlka
 tagWeaponCaster1hB005=[ns]adeptovo žezlo
 tagWeaponCaster1hB006=[ns]mistrovo žezlo
-tagWeaponCaster1hB007=Witch's Spellblade
-tagWeaponCaster1hB008=Boneshiv
-tagWeaponCaster1hB009=Bonespike
+tagWeaponCaster1hB007=[fs]čarodějnická kouzelná čepel
+tagWeaponCaster1hB008=[ms]kostěný nožík
+tagWeaponCaster1hB009=[ms]kostěný bodec
 
 tagWeaponCaster1hC001=Spalující nenávist
 tagWeaponCaster1hC002=Hůlka kouzelného ohně
@@ -449,12 +449,12 @@ tagShieldB004=[ms]přízračný válečný štít
 tagShieldB005=[ms]bitevní štít
 tagShieldB006=[ms]taras
 tagShieldB007=[ms]výsostný štít
-tagShieldB008=Trogg Bonewall
-tagShieldB009=Vampiric Bonewall
+tagShieldB008=[fs]troglodytova kostěná zeď
+tagShieldB009=[fs]upírská kostěná zeď
 
 tagShieldC001=Obránce Ďáblova průsmyku
-tagShieldC002=Spiriteater Bulwark
-tagShieldC002Desc="Forged by necromantic ritual as a bulwark against vile spirits."
+tagShieldC002=Hradba požírače duchů
+tagShieldC002Desc="Kovaná nekromantskými rituály jako obrana proti odporným duchům."
 tagShieldC003=Gardistův ochránce
 tagShieldC004=Lamač plamenů
 tagShieldC005=Ďáblův úsměv
@@ -468,7 +468,7 @@ tagShieldC010=Templářova důvěra
 tagShieldC011=Štít vykoupení
 tagShieldC012=Zrádcův chránič
 tagShieldC013=Elementum
-tagShieldC013Desc="Forged by arcane smiths to channel the raw forces of the elements."
+tagShieldC013Desc="Ukovaný tajemnými kováři k usměrnění surových elementárních sil."
 
 tagShieldD001=Štít z masa
 tagShieldD001Desc="Nekromantický štít vytvarovaný z hrudní dutiny nešťastného rolníka."
@@ -521,7 +521,7 @@ tagFocusB004A=Zdobená kniha kouzel
 tagFocusB004B=Okultní lebka
 tagFocusB005A=Zdobený tlustopis
 tagFocusB005B=Okultní podobizna
-tagFocusB006=Witch's Effigy
+tagFocusB006=Podobizna čarodějnice
 
 tagFocusC001=Demence
 tagFocusC002=Zdrcující vůle
@@ -660,8 +660,8 @@ tagRare=vzácný
 tagEpic=epický
 tagLegend=legendární
 
-tagSoulbound=Soulbound
-tagDestroySoulbound=Destroy soulbound item?
+tagSoulbound=Předmět svázaný s duší
+tagDestroySoulbound=Zničit předmět svázaný s tvou duší?
 
 #ArmorHead
 
@@ -1080,8 +1080,8 @@ tagRingB002=[fs]Cronleyova pečeť
 tagRingB002Desc="Potřísněná krví jeho obětí, nyní doplněná o jeho vlastní."
 tagRingB003=Skinnerův rodinný pečetní prsten
 tagRingB003Desc="Pravděpodobně nejcennější předmět, který rodinka může vůbec vlastnit."
-tagRingB004=Gollus' Ring
-tagRingB004Desc="He really liked that ring."
+tagRingB004=Gollův prsten
+tagRingB004Desc="Tenhle prsten měl opravdu rád."
 
 tagRingC001=Morkový kroužek
 tagRingC002=Obsidiánový pečetní prsten
@@ -1223,7 +1223,7 @@ tagMedalA007=[fs]císařská hvězda
 
 tagMedalB001=[fs]lovcova stuha
 tagMedalB002=[ms]lovcův odznak
-tagMedalB003=Ikrix Scale
+tagMedalB003=$[fs]Ikrixina šupina
 
 tagMedalC001=Znak zabijáka bestií
 tagMedalC002=Odznak houževnatosti
@@ -1371,12 +1371,12 @@ tagBlueprint_WeaponB021=Plánek: Šrapnelová pistole
 tagBlueprint_WeaponB022=Plánek: Adeptův ostrý palcát
 tagBlueprint_WeaponB023=Plánek: Adeptův kropáč
 tagBlueprint_WeaponB024=Plánek: Adeptův obroubený palcát
-tagBlueprint_WeaponB025=Blueprint: Adept's Dagger
-tagBlueprint_WeaponB026=Blueprint: Adept's Spellblade
-tagBlueprint_WeaponB027=Blueprint: Master's Spellblade
-tagBlueprint_WeaponB028=Blueprint: Adept's Wand
-tagBlueprint_WeaponB029=Blueprint: Adept's Scepter
-tagBlueprint_WeaponB030=Blueprint: Master's Scepter
+tagBlueprint_WeaponB025=Plánek: Adeptova dýka
+tagBlueprint_WeaponB026=Plánek: Adeptova kouzelná čepel
+tagBlueprint_WeaponB027=Plánek: Mistrova kouzelná čepel
+tagBlueprint_WeaponB028=Plánek: Adeptova hůlka
+tagBlueprint_WeaponB029=Plánek: Adeptovo žezlo
+tagBlueprint_WeaponB030=Plánek: Mistrovo žezlo
 
 tagBlueprint_WeaponC001=Plánek: Pronásledovatel čarodějnic
 tagBlueprint_WeaponC002=Plánek: Oko
@@ -1520,7 +1520,7 @@ tagRelicD018Desc="Podívej se na ně, na ty malé loutky. Všechny se pohybují 
 tagRelicD019=Oleronův hněv
 tagRelicD019Desc="Krev... bolest... smrt. Chceš snad popřít válečné bubnování?"
 tagRelicD020=Menhirova bašta
-tagRelicD020Desc="Země nebude trpět ani zkažené duše, ani odporné krev pohanů. Povstaň na její obranu a Cairn povstane s tebou."
+tagRelicD020Desc="Země nebude trpět ani zkažené duše, ani odpornou krev pohanů. Povstaň na její obranu a Cairn povstane s tebou."
 
 
 #Crafting
@@ -1687,8 +1687,8 @@ tagConsumableA20=Mast z mateří kašičky
 tagConsumableA20Desc="Uklidňující odvar z koncentrované mateří kašičky."
 tagConsumableA21=Nebeská zhouba
 tagConsumableA21Desc="Elixír polobohů, kteří chrání smrtelníky před božskou odplatou."
-tagConsumableA22=Aether Cluster
-tagConsumableA22Desc="A large cluster of Aether crystals, humming with strange energy."
+tagConsumableA22=Svazek Aetherů
+tagConsumableA22Desc="Velký svazek Aetherických krystalů, z nichž se ozývvá podivná energie."
 
 
 #ItemNote
@@ -1714,453 +1714,453 @@ tagEnchantTestDesc="A test description."^w^n(Used in rings)
 tagEnchantA001A=Mantikoří jed I
 tagEnchantA001B=Mantikoří jed II
 tagEnchantA001C=Mantikoří jed III
-tagEnchantA001Desc="Mocný toxin extrahovaný z Mantikor, který spálí pokožku i při slabém doteku."^w^n(může vylepšit všechny jednoruční zbraně, štíty a příruční předměty)
+tagEnchantA001Desc="Mocný toxin extrahovaný z Mantikor, který spálí pokožku i při slabém doteku."^w^n(Použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
 
-tagEnchantA002A=Potent Manticore Venom I
-tagEnchantA002B=Potent Manticore Venom II
-tagEnchantA002C=Potent Manticore Venom III
-tagEnchantA002Desc="Powerful toxin extracted from Manticores that burns the skin on contact."^w^n(Applied to all two-handed weapons)
+tagEnchantA002A=Silný mantikoří jed I
+tagEnchantA002B=Silný mantikoří jed II
+tagEnchantA002C=Silný mantikoří jed III
+tagEnchantA002Desc="Mocný toxin extrahovaný z Mantikor, který spálí pokožku i při slabém doteku."^w^n(Použitelné na všechny obouruční zbraně)
 
-tagEnchantA003A=Voidbeast Powder I
-tagEnchantA003B=Voidbeast Powder II
-tagEnchantA003C=Voidbeast Powder III
-tagEnchantA003Desc="Fine powder derived from the dried remains of Chthonic beasts."^w^n(Applied to all one-handed weapons, shields and off-hands)
+tagEnchantA003A=Prášek bezduché příšery I
+tagEnchantA003B=Prášek bezduché příšery II
+tagEnchantA003C=Prášek bezduché příšery III
+tagEnchantA003Desc="Jemný prášek pocházející z vyschlých ostatků Chthonické příšery."^w^n(Použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
 
-tagEnchantA004A=Potent Voidbeast Powder I
-tagEnchantA004B=Potent Voidbeast Powder II
-tagEnchantA004C=Potent Voidbeast Powder III
-tagEnchantA004Desc="Fine powder derived from the dried remains of Chthonic beasts."^w^n(Applied to all two-handed weapons)
+tagEnchantA004A=Silný prášek bezduché příšery I
+tagEnchantA004B=Silný prášek bezduché příšery II
+tagEnchantA004C=Silný prášek bezduché příšery III
+tagEnchantA004Desc="Jemný prášek pocházející z vyschlých ostatků Chthonické příšery."^w^n(Použitelné na všechny obouruční zbraně)
 
-tagEnchantA005A=Blacksteel Powder I
-tagEnchantA005B=Blacksteel Powder II
-tagEnchantA005C=Blacksteel Powder III
-tagEnchantA005Desc="Secret mix of iron and various minerals known only to the Black Legion."^w^n(Applied to all one-handed weapons, shields and off-hands)
+tagEnchantA005A=Prášek z černé oceli I
+tagEnchantA005B=Prášek z černé oceli II
+tagEnchantA005C=Prášek z černé oceli III
+tagEnchantA005Desc="Tajná směs železa a různých minerálů známých pouze Černou legií."^w^n(Použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
 
-tagEnchantA006A=Potent Blacksteel Powder I
-tagEnchantA006B=Potent Blacksteel Powder II
-tagEnchantA006C=Potent Blacksteel Powder III
-tagEnchantA006Desc="Secret mix of iron and various minerals known only to the Black Legion."^w^n(Applied to all two-handed weapons)
+tagEnchantA006A=Silný prášek z černé oceli I
+tagEnchantA006B=Silný prášek z černé oceli II
+tagEnchantA006C=Silný prášek z černé oceli III
+tagEnchantA006Desc="Tajná směs železa a různých minerálů známých pouze Černou legií."^w^n(Použitelné na všechny obouruční zbraně)
 
 tagEnchantA007A=Aether Dust I
 tagEnchantA007B=Aether Dust II
 tagEnchantA007C=Aether Dust III
-tagEnchantA007Desc="Powder derived from the remains of an Aetherial exposed to concentrated doses of salt."^w^n(Applied to all one-handed weapons, shields and off-hands)
+tagEnchantA007Desc="Powder derived from the remains of an Aetherial exposed to concentrated doses of salt."^w^n(Použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
 
-tagEnchantA008A=Potent Aether Dust I
-tagEnchantA008B=Potent Aether Dust II
-tagEnchantA008C=Potent Aether Dust III
-tagEnchantA008Desc="Powder derived from the remains of an Aetherial exposed to concentrated doses of salt."^w^n(Applied to all two-handed weapons)
+tagEnchantA008A=Silný Aether Dust I
+tagEnchantA008B=Silný Aether Dust II
+tagEnchantA008C=Silný Aether Dust III
+tagEnchantA008Desc="Powder derived from the remains of an Aetherial exposed to concentrated doses of salt."^w^n(Použitelné na všechny obouruční zbraně)
 
 tagEnchantA009A=Arkovian Rose Powder I
 tagEnchantA009B=Arkovian Rose Powder II
 tagEnchantA009C=Arkovian Rose Powder III
-tagEnchantA009Desc="Powder derived from a vibrant red flower known to grow only high up in the peaks of Old Arkovia."^w^n(Applied to rings and amulets)
+tagEnchantA009Desc="Powder derived from a vibrant red flower known to grow only high up in the peaks of Old Arkovia."^w^n(Použitelné na prsteny a amulety)
 
 tagEnchantA011A=Slithweed Powder I
 tagEnchantA011B=Slithweed Powder II
 tagEnchantA011C=Slithweed Powder III
-tagEnchantA011Desc="Foul-smelling powder derived from a weed found commonly around swamps and refuse."^w^n(Applied to rings and amulets)
+tagEnchantA011Desc="Foul-smelling powder derived from a weed found commonly around swamps and refuse."^w^n(Použitelné na prsteny a amulety)
 
 tagEnchantA012A=Stormtail Viper Venom I
 tagEnchantA012B=Stormtail Viper Venom II
 tagEnchantA012C=Stormtail Viper Venom III
-tagEnchantA012Desc="Powder that sparks with energy, carefully extracted from the venom of a Stormtail Viper."^w^n(Applied to rings and amulets)
+tagEnchantA012Desc="Powder that sparks with energy, carefully extracted from the venom of a Stormtail Viper."^w^n(Použitelné na prsteny a amulety)
 
 tagEnchantA013A=Arkovian Bonemeal I
 tagEnchantA013B=Arkovian Bonemeal II
 tagEnchantA013C=Arkovian Bonemeal III
-tagEnchantA013Desc="Crushed bones from the cursed Arkovians, made safe to handle by Rover elders."^w^n(Applied to all one-handed weapons, shields and off-hands)
+tagEnchantA013Desc="Crushed bones from the cursed Arkovians, made safe to handle by Rover elders."^w^n(Použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
 
 tagEnchantA014A=Potent Arkovian Bonemeal I
 tagEnchantA014B=Potent Arkovian Bonemeal II
 tagEnchantA014C=Potent Arkovian Bonemeal III
-tagEnchantA014Desc="Crushed bones from the cursed Arkovians, made safe to handle by Rover elders."^w^n(Applied to all two-handed weapons)
+tagEnchantA014Desc="Crushed bones from the cursed Arkovians, made safe to handle by Rover elders."^w^n(Použitelné na všechny obouruční zbraně)
 
 tagEnchantA015A=Troll Wart Powder I
 tagEnchantA015B=Troll Wart Powder II
 tagEnchantA015C=Troll Wart Powder III
-tagEnchantA015Desc="Powder derived from the warts of ancient trolls. Should only be handled with gloves."^w^n(Applied to all one-handed weapons, shields and off-hands)
+tagEnchantA015Desc="Powder derived from the warts of ancient trolls. Should only be handled with gloves."^w^n(Použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
 
 tagEnchantA016A=Potent Troll Wart Powder I
 tagEnchantA016B=Potent Troll Wart Powder II
 tagEnchantA016C=Potent Troll Wart Powder III
-tagEnchantA016Desc="Powder derived from the warts of ancient trolls. Should only be handled with gloves."^w^n(Applied to all two-handed weapons)
+tagEnchantA016Desc="Powder derived from the warts of ancient trolls. Should only be handled with gloves."^w^n(Použitelné na všechny obouruční zbraně)
 
 tagEnchantA017A=Boneback Spine I
 tagEnchantA017B=Boneback Spine II
 tagEnchantA017C=Boneback Spine III
-tagEnchantA017Desc="Coarse powder derived from the spines of Boneback rats."^w^n(Applied to rings and amulets)
+tagEnchantA017Desc="Coarse powder derived from the spines of Boneback rats."^w^n(Použitelné na prsteny a amulety)
 
 tagEnchantA018A=Slith Venom I
 tagEnchantA018B=Slith Venom II
 tagEnchantA018C=Slith Venom III
-tagEnchantA018Desc="Powder extracted from the venomous saliva of Slith matriarchs."^w^n(Applied to rings and amulets)
+tagEnchantA018Desc="Powder extracted from the venomous saliva of Slith matriarchs."^w^n(Použitelné na prsteny a amulety)
 
 tagEnchantA019A=Gazer Eye I
 tagEnchantA019B=Gazer Eye II
 tagEnchantA019C=Gazer Eye III
-tagEnchantA019Desc="Powder derived from the crushed eyes of Aetherial Gazers."^w^n(Applied to rings and amulets)
+tagEnchantA019Desc="Powder derived from the crushed eyes of Aetherial Gazers."^w^n(Použitelné na prsteny a amulety)
 
 tagEnchantA020A=Corpsefiend Tentacle I
 tagEnchantA020B=Corpsefiend Tentacle II
 tagEnchantA020C=Corpsefiend Tentacle III
-tagEnchantA020Desc="The powder continues to shift within the pouch, as if it were still alive."^w^n(Applied to rings and amulets)
+tagEnchantA020Desc="The powder continues to shift within the pouch, as if it were still alive."^w^n(Použitelné na prsteny a amulety)
 
 tagEnchantA021A=Voidvine Powder I
 tagEnchantA021B=Voidvine Powder II
 tagEnchantA021C=Voidvine Powder III
-tagEnchantA021Desc="Powder derived from a vine found spreading aggressively throughout the Chthonic Void."^w^n(Applied to all one-handed weapons, shields and off-hands)
+tagEnchantA021Desc="Powder derived from a vine found spreading aggressively throughout the Chthonic Void."^w^n(Použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
 
-tagEnchantA022A=Potent Voidvine Powder I
-tagEnchantA022B=Potent Voidvine Powder II
-tagEnchantA022C=Potent Voidvine Powder III
-tagEnchantA022Desc="Powder derived from a vine found spreading aggressively throughout the Chthonic Void."^w^n(Applied to all two-handed weapons)
+tagEnchantA022A=Silný Voidvine Powder I
+tagEnchantA022B=Silný Voidvine Powder II
+tagEnchantA022C=Silný Voidvine Powder III
+tagEnchantA022Desc="Powder derived from a vine found spreading aggressively throughout the Chthonic Void."^w^n(Použitelné na všechny obouruční zbraně)
 
 tagEnchantA023A=Stonetusk Hoof I
 tagEnchantA023B=Stonetusk Hoof II
 tagEnchantA023C=Stonetusk Hoof III
-tagEnchantA023Desc="Powder derived from the crushed hoof of a Stonetusk boar, a process which involves many blows with a hefty sledge."^w^n(Applied to all one-handed weapons, shields and off-hands)
+tagEnchantA023Desc="Powder derived from the crushed hoof of a Stonetusk boar, a process which involves many blows with a hefty sledge."^w^n(Použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
 
-tagEnchantA024A=Potent Stonetusk Hoof I
-tagEnchantA024B=Potent Stonetusk Hoof II
-tagEnchantA024C=Potent Stonetusk Hoof III
-tagEnchantA024Desc="Powder derived from the crushed hoof of a Stonetusk boar, a process which involves many blows with a hefty sledge."^w^n(Applied to all two-handed weapons)
+tagEnchantA024A=Silný Stonetusk Hoof I
+tagEnchantA024B=Silný Stonetusk Hoof II
+tagEnchantA024C=Silný Stonetusk Hoof III
+tagEnchantA024Desc="Powder derived from the crushed hoof of a Stonetusk boar, a process which involves many blows with a hefty sledge."^w^n(Použitelné na všechny obouruční zbraně)
 
 tagEnchantA025A=Dermapteran Chitin I
 tagEnchantA025B=Dermapteran Chitin II
 tagEnchantA025C=Dermapteran Chitin III
-tagEnchantA025Desc="Powder derived from Dermapteran armor plates, after they go through an extensive acid treatment."^w^n(Applied to all one-handed weapons, shields and off-hands)
+tagEnchantA025Desc="Powder derived from Dermapteran armor plates, after they go through an extensive acid treatment."^w^n(Použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
 
-tagEnchantA026A=Potent Dermapteran Chitin I
-tagEnchantA026B=Potent Dermapteran Chitin II
-tagEnchantA026C=Potent Dermapteran Chitin III
-tagEnchantA026Desc="Powder derived from Dermapteran armor plates, after they go through an extensive acid treatment."^w^n(Applied to all two-handed weapons)
+tagEnchantA026A=Silný Dermapteran Chitin I
+tagEnchantA026B=Silný Dermapteran Chitin II
+tagEnchantA026C=Silný Dermapteran Chitin III
+tagEnchantA026Desc="Powder derived from Dermapteran armor plates, after they go through an extensive acid treatment."^w^n(Použitelné na všechny obouruční zbraně)
 
 tagEnchantA027A=Raincaller Powder I
 tagEnchantA027B=Raincaller Powder II
 tagEnchantA027C=Raincaller Powder III
-tagEnchantA027Desc="Folktales speak of a sorcerous powder which, when thrown upon an open flame by the village shaman, will summon rain within a fortnight."^w^n(Applied to all one-handed weapons, shields and off-hands)
+tagEnchantA027Desc="Folktales speak of a sorcerous powder which, when thrown upon an open flame by the village shaman, will summon rain within a fortnight."^w^n(Použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
 
-tagEnchantA028A=Potent Raincaller Powder I
-tagEnchantA028B=Potent Raincaller Powder II
-tagEnchantA028C=Potent Raincaller Powder III
-tagEnchantA028Desc="Folktales speak of a sorcerous powder which, when thrown upon an open flame by the village shaman, will summon rain within a fortnight."^w^n(Applied to all two-handed weapons)
+tagEnchantA028A=Silný Raincaller Powder I
+tagEnchantA028B=Silný Raincaller Powder II
+tagEnchantA028C=Silný Raincaller Powder III
+tagEnchantA028Desc="Folktales speak of a sorcerous powder which, when thrown upon an open flame by the village shaman, will summon rain within a fortnight."^w^n(Použitelné na všechny obouruční zbraně)
 
 tagEnchantA029A=Divine Flame I
 tagEnchantA029B=Divine Flame II
 tagEnchantA029C=Divine Flame II
-tagEnchantA029Desc="Powder used by Kymon's Chosen during ceremonies. When thrown upon a brazier, it erupts in sparking embers. "^w^n(Applied to rings and amulets)
+tagEnchantA029Desc="Powder used by Kymon's Chosen during ceremonies. When thrown upon a brazier, it erupts in sparking embers. "^w^n(Použitelné na prsteny a amulety)
 
 tagEnchantA030A=Blessed Ashes I
 tagEnchantA030B=Blessed Ashes II
 tagEnchantA030C=Blessed Ashes III
-tagEnchantA030Desc="Ashes from the remains of a fallen member of Kymon's Chosen."^w^n(Applied to rings and amulets)
+tagEnchantA030Desc="Ashes from the remains of a fallen member of Kymon's Chosen."^w^n(Použitelné na prsteny a amulety)
 
 tagEnchantA031A=Consecrated Silver I
 tagEnchantA031B=Consecrated Silver II
 tagEnchantA031C=Consecrated Silver III
-tagEnchantA031Desc="Silver consecrated in the divine flame to combat the wretched Chthonians."^w^n(Applied to rings and amulets)
+tagEnchantA031Desc="Silver consecrated in the divine flame to combat the wretched Chthonians."^w^n(Použitelné na prsteny a amulety)
 
 tagEnchantA032A=Ritual Salts I
 tagEnchantA032B=Ritual Salts II
 tagEnchantA032C=Ritual Salts III
-tagEnchantA032Desc="Salts used in necromantic rituals, often to outline the ritual circle and ward it off from restless spirits."^w^n(Applied to rings and amulets)
+tagEnchantA032Desc="Salts used in necromantic rituals, often to outline the ritual circle and ward it off from restless spirits."^w^n(Použitelné na prsteny a amulety)
 
 tagEnchantA033A=Necrotic Flesh I
 tagEnchantA033B=Necrotic Flesh II
 tagEnchantA033C=Necrotic Flesh III
-tagEnchantA033Desc="Powder derived from the flesh of the long-deceased, used to power necromantic rituals."^w^n(Applied to rings and amulets)
+tagEnchantA033Desc="Powder derived from the flesh of the long-deceased, used to power necromantic rituals."^w^n(Použitelné na prsteny a amulety)
 
 tagEnchantA034A=Mortal Coil I
 tagEnchantA034B=Mortal Coil II
 tagEnchantA034C=Mortal Coil III
-tagEnchantA034Desc="Essence of restless spirits, condensed into physical form by forbidden rituals."^w^n(Applied to rings and amulets)
+tagEnchantA034Desc="Essence of restless spirits, condensed into physical form by forbidden rituals."^w^n(Použitelné na prsteny a amulety)
 
 tagEnchantA035A=Winterbloom Powder I
 tagEnchantA035B=Winterbloom Powder II
 tagEnchantA035C=Winterbloom Powder III
-tagEnchantA035Desc="Powder from a pale blue flower strangely found blooming only during the harsh winter months."^w^n(Applied to all one-handed weapons, shields and off-hands)
+tagEnchantA035Desc="Powder from a pale blue flower strangely found blooming only during the harsh winter months."^w^n(Použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
 
-tagEnchantA036A=Potent Winterbloom Powder I
-tagEnchantA036B=Potent Winterbloom Powder II
-tagEnchantA036C=Potent Winterbloom Powder III
-tagEnchantA036Desc="Powder from a pale blue flower strangely found blooming only during the harsh winter months."^w^n(Applied to all two-handed weapons)
+tagEnchantA036A=Silný Winterbloom Powder I
+tagEnchantA036B=Silný Winterbloom Powder II
+tagEnchantA036C=Silný Winterbloom Powder III
+tagEnchantA036Desc="Powder from a pale blue flower strangely found blooming only during the harsh winter months."^w^n(Použitelné na všechny obouruční zbraně)
 
 
 tagEnchantB001A=Ulgrim's Guile I
 tagEnchantB001B=Ulgrim's Guile II
-tagEnchantB001BC=Ulgrim's Guile III
-tagEnchantB001Desc="Nobody knows for sure what the First Blade of the Emperor combines to create this sorcerous powder, but none can question the results."^w^n(Applied to all one-handed weapons, shields and off-hands)
+tagEnchantB001C=Ulgrim's Guile III
+tagEnchantB001Desc="Nobody knows for sure what the First Blade of the Emperor combines to create this sorcerous powder, but none can question the results."^w^n(Použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
 
-tagEnchantB002A=Potent Ulgrim's Guile I
-tagEnchantB002B=Potent Ulgrim's Guile II
-tagEnchantB002BC=Potent Ulgrim's Guile III
-tagEnchantB002Desc="Nobody knows for sure what the First Blade of the Emperor combines to create this sorcerous powder, but none can question the results."^w^n(Applied to all two-handed weapons)
+tagEnchantB002A=Silný Ulgrim's Guile I
+tagEnchantB002B=Silný Ulgrim's Guile II
+tagEnchantB002C=Silný Ulgrim's Guile III
+tagEnchantB002Desc="Nobody knows for sure what the First Blade of the Emperor combines to create this sorcerous powder, but none can question the results."^w^n(Použitelné na všechny obouruční zbraně)
 
 tagEnchantB003A=Creed's Cunning I
 tagEnchantB003B=Creed's Cunning II
-tagEnchantB003BC=Creed's Cunning III
-tagEnchantB003Desc="The inquisitor's powder, given only to his most trusted allies, sparks with arcane energy."^w^n(Applied to all one-handed weapons, shields and off-hands)
+tagEnchantB003C=Creed's Cunning III
+tagEnchantB003Desc="The inquisitor's powder, given only to his most trusted allies, sparks with arcane energy."^w^n(Použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
 
-tagEnchantB004A=Potent Creed's Cunning I
-tagEnchantB004B=Potent Creed's Cunning II
-tagEnchantB004BC=Potent Creed's Cunning III
-tagEnchantB004Desc="The inquisitor's powder, given only to his most trusted allies, sparks with arcane energy."^w^n(Applied to all two-handed weapons)
+tagEnchantB004A=Silný Creed's Cunning I
+tagEnchantB004B=Silný Creed's Cunning II
+tagEnchantB004C=Silný Creed's Cunning III
+tagEnchantB004Desc="The inquisitor's powder, given only to his most trusted allies, sparks with arcane energy."^w^n(Použitelné na všechny obouruční zbraně)
 
 tagEnchantB005A=Oleron's Fervor I
 tagEnchantB005B=Oleron's Fervor II
-tagEnchantB005BC=Oleron's Fervor III
-tagEnchantB005Desc="Some Black Legion troops shout the war god's name as they charge into battle. This enchantment, given only to officers, was named in honor of the legion's patron deity."^w^n(Applied to all one-handed weapons, shields and off-hands)
+tagEnchantB005C=Oleron's Fervor III
+tagEnchantB005Desc="Some Black Legion troops shout the war god's name as they charge into battle. This enchantment, given only to officers, was named in honor of the legion's patron deity."^w^n(Použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
 
 tagEnchantB006A=Potent Oleron's Fervor I
 tagEnchantB006B=Potent Oleron's Fervor II
-tagEnchantB006BC=Potent Oleron's Fervor III
-tagEnchantB006Desc="Some Black Legion troops shout the war god's name as they charge into battle. This enchantment, given only to officers, was named in honor of the legion's patron deity."^w^n(Applied to all two-handed weapons)
+tagEnchantB006C=Potent Oleron's Fervor III
+tagEnchantB006Desc="Some Black Legion troops shout the war god's name as they charge into battle. This enchantment, given only to officers, was named in honor of the legion's patron deity."^w^n(Použitelné na všechny obouruční zbraně)
 
 tagEnchantB007A=Aetherstorm Powder I
 tagEnchantB007B=Aetherstorm Powder II
-tagEnchantB007BC=Aetherstorm Powder III
-tagEnchantB007Desc="Black Legion mages believe that the best way to combat the enemy is to use their power against them. This powder is a rare example where such experiments were sanctioned."^w^n(Applied to all one-handed weapons, shields and off-hands)
+tagEnchantB007C=Aetherstorm Powder III
+tagEnchantB007Desc="Black Legion mages believe that the best way to combat the enemy is to use their power against them. This powder is a rare example where such experiments were sanctioned."^w^n(Použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
 
 tagEnchantB008A=Potent Aetherstorm Powder I
 tagEnchantB008B=Potent Aetherstorm Powder II
-tagEnchantB008BC=Potent Aetherstorm Powder III
-tagEnchantB008Desc="Black Legion mages believe that the best way to combat the enemy is to use their power against them. This powder is a rare example where such experiments were sanctioned."^w^n(Applied to all two-handed weapons)
+tagEnchantB008C=Potent Aetherstorm Powder III
+tagEnchantB008Desc="Black Legion mages believe that the best way to combat the enemy is to use their power against them. This powder is a rare example where such experiments were sanctioned."^w^n(Použitelné na všechny obouruční zbraně)
 
 tagEnchantB009A=Essence of Ch'thon I
 tagEnchantB009B=Essence of Ch'thon II
-tagEnchantB009BC=Essence of Ch'thon III
-tagEnchantB009Desc="Weapons coated with the entrails of Chthonian beings often become warped and unrecognizable, but in doing so capture the essence of the void itself."^w^n(Applied to all one-handed weapons, shields and off-hands)
+tagEnchantB009C=Essence of Ch'thon III
+tagEnchantB009Desc="Weapons coated with the entrails of Chthonian beings often become warped and unrecognizable, but in doing so capture the essence of the void itself."^w^n(Použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
 
 tagEnchantB010A=Potent Essence of Ch'thon I
 tagEnchantB010B=Potent Essence of Ch'thon II
-tagEnchantB010BC=Potent Essence of Ch'thon III
-tagEnchantB010Desc="Weapons coated with the entrails of Chthonian beings often become warped and unrecognizable, but in doing so capture the essence of the void itself."^w^n(Applied to all two-handed weapons)
+tagEnchantB010C=Potent Essence of Ch'thon III
+tagEnchantB010Desc="Weapons coated with the entrails of Chthonian beings often become warped and unrecognizable, but in doing so capture the essence of the void itself."^w^n(Použitelné na všechny obouruční zbraně)
 
 tagEnchantB011A=Rhowan's Wisdom I
 tagEnchantB011B=Rhowan's Wisdom II
-tagEnchantB011BC=Rhowan's Wisdom III
-tagEnchantB011Desc="Rhowan, the last king of Arkovia and founder of the Rhowari, represents wisdom among the Rovers. This enchantment was named in his honor."^w^n(Applied to rings and amulets)
+tagEnchantB011C=Rhowan's Wisdom III
+tagEnchantB011Desc="Rhowan, the last king of Arkovia and founder of the Rhowari, represents wisdom among the Rovers. This enchantment was named in his honor."^w^n(Použitelné na prsteny a amulety)
 
 tagEnchantB012A=Mogdrogen's Sanctity I
 tagEnchantB012B=Mogdrogen's Sanctity II
-tagEnchantB012BC=Mogdrogen's Sanctity III
-tagEnchantB012Desc="Legends speak of a time when Mogdrogen, the beast god, made a pact with Rhowan that no animal shall harm him or his people for as long as they never lifts a blade. Unfortunately aether-afflicted animals do not seem to share this sentiment."^w^n(Applied to rings and amulets)
+tagEnchantB012C=Mogdrogen's Sanctity III
+tagEnchantB012Desc="Legends speak of a time when Mogdrogen, the beast god, made a pact with Rhowan that no animal shall harm him or his people for as long as they never lifts a blade. Unfortunately aether-afflicted animals do not seem to share this sentiment."^w^n(Použitelné na prsteny a amulety)
 
 tagEnchantB013A=Traveler's Boon I
 tagEnchantB013B=Traveler's Boon II
-tagEnchantB013BC=Traveler's Boon III
-tagEnchantB013Desc="Rovers setting out on particularly lengthy journeys will have the elders prepare this enchantment to protect them on the long road."^w^n(Applied to rings and amulets)
+tagEnchantB013C=Traveler's Boon III
+tagEnchantB013Desc="Rovers setting out on particularly lengthy journeys will have the elders prepare this enchantment to protect them on the long road."^w^n(Použitelné na prsteny a amulety)
 
 tagEnchantB014A=Breath of Life I
 tagEnchantB014B=Breath of Life II
-tagEnchantB014BC=Breath of Life III
-tagEnchantB014Desc="The spirit of spring, rebirth, a breath of new life."^w^n(Applied to rings and amulets)
+tagEnchantB014C=Breath of Life III
+tagEnchantB014Desc="The spirit of spring, rebirth, a breath of new life."^w^n(Použitelné na prsteny a amulety)
 
 tagEnchantB015A=Winter's Chill I
 tagEnchantB015B=Winter's Chill II
-tagEnchantB015BC=Winter's Chill III
-tagEnchantB015Desc="The essence of winter's chill, a terrible force of change and cleansing for the world, mark of a new beginning."^w^n(Applied to rings and amulets)
+tagEnchantB015C=Winter's Chill III
+tagEnchantB015Desc="The essence of winter's chill, a terrible force of change and cleansing for the world, mark of a new beginning."^w^n(Použitelné na prsteny a amulety)
 
 tagEnchantB016A=Rhowan's Resolve I
 tagEnchantB016B=Rhowan's Resolve II
-tagEnchantB016BC=Rhowan's Resolve III
-tagEnchantB016Desc="Rhowan, the last king of Arkovia and founder of the Rhowari, was said to have abandoned all his kingly possessions when he sat out upon the road. His conviction and resolve through difficult times represent everything that all Rovers strive towards."^w^n(Applied to rings and amulets)
+tagEnchantB016C=Rhowan's Resolve III
+tagEnchantB016Desc="Rhowan, the last king of Arkovia and founder of the Rhowari, was said to have abandoned all his kingly possessions when he sat out upon the road. His conviction and resolve through difficult times represent everything that all Rovers strive towards."^w^n(Použitelné na prsteny a amulety)
 
 tagEnchantB017A=Survivor's Ingenuity I
 tagEnchantB017B=Survivor's Ingenuity II
-tagEnchantB017BC=Survivor's Ingenuity III
-tagEnchantB017Desc="With supplies limited, the people of Devil's Crossing have devised clever solutions to deal with seemingly any threat, and that includes enchantments."^w^n(Applied to rings and amulets)
+tagEnchantB017C=Survivor's Ingenuity III
+tagEnchantB017Desc="With supplies limited, the people of Devil's Crossing have devised clever solutions to deal with seemingly any threat, and that includes enchantments."^w^n(Použitelné na prsteny a amulety)
 
 tagEnchantB018A=Survivor's Resilience I
 tagEnchantB018B=Survivor's Resilience II
-tagEnchantB018BC=Survivor's Resilience III
-tagEnchantB018Desc="When times seem most grim, the human will to survive is at its greatest."^w^n(Applied to rings and amulets)
+tagEnchantB018C=Survivor's Resilience III
+tagEnchantB018Desc="When times seem most grim, the human will to survive is at its greatest."^w^n(Použitelné na prsteny a amulety)
 
 tagEnchantB019A=Survivor's Perseverance I
 tagEnchantB019B=Survivor's Perseverance II
-tagEnchantB019BC=Survivor's Perseverance III
-tagEnchantB019Desc="With the powers of chaos and the aether on their doorstep, the survivors have adapted to these new threats."^w^n(Applied to rings and amulets)
+tagEnchantB019C=Survivor's Perseverance III
+tagEnchantB019Desc="With the powers of chaos and the aether on their doorstep, the survivors have adapted to these new threats."^w^n(Použitelné na prsteny a amulety)
 
 tagEnchantB020A=Cairn's Hope I
 tagEnchantB020B=Cairn's Hope II
-tagEnchantB020BC=Cairn's Hope III
-tagEnchantB020Desc="Even as they prepare their defenses, the survivors speak fondly of a time when the world will be free of the invaders."^w^n(Applied to rings and amulets)
+tagEnchantB020C=Cairn's Hope III
+tagEnchantB020Desc="Even as they prepare their defenses, the survivors speak fondly of a time when the world will be free of the invaders."^w^n(Použitelné na prsteny a amulety)
 
 tagEnchantB021A=Song of the Elements I
 tagEnchantB021B=Song of the Elements II
-tagEnchantB021BC=Song of the Elements III
-tagEnchantB021Desc="Mullone, the spirit guide, has devised this enchantment to contain the conflicting forces of fire and ice."^w^n(Applied to rings and amulets)
+tagEnchantB021C=Song of the Elements III
+tagEnchantB021Desc="Mullone, the spirit guide, has devised this enchantment to contain the conflicting forces of fire and ice."^w^n(Použitelné na prsteny a amulety)
 
 tagEnchantB022A=Viloth's Bite I
 tagEnchantB022B=Viloth's Bite II
-tagEnchantB022BC=Viloth's Bite III
-tagEnchantB022Desc="The legendary slith matriarch, Viloth, produces a bile of extraordinary toxicity. Barnabas discovered a way to process it into a powder, which he now offers to those willing to fight for Devil's Crossing."^w^n(Applied to rings and amulets)
+tagEnchantB022C=Viloth's Bite III
+tagEnchantB022Desc="The legendary slith matriarch, Viloth, produces a bile of extraordinary toxicity. Barnabas discovered a way to process it into a powder, which he now offers to those willing to fight for Devil's Crossing."^w^n(Použitelné na prsteny a amulety)
 
 tagEnchantB023A=Overseer's Gaze I
 tagEnchantB023B=Overseer's Gaze II
-tagEnchantB023BC=Overseer's Gaze III
-tagEnchantB023Desc="Kasparov, his attention ever consumed by his experiments, accidentally stumbled upon a use for the eyes of Aetherial Overseers when he tried to turn one into an explosive."^w^n(Applied to rings and amulets)
+tagEnchantB023C=Overseer's Gaze III
+tagEnchantB023Desc="Kasparov, his attention ever consumed by his experiments, accidentally stumbled upon a use for the eyes of Aetherial Overseers when he tried to turn one into an explosive."^w^n(Použitelné na prsteny a amulety)
 
 tagEnchantB024A=Nature's Harvest I
 tagEnchantB024B=Nature's Harvest II
-tagEnchantB024BC=Nature's Harvest III
-tagEnchantB024Desc="Some farmers pray for a healthy harvest. Those more magically inclined know how to cheat the odds. When adapted to weapons, this wild growth can prove disastrous to flesh."^w^n(Applied to all one-handed weapons, shields and off-hands)
+tagEnchantB024C=Nature's Harvest III
+tagEnchantB024Desc="Some farmers pray for a healthy harvest. Those more magically inclined know how to cheat the odds. When adapted to weapons, this wild growth can prove disastrous to flesh."^w^n(Použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
 
 tagEnchantB025A=Potent Nature's Harvest I
 tagEnchantB025B=Potent Nature's Harvest II
-tagEnchantB025BC=Potent Nature's Harvest III
-tagEnchantB025Desc="Some farmers pray for a healthy harvest. Those more magically inclined know how to cheat the odds. When adapted to weapons, this wild growth can prove disastrous to flesh."^w^n(Applied to all two-handed weapons)
+tagEnchantB025C=Potent Nature's Harvest III
+tagEnchantB025Desc="Some farmers pray for a healthy harvest. Those more magically inclined know how to cheat the odds. When adapted to weapons, this wild growth can prove disastrous to flesh."^w^n(Použitelné na všechny obouruční zbraně)
 
 tagEnchantB026A=Solar Radiance I
 tagEnchantB026B=Solar Radiance II
-tagEnchantB026BC=Solar Radiance III
-tagEnchantB026Desc="The power of the sun, trapped in sorcerous powder."^w^n(Applied to all one-handed weapons, shields and off-hands)
+tagEnchantB026C=Solar Radiance III
+tagEnchantB026Desc="The power of the sun, trapped in sorcerous powder."^w^n(Použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
 
 tagEnchantB027A=Potent Solar Radiance I
 tagEnchantB027B=Potent Solar Radiance II
-tagEnchantB027BC=Potent Solar Radiance III
-tagEnchantB027Desc="The power of the sun, trapped in sorcerous powder."^w^n(Applied to all two-handed weapons)
+tagEnchantB027C=Potent Solar Radiance III
+tagEnchantB027Desc="The power of the sun, trapped in sorcerous powder."^w^n(Použitelné na všechny obouruční zbraně)
 
 tagEnchantB028A=Menhir's Blessing I
 tagEnchantB028B=Menhir's Blessing II
-tagEnchantB028BC=Menhir's Blessing III
-tagEnchantB028Desc="It is said that earth blessed by the deity Menhir brings the most plentiful harvest. When applied correctly, this blessing can be extended to tools, homes and even weapons."^w^n(Applied to all one-handed weapons, shields and off-hands)
+tagEnchantB028C=Menhir's Blessing III
+tagEnchantB028Desc="It is said that earth blessed by the deity Menhir brings the most plentiful harvest. When applied correctly, this blessing can be extended to tools, homes and even weapons."^w^n(Použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
 
 tagEnchantB029A=Potent Menhir's Blessing I
 tagEnchantB029B=Potent Menhir's Blessing II
-tagEnchantB029BC=Potent Menhir's Blessing III
-tagEnchantB029Desc="It is said that earth blessed by the deity Menhir brings the most plentiful harvest. When applied correctly, this blessing can be extended to tools, homes and even weapons."^w^n(Applied to all two-handed weapons)
+tagEnchantB029C=Potent Menhir's Blessing III
+tagEnchantB029Desc="It is said that earth blessed by the deity Menhir brings the most plentiful harvest. When applied correctly, this blessing can be extended to tools, homes and even weapons."^w^n(Použitelné na všechny obouruční zbraně)
 
 tagEnchantB030A=Kymon's Will I
 tagEnchantB030B=Kymon's Will II
-tagEnchantB030BC=Kymon's Will III
-tagEnchantB030Desc="Kymon, chosen by the gods, bestows some of his divine status upon the worthy and willing."^w^n(Applied to rings and amulets)
+tagEnchantB030C=Kymon's Will III
+tagEnchantB030Desc="Kymon, chosen by the gods, bestows some of his divine status upon the worthy and willing."^w^n(Použitelné na prsteny a amulety)
 
 tagEnchantB031A=Kymon's Fury I
 tagEnchantB031B=Kymon's Fury II
-tagEnchantB031BC=Kymon's Fury III
-tagEnchantB031Desc="Those that have seen Kymon in battle say that he fights with the vengeful fury of the gods themselves."^w^n(Applied to rings and amulets)
+tagEnchantB031C=Kymon's Fury III
+tagEnchantB031Desc="Those that have seen Kymon in battle say that he fights with the vengeful fury of the gods themselves."^w^n(Použitelné na prsteny a amulety)
 
 tagEnchantB032A=Kymon's Vision I
 tagEnchantB032B=Kymon's Vision II
-tagEnchantB032BC=Kymon's Vision III
-tagEnchantB032Desc="Kymon's vision for Cairn's future drives his Chosen into a frenzy when they engage with the enemies of Cairn."^w^n(Applied to rings and amulets)
+tagEnchantB032C=Kymon's Vision III
+tagEnchantB032Desc="Kymon's vision for Cairn's future drives his Chosen into a frenzy when they engage with the enemies of Cairn."^w^n(Použitelné na prsteny a amulety)
 
 tagEnchantB033A=Uroboruuk's Word I
 tagEnchantB033B=Uroboruuk's Word II
-tagEnchantB033BC=Uroboruuk's Word III
-tagEnchantB033Desc="During the first of many lessons, the master Uroboruuk would utter just a single word as he held his arms over a corpse: Rise."^w^n(Applied to rings and amulets)
+tagEnchantB033C=Uroboruuk's Word III
+tagEnchantB033Desc="During the first of many lessons, the master Uroboruuk would utter just a single word as he held his arms over a corpse: Rise."^w^n(Použitelné na prsteny a amulety)
 
 tagEnchantB034A=Uroboruuk's Anguish I
 tagEnchantB034B=Uroboruuk's Anguish II
-tagEnchantB034BC=Uroboruuk's Anguish III
-tagEnchantB034Desc="The master Uroboruuk endured unspeakable anguish at the hands of the Arkovians. This horrid enchantment seeks to replicate his suffering."^w^n(Applied to rings and amulets)
+tagEnchantB034C=Uroboruuk's Anguish III
+tagEnchantB034Desc="The master Uroboruuk endured unspeakable anguish at the hands of the Arkovians. This horrid enchantment seeks to replicate his suffering."^w^n(Použitelné na prsteny a amulety)
 
 tagEnchantB035A=Uroboruuk's Path I
 tagEnchantB035B=Uroboruuk's Path II
-tagEnchantB035BC=Uroboruuk's Path III
-tagEnchantB035Desc="To follow Uroboruuk's path is to seek the path of knowledge, wherever it may lead."^w^n(Applied to rings and amulets)
+tagEnchantB035C=Uroboruuk's Path III
+tagEnchantB035Desc="To follow Uroboruuk's path is to seek the path of knowledge, wherever it may lead."^w^n(Použitelné na prsteny a amulety)
 
 tagEnchantB036A=Exile's Might I
 tagEnchantB036B=Exile's Might II
-tagEnchantB036BC=Exile's Might III
-tagEnchantB036Desc="Supreme enchantment devised by the Exile to bestow the strength of ten men upon the user."^w^n(Applied to all one-handed weapons, shields and off-hands)
+tagEnchantB036C=Exile's Might III
+tagEnchantB036Desc="Supreme enchantment devised by the Exile to bestow the strength of ten men upon the user."^w^n(Použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
 
 tagEnchantB037A=Potent Exile's Might I
 tagEnchantB037B=Potent Exile's Might II
-tagEnchantB037BC=Potent Exile's Might III
-tagEnchantB037Desc="Supreme enchantment devised by the Exile to bestow the strength of ten men upon the user."^w^n(Applied to all two-handed weapons)
+tagEnchantB037C=Potent Exile's Might III
+tagEnchantB037Desc="Supreme enchantment devised by the Exile to bestow the strength of ten men upon the user."^w^n(Použitelné na všechny obouruční zbraně)
 
 tagEnchantB038A=Exile's Frostbite I
 tagEnchantB038B=Exile's Frostbite II
-tagEnchantB038BC=Exile's Frostbite III
-tagEnchantB038Desc="Supreme enchantment devised by the Exile to bestow mastery over ice upon the user."^w^n(Applied to all one-handed weapons, shields and off-hands)
+tagEnchantB038C=Exile's Frostbite III
+tagEnchantB038Desc="Supreme enchantment devised by the Exile to bestow mastery over ice upon the user."^w^n(Použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
 
 tagEnchantB039A=Potent Exile's Frostbite I
 tagEnchantB039B=Potent Exile's Frostbite II
-tagEnchantB039BC=Potent Exile's Frostbite III
-tagEnchantB039Desc="Supreme enchantment devised by the Exile to bestow mastery over ice upon the user."^w^n(Applied to all two-handed weapons)
+tagEnchantB039C=Potent Exile's Frostbite III
+tagEnchantB039Desc="Supreme enchantment devised by the Exile to bestow mastery over ice upon the user."^w^n(Použitelné na všechny obouruční zbraně)
 
 tagEnchantB040A=Exile's Inferno I
 tagEnchantB040B=Exile's Inferno II
-tagEnchantB040BC=Exile's Inferno III
-tagEnchantB040Desc="Supreme enchantment devised by the Exile to bestow mastery of hellfire upon the user."^w^n(Applied to all one-handed weapons, shields and off-hands)
+tagEnchantB040C=Exile's Inferno III
+tagEnchantB040Desc="Supreme enchantment devised by the Exile to bestow mastery of hellfire upon the user."^w^n(Použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
 
 tagEnchantB041A=Potent Exile's Inferno I
 tagEnchantB041B=Potent Exile's Inferno II
-tagEnchantB041BC=Potent Exile's Inferno III
-tagEnchantB041Desc="Supreme enchantment devised by the Exile to bestow mastery of hellfire upon the user."^w^n(Applied to all two-handed weapons)
+tagEnchantB041C=Potent Exile's Inferno III
+tagEnchantB041Desc="Supreme enchantment devised by the Exile to bestow mastery of hellfire upon the user."^w^n(Použitelné na všechny obouruční zbraně)
 
 tagEnchantB042A=Exile's Thunder I
 tagEnchantB042B=Exile's Thunder II
-tagEnchantB042BC=Exile's Thunder III
-tagEnchantB042Desc="Supreme enchantment devised by the Exile to bestow mastery of the skies upon the user."^w^n(Applied to all one-handed weapons, shields and off-hands)
+tagEnchantB042C=Exile's Thunder III
+tagEnchantB042Desc="Supreme enchantment devised by the Exile to bestow mastery of the skies upon the user."^w^n(Použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
 
 tagEnchantB043A=Potent Exile's Thunder I
 tagEnchantB043B=Potent Exile's Thunder II
-tagEnchantB043BC=Potent Exile's Thunder III
-tagEnchantB043Desc="Supreme enchantment devised by the Exile to bestow mastery of the skies upon the user."^w^n(Applied to all two-handed weapons)
+tagEnchantB043C=Potent Exile's Thunder III
+tagEnchantB043Desc="Supreme enchantment devised by the Exile to bestow mastery of the skies upon the user."^w^n(Použitelné na všechny obouruční zbraně)
 
 tagEnchantB044A=Exile's Venom I
 tagEnchantB044B=Exile's Venom II
-tagEnchantB044BC=Exile's Venom III
-tagEnchantB044Desc="Supreme enchantment devised by the Exile to bestow mastery over poisons upon the user."^w^n(Applied to all one-handed weapons, shields and off-hands)
+tagEnchantB044C=Exile's Venom III
+tagEnchantB044Desc="Supreme enchantment devised by the Exile to bestow mastery over poisons upon the user."^w^n(Použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
 
 tagEnchantB045A=Potent Exile's Venom I
 tagEnchantB045B=Potent Exile's Venom II
-tagEnchantB045BC=Potent Exile's Venom III
-tagEnchantB045Desc="Supreme enchantment devised by the Exile to bestow mastery over poisons upon the user."^w^n(Applied to all two-handed weapons)
+tagEnchantB045C=Potent Exile's Venom III
+tagEnchantB045Desc="Supreme enchantment devised by the Exile to bestow mastery over poisons upon the user."^w^n(Použitelné na všechny obouruční zbraně)
 
 tagEnchantB046A=Exile's Deathtouch I
 tagEnchantB046B=Exile's Deathtouch II
-tagEnchantB046BC=Exile's Deathtouch III
-tagEnchantB046Desc="Supreme enchantment devised by the Exile to bestow mastery over life's essence upon the user."^w^n(Applied to all one-handed weapons, shields and off-hands)
+tagEnchantB046C=Exile's Deathtouch III
+tagEnchantB046Desc="Supreme enchantment devised by the Exile to bestow mastery over life's essence upon the user."^w^n(Použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
 
 tagEnchantB047A=Potent Exile's Deathtouch I
 tagEnchantB047B=Potent Exile's Deathtouch II
-tagEnchantB047BC=Potent Exile's Deathtouch III
-tagEnchantB047Desc="Supreme enchantment devised by the Exile to bestow mastery over life's essence upon the user."^w^n(Applied to all two-handed weapons)
+tagEnchantB047C=Potent Exile's Deathtouch III
+tagEnchantB047Desc="Supreme enchantment devised by the Exile to bestow mastery over life's essence upon the user."^w^n(Použitelné na všechny obouruční zbraně)
 
 tagEnchantB048A=Exile's Wrath I
 tagEnchantB048B=Exile's Wrath II
-tagEnchantB048BC=Exile's Wrath III
-tagEnchantB048Desc="Supreme enchantment devised by the Exile to bestow mastery over the aether upon the user."^w^n(Applied to all one-handed weapons, shields and off-hands)
+tagEnchantB048C=Exile's Wrath III
+tagEnchantB048Desc="Supreme enchantment devised by the Exile to bestow mastery over the aether upon the user."^w^n(Použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
 
 tagEnchantB049A=Potent Exile's Wrath I
 tagEnchantB049B=Potent Exile's Wrath II
-tagEnchantB049BC=Potent Exile's Wrath III
-tagEnchantB049Desc="Supreme enchantment devised by the Exile to bestow mastery over the aether upon the user."^w^n(Applied to all two-handed weapons)
+tagEnchantB049C=Potent Exile's Wrath III
+tagEnchantB049Desc="Supreme enchantment devised by the Exile to bestow mastery over the aether upon the user."^w^n(Použitelné na všechny obouruční zbraně)
 
 tagEnchantB050A=Exile's Riftstorm I
 tagEnchantB050B=Exile's Riftstorm II
-tagEnchantB050BC=Exile's Riftstorm III
-tagEnchantB050Desc="Supreme enchantment devised by the Exile to bestow mastery over the chaotic void upon the user."^w^n(Applied to all one-handed weapons, shields and off-hands)
+tagEnchantB050C=Exile's Riftstorm III
+tagEnchantB050Desc="Supreme enchantment devised by the Exile to bestow mastery over the chaotic void upon the user."^w^n(Použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
 
 tagEnchantB051A=Potent Exile's Riftstorm I
 tagEnchantB051B=Potent Exile's Riftstorm II
 tagEnchantB051BC=Potent Exile's Riftstorm III
-tagEnchantB051Desc="Supreme enchantment devised by the Exile to bestow mastery over the chaotic void upon the user."^w^n(Applied to all two-handed weapons)
+tagEnchantB051Desc="Supreme enchantment devised by the Exile to bestow mastery over the chaotic void upon the user."^w^n(Použitelné na všechny obouruční zbraně)
 
 tagEnchantB052A=Exile's Bastion I
 tagEnchantB052B=Exile's Bastion II
-tagEnchantB052BC=Exile's Bastion III
-tagEnchantB052Desc="Supreme enchantment devised by the Exile to bestow skin of iron upon the user."^w^n(Applied to all one-handed weapons, shields and off-hands)
+tagEnchantB052C=Exile's Bastion III
+tagEnchantB052Desc="Supreme enchantment devised by the Exile to bestow skin of iron upon the user."^w^n(Použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
 
 tagEnchantB053A=Potent Exile's Bastion I
 tagEnchantB053B=Potent Exile's Bastion II
-tagEnchantB053BC=Potent Exile's Bastion III
-tagEnchantB053Desc="Supreme enchantment devised by the Exile to bestow skin of iron upon the user."^w^n(Applied to all two-handed weapons)
+tagEnchantB053C=Potent Exile's Bastion III
+tagEnchantB053Desc="Supreme enchantment devised by the Exile to bestow skin of iron upon the user."^w^n(Použitelné na všechny obouruční zbraně)
 
 tagEnchantB054A=Nature's Wrath I
 tagEnchantB054B=Nature's Wrath II
 tagEnchantB054C=Nature's Wrath III
-tagEnchantB054Desc="Potent mix of poisons and toxins known only to the Rovers and used only under dire circumstances."^w^n(Applied to rings and amulets)
+tagEnchantB054Desc="Potent mix of poisons and toxins known only to the Rovers and used only under dire circumstances."^w^n(Použitelné na prsteny a amulety)
 
 tagEnchantB055A=Spirit of Vengeance I
 tagEnchantB055B=Spirit of Vengeance II
 tagEnchantB055C=Spirit of Vengeance III
-tagEnchantB055Desc="Captured form of a vile and vengeful spirit from the Arkovian ruins. The inside of the crucible is etched with protective runes."^w^n(Applied to rings and amulets)
+tagEnchantB055Desc="Captured form of a vile and vengeful spirit from the Arkovian ruins. The inside of the crucible is etched with protective runes."^w^n(Použitelné na prsteny a amulety)
 
 #ItemComponents
 
@@ -2725,7 +2725,7 @@ tagPrefixB001_Sh_A=[ms]nehybný[fs]nehybná[ns]nehybné[mp]nehybné[fp]nehybné[
 tagPrefixB002_Sh_A=[ms]správcův[fs]správcova[ns]správcovo[mp]správcovy[fp]správcovy[np]správcovy
 tagPrefixB003_Sh_A=[ms]přeplněný[fs]přeplněná[ns]přeplněné[mp]přeplněné[fp]přeplněné[np]přeplněné
 tagPrefixB004_Sh_A=pána času
-tagPrefixB005_Sh_A=vrchního pánas
+tagPrefixB005_Sh_A=vrchního pána
 tagPrefixB006_Sh_A=mistra psů
 tagPrefixB007_Sh_A=písečné bouře
 tagPrefixB008_Sh_A=[ms]ledový[fs]ledová[ns]ledové[mp]ledové[fp]ledové[np]ledové
@@ -2737,10 +2737,10 @@ tagPrefixB013_Sh_A=[ms]ledový[fs]ledová[ns]ledové[mp]ledové[fp]ledové[np]le
 tagPrefixB014_Sh_A=[ms]bleskem zasažený[fs]bleskem zasažená[ns]bleskem zasažené[mp]bleskem zasažené[fp]bleskem zasažené[np]bleskem zasažené
 tagPrefixB015_Sh_A=[ms]leptavý[fs]leptavá[ns]leptavé[mp]leptavé[fp]leptavé[np]leptavé
 tagPrefixB016_Sh_A=z kamenné kůže
-tagPrefixB017_Sh_A=Eldritch
-tagPrefixB018_Sh_A=Infernal
-tagPrefixB019_Sh_A=Stormheart
-tagPrefixB020_Sh_A=Hoarfrost
+tagPrefixB017_Sh_A=[ms]tajuplný[fs]tajuplná[ns]tajuplné[mp]tajuplné[fp]tajuplné[np]tajuplné
+tagPrefixB018_Sh_A=[ms]pekelný[fs]pekelná[ns]pekelné[mp]pekelné[fp]pekelné[np]pekelné
+tagPrefixB019_Sh_A=z nitra bouře
+tagPrefixB020_Sh_A=[ms]zjihlý[fs]zjihlá[ns]zjihlé[mp]zjihlé[fp]zjihlé[np]zjihlé
 
 #Suffixes
 
@@ -2942,10 +2942,10 @@ tagSuffixB037_Sh_A=padlých nebes
 tagSuffixB038_Sh_A=pokroucené reality
 tagSuffixB039_Sh_A=spiknutí
 tagSuffixB040_Sh_A=zkaženosti
-tagSuffixB041_Sh_A=of Annihilation
-tagSuffixB042_Sh_A=of Conflagration
-tagSuffixB043_Sh_A=of the Hurricane
-tagSuffixB044_Sh_A=of the Glacier
+tagSuffixB041_Sh_A=vyhlazení
+tagSuffixB042_Sh_A=vzplanutí
+tagSuffixB043_Sh_A=hurikánu
+tagSuffixB044_Sh_A=ledovce
 
 #ItemSkills
 
@@ -2989,12 +2989,12 @@ tagChestRackWeaponsB01=Sbírka zbraní
 tagChestCorpse_Mornay=Mornayova mrtvola
 tagChestCorpse_RoverElder=Mrtvola Mathiase staršího
 tagChestCorpse_Jacob=Jacobova mrtvola
-tagChestCorpse_Refugee=Dahlia Taverin's Corpse
-tagChestCorpse_BlackLegion=Black Legion Remains
+tagChestCorpse_Refugee=Mrtvola Dahliy Taverin
+tagChestCorpse_BlackLegion=Ostatky Černého legionáře
 
 tagLectern_WardensLabA01=Výzkumný deníček
 tagLectern_OldArkoviaRuinsA01=Starodávný řečnický pult
-tagChestBozemanFolly=Bozeman's Satchel
+tagChestBozemanFolly=Bozemanova brašna
 
 tagChestHeroD01=Truhla hrdinů
 tagChestHeroD01_Dropped=Kořist hrdinů
@@ -3006,8 +3006,8 @@ tagChestHeroD04=Velkolepá truhla
 tagChestHeroD04_Dropped=Velkolepá kořist
 tagChestHeroD05=Nádherná truhla
 tagChestHeroD06=Mimořádná truhlice
-tagChestHeroD07=Obsidian Cluster
-tagChestHeroD08=Obsidian Trove
+tagChestHeroD07=Shluk obsidiánů
+tagChestHeroD08=Obsidiánový poklad
 
 tagBreakableA01=Sud
 tagBreakableA02=Bedna
@@ -3022,10 +3022,10 @@ tagBreakableWaspClusterA01=Vosí hnízdo
 tagBreakableUrnA01=Zchátralá urna
 tagBreakableUrnB01=Starobylá urna
 tagBreakableUrnClusterA01=Střepina urny
-tagBreakableDermapteranA01=Dermapteran Cluster
-tagBreakableBonePileA01=Bone Pile
-tagBreakableObsidianA01=Doomed Remains
-tagBreakableObsidianB01=Obsidian Shard
+tagBreakableDermapteranA01=Hnízdo škvorů
+tagBreakableBonePileA01=Hromádka kostí
+tagBreakableObsidianA01=Zhoubné ostatky
+tagBreakableObsidianB01=Obsidiánový úlomek
 
 tagChestLocked= {^R} ~ Uzamčeno
 tagChestLockedBoss= {^R} ~ Uzamčeno mocnou silou
@@ -3038,8 +3038,8 @@ tagChestOneShot_Generic01=Nádherná skrýš
 tagChestOneShot_Generic02=Vznešená skrýš
 tagChestOneShot_BurrwitchCave01=Hromada nestvůr
 tagChestOneShot_LowerCrossingCave01=Hromada nestvůr
-tagChestOneShot_CultistSummoner=Ikilzor's Chest
-tagChestOneShot_ChthonicAbomination=Chthonic Chest
+tagChestOneShot_CultistSummoner=Ikilzorova truhlice
+tagChestOneShot_ChthonicAbomination=Chthonická truhla
 
 #Interactive Objects
 tagShrineConstitutionA01=Nedotčené jídlo
@@ -3073,9 +3073,9 @@ tagMineDoor=Důlní dveře
 tagEpicDoor_StepsOfTorment=Brány Utrpení
 tagEpicDoor_StepsOfTormentLocked= {^R} ~ Zapečetěno starodávnou silou
 tagLocked= {^R} ~ Zamčeno
-tagUGDoorDermapteranQueen=Entrance to Queen's Lair
-tagUGDoorDermapteranQueenLocked= {^R} ~ Sealed by the Grand Viziers
-tagDoorRampart=Barricaded Doors
+tagUGDoorDermapteranQueen=Vstup do vosího hnízda
+tagUGDoorDermapteranQueenLocked= {^R} ~ střeženo Velkými vezíry
+tagDoorRampart=Zabarikádované dveře
 
 #Quest Rewards
 
