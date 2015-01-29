@@ -1,22 +1,22 @@
 Alicia
 Prosím pokračuj. Nemáme nic, co bychom ti nabídli.
 Jenom procházím. Sbohem.
-Doručil jsi Silasovi ten šrot?
-Uplatil jsem ho, takže vás nadobro nechá napokoji.
+[[ms]Doručil[fs]Doručila] jsi Silasovi ten šrot?
+[[ms]Uplatil[fs]Uplatila] jsem ho, takže vás nadobro nechá napokoji.
 Děkuji ti! Nikdy bych si nepředstavovala, že budeme odproštěni od tohoto útisku, ale ukázalo se, že se dá Silasova loajálnost koupit. Prosím, vezmi si tenhle šrot jako důkaz úcty. Mohu udělat alespoň to.
 Děkuji ti.
-Doručil jsi Silasovi ten šrot?
+[[ms]Doručil[fs]Doručila] jsi Silasovi ten šrot?
 Ano, vypadal potěšeně.
 Děkuji ti. Situace možná není ideální, ale dokud jim budeme dodávat ryby a šrot, nechají nás na pokoji.
-Přál bych si, abych mohl udělat více.
-Obávám se, že je to úděl našeho života. Alespoň drží toto území zabezpečené proti bestiím. Sbohem, cizinče, a ještě jednou ti děkuji.
+[[ms]Přál[fs]Přála] bych si, abych [[ms]mohl[fs]mohla] udělat více.
+Obávám se, že je to úděl našeho života. Alespoň drží toto území zabezpečené proti bestiím. Sbohem, [[ms]cizinče[fs]cizinko], a ještě jednou ti děkuji.
 Nemáš zač. Opatruj se.
 Hodně štěstí. Sbohem.
 Ano, vypadal potěšeně.
 Děkuji ti. Utekl krátce po tom, co se dozvěděl ty novinky, že je Cronley mrtvý. Hádám, že naposledy prokázal sám sobě úctu.
 Nemáš zač. Opatruj se.
 Konečně jsme odproštěni od Cronleyova útisku, a to jen díky tobě.
-Rád jsem pomohl.
+[[ms]Rád[fs]Ráda] jsem [[ms]pomohl[fs]pomohla]. 
 Zprávy o Cronleyově úmrtí se šíří jako lesní požár. Náš velitel, Silas, uprchl s první zmínkou. Konečně jsme odproštěni od Cronleyova útisku, a to jen díky tobě!
 Už by vás neměli nadále obtěžovat.
 Nevím, jak bychom tě mohli odměnit, ale prosím, vezmi si tento šrot. Připravovali jsme ho jako projev úcty Silasovi, ale teďka už nebudeme muset.
@@ -27,34 +27,34 @@ Děkuji ti.
 Už by vás neměli nadále obtěžovat.
 Nevím, jak bychom tě mohli odměnit, ale prosím, vezmi si tento šrot. Připravovali jsme ho jako projev úcty Silasovi, ale teďka už nebudeme muset.
 Děkuji ti.
-Nemůžu uvěřit tomu, že jsi zabil Silase. Pokud se neohlásí...to ne, to ne...
+Nemůžu uvěřit tomu, že jsi [[ms]zabil[fs]zabila] Silase. Pokud se neohlásí...to ne, to ne...
 Se zbytkem jeho gangu se vypořádám taky.
 Ještě jednou ti děkuji. Situace není možná ideální, ale dokud jim budeme dodávat ryby a šrot, nechají nás na pokoji.
-Přál bych si, abych mohl udělat víc.
+[[ms]Přál[fs]Přála] bych si, abych [[ms]mohl[fs]mohla] udělat více.
 Obávám se, že je to úděl našeho života. Alespoň drží toto území zabezpečené proti bestiím. Sbohem, cizinče, a ještě jednou ti děkuji.
 Nemáš zač. Opatruj se.
 Hodně štěstí. Sbohem.
-Jak jsi nám to mohl udělat? Pokud se Silas neohlásí, jeho gang to začne vyšetřovat.
-Ukončil jsem jeho vydírání. Jeho gang je na řadě.
+Jak jsi nám to [[ms]mohl[fs]mohla] udělat? Pokud se Silas neohlásí, jeho gang to začne vyšetřovat.
+[[ms]Ukončil[fs]Ukončila] jsem jeho vydírání. Jeho gang je na řadě.
 Prosím, prostě odejdi. Modlím se, abychom přežili noc.
-Udělal jsem, co muselo být uděláno.
-Zešílel jsi? Varovala jsem tě, abys Silasovi neubližoval a ty jsi má varování ignoroval. Proč jsi to udělal?
+[[ms]Udělal[fs]Udělala] jsem, co muselo být uděláno.
+[[ms]Zešílel[fs]Zešílela] jsi? Varovala jsem tě, abys Silasovi [[ms]neubližoval[fs]neubližovala a ty jsi má varování [[ms]ignoroval[fs]ignorovala]. Proč jsi to [[ms]udělal[fs]udělala]?
 To vydírání musí skončit.
-Není to tak jednoduché. Silas je jenom poskok. Byla to choulostivá situace a ty jsi se s ní vypořádal jako násilník bez mozku!
+Není to tak jednoduché. Silas je jenom poskok. Byla to choulostivá situace a ty jsi se s ní [[ms]vypořádal[fs]vypořádala] jako násilník bez mozku!
 Jeho pán bude další, s kým se vypořádám. Sbohem.
 Dělám na tom. Sbohem.
-Měl jsi štěstí?
+[[ms]Měl[fs]Měla] jsi štěstí?
 Kdeže najdu ten šrot?
-Většina domů v Arkovianském podhůří bude už asi důkladně prohledaná. Předpokládám, že někdo jako ty by mohl dát banditům ochutnat jejich vlastní medicínu tak, že bys vyraboval Čtvero vršky. Silas by neměl ani tušení. Ví, že bychom se sami neodvážili přiblížit se k tábořištím.
+Většina domů v Arkovianském podhůří bude už asi důkladně prohledaná. Předpokládám, že někdo jako ty by mohl dát banditům ochutnat jejich vlastní medicínu tím způsobem, že bys [[ms]vyraboval[fs]vyrabovala] Čtvero vršky. Silas by neměl ani tušení. Ví, že bychom se sami neodvážili přiblížit se k tábořištím.
 Děkuji ti. To zvládnu.
 Pořád sbírám šrot.
-Zešílel jsi? Pokud se něco stane Silasovi, zbytek jeho gangu si půjde pro krev!
+[[ms]Zešílel[fs]Zešílela] jsi? Pokud se něco stane Silasovi, zbytek jeho gangu si půjde pro krev!
 Mám to pod kontrolou. Sbohem.
-Pokud nechceš pracovat, měl by ses otočit a jít tam, odkud jsi přišel. Nemáme nic, co bychom ti dali a nepotřebujeme někoho dalšího, aby tady čeřil vodu.
+Pokud nechceš pracovat, [[ms]měl[fs]měla] by ses otočit a jít tam, odkud jsi [[ms]přišel[fs]přišla]. Nemáme nic, co bychom ti dali a nepotřebujeme někoho dalšího, aby tady čeřil vodu.
 Co se tu děje?
 To co se děje je to, že se snažíme udržet se naživu, což znamená dřít pro Cronleyův gang. Jsme chátra, sbírka přeživších, kteří sem buď přišli hledat ochranu a nebo byli zajmuti Cronleyovo zločinci a donuceni pracovat. Cronleyovi muži nás využívají tak, jak uznají za vhodné a je to těžký život, ale tady je to lepší než to, co je tam venku na cestě. Snesu cokoliv, abych udržela moji dceru v bezpečí a ještě je příliš mladá, aby se jí Cronleyovi muži zabývali. Alespoň prozatím.
 Mohu nějak pomoci?
-Támhle Silas se ujišťuje, že jsme poslušní a plníme Cronleyovy limity. Vody se stávají stále nebezpečnějšími a my se snažíme nachytat dostatek ryb, ale sotva zvládneme naplnit naše sítě na to, abysme je odevzdali jako projev úcty. Taky ale pořád musíme shánět šrot.{^n}{^n}Nemůžeme naše limity nesplnit. Naposledy, když se to stalo, si vzal Silas jedno z dětí zpátky do svého tábora a už ji nikdo nikdy neviděl. Prosím, pokud nám skutečně chceš pomoci, sežeň šrot jako dar a doruč ho Silasovi. Ikdyž to vypadá, že je to pro nás zlé, může to být už jen horší. Cronleyův gang drží všechny kopce, ze kterých je vidět na Nový přístav a určitě by dali vědět, pokud by se Silas ztratil. Odplata by byla tvrdá, takže prosím, nedělej nic neuvážlivého. My jsme ti, co za to budou trpět.
+Támhle Silas se ujišťuje, že jsme poslušní a plníme Cronleyovy limity. Vody se stávají stále nebezpečnějšími a my se snažíme nachytat dostatek ryb, ale sotva zvládneme naplnit naše sítě na to, abysme je odevzdaly jako projev úcty. Taky ale pořád musíme shánět šrot.{^n}{^n}Nemůžeme naše limity nesplnit. Naposledy, když se to stalo, si vzal Silas jedno z dětí zpátky do svého tábora a už jej nikdo nikdy neviděl. Prosím, pokud nám skutečně chceš pomoci, sežeň šrot jako dar a doruč ho Silasovi. Ikdyž to vypadá, že je to pro nás zlé, může to být už jen horší. Cronleyův gang drží všechny kopce, ze kterých je vidět na Nový přístav a určitě by dali vědět, pokud by se Silas ztratil. Odplata by byla tvrdá, takže prosím, nedělej nic neuvážlivého. My jsme ti, co za to budou trpět.
 Samozřejmě. Pomůžu ti s tím darem.
 Omlouvám se, nemohu ti pomoci.
 Můžu vás všechny odvést skrze Portál do Ďáblova průsmyku.

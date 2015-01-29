@@ -2,25 +2,25 @@ Angrim
 Jdi dál.
 Sbohem.
 Ty a já si už nemáme co říct.
-Ztratil jsem Malleum Menhir.
-Ano, našel jsem ho chvilku poté, cos odešel. Nepřestáváš mne urážet svojí přítomností. Vezmi si ho a jdi.
+[[ms]Ztratil[fs]Ztratila] jsem Malleum Menhir.
+Ano, našel jsem ho chvilku poté, cos [[ms]odešel[fs]odešla]. Nepřestáváš mne urážet svojí přítomností. Vezmi si ho a jdi.
 Díky.
 Dobrá.
 Prosím dohlédni, že Duncan použije kladivo, aby do Cairnu přinesl spravedlnost.
-Ztratil jsem Malleum Menhir.
-Měl bys být více opatrný. Vyrábění kladiv, jak je toto, je neuvěřitelně těžká záležitost. Máš štěstí, že jsem ho našel.
+[[ms]Ztratil[fs]Ztratila] jsem Malleum Menhir.
+Měl bys být více [[ms]opatrný[fs]opatrná]. Vyrábění kladiv, jak je toto, je neuvěřitelně těžká záležitost. Máš štěstí, že jsem ho našel.
 Omlouvám se, děkuji.
 Co teď budeš dělat?
 Tak jako u tebe je moje cesta stále přede mnou. Najdu si cestu kolem téhle laviny a pak vyhledám Černou legii.
 Co je Černá legie?
-Černá legie? Určitě jsi slyšel o Císařské elitě? Nebo jsi žil před Ponurým úsvitem v jeskyni?
+Černá legie? Určitě jsi [[ms]slyšel[fs]slyšela] o Císařské elitě? Nebo jsi [[ms]žil[fs]žila] před Ponurým úsvitem v jeskyni?
 Proč je hledáš?
 Slyšel jsem důvěryhodné zvěsti, že někteří z Legie uprchli před chaosem, který vypukl v hlavním městě. Chci je vypátrat a pomoci jim v boji proti útočníkům.
 Hodně štěstí s hledáním.
 Já...um, neřeš to.
 Hodně štěstí tam venku.
 Budu.
-Vítej, cizinče. Doufám, že jsi zde, abys bojoval za dobro.
+Vítej, [[ms]cizinče[fs]cizinko]. Doufám, že jsi zde, abys [[ms]bojoval[fs]bojovala] za dobro.
 Jsem tu pro Malleum Menhir.
 Co ty o tom víš?
 Duncan ho potřebuje, aby pomohl uprchlíkům.
@@ -33,7 +33,7 @@ Uvidíme se v Ďáblově průsmyku. (Spolči se s Angrimem: Otevři Bránu)
 Je čas předat kladivo dál.
 To je pravda, Duncan přinesl s tajemnými zbraněmi ke kovárně nový postoj a svoji práci dělá s jedinečnou energií, ale pořád mu chybí zkušenosti k vytváření zbraní pro opravdové vojáky a pány meče.{^n}{^n}Nemůžu plýtvat silou kladiva Malleum Menhir, když jsme ve válce.
 Budu se dívat, jak je jeho práce přínosem pro lidstvo. (Spolči se s Duncanem)
-Zapřáhnul bys ho do práce, eh? Skutečně vypadáš jako schopný typ.{^n}{^n}*Angrim si povzdechne.*{^n}{^n}Dobrá tedy, Duncan zdědí Malleum Menhir. Vezmi mu ho. Nech ho udělat jeho charitativní práci, ale potom...
+[[ms]Zapřáhnul[fs]Zapřáhla] bys ho do práce, eh? Skutečně vypadáš jako schopný typ.{^n}{^n}*Angrim si povzdechne.*{^n}{^n}Dobrá tedy, Duncan zdědí Malleum Menhir. Vezmi mu ho. Nech ho udělat jeho charitativní práci, ale potom...
 Děkuji ti. On a já dokážeme velké věci.
 Využili bychom tvůj talent v Ďáblově průsmyku.
 Pak si ho prostě vezmu silou.
@@ -44,15 +44,15 @@ Nezkoušej se mnou o něj bojovat.
 Nevyrábím jenom zbraně, víš. Také vím, jak je používat.{^n}{^n}Pokud chceš Malleum Menhir, budeš ho muset získat přes mojí mrtvolu.
 Omlouvám se, jen se snažím pomoci Duncanovi.
 Nenuť mě se ptát znovu. (Spolči se s Duncanem)
-Koukám, že jsi nezmoudřel. Tak budiž. Vezmi si ode mne tu pýchu vlastnit život. {^n}{^n}Jsi výsměchem toho, co znamená být člověkem v těchto těžkých časech.
-Jsem rád, že jsme si začali rozumět.
+Koukám, že jsi [[ms]nezmoudřel[fs]nezmoudřela]. Tak budiž. Vezmi si ode mne tu pýchu vlastnit život. {^n}{^n}Jsi výsměchem toho, co znamená být člověkem v těchto těžkých časech.
+Jsem [[ms]rád[fs]ráda], že jsme si začali rozumět.
 Budiž. (Spolči se s Duncanem: Zaútoč)
 Omlouvám se, jen se snažím pomoci Duncanovi.
 Tak potom hádám že musíš zemřít. (Spolči se s Duncanem: Zaútoč)
 Co tady venku děláš?
 To samé co ty, předpokládám. Hledám svůj smysl v boji za záchranu Cairnu. Černá legie je stále tam venku a určitě by využili kováře.
 Černá legie?
-Černá legie? Určitě jsi slyšel o Císařské elitě? Nebo jsi žil před Ponurým úsvitem v jeskyni?
+Černá legie? Určitě jsi [[ms]slyšel[fs]slyšela] o Císařské elitě? Nebo jsi [[ms]žil[fs]žila] před Ponurým úsvitem v jeskyni?
 Proč je hledáš?
 Slyšel jsem důvěryhodné zvěsti, že někteří z Legie uprchli před chaosem, který vypukl v hlavním městě. Chci je vypátrat a pomoci jim v boji proti útočníkům.
 

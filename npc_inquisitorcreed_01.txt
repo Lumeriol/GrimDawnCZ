@@ -4,28 +4,28 @@ Pokud chceš něco říct, tak ať je to rychle.
 Sbohem.
 Jsem rád že se k nám přidáš. Může to stát všechno co máme, abychom kult zastavili.
 Kamže to jdeme?
-Černá Legie má levnost na severu.
+Černá Legie má pevnost na severu.
 Jsem na cestě.
 Zastavíme je.
-Nezůstaneme v Hoemsteadu už příliš dlouho a hodila by se mi tvá pomoc.{^n}{^n}Přidáš se k nám?
+Nezůstaneme v Homesteadu už příliš dlouho a hodila by se mi tvá pomoc.{^n}{^n}Přidáš se k nám?
 Kde mě potřebujete?
 SLOVA
 Sejdeme se na severu.
 Obávám se, že nemohu.
 Mám nějaké záležistosti, kterým se musím věnovat přednostně.
 Jsi tady. Dobře.{^n}{^n}Máme toho hodně k prodiskutování.
-U Karroze jsem nalezl tyto poznámky.
+U Karroze jsem [[ms]nalezl[fs]nalezla] tyto poznámky.
 Hm, slyšel jsem o tomto rituálu. Byl uskutečněn pouze jednou, pokud mi paměť dobře slouží. Výsledky byly...špatné.{^n}{^n}Už nemůžeme ztrácet čas. Musíme vyrazit na sever do PEVNOSTI okamžitě. Přidáš se k nám?
 Kde mě potřebujete?
 
 Záchrana právě včas. Osud čekající tyto vězně byl vskutku strašný.
 
 Tak zatím.
-Se zničením té zrůdnosti sis vedl dobře. Bojím se jen pomyslet na to, co to mohlo způsobit, kdybychom měli prohrát.
+Se zničením té zrůdnosti sis [[ms]vedl[fs]vedla] dobře. Bojím se jen pomyslet na to, co to mohlo způsobit, kdybychom měli prohrát.
 
 Tak zatím.
-Slyšel jsem že jsi na cestě do Hrůzných pastvin. Dávej si pozor na posedlé troly. I hear you are headed to the Gruesome Harvest. Be mindful of the possessed trolls. Jsou dokonce ještě silnější než jejich žijící protějšky a vysoce odolní vůči Aetheru. Předvojovci kolem sebe dokonce dokážou vypustit Aether ve formě energie.{^n}{^n}Oživovači oživí další spojence, pokud se to s nimi rychle nevyřeší, ale pokud je dokážeš zničit, jejich sluhové padnou společně s nimi.
-Jak to, že toho o Aetherijských víš tolik?
+Slyšel jsem že jsi na cestě do Hrůzných pastvin. Dávej si pozor na posedlé troly. Jsou dokonce ještě silnější než jejich žijící protějšky a vysoce odolní vůči Aetheru. Předvojovci kolem sebe dokonce dokážou vypustit Aether ve formě energie.{^n}{^n}Oživovači oživí další spojence, pokud se to s nimi rychle nevyřeší, ale pokud je dokážeš zničit, jejich sluhové padnou společně s nimi.
+Jak to, že toho o Aetherijských tolik víš?
 Poskytl jsem všechny svoje zdroje, abychom vystopovali Aetherijskou hrozbu, ale přišel jsem příliš pozdě a nestihl tak zastavit události, které vedly k Ponurému úsvitu.{^n}{^n}Nyní studuji nepřítele a učím se jejich taktiku, abychom nedělali žádné další chyby. Věř mi, hodlám plně využít všechny nám dostupné prostředky.
 Dobrá, děkuji ti.
 
@@ -43,7 +43,7 @@ Mám ještě jinou otázku.
 Chápu.
 Jak jsi se dostal z laboratoře Wardena Kriega?
 Ah, to byl malý obchodní trik. Jako inkvizitor mám přístup k mnoha okultním artefaktům a relikviím, které Inkvizitorská kancelář prohlásila za neškodné. Využil jsem je k získání převahy.{^n}{^n}Krieg tohle podcenil.
-Mohl bych k některým z nich mít přístup?
+[[ms]Mohl[fs]Mohla] bych k některým z nich mít přístup?
 Nejsou to hračky, které dáme jen tak někomu. Jsou to mocné artefakty a musí se s nimi opatrně zacházet.{^n}{^n}Obávám se, že odpověď je ne.
 Mám ještě jinou otázku.
 Dobrá.

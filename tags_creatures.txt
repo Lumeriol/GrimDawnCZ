@@ -631,7 +631,7 @@ tagThornedHorrorHeroH04=Rotthorn ~ Nemocný
 tagThornedHorrorHeroH05=Everbark ~ Obnovitel
 tagThornedHorrorHeroH06=Rimebark ~ Zmražený
 
-tagThornedHorrorBoss01=Ol' Krvošípek
+tagThornedHorrorBoss01=Staroch Krvošípek
 
 tagEnemyAetherHorrorA01=Přízrak s aetherickými ostny
 
@@ -834,7 +834,7 @@ tagEnemySummonAetherTrap=Aetherická past
 
 #Boss&Quest
 
-tagQuestEnemyReanimator=Kyzogg Oživovač
+tagQuestEnemyReanimator=Kyzogg Oživovatel
 tagQuestEnemyMiltonHart=Milton Hart
 tagQuestEnemyBanditForge=Outlaw Forge
 tagQuestChthonianMonstrosity=Mag'Thel, Rozparovač
