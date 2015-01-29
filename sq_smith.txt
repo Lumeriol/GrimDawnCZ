@@ -1,12 +1,12 @@
 Ďáblův průsmyk
 Příběh o dvou kovářích
 Promluv si s Angrimem
-Duncan, mladý kovář v táboře uprchlíků v Burrwitchských pláních tě požádal, abys našel jeho mistra, Angrima. Angrim nedávno opustil kemp a zamířil na severovýchod, aby našel "více schopné" jedince. Duncan chce pomoci uprchlíkům přežít tak, že jim poskytne lepší vybavení, ale k tomu potřebuje Malleum Menhir, pradávné kovářské kladivo, které vlastní jeho mistr.{^n}{^n} Pokud od Angrima kladivo získáš, dokáže Duncan ulehčit život uprchlíků a pak se k tobě rád přidá v Ďáblově průsmyku.
+Duncan, mladý kovář v táboře uprchlíků v Burrwitchských pláních tě požádal, abys [[ms]našel[fs]našla] jeho mistra, Angrima. Angrim nedávno opustil kemp a zamířil na severovýchod, aby našel "více schopné" jedince. Duncan chce pomoci uprchlíkům přežít tak, že jim poskytne lepší vybavení, ale k tomu potřebuje Malleum Menhir, pradávné kovářské kladivo, které vlastní jeho mistr.{^n}{^n} Pokud od Angrima kladivo získáš, dokáže Duncan ulehčit život uprchlíků a pak se k tobě rád přidá v Ďáblově průsmyku.
 
 
 Promluv si s Angrimem v Burrwitchských pláních
 Zabij a doruč
-Rozhodl jsi se, že zabití Angrima je jedinou možností, jak od něj získat Malleum Menhir. Zabij Angrima, abys získal kovářské kladivo a pak ho doruč Duncanovi do tábora uprchlíků v blízkosti Brány v Burrwitchských pláních.
+Rozhodl jsi se, že zabití Angrima je jedinou možností, jak od něj získat Malleum Menhir. Zabij Angrima, abys [[ms]získal[fs]získala] kovářské kladivo a pak ho doruč Duncanovi do tábora uprchlíků v blízkosti Brány v Burrwitchských pláních.
 
 
 
@@ -18,7 +18,7 @@ Doruč Malleum Menhir Duncanovi do tábora uprchlíků
 
 
 Vezmi a doruč
-Získal jsi od Angrima Malleum Menhir. Duncan netrpělivě očekává jeho doručení do tábora uprchlíků v blízkosti Brány v Burrwitchských pláních.
+[[ms]Získal[fs]Získala] jsi od Angrima Malleum Menhir. Duncan netrpělivě očekává jeho doručení do tábora uprchlíků v blízkosti Brány v Burrwitchských pláních.
 
 
 Získej od Angrima Malleum Menhir
@@ -28,7 +28,7 @@ Doruč Malleum Menhir Duncanovi do tábora uprchlíků
 
 
 Promluv si s učněm
-Přesvědčil jsi Duncana, aby se připojil k tvé záležitosti v Ďáblově průsmyku. Promluv si s ním uvnitř vězení, jakmile se vrátí z tábora uprchlíků.
+[[ms]Přesvědčil[fs]Přesvědčila] jsi Duncana, aby se připojil k tvé záležitosti v Ďáblově průsmyku. Promluv si s ním uvnitř vězení, jakmile se vrátí z tábora uprchlíků.
 Promluv s Duncanem v Ďáblově průsmyku
 
 
@@ -40,7 +40,7 @@ Promluv s Duncanem v Ďáblově průsmyku
 
 
 Promluv si s mistrem
-Přesvědčil jsi Angrima, aby se připojil k tvé záležitosti v Ďáblově průsmyku. Promluv si s ním uvnitř vězení.
+[[ms]Přesvědčil[fs]Přesvědčila] jsi Angrima, aby se připojil k tvé záležitosti v Ďáblově průsmyku. Promluv si s ním uvnitř vězení.
 
 
 

@@ -1,18 +1,18 @@
 Stará Arkovie
 Placení daní
 Doruč věci nebo zabij banditu
-Alicia z Nového přístavu ve Staré Arkovii. Její vesnice je vydírána nedalekými bandity a jimi požadované dodávky se zvětšují. S tím, jak se její lidé snaží nashromáždit dostatek ryb a zaplatily tak daň, opožďují se se shromažďováním šrotu. Pokud nedoručí dostatek šrotu Silasovi, jejich veliteli, zcela jistě někoho popraví. Alicia jasně naznačila, že Silasovi se nesmí nic stát, protože se bojí odplaty. Abys vesnici vypomohl, požádala tě o sehnání dostatečného množství šrotu. Bandité mají pevnost nedaleko, na Čtvero vršcích, a ti by šrot mít měli.
+Alicia z Nového přístavu ve Staré Arkovii. Její vesnice je vydírána nedalekými bandity a jimi požadované dodávky se zvětšují. S tím, jak se její lidé snaží nashromáždit dostatek ryb aby zaplatili daň, opožďují se se shromažďováním šrotu. Pokud nedoručí dostatek šrotu Silasovi, jejich veliteli, zcela jistě někoho popraví. Alicia jasně naznačila, že Silasovi se nesmí nic stát, protože se bojí odplaty. Abys vesnici [[ms]vypomohl[fs]vypomohla], požádala tě o sehnání dostatečného množství šrotu. Bandité mají pevnost nedaleko, ve Čtvero vršcích, a ti by šrot mít měli.
 Posbírej šrot
 Doruč šrot Silasovi do Nového přístavu
 Návrat
-Dručil jsi šrot Silasovi, ujištěný, že Nový přístav nepocítí hněv banditů. Měl bys dát Alicii vědět, že je Silas umírněný.
+[[ms]Doručil[fs]Doručila] jsi šrot Silasovi, [[ms]ujištěn[fs]ujištěna], že Nový přístav nepocítí hněv banditů. [[ms]Měl[fs]Měla] bys dát Alicii vědět, že je Silas umírněný.
 Vrať se za Alicií do Nového přístavu
 
 
 
 
 Návrat s úplatkem
-Uplatil jsi Silase, aby nechal Nový přístav na pokoji. Měl bys dát Alicii vědět, že psanci je prozatím nechají být.
+[[ms]Uplatil[fs]Uplatila] jsi Silase, aby nechal Nový přístav na pokoji. [[ms]Měl[fs]Měla] bys dát Alicii vědět, že psanci je prozatím nechají být.
 
 Vrať se za Alicií do Nového přístavu
 
@@ -21,13 +21,13 @@ Vrať se za Alicií do Nového přístavu
 
 
 Zabij Silase
-Rozhodl jsi se Silase zabít místo toho, abys ho nechal vydírat Nový přístav. Zabij Silase a ukonči jeho hrůzovládu nad rybáři.
+[[ms]Roshodl[fs]Rozhodla] jsi se Silase zabít místo toho, abys ho [[ms]nechal[fs]nechala] vydírat Nový přístav. Zabij Silase a ukonči jeho hrůzovládu nad rybáři.
 
 
 Zabij Silase
 
 Silas zabit
-Zabij jsi Silase a osvobodil tak Nový přístav od vlivu banditů. Měl bys dát Alicii o svých skutcích vědět.
+[[ms]Zabil[fs]Zabila] jsi Silase a [[ms]osvobodil[fs]osvobodila] tak Nový přístav od vlivu banditů. Měl bys dát Alicii o svých činech vědět.
 Vrať se za Alicií do Nového přístavu
 
 
@@ -36,7 +36,7 @@ Vrať se za Alicií do Nového přístavu
 
 
 Silas uprchl
-Zabil jsi Cronleyho a rozprášil jsi jeho gang. Silas uprchl ještě předtím, než jsi měl šanci se s ním vypořádat. Promluv si s Alicií o dobrých zprávách.
+[[ms]Zabil[fs]Zabila] jsi Cronleyho a [[ms]rozprášil[fs]rozprášila] jsi jeho gang. Silas uprchl ještě předtím, než jsi [[ms]měl[fs]měla] šanci se s ním vypořádat. Promluv si s Alicií o dobrých zprávách.
 
 Vrať se za Alicií do Nového přístavu
 

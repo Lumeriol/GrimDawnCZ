@@ -1,40 +1,40 @@
 Duncan
-Vítej, cestovateli.
+Vítej, [[ms]cestovateli[fs]cestovatelko].
 Sbohem.
-Neviním tě z toho, jak ses rozhodl. Angrim je dobrý kovář, s jistotou ten nejlepší tady v okolí. Udělám co bude v mých silách pro tyto lidi s tím, co seženu.
+Neviním tě z toho, jak ses [[ms]rozhodl[fs]rozhodla]. Angrim je dobrý kovář, s jistotou ten nejlepší tady v okolí. Udělám co bude v mých silách pro tyto lidi s tím, co seženu.
 Sbohem.
-Ty ses vrátil! Máš Malleum Menhir?
+Ty ses [[ms]vrátil[fs]vrátila]! Máš Malleum Menhir?
 Omlouvám se, ale kladivo zůstane u Angrima.
 Ah, Já...chápu...Pak hádám, že tohle je sbohem. Pokud mne teď omluvíš, musím ke kovárně.
 Sbohem.
 Už jsem tady skoro hotov. Uvidíme se v Ďáblově průsmyku.
 Uvidíme se tam.
-Ty ses vrátil! Máš Malleum Menhir?
-Přesvědčil jsem Angrima, aby se ho vzdal. Tady ho máš.
+Ty ses [[ms]vrátil[fs]vrátila]! Máš Malleum Menhir?
+[[ms]Přesvědčil[fs]Přesvědčila] jsem Angrima, aby se ho vzdal. Tady ho máš.
 Jsem ohromen. Angrim má tuhý kořínek, co se týče přesvědčování ho o čemkoliv, ale jsem rád, že nemuselo dojít k potyčce. Díky, s tímhle vykonám hodně dobrého.
 Takže se ke mně v Ďáblově průsmyku přidáš?
 Ano, samozřejmě. Nejdřív musím dokončit práci tady. Teď, když mám kovářské kladivo mého mistra, budu schopen tyto lidi zásobit kvalitním vybavením.{^n}{^n}Uvidíme se v Ďáblově průsmyku, přísahám.
 Uvidíme se tam.
-To kladivo jsem měl, ale někam jsem ho zašantročil.
+To kladivo jsem [[ms]měl[fs]měla], ale někam jsem ho [[ms]zašantročil[fs]zašantročila].
 Cože?! Jdi zpátky a najdi ho. To kladivo je k nezaplacení!
 Jdu na to.
-Ty ses vrátil! Máš Malleum Menhir?
-Byl jsem donucen kvůli němu zabít Angrima, ale tady ho máš.
+Ty ses [[ms]vrátil[fs]vrátila]! Máš Malleum Menhir?
+[[ms]Byl[fs]Byla] jsem [[ms]donucen[fs]donucena] kvůli němu zabít Angrima, ale tady ho máš.
 Přál jsem si, aby k tomu nemuselo dojít. Je to hrůzostrašná cena za tuto posvátnou relikvii. Ale dobro nás všech převažuje nad životem jednoho. {^n}{^n}Budu muset dřít mnohem více, abych se ujistil, že Angrimův život nebyl ukončen nadarmo.
 Takže se ke mně v Ďáblově průsmyku přidáš?
 Ano, samozřejmě. Nejdřív musím dokončit práci tady. Teď, když mám kovářské kladivo mého mistra, budu schopen tyto lidi zásobit kvalitním vybavením.{^n}{^n}Uvidíme se v Ďáblově průsmyku, přísahám.
 Uvidíme se tam.
-To kladivo jsem měl, ale někam jsem ho zašantročil.
+To kladivo jsem [[ms]měl[fs]měla], ale někam jsem ho [[ms]zašantročil[fs]zašantročila].
 Cože?! Jdi zpátky a najdi ho. To kladivo je k nezaplacení!
 Jdu na to.
-Tak? Mluvil jsi s Angrimem?
+Tak? [[ms]Mluvil[fs]Mluvila] jsi s Angrimem?
 Kdeže je?
 Můj mistr opustil kemp dnes brzy ráno, zamířil na severovýchod. Nemůže být daleko.
 
 
 Najdu ho.
 Co je Malleum Menhir?
-Je to pradávné kovářské kladivo přecházející z jedné generace kovářů na druhou. Nyní je v rukách mého mistra, Angrima, ale cítím že přišel čas, aby bylo dál předáno do mladších rukou.
+Je to pradávné kovářské kladivo předávané z jedné generace kovářů na druhou. Nyní je v rukách mého mistra, Angrima, ale cítím že přišel čas, aby bylo dál předáno do mladších rukou.
 Kdeže je Angrim?
 
 Chápu.
@@ -44,7 +44,7 @@ Kdeže je Angrim?
 
 Chápu.
 Stále ho hledám.
-Ahoj cestovateli. Když jsi došel až sem do této oblasti, zajímalo by mne, jestli bys nám nepomohl někoho najít. Jsem tak trochu zaneprázdněný tady s tou kovárnou.
+Ahoj [[ms]cestovateli[fs]cestovatelko]. Když jsi [[ms]došel[fs]došla] až sem do této oblasti, zajímalo by mne, jestli bys nám [[ms]nepomohl[fs]nepomohla] někoho najít. Jsem tak trochu zaneprázdněný tady s tou kovárnou.
 Někdo se ztratil?
 Můj mistr, Angrim, opustil náš kemp dnes brzy ráno. Je rozhodnutý najít skupinu přeživších, které považuje za "hodné" našeho kovářského umu. Tak úplně jsme se neshodli na tom, komu máme pomoci.{^n}{^n}Angrim chce vybudovat armádu a bojovat s Aetheriany. Já bych raději zachránil tolik lidí, kolik dokážu, ať už umí bojovat či ne. Chci pomoci těmto lidem, ale bez Malleum Menhir, posvátného kovářského kladiva mého mistra, nedokážu vyrobit něco, co by za to stálo.
 Kovář? Užili bychom tě v Ďáblově průsmyku.
@@ -57,7 +57,7 @@ Můj mistr je kovář odborník, nepochop mě špatně. Zbraně, které vyrábí
 
 Chápu.
 Co je Malleum Menhir?
-Je to pradávné kovářské kladivo přecházející z jedné generace kovářů na druhou. Nyní je v rukách mého mistra, Angrima, ale cítím že přišel čas, aby bylo dál předáno do mladších rukou.
+Je to pradávné kovářské kladivo předávané z jedné generace kovářů na druhou. Nyní je v rukách mého mistra, Angrima, ale cítím že přišel čas, aby bylo dál předáno do mladších rukou.
 
 
 Chápu.

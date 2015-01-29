@@ -47,9 +47,9 @@ tagSkillClassName0809=[ms]
 
 tagSkillDevotion=Oddanost
 
-tagSkillClassDescription01=[[ms]Vojáci císařské armády byli trénováni k přežití v těch nejhorších podmínkách a udrželi linii před těmi nejnebezpečnějšími nepřáteli říše. Vojáci upřednostňují používání chladných zbraní jako jsou meče a štíty, ale mohou se také uplatnit jako střelci ze zálohy. Co může vojákovi chybět v množství jím uděleného poškození, to doplní svou statečností a vedením.[fs]Vojáci císařské armády byli trénováni k přežití v těch nejhorších podmínkách a udrželi linii před těmi nejnebezpečnějšími nepřáteli říše. Vojáci upřednostňují používání chladných zbraní jako jsou meče a štíty, ale mohou se také uplatnit jako střelci ze zálohy. Co může vojákovi chybět v množství jím uděleného poškození, to doplní svou statečností a vedením.]
+tagSkillClassDescription01=Vojáci císařské armády byli trénováni k přežití v těch nejhorších podmínkách a udrželi linii před těmi nejnebezpečnějšími nepřáteli říše. Vojáci upřednostňují používání chladných zbraní jako jsou meče a štíty, ale mohou se také uplatnit jako střelci ze zálohy. Co může vojákovi chybět v množství jím uděleného poškození, to doplní svou statečností a vedením.
 
-tagSkillClassDescription02=[[ms]Pyrotechničtí mistři císařské armády. Ničitelé jsou částečně inženýři a částečně kouzelníci. Byli využíváni k prolomení nepřátelských pozic a opevnění za pomoci jejich zničující výbavy různých výbušnin a destruktivní magie. Obvykle dávali přednost boji na dálku; útočili na nepřátele střelnými zbraněmi, pastmi a výbušninami. Samozřejmě jsou také schopni použít chladnou zbraň.[fs]Pyrotechnické mistryně císařské armády. Ničitelky jsou částečně inženýrky a částečně kouzelnice. Byly využívány k prolomení nepřátelských pozic a opevnění za pomoci jejich zničující výbavy různých výbušnin a destruktivní magie. Obvykle dávaly přednost boji na dálku; útočily na nepřátele střelnými zbraněmi, pastmi a výbušninami. Samozřejmě jsou také schopny použít chladnou zbraň.]
+tagSkillClassDescription02=[[ms]Pyrotechničtí[fs]Pyrotechnické] [[ms]mistři[fs]mistryně] císařské armády. [[ms]Ničitelé[fs]Ničitelky] jsou částečně [[ms]inženýři[fs]inženýrky] a částečně [[ms]kouzelníci[fs]kouzelnice]. [[ms]Byli[fs]Byly] [[ms]využíváni[fs]využívány] k prolomení nepřátelských pozic a opevnění za pomoci jejich zničující výbavy různých výbušnin a destruktivní magie. Obvykle [[ms]dávali[fs]dávaly] přednost boji na dálku; [[ms]útočili[fs]útočily] na nepřátele střelnými zbraněmi, pastmi a výbušninami. Samozřejmě jsou také [[ms]schopni[fs]schopny] použít chladnou zbraň.
 
 tagSkillClassDescription03=[[ms]Poté, co byli pronásledováni císařskými vojsky ve snaze ovládnout jejich podivnou moc, Okultisté se zaměřili na vyvolávání a vypůjčili si energii od tří čarodějnických "bohů" - Bysmiela, Solaela a Dreega. Mezi jejich různorodá umění patří odporné kletby a kouzla, která způsobují zranění jedem, kyselinou a chaotickou energií. Nevynikají v boji s mečem ani střelnou zbraní, ale mohou je použít jako dodatečnou údernou sílu.[fs]Poté, co byly pronásledovány císařskými vojsky ve snaze ovládnout jejich podivnou moc, Okultistky se zaměřily na vyvolávání a vypůjčily si energii od tří čarodějnických "bohů" - Bysmiela, Solaela a Dreega. Mezi jejich různorodá umění patří odporné kletby a kouzla, která způsobují zranění jedem, kyselinou a chaotickou energií. Nevynikají v boji s mečem ani střelnou zbraní, ale mohou je použít jako dodatečnou údernou sílu.]
 
@@ -73,8 +73,8 @@ tagSkillDefaultAttackDescription01=Útoky s nasazenou zbraní.
 tagSkillDefaultMoveTo=Základní pohyb
 tagSkillDefaultMoveToDescription=Pohyb na požadované místo.
 
-tagSkillDefaultPetAttack=Pet Attack
-tagSkillDefaultPetAttackDescription=Command all controllable pets to attack.
+tagSkillDefaultPetAttack=Útok mazlíčka
+tagSkillDefaultPetAttackDescription=Přikáže všem mazlíčkům pod kontrolou zaútočit.
 
 tagSkillInnate=Vrozená schopnost
 tagSkillSumLVL=Roste s úrovní vyvolávání.
@@ -119,7 +119,7 @@ tagClass01SkillDescription04B=Válečný pokřik ochromí morálku nepřítele, 
 tagClass01SkillName05A=Obloukový útok
 tagClass01SkillDescription05A=Obloukový švih, který projde i skrze více nepřátel kolem tebe. ^oVyžaduje chladnou zbraň.
 tagClass01SkillName05B=Rozdrásání
-tagClass01SkillDescription05B=Specializovaná technika způsobí, že Rozdrásání udeří více nepřátel a rozerve je, což způsobí krvácení.
+tagClass01SkillDescription05B=Specializovaná technika způsobí, že Rozdrásání udeří více nepřátel a rozerve je, což má za následek krvácení.
 tagClass01SkillName05C=Čistka
 tagClass01SkillDescription05C=Silnější forma Obloukového útoku, ve kterém Voják sbírá sílu mezi jednotlivými útoky, aby ji poté vypustil v jediném cíleném úderu s intenzivním poškozením, jež může srazit tvé nepřátele na zem.
 

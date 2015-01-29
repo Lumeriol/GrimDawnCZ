@@ -1,18 +1,18 @@
 Balvoruuk
-Buď pozdraven.
-Měl bych nějaké otázky.
+Buď [[ms]pozdraven[fs]pozdravena].
+[[ms]Měl[fs]Měla] bych nějaké otázky.
 Můžeš se ptát.
 Jak to, že tě nemrtví neobtěžují?
 Skryl jsem před nimi svou přítomnost a Kalderos je jen další duch kráčející Cairnem. Nicméně by tento klam neuspěl proti množství duchů kráčejících v Podzemním městě; je to tíživá situace.
-Měl bych ještě otázku.
+[[ms]Měl[fs]Měla] bych ještě otázku.
 Chápu.
 Proč jsi zde a likviduješ mrtvé?
 Hříchy Arkovie už nadále nemusí ničit tuto zemi. Dělám to, protože to tak musí být.
-Měl bych ještě otázku.
+[[ms]Měl[fs]Měla] bych ještě otázku.
 Sbohem.
 Co je Řád hlídky smrti?
 Vše co potřebuješ vědět je to, že jsem zde ve službách Cairnu.
-Měl bych ještě otázku.
+[[ms]Měl[fs]Měla] bych ještě otázku.
 Dobrá.
 Už nic.
 Sbohem.
@@ -24,33 +24,33 @@ Děkuji ti.
 Sbohem.
 Buď pozdraven.
 Sbohem.
-Udělal jsi, oč jsem žádal?
+[[ms]Udělal[fs]Udělala] jsi, oč jsem žádal?
 Oligarchové již nejsou.
 Skvělé. Má důvěra v tebe nebyla nesmyslná. Promluv si s Kalderosem ve Stupních bolesti v oblasti Sesutých kopců. Povede tě.
 Dobře.
 
 Sbohem.
-Udělal jsi, oč jsem žádal?
+[[ms]Udělal[fs]Udělala] jsi, oč jsem žádal?
 Kam že to mám znovu jít?
 Musíš putovat do Arkovianského Podzemního města. Jeho vchod leží v ruinách na západ odtud. Tam najdeš duchy oligarchů. Vypuď jejich duše z tohoto světa!
 Půjdu tam hned teď.
 
 Sbohem.
-Buď pozdraven. Neznáš mne, ale já jsem o tobě slyšel. Já jsem Balvoruuk, z Řádu hlídky smrti. Tvé hrdinské činy mne přesvědčily, že bys mohl být osobou, kterou potřebuji pro můj...úkol.
+Buď [[ms]pozdraven[fs]pozdravena]. Neznáš mne, ale já jsem o tobě slyšel. Já jsem Balvoruuk, z Řádu hlídky smrti. Tvé hrdinské činy mne přesvědčily, že bys [[ms]mohl[fs]mohla] být osobou, kterou potřebuji pro svůj...úkol.
 Úkol?
-Ano. Jsem zde od toho, abych tento kraj očistil od mnoha zlovolných duchů. Jejich poskvrněná přítomnost poškozovala Arkovii už dost dlouho.{^n}{^n}Nicméně mí páni podcenili úroveň toho, jak tito starodávní oligarchové sami sebe obklopili dalšími. Arkovianské Podzemní město se hemží mrtvými; musím přiznat, že je jich mnohem více, než jsem schopný zvládnout bez pomoci mých bratrů. Ale ty, ty jsi rychle dokázal, že jsi tak mocnou odplatou, jakou tento svět ještě nikdy nespatřil. Jdi dolů do Podzemního města a znič duchy Nomose Reda, Laudose Vagra a Rhovenaa Kura. Až budeš hotov, vyhledej mého společníka, Kalderose, u vstupu do Stupňů bolesti. Povede tě směrem k tvému poslednímu cíli.
+Ano. Jsem zde od toho, abych tento kraj očistil od mnoha zlovolných duchů. Jejich poskvrněná přítomnost poškozovala Arkovii už dost dlouho.{^n}{^n}Nicméně mí páni podcenili úroveň toho, jak tito starodávní oligarchové sami sebe obklopili dalšími. Arkovianské Podzemní město se hemží mrtvými; musím přiznat, že je jich mnohem více, než jsem schopný zvládnout bez pomoci mých bratrů. Ale ty, ty jsi rychle [[ms]dokázal[fs]dokázala], že jsi tak mocnou odplatou, jakou tento svět ještě nikdy nespatřil. Jdi dolů do Podzemního města a znič duchy Nomose Reda, Laudose Vagra a Rhovenaa Kura. Až budeš [[ms]hotov[fs]hotova], vyhledej mého společníka, Kalderose, u vstupu do Stupňů bolesti. Povede tě směrem k tvému poslednímu cíli.
 Splním ten úkol.
 To nemohu udělat.
-Oligarchy jsem již vypudil.
+Oligarchy jsem již [[ms]vypudil[fs]vypudila].
 Skvělé. Má důvěra v tebe nebyla nesmyslná. Promluv si s Kalderosem ve Stupních bolesti v oblasti Sesutých kopců. Povede tě.
 Dobrá.
 Nechci se tohohle zúčastnit.
 Ten duch, ty jsi snad nekromancer?
 Vyděsil tě Kalderos? Ano, já jsem z Řádu. Býval bych doufal, že vyvrhel jako jsi ty bude více schopný porozumět lidem jako já...Zde se střetáváme s realitou.{^n}{^n}Budeš nyní naslouchat mým problémům a nebo budeš dál civět do nemrtvých očí mého společníka?
-Co chceš, abych udělal?
-Měl bych tě zabít teď a tady.
+Co chceš, abych [[ms]udělal[fs]udělala]?
+[[ms]Měl[fs]Měla] bych tě zabít teď a tady.
 Ujišťuji tě, že jakákoliv forma nepřátelství vůči mně by byla marná snaha. Mimochodem, nejsem zde, abych se s tebou přel. Pokud nesplníš můj úkol, je pak naše shledání u konce.
-Co chceš, abych udělal?
+Co chceš, abych [[ms]udělal[fs]udělala]?
 Tady jsme skončili.
 S takovými jako jsi ty se nezabývám.
 Nechci to vědět.

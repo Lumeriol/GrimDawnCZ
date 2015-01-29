@@ -3,21 +3,21 @@ Vítej zpět v našem skromném táboře. Ať je tvá cesta vždy bezpečná a a
 Sbohem.
 Tví spojenci dobře posloužili této oblasti tím, že zničili tu barikádu.
 Sbohem.
-Ty ses vrátil. Byl tvůj pokus úspěšný?
-Zničil jsem zátaras.
-Dobře odvedená práce!{^n}{^n}Děkuji ti. Pomohl jsi nám, a my na to nezapomeneme.
+Ty ses [[ms]vrátil[fs]vrátila]. Byl tvůj pokus úspěšný?
+[[ms]Zničil[fs]Zničila] jsem zátaras.
+Dobře odvedená práce!{^n}{^n}Děkuji ti. [[ms]Pomohl[fs]Pomohla] jsi nám, a my na to nezapomeneme.
 Bylo mi potěšením.
 Znovu tě zdravím! Jak jde tvé pátrání po dynamitu?
-Kdeže bych měl hledat?
+Kdeže bych [[ms]měl[fs]měla] hledat?
 Předpokládám, že nějaký dynamit by se měl povalovat okolo Stautonova dolu na západě.
 Díky. Půjdu na to.
-POřád hledám. Tak zatím.
-Vítej, cizinče. Je mi potěšením setkat se s někým, kdo nezačíná okamžitě tasit zbraně. To samé nemůžu říct o gangu na vrcholku kopce na východě.
+Pořád hledám. Tak zatím.
+Vítej, [[ms]cizinče[fs]cizinko]. Je mi potěšením setkat se s někým, kdo nezačíná okamžitě tasit zbraně. To samé nemůžu říct o gangu na vrcholku kopce na východě.
 Máte problémy s bandity?
-Násilní a krvelační vrahové, všichni. Všechno, co na tomhle světě nenávidíme. A nyní postavili barikádu na cestě, aby chytili do pasti cestovatele, jako jsme my. Než se rozhodneme s tím, co uděláme, rozbili jsme tady tábor.{^n}{^n}Nejlepší možností je vyhodit tu barikádu do vzduchu, čímž bysme umožnili našim bratrům a sestrám cestovat v pokoji; zatím jsme tak ale neudělali. Poslyš, ty vypadáš jako schopný typ. Uděláme dohodu. Stautonův důl odtud na západ je opuštěný, ale mohly by tam být nějaké výbušniny. Pokud objevíšnějaký dynamit a použiješ ho na odstranění té mizerné barikády, mohu ti za tvé potíže nabídnout mince. Co na to říkáš?
+Násilní a krvelační vrahové, všichni. Všechno, co na tomhle světě nenávidíme. A nyní postavili barikádu na cestě, aby chytili do pasti cestovatele, jako jsme my. Než se rozhodneme, co s tím uděláme, rozbili jsme tady tábor.{^n}{^n}Nejlepší možností je vyhodit tu barikádu do vzduchu, čímž bysme umožnili našim bratrům a sestrám cestovat v pokoji; zatím jsme tak ale neudělali. Poslyš, ty vypadáš jako schopný typ. Uděláme dohodu. Stautonův důl odtud na západ je opuštěný, ale mohly by tam být nějaké výbušniny. Pokud objevíš nějaký dynamit a použiješ ho na odstranění té mizerné barikády, mohu ti za tvé potíže nabídnout mince. Co na to říkáš?
 Jasně. Pomůžu vám.
 Nemám zájem.
 Blokáda je odstraněna.
-Ohromil jsi mne, cizinče.{^n}{^n}Děkuji ti. Pomohl jsi nám, a my na to nezapomeneme.
+[[ms]Ohromil[fs]Ohromila] jsi mne, [[ms]cizinče[fs]cizinko].{^n}{^n}Děkuji ti. [[ms]Pomohl[fs]Pomohla] jsi nám, a my na to nezapomeneme.
 Je vždy potěšením zničit den psancům.
 Sbohem.

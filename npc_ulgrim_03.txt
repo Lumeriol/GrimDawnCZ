@@ -2,22 +2,22 @@ Ulgrim
 Nezastavuj se, mé čepele touží po trolí krvi, ale tvoje taky bude stačit.
 Dobrá, už jdu.
 Takže, jak moc v háji jsme?
-Zabezpečil jsem cestu skrze Bránu.
-Eh, zase ta mizerná věc? Skoro jsem vyhodil snídani, když jsi mě skrze jednu z nich vzal.{^n}{^n}Dobrá, nemá smysl si stěžovat, tihle lidé tady už moc dlouho nevydrží.
+[[ms]Zabezpečil[fs]Zabezpečila] jsem cestu skrze Bránu.
+Eh, zase ta mizerná věc? Skoro jsem vyhodil snídani, když jsi mě skrze jednu z nich [[ms]vzal[fs]vzala].{^n}{^n}Dobrá, nemá smysl si stěžovat, tihle lidé tady už moc dlouho nevydrží.
 Uvidím vás v Homesteadu. (otevři Bránu)
 Portál? Jen Aetheriany jsem viděl něco takového používat.{^n}{^n}Opravdu doufám že víš, co děláš.
-vidím vás v Homesteadu. (otevři Bránu)
+Uvidím vás v Homesteadu. (otevři Bránu)
 Doufám, že tvá cesta do Homesteadu byla dobrá.
 Kam že to mám jít?
-Stará cesta skrze doly je zablokovaná, zdvořilost od Aetherianů. Bude potřeba, abys vstoupil do Horských hlubin poblíž a našel cestu skrz na Zlatokopovu pěšinu. Pokud po ní půjdeš na sever, měl bys najít Homestead. jen těžko ho mineš.
+Stará cesta skrze doly je zablokovaná, zdvořilost od Aetherianů. Bude potřeba, abys [[ms]vstoupil[fs]vstoupila] do Horských hlubin poblíž a [[ms]našel[fs]našla] cestu skrz až na Zlatokopovu pěšinu. Pokud po ní půjdeš na sever, [[ms]měl[fs]měla] bys najít Homestead. jen těžko ho mineš.
 Dobrá, pak tedy vyrazím.
 Brzy vás dostanu do bezpečí.
-Vida, jestli tohle není můj nejlepší přítel z Ďáblova průsmyku. Tušil jsem, že tudy budeš procházet.
+Vida, jestli tohle není [[ms]můj[fs]má] nejlepší [[ms]přítel[fs]kamarádka] z Ďáblova průsmyku. Tušil jsem, že tudy budeš procházet.
 Ulgrime? Co ty tady děláš!?
-Nebyl jsem vůči tobě úplně upřímný. Nejsem kuchař, nejsem ani ve stejném oboru, ikdyž by to byla možná lepší cesta...{^n}{^n}Je to tak, jsem vrah, První čepel císaře Erulana. Je to titul, který ne vždy hrdě nosím stejně tak, jako moje pracovní činnost nebyla vždy ctnostná, ale vypořádával jsem se s hrozbami vůči říši. Díky nepřátelům je nyní celé lidstvo v ohrožení tak velkém, jakému ještě nikdy nečelilo. Nicméně je to doba kdy můžu svůj talent využít k noblesnějším účelům.{^n}{^n}Ani ty jsi ke mně ale nebyl zcela upřímný, "Poblázněný", ale ničeho se neobávej, střežím mnohá tajemství.
+Nebyl jsem vůči tobě úplně upřímný. Nejsem kuchař, nejsem ani ve stejném oboru, ikdyž by to byla možná lepší cesta...{^n}{^n}Je to tak, jsem vrah, První čepel císaře Erulana. Je to titul, který ne vždy hrdě nosím stejně tak jako to, že moje pracovní činnost nebyla vždy ctnostná, ale vypořádával jsem se s hrozbami vůči říši. Díky nepřátelům je nyní celé lidstvo v ohrožení tak velkém, jakému ještě nikdy nečelilo. Nicméně je to doba kdy můžu svůj talent využít k noblesnějším účelům.{^n}{^n}Ani ty jsi ke mně ale [[ms]nebyl[fs]nebyla] zcela [[ms]upřímný[fs]upřímná], [[ms]'poblázněný'[fs]'poblázněná'], ale ničeho se neobávej, střežím mnohá tajemství.
 
 Proč jsi se ke mně v Ďáblově průsmyku připojil, když jsi znovu odešel?
-Mojí prací je mapovat okolí, zjistit vazby nepřátelských pevností a prozkoumávat slabiny.{^n}{^n}Zmínil jsi se o přežití lidí v Ďáblově průsmyku, což znělo velmi zajímavě a tak jsem to chtěl vidět na vlastní oči. Poté, co jsem o dané oblasti zjistil všechno, jsem cítil že už je čas abych se navrátil k mým mužům do Homesteadu.
+Mojí prací je mapovat okolí, zjistit vazby nepřátelských pevností a prozkoumávat slabiny.{^n}{^n}[[ms]Zmínil[fs]Zmínila] jsi se o přežití lidí v Ďáblově průsmyku, což znělo velmi zajímavě a tak jsem to chtěl vidět na vlastní oči. Poté, co jsem o dané oblasti zjistil všechno jsem cítil, že už je čas navrátit se k mým mužům do Homesteadu.
 Tvým mužům?
 Nemůžu stejně jako oni říct, že by se mi to líbilo, ale spolupracuji s Černou Legií. Jsou vším co zbylo z imperiálních jednotek.
 
@@ -33,109 +33,109 @@ Podívej, jsem si jistý že máš mnoho otázek, ale nyní není vhodná chvíl
 
 
 Tak jak tady mohu vypomoci?
-Zakopl jsem o tyto uprchlíky na mé cestě skrze Pašerákův průsmyk. Trolové se je právě chystali naservírovat si je k večeři než jsem se do toho vložil. Nyní jsme tady zaseknutí, uvězněni uprostřed boje mezi těmi trolími a Aetherianskými chudáky.{^n}{^n}A zrovna nám nepomáhá, že jediná bezpečná cesta do Homesteadu je nyní zavalená. Zbývá jediná možnost a není šance že bychom tamtudy prošli živí, dobrá, možná já ano. Vím že ti dávám nést těžké břímě, ale potřebuji, aby ses vydal dolů do Horských hlubin. Je zde zřídka užívaná pasáž která tě vyvede na Zlatokopovu pěšinu. Následuj jí, dokud nedojdeš k polím. Homestead nebude daleko za nimi.{^n}{^n}Musíš pro nás zabezpečit cestu. Je to jediný způsob, jak tito lidé přežijí. Nejsem si jistý na jak dlouho zadržím troly, než přijdou s posilou.
+Zakopl jsem o tyto uprchlíky na mé cestě skrze Pašerákův průsmyk. Trolové se právě chystali naservírovat si je k večeři, ale pak jsem se do toho vložil. Nyní jsme tady zaseknutí, uvězněni uprostřed boje mezi těmi trolími a Aetherianskými chudáky.{^n}{^n}A zrovna nám nepomáhá, že jediná bezpečná cesta do Homesteadu je nyní zavalená. Zbývá jediná možnost a není šance, že bychom tamtudy prošli živí...dobrá, možná já ano. Vím že ti dávám nést těžké břímě, ale potřebuji, aby ses [[ms]vydal[fs]vydala] dolů do Horských hlubin. Je to zřídka užívaná pasáž, která tě vyvede na Zlatokopovu pěšinu. Následuj ji dokud nedojdeš k polím. Homestead nebude daleko za nimi.{^n}{^n}Musíš pro nás zabezpečit cestu. Je to jediný způsob, jak tito lidé přežijí. Nejsem si jistý na jak dlouho zadržím troly, než přijdou s posilou.
 Najdu cestu do Hoemsteadu.
 Omlouvám se, tohle nemůžu udělat.
-Byl jsem tam. Můžu vás tam vzít skrze Bránu.
+[[ms]Byl[fs]Byla] jsem tam. Můžu vás tam vzít skrze Bránu.
 
 
-Takže se nám "Poblázněný" vrátil. Připraven přiložit ruku k dílu nebo mi stále nedůvěřuješ?
-
-Jaká je zde situace?
-Nebyl jsem vůči tobě úplně upřímný. Nejsem kuchař, nejsem ani ve stejném oboru, ikdyž by to byla možná lepší cesta...{^n}{^n}Je to tak, jsem vrah, První čepel císaře Erulana. Je to titul, který ne vždy hrdě nosím stejně tak, jako moje pracovní činnost nebyla vždy ctnostná, ale vypořádával jsem se s hrozbami vůči říši. Díky nepřátelům je nyní celé lidstvo v ohrožení tak velkém, jakému ještě nikdy nečelilo. Nicméně je to doba kdy můžu svůj talent využít k noblesnějším účelům.{^n}{^n}Ani ty jsi ke mně ale nebyl zcela upřímný, "Poblázněný".
-
-
+Takže se nám [[ms]'poblázněný'[fs]'poblázněná'] [[ms]vrátil[fs]vrátila]. [[ms]Připraven[fs]Připravena] přiložit ruku k dílu nebo mi stále nedůvěřuješ?
 
 Jaká je zde situace?
-Zakopl jsem o tyto uprchlíky na mé cestě skrze Pašerákův průsmyk. Trolové se je právě chystali naservírovat si je k večeři než jsem se do toho vložil. Nyní jsme tady zaseknutí, uvězněni uprostřed boje mezi těmi trolími a Aetherianskými chudáky.{^n}{^n}A zrovna nám nepomáhá, že jediná bezpečná cesta do Homesteadu je nyní zavalená. Zbývá jediná možnost a není šance že bychom tamtudy prošli živí, dobrá, možná já ano. Vím že ti dávám nést těžké břímě, ale potřebuji, aby ses vydal dolů do Horských hlubin. Je zde zřídka užívaná pasáž která tě vyvede na Zlatokopovu pěšinu. Následuj jí, dokud nedojdeš k polím. Homestead nebude daleko za nimi.{^n}{^n}Musíš pro nás zabezpečit cestu. Je to jediný způsob, jak tito lidé přežijí. Nejsem si jistý na jak dlouho zadržím troly, než přijdou s posilou.
-Najdu cestu do Hoemsteadu.
+Nebyl jsem vůči tobě úplně upřímný. Nejsem kuchař, nejsem ani ve stejném oboru, ikdyž by to byla možná lepší cesta...{^n}{^n}Je to tak, jsem vrah, První čepel císaře Erulana. Je to titul, který ne vždy hrdě nosím stejně tak jako to, že moje pracovní činnost nebyla vždy ctnostná, ale vypořádával jsem se s hrozbami vůči říši. Díky nepřátelům je nyní celé lidstvo v ohrožení tak velkém, jakému ještě nikdy nečelilo. Nicméně je to doba kdy můžu svůj talent využít k noblesnějším účelům.{^n}{^n}Ani ty jsi ke mně ale [[ms]nebyl[fs]nebyla] zcela [[ms]upřímný[fs]upřímná], [[ms]'poblázněný'[fs]'poblázněná'].
+
+
+
+Jaká je zde situace?
+Zakopl jsem o tyto uprchlíky na mé cestě skrze Pašerákův průsmyk. Trolové se právě chystali naservírovat si je k večeři, ale pak jsem se do toho vložil. Nyní jsme tady zaseknutí, uvězněni uprostřed boje mezi těmi trolími a Aetherianskými chudáky.{^n}{^n}A zrovna nám nepomáhá, že jediná bezpečná cesta do Homesteadu je nyní zavalená. Zbývá jediná možnost a není šance, že bychom tamtudy prošli živí...dobrá, možná já ano. Vím že ti dávám nést těžké břímě, ale potřebuji, aby ses [[ms]vydal[fs]vydala] dolů do Horských hlubin. Je to zřídka užívaná pasáž, která tě vyvede na Zlatokopovu pěšinu. Následuj ji dokud nedojdeš k polím. Homestead nebude daleko za nimi.{^n}{^n}Musíš pro nás zabezpečit cestu. Je to jediný způsob, jak tito lidé přežijí. Nejsem si jistý na jak dlouho zadržím troly, než přijdou s posilou.
+Najdu cestu do Homesteadu.
 Omlouvám se, tohle nemůžu udělat.
-Byl jsem tam. Můžu vás tam vzít skrze Bránu.
+[[ms]Byl[fs]Byla] jsem tam. Můžu vás tam vzít skrze Bránu.
 
 To není můj problém.
-Takže se nám "Poblázněný" vrátil. Připraven přiložit ruku k dílu nebo mi stále nedůvěřuješ?
+Takže se nám [[ms]'poblázněný'[fs]'poblázněná'] [[ms]vrátil[fs]vrátila]. [[ms]Připraven[fs]Připravena] přiložit ruku k dílu nebo mi stále nedůvěřuješ?
 
 Jaká je zde situace?
-Zakopl jsem o tyto uprchlíky na mé cestě skrze Pašerákův průsmyk. Trolové se je právě chystali naservírovat si je k večeři než jsem se do toho vložil. Nyní jsme tady zaseknutí, uvězněni uprostřed boje mezi těmi trolími a Aetherianskými chudáky.{^n}{^n}A zrovna nám nepomáhá, že jediná bezpečná cesta do Homesteadu je nyní zavalená. Zbývá jediná možnost a není šance že bychom tamtudy prošli živí, dobrá, možná já ano. Vím že ti dávám nést těžké břímě, ale potřebuji, aby ses vydal dolů do Horských hlubin. Je zde zřídka užívaná pasáž která tě vyvede na Zlatokopovu pěšinu. Následuj jí, dokud nedojdeš k polím. Homestead nebude daleko za nimi.{^n}{^n}Musíš pro nás zabezpečit cestu. Je to jediný způsob, jak tito lidé přežijí. Nejsem si jistý na jak dlouho zadržím troly, než přijdou s posilou.
-Najdu cestu do Hoemsteadu.
+Zakopl jsem o tyto uprchlíky na mé cestě skrze Pašerákův průsmyk. Trolové se právě chystali naservírovat si je k večeři, ale pak jsem se do toho vložil. Nyní jsme tady zaseknutí, uvězněni uprostřed boje mezi těmi trolími a Aetherianskými chudáky.{^n}{^n}A zrovna nám nepomáhá, že jediná bezpečná cesta do Homesteadu je nyní zavalená. Zbývá jediná možnost a není šance, že bychom tamtudy prošli živí...dobrá, možná já ano. Vím že ti dávám nést těžké břímě, ale potřebuji, aby ses [[ms]vydal[fs]vydala] dolů do Horských hlubin. Je to zřídka užívaná pasáž, která tě vyvede na Zlatokopovu pěšinu. Následuj ji dokud nedojdeš k polím. Homestead nebude daleko za nimi.{^n}{^n}Musíš pro nás zabezpečit cestu. Je to jediný způsob, jak tito lidé přežijí. Nejsem si jistý na jak dlouho zadržím troly, než přijdou s posilou.
+Najdu cestu do Homesteadu.
 Omlouvám se, tohle nemůžu udělat.
-Byl jsem tam. Můžu vás tam vzít skrze Bránu.
+[[ms]Byl[fs]Byla] jsem tam. Můžu vás tam vzít skrze Bránu.
 
 Sbohem.
-Vida, jestli tohle není můj nejlepší přítel z Ďáblova průsmyku. Tušil jsem, že tudy budeš procházet.
+Vida, jestli tohle není [[ms]můj[fs]má] nejlepší [[ms]přítel[fs]kamarádka] z Ďáblova průsmyku. Tušil jsem, že tudy budeš procházet.
 Ulgrime? Co ty tady děláš!?
 
-Nebyl jsem vůči tobě úplně upřímný. Nejsem kuchař, nejsem ani ve stejném oboru, ikdyž by to byla možná lepší cesta...{^n}{^n}Je to tak, jsem vrah, První čepel císaře Erulana. Je to titul, který ne vždy hrdě nosím stejně tak, jako moje pracovní činnost nebyla vždy ctnostná, ale vypořádával jsem se s hrozbami vůči říši. Díky nepřátelům je nyní celé lidstvo v ohrožení tak velkém, jakému ještě nikdy nečelilo. Nicméně je to doba kdy můžu svůj talent využít k noblesnějším účelům.{^n}{^n}Ani ty jsi ke mně ale nebyl zcela upřímný, "Poblázněný", ale ničeho se neobávej, střežím mnohá tajemství.
+Nebyl jsem vůči tobě úplně upřímný. Nejsem kuchař, nejsem ani ve stejném oboru, ikdyž by to byla možná lepší cesta...{^n}{^n}Je to tak, jsem vrah, První čepel císaře Erulana. Je to titul, který ne vždy hrdě nosím stejně tak jako to, že moje pracovní činnost nebyla vždy ctnostná, ale vypořádával jsem se s hrozbami vůči říši. Díky nepřátelům je nyní celé lidstvo v ohrožení tak velkém, jakému ještě nikdy nečelilo. Nicméně je to doba kdy můžu svůj talent využít k noblesnějším účelům.{^n}{^n}Ani ty jsi ke mně ale [[ms]nebyl[fs]nebyla] zcela [[ms]upřímný[fs]upřímná], [[ms]'poblázněný'[fs]'poblázněná'], ale ničeho se neobávej, střežím mnohá tajemství.
 Jak jsi mě to nazval?
-"Poblázněný". Dobrá, tedy formální název, pokud budeme sémantičtí. Aetheriané tě opustili těsně před tím, než bys zemřel oběšením, nemám snad pravdu?
+[[ms]Poblázněný[fs]Poblázněná]. Dobrá, tedy formální název, pokud budeme sémantičtí. Aetheriané tě opustili těsně před tím, než bys [[ms]zemřel[fs]zemřela] oběšením, nemám snad pravdu?
 Jak to všechno víš?
-Mé zdroje jsou vcelku dobré, pokud za sebe mohu říct. Ale věřil jsi mi a nyní budu důvěřovat já tobě.
+Mé zdroje jsou vcelku dobré, pokud za sebe mohu říct. Ale [[ms]věřim[fs]věřila] jsi mi a nyní budu důvěřovat já tobě.
 
 
 
-Nejsem si jistý, jestli ti ještě můžu věřit.
+Nejsem si [[ms]jistý[fs]jistá], jestli ti ještě můžu věřit.
 
 
 
 
 Tak jak tady mohu vypomoci?
-Zakopl jsem o tyto uprchlíky na mé cestě skrze Pašerákův průsmyk. Trolové se je právě chystali naservírovat si je k večeři než jsem se do toho vložil. Nyní jsme tady zaseknutí, uvězněni uprostřed boje mezi těmi trolími a Aetherianskými chudáky.{^n}{^n}A zrovna nám nepomáhá, že jediná bezpečná cesta do Homesteadu je nyní zavalená. Zbývá jediná možnost a není šance že bychom tamtudy prošli živí, dobrá, možná já ano. Vím že ti dávám nést těžké břímě, ale potřebuji, aby ses vydal dolů do Horských hlubin. Je zde zřídka užívaná pasáž která tě vyvede na Zlatokopovu pěšinu. Následuj jí, dokud nedojdeš k polím. Homestead nebude daleko za nimi.{^n}{^n}Musíš pro nás zabezpečit cestu. Je to jediný způsob, jak tito lidé přežijí. Nejsem si jistý na jak dlouho zadržím troly, než přijdou s posilou.
-Najdu cestu do Hoemsteadu.
+Zakopl jsem o tyto uprchlíky na mé cestě skrze Pašerákův průsmyk. Trolové se právě chystali naservírovat si je k večeři, ale pak jsem se do toho vložil. Nyní jsme tady zaseknutí, uvězněni uprostřed boje mezi těmi trolími a Aetherianskými chudáky.{^n}{^n}A zrovna nám nepomáhá, že jediná bezpečná cesta do Homesteadu je nyní zavalená. Zbývá jediná možnost a není šance, že bychom tamtudy prošli živí...dobrá, možná já ano. Vím že ti dávám nést těžké břímě, ale potřebuji, aby ses [[ms]vydal[fs]vydala] dolů do Horských hlubin. Je to zřídka užívaná pasáž, která tě vyvede na Zlatokopovu pěšinu. Následuj ji dokud nedojdeš k polím. Homestead nebude daleko za nimi.{^n}{^n}Musíš pro nás zabezpečit cestu. Je to jediný způsob, jak tito lidé přežijí. Nejsem si jistý na jak dlouho zadržím troly, než přijdou s posilou.
+Najdu cestu do Homesteadu.
 Omlouvám se, tohle nemůžu udělat.
-Byl jsem tam. Můžu vás tam vzít skrze Bránu.
+[[ms]Byl[fs]Byla] jsem tam. Můžu vás tam vzít skrze Bránu.
 
 Jak jsi věděl, že tudy půjdu?
-Vypadal jsi, že chceš pro lidi v Ďáblově průsmyku udělat správnou věc. Brzy by jim došlo jídlo.{^n}{^n}Kdybych hledal nový zdroj, šel bych sem taky.
+[[ms]Vypadal[fs]Vypadala] jsi, že chceš pro lidi v Ďáblově průsmyku udělat správnou věc. Brzy by jim došlo jídlo.{^n}{^n}Kdybych hledal nový zdroj, šel bych sem taky.
 Co tady děláš?
-Ale vítej zpět, nedůvěřivý cizinče. Přemýšlel jsem, jestli by jsi tudy šel. Máš schopnost chodit tam jde se nejvíce umírá.
+Ale vítej zpět, [[ms]nedůvěřivý[fs]nedůvěřivá] [[ms]cizinče[fs]cizinko]. Přemýšlel jsem, jestli by jsi tudy [[ms]šel[fs]šla]. Máš schopnost chodit tam, kde se nejvíce umírá.
 Jak jsi se sem dostal?
-Nebyl jsem vůči tobě úplně upřímný. Nejsem kuchař, nejsem ani ve stejném oboru, ikdyž by to byla možná lepší cesta...{^n}{^n}Je to tak, jsem vrah, První čepel císaře Erulana. Je to titul, který ne vždy hrdě nosím stejně tak, jako moje pracovní činnost nebyla vždy ctnostná, ale vypořádával jsem se s hrozbami vůči říši. Díky nepřátelům je nyní celé lidstvo v ohrožení tak velkém, jakému ještě nikdy nečelilo. Nicméně je to doba kdy můžu svůj talent využít k noblesnějším účelům.{^n}{^n}Ani ty jsi ke mně ale nebyl zcela upřímný, "Poblázněný".
+Nebyl jsem vůči tobě úplně upřímný. Nejsem kuchař, nejsem ani ve stejném oboru, ikdyž by to byla možná lepší cesta...{^n}{^n}Je to tak, jsem vrah, První čepel císaře Erulana. Je to titul, který ne vždy hrdě nosím stejně tak jako to, že moje pracovní činnost nebyla vždy ctnostná, ale vypořádával jsem se s hrozbami vůči říši. Díky nepřátelům je nyní celé lidstvo v ohrožení tak velkém, jakému ještě nikdy nečelilo. Nicméně je to doba kdy můžu svůj talent využít k noblesnějším účelům.{^n}{^n}Ani ty jsi ke mně ale [[ms]nebyl[fs]nebyla] zcela [[ms]upřímný[fs]upřímná], [[ms]'poblázněný'[fs]'poblázněná']
 Jak jsi mě to nazval?
-"Poblázněný". Dobrá, tedy formální název, pokud budeme sémantičtí. Aetheriané tě opustili těsně před tím, než bys zemřel oběšením, nemám snad pravdu?
+[[ms]Poblázněný[fs]Poblázněná]. Dobrá, tedy formální název, pokud budeme sémantičtí. Aetheriané tě opustili těsně před tím, než bys [[ms]zemřel[fs]zemřela] oběšením, nemám snad pravdu?
 Jak to všechno víš?
-Vím že jsi tam v Cronleyově úkrytu zanechal slušný nepořádek. Ne že by si to nezasloužil. Ten chlap byl pomatený bastard který si zasloužil všechno, čeho se mu dostalo.{^n}{^n}Také vím o tvém heroickém výkonu v Burrwitchi. Warden Krieg málem přelstil jednoho z nejmocnějších inkvizitorů, kterého jsem kdy potkal, ale to právě ty jsi ho nakonec přemohl.{^n}{^n}Mé zdroje jsou vcelku dobré, pokud za sebe mohu říct.
+Vím že jsi tam v Cronleyově úkrytu [[ms]zanechal[fs]zanechala] slušný nepořádek. Ne že by si to nezasloužil. Ten chlap byl pomatený bastard který si zasloužil všechno, čeho se mu dostalo.{^n}{^n}Také vím o tvém heroickém výkonu v Burrwitchi. Warden Krieg málem přelstil jednoho z nejmocnějších inkvizitorů, kterého jsem kdy potkal, ale to právě ty jsi ho nakonec [[ms]přemohl[fs]přemohla].{^n}{^n}Mé zdroje jsou vcelku dobré, pokud za sebe mohu říct.
 Opravdu toho o mě hodně víš.
-Patří to k obchodu. Ale o to se postarejme později. Nyní když jsi dorazil, možná konečně můžeme zapomenout na tuto malou nepříjemnost.
+Patří to k obchodu. Ale o to se postarejme později. Nyní když jsi [[ms]dorazil[fs]dorazila], možná konečně můžeme zapomenout na tuto malou nepříjemnost.
 
 Nechci se na tom podílet.
-Vím o tvém heroickém výkonu v Burrwitchi. Warden Krieg málem přelstil jednoho z nejmocnějších inkvizitorů, kterého jsem kdy potkal, ale to právě ty jsi ho nakonec přemohl.{^n}{^n}A přece jen jsi prošel přes Arkovii bez úvahy nad Cronleyovými aktivitami. Záměrně? Nad tím se později budeme muset zamyslet.{^n}{^n}Mé zdroje jsou vcelku dobré, pokud za sebe mohu říct.
+Vím že jsi tam v Cronleyově úkrytu [[ms]zanechal[fs]zanechala] slušný nepořádek. Ne že by si to nezasloužil. Ten chlap byl pomatený bastard který si zasloužil všechno, čeho se mu dostalo.{^n}{^n}Také vím o tvém heroickém výkonu v Burrwitchi. Warden Krieg málem přelstil jednoho z nejmocnějších inkvizitorů, kterého jsem kdy potkal, ale to právě ty jsi ho nakonec [[ms]přemohl[fs]přemohla].{^n}{^n}Mé zdroje jsou vcelku dobré, pokud za sebe mohu říct.
 
-Vím že jsi se musel probojovat skrze stvůry a Aetherialy, aby ses dostal takto daleko, ale přesto odmítáš čelit opravdovým démonům tohoto světa.{^n}{^n}Mé zdroje jsou vcelku dobré, pokud za sebe mohu říct.
+Vím že jsi se [[ms]musel[fs]musela] probojovat skrze stvůry a Aetheriany, aby ses [[ms]dostal[fs]dostala] takto daleko, ale přesto odmítáš čelit opravdovým démonům tohoto světa.{^n}{^n}Mé zdroje jsou vcelku dobré, pokud za sebe mohu říct.
 
 První čepel císaře Erulana?
 Podívej, jsem si jistý že máš mnoho otázek, ale nyní není vhodná chvíle.{^n}{^n}Potřebujeme tyto lidi dostat do Homesteadu.
 
 Vypadá to, že máš věci zajištěné.
 Jak tady můžu pomoci?
-Zakopl jsem o tyto uprchlíky na mé cestě skrze Pašerákův průsmyk. Trolové se je právě chystali naservírovat si je k večeři než jsem se do toho vložil. Nyní jsme tady zaseknutí, uvězněni uprostřed boje mezi těmi trolími a Aetherianskými chudáky.{^n}{^n}A zrovna nám nepomáhá, že jediná bezpečná cesta do Homesteadu je nyní zavalená. Zbývá jediná možnost a není šance že bychom tamtudy prošli živí, dobrá, možná já ano. Vím že ti dávám nést těžké břímě, ale potřebuji, aby ses vydal dolů do Horských hlubin. Je zde zřídka užívaná pasáž která tě vyvede na Zlatokopovu pěšinu. Následuj jí, dokud nedojdeš k polím. Homestead nebude daleko za nimi.{^n}{^n}Musíš pro nás zabezpečit cestu. Je to jediný způsob, jak tito lidé přežijí. Nejsem si jistý na jak dlouho zadržím troly, než přijdou s posilou.
-Najdu cestu do Hoemsteadu.
+Zakopl jsem o tyto uprchlíky na mé cestě skrze Pašerákův průsmyk. Trolové se právě chystali naservírovat si je k večeři, ale pak jsem se do toho vložil. Nyní jsme tady zaseknutí, uvězněni uprostřed boje mezi těmi trolími a Aetherianskými chudáky.{^n}{^n}A zrovna nám nepomáhá, že jediná bezpečná cesta do Homesteadu je nyní zavalená. Zbývá jediná možnost a není šance, že bychom tamtudy prošli živí...dobrá, možná já ano. Vím že ti dávám nést těžké břímě, ale potřebuji, aby ses [[ms]vydal[fs]vydala] dolů do Horských hlubin. Je to zřídka užívaná pasáž, která tě vyvede na Zlatokopovu pěšinu. Následuj ji dokud nedojdeš k polím. Homestead nebude daleko za nimi.{^n}{^n}Musíš pro nás zabezpečit cestu. Je to jediný způsob, jak tito lidé přežijí. Nejsem si jistý na jak dlouho zadržím troly, než přijdou s posilou.
+Najdu cestu do Homesteadu.
 Omlouvám se, tohle nemůžu udělat.
-Byl jsem tam. Můžu vás tam vzít skrze Bránu.
+[[ms]Byl[fs]Byla] jsem tam. Můžu vás tam vzít skrze Bránu.
 
 Jak jsi věděl, že tudy půjdu?
-Vítej, "Poblázněný". Měl jsem pocit že tudy dříve nebo později projdeš. Máš schopnost chodit tam jde se nejvíce umírá.
+Vítej, [[ms]'poblázněný'[fs]'poblázněná']. Měl jsem pocit že tudy dříve nebo později projdeš. Máš schopnost chodit tam, kde se nejvíce umírá.
 Jak jsi mě to nazval?
-"Poblázněný". Dobrá, tedy formální název, pokud budeme sémantičtí. Aetheriané tě opustili těsně před tím, než bys zemřel oběšením, nemám snad pravdu?
+[[ms]Poblázněný[fs]Poblázněná]. Dobrá, tedy formální název, pokud budeme sémantičtí. Aetheriané tě opustili těsně před tím, než bys [[ms]zemřel[fs]zemřela] oběšením, nemám snad pravdu?
 Jak to všechno víš?
-Vím že jsi tam v Cronleyově úkrytu zanechal slušný nepořádek. Ne že by si to nezasloužil. Ten chlap byl pomatený bastard který si zasloužil všechno, čeho se mu dostalo.{^n}{^n}Také vím o tvém heroickém výkonu v Burrwitchi. Warden Krieg málem přelstil jednoho z nejmocnějších inkvizitorů, kterého jsem kdy potkal, ale to právě ty jsi ho nakonec přemohl.{^n}{^n}Mé zdroje jsou vcelku dobré, pokud za sebe mohu říct.
+Vím že jsi tam v Cronleyově úkrytu [[ms]zanechal[fs]zanechala] slušný nepořádek. Ne že by si to nezasloužil. Ten chlap byl pomatený bastard který si zasloužil všechno, čeho se mu dostalo.{^n}{^n}Také vím o tvém heroickém výkonu v Burrwitchi. Warden Krieg málem přelstil jednoho z nejmocnějších inkvizitorů, kterého jsem kdy potkal, ale to právě ty jsi ho nakonec [[ms]přemohl[fs]přemohla].{^n}{^n}Mé zdroje jsou vcelku dobré, pokud za sebe mohu říct.
 Opravdu toho o mě hodně víš.
-Patří to k obchodu. Oh, ale kde jsou mé způsoby. Mé jméno je Ulgrim, První čepel císaře, k tvým službám.{^n}{^n}Nyní když jsi dorazil, možná konečně můžeme zapomenout na tuto malou nepříjemnost.
+Patří to k obchodu. Oh, ale kde jsou mé způsoby. Mé jméno je Ulgrim, První čepel císaře, k tvým službám.{^n}{^n}Nyní když jsi [[ms]dorazil[fs]dorazila], možná konečně můžeme zapomenout na tuto malou nepříjemnost.
 
 První čepel císaře Erulana?
 Podívej, jsem si jistý že máš mnoho otázek, ale nyní není vhodná chvíle.{^n}{^n}Potřebujeme tyto lidi dostat do Homesteadu.
 
 Nakonec mne to nezajímá.
-Také vím o tvém heroickém výkonu v Burrwitchi. Warden Krieg málem přelstil jednoho z nejmocnějších inkvizitorů, kterého jsem kdy potkal, ale to právě ty jsi ho nakonec přemohl.{^n}{^n}A přece jen jsi prošel přes Arkovii bez úvahy nad Cronleyovými aktivitami. Záměrně? Nad tím se později budeme muset zamyslet.{^n}{^n}Mé zdroje jsou vcelku dobré, pokud za sebe mohu říct.
+Také vím o tvém heroickém výkonu v Burrwitchi. Warden Krieg málem přelstil jednoho z nejmocnějších inkvizitorů, kterého jsem kdy potkal, ale to právě ty jsi ho nakonec [[ms]přemohl[fs]přemohla].{^n}{^n}A přece jen jsi [[ms]prošel[fs]prošla] přes Arkovii bez úvahy nad Cronleyovými aktivitami. Záměrně? Nad tím se později budeme muset zamyslet.{^n}{^n}Mé zdroje jsou vcelku dobré, pokud za sebe mohu říct.
 
-Věděl jsem že jsi se musel probojovat skrze stvůry a Aetherialy, aby ses dostal takto daleko, ale přesto odmítáš čelit opravdovým démonům tohoto světa.{^n}{^n}Mé zdroje jsou vcelku dobré, pokud za sebe mohu říct.
+Věděl jsem že jsi se [[ms]musel[fs]musela] probojovat skrze stvůry a Aetheriany, aby ses [[ms]dostal[fs]dostala] takto daleko, ale přesto odmítáš čelit opravdovým démonům tohoto světa.{^n}{^n}Mé zdroje jsou vcelku dobré, pokud za sebe mohu říct.
 
 Jak tady můžu pomoci?
-Zakopl jsem o tyto uprchlíky na mé cestě skrze Pašerákův průsmyk. Trolové se je právě chystali naservírovat si je k večeři než jsem se do toho vložil. Nyní jsme tady zaseknutí, uvězněni uprostřed boje mezi těmi trolími a Aetherianskými chudáky.{^n}{^n}A zrovna nám nepomáhá, že jediná bezpečná cesta do Homesteadu je nyní zavalená. Zbývá jediná možnost a není šance že bychom tamtudy prošli živí, dobrá, možná já ano. Vím že ti dávám nést těžké břímě, ale potřebuji, aby ses vydal dolů do Horských hlubin. Je zde zřídka užívaná pasáž která tě vyvede na Zlatokopovu pěšinu. Následuj jí, dokud nedojdeš k polím. Homestead nebude daleko za nimi.{^n}{^n}Musíš pro nás zabezpečit cestu. Je to jediný způsob, jak tito lidé přežijí. Nejsem si jistý na jak dlouho zadržím troly, než přijdou s posilou.
-Najdu cestu do Hoemsteadu.
+Zakopl jsem o tyto uprchlíky na mé cestě skrze Pašerákův průsmyk. Trolové se právě chystali naservírovat si je k večeři, ale pak jsem se do toho vložil. Nyní jsme tady zaseknutí, uvězněni uprostřed boje mezi těmi trolími a Aetherianskými chudáky.{^n}{^n}A zrovna nám nepomáhá, že jediná bezpečná cesta do Homesteadu je nyní zavalená. Zbývá jediná možnost a není šance, že bychom tamtudy prošli živí...dobrá, možná já ano. Vím že ti dávám nést těžké břímě, ale potřebuji, aby ses [[ms]vydal[fs]vydala] dolů do Horských hlubin. Je to zřídka užívaná pasáž, která tě vyvede na Zlatokopovu pěšinu. Následuj ji dokud nedojdeš k polím. Homestead nebude daleko za nimi.{^n}{^n}Musíš pro nás zabezpečit cestu. Je to jediný způsob, jak tito lidé přežijí. Nejsem si jistý na jak dlouho zadržím troly, než přijdou s posilou.
+Najdu cestu do Homesteadu.
 Omlouvám se, tohle nemůžu udělat.
-Byl jsem tam. Můžu vás tam vzít skrze Bránu.
+[[ms]Byl[fs]Byla] jsem tam. Můžu vás tam vzít skrze Bránu.
 
-Vida, jestli tohle není můj nejlepší přítel z Ďáblova průsmyku.{^n}{^n}Jak můžeš vidět, máme tu malý problém, ale mám to pod kontrolou. Prozatím...
+Vida, jestli tohle není [[ms]můj[fs]má] nejlepší [[ms]přítel[fs]kamarádka] z Ďáblova průsmyku.{^n}{^n}Jak můžeš vidět, máme tu malý problém, ale mám to pod kontrolou. Prozatím...
 Hodně štěstí.
 Nezastavuj se, mé čepele touží po trolí krvi, ale tvoje taky bude stačit.
 Dobrá, už jdu.

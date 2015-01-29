@@ -1,11 +1,11 @@
 Radní Mathias
-Udělal...jsi...oč jsem žádal?
+[[ms]Udělal[fs]Udělala]...jsi...oč jsem žádal?
 Je to doručené. Odpočívej v pokoji.
 Už tady...na tomto světě...dlouho nebudu...
 Musíš odpočívat.
 Prosím... doruč tento talisman...
 Doručím.
-Prosím... cizinče... vezmi si tento talisman. Odnesl jsem ho z mého tábořiště, abych ho ochránil před bandity, kteří by ho odcizili, ale příroda už vynesla svůj rozsudek a já na tomto světě už dlouho nezůstanu.{^n}{^n}*Mathias přestane, aby dostal krev z úst*{^n}{^n}Prosím tě, dones talisman Grevenovi. Nachází se v Tuláckém táboře na východ od Stautonova dolu, v Arkovianském podhůří. Řekni mu, že jsem za ochranu naší relikvie položil život.
+Prosím... [[ms]cizinče[fs]cizinko]... vezmi si tento talisman. Odnesl jsem ho z mého tábořiště, abych ho ochránil před bandity, kteří by ho odcizili, ale příroda už vynesla svůj rozsudek a já na tomto světě dlouho nezůstanu.{^n}{^n}*Mathias přestane, aby dostal krev z úst*{^n}{^n}Prosím tě, dones talisman Grevenovi. Nachází se v Tuláckém táboře na východ od Stautonova dolu, v Arkovianském podhůří. Řekni mu, že jsem za ochranu naší relikvie položil život.
 Udělám, co žádáš.
 Prosím...doruč talisman...
 Myslím, že si ho prostě nechám.
@@ -14,9 +14,9 @@ Dobře, fajn. Kam že to mám tedy jít?
 
 Zapomeň na to, nechávám si ho.
 Dobře, fajn. Doručím ho.
-Kam že je potřeba, abych ten talisman zanesl?
+Kam že je potřeba, abych ten talisman [[ms]zanesl[fs]zanesla]?
 Greven...dones ho Grevenovi do tuláckého tábora. Je to přímo...na východ...od Stautonova....dolu...
 Dobrá.
 Sbohem.
-*Mathias winces in pain, he seems barely aware of your presence.*
-I'll look for help.
+*Mathias se svíjí v bolestech; vypadá to, že si je sotva vědom tvé přítomnosti.*
+Vyhledám pomoc.

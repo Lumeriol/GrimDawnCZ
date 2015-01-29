@@ -7,10 +7,10 @@ Ahoj, můj otec mi o tobě vyprávěl. Nestává se každý den že potkáš ně
 Tvůj otec vypadá jako fajn chlap.
 Vždycky na mne dohlížel, hlavně teď, když mamka zahynula.
 To je mi líto.
-Rád jsem tě viděl.
-Slyšela jsem o tobě. Vydíral jsi mého otce tam na cestě. Lidé jako jsi ty si tu nezaslouží být.
-Udělal jsem jen to, co jsem považoval za správné.
-A co jako? Pokud jsi si tím tak jistý, tak vrať, co jsi ukradl.
+Rád jsem tě [[ms]viděl[fs]viděla].
+Slyšela jsem o tobě. [[ms]Vydíral[fs]Vydírala] jsi mého otce tam na cestě. Lidé jako jsi ty si tu nezaslouží být.
+[[ms]Udělal[fs]Udělala] jsem jen to, co jsem [[ms]považoval[fs]považovala] za správné.
+A co jako? Pokud jsi si tím tak [[ms]jistý[fs]jistá], tak vrať, co jsi [[ms]ukradl[fs]ukradla].
 Tak dobrá, tady. (Dej 1000 železných mincí)
 Oh, ehm, vlastně jsem vůbec nedoufala, že to vrátíš.{^n}{^n}Děkuji ti.
 Považuj to za nedorozumnění.
@@ -29,5 +29,5 @@ To je to, co ti ten slizský slith řekl?{^n}{^n}Drew se mě pokusil znásilnit 
 
 Omlouvám se, asi došlo k nedorozumnění.
 Sbohem.
-Ahoj. Můj otec stále rozestavuje svůj obchod. Měl by sis s ním promluvit, pokud chceš něco koupit.
+Ahoj. Můj otec stále rozestavuje svůj obchod. [[ms]Měl[fs]Měla] by sis s ním promluvit, pokud chceš něco koupit.
 Tak zatím.
