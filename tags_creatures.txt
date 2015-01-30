@@ -88,9 +88,9 @@ tagEnemyCelestial_QuestA01=Nebeská věc
 
 #CreatureChthonian
 
-tagEnemyChthonianMinionA01=Ch'thonský posel
-tagEnemyChthonianMinionB01=Ch'thonský rozsévač krve
-tagEnemyChthonianMinionC01=Ch'thonský přenašeč plísně
+tagEnemyChthonianMinionA01=Chthonský posel
+tagEnemyChthonianMinionB01=Chthonský rozsévač krve
+tagEnemyChthonianMinionC01=Chthonský přenašeč plísně
 
 tagChthonianMinionHeroH01=Charn'Daroth
 tagChthonianMinionHeroH02=Elnar'Daroth

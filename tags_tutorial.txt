@@ -13,18 +13,18 @@ tagTutorialTip09Title=Okno obchodníka
 tagTutorialTip09TextA=Obchodník prodává a nakupuje zbraně a jinou výbavu nutnou pro přežití v oblasti Cairnu.
 tagTutorialTip09TextB=V těchto zoufalých dobách není kvalitní vybavení zrovna levné. Obchodník ti za běžné věci nezaplatí příliš mnoho, ale předměty, které jsou očarované, mohou mít cenu výrazně vyšší.{^n}
 
-tagTutorialTip10Title=Portály
-tagTutorialTip10TextA=Zabezpečené portály ti umožňují rychle cestovat mezi různými lokacemi v oblasti Cairnu. Klikni levým tlačítkem na portál a otevře se {^y}Mapa portálů{^w}.
-tagTutorialTip10TextB=Objevil jsi portál v Dolním rozcestí. Umístění všech portálů, které objevíš, budou nadále přístupné na {^y}Mapě portálů{^w}.
-tagTutorialTip10SubtitleA=Osobní portál:
-tagTutorialTip10TextC=Protože jsi Aetherem dotčený člověk, můžeš otevírat {^y}Osobní portály{^w}. Abys aktivoval svůj Osobní portál, klikni na tlačítko Cestovat portálem ve spodní části obrazovky.
+tagTutorialTip10Title=Brány
+tagTutorialTip10TextA=Zabezpečené Brány ti umožňují rychle cestovat mezi různými lokacemi v oblasti Cairnu. Klikni levým tlačítkem na Bránu a otevře se {^y}Mapa Bran{^w}.
+tagTutorialTip10TextB=Objevil jsi Bránu v Dolním rozcestí. Umístění všech Bran, které objevíš, budou nadále přístupné na {^y}Mapě Bran{^w}.
+tagTutorialTip10SubtitleA=Osobní Brána:
+tagTutorialTip10TextC=Protože jsi Aetherem dotčený člověk, můžeš otevírat {^y}Osobní Brány{^w}. Abys aktivoval svůj Osobní Bránu, klikni na tlačítko Cestovat Branou ve spodní části obrazovky.
 tagTutorialTip10CaptionA=Klávesová zkratka: {^b}{%t0}{^w}{^n}
 
-tagTutorialTip11Title=Osobní portál
-tagTutorialTip11TextA=Osobní portály mohou být otevřeny kdekoliv na světě a jsou propojeny se sítí ostatních postálů.
+tagTutorialTip11Title=Osobní Brána
+tagTutorialTip11TextA=Osobní Brány mohou být otevřeny kdekoliv na světě a jsou propojeny se sítí ostatních postálů.
 tagTutorialTip11CaptionA=Klávesová zkratka: {^b}{%t0}{^w}
-tagTutorialTip11TextB=Stejně jako u klasických portálů, klikni levým tlačítkem myši na svůj Osobní portál a zobrazí se ti {^y}Mapa portálů{^w}. Poté klikni na pozici, kam chceš odcestovat.
-tagTutorialTip11TextC=Tvůj portál zůstane otevřen do doby, než skrz něj přicestuješ zpět. Jakmile se portál otevře, mohou skrze něj cestovat i tvoji spojenci. Vždy můžeš mít v jeden okamžik otevřený maximálně jeden Osobní portál.
+tagTutorialTip11TextB=Stejně jako u klasických Bran, klikni levým tlačítkem myši na svoji Osobní Bránu a zobrazí se ti {^y}Mapa Bran{^w}. Poté klikni na pozici, kam chceš odcestovat.
+tagTutorialTip11TextC=Tvá Brána zůstane otevřena do doby, než skrz ni přicestuješ zpět. Jakmile se Brána otevře, mohou skrze něj cestovat i tvoji spojenci. Vždy můžeš mít v jeden okamžik otevřenou maximálně jednu Osobní Bránu.
 
 tagTutorialTip14Title=Lektvary
 tagTutorialTip14TextA=Lektvary zdraví a magické energie obnovují život, respektive magickou energii, tvé postavy. Pro vypití lektvaru klikni na jeho ikonu na spodní liště a nebo stiskni přidruženou klávesu.

@@ -30,12 +30,12 @@ tagSkillNotReady={^r}Tato dovednost není připravena
 
 tagTransferStashError={^r}Tento předmět sem nelze umístit
 
-#Riftgate
+#Brána
 
-tagRiftgatePersonal=Osobní portál
+tagRiftgatePersonal=Osobní Brána
 tagRiftgateDestination=Lokace
-tagRiftgateError01=Tento portál nemůžeš použít. Byl vytvořen hráčem, který není ve tvé skupině.
-tagRiftgateDialog01=Otevřením nového portálu uzavřeš svůj stávající portál. Je to tvým záměrem?
+tagRiftgateError01=Tuto Bránu nemůžeš použít. Byla vytvořen hráčem, který není ve tvé skupině.
+tagRiftgateDialog01=Otevřením nové Brány uzavřeš svoji stávající Bránu. Je to tvým záměrem?
 tagRiftGateMapA01=Cairn
 
 #Quest
@@ -179,7 +179,7 @@ tagSkillUnusableLowMana=Nedostatek magické energie
 tagSkillUnusableCooldown=Dovednost se dobíjí
 tagSkillUnusableConfiguration=Dovednost vyžaduje vybavení
 
-tagHUD_Riftgate=Rozerve portál na titěrné části a ty pak budeš moci vyjít ven skrze jinou známou bránu.
+tagHUD_Riftgate=Rozerve Bránu na titěrné části a ty pak budeš moci vyjít ven skrze jinou známou bránu.
 tagHUD_EmptySlot_R=Prázdný rychlý panel
 tagHUD_EmptySlot_R1=Pravým kliknutím přiřaď dovednost.
 tagHUD_LeftMouse_R=Akce na levém tlačítku myši
@@ -197,8 +197,8 @@ tagHUDWeaponSwap=Přehození zbraní
 tagHUDWeaponSwapRoll=Přepíná mezi tvou výzbrojí. Musíš být vyzbrojen sadou zbraní na alternativním slotu.
 tagHUDWeaponSwapHelpRoll=Dříve než budeš moci použít přehození zbraní, musíš se vyzbrojit druhou sadou zbraní do alternativních slotů v okně postavy.
 
-tagHUDRiftgateButton=Cestování portálem
-tagHUDRiftgateButtonRoll=Rozerve vzduch a vytvoří malý vstup do brány s východem v některém z dříve objevených portálů, nebo můžeš vyjít v některém z portálů tvého spojence.
+tagHUDRiftgateButton=Cestování Branou
+tagHUDRiftgateButtonRoll=Rozerve vzduch a vytvoří malý vstup do Brány s východem v některém z dříve objevených Bran, nebo můžeš vyjít v některých z Bran tvého spojence.
 
 tagHUDQuickslot=Nepřiřazená rychlá volba
 tagHUDQuickslotRoll=Pravým tlačítkem přiřaď dovednost.
@@ -908,7 +908,7 @@ tagAerialMapCenteredButton=Centrovat
 tagAerialMapZoomText=Přiblížení
 
 tagMapWindowName=Místní mapa
-tagRiftWindowName=Mapa portálů
+tagRiftWindowName=Mapa Bran
 tagWorldMapWindowName=Světová mapa
 
 tagMapSymbolAOI=Bod zájmu
@@ -927,8 +927,8 @@ tagMapSymbolGroup=Skupina
 tagMapSymbolGroupDesc=Pozice tvých spoluhráčů.
 tagMapSymbolRespawn=Léčitel
 tagMapSymbolRespawnDesc=Léčitel je schopný omladit tvé tělo a vyléčit rozličná zranění.
-tagMapSymbolRiftgate=Portál
-tagMapSymbolRiftgateDesc=Portály z jiných světů jsou schopné tě přenést na jiná místa.
+tagMapSymbolRiftgate=Brána
+tagMapSymbolRiftgateDesc=Brány z jiných světů jsou schopné tě přenést na jiná místa.
 tagMapSymbolVendor=Kupec
 tagMapSymbolVendorDesc=Obchodník s vybavením.
 tagMapSymbolWitch=Duchovní
