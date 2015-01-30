@@ -520,7 +520,7 @@ tagClass05SkillName07A=Anulování
 tagClass05SkillDescription07A=Koncentruje masivní množství negativní energie v zaměřené oblasti a odebere nepřátelům posilující aury a kouzla, zatímco spojenci jsou oprošťěni od negativních vlivů.
 
 tagClass05SkillName08A=Devastace
-tagClass05SkillDescription08A=Vychvalována jako ultimátní síla destrukce známá [ms]Vládcům temnot[fs]Vládkyním temnot, tato technika protrhne bránu v realitě, skrze kterou padají uhlíky prvotní tajemné energie. Toto nebezpečné kouzlo je extrémně vyčerpávající a nemělo by být používáno lehkovážně. ^oVyžaduje kouzelnický předmět v druhé ruce. Pokud zůstaneš strnutě stát po prvním zakouzlení, můžeš směrem k cíli vypustit až další dvě vlny.
+tagClass05SkillDescription08A=Vychvalována jako ultimátní síla destrukce známá [ms]Vládcům temnot[fs]Vládkyním temnot, tato technika vytvoří dimenzionální trhlinu, skrze kterou padají uhlíky prvotní tajemné energie. Toto nebezpečné kouzlo je extrémně vyčerpávající a nemělo by být používáno lehkovážně. ^oVyžaduje kouzelnický předmět v druhé ruce. Pokud zůstaneš strnutě stát po prvním zakouzlení, můžeš směrem k cíli vypustit až další dvě vlny.
 
 tagClass05SkillName09A=Vnitřní soustředění
 tagClass05SkillDescription09A=Soustředění mysli a těla do místa, kde jsou tajemné energie, je jednou z prvních meditačních technik, kterou se ctižádostiví Vládci temnot učí.
@@ -958,7 +958,7 @@ tagItemSkillC058Name=Polní medicína
 tagItemSkillC058Desc=Použij stanovené lékařské metody a zhoj kritická zranění uprostřed boje.
 
 tagItemSkillC059Name=Studna duší
-tagItemSkillC059Desc=Rozevře bránu do věčnosti a vypustí studnu neklidných duchů, kteří rozdrásají jakéhokoliv nepřítele, který se rozhodne do ni vstoupit.
+tagItemSkillC059Desc=Vytvoří trhlinu do věčnosti a vypustí množství neklidných duchů, kteří rozdrásají jakéhokoliv nepřítele, jež se rozhodne do ni vstoupit.
 
 tagItemSkillC060Name=Ohnivá bouře 
 tagItemSkillC060Desc=Vytvoří bouři pekelných plamenů kolem tvé postavy a zapálí nepřátele v blízkosti.
@@ -991,7 +991,7 @@ tagItemSkillC069Name=Fanatismus
 tagItemSkillC069Desc=Vstup do stavu záchvatu zuřivosti a prudce udeř na své nepřátele s bezohledným odhodláním.
 
 tagItemSkillC070Name=Vzývání k Chaosu
-tagItemSkillC070Desc=Vzývej temné síly, jež dodají Ch'thonického posluhovače pod tvé záludné vedení.
+tagItemSkillC070Desc=Vzývej temné síly, jež dodají Chthonického posluhovače pod tvé záludné vedení.
 
 tagItemSkillC071Name=Diplomacie
 tagItemSkillC071Desc=Tvůj hlas s sebou nese příkazy králů, jen malý počet dokáže odolat jeho síle.

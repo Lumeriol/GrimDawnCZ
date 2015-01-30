@@ -72,34 +72,34 @@ tagMapAlpineRoad=Alpská stezka
 
 #Riftgate Names
 
-tagRiftDevilsCrossing=Portál v Ďáblově průsmyku
-tagRiftLowerCrossing=Portál na Dolním rozcestí
-tagRiftBurrwitchRoad=Portál na Mlhavém pobřeží
-tagRiftWightmire=Portál ve Wightmire
-tagRiftFloodedPassage=Portál v Zatopeném průchodu
-tagRiftBurrwitchOutskirts=Portál na Burrwitchském předměstí
-tagRiftBurrwitchVillage=Portál ve vesnici Burrwitch
-tagRiftWardensCellar=Portál ve Wardenově sklepení
-tagRiftWardensLabratory01=Portál v podzemním průchodu
-tagRiftWardensLabratory02=Portál ve Wardenově laboratoři
+tagRiftDevilsCrossing=Brána v Ďáblově průsmyku
+tagRiftLowerCrossing=Brána na Dolním rozcestí
+tagRiftBurrwitchRoad=Brána na Mlhavém pobřeží
+tagRiftWightmire=Brána ve Wightmire
+tagRiftFloodedPassage=Brána v Zatopeném průchodu
+tagRiftBurrwitchOutskirts=Brána na Burrwitchském předměstí
+tagRiftBurrwitchVillage=Brána ve vesnici Burrwitch
+tagRiftWardensCellar=Brána ve Wardenově sklepení
+tagRiftWardensLabratory01=Brána v podzemním průchodu
+tagRiftWardensLabratory02=Brána ve Wardenově laboratoři
 
-tagRiftBrokenHills=Portál v Sesutých kopcích
-tagRiftOldArkovia=Portál ve Staré Arkovii
-tagRiftArkovianFoothills=Portál v Arkovianském podhůří
-tagRiftCronleysHideout=Portál v Cronleyově úkrytu
-tagRiftTwinFalls=Portál u Dvojspádů
-tagRiftSmugglersPass=Portál v Pašerákově průsmyku
-tagRiftSmugglersRoad=Portál na Prašné cestě
-tagRiftJaggedWaste=Portál u Seschlých borovic
-tagRiftDeadmansGulch=Portál v Rokli mrtvého muže
-tagRiftAlpineRoad=Portál na Alpské stezce
+tagRiftBrokenHills=Brána v Sesutých kopcích
+tagRiftOldArkovia=Brána ve Staré Arkovii
+tagRiftArkovianFoothills=Brána v Arkovianském podhůří
+tagRiftCronleysHideout=Brána v Cronleyově úkrytu
+tagRiftTwinFalls=Brána u Dvojspádů
+tagRiftSmugglersPass=Brána v Pašerákově průsmyku
+tagRiftSmugglersRoad=Brána na Prašné cestě
+tagRiftJaggedWaste=Brána u Seschlých borovic
+tagRiftDeadmansGulch=Brána v Rokli mrtvého muže
+tagRiftAlpineRoad=Brána na Alpské stezce
 
-tagRiftHomestead=Portál v Homesteadu
-tagRiftWitheringFields=Portál v Schnoucích polích
-tagRiftRottedHarvest=Portál v Hnijících polích
-tagRiftOldGrove=Portál ve Starém háji
+tagRiftHomestead=Brána v Homesteadu
+tagRiftWitheringFields=Brána v Schnoucích polích
+tagRiftRottedHarvest=Brána v Hnijících polích
+tagRiftOldGrove=Brána ve Starém háji
 
-tagRiftRandom01=Chthonský portál
+tagRiftRandom01=Chthonská Brána
 
 #World Map Labels
 
@@ -273,7 +273,7 @@ tagPOIStepsOfTorment4B=Východ ze Stupňů bolesti (4. patro)
 tagPOIStepsOfTorment5A=Vstup do Stupňů bolesti (5. patro)
 tagPOIStepsOfTorment5B=Východ ze Stupňů bolesti (5. patro)
 
-tagPOIQuest_Burrwitch=Zabezpeč Burrwitchský portál
+tagPOIQuest_Burrwitch=Zabezpeč Burrwitchskou Bránu
 tagPOIQuest_WardenLab=Najdi Wardenovu laboratoř
 tagPOIQuest_ArkovianFoothills=Vstup do Arkovianského podhůří
 tagPOIQuest_Elsa=Najdi Elsu
@@ -292,8 +292,8 @@ tagNotification_WightmireReanimatorFound=Stvoření je znovuoživená mrtvola!
 tagNotification_WightmireCaravanFound=Tenhle masakr se stal nedávno...
 tagNotification_WightmireCaravanDriverFound=Vězeň žádá o pomoc!
 tagNotification_InventoryBagAcquired=Získán pytel na věci!
-tagNotification_BurrwitchRiftgateEvent=Portál a jeho okolí se hemží nepřáteli!
-tagNotification_BurrwitchRiftgateSecured=Nepřátelé v okolí Burrwitchského portálu jsou zlikvidováni!
+tagNotification_BurrwitchRiftgateEvent=Brána a její okolí se hemží nepřáteli!
+tagNotification_BurrwitchRiftgateSecured=Nepřátelé v okolí Burrwitchské Brány jsou zlikvidováni!
 tagNotification_WardenCellarFound=Tohle musí být Wardenovo sklepení...
 tagNotification_WardenLabFound=Laboratoř. Warden musí být někde poblíž...
 tagNotification_LostApprenticeCellar=Někdo tady nedávno byl...
@@ -502,7 +502,7 @@ tagQuestItemHartsAmulet_Name=Hartův amulet
 tagQuestItemHartsAmulet_Text="Mému drahému bratrovi: Ať tě tento amulet učiní v boji silným. -Sybil"
 
 tagQuestItemCultistKey_Name=Zvláštní klíč
-tagQuestItemCultistKey_Text="Na klíči je vyryto mnoho podivných run a chlípných symbolů charakteristických pro Ch'thonův kult."
+tagQuestItemCultistKey_Text="Na klíči je vyryto mnoho podivných run a chlípných symbolů charakteristických pro Kult Ch'thona."
 tagQuestItemDirections_Name=Direniho instrukce
 tagQuestItemDirections_Text=Dohoda je dohoda: Kultisté si pohodlně sedí na zadku v horách mimo trasy obyčejných cestovatelů. Vydej se k rozbitému mostu u Burrwitchskhom předměstí. Až tam budeš, obejdi celý útes, dokud nenarazíš na cestu vedoucí do skal.{^n}{^n}Jakmile nalezneš muže v krví nasáklých róbách a velících temným silám, jsi na správném místě. Vstup do svatyně vede skrz jejich tábor a je vytesán do úbočí hory.
 

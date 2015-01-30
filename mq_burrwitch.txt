@@ -1,15 +1,15 @@
 Odpor
 Zajištění Burrwitche
-Najdi Portál ve vesnici Burrwitch
-Pročítáním informací od zvědů Johna Bourbona bylo zjištěno, že Burrwitch musí být zásadní pro Aetherijské činnosti v této oblasti.{^n}{^n}Možná se hlavní aktér, zodpovědný za všechny tragédie, skrývá někde ve vesnici. Předtím, než jej začneš hledat, musíš všemi dostupnými prostředky zabezpečit vstup do Burrwitche.{^n}{^n}Najdi portál ve vesnici Burrwitch a zajisti jej pro přeživší. Burrwitch se nachází severně od Ďáblova průsmyku, za Wightmire.
-Zajisti Portál ve vesnici Burrwitch
+Najdi Bránu ve vesnici Burrwitch
+Pročítáním informací od zvědů Johna Bourbona bylo zjištěno, že Burrwitch musí být zásadní pro Aetherijské činnosti v této oblasti.{^n}{^n}Možná se hlavní aktér, zodpovědný za všechny tragédie, skrývá někde ve vesnici. Předtím, než jej začneš hledat, musíš všemi dostupnými prostředky zabezpečit vstup do Burrwitche.{^n}{^n}Najdi Bránu ve vesnici Burrwitch a zajisti ji pro přeživší. Burrwitch se nachází severně od Ďáblova průsmyku, za Wightmire.
+Zajisti Bránu ve vesnici Burrwitch
 
 Vyčisti monstra
 Burrwitchská Brána je obklopena Aetheriany. Budeš je muset odstranit, abys [[ms]mohl[fs]mohla] Bránu zabezpečit.
 Zabij všechny Aetheriany, kteří se pohybují v okolí Burrwitchské Brány
 
 Vrať se zpět a informuj Bourbona
-Až bude Portál ve vesnici Burrwitch zabezpečen, vrať se do Ďáblova průsmyku ke kapitánovi Johnu Bourbonovi pro další pokyny.
+Až bude Brána ve vesnici Burrwitch zabezpečena, vrať se do Ďáblova průsmyku ke kapitánovi Johnu Bourbonovi pro další pokyny.
 Vrať se zpět a informuj Johna Bourbona
 
 
@@ -17,7 +17,7 @@ Vrať se zpět a informuj Johna Bourbona
 
 Již jsi v Burrwitchi [[ms]byl[fs]byla]
 Řekni kapitánovi Johnu Bourbonovi o situaci ve vesnici Burrwitch.
-Řekni Johnu Bourbonovi, že Burrwitchský portál je zabezpečen
+Řekni Johnu Bourbonovi, že Burrwitchská Brána je zabezpečena
 
 
 
