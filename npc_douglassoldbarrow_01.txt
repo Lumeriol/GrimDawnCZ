@@ -20,7 +20,7 @@ Neřeš to.
 Také doufám.
 Věřím, že jídlo dorazilo v pořádku do Ďáblova průsmyku?
 Ještě se potřebuji spojit s mými lidmi.
-Poslední dobou jsem přemýšlel o vaší situaci v Ďáblově průsmyku a myslím, že bychom konečně mohli být v pozici kdy Homestead oplatí laskavost za všechnu vaši těžce odvedenou práci.
+Poslední dobou jsem přemýšlel o vaší situaci v Ďáblově průsmyku a myslím, že bychom konečně mohli být v pozici kdy Homestead oplatí laskavost za všechnu vaši těžce odvedenou práci.{^n}{^n}Captain Somer argued against it, but we can't turn a blind eye to the troubles of others, especially when you've done so much for us.
 To [[ms]rád[fs]ráda] slyším.
 Hodně jsi nám tady v Homesteadu [[ms]pomáhal[fs]pomáhala]. Přeji si ti tu laskavost oplatit.{^n}{^n}Poslal jsem zprávu, že jídlo je okamžitě posíláno do Ďáblova průsmyku.{^n}{^n}První zásilku považuj za poděkování a znamení prosperující budoucnosti mezi našimi dvěmi osadami.
 Děkuji ti. Dám ihned vědět mým lidem.
@@ -29,7 +29,7 @@ Jsi [[ms]výborným[fs]výbornou] [[ms]pomocníkem[fs]pomocnicí] pro lidi z Hom
 Mí lidé v Ďáblově průsmyku potřebují jídlo.
 [[ms]Udělal[fs]Udělala] jsi toho hodně, když jsi [[ms]dal[fs]dala] naše pole zpátky do pořádku, ale nemohu nic postrádat do té doby, než budou mít mí lidé více času vypěstovat čerstvou úrodu.{^n}{^n}Pokud nám budeš nadále pomáhat, pak uvolníš ruce, které potřebuji u sklizně. Chytání bestií, jež se potulují krajem zase zajistí, že budeme moci pracovat v klidu.
 Dobrá.
-Opravdu to vypadá, že jsou tví lidé ve velmi špatné situaci. [[ms]Udělal[fs]Udělala] jsi toho pro nás tak mnoho, myslím že je fér, že vypomůžeme my vám.
+Opravdu to vypadá, že jsou tví lidé ve velmi špatné situaci. [[ms]Udělal[fs]Udělala] jsi toho pro nás tak mnoho, myslím že je fér, že vypomůžeme my vám.{^n}{^n}Captain Somer might disagree about sharing our resources, but we can't turn a blind eye to the troubles of others, especially when you've done so much for us.
 To [[ms]rád[fs]ráda] slyším.
 Pošlu zprávu, že jídlo je okamžitě posíláno do Ďáblova průsmyku.{^n}{^n}První zásilku považuj za poděkování a znamení prosperující budoucnosti mezi našimi dvěmi osadami.
 Děkuji ti. Dám ihned vědět mým lidem.
@@ -40,12 +40,12 @@ Tak zatím.
 Sbohem.
 [[ms]Vypořádal[fs]Vypořádala] jsi se s tou škvoří královnou?
 Cyklus škvorů je přerušen.
-To jsou ty nejlepší zprávy za poslední týdny.{^n}{^n}Tvá neustávající podpora nám zajišťuje, že Homestead vyprodukuje dostatek potravy pro všechny.
+To jsou ty nejlepší zprávy za poslední týdny. I will have to speak to Captain Somer about getting a proper kitchen set up.{^n}{^n}Tvá neustávající podpora nám zajišťuje, že Homestead vyprodukuje dostatek potravy pro všechny.
 A co Ďáblův průsmyk?
 [[ms]Udělal[fs]Udělala] jsi toho hodně, když jsi [[ms]dal[fs]dala] naše pole zpátky do pořádku, ale nemohu nic postrádat do té doby, než budou mít mí lidé více času vypěstovat čerstvou úrodu.{^n}{^n}Pokud nám budeš nadále vypomáhat, uvolní se nám ruce potřebné pro sklizeň. Odstranění bestií z okolí nám také zajistí, že můžeme pracovat v klidu.
 Dobrá.
 Tak zatím.
-To jsou ty nejlepší zprávy za poslední týdny.{^n}{^n}[[ms]Udělal[fs]Udělala] jsi toho pro nás tak mnoho, myslím že je fér, že vypomůžeme my vám.
+To jsou ty nejlepší zprávy za poslední týdny. I will have to speak to Captain Somer about getting a proper kitchen set up.{^n}{^n}[[ms]Udělal[fs]Udělala] jsi toho pro nás tak mnoho, myslím že je fér, že vypomůžeme my vám.
 To [[ms]rád[fs]ráda] slyším.
 
 [[ms]Vypořádal[fs]Vypořádala] jsi se s tou škvoří královnou?
@@ -63,11 +63,11 @@ Co je to?
 Zabiju tu škvoří královnu.
 Není způsob, jak bych to [[ms]dokázal[fs]dokázala].
 S královnou jsem se již [[ms]vypořádal[fs]vypořádala].
-To jsou ty nejlepší zprávy za poslední týdny.{^n}{^n}Tvá neustávající podpora nám zajišťuje, že Homestead vyprodukuje dostatek potravy pro všechny.
+To jsou ty nejlepší zprávy za poslední týdny. I will have to speak to Captain Somer about getting a proper kitchen set up.{^n}{^n}Tvá neustávající podpora nám zajišťuje, že Homestead vyprodukuje dostatek potravy pro všechny.
 A co Ďáblův průsmyk?
 
 Tak zatím.
-To jsou ty nejlepší zprávy za poslední týdny.{^n}{^n}[[ms]Udělal[fs]Udělala] jsi toho pro nás tak mnoho, myslím že je fér, že vypomůžeme my vám.
+To jsou ty nejlepší zprávy za poslední týdny. I will have to speak to Captain Somer about getting a proper kitchen set up.{^n}{^n}[[ms]Udělal[fs]Udělala] jsi toho pro nás tak mnoho, myslím že je fér, že vypomůžeme my vám.
 To [[ms]rád[fs]ráda] slyším.
 
 Omlouvám se, ale myslím že už jsem toho [[ms]udělal[fs]udělala] dost.
@@ -87,7 +87,10 @@ Na západ odtud jsou dvě farmy, které patří Elmsworthovým a Thornsburyovým
 Vydám se tam obratem.
 Stále pracuji na řešení.
 Vítej zpátky. Předpokládám, že jsi si [[ms]nerozmyslel[fs]nerozmyslela] nám vypomoci?
-
+What is the problem?
+After the Grim Dawn, many of our neighbors were forced to abandon their homes and flee here. Together, we built Homestead up into a sanctuary, but it came at a loss of countless other farmsteads.{^n}{^n}When the Black Legion arrived, we were able to recover a few fields, but not nearly enough to feed everyone. Captain Somer considers the resources available to be sufficient for her campaign and has deemed any further efforts to restore the farmland to be secondary to the Legion's mission.The Dermapterans, a vile infestation that plagues this land every few years, are running rampant throughout our lands, devouring all they see and laying their eggs. If we don't act soon, our harvest will be ruined and the land left barren.{^n}{^n}There are two farms just west of here, belonging to Elmsworth and Thornsbury, which would be the ideal next steps in expanding our food production. If you could clear out the Dermapteran egg clusters there, along with any Dermapterans protecting them, then perhaps I can convince the captain to at least assign guards to the farms and allow our men to work the fields. I'll see to it that you are justly compensated. What do you say?
+I will clear out the infestation.
+Sounds like a job for the Legion.
 
 
 Sbohem.
