@@ -363,6 +363,7 @@ tagEnemyDermapteranA01=Škvor ~ nosatec
 tagEnemyDermapteranB01=Škvor ~ hlídkař
 tagEnemyDermapteranB02=Škvor ~ plenitel
 tagEnemyDermapteranC01=Škvor ~ vezír
+tagEnemyDermapteranC02=Škvor ~ tvůrce
 
 tagEnemySummonWeavilA01=Brouk
 
@@ -375,7 +376,7 @@ tagDermapteranHeroH05=Vildrix ~ Dotčený Prázdnotou
 tagDermapteranBoss01=Velký vezír Lozakal
 tagDermapteranBoss02=Velký vezír Inixil
 tagDermapteranBoss03=Ravna ~ Královna roje
-tagDermapteranBoss04=Vezír Anoxis
+tagDermapteranBoss04=Vezír Anoxis, nakažený
 
 #CreatureInsectMosquito
 
@@ -457,13 +458,22 @@ tagEnemyPrawnC01=Morový kreverak
 tagEnemyPrawnSummonA01=Kreverak ~ Jeden z mnoha
 
 tagEnemyCavePrawnA01=Vybledlý jeskynní podlézavec
+tagEnemyCavePrawnA02=Terrorspark Cavern Crawler
 tagEnemyCavePrawnB01=Jeskynní patolízal - albín
+tagEnemyCavePrawnC01=Bursting Cavern Crawler
+tagEnemyCavePrawnSummonA01=Swarming Cavern Crawler
 
 tagPrawnHeroH01=Ravacrix, Hladový
 tagPrawnHeroH02=Palacrix, Starodávný
 tagPrawnHeroH03=Velacrix, Přenašeč moru
 tagPrawnHeroH04=Elcrix ~ Elektrizovaný
 tagPrawnHeroH05=Flocrix ~ Spalující
+
+tagCavePrawnHeroH01=Terrocrix
+tagCavePrawnHeroH02=Chiricrix ~ Frozen
+tagCavePrawnHeroH03=Blucrix ~ Defender
+
+tagCavePrawnBoss01=Ikrix, the Ravener
 
 #CreatureRaptor
 
@@ -696,11 +706,6 @@ tagEnemyCaveSpiderA01=Spřadač teroru ~ pavoučí mládě
 tagEnemyCaveSpiderB01=Spřadač teroru ~ pavoukovec
 tagEnemyCaveSpiderB02=Přadlena teroru ~ vdova
 tagEnemyCaveSpiderC01=Přadlena teroru ~ matka rodu
-tagEnemyCavePrawnA01=Šupinatý kreverak
-tagEnemyCavePrawnA02=Jiskřící kreverak
-tagEnemyCavePrawnB01=Drápající kreverak
-tagEnemyCavePrawnC01=Puknutý kreverak
-tagEnemyCavePrawnSummonA01=Jeskynní kreverak
 
 tagCaveTrollHalfHeroH01=Glukrok, Tajemný obyvatel
 tagCaveTrollHalfHeroH02=Algrok, Slepý zběsilec
@@ -712,12 +717,8 @@ tagCaveTrollHeroH02=Rovos ~ Odrážející
 tagCaveSpiderHeroH01=Shelleb, Temný
 tagCaveSpiderHeroH02=Vilaxna ~ Oživovač
 tagCaveSpiderHeroH03=Ravnix ~ Rychlý
-tagCavePrawnHeroH01=Terrocrix
-tagCavePrawnHeroH02=Chiricrix ~ Zmrzlý
-tagCavePrawnHeroH03=Blucrix ~ Obránce
 
 tagCaveSpiderBoss01=Ungoliax, Přadlena smutku
-tagCavePrawnBoss01=Ikrix, Mistr krkavců
 tagCaveTrollHalfBoss01=Gollus, Obyvatel hlubin
 
 #CreatureVultures
@@ -804,6 +805,9 @@ tagReanimatorBossH04=Nazagrad, Padlý
 tagPetRavenA01=Velký havran
 tagPetHellhoundA01=Pekelný pes
 tagPetWhirlwindA01=Vichřice
+tagPetThornedHorrorA01=Briarthorn
+tagPetManticoreA01=Primal Spirit
+tagPetWindDevilA01=Wind Devil
 
 tagPetIceWallA01=Ledová bariéra
 
@@ -822,6 +826,8 @@ tagRelicStormhound=Bouřný pes
 tagRelicNemesis=Mstitel
 tagRelicSwarm=Bláznivý roj
 
+tagDLCWisp=Will'O'Wisp
+
 #EnemySummons
 
 tagEnemySummonHellspawn=Zplozenec pekla
@@ -837,7 +843,7 @@ tagEnemySummonAetherTrap=Aetherická past
 tagQuestEnemyReanimator=Kyzogg Oživovatel
 tagQuestEnemyMiltonHart=Milton Hart
 tagQuestEnemyBanditForge=Outlaw Forge
-tagQuestChthonianMonstrosity=Mag'Thel, Rozparovač
+tagQuestChthonianMonstrosity=Thall'Nosh, Rozparovač
 
 tagBossTheWarden01=Warden
 

@@ -7,7 +7,7 @@ tagTutorialTip06Title=Nedotčené jídlo
 tagTutorialTip06TextA=Objevil jsi zbytky jídla, které po sobě nejspíš zanechal nějaký méně šťastný dobrodruh.{^n}{^n}Pokud jej pozřeš, obnovíš část své konstituce.
 
 tagTutorialTip08Title=Vítejte ve hře Grim Dawn
-tagTutorialTip08TextA=Děkujeme za podporu a pomoc - díky tobě může Grim Dawn existovat! Doufáme, že si užiješ první část hry.{^n}{^n}Měj prosím na paměti, že toto je alpha verze hry, která je vytvořena nezávislým týmem o sedmi lidech. Setkáš se s chybami, nedokončenými částmi a jen se zhruba dvěma třetinami hry. Velice uvítáme příspěvky o chybách a pocitech z hraní hry na našich fórech na www.grimdawn.com.
+tagTutorialTip08TextA=Děkujeme za podporu a pomoc - díky tobě může Grim Dawn existovat! Doufáme, že si užiješ první část hry.{^n}{^n}Měj prosím na paměti, že se nejedná o dokončenou verzi hry, která je vytvořena nezávislým týmem o osmi lidech. Setkáš se s chybami, nedokončenými částmi a jen se zhruba dvěma třetinami hry. Velice uvítáme příspěvky o chybách a pocitech z hraní hry na našich fórech na www.grimdawn.com.
 
 tagTutorialTip09Title=Okno obchodníka
 tagTutorialTip09TextA=Obchodník prodává a nakupuje zbraně a jinou výbavu nutnou pro přežití v oblasti Cairnu.
@@ -181,3 +181,20 @@ tagTutorialTip50TextB=K použití vylepšení stačí na něj kliknout pravým t
 
 tagTutorialTip51Title=Použití vylepšení
 tagTutorialTip51TextA=Klikni pravým tlačítkem myši na Vylepšit a poté levým tlačítkem na předmět, který chceš vylepšit.{^N}{^N}Jen tě musím upozornit, že vylepšení lze použít pouze na určité druhy předmětů a po jeho aplikování nelze vylepšení již odstranit. Na druhou stranu je možné jej nahradit jiným vylepšením.
+
+tagTutorialTip52Title=Objevení frakce
+tagTutorialTip52TextA=You have gained some reputation with one of Cairn's faction through a quest.{^N}{^N}Quests are an excellent way to improve your relations with factions, but they are not the only method. You can learn more about factions in the {^y}Faction Window{^w}.
+tagTutorialTip52CaptionA=Klávesová zkratka: {^b}{%t0}{^w}
+
+tagTutorialTip53Title=Ubytovatel frakce
+tagTutorialTip53TextA=Faction Quartermasters sell items exclusively available from his or her faction. This equipment is only available to those who have proven themselves to their faction.
+tagTutorialTip53SubtitleA=Soulbound Equipment
+tagTutorialTip53TextB=Equipment sold by Faction Quartermasters is soulbound to your character and cannot be traded or placed in the Transfer UI.{^N}{^N}If a Soulbound Augment is applied to an item, that item becomes soulbound as well.
+
+tagTutorialTip54Title=Úroveň reputace
+tagTutorialTip54TextA=Byla dosažena další úroveň reputace s některou z frakcí. To ti nyní umožňuje nakupovat zboží u této frakce mnohem levněji a také máš přístup k lepší výbavě u frakčních ubytovatelů.{^N}{^N}Podívej se kolem po nových výzvách, které jsou třeba dostupné.
+
+tagTutorialTip55Title=Okno frakcí
+tagTutorialTip55TextA=Use the {^y}Faction Window{^w} to keep track of your progress with Cairn's various factions and to determine what you need to do in order to gain their favor. Note that Factions and their rewards will be fully implemented with Build 25.
+tagTutorialTip55SubtitleA=Gaining Reputation
+tagTutorialTip55TextB=Each faction has unique desires and goals. You can see how to earn their respect by looking at the {^y}Reputation Gained From{^w} section.{^N}{^N}Note that as you become more renowned, you will need to defeat tougher monsters to gain reputation from kills.
