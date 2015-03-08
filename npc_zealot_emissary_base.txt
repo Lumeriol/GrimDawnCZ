@@ -1,22 +1,22 @@
 Bratr Mollarg
-You have chosen wisely, friend. May Empyrion bless your path.
-Where is the Kymon's Chosen sanctuary?
-Out beyond Blood Grove. We have taken refuge within an old fort known as Sorrow's Bastion. Follow the road north.
-Thank you.
-Farewell.
+[[ms]Vybral[fs]Vybrala] sis dobře, [[ms]příteli[fs]přítelkyně]. Nechť Empyrion posvětí tvou cestu.
+Kde je svatyně Kymonových vyvolených?
+Daleko za Krvavým hájem. Vzali jsme uprchlíky do staré pevnosti známé jako Bašta zármutku. Následuj cestu na sever.
+Díky.
+Tak zatím.
 Nepatříš sem. Odejdi a zůstaneš naživu.
 Dobrá, už jdu.
-:::: [[ms]Zvolil[fs]Zvolila] si moudře, friend. Nechť ti Empyrion žehná na cestách.
+[[ms]Zvolil[fs]Zvolila] si moudře, [[ms]příteli[fs]přítelkyně]. Nechť ti Empyrion žehná na cestách.
 Sbohem.
 Pouze ti, kteří hledají Empyrionovu pravdu, jsou zde vítáni. [[ms]Měl[fs]Měla] bys odejít.
 Sbohem.
-You are expected at our Enclave.
-Where is your enclave located?
-Head out through the northern gates and into the Blood Grove. Follow the road until you reach old fortress ruins. That's Sorrow's Bastion. Our enclave is in the tower.
-Thank you.
-I'm on my way.
-I must ask that you visit our enclave to the north. We have taken over a part of Sorrow's Bastion and made it our new home.{^n}{^n}Seek us out by taking the road north through the Blood Grove. When you've reached the ruins, look for the tower.{^n}{^n}Once there, please speak to Brother Elluvius. He will set you upon our enlightened path.
-I will seek out your enclave.
-Perhaps another time.
+Jsi [[ms]očekáván[fs]očekávána] v naší enklávě.
+Kde je vaše enkláva?
+Zamiř skrz severní brány a dále do Krvavého háje. Následuj cestu, dokud nenarazíš na ruiny staré pevnosti. To je Bašta zármutku. Naše enkláva je ve věži.
+Děkuji ti.
+Už vyrážím.
+Musím tě poprosit, abys [[ms]navštívil[fs]navštívila] naši enklávu na severu. Převzali jsme část Bašty zármutku a udělali z ní náš nový domov.{^n}{^n}Vyhledej nás tak, že půjdeš po severní cestě skrze Krvavý háj. Až narazíš na ruiny, podívej se po věži.{^n}{^n}Jakmile tam budeš, promluv si s bratrem Elluviusem. Připraví tě na naši cestu osvícení.
+Vaši enklávu vyhledám.
+Možná někdy jindy.
 Pouze ti, kteří hledají Empyrionovu pravdu, jsou zde vítáni. [[ms]Měl[fs]Měla] bys odejít.
 Sbohem.

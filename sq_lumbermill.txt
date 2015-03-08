@@ -1,13 +1,13 @@
 Homestead
-Lumber for the Legion
-Claim Lumber Mill
-Homestead is running low on building supplies, particularly lumber, but there are still many repairs that require attention. Sergeant Serriv of the Black Legion has pointed out that there is an abandoned lumber mill in the Blood Grove. However, it is overrun with Chthonic spawn. She has asked Captain Somer for assistance in this matter, but the Captain believes the casualties would be too great for too little gain; but you are not under the Captain's command. If you clear out the lumber mill in the Blood Grove, then the Black Legion can send in guards to keep it secure. To enter the Blood Grove, head north out of Homestead.
-Clear out the Lumber Mill in the Blood Grove
+Dřevo pro Legii
+Získej zpět pilu
+Homesteadu dochází stavební materiál, konkrétně dřevo, ale je stále mnoho oprav, které si vyžadují pozornost. Seržant Serriv z Černé legie poukázal na opuštěnou pilu v Krvavém háji. Ta je ale obsazená Ch'toniany. Zeptala se v této záležitosti na asistenci kapitánky Somerové, ta ale věří, že případné ztráty by byly oproti možnému zisku příliš velké. Ty ale nejsi pod záštitou kapitána. Pokud vyčistíš pilu v Krvavém háji, může Černá legie vyslat vojáky a držet ono místo zabezpečené. Pro vstup do Krvavého háje jdi na sever od Homesteadu.
+Vyčisti pilu v Krvavém háji
 
-Return to Homestead
-You have cleared out the Chthonians rampaging through the abandoned lumber mill. Inform Sergeant Serriv in Homestead of your success.
+Vrať se do Homesteadu
+[[ms]Vyčistil[fs]Vyčistila] jsi opuštěnou pilu, po které se potulovali Ch'toniané. Informuj seržanta Serriva v Homesteadu o tvém úspěchu.
 
-Return to Sergeant Serriv in Homestead
+Vrať se k seržantovi Serrivovi do Homesteadu
 
 
 

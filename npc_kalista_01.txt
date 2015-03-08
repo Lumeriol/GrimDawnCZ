@@ -1,98 +1,98 @@
 Kalista
-Hush now, little human. We wouldn't want to spoil the fun for the others. Now would we?
-You monster.
-Please, I'm so scared.
-Someone is coming. Just hang in there.
-Please help me. I'm so scared.
-How did you get trapped down here?
-I was out playing by myself like mama said not to. I wandered into this cave when the exit collapsed behind me.{^n}{^n}*Kalista sobs between words*{^n}{^n}Please, I just want to go home to my mama and papa. They live in a camp nearby.
-Of course I will help you out. (Open Riftgate)
-I'll be right back.
-Why didn't they come looking for you?
-I...I don't know. Why does it matter? Maybe they couldn't find this place under all the rocks.{^n}{^n}*Kalista is ready to cry*{^n}{^n}You're frightening me with all your questions. I just need to get out of this prison!
-Ok, calm down. I will get you home. (Open Riftgate)
-I'll be right back.
+Teď potichu, malý člověče. Nechtěli bysme přece vyzradit tu zábavu ostatním. Nebo snad ano?
+Monstrum.
+Prosím. Jsem tak vyděšená.
+Někdo přichází. Zůstaň tady.
+Prosím pomoz mi. Jsem tak vystrašená.
+Jak se stalo, že jsi tady dole uvězněná?
+Vydala jsem se sama hrát ven ikdyž mi maminka říkala, abych to nedělala. Došla jsem do této jeskyně, ale vchod za mnou se zhroutil.{^n}{^n}*Kalista mezi slovy pofňukává*{^n}{^n}Prosím, jenom chci jít do mů za mým tatínkem a maminkou. Žijí v kempu nedaleko.
+Samozřejmě že ti pomůžu. (Otevři Bránu)
+Hned se vrátím.
+Proč se nevydali tě hledat?
+Já...Já nevím. Proč na tom záleží? Možná že tohle místo nemohou pod tou hromadou kamenů prostě najít.{^n}{^n}*Kalista už skoro brečí*{^n}{^n}Děsíš mě všemi těmi otázkami. Potřebuji se prostě dostat z tohoto vězení!
+Dobrá, uklidni se. Dostanu tě domů (Otevři Bránu)
+Hned se vrátím.
 
 
-Where is your camp?
-You must have passed the camp on the way here. I sense... I mean, I know my people are down below in the valley; probably waiting for me!{^n}{^n}*Kalista sobs*{^n}{^n}Please, you must let me out; I must escape this place!
-I will get you home. (Open Riftgate)
-I'll be right back.
-Why didn't your parents look for you?
+Kde je vaše tábořiště?
+[[ms]Musel[fs]Musela] si projít kempem na cestě sem. Cítím... Tedy mám na mysli, že vím že mí lidé jsou dole v údolí; pravděpodobně na mě čekají! {^n}{^n}*Kalista fňuká*{^n}{^n}Prosím, musíš mě pustit ven; musím z tohoto místa utéct!
+Dostanu tě domů. (Otevři Bránu)
+Hned se vrátím.
+Proč tě tví rodiče nehledali?
 
-How long have you been down here?
-I...I don't know. Many days.{^n}{^n}It's dark and scary here. And...and sometimes I hear things crawling around but I can't see them.{^n}{^n}I'd really like to go home now. I'm hungry; so hungry...
-I will get you home. (Open Riftgate)
-I'll be right back.
-Shouldn't someone be out looking for you?
-
-
-I find it odd that you survived on your own out here.
-I find it odd that you're so suspicious. Your mistrust must be a reflection of your own poor character!{^n}{^n}Is your heart so bitter that you won't help a lost child find their way home?{^n}{^n}Please help me!
-I will get you home. (Open Riftgate)
-I'll be right back.
-Why hasn't someone come looking for you?
+Jak dlouho jsi tady byla?
+Já...Já nevím. Mnoho dní.{^n}{^n}Je to tu tmavé a strašidelné. A...a někdy slyším nějaké věci chodit kolem, ale nevidím je.{^n}{^n}Teďka už bych ráda šla domů. Mám hlad; tak strašný hlad...
+Dostanu tě domů. (Otevři Bránu)
+Hned se vrátím.
+Neměl by tě někdo hledat?
 
 
-
-Where are you from?
-I live in a nearby camp with mama and papa. They say we are...Row...Rovers, but I don't know what that means.{^n}{^n}I just wanna go home.
-I will get you home. (Open Riftgate)
-I'll be right back.
-How did you get trapped down here?
-I was out playing by myself like mama said not to. I wandered into this cave when the exit collapsed behind me.{^n}{^n}*Kalista sobs between words*{^n}{^n}Please, I just want to go home to my mama and papa. They live in a camp nearby.
-Of course I will help you out. (Open Riftgate)
-I'll be right back.
+Připadá mi divné, že jsi tady přežila sama.
+Připadá mi divné, že jsi tak podezíravý. Tvá nedůvěra musí být odrazem tvého vlastního ubohého charakteru!{^n}{^n}Je tvé srdce tak zahořklé že nepomůžeš ztracenému dítěti najít cestu domů?{^n}{^n}Prosím pomoz mi!
+Dostanu tě domů. (Otevři Bránu)
+Hned se vrátím.
+Proč tě nikdo nehledal?
 
 
 
-Why didn't they come looking for you?
-I...I don't know. Why does it matter? Maybe they couldn't find this place under all the rocks.{^n}{^n}*Kalista is ready to cry*{^n}{^n}You're frightening me with all your questions. I just need to get out of this prison!
-Ok, calm down. I will get you home. (Open Riftgate)
-I'll be right back.
-
-
-Something seems off here.
-*Flame flickers in Kalista's eyes*{^n}{^n}Take me from this place now!
-You are a deceiver, demon. (Attack)
-I will spare you, for now.
-How long have you been down here?
-I...I don't know. Many days.{^n}{^n}It's dark and scary here. And...and sometimes I hear things crawling around but I can't see them.{^n}{^n}I'd really like to go home now.
-I will get you home. (Open Riftgate)
-I'll be right back.
-
-Shouldn't somebody be out looking for you?
-
-I find it odd that you survived on your own out here.
-I find it odd that you're so suspicious. Your mistrust must be a reflection of your own poor character!{^n}{^n}Is your heart so bitter that you won't help a lost child find their way home?{^n}{^n}Please help me!
-I will get you home. (Open Riftgate)
-I'll be right back.
-
-Why hasn't someone come looking for you?
-
-
-A little girl all by herself in here?
-*Kalista suddenly looks serious*{^n}{^n}I'm not a little girl. I'm almost this many years old.{^n}{^n}*Kalista holds up a hand with all her fingers spread out*{^n}{^n}Mama says so.
-
-
-How long have you been down here?
-I...I don't know. Many days.{^n}{^n}It's dark and scary here. And...and sometimes I hear things crawling around but I can't see them.{^n}{^n}I'd really like to go home now. I'm hungry; so hungry...
-I will get you home. (Open Riftgate)
-I'll be right back.
-
-
-Shouldn't somebody be out looking for you?
-I...I don't know. Why does it matter? Maybe they couldn't find this place under all the rocks.{^n}{^n}*Kalista is ready to cry*{^n}{^n}You're frightening me with all your questions. I just need to get out of this prison!
-Ok, calm down. I will get you home. (Open Riftgate)
-I'll be right back.
-
-I find it odd that you survived on your own out here.
-I find it odd that you're so suspicious. Your mistrust must be a reflection of your own poor character!{^n}{^n}Is your heart so bitter that you won't help a lost child find their way home?{^n}{^n}Please help me!
-I will get you home. (Open Riftgate)
-I'll be right back.
+Odkud jsi?
+Žiji v kempu nedaleko s mamkou a taťkou. Říkají, že jsme Tou...Tuláci, ale já nevím co to znamená. {^n}{^n}Jenom chci jít prostě domů.
+Dostanu tě domů. (Otevři Bránu)
+Hned se vrátím.
+Jak se stalo, že jsi tady dole uvězněná?
+Vydala jsem se sama hrát ven ikdyž mi maminka říkala, abych to nedělala. Došla jsem do této jeskyně, ale vchod za mnou se zhroutil.{^n}{^n}*Kalista mezi slovy pofňukává*{^n}{^n}Prosím, jenom chci jít do mů za mým tatínkem a maminkou. Žijí v kempu nedaleko.
+Samozřejmě že ti vypomůžu. (Otevři Bránu)
+Hned se vrátím.
 
 
 
+Proč tě nehledali?
+Já...Já nevím. Proč na tom záleží? Možná že tohle místo nemohou pod tou hromadou kamenů prostě najít.{^n}{^n}*Kalista už skoro brečí*{^n}{^n}Děsíš mě všemi těmi otázkami. Potřebuji se prostě dostat z tohoto vězení!
+Dobrá, uklidni se. Dostanu tě domů (Otevři Bránu)
+Hned se vrátím.
 
 
-I'll be right back.
+Je na tom něco podezřelého.
+*Oheň zajiskří v Kalistině očích*{^n}{^n}Odveď mě ihned z tohoto místa!
+Jsi podvodník, démone. (Zaútoč)
+Ušetřím tě, prozatím.
+Jak dlouho jsi tady byla?
+Já...Já nevím. Mnoho dní.{^n}{^n}Je to tu tmavé a strašidelné. A...a někdy slyším nějaké věci chodit kolem, ale nevidím je.{^n}{^n}Teďka už bych ráda šla domů. Mám hlad; tak strašný hlad...
+Dostanu tě domů. (Otevři Bránu)
+Hned se vrátím.
+
+Neměl by tě někdo hledat?
+
+Připadá mi divné, že jsi tady přežila sama.
+Připadá mi divné, že jsi tak podezíravý. Tvá nedůvěra musí být odrazem tvého vlastního ubohého charakteru!{^n}{^n}Je tvé srdce tak zahořklé že nepomůžeš ztracenému dítěti najít cestu domů?{^n}{^n}Prosím pomoz mi!
+Dostanu tě domů. (Otevři Bránu)
+Hned se vrátím.
+
+Proč se tě nikdo nevydal hledat?
+
+
+Malá dívka a úplně sama, tady?
+*Kalista náhle zvážní*{^n}{^n}Nejsem malá holka. Jsem skoro tolik let stará.{^n}{^n}*Kalista zdvihne ruku s rozevřenými všemi prsty*{^n}{^n}Máma to říká.
+
+
+Jak dlouho jsi tady byla?
+Já...Já nevím. Mnoho dní.{^n}{^n}Je to tu tmavé a strašidelné. A...a někdy slyším nějaké věci chodit kolem, ale nevidím je.{^n}{^n}Teďka už bych ráda šla domů. Mám hlad; tak strašný hlad...
+Dostanu tě domů. (Otevři Bránu)
+Hned se vrátím.
+
+
+Neměl by tě někdo hledat?
+Já...Já nevím. Proč na tom záleží? Možná že tohle místo nemohou pod tou hromadou kamenů prostě najít.{^n}{^n}*Kalista už skoro brečí*{^n}{^n}Děsíš mě všemi těmi otázkami. Potřebuji se prostě dostat z tohoto vězení!
+Dobrá, uklidni se. Dostanu tě domů (Otevři Bránu)
+Hned se vrátím.
+
+Připadá mi divné, že jsi tady přežila sama.
+Připadá mi divné, že jsi tak podezíravý. Tvá nedůvěra musí být odrazem tvého vlastního ubohého charakteru!{^n}{^n}Je tvé srdce tak zahořklé že nepomůžeš ztracenému dítěti najít cestu domů?{^n}{^n}Prosím pomoz mi!
+Dostanu tě domů. (Otevři Bránu)
+Hned se vrátím.
+
+
+
+
+
+Hned se vrátím.
