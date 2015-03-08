@@ -1,0 +1,170 @@
+# Achievement Groups
+
+achGroupAct1=Akt 1
+achGroupAct2=Akt 2
+achGroupAct3=Akt 3
+achGroupWorld=Celý svět
+
+# Achievements
+
+ach001Title=Zabiják příšer
+ach001Desc=Zlikviduj 15 hrdinů (označených hvězdou).
+
+ach002Title=Zabiják hrdinůHeroic Slayer
+ach002Desc=Zlikviduj 30 hrdinů (označených hvězdou).
+
+ach003Title=Legendární zabiják
+ach003Desc=Zlikviduj 100 hrdinů (označených hvězdou).
+
+ach004Title=Jeden z milionu
+ach004Desc=Zabij velmi vzácného hrdinu (červené jméno) na elitní nebo ultimátní obtížnost.
+
+ach005Title=Osm v milionu
+ach005Desc=Zabij všechny velmi vzácné hrdiny (červené jméno) na elitní nebo ultimátní obtížnost
+
+ach006Title=Očista světa
+ach006Desc=Zbav Cairn 100.000 příšer.
+
+ach007Title=Povstvání v krvi
+ach007Desc=Zbav Cairn 500.000 příšer.
+
+ach008Title=Oceán krve
+ach008Desc=Zbav Cairn 1.000.000 příšer.
+
+ach009Title=Přátelé v apokalypse
+ach009Desc=Staň se uctívaným u nkěteré frakce.
+
+ach010Title=Vzor Cairnu
+ach010Desc=Staň se uctívaným mezi 6 frakcemi.
+
+ach011Title=Služebník Empyrionův
+ach011Desc=Dosáhni úcty u Kymonových vyvolených.
+
+ach012Title=Uroboruukův následovník
+ach012Desc=Dosáhni úcty u Řádu strážců smrti.
+
+ach013Title=Konec neřesti
+ach013Desc=Zlikviduj Salazara, Čepel Ch'thona ve Svatyni neřesti.
+
+ach014Title=Znič Čepel Ch'thona
+ach014Desc=Zlikviduj Salazara, Čepel Ch'thona ve Svatyni neřesti ve Veteránském režimu.
+
+ach015Title=Poprava popravčího
+ach015Desc=Zlikviduj Alkamose, Vykonavatele spravedlnosti ve Stupních bolesti.
+
+ach016Title=Konec bolesti
+ach016Desc=Zlikviduj Alkamose, Vykonavatele spravedlnosti ve Stupních bolesti ve Veteránském režimu.
+
+ach017Title=Nesmrtelný popravčí
+ach017Desc=Zlikviduj Alkamose, Vykonavatele spravedlnosti ve Stupních bolesti v režimu Výzvy.
+
+ach018Title=Doručení spravedlnosti
+ach018Desc=Zlikviduj Wardena Kriega ve Skryté laboratoři.
+
+ach019Title=Stará hrozba
+ach019Desc=Zlikviduj Daria Cronleyho.
+
+ach020Title=Krev za krev
+ach020Desc=Zlikviduj Karroze, Pečeť Ch'thona.
+
+ach021Title=Prokletí Cairnu
+ach021Desc=Zlikviduj ???
+
+ach022Title=Vyčištění Požářiště
+ach022Desc=Zlikviduj Plamenného Heralda v Požářišti.
+
+ach023Title=Netřeba se bát ohýnku
+ach023Desc=Zlikviduj Plamenného Heralda v Požářišti ve Veteránském režimu.
+
+ach024Title=Vykuchání Střevního červa
+ach024Desc=Zlikviduj Střevního červa v Pašerácké kotlině.
+
+ach025Title=Měl jsi střeva
+ach025Desc=Zlikviduj Střevního červa v Pašerácké kotlině ve Veteránském režimu.
+
+ach026Title=Drátování je její specialita
+ach026Desc=Zachraň Darlet ve vesnici Burrwitch.
+
+ach027Title=Za Malleum Menhir
+ach027Desc=Získej pomoc kováře.
+
+ach028Title=Už na tebe nezbyla polévka
+ach028Desc=Zachraň Ulgrim na Burrwitchském předměstí.
+
+ach029Title=Učedník
+ach029Desc=Vytvoř 10 předmětů.
+
+ach030Title=Odborník
+ach030Desc=Vytvoř 100 předmětů.
+
+ach031Title=Mistr
+ach031Desc=Vytvoř 1.000 předmětů.
+
+ach032Title=Relikvie z minulosti
+ach032Desc=Vytvoř relikvii.
+
+ach033Title=Mimořádná síla
+ach033Desc=Vytvoř mimořádnou relikvii.
+
+ach034Title=Bájná síla
+ach034Desc=Vytvoř bájnou relikvii.
+
+ach035Title=Od průzkumu ke kořisti
+ach035Desc=Otevři 10 jednorázových truhliček
+
+ach036Title=Skutečná oddanost
+ach036Desc=Obnov 10 svatyň oddanosti.
+
+ach037Title=Přeživší
+ach037Desc=Dosáhni 10. úrovně.
+
+ach038Title=Šampion
+ach038Desc=Dosáhni 35. úrovně.
+
+ach039Title=Hrdina
+ach039Desc=Dosáhni 50. úrovně.
+
+ach040Title=Legenda
+ach040Desc=Dosáhni 75. úrovně.
+
+ach041Title=Nesmrtelná legenda
+ach041Desc=Dosáhni 75. úrovně v režimu Výzvy.
+
+ach042Title=Obránce Cairnu
+ach042Desc=Dokonči hru.
+
+ach043Title=Šampion Cairnu
+ach043Desc=Dokonči hru na elitní obtížnost.
+
+ach044Title=Spasitel Cairnu
+ach044Desc=Dokonči hru na ultimátní obtížnost.
+
+ach045Title=Nesmrtelný spasitel
+ach045Desc=Dokonči hru na ultimátní obtížnost v režimu Výzvy.
+
+ach046Title=Těžké rozhodnutí
+ach046Desc=???
+
+ach047Title=Bez výjimky
+ach047Desc=Zlikviduj ???
+
+ach048Title=Neočekával jsem tě, člověče
+ach048Desc=Zlikviduj Wardena Kriega ve Veteránském režimu s postavou na nižší než 11. úrovni.
+
+ach049Title=Zabezpečení vesnice Burrwitch
+ach049Desc=Zabezpeč Burrwitchskou bránu ve Veteránském režimu.
+
+ach050Title=Ukryto v Zatopeném průchodu
+ach050Desc=Objev to, co se skrývá za sutinami v Zatopeném průchodu.
+
+ach051Title=Cronleyho tajemství
+ach051Desc=Odhal tajemství Daria Cronleyho.
+
+ach052Title=Ukryté bohatství
+ach052Desc=Najdi pohřbený poklad na polích poblíž Homesteadu.
+
+ach053Title=V hlubinách žije sám a zapomenut
+ach053Desc=Zlikviduj ???
+
+ach054Title=Místnost smrti
+ach054Desc=???

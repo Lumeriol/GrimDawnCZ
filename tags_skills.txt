@@ -91,7 +91,7 @@ tagClass01SkillDescription01A=Využití vlastností zbraně v boji dodá tvému 
 tagClass01SkillName01B=Bojová formace
 tagClass01SkillDescription01B=Běsnění tvé zbraně rozechvěje protivníka a způsobuje mu těžké krvácení. ^oS chladnými zbraněmi zasáhne Rychlý útok i další nepřátele v blízkosti.
 tagClass01SkillName01C=Smrtící pohyb
-tagClass01SkillDescription01C=Rychlý útok udeří ohromnou silou a dává každému Rychlému útoku šanci zasadit další bolestivé rány.
+tagClass01SkillDescription01C=You push the advantage following a Cadence strike, briefly causing all of your blows to strike with additional deadly force. ^oDeadly Momentum affects all skills while active.
 tagClass01SkillName01D=Disharmonie
 tagClass01SkillDescription01D=Disharmonie rozhněvané duše proudí do vojákova útoku a a naplní jej elementální a chaotickou energií.
 
@@ -232,7 +232,7 @@ tagClass02SkillDescription08A=Černovodý koktejl byl namíchán v době, kdy v�
 tagClass02SkillName08B=Démonický oheň
 tagClass02SkillDescription08B=Čarodejnické vylepšení obohacuje plameny chaotickou silou která rozpouští maso nepřátel a oslabuje brnění.
 tagClass02SkillName08C=Bolestné plameny
-tagClass02SkillDescription08C=Jak jsou nepřátelé pobláznění pronikavou bolestí od plamenů pokrývajících jejich tělo, jsou jejich řady v panice rozehnány a ti, co mohou něco dělat jsou sotva schopní udeřit zpět. 
+tagClass02SkillDescription08C=The agonizing pain caused by the Blackwater flame weakens your enemies' ability to withstand further sorcerous assault.
 
 tagClass02SkillName09A=Omračující částice
 tagClass02SkillDescription09A=Vypustí množství drobných, elektricky nabitých částic, které dočasně zastaví nepřátele v jejich pohybu.
@@ -293,7 +293,7 @@ tagClass03SkillDescription02F=Tělo pekelného psa vybuchne ve chvíli, kdy se n
 
 tagClass03SkillName03A=Smlouva s Bysmielem
 tagClass03SkillDescription03A=Posiluje pouta, kterými ovládáš své nohsledy, díky čemuž bojují s větším důrazem a odhodláním.
-tagClass03SkillName03B=Oddanost
+tagClass03SkillName03B=Manipulation
 tagClass03SkillDescription03B=Jemná manipulace s pouty, kterými ovládáš své nohsledy, je okouzlí a získají pocit ohromující oddanosti vůči tobě, což způsobí, že budou bojovat s až fanatickou silou a rychlostí.
 
 tagClass03SkillName04A=Dreegova krev
@@ -488,7 +488,7 @@ tagClass05SkillDescription02B=Zaklínadlo se stává přetíženým tajemnými s
 tagClass05SkillName02C=Elementární rovnováha
 tagClass05SkillDescription02C=Zaklínadlem vyvolaný a velmi dobře vybalancovaný úder, jež harmonizuje oheň a led spolu s nespoutanou elektřinou.
 tagClass05SkillName02D=Zjevení
-tagClass05SkillDescription02D=Tajemné energie se zjevují v mnoha formách. Vládci temnot, kteří se odevzdali umění vyvolávání, často převádějí některou z jejich sil na jejich přisluhovače a ti pak mohou lépe posloužit vůli svých pánů.
+tagClass05SkillDescription02D=Tajemné energie se zjevují v mnoha formách. Vládci temnot, kteří se odevzdali umění vyvolávání, často převádějí některou z jejich sil na jejich přisluhovače a ti pak mohou lépe posloužit vůli svých pánů. ^oThis effect is extended to your allies.
 
 tagClass05SkillName03A=Trozanův Úlomek nebe
 tagClass05SkillDescription03A=O mytickém Trozanovi se říkávalo, že byl přirozený; divoký a nechtějící se přizpůsobit doktrínám Imperiálních Vládců temnot. Když Imperiálští nakonec obklíčili jeho úkryt na vrcholu hory, Trozan je pokořil za použití neznámé techniky, která na ně snesla samotnou oblohu. ^oDo cílené oblasti dopadnou 3 úlomky.
@@ -512,7 +512,7 @@ tagClass05SkillDescription05B=Sféra absorbuje zhoubné vysilující efekty a ko
 tagClass05SkillName06A=Albrechtův Paprsek Aetheru
 tagClass05SkillDescription06A=Mocná tajuplná technika dovedená k dokonalosti Mistrem Albrechtem v letech těsně před Ponurým úsvitem. Tato technika vysílá prvotní tajemné energie do koncentrovaného paprsku destrukce. ^oVyžaduje kouzelnický předmět v druhé ruce.
 tagClass05SkillName06B=Rozklad
-tagClass05SkillDescription06B=Vloží všechnu tvoji energii do Paprsku Aetheru a promění jej do destruktivní síly která rozloží vše, čeho se dotkne.
+tagClass05SkillDescription06B=Vloží všechnu tvoji energii do Paprsku Aetheru a promění jej do destruktivní síly která rozloží vše, čeho se dotkne. ^oEnergy Cost increase is per damage interval.
 tagClass05SkillName06C=Zkažená síla
 tagClass05SkillDescription06C=Naruší paprsek tím, že jej bude posilňovat zuřivými silami chaotické Prázdnoty.
 
@@ -547,7 +547,7 @@ tagClass05SkillDescription14A=Ve vteřině se vzduch kolem tebe promění na ká
 tagClass05SkillName15A=Bezohledná síla
 tagClass05SkillDescription15A=Za cenu části své lidskosti a životní síly nech své tělo proměnit do prostředníka pro aether, jež představuje hrůzostrašné tajemné energie.
 tagClass05SkillName15B=Povznesení
-tagClass05SkillDescription15B=Posouváš se za hranice své fyzické formy, čímž předáš část své tajemné síly na spojence v okolí.
+tagClass05SkillDescription15B=Posouváš se za hranice své fyzické formy, čímž předáš část své tajemné síly na spojence v okolí. ^oCreates an aura around you for the duration of Reckless Power.
 tagClass05SkillName15C=Neomezená síla
 tagClass05SkillDescription15C=Mnoho Vládců temnot obětuje tak moc pro získání nekonečné moci. Jsou zde tací, jež nedbali na starověká varování a plně se oddali aetheru. Jsou to ti Vládci temnot, jež zasadí strach do srdcí smrtelníků nižší formy.
 
@@ -557,34 +557,9 @@ tagClass05SkillName16B=Absolutní nula
 tagClass05SkillDescription16B=Kompletně zbaví okolní vzduch tepla a cokoliv je zachyceno v dosahu Rychlého mrznutí je zpomalené a oslabené dokonce i poté, co původní účinky odezní.
 
 
+
 #Class06
 
-tagClass06SkillName02B=Elemental Balance
-tagClass06SkillDescription02B=Strike a finely-tuned balance within your incantation, attuning your weapons to the opposing forces of ice and fire.
-
-tagClass06SkillName00=Civilní stráž
-tagClass06SkillDescription00=Trénink v oblasti získávání těch nejtěžších odměn a v poražení všech, kteří stojí v cestě za tvou kořistí.
-
-tagClass06SkillName01A=Val
-tagClass06SkillDescription01A=Tvé bojové schopnosti jsou uzpůsobeny obranným bojům, vstřebání zranění a udržení se proti přesile.
-tagClass06SkillName01B=Čestná stráž
-tagClass06SkillDescription01B=Your combat skills are adapted to defensive fighting, absorbing damage, and holding out against superior numbers.
-tagClass06SkillName01C=Poslední obranná linie
-tagClass06SkillDescription01C=Your combat skills are adapted to defensive fighting, absorbing damage, and holding out against superior numbers.
-
-
-tagClass06SkillName02A=Předvoj
-tagClass06SkillDescription02A=Your combat skills are adapted to front-line fighting, dealing out damage and breaking the enemy.
-tagClass06SkillName02B=Přední linie
-tagClass06SkillDescription02B=Your combat skills are adapted to front-line fighting, dealing out damage and breaking the enemy.
-tagClass06SkillName02C=Šokující výpad
-tagClass06SkillDescription02C=Your combat skills are adapted to front-line fighting, dealing out damage and breaking the enemy.
-
-
-tagClass06SkillName07B=Druhý vítr
-tagClass06SkillDescription07B=A surge of renewed strength fills your body washing away your wounds and fatigue.
-tagClass06SkillName07C=Zrychlení
-tagClass06SkillDescription07C=Alive with the fury of battle, adrenaline courses through your veins making you move and attack faster.
 
 #Class07
 
@@ -773,6 +748,39 @@ tagItemSkillB031Desc=Vyvolá okolo tebe koncentrovanou dávku tajuplné energie,
 
 tagItemSkillB032Name=Úlomek nebe
 tagItemSkillB032Desc=Na své nepřátele sneseš nebesa.
+
+tagItemSkillB033Name=Aether Blastwave
+tagItemSkillB033Desc=A blast of Aether energy knocks your attackers back.
+
+tagItemSkillB034Name=Quake
+tagItemSkillB034Desc=Sends a shockwave of energy through the earth around you, damaging nearby foes.
+
+tagItemSkillB035Name=Minion Frenzy
+tagItemSkillB035Desc=Upon seeing their master get hurt, your minions enter a wild frenzy.
+
+tagItemSkillB036Name=Fire Blast
+tagItemSkillB036Desc=A surge of flames erupts from you, damaging all nearby enemies.
+
+tagItemSkillB037Name=Warp Blast
+tagItemSkillB037Desc=A surge of chaotic energies erupts from you, damaging all nearby enemies.
+
+tagItemSkillB038Name=Lightning Barrage
+tagItemSkillB038Desc=Sparks of lightning erupt from you, damaging any enemies they come in contact with.
+
+tagItemSkillB039Name=Frigid Barrage
+tagItemSkillB039Desc=Shards of chilling ice erupt from you, freezing any enemies they come in contact with.
+
+tagItemSkillB040Name=Toxic Gas Cloud
+tagItemSkillB040Desc=A toxic cloud erupts from you, choking all enemies caught within it.
+
+tagItemSkillB041Name=Vitality Wave
+tagItemSkillB041Desc=A blast of life-stealing energies surges forward, draining enemies of precious vitality.
+
+tagItemSkillB042Name=Vitality Barrage
+tagItemSkillB042Desc=Bolts of life-stealing energies erupt from you, sapping enemies they come in contact with of precious vitality.
+
+tagItemSkillB043Name=Rejuvenation
+tagItemSkillB043Desc=A soothing calm washes over you, amplifying your body's ability to heal.
 
 tagItemSkillC002Name=Kulový blesk
 tagItemSkillC002Desc=Oplácí kulovým bleskem, jež je vypuštěn směrem na útočníka, poškozujíc a omračujíc vše, co mu stojí v cestě.
@@ -1030,7 +1038,7 @@ tagItemSkillC082Name=Exploze ohnivé Prázdnoty
 tagItemSkillC082Desc=Uvolní se z tebe dávka koncentrované negativní energie.
 
 tagItemSkillC083Name=Lupičova salva
-tagItemSkillC083Desc=Vypustí salvu munice naplněnou tajemnem. Aplikuje schopnost ovládat dvě střelné zbraně.
+tagItemSkillC083Desc=When brandishing two pistols, you sometimes unleash a salvo of arcane infused ammunition. ^oEnables the ability to dual wield ranged weapons.
 
 tagItemSkillC084Name=Tíživá atmosféra
 tagItemSkillC084Desc=Vypustí oblak toxických plynů, který začne dusit tvé nepřátele a zmate je.
@@ -1082,8 +1090,8 @@ tagItemSkillM007Desc=Vrhne zmrazený projektil na cíl a pokryje jej ledem, dík
 tagItemSkillM008Name=Posilnění
 tagItemSkillM008Desc=Posílí tvůj útok za cenu vzácné životní síly.
 
-tagItemSkillM009Name=Vyvolat kolos z masa a kostí
-tagItemSkillM009Desc=Z prokletých prostředí monstrum bez mysli, které ti bude sloužit tak dlouho, jak jen to jeho tělo vydrží.
+tagItemSkillM009Name=Vykouzlit kolos z masa a kostí
+tagItemSkillM009Desc=Vykouzlí z prokletých prostředí monstrum bez mysli, které ti bude sloužit tak dlouho, jak jen to jeho tělo vydrží.
 
 tagItemSkillM010Name=Upírství
 tagItemSkillM010Desc=Osvoj si temnější stranu, abys obnovil svou vlastní vitalitu na úkor tvých nepřátel.
@@ -1364,7 +1372,7 @@ tagRelicSkillD008Desc=Rozpoutá bouři pekelného ohně, který se prorve skrze 
 tagRelicSkillD009Name=Nekróza
 tagRelicSkillD009Desc=Přivolá oslabující kletbu na tvé nepřátele, jež způsobí hnilobu jejich masa a kostí a zpomalí jejich smysly.
 
-tagRelicSkillD010Name=Vyvolání obra z masa a kostí
+tagRelicSkillD010Name=Vykouzlení obra z masa a kostí
 tagRelicSkillD010Desc=Proveď zakázaný rituál připomínající staré techniky Vládce temnot Agrivixe a vyvolej tak obra z masa a kostí, který bude vykonávat rozkazy.
 
 tagRelicSkillD011Name=Zapomnění
@@ -1396,6 +1404,9 @@ tagRelicSkillD019Desc=Buď posilněn silou krve válečného boha a rozpoutej hn
 
 tagRelicSkillD020Name=Menhirova bašta
 tagRelicSkillD020Desc=Buď posilněn ochraňujícím duchem Menhira a ochraň tak sebe a své spojence před fyzickou újmou.^oVyžaduje štít.
+
+tagRelicSkillD021Name=Elemental Imbalance
+tagRelicSkillD021Desc=Suffering harm disrupts your careful balance between the elements, unleashing a surge of power that will make your foes regret ever coming near you. ^oRequires a Caster Off-hand.
 
 
 
@@ -1447,6 +1458,8 @@ tagConsumableSkill_A21=Nebeské prokletí
 tagConsumableSkill_A21Desc=Suffuses your flesh with a divine light.
 tagConsumableSkill_A22=Aether Cluster
 tagConsumableSkill_A22Desc=Shatter the crystal formation to release its energies.
+tagConsumableSkill_A23=Burrwitch Brew
+tagConsumableSkill_A23Desc=Not for the faint of heart. Side effects may include: nausea, vomiting, forgetting where you were last night.
 
 #SkillsGeneral
 
@@ -1458,6 +1471,7 @@ NoSkillPointsAvailable=Dostupné body: 0
 DevotionPointsAvailable=Dostupné body: {%d0}
 DevotionPointsAvailableSingular=Dostupné body: {%d0}
 NoDevotionPointsAvailable=Dostupné body: 0
+tagConfirmSkillChanges=Confirm changes?
 
 #SkillDevotion
 tagDevotionHammerAndAnvil=Kladivo a kovadlina
@@ -1482,21 +1496,29 @@ tagDevotionMagi=Mág
 tagDevotionAssassin=Vrah
 tagDevotionAkeron=Akeronův štír
 
+tagDevotionInfo=Devotion is great. Devotion devotion devotion. Lorem ipsum dolor sit amet, vero perfecto nominati te vim, duo esse inciderint ea. Eos nostrud facilisis no, alii electram rationibus sea et.
+
 #SkillsReallocator
 
 tagReallocateError01=Musíš odstranit všechny body ze všech vlastností než budeš moci odstranit poslední bod dovednosti.
 tagReallocateError02=Nemáš dostatek železných mincí pro odstranění dalších bodů dovedností.
 tagReallocateError03=Nemůžeš odstranit body ze svého povolání.
 tagDecreaseMasteryError=Z povolání nelze získat zpět body dovednosti.
-tagReclaimPoint=Kliknutím získáš zpět bod dovednosti (Cena {^y}{%t0}{^-})
+tagReclaimPoint=Kliknutím získáš zpět bod dovednosti (Cena {^s}{%t0}{^-} železných mincí)
+tagReclaimDevotionPoint=Click to Reclaim Devotion Point (Cost {^s}{%t0}{^-} Iron Bits, {^g}{%t1}{^-} Aether)
 tagRemovePoint=Levým kliknutím odeber body oddanosti
 tagReclaimBase=Odstraň vlastnosti pro navrácení posledního bodu dovednosti
+tagReclaimDevotion=Remove Attached Devotion Effect
 tagRemoveBase=Bod oddanosti nemůže být odebrán
 tagReclaimNoPoints=Žádné body k navrácení
 tagRemoveNoPoints=Žádné body k odebrání
-tagReclaimNoGold=Nedostatek železných mincí (Cena {^y}{%t0}{^r})
+tagReclaimTotalGold=Total Iron Bits:
+tagReclaimCost=Iron Bits Cost:
+tagReclaimNoGold=Nedostatek železných mincí (Cena {^s}{%t0}{^r})
+tagReclaimNoAether=Insufficient Aether Crystals (Cost {^g}{%t0}{^r})
 tagReallocateTitle=Přerozdělení dovedností
 tagReallocationDescription=Klinutím na ikonku dovednosti odstraníš bod dovednosti. Cena se zvyšuje s každým odebraným bodem dovednosti.
+tagReclaimTotalAether=Total Aether Crystal:
 
 tagTemplateName=Přejmenuj mě
 tagTemplateDescription=Popiš mě

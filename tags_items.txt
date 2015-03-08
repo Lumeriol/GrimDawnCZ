@@ -30,6 +30,9 @@ tagWeaponSwordB007=$[fs]Malkadarrova smrtící čepel
 tagWeaponSwordB008=[ms]mantikoří dlouhý meč
 tagWeaponSwordB009=[ms]kostěný kráječ
 tagWeaponSwordB010=[fs]kostěná čepel
+tagWeaponSwordB011=Dermapteran Claw
+tagWeaponSwordB012=Dermapteran Slicer
+
 
 tagWeaponSwordC001=Bleskosvod
 tagWeaponSwordC002=Ohařský skus
@@ -67,6 +70,9 @@ tagWeaponSwordD006Desc="Při pohledu na tento nůž pociťuješ vlastní smrteln
 tagWeaponSwordD007=Ortus
 tagWeaponSwordD007Desc="Pouhý pohled na tuto čepel tě naplňuje nadějí."
 
+tagWeaponSwordF001=Legion Carver
+tagWeaponSwordF002=Chosen Blade
+tagWeaponSwordF003=Devil's Bargain
 
 tagWeaponBluntA000=[ms]klacek
 tagWeaponBluntA001=[ms]řemdih
@@ -94,6 +100,8 @@ tagWeaponBluntB008Desc="Poslední naděje zoufalého muže..."
 tagWeaponBluntB009=[ms]adeptův ostrý palcát
 tagWeaponBluntB010=[ms]adeptův kropáč
 tagWeaponBluntB011=[ms]adeptův obroubený palcát
+tagWeaponBluntB012=Mutant Arm
+tagWeaponBluntB013=Mutant Bludgeon
 
 tagWeaponBluntC001=Aetherianská bída
 tagWeaponBluntC002=Anarchie
@@ -122,6 +130,10 @@ tagWeaponBluntD005=Dreegův mor
 tagWeaponBluntD005Desc="Nositel sedmi morových ran čarodějného boha Dreega."
 tagWeaponBluntD006=Perlík zpožděného svítání
 
+tagWeaponBluntF001=Devil's Crusher
+tagWeaponBluntF002=Legion Warhammer
+tagWeaponBluntF003=Death's Force
+tagWeaponBluntF004=Rhowari Gavel
 
 tagWeaponAxeA000=[fs]dřevorubecká sekera
 tagWeaponAxeA001=[fs]ozubená sekera
@@ -168,6 +180,9 @@ tagWeaponAxeD004=Motyka
 tagWeaponAxeD004Desc="Legendy vypráví o smrtelníkovi, který na naléhání bohů rozštěpil horu Menhir vedví, dnes známou jako Menhirská dvojčata."
 tagWeaponAxeD005=Zatracení
 
+tagWeaponAxeF001=Rhowari Justice
+tagWeaponAxeF002=Solar Edge
+tagWeaponAxeF003=Death's Crescent
 
 tagWeaponGun1hA001=[fs]ruční mušketa
 tagWeaponGun1hA002=[ms]howdah
@@ -219,6 +234,10 @@ tagWeaponGun1hD007=Plenitel života vraha démonů
 tagWeaponGun1hD008=Soudkařova salva
 tagWeaponGun1hD009=Soudkařova křížová palba
 
+tagWeaponGun1hF001=Devil's Retribution
+tagWeaponGun1hF002=Solar Revolver
+tagWeaponGun1hF003=Death's Revolver
+tagWeaponGun1hF004=Legion Hand Cannon
 
 tagWeaponGun2hA001=[fs]předovka
 tagWeaponGun2hA002=[fs]flinta
@@ -235,6 +254,8 @@ tagWeaponGun2hA011=[fs]bitevní brokovnice
 tagWeaponGun2hB001=[fs]rotační puška
 tagWeaponGun2hB002=[fs]předovka
 tagWeaponGun2hB003=[fs]šrapnelová puška
+tagWeaponGun2hB004=Fleshwarped Rifle
+tagWeaponGun2hB005=Fleshwarped Carbine
 
 tagWeaponGun2hC001=Lovec
 tagWeaponGun2hC002=Oko
@@ -260,6 +281,8 @@ tagWeaponGun2hD004=Vír duší
 tagWeaponGun2hD004Desc="Každá vystřelená rána způsobuje zčeření uvnitř Aetheru."
 tagWeaponGun2hD005=Trhač střev
 
+tagWeaponGun2hF001=Devil's Musket
+tagWeaponGun2hF002=Harvest's Double-Barrel
 
 tagWeaponCrossbow2hA001=[fs]kuše
 tagWeaponCrossbow2hA002=[ms]samostříl
@@ -294,6 +317,8 @@ tagWeaponCrossbow2hD003Desc="Chladnokrevný drak z mrazivých severských větr�
 tagWeaponCrossbow2hD004=Raka'Jax
 tagWeaponCrossbow2hD005=Posel věčného utrpení
 
+tagWeaponCrossbow2hF001=Rhowari Scorpion
+tagWeaponCrossbow2hF002=Chosen Bolter
 
 tagWeaponMelee2hA001=[ms]velký meč
 tagWeaponMelee2hA002=[ms]válečný meč
@@ -355,6 +380,11 @@ tagWeaponMelee2hD007Desc="Posvátná čepel krále Hrothnara, vládce severskýc
 tagWeaponMelee2hD008=Světská zaoblená čepel
 tagWeaponMelee2hD009=Krvavý drtič
 
+tagWeaponMelee2hF001=Legion Warblade
+tagWeaponMelee2hF002=Solar Sledge
+tagWeaponMelee2hF003=Death's Scythe
+tagWeaponMelee2hF004=Chosen Warmaul
+
 tagWeaponCaster1hA001=[fs]hůlka
 tagWeaponCaster1hA002=[ns]žezlo
 tagWeaponCaster1hA003=[fs]tajemná hůlka
@@ -380,6 +410,8 @@ tagWeaponCaster1hB006=[ns]mistrovo žezlo
 tagWeaponCaster1hB007=[fs]čarodějnická kouzelná čepel
 tagWeaponCaster1hB008=[ms]kostěný nožík
 tagWeaponCaster1hB009=[ms]kostěný bodec
+tagWeaponCaster1hB010=Rift Scourge Claw
+tagWeaponCaster1hB011=Rift Scourge Slicer
 
 tagWeaponCaster1hC001=Spalující nenávist
 tagWeaponCaster1hC002=Hůlka kouzelného ohně
@@ -411,6 +443,16 @@ tagWeaponCaster1hC021=Z ledu stvořená kouzelná čepel
 tagWeaponCaster1hC022=Zkrvavená dýka závazku
 
 tagWeaponCaster1hD001=
+
+tagWeaponCaster1hF001=Legion Firestarter
+tagWeaponCaster1hF002=Legion Aetherspark
+tagWeaponCaster1hF003=Legion Voidcutter
+tagWeaponCaster1hF004=Rhowari Biletouch
+tagWeaponCaster1hF005=Rhowari Chilltouch
+tagWeaponCaster1hF006=Rhowari Deathtouch
+tagWeaponCaster1hF007=Chosen Skysplitter
+tagWeaponCaster1hF008=Chosen Flamecaller
+tagWeaponCaster1hF009=Chosen Chillbearer
 
 
 tagWeaponArcaneA001=[fs]hrubá hůl
@@ -469,6 +511,8 @@ tagShieldC011=Štít vykoupení
 tagShieldC012=Zrádcův chránič
 tagShieldC013=Elementum
 tagShieldC013Desc="Ukovaný tajemnými kováři k usměrnění surových elementárních sil."
+tagShieldC014=Ravna's Guard
+tagShieldC014Desc="Overlapping layers of chitin from the slain Dermapteran Queen."
 
 tagShieldD001=Štít z masa
 tagShieldD001Desc="Nekromantický štít vytvarovaný z hrudní dutiny nešťastného rolníka."
@@ -479,6 +523,9 @@ tagShieldD004=Budoucnost Živých
 tagShieldD004Desc="Dříve Králův erb, byl tento štít znovuzrozen v Chthonských plamenech jako ideál lidského druhu."
 tagShieldD005=Zaniklá povinnost
 
+tagShieldF001=Devil's Protector
+tagShieldF002=Harvest's Guard
+tagShieldF003=Chosen Fireguard
 
 tagQualityShieldA01=[ms]nesourodý[fs]nesourodá[ns]nesourodé[mp]nesourodé[fp]nesourodé[np]nesourodé
 tagQualityShieldA02=[ms]rezavý[fs]rezavá[ns]rezavé[mp]rezavé[fp]rezavé[np]rezavé
@@ -522,6 +569,7 @@ tagFocusB004B=Okultní lebka
 tagFocusB005A=Zdobený tlustopis
 tagFocusB005B=Okultní podobizna
 tagFocusB006=Podobizna čarodějnice
+tagFocusB007=Pulsing Shard
 
 tagFocusC001=Demence
 tagFocusC002=Zdrcující vůle
@@ -551,6 +599,16 @@ tagFocusD005Desc="Fanatičtí kabalisté přísahali, že v této kouli je obsa�
 tagFocusD006=Mluvčí mrtvých
 tagFocusD006Desc="Sbírka básní a náboženských textů určených k pohřebním obřadům."
 tagFocusD007=Arcimágův kodex
+
+tagFocusF001=Harvest's Tome
+tagFocusF002=Harvest's Ledger
+tagFocusF003=Solar Codex
+tagFocusF004=Rhowari Winter Codex
+tagFocusF005=Rhowari Void Codex
+tagFocusF006=Rhowari Sky Codex
+tagFocusF007=Death's Ruin
+tagFocusF008=Death's Embrace
+tagFocusF009=Death's Advance
 
 
 #WEAPON_QUALITY
@@ -651,10 +709,6 @@ tagMedal=[fs]medaile
 tagBelt=[ms]opasek
 
 #QualityClass
-#tagMagic=[ms]magický[fs]magická[ns]magické[mp]magické[fp]magické[np]magické
-#tagRare=[ms]vzácný[fs]vzácná[ns]vzácné[mp]vzácné[fp]vzácné[np]vzácné
-#tagEpic=[ms]epický[fs]epická[ns]epické[mp]epické[fp]epické[np]epické
-#tagLegend=[ms]legendární[fs]legendární[ns]legendární[mp]legendární[fp]legendární[np]legendární
 tagMagic=magický
 tagRare=vzácný
 tagEpic=epický
@@ -662,6 +716,16 @@ tagLegend=legendární
 
 tagSoulbound=Předmět svázaný s duší
 tagDestroySoulbound=Zničit předmět svázaný s tvou duší?
+
+tagTransmuted=Transmogrified
+tagTransmuteCapture=[Right-Click to Infuse]
+tagTransmuteApply=[Right-Click to Apply]
+tagTransmuteUnusable=[Cannot Use - Requirements Not Met]
+tagTransmuteConfirmation=Are you sure you want to apply this Transmogrification?
+tagTransmuteOverwrite=Are you sure you want to replace the existing Transmogrification?
+tagTransmuteSoulboundConfirmation=Are you sure you want to apply this Transmogrification? Doing so will make the item soulbound.
+tagTransmuteSoulboundOverwrite=Are you sure you want to replace the existing Transmogrification? Doing so will make the item soulbound.
+tagTransmuteDestroy=Are you sure you want to infuse this Transmogrification? Doing so will destroy the item.
 
 #ArmorHead
 
@@ -682,16 +746,18 @@ tagHeadA014=[fs]korunka
 
 tagHeadB001=[fs]žhářská helma
 tagHeadB002=[fs]žhářská přilbice
-tagHeadB003=[fs]vystouplá helma
-tagHeadB004=[fs]vystouplá přilbice
+tagHeadB003=[fs]stoupencova helma
+tagHeadB004=[fs]stoupencova přilbice
 tagHeadB005=[fs]vrahova čapka
 tagHeadB006=[fs]vrahova kápě
 tagHeadB007=[fs]adeptova kapuce
 tagHeadB008=[fs]lovcova helma
 tagHeadB009=[fs]adeptova čelenka
 tagHeadB010=[fs]lovcova přilbice
-tagHeadB011=[fs]strašidelná čelenka
-tagHeadB012=[ms]strašidelný diadém
+tagHeadB011=[fs]stoupencova čelenka
+tagHeadB012=[ms]stoupencův diadém
+tagHeadB013=Fleshwarped Helm
+tagHeadB014=Fleshwarped Casque
 
 tagHeadC001=Čelenka vyvolavače bouří
 tagHeadC002=Zběsilcova kápě
@@ -737,6 +803,20 @@ tagHeadD008=Zvěstovatelova maska
 tagHeadD009=Kapalec zabijáka démonů
 tagHeadD010=Arcimágův kapalec
 
+tagHeadF001=Exile's Hood
+tagHeadF001Desc="You can't help but feel as if the mask is staring back at you."
+tagHeadF002=Devil's Cover
+tagHeadF003=Devil's Headguard
+tagHeadF004=Legion Spellbearer
+tagHeadF005=Legion Casque
+tagHeadF006=Legion Headguard
+tagHeadF007=Harvest's Helm
+tagHeadF008=Solar Defender
+tagHeadF009=Death's Visage
+tagHeadF010=Death's Headguard
+tagHeadF011=Chosen Cowl
+tagHeadF012=Chosen Headguard
+
 
 #ArmorShoulders
 
@@ -749,15 +829,17 @@ tagShoulderA006=[mp]skládané nárameníky
 
 tagShoulderB001=[mp]žhářské rytířské nárameníky
 tagShoulderB002=[mp]žhářské plátové nárameníky
-tagShoulderB003=[mp]vystouplé rytířské nárameníky
-tagShoulderB004=[mp]vystouplé plátové nárameníky
+tagShoulderB003=[mp]stoupencovy rytířské nárameníky
+tagShoulderB004=[mp]stoupencovy plátové nárameníky
 tagShoulderB005=[mp]vrahovy rytířské nárameníky
 tagShoulderB006=[fp]vrahovy epolety
 tagShoulderB007=[mp]Isaacovy rytířské nárameníky
 tagShoulderB008=[fp]strašidelné rukávky
-tagShoulderB009=[fp]strašidelné epolety
-tagShoulderB010=[fp]arcimágovy rukávky
-tagShoulderB011=[fp]arcimágovy epolety
+tagShoulderB009=[fp]strašidelné plátové nárameníky
+tagShoulderB010=[fp]stoupencovy rukávky
+tagShoulderB011=[fp]stoupencovy epolety
+tagShoulderB012=Fleshwarped Spaulders
+tagShoulderB013=Fleshwarped Pauldrons
 
 tagShoulderC001=Rukávky z bodlin divočáka
 tagShoulderC001Desc="Sešity dohromady ze zdechlin divočáků."
@@ -793,6 +875,28 @@ tagShoulderD008=Chrániče ramen budoucího strážce
 tagShoulderD009=Rukávky divoké krve
 tagShoulderD010=Arcimágovy rukávky
 
+tagShoulderF001=Exile's Burning Mantle
+tagShoulderF002=Exile's Chilled Mantle
+tagShoulderF003=Exile's Sky Mantle
+tagShoulderF004=Exile's Wrath Mantle
+tagShoulderF005=Exile's Void Mantle
+tagShoulderF006=Exile's Burning Pauldrons
+tagShoulderF007=Exile's Chilled Pauldrons
+tagShoulderF008=Exile's Sky Pauldrons
+tagShoulderF009=Exile's Wrath Pauldrons
+tagShoulderF010=Exile's Void Pauldrons
+tagShoulderF011=Devil's Spaulders
+tagShoulderF012=Devil's Shoulderguard
+tagShoulderF013=Rhowari Mantle
+tagShoulderF014=Rhowari Shoulderguard
+tagShoulderF015=Legion Mantle
+tagShoulderF016=Legion Spaulders
+tagShoulderF017=Legion Pauldrons
+tagShoulderF018=Death's Mantle
+tagShoulderF019=Death's Pauldrons
+tagShoulderF020=Chosen Mantle
+tagShoulderF021=Chosen Pauldrons
+
 
 #ArmorTorso
 
@@ -818,12 +922,14 @@ tagTorsoA017C=[fs]róba
 tagTorsoB001=[fs]vrahova zbroj
 tagTorsoB002=[ms]vrahův hrudní plát
 tagTorsoB003=[ms]vyztužený kabátec
-tagTorsoB004=[fs]strašidelná róba
-tagTorsoB005=[ms]strašidelný háv
-tagTorsoB006=[fs]stoupencova róba
-tagTorsoB007=[ms]stoupencův háv
-tagTorsoB008=[fs]arcimágova róba
-tagTorsoB009=[ms]arcimágův háv
+tagTorsoB004=
+tagTorsoB005=
+tagTorsoB006=[fs]strašidelná róba
+tagTorsoB007=[ms]strašidelný háv
+tagTorsoB008=[fs]stoupencova róba
+tagTorsoB009=[ms]stoupencův háv
+tagTorsoB010=Fleshwarped Cuirass
+tagTorsoB011=Fleshwarped Platemail
 
 tagTorsoC001=
 tagTorsoC002=Hrudní chránič nočního lovce
@@ -865,6 +971,28 @@ tagTorsoD006=Hrudní chránič spravedlnosti
 tagTorsoD007=Rubáš přivolavače démonů
 tagTorsoD008=Kabátec zabijáka démonů
 tagTorsoD009=Arcimágova róba
+
+tagTorsoF001=Exile's Burning Vestments
+tagTorsoF002=Exile's Chilled Vestments
+tagTorsoF003=Exile's Sky Vestments
+tagTorsoF004=Exile's Wrath Vestments
+tagTorsoF005=Exile's Void Vestments
+tagTorsoF006=Exile's Burning Cuirass
+tagTorsoF007=Exile's Chilled Cuirass
+tagTorsoF008=Exile's Sky Cuirass
+tagTorsoF009=Exile's Wrath Cuirass
+tagTorsoF010=Exile's Void Cuirass
+tagTorsoF011=Devil's Cuirass
+tagTorsoF012=Devil's Chestguard
+tagTorsoF013=Legion Vestments
+tagTorsoF014=Legion Cuirass
+tagTorsoF015=Legion Chestguard
+tagTorsoF016=Death's Vestments
+tagTorsoF017=Death's Cuirass
+tagTorsoF018=Chosen Vestments
+tagTorsoF019=Chosen Chestguard
+tagTorsoF020=Rhowari Vestments
+tagTorsoF021=Rhowari Cuirass
 
 tagTorsoM001=[fs]rozdrbaná tunika
 tagTorsoM002=[fs]zakrvavená tunika
@@ -968,6 +1096,11 @@ tagHandsD007=Rukavičky přivolavače démonů
 tagHandsD008=Zvěstovatelovy chňapky
 tagHandsD009=Arcimágovy rukavičky
 
+tagHandsF001=Rhowari Grips
+tagHandsF002=Rhowari Handguards
+tagHandsF003=Harvest Grips
+tagHandsF004=Harvest Handguards
+
 
 #ArmorLegs
 
@@ -1054,6 +1187,12 @@ tagFeetD007=Šlapky přivolavače bestií
 tagFeetD008=Pohorky zabijáka démonů
 tagFeetD009=Arcimágovy boty
 
+tagFeetF001=Rhowari Footpads
+tagFeetF002=Rhowari Greaves
+tagFeetF003=Legion Greaves
+tagFeetF004=Harvest Footpads
+tagFeetF005=Harvest Greaves
+
 
 #Rings
 
@@ -1133,6 +1272,19 @@ tagRingD009=Ručka milosti
 tagRingD010=Pěst pomsty
 tagRingD011=Arcimágova pečeť
 
+tagRingF001=Devil's War Seal
+tagRingF002=Devil's Wrath Seal
+tagRingF003=Rhowari Wrath Seal
+tagRingF004=Rhowari Void Seal
+tagRingF005=Legion War Seal
+tagRingF006=Legion Conjuration Seal
+tagRingF007=Harvest Venom Seal
+tagRingF008=Harvest Blade Seal
+tagRingF009=Death's Storm Seal
+tagRingF010=Death's Life Seal
+tagRingF011=Chosen Flame Seal
+tagRingF012=Chosen Frost Seal
+
 
 #Necklaces
 
@@ -1210,6 +1362,16 @@ tagNecklaceD011=Talisman přivolavače bestií
 tagNecklaceD012=Světlo budoucího strážce
 tagNecklaceD013=Ochrana zabijáka démonů
 
+tagNecklaceF001=Rhowari Guardstone
+tagNecklaceF002=Rhowari Rancor
+tagNecklaceF003=Rhowari Lifecaller
+tagNecklaceF004=Solar Channelling Stone
+tagNecklaceF005=Harvester Stone
+tagNecklaceF006=Thundering Gem
+tagNecklaceF007=Grasp of the Reaper
+tagNecklaceF008=Pendant of Ubiquitous Wrath
+tagNecklaceF009=Voidcaller Pendant
+
 
 #Medals
 
@@ -1258,6 +1420,16 @@ tagMedalD007=Nehynoucí prokletí
 tagMedalD008=Markovianův plán
 tagMedalD008Desc="Pojmenována na počest slavného taktika Markoviana. Tato medaile byla udělována pouze nejvýznamnějším generálům."
 
+tagMedalF001=Devil's Badge of Flame
+tagMedalF002=Devil's Badge of Frost
+tagMedalF003=Devil's Badge of Venom
+tagMedalF004=Legion Mark of the Spellweaver
+tagMedalF005=Legion Mark of the Void
+tagMedalF006=Legion Mark of Blades
+tagMedalF007=Chosen Star of War
+tagMedalF008=Chosen Star of Thunder
+tagMedalF009=Chosen Star of Life
+
 
 #Blueprints
 tagTestBlueprint=Plánek: Název úžasného předmětu
@@ -1276,7 +1448,6 @@ tagBlueprint_RelicB010=Plánek: Relikvie - Běsnění
 tagBlueprint_RelicB011=Plánek: Relikvie - Mistbornský talisman
 tagBlueprint_RelicB012=Plánek: Relikvie - Přísežníkův talisman
 tagBlueprint_RelicB013=Plánek: Relikvie - Pistolníkův talisman
-tagBlueprint_RelicB014=Plánek: Relikvie - Kostěný talisman
 tagBlueprint_RelicC001=Plánek: Relikvie - Soudce
 tagBlueprint_RelicC002=Plánek: Relikvie - Opevnění
 tagBlueprint_RelicC003=Plánek: Relikvie - Krveprolití
@@ -1312,6 +1483,7 @@ tagBlueprint_RelicD017=Plánek: Relikvie - Dreegovo utrpení
 tagBlueprint_RelicD018=Plánek: Relikvie - Bysmielova nadvláda
 tagBlueprint_RelicD019=Plánek: Relikvie - Oleronův hněv
 tagBlueprint_RelicD020=Plánek: Relikvie - Menhirova bašta
+tagBlueprint_RelicD021=Blueprint: Relic - Iskandra's Balance
 
 tagBlueprint_ComponentA01=Plánek: Aetherické duše
 tagBlueprint_ComponentA02=Plánek: Balistické plátování
@@ -1521,7 +1693,8 @@ tagRelicD019=Oleronův hněv
 tagRelicD019Desc="Krev... bolest... smrt. Chceš snad popřít válečné bubnování?"
 tagRelicD020=Menhirova bašta
 tagRelicD020Desc="Země nebude trpět ani zkažené duše, ani odpornou krev pohanů. Povstaň na její obranu a Cairn povstane s tebou."
-
+tagRelicD021=Iskandra's Balanace
+tagRelicD021Desc="The first lesson every aspiring must learn is to find a balance in the raw forces of magic that surround us all."
 
 #Crafting
 tagCraftTabArtifactA=Relikvie
@@ -1585,19 +1758,19 @@ tagCraftRandomMedal=Očarovaná medaile
 tagCraftRandomBelt=Očarovaný opasek
 
 tagCraftRandomFeet_Heavy=Očarované těžké boty
-tagCraftRandomFeet_Light=Očarované lehké boty
+tagCraftRandomFeet_Light=Očarované boty
 tagCraftRandomHands_Heavy=Očarované těžké rukavice
-tagCraftRandomHands_Light=Očarované lehké rukavice
+tagCraftRandomHands_Light=Očarované rukavice
 tagCraftRandomHead_Caster=Očarovaný kouzelnický klobouk
 tagCraftRandomHead_Heavy=Očarované těžká helma
-tagCraftRandomHead_Light=Očarovaná lehká helma
+tagCraftRandomHead_Light=Očarovaná helma
 tagCraftRandomLegs_Heavy=Očarovaná těžká nožní zbroj
-tagCraftRandomLegs_Light=Očarovaná lehká nožní zbroj
+tagCraftRandomLegs_Light=Očarovaná nožní zbroj
 tagCraftRandomShoulder_Heavy=Očarované těžké nárameníky
-tagCraftRandomShoulder_Light=Očarované lehké nárameníky
+tagCraftRandomShoulder_Light=Očarované nárameníky
 tagCraftRandomTorso_Caster=Očarovaná kouzelnická zbroj
 tagCraftRandomTorso_Heavy=Očarovaná těžká hrudní zbroj
-tagCraftRandomTorso_Light=Očarovaná lehká hrudní zbroj
+tagCraftRandomTorso_Light=Očarovaná hrudní zbroj
 
 
 tagSuppliesIncomplete=Zkombinované dílčí části
@@ -1611,6 +1784,7 @@ tagSuppliesError=
 #Consumables
 
 tagScrollDirections=[spotřebuj pravým kliknutím]
+tagUseDirections=[použij pravým kliknutím]
 
 tagConsumableRoyalJellyBalmBlueprint=Recept: Balzám z mateří kašičky
 tagConsumableRoyalJellyBalmBlueprintDesc="Tajemství léčitelských způsobů tuláků."
@@ -1690,6 +1864,17 @@ tagConsumableA21Desc="Elixír polobohů, kteří chrání smrtelníky před bož
 tagConsumableA22=Svazek Aetherů
 tagConsumableA22Desc="Velký svazek Aetherických krystalů, z nichž se ozývvá podivná energie."
 
+#DLC
+tagDLCA01=Illusion: Powdered Wig
+tagDLCA01Desc="The definition of sophistication and style."
+tagDLCA02=Illusion: Swashbuckler's Coat
+tagDLCA02Desc="The preferred choice of adventurers everywhere."
+tagDLCConsumableA01=Will'O'Wisp in a Jar
+tagDLCConsumableA01Desc="A harmless spirit, trapped in a jar."
+tagDLCConsumableA01PetSkill01=Wisp Aura
+tagDLCConsumableA01PetSkill01Desc=The Wisp surrounds you with a warm light that pierces the darkness.
+tagDLCConsumableA02=Burrwitch Brew
+tagDLCConsumableA02Desc="Not for the faint of heart. Side effects may include: nausea, vomiting, forgetting where you were last night."
 
 #ItemNote
 
@@ -1755,6 +1940,11 @@ tagEnchantA009A=Arkovian Rose Powder I
 tagEnchantA009B=Arkovian Rose Powder II
 tagEnchantA009C=Arkovian Rose Powder III
 tagEnchantA009Desc="Powder derived from a vibrant red flower known to grow only high up in the peaks of Old Arkovia."^w^n(Použitelné na prsteny a amulety)
+
+tagEnchantA010A=Rotbloom Powder I
+tagEnchantA010A=Rotbloom Powder II
+tagEnchantA010A=Rotbloom Powder III
+tagEnchantA010Desc="Powder derived from a brown-grey flower found growing among carnage and rot."^w^n(Applied to rings and amulets)
 
 tagEnchantA011A=Slithweed Powder I
 tagEnchantA011B=Slithweed Powder II
@@ -1848,7 +2038,7 @@ tagEnchantA028Desc="Folktales speak of a sorcerous powder which, when thrown upo
 
 tagEnchantA029A=Divine Flame I
 tagEnchantA029B=Divine Flame II
-tagEnchantA029C=Divine Flame II
+tagEnchantA029C=Divine Flame III
 tagEnchantA029Desc="Powder used by Kymon's Chosen during ceremonies. When thrown upon a brazier, it erupts in sparking embers. "^w^n(Použitelné na prsteny a amulety)
 
 tagEnchantA030A=Blessed Ashes I
@@ -2640,7 +2830,7 @@ tagPrefixAO005=[ms]spalující[fs]spalující[ns]spalující[mp]spalující[fp]s
 tagPrefixAO006=[ms]otrávený[fs]otrávená[ns]otrávené[mp]otrávené[fp]otrávené[np]otrávené
 tagPrefixAO007=[ms]nabitý[fs]nabitá[ns]nabité[mp]nabité[fp]nabité[np]nabité
 tagPrefixAO008=[ms]upírský[fs]upírská[ns]upírské[mp]upírské[fp]upírské[np]upírské
-tagPrefixAO009=[ms]strašidelný[fs]strašidelná[ns]strašidelné[mp]strašidelné[fp]strašidelné[np]strašidelné
+tagPrefixAO009=[ms]vyčerpávající[fs]vyčerpávající[ns]vyčerpávající[mp]vyčerpávající[fp]vyčerpávající[np]vyčerpávající
 tagPrefixAO010=[ms]oslabující[fs]oslabující[ns]oslabující[mp]oslabující[fp]oslabující[np]oslabující
 tagPrefixAO011=[ms]korozivní[fs]korozivní[ns]korozivní[mp]korozivní[fp]korozivní[np]korozivní
 tagPrefixAO012=[ms]pokroucený[fs]pokroucená[ns]pokroucené[mp]pokroucené[fp]pokroucené[np]pokroucené
@@ -2863,8 +3053,8 @@ tagSuffixB006_Ar_A=$Oleronova trestu
 tagSuffixB007_Ar_A=$Natuřiny úrody
 tagSuffixB008_Ar_A=$Albrechtovy pozornosti
 tagSuffixB009_Ar_A=$Gildamského tajemství
-tagSuffixB010_Ar_A=Prázdnoty
-tagSuffixB011_Ar_A=druida
+tagSuffixB010_Ar_A=$Prázdnoty
+tagSuffixB011_Ar_A=lesa
 tagSuffixB012_Ar_A=ostří
 tagSuffixB013_Ar_A=hrdinství
 tagSuffixB014_Ar_A=$Drangoula
@@ -3040,6 +3230,7 @@ tagChestOneShot_BurrwitchCave01=Hromada nestvůr
 tagChestOneShot_LowerCrossingCave01=Hromada nestvůr
 tagChestOneShot_CultistSummoner=Ikilzorova truhlice
 tagChestOneShot_ChthonicAbomination=Chthonická truhla
+tagChestOneShot_HiddenWealth=Ukryté bohatství
 
 #Interactive Objects
 tagShrineConstitutionA01=Nedotčené jídlo
@@ -3072,10 +3263,13 @@ tagPrisonEntranceDoor=Burrwitchská vězeňská brána
 tagMineDoor=Důlní dveře
 tagEpicDoor_StepsOfTorment=Brány Utrpení
 tagEpicDoor_StepsOfTormentLocked= {^R} ~ Zapečetěno starodávnou silou
-tagLocked= {^R} ~ Zamčeno
+tagLocked= {^R} ~ zamčeno
+tagBlocked= {^R} ~ zborcená jeskyně v cestě
 tagUGDoorDermapteranQueen=Vstup do vosího hnízda
 tagUGDoorDermapteranQueenLocked= {^R} ~ střeženo Velkými vezíry
 tagDoorRampart=Zabarikádované dveře
+tagDoorWarden=Železné dveře
+tagDoorFarmland=Dřevěná brána
 
 #Quest Rewards
 
