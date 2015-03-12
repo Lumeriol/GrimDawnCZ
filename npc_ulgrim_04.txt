@@ -1,70 +1,70 @@
 Ulgrim
-This cult situation brings back bad memories.{^n}{^n}*Ulgrim shakes his head*{^n}{^n}Are you ready to set out?
-Everything alright?
-Oh, it's nothing.{^n}{^n}I should prepare for the journey.
-Alright. I'll see you out there.
-Almost.
-I heard about Karroz. You might be better at this grisly cult business than Creed.
-I found these notes on Karroz.
-*Ulgrim's face becomes grim as he reads over the papers*{^n}{^n}This can't be happening again...Creed must see these at once.
-What do you mean again?
-This isn't the first time this ritual has been performed. The last time nearly set the empire back 100 years.{^n}{^n}Mag'Thel must not be called back from the void.
-We'll stop them.
-It won't. We'll stop them.
-Thanks, I think?
-What can I do for you?
+Ta situace s kultem vyvolává špatné myšlenky.{^n}{^n}*Ulgrim zatřese hlavou*{^n}{^n}Jsi [[ms]připraven[fs]připravena] na dobrodružství?
+Všechno v pořádku?
+Oh, to nic není.{^n}{^n}Měl bych se připravit na cestu.
+Dobrá. Uvidím tě tam.
+Skoro.
+Slyšel jsem o Karrozovi. V téhle strašlivé záležitosti okolo kultistů bys [[ms]mohl[fs]mohla] být lepší než Creed.
+[[ms]Našel[fs]Našla] jsem u Karozze tyhle poznámky.
+*Ulgrimova tvář zvážní, jak pročítá poznámky*{^n}{^n}To se nemůže dít znovu...Creed tohle doopravdy musí vidět.
+Co tím myslíš?
+Tohle není poprvé, co byl tento rituál proveden. Naposledy skoro vrátil říši o 100 let zpátky. {^n}{^n}Mag'Thel nesmí být vyvolán z Prázdnoty zpět.
+Zastavíme je.
+Nebude. Zastavíme je.
+Díky, alespoň myslím?
+Co pro tebe mohu udělat?
 
-Farewell.
-Come back another time. I've got important matters to attend to.
-Farewell.
-Got anything useful out of those two?
-Who would you choose?
-Setting their fanatical beliefs aside, both groups have valuable resources at their disposal.{^n}{^n}Kymon's Chosen may be religious zealots, but they are surprisingly well-trained and should make formidable allies in battle.{^n}{^n}The Order of Death's Vigil...their powers over death send chills down my spine, but they are powerful mages and used to facing the world's terrors.{^n}{^n}I won't lie to you, it's not an easy decision.
-Alright.
-I'm still deciding.
-Just the person I'm looking for. The others may disagree with me on this, but there is something I need you to do.
-What is it?
-There are two other groups of survivors in the region that we are aware of, but Somer and Creed do not consider them to be of strategic value. Frankly, I disagree. They may consist largely of fanatics, but fanatics aimed in the right direction can be a powerful force.{^n}{^n}I've asked representatives from both the Order of Death's Vigil and Kymon's Chosen to visit here and speak to us. There is some obvious animosity between the two, but perhaps we can leverage that against them. I would like you to be our representative. Speak to both of them. Learn all that you can and decide which of the two groups would prove to be of superior strategic value. I just don't see them working together, I'm afraid.
-I will speak to the emissaries.
-Find someone else to be your diplomat.
-Why won't you talk to them?
-As much as I'd love to play politics again, Creed demands my attention at the war table. {^n}{^n}I am asking you to do this because I trust your judgement.
-I will speak to the emissaries.
-Find someone else to be your diplomat.
+Sbohem.
+Vrať se později. Musím vyřešit nějaké neodkladné záležitosti.
+Sbohem.
+[[ms]Dostal[fs]Dostala] jsi z nich něco užitečného?
+Koho by sis zvolil ty?
+Když dám stranou jejich fanatickou víru, obě skupiny mají na své straně cenné prostředky. {^n}{^n}Kymonovi Vyvolení můžou být náboženští fanatici, ale jsou překvapivě dobře vytrénovaní a měli by být impozantními spojenci v boji.{^n}{^n}Řád Hlídky smrti...z jejich moci nad mrtvými mi běhá mráz po zádech, ale jsou to mocní čarodějové a jsou zvyklí na to čelit hrůzám světa. {^n}{^n}Nebudu ti lhát, není to jedoduché rozhodování.
+Dobrá.
+Ještě nejsem [[ms]rozhodnutý[fs]rozhodnutá].
+Právě člověk, kterého jsem hledal. Ostatrní se mnou nemusí souhlasit, ale je tu něco co potřebuji, abys [[ms]udělal[fs]udělala].
+Co je to?
+Jsou tu ještě dvě další skupiny přeživších, o kterých víme, ale Somerová a Creed jim nepřikládají velkou strategickou hodnotu. S tím hrubě nesouhlasím. Můžou být s většiny fanatici, ale fanatici namíření správným směrem mohou být mocnou silou.{^n}{^n}Požádal jsem zástupce jak z Řádu Hlídky smrti, tak Kymonových Vyvolených, aby nás navštívili a promluvili si s námi. Panuje mezi nimi očividná nevraživost, ale možná bychom toho mohli využít proti nim. Chtěl bych, abys [[ms]byl[fs]byla] naším zástupcem. Promluv si s nimi. Zjisti vše co můžeš a rozhodni, která z těchto dvou skupin by poskytla lepší strategickou hodnotu. Bohužel ale neshledávám, že by byli ochotni jeden s druhým spolupracovat.
+S velvyslanci si promluvím.
+Ať je tvým diplomatem někdo jiný.
+Proč si s nimi nepromluvíš ty?
+Ikdyž bych si znovu chtěl hrát na politika, Creed vyžaduje moji pozornost u válečného stolu. {^n}{^n}Žádám tě, abys to [[ms]udělal[fs]udělala] ty, protože tvému úsudku věřím.
+S velvyslanci si promluvím.
+Ať je tvým diplomatem někdo jiný.
 
-What can you tell me about the two groups?
-Setting their fanatical beliefs aside, both groups have valuable resources at their disposal.{^n}{^n}Kymon's Chosen may be religious zealots, but they are surprisingly well-trained and should make formidable allies in battle.{^n}{^n}The Order of Death's Vigil...their powers over death send chills down my spine, but they are powerful mages and used to facing the world's terrors.{^n}{^n}I won't lie to you, it's not an easy decision.
-I will speak to the emissaries.
-Find someone else to be your diplomat.
+Co mi o těch dvou skupinách můžeš říct?
+Když dám stranou jejich fanatickou víru, obě skupiny mají na své straně cenné prostředky. {^n}{^n}Kymonovi Vyvolení můžou být náboženští fanatici, ale jsou překvapivě dobře vytrénovaní a měli by být impozantními spojenci v boji.{^n}{^n}Řád Hlídky smrti...z jejich moci nad mrtvými mi běhá mráz po zádech, ale jsou to mocní čarodějové a jsou zvyklí na to čelit hrůzám světa. {^n}{^n}Nebudu ti lhát, není to jedoduché rozhodování.
+S velvyslanci si promluvím.
+Ať je tvým diplomatem někdo jiný.
 
-This place may seem safe for now, but don't ever let your guard down.{^n}{^n}We are at war with devious enemies.
-I have some questions.
-Ask away.
-Why do you dislike the Black Legion?
-They represent the rejects of the empire, forced together under a banner of oppression and lack of restraint. The Legion may be famous for its countless victories, but what you don't hear about is the brutality and the senseless murder.{^n}{^n}Sure, not all of them are like that. Many are unfortunate souls caught on the wrong side of politics, but it's difficult to wash that much blood off your banner with the good intentions of a select few.
-I have another question.
-I see.
-How do you know Inquisitor Creed?
-Hmm, I swear I can't recall when exactly we've met, but the good Inquisitor had accompanied me on several missions since his encounter with Warden Krieg raised suspicions of corruption in the Capital.{^n}{^n}His analytical mind and experience with the occult has proven invaluable since the Grim Dawn. It is unfortunate that we were too late to save Erulan.
-I have another question.
+Tohle místo může teďka vypadat bezpečně, ale nikdy nepřestaň být na pozoru.{^n}{^n}Jsme ve válce s prohnanými nepřáteli.
+Mám nějaké otázky.
+Ptej se.
+Proč nemáš Černou Legii v oblibě?
+Reprezentují jedince odmítnuté říší, nucené být spolu pod vlajkou útlaku a nedostatku sebeovládání. Legie sice může být známá pro svůj nezpočet vítězství, ale neuslyšíš o brutalitě a nesmyslném vraždění. {^n}{^n}Samozřejmě ne všichni jsou právě takoví. Mnozí jsou nešťastné duše lapené kvůli špatnému politickému názoru, ale je těžké smýt tolik krve ze svého jména jen pro záměry pár vybraných jedinců.
+[[ms]Měl[fs]Měla] bych jinou otázku.
+Chápu.
+Jak jsi poznal inkvizitora Creeda?
+Hmm, přísahám že si nemůžu vybavit, kdy přesně jsme se potkali, ale ten dobrý inkvizitor mi pomáhal už na několika misích od doby, kdy Warden Krieg vzbudil podezření o korupci v kapitolu.{^n}{^n}Jeho analytické myšlení a zkušenost s okultismem se ukázala po Ponurém úsvitu jako nedocenitelná. Je nešťastné, že jsme na to přišli tak pozdě a nedokázali Erulan zachránit.
+[[ms]Měl[fs]Měla] bych jinou otázku.
 
-What did you do as the First Blade of the Emperor?
-Much of what I had to do does not bear mentioning. Let's just say that I eliminated threats to the crown and maintained a spy network spanning the width of the empire.{^n}{^n}Most of that network has now collapsed, with agents gone missing or dead, but it has served me well even after the end of the world.
-I have another question.
-Fascinating.
-Nevermind.
-I'll keep my eye out.
+Co jsi jako císařova První čepel dělal?
+Mnoho z toho, co jsem dělal, nelze zmínit. Ale řekněme, že jsem eliminoval hrozby vůči královi a spravoval síť špehů, která byla po celé říši.{^n}{^n} Většina z této sítě se rozpadla, protože se agenti pohřešují nebo jsou mrtví, ale i tak mi tato síť dobře posloužila dokonce i po konci světa.
+[[ms]Měl[fs]Měla] bych jinou otázku.
+Fascunující.
+Neřeš to.
+Budu se mít na pozoru.
 Ještě pořád si [[ms]nemluvil[fs]nemluvila] s kapitánem?
 Kde je?
 Hned tady v Homesteadu. Porozhlídni se po nevrlý čarodějnici středního věku, co nosí brnění Černý Legie.
 Ok.
 Brzy s ní promluvím.
-I'm going to check in with Creed here, but I suggest you speak to Captain Somer. She is the Black Legion officer in charge of this sorry bunch.{^n}{^n}Look for the grumpy middle-aged hag in Black Legion armor. She will fill you in on the situation.
+Jdu se setkat s Creedem, ale ty by sis [[ms]měl[fs]měla] promluvit s kapitánem Somerovou. Je to důstojník Černé legie, vedoucí týhle bandy usmrkanců.{^n}{^n}Dívej se po nevrlý čarodějnici středního věku v brnění Černý legie. Seznámí tě se situací.
 Promluvím s ní.
 Možná později.
 Nebyl sem si jistej, jestli to zvládneš, ale [[ms]vytáhnul[fs]vytáhla] ses.{^n}{^n}Tihle lidé ti dluží svým životem.
 [[ms]Udělal[fs]Udělala] jsem, co bylo nutné.
-I wish that was the end of our troubles, but there is a mounting threat on the horizon that threatens to wipe us all out.
+Přeju si, aby to byl konec našim problémům, ale na dohled je hrozba, která nás může vyhladit.
 Co budeme dělat teďka?
 
 Vrať se jindy. Mám nějaký důležitý věci na práci.

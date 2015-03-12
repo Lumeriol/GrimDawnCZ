@@ -38,7 +38,7 @@ ach010Title=Vzor Cairnu
 ach010Desc=Staň se uctívaným mezi 6 frakcemi.
 
 ach011Title=Služebník Empyrionův
-ach011Desc=Dosáhni úcty u Kymonových vyvolených.
+ach011Desc=Dosáhni úcty u Kymonových Vyvolených.
 
 ach012Title=Uroboruukův následovník
 ach012Desc=Dosáhni úcty u Řádu strážců smrti.

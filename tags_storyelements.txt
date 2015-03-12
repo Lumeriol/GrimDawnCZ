@@ -878,9 +878,9 @@ tagNPC_FactionQuartermaster_03=Forman Whitfield
 tagStoreTitle_FactionQuartermaster_03=Homesteadský forman
 
 tagNPC_FactionQuartermaster_04=Bratr Mulven
-tagStoreTitle_FactionQuartermaster_04=Mistr zbraní Kymonových vyvolených
+tagStoreTitle_FactionQuartermaster_04=Mistr zbraní Kymonových Vyvolených
 tagNPC_FactionQuartermaster_05=Bratr Adrius
-tagStoreTitle_FactionQuartermaster_05=Mistr zbraní Kymonových vyvolených
+tagStoreTitle_FactionQuartermaster_05=Mistr zbraní Kymonových Vyvolených
 
 tagNPC_FactionQuartermaster_06=Kustod Malvor
 tagStoreTitle_FactionQuartermaster_06=Kustod s artefakty z Řádu strážců smrti
