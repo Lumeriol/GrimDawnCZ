@@ -21,10 +21,10 @@ tagNecromancer_ChampionC01=Pán děsu Řádu Smrtícího bdění
 tagNecromancer_Boss01=Master Ravok, Smrtící našeptávač
 tagNecromancer_Boss02=Malkadarr, šampión Řádu Smrtícího bdění
 
-tagZealot_MeleeA01=Zélóta z Kymonových vyvolených
-tagZealot_RangedA01=Zélóta z Kymonových vyvolených
-tagZealot_CasterB01=Hasič plamenů z Kymonových vyvolených
-tagZealot_ChampionC01=Ostrá panna z Kymonových vyvolených
+tagZealot_MeleeA01=Zélóta z Kymonových Vyvolených
+tagZealot_RangedA01=Zélóta z Kymonových Vyvolených
+tagZealot_CasterB01=Hasič plamenů z Kymonových Vyvolených
+tagZealot_ChampionC01=Ostrá panna z Kymonových Vyvolených
 tagZealot_AncestralSpirit=Rodový duch
 
 #CreatureAetherial
