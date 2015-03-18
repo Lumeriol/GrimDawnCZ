@@ -91,7 +91,7 @@ tagClass01SkillDescription01A=Využití vlastností zbraně v boji dodá tvému 
 tagClass01SkillName01B=Bojová formace
 tagClass01SkillDescription01B=Běsnění tvé zbraně rozechvěje protivníka a způsobuje mu těžké krvácení. ^oS chladnými zbraněmi zasáhne Rychlý útok i další nepřátele v blízkosti.
 tagClass01SkillName01C=Smrtící pohyb
-tagClass01SkillDescription01C=Využíváš výhodu Rychlého útoku, což na krátkou dobu způsobuje, že všechny tvé údery mají větší smrtící účinek. ^oSmrtící pohyb ovlivňuje všechny schopnosti, pokud je aktivní.
+tagClass01SkillDescription01C=Využíváš výhodu Rychlého útoku, což na krátkou dobu způsobuje, že všechny tvé údery mají větší smrtící účinek. ^oSmrtící pohyb ovlivňuje všechny útoky, pokud je aktivní.
 tagClass01SkillName01D=Disharmonie
 tagClass01SkillDescription01D=Disharmonie rozhněvané duše proudí do vojákova útoku a a naplní jej elementální a chaotickou energií.
 
@@ -124,9 +124,9 @@ tagClass01SkillName05C=Čistka
 tagClass01SkillDescription05C=Silnější forma Obloukového útoku, ve kterém Voják sbírá sílu mezi jednotlivými útoky, aby ji poté vypustil v jediném cíleném úderu s intenzivním poškozením, jež může srazit tvé nepřátele na zem.
 
 tagClass01SkillName06A=Markoviánská výhoda
-tagClass01SkillDescription06A=Věhlasný taktik Markovian vždy útočil z vyšších poloh. Tento klasický útok, inspirovaný Markoviánskými bitevními taktikami, představuje velmi silný, dolů směřující úder, což rozhodí tvé nepřátele a oslabí jejich obranu.
+tagClass01SkillDescription06A=Věhlasný taktik Markovian vždy útočil z vyšších poloh. Tento klasický útok, inspirovaný Markoviánskými bitevními taktikami, představuje velmi silný, dolů směřující úder, což rozhodí tvé nepřátele a oslabí jejich obranu.^oTento úder může být uštědřen jakoukoliv zbraní.
 tagClass01SkillName06B=Zolhanova technika
-tagClass01SkillDescription06B=Po známém bojovém mistrovi pojmenovaný útok využívá nízké těžiště a silný úder, aby rozhodil tvé protivníky. ^oKdyž je použita chladná zbraň, útok zasáhne více cílů v blízkosti.
+tagClass01SkillDescription06B=Po známém bojovém mistrovi pojmenovaný útok využívá nízké těžiště a silný úder, aby rozhodil tvé protivníky. ^oTento úder může být veden jakoukoliv zbraní. Pokud je použita chladná zbraň, útok zasáhne více cílů v blízkosti.
 
 tagClass01SkillName07A=Bojový duch
 tagClass01SkillDescription07A=Místo toho, aby tě nepřátelské zásahy donutily k rezignaci umocňují tvůj hněv, což dodává tvým útokům extra sílu.
@@ -297,7 +297,7 @@ tagClass03SkillName03B=Manipulace
 tagClass03SkillDescription03B=Jemná manipulace s pouty, kterými ovládáš své nohsledy, je okouzlí a získají pocit ohromující oddanosti vůči tobě, což způsobí, že budou bojovat s až fanatickou silou a rychlostí.
 
 tagClass03SkillName04A=Dreegova krev
-tagClass03SkillDescription04A=Souznění s velkým ochráncem ti uděluje některé Dreegovy regenerační schopnosti a ze zranění uštědřených nepřáteli bude rozprašována žíravá krev, jakoby se jednalo o zranění samotného Dreega.
+tagClass03SkillDescription04A=Souznění s velkým ochráncem ti uděluje některé Dreegovy regenerační schopnosti a ze zranění uštědřených nepřáteli bude rozprašována žíravá krev, jakoby se jednalo o zranění samotného Dreega.^oTento efekt je aplikován i na spojence v blízkosti.
 tagClass03SkillName04B=Strážcova zbroj
 tagClass03SkillDescription04B=Okultista se usadí ve spektrální ohradě a způsobí reflexi útoku, jako kdyby nepřátelé útočili na Dreegovy ostnaté šupiny.
 tagClass03SkillName04C=Strážcovy bodliny
@@ -1460,6 +1460,31 @@ tagConsumableSkill_A22=Trs Aetheru
 tagConsumableSkill_A22Desc=Roztříšti uskupení krystalů a uvolni tak jejich energie.
 tagConsumableSkill_A23=Burrwitchský mok
 tagConsumableSkill_A23Desc=Ten není pro ty, jež mají slabé srdce. Vedlejší účinky mohou zahrnovat: nevolnost, zvracení, zapomínání, kde jsi [[ms]strávil[fs]strávila] poslední noc.
+
+tagConsumableSkill_F01=Olej Kamenného srdce
+tagConsumableSkill_F01Desc=Pokryje tvůj štít tvrdou směsí.
+tagConsumableSkill_F02=Tinktura z krve Slitha
+tagConsumableSkill_F02Desc=Obklopí tě oblak toxinů.
+tagConsumableSkill_F03=Olej Rhowari
+tagConsumableSkill_F03Desc=Pokryje tvůj meč Arkovianským jedem.
+tagConsumableSkill_F04=Tinktura z hněvu bestie
+tagConsumableSkill_F04Desc=Dožene tvé nohsledy k zuřivosti.
+tagConsumableSkill_F05=Škvoří olej
+tagConsumableSkill_F05Desc=Pokryje tvůj meč škvořím jedem.
+tagConsumableSkill_F06=Tinktura odvahy
+tagConsumableSkill_F06Desc=Naplní tebe a tvé přátele vůlí bojovat dál.
+tagConsumableSkill_F07=Olej Hledače srdce
+tagConsumablevF07Desc=Pokryje tvůj meč jedem Hledače srdce.
+tagConsumableSkill_F08=Blade-Tinktura ochrany
+tagConsumableSkill_F08Desc=Obklopí tě vířícími se noži, které zasáhne všechny, jež tě napadnou.
+tagConsumableSkill_F09=Ice-Olej z krve
+tagConsumableSkill_F09Desc=Pokryje tvůj meč směsí ledové krve.
+tagConsumableSkill_F10=Tinktura ledového strážce
+tagConsumableSkill_F10Desc=Obklopí tě vítr mrazící vše až do morku kostí.
+tagConsumableSkill_F11=Kymonův posvátný olej
+tagConsumableSkill_F11Desc=Pokryje tvůj meč olejem posvěceným samotným Kymonem.
+tagConsumableSkill_F12=Tinktura Kymonova hněvu
+tagConsumableSkill_F12Desc=Vyzařují z tebe ohnivé plameny.
 
 #SkillsGeneral
 
