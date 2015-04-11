@@ -1,4 +1,4 @@
-tagTitleScreenText=Grim Dawn (předběžný přístup){^n}©2014 Crate Entertainment, LLC{^n}{^n}Vítej ve hře Grim Dawn (předběžný přístup)! Vážíme si tvé zpětné vazby.{^n}{^n}Navštiv prosím naše webové stránky www.grimdawn.com pro podílení se{^n}na pokračujícím vývoji hry Grim Dawn!
+tagTitleScreenText=Grim Dawn (předběžný přístup){^n}©2015 Crate Entertainment, LLC{^n}{^n}Vítej ve hře Grim Dawn (předběžný přístup)! Vážíme si tvé zpětné vazby.{^n}{^n}Navštiv prosím naše webové stránky www.grimdawn.com pro podílení se{^n}na pokračujícím vývoji hry Grim Dawn!
 tagDemoScreenText=Děkujeme za hraní!{^n}{^n}Grim Dawn je nyní dostupný v programu předběžného přístupu na Steamu, nebo skrze naší webovou stránku www.grimdawn.com
 tagMenu01=Hrát Grim Dawn
 tagMenu02=Hrát vlastní hru
@@ -267,7 +267,7 @@ tagWindowed=Okno
 tagVideoOptionDepthOfField=Hloubka ostrosti
 tagVideoOptionSoftParticles=Drobné detaily
 tagVideoOptionUIScale=UI škálování
-tagVideoOptionA2C=Průhlednost
+tagVideoOptionA2C=Maska průhlednosti
 
 tagNetworkTitle=Síť
 tagUpnpTitle=UPnP:
@@ -278,7 +278,7 @@ tagUpnpHelp=Nápověda
 tagUpnpControl=Povolit UPnP
 tagNetworkStatusTitle=Stav sítě:
 tagNetworkStatusTest=Otestovat
-tagNetworkNoOpts=Nastavení sítě není z důvodu konfigurace ve hře dostupné.{^n}Vrať se prosím do hlavního menu a otevři menu Nastavení.
+tagNetworkNoOpts=Nastavení sítě není, z důvodu konfigurace, ve hře dostupné.{^n}Vrať se prosím do hlavního menu a otevři menu Nastavení.
 tagCloudSaving=Povolit ukládání do cloudu
 tagResetCloud=Smazat data v cloudu
 tagDownloadCloud=Stáhnout uložená data z cloudu
@@ -495,8 +495,8 @@ tagOverwriteKeymap=Funkce ^y{%t0}^w už je přiřazena na klávesu ^y{%t1}^w. Ch
 tagHardDiskError=Tvému počítači dochází místo na pevném disku. Grim Dawn tak může mít problémy s ukládáním hry. Abys tomuto problému předešel, zkus uvolnit nějaké místo na disku.
 tagMenuError10=Nepodařilo se připojit k serveru. Režim nebo verze mapy neodpovídá hostitelské verzi.
 
-tagReportUsageStats=Pomoz nám prosím zlepšit Grim Dawn tím, že budeš pravidelně posílat anonymní systémové a herní statistiky.
-tagImportToSteamCloud=Máš povolené ukládání do Steam cloudu. Chceš importovat existující postavy?
+tagReportUsageStats=Pomoz nám vylepšit Grim Dawn tím, že budeš pravidelně posílat anonymní systémové a herní statistiky.
+tagImportToSteamCloud=Máš povolené ukládání do Steam cloudu. Chceš stáhnout existující postavy?
 tagResetCloudWarning=Opravdu chceš smazat všechny postavy a data uložená v cloudovém uložišti?
 tagDownloadCloudWarning=Opravdu chceš stáhnout uložené pozice z cloudového uložiště? Lokálně uložené postavy a data budou přepsány!
 tagWorking=Zpracovávám požadavky...
