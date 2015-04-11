@@ -127,7 +127,7 @@ tagTutorialTip36TextA=Průvodci duchovnem ti umožňují odebrat přidělené bo
 tagTutorialTip36TextB=Nemůžeš odebrat body vložené do úrovně svého povolání. Navíc nemůžeš odebrat ani poslední bod dovednosti, která má přidělené body v některé přídavné vlastnosti.
 
 tagTutorialTip37Title=Okno pašeráka
-tagTutorialTip37TextA=Pašerák může uchovávat tvé předměty a nebo je dokonce přesouvat mezi tvými dalšími postavami! K úschovně máš přístup u jakéhokoliv pašeráka, kterého v Cairnu najdeš.{^N}Předměty můžeš rychle přesouvat pomocí klávesy Shift a pravého kliknutí myši.
+tagTutorialTip37TextA=Pašerák může uchovávat tvé předměty a nebo je dokonce přesouvat mezi tvými dalšími postavami! K úschovně máš přístup u jakéhokoliv pašeráka, kterého v Cairnu najdeš.{^N}Předměty můžeš rychle přesouvat pomocí klávesy Shift a levého kliknutí myši.
 tagTutorialTip37TextB=Kliknutím na Přesun předmětů umožníš sdílení předmětů mezi svými dalšími postavami.
 
 tagTutorialTip38Tile=Přesun předmětů
