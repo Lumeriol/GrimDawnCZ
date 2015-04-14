@@ -158,7 +158,7 @@ tagUGCellar02=Svatyně neřesti
 tagBurrwitchCellar01=Zamořené sklepení
 tagBurrwitchCellar02=Vlhké sklepení
 tagBurrwitchCellar03=Zatuchlé sklepení
-tagWightmireCellar01=Kultistovo doupě
+tagWightmireCellar01=Doupě kultistů
 tagBurrwitchRiverCave=Říční cesta
 tagUGBurialCave=Pohřební jeskyně
 tagUGWightmireCave01=Sluj
@@ -618,7 +618,7 @@ tagLoreObj_BurrwitchB01Text=Dorazila další loď plná vězňů s kapucemi, byl
 tagLoreObj_LowerCrossingA02Name=Francisova poznámka
 tagLoreObj_LowerCrossingA02Text=Jsem tu v pasti... Až teď si uvědomuji, že v tomto domě zemřu. Margaret, obávám se, že jsi už mrtvá, ale nemusí to být zas tak špatně, pokud se k tobě brzy připojím. Pokud nějakým zázrakem přežiješ a najdeš tady tyhle řádky, věz prosím, že se na tebe nezlobím. Nikdy jsem nelitoval našeho společného života, ale teď jsem prostě ztratil nervy a neřekl ti zrovna hezká slova, když jsme se posledně rozešli.{^n}{^n}Doufám, že mě nebudeš považovat za zbabělce za to, co teď dělám. Už jsou tady v domě. Zabarikádoval jsem se v tomhle pokoji, ale je to pouze otázka času, než se ke mě dostanou. Všechno co můžu nyní dělat, je vybrat si způsob, jakým budu čelit své smrti. A já bych rád zemřel jako člověk, než se proměnit v jednu z těch hrozných věcí. Ani nechci být sežrán zaživa. Vždycky tě budu milovat...{^n}{^n}Francis
 
-tagLoreObj_WightmireA01Name=Úřední dopis pro Wightmirského Krvepřísežníka
+tagLoreObj_WightmireA01Name=Listina pro Wightmirského Krvepřísežníka
 tagLoreObj_WightmireA01codexTitle=Krvopříseřníkův úřední dopis
 tagLoreObj_WightmireA01Text=Nadešel čas udeřit na naše největší nepřátele, Aetheriany, ve Wightmire. V klidu jsme shromáždili naše síly v kopcích nad Burrwitchem, abychom na něj mohli snáze zaútočit. Nicméně předtím, než k tomu dojde, musíme zabezpečit Wightmire, abychom neměli nepřítele v zádech.{^n}{^n}I když jsou silní, loajální a připraveni zemřít ve jménu Ch'thona, mám dojem, že máte nedostatek Krvepřísežníků ke zdolání Aetherianských bojovníků. V poslední době jsme měli obrovský úspěch při zrodu mnohem silnějších služebníků Ch'thona z Prázdnoty. Jeden Posel může rozdrtit všechny Aetherianské ve Wightmire a klidně může pokračovat do Ďáblova průsmyku, který by mohl v této oblasti sloužit jako pevnost našeho řádu.{^n}{^n}Ke zrodu Posla budete potřebovat krev a životy alespoň tří mužů. Shromážděte oběti jak uznáte za vhodné; buď z uprchlíků na cestách, tuláckých osad nebo vybírejte mezi vlastními Krvepřísežníky. Informujte mne o vašem úspěchu, až bude po všem.{^n}{^n}Ulto Treig, Nejvyšší kněží
 

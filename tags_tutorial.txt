@@ -4,7 +4,7 @@ tagTutorialOf=z
 tagTutorialDisable=Vypnout nápovědu
 
 tagTutorialTip06Title=Nedotčené jídlo
-tagTutorialTip06TextA=Objevil jsi zbytky jídla, které po sobě nejspíš zanechal nějaký méně šťastný dobrodruh.{^n}{^n}Pokud jej pozřeš, obnovíš část své konstituce.
+tagTutorialTip06TextA=Objevil jsi zbytky jídla, které po sobě nejspíš zanechal nějaký méně šťastný dobrodruh.{^n}{^n}Pokud jídlo pozřeš, obnovíš část své konstituce.
 
 tagTutorialTip08Title=Vítejte ve hře Grim Dawn
 tagTutorialTip08TextA=Děkujeme za podporu a pomoc - díky tobě může Grim Dawn existovat! Doufáme, že si užiješ první část hry.{^n}{^n}Měj prosím na paměti, že se nejedná o dokončenou verzi hry, která je vytvořena nezávislým týmem o osmi lidech. Setkáš se s chybami, nedokončenými částmi a jen se zhruba dvěma třetinami hry. Velice uvítáme příspěvky o chybách a pocitech z hraní hry na našich fórech na www.grimdawn.com.
@@ -17,14 +17,14 @@ tagTutorialTip10Title=Brány
 tagTutorialTip10TextA=Zabezpečené Brány ti umožňují rychle cestovat mezi různými lokacemi v oblasti Cairnu. Klikni levým tlačítkem na Bránu a otevře se {^y}Mapa Bran{^w}.
 tagTutorialTip10TextB=Objevil jsi Bránu v Dolním rozcestí. Umístění všech Bran, které objevíš, budou nadále přístupné na {^y}Mapě Bran{^w}.
 tagTutorialTip10SubtitleA=Osobní Brána:
-tagTutorialTip10TextC=Protože jsi Aetherem dotčený člověk, můžeš otevírat {^y}Osobní Brány{^w}. Abys aktivoval svůj Osobní Bránu, klikni na tlačítko Cestovat Branou ve spodní části obrazovky.
+tagTutorialTip10TextC=Protože jsi Aetherem dotčený člověk, můžeš otevírat {^y}Osobní Brány{^w}. Abys aktivoval svoji Osobní Bránu, klikni na tlačítko Cestování Branou ve spodní části obrazovky.
 tagTutorialTip10CaptionA=Klávesová zkratka: {^b}{%t0}{^w}{^n}
 
 tagTutorialTip11Title=Osobní Brána
 tagTutorialTip11TextA=Osobní Brány mohou být otevřeny kdekoliv na světě a jsou propojeny se sítí ostatních postálů.
 tagTutorialTip11CaptionA=Klávesová zkratka: {^b}{%t0}{^w}
 tagTutorialTip11TextB=Stejně jako u klasických Bran, klikni levým tlačítkem myši na svoji Osobní Bránu a zobrazí se ti {^y}Mapa Bran{^w}. Poté klikni na pozici, kam chceš odcestovat.
-tagTutorialTip11TextC=Tvá Brána zůstane otevřena do doby, než skrz ni přicestuješ zpět. Jakmile se Brána otevře, mohou skrze něj cestovat i tvoji spojenci. Vždy můžeš mít v jeden okamžik otevřenou maximálně jednu Osobní Bránu.
+tagTutorialTip11TextC=Tvá Brána zůstane otevřena do doby, než skrz ni přicestuješ zpět. Jakmile se Brána otevře, mohou skrze ni cestovat i tvoji spojenci. Vždy můžeš mít v jeden okamžik otevřenou maximálně jednu Osobní Bránu.
 
 tagTutorialTip14Title=Lektvary
 tagTutorialTip14TextA=Lektvary zdraví a magické energie obnovují život, respektive magickou energii, tvé postavy. Pro vypití lektvaru klikni na jeho ikonu na spodní liště a nebo stiskni přidruženou klávesu.
@@ -159,7 +159,7 @@ tagTutorialTip44TextA=Naučil ses novému plánku, ale nemáš kováře schopné
 tagTutorialTip44TextB=
 
 tagTutorialTip45Title=Konstituce
-tagTutorialTip45TextA=Jakmile skončí souboj a tvůj život není na maximu, aktivuje se druhotný regenerační systém zvaný Konstituce.{^N}{^N}Konstituce ti urychleně doplní tvůj život, ale její hodnota pro změnu klesne. KOnstituci indikuje žlá barva na tvém ukazateli života.{^N}{^N}
+tagTutorialTip45TextA=Jakmile skončí souboj a tvůj život není na maximu, aktivuje se druhotný regenerační systém zvaný Konstituce.{^N}{^N}Konstituce ti urychleně doplní tvůj život, ale její hodnota pro změnu klesne. Konstituci indikuje žlutá barva na tvém ukazateli života.{^N}{^N}
 tagTutorialTip45TextB=Konstituce se automaticky sama doplní, jakmile najdeš nějakou porci jídla nebo esenci života, případně pokud dosáhneš další úrovně. Také se doplní pokud zemřeš.{^N}{^N}Pokud tvá konstituce z tebe vyprchá, nebude se ti mimo bojiště tak rychle obnovovat zdraví.{^N}{^N}
 
 tagTutorialTip46Title=Nedostatek konstituce
@@ -173,7 +173,7 @@ tagTutorialTip47TextB=K rozebrání předmětu budeš potřebovat dynamit a žel
 tagTutorialTip49Title=Porovnávání zbraní
 tagTutorialTip49TextA=Když myší ukážeš na některý předmět ve svém inventáři, uvidíš jeho vlastnosti a ihned vedle něj i vlastnosti předmětu, který máš na sobě. V případě zbraní uvidíš také přídatnou informaci porovnávající Zranění za sekundu (DPS).
 tagTutorialTip49SubtitleA=Porovnávání bez komponent
-tagTutorialTip49TextB=Můžeš porovnat dvě zbraně bez toho, aby byly ovlivněny komponentami, přidržením klávesy "{^b}CTRL{^w}".
+tagTutorialTip49TextB=Porovnat dvě zbraně, aniž by byly ovlivněny komponentami, můžeš přidržením klávesy "{^b}CTRL{^w}".
 
 tagTutorialTip50Title=Vylepšení
 tagTutorialTip50TextA=Vylepšení se nacházejí ve formě ořarovaného prachu, který můžeš použít k vylepšení svých předmětů. Tvorba vylepšení je s velkou opatrností chráněno různými frakcemi Cairnu.
