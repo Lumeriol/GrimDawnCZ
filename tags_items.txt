@@ -1512,7 +1512,7 @@ tagBlueprint_RelicD019=Plánek: Relikvie - Oleronův hněv
 tagBlueprint_RelicD020=Plánek: Relikvie - Menhirova bašta
 tagBlueprint_RelicD021=Blueprint: Relic - Iskandra's Balance
 
-tagBlueprint_ComponentA01=Plánek: Aetherické duše
+tagBlueprint_ComponentA01=Plánek: Aetherická duše
 tagBlueprint_ComponentA02=Plánek: Balistické plátování
 tagBlueprint_ComponentA03=Plánek: Posvěcená ocel
 tagBlueprint_ComponentA04=Plánek: Zaostřovací hranol
