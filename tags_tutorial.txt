@@ -24,7 +24,7 @@ tagTutorialTip11Title=Osobní Brána
 tagTutorialTip11TextA=Osobní Brány mohou být otevřeny kdekoliv na světě a jsou propojeny se sítí ostatních postálů.
 tagTutorialTip11CaptionA=Klávesová zkratka: {^b}{%t0}{^w}
 tagTutorialTip11TextB=Stejně jako u klasických Bran, klikni levým tlačítkem myši na svoji Osobní Bránu a zobrazí se ti {^y}Mapa Bran{^w}. Poté klikni na pozici, kam chceš odcestovat.
-tagTutorialTip11TextC=Tvá Brána zůstane otevřena do doby, než skrz ni přicestuješ zpět. Jakmile se Brána otevře, mohou skrze ni cestovat i tvoji spojenci. Vždy můžeš mít v jeden okamžik otevřenou maximálně jednu Osobní Bránu.
+tagTutorialTip11TextC=Tvá Brána zůstane otevřena do doby, než skrze ni přicestuješ zpět. Jakmile se Brána otevře, mohou ji využívat i tvoji spolubojovníci. Vždy můžeš mít v jeden okamžik otevřenou maximálně jednu Osobní Bránu.
 
 tagTutorialTip14Title=Lektvary
 tagTutorialTip14TextA=Lektvary zdraví a magické energie obnovují život, respektive magickou energii, tvé postavy. Pro vypití lektvaru klikni na jeho ikonu na spodní liště a nebo stiskni přidruženou klávesu.
@@ -183,18 +183,18 @@ tagTutorialTip51Title=Použití vylepšení
 tagTutorialTip51TextA=Klikni pravým tlačítkem myši na Vylepšit a poté levým tlačítkem na předmět, který chceš vylepšit.{^N}{^N}Jen tě musím upozornit, že vylepšení lze použít pouze na určité druhy předmětů a po jeho aplikování nelze vylepšení již odstranit. Na druhou stranu je možné jej nahradit jiným vylepšením.
 
 tagTutorialTip52Title=Objevení frakce
-tagTutorialTip52TextA=You have gained some reputation with one of Cairn's faction through a quest.{^N}{^N}Quests are an excellent way to improve your relations with factions, but they are not the only method. You can learn more about factions in the {^y}Faction Window{^w}.
+tagTutorialTip52TextA=Z úkolu sis získal přízeň jedné z Cairnských frakcí.{^N}{^N}Úkoly jsou skvělý způsob jak zlepšit své vztahy s frakcí, ale nejsou jedinou metodou. Více se o frakcích můžeš dozvědět v {^y}Okně frakcí{^w}.
 tagTutorialTip52CaptionA=Klávesová zkratka: {^b}{%t0}{^w}
 
-tagTutorialTip53Title=Ubytovatel frakce
-tagTutorialTip53TextA=Faction Quartermasters sell items exclusively available from his or her faction. This equipment is only available to those who have proven themselves to their faction.
-tagTutorialTip53SubtitleA=Soulbound Equipment
-tagTutorialTip53TextB=Equipment sold by Faction Quartermasters is soulbound to your character and cannot be traded or placed in the Transfer UI.{^N}{^N}If a Soulbound Augment is applied to an item, that item becomes soulbound as well.
+tagTutorialTip53Title=Forman
+tagTutorialTip53TextA=Frakční forman prodává předměty dostupné výhradně pro danou frakci. Tato výbava je dostupná pouze těm, kteří se u dané frakce osvědčí.
+tagTutorialTip53SubtitleA=Vázané vybavení
+tagTutorialTip53TextB=Vybavení prodávané frakčními formany je svázáno s duší tvé postavy a nelze s ním obchodovat nebo jej přemísťovat u Pašeráka.{^N}{^N}Pokud je vázané vylepšení použito na běžný předmět, stává se tento taktéž vázaným.
 
-tagTutorialTip54Title=Úroveň reputace
-tagTutorialTip54TextA=Byla dosažena další úroveň reputace s některou z frakcí. To ti nyní umožňuje nakupovat zboží u této frakce mnohem levněji a také máš přístup k lepší výbavě u frakčních ubytovatelů.{^N}{^N}Podívej se kolem po nových výzvách, které jsou třeba dostupné.
+tagTutorialTip54Title=Úroveň přízně
+tagTutorialTip54TextA=Byla dosažena další úroveň přízně s některou z frakcí. To ti nyní umožňuje nakupovat zboží u této frakce mnohem levněji a také máš přístup k lepší výbavě u frakčních formanů.{^N}{^N}Podívej se kolem po nových výzvách, které jsou třeba dostupné.
 
 tagTutorialTip55Title=Okno frakcí
-tagTutorialTip55TextA=Use the {^y}Faction Window{^w} to keep track of your progress with Cairn's various factions and to determine what you need to do in order to gain their favor. Note that Factions and their rewards will be fully implemented with Build 25.
-tagTutorialTip55SubtitleA=Gaining Reputation
-tagTutorialTip55TextB=Each faction has unique desires and goals. You can see how to earn their respect by looking at the {^y}Reputation Gained From{^w} section.{^N}{^N}Note that as you become more renowned, you will need to defeat tougher monsters to gain reputation from kills.
+tagTutorialTip55TextA=Používej {^y}Okno frakcí{^w} pro sledování svého pokroku ohledně Cairnských frakcí, a abys zjistil, co dané frakce vyžadují, abys získal jejich přízeň. Jen je třeba upozornit, ře frakce a jejich odměny budou plně dostupné v sestavení B25.
+tagTutorialTip55SubtitleA=Získávání přízně
+tagTutorialTip55TextB=Každá frakce má své jedinečné touhy a cíle. Jak si získat jejich přízeň si můžeš prohlédnout v sekci {^y}Přízeň získáš za{^w}.{^N}{^N}Jen je třeba upozornit, že čím více přízně máš, tím víc budeš muset splnit úkolů a zabít silnější nepřátele, aby sis získal přízeň novou.

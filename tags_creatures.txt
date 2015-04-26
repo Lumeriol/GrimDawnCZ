@@ -21,10 +21,10 @@ tagNecromancer_ChampionC01=Pán děsu Řádu Smrtícího bdění
 tagNecromancer_Boss01=Master Ravok, Smrtící našeptávač
 tagNecromancer_Boss02=Malkadarr, šampión Řádu Smrtícího bdění
 
-tagZealot_MeleeA01=Zélóta z Kymonových Vyvolených
-tagZealot_RangedA01=Zélóta z Kymonových Vyvolených
-tagZealot_CasterB01=Hasič plamenů z Kymonových Vyvolených
-tagZealot_ChampionC01=Ostrá panna z Kymonových Vyvolených
+tagZealot_MeleeA01=Zélóta z Kymonových vyvolených
+tagZealot_RangedA01=Zélóta z Kymonových vyvolených
+tagZealot_CasterB01=Hasič plamenů z Kymonových vyvolených
+tagZealot_ChampionC01=Ostrá panna z Kymonových vyvolených
 tagZealot_AncestralSpirit=Rodový duch
 
 #CreatureAetherial
@@ -50,9 +50,9 @@ tagAetherialAbominationBoss01=Sloučenina
 
 #CreatureBoar
 
-tagEnemyBoarA01=Kamenný špičák
-tagEnemyBoarA02=Gigantický kamenný špičák
-tagEnemyBoarB01=Železitý kamenný špičák
+tagEnemyBoarA01=Kamenošpičák
+tagEnemyBoarA02=Gigantický kamenošpičák
+tagEnemyBoarB01=Železitý kamenošpičák
 
 tagBoarHeroH01=Dreadtusk, Zhouba lovců
 tagBoarHeroH02=Ragesnout ~ Hbitý
@@ -83,7 +83,7 @@ tagBoneRatMiniBoss01=Grundleplith Chamtivec
 
 #CreatureCelestial
 
-tagEnemyCelestial_QuestA01=Nebeská věc
+tagEnemyCelestial_QuestA01=Nebeský předmět
 
 
 #CreatureChthonian
@@ -103,10 +103,10 @@ tagChthonianMinionHeroH07=Sharanatu ~ Chráněnec
 #CreatureChthonianFiend
 
 tagEnemyVoidFiendA01=Marnivý zloduch
-tagEnemyVoidFiendA02=Anomálie nicoty
-tagEnemyVoidFiendC01=Ohavnost nicoty
+tagEnemyVoidFiendA02=Anomálie Prázdnoty
+tagEnemyVoidFiendC01=Ohavnost Prázdnoty
 
-tagVoidFiendHeroH01=Innugaru, Zděšení z Nicoty
+tagVoidFiendHeroH01=Innugaru, Zděšení Prázdnoty
 tagVoidFiendHeroH02=Hiln'Raz, Temná věštba
 tagVoidFiendHeroH03=Sen'Thel Nositel Prázdnoty
 tagVoidFiendHeroH04=Nii'Thel ~ Rváč
