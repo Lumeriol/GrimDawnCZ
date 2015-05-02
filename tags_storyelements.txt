@@ -3,9 +3,9 @@
 tagMapDevilsCrossing01=Ďáblův průsmyk
 tagMapLowerCrossing01=Dolní rozcestí
 tagMapBurialHill=Pohřební vrch
-tagMapOldDump=Stará skládka
+tagMapOldDump=Staré smetiště
 tagMapFoggyBank=Mlhavé pobřeží
-tagMapBurrwitchRoad01=Mlhavé pobřeží
+tagMapBurrwitchRoad01=Burrwitchská stezka
 tagMapWightmire01=Wightmire
 tagMapSoddenHollow=Promáčená pustina
 tagMapFloodedPassage01=Zatopený průchod
@@ -116,7 +116,7 @@ tagWorldMapBurrwitchOutskirts=Burrwitchské{^n}předměstí
 tagWorldMapTheFoggyBank=Mlhavé{^n}pobřeží
 tagWorldMapSoddenHollow=Promáčená{^n}pustina
 tagWorldMapWightmire=Wightmire
-tagWorldMapTheOldDump=Stará{^n}skládka
+tagWorldMapTheOldDump=Staré{^n}smetiště
 tagWorldMapBurialHill=Pohřební{^n}vrch
 tagWorldMapLowerCrossing=Dolní{^n}rozcestí
 tagWorldMapDevilsCrossing=Ďáblův{^n}průsmyk
@@ -302,7 +302,7 @@ tagNotification_BurrwitchRiftgateSecured=Nepřátelé v okolí Burrwitchské Br�
 tagNotification_WardenCellarFound=Tohle musí být Wardenovo sklepení...
 tagNotification_WardenLabFound=Laboratoř. Warden musí být někde poblíž...
 tagNotification_LostApprenticeCellar=Někdo tady nedávno byl...
-tagNotification_LostApprenticeFound=Kasparova učednice je tady!
+tagNotification_LostApprenticeFound=Někde tady je Kasparova učednice!
 
 tagNotification_HS_RemoveTheHead_ElsaFound=Zdá se, že Cronley nemá Elsu...
 tagNotification_HS_SpoilsOfTheGrimDawn=Prohledal jsi starou zříceninu.
@@ -312,12 +312,12 @@ tagNotification_HS_OldArkoviaPassagesCompleted=Prošel jsi Arkovianskou chodbou 
 tagNotification_HS_OldArkoviaPassagesBossKilled=Získal jsi kousek roztříštěné duše Poskvrněného!
 
 tagNotification_AreaC_EnclaveRiftgateEvent=Vstup do Homesteadu je obsazen Aetherijskými bytostmi!
-tagNotification_AreaC_RefugeeRemainsFound=Vypadá to, že Dahlia Taverin nepřežila všechna nebezpečí Horských hlubin.
+tagNotification_AreaC_RefugeeRemainsFound=Tak to vypadá, že Dahlia Taverin nepřežila všechna nebezpečí Horských hlubin...
 tagNotification_AreaC_BloodHarvestFound=Někteří z uvězněných volají o pomoc.
 tagNotification_AreaC_TrappedAndAloneReturn=V táboře Tuláků řádí chthonické příšery!
 
 tagNotification_WarningToughArea=Na tomhle místě se nachází mnohem mocnější síly, než jsi schopen porazit...
-tagNotification_WarningRiftgateDisabled=Tvé spojení s bránou se zdá být v tomhle místě nemožné...
+tagNotification_WarningRiftgateDisabled=Tvé spojení s Bránou se zdá být v tomhle místě nemožné...
 tagNotification_WarningGatesOfAnguish=Brány utrpení byly otevřeny. Ale pospěš si, protože nezůstanou otevřeny dlouho...
 tagNotification_WarningGatesOfAnguishLocked=Brány utrpení jsou uzavřeny a do konce této herní relace se již neotevřou.
 
@@ -389,7 +389,7 @@ tagNPC_AreaC_01=Lysell ~ Mistr průzkumníků
 tagNPC_AreaC_02=Douglass Sullivan Oldbarrow
 tagNPC_AreaC_03=Myles Finegan
 tagNPC_AreaC_04=Inkvizitor Creed
-tagNPC_AreaC_05=Zaměřovač Kadris
+tagNPC_AreaC_05=Ostrostřelec Kadris
 tagNPC_AreaC_06=Alleria
 tagNPC_AreaC_07=Kalista
 tagNPC_AreaC_08=Nathaniel Thorn
@@ -401,7 +401,7 @@ tagNPC_AreaC_13=Kronikář
 tagNPC_AreaC_14=Rallia
 tagNPC_AreaC_15=Kapitán Somerová
 tagNPC_AreaC_16=Collin Taverin
-tagNPC_AreaC_17=Zaměřovač Vallar
+tagNPC_AreaC_17=Ostrostřelec Vallar
 tagNPC_AreaC_18=Bratr Molltair
 tagNPC_AreaC_19=Haruuv
 tagNPC_AreaC_20=Četař Serriv
@@ -411,16 +411,16 @@ tagNPC_AreaC_23=
 tagNPC_AreaC_24=
 tagNPC_AreaC_25=
 
-tagNPC_AreaD_01=Moira ~ Lamačka kouzel
+tagNPC_AreaD_01=Moira ~ lamačka kouzel
 tagNPC_AreaD_02=Kapitán Reave
-tagNPC_AreaD_03=Ubytovatel Edric
+tagNPC_AreaD_03=Forman Edric
 tagNPC_AreaD_04=Anasteria
 
 tagNPC_DetonationSite=Místo výbuchu
 tagNPC_AetherCluster=Shluk Aetherů
 tagNPC_Cannon=Opuštěné dělo
 
-tagNPC_BrokenHillsBridge=Stanoviště opravy mostu do Arkovianského podhůří
+tagNPC_BrokenHillsBridge=Staveniště mostu do Arkovianského podhůří
 tagNPC_OldGroveBridge=Staveniště mostu do Starého háje
 tagNPC_HomesteadBridge=Staveniště mostu do Dvojspádů
 tagNPC_WightmireBridge=Staveniště mostu do Wightmire
@@ -464,7 +464,7 @@ tagNPC_Flavor_Homestead_12=Horace
 tagNPC_Flavor_AreaC_01=Dean Oldbarrow
 tagNPC_Flavor_AreaC_02=Denny Oldbarrow
 tagNPC_Flavor_AreaC_03=Maria Oldbarrow
-tagNPC_Flavor_AreaC_04=Zaměřovač Harra
+tagNPC_Flavor_AreaC_04=Ostrostřelkyně Harra
 tagNPC_Flavor_AreaC_05=Rob Halloway
 tagNPC_Flavor_AreaC_06=Beatrice Summers
 tagNPC_Flavor_AreaC_07=Tricia Windborough
@@ -519,7 +519,7 @@ tagQuestItemLostJournal_Name=Řád kultistů
 tagQuestItemLostJournal_Text="Bratři krve,{^n}{^n}Přítomnost Aetherických stvoření v Burrwitchi sílí s každým dalším dnem. Své aktivity přesouváme za hranice města, kde můžeme nerušeně pokračovat v našich plánech. Nyní se zaměřujeme na Ďáblův průsmyk, kde náš nejnovější zástupce Direni úspěšně sabotoval jejich vodní čerpadlo. Brzy bude tahle protivná skupinka nucena opustit své útočiště a hned poté je vezmeme na milost. Připravte se, bratři. Brzy budeme pít jejich krev!{^n}{^n}Salazar, Čepel Ch'thona"
 
 tagQuestItemDynamite=Dynamit
-tagQuestItemDynamiteDesc="Surová výbušnina kdysi umístěná ničitely, aby čelili ničivým silám uživatelů magie."
+tagQuestItemDynamiteDesc="Surová výbušnina kdysi používaná ničitely, aby čelili ničivým silám uživatelů magie."
 tagQuestItemSupplies=Bedna se zásobami
 tagQuestItemSuppliesDesc="Bedna plná cenných materiálů a nekazícího se zboží."
 tagQuestItemSlithNecklace=Náhrdelník slithů
@@ -543,7 +543,7 @@ tagQuestItemDermapteranPheromones_02=Inixilova feromonní žláza
 tagQuestItemDermapteranPheromones_02Desc="Ze smradu vycházejícího z této žlázy se ti zvedá žaludek."
 
 tagQuestItemManticorePoisonGland=Mantikoří jedovatá žláza
-tagQuestItemManticorePoisonGland_Desc="Ze žlázy odkapává silný toxin, který spálí kůži při kontaktu s ní."
+tagQuestItemManticorePoisonGland_Desc="Ze žlázy odkapává silný toxin, který spálí kůži při sebemenším kontaktu."
 
 tagQuestItemNecromancerRemains=Malkadarrovy ostatky
 tagQuestItemNecromancerRemains_Desc="Ještě hnijící ostatky kdysi mocného nekromanta."
@@ -555,7 +555,7 @@ tagQuestItemExileBossDrop_02=Hlava archiváře Thelona
 tagQuestItemExileBossDrop_02Desc="Stále žhnoucí aetherické oči na tebe upřeně civějí."
 
 tagQuestItemBlackLegionInsignia=Odznak Černé legie
-tagQuestItemBlackLegionInsignia_Desc="Udělovaný jako hodnost za jejich věrnou službu."
+tagQuestItemBlackLegionInsignia_Desc="Udělovaný jako hodnost za věrnou službu."
 
 tagQuestItemAnnalsOfArkovia=Arkovianské anály
 tagQuestItemAnnalsOfArkovia_Desc="Záznamy z posledních dnů arkovianského krále Rhowana."
@@ -592,13 +592,13 @@ tagLoreObj_InquisitorCreedA06Name=Deník inkvizitora Creeda - 6. zápis
 tagLoreObj_InquisitorCreedA06codexTitle=Inkvizitor Creed - 6. zápis
 tagLoreObj_InquisitorCreedA06Text=Prodléval jsem v téhle zatuchlé cele jeden dost znepokojující den a celou noc hrůzy. Krieg mi umožnil sledovat proces, během kterého jsou lidská těla zakonzervována do něčeho, čemu říká Slavný rozbřesk.{^n}{^n}Získal jsem úplně jiné představy ohledně Kriega, jež je se Slavným rozbřeskem spojen, nebo je jím spíše ovládán. Z toho, jak mluvil, je jasné, že jde pouze jen o nějakou malou část mnohem většího spiknutí a mám podezření, že mnoho dalších osob na významných pozicích bylo posednuto něčím, co je velmi podobné tomu, co teď ovládá Kriega. Byl jsem arogantní, když jsem si myslel, že mohu s Kriegem manipulovat a značně jsem podcenil sílu a rozsah hrozby, které teď čelíme tváří v tvář.{^n}{^n}Naštěstí Kriegova vlastní arogance ho vedla k tomu, aby zcela nesprávně posoudil vynalézavost jeho vězně. Nabídl mi zanechání mé vlastní lidskosti slibem, že budu bojovat za jeho věc, a nebo se mohu připojit k inventáři balzamovaných mrtvol. Nechal mne si to vše promyslet a zvážit své rozhodnutí, ale tahle magicky chráněná cela ve mne nevyvolává tu správnou sympatii, tudíž nemám v úmyslu tady být, až se Krieg rozhodne vrátit se pro odpověď.
 
-tagLoreChest_InquisitorCreed_HomesteadName=Inquisitor Creed's Lectern
-tagLoreObj_InquisitorCreedA07Name=Journal of Inquisitor Creed - 7th Entry
-tagLoreObj_InquisitorCreedA07codexTitle=Inquisitor Creed - 7th Entry
-tagLoreObj_InquisitorCreedA07Text=Much time has passed since my last entry. Following my escape from Krieg's laboratory, I have raced against time and lost, passed through darkness and flame, and witnessed the ruin of the world as I knew it.{^n}{^n}Even as I assumed key figures in the capital were likely to be possessed by the entities we now call Aetherials, I reasoned that it was only with support from within capital that we could hope to thwart them. Any action that began outside the capital could be spun as a political rebellion and crushed with the empire's own forces before the truth could be exposed. Thus, I cast the dice and raced toward the heart of Erulan, trying to conceal myself as best I could.{^n}{^n}Upon my arrival, I proceeded cautiously, booking a room at a squalid inn near the west gates in an effort to keep my arrival secret. Initially I sought out old acquaintances, assuming if I could detect some change in personality or behavior, it might reveal possession. A few awkward reunions made it painfully obvious that years on the road carrying out my duties as an inquisitor had left me out of touch and unable to discern whether any changes were the result of possession, or just the passage of time and faded memories. The only gamble left then was to report back to the citadel of the Luminari and see what came of it. I never made it there.{^n}{^n}Waiting until the sunlight dwindled and crowds thinned in the streets below, I rose to leave but was quite startled to see that a shadowy figure had somehow silently breached my room, evading all of the wards set against intruders. This is how I came into cooperation with the First Blade.
+tagLoreChest_InquisitorCreed_HomesteadName=Pultík inkvizitora Creeda
+tagLoreObj_InquisitorCreedA07Name=Deník inkvizitora Creeda - 7. zápis
+tagLoreObj_InquisitorCreedA07codexTitle=Inkvizitor Creed - 7. zápis
+tagLoreObj_InquisitorCreedA07Text=Od mého posledního zápisu uplynulo již mnoho času. Po mém útěku z Kriegovy laboratoře jsem hrál o čas. Sám a ztracený jsem prošel temnotou a plameny, abych se stal svědkem zkázy světa, který jsem znal dřív.{^n}{^n}Jak jsem předpokládal, klíčové postavy v hlavním městě byly nejspíš posedlé něčím, čemu zeď říkáme Aetheriané, z čehož jsem si odvodil, že to muselo být s podporou někoho v hlavním městě, o kterém jsme si mysleli že zvrátí všechny jejich záměry. Každá akce, která by začala mimo brány hlavního města, mohla být brána jako politická vzpoura a potlačena císařskou armádou ještě dřív, než by pravda vyšla najevo. Tudíž jsem se osmělil a vyšel vstříc do srdce Erulanu, zkoušejíc skrýt sám sebe jak nejlépe jsem dokázal.{^n}{^n}Po mém příjezdu jsem postupoval velice opatrně, objednal si pokoj v rozpadlém hostinci pobléž západních bran ve snaze udržet svůj příjezd co nejdéle v tajemství. Původně jsem hledat své staré známé s tím, že pokud bych odhalil nějaké známky změn v jejich chování, patrně by to znamenalo jejich posedlost. Několik nepříjemných a trapných setkání bylo zřejmě způsobeno těmi roky na cestách, kdy jsem vykonával své povinnosti jako inkvizitor a nebyl jsem tak schopen rozeznat, zda změny v jejich chování je způsobeno posledlostí nebo výsledkem času a vybledlých vzpomínek. Jediné, na co zbývalo vsadit, bylo ohlášení se v Luminarské citadele a čekat na to, co bude dál. Nikdy jsem tam nebyl.{^n}{^n}Čekal jsem, dokud se sluneční paprsky dostatečně neztenčily a davy lidí v ulicích neprořídly. Teprve pak jsem se zvedl k odchodu, ale úplně mě vyděsil pohled na postavu stojící ve stínu, která mezitím v tichosti vstoupila do mého pokoje, aniž by porušila jakoukoliv nástrahu proti vetřelcům. A tak jsem se dostal do kontaktu s Prvotním ostřím.
 
-tagLoreObj_InquisitorCreedA08Name=Journal of Inquisitor Creed - 8th Entry
-tagLoreObj_InquisitorCreedA08codexTitle=Inquisitor Creed - 8th Entry
+tagLoreObj_InquisitorCreedA08Name=Deník inkvizitora Creeda - 8. zápis
+tagLoreObj_InquisitorCreedA08codexTitle=Inkvizitor Creed - 8. zápis
 tagLoreObj_InquisitorCreedA08Text=It was known that anyone of significance who fomented discontent or posed a real threat to the rule of the emperor might be visited by the First Blade. I had never stirred such controversy but I always imagined, if such an encounter took place, I could put up a respectable fight. I never got the chance. Taken unawares, I was disarmed before I even knew what was happening. Had he sought my death, I would not have even witnessed the killing stroke fall. However, he seemed more interested in answers instead and, in turn, provided me with an account of his own events that confirmed my worst fears.{^n}{^n}The First Blade revealed that, only days prior, he had been forced to turn his knives on the Emperor himself, by his own command. Despite the myriad safeguards protecting the Emperor, both mundane and arcane, he had become host to an Aetherial. Through strength of mind, he had usurped his possessor long enough to summon the First Blade, command his own execution and charge the assassin with ensuring that his son, the young prince, survive to reclaim the throne.{^n}{^n}His last commands issued, the Emperor's consciousness slipped once again under the control of the Aetherial and a desperate battle ensued. The First Blade reported that he believed the Emperor and the Aetherial within him slain but, given his inexperience with the entities, could not say anything for certain. He relayed that he had secretly taken the prince and put him into hiding but declined to elaborate. The First Blade said he intended to retire his imperial title and had chosen the name Ulgrim, which made me curious as to whether it was an intentional reference to the mythic character.{^n}{^n}A final troubling detail was that no proclamation of the Emperor's passing had been issued. Not only did this demonstrate the Aetherials had sufficient control of the palace to conceal the death but, given that they couldn't hope to hide the Emperor's absence for long, it suggested the next phase of their operation was imminent.{^n}{^n}I strategized with Ulgrim long into the night, formulating a plan to counter the Aetherials, but ultimately we agreed that we could not defeat their conspiracy in time. The only course left was gather whatever people and resources we could, go to ground and weather the coming storm; then find a way to counter the invaders.{^n}{^n}We agreed that the Black Legion would be our best hope in securing allies. As a conscripted army of criminals, debtors and political dissidents bound to service, it seemed unlikely that the Aetherials would have any reason to infiltrate them when they could control them indirectly through the military high command. The next step was to discretely make contact.
 
 
@@ -836,35 +836,35 @@ tagStoreTitle_SmithA01=Mistr kovadliny
 tagStoreDesc_SmithA01_1={}Praktické dovednosti
 tagStoreDesc_SmithA01_2=Angrim využívá své dlouholeté zkušenosti k ukování smrtících zbraní a pevných zbrojí.
 tagStoreDesc_SmithA01_3=
-tagStoreDesc_SmithA01_4=Vytvořené zbraně, zbroj a příslušenství jsou prodchnuté jednou z následujících vlastností:
+tagStoreDesc_SmithA01_4=Vytvořené zbraně, zbroj a příslušenství jsou prodchnuty jednou z následujících vlastností:
 
 tagNPC_SmithA02=Duncan
 tagStoreTitle_SmithA02=Tajemný kovář
 tagStoreDesc_SmithA02_1={}Tajemné kování
 tagStoreDesc_SmithA02_2=Duncan používá experimentální metody k prodchnutí zbraní a zbrojí tajemnými vlastnostmi.
 tagStoreDesc_SmithA02_3=
-tagStoreDesc_SmithA02_4=Vytvořené zbraně, zbroj a příslušenství jsou prodchnuté jednou z následujících vlastností:
+tagStoreDesc_SmithA02_4=Vytvořené zbraně, zbroj a příslušenství jsou prodchnuty jednou z následujících vlastností:
 
 tagNPC_SmithA03=Valdrick
-tagStoreTitle_SmithA03=Legion Smith
+tagStoreTitle_SmithA03=Kovář Legionářů
 tagStoreDesc_SmithA03_1={}Poznání nepřítele
-tagStoreDesc_SmithA03_2=Valdrick has studied the enemies of man and learned to counter their strengths through the forge.
+tagStoreDesc_SmithA03_2=Valdrick sledoval a studoval nepřátele lidstva a naučil se vkládat jejich sílu do kovářského řemesla.
 tagStoreDesc_SmithA03_3=
-tagStoreDesc_SmithA03_4=Crafted Weapons, Armor and Accessories are imbued with one of the following properties:
+tagStoreDesc_SmithA03_4=Vytvořené zbraně, zbroj a příslušenství jsou prodchnuty jednou z následujících vlastností:
 
 tagNPC_SmithA04=Horrus
 tagStoreTitle_SmithA04=Padlý kovář
 tagStoreDesc_SmithA04_1={}Dar neživota
-tagStoreDesc_SmithA04_2=Horrus is gifted with centuries of smithing knowledge, bolstered by his rather unique...state of existence.
+tagStoreDesc_SmithA04_2=Horrus je obdarován staletými kovářskými znalostmi, jež jsou posíleny jeho poněkud jedinečným... stavem existence.
 tagStoreDesc_SmithA04_3=
-tagStoreDesc_SmithA04_4=Crafted Weapons, Armor and Accessories are imbued with one of the following properties:
+tagStoreDesc_SmithA04_4=Vytvořené zbraně, zbroj a příslušenství jsou prodchnuty jednou z následujících vlastností:
 
 tagNPC_SmithA05=Bratr Galvin
 tagStoreTitle_SmithA05=Kymonův kovář
 tagStoreDesc_SmithA05_1={}Posvěcení Empyrionem
-tagStoreDesc_SmithA05_2=Galvin's work is considered sacred, his hammer guided by the will of Empyrion himself.
+tagStoreDesc_SmithA05_2=Galvinova práce je považována za posvátnou, jeho kladivo řídí sám Empyrion.
 tagStoreDesc_SmithA05_3=
-tagStoreDesc_SmithA05_4=Crafted Weapons, Armor and Accessories are imbued with one of the following properties:
+tagStoreDesc_SmithA05_4=Vytvořené zbraně, zbroj a příslušenství jsou prodchnuty jednou z následujících vlastností:
 
 
 #Faction Quartermasters
