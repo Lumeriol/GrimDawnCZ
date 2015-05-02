@@ -1,9 +1,9 @@
 #CreatureAllSurvivors
 
-tagSurvivorGuardGenericRangedA01=Přeživší ~ Zvěd
-tagSurvivorGuardGenericRangedB01=Přeživší ~ Vyzyvatel
-tagSurvivorGuardGenericMeleeA01=Přeživší ~ Obránce
-tagSurvivorGuardGenericMeleeB01=Přeživší ~ Strážce
+tagSurvivorGuardGenericRangedA01=Přeživší ~ zvěd
+tagSurvivorGuardGenericRangedB01=Přeživší ~ vyzyvatel
+tagSurvivorGuardGenericMeleeA01=Přeživší ~ obránce
+tagSurvivorGuardGenericMeleeB01=Přeživší ~ strážce
 
 tagHumanRover_GuardGeneric_MeleeA01=Tulácký vymahač
 
@@ -11,20 +11,20 @@ tagBlackLegion_GuardMeleeA01=Pěšák Černé legie
 tagBlackLegion_GuardRangedA01=Střelec Černé legie
 
 tagBlackLegion_MeleeA01=Stoupenec Černé legie
-tagBlackLegion_RangedA01=Zaměřovač Černé legie
+tagBlackLegion_RangedA01=OStrostřelec Černé legie
 tagBlackLegion_CasterB01=Bojový čaroděj Černé legie
 tagBlackLegion_ChampionC01=Kapitán Černé legie
 
-tagNecromancer_CasterA01=Zelenáč Řádu Smrtícího bdění
-tagNecromancer_CasterB01=Pomocník Řádu Smrtícího bdění
-tagNecromancer_ChampionC01=Pán děsu Řádu Smrtícího bdění
+tagNecromancer_CasterA01=Zelenáč Řádu Strážců smrti
+tagNecromancer_CasterB01=Pomocník Řádu Strážců smrti
+tagNecromancer_ChampionC01=Pán děsu Řádu Strážců smrti
 tagNecromancer_Boss01=Master Ravok, Smrtící našeptávač
-tagNecromancer_Boss02=Malkadarr, šampión Řádu Smrtícího bdění
+tagNecromancer_Boss02=Malkadarr, šampión Řádu Strážců smrti
 
-tagZealot_MeleeA01=Zélóta z Kymonových vyvolených
-tagZealot_RangedA01=Zélóta z Kymonových vyvolených
-tagZealot_CasterB01=Hasič plamenů z Kymonových vyvolených
-tagZealot_ChampionC01=Ostrá panna z Kymonových vyvolených
+tagZealot_MeleeA01=Zélóta Kymonových vyvolených
+tagZealot_RangedA01=Střelecký zélóta Kymonových vyvolených
+tagZealot_CasterB01=Žhář Kymonových vyvolených
+tagZealot_ChampionC01=Ostrá panna Kymonových vyvolených
 tagZealot_AncestralSpirit=Rodový duch
 
 #CreatureAetherial
@@ -37,14 +37,14 @@ tagWindDevil_PoisonA01=Ďábel s jedovatým dechem
 tagAetherObeliskA01=Aetherianský obelisk
 tagAetherObeliskB01=Aetherianský původní obyvatel
 
-tagBossAetherObelisk01=Nositel plamenů
+tagBossAetherObelisk01=Plamenný posel
 
 tagEnemyAetherialA01=Aetherianský hlídač
 tagEnemyAetherialB01=Aetherianský přízrak
 tagEnemyAetherialC01=Aetherianské zjevení
 
 tagEnemyAetherialAbominationB01=Aetherická ohavnost
-tagEnemyAetherialAbominationC01=Smíšený děs
+tagEnemyAetherialAbominationC01=Splývající ďas
 
 tagAetherialAbominationBoss01=Sloučenina
 
@@ -54,12 +54,12 @@ tagEnemyBoarA01=Kamenošpičák
 tagEnemyBoarA02=Gigantický kamenošpičák
 tagEnemyBoarB01=Železitý kamenošpičák
 
-tagBoarHeroH01=Dreadtusk, Zhouba lovců
-tagBoarHeroH02=Ragesnout ~ Hbitý
-tagBoarHeroH03=Hellmane ~ Hořící
-tagBoarHeroH04=Rotmane ~ Nemocný
-tagBoarHeroH05=Aetherean ~ Zkažený
-tagBoarHeroH06=Riftsnout ~ Dotčený Prázdnotou
+tagBoarHeroH01=Dreadtusk, zhouba lovců
+tagBoarHeroH02=Ragesnout ~ hbitý
+tagBoarHeroH03=Hellmane ~ hořící
+tagBoarHeroH04=Rotmane ~ nemocný
+tagBoarHeroH05=Aetherean ~ zkažený
+tagBoarHeroH06=Riftsnout ~ dotčený Prázdnotou
 
 
 #CreatureBoneRat
@@ -74,12 +74,12 @@ tagEnemyBoneRatMeleeB02_Summon=Halionova mrňavá krysa
 
 tagBoneRatHeroH01=Maledictus
 tagBoneRatHeroH02=Razorback
-tagBoneRatHeroH03=Rotbite ~ Nemocný
-tagBoneRatHeroH04=Bilewart ~ Hbitý
-tagBoneRatHeroH05=Rimeclaw ~ Zmrzlý
-tagBoneRatHeroH06=Wrathclaw ~ Zkažený
+tagBoneRatHeroH03=Rotbite ~ nemocný
+tagBoneRatHeroH04=Bilewart ~ hbitý
+tagBoneRatHeroH05=Rimeclaw ~ zmrzlý
+tagBoneRatHeroH06=Wrathclaw ~ zkažený
 
-tagBoneRatMiniBoss01=Grundleplith Chamtivec
+tagBoneRatMiniBoss01=Chamtivec Grundleplith
 
 #CreatureCelestial
 
@@ -90,29 +90,29 @@ tagEnemyCelestial_QuestA01=Nebeský předmět
 
 tagEnemyChthonianMinionA01=Chthonský posel
 tagEnemyChthonianMinionB01=Chthonský rozsévač krve
-tagEnemyChthonianMinionC01=Chthonský přenašeč plísně
+tagEnemyChthonianMinionC01=Chthonský zkázonos
 
 tagChthonianMinionHeroH01=Charn'Daroth
 tagChthonianMinionHeroH02=Elnar'Daroth
 tagChthonianMinionHeroH03=Fos'Daroth
 tagChthonianMinionHeroH04=Ordran'Daroth
 tagChthonianMinionHeroH05=Pulv'Daroth
-tagChthonianMinionHeroH06=Maga'Lugal ~ Obránce
-tagChthonianMinionHeroH07=Sharanatu ~ Chráněnec
+tagChthonianMinionHeroH06=Maga'Lugal ~ obránce
+tagChthonianMinionHeroH07=Sharanatu ~ chráněnec
 
 #CreatureChthonianFiend
 
-tagEnemyVoidFiendA01=Marnivý zloduch
+tagEnemyVoidFiendA01=Ďas Prázdnoty
 tagEnemyVoidFiendA02=Anomálie Prázdnoty
 tagEnemyVoidFiendC01=Ohavnost Prázdnoty
 
-tagVoidFiendHeroH01=Innugaru, Zděšení Prázdnoty
-tagVoidFiendHeroH02=Hiln'Raz, Temná věštba
-tagVoidFiendHeroH03=Sen'Thel Nositel Prázdnoty
-tagVoidFiendHeroH04=Nii'Thel ~ Rváč
-tagVoidFiendHeroH05=Gurgoth'Siin ~ Hořící
+tagVoidFiendHeroH01=Innugaru, zděšení Prázdnoty
+tagVoidFiendHeroH02=Hiln'Raz Temná věštba
+tagVoidFiendHeroH03=Sen'Thel ~ nositel Prázdnoty
+tagVoidFiendHeroH04=Nii'Thel ~ rváč
+tagVoidFiendHeroH05=Gurgoth'Siin ~ hořící
 
-tagVoidFiendBoss01=Ballog'Nath, Pekelný oheň
+tagVoidFiendBoss01=Ballog'Nath Pekelný oheň
 
 #CreatureChthonianDevourer
 
@@ -134,13 +134,13 @@ tagEnemyDrangoulWarriorB01=Dranghoulský tyran
 tagDranghoulMiniBoss01=Střevní červ, požírač lidí
 tagDranghoulMiniBoss02=Nelítostný chlemtač krve
 
-tagDranghoulHeroH01=Ralture, Nedotknutelný
+tagDranghoulHeroH01=Ralture, nedotknutelný
 tagDranghoulHeroH02=Rugaru, mistr psů
-tagDranghoulHeroH03=Ooglar ~ Nezastavitelný
-tagDranghoulHeroH04=Reeve ~ Hořící
-tagDranghoulHeroH05=Wovaar ~ Zmrzlý
-tagDranghoulHeroH06=Ravadaar ~ Zkažený
-tagDranghoulHeroH07=Vinaldaar ~ Dotčený Prázdnotou
+tagDranghoulHeroH03=Ooglar ~ nezastavitelný
+tagDranghoulHeroH04=Reeve ~ hořící
+tagDranghoulHeroH05=Wovaar ~ zmrzlý
+tagDranghoulHeroH06=Ravadaar ~ zkažený
+tagDranghoulHeroH07=Vinaldaar ~ dotčený Prázdnotou
 
 #CreatureFleshHulk
 
@@ -149,22 +149,22 @@ tagEnemyFleshHulkB01=Železný hromotluk
 tagEnemyFleshHulkC01=Vzteklý hromotluk
 
 tagFleshHulkHeroH01=Lamač kostí
-tagFleshHulkHeroH02=Faldonir Aetherborn
-tagFleshHulkHeroH03=Malnotris ~ Nezastavitelný
-tagFleshHulkHeroH04=Festerlis ~ Rváč
+tagFleshHulkHeroH02=Faldonir, z Aetheru zrozený
+tagFleshHulkHeroH03=Malnotris ~ nezastavitelný
+tagFleshHulkHeroH04=Festerlis ~ rváč
 
 #CreatureGazer
 
 tagEnemyGazerA01=Záškodník
-tagEnemyGazerB01=Dozorce
+tagEnemyGazerB01=Hlídač
 tagEnemyGazerC01=Lovec myšlenek
 
 tagGazerHeroH01=Mesmer
-tagGazerHeroH02=Bane'Zal, z pekla zrozený
-tagGazerHeroH03=Darlax, Požírač snů
-tagGazerHeroH04=Beholdan ~ Zrcadlící
-tagGazerHeroH05=Garminix ~ Obnovitel
-tagGazerHeroH06=Illumin ~ Elektrizovaný
+tagGazerHeroH02=Bane'Zal, v pekle zrozený
+tagGazerHeroH03=Darlax, požírač snů
+tagGazerHeroH04=Beholdan ~ zrcadlící
+tagGazerHeroH05=Garminix ~ obnovitel
+tagGazerHeroH06=Illumin ~ elektrizovaný
 
 #CreatureGhost
 
@@ -172,33 +172,33 @@ tagEnemyGhostA01=Zjevení
 tagEnemyGhostB01=Strašidelný šlechtic
 tagEnemyGhostB02=Strašidelný šampión
 
-tagHeroGhostH01=Lady Valavan, Putující duše
-tagHeroGhostH02=Lord Blacktail ~ Zrcadlící
-tagHeroGhostH03=Lady Rosenthal ~ Obnovitelka
-tagHeroGhostH04=Stormshriek ~ Elektrizovaný
-tagHeroGhostH05=Lord Oldrakan ~ Rychlý
-tagHeroGhostH06=Aetherwraith ~ Zkažený
+tagHeroGhostH01=Lady Valavan, toulavá duše
+tagHeroGhostH02=Lord Blacktail ~ zrcadlící
+tagHeroGhostH03=Lady Rosenthal ~ obnovitelka
+tagHeroGhostH04=Stormshriek ~ elektrizovaný
+tagHeroGhostH05=Lord Oldrakan ~ rychlý
+tagHeroGhostH06=Aetherwraith ~ zkažený
 
 tagGhostBoss01=Baron Wradlith, Pán ztracených duší
 tagGhostBoss02=Nomos Dred
 tagGhostBoss03=Laudos Vagra
 tagGhostBoss04=Rhovena Kur
-tagGhostBoss05=Alkamos, Vykonavatel spravedlnosti
+tagGhostBoss05=Alkamos, vykonavatel spravedlnosti
 tagGhostBoss06=Smuteční přízrak
 
 #CreatureGolem
 
-tagEnemyGolemRockA01=Hliněný louda
-tagEnemyGolemRockB01=Mechem obrostlý louda
-tagEnemyGolemRockC01=Kamenem tepaný louda
-tagEnemyGolemRockMiniBoss01=Starodávný louda
+tagEnemyGolemRockA01=Hliněný strážce lesa
+tagEnemyGolemRockB01=Mechem obrostlý strážce lesa
+tagEnemyGolemRockC01=Kamenitý strážce lesa
+tagEnemyGolemRockMiniBoss01=Pradávný strážce lesa
 
 tagGolemRockHeroH01=Hammerton
-tagGolemRockHeroH02=Haldras Plivač plamenů
-tagGolemRockHeroH03=Stoneheart ~ Zrcadlící
-tagGolemRockHeroH04=Stonegrinder ~ Dobíječ
-tagGolemRockHeroH05=Rimestone ~ Zmrzlý
-tagGolemRockHeroH06=Voidstone ~ Dotčený Prázdnotou
+tagGolemRockHeroH02=Haldras, plivač plamenů
+tagGolemRockHeroH03=Stoneheart ~ zrcadlící
+tagGolemRockHeroH04=Stonegrinder ~ dobíječ
+tagGolemRockHeroH05=Rimestone ~ zmrzlý
+tagGolemRockHeroH06=Voidstone ~ dotčený Prázdnotou
 
 #CreatureGrobles
 
@@ -245,48 +245,48 @@ tagEnemyDeathClanShamanB01=Grobl ~ vrhač kostí klanu Žhavého popela
 
 tagGrobleShamanHeroH01=Deshigu ~ Mrazivé prokletí
 tagGrobleShamanHeroH02=Nabinok
-tagGrobleShamanHeroH03=Nirlamnack ~ Zrcadlící
-tagGrobleHeroH01=Torgru, Plamenem dotčený
-tagGrobleHeroH02=Arbagol, Noha
-tagGrobleHeroH03=Uldagu ~ Požírač plamenů
-tagGrobleHeroH04=Molbagdal ~ Vyvolavač bouří
-tagGrobleHeroH05=Holborack ~ Obránce
+tagGrobleShamanHeroH03=Nirlamnack ~ zrcadlící
+tagGrobleHeroH01=Torgru, popálený
+tagGrobleHeroH02=Arbagol Nožička
+tagGrobleHeroH03=Uldagu ~ požírač plamenů
+tagGrobleHeroH04=Molbagdal ~ vyvolavač bouří
+tagGrobleHeroH05=Holborack ~ obránce
 
 #Harpy
 
-tagEnemyHarpyA01=Harpyje ~ Trhačka masa
-tagEnemyHarpyB01=Harpyje ~ Smrtící vichřice
-tagEnemyHarpyC01=Harpyje ~ Prokletá veštkyně
+tagEnemyHarpyA01=Harpyje ~ trhačka masa
+tagEnemyHarpyB01=Harpyje ~ smrtící vichřice
+tagEnemyHarpyC01=Harpyje ~ prokletá veštkyně
 
-tagHarpyHeroH01=Malexna, Přadlena bouří
-tagHarpyHeroH02=Blazewing
-tagHarpyHeroH03=Tyrronax, Velký hlídač
-tagHarpyHeroH04=Scyliss, Bouří dotčená ~ Elektrizovaná
-tagHarpyHeroH05=Holdrexna, Větrná chodkyně ~ Rychlá
-tagHarpyHeroH06=Wrathwing ~ Zkažená
+tagHarpyHeroH01=Malexna, přadlena bouří
+tagHarpyHeroH02=Plamenná letka
+tagHarpyHeroH03=Tyrronax, velký hlídač
+tagHarpyHeroH04=Scyliss, bouří dotčená ~ elektrizující
+tagHarpyHeroH05=Holdrexna Větrná chodkyně ~ Rychlá
+tagHarpyHeroH06=Přízračná letka ~ Zkažená
 
-tagHarpyBossB01=Zhýralá Lutra
+tagHarpyBossB01=Lutra, opuštěná dcera
 
 #CreatureHarvestman
 
 tagEnemyHarvestmanA01=Strašidelný strašák
 tagEnemyHarvestmanB01=Strašidelný sekáč
 
-tagHarvestmanHeroH01=Nemedian, Žnec
-tagHarvestmanHeroH02=Effigus, Zamořený
-tagHarvestmanHeroH03=Asper ~ Rychlý
-tagHarvestmanHeroH04=Crowfiend ~ Rváč
+tagHarvestmanHeroH01=Nemedian, žnec
+tagHarvestmanHeroH02=Effigus, zamořený
+tagHarvestmanHeroH03=Asper ~ rychlý
+tagHarvestmanHeroH04=Crowfiend ~ rváč
 
 #CreatureHuman
 
-tagEnemyBloodswornA01=Krvepřísežník pochlebovač
-tagEnemyBloodswornB01=Krvepřísežník fanatik
-tagEnemyBloodswornC01=Krvepřísežník kněz
+tagEnemyBloodswornA01=Krvepřísežník ~ pochlebovač
+tagEnemyBloodswornB01=Krvepřísežník ~ fanatik
+tagEnemyBloodswornC01=Krvepřísežník ~ kněz
 
-tagHumanCultistHeroH01=Julius Crowley, Vysávač mysli
-tagEnemyBloodswornMiniBoss01=Salazar, Čepel Ch'thona
-tagEnemyBloodswornMiniBoss02=Bolvar, Vazač krve
-tagEnemyBloodswornMiniBoss03=Zaria, Řezbář
+tagHumanCultistHeroH01=Julius Crowley, vysávač mysli
+tagEnemyBloodswornMiniBoss01=Salazar, čepel Ch'thona
+tagEnemyBloodswornMiniBoss02=Bolvar, vazač krve
+tagEnemyBloodswornMiniBoss03=Zaria Řezbář
 tagBloodswornBoss01=Pán krve Thalonis
 tagBloodswornBoss02=Karroz, pečetitel Ch'thona
 
@@ -327,18 +327,18 @@ tagHumanOutlawHeroH01=Leander "Černovoda" Greene
 tagHumanHeroH01=Krvavý Jack
 tagHumanHeroH02=Černooký Delnar
 tagHumanHeroH03=Zuřivec Hudson
-tagHumanHeroH04=Nadra, Stín
-tagHumanHeroH05=Serul Shadesong
-tagHumanHeroH06=Wiley, Mrskač ~ Rychlý
-tagHumanHeroH07=Everett, Krvavý pes ~ Planoucí
+tagHumanHeroH04=Stínový Nadra
+tagHumanHeroH05=Serul, zpěvák ve stínu
+tagHumanHeroH06=Wiley Mrskač ~ rychlý
+tagHumanHeroH07=Krvavý pes Everett ~ planoucí
 tagHumanHeroH08=Jednooký Dred
-tagHumanHeroH09=Meric Aetherem dotčený ~ Dobíječ
-tagHumanHeroH10=Eldon "Hadí kůže" ~ Obnovitel
+tagHumanHeroH09=Meric, Aetherem dotčený ~ dobíječ
+tagHumanHeroH10=Eldon "Hadí kůže" ~ obnovitel
 
 tagHumanBoss01="Zazobanec" Martin
 tagHumanBoss02=Halion "Krysa"
 tagHumanBoss03=Nicholas Balthazar
-tagHumanBoss04=Boris, Mistr jámy
+tagHumanBoss04=Boris, mistr jámy
 
 tagHumanRoverA_A01=Tulák
 tagHumanRoverA_B01=Toulavý průzkumník
@@ -353,9 +353,9 @@ tagHumanPossessedC01=Posedlý arcimág
 
 tagHumanPossessedHeroH01=Allaris Starfire
 tagHumanPossessedHeroH02=Aetherblaze
-tagHumanPossessedHeroH03=Kamladris, Zmrzlé srdce
-tagHumanPossessedHeroH04=Corpus ~ Zrcadlící
-tagHumanPossessedHeroH05=Espiris ~ Pomocník
+tagHumanPossessedHeroH03=Kamladris, zmrzlé srdce
+tagHumanPossessedHeroH04=Corpus ~ zrcadlící
+tagHumanPossessedHeroH05=Espiris ~ pomocník
 
 #CreatureInsectDermapteran
 
@@ -367,15 +367,15 @@ tagEnemyDermapteranC02=Škvor ~ tvůrce
 
 tagEnemySummonWeavilA01=Brouk
 
-tagDermapteranHeroH01=Harpallax, požírač slunce
+tagDermapteranHeroH01=Harpallax, požírač Slunce
 tagDermapteranHeroH02=Corrosinax
 tagDermapteranHeroH03=Wasparex ~ Rychlý
-tagDermapteranHeroH04=Olmarix ~ Elektrizovaný
-tagDermapteranHeroH05=Vildrix ~ Dotčený Prázdnotou
+tagDermapteranHeroH04=Olmarix ~ elektrizující
+tagDermapteranHeroH05=Vildrix ~ dotčený Prázdnotou
 
 tagDermapteranBoss01=Velký vezír Lozakal
 tagDermapteranBoss02=Velký vezír Inixil
-tagDermapteranBoss03=Ravna ~ Královna roje
+tagDermapteranBoss03=Ravna ~ královna roje
 tagDermapteranBoss04=Vezír Anoxis, nakažený
 
 #CreatureInsectMosquito
@@ -384,11 +384,11 @@ tagEnemyInsectMosquitoA01=Mirebornský krvožrout
 tagEnemyInsectMosquitoB01=Mirebornský krvavý ďábel
 tagEnemyInsectMosquitoC01=Mirebornská matka rodu
 
-tagInsectMosquitoHeroH01=Vladox, Krví poznamenaný
-tagInsectMosquitoHeroH02=Sarlap ~ Elektrizovaný
-tagInsectMosquitoHeroH03=Jornax, Nenasytný ~ Rychlý
-tagInsectMosquitoHeroH04=Narlax ~ Zkažený
-tagInsectMosquitoHeroH05=Oorlax ~ Dotčený Prázdnotou
+tagInsectMosquitoHeroH01=Vladox, krví poznamenaný
+tagInsectMosquitoHeroH02=Sarlap ~ elektrizující
+tagInsectMosquitoHeroH03=Nenasytný Jornax ~ rychlý
+tagInsectMosquitoHeroH04=Narlax ~ zkažený
+tagInsectMosquitoHeroH05=Oorlax ~ dotčený Prázdnotou
 
 #CreatureInsectWasp
 
@@ -396,16 +396,16 @@ tagEnemyInsectWaspA01=Trubec s jedovatými perutěmi
 tagEnemyInsectWaspB01=Bodač s jedovatými perutěmi
 tagEnemyInsectWaspC01=Královna s jedovatými perutěmi
 
-tagInsectWaspHeroH01=Scarprax, Horečný
-tagInsectWaspHeroH02=Caraprax ~ Obránce
-tagInsectWaspHeroH03=Harprax, Královnina vůle ~ Zastánce
-tagInsectWaspHeroH04=Ralkara ~ Obnovitelka
-tagInsectWaspHeroH05=Folcrax ~ Zmrzlý
-tagInsectWaspHeroH06=Walacrax ~ Zkažený
-tagInsectWaspHeroH07=Ooldacrax ~ Dotčený Prázdnotou
+tagInsectWaspHeroH01=Horečný Scarprax
+tagInsectWaspHeroH02=Caraprax ~ obránce
+tagInsectWaspHeroH03=Harprax, zastánce královniny vůle
+tagInsectWaspHeroH04=Ralkara ~ obnovitel
+tagInsectWaspHeroH05=Folcrax ~ zmrzlý
+tagInsectWaspHeroH06=Walacrax ~ zkažený
+tagInsectWaspHeroH07=Ooldacrax ~ dotčený Prázdnotou
 
-tagInsectWaspBoss01=Ulraprax, Včelí matriarcha
-tagInsectWaspBoss02=Ronaprax, Velká královna
+tagInsectWaspBoss01=Ulraprax, včelí matriarcha
+tagInsectWaspBoss02=Ronaprax, velká královna
 
 #CreatureInsectSwarm
 
@@ -414,25 +414,25 @@ tagEnemyInsectSwarmB01=Morový roj
 
 tagEnemyInsectSwarm_PossessedA01=Posedlý roj
 
-tagInsectSwarmHeroH01=Issk, Myšlenka úlu
-tagInsectSwarmHeroH02=Avarix ~ Elektrizovaný
-tagInsectSwarmHeroH03=Omnol Plíseň ~ Nemocný
+tagInsectSwarmHeroH01=Issk, myslitel úlu
+tagInsectSwarmHeroH02=Avarix ~ elektrizující
+tagInsectSwarmHeroH03=Omnol Plíseň ~ nakažený
 
 #CreatureManticores
 
 tagEnemyManticoreA01=Bělohřívnatá mantikora
 tagEnemyManticoreA02=Černohřívnatá mantikora
-tagEnemyManticoreB01=Mantikoří marnivý stopař
+tagEnemyManticoreB01=Mantikoří odpadkář
 tagEnemyManticoreB02=Mantikoří noční stopař
 tagEnemyManticoreC01=Mantikoří alfa samec
 
 
-tagManticoreHeroH01=Raxa, Nefritová lovkyně
-tagManticoreHeroH02=Neleron, Oko smrti
-tagManticoreHeroH03=Ar'kall, Černé srdce
-tagManticoreHeroH04=Uroxis Swiftclaw ~ Rychlý
-tagManticoreHeroH05=Waroxis Crimsonclaw ~ Rváč
-tagManticoreHeroH06=Blazara Požárnice
+tagManticoreHeroH01=Raxa, nefritová lovkyně
+tagManticoreHeroH02=Neleron Oko smrti
+tagManticoreHeroH03=Ar'kall Černé srdce
+tagManticoreHeroH04=Uroxis Rychlý dráp ~ rychlý
+tagManticoreHeroH05=Waroxis Rudý dráp ~ rváč
+tagManticoreHeroH06=Žhář Blazara
 
 tagManticoreBoss01=Mogara, Velká matriarcha
 
@@ -442,11 +442,11 @@ tagEnemyObsidianDefilerA01=Obsidiánový břídil
 tagEnemyObsidianDefilerB01=Obsidiánový znečišťovatel
 tagEnemyObsidianDefilerC01=Obsidiánový vyhlazovač
 
-tagObsidianDefilerHeroH01=Obsidius, Titán
-tagObsidianDefilerHeroH02=Ch'thallis, Uchvatitel
-tagObsidianDefilerHeroH03=Kelphat'Idoth ~ Elektrizovaný
-tagObsidianDefilerHeroH04=Orudin'Idoth ~ Zmrzlý
-tagObsidianDefilerHeroH05=Drygol'Ukog ~ Dobíječ
+tagObsidianDefilerHeroH01=Obsidius, titán
+tagObsidianDefilerHeroH02=Ch'thallis, uchvatitel
+tagObsidianDefilerHeroH03=Kelphat'Idoth ~ elektrizující
+tagObsidianDefilerHeroH04=Orudin'Idoth ~ zmrzlý
+tagObsidianDefilerHeroH05=Drygol'Ukog ~ dobíječ
 
 #CreaturePrawns
 
@@ -455,50 +455,50 @@ tagEnemyPrawnA02=Žlučovitý kreverak
 tagEnemyPrawnB01=Nabitý kreverak
 tagEnemyPrawnB02=Ostnosrstý kreverak
 tagEnemyPrawnC01=Morový kreverak
-tagEnemyPrawnSummonA01=Kreverak ~ Jeden z mnoha
+tagEnemyPrawnSummonA01=Kreverak ~ jeden z mnoha
 
-tagEnemyCavePrawnA01=Vybledlý jeskynní podlézavec
-tagEnemyCavePrawnA02=Terrorspark Cavern Crawler
-tagEnemyCavePrawnB01=Jeskynní patolízal - albín
-tagEnemyCavePrawnC01=Bursting Cavern Crawler
-tagEnemyCavePrawnSummonA01=Swarming Cavern Crawler
+tagEnemyCavePrawnA01=Vybledlý jeskynní plazivec
+tagEnemyCavePrawnA02=Strach vzbuzující jeskynní plazivec
+tagEnemyCavePrawnB01=Jeskynní plazivec - albín
+tagEnemyCavePrawnC01=Jeskynní plazivec - pukavec
+tagEnemyCavePrawnSummonA01=Vyrojený jeskynní plazivec
 
-tagPrawnHeroH01=Ravacrix, Hladový
-tagPrawnHeroH02=Palacrix, Starodávný
-tagPrawnHeroH03=Velacrix, Přenašeč moru
-tagPrawnHeroH04=Elcrix ~ Elektrizovaný
-tagPrawnHeroH05=Flocrix ~ Spalující
+tagPrawnHeroH01=Hladový Ravacrix
+tagPrawnHeroH02=Starodávný Palacrix
+tagPrawnHeroH03=Velacrix, přenašeč moru
+tagPrawnHeroH04=Elcrix ~ elektrizující
+tagPrawnHeroH05=Flocrix ~ spalující
 
 tagCavePrawnHeroH01=Terrocrix
-tagCavePrawnHeroH02=Chiricrix ~ Frozen
-tagCavePrawnHeroH03=Blucrix ~ Defender
+tagCavePrawnHeroH02=Chiricrix ~ zmrzlý
+tagCavePrawnHeroH03=Blucrix ~ obránce
 
-tagCavePrawnBoss01=Ikrix, the Ravener
+tagCavePrawnBoss01=Ikrix Krkavec
 
 #CreatureRaptor
 
-tagEnemyRaptorA_JuvenileA01=Mrchožravý raptor ~ Mládě
-tagEnemyRaptorA_MeleeA01=Mrchožravý raptor ~ Lovec
-tagEnemyRaptorA_RangedA01=Mrchožravý raptor ~ Pískle
-tagEnemyRaptorA_ChampionA01=Mrchožravý raptor ~ Pán zmijí
+tagEnemyRaptorA_JuvenileA01=Mrchožravý raptor ~ mládě
+tagEnemyRaptorA_MeleeA01=Mrchožravý raptor ~ lovec
+tagEnemyRaptorA_RangedA01=Mrchožravý raptor ~ pískle
+tagEnemyRaptorA_ChampionA01=Mrchožravý raptor ~ pán zmijí
 
-tagEnemyRaptorB_JuvenileA01=Větrný raptor ~ Mladistvý
-tagEnemyRaptorB_MeleeA01=Větrný raptor ~ Slídil
-tagEnemyRaptorB_RangedA01=Větrný raptor ~ Atentátník
-tagEnemyRaptorB_ChampionA01=Větrný raptor ~ Pán nebes
+tagEnemyRaptorB_JuvenileA01=Větrný raptor ~ mladistvý
+tagEnemyRaptorB_MeleeA01=Větrný raptor ~ slídil
+tagEnemyRaptorB_RangedA01=Větrný raptor ~ atentátník
+tagEnemyRaptorB_ChampionA01=Větrný raptor ~ pán nebes
 
 tagRaptorHeroH01=Roztržená duše
 tagRaptorHeroH02=Aragonax, požírač duší
-tagRaptorHeroH03=Baldim, Nositel chaosu
-tagRaptorHeroH04=Bonesnarl ~ Nezastavitelný
-tagRaptorHeroH05=Idran, Anomálie ~ Obnovitel
-tagRaptorHeroH06=Balra ~ Dotčená Prázdnotou
+tagRaptorHeroH03=Baldim, nositel chaosu
+tagRaptorHeroH04=Bonesnarl ~ nezastavitelný
+tagRaptorHeroH05=Idran Anomálie  ~ obnovitel
+tagRaptorHeroH06=Balra ~ dotčená Prázdnotou
 
 #CreatureRiftHound
 
 tagEnemyRiftHoundA01=Trhající fena
-tagEnemyRiftHoundB01=Trhající fena ~ Perlička
-tagEnemyRiftHoundC01=Trhající fena ~ Blankytná matriarcha
+tagEnemyRiftHoundB01=Trhající fena ~ perlička
+tagEnemyRiftHoundC01=Trhající fena ~ blankytná matriarcha
 
 tagEnemyPlanesHoundA01=Plochý pes
 tagEnemyPlanesHoundB01=Plochý pes ~ Vůdce smečky
@@ -508,10 +508,10 @@ tagEnemyVoidHoundB01=Zmatečný pes ~ Vůdce smečky
 
 tagRiftHoundHeroH01=Charrus
 tagRiftHoundHeroH02=Pán moru
-tagRiftHoundHeroH03=Voidrage
-tagRiftHoundHeroH04=Wolvin, Pekelník
-tagRiftHoundHeroH05=Jarlax, Hněv z bažin ~ Nabíječ
-tagRiftHoundHeroH06=Garn, Lovec smečky ~ Obránce
+tagRiftHoundHeroH03=Hněv Prázdnoty
+tagRiftHoundHeroH04=Pekelník Wolvin
+tagRiftHoundHeroH05=Jarlax, Hněv z bažin ~ nabíječ
+tagRiftHoundHeroH06=Garn, lovec smečky ~ obránce
 
 #CreatureScavenger
 
@@ -519,32 +519,32 @@ tagEnemyScavengerA01=Mrchožrout
 tagEnemyScavengerB01=Horečný mrchožrout
 tagEnemyScavengerC01=Mrchožrout alfa samec
 
-tagScavengerHeroH01=Zjizvený rypák, Kanibal
+tagScavengerHeroH01=Zjizvený rypák, kanibal
 tagScavengerHeroH02=Krvavý dráp
-tagScavengerHeroH03=Bledá hříva, Ohromený
-tagScavengerHeroH04=Ernol Mrchožravý ~ Nemocný
-tagScavengerHeroH05=Rudý chvost ~ Stoupenec
-tagScavengerHeroH06=Rav ~ Dotčený Prázdnotou
+tagScavengerHeroH03=Bledá hříva, ochromující
+tagScavengerHeroH04=Mrchožravý Ernol ~ nakažený
+tagScavengerHeroH05=Rudý chvost ~ stoupenec
+tagScavengerHeroH06=Rav ~ dotčený Prázdnotou
 
 #CreatureShadowman
 
 tagEnemyShadowmanA01=Muž stínů
-tagEnemyShadowmanB01=Muž stínů ~ Podvodník
-tagEnemyShadowmanC01=Muž stínů ~ Představitel
+tagEnemyShadowmanB01=Muž stínů ~ podvodník
+tagEnemyShadowmanC01=Muž stínů ~ představitel
 
 #CreatureSkeletal Golem
 
 tagEnemySkeletalGolemB01=Kosterní kolos
 tagEnemySkeletalGolemC01=Kosterní zrůdnost
 
-tagSkeletalGolemHeroH01=Grulgor, Trýznitel ~ Nemocný
-tagSkeletalGolemHeroH02=Falgarr, Ledový pozorovatel ~ Zmrzlý
-tagSkeletalGolemHeroH03=Bralgarr, Plamenný pozorovatel ~ Hořící
-tagSkeletalGolemHeroH04=Wralgarr, Aetherem dotčený ~ Zkažený
-tagSkeletalGolemHeroH05=Olagarr, Nositel chaosu ~ Dotčený Prázdnotou
+tagSkeletalGolemHeroH01=Trýznitel Grulgor ~ nakažený
+tagSkeletalGolemHeroH02=Ledový pozorovatel Falgarr ~ zmrzlý
+tagSkeletalGolemHeroH03=Plamenný pozorovatel Bralgarr ~ hořící
+tagSkeletalGolemHeroH04=Wralgarr, Aetherem dotčený ~ zkažený
+tagSkeletalGolemHeroH05=Tvůrce chaosu Olagarr ~ dotčený Prázdnotou
 
 
-tagSkeletalGolemBossB01=Ilgorr, Věčný
+tagSkeletalGolemBossB01=Věčný Ilgorr
 
 #CreatureSkeleton
 
@@ -559,12 +559,12 @@ tagEnemySkeletonC02=Mrazivý přízrak
 tagEnemySkeletonC03=Bouřný přízrak
 tagEnemySkeletonC04=Smrtící přízrak
 
-tagSkeletonHeroH01=Tenebris, Opilý krví
+tagSkeletonHeroH01=Tenebris, opilý krví
 tagSkeletonHeroH02=Balrazar, Dreegův věčný sluha
-tagSkeletonHeroH03=Lord Harris, Zatracený
-tagSkeletonHeroH04=Hellwraith ~ Hořící
-tagSkeletonHeroH05=Lord Alistar Hernsworth ~ Odrážející
-tagSkeletonHeroH06=Chillheart ~ Zmrzlý
+tagSkeletonHeroH03=Lord Harris, zatracený
+tagSkeletonHeroH04=Hellwraith ~ hořící
+tagSkeletonHeroH05=Lord Alistar Hernsworth ~ odrážející
+tagSkeletonHeroH06=Chladné srdce ~ zmrzlý
 
 tagSkeletonBoss01=Kilrian, Poskvrněná duše
 tagSkeletonBoss02=Velký kněz Zarthuzellan
@@ -579,37 +579,37 @@ tagGravestone_Skeleton03=Ryan
 
 tagEnemyDeepMire_SlithWarriorA01=Válečník Hlubokých močálů
 tagEnemyDeepMire_SlithWarriorB01=Předsunutá hlídka Hlubokých močálů
-tagEnemyDeepMire_SlithWarriorC01=Šampión z Hlubokých močálů
-tagEnemyDeepMire_SlithShamanB01=Šaman z Hlubokých močálů
-tagEnemyDeepMire_SlithShamanC01=Zaříkávač z Hlubokých močálů
+tagEnemyDeepMire_SlithWarriorC01=Šampión Hlubokých močálů
+tagEnemyDeepMire_SlithShamanB01=Šaman Hlubokých močálů
+tagEnemyDeepMire_SlithShamanC01=Zaříkávač Hlubokých močálů
 
-tagEnemyVenomtongue_SlithWarriorA01=Válečník z Jedovatých jazyků
-tagEnemyVenomtongue_SlithWarriorB01=Předsunutá hlídka z Jedovatých jazyků
-tagEnemyVenomtongue_SlithWarriorC01=Šampión z Jedovatých jazyků
-tagEnemyVenomtongue_SlithShamanB01=Šaman z Jedovatých jazyků
-tagEnemyVenomtongue_SlithShamanC01=Zaříkávač z Jedovatých jazyků
+tagEnemyVenomtongue_SlithWarriorA01=Válečník Jedovatých jazyků
+tagEnemyVenomtongue_SlithWarriorB01=Předsunutá hlídka Jedovatých jazyků
+tagEnemyVenomtongue_SlithWarriorC01=Šampión Jedovatých jazyků
+tagEnemyVenomtongue_SlithShamanB01=Šaman Jedovatých jazyků
+tagEnemyVenomtongue_SlithShamanC01=Zaříkávač Jedovatých jazyků
 
-tagEnemyBloodscale_SlithWarriorA01=Válečník z Krvavých šupin
-tagEnemyBloodscale_SlithWarriorB01=Předsunutá hlídka z Krvavých šupin
-tagEnemyBloodscale_SlithWarriorC01=Šampión z Krvavých šupin
-tagEnemyBloodscale_SlithShamanB01=Šaman z Krvavých šupin
-tagEnemyBloodscale_SlithShamanC01=Zaříkávač z Krvavých šupin
+tagEnemyBloodscale_SlithWarriorA01=Válečník Krvavých šupin
+tagEnemyBloodscale_SlithWarriorB01=Předsunutá hlídka Krvavých šupin
+tagEnemyBloodscale_SlithWarriorC01=Šampión Krvavých šupin
+tagEnemyBloodscale_SlithShamanB01=Šaman Krvavých šupin
+tagEnemyBloodscale_SlithShamanC01=Zaříkávač Krvavých šupin
 
 tagSlithHeroH01=Igrixx, Zjihlé srdce
 tagSlithHeroH02=Jaron, Pán bouře
 tagSlithHeroH03=Lorkhan, Pán hlubin
-tagSlithHeroH04=Farnlan, Hnusný ~ Nezastavitelný
-tagSlithHeroH05=Eidonax ~ Rychlý
-tagSlithHeroH06=Avaladran ~ Zkažený
+tagSlithHeroH04=Hnusný Farnlan ~ nezastavitelný
+tagSlithHeroH05=Eidonax ~ rychlý
+tagSlithHeroH06=Avaladran ~ zkažený
 
-tagSlithBossB01=Viloth, Narušitel
-tagSlithBossB02=Primordian, Zapomenutý
+tagSlithBossB01=Viloth Narušitel
+tagSlithBossB02=Zapomenutý Primordian
 
-tagEnemyMurkTide_SlithWarriorA01=Válečník z Temných proudů
-tagEnemyMurkTide_SlithWarriorB01=Předsunutá hlídka z Temných proudů
-tagEnemyMurkTide_SlithWarriorC01=Šampion z Temných proudů
-tagEnemyMurkTide_SlithShamanB01=Šaman z Temných proudů
-tagEnemyMurkTide_SlithShamanC01=Zaříkávač z Temných proudů
+tagEnemyMurkTide_SlithWarriorA01=Válečník Temných proudů
+tagEnemyMurkTide_SlithWarriorB01=Předsunutá hlídka Temných proudů
+tagEnemyMurkTide_SlithWarriorC01=Šampion Temných proudů
+tagEnemyMurkTide_SlithShamanB01=Šaman Temných proudů
+tagEnemyMurkTide_SlithShamanC01=Zaříkávač Temných proudů
 
 #CreatureSpider
 
@@ -620,12 +620,12 @@ tagEnemySpiderB02=Přadlena děsu ~ vdova
 tagEnemySpiderC01=Přadlena děsu ~ matka rodu
 tagEnemySpiderSummon=Pavoučí mládě
 
-tagSpiderHeroH01=Oldelon, Roztavený
-tagSpiderHeroH02=Raglis, Skokan
-tagSpiderHeroH03=Herna, Strašidelná vdova
-tagSpiderHeroH04=Triinix, Tkadlec
-tagSpiderHeroH05=Larna, Přadlena osudu ~ Chráněnkyně
-tagSpiderHeroH06=Uldina, Matka potomstva ~ Obránkyně
+tagSpiderHeroH01=Roztavený Oldelon
+tagSpiderHeroH02=Skokan Raglis
+tagSpiderHeroH03=Herna, strašidelná vdova
+tagSpiderHeroH04=Tkadlec Triinix
+tagSpiderHeroH05=Larna, přadlena osudu ~ chráněnkyně
+tagSpiderHeroH06=Uldina, matka potomstva ~ obránkyně
 
 #CreatureThornedHorror
 
@@ -662,34 +662,34 @@ tagEnemyTrollHalfB02=Mistbornský válečník
 tagEnemyTrollHalfB03=Mistbornský šaman
 tagEnemyTrollHalfC01=Mistbornský Starší
 
-tagTrollHalfHeroH01=Balarr, Požírač kamení
-tagTrollHalfHeroH02=Paldrak, Podněcovač
-tagTrollHalfHeroH03=Stonetooth ~ Obránce
-tagTrollHalfHeroH04=Elloras, Pořírač slunce ~ Hořící
+tagTrollHalfHeroH01=Balarr, požírač kamení
+tagTrollHalfHeroH02=Paldrak, podněcovač
+tagTrollHalfHeroH03=Stonetooth ~ obránce
+tagTrollHalfHeroH04=Elloras, požírač Slunce ~ hořící
 
 tagEnemyTrollA01=Zlobr z Kamenných bradavic
 tagEnemyTrollB01=Vztekloun z Kamenných bradavic
 tagEnemyTrollC01=Netvor z Kamenných bradavic
 
-tagTrollHeroH01=Uglak, Nesmrtelný
-tagTrollHeroH02=Surrlak, Zeměhybač
-tagTrollHeroH03=Troglak ~ Nezastavitelný
-tagTrollHeroH04=Oldak, Nepříjemný pocit ~ Nemocný
-tagTrollHeroH05=Wontlak ~ Zmrzlý
+tagTrollHeroH01=Nesmrtelný Uglak
+tagTrollHeroH02=Surrlak Zeměhybač
+tagTrollHeroH03=Troglak ~ nezastavitelný
+tagTrollHeroH04=Oldak Nepříjemný pocit ~ nakažený
+tagTrollHeroH05=Wontlak ~ zmrzlý
 
-tagBossTrollB01=Gulgoth, Běsnící
-tagBossTrollB02=Voldrak, Ničitel
+tagBossTrollB01=Běsnící Gulgoth
+tagBossTrollB02=Voldrak Ničitel
 
-tagEnemyTrollCorruptedA01=Zkroucený zlobr
-tagEnemyTrollCorruptedB01=Zkroucený předvoj
-tagEnemyTrollCorruptedB02=Zkroucené smrtící oko
-tagEnemyTrollCorruptedC01=Zkroucený velitel
+tagEnemyTrollCorruptedA01=Pokroucený zlobr
+tagEnemyTrollCorruptedB01=Pokroucený předvoj
+tagEnemyTrollCorruptedB02=Pokroucené smrtící oko
+tagEnemyTrollCorruptedC01=Pokroucený velitel
 
-tagTrollCorruptedHeroH01=Sulkarr, Bleskem zasažený
+tagTrollCorruptedHeroH01=Sulkarr, bleskem zasažený
 tagTrollCorruptedHeroH02=Děsivý Horcris
 tagTrollCorruptedHeroH03=Corruptis
-tagTrollCorruptedHeroH04=Caladrak ~ Nezastavitelný
-tagTrollCorruptedHeroH05=Faldrak ~ Odrážející
+tagTrollCorruptedHeroH04=Caladrak ~ nezastavitelný
+tagTrollCorruptedHeroH05=Faldrak ~ odrážející
 
 tagTrollCorruptedBoss01=Řezník Harrath
 
@@ -707,19 +707,19 @@ tagEnemyCaveSpiderB01=Spřadač teroru ~ pavoukovec
 tagEnemyCaveSpiderB02=Přadlena teroru ~ vdova
 tagEnemyCaveSpiderC01=Přadlena teroru ~ matka rodu
 
-tagCaveTrollHalfHeroH01=Glukrok, Tajemný obyvatel
-tagCaveTrollHalfHeroH02=Algrok, Slepý zběsilec
-tagCaveTrollHalfHeroH03=Savarok ~ Chráněnec
-tagCaveGrobleHeroH01=Akala ~ Rychlá
-tagCaveGrobleHeroH02=Ulbalak ~ Podporovatel
-tagCaveTrollHeroH01=Balglak, Správce jeskyně
-tagCaveTrollHeroH02=Rovos ~ Odrážející
-tagCaveSpiderHeroH01=Shelleb, Temný
-tagCaveSpiderHeroH02=Vilaxna ~ Oživovač
-tagCaveSpiderHeroH03=Ravnix ~ Rychlý
+tagCaveTrollHalfHeroH01=Glukrok, tajemný obyvatel
+tagCaveTrollHalfHeroH02=Algrok, slepý zběsilec
+tagCaveTrollHalfHeroH03=Savarok ~ chráněnec
+tagCaveGrobleHeroH01=Akala ~ rychlá
+tagCaveGrobleHeroH02=Ulbalak ~ podporovatel
+tagCaveTrollHeroH01=Správce jeskyně Balglak
+tagCaveTrollHeroH02=Rovos ~ odrážející
+tagCaveSpiderHeroH01=Temný Shelleb
+tagCaveSpiderHeroH02=Vilaxna ~ oživovač
+tagCaveSpiderHeroH03=Ravnix ~ rychlý
 
-tagCaveSpiderBoss01=Ungoliax, Přadlena smutku
-tagCaveTrollHalfBoss01=Gollus, Obyvatel hlubin
+tagCaveSpiderBoss01=Ungoliax, přadlena smutku
+tagCaveTrollHalfBoss01=Gollus, obyvatel hlubin
 
 #CreatureVultures
 
@@ -727,11 +727,11 @@ tagEnemyVultureSummon=Arkovianský kamenodráp
 tagEnemyVultureA01=Arkovianský skálodráp
 tagEnemyVultureB01=Arkovianský morozobák
 
-tagHeroVultureH01=Volaxna, Krvavé hrdlo
-tagHeroVultureH02=Plaguewing ~ Nemocný
-tagHeroVultureH03=Harrowbeak ~ Nezastavitelný
-tagHeroVultureH04=Wrathtalon ~ Zkažený
-tagHeroVultureH05=Voidtalon ~ Dotčený Prázdnotou
+tagHeroVultureH01=Volaxna Krvavé hrdlo
+tagHeroVultureH02=Zkáza nebes ~ nakažený
+tagHeroVultureH03=Týrající zobák ~ nezastavitelný
+tagHeroVultureH04=Přízračný spár ~ zkažený
+tagHeroVultureH05=Spár Prázdnoty ~ dotčený Prázdnotou
 
 #CreatureWorm
 
@@ -740,80 +740,80 @@ tagEnemyWormB01=Zemilam ~ hnilobný červ
 
 tagEnemyWormDeepDwellerA01=Hlubinná larva
 
-tagWormHeroH01=Gravner, Požírač žluči
-tagWormHeroH02=Zemilam ~ Elektrizující
-tagWormHeroH03=Kamenolam ~ Chráněnec
-tagWormHeroH04=Hněvivý červ ~ Zkažený
-tagWormHeroH05=Přetržený červ ~ Dotčený Prázdnotou
+tagWormHeroH01=Gravner, požírač žluči
+tagWormHeroH02=Zemilam ~ elektrizující
+tagWormHeroH03=Kamenolam ~ chráněnec
+tagWormHeroH04=Naštvaný červ ~ zkažený
+tagWormHeroH05=Přetržený červ ~ dotčený Prázdnotou
 
 #CreatureZombie
 
 tagEnemyZombieA01=Oživlá mrtvola
 tagEnemyZombieB01=Nešťastník
 tagEnemyZombieC01=Zuřivec
-tagEnemyZombieD01=Vystydlá mrtvola
+tagEnemyZombieD01=Ledová smrt
 tagEnemyZombieE01=Noční děs
 tagEnemyZombieF01=Spalovač mrtvol
 tagEnemyZombieG01=Morový chodec
 tagEnemyZombieSoldierA01=Hnilobný voják
-tagEnemyZombieSoldierB01=Hnilobný žhavý strážce
+tagEnemyZombieSoldierB01=Hnilobný strážce ohně
 tagEnemyZombieBerserkerA01=Mrtvolný démon
 
 tagEnemyZombieVoidA01=Chthonský chodec bez duše
 
-tagEnemyZombieMutatedA01=Zdeformovaný řezník
-tagEnemyZombieMutatedB01=Zdeformovaná mlátička
+tagEnemyZombieMutatedA01=Uhnívající řezník
+tagEnemyZombieMutatedB01=Uhnívající mlátička
 
-tagZombieHeroH01=Abner, Opuštěnec
+tagZombieHeroH01=Opuštěnec Abner
 tagZombieHeroH02=Rudá zhouba
-tagZombieHeroH03=Gastris, Odporný
-tagZombieHeroH04=Gilisten, Znovuzrozený
-tagZombieHeroH05=Bolvaris, Zrozený z ledu
-tagZombieHeroH06=Aldanar, Neumírající
-tagZombieHeroH07=Kuchač střev ~ Nezastavitelný
-tagZombieHeroH08=Teselon ~ Elektrizující
-tagZombieHeroH09=Zkáza požitků ~ Nabíječ
-tagZombieHeroH10=Alrick Magefire
+tagZombieHeroH03=Odporný Gastris
+tagZombieHeroH04=Znovuzrozený Gilisten
+tagZombieHeroH05=Bolvaris, zrozený z ledu
+tagZombieHeroH06=Neumírající Aldanar
+tagZombieHeroH07=Kuchač střev ~ nezastavitelný
+tagZombieHeroH08=Teselon ~ elektrizující
+tagZombieHeroH09=Zkáza požitků ~ nabíječ
+tagZombieHeroH10=Alrick Kouzelný oheň
 
 #CreatureZombieHound
 
 tagEnemyZombieHoundA01=Otrávený pes
 tagEnemyZombieHoundB01=Nakažený vůdce smečky
 
-tagZombieHoundHeroH01=Gornax, Noční můra
-tagZombieHoundHeroH02=Sharn, Prokletý
-tagZombieHoundHeroH03=Furz Chlemtač jedu ~ Stoupenec
-tagZombieHoundHeroH04=Krvavý řev ~ Obnovitel
+tagZombieHoundHeroH01=Gornax, noční můra
+tagZombieHoundHeroH02=Prokletý Sharn
+tagZombieHoundHeroH03=Furz, chlemtač jedu ~ stoupenec
+tagZombieHoundHeroH04=Krvavý řev ~ obnovitel
 
 #CreatureReanimator
 
 tagEnemyReanimatorB01=Oživovač
 tagEnemyReanimatorC01=Vládce mysli
 
-tagReanimatorHeroH01=Aethoran, Roznašeč moru ~ Nemocný
-tagReanimatorHeroH02=Gollorg, Neoslabitelný ~ Nezastavitelný
-tagReanimatorHeroH03=Spálená mrtvola ~ Odrážející
-tagReanimatorHeroH04=Azgalogg, Narušitel ~ Obránce
+tagReanimatorHeroH01=Aethoran, roznašeč moru ~ nakažený
+tagReanimatorHeroH02=Neoslabitelný Gollorg ~ nezastavitelný
+tagReanimatorHeroH03=Spálená mrtvola ~ odrážející
+tagReanimatorHeroH04=Azgalogg Narušitel ~ obránce
 
-tagReanimatorBossH01=Gethrand, Zrádce
-tagReanimatorBossH02=Zanbrandt, Stoupenec
-tagReanimatorBossH03=Chladný děs
-tagReanimatorBossH04=Nazagrad, Padlý
+tagReanimatorBossH01=Zrádce Gethrand
+tagReanimatorBossH02=Stoupenec Zanbrandt
+tagReanimatorBossH03=Chladný ďas
+tagReanimatorBossH04=Padlý Nazagrad
 
 #Pets
 
 tagPetRavenA01=Velký havran
 tagPetHellhoundA01=Pekelný pes
 tagPetWhirlwindA01=Vichřice
-tagPetThornedHorrorA01=Briarthorn
-tagPetManticoreA01=Primal Spirit
-tagPetWindDevilA01=Wind Devil
+tagPetThornedHorrorA01=Krvošípek
+tagPetManticoreA01=Duch minulosti
+tagPetWindDevilA01=Větrný dáběl
 
 tagPetIceWallA01=Ledová bariéra
 
 tagPetBladeSwarmA01=Přízračná čepel
 
-tagPetThermiteMineA01=Plápolající mina
+tagPetThermiteMineA01=Zářící mina
 tagPetMortarTrapA01=Minometná past
 
 tagItemFleshHulkA01=Masitý hromotluk
@@ -826,7 +826,7 @@ tagRelicStormhound=Bouřný pes
 tagRelicNemesis=Mstitel
 tagRelicSwarm=Bláznivý roj
 
-tagDLCWisp=Will'O'Wisp
+tagDLCWisp=Bludička
 
 #EnemySummons
 
@@ -842,8 +842,8 @@ tagEnemySummonAetherTrap=Aetherická past
 
 tagQuestEnemyReanimator=Kyzogg Oživovatel
 tagQuestEnemyMiltonHart=Milton Hart
-tagQuestEnemyBanditForge=Outlaw Forge
-tagQuestChthonianMonstrosity=Thall'Nosh, Rozparovač
+tagQuestEnemyBanditForge=Vyhnaný kovář
+tagQuestChthonianMonstrosity=Thall'Nosh Rozparovač
 
 tagBossTheWarden01=Warden
 

@@ -131,7 +131,7 @@ tagTutorialTip37TextA=Pašerák může uchovávat tvé předměty a nebo je doko
 tagTutorialTip37TextB=Kliknutím na Přesun předmětů umožníš sdílení předmětů mezi svými dalšími postavami.
 
 tagTutorialTip38Tile=Přesun předmětů
-tagTutorialTip38TextA=Předměty umístěné v Pašerákově komoře pro přesun předmětů budou sdíleny mezi tvými ostatními postavami (předměty pro normální a hardcore hru jsou však odděleny).
+tagTutorialTip38TextA=Předměty umístěné v Pašerákově komoře pro přesun předmětů budou sdíleny mezi tvými ostatními postavami (ovšem předměty pro běžnou hru a Zkoušku ohněm jsou odděleny).
 tagTutorialTip38TextB=Svou sdílenou truhlu můžeš rozšířit dokoupením přídatných záložek viditelných podél levé strany rozhraní truhly.{^N}{^N}Samozřejmě tě to bude stát pár železných mincí.
 tagTutorialTip38SubtitleA=Přesun předmětů mezi postavami
 tagTutorialTip38TextC=Pro přesun předmětů umísti předmět do předávací komory. Jakmile budeš hrát s jinou postavou, předměty u Pašeráka ti budou opět dostupné.
@@ -152,7 +152,7 @@ tagTutorialTip42TextC=Chceš-li vytvořit předmět, nejprve si vyber recept ze 
 
 tagTutorialTip43Title=Plánky
 tagTutorialTip43TextA=Plánky jsou zapomenuté šablony pro vytváření mocných předmětů, které může kovář zkoumat.
-tagTutorialTip43TextB=Aby ses naučil plánku, klikni na něj pravým tlačítkem myši. Pokud tento plánek ještě neznáš, bude přidán na seznam předmětů u kováře.{^n}{^n}Plánky pak zná každý kovář, ať už hraješ za jakoukoliv postavu (odděluje se pouze normální a hardcore hra). Každý plánek se tak musíš učit nanejvýše jednou.
+tagTutorialTip43TextB=Aby ses naučil plánku, klikni na něj pravým tlačítkem myši. Pokud tento plánek ještě neznáš, bude přidán na seznam předmětů u kováře.{^n}{^n}Plánky pak zná každý kovář, ať už hraješ za jakoukoliv postavu (odděluje se pouze běžná hra a Zkouška ohněm). Každý plánek se tak musíš učit nanejvýše jednou.
 
 tagTutorialTip44Title=Ztracený kovář!
 tagTutorialTip44TextA=Naučil ses novému plánku, ale nemáš kováře schopného pro tebe daný předmět vytvořit.{^n}{^n}Než budeš moci vytvářet předměty, budeš muset nejdříve najít nějakého kováře.{^n}{^n}Kovář bude okamžitě vědět, jak daný předmět podle plánku vytvořit.

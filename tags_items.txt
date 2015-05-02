@@ -1958,7 +1958,7 @@ tagDLCA01=Iluze: Prachová paruka
 tagDLCA01Desc="Definice kultivovanosti a stylu"
 tagDLCA02=Iluze: Hulvátův kabát
 tagDLCA02Desc="Preferovaný výběr každého dobrodruha."
-tagDLCConsumableA01=Bludička ve sklenici
+tagDLCConsumableA01=Polapená bludička
 tagDLCConsumableA01Desc="Neškodný duch uvězněný ve sklenici"
 tagDLCConsumableA01PetSkill01=Aura pramene
 tagDLCConsumableA01PetSkill01Desc="Pramínek tě obklopuje teplým světlem, které proniká do tmy."
@@ -2095,75 +2095,75 @@ tagEnchantA022B=Silný prášek z révy Prázdnoty II
 tagEnchantA022C=Silný prášek z révy Prázdnoty III
 tagEnchantA022Desc="Prášek extrahovaný z révy, která se agresivně šéří skrze Chthonickou Prázdnotu."^w^n(Použitelné na všechny obouruční zbraně)
 
-tagEnchantA023A=Stonetusk Hoof I
-tagEnchantA023B=Stonetusk Hoof II
-tagEnchantA023C=Stonetusk Hoof III
-tagEnchantA023Desc="Powder derived from the crushed hoof of a Stonetusk boar, a process which involves many blows with a hefty sledge."^w^n(Použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
+tagEnchantA023A=Kopyto kamenošpičáka I
+tagEnchantA023B=Kopyto kamenošpičáka II
+tagEnchantA023C=Kopyto kamenošpičáka III
+tagEnchantA023Desc="Prášek extrahovaný z rozdrceného kopyta kance kamenošpičáka způsobem, který vyžaduje několik pořádných ran perlíkem."^w^n(Použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
 
-tagEnchantA024A=Silný Stonetusk Hoof I
-tagEnchantA024B=Silný Stonetusk Hoof II
-tagEnchantA024C=Silný Stonetusk Hoof III
-tagEnchantA024Desc="Powder derived from the crushed hoof of a Stonetusk boar, a process which involves many blows with a hefty sledge."^w^n(Použitelné na všechny obouruční zbraně)
+tagEnchantA024A=Hrubý prášek z kopyta kamenošpičáka I
+tagEnchantA024B=Hrubý prášek z kopyta kamenošpičáka II
+tagEnchantA024C=Hrubý prášek z kopyta kamenošpičáka III
+tagEnchantA024Desc="Prášek extrahovaný z rozdrceného kopyta kance kamenošpičáka způsobem, který vyžaduje několik pořádných ran perlíkem."^w^n(Použitelné na všechny obouruční zbraně)
 
-tagEnchantA025A=Dermapteran Chitin I
-tagEnchantA025B=Dermapteran Chitin II
-tagEnchantA025C=Dermapteran Chitin III
-tagEnchantA025Desc="Powder derived from Dermapteran armor plates, after they go through an extensive acid treatment."^w^n(Použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
+tagEnchantA025A=Škvoří chitin I
+tagEnchantA025B=Škvoří chitin II
+tagEnchantA025C=Škvoří chitin III
+tagEnchantA025Desc="Prášek extrahovaný pomocí kyseliny, ve které byla rozpuštěna škvoří plátová zbroj."^w^n(Použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
 
-tagEnchantA026A=Silný Dermapteran Chitin I
-tagEnchantA026B=Silný Dermapteran Chitin II
-tagEnchantA026C=Silný Dermapteran Chitin III
-tagEnchantA026Desc="Powder derived from Dermapteran armor plates, after they go through an extensive acid treatment."^w^n(Použitelné na všechny obouruční zbraně)
+tagEnchantA026A=Hrubý škvoří chitin I
+tagEnchantA026B=Hrubý škvoří chitin II
+tagEnchantA026C=Hrubý škvoří chitin III
+tagEnchantA026Desc="Prášek extrahovaný pomocí kyseliny, ve které byla rozpuštěna škvoří plátová zbroj."^w^n(Použitelné na všechny obouruční zbraně)
 
-tagEnchantA027A=Raincaller Powder I
-tagEnchantA027B=Raincaller Powder II
-tagEnchantA027C=Raincaller Powder III
-tagEnchantA027Desc="Folktales speak of a sorcerous powder which, when thrown upon an open flame by the village shaman, will summon rain within a fortnight."^w^n(Použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
+tagEnchantA027A=Prášek vyvolavače deště I
+tagEnchantA027B=Prášek vyvolavače deště II
+tagEnchantA027C=Prášek vyvolavače deště III
+tagEnchantA027Desc="Pověsti vypráví o čarodějném prášku, který když se vhodí do otevřeného ohně vesnickým šamanem, vyvolá do čtrnácti dnů déšť."^w^n(Použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
 
-tagEnchantA028A=Silný Raincaller Powder I
-tagEnchantA028B=Silný Raincaller Powder II
-tagEnchantA028C=Silný Raincaller Powder III
-tagEnchantA028Desc="Folktales speak of a sorcerous powder which, when thrown upon an open flame by the village shaman, will summon rain within a fortnight."^w^n(Použitelné na všechny obouruční zbraně)
+tagEnchantA028A=Hrubý Prášek vyvolavače deště I
+tagEnchantA028B=Hrubý Prášek vyvolavače deštěr II
+tagEnchantA028C=Hrubý Prášek vyvolavače deště III
+tagEnchantA028Desc="Pověsti vypráví o čarodějném prášku, který když se vhodí do otevřeného ohně vesnickým šamanem, vyvolá do čtrnácti dnů déšť."^w^n(Použitelné na všechny obouruční zbraně)
 
-tagEnchantA029A=Divine Flame I
-tagEnchantA029B=Divine Flame II
-tagEnchantA029C=Divine Flame III
-tagEnchantA029Desc="Powder used by Kymon's Chosen during ceremonies. When thrown upon a brazier, it erupts in sparking embers. "^w^n(Použitelné na prsteny a amulety)
+tagEnchantA029A=Božský plamen I
+tagEnchantA029B=Božský plamen II
+tagEnchantA029C=Božský plamen III
+tagEnchantA029Desc="Prášek používaný Kymonovými Vyvolenými během obřadů. Když se vhodí do ohně, rozpukne se jako žhavé uhlíky."^w^n(Použitelné na prsteny a amulety)
 
-tagEnchantA030A=Blessed Ashes I
-tagEnchantA030B=Blessed Ashes II
-tagEnchantA030C=Blessed Ashes III
-tagEnchantA030Desc="Ashes from the remains of a fallen member of Kymon's Chosen."^w^n(Použitelné na prsteny a amulety)
+tagEnchantA030A=Požehnaný popel I
+tagEnchantA030B=Požehnaný popel II
+tagEnchantA030C=Požehnaný popel III
+tagEnchantA030Desc="Popel z ostatnů padlých členů Kymonových Vyvolených."^w^n(Použitelné na prsteny a amulety)
 
-tagEnchantA031A=Consecrated Silver I
-tagEnchantA031B=Consecrated Silver II
-tagEnchantA031C=Consecrated Silver III
-tagEnchantA031Desc="Silver consecrated in the divine flame to combat the wretched Chthonians."^w^n(Použitelné na prsteny a amulety)
+tagEnchantA031A=Požehnané stříbro I
+tagEnchantA031B=Požehnané stříbro II
+tagEnchantA031C=Požehnané stříbro III
+tagEnchantA031Desc="Stříbro požehnané božským plamenem, aby uspělo v boji s Chthonickými bídáky."^w^n(Použitelné na prsteny a amulety)
 
-tagEnchantA032A=Ritual Salts I
-tagEnchantA032B=Ritual Salts II
-tagEnchantA032C=Ritual Salts III
-tagEnchantA032Desc="Salts used in necromantic rituals, often to outline the ritual circle and ward it off from restless spirits."^w^n(Použitelné na prsteny a amulety)
+tagEnchantA032A=Rituální soli I
+tagEnchantA032B=Rituální soli II
+tagEnchantA032C=Rituální soli III
+tagEnchantA032Desc="Soli využívané při nekromantických rituálech. Často bývají nasypány kolem rituálního kruhu, aby chránily před nepokojnými duchy."^w^n(Použitelné na prsteny a amulety)
 
-tagEnchantA033A=Necrotic Flesh I
-tagEnchantA033B=Necrotic Flesh II
-tagEnchantA033C=Necrotic Flesh III
-tagEnchantA033Desc="Powder derived from the flesh of the long-deceased, used to power necromantic rituals."^w^n(Použitelné na prsteny a amulety)
+tagEnchantA033A=Odumřelé maso I
+tagEnchantA033B=Odumřelé maso II
+tagEnchantA033C=Odumřelé maso III
+tagEnchantA033Desc="Prášek derivovaný z masa dávno zemřelých, používaný při nekromantických rituálech."^w^n(Použitelné na prsteny a amulety)
 
-tagEnchantA034A=Mortal Coil I
-tagEnchantA034B=Mortal Coil II
-tagEnchantA034C=Mortal Coil III
-tagEnchantA034Desc="Essence of restless spirits, condensed into physical form by forbidden rituals."^w^n(Použitelné na prsteny a amulety)
+tagEnchantA034A=Smrtelný prstenec I
+tagEnchantA034B=Smrtelný prstenec II
+tagEnchantA034C=Smrtelný prstenec III
+tagEnchantA034Desc="Esence duchů, kteří nedošli pokoje, zkondenzovaná do fyzické podoby během zakázaných rituálů."^w^n(Použitelné na prsteny a amulety)
 
-tagEnchantA035A=Winterbloom Powder I
-tagEnchantA035B=Winterbloom Powder II
-tagEnchantA035C=Winterbloom Powder III
-tagEnchantA035Desc="Powder from a pale blue flower strangely found blooming only during the harsh winter months."^w^n(Použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
+tagEnchantA035A=Prášek ze zimních květů I
+tagEnchantA035B=Prášek ze zimních květů II
+tagEnchantA035C=Prášek ze zimních květů III
+tagEnchantA035Desc="Prášek z bledě modrých květů rostlin, které vzácně vykvetou pouze během velmi krutých zimních měsíců."^w^n(Použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
 
-tagEnchantA036A=Silný Winterbloom Powder I
-tagEnchantA036B=Silný Winterbloom Powder II
-tagEnchantA036C=Silný Winterbloom Powder III
-tagEnchantA036Desc="Powder from a pale blue flower strangely found blooming only during the harsh winter months."^w^n(Použitelné na všechny obouruční zbraně)
+tagEnchantA036A=Hrubý prášek ze zimních květů I
+tagEnchantA036B=Hrubý prášek ze zimních květů II
+tagEnchantA036C=Hrubý prášek ze zimních květů III
+tagEnchantA036Desc="Prášek z bledě modrých květů rostlin, které vzácně vykvetou pouze během velmi krutých zimních měsíců."^w^n(Použitelné na všechny obouruční zbraně)
 
 
 tagEnchantB001A=Ulgrim's Guile I
