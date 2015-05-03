@@ -220,7 +220,7 @@ tagWeaponGun1hC011=Stahovač duší
 tagWeaponGun1hC012=Moronosný revolver
 tagWeaponGun1hC013=Vyjednavač
 tagWeaponGun1hC014=Mrazivá hlaveň neúprosného Severu
-tagWeaponGun1hC015=Burrwitchský dojednavač míru
+tagWeaponGun1hC015=Burrwitchský mírotvůrce
 tagWeaponGun1hC015Desc="Důvěryhodná pistole šerifa Harmona Griffitha."
 tagWeaponGun1hC016=Menhirské pokání
 tagWeaponGun1hC017=Zrádce
@@ -2759,7 +2759,7 @@ tagBonusAttribPoint={%+d0} bodů atributů
 
 
 tagItemSetC001Name=Gardistovo roucho
-tagItemSetC001Desc="Kdysi to bylo běžné vybavení udržovalů míru a královských stráží. Ale pouze pár kousků této výbavy přečkalo Ponurý úsvit."
+tagItemSetC001Desc="Kdysi bylo běžným vybavením mírotvůrců a královských stráží. Ale pouze pár kousků této výbavy přečkalo Ponurý úsvit."
 
 tagItemSetC002Name=Cestovatelův oděv
 tagItemSetC002Desc="Lehká, ale odolná zbroj pro dychtivého cestovatele."
