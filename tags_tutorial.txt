@@ -176,8 +176,8 @@ tagTutorialTip49SubtitleA=Porovnávání bez komponent
 tagTutorialTip49TextB=Porovnat dvě zbraně, aniž by byly ovlivněny komponentami, můžeš přidržením klávesy "{^b}CTRL{^w}".
 
 tagTutorialTip50Title=Vylepšení
-tagTutorialTip50TextA=Vylepšení se nacházejí ve formě ořarovaného prachu, který můžeš použít k vylepšení svých předmětů. Tvorba vylepšení je s velkou opatrností chráněno různými frakcemi Cairnu.
-tagTutorialTip50TextB=K použití vylepšení stačí na něj kliknout pravým tlačítkem myši. Můžeš jej použít pouze na příslušný předmět. Jakmile předmět vylepšíš, vyllepšení již nelze odstranit, ale může být nahrazeno jiným.
+tagTutorialTip50TextA=Vylepšení se nacházejí ve formě očarovaného prachu, který můžeš použít k vylepšení svých předmětů. Tvorba vylepšení je s velkou opatrností chráněna různými frakcemi Cairnu.
+tagTutorialTip50TextB=Pro použití vylepšení na něj stačí kliknout pravým tlačítkem myši. Můžeš jej použít pouze na příslušný předmět. Jakmile předmět vylepšíš, vylepšení již nelze odstranit, ale může být nahrazeno jiným.
 
 tagTutorialTip51Title=Použití vylepšení
 tagTutorialTip51TextA=Klikni pravým tlačítkem myši na Vylepšit a poté levým tlačítkem na předmět, který chceš vylepšit.{^N}{^N}Jen tě musím upozornit, že vylepšení lze použít pouze na určité druhy předmětů a po jeho aplikování nelze vylepšení již odstranit. Na druhou stranu je možné jej nahradit jiným vylepšením.

@@ -440,7 +440,7 @@ tagStatsResistance02Desc=Odolnost vůči útoku bleskem a elektrickým šokem a 
 tagStatsResistance03=Led
 tagStatsResistance03Desc=Odolnost vůči ledovým útokům a kouzlům, která uštědřují zranění ledem nebo omrzlinami
 tagStatsResistance04=Jed a kyselina
-tagStatsResistance04Desc=Odolnost vůči odporným jedům a silným kyselinám, které lze spatřit při útocích kyselinou nebo jedem.
+tagStatsResistance04Desc=Odolnost vůči odporným jedům a silným kyselinám, které lze utrpět při útocích kyselinou nebo jedem.
 tagStatsResistance05=Bodná zranění
 tagStatsResistance05Desc=Odolnost proti proražení zbroje a probodnutím postavy, která jsou uštědřena při pokusu o probodnutí.
 tagStatsResistance06=Krvácení
@@ -452,7 +452,7 @@ tagStatsResistance08Desc=Odolnost vůči ovládnutí mysli Aetherem a vůči ča
 tagStatsResistance09=Omráčení
 tagStatsResistance09Desc=Snižuje dobu trvání omračujících útoků a kouzel, po kterou nemůžeš reagovat na ostatní podněty.
 tagStatsResistance10=Chaos
-tagStatsResistance10Desc=Odolnost vůči zranění chaosem, způsobeným nestabilními energiemi samotného vesmíru, které obvykle používají Ch'thonské bytosti.
+tagStatsResistance10Desc=Odolnost vůči zranění chaosem, způsobeným nestabilními energiemi samotného Vesmíru, které obvykle používají Ch'thonské bytosti.
 tagStatsResistance11=Doražení
 tagStatsResistance11Desc=Odolnost vůči doražení.
 tagStatsResistance12=Ochromení
@@ -1897,7 +1897,7 @@ tagUC_Error=S touto postavou již byl odemčen dodatečný obsah.
 
 tagHotSlotSwap=Přepínání mezi primárním a sekundárním slotem pro zbraň.
 tagHotSlotTitle=Alternativní panel
-tagEmptyHotSlot=Vymazat přidružení k tomuto tlačítku.
+tagEmptyHotSlot=Vymazat přidružení k tlačítku.
 
 tagDevotionUnassigned=Žádné dovednosti
 

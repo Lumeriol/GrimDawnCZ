@@ -718,7 +718,7 @@ tagCaveSpiderHeroH01=Temný Shelleb
 tagCaveSpiderHeroH02=Vilaxna ~ oživovač
 tagCaveSpiderHeroH03=Ravnix ~ rychlý
 
-tagCaveSpiderBoss01=Ungoliax, přadlena smutku
+tagCaveSpiderBoss01=Ungoliax, přadlena melancholie
 tagCaveTrollHalfBoss01=Gollus, obyvatel hlubin
 
 #CreatureVultures

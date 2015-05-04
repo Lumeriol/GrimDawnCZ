@@ -5,7 +5,7 @@ Prosím. Jsem tak vyděšená.
 Někdo přichází. Zůstaň tady.
 Prosím pomoz mi. Jsem tak vystrašená.
 Jak se stalo, že jsi tady dole uvězněná?
-Vydala jsem se sama hrát ven ikdyž mi maminka říkala, abych to nedělala. Došla jsem do této jeskyně, ale vchod za mnou se zhroutil.{^n}{^n}*Kalista mezi slovy pofňukává*{^n}{^n}Prosím, jenom chci jít do mů za mým tatínkem a maminkou. Žijí v kempu nedaleko.
+Vydala jsem se sama hrát ven ikdyž mi maminka říkala, abych to nedělala. Došla jsem do této jeskyně, ale vchod za mnou se zhroutil.{^n}{^n}*Kalista mezi slovy pofňukává*{^n}{^n}Prosím, jenom chci jít domů za mým tatínkem a maminkou. Žijí v kempu nedaleko.
 Samozřejmě že ti pomůžu. (Otevři Bránu)
 Hned se vrátím.
 Proč se nevydali tě hledat?
@@ -28,7 +28,7 @@ Neměl by tě někdo hledat?
 
 
 Připadá mi divné, že jsi tady přežila sama.
-Připadá mi divné, že jsi tak podezíravý. Tvá nedůvěra musí být odrazem tvého vlastního ubohého charakteru!{^n}{^n}Je tvé srdce tak zahořklé že nepomůžeš ztracenému dítěti najít cestu domů?{^n}{^n}Prosím pomoz mi!
+Připadá mi divné, že jsi tak podezíravý. Tvá nedůvěra musí být odrazem tvého vlastního ubohého charakteru!{^n}{^n}Je tvé srdce tak zahořklé, že nepomůžeš ztracenému dítěti najít cestu domů?{^n}{^n}Prosím pomoz mi!
 Dostanu tě domů. (Otevři Bránu)
 Hned se vrátím.
 Proč tě nikdo nehledal?
@@ -64,7 +64,7 @@ Hned se vrátím.
 Neměl by tě někdo hledat?
 
 Připadá mi divné, že jsi tady přežila sama.
-Připadá mi divné, že jsi tak podezíravý. Tvá nedůvěra musí být odrazem tvého vlastního ubohého charakteru!{^n}{^n}Je tvé srdce tak zahořklé že nepomůžeš ztracenému dítěti najít cestu domů?{^n}{^n}Prosím pomoz mi!
+Připadá mi divné, že jsi tak podezíravý. Tvá nedůvěra musí být odrazem tvého vlastního ubohého charakteru!{^n}{^n}Je tvé srdce tak zahořklé, že nepomůžeš ztracenému dítěti najít cestu domů?{^n}{^n}Prosím pomoz mi!
 Dostanu tě domů. (Otevři Bránu)
 Hned se vrátím.
 
@@ -87,7 +87,7 @@ Dobrá, uklidni se. Dostanu tě domů (Otevři Bránu)
 Hned se vrátím.
 
 Připadá mi divné, že jsi tady přežila sama.
-Připadá mi divné, že jsi tak podezíravý. Tvá nedůvěra musí být odrazem tvého vlastního ubohého charakteru!{^n}{^n}Je tvé srdce tak zahořklé že nepomůžeš ztracenému dítěti najít cestu domů?{^n}{^n}Prosím pomoz mi!
+Připadá mi divné, že jsi tak podezíravý. Tvá nedůvěra musí být odrazem tvého vlastního ubohého charakteru!{^n}{^n}Je tvé srdce tak zahořklé, že nepomůžeš ztracenému dítěti najít cestu domů?{^n}{^n}Prosím pomoz mi!
 Dostanu tě domů. (Otevři Bránu)
 Hned se vrátím.
 
