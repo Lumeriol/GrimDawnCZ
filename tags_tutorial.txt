@@ -43,7 +43,7 @@ tagTutorialTip16TextA=Použij {^y}Okno postavy{^w} a můžeš svou postavu vybav
 tagTutorialTip16SubtitleA=Inventář:
 tagTutorialTip16TextB=Pokud chceš nějaký předmět použít, klikni na něj pravým tlačítkem v inventáři nebo předmět přesuň do adekvátního slotu. Předmět můžeš také odhodit tím, že jej přesuneš mimo okno postavy, nebo na něj klikneš a stiskneš klávesu "{^b}{%t0}{^w}".
 tagTutorialTip16SubtitleB=Body atributů:
-tagTutorialTip16TextC=Body atributů využiješ tak, že klikneš na "{^y}+{^w}" vlevo od požadovaného atributu. Každý bod atributu zvyšuje konkrétní atribut o 8.
+tagTutorialTip16TextC=Body atributů využiješ tak, že klikneš na "{^y}+{^w}" vlevo od požadovaného atributu. Každý bod atributu zvyšuje konkrétní atribut o 8.{^n}{^n}
 
 tagTutorialTip17Title=Povolání
 tagTutorialTip17TextA=Volba povolání je rozhodnutí, které rýsuje tvou postavu. Různá povolání veou ke zcela jinému hernímu stylu, takže vybírej moudře.
@@ -61,7 +61,7 @@ tagTutorialTip20SubtitleB=Skládání komponent
 tagTutorialTip20TextB=Můžeš si skládat jednotlivé úlomky komponent stejného typu do jednoho a získat tak mnohem větší bonusy. Kompletní komponenta pak ještě vytvoří dodatečný bonus za složení.{^n}{^n}Úlomky komponent stejného typu mohou být připevněny k předmětům i poté, co tam byl již jeden úlomek připevněn.
 
 tagTutorialTip21Title=Druhé povolání
-tagTutorialTip21TextA=Po dosažení 10. úrovně si budeš moci vybrat druhé povolání. Pro vybrání druhého povolání otevři okno dovedností. Nemusíš si ho nutně volit, ale stále tuto možnost budeš mít.
+tagTutorialTip21TextA=Po dosažení 10. úrovně si budeš moci vybrat druhé povolání. Pro vybrání druhého povolání otevři {^y}Okno dovedností{^w}. Nemusíš si ho nutně volit, ale stále tuto možnost budeš mít.
 
 tagTutorialTip22Title=Okno dovedností
 tagTutorialTip22TextA=Vždy když získáš novou úroveň, obdržíš nové dovednostní body. Investuj tyto body do úrovně svého povolání nebo do odemčených dovedností.
@@ -139,9 +139,11 @@ tagTutorialTip38SubtitleB=Přesun mezi hráči
 tagTutorialTip38TextD=Pro zprosředkování přesunu předmětů mezi hráči ve hře více hráčů musíš použít funkci obchodu.
 
 tagTutorialTip39Title=Vynálezce
-tagTutorialTip39TextA=Vynálezci jsou schopni odstranit komponenty z předmětů. V tomto procesu zůstane zachován buď předmět, nebo patřičná komponenta.
+tagTutorialTip39TextA=Vynálezci jsou schopni odstranit komponenty a vylepšení z předmětů. V tomto procesu zůstane zachován buď předmět, nebo patřičná komponenta. Jakékoliv vylepšení bude zničeno.
 tagTutorialTip39SubtitleA=Odstraňování komponent
-tagTutorialTip39TextB=Odstranění komponent z předmětů stojí poplatek úměrný sjednocené hodnotě předmětu a komponenty. Pro započetí odstranění umísti předmět s komponentou k vynálezci.{^N}{^N}Můžeš zachovat buď předmět nebo komponentu.{^N}{^N}Pokud zachováš předmět, komponenta bude zničena. A samozřejmě to platí i obráceně.{^N}{^N}
+tagTutorialTip39TextB=Odstranění komponent z předmětů stojí poplatek úměrný sjednocené hodnotě předmětu, vylepšení a komponenty. Pro započetí odstranění umísti předmět s komponentou k vynálezci.{^N}{^N}Můžeš zachovat buď předmět nebo komponentu.{^N}{^N}Pokud zachováš předmět, komponenta bude zničena. A samozřejmě to platí i obráceně.{^N}{^N}
+tagTutorialTip39SubtitleB=Odstraňování vylepšení
+tagTutorialTip39TextC=Pokud budeš chtít odstranit pouze vylepšení, předmět i komponenta zůstanou nedotčeny.{^N}{^N}Pokud odstraníš vylepšení svázané s tvou duší, a příslušný předmět vázaný nebyl, zůstane předmět i nadále nevázaný.{^N}{^N}
 
 tagTutorialTip42Title=Kovář
 tagTutorialTip42TextA=Kovář je schopný vytvářet předmět mocnou silou. Je to už zkušený řemeslník a všechno co vyrobí, obsahuje malý kovářský bonus. Kovářovy znalosti mohou být prohloubeny pomocí nových plánků.
@@ -195,6 +197,33 @@ tagTutorialTip54Title=Úroveň přízně
 tagTutorialTip54TextA=Byla dosažena další úroveň přízně s některou z frakcí. To ti nyní umožňuje nakupovat zboží u této frakce mnohem levněji a také máš přístup k lepší výbavě u frakčních formanů.{^N}{^N}Podívej se kolem po nových výzvách, které jsou třeba dostupné.
 
 tagTutorialTip55Title=Okno frakcí
-tagTutorialTip55TextA=Používej {^y}Okno frakcí{^w} pro sledování svého pokroku ohledně Cairnských frakcí, a abys zjistil, co dané frakce vyžadují, abys získal jejich přízeň. Jen je třeba upozornit, ře frakce a jejich odměny budou plně dostupné v sestavení B25.
+tagTutorialTip55TextA=Používej {^y}Okno frakcí{^w} pro sledování svého pokroku ohledně Cairnských frakcí, a abys zjistil, co dané frakce vyžadují, abys získal jejich přízeň.
 tagTutorialTip55SubtitleA=Získávání přízně
 tagTutorialTip55TextB=Každá frakce má své jedinečné touhy a cíle. Jak si získat jejich přízeň si můžeš prohlédnout v sekci {^y}Přízeň získáš za{^w}.{^N}{^N}Jen je třeba upozornit, že čím více přízně máš, tím víc budeš muset splnit úkolů a zabít silnější nepřátele, aby sis získal přízeň novou.
+
+tagTutorialTip56Title=Bounties
+tagTutorialTip56TextA=Bounties are an excellent way to raise your reputation with the various factions of Cairn. Bounty quests send you on tasks of varying difficulty and reward and are generally unguided. You must hunt down your prey with limited assistance.
+tagTutorialTip56SubtitleA=Bounties are Repeatable
+tagTutorialTip56TextB=Unlike regular quests, Bounty quests are not limited to once per character. Each Faction will offer you up to 5 Bounties per game session, and you may discover Bounties you have done in previous sessions.{^N}{^N}
+
+tagTutorialTip57Title=Devotion Shrines
+tagTutorialTip57TextA=You are near a Devotion Shrine. By claiming Shrines, you will earn Devotion Points, which you can allocate in a unique layer of character customization.
+
+tagTutorialTip58Title=Claiming a Shrine
+tagTutorialTip58TextA=Devotion Shrines are ancient remnants of a long-lost empire, monuments dedicated to various gods and celestial symbols.{^N}{^N}Shrines must either be cleansed by defeating a corrupting presence trapped within or restored by placing an offering of rare crafting materials. The requirements vary from shrine to shrine.
+tagTutorialTip58SubtitleA=Restoring a Shrine
+tagTutorialTip58TextB=To Restore a ruined shrine, place the required materials into the Shrine UI or shift-click them within your inventory.{^N}{^N}When all required materials are in the UI, press the Offer button to restore the Shrine.
+
+tagTutorialTip59Title=Devotion Points
+tagTutorialTip59TextA=You have claimed your first Shrine and earned a Devotion Point. Devotion Points can be allocated in the {^y}Devotion Window{^w}, which can be accessed through the {^y}Skill Window{^w}.
+tagTutorialTip59CaptionA=Shortcut key: {^b}{%t0}{^w}
+
+tagTutorialTip60Title=Devotion Window
+tagTutorialTip60TextA=The {^y}Devotion Window{^w} allows you to dedicate your Devotion Points to various deities and celestial symbols of Cairn.
+tagTutorialTip60SubtitleA=Earning Devotion Points
+tagTutorialTip60TextB=Devotion Points are earned by claiming Shrines scattered throughout the world. Explore everywhere to find them all!
+
+tagTutorialTip61Title=Secondary Skills
+tagTutorialTip61TextA=Secondary Skills are powerful auto-activated effects which can be assigned to your existing primary skills from your Masteries.
+tagTutorialTip61SubtitleA=Assigning a Primary Skill
+tagTutorialTip61TextB=To assign a Secondary Skill, you must first unlock it in the {^y}Devotion Window{^w}, then select a valid Primary Skill from the drop-down list. To re-assign a Secondary Skill, you must visit a Spirit Guide.

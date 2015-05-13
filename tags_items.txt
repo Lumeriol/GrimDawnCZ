@@ -26,13 +26,14 @@ tagWeaponSwordB003=[ms]přízračný dlouhý meč
 tagWeaponSwordB004=[ms]nabroušený dlouhý meč
 tagWeaponSwordB005=[ms]nabroušený široký meč
 tagWeaponSwordB006=[ms]nabroušený dobyvatelský meč
-tagWeaponSwordB007=$[fs]Malkadarrova smrtící čepel
+tagWeaponSwordB007=$[fs]Malkadarrova strašidelná čepel
 tagWeaponSwordB008=[ms]mantikoří dlouhý meč
 tagWeaponSwordB009=[ms]kostěný kráječ
 tagWeaponSwordB010=[fs]kostěná čepel
 tagWeaponSwordB011=[ms]škvoří dráp
 tagWeaponSwordB012=[ms]škvoří plátkovač
-
+tagWeaponSwordB013=Bloodlord's Blade
+tagWeaponSwordB013Desc="The blade of Thalonis, sanctified in the blood of Ch'thon."
 
 tagWeaponSwordC001=Bleskosvod
 tagWeaponSwordC002=Ohařský skus
@@ -200,6 +201,8 @@ tagWeaponGun1hA010=[ns]vícehlavňové dělo
 tagWeaponGun1hB001=[fs]dvouhlavňová pistole
 tagWeaponGun1hB002=[ms]ruční minomet
 tagWeaponGun1hB003=[fs]šrapnelová pistole
+tagWeaponGun1hB004=Bloodsworn Pistol
+tagWeaponGun1hB005=Bloodsworn Repeater
 
 tagWeaponGun1hC001=Ruční dělo Leandera Greena
 tagWeaponGun1hC001Desc="Vzato z ledových mrtvých rukou Černovodého bandity."
@@ -345,6 +348,7 @@ tagWeaponMelee2hB006=[fs]Alkamosova kosa
 tagWeaponMelee2hB007=[fs]přízračná válečná sekyra
 tagWeaponMelee2hB008=[ms]Alkamosův válečný meč
 tagWeaponMelee2hB009=[fs]přízračná válečná palice
+tagWeaponMelee2hB010=Archon's Warmaul
 
 tagWeaponMelee2hC001=Vykuchávající škubač střev
 tagWeaponMelee2hC002=Masakr
@@ -418,6 +422,8 @@ tagWeaponCaster1hB008=[ms]kostěný nožík
 tagWeaponCaster1hB009=[ms]kostěný bodec
 tagWeaponCaster1hB010=[ms]kreverakův dráp
 tagWeaponCaster1hB011=[ms]kreverakův plátkovač
+tagWeaponCaster1hB012=Bloodsworn Wand
+tagWeaponCaster1hB013=Bloodsworn Scepter
 
 tagWeaponCaster1hC001=Spalující nenávist
 tagWeaponCaster1hC002=Hůlka kouzelného ohně
@@ -578,6 +584,8 @@ tagFocusB005A=Zdobený tlustopis
 tagFocusB005B=Okultní podobizna
 tagFocusB006=Podobizna čarodějnice
 tagFocusB007=Pulzující úlomek
+tagFocusB008=Bloodsworn Tome
+tagFocusB009=Bloodsworn Codex
 
 tagFocusC001=Demence
 tagFocusC002=Zdrcující vůle
@@ -726,6 +734,9 @@ tagLegend=legendární kvalita
 tagSoulbound=Předmět svázaný s duší
 tagDestroySoulbound=Zničit předmět svázaný s tvou duší?
 
+tagUntradeable=Neprodejné
+tagDestroyUntradeable=Zničit neprodejný předmět?
+
 tagTransmuted=Očarování
 tagTransmuteCapture=[pravým kliknutím sloučíš]
 tagTransmuteApply=[pravým kliknutím použij]
@@ -767,6 +778,8 @@ tagHeadB011=[fs]stoupencova čelenka
 tagHeadB012=[ms]stoupencův diadém
 tagHeadB013=[fs]masorvoucí helma
 tagHeadB014=[fs]masorvoucí přilbice
+tagHeadB015=Spectral Crown
+tagHeadB015Desc="Powerful necrotic energies caused this crown to manifest in the physical realm."
 
 tagHeadC001=Čelenka vyvolavače bouří
 tagHeadC002=Zběsilcova kápě
@@ -812,7 +825,7 @@ tagHeadD008=Zvěstovatelova maska
 tagHeadD009=Kapalec zabijáka démonů
 tagHeadD010=Arcimágův kapalec
 
-tagHeadF001=Vyhnancova kapuce
+tagHeadF001=Vyvrhelova kapuce
 tagHeadF001Desc="Nemůžeš si pomoci, ale máš dojem, že ta maska vejrá na tebe."
 tagHeadF002=Ďáblova pokrývka hlavy
 tagHeadF003=Ďáblův chránič hlavy
@@ -884,16 +897,16 @@ tagShoulderD008=Chrániče ramen budoucího strážce
 tagShoulderD009=Tkané nárameníky divoké krve
 tagShoulderD010=Arcimágovy tkané nárameníky
 
-tagShoulderF001=Vyhnancovi spalující tkané nárameníky
-tagShoulderF002=Vyhnancovi mrazívé tkané nárameníky
-tagShoulderF003=Vyhnancovi z nebes tkané nárameníky
-tagShoulderF004=Vyhnancovi hněvem tkané nárameníky
-tagShoulderF005=Vyhnancovi Prázdnotou tkané nárameníky
-tagShoulderF006=Vyhnancovi spalující skládané nárameníky
-tagShoulderF007=Vyhnancovi mrazívé skládané nárameníky
-tagShoulderF008=Vyhnancovi z nebes skládané nárameníky
-tagShoulderF009=Vyhnancovi hněvem skládané nárameníky
-tagShoulderF010=Vyhnancovi Prázdnotou skládané nárameníky
+tagShoulderF001=Vyvrhelovy spalující tkané nárameníky
+tagShoulderF002=Vyvrhelovy mrazívé tkané nárameníky
+tagShoulderF003=Vyvrhelovy z nebes tkané nárameníky
+tagShoulderF004=Vyvrhelovy hněvem tkané nárameníky
+tagShoulderF005=Vyvrhelovy Prázdnotou tkané nárameníky
+tagShoulderF006=Vyvrhelovy spalující skládané nárameníky
+tagShoulderF007=Vyvrhelovy mrazívé skládané nárameníky
+tagShoulderF008=Vyvrhelovy z nebes skládané nárameníky
+tagShoulderF009=Vyvrhelovy hněvem skládané nárameníky
+tagShoulderF010=Vyvrhelovy Prázdnotou skládané nárameníky
 tagShoulderF011=Ďáblovy rytířské nárameníky
 tagShoulderF012=Ďáblovy chrániče ramen
 tagShoulderF013=Tulákovy tkané nárameníky
@@ -939,6 +952,8 @@ tagTorsoB008=[fs]stoupencova róba
 tagTorsoB009=[ms]stoupencův háv
 tagTorsoB010=[ms]masorvoucí kyrys
 tagTorsoB011=[fs]masorvoucí plátová zbroj
+tagTorsoB012=Bloodsworn Robes
+tagTorsoB013=Bloodsworn Vestments
 
 tagTorsoC001=
 tagTorsoC002=Hrudní chránič nočního lovce
@@ -967,6 +982,7 @@ tagTorsoC021=Plát budoucího strážce
 tagTorsoC022=Zolhanův bojový plát
 tagTorsoC022Desc="Zbroj ukradená slavným bojovým mistrem Zolhanem."
 tagTorsoC023=Nepříjemná róba
+tagTorsoC024=Orientální róba
 
 tagTorsoD001=Kabátec ze šupin démona
 tagTorsoD002=Drátěná košile z démonského vězení
@@ -981,16 +997,16 @@ tagTorsoD007=Rubáš přivolavače démonů
 tagTorsoD008=Kabátec zabijáka démonů
 tagTorsoD009=Arcimágova róba
 
-tagTorsoF001=Vyhnancův spalující háv
-tagTorsoF002=Vyhnancův mrazivý háv
-tagTorsoF003=Vyhnancův nebeský háv
-tagTorsoF004=Vyhnancův háv hněvu
-tagTorsoF005=Vyhnancův háv Prázdnoty
-tagTorsoF006=Vyhnancův spalující kyrys
-tagTorsoF007=Vyhnancův mrazivý kyrys
-tagTorsoF008=Vyhnancův nebeský kyrys
-tagTorsoF009=Vyhnancův kyrys hněvu
-tagTorsoF010=Vyhnancův kyrys Prázdnoty
+tagTorsoF001=Vyvrhelův spalující háv
+tagTorsoF002=Vyvrhelův mrazivý háv
+tagTorsoF003=Vyvrhelův nebeský háv
+tagTorsoF004=Vyvrhelův háv hněvu
+tagTorsoF005=Vyvrhelův háv Prázdnoty
+tagTorsoF006=Vyvrhelův spalující kyrys
+tagTorsoF007=Vyvrhelův mrazivý kyrys
+tagTorsoF008=Vyvrhelův nebeský kyrys
+tagTorsoF009=Vyvrhelův kyrys hněvu
+tagTorsoF010=Vyvrhelův kyrys Prázdnoty
 tagTorsoF011=Ďáblův kyrys
 tagTorsoF012=Ďáblův hrudní chránič
 tagTorsoF013=Legionářský háv
@@ -1109,6 +1125,7 @@ tagHandsC014=Vykoupené chrániče rukou
 tagHandsC015=Rytířské rukavice budoucího strážce
 tagHandsC016=Rozžhavené chrániče rukou
 tagHandsC017=Pohotové rukavice
+tagHandsC018=Orientální rukavice
 
 tagHandsD001=Chňapky nespoutané moci
 tagHandsD001Desc="Rukavice jsou obdařeny zuřivostí samotného Olerona."
@@ -1151,8 +1168,7 @@ tagLegsC009=Hnátnice masožrouta
 tagLegsC009Desc="Původ některých částí je lepší zanechat v análech historie."
 tagLegsC010=Kožené kamaše různých odstínů
 tagLegsC011=Mohutné náholeníky
-tagLegsC012=Náholeníky vykoupení
-tagLegsC013=Nožní pláty budoucího strážce
+tagLegsC012=Orientální náholeníky
 
 tagLegsD001=Nožní pláty z kostí démona
 tagLegsD001Desc="Skutečná výzva při výrobě této části zbroje přišla teprve při získávání potřebných částí."
@@ -1248,6 +1264,8 @@ tagRingB003=Skinnerův rodinný pečetní prsten
 tagRingB003Desc="Pravděpodobně nejcennější předmět, který rodinka může vůbec vlastnit."
 tagRingB004=Gollův prsten
 tagRingB004Desc="Tenhle prsten měl opravdu rád."
+tagRingB005=Bloodsworn Signet
+tagRingB005Desc="The gem within shimmers during summoning rituals."
 
 tagRingC001=Morkový kroužek
 tagRingC002=Obsidiánový pečetní prsten
@@ -1334,6 +1352,9 @@ tagNecklaceA016=[ms]císařský přívěsek
 
 tagNecklaceB001=[ms]hnilobný náhrdelník
 tagNecklaceB001Desc="Lebka je potažena páchnoucím slizem."
+tagNecklaceB002=Death-Watcher Pendant
+tagNecklaceB003=Ellena's Necklace
+tagNecklaceB003Desc="A trophy once belonging to Ellena, the First Slith."
 
 tagNecklaceC001=Amulet Oka
 tagNecklaceC001Desc="Jedinečné oko uvnitř drahokamu pohybující se z jedné strany na druhou."
@@ -1413,6 +1434,8 @@ tagMedalA007=[fs]císařská hvězda
 tagMedalB001=[fs]lovcova stuha
 tagMedalB002=[ms]lovcův odznak
 tagMedalB003=$[fs]Ikrixina šupina
+tagMedalB004=Kymon's Badge
+tagMedalB005=Bloodsworn Sigil
 
 tagMedalC001=Znak zabijáka bestií
 tagMedalC002=Odznak houževnatosti
@@ -1433,6 +1456,8 @@ tagMedalC014=Zaklínačova insignie
 tagMedalC015=Kacířova pečeť
 tagMedalC016=Pečeť bouře
 tagMedalC017=Znak falešných bohů
+tagMedalC018=Gutworm's Bloody Seal
+tagMedalC018Desc="Drenched with the blood of his victims."
 
 tagMedalD001=Znak renegáta
 tagMedalD001Desc="Symbol kdysi vypalovaný kacířům, později nošen s pýchou uctívač čarodějnických bohů."
@@ -1490,6 +1515,8 @@ tagBlueprint_RelicC012=Plánek: Relikvie - Úsilí
 tagBlueprint_RelicC013=Plánek: Relikvie - Pustota
 tagBlueprint_RelicC014=Plánek: Relikvie - Zkáza
 tagBlueprint_RelicC015=Plánek: Relikvie - Předek
+tagBlueprint_RelicC016=Blueprint: Relic - Bladedancer's Talisman
+tagBlueprint_RelicC017=Blueprint: Relic - Marauder's Talisman
 tagBlueprint_RelicD001=Plánek: Relikvie - Záštita
 tagBlueprint_RelicD002=Plánek: Relikvie - Kletba
 tagBlueprint_RelicD003=Plánek: Relikvie - Odplata
@@ -1511,6 +1538,8 @@ tagBlueprint_RelicD018=Plánek: Relikvie - Bysmielova nadvláda
 tagBlueprint_RelicD019=Plánek: Relikvie - Oleronův hněv
 tagBlueprint_RelicD020=Plánek: Relikvie - Menhirova bašta
 tagBlueprint_RelicD021=Plánek: Relikvie - Iskandřina rovnováha
+tagBlueprint_RelicD022=Blueprint: Relic - Blademaster's Talisman
+tagBlueprint_RelicD023=Blueprint: Relic - Plunderer's Talisman
 
 tagBlueprint_ComponentA01=Plánek: Aetherická duše
 tagBlueprint_ComponentA02=Plánek: Balistické plátování
@@ -1530,6 +1559,7 @@ tagBlueprint_ComponentA15=Plánek: Rafinovaná sůl
 tagBlueprint_ComponentA16=Plánek: Dutý tesák
 tagBlueprint_ComponentA17=Plánek: Zabarvené stříbro
 tagBlueprint_ComponentA18=Plánek: Posvěcený brousek
+tagBlueprint_ComponentA19=Blueprint: Black Tallow
 tagBlueprint_ComponentC01=Plánek: Oleronova krev
 tagBlueprint_ComponentC02=Plánek: Úlomek z Beronatha
 tagBlueprint_ComponentC03=Plánek: Tajemná jiskra
@@ -1537,6 +1567,7 @@ tagBlueprint_ComponentC04=Plánek: Prizmatický diamant
 tagBlueprint_ComponentC05=Plánek: Strašidelná ocel
 tagBlueprint_ComponentC06=Plánek: Mogdrogenův znak
 tagBlueprint_ComponentC07=Plánek: Stříbřité šipky
+tagBlueprint_ComponentC08=Blueprint: Blessed Whetstone
 
 
 tagBlueprint_WaistB001=Plánek: Plátový opasek lovce odměn
@@ -1716,6 +1747,10 @@ tagRelicC014=Zkáza
 tagRelicC014Desc="Mistrovský úder devíti Dreegových morových ran."
 tagRelicC015=Předek
 tagRelicC015Desc="V našich předcích je klíč skutečného potenciálu."
+tagRelicC016=Bladedancer's Talisman
+tagRelicC016Desc="A symbol of supremacy in the art of wielding two melee weapons at the same time."
+tagRelicC017=Marauder's Talisman
+tagRelicC017Desc="A symbol of supremacy in the art of firing two pistols at the same time with lethal accuracy."
 
 tagRelicD001=Záštita
 tagRelicD001Desc="Ishtakovo vůdčí světlo očišťuje od bolesti a naplní tě novým odhodláním."
@@ -1759,6 +1794,10 @@ tagRelicD020=Menhirova bašta
 tagRelicD020Desc="Země nebude trpět ani zkažené duše, ani odpornou krev pohanů. Povstaň na její obranu a Cairn povstane s tebou."
 tagRelicD021=Iskandřina rovnováha
 tagRelicD021Desc="První lekce, kterou se musí naučit všichni adepti, je najít rovnováhu mezi surovými silami magie, která je všude kolem nás."
+tagRelicD022=Blademaster's Talisman
+tagRelicD022Desc="A symbol of mastery in the art of wielding two melee weapons at the same time."
+tagRelicD023=Plunderer's Talisman
+tagRelicD023Desc="A symbol of mastery in the art of firing two pistols at the same time with lethal accuracy."
 
 #Crafting
 tagCraftTabArtifactA=Relikvie
@@ -1981,6 +2020,7 @@ tagEnchantmentConfirmation=Opravdu chceš použít toto vylepšení?
 tagEnchantmentOverwrite=Opravdu chceš nahradit stávající vylepšení?
 tagEnchantmentSoulboundConfirmation=Opravdu chceš použít toto vylepšení? Vylepšením tohoto předmětu jej svážeš se svou duší.
 tagEnchantmentSoulboundOverwrite=Opravdu chceš nahradit stávající vylepšení? Vylepšením tohoto předmětu jej svážeš se svou duší.
+tagEnchantmentSoulboundRemoval=Are you sure you want to replace the existing Augment? Overwriting the current Augment will remove the Soulbound effect.
 
 tagEnchantTest=ZKUŠEBNÍ NÁZEV
 tagEnchantTestDesc="Zkušební popisek."^w^n(Může vylepšit prsteny)
@@ -2031,8 +2071,8 @@ tagEnchantA009C=Arkovianský růžový prášek III
 tagEnchantA009Desc="Prášek izolovaný z živých červených květin, o kterých je známo, že rostou pouze na vrcholcích Staré Arkovie."^w^n(Použitelné na prsteny a amulety)
 
 tagEnchantA010A=Prach z rozkvetlé plísně I
-tagEnchantA010A=Prach z rozkvetlé plísně II
-tagEnchantA010A=Prach z rozkvetlé plísně III
+tagEnchantA010B=Prach z rozkvetlé plísně II
+tagEnchantA010C=Prach z rozkvetlé plísně III
 tagEnchantA010Desc="Prášek izolovaný z hnědošedé rostliny rostoucí tam, kde hnijí mrtvoly."^w^n(Použitelné na prsteny a amulety)
 
 tagEnchantA011A=Prášek z popínavých trav I
@@ -2341,95 +2381,95 @@ tagEnchantB035B=Uroboruukova stezka II
 tagEnchantB035C=Uroboruukova stezka III
 tagEnchantB035Desc="Chceš-li najít Uroboruukovu stezku, musíš hledat cesty za poznáním všude tam, kam mohou vést."^w^n(Použitelné na prsteny a amulety)
 
-tagEnchantB036A=Exile's Might I
-tagEnchantB036B=Exile's Might II
-tagEnchantB036C=Exile's Might III
-tagEnchantB036Desc="Supreme enchantment devised by the Exile to bestow the strength of ten men upon the user."^w^n(Použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
+tagEnchantB036A=Outcast's Might I
+tagEnchantB036B=Outcast's Might II
+tagEnchantB036BC=Outcast's Might III
+tagEnchantB036Desc="Supreme enchantment devised by the Outcast to bestow the strength of ten men upon the user."^w^n(Applied to all one-handed weapons, shields and off-hands)
 
-tagEnchantB037A=Potent Exile's Might I
-tagEnchantB037B=Potent Exile's Might II
-tagEnchantB037C=Potent Exile's Might III
-tagEnchantB037Desc="Supreme enchantment devised by the Exile to bestow the strength of ten men upon the user."^w^n(Použitelné na všechny obouruční zbraně)
+tagEnchantB037A=Potent Outcast's Might I
+tagEnchantB037B=Potent Outcast's Might II
+tagEnchantB037BC=Potent Outcast's Might III
+tagEnchantB037Desc="Supreme enchantment devised by the Outcast to bestow the strength of ten men upon the user."^w^n(Applied to all two-handed weapons)
 
-tagEnchantB038A=Exile's Frostbite I
-tagEnchantB038B=Exile's Frostbite II
-tagEnchantB038C=Exile's Frostbite III
-tagEnchantB038Desc="Supreme enchantment devised by the Exile to bestow mastery over ice upon the user."^w^n(Použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
+tagEnchantB038A=Outcast's Frostbite I
+tagEnchantB038B=Outcast's Frostbite II
+tagEnchantB038BC=Outcast's Frostbite III
+tagEnchantB038Desc="Supreme enchantment devised by the Outcast to bestow mastery over ice upon the user."^w^n(Applied to all one-handed weapons, shields and off-hands)
 
-tagEnchantB039A=Potent Exile's Frostbite I
-tagEnchantB039B=Potent Exile's Frostbite II
-tagEnchantB039C=Potent Exile's Frostbite III
-tagEnchantB039Desc="Supreme enchantment devised by the Exile to bestow mastery over ice upon the user."^w^n(Použitelné na všechny obouruční zbraně)
+tagEnchantB039A=Potent Outcast's Frostbite I
+tagEnchantB039B=Potent Outcast's Frostbite II
+tagEnchantB039BC=Potent Outcast's Frostbite III
+tagEnchantB039Desc="Supreme enchantment devised by the Outcast to bestow mastery over ice upon the user."^w^n(Applied to all two-handed weapons)
 
-tagEnchantB040A=Exile's Inferno I
-tagEnchantB040B=Exile's Inferno II
-tagEnchantB040C=Exile's Inferno III
-tagEnchantB040Desc="Supreme enchantment devised by the Exile to bestow mastery of hellfire upon the user."^w^n(Použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
+tagEnchantB040A=Outcast's Inferno I
+tagEnchantB040B=Outcast's Inferno II
+tagEnchantB040BC=Outcast's Inferno III
+tagEnchantB040Desc="Supreme enchantment devised by the Outcast to bestow mastery of hellfire upon the user."^w^n(Applied to all one-handed weapons, shields and off-hands)
 
-tagEnchantB041A=Potent Exile's Inferno I
-tagEnchantB041B=Potent Exile's Inferno II
-tagEnchantB041C=Potent Exile's Inferno III
-tagEnchantB041Desc="Supreme enchantment devised by the Exile to bestow mastery of hellfire upon the user."^w^n(Použitelné na všechny obouruční zbraně)
+tagEnchantB041A=Potent Outcast's Inferno I
+tagEnchantB041B=Potent Outcast's Inferno II
+tagEnchantB041BC=Potent Outcast's Inferno III
+tagEnchantB041Desc="Supreme enchantment devised by the Outcast to bestow mastery of hellfire upon the user."^w^n(Applied to all two-handed weapons)
 
-tagEnchantB042A=Exile's Thunder I
-tagEnchantB042B=Exile's Thunder II
-tagEnchantB042C=Exile's Thunder III
-tagEnchantB042Desc="Supreme enchantment devised by the Exile to bestow mastery of the skies upon the user."^w^n(Použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
+tagEnchantB042A=Outcast's Thunder I
+tagEnchantB042B=Outcast's Thunder II
+tagEnchantB042BC=Outcast's Thunder III
+tagEnchantB042Desc="Supreme enchantment devised by the Outcast to bestow mastery of the skies upon the user."^w^n(Applied to all one-handed weapons, shields and off-hands)
 
-tagEnchantB043A=Potent Exile's Thunder I
-tagEnchantB043B=Potent Exile's Thunder II
-tagEnchantB043C=Potent Exile's Thunder III
-tagEnchantB043Desc="Supreme enchantment devised by the Exile to bestow mastery of the skies upon the user."^w^n(Použitelné na všechny obouruční zbraně)
+tagEnchantB043A=Potent Outcast's Thunder I
+tagEnchantB043B=Potent Outcast's Thunder II
+tagEnchantB043BC=Potent Outcast's Thunder III
+tagEnchantB043Desc="Supreme enchantment devised by the Outcast to bestow mastery of the skies upon the user."^w^n(Applied to all two-handed weapons)
 
-tagEnchantB044A=Exile's Venom I
-tagEnchantB044B=Exile's Venom II
-tagEnchantB044C=Exile's Venom III
-tagEnchantB044Desc="Supreme enchantment devised by the Exile to bestow mastery over poisons upon the user."^w^n(Použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
+tagEnchantB044A=Outcast's Venom I
+tagEnchantB044B=Outcast's Venom II
+tagEnchantB044BC=Outcast's Venom III
+tagEnchantB044Desc="Supreme enchantment devised by the Outcast to bestow mastery over poisons upon the user."^w^n(Applied to all one-handed weapons, shields and off-hands)
 
-tagEnchantB045A=Potent Exile's Venom I
-tagEnchantB045B=Potent Exile's Venom II
-tagEnchantB045C=Potent Exile's Venom III
-tagEnchantB045Desc="Supreme enchantment devised by the Exile to bestow mastery over poisons upon the user."^w^n(Použitelné na všechny obouruční zbraně)
+tagEnchantB045A=Potent Outcast's Venom I
+tagEnchantB045B=Potent Outcast's Venom II
+tagEnchantB045BC=Potent Outcast's Venom III
+tagEnchantB045Desc="Supreme enchantment devised by the Outcast to bestow mastery over poisons upon the user."^w^n(Applied to all two-handed weapons)
 
-tagEnchantB046A=Exile's Deathtouch I
-tagEnchantB046B=Exile's Deathtouch II
-tagEnchantB046C=Exile's Deathtouch III
-tagEnchantB046Desc="Supreme enchantment devised by the Exile to bestow mastery over life's essence upon the user."^w^n(Použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
+tagEnchantB046A=Outcast's Deathtouch I
+tagEnchantB046B=Outcast's Deathtouch II
+tagEnchantB046BC=Outcast's Deathtouch III
+tagEnchantB046Desc="Supreme enchantment devised by the Outcast to bestow mastery over life's essence upon the user."^w^n(Applied to all one-handed weapons, shields and off-hands)
 
-tagEnchantB047A=Potent Exile's Deathtouch I
-tagEnchantB047B=Potent Exile's Deathtouch II
-tagEnchantB047C=Potent Exile's Deathtouch III
-tagEnchantB047Desc="Supreme enchantment devised by the Exile to bestow mastery over life's essence upon the user."^w^n(Použitelné na všechny obouruční zbraně)
+tagEnchantB047A=Potent Outcast's Deathtouch I
+tagEnchantB047B=Potent Outcast's Deathtouch II
+tagEnchantB047BC=Potent Outcast's Deathtouch III
+tagEnchantB047Desc="Supreme enchantment devised by the Outcast to bestow mastery over life's essence upon the user."^w^n(Applied to all two-handed weapons)
 
-tagEnchantB048A=Exile's Wrath I
-tagEnchantB048B=Exile's Wrath II
-tagEnchantB048C=Exile's Wrath III
-tagEnchantB048Desc="Supreme enchantment devised by the Exile to bestow mastery over the aether upon the user."^w^n(Použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
+tagEnchantB048A=Outcast's Wrath I
+tagEnchantB048B=Outcast's Wrath II
+tagEnchantB048BC=Outcast's Wrath III
+tagEnchantB048Desc="Supreme enchantment devised by the Outcast to bestow mastery over the aether upon the user."^w^n(Applied to all one-handed weapons, shields and off-hands)
 
-tagEnchantB049A=Potent Exile's Wrath I
-tagEnchantB049B=Potent Exile's Wrath II
-tagEnchantB049C=Potent Exile's Wrath III
-tagEnchantB049Desc="Supreme enchantment devised by the Exile to bestow mastery over the aether upon the user."^w^n(Použitelné na všechny obouruční zbraně)
+tagEnchantB049A=Potent Outcast's Wrath I
+tagEnchantB049B=Potent Outcast's Wrath II
+tagEnchantB049BC=Potent Outcast's Wrath III
+tagEnchantB049Desc="Supreme enchantment devised by the Outcast to bestow mastery over the aether upon the user."^w^n(Applied to all two-handed weapons)
 
-tagEnchantB050A=Exile's Riftstorm I
-tagEnchantB050B=Exile's Riftstorm II
-tagEnchantB050C=Exile's Riftstorm III
-tagEnchantB050Desc="Supreme enchantment devised by the Exile to bestow mastery over the chaotic void upon the user."^w^n(Použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
+tagEnchantB050A=Outcast's Riftstorm I
+tagEnchantB050B=Outcast's Riftstorm II
+tagEnchantB050BC=Outcast's Riftstorm III
+tagEnchantB050Desc="Supreme enchantment devised by the Outcast to bestow mastery over the chaotic void upon the user."^w^n(Applied to all one-handed weapons, shields and off-hands)
 
-tagEnchantB051A=Potent Exile's Riftstorm I
-tagEnchantB051B=Potent Exile's Riftstorm II
-tagEnchantB051BC=Potent Exile's Riftstorm III
-tagEnchantB051Desc="Supreme enchantment devised by the Exile to bestow mastery over the chaotic void upon the user."^w^n(Použitelné na všechny obouruční zbraně)
+tagEnchantB051A=Potent Outcast's Riftstorm I
+tagEnchantB051B=Potent Outcast's Riftstorm II
+tagEnchantB051BC=Potent Outcast's Riftstorm III
+tagEnchantB051Desc="Supreme enchantment devised by the Outcast to bestow mastery over the chaotic void upon the user."^w^n(Applied to all two-handed weapons)
 
-tagEnchantB052A=Exile's Bastion I
-tagEnchantB052B=Exile's Bastion II
-tagEnchantB052C=Exile's Bastion III
-tagEnchantB052Desc="Supreme enchantment devised by the Exile to bestow skin of iron upon the user."^w^n(Použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
+tagEnchantB052A=Outcast's Bastion I
+tagEnchantB052B=Outcast's Bastion II
+tagEnchantB052BC=Outcast's Bastion III
+tagEnchantB052Desc="Supreme enchantment devised by the Outcast to bestow skin of iron upon the user."^w^n(Applied to all one-handed weapons, shields and off-hands)
 
-tagEnchantB053A=Potent Exile's Bastion I
-tagEnchantB053B=Potent Exile's Bastion II
-tagEnchantB053C=Potent Exile's Bastion III
-tagEnchantB053Desc="Supreme enchantment devised by the Exile to bestow skin of iron upon the user."^w^n(Použitelné na všechny obouruční zbraně)
+tagEnchantB053A=Potent Outcast's Bastion I
+tagEnchantB053B=Potent Outcast's Bastion II
+tagEnchantB053BC=Potent Outcast's Bastion III
+tagEnchantB053Desc="Supreme enchantment devised by the Outcast to bestow skin of iron upon the user."^w^n(Applied to all two-handed weapons)
 
 tagEnchantB054A=Nature's Wrath I
 tagEnchantB054B=Nature's Wrath II
@@ -2628,17 +2668,17 @@ tagCompA057Desc="Rozpínající se na základě Aetherických zrůdností."^w^n(
 tagCompA058Name=Náboj Prázdnoty
 tagCompA058Desc="Namočený v čerstvé Chthonické krvi."^w^n(Může vylepšit pušky a kuše)
 
-tagCompA059Name=Slitina Aetheru a oceli
-tagCompA059Desc="Mimořádně lehký a přitom odolný kov."^w^n(Může vylepšit štíty)
+tagCompA059Name=Reinforced Shell
+tagCompA059Desc=""A nearly impervious shell that has absorbed countless blows."^w^n(Used in shields)
 
 tagCompA060Name=Otlučená skořepina
 tagCompA060Desc="Skořepina, která přečkala zdánlivě nemožné zásahy."^w^n(Může vylepšit štíty)
 
-tagCompA061Name=Lepkavý jed
-tagCompA061Desc="Kyselá žluč z obzvláště jedovatých tvorů."^w^n(Může vylepšit všechny druhy zbroje)
+tagCompA061Name=Antivenom Salve
+tagCompA061Desc="Neutralizovaná žluč z obzvláště jedovatých tvorů."^w^n(Může vylepšit všechny druhy zbroje)
 
-tagCompA062Name=Vyztužená skořepina
-tagCompA062Desc="Téměř neproniknutelná skořepina vyrobená z řady hrozivých ostrých trnů."^w^n(Může vylepšit štíty)
+tagCompA062Name=Zoubkovaná skořepina
+tagCompA062Desc="Tuhá skořepina vyrobená z řady hrozivých ostrých trnů."^w^n(Může vylepšit štíty)
 
 
 tagCompB001Name=^kBysmielova vazba
@@ -2717,6 +2757,49 @@ tagCompAmmoBoxDesc="Aby temné síly zamořující Cairn byly zlikvidovány, mů
 tagCompAScrap=Kovový šrot
 tagCompAScrapDesc="Kusy železa, zlámané šipky, kožené šňůry nebo nekvalitní kovy mohou být sloučeny dohromady a být tak použity ke zpevnění předmětů nebo staveb."
 
+#ItemFactionBoosters
+
+tagFactionBooster={^E}Reputation gain increased by {^H}{%d0}% {^E}with {%s1} on {%s2} Difficulty
+tagFactionAlreadyBoosted={^r}[This faction has already had a Faction Writ applied to this difficulty]
+
+tagBoosterADesc=Faction documents recognizing you as a paragon of their people.
+tagBoosterBDesc=Faction documents entrusting another entity as a representative. ^oCan be placed in the Transfer Stash to use on other characters.
+tagBoosterBL_A01=Writ of the Black Legion
+tagBoosterBL_A02=Greater Writ of the Black Legion
+tagBoosterBL_B01=Mandate of the Black Legion
+tagBoosterBL_B02=Greater Mandate of the Black Legion
+tagBoosterBL_B03=Mythical Mandate of the Black Legion
+tagBoosterDC_A01=Writ of Devil's Crossing
+tagBoosterDC_A02=Greater Writ of Devil's Crossing
+tagBoosterDC_B01=Mandate of Devil's Crossing
+tagBoosterDC_B02=Greater Mandate of Devil's Crossing
+tagBoosterDC_B03=Mythical Mandate of Devil's Crossing
+tagBoosterEXILE_A01=Writ of the Outcast
+tagBoosterEXILE_A02=Greater Writ of the Outcast
+tagBoosterEXILE_B01=Mandate of the Outcast
+tagBoosterEXILE_B02=Greater Mandate of the Outcast
+tagBoosterEXILE_B03=Mythical Mandate of the Outcast
+tagBoosterHS_A01=Writ of Homestead
+tagBoosterHS_A02=Greater Writ of Homestead
+tagBoosterHS_B01=Mandate of Homestead
+tagBoosterHS_B02=Greater Mandate of Homestead
+tagBoosterHS_B03=Mythical Mandate of Homestead
+tagBoosterKC_A01=Writ of the Kymon's Chosen
+tagBoosterKC_A02=Greater Writ of the Kymon's Chosen
+tagBoosterKC_B01=Mandate of the Kymon's Chosen
+tagBoosterKC_B02=Greater Mandate of the Kymon's Chosen
+tagBoosterKC_B03=Mythical Mandate of the Kymon's Chosen
+tagBoosterODV_A01=Writ of the Order of Death's Vigil
+tagBoosterODV_A02=Greater Writ of the Order of Death's Vigil
+tagBoosterODV_B01=Mandate of the Order of Death's Vigil
+tagBoosterODV_B02=Greater Mandate of the Order of Death's Vigil
+tagBoosterODV_B03=Mythical Mandate of the Order of Death's Vigil
+tagBoosterRO_A01=Writ of the Rovers
+tagBoosterRO_A02=Greater Writ of the Rovers
+tagBoosterRO_B01=Mandate of the Rovers
+tagBoosterRO_B02=Greater Mandate of the Rovers
+tagBoosterRO_B03=Mythical Mandate of the Rovers
+
 
 #Misc
 
@@ -2754,6 +2837,7 @@ tagBonusExperience={%+d0} zkušeností
 tagBonusMoney={%+d0} železných mincí
 tagBonusSkillPoint={%+d0} bodů dovedností
 tagBonusAttribPoint={%+d0} bodů atributů
+
 
 #ItemSets
 
@@ -2817,6 +2901,9 @@ tagItemSetC019Desc="Klenoty nošené Dreegovými Vyvolenými."
 
 tagItemSetC020Name=Síra
 tagItemSetC020Desc="Zbraň a zbroj nošená Ulzuinovými oddanými."
+
+tagItemSetC021Name=The Eastern Pledge
+tagItemSetC021Desc="Robes worn by revered priests from a foreign land beyond the great seas."
 
 tagItemSetD001Name=Soudcova zbroj
 tagItemSetD001Desc="Zbroj Tichého Horvalda, nejvyššího soudce Strážců Menhiru."
@@ -3270,6 +3357,7 @@ tagChestCorpse_RoverElder=Mrtvola Mathiase staršího
 tagChestCorpse_Jacob=Jacobova mrtvola
 tagChestCorpse_Refugee=Mrtvola Dahliy Taverin
 tagChestCorpse_BlackLegion=Ostatky Černého legionáře
+tagChestCorpse_Malkadarr=Malkadarrovy ostatky
 
 tagLectern_WardensLabA01=Výzkumný deníček
 tagLectern_OldArkoviaRuinsA01=Starodávný řečnický pult
@@ -3287,6 +3375,7 @@ tagChestHeroD05=Nádherná truhla
 tagChestHeroD06=Mimořádná truhlice
 tagChestHeroD07=Shluk obsidiánů
 tagChestHeroD08=Obsidiánový poklad
+tagChestNemesis01=Poklad božského hrdiny
 
 tagBreakableA01=Sud
 tagBreakableA02=Bedna
@@ -3313,7 +3402,7 @@ tagChestLockedQuest= {^R} ~ Uzamčeno úkolem
 tagChestBossOneShot_Warden=Wardenova truhla
 tagChestBossOneShot_Darius=Dariova truhla
 tagChestOneShot_Sacrifice=Isaacova skrýš
-tagChestOneShot_Generic01=Nádherná skrýš
+tagChestOneShot_Generic01=Vznešená skrýš
 tagChestOneShot_Generic02=Vznešená skrýš
 tagChestOneShot_BurrwitchCave01=Hromada nestvůr
 tagChestOneShot_LowerCrossingCave01=Hromada nestvůr
@@ -3340,7 +3429,9 @@ tagUGDoorMine01=Vstup do dolu
 tagUGDoorRuin01=Vstup do zříceniny
 tagUGDoorIronDoorSecret01=Železné dveře
 tagUGDoorPortcullisFloor01=Portcullis
-tagDoorLocked=Zamčeno
+tagUGDoorBoat=Row Boat
+tagUGDoorObsidian=Obsidian Spines
+tagDoorLocked= {^R} ~ Locked
 
 tagDoorOneWay01=Útěk na povrch
 tagDoorLever01=Ovládání portcullisu
@@ -3354,11 +3445,15 @@ tagEpicDoor_StepsOfTorment=Brány Utrpení
 tagEpicDoor_StepsOfTormentLocked= {^R} ~ Zapečetěno starodávnou silou
 tagLocked= {^R} ~ zamčeno
 tagBlocked= {^R} ~ zborcená jeskyně v cestě
+tagLocked_BlackLegion= {^R} ~ Sealed by the Black Legion
 tagUGDoorDermapteranQueen=Vstup do vosího hnízda
 tagUGDoorDermapteranQueenLocked= {^R} ~ střeženo Velkými vezíry
 tagDoorRampart=Zabarikádované dveře
 tagDoorWarden=Železné dveře
 tagDoorFarmland=Dřevěná brána
+tagDoorLab=Reinforced Door
+tagLocked_Kymon= {^R} ~ střeženo Otcem Kymonem
+tagLocked_Necro= {^R} ~ střeženo Řádem strážců smrti
 
 #Quest Rewards
 
