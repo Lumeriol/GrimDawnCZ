@@ -11,21 +11,34 @@ tagBlackLegion_GuardMeleeA01=Pěšák Černé legie
 tagBlackLegion_GuardRangedA01=Střelec Černé legie
 
 tagBlackLegion_MeleeA01=Stoupenec Černé legie
+tagBlackLegion_MeleeB01=Black Legion ~ Vanguard
 tagBlackLegion_RangedA01=OStrostřelec Černé legie
 tagBlackLegion_CasterB01=Bojový čaroděj Černé legie
+tagBlackLegion_CasterB02=Black Legion ~ Combat Medic
 tagBlackLegion_ChampionC01=Kapitán Černé legie
 
 tagNecromancer_CasterA01=Zelenáč Řádu Strážců smrti
+tagNecromancer_MeleeA01=Death's Vigil ~ Neophyte
 tagNecromancer_CasterB01=Pomocník Řádu Strážců smrti
 tagNecromancer_ChampionC01=Pán děsu Řádu Strážců smrti
+tagNecromancerH01=Urokoraa, Speaker for the Dead
+tagNecromancerH02=Nokultaak, the Reaper
+tagNecromancerH03=Naakala ~ Regenerator
+tagNecromancerH04=Misonaak ~ Shielded
 tagNecromancer_Boss01=Master Ravok, Smrtící našeptávač
 tagNecromancer_Boss02=Malkadarr, šampión Řádu Strážců smrti
 
 tagZealot_MeleeA01=Zélóta Kymonových vyvolených
 tagZealot_RangedA01=Střelecký zélóta Kymonových vyvolených
-tagZealot_CasterB01=Žhář Kymonových vyvolených
+tagZealot_CasterB01=Pán bouří Kymonových vyvolených
 tagZealot_ChampionC01=Ostrá panna Kymonových vyvolených
-tagZealot_AncestralSpirit=Rodový duch
+tagZealotH01=Sister Oseltia, the Storm Maiden
+tagZealotH02=Brother Baldris, Charge of Empyrion
+tagZealotH03=Sister Thandria ~ Defender
+tagZealotH04=Brother Handrick ~ Burning
+tagZealot_Boss01=Sister Bravna, the Skybreaker
+tagZealot_Boss02=Sharanatu, Harbinger of the Void
+tagZealot_AncestralSpirit=Archon Barthollem
 
 #CreatureAetherial
 
@@ -38,6 +51,7 @@ tagAetherObeliskA01=Aetherianský obelisk
 tagAetherObeliskB01=Aetherianský původní obyvatel
 
 tagBossAetherObelisk01=Plamenný posel
+tagBossAetherObelisk02=Herald of Destruction
 
 tagEnemyAetherialA01=Aetherianský hlídač
 tagEnemyAetherialB01=Aetherianský přízrak
@@ -47,6 +61,7 @@ tagEnemyAetherialAbominationB01=Aetherická ohavnost
 tagEnemyAetherialAbominationC01=Splývající ďas
 
 tagAetherialAbominationBoss01=Sloučenina
+tagAetherialCommanderBoss01=Commander Lucius
 
 #CreatureBoar
 
@@ -88,6 +103,8 @@ tagEnemyCelestial_QuestA01=Nebeský předmět
 
 #CreatureChthonian
 
+tagEnemyChthonianAbomination=Chthonian Unraveler
+
 tagEnemyChthonianMinionA01=Chthonský posel
 tagEnemyChthonianMinionB01=Chthonský rozsévač krve
 tagEnemyChthonianMinionC01=Chthonský zkázonos
@@ -99,6 +116,9 @@ tagChthonianMinionHeroH04=Ordran'Daroth
 tagChthonianMinionHeroH05=Pulv'Daroth
 tagChthonianMinionHeroH06=Maga'Lugal ~ obránce
 tagChthonianMinionHeroH07=Sharanatu ~ chráněnec
+
+tagChthonianBoss01=Lagoth'Ak, Harbinger of Blood
+tagChthonianBoss02=Shar'Zul, Harbinger of Chaos
 
 #CreatureChthonianFiend
 
@@ -116,6 +136,7 @@ tagVoidFiendBoss01=Ballog'Nath Pekelný oheň
 
 #CreatureChthonianDevourer
 
+tagEnemyChthonianDevourerA00=Chthonian Swarmer
 tagEnemyChthonianDevourerA01=Chthonský hladovec
 tagEnemyChthonianDevourerB01=Chthonský žrout
 tagEnemyChthonianDevourerB02=Chthonský polykač
@@ -185,6 +206,20 @@ tagGhostBoss03=Laudos Vagra
 tagGhostBoss04=Rhovena Kur
 tagGhostBoss05=Alkamos, vykonavatel spravedlnosti
 tagGhostBoss06=Smuteční přízrak
+
+#Ghoul
+
+tagEnemyGhoulA01=Ghoul
+tagEnemyGhoulB01=Ghoul Corpse-eater
+tagEnemyGhoulB02=Ghoul Blood-drinker
+tagEnemyGhoulC01=Ghoul Necrolyte
+
+tagEnemyGhoulH01=
+tagEnemyGhoulH02=
+tagEnemyGhoulH03=
+tagEnemyGhoulH04=
+
+tagGhoulBoss01=Nacrathan, the Timeless
 
 #CreatureGolem
 
@@ -281,9 +316,17 @@ tagHarvestmanHeroH04=Crowfiend ~ rváč
 
 tagEnemyBloodswornA01=Krvepřísežník ~ pochlebovač
 tagEnemyBloodswornB01=Krvepřísežník ~ fanatik
+tagEnemyBloodswornB02=Bloodsworn Summoner
+tagEnemyBloodswornB03=Bloodsworn Void-Caller
 tagEnemyBloodswornC01=Krvepřísežník ~ kněz
+tagEnemyBloodswornC02=Bloodsworn Doomsayer
+
 
 tagHumanCultistHeroH01=Julius Crowley, vysávač mysli
+tagHumanCultistHeroH02=Lucius Bloodboil
+tagHumanCultistHeroH03=Nathalian, the Houndcaller
+tagHumanCultistHeroH04=Ignacius ~ Burning
+tagHumanCultistHeroH05=Bolivar the Bloodthirsty ~ Regenerator
 tagEnemyBloodswornMiniBoss01=Salazar, čepel Ch'thona
 tagEnemyBloodswornMiniBoss02=Bolvar, vazač krve
 tagEnemyBloodswornMiniBoss03=Zaria Řezbář
@@ -357,6 +400,8 @@ tagHumanPossessedHeroH03=Kamladris, zmrzlé srdce
 tagHumanPossessedHeroH04=Corpus ~ zrcadlící
 tagHumanPossessedHeroH05=Espiris ~ pomocník
 
+tagHumanPossessedBoss01=Noveria Stormfire
+
 #CreatureInsectDermapteran
 
 tagEnemyDermapteranA01=Škvor ~ nosatec
@@ -426,6 +471,9 @@ tagEnemyManticoreB01=Mantikoří odpadkář
 tagEnemyManticoreB02=Mantikoří noční stopař
 tagEnemyManticoreC01=Mantikoří alfa samec
 
+tagEnemyManticoreAetherA01=Fleshwarped Manticore
+tagEnemyManticoreAetherB01=Fleshwarped Wastestalker
+tagEnemyManticoreAetherC01=Fleshwarped Aethermane
 
 tagManticoreHeroH01=Raxa, nefritová lovkyně
 tagManticoreHeroH02=Neleron Oko smrti
@@ -441,12 +489,15 @@ tagManticoreBoss01=Mogara, Velká matriarcha
 tagEnemyObsidianDefilerA01=Obsidiánový břídil
 tagEnemyObsidianDefilerB01=Obsidiánový znečišťovatel
 tagEnemyObsidianDefilerC01=Obsidiánový vyhlazovač
+tagEnemyObsidianDefilerC02=Obsidian Annihilator
 
 tagObsidianDefilerHeroH01=Obsidius, titán
 tagObsidianDefilerHeroH02=Ch'thallis, uchvatitel
 tagObsidianDefilerHeroH03=Kelphat'Idoth ~ elektrizující
 tagObsidianDefilerHeroH04=Orudin'Idoth ~ zmrzlý
 tagObsidianDefilerHeroH05=Drygol'Ukog ~ dobíječ
+
+tagObsidianDefilerBoss01=Bane'Gargoth
 
 #CreaturePrawns
 
@@ -545,6 +596,7 @@ tagSkeletalGolemHeroH05=Tvůrce chaosu Olagarr ~ dotčený Prázdnotou
 
 
 tagSkeletalGolemBossB01=Věčný Ilgorr
+tagSkeletalGolemBossB02=Uroboruuk's Guardian
 
 #CreatureSkeleton
 
@@ -580,8 +632,11 @@ tagGravestone_Skeleton03=Ryan
 tagEnemyDeepMire_SlithWarriorA01=Válečník Hlubokých močálů
 tagEnemyDeepMire_SlithWarriorB01=Předsunutá hlídka Hlubokých močálů
 tagEnemyDeepMire_SlithWarriorC01=Šampión Hlubokých močálů
+tagEnemyDeepMire_SlithWarriorC02=Deepmire Tidehunter
 tagEnemyDeepMire_SlithShamanB01=Šaman Hlubokých močálů
+tagEnemyDeepMire_SlithShamanB02=Deepmire Scourge-Tamer
 tagEnemyDeepMire_SlithShamanC01=Zaříkávač Hlubokých močálů
+tagEnemyDeepMire_SlithShamanC02=Deepmire Pureblood
 
 tagEnemyVenomtongue_SlithWarriorA01=Válečník Jedovatých jazyků
 tagEnemyVenomtongue_SlithWarriorB01=Předsunutá hlídka Jedovatých jazyků
@@ -604,6 +659,7 @@ tagSlithHeroH06=Avaladran ~ zkažený
 
 tagSlithBossB01=Viloth Narušitel
 tagSlithBossB02=Zapomenutý Primordian
+tagSlitbBossB03=Ellena, První Slith
 
 tagEnemyMurkTide_SlithWarriorA01=Válečník Temných proudů
 tagEnemyMurkTide_SlithWarriorB01=Předsunutá hlídka Temných proudů
@@ -652,6 +708,9 @@ tagAetherHorrorHeroH01=Aetheros
 
 tagEnemyTrapA01=Zápalná past
 tagEnemyTrapA02=Odpalovací past
+tagEnemyTrapA03=Obsidian Shard
+tagEnemyTrapA04=Obsidian Anomaly
+tagEnemyTrapA05=Floor Spikes
 
 #CreatureTrolls
 
@@ -746,6 +805,21 @@ tagWormHeroH03=Kamenolam ~ chráněnec
 tagWormHeroH04=Naštvaný červ ~ zkažený
 tagWormHeroH05=Přetržený červ ~ dotčený Prázdnotou
 
+#CreatureYeti
+
+tagEnemyYetiA01=Chillmane Brute
+tagEnemyYetiB01=Chillmane Rager
+tagEnemyYetiB02=Chillmane Icesplitter
+tagEnemyYetiC01=Chillmane Alpha
+
+tagYetiHeroH01=
+tagYetiHeroH02=
+tagYetiHeroH03=
+tagYetiHeroH04=
+
+tagYetiBoss01=
+
+
 #CreatureZombie
 
 tagEnemyZombieA01=Oživlá mrtvola
@@ -837,6 +911,8 @@ tagEnemySummonRifthound=Azurový pes
 tagEnemySummonObsidianCluster=Trs obsidiánů
 tagEnemySummonRaven=Krkavec
 tagEnemySummonAetherTrap=Aetherická past
+tagEnemySummonIceCrystal=Ice Crystal
+tagEnemySummonTentacle=Writhing Tentacle
 
 #Boss&Quest
 
@@ -846,6 +922,70 @@ tagQuestEnemyBanditForge=Vyhnaný kovář
 tagQuestChthonianMonstrosity=Thall'Nosh Rozparovač
 
 tagBossTheWarden01=Warden
+tagBossOutcast01=Anasteria, the Rogue Aetherial
+tagBossOutcast02=Anasteria, Vengeance of the Aether
+tagBossOutcast03=Anasteria, Wrath of the Aether
+
+#Nemesis
+tagNemesis_Aetherial01=Valdaran, the Storm Scourge
+tagNemesis_Aetherial02=Obligious Foul
+tagNemesis_Aetherial03=The Pariah
+tagNemesis_Chthonian01=Jac'Aran, the Eternal Stone
+tagNemesis_Chthonian02=Benn'Jahr, the Colossal
+tagNemesis_Chthonian03=Balgoth'Zul, the Endless Hunger
+tagNemesis_Kymon01=Lord Infernus
+tagNemesis_Kymon02=The Iron Maiden
+tagNemesis_OrderDeathsVigil01=Zantarin, the Immortal
+tagNemesis_OrderDeathsVigil02=Cabala Rotweaver
+tagNemesis_Outlaw01=Fabius "the Unseen" Gonzar
+tagNemesis_Outlaw02=Thallion Vos
+tagNemesis_Outlaw03=Dead-Eye
+tagNemesis_Undead01=Allminoxius, the Artificer
+tagNemesis_Undead02=Moosilauke, the Chillwind
+tagNemesis_Undead03=Toxemus
+
+
+#Bounties
+tagBountyBL08=Gluttrius'Maw
+tagBountyBL09=Sicrix, the Skittering
+tagBountyBL10=Emberjaw
+tagBountyBL17=Harrath, the Returned
+tagBountyBL18=Padmanestia
+tagBountyBL19=Corprus
+tagBountyBL20=Luthus'Balok
+tagBountyDC06="The Bruiser" Romanov
+tagBountyDC07=Bolla "The Raven"
+tagBountyDC08=Slathra, the Plagued
+tagBountyDC09=Ballior ~ Burning
+tagBountyDC10="The Bruiser" Romanov
+tagBountyDC11=Caspis, the Blooddrinker
+tagBountyDC15=Rostov, the Aetherflame
+tagBountyDC17=Nalloth, the Frostbound
+tagBounyExile12=Nucus'Dal
+tagBounyExile13=Innu'Garbal
+tagBounyExile14=Conastaria
+tagBounyExile15=Ludia Starfire
+tagBountyHS09=Bogloth the Marrowdrinker
+tagBountyHS10=The Locust
+tagBountyHS11=Vizier Haxin
+tagBountyHS12=Glukrog Lifedrinker
+tagBountyHS13=Phabius ~ Electrified
+tagBountyKC07=Holvuur Bonespeaker
+tagBountyKC08=Igniaa Venomtongue
+tagBountyKC09=Vom'Zul
+tagBountyKC10=Thullon, Chosen of Ch'thon
+tagBountyKC11=Abathis, the Withered
+tagBountyKC19=Ludia Bloodwhisper
+tagBountyODV06=Halvastra Wrathfire
+tagBountyODV07=Horvald Shieldbreaker
+tagBountyODV08=Olga Flamebearer
+tagBountyODV09=Narroth, the Behemoth
+tagBountyODV10=Barrostrandt, the Ascended
+tagBountyODV11=Gravvis, the Decayed
+tagBountyODV12=Narl'Sarroth
+tagBountyRO10=Oligeane Dar
+tagBountyRO11=Rixna Plaguefeather
+tagBountyRO12=Mortallis
 
 #Races
 

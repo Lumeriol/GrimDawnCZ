@@ -168,3 +168,15 @@ ach053Desc=Zlikviduj ???
 
 ach054Title=Místnost smrti
 ach054Desc=???
+
+ach055Title=Seberme ten lísteček
+ach055Desc=Posbírej 5 zápisků
+
+ach056Title=Sběratel papírků
+ach056Desc=Posbírej 20 zápisků
+
+ach057Title=Knihomol
+ach057Desc=Posbírej 50 zápisků
+
+ach058Title=Pravý mstitel
+ach058Desc=Zabij všechny božské hrdiny (červené jméno) na elitní nebo ultimátní obtížnosti.
