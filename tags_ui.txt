@@ -86,7 +86,7 @@ tagQuestRewardXP=Zkuš.: {%d0}
 tagQuestRewardReputationPositive={%s1}: +{%d0} přízně
 tagQuestRewardReputationNegative={%s1}: -{%d0} přízně
 tagQuestRewardAcceptButton=Přijmout
-tagQuestBlockedDescription=Quest Locked in this Session based on Host's Progress.
+tagQuestBlockedDescription=Úkol je prozatím zablokován, hostující hráč jej ještě nedokončil.
 
 #Faction
 
@@ -103,9 +103,9 @@ tagFactionSurvivorsRewards1=-
 tagFactionSurvivorsRewards2=-
 tagFactionSurvivorsRewards3=-
 tagFactionSurvivorsRewards4=nic
-tagFactionSurvivorsRewards5=Nový úkol {^n}Přístup ke frakčnímu trhovci
-tagFactionSurvivorsRewards6=New Quest {^n}Access to Bounty Table {^n}Faction Augments {^n}Faction Blueprints
-tagFactionSurvivorsRewards7=New Dungeon/Quest {^n}Faction Weapons {^n}Faction Armor
+tagFactionSurvivorsRewards5=Nový úkol {^n}Přístup k frakčnímu trhovci
+tagFactionSurvivorsRewards6=Nový úkol {^n}Přístup k frakční vývěsce {^n}Frakční vylepšení {^n}Frakční plánky
+tagFactionSurvivorsRewards7=Nová jeskyně / úkol {^n}Frakční výzbroj {^n}Frakční výstroj
 tagFactionSurvivorsRewards8=Vzácná vylepšení {^n}Frakční doplňky
 tagFactionAetherials=Aetheriané
 tagFactionAetherialsInfo= Jak pošetilí a hamižní byli čarodějové z Cairnu, poblouzněni magickým závojem známým jako Aether, aniž by aspoň pojali nějaké podezření nebo se ohlédli zpětně na své činy.{^n}{^n} Aetheriané vstoupili do Cairnu v době, která je teď známa jako Ponurý úsvit, kdy posedli nespočet lidí a zmasakrovali mnohé další. Nejzavrženíhodnější z toho všeho je, že začali oživovat padlé jako zmutované nemrtvé příšery, bezduché pěšáky určené k další invazi. Jejich přítomnost v Cairnu stačí k tomu, aby začala mutovat i divočina - krotká zvířata se začala měnit v brutální příšery. {^n}{^n} Ovšem nejdivnější je jejich zřejmá nenávist ke Chthonskému kultu, který, stejně jako oni, si nenechá ujít žádnou příležitost bojovat proti hrůzám z Prázdnoty.
@@ -145,7 +145,7 @@ tagFactionUser0Rewards1=-
 tagFactionUser0Rewards2=-
 tagFactionUser0Rewards3=-
 tagFactionUser0Rewards4=nic
-tagFactionUser0Rewards5=Nový úkol {^n}Přístup ke frakčnímu trhovci
+tagFactionUser0Rewards5=Nový úkol {^n}Přístup k frakčnímu trhovci
 tagFactionUser0Rewards6=Přístup k vývěsce {^n}Frakční vylepšení {^n}Frakční plánky
 tagFactionUser0Rewards7=Nový úkol {^n}Frakční výzbroj {^n}Frakční výstroj
 tagFactionUser0Rewards8=Vzácná vylepšení {^n}Frakční doplňky
@@ -157,8 +157,8 @@ tagFactionUser2Rewards1=-
 tagFactionUser2Rewards2=-
 tagFactionUser2Rewards3=-
 tagFactionUser2Rewards4=nic
-tagFactionUser2Rewards5=Nový úkol {^n}Přístup ke frakčnímu trhovci
-tagFactionUser2Rewards6=New Quest {^n}Access to Bounty Table {^n}Faction Augments {^n}Faction Blueprints
+tagFactionUser2Rewards5=Nový úkol {^n}Přístup k frakčnímu trhovci
+tagFactionUser2Rewards6=Nový úkol {^n}Přístup k frakční vývěsce {^n}Frakční vylepšení {^n}Frakční plánky
 tagFactionUser2Rewards7=Nový úkol {^n}Frakční výzbroj {^n}Frakční výstroj
 tagFactionUser2Rewards8=Vzácná vylepšení {^n}Frakční doplňky
 tagFactionUser3=Svobodní muži Corriganova dolu
@@ -179,7 +179,7 @@ tagFactionUser4Rewards3=Nohsledi Vyvrhelů
 tagFactionUser4Rewards4=nic
 tagFactionUser4Rewards5=Nový úkol
 tagFactionUser4Rewards6=Nový úkol
-tagFactionUser4Rewards7=Nový úkol {^n}Přístup ke frakčnímu trhovci
+tagFactionUser4Rewards7=Nový úkol {^n}Přístup k frakčnímu trhovci
 tagFactionUser4Rewards8=Vzácná vylepšení
 tagFactionUser5=Řád strážců smrti
 tagFactionUser5Info=Stanoviště: Bašta zármutku {^n}{^n} Řád strážců smrti představuje poslední pojítko s téměř ztraceným uměním nekromancie - velmi drahých vědomostí předávaných mezi svými členy od jejich velmistra Uroboruuka. {^n}{^n} Členové řádu se nebojí smrti. Místo toho sí osvojují drsné lekce ve víře, že díky ovládnutí mistrovského umění smrti se stanou způsobnější ve světě samotném. {^n}{^n} Přes po celá staletí trvající pronásledování říší, Řádu nejsou cizí předsudky a kontroverze, ale nikdy se nesetkali s nepřítelem tak nelítostným jako jsou Kymonovi vyvolení. Vyvolení se zaměřili pouze na očištění Cairnu od zkaženosti, pro něž je Řád pouze jakousi parodií, která musí být zlikvidována.
@@ -188,7 +188,7 @@ tagFactionUser5Rewards2=Přídavná tábořiště hrdinů
 tagFactionUser5Rewards3=Dodatečná tábořiště
 tagFactionUser5Rewards4=nic
 tagFactionUser5Rewards5=Přístup ke frakčnímu trhovci
-tagFactionUser5Rewards6=New Quest {^n}Access to Bounty Table {^n}Faction Augments {^n}Faction Blueprints
+tagFactionUser5Rewards6=Nový úkol {^n}Přístup k fračkní vývěsce {^n}Frakční vylepšení {^n}Frakční plánky
 tagFactionUser5Rewards7=Nový úkol {^n}Frakční výzbroj {^n}Frakční výstroj
 tagFactionUser5Rewards8=Vzácná vylepšení {^n}Frakční doplňky
 tagFactionUser6=Nemrtví
@@ -207,9 +207,9 @@ tagFactionUser7Rewards1=-
 tagFactionUser7Rewards2=-
 tagFactionUser7Rewards3=-
 tagFactionUser7Rewards4=nic
-tagFactionUser7Rewards5=Přístup k vývěsce {^n}Přístup ke frakčnímu trhovci
-tagFactionUser7Rewards6=New Bounties {^n}Faction Augments {^n}Faction Blueprints
-tagFactionUser7Rewards7=New Dungeon/Quest {^n}Faction Weapons {^n}Faction Armor
+tagFactionUser7Rewards5=Přístup k frakční vývěsce {^n}Přístup ke frakčnímu trhovci
+tagFactionUser7Rewards6=Nové výzvy na vývěsce {^n}Frakční vylepšení {^n}Frakční plánky
+tagFactionUser7Rewards7=Nová jeskyně / úkol {^n}Frakční výzbroj {^n}Frakční výstroj
 tagFactionUser7Rewards8=Vzácná vylepšení {^n}Frakční doplňky
 tagFactionUser8=Kymonovi vyvolení
 tagFactionUser8Info=Stanoviště: Bašta zármutku {^n}{^n} Kymonovi vyvolení jsou horliví stoupenci světlonoše Empyriona, ve kterém vidí toho, kdo se vrátí do Cairnu v planoucí slávě a povede své Vyvolené k nastolení nového řádu a prosperity. {^n}{^n} Vedeni svým charismatickým kazatelem známým jako Otec Kymon, střeží svou víru a nemohou se dočkat až vymítí veškerou zkaženost a korupci z Cairnu, ať už se jedná o chthonické hrůzy nebo se smrtí manipulující nekromanty. Navíc za jednu ze svých hlavních priorit považují vyhlazení ze světa Řád strážců smrti.
@@ -217,8 +217,8 @@ tagFactionUser8Rewards1=Tábořiště silných protivníků
 tagFactionUser8Rewards2=Přídavná tábořiště hrdinů
 tagFactionUser8Rewards3=Dodatečná tábořiště
 tagFactionUser8Rewards4=nic
-tagFactionUser8Rewards5=Přístup ke frakčnímu trhovci
-tagFactionUser8Rewards6=New Quest {^n}Access to Bounty Table {^n}Faction Augments {^n}Faction Blueprints
+tagFactionUser8Rewards5=Přístup k frakčnímu trhovci
+tagFactionUser8Rewards6=Nový úkol {^n}Přístup k frakční vývěsce {^n}Frakční vylepšení {^n}Frakční plánky
 tagFactionUser8Rewards7=Nový úkol {^n}Frakční výzbroj {^n}Frakční výstroj
 tagFactionUser8Rewards8=Vzácná vylepšení {^n}Frakční doplňky
 tagFactionUser9=Hráč 9
@@ -316,32 +316,32 @@ tagFactionStateRevered=Uctívaný
 
 #Faction Window
 
-tagFactionStatusChange={^w}You have achieved the status of {%s0} {^w}with {^b}{%s1}
-tagFactionNegativeStatusChange={^w}You have reached {%s0} {^w}status with {^b}{%s1}
-tagFactionDoorLocked={^r}Your standing with {^b}{%s0} {^r}does not permit you to enter here
+tagFactionStatusChange={^w}Dosáhl jsi nové úrovně přízně "{^b}{%s0} {^w}" svůči frakci {^b}{%s1} {^w}.
+tagFactionNegativeStatusChange={^w}Frakce {^b}{%s1} {^w} vůči tobě změnila svou přízeň. Nový stav přízně: "{%s0}" {^w}.
+tagFactionDoorLocked={^r}Tvá úroveň přízně vůči frakci {^b}{%s0} {^r}ti neumožňuje vstoupit na toto území.
 tagFactionWindowName=Frakce
 tagFactionWindowFactionTitle={%s0} - {%s1}
 tagFactionReputation=Přízeň získáš za: {^n}
-tagFactionReputationKilling=Zabíjení frakce {%s0}{^n}
+tagFactionReputationKilling=Vyvražďování frakce {%s0}{^n}
 tagFactionReputationBounties=Odměny{^n}
 tagFactionReputationQuests=Úkoly{^n}
 tagFactionDiscountPositive=Frakční změna: {^r}+ {%.0f0}%
 tagFactionDiscountNegative=Frakční změna: {^g}- {%.0f0}%
 tagFactionDiscountZero=Frakční změna: {^s}{%.0f0}%
-tagFactionProgress=Required to {%s0}{^w}: {^b}{%d1}
-tagFactionKillingGain=Reputation gained from killing:
-tagFactionKillingLoss=Infamy gained from killing:
-tagFactionRewardsTier=Unlocked at {%s0}{^w}:
-tagFactionKillCommon=Common Monsters
-tagFactionKillChampion=Champion Monsters
-tagFactionKillHero=Hero Monsters
-tagFactionKillBoss=Boss Monsters
-tagFactionBonusRep=Bonus Reputation: {%d0}%
+tagFactionProgress=Potřebuješ ještě {^b}{%d1} {^w} bodů na úroveň přízně "{^b}{%s0} {^w}".
+tagFactionKillingGain=Přízeň získáš za vyvražďování:
+tagFactionKillingLoss=Nepřízeň si vysloužíš za vyvražďování:
+tagFactionRewardsTier=Odemčeno na úrovni přízně "{%s0}{^w}":
+tagFactionKillCommon=Běžných příšer
+tagFactionKillChampion=Šampionů
+tagFactionKillHero=Hrdinů
+tagFactionKillBoss=padouchů
+tagFactionBonusRep=Bonusová přízeň: {%d0}%
 
 #Achievements
 
-tagAchievements=Achievements
-tagAchievementUnlocked=Achievement Unlocked!
+tagAchievements=Úspěchy
+tagAchievementUnlocked=Odemčen nový úspěch!
 
 #HUD
 
@@ -368,7 +368,7 @@ tagSkillRefreshTimeInfinate=100% snížená doba nabíjení
 tagSkillUnusableLowMana=Nedostatek magické energie
 tagSkillUnusableCooldown=Dovednost se dobíjí
 tagSkillUnusableConfiguration=Dovednost vyžaduje vybavení
-tagSkillUnusableNotLearned=Tuto dovednost neumíš
+tagSkillUnusableNotLearned=Tuto dovednost neovládáš
 
 tagHUD_Riftgate=Rozerve Bránu na titěrné části a ty pak budeš moci vyjít ven skrze jinou známou bránu.
 tagHUD_EmptySlot_R=Prázdný rychlý panel
@@ -421,7 +421,7 @@ tagHUDButtonRollOptions=Uložení hry, ukončení hry a herní nastavení.
 
 #SkillUI
 
-tagSkillUndoClass=Jiné povolání
+tagSkillUndoClass=Změnit povolání
 tagSkillUndoPoints=Vrátit body
 tagSkillClassSelect=Vybrat povolání
 tagCurrentLevel=Současná úroveň: {%d0}
@@ -463,8 +463,8 @@ tagStatsResistance09=Omráčení
 tagStatsResistance09Desc=Snižuje dobu trvání omračujících útoků a kouzel, po kterou nemůžeš reagovat na ostatní podněty.
 tagStatsResistance10=Chaos
 tagStatsResistance10Desc=Odolnost vůči zranění chaosem, způsobeným nestabilními energiemi samotného Vesmíru, které obvykle používají Ch'thonské bytosti.
-tagStatsResistance11=Doražení
-tagStatsResistance11Desc=Odolnost vůči doražení.
+tagStatsResistance11=Sražení
+tagStatsResistance11Desc=Odolnost vůči sražení.
 tagStatsResistance12=Ochromení
 tagStatsResistance12Desc=Odolnost vůči vlivům, která přerušují působení tvých kouzel a schopností.
 
@@ -670,7 +670,7 @@ tagCharStatsCooldownReductionInfo=Počet procent, o kolik je snížena doba obno
 tagCharStatsManaCostReduction=Snížení bodů mag. energie
 tagCharStatsManaCostReductionInfo=Počet procent, o kolik se sníží počet bodů magické energie nutné k použití dovednosti.
 
-tagCharStatsPercentHealthDamage=Způsobené zranšní
+tagCharStatsPercentHealthDamage=Způsobené zranění
 tagCharStatsPercentHealthDamageInfo=Udává počet procent, o kolik života přijde tvůj nepřítel při zranění zásahem zbraní se základním útokem.
 
 tagCharStatsFireAbsDmg=Oheň
@@ -1043,7 +1043,7 @@ tagCraftingRelicsTier02=JEDINEČNÉ RELIKVIE
 tagCraftingRelicsTier03=BÁJNÉ RELIKVIE
 
 tagDividerTab01=Rozložení
-tagDividerRoll01= *** Rozkladová komora se používá pro oddělení komponent a vylepšení od předmětu. Bohužel je tento proces nedokonalý a má za následek zničení buď součástky, nebo předmětu. Ale můžeš si vybrat, kterou věc raději obětuješ.{^n}{^n}If you salvage the item, any Augments applied will be removed. If a Soulbound Augment was removed this way, and the item was not originally Soulbound, the Soulbound status will be removed as well.
+tagDividerRoll01=Rozkladová komora se používá pro oddělení komponent a vylepšení od předmětu. Bohužel je tento proces nedokonalý a má za následek zničení buď součástky, nebo předmětu. Ale můžeš si vybrat, kterou věc raději obětuješ.{^n}{^n}Pokud předmět rozložíš, jakékoliv vylepšení bude nenávratně zničeno. Pokud je zničeno vázané vylepšení a základní předmět vázán nebyl, bude toto vázání odstraněno.
 
 tagDividerTab02=Rozebrat
 tagDividerRoll02=Rozkladová komora slouží k rozbití mocných magických předmětů na jejich základní součástky. Vynálezce se dosud tuto schopnost nenaučil.
@@ -1055,7 +1055,7 @@ tagDividingButtonKeepComponent=Přídavek
 tagDividingButtonRemoveAugment=Odstranit vylepšení
 tagDividingKeepItemWarning=Vybráním zachování předmětu zničíš připojenou komponentu a jakékoliv vylepšení.
 tagDividingKeepComponentWarning=Vybráním zachování komponenty zničíš předmět a jakékoliv vylepšení.
-tagDividingRemoveAugmentWarning=Removing the Augment will destroy it, but any Soulbound properties applied by the Augment will also be removed.
+tagDividingRemoveAugmentWarning=Odstraněním vylepšení jej zničíš, společně s případným vázáním vylepšení s tvou duší.
 tagDividingCost=Cena rozkladu:
 
 tagDismantleDynamiteTotal=Počet dynamitů:
@@ -1067,8 +1067,8 @@ tagDismantleBoxInfo=Umísti do komory předmět lepší kvality než běžné.
 
 #Shrine
 
-tagShrineDesecrated=Desecrated Shrine
-tagShrineRuined=Ruined Shrine
+tagShrineDesecrated=Znesvěcená svatyně
+tagShrineRuined=Rozbořená svatyně
 tagShrineButton=Obětovat
 tagShrineButtonInfo=Umísti tuto oběť poblíž svatyně
 tagShrineWarning=Opravdu chceš umístit tuto oběť?
@@ -1110,10 +1110,10 @@ tagChatBrag=[{%t0}{%t1}{^-}]
 #NPC Conversation
 tagNpcConversationBusy=Tato postava právě hovoří s jiným hráčem.
 
-tagShrineActivated=That shrine has already been restored.
-tagShrineHostActivated=That shrine has already been restored by the host.
-tagShrineBusy=That shrine is being used by another player.
-tagShrineLocked=The shrine lies dormant.
+tagShrineActivated=Tato svatyně už byla obnovena.
+tagShrineHostActivated=Tato svatyně už byla obnovena hostujícím hráčem.
+tagShrineBusy=Tuto svatyni teď využívá jiný hráč.
+tagShrineLocked=Tato svatyně je nevyužitá.
 
 #Maps
 
@@ -1543,7 +1543,7 @@ DamageModifierElementalR={%+.0f0}-{%.0f1}% {^E}zranění živly
 DamagePhysical=+{%t0} {^E}fyzického zranění
 DamagePierce={%t0} {^E}zranění probodnutím
 DamagePoison={%t0} {^E}zranění poleptáním
-DamageKnockdown={^E}Skolení protivníka na {^H}{%t0} {^E}{%z1}
+DamageKnockdown={^E}Sražení protivníka na {^H}{%t0} {^E}{%z1}
 DamageStun={^E}Omráčení protivníka na {^H}{%t0} {^E}{%z1}
 DamageFreeze={^E}Zmražení protivníka na {^H}{%t0} {^E}{%z1}
 DamagePetrify={^E}Ochromení protivníka na {^H}{%t0} {^E}{%z1}
@@ -1610,8 +1610,8 @@ DamageModifierChaos={%+.0f0}% {^E}zranění chaosem
 DamageModifierChaosR={%+.0f0}-{%.0f1}% {^E}zranění chaosem
 DamageModifierAether={%+.0f0}% {^E}zranění Aetherem
 DamageModifierAetherR={%+.0f0}-{%.0f1}% {^E}zranění Aetherem
-DamageModifierKnockdown={%+.0f0}% {^E}trvání doražení
-DamageModifierKnockdownR={%+.0f0}-{%.0f1}% {^E}trvání doražení
+DamageModifierKnockdown={%+.0f0}% {^E}trvání doby sražení
+DamageModifierKnockdownR={%+.0f0}-{%.0f1}% {^E}trvání doby sražení
 
 DamageDurationModifierPhysical={%+.0f0}% {^E}zranění vnitřím poraněním
 DamageDurationModifierBleeding={%+.0f0}% {^E}zranění krvácením
@@ -1728,8 +1728,8 @@ DefenseTrap={%.0f0}% {^E}snížení doby chycení do pasti
 DefenseTrapR={%.0f0}-{%.0f1}% {^E}snížení doby chycení do pasti
 DefenseFreeze={%.0f0}% {^E}snížení doby zmražení
 DefenseFreezeR={%.0f0}-{%.0f1}% {^E}snížení doby zmražení
-DefenseKnockdown={%.0f0}% {^E}snížení doby doražení
-DefenseKnockdownR={%.0f0}-{%.0f1}% {^E}snížení doby doražení
+DefenseKnockdown={%.0f0}% {^E}snížení doby sražení
+DefenseKnockdownR={%.0f0}-{%.0f1}% {^E}snížení doby sražení
 DefensePetrify={%.0f0}% {^E}snížení doby zkamenění
 DefensePetrifyR={%.0f0}-{%.0f1}% {^E}snížení doby zkamenění
 DefenseTaunt={%.0f0}% {^E}ochrana proti vyprovokání (pouze pro spojence nebo pasti)
