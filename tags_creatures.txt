@@ -947,7 +947,7 @@ tagNemesis_Undead03=Toxemus
 
 #Bounties
 tagBountyBL08=Gluttrius'Maw
-tagBountyBL09=Sicrix, třepetající se
+tagBountyBL09=Třasořiťka Sicrix
 tagBountyBL10=Zuhelnatělá huba
 tagBountyBL17=Harrath, navrátivší
 tagBountyBL18=Padmanestia
@@ -977,7 +977,7 @@ tagBountyKC10=Thullon, Ch'thonův Vyvolený
 tagBountyKC11=Chřadnoucí Abathis
 tagBountyKC19=Ludia, šepot krve
 tagBountyODV06=Halvastra, trest ohněm
-tagBountyODV07=Horvald, ničitel štítů
+tagBountyODV07=Horvald, proražeč štítů
 tagBountyODV08=Olga, zrozená v plamenech
 tagBountyODV09=Behemot Narroth
 tagBountyODV10=Stoupenec Barrostrandt
