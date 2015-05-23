@@ -1,48 +1,48 @@
 Amkala
-Hello, traveler.
-What can you tell me about the area?
+Vítej, [[ms]cestovateli[fs]cestovatelko].
+Co mi můžeš říci o této oblasti?
 
 
-I heard news of the shrine's restoration. The Rhowari are forever in your debt.
-I have found some texts you may find interesting.
-That is an astounding discovery. I thank you, in the name of all Rhowari, for bringing these texts to us.{^n}{^n}I will make certain that all rovers who visit here learn of their contents.
-Farewell.
-What can you tell me about the area?
+Zaslechla jsem novinky o obnovení oltáře. Rhowari ti budou navždy zavázáni.
+[[ms]Našel[fs]Našla] jsem nějaké úryvky textů, které by tě mohly zajímat.
+Tohle je šokující objev. Děkuji ti, ve jménu všech Rhowari, že jsi nám tyto texty [[ms]přinesl[fs]přinesla].{^n}{^n}Zajistím, aby se všichni tuláci, kteří tudy projdou, učili z jejich obsahu.
+Sbohem.
+Co mi můžeš říci o této oblasti?
 
-You're welcome.
-It had to be done.
-Greetings, friend. Have you visited the Shrine of Mogdrogen yet?
-Where is the shrine?
-The Shrine is far to the north, past the area you call Homestead, in the snowy peaks of the Asterkarn Mountains.{^n}{^n}Beware the Cult of Ch'thon, their presence is strong in that region.
-Thank you.
-I have found some texts you may find interesting.
-That is an astounding discovery. I thank you, in the name of all Rhowari, for bringing these texts to us.{^n}{^n}I will make certain that all rovers who visit here learn of their contents.
-Farewell.
-What can you tell me about the area?
+Nemáš zač.
+Muselo to být dokonáno.
+Vítej, [[ms]příteli[fs]přítelkyně]. Už jsi [[ms]navštívil[fs]navštívila] Mogdrogenův oltář??
+Kdeže je ten oltář?
+Oltář je daleko na severu za místem, kterému říkáte Homestead, v zasněžených vršcích Asterkarnských hor.{^n}{^n}Vyvaruj se Kultu Ch'thona, jejich počet je v tom regionu velký.
+Díky.
+[[ms]Našel[fs]Našla] jsem nějaké úryvky textů, které by tě mohly zajímat.
+Tohle je šokující objev. Děkuji ti, ve jménu všech Rhowari, že jsi nám tyto texty [[ms]přinesl[fs]přinesla].{^n}{^n}Zajistím, aby se všichni tuláci, kteří tudy projdou, učili z jejich obsahu.
+Sbohem.
+Co mi můžeš říci o této oblasti?
 
-Farewell.
-Hello, friend of the Rhowari. I apologize for interrupting you in your important travels, but I must ask something of you, something that requires utmost care and trust.
-What is it?
-Far to the north, in the frozen Asterkarn Mountains, there is a shrine dedicated to Mogdrogen, patron of beasts and guardian of the Rhowari. For generations, our people had visited Mogdrogen's sacred altar in order to pay homage to the day that He bestowed His wisdom upon Rhowan and inspired our people to leave Arkovia.{^n}{^n}But the shrine has become tainted by the vile Cult of Ch'thon. The followers of the Dead God have desecrated our sacred grounds and destroyed the Shrine of Mogdrogen.
-What can be done?
-The Shrine lies in ruins, its Runed Stone and Spirit scattered among the Cult's camps. We cannot allow for this symbol of our people to be lost to history. Please, search the cultist grounds to the north and recover the pieces of Mogdrogen's Shrine.{^n}{^n}Bring the parts back to the Shrine and place them upon the altar along with the beating heart of an ancient beast, its noble sacrifice will serve as a catalyst to fuse the broken pieces into one. Once you are finished, be prepared to dispatch whatever vile Chthonians have infested Mogdrogen's lands. For this, the Rhowari will be eternally at your service.{^n}{^n}Warning: the quest cannot be completed in this build. The area you must access will become availabe in a future build.
-I will restore the shrine of Mogdrogen.
-Find someone else.
-I have already restored the shrine.
-That is good to hear, but did you cleanse it of the vile Chthonians?{^n}{^n}The shrine will not be safe for the Rhowari unless this is done.
-I will clenase the area of Chthonians.
-Find someone else.
-I have already restored the shrine, and cleansed it of evil.
-You are a true champion of Mogdrogen and the Rhowari.{^n}{^n}If you have done as you say, then please visit the shrine. In times of such bravery, the beast god has been known to manifest before his followers.{^n}{^n}Perhaps you shall be so fortunate?
-I will visit the shrine.
-Perhaps another time.
-I'm sorry, I cannot help you.
-I have found some texts you may find interesting.
-That is an astounding discovery. I thank you, in the name of all Rhowari, for bringing these texts to us.{^n}{^n}I will make certain that all rovers who visit here learn of their contents.
-Farewell.
-What can you tell me about the area?
+Tak zatím.
+Vítej, [[ms]příteli[fs]přítelkyně] lidu Rhowari. Omlouvám se, že tě ruším na tvých důležitých poutích, ale musím se na něco zeptat, na něco, co vyžaduje tu největší péči a důvěru.
+O co jde?
+Daleko na severu, v zamrzlých Asterkarnských horách, je svatyně věnovaná Mogdrogenovi, patronovi bestií a ochránci Rhowari. Po generace navštěvovali naši lidé Mogdrogenův posvátný oltář, aby se mu poklonili, a to do dne, kdy propůjčil svou moudrost Rhowanovi a tak inspiroval náš lid, aby opustil Starou Arkovii. {^n}{^n}Ale svatyně byla poskvrněna kultem Ch'thona. Následníci mrtvého boha znesvětili naši svatou půdu a zničili Mogdrogenův oltář.
+Co se dá udělat?
+Oltář je zruinovaný, jeho Runový kámen a Duch rozptýleni po kultských kempech. Nemůžeme dovolit tomuto symbolu našeho lidu aby byl zapomenut. Prosím, prohledej kultské území na severu a získej zpět části s Mogdrogenova oltáře. {^n}{^n}Přines části zpět do svatyně a umísti je na oltář spolu s bijícím srdcem starověké bestie, jejíž ušlechtilá oběť poslouží jako katalyzátor ke spojení všech částí v jednu. Jakmile budeš [[ms]hotov[fs]hotova], buď [[ms]připraven[fs]připravena] zprovodit ze světa všechny odporné Ch'thoniany, kteří zaplavili Mogdrogenovo území. Za to ti budou Rhowari nadosmrti zavázáni. {^n}{^n}Varování: Tento úkol nemůžeš dokončit v této verzi hry. Území na které se musíš vydat bude dostupné až v následujících verzích.
+Oblovím Mogdrogenův oltář.
+Najdi si někoho jiného.
+Už jsem oltář [[ms]obnovil[fs]obnovila].
+To je dobré slyšet, ale [[ms]zprostil[fs]zprostila] jsi ten oltář zlých Ch'thonianů?{^n}{^n}Svatyně nebude pro Rhowari bezpečná, dokud tak nebude učiněno.
+Odprostím to místo od Ch'thonianů.
+Najdi si někoho jiného.
+Už jsem oltář [[ms]obnovil[fs]obnovila] a [[ms]zprostil[fs]zprostila] jej zla.
+Jsi opravdový Mogdrogenův a Rhowarský šampion.{^n}{^n}Pokud jsi [[ms]udělal[fs]udělala] jak říkáš, pak prosím navštiv tu svatyni. V dobách takového hrdinství byl bůh bestií známý tím, že se před svými následovníky zjevil. {^n}{^n}Možná budeš mít také takové štěstí?
+Navštívím tu svatyni.
+Možná někdy jindy.
+Omlouvám se, nemohu vám pomoci.
+[[ms]Našel[fs]Našla] jsem nějaké úryvky textů, které by tě mohly zajímat.
+Tohle je šokující objev. Děkuji ti, ve jménu všech Rhowari, že jsi nám tyto texty [[ms]přinesl[fs]přinesla].{^n}{^n}Zajistím, aby se všichni tuláci, kteří tudy projdou, učili z jejich obsahu
+Sbohem.
+Co mi můžeš říci o této oblasti?
 
-Perhaps another time.
+Možná někdy jindy.
 [[ms]Věděl[fs]Věděla] jsi, že je Arkovia starodávným místem zrození lidu Rhowari? O tomhle kraji bych ti mohla říct mnoho, pokud máš čas na historku.
 [[ms]Našel[fs]Našla] jsem nějaké úryvky textů, které by tě mohly zajímat.
 Tohle je šokující objev. Děkuji ti, ve jménu všech Rhowari, že jsi nám tyto texty [[ms]přinesl[fs]přinesla].{^n}{^n}Zajistím, aby se všichni tuláci, kteří tudy projdou, učili z jejich obsahu.
@@ -80,9 +80,9 @@ Musím jít svou cestou.
 Nechť je tvá cesta správná.
 Sbohem.
 Kráčej v míru, ale vyvaruj se duchů v tomto kraji. Jsou zrádní.
-I have found some texts you may find interesting.
-That is an astounding discovery. I thank you, in the name of all Rhowari, for bringing these texts to us.{^n}{^n}I will make certain that all rovers who visit here learn of their contents.
-Farewell.
+[[ms]Našel[fs]Našla] jsem nějaké úryvky textů, které by tě mohly zajímat.
+Tohle je šokující objev. Děkuji ti, ve jménu všech Rhowari, že jsi nám tyto texty [[ms]přinesl[fs]přinesla].{^n}{^n}Zajistím, aby se všichni tuláci, kteří tudy projdou, učili z jejich obsahu.
+Sbohem.
 Budu dbát na tvoje slova.
 Jsi zde vždy [[ms]vítán[fs]vítána].
 

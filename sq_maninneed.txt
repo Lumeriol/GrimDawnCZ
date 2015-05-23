@@ -1,22 +1,22 @@
 Homestead
-A Stranger in Need
-Get dynamite
-You encounted a lone traveler, Myla Finegan, outside of a collapsed cave in the Blood Grove. As this was her only safe haven out in the wild, she refused to go back to Homestead with you, she implored you to help her acquire some Dynamite to clear out the entrance for her so she can keep using the cave as a hideout.
-Gather Dynamite
-Deliver the Dynamite to Myla Finegan in the Blood Grove
+Cizinka v nouzi
+Sežeň dynamit
+[[ms]Setkal[fs]Setkala] jsi se s osamělou cestovatelkou, Mylou Finegan, před zhrouceným vchodem do jeskyně v Krvavém háji. Protože tohle bylo její jediné útočiště v divočině a odmítla s tebou jít zpět do Homesteadu, poprosila tě, abys jí [[ms]pomohl[fs]pomohla] sehnat nějaký dynamit na uvolnění vstupu a ona tak mohla nadále jeskyni využívat jako útočiště.
+Posbírej dynamit
+Doruč dynamit Myle Finegan v Krvavém háji
 
-Speak to Myla
-You provided Myla with some dynamite, which she used to clear the way into her cave. Follow her inside for your reward.
-
-
-Speak to Myla Finegan in her cave in the Blood Grove
-
-Kill Myla
-Myla has betrayed you. She turned out to be a vile spirit that lures travelers into her cavern to feast on their vitality. Banish her at the Bone Pit in the Blood Grove.
+Promluv si s Mylou
+[[ms]Poskytl[fs]Poskytla] jsi Myle dynamit, který využila na uvolnění vstupu do její jeskyně. Následuj jí dovnitř kvůli odměně.
 
 
+Promluv si s Mylou Finegan v jeskyni v Krvavém háji
 
-Slay Myla within the Bone Pit
+Zabij Mylu
+Myla tě zradila. Ukázalo se, že je to zlý duch, který láká cestovatele do jejího doupěte a hoduje na jejich zdraví. Zbav se jí v Bone pit v Krvavém háji.
+
+
+
+Zabij Mylu uvnitř Bone pit
 
 
 
