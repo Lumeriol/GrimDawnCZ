@@ -1,26 +1,26 @@
-Old Arkovia
-Rhowari Legacy
-Repair Shrine
-Far to the north, in the Asterkarn Mountains, the Cult of Ch'thon has desecrated the Shrine of Mogdrogen, a place sacred to the Rovers. Amkala has asked you to recover the parts of the shrine that had been stolen by the cultists and to restore the shrine by returning the pieces, along with an Ancient Heart, to the Shrine. The pieces may be found in any of the cult's camps, far to the north of Old Arkovia.{^n}{^n}Warning: the quest cannot be completed in this build. The area you must access will become availabe in a future build.
+Stará Arkovia
+Odkaz Rhowari
+Oprav oltář
+Daleko na severu v Asterkarnských horách, kult Ch'thona znesvětil Mogdrogenovu svatyni, která je posvátným místem Tuláků. Amkala tě poprosila, abys zpět[[ms]získal[fs]získala] části oltáře, které byly odcizeny kultisty a [[ms]obnovil[fs]obnovila] oltář tak, že vrátíš tyto části společně se Starověkým srdcem právě do této svatyně. Části mohou být nalezeny ve kterémkoliv s kultských tábořišť daleko na severu za Starou Arkovií.{^n}{^n}Varování: Tento úkol nemůžeš dokončit v této verzi hry. Území, které musíš navštívit, bude dostupné v budoucí verzi hry.
 
 
-Find Spirit of Mogdrogen
-Find Runed Stone of Mogdrogen
-Collect Ancient Heart
-Restore the Shrine of Mogdrogen
+Najdi Mogdrogenova ducha
+Najdi Mogdrogenův Runový kámen
+Získej Starověké srdce
+Obnov Mogdrogenův oltář
 
 
 
 
-Defeat Chthonians
-You have restored the Shrine of Mogdrogen, but the Chthonians infesting the area are manifesting themselves. Destroy them all.
+Poraž Ch'thoniany
+[[ms]Obnovil[fs]Obnovila] jsi Mogdrogenův oltář, ale Ch'thoniané zamořující tuto oblast se nyní objevují. Všechny je znič.
 
-Defeat the spawns of Ch'thon
+Znič Ch'thonovy splozence
 
 
 Turn-in
-You have cleansed the Shrine of Mogdrogen. An Avatar of Mogdrogen has appeared from the Shrine to thank you for your service. Speak to him.
-Speak to the Avatar of Mogdrogen
+[[ms]Očistil[fs]Očistila] jsi Mogdrogenovu svatyni. Mogdrogenův avatar vystoupil z oltáře, aby ti poděkoval za tvé služby. Promluv si s ním.
+Promluv si s Mogdrogenovým avatarem
 
 
 
