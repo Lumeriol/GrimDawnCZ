@@ -1,10 +1,10 @@
-Bounties
-Bounty: Scrap
-Bounty
-Barnabas has requisitioned more Scrap for repairs and general maintenance.{^n}{^n}Anyone that scavenges enough materials for him will be rewarded with iron bits.
+Úkoly za odměny
+Hledá se: Scrap
+Popis
+Barnabas vznesl požadavek na větší množství železného šrotu na nějaké opravy a pořádnou údržbu.{^n}{^n}Každý, kdo vyhrabe někde dostatek materiálu a donese ho Barnabasovi, bude odměněn železnými mincemi.
 
-Collect Scrap
-Deliver the Scrap to the Devil's Crossing Bounty Table
+Sežeň železný šrot
+Dones železný šrot k vývěsce v Ďáblově průsmyku
 
 
 

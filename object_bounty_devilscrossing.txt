@@ -1,33 +1,31 @@
-Devil's Crossing Bounties
-You return with the materials in hand, a Bounty fulfilled.
-Report in.
+Vývěska Ďáblova průsmyku
+Vracíš se s ukořistěnými materiály, výzva byla splněna.
+Ohlas se.
 
-Step away from the Bounty Table.
-You return with the materials in hand, a Bounty fulfilled.
-Report in.
+Odstup kousek od vývěsky.
+Vracíš se s ukořistěnými materiály, výzva byla splněna.
+Ohlas se.
 
-Step away from the Bounty Table.
-You return with the materials in hand, a Bounty fulfilled.
-Report in.
+Odstup kousek od vývěsky.
+Vracíš se s ukořistěnými materiály, výzva byla splněna.
+Ohlas se.
 
-Step away from the Bounty Table.
-You return with the materials in hand, a Bounty fulfilled.
-Report in.
+Odstup kousek od vývěsky.
+Vracíš se s ukořistěnými materiály, výzva byla splněna.
+Ohlas se.
 
-Step away from the Bounty Table.
-You return triumphantly, a Bounty fulfilled.
-Report in.
+Odstup kousek od vývěsky.
+Výzva byla splněna a ty se vítězoslavně vracíš zpět.
+Ohlas se.
 
-Step away from the Bounty Table.
-You are already on a Bounty for Devil's Crossing.
-Step away from the Bounty Table.
-Your assistance is invaluable to Devil's Crossing.{^n}{^n}But there is always more that can be done to assist the survivors.
-Take a look at the bounty.
-You have fulfilled all of the posted Bounties for this session.
-Step away from the Bounty Table.
-Take a look at the bounty.
-
-
+Odstup kousek od vývěsky.
+Výzva z Ďáblova průsmyku už byla přijata.
+Odstup kousek od vývěsky.
+Tvá výpomoc nemá pro Ďáblův průsmyk žádnou hodnotu.{^n}{^n}Ale stále je tady mnohé, co můžeš udělat, abys pomohl přeživším.
+Podívej se na výzvy.
+Všechno co se po tobě chtělo, už je splněné. Zkus to příště.
+Odstup kousek od vývěsky.
+Podívej se na výzvy.
 
 
 
@@ -46,109 +44,111 @@ Take a look at the bounty.
 
 
 
-Step away from the Bounty Table.
-Reanimators are the harbingers of the Aetherial invasion. They supply the enemy with reinforcements and spread corruption with every step.{^n}{^n}If you thin their numbers, then that should give the guards of Devil's Crossing a much needed reprieve.{^n}{^n}You will be suitably rewarded with iron bits.
-Accept the Bounty.
-Decline the Bounty.
-(Skip this Bounty)
 
-Nicholas Balthazar was once on death row here at Devil's Crossing for countless brutal murders.{^n}{^n}As with the other inmates, Nicholas is now free and hiding somewhere in the Arkovian Foothills, perhaps in the mines?{^n}{^n}It is time to finish his prison sentence, for good. Compensation will be offered in the form of iron bits.
-Accept the Bounty.
-Decline the Bounty.
-(Skip this Bounty)
 
-Darius Cronley has performed atrocious experiments upon his lackeys with the use of Aether crystals.{^n}{^n}These men now exhibit superhuman strength and speed, but at a terrible price.{^n}{^n}We cannot risk them ever setting foot in Devil's Crossing. Eliminate them.{^n}{^n}The prison is short on supplies, but we will set aside some materials for anyone that deals with this threat.
-Accept the Bounty.
-Decline the Bounty.
-(Skip this Bounty)
+Odstup kousek od vývěsky.
+Oživovači jsou poslové Aetherianské invaze. Zásobují nepřítele posilami a rozšiřují svou zkaženost každým krokem.{^n}{^n}Pokud se ti podaří snížit jejich řady, tak strážcům Ďáblova průsmyku přineseš značnou úlevu.{^n}{^n}Tvá odměna bude dostatečné množství železných mincí.
+Přijmout výzvu.
+Odmítnout výzvu.
+(Tohle teď nechci dělat)
 
-Darius Cronley's closest lieutenants are some of the most vicious and deadly men that escaped the prison after the Grim Dawn.{^n}{^n}For now they seem content to remain in the Four Hills in Old Arkovia, but should they ever lead an attack on Devil's Crossing, the casualties would be severe.{^n}{^n}This threat must be dealt with directly. A stash of iron bits awaits anyone that claims their lives.
-Accept the Bounty.
-Decline the Bounty.
-(Skip this Bounty)
+Nicholas Balthazar už byl v cele smrti tady v Ďáblově průsmyku odsouzený za nesčetné množství velmi brutálních vražd.{^n}{^n}Stejně jako u ostatní vězni, i Nicholas je teď volný a skrývá se někde v Arkovianském podhůří, možná v některém z místních dolů?{^n}{^n}Je čas dokončit jeho rozsudek smrti, pro naše dobro. Jako odškodnění za utrpěnou újmu ti můžeme nabídnout něco málo železných mincí.
+Přijmout výzvu.
+Odmítnout výzvu.
+(Tohle teď nechci dělat)
 
-Halion "The Rat" and his oversized pet are a menace and a threat to Devil's Crossing. He used to run a powerful gang that operated outside Burrwitch and rumor is that he is once again gathering followers.{^n}{^n}His operation must be stopped.{^n}{^n}Halion was last sighted in Hanneffy Mine, below the Four Hills in Old Arkovia. Compensation will be offered in the form of iron bits.
-Accept the Bounty.
-Decline the Bounty.
-(Skip this Bounty)
+Darius Cronley prováděl ohavné pokusy na svých poskocích s použitím Aetherických krystalů.{^n}{^n}Tito muži teď mají nadlidskou sílu a rychlost, ovšem za jakou cenu?{^n}{^n}Nemůžeme riskovat, že se kdy ukážou v Ďáblově průsmyku. Zlikviduj je.{^n}{^n}Ve vězení sice není už mnoho zásob, ale jsme schopni vyčlenit nějaké suroviny pro každého, kdo se bude touto hrozbou zabývat.
+Přijmout výzvu.
+Odmítnout výzvu.
+(Tohle teď nechci dělat)
 
-Cronley's recruited all manner of cruel and despicable men to his cause, not the least of which is a bastard known as "The Bruiser" Romanov.{^n}{^n}Romanov takes savage pleasure in smashing in people's skulls whenever they displease him. Cronley seems to encourage the behavior. To make matters worse, Romanov now appears to be a part of Cronley's inner circle, tainted with Aether crystals that grant him inhuman strength.He is rarely seen away from his boss in the mines below the Four Hills in Old Arkovia. Devil's Crossing has prepared a hefty sum of iron bits to see Romanov put to justice.
-Accept the Bounty.
-Decline the Bounty.
-(Skip this Bounty)
+Nejbližší poručíci Daria Cronleyho jsou jedni z nejhorších a nejkrvelačnějších mužů, kteří utekli z vězení po Ponurém úsvitu.{^n}{^n}Prozatím se zdá, že spokojeně zůstávají ve Čtvero vršcích ve Staré Arkovii, ale pokud by se kdy odvážili vkráčet do Ďáblova průsmyku, obětí by mohlo být nespočet.{^n}{^n}Tato hrozba musí být vyřešena napřímo. Máme uschované nějaké železné mince pro každého, kdo jim vezme život.
+Přijmout výzvu.
+Odmítnout výzvu.
+(Tohle teď nechci dělat)
 
-For the first time since evading capture back before the Grim Dawn, Bolla "The Raven" has been spotted out in the Arkovian Foothills. Last known location: Staunton Mines.{^n}{^n}Many in Burrwitch have suffered from her cruel use of the occult. It would put many minds at ease if she were eliminated.{^n}{^n}The prison is short on supplies, but we will set aside some materials for anyone that deals with this threat.
-Accept the Bounty.
-Decline the Bounty.
-(Skip this Bounty)
+Halion "Krysa" a jeho přerostlý mazlík jsou pro Ďáblův průsmyk hrozbou. Sestavil silný gang, který řádí za Burrwitchem a proslýchá se, že nabírá nové členy.{^n}{^n}Tenhle gang musí být rozprášen.{^n}{^n}Halion byl naposledy viděn v Hanneffyho dole, pod Čtvero vršky ve Staré Arkovii. Jako odměna je nabídnuto množství železných mincí.
+Přijmout výzvu.
+Odmítnout výzvu.
+(Tohle teď nechci dělat)
 
-The slith are notorious for poisoning water supplies with the venomous excretions of their matriarchs.{^n}{^n}One such matriarch, Slathra the Plagued, has been spotted around a cavern in the Foggy Bank.{^n}{^n}It is imperative that she is slain before she has a chance to befoul what little fresh water we have left.{^n}{^n}The prison is short on supplies, but we will set aside some materials for anyone that deals with this threat.
-Accept the Bounty.
-Decline the Bounty.
-(Skip this Bounty)
+Cronleyova banda sestává z krutých a opovrženíhodných chlapů, mezi nimiž se nenachází nikdo jiný, než proslulý bastard známý jako "Rváč" Romanov.{^n}{^n}Romanov má šílenou radost z rozbíjení lebek jakéhokoliv člověka, který se mu znelíbí. Cronley pravděpodobně jeho chování ještě podporuje. A aby toho nebylo málo, Romanov se nejspíš stal součástí Cronleyova vnitřního kruhu, který je poskvrněn Aetherickými krystaly, jež těmto banditům dodávají nadlidskou sílu. Poslední dobou je pouze vzácně viděn jinde, než ve společnosti svého šéfa v oblasti Čtvera vršků ve Staré Arkovii. Ďáblův průsmyk je připraven vyplatit pořádnou várku železných mincí, pokud Romanov neunikne spravedlnosti.
+Přijmout výzvu.
+Odmítnout výzvu.
+(Tohle teď nechci dělat)
 
-Ballior was once a joyful older man who managed a bakery in Burrwitch. Sadly, he fell when the Aetherials attacked.{^n}{^n}I dread to think of what the Aetherials had done to his remains when they dragged him into a cellar. It would ease my heart to know that he is at peace.{^n}{^n}I do not have much to offer, but I've set aside some materials for anyone that puts Ballior to rest.
-Accept the Bounty.
-Decline the Bounty.
-(Skip this Bounty)
+Poprve od doby, kdy se vyhla svému zajetí těsně před Ponurým úsvitem, se Bolla "Vrána" ukázala v Arkovianském podhůří. Poslední její známá poloha jsou Stauntonovy doly.{^n}{^n}Mnozí obyvatelé Burrwitche značně trpěli při jejím krutém vyžívání okultních věd. Jejich vzpomínky by se snad konečně mohly vytratit, pokud by byla zlikvidována.{^n}{^n}Vězení sice nemá mnoho zásob, ale jeho obyvatelé jsou ochotni utrhnout si od huby a věnovar pár surovin tomu, kdo by se touto hrozbou zabýval.
+Přijmout výzvu.
+Odmítnout výzvu.
+(Tohle teď nechci dělat)
 
-Romanov was a brutal man with more muscle than brains back before the Grim Dawn.{^n}{^n}Now rumor is that he's accepted Cronley's Aether crystals to become even stronger. If such a beast of a man ever decides to attack Devil's Crossing, he could cause some serious harm.{^n}{^n}Anyone that tracks down Romanov and puts him down will be justly rewarded with some of our scavenged materials.
-Accept the Bounty.
-Decline the Bounty.
-(Skip this Bounty)
+Slithové jsou notoricky známí díky otravě zásobovací vody jedovatými výměšky slithích matriarch.{^n}{^n}Jedna taková matriarcha, Otrávená Slathra, byla viděna, jak se potuluje kolem jeskyně na Mlhavém pobřeží.{^n}{^n}Je nezbytně nutné, aby zaklepala nohama dřív, než stačí zase otrávit poslední zbytky pitné vody, která tam zůstala.{^n}{^n}Vězení sice nemá mnoho zásob, ale jeho obyvatelé jsou ochotni utrhnout si od huby a věnovar pár surovin tomu, kdo by se touto hrozbou zabýval.
+Přijmout výzvu.
+Odmítnout výzvu.
+(Tohle teď nechci dělat)
 
-It was no secret that Caspis was a blood-drinker and devout of Ch'thon. What is unfortunate is that he survived the Grim Dawn.{^n}{^n}Reports have come in of Caspis capturing travelers out in the Burrwitch Outskirts. It's unlikely that he's working alone, so there has to be a gathering of cultists somewhere in the area.{^n}{^n}Anyone that tracks down Caspis to his hideout and puts him down will be justly rewarded with some of our scavenged materials.
-Accept the Bounty.
-Decline the Bounty.
-(Skip this Bounty)
+Ballior kdysi býval veselý stařík, který vedl pekařství v Burrwitchi. Škoda, že padl při vpádu Aetherianů.{^n}{^n}Bojím se pomyslet na to, co Aetheriané udělali s jeho ostatky, když ho odtáhli do sklepa. Mé srdce by plesalo, kdybych věděl, že odpočívá v pokoji.{^n}{^n}Nemám mnoho co nabídnout, ale dal jsem si stranou pár surovin tomu, kdo uloží Balliora k věčnému odpočinku.
+Přijmout výzvu.
+Odmítnout výzvu.
+(Tohle teď nechci dělat)
 
-Barnabas has requisitioned more Scrap for repairs and general maintenance.{^n}{^n}Anyone that scavenges enough materials for him will be rewarded with iron bits.
-Accept the Bounty.
-Decline the Bounty.
-(Skip this Bounty)
+Romanov je brutální chlápek, který měl ještě před Ponurým úsvitem větší svaly než mozek.{^n}{^n}Nyní se proslýchá, že pronikl pomocí Aetherických krystalů do Cronleyovy bandy a stal se ještě silnějším. Je-li z něj opravdu taková bestie, nebude mu jistě činit problém zaútočit na Ďáblův průsmyk, kde by mohl způsobit vážné škody.{^n}{^n}Každý, kdo půjde po stopách Romanova a sejme ho, bude spravedlivě odměněn několika našimi vyhrabanými surovinami.
+Přijmout výzvu.
+Odmítnout výzvu.
+(Tohle teď nechci dělat)
 
-Kasparov is up to yet another of his experiments.{^n}{^n}This time, he requires some Aether Crystals in order to study their effects on the riftgate after managing to disintegrate his existing collection.{^n}{^n}The prison is short on supplies, but we will set aside some materials for anyone that supplies Kasparov with what he needs.
-Accept the Bounty.
-Decline the Bounty.
-(Skip this Bounty)
+Není žádným tajemstvím, že Caspis byl chlemtač krve a věrný Ch'thonovi. Co je ovšem nešťastné je to, že přežil Ponurý úsvit.{^n}{^n}Objevily se zprávy, že Caspis chytá cestovatele na Burrwitchském předměstí. Je nepravděpodobné, že by pracoval sám, takže je nejspíš možné v dané oblasti narazit na shromaždiště kultistů.{^n}{^n}Každý, kdo půjde po stopách Caspise a sejme ho, bude spravedlivě odměněn několika našimi vyhrabanými surovinami.
+Přijmout výzvu.
+Odmítnout výzvu.
+(Tohle teď nechci dělat)
 
-Kasparov is interested in studying some of the old pre-Grim Dawn relics.{^n}{^n}He requests that a Calamity be created for him so that he may investigate its magical properties.{^n}{^n}Anyone that manages to obtain this rare object will be rewarded with a Blood of Ch'thon.
-Accept the Bounty.
-Decline the Bounty.
-(Skip this Bounty)
+Barnabas vznesl požadavek na větší množství železného šrotu na nějaké opravy a pořádnou údržbu.{^n}{^n}Každý, kdo vyhrabe někde dostatek materiálu a donese ho Barnabasovi, bude odměněn železnými mincemi.
+Přijmout výzvu.
+Odmítnout výzvu.
+(Tohle teď nechci dělat)
 
-One of Cronley's closest lackeys has been spotted out in the Four Hills. He goes by the name Rostov, the Aetherflame.{^n}{^n}If someone this high up in the chain is seen about, then the gang may be preparing to mobilize. Rostov should be eliminated before he can execute whatever plan they have cooked up.{^n}{^n}Anyone that tracks him down will be justly rewarded with some of our scavenged materials.
-Accept the Bounty.
-Decline the Bounty.
-(Skip this Bounty)
+Kasparov se vrhl na další ze svých experimentů.{^n}{^n}Tentokrát by potřeboval nějaké Aetherické krystaly, aby mohl prozkoumat jejich účinky vůči Bránám a nemusel rozebírat svou stávající sbírku.{^n}{^n}Vězení sice nemá mnoho zásob, ale nějaké suroviny se najdou pro každého, kdo Kasparovi dodá to, co potřebuje.
+Přijmout výzvu.
+Odmítnout výzvu.
+(Tohle teď nechci dělat)
 
-Kasparov believes that he may have a solution for the Aetherial's ability to resurrect our dead. I'm not hopeful, but we have to take any chance we can get.{^n}{^n}Unfortuantely, his experiment requires some Tainted Brain Matter.{^n}{^n}Anyone that manages to obtain this rare object for him will be compensated with some of our scavenged materials.
-Accept the Bounty.
-Decline the Bounty.
-(Skip this Bounty)
+Kasparov je zabrán studiem některý starých vzácných relikvií z dob před Ponurým úsvitem.{^n}{^n}Rád by, aby pro něj byla vyrobena relikvie Kalamita, která by mu velice pomohla bádat nad magickými vlastnostmi předmětů.{^n}{^n}Kdokoliv, kdo bude schopen tuto relikvii získat, bude odměněn vzácnou Krví Ch'thona.
+Přijmout výzvu.
+Odmítnout výzvu.
+(Tohle teď nechci dělat)
 
-A powerful reanimator has been spotted coming in and out of the Warden's Cellar, possibly the last of Krieg's cruel experiments.{^n}{^n}Things are bad enough out there with the regular reanimators roaming about, this Nalloth the Frostbound must be slain.{^n}{^n}Anyone that takes it out will be justly rewarded with some of our scavenged materials.
-Accept the Bounty.
-Decline the Bounty.
-(Skip this Bounty)
+Jeden z nejbližších Cronleyových poskoků byl zahlédnut ve Čtvero vršcích. Skrývá se pod jménem Rostov, Aetherický plamen.{^n}{^n}Pokud tento vysoce postavený chlápek někoho zmerčí, jak se potuluje kolem, celá banda bude okamžitě zmobilizována. Rostov by tak měl být zlikvidován mnohem dřív, než stačí udělat cokoliv, co má celá banda v plánu.{^n}{^n}Každý, kdo ho vystopuje, bude spravedlivě odměněn několika našimi surovinami.
+Přijmout výzvu.
+Odmítnout výzvu.
+(Tohle teď nechci dělat)
 
-The outlaws inhabiting the Four Hills in Old Arkovia have a favorite past-time: throwing unarmed prisoners into their pit to face off against Boris.{^n}{^n}Boris is a butcher who revels in the bloodshed. It's sickening.{^n}{^n}Whenever he's about the Four Hills, he can be found in the pit near the coast. Putting him down within his own arena would be a poetic end to the maniac.{^n}{^n}To see this through, Devil's Crossing has prepared a hefty sum of iron bits as compensation for the death of Boris.
-Accept the Bounty.
-Decline the Bounty.
-(Skip this Bounty)
+Kasparov je přesvědčen, že snad našel řešení ohledně Aetheranské schopnosti oživovat naše mrtvé. Není to beznadějné, ale musíme využít každou šanci, kterou máme.{^n}{^n}Bohužel tento experiment vyžaduje nějakou Zkaženou mozkovou hmotu.{^n}{^n}Kdo dokáže Kasparovi sehnat tento vzácný předmět, bude odměněn několika posbíranými surovinami.
+Přijmout výzvu.
+Odmítnout výzvu.
+(Tohle teď nechci dělat)
 
-The Cult of Ch'thon has many leaders, but we have finally discovered the identity of the one in charge of activities around Devil's Crossing.{^n}{^n}He goes by the name Salazar, Blade of Ch'thon and he is rumored to be hiding out somewhere near the Burrwitch Outskirts.{^n}{^n}Anyone that tracks down and eliminates Salazar will be justly rewarded with some of our rare scavenged materials.
-Accept the Bounty.
-Decline the Bounty.
-(Skip this Bounty)
+Mocný oživovač byl spatřen, jak přichází a odchází z Wardenova sklepení, nejspíš posledního místa Kriegových šílených pokusů.{^n}{^n}Doba už je takhle dost zlá, a ještě aby se tady potuloval oživovač, to není zrovna to pravé. Nalloth, Mrazivý pohled by měl být co nejdříve zabit.{^n}{^n}Kdokoliv, kdo jej vyválí v prachu cest, bude spravedlivě odměněn nějakými surovinami z našich zásob.
+Přijmout výzvu.
+Odmítnout výzvu.
+(Tohle teď nechci dělat)
 
-Gethrand and Zanbrandt were two scientists that disappeared around the time of the Grim Dawn. Nobody knew what happened to them...until now.{^n}{^n}Their horribly disfigured forms have been spotted roaming the Warden's grounds, raising the dead to serve the Aetherials.{^n}{^n}They are a threat to Devil's Crossing. Search the Warden's Lab and Quarters and eliminate the reanimators. You will be suitably rewarded with iron bits.
-Accept the Bounty.
-Decline the Bounty.
-(Skip this Bounty)
+Psanci obývající Čtvery vršky ve Staré Arkovii mají zajímavou minulost - vhazují neozbrojené vězně do jam tváří v tvář proti Borisovi.{^n}{^n}Boris je řezník, který libuje v tekoucí krvi. Fakt nechutný.{^n}{^n}Kdokoliv míjí Čtvery vršky, může se naráz ocitnout v jámě na pobřeží s Borisem. Nebylo by špatné ho sejmout v jeho vlastní aréně, takový krásně poetický konec šílence.{^n}{^n}Kdo se o to pokusí a vyvázně se zdravou kůží, Ďáblův průsmyk jej odmění nemalou sumičkou železných mincí jako odškodné za smrt Borise.
+Přijmout výzvu.
+Odmítnout výzvu.
+(Tohle teď nechci dělat)
 
-Your assistance is invaluable to Devil's Crossing.{^n}{^n}But there is always more that can be done to assist the survivors.
+Kult Ch'thona má mnoho vůdců, ale nyní jsme konečně objevili identitu jednoho z těch, kteří jsou zodpovědní za útoky na Ďáblův průsmyk.{^n}{^n}Jeho jméno je Salazar, Čepel Ch'thona a povídá se, že se skrývá někde poblíž Burrwitchského předměstí.{^n}{^n}Kdokoliv bude mít odvahu a vysleduje Salazara, pošle jej na onen svět, bude odměněn několika vzácnými surovinami.
+Přijmout výzvu.
+Odmítnout výzvu.
+(Tohle teď nechci dělat)
 
-Step away from the Bounty Table.
-The people of Devil's Crossing do not yet trust you with their innermost needs.{^n}{^n}A Respected reputation is required to access the Bounty Table.
-Step away from the Bounty Table.
+Gethrand a Zanbrandt byly dva vědci, kteří zmizeli v době Ponurého úsvitu. Nikdo nevěděl, co se s nimi stalo... až do dnešních dnů.{^n}{^n}Jejich děsivě znetvořené tváře byly spatřeny potulující se ve Wardenově podzemí, kde byli naši mrtví probouzeni v Aetherické podobě.{^n}{^n}Jsou hrozbou pro celý Ďáblův průsmyk. Je potřeba vyhledat Laboratoř a Obytné části a zlikvidovat oba oživovače. Tvá odměna bude čítat nemalou sumičku železných mincí.
+Přijmout výzvu.
+Odmítnout výzvu.
+(Tohle teď nechci dělat)
+
+Tvá výpomoc nemá pro Ďáblův průsmyk žádnou hodnotu.{^n}{^n}Ale stále je tady mnohé, co můžeš udělat, abys pomohl přeživším.
+
+Odstup kousek od vývěsky.
+Lidé z Ďáblova průsmyku ti nemají důvod svěřovat své vlastní problémy.{^n}{^n}Abys mohl prohlédnout nástěnku, musíš si získat jejich přízeň, aby tě přinejmenším respektovali.
+Odstup kousek od vývěsky.
