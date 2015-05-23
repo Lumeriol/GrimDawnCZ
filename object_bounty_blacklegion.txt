@@ -1,41 +1,41 @@
-Black Legion Bounties
-You return with the materials in hand, a Bounty fulfilled.
-Report in.
+Výzvy Černé legie
+Vracíš se s ukořistěnými materiály, výzva byla splněna.
+Ohlas se.
 
 
-Step away from the Bounty Table.
-You return with the materials in hand, a Bounty fulfilled.
-Report in.
+Odstup kousek od vývěsky.
+Vracíš se s ukořistěnými materiály, výzva byla splněna.
+Ohlas se.
 
 
-Step away from the Bounty Table.
-You return with the materials in hand, a Bounty fulfilled.
-Report in.
+Odstup kousek od vývěsky.
+Vracíš se s ukořistěnými materiály, výzva byla splněna.
+Ohlas se.
 
 
-Step away from the Bounty Table.
-You return with the materials in hand, a Bounty fulfilled.
-Report in.
+Odstup kousek od vývěsky.
+Vracíš se s ukořistěnými materiály, výzva byla splněna.
+Ohlas se.
 
 
-Step away from the Bounty Table.
-You return with the materials in hand, a Bounty fulfilled.
-Report in.
+Odstup kousek od vývěsky.
+Vracíš se s ukořistěnými materiály, výzva byla splněna.
+Ohlas se.
 
 
-Step away from the Bounty Table.
-You return triumphantly, a Bounty fulfilled.
-Report in.
+Odstup kousek od vývěsky.
+Výzva byla splněna a ty se vítězoslavně vracíš zpět.
+Ohlas se.
 
 
-Step away from the Bounty Table.
-You are already on a Bounty for the Black Legion.
-Step away from the Bounty Table.
-The Black Legion is always looking for capable men and women to assist them on difficult missions.{^n}{^n}With your reputation, some of the most dangerous missions are now available.
-Take a look at the bounty.
-You have done all that the Legion has asked of you this session.
-Step away from the Bounty Table.
-Take a look at the bounty.
+Odstup kousek od vývěsky.
+Výzva od Černé legie už byla přijata.
+Odstup kousek od vývěsky.
+Černá legie stále hledá muže a ženy, kteří by jim pomáhali při obtížných misích.{^n}{^n}Se svou přízní máš nyní možnost pustit se do některých nebezpečných úkolů.
+Podívej se na výzvy.
+Všechno co po tobě Legie chtěla, už je splněné. Zkus to příště.
+Odstup kousek od vývěsky.
+Podívej se na výzvy.
 
 
 
@@ -61,12 +61,12 @@ Take a look at the bounty.
 
 
 
-Step away from the Bounty Table.
-The Black Legion is always looking for capable men and women to assist them on difficult missions.
-Take a look at the bounty.
-You have done all that the Legion has asked of you this session.
-Step away from the Bounty Table.
-Take a look at the bounty.
+Odstup kousek od vývěsky.
+Černá legie stále hledá muže a ženy, kteří by jim pomáhali při obtížných misích.
+Podívej se na výzvy.
+Všechno co po tobě Legie chtěla, už je splněné. Zkus to příště.
+Odstup kousek od vývěsky.
+Podívej se na výzvy.
 
 
 
@@ -82,212 +82,212 @@ Take a look at the bounty.
 
 
 
-Step away from the Bounty Table.
-The Legion requests assistance in dealing with the Fleshwarped troll threat.{^n}{^n}The elimination of Fleshwarped Commanders is imperative to the success of our forces in the region.{^n}{^n}Any assistance will be compensated with iron bits.
-Accept the Bounty.
-Decline the Bounty.
-(Skip this Bounty)
+Odstup kousek od vývěsky.
+Legie hledá někoho, kdo pomůže při likvidaci hrozby v podobě Pokroucených zlobrů.{^n}{^n}Likvidace Pokroucených velitelů je klíčový krok pro úspěch našich jednotek v této oblasti.{^n}{^n}Jakákoliv pomoc bude odměněna železnými mincemi.
+Přijmout výzvu.
+Odmítnout výzvu.
+(Tohle teď nechci dělat)
 
-The Legion requests assistance against the insidious Cult of Ch'thon.{^n}{^n}Bloodsworn Doomsayers are wreaking havoc across our lines in the Blood Grove. They are to be considered primary targets by all Legion agents.{^n}{^n}Any assistance will be compensated with iron bits.
-Accept the Bounty.
-Decline the Bounty.
-(Skip this Bounty)
+Legie hledá někoho, kdo pomůže se zrádným Kultem Ch'thona.{^n}{^n}Krvepřísežníci ~ osudoví vrazi likvidujou naše linie v Krvavém háji. Pro každého agenta Legie jsou tito vrazi hlavním cílem v této oblasti.{^n}{^n}Jakákoliv pomoc bude odměněna železnými mincemi.
+Přijmout výzvu.
+Odmítnout výzvu.
+(Tohle teď nechci dělat)
 
-The Legion requests assistance against the spawns of the void.{^n}{^n}Chthonian Devourers have been seen rampaging through the Blood Grove, tearing our men apart with their vicious jaws. They are damaging to morale and are to be exterminated.{^n}{^n}Any assistance will be compensated with materials from the Legion stores.
-Accept the Bounty.
-Decline the Bounty.
-(Skip this Bounty)
+Legie hledá někoho, kdo pomůže s těmi hnusy z Prázdnot.{^n}{^n}Chthonští žrouti jsou byli spatřeni při svém řádění v Krvavém háji, kdy roztrhali naše muže svými trháky. Jejich přežívání škodí morálce našeho vojska a proto musí být vyhlazeni.{^n}{^n}Jakákoliv pomoc bude odměněna několika materiály z Legionářského obchodu.
+Přijmout výzvu.
+Odmítnout výzvu.
+(Tohle teď nechci dělat)
 
-The Legion requests assistance with a monster hunt.{^n}{^n}A Briarthorn known as Ol' Bloodbriar has eluded our hunters. His lair is believed to be hidden somewhere in the Shaded Basin.{^n}{^n}Any assistance will be compensated with iron bits.
-Accept the Bounty.
-Decline the Bounty.
-(Skip this Bounty)
-
-The Legion requests assistance with a Dermapteran threat.{^n}{^n}A Vizier in the Dermapteran hive within the Rotting Cropland has become tainted with the Aether. If the Aetherials take this to their advantage, they could soon have an entire hive at their command. This tainted vizier must be exterminated at once.{^n}{^n}Any assistance will be compensated with iron bits.
-Accept the Bounty.
-Decline the Bounty.
-(Skip this Bounty)
-
-The Legion requests assistance with the spawns of the void.{^n}{^n}A riftgate leading to the void itself has opened up near Sorrow's Bastion. There, an obsidian monster known as Bane'Gargoth commands the chthonians against our world. Someone must brave the void and exterminate it, for the good of humanity.{^n}{^n}Any assistance will be compensated with a substantial sum of iron bits.
-Accept the Bounty.
-Decline the Bounty.
-(Skip this Bounty)
-
-The Legion requests assistance with a monster hunt.{^n}{^n}A manticore matriarch known as Mogara has proven to be a difficult target, often turning her hunters into prey. Her hunting grounds appear to be in the Jagged Waste to the south.{^n}{^n}Any assistance will be compensated with iron bits.
-Accept the Bounty.
-Decline the Bounty.
-(Skip this Bounty)
-
-The Legion requests assistance against the insidious Cult of Ch'thon.{^n}{^n}A Chthonian named Gluttrius'Maw is terrorizing our forces in the Blood Grove. It has proven elusive, and extremely deadly. Its death has become a primary objective.{^n}{^n}Any assistance will be compensated with materials from the Legion stores.
-Accept the Bounty.
-Decline the Bounty.
-(Skip this Bounty)
-
-The Legion requests assistance with a monster hunt.{^n}{^n}A cavern crawler known as Sicrix has evaded the Legion hunters, but they have tracked it down into the highly dangerous Mountain Deeps. Additional reinforcements are requested to taken down the critter.{^n}{^n}Any assistance will be compensated with materials from the Legion stores.
-Accept the Bounty.
-Decline the Bounty.
-(Skip this Bounty)
-
-The Legion requests assistance with a monster hunt.{^n}{^n}A briarthorn known as Emberjaw has proven surprisingly resistent to flame. It was last spotted in the Pine Barrens, spreading wildfires wherever it goes.{^n}{^n}Any assistance will be compensated with materials from the Legion stores.
-Accept the Bounty.
-Decline the Bounty.
-(Skip this Bounty)
-
-The Legion requests assistance with gathering enemy intelligence.{^n}{^n}The Cult of Ch'thon has been employing strange Seals in their summoning rituals. We must learn more about these implements if we are to counter the Cult's efforts.{^n}{^n}Delivery of a Chthonic Seal will be compensated with iron bits.
-Accept the Bounty.
-Decline the Bounty.
-(Skip this Bounty)
-
-The Legion requests assistance with gathering enemy intelligence.{^n}{^n}The Cult of Ch'thon is obsessed with something known as the Blood of Ch'thon. The Legion wishes to study this liquid further.{^n}{^n}Delivery of a Blood of Ch'thon will be compensated with materials from the Legion stores.
-Accept the Bounty.
-Decline the Bounty.
-(Skip this Bounty)
-
-The Legion requests assistance with gathering enemy intelligence.{^n}{^n}The Aetherials draw power from their varous crystal formations. The Legion requires a specimen of such a formation if we are to counter this enemy resources.{^n}{^n}Delivery of an Aether Shard will be compensated with materials from the Legion stores.
-Accept the Bounty.
-Decline the Bounty.
-(Skip this Bounty)
-
-The Legion requests assistance with gathering enemy intelligence.{^n}{^n}The most potent Aether Crystal Clusters appear to hold immense amounts of raw energy within them. The Legion wishes to find out more about how they work.{^n}{^n}Delivery of an Aether Cluster will be compensated with materials from the Legion stores.
-Accept the Bounty.
-Decline the Bounty.
-(Skip this Bounty)
-
-The Legion requests assistance with gathering enemy intelligence.{^n}{^n}It appears that the act of Aetherial possession inherently alters the chemical structure of the brain. The Legion wishes to study this further, but requires a specimen.{^n}{^n}Delivery of a Tainted Brain Matter will be compensated with materials from the Legion stores.
-Accept the Bounty.
-Decline the Bounty.
-(Skip this Bounty)
-
-The Legion requests assistance with a priority target.{^n}{^n}An undead being known as Kilrian dwells within the Undercity of Old Arkovia. He gathers the dead to him, creating an army that could pose a serious threat to humanity. He must be destroyed at all costs.{^n}{^n}Any assistance will be compensated with a substantial sum of iron bits.
-Accept the Bounty.
-Decline the Bounty.
-(Skip this Bounty)
-
-The Legion requests assistance with a priority target.{^n}{^n}Harrath, a Fleshwarped troll, was believed slain at the riftgate outside Homestead. Through means we cannot explain, he has returned and is once again wreaking havoc around the Rotting Croplands. This threat must be exterminated, again.{^n}{^n}Any assistance will be compensated with materials from the Legion stores.
-Accept the Bounty.
-Decline the Bounty.
-(Skip this Bounty)
-
-The Legion requests assistance with a priority target.{^n}{^n}Padmanestia, a possessed human, has been spotted in the Conflagration. The Legion suffers no traitors to humanity. She is to be eliminated with great prejudice.{^n}{^n}Any assistance will be compensated with materials from the Legion stores.
-Accept the Bounty.
-Decline the Bounty.
-(Skip this Bounty)
-
-The Legion requests assistance with a priority target.{^n}{^n}Corpus, a voracious ghoul, is inhibiting our efforts at the Necropolis. If we are to stop the Cult, this threat must be eliminated immediately.{^n}{^n}Any assistance will be compensated with materials from the Legion stores.
-Accept the Bounty.
-Decline the Bounty.
-(Skip this Bounty)
-
-The Legion requests assistance with a priority target.{^n}{^n}Luthus'Balok is a powerful chthonic spawn that channels lightning through its obsidian body. It has been seen traveling between chthonic rifts, creating lightning storms wherever it appears. This chaos must end.{^n}{^n}Any assistance will be compensated with materials from the Legion stores.
-Accept the Bounty.
-Decline the Bounty.
-(Skip this Bounty)
-
-The Legion requests assistance with a priority target.{^n}{^n}The Mountain Deeps offer a wealth of untapped resources, but the Legion engineers are unable to enter while a dangerous cavern crawler known as Ikrix roams the depths.{^n}{^n}Any assistance will be compensated with a substantial sum of iron bits.
-Accept the Bounty.
-Decline the Bounty.
-(Skip this Bounty)
-
-The Legion requests assistance with a priority target.{^n}{^n}A massive chthonic rift has opened near the Necropolis from which pour hundreds of Chthonic spawn. We call it the Bastion of Chaos. Deep within, there dwells a powerful creature known as Shar'Zul, the Harbinger of Chaos. If he were slain, we would land a crippling blow to the Chthonians.{^n}{^n}The Legion is willing to share some of its rare materials with anyone that manages to accomplish this impossible task.
-Accept the Bounty.
-Decline the Bounty.
-(Skip this Bounty)
-
-The Legion requests assistance with a priority target.{^n}{^n}To the north of Homestead, in an area we now call the Conflagration, the Legion was forced to flee from an Aetherial creation known only as the Herald of Flame. This creature spreads aetherfire wherever it goes, and its next target appears to be Homestead. The danger the Herald poses to this region cannot be understated. It must be eliminated at all costs.{^n}{^n}The Legion is willing to share some of its rare materials with anyone that manages to accomplish this impossible task.
-Accept the Bounty.
-Decline the Bounty.
-(Skip this Bounty)
-
-The Legion requests assistance with a priority target.{^n}{^n}Far to the south, within the Broken Hills, there is a forgotten ruin known as the Steps of Torment. It appears to be the epicenter of all undead activity within Arkovia. At the bottom of this accursed place, there dwells a corrupt spirit known as Alkamos. If he were somehow destroyed and the tower cleansed, then the Legion could study the ruins and excavate them for artifacts. Such a valuable resource cannot be underestimated.{^n}{^n}The Legion is willing to share some of its rare materials with anyone that manages to accomplish this impossible task.
-Accept the Bounty.
-Decline the Bounty.
-(Skip this Bounty)
-
-The Legion requests assistance with a priority target.{^n}{^n}One of the Cult's leaders has finally shown himself at the Necropolis. Bloodlord Thalonis is actively trying to resurrect a demigod known as the Unraveler. We cannot allow this to happen. Bloodlord Thalonis must be stopped at all costs. The Legion calls to all of its able-bodied allies to assist in this matter.{^n}{^n}Any assistance will be compensated with materials from the Legion stores.
-Accept the Bounty.
-Decline the Bounty.
-(Skip this Bounty)
-
-The Legion requests assistance in dealing with the Fleshwarped troll threat.{^n}{^n}The elimination of Fleshwarped Commanders is imperative to the success of our forces in the region.{^n}{^n}Any assistance will be compensated with iron bits.
-Accept the Bounty.
-Decline the Bounty.
-(Skip this Bounty)
-
-The Legion requests assistance against the insidious Cult of Ch'thon.{^n}{^n}Bloodsworn Doomsayers are wreaking havoc across our lines in the Blood Grove. They are to be considered primary targets by all Legion agents.{^n}{^n}Any assistance will be compensated with iron bits.
-Accept the Bounty.
-Decline the Bounty.
-(Skip this Bounty)
-
-The Legion requests assistance against the spawns of the void.{^n}{^n}Chthonian Devourers have been seen rampaging through the Blood Grove, tearing our men apart with their vicious jaws. They are damaging to morale and are to be exterminated.{^n}{^n}Any assistance will be compensated with materials from the Legion stores.
-Accept the Bounty.
-Decline the Bounty.
-(Skip this Bounty)
-
-The Legion requests assistance with a monster hunt.{^n}{^n}A Briarthorn known as Ol' Bloodbriar has eluded our hunters. His lair is believed to be hidden somewhere in the Shaded Basin.{^n}{^n}Any assistance will be compensated with iron bits.
-Accept the Bounty.
-Decline the Bounty.
-(Skip this Bounty)
-
-The Legion requests assistance with a Dermapteran threat.{^n}{^n}A Vizier in the Dermapteran hive within the Rotting Cropland has become tainted with the Aether. If the Aetherials take this to their advantage, they could soon have an entire hive at their command. This tainted vizier must be exterminated at once.{^n}{^n}Any assistance will be compensated with iron bits.
-Accept the Bounty.
-Decline the Bounty.
-(Skip this Bounty)
-
-The Legion requests assistance with the spawns of the void.{^n}{^n}A riftgate leading to the void itself has opened up near Sorrow's Bastion. There, an obsidian monster known as Bane'Gargoth commands the chthonians against our world. Someone must brave the void and exterminate it, for the good of humanity.{^n}{^n}Any assistance will be compensated with a substantial sum of iron bits.
-Accept the Bounty.
-Decline the Bounty.
-(Skip this Bounty)
-
-The Legion requests assistance with a monster hunt.{^n}{^n}A manticore matriarch known as Mogara has proven to be a difficult target, often turning her hunters into prey. Her hunting grounds appear to be in the Jagged Waste to the south.{^n}{^n}Any assistance will be compensated with iron bits.
-Accept the Bounty.
-Decline the Bounty.
-(Skip this Bounty)
-
-The Legion requests assistance against the insidious Cult of Ch'thon.{^n}{^n}A Chthonian named Gluttrius'Maw is terrorizing our forces in the Blood Grove. It has proven elusive, and extremely deadly. Its death has become a primary objective.{^n}{^n}Any assistance will be compensated with materials from the Legion stores.
-Accept the Bounty.
-Decline the Bounty.
-(Skip this Bounty)
-
-The Legion requests assistance with a monster hunt.{^n}{^n}A cavern crawler known as Sicrix has evaded the Legion hunters, but they have tracked it down into the highly dangerous Mountain Deeps. Additional reinforcements are requested to taken down the critter.{^n}{^n}Any assistance will be compensated with materials from the Legion stores.
-Accept the Bounty.
-Decline the Bounty.
-(Skip this Bounty)
-
-The Legion requests assistance with a monster hunt.{^n}{^n}A briarthorn known as Emberjaw has proven surprisingly resistent to flame. It was last spotted in the Pine Barrens, spreading wildfires wherever it goes.{^n}{^n}Any assistance will be compensated with materials from the Legion stores.
-Accept the Bounty.
-Decline the Bounty.
-(Skip this Bounty)
-
-The Legion requests assistance with gathering enemy intelligence.{^n}{^n}The Cult of Ch'thon has been employing strange Seals in their summoning rituals. We must learn more about these implements if we are to counter the Cult's efforts.{^n}{^n}Delivery of a Chthonic Seal will be compensated with iron bits.
-Accept the Bounty.
-Decline the Bounty.
-(Skip this Bounty)
-
-The Legion requests assistance with gathering enemy intelligence.{^n}{^n}The Cult of Ch'thon is obsessed with something known as the Blood of Ch'thon. The Legion wishes to study this liquid further.{^n}{^n}Delivery of a Blood of Ch'thon will be compensated with materials from the Legion stores.
-Accept the Bounty.
-Decline the Bounty.
-(Skip this Bounty)
-
-The Legion requests assistance with gathering enemy intelligence.{^n}{^n}The Aetherials draw power from their varous crystal formations. The Legion requires a specimen of such a formation if we are to counter this enemy resources.{^n}{^n}Delivery of an Aether Shard will be compensated with materials from the Legion stores.
-Accept the Bounty.
-Decline the Bounty.
-(Skip this Bounty)
-
-The Legion requests assistance with gathering enemy intelligence.{^n}{^n}The most potent Aether Crystal Clusters appear to hold immense amounts of raw energy within them. The Legion wishes to find out more about how they work.{^n}{^n}Delivery of an Aether Cluster will be compensated with materials from the Legion stores.
-Accept the Bounty.
-Decline the Bounty.
-(Skip this Bounty)
-
-The Legion requests assistance with gathering enemy intelligence.{^n}{^n}It appears that the act of Aetherial possession inherently alters the chemical structure of the brain. The Legion wishes to study this further, but requires a specimen.{^n}{^n}Delivery of a Tainted Brain Matter will be compensated with materials from the Legion stores.
-Accept the Bounty.
-Decline the Bounty.
-(Skip this Bounty)
-
-The Black Legion is always looking for capable men and women to assist them on difficult missions.{^n}{^n}With your reputation, some of the most dangerous missions are now available.
-
-Step away from the Bounty Table.
-The Black Legion is always looking for capable men and women to assist them on difficult missions.
-Step away from the Bounty Table.
-
-The Black Legion does not yet trust your capabilities.{^n}{^n}A Friendly reputation is required to access the Bounty Table.
-Step away from the Bounty Table.
+Legie hledá někoho, kdo se zúčastní lovu příšery.{^n}{^n}Krvošípek, známý jako Ol' Krvošípek, už nějakou dobu uniká našim lovcům. Jeho doupě je snad ukryto někde ve Stinné vodní nádrži.{^n}{^n}Jakákoliv pomoc bude odměněna železnými mincemi.
+Přijmout výzvu.
+Odmítnout výzvu.
+(Tohle teď nechci dělat)
+
+Legie hledá někoho, kdo by pomohl při likvidaci hrozby v podobě Škvorů.{^n}{^n}Ve škvořím úlu někde na Hnijících polích byl nakažen Aetherem jeden vezír. Pokud ho Aetheriané využijí, mohl by v brzké době velet celému úlu. Tenhle nakažený vezír musí být co nejdřív zničen.{^n}{^n}Jakákoliv pomoc bude odměněna železnými mincemi.
+Přijmout výzvu.
+Odmítnout výzvu.
+(Tohle teď nechci dělat)
+
+Legie hledá někoho, kdo pomůže s těmi hnusy z Prázdnot.{^n}{^n}Poblíž Bašty zármutku se otevřela Brána vedoucí do Prázdnoty. Tam v hloubi, obsidiánová zrůda známá jako Bane'Gargoth, posílá na povrch našeho světa své podsvětní příšery. Někdo musí být statečný, a pro dobro lidstva čelit těmto hrůzám z temnot.{^n}{^n}Jakákoliv pomoc bude odměněna značnou sumou železných mincí.
+Přijmout výzvu.
+Odmítnout výzvu.
+(Tohle teď nechci dělat)
+
+Legie hledá někoho, kdo se zúčastní lovu příšery.{^n}{^n}Mantikoří matriarcha známá jako Mogara se ukázala být velmi nesnadným cílem, jelikož z lovců se stávají lovení. Její loviště se pravděpodobně nacházejí jižně od Rozeklané pustiny.{^n}{^n}Jakákoliv pomoc bude odměněna železnými mincemi.
+Přijmout výzvu.
+Odmítnout výzvu.
+(Tohle teď nechci dělat)
+
+Legie hledá někoho, kdo pomůže se zrádným Kultem Ch'thona.{^n}{^n}Chthonická bytost jménem Gluttrius'Maw terorizuje naše jednotky v Krvavém háji. Je prokázáno, že je nepolapitelný a neuvěřitelně rychle zabíjí. Jeho smrt je do značné míry naší prioritou.{^n}{^n}Jakákoliv pomoc bude odměněna několika materiály z Legionářského obchodu.
+Přijmout výzvu.
+Odmítnout výzvu.
+(Tohle teď nechci dělat)
+
+Legie hledá někoho, kdo se zúčastní lovu příšery.{^n}{^n}Jeskynní plazivec Sicrix se už delší dobu vyhýbá Legionářským lovcům, ale podařilo se ho sledovat do Horských hlubin. Na zničení tohoto netvora je potřeba dalších posil.{^n}{^n}Jakákoliv pomoc bude odměněna několika materiály z Legionářského obchodu.
+Přijmout výzvu.
+Odmítnout výzvu.
+(Tohle teď nechci dělat)
+
+Legie hledá někoho, kdo se zúčastní lovu příšery.{^n}{^n}Krvošípek známý jako Zuhelnatělá huba se ukázal být až překvapivě odolný vůči plamenům. Naposledy byl spatřen u Seschlých borovic, jelikož zakládá požáry všude, kde může.{^n}{^n}Jakákoliv pomoc bude odměněna několika materiály z Legionářského obchodu.
+Přijmout výzvu.
+Odmítnout výzvu.
+(Tohle teď nechci dělat)
+
+Legie hledá pomoc při získávání nepřátelské inteligence.{^n}{^n}Kult uctívající Ch'thona najímal ke svým vyvolávacím rituálům zvláštní Pečetitele. Pokud chceme rozvrátit snahy Kultu, musíme se o těchto individuích dozvědět více.{^n}{^n}Doručení Chthonické pečeti bude odměněno železnými mincemi.
+Přijmout výzvu.
+Odmítnout výzvu.
+(Tohle teď nechci dělat)
+
+Legie hledá pomoc při získávání nepřátelské inteligence.{^n}{^n}Kult Ch'thona je přímo posedlý něčím, co sami nazývají Krví Ch'thona. Legie by ráda prostudovala účinky této kapaliny.{^n}{^n}Doručení Krve Ch'thona bude odměněno několika materiály z Legionářského obchodu.
+Přijmout výzvu.
+Odmítnout výzvu.
+(Tohle teď nechci dělat)
+
+Legie hledá pomoc při získávání nepřátelské inteligence.{^n}{^n}Aetheriané čerpají sílu z různých uspořádání krystalů. Pokud má Legie čelit těmto nepřátelským zdrojům, potřebuje exemplář jednoho takového uspořádání.{^n}{^n}Doručení Úlomku Aetheru bude odměněno několika materiály z Legionářského obchodu.
+Přijmout výzvu.
+Odmítnout výzvu.
+(Tohle teď nechci dělat)
+
+Legie hledá pomoc při získávání nepřátelské inteligence.{^n}{^n}Nejúčinnější Trsy Aetherických krystalů v sobě udržují pravděpodobně obrovské množství surové energie. Legie by si přála dozvědět, jak to vlastně funguje.{^n}{^n}Doručení Trsu Aetherů bude odměněno několika materiály z Legionářského obchodu.
+Přijmout výzvu.
+Odmítnout výzvu.
+(Tohle teď nechci dělat)
+
+Legie hledá pomoc při získávání nepřátelské inteligence.{^n}{^n}Zdá se, že projev Aetherického posednutí podstatně mění chemickou strukturu mozku. Legie by to ráda prostudovala, ale chybí ji nějaký vhodný vzorek.{^n}{^n}Doručení Zkažené mozkové hmoty bude odměněno několika materiály z Legionářského obchodu.
+Přijmout výzvu.
+Odmítnout výzvu.
+(Tohle teď nechci dělat)
+
+Legie hledá někoho, kdo by zlikvidoval úhlavního nepřítele.{^n}{^n}Nemrtvá bytost známá svým jménem jako Kilrian, přebývá v Arkovianském podzemním městě. Tam se kolem něj shlukují další nemrtví a vytváří tak armádu, která by mohl představovat poměrně vážnou hrozbu pro lidstvo. Za každou cenu musí být zlikvidován.{^n}{^n}Jakákoliv pomoc bude odměněna značnou sumou železných mincí.
+Přijmout výzvu.
+Odmítnout výzvu.
+(Tohle teď nechci dělat)
+
+Legie hledá někoho, kdo by zlikvidoval úhlavního nepřítele.{^n}{^n}Harrath, pokroucený zlobr, už byl jednou zabit v Bráně kousek za Homesteadem. Nikdo si nedokáže vysvětlit, jak se mu podařilo vrátit se mezi živé a mstít se lidem v okolí Hnijících polích. Tato hrozba musí být zničena. Znovu. A natrvalo.{^n}{^n}Jakákoliv pomoc bude odměněna několika materiály z Legionářského obchodu.
+Přijmout výzvu.
+Odmítnout výzvu.
+(Tohle teď nechci dělat)
+
+Legie hledá někoho, kdo by zlikvidoval úhlavního nepřítele.{^n}{^n}Padmanestia, posedlá ženština, byla spatřena na Požářišti. Legie nehodlá trpět žádn zrádce vůči lidstvu. Je potřeba ji bez jakýchkoliv předsudků odstranit z tohoto světa.{^n}{^n}Jakákoliv pomoc bude odměněna několika materiály z Legionářského obchodu.
+Přijmout výzvu.
+Odmítnout výzvu.
+(Tohle teď nechci dělat)
+
+Legie hledá někoho, kdo by zlikvidoval úhlavního nepřítele.{^n}{^n}Corprus, nenažraný ghúl, přebývá na Pohřebišti i přes naše snahy jej vyhnat. Náme-li zastavit Kult, musí být tento démon ihned zlikvidován.{^n}{^n}Jakákoliv pomoc bude odměněna několika materiály z Legionářského obchodu.
+Přijmout výzvu.
+Odmítnout výzvu.
+(Tohle teď nechci dělat)
+
+Legie hledá někoho, kdo by zlikvidoval úhlavního nepřítele.{^n}{^n}Luthus'Balok je velice silný výplod chthonických bytostí, kterému v žilách obsidiánového těla kolují blesky. Byl spatřen, jak cestuje mezi chthonickými branami. Dělá bouřky všude tam, kde se objeví. Tento chaos musí jednou pro vždy skončit.{^n}{^n}Jakákoliv pomoc bude odměněna několika materiály z Legionářského obchodu.
+Přijmout výzvu.
+Odmítnout výzvu.
+(Tohle teď nechci dělat)
+
+Legie hledá někoho, kdo by zlikvidoval úhlavního nepřítele.{^n}{^n}Horské hlubiny skýtají nepřeberné množství nedotčených surovin, ale Legionářští inženýři nejsou schopni vstoupit do nebezpečných chodeb, kde číhá a potuluje se jeskynní plazivec známý jako Ikrix.{^n}{^n}Jakákoliv pomoc bude odměněna značnou sumou železných mincí.
+Přijmout výzvu.
+Odmítnout výzvu.
+(Tohle teď nechci dělat)
+
+Legie hledá někoho, kdo by zlikvidoval úhlavního nepřítele.{^n}{^n}Nedaleko Pohřebiště se otevřela obrovská chthonická trhlina, z níž lezou další chthonické hnusy. Místo je teď známé jako Bašta chaosu. Někde pod ní se ukrývá mocná příšera známá jako Shar'Zul, posel Chaosu. Pokud by byl zabit, chthonické bytosti by utrpěli ochromující ztrátu ve svých řadách.{^n}{^n}Pokud splníš tuto takřka nesplnitelnou úlohu, Legie se s tebou podělí o několik vzácných materiálů.
+Přijmout výzvu.
+Odmítnout výzvu.
+(Tohle teď nechci dělat)
+
+Legie hledá někoho, kdo by zlikvidoval úhlavního nepřítele.{^n}{^n}Severně od Homesteadu, v oblasti, která se teď nazývá Požářiště, byla Legie nucena prchnout před Aetherickým stvořením, známým pouze jako Plamenný posel. Tento netvor šíří aetherický oheň na každém místě, kde to jenom jde, a jeho dalším cílem se zdá Homestead. Plamenný posel představuje skutečné nebezpečí, které nelze podceňovat. Za každou cenu musí být zlikvidován.{^n}{^n}Pokud splníš tuto takřka nesplnitelnou úlohu, Legie se s tebou podělí o několik vzácných materiálů.
+Přijmout výzvu.
+Odmítnout výzvu.
+(Tohle teď nechci dělat)
+
+Legie hledá někoho, kdo by zlikvidoval úhlavního nepřítele.{^n}{^n}Daleko na jihu, někde v okolí Sesutých kopců, se nachází stará zapomenutá zřícenina známá jako Stupně bolesti. Zdá se, že nyní je to hlavní epicentrum veškeré činnosti nemrtvých v Arkovii. Hluboko pod zříceninou se potuluje duch známý jako Alkamos. Pokud by byl nějakým způsobem zlikvidován a bývalá věž vyčištěna, pak by Legie mohla prostudovat ruiny a vynést všechny artefakty z podzemí. Takové cennosti tam nelze jen tak zanechat.{^n}{^n}Pokud splníš tuto takřka nesplnitelnou úlohu, Legie se s tebou podělí o několik vzácných materiálů.
+Přijmout výzvu.
+Odmítnout výzvu.
+(Tohle teď nechci dělat)
+
+Legie hledá někoho, kdo by zlikvidoval úhlavního nepřítele.{^n}{^n}Jeden z vůdců Kultu se konečně ukázal na Pohřebišti. Pán krve Thalonis se velmi aktivně snaží vzkřísit poloboha známého jako Rozparovač. Tohle nemůžeme dovolit, aby se vůbec stalo, proto musí být Thalonis zastaven za každou cenu. Legie žádá každého svého zdatného spojence, aby s touto situací pomohl.{^n}{^n}Jakákoliv pomoc bude odměněna několika materiály z Legionářského obchodu.
+Přijmout výzvu.
+Odmítnout výzvu.
+(Tohle teď nechci dělat)
+
+Legie hledá někoho, kdo pomůže při likvidaci hrozby v podobě Pokroucených zlobrů.{^n}{^n}Likvidace Pokroucených velitelů je klíčový krok pro úspěch našich jednotek v této oblasti.{^n}{^n}Jakákoliv pomoc bude odměněna železnými mincemi.
+Přijmout výzvu.
+Odmítnout výzvu.
+(Tohle teď nechci dělat)
+
+Legie hledá někoho, kdo pomůže se zrádným Kultem Ch'thona.{^n}{^n}Krvepřísežníci ~ osudoví vrazi likvidujou naše linie v Krvavém háji. Pro každého agenta Legie jsou tito vrazi hlavním cílem v této oblasti.{^n}{^n}Jakákoliv pomoc bude odměněna železnými mincemi.
+Přijmout výzvu.
+Odmítnout výzvu.
+(Tohle teď nechci dělat)
+
+Legie hledá někoho, kdo pomůže s těmi hnusy z Prázdnot.{^n}{^n}Chthonští žrouti jsou byli spatřeni při svém řádění v Krvavém háji, kdy roztrhali naše muže svými trháky. Jejich přežívání škodí morálce našeho vojska a proto musí být vyhlazeni.{^n}{^n}Jakákoliv pomoc bude odměněna několika materiály z Legionářského obchodu.
+Přijmout výzvu.
+Odmítnout výzvu.
+(Tohle teď nechci dělat)
+
+Legie hledá někoho, kdo se zúčastní lovu příšery.{^n}{^n}Krvošípek, známý jako Ol' Krvošípek, už nějakou dobu uniká našim lovcům. Jeho doupě je snad ukryto někde ve Stinné vodní nádrži.{^n}{^n}Jakákoliv pomoc bude odměněna železnými mincemi.
+Přijmout výzvu.
+Odmítnout výzvu.
+(Tohle teď nechci dělat)
+
+Legie hledá někoho, kdo by pomohl při likvidaci hrozby v podobě Škvorů.{^n}{^n}Ve škvořím úlu někde na Hnijících polích byl nakažen Aetherem jeden vezír. Pokud ho Aetheriané využijí, mohl by v brzké době velet celému úlu. Tenhle nakažený vezír musí být co nejdřív zničen.{^n}{^n}Jakákoliv pomoc bude odměněna železnými mincemi.
+Přijmout výzvu.
+Odmítnout výzvu.
+(Tohle teď nechci dělat)
+
+Legie hledá někoho, kdo pomůže s těmi hnusy z Prázdnot.{^n}{^n}Poblíž Bašty zármutku se otevřela Brána vedoucí do Prázdnoty. Tam v hloubi, obsidiánová zrůda známá jako Bane'Gargoth, posílá na povrch našeho světa své podsvětní příšery. Někdo musí být statečný, a pro dobro lidstva čelit těmto hrůzám z temnot.{^n}{^n}Jakákoliv pomoc bude odměněna značnou sumou železných mincí.
+Přijmout výzvu.
+Odmítnout výzvu.
+(Tohle teď nechci dělat)
+
+Legie hledá někoho, kdo se zúčastní lovu příšery.{^n}{^n}Mantikoří matriarcha známá jako Mogara se ukázala být velmi nesnadným cílem, jelikož z lovců se stávají lovení. Její loviště se pravděpodobně nacházejí jižně od Rozeklané pustiny.{^n}{^n}Jakákoliv pomoc bude odměněna železnými mincemi.
+Přijmout výzvu.
+Odmítnout výzvu.
+(Tohle teď nechci dělat)
+
+Legie hledá někoho, kdo pomůže se zrádným Kultem Ch'thona.{^n}{^n}Chthonická bytost jménem Gluttrius'Maw terorizuje naše jednotky v Krvavém háji. Je prokázáno, že je nepolapitelný a neuvěřitelně rychle zabíjí. Jeho smrt je do značné míry naší prioritou.{^n}{^n}Jakákoliv pomoc bude odměněna několika materiály z Legionářského obchodu.
+Přijmout výzvu.
+Odmítnout výzvu.
+(Tohle teď nechci dělat)
+
+Legie hledá někoho, kdo se zúčastní lovu příšery.{^n}{^n}Jeskynní plazivec Sicrix se už delší dobu vyhýbá Legionářským lovcům, ale podařilo se ho sledovat do Horských hlubin. Na zničení tohoto netvora je potřeba dalších posil.{^n}{^n}Jakákoliv pomoc bude odměněna několika materiály z Legionářského obchodu.
+Přijmout výzvu.
+Odmítnout výzvu.
+(Tohle teď nechci dělat)
+
+Legie hledá někoho, kdo se zúčastní lovu příšery.{^n}{^n}Krvošípek známý jako Zuhelnatělá huba se ukázal být až překvapivě odolný vůči plamenům. Naposledy byl spatřen u Seschlých borovic, jelikož zakládá požáry všude, kde může.{^n}{^n}Jakákoliv pomoc bude odměněna několika materiály z Legionářského obchodu.
+Přijmout výzvu.
+Odmítnout výzvu.
+(Tohle teď nechci dělat)
+
+Legie hledá pomoc při získávání nepřátelské inteligence.{^n}{^n}Kult uctívající Ch'thona najímal ke svým vyvolávacím rituálům zvláštní Pečetitele. Pokud chceme rozvrátit snahy Kultu, musíme se o těchto individuích dozvědět více.{^n}{^n}Doručení Chthonické pečeti bude odměněno železnými mincemi.
+Přijmout výzvu.
+Odmítnout výzvu.
+(Tohle teď nechci dělat)
+
+Legie hledá pomoc při získávání nepřátelské inteligence.{^n}{^n}Kult Ch'thona je přímo posedlý něčím, co sami nazývají Krví Ch'thona. Legie by ráda prostudovala účinky této kapaliny.{^n}{^n}Doručení Krve Ch'thona bude odměněno několika materiály z Legionářského obchodu.
+Přijmout výzvu.
+Odmítnout výzvu.
+(Tohle teď nechci dělat)
+
+Legie hledá pomoc při získávání nepřátelské inteligence.{^n}{^n}Aetheriané čerpají sílu z různých uspořádání krystalů. Pokud má Legie čelit těmto nepřátelským zdrojům, potřebuje exemplář jednoho takového uspořádání.{^n}{^n}Doručení Úlomku aetheru bude odměněno několika materiály z Legionářského obchodu.
+Přijmout výzvu.
+Odmítnout výzvu.
+(Tohle teď nechci dělat)
+
+Legie hledá pomoc při získávání nepřátelské inteligence.{^n}{^n}Nejúčinnější Trsy Aetherických krystalů v sobě udržují pravděpodobně obrovské množství surové energie. Legie by si přála dozvědět, jak to vlastně funguje.{^n}{^n}Doručení Trsu aetherů bude odměněno několika materiály z Legionářského obchodu.
+Přijmout výzvu.
+Odmítnout výzvu.
+(Tohle teď nechci dělat)
+
+Legie hledá pomoc při získávání nepřátelské inteligence.{^n}{^n}Zdá se, že projev Aetherického posednutí podstatně mění chemickou strukturu mozku. Legie by to ráda prostudovala, ale chybí ji nějaký vhodný vzorek.{^n}{^n}Doručení Zkažené mozkové hmoty bude odměněno několika materiály z Legionářského obchodu.
+Přijmout výzvu.
+Odmítnout výzvu.
+(Tohle teď nechci dělat)
+
+Černá legie stále hledá muže a ženy, kteří by jim pomáhali při obtížných misích.{^n}{^n}Se svou přízní máš nyní možnost pustit se do některých nebezpečných úkolů.
+
+Odstup kousek od vývěsky.
+Černá legie stále hledá muže a ženy, kteří by jim pomáhali při obtížných misích.
+Odstup kousek od vývěsky.
+
+Černá legie nevěří ve tvé schopnosti.{^n}{^n}Získej si jejich přízeň a dokaž jim, že můžeš plnit výzvy na vývěsce.
+Odstup kousek od vývěsky.
