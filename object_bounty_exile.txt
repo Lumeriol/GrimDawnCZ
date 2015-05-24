@@ -1,73 +1,71 @@
-The Outcast's Tasks
-You return with the materials in hand, a Task fulfilled.
-Report in.
+Úlohy Vyvrhelů
+Vracíš se s rukama plnýma surovin, úkol byl splněn.
+Ohlas se.
 
-Step away from the Table.
-You return with the materials in hand, a Task fulfilled.
-Report in.
+Odstup kousek od stolu.
+Vracíš se s rukama plnýma surovin, úkol byl splněn.
+Ohlas se.
 
-Step away from the Table.
-You return with the materials in hand, a Task fulfilled.
-Report in.
+Odstup kousek od stolu.
+Vracíš se s rukama plnýma surovin, úkol byl splněn.
+Ohlas se.
 
-Step away from the Table.
-You return with the materials in hand, a Task fulfilled.
-Report in.
+Odstup kousek od stolu.
+Vracíš se s rukama plnýma surovin, úkol byl splněn.
+Ohlas se.
 
-Step away from the Table.
-You return with the materials in hand, a Task fulfilled.
-Report in.
+Odstup kousek od stolu.
+Vracíš se s rukama plnýma surovin, úkol byl splněn.
+Ohlas se.
 
-Step away from the Table.
-You return with the materials in hand, a Task fulfilled.
-Report in.
+Odstup kousek od stolu.
+Vracíš se s rukama plnýma surovin, úkol byl splněn.
+Ohlas se.
 
-Step away from the Table.
-You return with the materials in hand, a Task fulfilled.
-Report in.
+Odstup kousek od stolu.
+Vracíš se s rukama plnýma surovin, úkol byl splněn.
+Ohlas se.
 
-Step away from the Table.
-You return with the materials in hand, a Task fulfilled.
-Report in.
+Odstup kousek od stolu.
+Vracíš se s rukama plnýma surovin, úkol byl splněn.
+Ohlas se.
 
-Step away from the Table.
-You return with the materials in hand, a Task fulfilled.
-Report in.
+Odstup kousek od stolu.
+Vracíš se s rukama plnýma surovin, úkol byl splněn.
+Ohlas se.
 
-Step away from the Table.
-You return with the materials in hand, a Task fulfilled.
-Report in.
+Odstup kousek od stolu.
+Vracíš se s rukama plnýma surovin, úkol byl splněn.
+Ohlas se.
 
-Step away from the Table.
-You return with the materials in hand, a Task fulfilled.
-Report in.
+Odstup kousek od stolu.
+Vracíš se s rukama plnýma surovin, úkol byl splněn.
+Ohlas se.
 
-Step away from the Table.
-You return with the materials in hand, a Task fulfilled.
-Report in.
+Odstup kousek od stolu.
+Vracíš se s rukama plnýma surovin, úkol byl splněn.
+Ohlas se.
 
-Step away from the Table.
-You return with the materials in hand, a Task fulfilled.
-Report in.
+Odstup kousek od stolu.
+Vracíš se s rukama plnýma surovin, úkol byl splněn.
+Ohlas se.
 
-Step away from the Table.
-You return with the materials in hand, a Task fulfilled.
-Report in.
+Odstup kousek od stolu.
+Vracíš se s rukama plnýma surovin, úkol byl splněn.
+Ohlas se.
 
-Step away from the Table.
-You return triumphantly, a Task fulfilled.
-Report in.
+Odstup kousek od stolu.
+úkol byl splněn a ty se vítězoslavně vracíš zpět.
+Ohlas se.
 
-Step away from the Table.
-You are already on a Task for the Outcast.
-Step away from the Table.
-The Outcast sees potential in you.{^n}{^n}She trusts that you can handle some of her more sensitive
-Take a look at the task.
-No Tasks available at this time.
-Step away from the Table.
-Take a look at the task.
-
-
+Odstup kousek od stolu.
+Úkol pro Vyvrhele už byl přijat.
+Odstup kousek od stolu.
+Vyvrhelka v tobě vidí potenciál.{^n}{^n}Věří, že tvá přízeň by mohla ještě trochu stoupnout.
+Prohlédni si úkoly.
+Prozatím žádné úkoly nemám.
+Odstup kousek od stolu.
+Prohlédni si úkoly.
 
 
 
@@ -86,109 +84,111 @@ Take a look at the task.
 
 
 
-Step away from the Table.
-Those possessed by the Aetherials suffer from some interesting side-effects, mainly physically manifested mutations, but what happens in the brain...that is worthy of deeper insight.{^n}{^n}I wish to study them. Bring me a Tainted Brain Matter and I shall reward you with iron bits.
-Accept the Task.
-Decline the Task.
-(Skip this Bounty)
 
-Blood of a dead god, the chthonians gather it, the cultists worship it, but to what end?{^n}{^n}I must know! Bring me a Blood of Ch'thon and I shall reward you with iron bits.
-Accept the Task.
-Decline the Task.
-(Skip this Bounty)
 
-The creatures of Cairn are fascinating. The power they contain comes not from the Aether, but from their unusual biology.{^n}{^n}I wish to study them. Bring me an Ancient Heart and I shall reward you with iron bits.
-Accept the Task.
-Decline the Task.
-(Skip this Bounty)
+Odstup kousek od stolu.
+Tito posedlí Aetherem trpí nějakýma zajímavýma vedlejšíma účinkama, který se především projevujou ve formě genetický mutace, ale to, co se děje v jejich mozku... to by mě fakt zajímalo.{^n}{^n}Chtěla bych to prostudovat. Pokud mi doneseš Zkaženou mozkovou hmotu, odměním tě několika železnýma mincema.
+Přijmout úkol.
+Odmítnout úkol.
+(Tohle teď nechci dělat)
 
-I require more materials for my studies. You will provide them and you shall ask no questions.{^n}{^n}Bring me three Tainted Brain Matters and I shall reward you with some of my valuables.
-Accept the Task.
-Decline the Task.
-(Skip this Bounty)
+Krev mrtvýho boha, kterou sháněj hlavně chthonický bytosti a Kultisti ji uctívaj. Ale k čemu to sakra je?{^n}{^n}Musím to vědět! Přines mi Krev Ch'thona a dám ti nějaký železný mince.
+Přijmout úkol.
+Odmítnout úkol.
+(Tohle teď nechci dělat)
 
-I require more materials for my studies. You will provide them and you shall ask no questions.{^n}{^n}Bring me three vials of Blood of Ch'thon and I shall reward you with some of my valuables.
-Accept the Task.
-Decline the Task.
-(Skip this Bounty)
+Fascinujou mě ty příšery toulající se po Cairnu. Jejich moc nepochází z Aetheru, ale je to čistě neobvyklá biologie.{^n}{^n}Chtěla bych je prozkoumat. Přines mi Starověké srdce, odvděčím se ti trochou železnejch mincí.
+Přijmout úkol.
+Odmítnout úkol.
+(Tohle teď nechci dělat)
 
-I require more materials for my studies. You will provide them and you shall ask no questions.{^n}{^n}Bring me three Ancient Hearts and I shall reward you with some of my valuables.
-Accept the Task.
-Decline the Task.
-(Skip this Bounty)
+Potřebovala bych ke svýmu bádání nějakej matroš. Budu ráda, pokud mi to bez keců seženeš.{^n}{^n}Dones mi tři kousky Zkažené mozkové hmoty a já ti za to dám jednu ze svejch cenností co se mi tu válí.
+Přijmout úkol.
+Odmítnout úkol.
+(Tohle teď nechci dělat)
 
-The ancients once created wondrous relics of incredible power. Sadly, much of this knowledge is now lost.{^n}{^n}I require a Glacier Relic to continue my research. Should you rediscover information on its creation, bring it to a trusted blacksmith.{^n}{^n}Have them create the Relic, then bring it to me. Its icy core will help stabilize my experiments.{^n}{^n}Do this for me and I shall reward you with some of my valuables.
-Accept the Task.
-Decline the Task.
-(Skip this Bounty)
+Potřebuju další matroš, kterej bych mohla zkoumat. Můžeš mi ho bez dalších zbytečnejch otázek sehnat?{^n}{^n}Sežeň mi tři ampule Krve Ch'thona a já ti pak dám něco ze svejch cenností.
+Přijmout úkol.
+Odmítnout úkol.
+(Tohle teď nechci dělat)
 
-The ancients once created wondrous relics of incredible power. Sadly, much of this knowledge is now lost.{^n}{^n}I require a Squall Relic to continue my research. Should you rediscover information on its creation, bring it to a trusted blacksmith.{^n}{^n}Have them create the Relic, then bring it to me. Its turbulent core will serve as a catalyst in my studies.{^n}{^n}Do this for me and I shall reward you with some of my valuables.
-Accept the Task.
-Decline the Task.
-(Skip this Bounty)
+Můžeš mi, samozřejmě bez nějakýho vyptávání, sehnat nějakej matroš?{^n}{^n}Chci tři Starověká srdce, odměnou ti budiž nějaká z mejch cenností.
+Přijmout úkol.
+Odmítnout úkol.
+(Tohle teď nechci dělat)
 
-To further my studies, I require an ancient Relic known to fill its wielder with volcanic fury, Inferno. Sadly, knowledge of its creation has long been lost.{^n}{^n}Should you rediscover information on its creation, bring it to a trusted blacksmith.{^n}{^n}Have them create the Relic, then bring it to me. Its fiery core will be just the heat source I require in my studies.{^n}{^n}Do this for me and I shall reward you with some of my valuables.
-Accept the Task.
-Decline the Task.
-(Skip this Bounty)
+V pravěku tady byly vytvořený fakt hustý relikvie, který vyzařujou neuvěřitelnou sílu. Je smutný, že většina znalostí je dávno v tahu.{^n}{^n}Pro svůj výzkum bych potřebovala relikvii zvanou Ledovec. Pokud by se ti podařilo sehnat nějaký informace jak jí vytvořit, zajdi s tím k nějakýmu důvěryhodnýmu kovářovi.{^n}{^n}Až tu relikvii vytvoříš, zkus mi jí donést. Její ledový jádro by mi dost pomohlo určit směr mých pokusů.{^n}{^n}Jestli to pro mně uděláš, dám ti něco ze svejch cenností.
+Přijmout úkol.
+Odmítnout úkol.
+(Tohle teď nechci dělat)
 
-The ancients once created wondrous relics of incredible power. Sadly, much of this knowledge is now lost.{^n}{^n}I require a Corruption Relic to continue my research. Should you rediscover information on its creation, bring it to a trusted blacksmith.{^n}{^n}Have them create the Relic, then bring it to me. Its tainted properties will help me study the effect of Aetherial mutation.{^n}{^n}Do this for me and I shall reward you with some of my valuables.
-Accept the Task.
-Decline the Task.
-(Skip this Bounty)
+V pravěku byly vytvořený zvláštní relikvie, který vyzařujou neuvěřitelnou sílu. Je smutný, že většina znalostí je dávno ta tam.{^n}{^n}Pro svůj výzkum bych potřebovala relikvii zvanou Větrná bouře. Pokud by se ti podařilo sehnat nějaký informace jak jí vytvořit, zajdi s tím k nějakýmu důvěryhodnýmu kovářovi.{^n}{^n}Až tu relikvii vytvoříš, zkus mi jí donést. Její turbulentní jádro by mi posloužilo jako katalyzátor mých studií.{^n}{^n}Jestli to pro mě uděláš, dám ti něco ze svejch cenností.
+Přijmout úkol.
+Odmítnout úkol.
+(Tohle teď nechci dělat)
 
-To further my studies, I require an ancient Relic known to shield its wielder from great harm, Sanctuary. Sadly, knowledge of its creation has long been lost.{^n}{^n}Should you rediscover information on its creation, bring it to a trusted blacksmith.{^n}{^n}Have them create the Relic, then bring it to me. Its unusual properties will shield my experiments from external contamimation.{^n}{^n}Do this for me and I shall reward you with some of my valuables.
-Accept the Task.
-Decline the Task.
-(Skip this Bounty)
+Pro další bádání bych potřebovala jednu ze starověkejch relikvií, která, podle její sálající vulkanický zuřivosti, se jmenuje Peklo. Žel bohu, znalosti o jejím vytvoření jsou už nějakou dobu v pejru.{^n}{^n}Pokud by se ti snad čirou náhodou podařilo sehnat způsob, jak relikvii vytvořit, zajdi s tím k nějakýmu důvěryhodnýmu kovářovi.{^n}{^n}Až tu relikvii dáš dohromady, zajdi s ní za mnou. Její ohnivý jádro by mi bodlo jako zdroj tepla, který bych využila ve svejch výzkumech.{^n}{^n}Až mi sem jednu dotlačíš, vyměním jí s tebou za nějakou cennost co tady mám.
+Přijmout úkol.
+Odmítnout úkol.
+(Tohle teď nechci dělat)
 
-I have sensed the presence of an old nemesis, a harbinger known as Nucus'Dal. I thought him destroyed, but I was wrong.{^n}{^n}The harbinger hides within the Necropolis, awaiting the return of its godlike master. You will cut its waiting short.{^n}{^n}Eliminate Nucus'Dal for me and I shall reward you with something from my collection.
-Accept the Task.
-Decline the Task.
-(Skip this Bounty)
+V pravěku byly vytvořený relikvie, který vyzařujou neuvěřitelnou sílu. Věčná škoda, že většinu z těch znalostí už dneska nikdo nemá.{^n}{^n}Pro svůj výzkum chci relikvii zvanou Zkaženost. Pokud by se ti podařilo sehnat nějaký informace jak jí vytvořit, zajdi s tím k nějakýmu důvěryhodnýmu kovářovi.{^n}{^n}Až tu relikvii vytvoříš, zkus mi jí donést. Její zkažený vlastnosti se mi budou hodit k pochopení efektů Aetherických mutací.{^n}{^n}Pro oba by to bylo výhodný, ty mi doneseš relikvii a já ti dám něco z mejch cenností.
+Přijmout úkol.
+Odmítnout úkol.
+(Tohle teď nechci dělat)
 
-The void is ever turbulent, catastrophic forces threaten to collapse it at any moment, and yet it remains. But lately the energies within have become ever more unstable.{^n}{^n}It can mean only one thing, a powerful chthonian is stirring within the void. Find this anomaly and destroy it.{^n}{^n}Do so and I shall reward you with something from my collection.
-Accept the Task.
-Decline the Task.
-(Skip this Bounty)
+Pro další bádání bych potřebovala jednu ze starověkejch relikvií, která, podle její schopnosti zaštítit se před většíma škodama, se jmenuje Svatostánek. Ovšem znalosti o jejím vytvoření už jsou dávno ztracený.{^n}{^n}Pokud by se ti podařilo sehnat způsob, jak jí znova vytvořit, stav se u nějakýho důvěryhodnýho kováře.{^n}{^n}Pak ho nech tu relikvii vytvořit a zajdi s ní za mnou. Její neobvyklý vlastnosti ochrání moje experimenty před vnější kontaminací.{^n}{^n}Pokud mi vyhovíš, budu štědrá a věnuju ti nějakou svou cennost.
+Přijmout úkol.
+Odmítnout úkol.
+(Tohle teď nechci dělat)
 
-An Aetherial witch known as Conastaria has been spotted out in the Gruesome Harvest.{^n}{^n}She was once a friend, now she serves a different purpose. I want her dead, destroyed, scattered to ashes.{^n}{^n}Do so and I shall reward you with something from my collection.
-Accept the Task.
-Decline the Task.
-(Skip this Bounty)
+Pociťuju přítomnost starýho úhlavního nepřítele, posla zvanýho Nucus'Dal. Myslela jsem si, že je tuhej, ale asi se mejlim.{^n}{^n}Tenhle posel se ukrejvá někde na Pohřebišti a čeká na návrat svýho božskýho pána. Nechceš mu jeho čekání ukrátit?{^n}{^n}Zlikviduj Nucus'Dala a já ti dám něco ze svý sbírky.
+Přijmout úkol.
+Odmítnout úkol.
+(Tohle teď nechci dělat)
 
-Ludia Starfire was once a talented arcanist and a colleague. No longer.{^n}{^n}She now spreads Aetherial corruption out in the Conflagration. You will end her servitude to the Aether.{^n}{^n}Do so and I shall reward you with something from my collection.
-Accept the Task.
-Decline the Task.
-(Skip this Bounty)
+Prázdnota se stále rozpíná, její nestvůry nás pořád ohrožujou a můžou sem kdykoliv vpadnout. Poslední dobou se ale energie stávají značně nestabilníma.{^n}{^n}Může to znamenat jenom jediný - mocná chthonická bytost začala z Prázdnoty vystrkovat růžky. Zkus najít tuhle anomálii a sejmout jí.{^n}{^n}Až to budeš mít z krku, dám ti něco ze svý sbírky.
+Přijmout úkol.
+Odmítnout úkol.
+(Tohle teď nechci dělat)
 
-The ancients once created wondrous relics of incredible power. Sadly, much of this knowledge is now lost.{^n}{^n}I require a Guile Relic to continue my research. Should you rediscover information on its creation, bring it to a trusted blacksmith.{^n}{^n}Have them create the Relic, then bring it to me. Its will serve as a catalyst in my experiments.{^n}{^n}Do this for me and I shall reward you with some of my valuables.
-Accept the Task.
-Decline the Task.
-(Skip this Bounty)
+Aetherianská čarodějnice známá jako Conastaria se vyloupla na Hrůzných pastvinách.{^n}{^n}Bejvala to moje kámoška, ale teď slouží jinejm účelům. Chci jí mrtvou, zlikvidovanou, rozprášenou na popel.{^n}{^n}Udělej mi tuhle laskavost a já ti věnuju něco ze svý sbírky.
+Přijmout úkol.
+Odmítnout úkol.
+(Tohle teď nechci dělat)
 
-To further my studies, I require an ancient Relic known to cause uncontrollable fury in its wielder, Rampage. Sadly, knowledge of its creation has long been lost.{^n}{^n}Should you rediscover information on its creation, bring it to a trusted blacksmith.{^n}{^n}Have them create the Relic, then bring it to me. It may be highly unstable, but that is just the catalyst I require.{^n}{^n}Do this for me and I shall reward you with some of my valuables.
-Accept the Task.
-Decline the Task.
-(Skip this Bounty)
+Ludia Starfire bejvala talentovaná alchymistka a moje kolegyně. Teď už tomu tak není.{^n}{^n}Poslední dobou rozšiřuje Aetherickou zhoubu v Požářišti. Nemůžeš ukončit její otroctví ovlivněný Aetherem?.{^n}{^n}Pokud to pro mně uděláš, odměním se ti něčím ze svý sbírky.
+Přijmout úkol.
+Odmítnout úkol.
+(Tohle teď nechci dělat)
 
-As strange as it may seem, the Mistborn trolls are not as dimwitted as would appear. In fact, they have deep shamanistic roots that grant them a profound connection to nature.{^n}{^n}I intend to tap into this power for my next study. Acquire the means to create a Mistborn Talisman from the trolls, the biggest brute likely knows the most.{^n}{^n}Bring the instructions to a trusted blacksmith and have them create the Talisman, then bring it to me. Just goes to show you that great power can come from the most unlikely sources.{^n}{^n}Do this for me and I shall reward you with some of my valuables.
-Accept the Task.
-Decline the Task.
-(Skip this Bounty)
+V pravěku byly vytvořený relikvie, který vyzařujou neuvěřitelnou sílu. Leč jejich znalosti už dneska nikdo nemá.{^n}{^n}Potřebovala bych relikvii Záludnost pro svůj další výzkum. Můžeš sehnat nějaký informace o tom, jak tuhle relikvii vytvořit a donést je nějakýmu důvěryhodnýmu kovářovi?{^n}{^n}Jestli se ti to podaří, hoď mi to sem, já to využiju jako katalyzátor ve svých pokusech.{^n}{^n}Až to seženeš, dám ti něco ze svejch cenností.
+Přijmout úkol.
+Odmítnout úkol.
+(Tohle teď nechci dělat)
 
-The Harbinger of Chaos, Shar'Zul is here, on Cairn. I can sense his tainted presence. The Bastion of Chaos, the massive riftgate that tore open near the Necropolis, is his domain.{^n}{^n}Now, I would not ask this of you if I thought you incapable, but I cannot stress the dangers of the ordeals ahead. The Harbinger's very presence is a danger to us all. He must be eliminated if Cairn is to survive, or all is lost.{^n}{^n}Travel into the Bastion of Chaos and dethrone its tyrant. Survive the encounter and I'll even reward you with something from my most treasured collection.
-Accept the Task.
-Decline the Task.
-(Skip this Bounty)
+Ať bádám jak bádám, pro další pokusy by mi píchla stará relikvie, která, podle její nekontrolované zběsilosti, se jmenuje Běsnění. No jo, ale znalosti o tom, jak jí vytvořit, ví snad jenom bohové Cairnu.{^n}{^n}Myslíš, že kdyby se ti podařilo tyhle ztracený informace sehnat, odevzdáš je nějakému důvěryhodnému kovářovi?{^n}{^n}Pokud ti kovář jednu relikvii vytvoří, přines mi jí. Možná bude značně nestabilní, ale mně to poslouží jako katalyzátor.{^n}{^n}Až to pro mně uděláš, odměním tě nějakou cenností.
+Přijmout úkol.
+Odmítnout úkol.
+(Tohle teď nechci dělat)
 
-Arkovia is proof of the unbridled power, and hubris, of humanity. An entire race of people damned to eternal damnation out of the sheer spite of one man. But enough on that.{^n}{^n}Deep within the ruins known as the Steps of Torment, there is a spirit called Alkamos. He played a central part in Arkovia's fate, and now pays the eternal price at the heart of the prison he once maintained.{^n}{^n}For centuries, his hatred for Uroboruuk had boiled his mind into madness. He is now an uncontrollable weapon, primed and ready to be unleashed. See that this never happens.{^n}{^n}Travel into the Steps of Torment and banish the Lord Executioner. Survive the encounter and I'll even reward you with something from my most treasured collection.
-Accept the Task.
-Decline the Task.
-(Skip this Bounty)
+Může se to zdát poměrně zvláštní, ale Mistbornští zlobrové nejstou tak pitomí, jak si všichni myslí. Po pravdě, mají v sobě zakořeněný nějaký šamanský vazby, který je spojujou s přírodou.{^n}{^n}V rámci svýho bádání bych ráda pronikla do tajů jejich moci. Což znamená, že je zapotřebí vytvořit relikvii zvanou Mistbornský talisman. Snad z největšího zlobra by se daly vytřískat ňáký informace.{^n}{^n}Dones informace kovářovi, kterýmu můžeš věřit, nech si ten talisman vytvořit a pak se u mně stav. Pak ti ukážu tu neuvěřitelnou sílu z toho nejnepravděpodobnějšího zdroje.{^n}{^n}Udělej to pro mě a já se s tebou podělím o nějakou tu cennost.
+Přijmout úkol.
+Odmítnout úkol.
+(Tohle teď nechci dělat)
 
-The Outcast sees potential in you.{^n}{^n}She trusts that you can handle some of her more sensitive
+Posel Chaosu Shar'Zul se tady potuluje po Cairnu. Cejtim jeho zkaženou přítomnost. Bašta Chaosu, masivní brána, která se roztrhla poblíž Pohřebiště, je jeho, tam se pohybuje.{^n}{^n}Nechci se tě na to ptát, nemysli si že jsem úplně neschopná, ale dost se obávám toho nebezpečí, co nám tady hrozí. Posel je prostě teď a tady a je potřeba ho zmasakrovat dřív, než si to on usmyslí o nás. V Cairnu by zas mohlo bejt bezpečnejc.{^n}{^n}Odeber se k Baště Chaosu a sejmi tam toho šmejda. Jestli to přežiješ, odměním se ti pár věcma z mý nejcennější sbírky.
+Přijmout úkol.
+Odmítnout úkol.
+(Tohle teď nechci dělat)
 
-Step away from the Table.
-The Outcast does not yet trust you enough to send you on her more sensitive tasks.{^n}{^n}A Respected reputation is required to access the Bounty Table.
-Step away from the Table.
+Arkovia je důkazem nespoutaný síly a pýchy lidstva. Celá lidská rasa je odsouzená k věčnýmu zatracení z pouhý zášti jednoho člověka. Ale dost o tom.{^n}{^n}Hluboko v útrobách zříceniny známý jako Stupně bolesti, se nachází duch jménem Alkamos. Měl poměrně významnou roli v osudech Arkovie a teď splácí svůj nekonečný dluh v srdci věznice, kterou spravoval.{^n}{^n}Po celá staletí vřela v jeho mysli nenávist vůči Uroboruukovi, až dospěla k totálnímu šílenství. Teď je z něj nekontrolovatelná zbraň, u který stačí jenom stisknout spoušť. Doufám, že se to nikdy nestane.{^n}{^n}Navštiv Stupně bolesti a zbav se Vykonavatele spravedlnosti. Jestli to přežiješ, vrať se k mně, podělím se s tebou o něco ze svý nejcennější sbírky.
+Přijmout úkol.
+Odmítnout úkol.
+(Tohle teď nechci dělat)
+
+Vyvrhelka v tobě vidí potenciál.{^n}{^n}Věří, že tvá přízeň by mohla ještě trochu stoupnout.
+
+Odstup kousek od stolu.
+Vyvrhelka ti pořád ještě moc nedůvěřuje, aby ti mohla svěřit nějaké úkoly.{^n}{^n}Pokud si získáš další přízeň, budeš mít přístup k vývěsce s úkoly.
+Odstup kousek od stolu.

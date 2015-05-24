@@ -1,10 +1,10 @@
-Bounties
-Bounty: Glacier
-Bounty
-The ancients once created wondrous relics of incredible power. Sadly, much of this knowledge is now lost.{^n}{^n}I require a Glacier Relic to continue my research. Should you rediscover information on its creation, bring it to a trusted blacksmith.{^n}{^n}Have them create the Relic, then bring it to me. Its icy core will help stabilize my experiments.{^n}{^n}Do this for me and I shall reward you with some of my valuables.
+Úkoly za odměny
+Hledá se: Ledovec
+Popis
+V pravěku tady byly vytvořený fakt hustý relikvie, který vyzařujou neuvěřitelnou sílu. Je smutný, že většina znalostí je dávno v tahu.{^n}{^n}Pro svůj výzkum bych potřebovala relikvii zvanou Ledovec. Pokud by se ti podařilo sehnat nějaký informace jak jí vytvořit, zajdi s tím k nějakýmu důvěryhodnýmu kovářovi.{^n}{^n}Až tu relikvii vytvoříš, zkus mi jí donést. Její ledový jádro by mi dost pomohlo určit směr mých pokusů.{^n}{^n}Jestli to pro mně uděláš, dám ti něco ze svejch cenností.
 
-Craft a Glacier Relic
-Deliver Glacier to the Outcast
+Vytvoř relikvii Ledovec
+Dones Vyvrhelce Ledovec
 
 
 

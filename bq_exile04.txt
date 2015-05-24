@@ -1,10 +1,10 @@
-Bounties
-Bounty: Tainted Brains
-Bounty
-I require more materials for my studies. You will provide them and you shall ask no questions.{^n}{^n}Bring me three Tainted Brain Matters and I shall reward you with some of my valuables.
+Úkoly za odměny
+Hledá se: Zkažené mozky
+Popis
+Potřebovala bych ke svýmu bádání nějakej matroš. Budu ráda, pokud mi to bez keců seženeš.{^n}{^n}Dones mi tři kousky Zkažené mozkové hmoty a já ti za to dám jednu ze svejch cenností co se mi tu válí.
 
-Collect Tainted Brain Matter
-Deliver the Tainted Brain Matter to the Outcast
+Sežeň Zkaženou mozkovou hmotu
+Dones Vyvrhelce Zkaženou mozkovou hmotu
 
 
 

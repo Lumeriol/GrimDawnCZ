@@ -723,7 +723,7 @@ tagEnemyTrollHalfC01=Mistbornský Starší
 
 tagTrollHalfHeroH01=Balarr, požírač kamení
 tagTrollHalfHeroH02=Podněcovač Paldrak
-tagTrollHalfHeroH03=Stonetooth ~ obránce
+tagTrollHalfHeroH03=Kamenný zub ~ obránce
 tagTrollHalfHeroH04=Elloras, požírač Slunce ~ hořící
 
 tagEnemyTrollA01=Zlobr z Kamenných bradavic
@@ -964,7 +964,7 @@ tagBountyDC17=Nalloth, Mrazivý pohled
 tagBounyExile12=Nucus'Dal
 tagBounyExile13=Innu'Garbal
 tagBounyExile14=Conastaria
-tagBounyExile15=Ludia, ohnivá hvězda
+tagBounyExile15=Ludia Starfire
 tagBountyHS09=Bogloth, vyjídač morku
 tagBountyHS10=Saranče
 tagBountyHS11=Vezír Haxin
