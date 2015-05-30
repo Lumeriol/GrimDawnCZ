@@ -206,24 +206,24 @@ tagUGDermapteran03A=Královský úl
 tagUGDermapteran03B=Brloh včelí královny
 tagUGHomesteadCave01=Doupě ztracených
 tagUGRottingCroplandsCrypt01=Pohřbená krypta
-tagUGCaveGhost01=The Bone Pit
-tagUGFortZealot01=Kymon's Sanctuary
-tagUGFortZealot02=Kymon's Study
-tagUGCryptNecro01=Bastion of the Order
-tagUGCryptNecro02=Chamber of Souls
+tagUGCaveGhost01=Jáma plná kostí
+tagUGFortZealot01=Kymonova svatyně
+tagUGFortZealot02=Kymonova studovna
+tagUGCryptNecro01=Bašta Řádu
+tagUGCryptNecro02=Sál duší
 
-tagUGFortCultist01=Darkvale Gate
-tagUGFortBlackLegion01=Fort Ikon
-tagUGCryptNecropolis01=The Black Sepulcher
-tagUGCryptFactionBattle01=Tomb of Archon Barthollem
-tagUGCryptZealot01=Tomb of Korvaak
+tagUGFortCultist01=Brána do Temného údolí
+tagUGFortBlackLegion01=Pevnost Ikon
+tagUGCryptNecropolis01=Černý hrob
+tagUGCryptFactionBattle01=Hrobka Archóna Barthollema
+tagUGCryptZealot01=Korvaakova hrobka
 
-tagUGVoidlands01=Bastion of Chaos
-tagUGVoidlands01A=Discord
-tagUGVoidlands01B=Anarchy
-tagUGVoidlands01C=Entropy
-tagUGVoidlands01D=Pandemonium
-tagUGVoidlands01AE=Fields of Despair
+tagUGVoidlands01=Bašta Chaosu
+tagUGVoidlands01A=Svár
+tagUGVoidlands01B=Anarchie
+tagUGVoidlands01C=Entropie
+tagUGVoidlands01D=Vřava
+tagUGVoidlands01AE=Lány zoufalství
 
 #Signs
 
@@ -281,7 +281,7 @@ tagPOIUndergroundTransitB=Východ z Podzemního průchodu
 tagPOIArkovianFoothillsMineA=Vstup do Stauntonova dolu
 tagPOIArkovianFoothillsMineB=Východ ze Stauntonova dolu
 tagPOIHomesteadPassageMineA=Vstup do Pašerákova průsmyku
-tagPOIHomesteadPassageMineB=Východ z Pašeárkova průsmyku
+tagPOIHomesteadPassageMineB=Východ z Pašerákova průsmyku
 tagPOIOldArkoviaRuinsA=Vstup do Arkovianského podzemního města
 tagPOIOldArkoviaRuinsB=Východ z Arkovianského podzemního města
 tagPOIOldArkoviaRuins2A=Vstup do Arkovianského podzemního města (2. patro)
@@ -317,22 +317,22 @@ tagPOIQuestHomesteadBridge=Dvojpádské přemostění
 tagPOIQuestHomesteadTown=Město Homestead
 tagPOIQuest_Sacrifice=Isaacova skrýš
 tagPOIQuest_StrangeKey=Svatyně neřesti
-tagPOIQuest_Homestead=Zabezpeč cestu do Homestead
+tagPOIQuest_Homestead=Zabezpeč cestu do Homesteadu
 
 
 #Notifications
 
-tagNotification_WightmireBurialCaveFound=Zdroj Mrtvých je nedaleko...
+tagNotification_WightmireBurialCaveFound=Zdroj nemrtvých je poblíž...
 tagNotification_WightmireReanimatorFound=Stvoření je znovuoživená mrtvola!
 tagNotification_WightmireCaravanFound=Tenhle masakr se stal nedávno...
 tagNotification_WightmireCaravanDriverFound=Vězeň žádá o pomoc!
 tagNotification_InventoryBagAcquired=Získán pytel na věci!
 tagNotification_BurrwitchRiftgateEvent=Brána a její okolí se hemží nepřáteli!
-tagNotification_BurrwitchRiftgateSecured=Nepřátelé v okolí Burrwitchské Brány jsou zlikvidováni!
+tagNotification_BurrwitchRiftgateSecured=Nepřátelé v okolí Burrwitchské Brány byli zlikvidováni!
 tagNotification_WardenCellarFound=Tohle musí být Wardenovo sklepení...
 tagNotification_WardenLabFound=Laboratoř. Warden musí být někde poblíž...
 tagNotification_LostApprenticeCellar=Někdo tady nedávno byl...
-tagNotification_LostApprenticeFound=Někde tady je Kasparova učednice!
+tagNotification_LostApprenticeFound=Někde tady bude Kasparova učednice!
 
 tagNotification_HS_RemoveTheHead_ElsaFound=Zdá se, že Cronley nemá Elsu...
 tagNotification_HS_SpoilsOfTheGrimDawn=Prohledal jsi starou zříceninu.
@@ -340,15 +340,15 @@ tagNotification_HS_WeNeedFood_HomesteadBridgeFound=Starý pobřežní most je zn
 tagNotification_HS_WeNeedFood_HomesteadSmugglerPassCrossed=Prošel jsi Pašeráckým průsmykem. Teď se podívej po cestě do Homesteadu.
 tagNotification_HS_OldArkoviaPassagesCompleted=Prošel jsi Arkovianskou chodbou a prozkoumal její obsah.
 tagNotification_HS_OldArkoviaPassagesBossKilled=Získal jsi kousek roztříštěné duše Poskvrněného!
-tagNotification_HS_RoverLegacy_Chthonians=The Shrine of Mogdrogen is overrun with Chthonians!
-tagNotification_HS_RoverLegacy_Cleansed=The Chthonians have been purged!
+tagNotification_HS_RoverLegacy_Chthonians=Svatyně Mogdrogena je zamořená chthonickými bytostmo!
+tagNotification_HS_RoverLegacy_Cleansed=Chthonické bytosti byly vypuzeny!
 
 tagNotification_AreaC_EnclaveRiftgateEvent=Vstup do Homesteadu je obsazen Aetherijskými bytostmi!
 tagNotification_AreaC_RefugeeRemainsFound=Tak to vypadá, že Dahlia Taverin nepřežila všechna nebezpečí Horských hlubin...
 tagNotification_AreaC_BloodHarvestFound=Někteří z uvězněných volají o pomoc.
 tagNotification_AreaC_TrappedAndAloneReturn=V táboře Tuláků řádí chthonické příšery!
 
-tagNotification_AreaD_KymonSecret=You hear the faint sound of a stone door opening nearby.
+tagNotification_AreaD_KymonSecret=Slyšíš z nedaleka přicházející slabý skřípot otevíraných kamenných dveří.
 
 tagNotification_WarningToughArea=Na tomhle místě se nachází mnohem mocnější síly, než jsi schopen porazit...
 tagNotification_WarningRiftgateDisabled=Tvé spojení s Bránou se zdá být v tomhle místě nemožné...
@@ -368,12 +368,12 @@ tagNPC_Ulgrim=Ulgrim
 tagNPC_Direni=Direni
 tagNPC_CaptiveInventor=Darlet
 
-tagNPC_GuardA04=McCaul ~ Strážce
-tagNPC_Guard_DCRanged01=Mainard ~ Strážce
-tagNPC_Guard_DCRanged02=Rose ~ Strážkyně
-tagNPC_Guard_DCMelee01=Brigs ~ Strážce
-tagNPC_Guard_DCMelee02=Oxley ~ Strážce
-tagNPC_Guard_DCMelee03=Chester - Strážce
+tagNPC_GuardA04=McCaul ~ strážce
+tagNPC_Guard_DCRanged01=Mainard ~ strážce
+tagNPC_Guard_DCRanged02=Rose ~ strážkyně
+tagNPC_Guard_DCMelee01=Brigs ~ strážce
+tagNPC_Guard_DCMelee02=Oxley ~ strážce
+tagNPC_Guard_DCMelee03=Chester - strážce
 tagNPC_BountyBoard=Vývěska Ďáblova průsmyku
 
 tagNPC_Guard_Female01=Strážce
@@ -385,7 +385,7 @@ tagNPC_DevilsCrossing_03=Isaac
 tagNPC_DevilsCrossing_04=Torven
 tagNPC_DevilsCrossing_05=Kuldo
 tagNPC_DevilsCrossing_06=Edwin
-tagNPC_DevilsCrossing_07=Rose - Strážkyně
+tagNPC_DevilsCrossing_07=Rose - strážkyně
 tagNPC_DevilsCrossing_08=Chester
 
 tagNPC_Homestead_01=Minova
@@ -412,14 +412,14 @@ tagNPC_Homestead_21=Bernard
 tagNPC_Homestead_22=Alicia
 tagNPC_Homestead_23=Silas
 tagNPC_Homestead_24=Greven
-tagNPC_Homestead_25=Starší Mathias
+tagNPC_Homestead_25=Mathias Starší
 tagNPC_Homestead_26=Quade
 tagNPC_Homestead_27=Eva
 tagNPC_Homestead_28=Hiram
 tagNPC_Homestead_29=Kalderos
 tagNPC_Homestead_30=Balvoruuk
 
-tagNPC_AreaC_01=Lysell ~ Mistr průzkumníků
+tagNPC_AreaC_01=Lysell ~ mistr průzkumníků
 tagNPC_AreaC_02=Douglass Sullivan Oldbarrow
 tagNPC_AreaC_03=Myla Finegan
 tagNPC_AreaC_04=Inkvizitor Creed
@@ -490,7 +490,7 @@ tagNPC_Flavor_Homestead_05=
 tagNPC_Flavor_Homestead_06=Jebediah
 tagNPC_Flavor_Homestead_07=Oscar
 tagNPC_Flavor_Homestead_08=Judith
-tagNPC_Flavor_Homestead_09=Oscar Jr.
+tagNPC_Flavor_Homestead_09=Oscar mladší
 tagNPC_Flavor_Homestead_10=Zraněný tulák
 tagNPC_Flavor_Homestead_11=Amkala
 tagNPC_Flavor_Homestead_12=Horace
@@ -582,11 +582,11 @@ tagQuestItemManticorePoisonGland_Desc="Ze žlázy odkapává silný toxin, kter�
 tagQuestItemNecromancerRemains=Malkadarrovy ostatky
 tagQuestItemNecromancerRemains_Desc="Ještě hnijící ostatky kdysi mocného nekromanta."
 
-tagQuestItemUroboruukInfo=Uroboruuk's Notes
-tagQuestItemUroboruukInfo_Desc="Notes seemingly abandoned by Master Necromancer Uroboruuk."
+tagQuestItemUroboruukInfo=Uroboruukovy poznámky
+tagQuestItemUroboruukInfo_Desc="Poznámky tady nejspíš nechal Uroboruuk, mistr nekromancerů."
 
-tagQuestItemKymonRelic=Eye of Korvaak
-tagQuestItemKymonRelic_Desc="A shriveled eye brimming with arcane energies. You can't help but feel as if it's staring back at you."
+tagQuestItemKymonRelic=Korvaakovo oko
+tagQuestItemKymonRelic_Desc="Svraštělé oko překypující tajemnými energiemi. Nemůžeš si pomoct, ale cítíš se, jako by zíralo na tebe."
 
 tagQuestItemExileBossDrop_01=Archív nevyřčených osudů
 tagQuestItemExileBossDrop_01Desc="Tato tlustá kniha se zdá být zapečetěna temnými silami. Její desky odmítají ustoupit od listů."
@@ -601,27 +601,27 @@ tagQuestItemAnnalsOfArkovia=Arkovianské anály
 tagQuestItemAnnalsOfArkovia_Desc="Záznamy z posledních dnů arkovianského krále Rhowana."
 
 tagQuestItemExileBeastFang=Tesák šelmy
-tagQuestItemExileBeastFang_Desc="Tesák Beronathovy padlé příšery."
+tagQuestItemExileBeastFang_Desc="Tesák Beronathovy mrtvé příšery."
 
 tagQuestItemThornsburyDiary=Dailin diář
 tagQuestItemThornsburyDiary_Desc="Majetek Daily Thornsbury."
 
-tagQuestItemSlithLab=Hargate's Formula
-tagQuestItemSlithLab_Desc="The impossible to decipher scribblings of the mad Arcanist Oswald Hargate."
+tagQuestItemSlithLab=Hargatova formulka
+tagQuestItemSlithLab_Desc="Je nemožné rozluštit čmáranice šíleného alchymisty Oswalda Hargata."
 
-tagQuestItemAetherialEssence=Aetherial Essence
-tagQuestItemAetherialEssence_Desc="The lingering spirit of an Aetherial, trapped by necrotic energies."
+tagQuestItemAetherialEssence=Aetherický výtažek
+tagQuestItemAetherialEssence_Desc="Přežívající duch Aetherické bytosti, uvězněné pomocí odumřelých energií."
 
-tagQuestMogdrogenShrine=Shrine of Mogdrogen
-tagQuestItemMogdrogenShrine01=Spirit of Mogdrogen
-tagQuestItemMogdrogenShrine02=Runed Stone of Mogdrogen
-tagQuestItemMogdrogenShrine_Desc="Part of the Shrine of Mogdrogen."
+tagQuestMogdrogenShrine=Mogdrogenova svatyně
+tagQuestItemMogdrogenShrine01=Mogdrogenův duch
+tagQuestItemMogdrogenShrine02=Mogdrogenův runový kámen
+tagQuestItemMogdrogenShrine_Desc="Součást Mogdrogenovy svatyně."
 
-tagQuestItemSacredAshes=Sacred Ashes of Empyrion
-tagQuestItemSacredAshes_Desc="The ashes of Archon Barthollem, devout follower of the Lightbringer."
+tagQuestItemSacredAshes=Posvátný popel Empyriona
+tagQuestItemSacredAshes_Desc="Popel Archóna Barthollema, oddaného následovníka Světlonoše."
 
-tagQuestItemDesecratedAshes=Desecrated Ashes of Empyrion
-tagQuestItemDesecratedAshes_Desc="The corrupted ashes of Archon Barthollem, devout follower of a forgotten god."
+tagQuestItemDesecratedAshes=Znesvěcený popel Empyriona
+tagQuestItemDesecratedAshes_Desc="Znesvěcený popel Archóna Barthollema, oddaného následovníka zapomenutého boha."
 
 #Journals
 
@@ -652,15 +652,15 @@ tagLoreObj_InquisitorCreedA06Text=Prodléval jsem v téhle zatuchlé cele jeden 
 tagLoreChest_InquisitorCreed_HomesteadName=Pultík inkvizitora Creeda
 tagLoreObj_InquisitorCreedA07Name=Deník inkvizitora Creeda - 7. zápis
 tagLoreObj_InquisitorCreedA07codexTitle=Inkvizitor Creed - 7. zápis
-tagLoreObj_InquisitorCreedA07Text=Od mého posledního zápisu uplynulo již mnoho času. Po mém útěku z Kriegovy laboratoře jsem hrál o čas. Sám a ztracený jsem prošel temnotou a plameny, abych se stal svědkem zkázy světa, který jsem znal dřív.{^n}{^n}Jak jsem předpokládal, klíčové postavy v hlavním městě byly nejspíš posedlé něčím, čemu zeď říkáme Aetheriané, z čehož jsem si odvodil, že to muselo být s podporou někoho v hlavním městě, o kterém jsme si mysleli že zvrátí všechny jejich záměry. Každá akce, která by začala mimo brány hlavního města, mohla být brána jako politická vzpoura a potlačena císařskou armádou ještě dřív, než by pravda vyšla najevo. Tudíž jsem se osmělil a vyšel vstříc do srdce Erulanu, zkoušejíc skrýt sám sebe jak nejlépe jsem dokázal.{^n}{^n}Po mém příjezdu jsem postupoval velice opatrně, objednal si pokoj v rozpadlém hostinci pobléž západních bran ve snaze udržet svůj příjezd co nejdéle v tajemství. Původně jsem hledat své staré známé s tím, že pokud bych odhalil nějaké známky změn v jejich chování, patrně by to znamenalo jejich posedlost. Několik nepříjemných a trapných setkání bylo zřejmě způsobeno těmi roky na cestách, kdy jsem vykonával své povinnosti jako inkvizitor a nebyl jsem tak schopen rozeznat, zda změny v jejich chování je způsobeno posledlostí nebo výsledkem času a vybledlých vzpomínek. Jediné, na co zbývalo vsadit, bylo ohlášení se v Luminarské citadele a čekat na to, co bude dál. Nikdy jsem tam nebyl.{^n}{^n}Čekal jsem, dokud se sluneční paprsky dostatečně neztenčily a davy lidí v ulicích neprořídly. Teprve pak jsem se zvedl k odchodu, ale úplně mě vyděsil pohled na postavu stojící ve stínu, která mezitím v tichosti vstoupila do mého pokoje, aniž by porušila jakoukoliv nástrahu proti vetřelcům. A tak jsem se dostal do kontaktu s Prvotním ostřím.
+tagLoreObj_InquisitorCreedA07Text=Od mého posledního zápisu uplynulo již mnoho času. Po mém útěku z Kriegovy laboratoře jsem hrál o čas. Sám a ztracený jsem prošel temnotou a plameny, abych se stal svědkem zkázy světa, který jsem znal dřív.{^n}{^n}Jak jsem předpokládal, klíčové postavy v hlavním městě byly nejspíš posedlé něčím, čemu zeď říkáme Aetheriané, z čehož jsem si odvodil, že to muselo být s podporou někoho v hlavním městě, o kterém jsme si mysleli že zvrátí všechny jejich záměry. Každá akce, která by začala mimo brány hlavního města, mohla být brána jako politická vzpoura a potlačena císařskou armádou ještě dřív, než by pravda vyšla najevo. Tudíž jsem se osmělil a vyšel vstříc do srdce Erulanu, zkoušejíc skrýt sám sebe jak nejlépe jsem dokázal.{^n}{^n}Po mém příjezdu jsem postupoval velice opatrně, objednal si pokoj v rozpadlém hostinci pobléž západních bran ve snaze udržet svůj příjezd co nejdéle v tajemství. Původně jsem hledat své staré známé s tím, že pokud bych odhalil nějaké známky změn v jejich chování, patrně by to znamenalo jejich posedlost. Několik nepříjemných a trapných setkání bylo zřejmě způsobeno těmi roky na cestách, kdy jsem vykonával své povinnosti jako inkvizitor a nebyl jsem tak schopen rozeznat, zda změny v jejich chování je způsobeno posledlostí nebo výsledkem času a vybledlých vzpomínek. Jediné, na co zbývalo vsadit, bylo ohlášení se v Luminarské citadele a čekat na to, co bude dál. Nikdy jsem tam nebyl.{^n}{^n}Čekal jsem, dokud se sluneční paprsky dostatečně neztenčily a davy lidí v ulicích neprořídly. Teprve pak jsem se zvedl k odchodu, ale úplně mě vyděsil pohled na postavu stojící ve stínu, která mezitím v tichosti vstoupila do mého pokoje, aniž by porušila jakoukoliv moji nástrahu proti vetřelcům. A tak jsem se dostal do kontaktu s Prvotním ostřím.
 
 tagLoreObj_InquisitorCreedA08Name=Deník inkvizitora Creeda - 8. zápis
 tagLoreObj_InquisitorCreedA08codexTitle=Inkvizitor Creed - 8. zápis
-tagLoreObj_InquisitorCreedA08Text=It was known that anyone of significance who fomented discontent or posed a real threat to the rule of the emperor might be visited by the First Blade. I had never stirred such controversy but I always imagined, if such an encounter took place, I could put up a respectable fight. I never got the chance. Taken unawares, I was disarmed before I even knew what was happening. Had he sought my death, I would not have even witnessed the killing stroke fall. However, he seemed more interested in answers instead and, in turn, provided me with an account of his own events that confirmed my worst fears.{^n}{^n}The First Blade revealed that, only days prior, he had been forced to turn his knives on the Emperor himself, by his own command. Despite the myriad safeguards protecting the Emperor, both mundane and arcane, he had become host to an Aetherial. Through strength of mind, he had usurped his possessor long enough to summon the First Blade, command his own execution and charge the assassin with ensuring that his son, the young prince, survive to reclaim the throne.{^n}{^n}His last commands issued, the Emperor's consciousness slipped once again under the control of the Aetherial and a desperate battle ensued. The First Blade reported that he believed the Emperor and the Aetherial within him slain but, given his inexperience with the entities, could not say anything for certain. He relayed that he had secretly taken the prince and put him into hiding but declined to elaborate. The First Blade said he intended to retire his imperial title and had chosen the name Ulgrim, which made me curious as to whether it was an intentional reference to the mythic character.{^n}{^n}A final troubling detail was that no proclamation of the Emperor's passing had been issued. Not only did this demonstrate the Aetherials had sufficient control of the palace to conceal the death but, given that they couldn't hope to hide the Emperor's absence for long, it suggested the next phase of their operation was imminent.{^n}{^n}I strategized with Ulgrim long into the night, formulating a plan to counter the Aetherials, but ultimately we agreed that we could not defeat their conspiracy in time. The only course left was gather whatever people and resources we could, go to ground and weather the coming storm; then find a way to counter the invaders.{^n}{^n}We agreed that the Black Legion would be our best hope in securing allies. As a conscripted army of criminals, debtors and political dissidents bound to service, it seemed unlikely that the Aetherials would have any reason to infiltrate them when they could control them indirectly through the military high command. The next step was to discretely make contact.
+tagLoreObj_InquisitorCreedA08Text=Bylo známo, že někdo významný, kdo podněcoval nespokojenost nebo představoval skutečnou hrozbu vlády císaře, byl nejspíš navštíven Prvotním ostřím. Nikdy jsem se nemíchal do podobných záležitostí, ale vždycky jsem si představoval, že pokud by se takové setkání konalo, mohl bych to narafičit jako zajímavý souboj. Ale tuhle šanci jsem nikdy nedostal. Zcela zaskočen jsem byl odzbrojen ještě dřív, než jsem si vůbec stačil uvědomit, co se děje. Kdyby usiloval o mou smrt, vůbec bych si nebyl vědom smrtelného zásahu. Nicméně se zdálo, že chtěl znát více odpovědí a tak mne naoplátku  zasvětil do událostí a svých problémů, které potvrdily mé nejhorší obavy.{^n}{^n}Prvotní ostří mi odhalil, že před pár dny byl nucen použít své nože proti samotnému Císaři, na jeho vlastní žádost. I přes nespočet strážných ochraňujících Císaře, světských i magických, se stal hostitelem Aetherianů. I přes snahu uchvatitele byla jeho mysl dostatečně silná na to, aby získal dostatek času a přivolal Prvotní ostří, přikázal vlastní popravu a požádal zabijáka, aby jeho syn, mladý princ, přežil a nárokoval si trůn.{^n}{^n}Jakmile rozdal poslední příkazy, císařova mysl opět povolila a začala zoufalá bitva s Aetherickou podstatou. Prvotní ostří oznámil, že císař je mrtev a doufal, že Aetherian v jeho mysli je zabit, ale vzhledem k jeho nezkušenosti s těmito jevy si tím nebyl naprosto jist. Přednesl císařovu žádost, aby tajně unesl prince a ukryl ho do bezpečí, ale odmítl si tímto komplikovat život. Prvotní ostří oznámil, že se hodlá vzdát císařského titulu, a zvolil si občanské jméno Ulgrim, což mne zaujalo a přemýšlel jsem, zda si tak vybral úmyslně jako odkaz na mýtickou postavu.{^n}{^n}Poslední znepokojující detail byl ten, že nebylo vydáno žádné prohlášení  o smrti Císaře. Nejenže by se prokázalo, že Aetheriané měli dostatečnou kontrolu nad celým palácem, aby zamaskovali smrt, ale vzhledem k tomu, že se císařova nepřítomnost nedala skrývat dlouho, byl navržen další krok v operaci, která byla na spadnutí.{^n}{^n}S Ulgrimem jsme plánovali další strategii dlouho do noci, upřesňovali plány ke svržení Aetherianů, ale nakonec jsme se shodli, že nedokážeme zmařit jejich spiknutí včas. Zbývala jediná možnost, jak shromáždit dostatek surovin a lidí do doby, než nadejde bouře a najdeme způsob, jak udeřit na tyto vetřelce.{^n}{^n}Shodli jsme se, že Černá legie by mohla být naší nejlepší nadějí, jak ochránit spojence. Odvedenci do armády se skládali ze zločinců, dlužníků a politických disidentů a byli vázáni službou, u které se zdálo nepravděpodobné, že by Aetheriané měli jakýkoliv důvod, kam se infiltrovat, když tito lidé nemají žádné vyšší vojenské vedení. Dalším krokem bylo navázat diskrétně kontakt.
 
 
 tagLoreObject_PrisonNoteName=Hrubě načmáraná poznámka
-tagLoreObject_PrisonNoteText=Takže, nejsem zrovna slušnej člověk a jsem si jistej, že neumím ani dobře psát, ale slova o tomhle místě se prostě musej dostat ven. Tohle vězení nemá nic společnýho s tím, kde jsem kdy byl a to nejsem vožralej. Lidi se tady nezdržujou dlouho a ani někteří kluci, který sem dotáhli, nejsou žádní zločinci. Měl sem to tušit. V okamžiku jsem viděl muže, o kterém bych mohl říct, že v jeho očích je vidět, že udělal něco špatně. A ti kluci? Vidím jejich strach.{^n}{^n}Tohohle dozorce jsem už párkrát zahlíd - velkej chlap v černý zbroji. Když ho neznáš líp, budeš si myslet že to je jeden z těch na špatný straně mříží. Každej den berou on a jeho nohsledi vězně po tuctech ven do tamtý boudy. Ale nikdy se z ní nevrátí. O něco pozdějc je u tý boudy povoz. Vždycky odjíždí plnej.{^n}{^n}Už nás ani nenechávaj odcházet z cel, ale můžu říct, že nás moc nezbejvá. Chodby jsou tichý. Jsem poslední člověk v týhle řadě. Ostatní? Odvedli je ve včerejší várce. Nehodlám prosit o smilování. Vím, že můj konec je v tý boudě, ale tahle poznámka bude aspoň jeden dobrej skutek v mym ubohym životě...
+tagLoreObject_PrisonNoteText=Takže, nejsem zrovna slušnej člověk a sem si jistej že neumím ani dobře psát, ale slova o tomhle místě se prostě musej dostat ven. Tohle vězení nemá nic společnýho s tím, kde jsem kdy byl a to fakt nejsem vožralej. Lidi se tady nezdržujou dlouho a ani někteří kluci, který sem dotáhli, nejsou žádný zločinci. Měl sem to tušit. V okamžiku jsem viděl muže, o kterém bych mohl říct, že v jeho očích je vidět, že udělal něco špatně. A ti kluci? Vidím jejich strach.{^n}{^n}Tohohle dozorce jsem už párkrát zahlíd - velkej chlap v černý zbroji. Když ho neznáš líp, budeš si myslet že to je jeden z těch na špatný straně mříží. Každej den berou on a jeho nohsledi vězně po tuctech ven do tamtý boudy. Ale nikdy se z ní nevrátí. O něco pozdějc je u tý boudy povoz. Vždycky odjíždí plnej.{^n}{^n}Už nás ani nenechávaj odcházet z cel, ale můžu říct, že nás moc nezbejvá. Chodby jsou tichý. Jsem poslední člověk v týhle řadě. Ostatní? Odvedli je ve včerejší várce. Nehodlám prosit o smilování. Vím, že můj konec je v tý boudě, ale tahle poznámka bude aspoň jeden dobrej skutek v mym ubohym životě...
 
 
 tagLoreObj_LowerCrossingA01Name=Deník správce přístavu - Dolní rozcestí
@@ -673,27 +673,27 @@ tagLoreObj_BurrwitchB01Text=Dorazila další loď plná vězňů s kapucemi, byl
 
 
 tagLoreObj_LowerCrossingA02Name=Francisova poznámka
-tagLoreObj_LowerCrossingA02Text=Jsem tu v pasti... Až teď si uvědomuji, že v tomto domě zemřu. Margaret, obávám se, že jsi už mrtvá, ale nemusí to být zas tak špatně, pokud se k tobě brzy připojím. Pokud nějakým zázrakem přežiješ a najdeš tady tyhle řádky, věz prosím, že se na tebe nezlobím. Nikdy jsem nelitoval našeho společného života, ale teď jsem prostě ztratil nervy a neřekl ti zrovna hezká slova, když jsme se posledně rozešli.{^n}{^n}Doufám, že mě nebudeš považovat za zbabělce za to, co teď dělám. Už jsou tady v domě. Zabarikádoval jsem se v tomhle pokoji, ale je to pouze otázka času, než se ke mě dostanou. Všechno co můžu nyní dělat, je vybrat si způsob, jakým budu čelit své smrti. A já bych rád zemřel jako člověk, než se proměnit v jednu z těch hrozných věcí. Ani nechci být sežrán zaživa. Vždycky tě budu milovat...{^n}{^n}Francis
+tagLoreObj_LowerCrossingA02Text=Jsem tu v pasti... Až teď si uvědomuji, že v tomto domě zemřu. Margaret, obávám se, že jsi už mrtvá, ale nemusí to být zas tak špatné, pokud se k tobě brzy připojím. Pokud nějakým zázrakem přežiješ a najdeš tady tyhle řádky, věz prosím, že se na tebe nezlobím. Nikdy jsem nelitoval našeho společného života, ale teď jsem prostě ztratil nervy a neřekl ti zrovna hezká slova, když jsme se posledně rozešli.{^n}{^n}Doufám, že mě nebudeš považovat za zbabělce za to, co teď dělám. Už jsou tady v domě. Zabarikádoval jsem se v tomhle pokoji, ale je to pouze otázka času, než se ke mě dostanou. Všechno co můžu nyní dělat, je vybrat si způsob, jakým budu čelit své smrti. A já bych rád zemřel jako člověk, než se proměnit v jednu z těch hrozných věcí. Ani nechci být sežrán zaživa. Vždycky tě budu milovat...{^n}{^n}Francis
 
 tagLoreObj_WightmireA01Name=Listina pro Wightmirského Krvepřísežníka
 tagLoreObj_WightmireA01codexTitle=Krvopříseřníkův úřední dopis
-tagLoreObj_WightmireA01Text=Nadešel čas udeřit na naše největší nepřátele, Aetheriany, ve Wightmire. V klidu jsme shromáždili naše síly v kopcích nad Burrwitchem, abychom na něj mohli snáze zaútočit. Nicméně předtím, než k tomu dojde, musíme zabezpečit Wightmire, abychom neměli nepřítele v zádech.{^n}{^n}I když jsou silní, loajální a připraveni zemřít ve jménu Ch'thona, mám dojem, že máte nedostatek Krvepřísežníků ke zdolání Aetherianských bojovníků. V poslední době jsme měli obrovský úspěch při zrodu mnohem silnějších služebníků Ch'thona z Prázdnoty. Jeden Posel může rozdrtit všechny Aetherianské ve Wightmire a klidně může pokračovat do Ďáblova průsmyku, který by mohl v této oblasti sloužit jako pevnost našeho řádu.{^n}{^n}Ke zrodu Posla budete potřebovat krev a životy alespoň tří mužů. Shromážděte oběti jak uznáte za vhodné; buď z uprchlíků na cestách, tuláckých osad nebo vybírejte mezi vlastními Krvepřísežníky. Informujte mne o vašem úspěchu, až bude po všem.{^n}{^n}Ulto Treig, Nejvyšší kněží
+tagLoreObj_WightmireA01Text=Nadešel čas udeřit na naše největší nepřátele, Aetheriany, ve Wightmire. V klidu jsme shromáždili naše síly v kopcích nad Burrwitchem, abychom na něj mohli snáze zaútočit. Nicméně předtím, než k tomu dojde, musíme zabezpečit Wightmire, abychom neměli nepřítele v zádech.{^n}{^n}I když jsou silní, loajální a připraveni zemřít ve jménu Ch'thona, mám dojem, že máte nedostatek Krvepřísežníků ke zdolání Aetherianských bojovníků. V poslední době jsme měli obrovský úspěch při zrodu mnohem silnějších služebníků Ch'thona z Prázdnoty. Jeden Posel může rozdrtit všechny Aetherianské ve Wightmire a klidně může pokračovat do Ďáblova průsmyku, který by mohl v této oblasti sloužit jako pevnost našeho řádu.{^n}{^n}Ke zrodu Posla budete potřebovat krev a životy alespoň tří mužů. Shromážděte oběti jak uznáte za vhodné; buď z uprchlíků na cestách, tuláckých osad nebo vybírejte mezi vlastními Krvepřísežníky. Informujte mne o vašem úspěchu, až bude po všem.{^n}{^n}Velekněz Ulto Treig
 
-tagLoreObj_WightmireA02Name=Milton Hart's Note
-tagLoreObj_WightmireA02Text=I'm afraid I may have to break a promise. I'm not about to give up yet but things aren't looking good outside. I was lucky to survive that first night when I volunteered to distract the rotten walkers while Bourbon and his group, including my little sister Sybil, make their way through to Devil's Crossing. I believe in Bourbon and if anyone can get those people through, it's him. Before they left, I looked Bourbon in the eye and told him to keep her safe. He put his arm on my shoulder and spoke in that calm reassuring tone of his. He told me that he would do everything he can, but I had to promise him something too: that I would do my damn best to get out of this alive.{^n}{^n}Well I've sure got myself into a fine fix. I diverted them walkers alright but now I'm all hemmed in. I've been hiding in a group of old dilapidated shacks and keep changing position whenever the dead get too close. I can't find a way forward though and I'm running out of daylight. The walkers seem stupid generally but I think they dug out the riverbanks last night, allowing the water to wash the road out. It's almost as though something is directing them.{^n}{^n}I'm not done yet and have no intention of dying in this rotting shack. I'm going to try to break free and will go out fighting if I have to. If the worst comes to pass and you're finding this note on my cold corpse, well, please let my sister Sybil know what's come to pass and tell her to be brave. I can only hope she made it to Devil's Crossing.
+tagLoreObj_WightmireA02Name=List Miltona Harta
+tagLoreObj_WightmireA02Text=Obávám se, že budu muset porušit svůj slib. Nechci to vzdávat, ale zatím se to venku moc dobře nevyvíjí. Měl jsem štěstí, že jsem přežil už první noc, kdy jsem jako dobrovolník pozdržel Hnijící chodce, zatímco Bourbon a jeho skupina, včetně mojí malé sestry Sybil, mířili do Ďáblova průsmyku. Bourbonovi věřím a pokud je někdo schopný vést tyhle lidi, je to prostě on. Než odešli, podíval jsem se Bourbonovi do očí a řekl mu, aby sestru udržel v bezpečí. Položil mi ruku na rameno a promluvil tím svým tichým, uklidňujícím tónem. Řekl mi, že udělá všechno, co bude moci, ale musel jsem také něco slíbit. Že udělám všechno proto, abych se odsud dostal živý.{^n}{^n}S jistotou si myslím, že jsem se dostal do pasti. Sice jsem odvrátil hrozbu chodců, ale teď jsem jimi obklíčen. Skrývám se mezi několika starým zchrátralými chatrčemi a snažím se změnit pozici, jakmile cítím, že se smrt blíží. Nedokážu mezi nimi projít a snažím se utíkat z denního světla. Chodci se zdají opravdu pitomí, ale mám dojem, že se během včerejší noci vyhrabali na břeh a voda jim vymlela cestu. Skoro jako by je něco řídilo.{^n}{^n}Ještě jsem neskončil, ale nehodlám chcípnout v týhle shnilý chajdě. Pokusím se vymanit odsud a probojovat si cestu skrz, pokud budu muset. Pokud přijde to nejhorší, a najdeš tenhle cár papíru u mý vystydlý mrtvoly, dej alespoň vědět mé sestře Sybil, co se tady událo, a řekni jí, aby byla statečná. Jenom doufám, že se v pořádku dostala do Ďáblova průsmyku.
 
-tagLoreObj_WightmireA03Name=Dirt-Covered Note
-tagLoreObj_WightmireA03Text=Got ourselves a bunch of them idiot Rovers wandering in our hideout the other night. They were unarmed, as they often are. Course, they tried to run when we jumped them, but little good that did them. Now we have ourselves a few slaves digging in the mine. We can't eat coal though, and our food supplies are starting to run out. The Rovers barely had a few scraps between them.{^n}{^n}With the Burrwitch bridge destroyed, we're stuck in this swamp. I'm beginning to wonder if perhaps we made a mistake by not following with Cronley's Gang to the west. May not be much pickings in the wilderness on that side of Devil's Crossing, but at least they had numbers. Could probably hunt down a decent-sized boar between the lot of them. Out here? We got nothing but slith and the dead.
+tagLoreObj_WightmireA03Name=Špínou zapatlaný papír
+tagLoreObj_WightmireA03Text=Dostal jsem nějaký z těch přiblblejch Tuláků, který se vkradli do naší skrýše předchozí noci. Byli neozbrojený, ostatně všichni z nich bejvaj. Samozřejmě že se snažili zdrhnout, když jsme je přepadli, ale jen několik málo z nich měli to štígro. Teď máme zase pár parchantů do dolů. Sice nemůžeme žrát uhlí, ale naše zásoby proklatě rychle docházej. A Tuláci měli u sebe jenom nějakej bordel.{^n}{^n}Se zničenym mostem do Burrwitche jsme uvázli v bažinách. Přemejšlim, jestli to nebyla chyba nejít s Cronleyovou bandou na západ. Sice bysme asi neměli na výběr, jestli bejt svědkama toho, na čí straně vlastně stojí Ďáblův průsmyk, ale je jich aspoň hodně. Moh bych třeba sejmout docela velkýho kance, bejt mezi nima. Ale tady? Tady neni nic, jenom slithové a smrt.
 
 
 
 tagLoreObj_WardensJournalA01Name=List Wardena Kriega
-tagLoreObj_WardensJournalA01Text=Zmocnil jsem se svého hostitele, místního vzeňského dozorce. Dostavil jsem se k němu do jeho spací komory a navrhl mu spojení. Očekával jsem strach a nedůvěru, ale tito lidé jsou prý připraveni vstoupit do jakéhokoliv svazku, ze kterého, jak věří, budou něco mít. Krieg není zrovna ten typ člověka se silnou vůlí, ale je neodbytný a neustále se mi přehrabuje v mém vědomí. Nicméně ho mám pod kontrolou.{^n}{^n}Kriegova pozice jako věznitele jiných lidí značně usnadňuje naše úsilí. Jeho rozsáhlé obydlí má obrovský sklep, který, jak se domnívám, můžeme využít jako způsob podzemní přepravy těl a ukrytí našich aktivit. Před námi je ještě dost práce, abychom přichystali náš Nádherný rozbřesk, ale dost se bavím tímto fyzickým tělem. Skrývá mnoho výhod.
+tagLoreObj_WardensJournalA01Text=Zmocnil jsem se svého hostitele, místního vězeňského dozorce. Dostavil jsem se k němu do jeho spací komory a navrhl mu spojení. Očekával jsem strach a nedůvěru, ale tito lidé jsou prý připraveni vstoupit do jakéhokoliv svazku, ze kterého, jak věří, budou něco mít. Krieg není zrovna ten typ člověka se silnou vůlí, ale je neodbytný a neustále se mi přehrabuje v mém vědomí. Nicméně ho mám pod kontrolou.{^n}{^n}Kriegova pozice jako věznitele jiných lidí značně usnadňuje naše úsilí. Jeho rozsáhlé obydlí má obrovský sklep, který, jak se domnívám, můžeme využít jako způsob podzemní přepravy těl a ukrytí našich aktivit. Před námi je ještě dost práce, abychom přichystali náš Nádherný rozbřesk, ale dost se bavím tímto fyzickým tělem. Skrývá mnoho výhod.
 
-tagLoreObj_WardensLabA01Name=Gethrandovy poznámky - Část 1.
+tagLoreObj_WardensLabA01Name=Gethrandovy poznámky - 1. část
 tagLoreObj_WardensLabA01Text=Není mi jasné, proč Aetheriané mají takový zájem na uchovávání tkání. Jeden z mých kolegů podokl, že možná chtějí použít lidské mrtvoly jako nějaká pouzdra, až rozšíří své druhy mezi lidstvo.{^n}{^n}Mrtvolami naložené povozy jsou přiváženy dnem i nocí. Naprostá většina vypadá otřesně a já začínám mít podezření, že se nejedná pouze o popravené zločince, jak nám bylo řečeno.
 
-tagLoreObj_WardensLabA02Name=Gethrandovy poznámky - Část 2.
+tagLoreObj_WardensLabA02Name=Gethrandovy poznámky - 2. část
 tagLoreObj_WardensLabA02Text=Dnes jsme vstoupili do druhé fáze našich experimentů, ale výsledky nebyly takové, jaké jsem očekával. Dospěli jsme do stavu, kdy mrtvoly mohou vydržet celé měsíce, možná i léta, s minimálním, především vnějším, rozkladem. Náš Aetherianský dozorce se zdá být spokojen. Když položil, nebo spíš To položilo, ruku na jednu z mrtvol, přeskočila jiskra Aetherické energie. Ta věc se začala hýbat, jako by byla zase živá. Byl to příšerný pohled.{^n}{^n}Co mne však podstatně víc znepokojuje je to, že tyto mrtvoly jsou zjevně hostitely Aetherianů. Začalo se proslýchat, že upřednostňují živé hostitele. Prostý počet mrtvol, které sem byly dotaženy, ovšem směřuje k mnohem děsivější skutečnosti: armádě.
 
 tagLoreObj_WardensLabA03Name=Gethrandovy poznámky - Závěr
@@ -766,16 +766,16 @@ tagLoreObj_BookC02Name=Gildam Arcanum - Strana 2
 tagLoreObj_BookC02Text=K posílení vynalézavosti živých i mrtvých učedníků temnoty, se obracíme k dílům Maiven, plodné Vládkyně temnot ze třetího věku naší slavné říše. Vládkyně temnot Maiven byla schopna obracet neodmyslitelné ničivé toky Aetheru vůlí své mysli tak, aby kolem sebe vyvolala ochrannou bariéru. Tato technika je ukázkovým příkladem toho, jak se Gildam Arcanum neustále snaží zlomit naše předsudky o Aetheru a vytváří zcela nové myšlenkové toky v rámci tajemných umění.
 
 tagLoreObj_BookD01Name=Původ Slithů - Strana 1
-tagLoreObj_BookD01Text=tagLoreObj_BookD01Text=In all the history of our great nation, there has been no greater atrocity committed than the creation of the vile vermin we call Slith. Part man, part serpent, the Slith are a testament to the dangers of the arcane and served as the driving force behind the formation of the Gildam Arcanum and its tighter sanctions on arcane practices.{^n}{^n}The Slith owe their existence to the actions of a single individual: Oswald Hargate. Backed by family wealth and a passion for research, Oswald aspired to leave his mark upon the study of the arcane. Little did he know that his legacy would leave a permanent stain upon all Arcanists and their field.
+tagLoreObj_BookD01Text=Za celou historii našeho velkého národa nebylo pozorováno větší zvěrstvo než vznik vyšinutých druhů, které nazýváme Slithy. Částečně člověk, částečně had. Slith je posledním nebezpečným prohřeškem tajemna a motivace do založení Gildam Arcanum a jeho přísným sankcím vůči tajemným praktikám.{^n}{^n}Slith byl stvořen akcí samolibého jednotlivce - Oswaldem Hargatem. S podporou rodinného bohatství a vášní pro výzkum, Oswald usiloval zanechat svou stopu ve studiích temnot. Věděl, že jeho odkaz by mohl zanechat trvalou vzpomínku mezi všemi Vládci temnot a celém oboru.
 
 tagLoreObj_BookD02Name=Původ Slithů - Strana 2
-tagLoreObj_BookD02Text=Oswald Hargate firmly believed that the Aether could be used to create new life. Convinced that he could supersede the gods, Oswald set out to perform his heinous research in a, to this day, unknown location.{^n}{^n}Though not much is known about the exact details of his research, the results were quite clear. Calling his creation a Slith, for its slithering movement and snake-like lower body, Oswald triumphantly announced his findings to the Arcanum Society. The abomination bore the torso of a man and the tail of a snake, though its reptilian snout was unlike either species. Its eyes stared back at you with a hint of human sorrow, though it was clearly a dulled mind with no indication of a human conscience trapped within the slith body.{^n}{^n}Those attending were shocked by the blatant disregard for the gods and their domain. Following a brief trial, Oswald was charged with endangering society and was imprisoned for the remainder of his life. The specimen was destroyed and its ashes scattered to the winds. With Oswald behind bars and the slith dead, all believed that the nightmare was over; but they were wrong.
+tagLoreObj_BookD02Text=Oswald Hargate pevně věřil, že Aether by mohl být použit ke stvoření nového života. Přesvědčený, že by mohl nahradit bohy, se Oswald vydal vykonávat svůj odporný výzkum, na do dnešního dne neznámém místě.{^n}{^n}Ačkoliv o jeho výzkumu nebylo známo mnoho detailů, výsledky byly zcela jasné. Svůj výtvor nazval Slith pro jeho plazí pohyb a hadí ocas. Oswald oznámil vítězoslavně svá zjištění ve společnosti Arcanum. Výsledné stvoření neslo tělo člověka a ocas hada, s čumákem plaza nepocházejícího ani z jednoho druhu. Jeho oči se na vás upíraly s náznakem lidského žalu, ačkoliv to mělo pouze otupit mysl a nic nenasvědčovalo tomu, že původní osoba je uvnitř.{^n}{^n}Účastníci byli šokováni nehorázným pohrdáním bohy a jejich jedinečností. Po krátkém procesu byl Oswald obviněn z ohrožení společností a po zbytek svého života byl uvězněn. Vzorek byl zničen a jeho popel rozptýlil do větru. S Oswaldem za mřížemi a mrtvým slithem všichni věřili, že noční můra skončila. Ale mýlili se, strašně se mýlili.
 
 tagLoreObj_BookD03Name=Původ Slithů - Strana 3
-tagLoreObj_BookD03Text=When the first slith began to appear in the area known as Wightmire, it became clear that Oswald did not create just one slith. As his laboratory was never uncovered, officials could only guess as to the origin of the new species. The slith were incredibly invasive, easily dominating the local food chain and reproducing at an alarming rate.{^n}{^n}As their numbers multiplied, the slith adapted a primitive tribal hierarchy, with certain members of their packs exhibiting clear authority over the rest. And, perhaps most alarmingly of all, shamanistic behavior was reported among the slith population, indicating a strong connection to the Aether and perhaps their unnatural origins.{^n}{^n}All efforts to exterminate the slith proved fruitless, with the species simply returning at a new location from hidden nests and caverns. It is without a doubt that the actions of one arrogant individual will continue to reverberate across countless generations to come.
+tagLoreObj_BookD03Text=Když se první slith objevil v oblasti známé jako Wightmire, bylo jasné, že Oswald nevytvořil poue jednoho slitha. Jelikož jeho laboratoř nebyla nikdy objevena, úředníci mohli pouze hádat, odkud je původ nového druhu. Slithové byli neuvěřitelně invazivní, snadno se stali predátory místního potravinového řetězce a začali se reprodukovat znepokojivým tempem.{^n}{^n}S tím jak se jejich počty znásobovaly, si Slithové přizpůsobili primitivní kmenovou hierarchii, kde určití členové skupiny vykazují dominanci nad ostatními. Nejděsivější z toho všeho je jeho šamanské chování, které bylo pozorováno u některých populací Slithů, což naznačuje silné vazby s jejich tajemným původem.{^n}{^n}Všechny snahy vyhladit slithy se ukázaly být marné, jelikož další jedinci se rodí na nových místech ve skrytých hnízdech a jeskyních. Není pochyb o tom, že jednání jednoho arogantního člověka bude mít vliv ještě na mnoho dalších generací.
 
-tagLoreObj_BookD04Name=Hargate's Journal - Page 1
-tagLoreObj_BookD04Text=First day at my new lab. I must say, I am thrilled to get started. The days of having my nose stuck in the books are over. There comes a time when studying old tomes reaches its limit. Eventually, one must set out on their own to pursue new ventures and ideas not yet considered. It is our sacred duty as scholars to leave a mark upon the world!{^n}{^n}My wife, Helen, and my dearest daughter Ellena will be joining me soon at our new home. Helen has expressed concern about our little girl growing up in a laboratory, so far away from other children, but I've calmed her down. Ellena will have everything she requires provided for, and Burrwitch is just a short boat ride away should she ask for a playmate.{^n}{^n}Together, Helen and I are going to do something no Arcanist has dared even consider: the creation of new life. The Aether is a wondrous source of energy, and yet nobody's stopped to ponder its effects upon organic material. Helen's expertise in the biological arts should prove most valuable in this endeavor.
+tagLoreObj_BookD04Name=Hargatův deník - 1. strana
+tagLoreObj_BookD04Text=První den v mé nové laboratoři. Musím říct, že jsem nadšený, že se mi to podařilo. Dny, kdy jsem jenom zíral do knih, jsou konečně pryč. Přijde čas, kdy studium starých knih skončí. Konečně se mohu vydat svou vlastní cestou a dát prostor svým nápadům. Je to naše svatá povinnost jako učenců, zanechat po sobě ve světě nějakou stopu!{^n}{^n}Moje žena Helen a má nejdražší dcera Ellena za mnou brzy přijedou do našeho nového domova. Helen vyjádřila určité znepokojení nad tím, aby naše holčička vyrůstala v laboratoři, daleko od jiných dětí, ale uklidnil jsem ji. Ellena bude mít všechno, co bude potřebovat a Burrwitch je jen kousek odsud po vodě, pokud bude chtít navštívit kamarády.{^n}{^n}Helen a já se společně chystáme dělat něco, na co ostatní alchymisté ani nepomysleli; stvoříme novou formu života. Aether je podivuhodný zdroj energie, ale přesto se nikdo nepozastavil nad tím, aby prozkoumal účinky tohoto organického materiálu. Helenina odbornost v přírodních vědách by měla být v tomto úsilí velmi hodnotná.
 
 tagLoreObj_BookD05Name=Hargate's Journal - Page 2
 tagLoreObj_BookD05Text=At Helen's recommendation, I have chosen the lowly green swamp adder as the basis of my experiment. Its short lifespan and rapidly shedding skin made for a malleable test subject. The initial results seemed promising at first. Using high concentrations of Aether energy, we were able to instill various mutations within the specimens, creating new limbs or inducing gigantism. Unfortunately, none of the samples survived beyond a couple weeks, their higher brain functions being seemingly incapable of handling the introduction of additional bodily elements.{^n}{^n}For our second batch of experiments, we molded the adders with a few grobles captured by local trappers. The results were...curious to say the least. While this was not the breakthrough I was looking for, we seem to be heading in the right direction. The dull mind of a groble was capable of adapting to its new body, but its primitive and disgustingly malformed physique would see me become the laughing stock of my colleagues. No, I must see this through to its logical conclusion. Helen may frown upon it, but the next step seems clear as day to me...
