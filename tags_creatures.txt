@@ -695,7 +695,7 @@ tagThornedHorrorHeroH02=Přerostlý Korplax
 tagThornedHorrorHeroH03=Černý osten ~ odrážející
 tagThornedHorrorHeroH04=Rotthorn ~ nemocný
 tagThornedHorrorHeroH05=Everbark ~ obnovitel
-tagThornedHorrorHeroH06=Rimebark ~ mrazivž
+tagThornedHorrorHeroH06=Rimebark ~ mrazivý
 
 tagThornedHorrorBoss01=Staroch Krvošípek
 
