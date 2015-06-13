@@ -12,7 +12,7 @@ tagBlackLegion_GuardRangedA01=Střelec Černé legie
 
 tagBlackLegion_MeleeA01=Stoupenec Černé legie
 tagBlackLegion_MeleeB01=Předvoj Černé legie
-tagBlackLegion_RangedA01=OStrostřelec Černé legie
+tagBlackLegion_RangedA01=Ostrostřelec Černé legie
 tagBlackLegion_CasterB01=Bojový čaroděj Černé legie
 tagBlackLegion_CasterB02=Bojový zdravotník Černé legie
 tagBlackLegion_ChampionC01=Kapitán Černé legie
@@ -32,11 +32,11 @@ tagZealot_MeleeA01=Zélóta Kymonových vyvolených
 tagZealot_RangedA01=Střelecký zélóta Kymonových vyvolených
 tagZealot_CasterB01=Pán bouří Kymonových vyvolených
 tagZealot_ChampionC01=Ostrá panna Kymonových vyvolených
-tagZealotH01=Sestra Oseltia, the Storm Maiden
-tagZealotH02=Bratr Baldris, Charge of Empyrion
-tagZealotH03=Sestra Thandria ~ Defender
-tagZealotH04=Bratr Handrick ~ Burning
-tagZealot_Boss01=Sestra Bravna, the Skybreaker
+tagZealotH01=Sestra Oseltia, bouřná panna
+tagZealotH02=Bratr Baldris, Empyrionův dobíječ
+tagZealotH03=Sestra Thandria ~ obránkyně
+tagZealotH04=Bratr Handrick ~ spalující
+tagZealot_Boss01=Sestra Bravna, narušitel nebes
 tagZealot_Boss02=Sharanatu, posel Prázdnoty
 tagZealot_AncestralSpirit=Archón Barthollem
 
@@ -79,20 +79,20 @@ tagBoarHeroH06=Rozervaný rypák ~ dotčený Prázdnotou
 
 #CreatureBoneRat
 
-tagEnemyBoneRatMeleeA01=Kostizad ničitel
-tagEnemyBoneRatRangedA01=Kostizad
+tagEnemyBoneRatMeleeA01=Bezpáteřní ničitel
+tagEnemyBoneRatRangedA01=Bezpáteřní krysa
 
-tagEnemyBoneRatMeleeB01=Vzteklý kostizad
-tagEnemyBoneRatMeleeB02=Kostizad moronosič
+tagEnemyBoneRatMeleeB01=Vzteklá bezpáteřní krysa
+tagEnemyBoneRatMeleeB02=Morová bezpáteřní krysa
 
 tagEnemyBoneRatMeleeB02_Summon=Halionova mrňavá krysa
 
 tagBoneRatHeroH01=Maledictus
-tagBoneRatHeroH02=Razorback
-tagBoneRatHeroH03=Rotbite ~ nemocný
-tagBoneRatHeroH04=Bilewart ~ hbitý
-tagBoneRatHeroH05=Rimeclaw ~ zmrzlý
-tagBoneRatHeroH06=Wrathclaw ~ zkažený
+tagBoneRatHeroH02=Trnozad
+tagBoneRatHeroH03=Tlející zub ~ nemocný
+tagBoneRatHeroH04=Žlučová bradavice ~ hbitý
+tagBoneRatHeroH05=Jitřní drápek ~ zmrzlý
+tagBoneRatHeroH06=Hněvivý drápek ~ zkažený
 
 tagBoneRatMiniBoss01=Chamtivec Grundleplith
 
@@ -194,7 +194,7 @@ tagEnemyGhostB01=Strašidelný šlechtic
 tagEnemyGhostB02=Strašidelný šampión
 
 tagHeroGhostH01=Lady Valavan, toulavá duše
-tagHeroGhostH02=Lord Blacktail ~ zrcadlící
+tagHeroGhostH02=Lord Černochvost ~ zrcadlící
 tagHeroGhostH03=Lady Rosenthal ~ obnovitelka
 tagHeroGhostH04=Ječící bouře ~ elektrizovaný
 tagHeroGhostH05=Lord Oldrakan ~ rychlý
@@ -326,7 +326,7 @@ tagHumanCultistHeroH01=Julius Crowley, vysávač mysli
 tagHumanCultistHeroH02=Lucius Krvavý vřed
 tagHumanCultistHeroH03=Nathalian, přivolavač psů
 tagHumanCultistHeroH04=Ignacius ~ spalující
-tagHumanCultistHeroH05=Bolivar, Žíznivý po krvi ~ obnovitel
+tagHumanCultistHeroH05=Bolivar Krvežíznivý ~ obnovitel
 tagEnemyBloodswornMiniBoss01=Salazar, čepel Ch'thona
 tagEnemyBloodswornMiniBoss02=Bolvar, vazač krve
 tagEnemyBloodswornMiniBoss03=Zaria Řezbář
@@ -541,7 +541,7 @@ tagEnemyRaptorB_ChampionA01=Větrný raptor ~ pán nebes
 tagRaptorHeroH01=Roztržená duše
 tagRaptorHeroH02=Aragonax, požírač duší
 tagRaptorHeroH03=Baldim, nositel chaosu
-tagRaptorHeroH04=Bonesnarl ~ nezastavitelný
+tagRaptorHeroH04=Chřestikost ~ nezastavitelný
 tagRaptorHeroH05=Idran Anomálie  ~ obnovitel
 tagRaptorHeroH06=Balra ~ dotčená Prázdnotou
 
@@ -551,8 +551,8 @@ tagEnemyRiftHoundA01=Trhající fena
 tagEnemyRiftHoundB01=Trhající fena ~ perlička
 tagEnemyRiftHoundC01=Trhající fena ~ blankytná matriarcha
 
-tagEnemyPlanesHoundA01=Plochý pes
-tagEnemyPlanesHoundB01=Plochý pes ~ vůdce smečky
+tagEnemyPlanesHoundA01=Plochý rafan
+tagEnemyPlanesHoundB01=Plochý rafan ~ vůdce smečky
 
 tagEnemyVoidHoundA01=Zmatečný pes
 tagEnemyVoidHoundB01=Zmatečný pes ~ vůdce smečky
@@ -614,7 +614,7 @@ tagEnemySkeletonC04=Smrtící přízrak
 tagSkeletonHeroH01=Tenebris, opilý krví
 tagSkeletonHeroH02=Balrazar, Dreegův věčný sluha
 tagSkeletonHeroH03=Lord Harris, zatracený
-tagSkeletonHeroH04=Hellwraith ~ hořící
+tagSkeletonHeroH04=Pekelný přízrak ~ hořící
 tagSkeletonHeroH05=Lord Alistar Hernsworth ~ odrážející
 tagSkeletonHeroH06=Chladné srdce ~ zmrzlý
 
@@ -632,7 +632,7 @@ tagGravestone_Skeleton03=Ryan
 tagEnemyDeepMire_SlithWarriorA01=Válečník Hlubokých močálů
 tagEnemyDeepMire_SlithWarriorB01=Předsunutá hlídka Hlubokých močálů
 tagEnemyDeepMire_SlithWarriorC01=Šampión Hlubokých močálů
-tagEnemyDeepMire_SlithWarriorC02=Lovec Hlubokých močálů
+tagEnemyDeepMire_SlithWarriorC02=Lovec času Hlubokých močálů
 tagEnemyDeepMire_SlithShamanB01=Šaman Hlubokých močálů
 tagEnemyDeepMire_SlithShamanB02=Krotitel pohrom Hlubokých močálů
 tagEnemyDeepMire_SlithShamanC01=Zaříkávač Hlubokých močálů
@@ -693,9 +693,9 @@ tagEnemyThornedHorrorC01=Trnošípková zrůdnost
 tagThornedHorrorHeroH01=Blázen Terrolean
 tagThornedHorrorHeroH02=Přerostlý Korplax
 tagThornedHorrorHeroH03=Černý osten ~ odrážející
-tagThornedHorrorHeroH04=Rotthorn ~ nemocný
-tagThornedHorrorHeroH05=Everbark ~ obnovitel
-tagThornedHorrorHeroH06=Rimebark ~ mrazivý
+tagThornedHorrorHeroH04=Tlející osten ~ nemocný
+tagThornedHorrorHeroH05=Štěkaveec ~ obnovitel
+tagThornedHorrorHeroH06=Kokrhavec ~ mrazivý
 
 tagThornedHorrorBoss01=Staroch Krvošípek
 
@@ -774,7 +774,7 @@ tagCaveGrobleHeroH02=Ulbalak ~ podporovatel
 tagCaveTrollHeroH01=Správce jeskyně Balglak
 tagCaveTrollHeroH02=Rovos ~ odrážející
 tagCaveSpiderHeroH01=Temný Shelleb
-tagCaveSpiderHeroH02=Vilaxna ~ oživovač
+tagCaveSpiderHeroH02=Vilaxna ~ oživovačka
 tagCaveSpiderHeroH03=Ravnix ~ rychlý
 
 tagCaveSpiderBoss01=Ungoliax, přadlena melancholie
@@ -800,17 +800,17 @@ tagEnemyWormB01=Zemilam ~ hnilobný červ
 tagEnemyWormDeepDwellerA01=Hlubinná larva
 
 tagWormHeroH01=Gravner, požírač žluči
-tagWormHeroH02=Zemilam ~ elektrizující
+tagWormHeroH02=Žížalák ~ elektrizující
 tagWormHeroH03=Kamenolam ~ chráněnec
 tagWormHeroH04=Naštvaný červ ~ zkažený
 tagWormHeroH05=Přetržený červ ~ dotčený Prázdnotou
 
 #CreatureYeti
 
-tagEnemyYetiA01=Ledosrstnatý surovec
-tagEnemyYetiB01=Ledosrstnatý vztekloun
-tagEnemyYetiB02=Ledosrstnatý mrazoštěp
-tagEnemyYetiC01=Ledosrstnatý alfa samec
+tagEnemyYetiA01=Ledohřívný surovec
+tagEnemyYetiB01=Ledohřívný vztekloun
+tagEnemyYetiB02=Ledohřívný mrazoštěp
+tagEnemyYetiC01=Ledohřívný alfa samec
 
 tagYetiHeroH01=
 tagYetiHeroH02=
@@ -833,7 +833,7 @@ tagEnemyZombieSoldierA01=Hnilobný voják
 tagEnemyZombieSoldierB01=Hnilobný strážce ohně
 tagEnemyZombieBerserkerA01=Mrtvolný démon
 
-tagEnemyZombieVoidA01=Chthonský chodec bez duše
+tagEnemyZombieVoidA01=Chthonský bezduchý chodec
 
 tagEnemyZombieMutatedA01=Uhnívající řezník
 tagEnemyZombieMutatedB01=Uhnívající mlátička
@@ -939,7 +939,7 @@ tagNemesis_OrderDeathsVigil01=Zantarin Nesmrtelný
 tagNemesis_OrderDeathsVigil02=Cabala, přadlena hniloby
 tagNemesis_Outlaw01=Fabius "Neviditelný" Gonzar
 tagNemesis_Outlaw02=Thallion Vos
-tagNemesis_Outlaw03=Dead-Eye
+tagNemesis_Outlaw03=Oko smrti
 tagNemesis_Undead01=Řemeslník Allminoxius
 tagNemesis_Undead02=Moosilauke Ledový vichr
 tagNemesis_Undead03=Toxemus
