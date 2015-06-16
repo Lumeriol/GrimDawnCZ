@@ -1,7 +1,12 @@
 Staveniště
-Tento most kdysi spojoval Burrwitch a Východní močály. Než přes něj budeš moci znovu přejít, je třeba ho opravit.{^n}{^n}Bude tě to stát 10 kusů železného šrotu a 5000 železných mincí.
+S odstraněním trosek je teď možné opravit most do Východních močálů.{^n}{^n}Bude tě to stát 10 kusů železného šrotu a 8000 železných mincí.
 Nedostatek materiálu.
 Opravit most do Východních močálů.
 Nechat to být.
+This bridge once connected Burrwitch to East Marsh. Trash has accumulated at its support beams, making repairs impossible.{^n}{^n}The debris could be cleared with some heavy explosives. The old abandoned mines around Old Arkovia are likely the best place to find those.{^n}{^n}It will take 1 Dynamite to clear the bridge.
+Not enough materials.
+Clear the repair site.
+
+Leave it.
 [[ms]Obnovil[fs]Obnovila] jsi tento most.
 Ok.
