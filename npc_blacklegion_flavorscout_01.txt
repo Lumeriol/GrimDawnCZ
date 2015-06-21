@@ -1,19 +1,19 @@
 Renall Oberach
-I suggest you turn back, traveler. The Blood Grove is teeming with the Cult of Ch'thon, and worse.{^n}{^n}I've watched as a rift tore itself open before our eyes and sucked in several men. It vanished just as quickly.{^n}{^n}If you feel the air tingling with strange energy, back away immediately.
-What about the other scouts?
-Lost, taken by the cult.{^n}{^n}The lucky ones died during the fighting, the rest...
+Doporučuji ti se otočit a jít zpátky, [[ms]cizinče[fs]cizinko]. Krvavý háj je prolezlý Kultem Ch'thona, a ještě hůř. {^n}{^n}Viděl jsem, jak se před našima očima otevřela Brána a vcucla vícero mužů. Stejně rychle pak zmizela.{^n}{^n}Pokud ucítíš, že je vzduch nabitý zvláštní energií, ihned to místo opusť.
+Co ostatní zvědi?
+Ztraceni, zajati Kultem.{^n}{^n}Ti co měli štěstí zemřeli během boje, ti ostatní...
 
 
-I'm sorry.
-What else is out there?
-Blackmane manticores are running wild now that there isn't anyone around to keep them away from the roads.{^n}{^n}Then there's the Order of Death's Vigil and the Kymon's Chosen. Those two groups of fanatics have been at each other's throats for weeks.{^n}{^n}I hope you weren't planning on heading north to Fort Ikon. Darkvale has been completely overrun by the Bloodsworn.
+To je mi líto.
+Co dalšího tam je?
+Černohřívnaté mantikory teď divočí, protože tady kolem není nikdo, kdo by je držel dál od cest. {^n}{^n}Pak je tu Řád strážců smrti a Kymonovi Vyvolení. Tyhle dvě skupiny fanatiků si jdou navzájem po krku už celé týdny. {^n}{^n}Doufám, že neplánuješ jít na sever do pevnosti Ikon. Vesnice Darkvale byla úplně obsazena krvepřísežníky.
 
 
-Thanks for the info.
-What was beyond the rift?
-The rifts seem to be highly unstable. The only scouts that went through did not do so willingly, and we never saw them again.
+Díky za informace.
+Co je za tou Bránou?
+Brány vypadají velice nestabilně. Zvědi, kteří se dostali skrz to neudělali dobrovolně a už jsme je nidky neviděli.
 
 
-Only one way to find out.
-They sound dangerous.
-I'll be careful.
+Je jediná cesta, jak to zjistit.
+Zní nebezpečně.
+Budu [[ms]opatrný[fs]opatrná].
