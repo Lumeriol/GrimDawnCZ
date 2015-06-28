@@ -1,33 +1,33 @@
 Myla Finegan
-Hello, stranger.
-Farewell.
-You've returned! Do you have the dynamite?
-Here you go.
-Splendid! Stand back now. Don't want to get caught in the blast.{^n}{^n}Even in these trying times, you have found it in your heart to help a complete stranger. It is commendable. Please, follow me inside so that I can properly reward you.
-Alright. Thank you.
-Hello, friend! How goes the search for the dynamite?
-Where should I be looking again?
-I suppose I would check the mines around Old Arkovia, or perhaps a merchant down in Homestead may carry some.
-I will get on it.
-I'm still looking for more.
-What are you doing out here?
-I was out in the wilderness doing research for my book when the Grim Dawn struck. Cut off from civilized society, I did the best I could out on my own.{^n}{^n}I've managed to survive off of the local flora and fauna, though I have to say the increased cult activity has not made living out here any easier. And now it appears that even nature itself is against me. If you had not found me...I dare not think of it.
-I will return with the dynamite.
-Hello there, stranger. You don't have the look of a cultist about you.{^n}{^n}What brings such a well-armed adventurer way out here into the middle of nowhere?
-My business is my own. What are you doing out here?
-I do admit, an unarmed woman stranded on her own out in cult-infested lands must be a strange sight.{^n}{^n}I was out here working on a book when the Grim Dawn struck. Stranded between the wilderness and bloodthirsty cultist, I managed to survive by hiding out in a nearby cave, at least I did before it collapsed.
-Do you need any help?
-You truly are a godsend, stranger. We will need some dynamite in order to clear the way. Don't suppose you have any?{^n}{^n}If not, perhaps one of the mines may have some, or perhaps a merchant back in Homestead?{^n}{^n}If you bring me some, we can clear the rocks and I can retrieve my belongings. Perhaps there is something among them that you would find acceptable as compensation for your aid.
-Sure, I'll help you out.
-You're on your own.
-Is this enough dynamite?
-Why, yes that will do! Aren't you the resourceful type!
-Here you go.
-Splendid! Stand back now. Don't want to get caught in the blast.{^n}{^n}Even in these trying times, you have found it in your heart to help a complete stranger. It is commendable. Please, follow me inside so that I can properly reward you.
-Alright. Thank you.
-Not my problem.
-I am here to stop the Cult of Ch'thon.
-What a noble and foolhardy pursuit. After the Grim Dawn stranded me out here, I claimed this cave as my home; but nature, it seems, has decreed that I die out here instead.{^n}{^n}An avalanche collapsed the entrance not a day ago. All of my food and belongings are inside.
+Vítej, [[ms]cizinče[fs]cizinko].
+Sbohem.
+Ty ses [[ms]vrátil[fs]vrátila]! Máš ten dynamit?
+Tady je.
+Výtečně! Teď odstup, určitě nechceš být v dosahu výbuchu.{^n}{^n}Dokonce i v těchto těžkých časech chceš pomoci úplné cizince. Je to šlechetné. Prosím, následuj mne dovnitř, abych tě mohla patřičně odměnit.
+Dobře. Děkuji ti.
+Ahoj, [[ms]příteli[fs]přítelkyně]! Jak jde pátrání po dynamitu?
+Kdeže bych se [[ms]měl[fs]měla] prozhlédnout?
+Myslím, že bych se podívala v dolech poblíž Staré Arkovie, také by ho mohl mít nějaký obchodník v Homesteadu.
+Získám ho.
+Ještě mi nějaký chybí, tak hledám.
+Co tady venku děláš?
+Byla jsem v divočině a pracovala na výzkumu pro svou knihu, když v tom udeřil Ponurý úsvit. Odloučená od civilizované společnosti jsem dělala všechno co jsem mohla, abych to sama zvládla. {^n}{^n}Dokázala jsem přežít díky místní fauně a floře, ikdyž musím říct, že zvýšená aktivita kultistů mi žití zde nijak neulehčila. A teď to vypadá, že je proti mně i příroda sama. Kdybys mě [[ms]nenašel[fs]nenašla]...Neopovažuji se na to ani pomyslet.
+Vrátím se s tím dynamitem.
+Vítej, [[ms]cizinče[fs]cizinko]. Nevypadáš jako kultista. {^n}{^n}Co přivádí tak dobře ozbrojeného dobrodruha sem, kde nic není?
+To je moje věc. Co tady děláš ty?
+Musím přiznat, neozbrojená žena bez prostředků a sama, uprostřed území ovládaného kultisty, to musí vypadat zvláštně. {^n}{^n}Byla jsem tu a pracovala na knize, když nastal Ponurý úsvit. Bez ničeho a mezi divočinou a krvelačnými kultisty jsem dokázala přežít tak, že jsem se schovala uvnitř jeskyně poblíž, tedy tak jsem to dělávala, než se vchod zhroutil.
+Potřebuješ nějak pomoci?
+Ty jsi opravdu dar z nebes, [[ms]cizinče[fs]cizinko]. Budeme potřebovat nějaký dynamit, abychom [[ms]odklidili[fs]odklidily] cestu. Nemáš nějaký? {^n}{^n}Pokud ne, tak je možná nějaký v jednom z dolů a nebo ho snad bude mít jeden z obchodníků v Homesteadu? {^n}{^n}Pokud mi nějaký doneseš, odklidíme kamení a já se dostanu ke svým věcem. Možná je mezi nimi něco, co bys [[ms]shledal[fs]shledala] jako dostatečnou kompenzaci za tvou pomoc.
+Samozřejmě, pomůžu ti.
+Je to na tobě samé.
+Bude tenhle dynamit stačit?
+Cože? Ano, tohle bude stačit! Že ty jsi ale důmyslný typ!
+Tady je.
+Výtečně! Teď odstup, určitě nechceš být v dosahu výbuchu.{^n}{^n}Dokonce i v těchto těžkých časech jsi to [[ms]našel[fs]našla] v srdci, chtít pomoci úplné cizince. Je to šlechetné. Prosím, následuj mne dovnitř, abych tě mohla patřičně odměnit.
+Dobře. Děkuji ti.
+To není můj problém.
+Jsem zde, abych [[ms]zastavil[fs]zastavila] kult Ch'thona.
+Jaká to šlechetná a ztřeštěná snaha. Poté, co mě zde Ponurý úsvit uvěznil jsem si zabrala tuto jeskyni jako svůj domov; ale, jak vidno, přiroda se rozhodla, že místo toho zemřu tady venku. {^n}{^n}Zával zasypal vchod ani ne den zpátky. Všechny mé věci a potraviny jsou uvnitř.
 
 Not my problem.
 None of your concern.

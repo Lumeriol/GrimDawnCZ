@@ -1,22 +1,22 @@
 Bratr Molltair
-[[ms]Vybral[fs]Vybrala] sis dobře, [[ms]příteli[fs]přítelkyně]. Nechť Empyrion posvětí tvou cestu.
-Kde je svatyně Kymonových Vyvolených?
-Daleko za Krvavým hájem. Vzali jsme uprchlíky do staré pevnosti známé jako Bašta zármutku. Následuj cestu na sever.
-Díky.
+[[ms]Zvolil[fs]Zvolila] jsi moudře, [[ms]příteli[fs]přítelkyně]. Nechť Empyrion požehná tvé cestě.
+Kde se nachází svatyně Otce Kymona?
+Venku za Krvavým hájem. Máme útočiště uvnitř staré pevnosti známé jako Bašta zárkutku. Následuj cestu na sever.
+Děkuji ti.
 Tak zatím.
 Nepatříš sem. Odejdi a zůstaneš naživu.
 Dobrá, už jdu.
-[[ms]Zvolil[fs]Zvolila] si moudře, [[ms]příteli[fs]přítelkyně]. Nechť ti Empyrion žehná na cestách.
+[[ms]Zvolil[fs]Zvolila] jsi moudře, [[ms]příteli[fs]přítelkyně]. Nechť Empyrion požehná tvé cestě.
 Sbohem.
 Pouze ti, kteří hledají Empyrionovu pravdu, jsou zde vítáni. [[ms]Měl[fs]Měla] bys odejít.
 Sbohem.
-Jsi [[ms]očekáván[fs]očekávána] v naší enklávě.
-Kde je vaše enkláva?
-Zamiř skrz severní brány a dále do Krvavého háje. Následuj cestu, dokud nenarazíš na ruiny staré pevnosti. To je Bašta zármutku. Naše enkláva je ve věži.
+Jsi [[ms]očekáván[fs]očekávána] v enklávě.
+Kde se vaše enkláva nachází?
+Vyraž skrze severní bránu a do Neobdělaných polí. Následuj cestu, dokud nedorazíš k troskám staré pevnosti. To je Bašta zármutku. Naše enkláva je ve věži.
 Děkuji ti.
-Už vyrážím.
-Musím tě poprosit, abys [[ms]navštívil[fs]navštívila] naši enklávu na severu. Převzali jsme část Bašty zármutku a udělali z ní náš nový domov.{^n}{^n}Vyhledej nás tak, že půjdeš po severní cestě skrze Krvavý háj. Až narazíš na ruiny, podívej se po věži.{^n}{^n}Jakmile tam budeš, promluv si s bratrem Elluviusem. Připraví tě na naši cestu osvícení.
-Vaši enklávu vyhledám.
+Jsem na cestě.
+Musím tě požádat, abys [[ms]navštívil[fs]navštívila] naši enklávu na severu. Převzali jsme část Bašty zármutku a udělali z ní náš nový domov.{^n}{^n}Vyhledej nás tak, že se vydáš po severní cestě skrze Neobdělaná pole. Až dorazíš k ruinám, vyhledej věž.{^n}{^n}Jakmile tam budeš, promluv si s bratrem Elluviusem. Nasměruje tě na naši osvícenou cestu.
+Vyhledám tu vaši enklávu.
 Možná někdy jindy.
 Pouze ti, kteří hledají Empyrionovu pravdu, jsou zde vítáni. [[ms]Měl[fs]Měla] bys odejít.
 Sbohem.
