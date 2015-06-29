@@ -232,7 +232,9 @@ tagClass02SkillDescription08A=Černovodý koktejl byl namíchán v době, kdy v�
 tagClass02SkillName08B=Démonický oheň
 tagClass02SkillDescription08B=Čarodějnické vylepšení obohacuje plameny chaotickou silou, která rozpouští maso nepřátel a oslabuje brnění.
 tagClass02SkillName08C=Bolestné plameny
-tagClass02SkillDescription08C=Sužující bolest způsobená plameny z Černovodého koktejlu oslabuje schopnost ustát další čarodějný útok.
+tagClass02SkillDescription08C=Intensifies the fire and hellflame to degrees that will render your enemies to ashes.
+tagClass02SkillName08D=High Potency
+tagClass02SkillDescription08D=This more potent formulation burns longer and degrades your foes ability to fight.
 
 tagClass02SkillName09A=Omračující částice
 tagClass02SkillDescription09A=Vypustí množství drobných, elektricky nabitých částic, které dočasně zastaví nepřátele v jejich pohybu.
@@ -371,8 +373,10 @@ tagClass04SkillName01B=Hledač srdce
 tagClass04SkillDescription01B=S touto vylepšenou technikou jsou vyčarované Přízračné čepele tak ostré, že mohou protnout vícero cílů a neviditelná přízračná vlákna odčerpají vitalitu z obětí.
 tagClass04SkillName01C=Spodní hrana
 tagClass04SkillDescription01C=Posilní Přízračnou čepel temnou magií, odpornou technikou používanou pouze za těch nejzoufalejších podmínek.
-tagClass04SkillName01D=Zběsilé vrhnutí
-tagClass04SkillDescription01D=Spusť nekonečné salvy přízračných čepelí se zuřivou rychlostí, ale každá z čepelí bude mít méně smrtící účinky.
+tagClass04SkillName01D=Focused Throw
+tagClass04SkillDescription01D=A more controlled and forceful throw, that compounds the lethality of the phantasmal blades in a single vicious strike.
+tagClass04SkillName01X=Zběsilé vrhnutí
+tagClass04SkillDescription01X=Spusť nekonečné salvy přízračných čepelí se zuřivou rychlostí, ale každá z čepelí bude mít méně smrtící účinky.
 
 tagClass04SkillName02A=Úder ze stínu
 tagClass04SkillDescription02A=Lstivá kombinace iluze a duševního vychýlení ti umožňuje zdánlivě se vypařit a objevit znovu před obětí jako hrůzostrašný přízrak. ^oVyžaduje chladnou zbraň.
@@ -1162,6 +1166,9 @@ tagItemSkillC091Desc=Replikující kouzlo, které při zásahu nepřítele kopí
 tagItemSkillC092Name=Storm Surge
 tagItemSkillC092Desc=You call to the heavens in times of dire need, charging you with devastating electrical power.
 
+tagItemSkillC093Name=Spider's Web
+tagItemSkillC093Desc=Traps your foe in sticky webbing that completely inhibits movement and makes them easy prey.  ^oThis spell immobilizes enemies for its duration. Enemies resistant to trap effects will suffer a reduced duration.
+
 tagItemSkillM001Name=Esence života.
 tagItemSkillM001Desc=Léčí zranění a vzpruží unaveného hrdinu.
 
@@ -1583,11 +1590,6 @@ tagConsumableSkill_F12=Tinktura Kymonova hněvu
 tagConsumableSkill_F12Desc=Vyzařují z tebe ohnivé plameny.
 
 
-#SkillsEnemy
-
-tagEnemySkill01=Oslabující kletba
-tagEnemySkill01Desc=Oslabuje přirozenou obranyschopnost duše proti prázdnotě.
-
 #SkillsQuest
 
 tagQuestSkill_A01=Kymonovo požehnání
@@ -1663,5 +1665,41 @@ tagTemplateDescription=Popiš mě
 
 #EnemySkills
 
+tagEnemySkill01=Curse of Debilitation
+tagEnemySkill01Desc=Weakens the soul's natural defenses against the void.
+
 tagEnemySkillA01=Despair Aura
 tagEnemySkillA01_Desc=The Aetherial Harbinger's presence fills you with dread, slowing your actions and inflicting Aether damage.
+
+tagEnemySkillA02=Souldrinker's Presence
+tagEnemySkillA02_Desc=The presence of the Souldrinker saps you of your strength and inflicts Vitality damage.
+
+tagEnemySkillA03=Spectral Miasma
+tagEnemySkillA03_Desc=The Chthonic curse saps all of your defenses.
+
+tagEnemySkillA04=Mark of Pain
+tagEnemySkillA04_Desc=The Fiend's mark saps your strength.
+
+tagEnemySkillA05=Nature's Fury
+tagEnemySkillA05_Desc=The Troll curse slows your mind and body, and exposes you to the elements.
+
+tagEnemySkillA06=Blood Siphon
+tagEnemySkillA06_Desc=The Trog curse drains your vitality and transfers it to the caster.
+
+tagEnemySkillA07=Blood Plague
+tagEnemySkillA07_Desc=The Ghoul curse boils your blood and damage your Defensive Ability.
+
+tagEnemySkillA08=Torment
+tagEnemySkillA08_Desc=The undead curse cause intense pain in your bones, slowing you and weakening physical attacks.
+
+tagEnemySkillA09=Enraged Spirit
+tagEnemySkillA09_Desc=An enraged spirit haunts you, inflicting vitality damage before it spreads to nearby victims.
+
+tagEnemySkillA10=Bone Trap
+tagEnemySkillA10_Desc=The Skeletal Golem has trapped you within a cage of bone, sapping your vitality.
+
+tagEnemySkillA11=Obsidian Trap
+tagEnemySkillA11_Desc=The Obsidian Defiler has trapped you within a cage of obsidian, sapping your vitality.
+
+tagEnemySkillA12=Obsidian Trap
+tagEnemySkillA12_Desc=Benn'Jahr has trapped you within a cage of obsidian, crushing you with the power of chaos.

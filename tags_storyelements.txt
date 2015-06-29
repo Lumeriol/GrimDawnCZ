@@ -33,10 +33,12 @@ tagMapBrokenTeeth=Vyražené zuby
 tagMapDevilsSpur=Ďáblův výběžek
 tagMapNecropolis=Pohřebiště
 tagMapOldGrove=Starý háj
-tagMapVoidlands=Obsidian Throne
-tagMapVoidlands02=Ashen Waste
+tagMapVoidlands=Obsidiánový trůn
+tagMapVoidlands02=Popelavé pustiny
 tagMapEastMarsh01=Východní močály
 tagMapEastMarsh02=Škodlivá paseka
+tagMapEastMarsh03=Craigovy útesy
+
 
 tagMapBrokenHills=Sesuté kopce
 tagMapOldArkovia=Stará Arkovia
@@ -70,11 +72,11 @@ tagMapCorruptedPasture=Hrůzné pastviny
 tagMapSorrowsBastion=Bašta zármutku
 tagMapBloodGrove=Krvavý háj
 tagMapDarkvaleMill=Gryverův mlýn
-tagMapBloodGroveMine=Morton's Claim
-tagMapBloodGroveAetherMine=Stonerend Quarry
-tagMapBloodGroveShrine=Shrine of the Forgotten God
-tagMapDarkvale=Village of Darkvale
-tagMapDarkvaleGate=Darkvale Gate
+tagMapBloodGroveMine=Mortonovy pozemky
+tagMapBloodGroveAetherMine=Kamenolom
+tagMapBloodGroveShrine=Svatyně Zapomenutého boha
+tagMapDarkvale=Vesnice Darkvale
+tagMapDarkvaleGate=Brána v Darkvale
 tagMapFactionFort=Pevnost Haron
 tagMapInfestedField01=Thornsburyova farma
 tagMapInfestedField02=Elmsworthova farma
@@ -114,7 +116,7 @@ tagRiftRottedCroplands=Brána v Hnijících polích
 tagRiftRottedHarvest=Brána na Hrůzných pastvinách
 tagRiftSorrowsBastion=Brána v Baště zármutku
 tagRiftBloodGrove=Brána v Krvavém háji
-tagRiftDarkvale=Darkvale Rift
+tagRiftDarkvale=Brána v Darkvale
 tagRiftAlpineRoad=Brána na Alpské stezce
 
 tagRiftRandom01=Chthonská Brána
@@ -164,11 +166,11 @@ tagWorldMapGruesomeHarvest=Hrůzné{^n}pastviny
 tagWorldMapSorrowsBastionRoad=Neobdělávaná{^n}pole
 tagWorldMapSorrowsBastion=Bašta{^n}zármutku
 tagWorldMapBloodGrove=Krvavý{^n}háj
-tagWorldMapDarkvaleMill=Gryver's{^n}Mill
-tagWorldMapDarkvale=Village of{^n}Darkvale
-tagWorldMapDarkvaleGate=Darkvale Gate
-tagWorldMapFactionFort=Fort Haron
-tagWorldMapBloodGroveMine=Morton's{^n}Claim
+tagWorldMapDarkvaleMill=Gryverův{^n}mlýn
+tagWorldMapDarkvale=Vesnice{^n}Darkvale
+tagWorldMapDarkvaleGate=Brána v Darkvale
+tagWorldMapFactionFort=Prvnost Haron
+tagWorldMapBloodGroveMine=Mortonovy{^n}pozemky
 
 
 #Underground Names
@@ -238,9 +240,8 @@ tagUGCryptZealot01=Korvaakova hrobka
 tagUGVoidlands01=Bašta Chaosu
 tagUGVoidlands01A=Svár
 tagUGVoidlands01B=Anarchie
-tagUGVoidlands01C=Entropie
-tagUGVoidlands01D=Vřava
-tagUGVoidlands01AE=Lány zoufalství
+tagUGVoidlands01C=Ďáblovo peklo
+tagUGVoidlands01D=Lány zoufalství
 
 #Signs
 
@@ -260,11 +261,11 @@ tagSign_TyrantsHold=Tyranova država
 tagSign_SorrowsBastion=Bašta zármutku
 tagSign_Farm=Averlookova oranina
 tagSign_Deeps=Upozornění: Uzavřené doly
-tagSign_Darkvale=Village of Darkvale
-tagSign_BloodGroveFort=Fort Haron
-tagSign_BloodGroveMine=Stonerend Quarry
-tagSign_BloodGroveMill=Gryver's Mill
-tagSign_FortIkon=Fort Ikon
+tagSign_Darkvale=Vesnice Darkvale
+tagSign_BloodGroveFort=Pevnost Haron
+tagSign_BloodGroveMine=Kamenolom
+tagSign_BloodGroveMill=Gryverův mlýn
+tagSign_FortIkon=Pevnost Ikon
 
 tagSign_OldGrove=Starý háj
 
@@ -290,10 +291,10 @@ tagPOI007B=Východ z dolu
 tagPOI008A=Vchod do škvořích tunelů
 tagPOI008B=Východ ze škvořích tunelů
 tagPOI009A=Hargatova laboratoř
-tagPOI010A=Order of Death's Vigil Entrance
-tagPOI011A=Kymon's Chosen Entrance
-tagPOI012A=Darkvale Gate
-tagPOI013A=Fort Haron
+tagPOI010A=Vstup k Řádu Strážců smrti
+tagPOI011A=Vstup ke Kymonovým Vyvoleným
+tagPOI012A=Brána v Darkvale
+tagPOI013A=Pevnost Haron
 
 tagPOIFloodedPassageA=Vstup do Zatopeného průchodu
 tagPOIFloodedPassageB=Východ ze Zatopeného průchodu
@@ -456,7 +457,7 @@ tagNPC_AreaC_08=Nathaniel Thorn
 tagNPC_AreaC_09=Lisandra Avery
 tagNPC_AreaC_10=Bratr Elluvius
 tagNPC_AreaC_11=Otec Kymon
-tagNPC_AreaC_12=Mistr Varukk
+tagNPC_AreaC_12=Mistr Varuuk
 tagNPC_AreaC_13=Kronikář
 tagNPC_AreaC_14=Rallia
 tagNPC_AreaC_15=Kapitán Somerová
