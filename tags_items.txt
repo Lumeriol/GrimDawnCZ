@@ -1516,7 +1516,7 @@ tagMedalF005=Legionářská značka Prázdnoty
 tagMedalF006=Legionářská značka ostří
 tagMedalF007=Hvězda války Vyvoleného
 tagMedalF008=Hvězda hromu Vyvoleného
-tagMedalF009=Corrupted Chosen Star
+tagMedalF009=Defiled Chosen Star
 tagMedalF009Desc="Tarnished by the powers of the enemy, this medal nevertheless can serve a righteous purpose."
 
 
@@ -1707,8 +1707,10 @@ tagBlueprint_ArmorC001=Plánek: Gardistův ochránce
 tagBlueprint_ArmorC002=Plánek: Gardistův prsní plát
 tagBlueprint_ArmorC003=Plánek: Cestovatelova tunika
 tagBlueprint_ArmorC004=Plánek: Cestovatelovy kalhoty
+tagBlueprint_ArmorC005=Blueprint: Decorated Pauldrons
 
 tagBlueprint_AccessoryC001=Plánek: Maiveniny čočky
+tagBlueprint_AccessoryC002=Blueprint: Vortex Stone
 
 
 tagBlueprint_MiscA01=Plánek: Univerzální klíč
@@ -3141,7 +3143,7 @@ tagPrefixAO009=[ms]vyčerpávající[fs]vyčerpávající[ns]vyčerpávající[m
 tagPrefixAO010=[ms]oslabující[fs]oslabující[ns]oslabující[mp]oslabující[fp]oslabující[np]oslabující
 tagPrefixAO011=[ms]korozivní[fs]korozivní[ns]korozivní[mp]korozivní[fp]korozivní[np]korozivní
 tagPrefixAO012=[ms]pokroucený[fs]pokroucená[ns]pokroucené[mp]pokroucené[fp]pokroucené[np]pokroucené
-tagPrefixAO013=[ms]znehodnocený[fs]znehodnocená[ns]znehodnocené[mp]znehodnocené[fp]znehodnocené[np]znehodnocené
+tagPrefixAO013=[ms]dotčený Prázdnotou[fs]dotčená Prázdnotou[ns]dotčené Prázdnotou[mp]dotčené Prázdnotou[fp]dotčené Prázdnotou[np]dotčené Prázdnotou
 
 tagPrefixB001_WpnMelee1h_A=[ms]tyranův[fs]tyranova[ns]tyranovo[mp]tyranovy[fp]tyranovy[np]tyranovy
 tagPrefixB002_WpnMelee1h_A=[ms]divochův[fs]divochova[ns]divochovo[mp]divochovy[fp]divochovy[np]divochovy

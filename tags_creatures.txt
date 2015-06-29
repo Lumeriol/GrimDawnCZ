@@ -122,8 +122,30 @@ tagChthonianMinionHeroH05=Pulv'Daroth
 tagChthonianMinionHeroH06=Maga'Lugal ~ obránce
 tagChthonianMinionHeroH07=Sharanatu ~ chráněnec
 
+tagEnemyChthonianDreadguardA01=Chthonian Vanguard
+tagEnemyChthonianDreadguardB01=Chthonian Dreadguard
+tagEnemyChthonianDreadguardC01=Chthonian Tyrant
+
+tagChthonianDreadguardHeroH01=Shar'Oruuth
+tagChthonianDreadguardHeroH02=Wen'Kazul, the Hungering Blade
+tagChthonianDreadguardHeroH03=Zalyth'Uthax ~Electrified
+tagChthonianDreadguardHeroH04=Jugak'Siin ~ Reflective
+tagChthonianDreadguardHeroH05=Sarmaz'Din ~ Frozen
+
+tagEnemyChthonianLeechA01=Void Parasite
+tagEnemyChthonianLeechB01=Void Leech
+tagEnemyChthonianLeechB02=Void Souldrinker
+
+tagChthonianLeechHeroH01=Vom'Anatu
+tagChthonianLeechHeroH02=Gawtok'Anatu
+tagChthonianLeechHeroH03=Ekket'Anatu
+tagChthonianLeechHeroH04=Orudin'Anatu ~ Diseased
+tagChthonianLeechHeroH05=Yakwa'Anatu ~ Unstoppable
+
 tagChthonianBoss01=Lagoth'Ak, posel krve
 tagChthonianBoss02=Shar'Zul, posel chaosu
+tagChthonianBoss03=Bane'Gargol, Guardian of the Gates
+tagChthonianBoss04=Balok'Anatu, Bloodfiend
 
 #CreatureChthonianFiend
 
@@ -139,6 +161,7 @@ tagVoidFiendHeroH05=Gurgoth'Siin ~ hořící
 
 tagVoidFiendBoss01=Ballog'Nath Pekelný oheň
 
+
 #CreatureChthonianDevourer
 
 tagEnemyChthonianDevourerA00=Chthonský nenažranec
@@ -153,6 +176,7 @@ tagChthonianDevourerHeroH04=Nye'Kazul, ohnivá tlama
 tagChthonianDevourerHeroH05=Waban'Ak, jiskřící tlama
 
 tagChthonianDevourerBossB01=Rag'Nadar, veletlama
+
 
 #CreatureDranghoul
 
@@ -221,12 +245,15 @@ tagEnemyGhoulB01=Ghúl ~ požírač mrtvol
 tagEnemyGhoulB02=Ghúl ~ chlemtač krve
 tagEnemyGhoulC01=Ghúl ~ nemrtvý čaroděj
 
-tagEnemyGhoulH01=
-tagEnemyGhoulH02=
-tagEnemyGhoulH03=
-tagEnemyGhoulH04=
+tagEnemyGhoulH01=Necrolask
+tagEnemyGhoulH02=Hnilička
+tagEnemyGhoulH03=Olizovač mrtvol
+tagEnemyGhoulH04=Corpran ~ zkažený
+tagEnemyGhoulH05=Vilnius ~ dotčený Prázdnotou
 
-tagGhoulBoss01=Nacrathan, nedostižený časem
+tagGhoulBoss01=Nacrathan, nestárnoucí
+tagGhoulBoss02=Plagius, vetchý
+
 
 #CreatureGolem
 
@@ -576,6 +603,8 @@ tagRiftHoundHeroH04=Pekelník Wolvin
 tagRiftHoundHeroH05=Jarlax, Hněv z bažin ~ nabíječ
 tagRiftHoundHeroH06=Garn, lovec smečky ~ obránce
 
+tagBossRifthoundB01=Kalis Ka, lovec kostí
+
 #CreatureScavenger
 
 tagEnemyScavengerA01=Mrchožrout
@@ -733,6 +762,13 @@ tagEnemyTrollHalfB02=Mistbornský válečník
 tagEnemyTrollHalfB03=Mistbornský šaman
 tagEnemyTrollHalfC01=Mistbornský Starší
 
+tagEnemyTrollHalfSwampA01=Eastmire Brute
+tagEnemyTrollHalfSwampA02=Eastmire Herder
+tagEnemyTrollHalfSwampB01=Eastmire Hunter
+tagEnemyTrollHalfSwampB02=Eastmire Warrior
+tagEnemyTrollHalfSwampB03=Eastmire Shaman
+tagEnemyTrollHalfSwampC01=Eastmire Elder
+
 tagTrollHalfHeroH01=Balarr, požírač kamení
 tagTrollHalfHeroH02=Podněcovač Paldrak
 tagTrollHalfHeroH03=Kamenný zub ~ obránce
@@ -837,12 +873,12 @@ tagEnemyYetiB01=Ledohřívný vztekloun
 tagEnemyYetiB02=Ledohřívný mrazoštěp
 tagEnemyYetiC01=Ledohřívný alfa samec
 
-tagYetiHeroH01=
-tagYetiHeroH02=
-tagYetiHeroH03=
-tagYetiHeroH04=
+tagYetiHeroH01=Bonechill
+tagYetiHeroH02=Icesnap
+tagYetiHeroH03=Chillblood ~ Regenerator
+tagYetiHeroH04=Mallus ~ Corrupted
 
-tagYetiBoss01=
+tagYetiBoss01=Ragrathar Rageblood
 
 
 #CreatureZombie
