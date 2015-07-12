@@ -769,7 +769,7 @@ tagItemSkillB006Desc=Zraní cíl, způsobí mu krvácení a navíc je cíl nách
 tagItemSkillB007Name=Roztříštění
 tagItemSkillB007Desc=Vypustí na cíl proud ledových úlomků.
 
-tagItemSkillB008Name=Váleční pokřik
+tagItemSkillB008Name=Válečný pokřik
 tagItemSkillB008Desc=Mohutným řevem povzbudí spojence v okolí.
 
 tagItemSkillB009Name=Ledový hrot
