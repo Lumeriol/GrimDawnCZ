@@ -979,7 +979,7 @@ tagEnemySummonTentacle=Zkroucené chapadlo
 
 tagQuestEnemyReanimator=Kyzogg Oživovatel
 tagQuestEnemyMiltonHart=Milton Hart
-tagQuestEnemyBanditForge=Vyhnaný kovář
+tagQuestEnemyBanditForge=Kovárna banditů
 tagQuestChthonianMonstrosity=Thall'Nosh Rozparovač
 
 tagBossTheWarden01=Warden

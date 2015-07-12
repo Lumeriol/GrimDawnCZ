@@ -140,7 +140,7 @@ tagFactionOutlawsRewards8=-
 tagFactionBeasts=Bestie
 tagFactionBeastsInfo=Bestie budou pořád bestie
 tagFactionUser0=Tuláci
-tagFactionUser0Info=Stanoviště: Stará Arkovia {^n}{^n} Rhowari, nebo takzvaní Tuláci, jak jsou běžně nazýváni, je skupina lidí bez trvalého domova. Pro ně jsou otevřené cesty jejich jediné domovy, které kdy budou potřebovat, cestujíc po světě Cairnu svou celoživotní pouť a očišťujíc sebe sama od všech světských pokušení a zkažeností civilizace. Mnohé z jejich historie je na věky ztraceno, a většina lidských kultur je považuje za něco více než jen tuláky a drobné zlodějíčky. {^n}{^n} Tulákům se hnusí násilí a snaží se mu vyhnout za každou cenu, což často vede ke zneužívání těmi, kteří násilí upřednostňují.
+tagFactionUser0Info=Stanoviště: Stará Arkovia {^n}{^n} Rhowari, nebo takzvaní Tuláci, jak jsou běžně nazýváni, je skupina lidí bez trvalého domova. Pro ně jsou otevřené cesty jejich jediné domovy, které kdy budou potřebovat, cestujíc po světě Cairnu svou celoživotní pouť a očišťujíc sebe sama od všech světských pokušení a zkažeností civilizace. Mnohé z jejich historie je na věky ztraceno, a většina lidských kultur je považuje za něco více než tuláky a drobné zlodějíčky. {^n}{^n} Tulákům se hnusí násilí a snaží se mu vyhnout za každou cenu, což často vede ke zneužívání těmi, kteří násilí upřednostňují.
 tagFactionUser0Rewards1=-
 tagFactionUser0Rewards2=-
 tagFactionUser0Rewards3=-
@@ -587,7 +587,7 @@ tagCharStatsArmorWaist=Pas:
 tagCharStatsArmorShoulders=Ramena:
 
 tagFormulaLearn01={^w}Blahopřejeme! Nyní umíš vytvořit:
-tagFormulaLearn02={^r}Tento plánek už dávno znáš
+tagFormulaLearn02={^r}Tento plánek už znáš
 tagFormulaLearn03={^r}[Už umíš]
 
 tagItemCompareEquipped=Momentálně máš na sobě
