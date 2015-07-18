@@ -39,7 +39,7 @@ tagTutorialTip15CaptionB=Klávesová zkratka: {^b}{%t0}{^w}
 tagTutorialTip15TextC=Zkušenosti své postavy a množství zkušeností potřebných na další úroveň můžeš sledovat na zeleném pruhu na spodním panelu a v {^y}Okně postavy{^w}. Jakmile je potřebné množství naplněno, tvá postava získá novou úroveň.
 
 tagTutorialTip16Title=Okno postavy
-tagTutorialTip16TextA=Použij {^y}Okno postavy{^w} a můžeš svou postavu vybavit předměty, přerovnat si svůj inventář, využít body atributů nebo shlédnout statistiky své postavy. Najetím kurzoru nad statistiky získáš další informace.
+tagTutorialTip16TextA=Použij {^y}Okno postavy{^w} a můžeš svou postavu vybavit předměty, přerovnat si svůj inventář, využít body atributů nebo shlédnout statistiky své postavy. Najetím kurzoru na statistiky získáš další informace.
 tagTutorialTip16SubtitleA=Inventář:
 tagTutorialTip16TextB=Pokud chceš nějaký předmět použít, klikni na něj pravým tlačítkem v inventáři nebo předmět přesuň do adekvátního slotu. Předmět můžeš také odhodit tím, že jej přesuneš mimo okno postavy, nebo na něj klikneš a stiskneš klávesu "{^b}{%t0}{^w}".
 tagTutorialTip16SubtitleB=Body atributů:

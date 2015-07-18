@@ -633,29 +633,29 @@ tagCharStatsArcanistSkillsBonusInfo=Bonus ke všem naučeným dovednostem v povo
 tagCharStatsAttackSpeed=Útočná rychlost
 tagCharStatsAttackSpeedDescription=Rychlost útoku tvé zbraně vzhledem k výchozímu stavu (včetně celkové rychlosti).
 tagCharStatsAvgDmg=Rozsah zranění
-tagCharStatsAvgDmgDescription=Zranění způsobené zásahem dle útoků zbraně a bonusů.
+tagCharStatsAvgDmgDescription=Zranění způsobené zásahem dle síly zbraně, včetně bonusů.
 
 tagCharStatsPhysicalAbsDmg=Fyzické zranění
-tagCharStatsPhysicalAbsDmgInfo=Fyzické zranění způsobené jedním zásahem pomocí útoků zbraně včetně bonusů.
+tagCharStatsPhysicalAbsDmgInfo=Fyzické zranění způsobené jedním zásahem pomocí síly zbraně včetně bonusů.
 tagCharStatsPhysicalPercentDmg=Bonus k fyz. zranění
 tagCharStatsPhysicalPercentDmgInfo=Procentuální bonus ke všem fyzickým zraněním způsobených útokem a kouzly.
 
 tagCharStatsPierceAbsDmg=Zranění probodnutím
-tagCharStatsPierceAbsDmgInfo=Zranění probodnutím způsobené jedním zásahem pomocí základního útoku včetně bonusů.
+tagCharStatsPierceAbsDmgInfo=Zranění probodnutím způsobené jedním zásahem pomocí síly zbraně včetně bonusů.
 tagCharStatsPiercePercentDmg=Bonus k probodnutí
-tagCharStatsPiercePercentDmgInfo=Procentuální bonus ke každému zranění probodnutím.
+tagCharStatsPiercePercentDmgInfo=Procentuální bonus ke každému zranění probodnutím způsobeným útokem a kouzly.
 
 tagCharStatsBleedAbsDmg=Zranění krvácením
-tagCharStatsBleedAbsDmgInfo=Zranění krvácením za jednu sekundu, trvající po dobu 3 sekund, způsobené jedním zásahem pomocí základního útoku včetně bonusů.
+tagCharStatsBleedAbsDmgInfo=Zranění krvácením za jednu sekundu, trvající po dobu 3 sekund, způsobené jedním zásahem a odvozeným od síly zbraně včetně bonusů.
 tagCharStatsBleedPercentDmg=Bonus ke krvácení
-tagCharStatsBleedPercentDmgInfo=Procentuální bonus ke každému zranění krvácením.
+tagCharStatsBleedPercentDmgInfo=Procentuální bonus ke každému zranění krvácením způsobeným útokem a kouzly.
 tagCharStatsBleedDuration=Trvání krvácení
 tagCharStatsInternalTraumaDurationInfo=Procentuální bonus k době trvání vnitřního krvácení. Zranění za sekundu není ovlivněno.
 
 tagCharStatsInternalTraumaAbsDmg=Zranění šokem
-tagCharStatsInternalTraumaAbsDmgInfo=Zranění šokem za jednu sekundu, trvající po dobu 5 sekund, způsobené jedním zásahem pomocí základního útoku včetně bonusů.
+tagCharStatsInternalTraumaAbsDmgInfo=Zranění šokem za jednu sekundu, trvající po dobu 5 sekund, způsobené jedním zásahem a odvozeným od síly zbraně včetně bonusů.
 tagCharStatsInternalTraumaPercentDmg=Bonus k šoku
-tagCharStatsInternalTraumaPercentDmgInfo=Procentuální bonus ke každému zranění šokem.
+tagCharStatsInternalTraumaPercentDmgInfo=Procentuální bonus ke každému zranění šokem způsobeným útokem a kouzly.
 tagCharStatsInternalTraumaDuration=Trvání šoku
 tagCharStatsInternalTraumaDurationInfo=Procentuální bonus k době trvání šoku. Zranění za sekundu není ovlivněno.
 
@@ -673,75 +673,75 @@ tagCharStatsManaCostReduction=Snížení bodů mag. energie
 tagCharStatsManaCostReductionInfo=Počet procent, o kolik se sníží počet bodů magické energie nutné k použití dovednosti.
 
 tagCharStatsPercentHealthDamage=Způsobené zranění
-tagCharStatsPercentHealthDamageInfo=Udává počet procent, o kolik života přijde tvůj nepřítel při zranění zásahem zbraní se základním útokem.
+tagCharStatsPercentHealthDamageInfo=Udává počet procent, o kolik života přijde tvůj nepřítel při zranění zásahem zbraní, odvozeného od síly zbraně.
 
 tagCharStatsFireAbsDmg=Oheň
-tagCharStatsFireAbsDmgInfo=Zranění ohněm způsobené zásahem při základním útoku včetně bonusů.
+tagCharStatsFireAbsDmgInfo=Zranění ohněm způsobené zásahem a odvozeného od síly zbraně včetně bonusů.
 tagCharStatsFirePercentDmg=Bonus k ohni
-tagCharStatsFirePercentDmgInfo=Procentuální bonus ke všem ohnivým zraněním.
+tagCharStatsFirePercentDmgInfo=Procentuální bonus ke všem ohnivým zraněním způsobeným útokem a kouzly.
 
 tagCharStatsColdAbsDmg=Chlad
-tagCharStatsColdAbsDmgInfo=Zranění chladem způsobené zásahem při základním útoku včetně bonusů.
+tagCharStatsColdAbsDmgInfo=Zranění chladem způsobené zásahem a odvozeného od síly zbraně včetně bonusů.
 tagCharStatsColdPercentDmg=Bonus k chladu
-tagCharStatsColdPercentDmgInfo=Procentuální bonus ke všem mrazivým zraněním.
+tagCharStatsColdPercentDmgInfo=Procentuální bonus ke všem mrazivým zraněním způsobeným útokem a kouzly.
 
 tagCharStatsLightningAbsDmg=Blesky
-tagCharStatsLightningAbsDmgInfo=Zranění blesky způsobené zásahem při základním útoku včetně bonusů.
+tagCharStatsLightningAbsDmgInfo=Zranění blesky způsobené zásahem a odvozeného od síly zbraně včetně bonusů.
 tagCharStatsLightningPercentDmg=Bonus k bleskům
-tagCharStatsLightningPercentDmgInfo=Procentuální bonus ke všem zraněním blesky.
+tagCharStatsLightningPercentDmgInfo=Procentuální bonus ke všem zraněním blesky způsobeným útokem a kouzly.
 
 tagCharStatsAcidAbsDmg=Poleptání
-tagCharStatsAcidAbsDmgInfo=Zranění poleptáním způsobené zásahem při základním útoku včetně bonusů.
+tagCharStatsAcidAbsDmgInfo=Zranění poleptáním způsobené zásahem a odvozeného od síly zbraně včetně bonusů.
 tagCharStatsAcidPercentDmg=Bonus k poleptání
-tagCharStatsAcidPercentDmgInfo=Procentuální bonus ke všem zraněním poleptáním.
+tagCharStatsAcidPercentDmgInfo=Procentuální bonus ke všem zraněním poleptáním způsobeným útokem a kouzly.
 
 tagCharStatsVitalityAbsDmg=Ztráta životní energie
-tagCharStatsVitalityAbsDmgInfo=Zranění ztrátou životní energie způsobené zásahem při základním útoku včetně bonusů.
+tagCharStatsVitalityAbsDmgInfo=Zranění ztrátou životní energie způsobené zásahem a odvozeného od síly zbraně včetně bonusů.
 tagCharStatsVitalityPercentDmg=Bonus k životní energii
-tagCharStatsVitalityPercentDmgInfo=Procentuální bonus ke všem zraněním ztrátou životní energie.
+tagCharStatsVitalityPercentDmgInfo=Procentuální bonus ke všem zraněním ztrátou životní energie způsobeným útokem a kouzly.
 
 tagCharStatsAetherAbsDmg=Aether
-tagCharStatsAetherAbsDmgInfo=Zranění Aetherem způsobené zásahem při základním útoku včetně bonusů.
+tagCharStatsAetherAbsDmgInfo=Zranění Aetherem způsobené zásahem a odvozeného od síly zbraně včetně bonusů.
 tagCharStatsAetherPercentDmg=Bonus k Aetheru
-tagCharStatsAetherPercentDmgInfo=Procentuální bonus ke všem Aetherickým zraněním.
+tagCharStatsAetherPercentDmgInfo=Procentuální bonus ke všem Aetherickým zraněním způsobeným útokem a kouzly.
 
 tagCharStatsChaosAbsDmg=Chaosem
-tagCharStatsChaosAbsDmgInfo=Zranění chaosem způsobené zásahem při základním útoku včetně bonusů.
+tagCharStatsChaosAbsDmgInfo=Zranění chaosem způsobené zásahem a odvozeného od síly zbraně včetně bonusů.
 tagCharStatsChaosPercentDmg=Bonus k chaosu
-tagCharStatsChaosPercentDmgInfo=Procentuální bonus ke všem chaotickým zraněním.
+tagCharStatsChaosPercentDmgInfo=Procentuální bonus ke všem chaotickým zraněním způsobenými útokem a kouzly.
 
 tagCharStatsBurnAbsDmg=Popáleniny
-tagCharStatsBurnAbsDmgInfo=Zranění popálením za jednu sekundu, trvající po dobu 3 sekund, způsobené jedním zásahem pomocí základního útoku včetně bonusů.
+tagCharStatsBurnAbsDmgInfo=Zranění popálením za jednu sekundu, trvající po dobu 3 sekund, způsobené jedním zásahem a odvozeného od síly zbraně včetně bonusů.
 tagCharStatsBurnPercentDmg=Bonus k popáleninám
-tagCharStatsBurnPercentDmgInfo=Procentuální bonus ke všem zraněním popálením.
+tagCharStatsBurnPercentDmgInfo=Procentuální bonus ke všem zraněním popálením způsobenými útokem a kouzly.
 tagCharStatsBurnDuration=Účinkování popálení
 tagCharStatsBurnDurationInfo=Procentuální bonus k době trvání popálení. Zranění za sekundu není ovlivněno.
 
 tagCharStatsColdburnAbsDmg=Omrzliny
-tagCharStatsColdburnAbsDmgInfo=Zranění omrzlinami za jednu sekundu, trvající po dobu 3 sekund, způsobené jedním zásahem pomocí základního útoku včetně bonusů.
+tagCharStatsColdburnAbsDmgInfo=Zranění omrzlinami za jednu sekundu, trvající po dobu 3 sekund, způsobené jedním zásahem a odvozeného od síly zbraně včetně bonusů.
 tagCharStatsColdburnPercentDmg=Bonus k omrzlinám
-tagCharStatsColdburnPercentDmgInfo=Procentuální bonus ke všem zraněním omrzlinami.
+tagCharStatsColdburnPercentDmgInfo=Procentuální bonus ke všem zraněním omrzlinami způsobenými útokem a kouzly.
 tagCharStatsColdburnDuration=Účinkování omrznutí
 tagCharStatsColdburnDurationInfo=Procentuální bonus k době trvání omrzlin. Zranění za sekundu není ovlivněno.
 
 tagCharStatsElectrocuteAbsDmg=Elektrický proud
-tagCharStatsElectrocuteAbsDmgInfo=Zranění elektrickým proudem za jednu sekundu, trvající po dobu 3 sekund, způsobené jedním zásahem pomocí základního útoku včetně bonusů.
+tagCharStatsElectrocuteAbsDmgInfo=Zranění elektrickým proudem za jednu sekundu, trvající po dobu 3 sekund, způsobené jedním zásahem a odvozeného od síly zbraně včetně bonusů.
 tagCharStatsElectrocutePercentDmg=Bonus k el. proudu
-tagCharStatsElectrocutePercentDmgInfo=Procentuální bonus ke všem zraněním elektrickým proudem.
+tagCharStatsElectrocutePercentDmgInfo=Procentuální bonus ke všem zraněním elektrickým proudem způsobenými útokem a kouzly.
 tagCharStatsElectrocuteDuration=Působení el. proudu
 tagCharStatsElectrocuteDurationInfo=Procentuální bonus k době trvání zásahu elektrickým proudem. Zranění za sekundu není ovlivněno.
 
 tagCharStatsPoisonAbsDmg=Otrávení
-tagCharStatsPoisonAbsDmgInfo=Zranění otrávením za jednu sekundu, trvající po dobu 5 sekund, způsobené jedním zásahem pomocí základního útoku včetně bonusů.
+tagCharStatsPoisonAbsDmgInfo=Zranění otrávením za jednu sekundu, trvající po dobu 5 sekund, způsobené jedním zásahem a odvozeného od síly zbraně včetně bonusů.
 tagCharStatsPoisonPercentDmg=Bonus k otrávení
-tagCharStatsPoisonPercentDmgInfo=Procentuální bonus ke všem zraněním otravou.
+tagCharStatsPoisonPercentDmgInfo=Procentuální bonus ke všem zraněním otravou způsobenými útokem a kouzly.
 tagCharStatsPoisonDuration=Účinkování otravy
 tagCharStatsPoisonDurationInfo=Procentuální bonus k době trvání otravy. Zranění za sekundu není ovlivněno.
 
 tagCharStatsVitalityDecayAbsDmg=Uhnívání
-tagCharStatsVitalityDecayAbsDmgInfo=Zranění uhníváním za jednu sekundu, trvající po dobu 3 sekund, způsobené jedním zásahem pomocí základního útoku včetně bonusů.
+tagCharStatsVitalityDecayAbsDmgInfo=Zranění uhníváním za jednu sekundu, trvající po dobu 3 sekund, způsobené jedním zásahem a odvozeného od síly zbraně včetně bonusů.
 tagCharStatsVitalityDecayPercentDmg=Bonud k uhnívání
-tagCharStatsVitalityDecayPercentDmgInfo=Procentuální bonus ke všem zraněním uhníváním.
+tagCharStatsVitalityDecayPercentDmgInfo=Procentuální bonus ke všem zraněním uhníváním způsobenými útokem a kouzly.
 tagCharStatsVitalityDecayDuration=Účinkování uhnívání
 tagCharStatsVitalityDecayDurationInfo=Procentuální bonus k době trvání uhnívání. Zranění za sekundu není ovlivněno.
 
@@ -828,7 +828,6 @@ tagCharStatsPierceRet=Probodnutí
 tagCharStatsPierceRetInfo=Zranění probodnutím způsobené útočníkovi kdykoliv tě zasáhne.
 tagCharStatsPiercePercentRet=Bonus k probodnutí
 tagCharStatsPiercePercentRetInfo=Procentuální bonus ke všem efektům pomocí odplaty probodnutím.
-
 
 tagCharStatsBleedRet=Krvácení
 tagCharStatsBleedRetInfo=Zranění krvácením udělené každou sekundu po dobu 3 sekund, způsobené útočníkovi kdykoliv tě zasáhne.
@@ -1118,7 +1117,7 @@ tagShrineBusy=Tuto svatyni teď využívá jiný hráč.
 tagShrineLocked=Tato svatyně je nevyužitá.
 
 #Treasure Trove
-tagTroveBusy=That object is being interacted with by another player.
+tagTroveBusy=Tento objekt si prohlíží jiný hráč.
 
 #Maps
 
@@ -1268,9 +1267,9 @@ tagCharHuntingIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) {^E}duchovna u stře
 tagCharStaffIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) {^E}duchovna u tyčových zbraní
 tagCharStaffStrengthReqReductionR=-({%.0f0}-{%.0f1}%) {^E}fyzické kondice u tyčových zbraní
 tagCharStaffDexterityReqReductionR=-({%.0f0}-{%.0f1}%) {^E}rafinovanosti u tyčových zbraní
-tagCharWeapon2HIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) {^E}Spirit Requirement for Two-Handed Weapons
-tagCharWeapon2HStrengthReqReductionR=-({%.0f0}-{%.0f1}%) {^E}Physique Requirement for Two-Handed Weapons
-tagCharWeapon2HDexterityReqReductionR=-({%.0f0}-{%.0f1}%) {^E}Cunning Requirement for Two-Handed Weapons
+tagCharWeapon2HIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) {^E}duchovna u obouručních zbraní
+tagCharWeapon2HStrengthReqReductionR=-({%.0f0}-{%.0f1}%) {^E}fyzické kondice u obouručních zbraní
+tagCharWeapon2HDexterityReqReductionR=-({%.0f0}-{%.0f1}%) {^E}rafinovanosti u obouručních zbraní
 tagCharWeaponIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) {^E}duchovna u všech zbraní
 tagCharWeaponStrengthReqReductionR=-({%.0f0}-{%.0f1}%) {^E}fyzické kondice u všech zbraní
 tagCharWeaponDexterityReqReductionR=-({%.0f0}-{%.0f1}%) {^E}rafinovanosti u všech zbraní
@@ -1335,9 +1334,9 @@ tagCharHuntingIntelligenceReqReduction=-{%.0f0}% {^E}duchovna pro střelné zbra
 tagCharStaffIntelligenceReqReduction=-{%.0f0}% {^E}duchovna pro hole
 tagCharStaffStrengthReqReduction=-{%.0f0}% {^E}fyzické kondice pro hole
 tagCharStaffDexterityReqReduction=-{%.0f0}% {^E}rafinovanosti pro hole
-tagCharWeapon2HIntelligenceReqReduction=-{%.0f0}% {^E}Spirit Requirement for Two-Handed Weapons
-tagCharWeapon2HStrengthReqReduction=-{%.0f0}% {^E}Physique Requirement for Two-Handed Weapons
-tagCharWeapon2HDexterityReqReduction=-{%.0f0}% {^E}Cunning Requirement for Two-Handed Weapons
+tagCharWeapon2HIntelligenceReqReduction=-{%.0f0}% {^E}duchovna pro obouruční zbraně
+tagCharWeapon2HStrengthReqReduction=-{%.0f0}% {^E}fyzické kondice pro obouruční zbraně
+tagCharWeapon2HDexterityReqReduction=-{%.0f0}% {^E}rafinovanosti pro obouruční zbraně
 tagCharWeaponIntelligenceReqReduction=-{%.0f0}% {^E}duchovna na všechny zbraně
 tagCharWeaponStrengthReqReduction=-{%.0f0}% {^E}fyzické kondice na všechny zbraně
 tagCharWeaponDexterityReqReduction=-{%.0f0}% {^E}rafinovanosti na všechny zbraně
@@ -1768,23 +1767,23 @@ DefenseProtectionModifier={^E}Zvýšení zbroje o {%.0f0}%
 DefenseProtectionModifierR={^E}Zvýšení zbroje o {^H}{%.0f0}-{%.0f1}%
 DefenseAbsorptionModifier={^E}Zvýšení pohlcení zranění o {%.0f0}%
 DefenseAbsorptionModifierR={^E}Zvýšení pohlcení zranění o {^H}{%.0f0}-{%.0f1}%
-DefensePhysicalModifier={^H}{%.0f0}% {^E}zvýšení fyzické odolnosti
-DefensePierceModifier={^H}{%.0f0}% {^E}zvýšení odolnosti vůči probodnutí
-DefenseColdModifier={^H}{%.0f0}% {^E}zvýšení odolnosti vůči ledu
-DefenseFireModifier={^H}{%.0f0}% {^E}zvýšení odolnosti vůči ohni
-DefensePoisonModifier={^H}{%.0f0}% {^E}zvýšení odolnosti vůči jedům a kyselinám
-DefenseLightningModifier={^H}{%.0f0}% {^E}zvýšení odolnosti vůči bleskům
-DefenseLifeModifier={^H}{%.0f0}% {^E}zvýšení odolnosti vůči ztrátě životní síly
-DefenseStunModifier={^H}{%.0f0}% {^E}zvýšení odolnosti vůči omráčení
+DefensePhysicalModifier={^H}{%.0f0}% {^E}zvýšení současné fyzické odolnosti
+DefensePierceModifier={^H}{%.0f0}% {^E}zvýšení současné odolnosti vůči probodnutí
+DefenseColdModifier={^H}{%.0f0}% {^E}zvýšení současné odolnosti vůči ledu
+DefenseFireModifier={^H}{%.0f0}% {^E}zvýšení současné odolnosti vůči ohni
+DefensePoisonModifier={^H}{%.0f0}% {^E}zvýšení současné odolnosti vůči jedům a kyselinám
+DefenseLightningModifier={^H}{%.0f0}% {^E}zvýšení současné odolnosti vůči bleskům
+DefenseLifeModifier={^H}{%.0f0}% {^E}zvýšení současné odolnosti vůči ztrátě životní síly
+DefenseChaosModifier={^H}{%.0f0}% {^E}zvýšení současné odolnosti vůči chaosu
+DefenseAetherModifier={^H}{%.0f0}% {^E}zvýšení odolnosti vůči Aetheru
+DefenseStunModifier={^H}{%.0f0}% {^E}zvýšení současné odolnosti vůči omráčen
 DefenseBlockModifier={^H}{%.0f0}% {^E}zvýšení šance vykrytí štítem
 DefenseBlockAmountModifier={^H}{%+.0f0}% {^E}zranění vykryto štítem
-DefenseLifeLeachModifier={^H}{%.0f0}% {^E}zvýšení odolnosti vůči vysátí života
-DefenseChaosModifier={^H}{%.0f0}% {^E}zvýšení odolnosti vůči chaosu
-DefenseAetherModifier={^H}{%.0f0}% {^E}zvýšení odolnosti vůči Aetheru
-DefenseManaLeachModifier={^H}{%.0f0}% {^E}zvýšení odolnosti vůči vysátí magické energie
+DefenseLifeLeachModifier={^H}{%.0f0}% {^E}zvýšení současné odolnosti vůči vysátí života
+DefenseManaLeachModifier={^H}{%.0f0}% {^E}zvýšení současné odolnosti vůči vysátí magické energie
 DefensePercentLifeModifier={^H}{%.0f0}% {^E}zvýšení odolnosti vůči procentuální ztrátě života
-DefenseBleedingModifier={^H}{%.0f0}% {^E}zvýšení odolnosti vůči krvácení
-DefenseElementalModifier={^H}{%.0f0}% {^E}zvýšení odolnosti vůči živlům
+DefenseBleedingModifier={^H}{%.0f0}% {^E}zvýšení současné odolnosti vůči krvácení
+DefenseElementalModifier={^H}{%.0f0}% {^E}zvýšení současné odolnosti vůči živlům
 DefensePhysicalDurationModifier={%+.0f0}% {^E}snížení doby zranění
 DefenseBleedingDurationModifier={%+.0f0}% {^E}snížení doby krvácení
 DefenseColdDurationModifier={%+.0f0}% {^E}snížení doby omrznutí
