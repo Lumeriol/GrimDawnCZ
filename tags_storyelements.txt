@@ -117,7 +117,7 @@ tagRiftRottedHarvest=Brána na Hrůzných pastvinách
 tagRiftSorrowsBastion=Brána v Baště zármutku
 tagRiftBloodGrove=Brána v Krvavém háji
 tagRiftDarkvale=Brána v Darkvale
-tagRiftAlpineRoad=Brána na Alpské stezce
+tagRiftAlpineRoad=Brána na Ledgewoodské stezce
 
 tagRiftRandom01=Chthonská Brána
 
@@ -168,7 +168,7 @@ tagWorldMapSorrowsBastion=Bašta{^n}zármutku
 tagWorldMapBloodGrove=Krvavý{^n}háj
 tagWorldMapDarkvaleMill=Gryverův{^n}mlýn
 tagWorldMapDarkvale=Vesnice{^n}Darkvale
-tagWorldMapDarkvaleGate=Brána v Darkvale
+tagWorldMapDarkvaleGate=Brána{^n}v Darkvale
 tagWorldMapFactionFort=Prvnost Haron
 tagWorldMapBloodGroveMine=Mortonovy{^n}pozemky
 
@@ -468,7 +468,7 @@ tagNPC_AreaC_19=Haruuv
 tagNPC_AreaC_20=Četař Serriv
 tagNPC_AreaC_21=Zbrojmistr Borrov
 tagNPC_AreaC_22=Poslíček
-tagNPC_AreaC_23=Soulkeeper Kaandris
+tagNPC_AreaC_23=Strážce duší Kaandris
 tagNPC_AreaC_24=
 tagNPC_AreaC_25=
 
@@ -627,8 +627,8 @@ tagQuestItemExileBossDrop_02Desc="Stále žhnoucí aetherické oči na tebe upř
 tagQuestItemBlackLegionInsignia=Odznak Černé legie
 tagQuestItemBlackLegionInsignia_Desc="Udělovaný jako hodnost za věrnou službu."
 
-tagQuestItemCultistNecropolisNote=Karroz's Tome
-tagQuestItemCultistNecropolisNote_Desc="A tome filled with dark rituals that depict the return of a great darkness from within the Necropolis."
+tagQuestItemCultistNecropolisNote=Karrozův tlustopis
+tagQuestItemCultistNecropolisNote_Desc="Kniha je popsána temnými rituály, které líčí návrat velké temnoty z Pohřebiště."
 
 tagQuestItemAnnalsOfArkovia=Arkovianské anály
 tagQuestItemAnnalsOfArkovia_Desc="Záznamy z posledních dnů arkovianského krále Rhowana."
@@ -888,47 +888,47 @@ tagLoreObj_AreaCAetherial_NoteA01Text=Bylo dosaženo dohody. Svatyně v Homestea
 tagLoreObj_BlackLegion_NoteA01Name=Průzkumné hlášení Černé legie
 tagLoreObj_BlackLegion_NoteA01Text=Píšu tento dopis jako hlášení o extrémní a zneklidňující Aetherianské činnosti severně od Homesteadu. Vydal jsem se do podhůří a prošel bludištěm nízkých kamenných zídek, plotů a příležitostných usedlostí. Dával jsem si pozor, abych se pohyboval tajně a zůstal neodhalen hrůzami, které se pohybují v neoznačených polích. Prošel jsem údolím mezi dvěma kopci v blízkosti řeky, když jsem se stal svědkem něčeho, co nedokážu ani ve snu pochopit.{^n}{^n}Nadpozemsky černý sloup, který nebyl ani kamenný, ani z masa a kostí, se pomalu sunul po zemi jako nízký mrak. Odporně zelená záře hořela ve svém nitru a obrovská ovíjivá chapadla visela pod posouvajícím se tělem. Sledoval jsem tu pohybující se hrůzu, viděl jsem jak ten pekelný obelisk zpomalil a pak, zcela bez varování, zanořil háky svých mávajících chapadel do země. Země začala pukat a zářit stejně nezdravou zelenou barvou. Pak se najednou obelisk zanořil do země. Se zvukem, který země vydávala, jako by umírala, začala zářit tak jasně, až jsem stěží něco viděl. Síla toho obelisku prosakovala do země, která se prohýbala a rozrušovala s tím, jak se to šířilo.{^n}{^n}Zůstal jsem skoro hodinu na jednom místě a za celou dobu se země ve velké vzdálenosti od obelisku zcela změnila. Už jsem byl na odchodu, když obelisk od země vybuchl a začal se pohybovat k dalšímu nedotčenému kusu země, kde to všechno začalo od znova. Musíme začít něco dělat, nebo už nebude co zachraňovat.{^n}{^n}-- 6. regiment zvědů Černé legie, plukovník Renall Oberach
 
-tagLoreObj_AreaCCultist_NoteA01Name=Avalline's Note - Page 1
-tagLoreObj_AreaCCultist_NoteA01Text=We've been on the run for what feels like weeks now. The Aetherials are always on our heels, spreading like wildfire across the countryside. The children are starving; the few bites of food we manage to scavenge on the go aren't enough for all four of us. I'm not sure how much more of this we can take.{^n}{^n}Word on the road is that the Cult of Ch'thon is accepting members, that they have food and shelter for all. I've always pictured them as heretical lunatics, howling at the moon as they bathe in blood, but the promises of safety may be too much to pass on. Thallon cringes at the thought of being seen among the Bloodsworn, but we agree that it may be a necessary evil in order to survive. Our children deserve to eat.
+tagLoreObj_AreaCCultist_NoteA01Name=Avallinin list - strana 1
+tagLoreObj_AreaCCultist_NoteA01Text=Utíkali jsme dlouho, snad několik týdnů. Aetheriani jsou nám furt v patách, roztahujou se jako požár krajinou. Děcka trpí hladem a těch pár soust, co občas někde seženem u cesty, prostě pro nás čtyři nestačí. Nemám vůbec tucha, jak dlouho tohle ještě zvládnem.{^n}{^n}Cedule na cestě uporňovala, že Kult Ch'thona nabírá nový lidi a má pro všechny dostatek jídla i střechu nad hlavou. Vžycky jsem si je představovala jako kacířský magory, co vyjou na měsíc a koupou se při tom v krvi, ale sliby o bezpečnosti jsou snad až příliš velkorysý na to, aby to byla pravda. Thallon se cuká při pomyšlení, že by ho viděli mezi Krvepřísežníky, ale souhlasil s tím, že to může být jen takové nutné zlo, abysme přežili. Naše děti si zaslouží aspoň ten žvanec.
 
-tagLoreObj_AreaCCultist_NoteA02Name=Avalline's Note - Page 2
-tagLoreObj_AreaCCultist_NoteA02Text=Life among the Bloodsworn has required some changes to our little family, mainly that we can only see the children after the day's rituals and chores are finished, which usually last late into the evening. Some days I don't see them at all until they are already asleep. My husband is having a difficult time with the prayers, he calls them blasphemous filth, but I remind him that we are doing this for our family's survival.{^n}{^n}Myself, I cannot help but question the gods who have given us nothing except poverty. But here, under the protection of Ch'thon, we are safe and fed. The Bloodsworn have given us everything they had promised, and more. All they ask in return is our devotion and a little bit of blood.{^n}{^n}So I can't help myself when I chant a little louder each morning as I sing my praises to Ch'thon. The cuts from the ritual knife serve as a gentle reminder that we are still alive and not rotting out in the wilderness. It feels...good. By Ch'thon, it feels good...
+tagLoreObj_AreaCCultist_NoteA02Name=Avallinin list - strana 2
+tagLoreObj_AreaCCultist_NoteA02Text=Život mezi Krvepřísežníky vyžadoval nějaké změny v naší malý rodince. Především děti můžeme vídat jenom ve dnech, kdy skončej rituály a všechny práce jsou hotový, což kolikrát bejvá až pozdě do noci. Některý dny je nevidím vůbec, teprva až když večer chrní v postýlkách. Můj manžel má co dělat s modlitbama, říká tý špíně rouhání, ale i tak mu musím připomínat, že to děláma proto, aby rodina přežila.{^n}{^n}Nemůžu si pomoct, ale chtěla bych se zeptat bohů, co nám dali jinýho než blbou chudobu. Ale tady, pod ochranou Ch'thona, jsme v bezpečí a máme co do huby. Krvepřísežníci nám dali všechno, co slíbili a ještě mnohem víc. Teď se nás ptají, jestli jim na oplátku věnujeme svou oddanost a pár kapek krve.{^n}{^n}Nemůžu si pomoct, ale teď si každý ráno radostně prozpěvuju a chválím při tom Ch'thona. Rány od rituálního nože slouží jako slabá připomínka toho, že pořád žijeme a nehnijem někde v poušti. Cítím se... dobře. Díky Ch'thonovi se cítím dobře...
 
-tagLoreObj_AreaCCultist_NoteA03Name=Avalline's Note - Page 3
-tagLoreObj_AreaCCultist_NoteA03Text=All begins and ends with Ch'thon. I can see that now. My family's suffering, the poverty we've endured? These are all symptoms of our separation from Ch'thon. The Bloodsworn have shown me the way to salvation.{^n}{^n}I have prayed long and hard at the altar, poured my lifeblood out onto the stones until the answers came to me. The only way my family can truly be safe is to be reunited with Ch'thon.{^n}{^n}I have made the necessary arrangements. The sacrifice will proceed at dawn.
+tagLoreObj_AreaCCultist_NoteA03Name=Avallinin list - strana 3
+tagLoreObj_AreaCCultist_NoteA03Text=Všechno začíná a končí u Ch'thona. Až teď to vidím. Fakt jsme trápení mojí rodiny, chudobu, přečkali? To všechno jsou příznaky našeho odloučení od Ch'thona. Krvepřísežníci mi ukázali cestu k vykoupení.{^n}{^n}Velmi dlouho jsem se modlila u oltáře a prolévala svou krev na ty kameny, dokud ke mne nedolehly odpovědi. Jediný způsob, jak skutečně zabezpečit svou rodinu, vede skrz setkání s Ch'thonem.{^n}{^n}Udělala sem všechny nezbytný opatření. Oběť proběhne za úsvitu.
 
-tagLoreObj_AreaCCultist_NoteA04Name=Blood for Ch'thon
-tagLoreObj_AreaCCultist_NoteA04Text=I try to console them. I tell them everything will be alright. Their eyes go wide with fear as I find the spot between the ribs and push the blade in. They always cry and it makes me a little sad. They do not yet understand. I watch the blood as it flows down their naked legs and into the large basin I have placed below their suspended form. Ch'thon calls for every drop.{^n}{^n}To ensure I get it all, I begin by making shallow cuts. First the legs. Then the torso. And lastly the arms. Slowly their struggle rescinds and they accept their fate. At last they find understanding.{^n}{^n}The blood is not theirs. They are only holding it for another. And now it must be returned. To Ch'thon, whom it rightly belongs. At last their fear is peeled away and they are happy to give the blood freely.{^n}{^n}Devoted Servant of Ch'Thon, Bellor Heind
+tagLoreObj_AreaCCultist_NoteA04Name=Krev pro Ch'thona
+tagLoreObj_AreaCCultist_NoteA04Text=Snažím se je všechny uchlácholit. Říkám jim, že všechno bude zase dobrý. Pěkně na mě vyvalili voči, když jsem našel místo mezi jejich žebrama a vrazil jim tam kudlu. Každej z nich brečel a já z toho byl nešťastnej. Ještě tomu nemůžou rozumět. Koukám na krev, jak jim stejká dolů po obnaženejch nohách do velkýho lavoru umístěnýho pod nima. Ch'thon touží po každý kapce.{^n}{^n}Aby nic neuniklo, vždycky začínám mělkýma řezama. Nejdřív na nohou, pak tělo. A nakonec ramena. Pak už pomalu jejich boj ustával a oni přijmou svůj osud. Nakonec dojdou porozumění.{^n}{^n}Ta krev neni jejich. Jenom jí udržujou pro někoho jinýho. A teď musí být navrácena. Je to Ch'thon, komu ta krev patří. Nakonec jejich strach odumřel a můžou bejt rádi, že darovali svou krev dobrovolně.{^n}{^n}Oddaný služebníček Ch'thona, Bellor Heind
 
-tagLoreObj_AreaCCultist_NoteA05Name=The Call of Blood
-tagLoreObj_AreaCCultist_NoteA05Text=My whole life I have reveled in the spilling of blood. For years I have been driven to hunt in the shadows. Lurking and hunting alone. But I am alone no longer. At long last I have found what has called to me.{^n}{^n}Ch'thon has whispered to me and the Grim Dawn has released my shackles. Now I take my pleasure and collect the blood for my Lord. It fills my heart and warms my soul to watch the last drops of blood flow.{^n}{^n}The old world was not understanding of my need. But now a new power has risen and Ch'thon has called on me. And those who do answer the Call will be my prey.
+tagLoreObj_AreaCCultist_NoteA05Name=Volání krve
+tagLoreObj_AreaCCultist_NoteA05Text=Celý svůj život jsem si liboval v krvi. Celé ty roky jsem byl směrován k tomu, aby lovil ve stínech. Číhal a lovil sám. Ale teď už nejsem sám. Konečně jsem našel to, co mne přivolávalo.{^n}{^n}Ch'thon mi našeptával a Ponurý úsvit rozbil mé okovy. Teď jsem dostál svému potěšení a začal sbírat krev pro mého Pána. Naplňuje mě to a hřeje na duši, když sleduju, jak tečou poslední kapky krve.{^n}{^n}Starý svět nedokázal pochopit mé potřeby. Ale teď povstala nová síla a Ch'thon mne povolal. A ti, kdo odpoví na Volání, budou mojí obětí.
 
-tagLoreObj_AreaCCultistSummoner_NoteName=Final Sermon: The End of Times
-tagLoreObj_AreaCCultistSummoner_CodexTitle=The End of Times
+tagLoreObj_AreaCCultistSummoner_NoteName=Poslední kázání: Konec věků
+tagLoreObj_AreaCCultistSummoner_CodexTitle=Konec věků
 tagLoreObj_AreaCCultistSummoner_NoteText=Bloodsworn supplicants of Ch'thon, it is with great purpose that we gather here today for what will be my final sermon to you. You have devoted yourselves completely, forsaking all past relations, earthly possessions and free will. You have proven that you are finally ready to become part of a greater whole, to receive the glorious gift of reunification.{^n}{^n}I must remain behind with the others to finish our great work, yet, even as you depart your lives, you will advance this broken world one step closer to the end time. The time when the dismal, suffering world will become reunited with Ch'thon, making the oldest of the old whole again and righting the great wrong perpetrated millennia ago by the false gods! These upstart gods who manipulated the course of our existence, set themselves up to be the objects of worship and who have lived off our blood and toil for ages.{^n}{^n}The end time will also bring doom to the wayward Aetherials, past agents of the false gods who were betrayed and then cast into the formless aether once their purpose had been served. They have hindered us, slaughtered our brethren and tried to claim dominance over this world. Yet, we must also thank them, for it is the Aetherials who have unwittingly made possible our ascension by destroying the empire and its inquisition. No longer does the inquisition hunt us, suppress our truths nor deny us access to our sacred places. Unshackled from the strictures of the empire, people have awakened from the false dream of civilization and our ranks have swelled.{^n}{^n}Not knowing the history of our world, the Aetherials are ignorant of the doom that we will awaken. They cannot surmise our end game and once they realize what they have set in motion, it will be too late for them to stop us! Our most devoted brethren march with legions of the void for Necropolis. They need only prevent our enemies from breaching our final line for even as they attack our forces, the blood they spill will feed our resurrection ritual. Where once we suffered our greatest defeat, our ultimate triumph shall be reborn and the Loghorrean, forerunner of the end time, will carry the thousand screaming voices of Ch'thon into world and usher in a new age!
 
-tagLoreObj_AreaCNecro_Note01Name=Laruka's Journal
+tagLoreObj_AreaCNecro_Note01Name=Larukův žurnál
 tagLoreObj_AreaCNecro_Note01Text=Today marks a critical moment in my life as one of Uroboruuk's pupils. Having passed the trials, the only thing that stands between me and the coveted title of necromancer is performing a reanimation.{^n}{^n}I've had the pleasure of seeing our master at work countless times. He is truly a master of the craft, requiring neither reagent nor word to bring the dead back into the living. Uroboruuk claims that this is a matter of practice and form, but I am convinced otherwise. His grasp over death supersedes us all, even his oldest students who, at a whim, may call upon spirits to do their bidding; but even they require binding runes and focusing stones of which our master makes no use of. The dead Uroboruuk brings back don't just serve him; they seem eager to please their master, as if to earn his favor.{^n}{^n}But now it is my turn to join the elite ranks of the Order. I've studied the scrolls, learned the rites and burned the words into my memory through exhaustive repetition. I've gathered the grave moss and the dust from buried bones. I am ready. Tomorrow, I will drag a soul back from beyond the veil of death and force it into skeletal remains. Tomorrow I emerge from the sepulcher as a full-fledged necromancer.
 
-tagLoreObj_AreaCNecro_Note02Name=Order Doctrine
+tagLoreObj_AreaCNecro_Note02Name=Doktrína Řádu
 tagLoreObj_AreaCNecro_Note02Text=The Order of Death's Vigil was founded upon the principles of Uroboruuk, our immortal grandmaster. Uroboruuk taught us to never be fulfilled by life's countless mysteries, to reach ever deeper into the fount of knowledge.{^n}{^n}As members of the Order, it is our sacred duty to preserve and maintain knowledge, regardless of its origins or unsettling nature; as it is not for man to discern its value. Knowledge is a wealth easily squandered by those who fear it, as evidenced by the near eradication of our Order's founding doctrine, the art of necromancy.{^n}{^n}Mastery of the ultimate fate which awaits all men represents an unparalleled frontier of learning. So it falls upon our neophytes to conquer their fear of death, to accept its harsh lessons. For not even in death does duty end.
 
-tagLoreObj_AreaCNecro_Note03Name=Uroboruuk's Journal - Page 1
+tagLoreObj_AreaCNecro_Note03Name=Uroboruukův deník - 1. strana
 tagLoreObj_AreaCNecro_Note03Text=Something powerful is coming from beyond. I have sensed its approach for some time now. But like a dream or some distant memory, the details were lost to me... until now.{^n}{^n}I can feel it clawing its way through the veil somewhere to the east of Burrwitch, no doubt drawn here by the maelstrom of otherworldly corruption. I dare say, its nature eludes even me; but it is neither flesh nor spirit. I must discover what it is we are facing and, should the need arise, seal it away again behind the barrier between worlds.{^n}{^n}The Order need not concern itself with these matters quite yet. I must do this alone...{^n}{^n}Uroboruuk
 
-tagLoreObj_AreaCNecro_Note04Name=Uroboruuk's Journal - Page 2
+tagLoreObj_AreaCNecro_Note04Name=Uroboruukův deník - 1. strana
 tagLoreObj_AreaCNecro_Note04Text=I will rip the bones from a thousand for this treachery. At a great cost I have survived a deadly attack.{^n}{^n}I had discovered a large contingent of Chthonic fiends. At first, I thought they were the source of power that I sought and so I followed them. As they travelled East, I soon realized that they too were after the same thing as I. They made their way to the cliffs by way of the swamp. In following them, I had walked right into an ambush as I was suddenly attacked from behind.{^n}{^n}The fight was devastating and I destroyed dozens in the ensuing conflict. However, in the midst of battle, several of the Harbingers cornered my Guardian. I first believed they intended to destroy it; but when they exploded, a rush of Chthonic energy surged into my creation and severed our link. The animated mass of bone turned on me, and I knew then that the Harbingers had found a way to corrupt my necromantic creation. I do not understand how they were capable of doing this but it was unlike anything I have ever seen Chthonic beings do.{^n}{^n}If the fiends of the Void are able to harness this power on a larger scale, then the Order of Death's Vigil will find itself outmatched. I must maintain hope that what I seek will be an answer to fighting this darkness. With each step the power grows and others will be drawn to it. I must hurry.{^n}{^n}Uroboruuk
 
-tagLoreObj_AreaCZealot_Note01Name=Acolyte's Pledge
+tagLoreObj_AreaCZealot_Note01Name=Ministrantův slib
 tagLoreObj_AreaCZealot_Note01Text=When the world ended, I did not know how I would survive. It was only by the grace of Kymon that they found me. Burried in the mud and rubble of my house, it was Father Kymon who knew where to find me. It was his hands that pulled me free of certain death.{^n}{^n}Now that I am here, I pledge to do everything I can to fight this evil and to serve the cause that gave me a second chance. It is by the will of Kymon that I now carry his light to the world and save who I can. Praise be to the Blessed Father.{^n}{^n}Acolyte of the Chosen, Carth Lavine
 
-tagLoreObj_AreaCZealot_Note02Name=Beacon of Hope
+tagLoreObj_AreaCZealot_Note02Name=Světlo naděje
 tagLoreObj_AreaCZealot_Note02Text=I have seen first-hand the cleansing power of the flame of Kymon and will never falter in my belief. Our forces outnumbered by horrors beyond comprehension, it was then that I first laid eyes upon him.{^n}{^n}Like a shining beacon in the chaos, Father Kymon charged into battle. He was as a flaming wind scorching a forest left to grow wild for too long, cutting down the twisted and reviled roots that seek to strangle this world of light. I knew that day that he will be the one to lead us from this horror. It is his righteousness that burns through the darkness of this world and banishes the evil. I will not fail him.{^n}{^n}Blade Maiden Sendra Ambri
 
-tagLoreObj_AreaCZealot_Note03Name=Kymon's Journal - Page 1
+tagLoreObj_AreaCZealot_Note03Name=Kymonův deník - 1. část
 tagLoreObj_AreaCZealot_Note03Text=The Messenger is harsh to deal with. With each exchange I feel drained as though my life were being drawn into a deep well. Everything appears darker and father away as if seen though a long tunnel. A lesser man without the years of Inquisitor mental training would be consumed.{^n}{^n}Even as I write this, I can sense its energy rippling through the room. I can feel it like worms twitching below my skin. It burrows and pulls, urging me to get closer. I dread to think of what would become of any of my Chosen should they get too close to this entity. What would remain, I cannot say, but I suspect the Messenger would shuck the mind and claim the body for its own.{^n}{^n}I fear there are none who would understand or survive this secret. I alone must shoulder this burden and so I will steel myself and endure. I have taken on a great risk, but the fate of the world hinges on the success of The Chosen and the pact that I have made.{^n}{^n}Father Kymon
 
-tagLoreObj_AreaCZealot_Note04Name=Kymon's Journal - Page 2
+tagLoreObj_AreaCZealot_Note04Name=Kymonův deník - 2. část
 tagLoreObj_AreaCZealot_Note04Text=There are questions that have been scratching at the back of my mind. I have tried to push them aside but with each conversation I have with the Messenger they become harder to ignore.{^n}{^n}I must ask: when the last demon is driven from this world, what will become of us then? In my heart, I fear I already know the answer, but dare not speak it out loud. I have no doubt that I have made the right choice. The power I have revived will be humanity's salvation from the blood fiends of the Chthonic Void.{^n}{^n}However, there must always be evil. And when there is no evil left to conquer who or, more frighteningly, what will fill that emptiness? Will we become as reviled as those who we oppose? The Primordial powers have no care or sympathy for humanity. Without shackles, this power I have borrowed could be just as disastrous as, or perhaps even worse than, Ch'thon.{^n}{^n}I now wish I had not burned the town where I awoke this ancient being. If it ever needs to be stopped I may have destroyed the last remaining knowledge to unmake it.{^n}{^n}Father Kymon
 
 
@@ -952,20 +952,20 @@ tagNPC_MerchantA03=Luther Graves
 tagStoreTitle_MerchantA03=Hokyník
 
 tagNPC_MerchantA04=Isaiah Reddan
-tagStoreTitle_MerchantA04A=Zvláštní zboží
+tagStoreTitle_MerchantA04A=Speciální zboží
 tagStoreTitle_MerchantA04B=Trhovec
 
 tagNPC_MerchantB01=Benevald
-tagStoreTitle_MerchantB01=Strange Wares
+tagStoreTitle_MerchantB01=Zvláštní zboží
 
 tagNPC_MerchantB02=Morris Burton
 tagStoreTitle_MerchantB02=Trhovec
 
-tagNPC_MerchantB03=Brother Jarron
-tagStoreTitle_MerchantB03=Kymon's Supplier
+tagNPC_MerchantB03=Bratr Jarron
+tagStoreTitle_MerchantB03=Kymonův dodavatel
 
 tagNPC_MerchantB04=Palleor
-tagStoreTitle_MerchantB04=Order Supplier
+tagStoreTitle_MerchantB04=Dodavatel Řádu
 
 tagNPC_MerchantC01=Marris Kas
 tagStoreTitle_MerchantC01=Kramář
