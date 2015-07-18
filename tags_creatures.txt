@@ -46,7 +46,7 @@ tagAetherCrystalA01=Aetherický krystal
 tagAetherCrystalA02=Shluk aetherických krystalů
 tagAetherCrystalA03=Formace aetherických krystalů
 tagAnomalyB01=Zvlněný živel
-tagWindDevil_PoisonA01=Ďábel s jedovatým dechem
+tagWindDevil_PoisonA01=Ďábel s otráveným dechem
 tagAetherObeliskA01=Aetherianský obelisk
 tagAetherObeliskB01=Aetherianský původní obyvatel
 
@@ -57,8 +57,8 @@ tagEnemyAetherialA01=Aetherianský hlídač
 tagEnemyAetherialB01=Aetherianský přízrak
 tagEnemyAetherialC01=Aetherianské zjevení
 
-tagAetherialHeroH01=Azar, the Wrathful
-tagAetherialHeroH02=Mondrak, the Everburning
+tagAetherialHeroH01=Azar Hrozivý
+tagAetherialHeroH02=Mondrak, zřídka planoucí
 tagAetherialHeroH03=Intesius
 
 tagEnemyAetherialAbominationB01=Aetherická ohavnost
@@ -99,7 +99,7 @@ tagBoneRatHeroH05=Jitřní drápek ~ zmrzlý
 tagBoneRatHeroH06=Hněvivý drápek ~ zkažený
 
 tagBoneRatMiniBoss01=Chamtivec Grundleplith
-tagBoneRatMiniBoss02=Pusquill the Hoarder
+tagBoneRatMiniBoss02=Hrabivec Pusquill
 
 #CreatureCelestial
 
@@ -122,40 +122,40 @@ tagChthonianMinionHeroH05=Pulv'Daroth
 tagChthonianMinionHeroH06=Maga'Lugal ~ obránce
 tagChthonianMinionHeroH07=Sharanatu ~ chráněnec
 
-tagEnemyChthonianDreadguardA01=Chthonian Vanguard
-tagEnemyChthonianDreadguardB01=Chthonian Dreadguard
-tagEnemyChthonianDreadguardC01=Chthonian Tyrant
+tagEnemyChthonianDreadguardA01=Chthonský předvoj
+tagEnemyChthonianDreadguardB01=Chthonský smrtonoš
+tagEnemyChthonianDreadguardC01=Chthonský tyran
 
 tagChthonianDreadguardHeroH01=Shar'Oruuth
-tagChthonianDreadguardHeroH02=Wen'Kazul, the Hungering Blade
-tagChthonianDreadguardHeroH03=Zalyth'Uthax ~Electrified
-tagChthonianDreadguardHeroH04=Jugak'Siin ~ Reflective
-tagChthonianDreadguardHeroH05=Sarmaz'Din ~ Frozen
+tagChthonianDreadguardHeroH02=Wen'Kazul Hladové ostří
+tagChthonianDreadguardHeroH03=Zalyth'Uthax ~ elektrizující
+tagChthonianDreadguardHeroH04=Jugak'Siin ~ odrážející
+tagChthonianDreadguardHeroH05=Sarmaz'Din ~ mrazivý
 
-tagEnemyChthonianLeechA01=Void Parasite
-tagEnemyChthonianLeechB01=Void Leech
-tagEnemyChthonianLeechB02=Void Souldrinker
+tagEnemyChthonianLeechA01=Parazit
+tagEnemyChthonianLeechB01=Pijavice
+tagEnemyChthonianLeechB02=Požírač duší
 
 tagChthonianLeechHeroH01=Vom'Anatu
 tagChthonianLeechHeroH02=Gawtok'Anatu
 tagChthonianLeechHeroH03=Ekket'Anatu
-tagChthonianLeechHeroH04=Orudin'Anatu ~ Diseased
-tagChthonianLeechHeroH05=Yakwa'Anatu ~ Unstoppable
+tagChthonianLeechHeroH04=Orudin'Anatu ~ nemocný
+tagChthonianLeechHeroH05=Yakwa'Anatu ~ nezastavitelný
 
 tagChthonianBoss01=Lagoth'Ak, posel krve
 tagChthonianBoss02=Shar'Zul, posel chaosu
-tagChthonianBoss03=Bane'Gargol, Guardian of the Gates
-tagChthonianBoss04=Balok'Anatu, Bloodfiend
+tagChthonianBoss03=Bane'Gargol, strážce bran
+tagChthonianBoss04=Balok'Anatu, krvavý démon
 
 #CreatureChthonianFiend
 
-tagEnemyVoidFiendA01=Ďas Prázdnoty
-tagEnemyVoidFiendA02=Voidfiend Incinterator
-tagEnemyVoidFiendC01=Voidfiend Hellion
+tagEnemyVoidFiendA01=Ďas
+tagEnemyVoidFiendA02=Spalovač
+tagEnemyVoidFiendC01=Spratek
 
 tagVoidFiendHeroH01=Innugaru, trýznitel z Prázdnoty
 tagVoidFiendHeroH02=Hiln'Raz Temná věštba
-tagVoidFiendHeroH03=Sen'Thel ~ nositel Prázdnoty
+tagVoidFiendHeroH03=Sen'Thel ~ rozsévač Prázdnoty
 tagVoidFiendHeroH04=Nii'Thel ~ rváč
 tagVoidFiendHeroH05=Gurgoth'Siin ~ hořící
 
@@ -187,7 +187,7 @@ tagDranghoulMiniBoss01=Střevní červ, požírač lidí
 tagDranghoulMiniBoss02=Nelítostný chlemtač krve
 
 tagDranghoulHeroH01=Ralture, nedotknutelný
-tagDranghoulHeroH02=Rugaru, mistr psů
+tagDranghoulHeroH02=Rugaru, mistr psovod
 tagDranghoulHeroH03=Ooglar ~ nezastavitelný
 tagDranghoulHeroH04=Reeve ~ hořící
 tagDranghoulHeroH05=Wovaar ~ zmrzlý
@@ -202,8 +202,8 @@ tagEnemyFleshHulkC01=Vzteklý hromotluk
 
 tagFleshHulkHeroH01=Lamač kostí
 tagFleshHulkHeroH02=Faldonir, z Aetheru zrozený
-tagFleshHulkHeroH03=Malnotris ~ nezastavitelný
-tagFleshHulkHeroH04=Festerlis ~ rváč
+tagFleshHulkHeroH03=Nezastavitelný Malnotris
+tagFleshHulkHeroH04=Rváč Festerlis
 
 #CreatureGazer
 
@@ -458,12 +458,12 @@ tagDermapteranBoss03=Ravna ~ královna roje
 tagDermapteranBoss04=Vezír Anoxis, nakažený
 
 #CreatureInsectMosquito
-tagEnemyInsectMosquitoA01=Mirebornský krvožrout
-tagEnemyInsectMosquitoB01=Mirebornský krvavý ďábel
-tagEnemyInsectMosquitoC01=Mirebornská matka rodu
-tagEnemyInsectMosquitoA02=Festerborn Bloodgorger
-tagEnemyInsectMosquitoB02=Festerborn Bloodfiend
-tagEnemyInsectMosquitoC02=Festerborn Matriarch
+tagEnemyInsectMosquitoA01=Močálový krvožrout
+tagEnemyInsectMosquitoB01=Močálový krvavý ďábel
+tagEnemyInsectMosquitoC01=Močálová matka rodu
+tagEnemyInsectMosquitoA02=Hnisavý krvožrout
+tagEnemyInsectMosquitoB02=Hnisavý krvavý ďábel
+tagEnemyInsectMosquitoC02=Hnisavá matka rodu
 
 tagInsectMosquitoHeroH01=Vladox, krví poznamenaný
 tagInsectMosquitoHeroH02=Sarlap ~ elektrizující
@@ -485,7 +485,7 @@ tagInsectWaspHeroH05=Folcrax ~ zmrzlý
 tagInsectWaspHeroH06=Walacrax ~ zkažený
 tagInsectWaspHeroH07=Ooldacrax ~ dotčený Prázdnotou
 
-tagInsectWaspBoss01=Ulraprax, včelí matriarcha
+tagInsectWaspBoss01=Ulraprax, včelí matka rodu
 tagInsectWaspBoss02=Ronaprax, velká královna
 
 #CreatureInsectSwarm
@@ -518,7 +518,7 @@ tagManticoreHeroH04=Uroxis Rychlý dráp ~ rychlý
 tagManticoreHeroH05=Waroxis Rudý dráp ~ rváč
 tagManticoreHeroH06=Žhářka Blazara
 
-tagManticoreBoss01=Mogara, Velká matriarcha
+tagManticoreBoss01=Mogara, Velká matka rodu
 
 #CreatureObsidianDefiler
 
@@ -574,7 +574,7 @@ tagEnemyRaptorB_MeleeA01=Větrný raptor ~ slídil
 tagEnemyRaptorB_RangedA01=Větrný raptor ~ atentátník
 tagEnemyRaptorB_ChampionA01=Větrný raptor ~ pán nebes
 
-tagRaptorHeroH01=Roztržená duše
+tagRaptorHeroH01=Roztržitá duše
 tagRaptorHeroH02=Aragonax, požírač duší
 tagRaptorHeroH03=Baldim, nositel chaosu
 tagRaptorHeroH04=Chřestikost ~ nezastavitelný
@@ -586,12 +586,12 @@ tagRaptorHeroH06=Balra ~ dotčená Prázdnotou
 tagEnemyRiftHoundA01=Trhající fena
 tagEnemyRiftHoundB01=Trhající fena ~ perlička
 tagEnemyRiftHoundC01=Trhající fena ~ blankytná matriarcha
-tagEnemyRiftHoundA02=Plaguehound
-tagEnemyRiftHoundB02=Plaguehound ~ Roteater
-tagEnemyRiftHoundC02=Plaguehound ~ Alpha
+tagEnemyRiftHoundA02=Morový pes
+tagEnemyRiftHoundB02=Morový pes ~ mrchožrout
+tagEnemyRiftHoundC02=Morový pes ~ alfa samec
 
-tagEnemyPlanesHoundA01=Plochý rafan
-tagEnemyPlanesHoundB01=Plochý rafan ~ vůdce smečky
+tagEnemyPlanesHoundA01=Zploštělý rafan
+tagEnemyPlanesHoundB01=Zploštělý rafan ~ vůdce smečky
 
 tagEnemyVoidHoundA01=Zmatečný pes
 tagEnemyVoidHoundB01=Zmatečný pes ~ vůdce smečky
@@ -755,37 +755,37 @@ tagEnemyTrapA05=Hroty v podlaze
 
 #CreatureTrolls
 
-tagEnemyTrollHalfA01=Mistbornský rváč
-tagEnemyTrollHalfA02=Mistbornský pastýř
-tagEnemyTrollHalfB01=Mistbornský lovec
-tagEnemyTrollHalfB02=Mistbornský válečník
-tagEnemyTrollHalfB03=Mistbornský šaman
-tagEnemyTrollHalfC01=Mistbornský Starší
+tagEnemyTrollHalfA01=Blátivý rváč
+tagEnemyTrollHalfA02=Blátivý pastýř
+tagEnemyTrollHalfB01=Blátivý lovec
+tagEnemyTrollHalfB02=Blátivý válečník
+tagEnemyTrollHalfB03=Blátivý šaman
+tagEnemyTrollHalfC01=Blátivý Starší
 
-tagEnemyTrollHalfSwampA01=Eastmire Brute
-tagEnemyTrollHalfSwampA02=Eastmire Herder
-tagEnemyTrollHalfSwampB01=Eastmire Hunter
-tagEnemyTrollHalfSwampB02=Eastmire Warrior
-tagEnemyTrollHalfSwampB03=Eastmire Shaman
-tagEnemyTrollHalfSwampC01=Eastmire Elder
+tagEnemyTrollHalfSwampA01=Hnisavý rváč
+tagEnemyTrollHalfSwampA02=Hnisavý pastýř
+tagEnemyTrollHalfSwampB01=Hnisavý lovec
+tagEnemyTrollHalfSwampB02=Hnisavý válečník
+tagEnemyTrollHalfSwampB03=Hnisavý šaman
+tagEnemyTrollHalfSwampC01=Hnisavý Starší
 
 tagTrollHalfHeroH01=Balarr, požírač kamení
 tagTrollHalfHeroH02=Podněcovač Paldrak
 tagTrollHalfHeroH03=Kamenný zub ~ obránce
 tagTrollHalfHeroH04=Elloras, požírač Slunce ~ hořící
 
-tagTrollHalfSwampHeroH01=Ragarr Stonecrusher
-tagTrollHalfSwampHeroH02=Toglokk the Ravener
-tagTrollHalfSwampHeroH03=Maglak ~ Shielded
-tagTrollHalfSwampHeroH04=Wallak ~ Supporter
+tagTrollHalfSwampHeroH01=Ragarr, rozbíječ kamenů
+tagTrollHalfSwampHeroH02=Krkavec Toglokk
+tagTrollHalfSwampHeroH03=Maglak ~ chráněný
+tagTrollHalfSwampHeroH04=Wallak ~ podporovač
 
 tagEnemyTrollA01=Zlobr z Kamenných bradavic
 tagEnemyTrollB01=Vztekloun z Kamenných bradavic
 tagEnemyTrollC01=Netvor z Kamenných bradavic
 
-tagEnemyTrollSwampA01=Plaguewart Troll
-tagEnemyTrollSwampB01=Plaguewart Rager
-tagEnemyTrollSwampC01=Plaguewart Behemoth
+tagEnemyTrollSwampA01=Zlobr z Morových bradavic
+tagEnemyTrollSwampB01=Vztekloun z Morových bradavic
+tagEnemyTrollSwampC01=Netvor z Morových bradavic
 
 tagTrollHeroH01=Nesmrtelný Uglak
 tagTrollHeroH02=Surrlak Zeměhybač
@@ -793,14 +793,14 @@ tagTrollHeroH03=Troglak ~ nezastavitelný
 tagTrollHeroH04=Oldak Nepříjemný pocit ~ nakažený
 tagTrollHeroH05=Wontlak ~ zmrzlý
 
-tagTrollSwampHeroH01=Balglak, the Swamp Warden
-tagTrollSwampHeroH02=Rovos ~ Reflective
-tagTrollSwampHeroH03=Malgalok ~ Voidtouched
-tagTrollSwampHeroH04=Avalgal ~ Corrupted
+tagTrollSwampHeroH01=Balglak, strážce bažin
+tagTrollSwampHeroH02=Rovos ~ odrážející
+tagTrollSwampHeroH03=Malgalok ~ dotčený Prázdnotou
+tagTrollSwampHeroH04=Avalgal ~ zkažený
 
 tagBossTrollB01=Běsnící Gulgoth
 tagBossTrollB02=Voldrak Ničitel
-tagBossTrollB03=Balegor, Král bažin
+tagBossTrollB03=Balegor, král bažin
 
 tagEnemyTrollCorruptedA01=Pokroucený zlobr
 tagEnemyTrollCorruptedB01=Pokroucený předvoj
@@ -873,12 +873,12 @@ tagEnemyYetiB01=Ledohřívný vztekloun
 tagEnemyYetiB02=Ledohřívný mrazoštěp
 tagEnemyYetiC01=Ledohřívný alfa samec
 
-tagYetiHeroH01=Bonechill
-tagYetiHeroH02=Icesnap
-tagYetiHeroH03=Chillblood ~ Regenerator
-tagYetiHeroH04=Mallus ~ Corrupted
+tagYetiHeroH01=Mrazík
+tagYetiHeroH02=Ledolam
+tagYetiHeroH03=Mrazokrev ~ obnovitel
+tagYetiHeroH04=Mallus ~ zkažený
 
-tagYetiBoss01=Ragrathar Rageblood
+tagYetiBoss01=Ragrathar Nasupený
 
 
 #CreatureZombie
@@ -959,7 +959,7 @@ tagItemRevenantA01=Duch Og'Napeshe
 tagItemPrawnA01=Zkázonosný kreverak
 tagRelicStormhound=Bouřný pes
 tagRelicNemesis=Mstitel
-tagRelicSwarm=Bláznivý roj
+tagRelicSwarm=Poblázněný roj
 
 tagDLCWisp=Bludička
 
@@ -1007,7 +1007,7 @@ tagNemesis_Undead03=Toxemus
 
 
 #Bounties
-tagBountyBL08=Gluttrius'Maw
+tagBountyBL08=Gluttrius Bachor
 tagBountyBL09=Třasořiťka Sicrix
 tagBountyBL10=Zuhelnatělá huba
 tagBountyBL17=Harrath, navrátivší
