@@ -1,25 +1,23 @@
-Homestead Bounties
-You return with the materials in hand, a Bounty fulfilled.
-Report in.
+Úkoly pro Homestead
+Vracíš se s rukama plnýma materiálů, úkol byl splněn.
+Ohlas se.
 
-Step away from the Bounty Table.
-You return with the materials in hand, a Bounty fulfilled.
-Report in.
+Odstup kousek od vývěsky.
+Vracíš se s rukama plnýma materiálů, úkol byl splněn.
+Ohlas se.
 
-Step away from the Bounty Table.
-You return triumphantly, a Bounty fulfilled.
-Report in.
+Odstup kousek od vývěsky.
+Úkol byl splněn a ty se vítězoslavně vracíš zpět.
+Ohlas se.
 
-Step away from the Bounty Table.
-You are already on a Bounty for Homestead.
-Step away from the Bounty Table.
-Homestead is being assaulted on all fronts.{^n}{^n}Without further assistance, all that they struggled to build could fall apart.
-Take a look at the bounty.
-No more Bounties have been posted by Homestead.
-Step away from the Bounty Table.
-Take a look at the bounty.
-
-
+Odstup kousek od vývěsky.
+Úkol pro Homestead už byl přijat.
+Odstup kousek od vývěsky.
+Homestead je napaden ze všech stran.{^n}{^n}Bez cizí pomoci, všechno co tady bylo postaveno a za co jsme bojovali, by se mohlo rozpadnout.
+Prohlédni si úkoly.
+Teď žádné úkoly nemáme.
+Odstup kousek od vývěsky.
+Prohlédni si úkoly.
 
 
 
@@ -38,109 +36,111 @@ Take a look at the bounty.
 
 
 
-Step away from the Bounty Table.
-The Aetherials twist all that is good in this world to their twisted designs. We have witnessed first-hand as they turned our scarecrows into possessed monstrosities that hunt our people.{^n}{^n}Haunted Harvesters are capable of attracting ravens that are bound to their will, somewhat ironic. We wish these abominations be destroyed and have set aside iron bits to see the task through.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
 
-Dermapteran weavils are the immature larval stage of the larger specimens.{^n}{^n}Eliminating them should help thin the adult Dermapteran population. They are not all that dangerous individually but take great care. When swarming, they can prove to be just as deadly as the adults.{^n}{^n}Iron bits have been set aside as compensation for this extermination.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
 
-Trolls have always been a problem from down south, but we have never encountered anything like the Fleshwarped Vanguards that are now storming Homestead.{^n}{^n}They are a serious threat to the safety of this sanctuary and must be eliminated.{^n}{^n}Iron bits to any man or woman that helps protect Homestead.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Odstup kousek od vývěsky.
+Aetheriané předělávají všechno, co je v tomto světě k něčemu dobré, do jejich zvrácených podob. Byli jsme očitými svědky toho, jak zneužili naše polní strašáky do posedlých zrůdností, které loví naše lidi.{^n}{^n}Strašidelní sekáči jsou schopni přilákat havrany, kteří jsou s nimi myšlenkově propojeni, což je dost ironické. Rádi bychom tyto výplody fantazie viděli zlikvidované, samozřejmě za několik železných mincí.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-Manticores are vicious hunters, but their Alphas are the ones you have to watch out for. They are the ones that travel beyond the usual manticore hunting grounds, leading entire packs into new areas.{^n}{^n}We cannot allow the Manticores to spread to the areas surrounding Homestead. Eliminate the Alphas around the Jagged Waste and you will be rewarded with iron bits.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Škvoři nosatci jsou nezralým larválním stádiem větších exemplářů.{^n}{^n}Jejich likvidace by měla pomoci snížit stav dospělé škvoří populace. Sice nejsou všichni nebezpeční, ale i přesto se mohou vyskytnout jedinci, před kterými se vyplatí být opatrní. Ve větším roji mohou být stejně smrtící jako jejich dospělé formy.{^n}{^n}Na tuto prácičku máme vyčlené určité množství železných mincí.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-Briarthorns have essentially taken over the lands to the southeast. If we are to ever reclaim the roads leading down to Devil's Crossing, then we must start thinning their numbers.{^n}{^n}The Briarthorn Monstrosities are the breeders in their packs and should be singled out.{^n}{^n}A pouch of iron bits has been set aside for anyone that sees this task through.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Zlobři byli vždycky problém jižních oblastí, ale nikdy jsme se nesetkali s ničím podobným Pokroucenému předvoji, který teď útočí na Homestead.{^n}{^n}Jsou vážnou hrozbou pro místní svatyni a proto musí být zlikvidování.{^n}{^n}Nabízíme železné mince každému muži nebo ženě, která pomůže ochránit Homestead.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-The Aetherials are a plague upon our world, a plague that now ravages our homes and fields. Wherever the Aetherials go, we see their Dominators spreading corruption with every step.{^n}{^n}If our fields are ever to be reclaimed, we must stop the source of this taint upon our land.{^n}{^n}We do not have much that is not going to the Legion, but we have some scavenged materials we can share with anyone willing to help.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Mantikory jsou sice zlomyslní lovci, ale jejich alfa samci, před těma je třeba mít se na pozoru. Jsou to ty, které se vyskytují mimo běžné loviště mantikor, protože hledají pro své stádo nová loviště.{^n}{^n}Nemůžeme dovolit, aby se mantikory rozšířily v okolí Homesteadu. Pokud někdo zlikviduje mantikoří alfa samce v okolí Rozeklané pustiny, dostane určitou sumu železných mincí.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-Stonewart Trolls are a stubborn race of murderous half-beasts. Twice in recent history we've tried to eliminate them and twice they have returned. Now, with the world in shambles, the trolls have been spreading.{^n}{^n}They've already overrun Smuggler's Pass. We have to make sure that they never try heading north. Teach them fear of humanity, eliminate the Stonewart Trolls. We will gladly pay iron bits to see this done.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Trnošípci v podstatě převzali zemi na jihovýchodě. Jestli máme někdy obnovit cesty do Ďáblova průsmyku, měli bychom nejdříve ztenčit jejich počty.{^n}{^n}Trnošípkové zrůdnosti se vyskytují ve stádech, které by bylo dobré rozdělit.{^n}{^n}Pytlík železných mincí nabízíme každému, kdo se s tímto úkolem vypořádá.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-Back when I was a younger man, I used to do a smuggling run that ran between Homestead and Burrwitch. We ran our operations out of a place we called Smuggler's Basin, out near Burrwitch.{^n}{^n}Last I've heard, the place was massacred by a dranghoul known as Gutworm. The beast feasted on the flesh of my comrades and scattered their bones.{^n}{^n}I want revenge. I want the Maneater dead. I've stowed away some valuable materials in my smuggling days. I will gladly share them with anyone that butchers that beast.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Aetheriané jsou mor našeho světa, epidemie, která pustoší naše pole a domovy. Kamkoliv Aetheriané jdou, tam vidíme jejich Vládce mysli šířící zkaženost každým coulem.{^n}{^n}Pokud máme naše pole znovu zkultivovat, bude třeba zastavit zdroj těchto problémů v našich zemích.{^n}{^n}Nemáme toho tolik co Legie, ale snad by nějaký materiál mohl být odměnou za tento nesnadný úkol.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-Terror tales have been told of trolls breaking into homes in the night and stealing young virgins, but no tales were as horrid as that of Bogloth the Marrowdrinker.{^n}{^n}Bogloth would not bother with just virgins, he would leave entire households in shambles, the inhabitants slain and their bones ripped from their bodies.{^n}{^n}There have been recent sightings of Bogloth near Smuggler's Pass, likely his hideout. Put that monster down and we will see that you are rewarded with some of our scavenged supplies.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Zlobři z Kamenných bradavic jsou tvrdohlavé plemeno vražedných polopříšer. Za poslední dobu jsme se dvakrát pokusili je odstranit, ale dvakrát jsme se vrátili s nepořízenou. Teď, když je svět v troskách, se zlobři začalil rozmáhat.{^n}{^n}Už překročili Pašerákův průsmyk. Musíme zajistit, aby se nikdy nepřiblížili na sever. Nauč je mít strach z lidí, zabij aspoň několik zlobrů z Kamenných bradavic. Pokud se tak stane, rádi ti věnujeme nějaké železné mince.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-The Dermapterans have overrun our fields. They feast on months of back-breaking labor. But there is one among them more ravenous than any Dermapteran we had ever seen.{^n}{^n}We call it the Locust, and it is a massive weavil. Normally, Dermapterans molt well before reaching such a size. We dread to think what he will turn into.{^n}{^n}Better to kill it before it transforms. A reward of scavenged materials to anyone that braves the Dermapteran Hives.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Když jsem býval mladík, pašoval jsem zboží běžeckou trasou mezi Homesteadem a Burrwitchem. Vybíhali jsme na naše operace z místa nazývaného Pašerácká kotlina, nacházejícího se poblíž Burrwitche.{^n}{^n}Poslední slova o tom místě zněla, že bylo totálně zničeno dranghoulem známým jako Střevní červ. Ta bestie hoduje na mase mých kolegů a rozežírá jejich kosti.{^n}{^n}Chci se pomstít. Chci Požírače lidí mrtvého. Schoval jsem si několik cenných materiálů z dob mého mládí. Rád se o ně podělím s kýmkoliv, kdo sejme ukončí tuhle řezničinu.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-Dermapteran Viziers are the prime of the queen's spawn. Whenever one is selected to ascend as one of her Grand Viziers, it is called back into the hive to feast until it grows to monstrous size.{^n}{^n}One such Dermapteran, Vizier Haxin, appears to be next. If it is killed before it reaches the final stage of its metamorphosis, then the Dermapterans will lose a valuable guardian. Search the fields for this monstrosity, before it becomes a problem too big to handle.{^n}{^n}Scavenged materials have been set aside as a reward for accomplishing this brave deed.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Byly vypravováno nespočet hrozivých příběhů o tom, jak se zlobři vlámají za nocí do domů a kradou odtud mladé panny, ale žádné vyprávění nedosahuje takové úrovně jako ten o Boglothovi, vyjídači morku.{^n}{^n}Bogloth se neobtěžuje jenom s pannami. Zanechává celé domácnosti v troskách, jejich obyvatele zabíjí a jejich kosti jim rve z těl.{^n}{^n}Nedávno byl Bogloth spozorován nedaleko Pašerákova průsmyku, kde má pravděpodobně svou skrýš. Sejmi tohle monstrum a rádi tě pak uvidíme odcházet s odměnou z některých našich skrytých dodávek.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-We have heard complaints about feverish nightmares of blood and darkness. The last I've heard of such a phenomenon was when a Trog blood mage was performing some ritual deep within the earth.{^n}{^n}Our people have suffered enough. Somebody needs to go into the Mountain Deeps and eliminate the Trog that's causing this. Scavenged materials have been set aside as compensation.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Škvoři jsou na všech našich polích. Hodují na úrodě, které jsme věnovali měsíce tvrdé práce. Ale jeden z nich je hladovější než kterýkoliv jiný škvor.{^n}{^n}Nazýváme jej Saranče, je to ohromný nosatec. Za normálních okolností škvor shodí svou kůži, než doroste do větší velikosti. Děsíme se toho, co by z něj mohlo vyrůst.{^n}{^n}Bude lepší jej zabít dřív, než se promění. Odměna v podobě několika materiálů je určena každému, kdo se odváží do Škvořích brlohů.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-Phabius Crowsworth is one of the locals, but sadly he was staying with family in Burrwitch when the Grim Dawn took place.{^n}{^n}Based on the tales I've heard about what happened in the village, I fear the worst. Please, if Phabius has been turned into one of those undead monsters, I wish that he be put to rest.{^n}{^n}I will gladly share my scavenged supplies in exchange for peace of mind.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Škvoří vezírové jsou hlavními zplozenci královny. Když je jeden z nich zvolen na pozici Velkého vezíra, je povolán zpátky do brlohu, kde je hostem, dokud nedosáhne enormních rozměrů.{^n}{^n}Jeden takový škvor, vezír Haxin, by měl být další na řadě. Pokud bude zabit dřív, než započne jeho závěrečná fáze proměny, škvoři ztratí velmi cenného ochránce. Najdi pole, kde se nachází tahle ohavnost, než se stane problémem přerůstajícím přes hlavu.{^n}{^n}Za odměnu za svůj statečný čin dostaneš nějaký ten materiál z našich sbírek.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-This may sound selfish, but I don't much care. Manticores tore my sister apart when I was a child.{^n}{^n}I swore when I was old enough to carry a gun that I'd go out there and gun down as many as I can, but now you can't step five feet outside Homestead without running into something far worse than a manticore.{^n}{^n}Please, to anyone that is braver than I, go out there and slay the manticores. Bring me one of their eyes as proof and I will gladly share some of my scavenged materials.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Zaslechli jsme mnoho nářků v horečkách, způsobujících noční můry o krvi a temnotě. O posledních takových jsem slyšel, když Troglodytí krvavý mág prováděl rituály v hlubinách země.{^n}{^n}Naši lidé už trpěli dost. Někdo musí vejít do Horských hlubin a zlikvidovat toho Troglodyta, který způsobuje problémy. Jako kompenzace budou vyplaceny nějaké materiály.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-Homestead is under constant attack. Repairs must be made to the walls if they are to hold, but we are running low on supplies.{^n}{^n}We require Scrap and we need it immediately. A share of our scavenged materials to anyone that gathers some.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Phabius Crowsworth je jeden z místních, ale bohužel bydlel se svou rodinou v Burrwitchi v den, kdy nastal Ponurý úsvit.{^n}{^n}Na základě toho, co jsem zaslechl o tom ,co se ve vesnici stalo, se obávám nejhoršího. Prosím tě, pokud se Phabius proměnil do jednoho z těch nemrtvých, doveď jej k věčnému odpočinku.{^n}{^n}Budu nesmírně rád a a za klid na duši se s tebou podělím o nějaké zásoby co tu mám.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-Ungoliax the Gloomweaver is a devious spider queen from which all the local arachnids spawn. She hides somewhere out in the Shaded Basin caverns.{^n}{^n}Homestead has enough problems already. Spiders don't need to be added to the list. A substantial sum of iron bits has been set aside for anyone that slays her.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Může to znít sobecky, ale to je mi fuk. Když jsem byl ještě malé dítě, mantikory roztrhaly mojí sestru.{^n}{^n}Přísahal jsem, že až budu dostatečně starý a budu moci mít zbraň, vrátím se tam a vystřílím jich tolik, kolik jen budu moci. Jenže teď nemůžete vyjít ani pět kroků za Homestead, aniž byste vběhli do něčeho mnohem horšího, než jsou mantikory.{^n}{^n}Prosím každého, kdo je statečnější než já, aby tam venku pozabíjel několik mantikor. Když mi doneseš jejich oko jako důkaz, odvděčím se ti nějakým posbíraným materiálem.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-My grandpa used to tell us stories about caves deep below the earth that are filled with glowing plants and moss that illuminate everything as if it were day.{^n}{^n}But he also warned us of terrifying creatures that dwell within the forgotten depths. One of them, he said, could go invisible on a whim and strike at its prey from the shadows.{^n}{^n}I'm not allowed outside the walls, but I'd love to know if the stories were true. The deepest place I can think of would be the Dermapteran hive in the Rotting Croplands, but there is nothing deeper than that in the farmlands, is there?{^n}{^n}Please, if you find out the truth, I will gladly share some of my rare stuff with you.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Homestead je pod neustálým útokem. Je potřeba opravit zdi, pokud mají ještě něco vydržet, ale docházím nám materiál.{^n}{^n}Potřebujeme železný šrot a potřebujeme ho okamžitě. Kdokoliv se s náma podělí, odměníme jej nějakým jiným materiálem, kterého máme dostatek.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-The Dermapteran Grand Viziers are their queen's most loyal protectors. They will protect the hive with their lives, if needed.{^n}{^n}Let us stir the hive a bit, shall we? Destroying the queen's guardians will surely throw the hive into turmoil.{^n}{^n}To sweeten the deal, we've set aside some iron bits.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Ungoliax, přadlena melancholie je nevyzpytatelná pavoučí královna, ze které se rodí všichni ostatní pavouci. Skrývá se někde u Stinné vodní nádrže.{^n}{^n}Homestead má už teď dost problémů. Pavouci tak nemusí být dalším z nich. Značná suma železných mincí je vyhrazena každému, kdo se o ni postará.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-The Dermapteran Queen Ravna has been allowed to thrive for far too long. Her brood has spread rampantly throughout our lands, unimpeded by even the Aetherials.{^n}{^n}Sooner or later, the Dermapterans will devour everything that's left in the fields, and then they will turn their attention upon Homestead. By that point, their numbers will wash over us like a flood of locusts.{^n}{^n}We must not allow that to happen. Queen Ravna must die. As compensation for this daring task, we have set aside some scavenged materials.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Můj dědeček nám rád vyprávěl historky o jeskyních hluboko pod zemí, kde rostou zářivé rostliny a mech, který osvětluje tak, jako by byl slunečný den.{^n}{^n}Ale také nás varoval před děsivými netvory, kteří bydlí v dávno zapomenutých hlubinách. Jeden z nich, jak říkal, si může hrát na neviditelného a útočit tak na svou kořist ze stínů.{^n}{^n}Nesmím chodit za hradby, ale miluju tyhle příběhy a rád bych se dozvěděl, co je na nich pravdy. Nejhlubší místo, kde si myslím, že by se škvoří brloh mohl nacházet, je na Hnijících polích, ale nemůže být ještě něco hlubšího než to ta díra, co se nachází v polích?{^n}{^n}Prosím tě, pokud zjistíš pravdu, rád tě odměním nějakými vzácnými předměty, které tady mám.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-Bloodfeast is a ruthless dranghoul that's been seen rallying the local grobles at a place known as Tyrant's Hold.{^n}{^n}Normally, grobles are not much of a threat. They squabble amongst themselves nearly as often as they attack human outposts. But with one such as Bloodfeast leading them, they could pose a serious threat to Homestead.{^n}{^n}Bloodfeast must be slain before that happens. A substantial sum of iron bits to anyone that brings his reign to an end.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Škvoří velcí vezírové jsou nejvěrnější ochránci své královny. Chrání brloh i za cenu svých životů, pokud je potřeba.{^n}{^n}Co si takhle trochu pohrát v nějakém brlohu? Zničením královniných strážců by určitě způsobilo v brlohu chaos.{^n}{^n}Abychom tuto nabídku ještě trochu osladili, nabízíme pár železných mincí navíc.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-Homestead is being assaulted on all fronts.{^n}{^n}Without further assistance, all that they struggled to build could fall apart.
+Škvoří královna Ravna se tady roztahuje už příliš dlouho. Její potomstvo se nezkrotně šíří po celém našem území a nezadrží je dokonce ani Aetheriané.{^n}{^n}Dřív nebo později škvoři sežerou všechno, co na polích ještě zbývá, a pak obrátí svou pozornost na Homestead. Do té doby jich bude tolik, že se na nás povalí jak stádo kobylek.{^n}{^n}Nesmíme dovolit, aby se tohle stalo. Královna Ravna musí zdechnout. Jako náhradu za tento smělý úkol ti můžeme nabídnout nějaký ten ulitý materiál.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-Step away from the Bounty Table.
-The people of Homestead do not yet consider you a close ally.{^n}{^n}A Respected reputation is required to access the Bounty Table.
-Step away from the Bounty Table.
+Chlemtač krve je nelítostný dranghoul, který byl spatřen, jak shromažďuje místní grobly na místě zvaném Tyranova država.{^n}{^n}Groblové nebývají nějak vážnou hrozbou. Hádají se mezi sebou tak často, jako napadají lidské osady. Ale s takovými jako je Chlemtač krve, kteří jim velí, by se mohli velmi záhy stát další hrozbou pro Homestead.{^n}{^n}Chlemtač krve musí být zabit dřív než k tomu dojde. Komukoliv, kdo ukončí jeho nadvládu, bude vyplacena tučná odměna v podobě železných mincí.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
+
+Homestead je napaden ze všech stran.{^n}{^n}Bez cizí pomoci, všechno co tady bylo postaveno a za co jsme bojovali, by se mohlo rozpadnout.
+
+Odstup kousek od vývěsky.
+Lidé z Homesteadu ti nedůvěřují natolik, aby si tě připustili k tělu.{^n}{^n}Pro návštěvu vývěsky potřebuješ více přízně ke zdejším lidem.
+Odstup kousek od vývěsky.
