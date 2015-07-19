@@ -1,10 +1,10 @@
-Bounties
-Bounty: Scrap
-Bounty
-Homestead is under constant attack. Repairs must be made to the walls if they are to hold, but we are running low on supplies.{^n}{^n}We require Scrap and we need it immediately. A share of our scavenged materials to anyone that gathers some.
+Úkoly za odměny
+Hledá se: Železný šrot
+Popis
+Homestead je pod neustálým útokem. Je potřeba opravit zdi, pokud mají ještě něco vydržet, ale docházím nám materiál.{^n}{^n}Potřebujeme železný šrot a potřebujeme ho okamžitě. Kdokoliv se s náma podělí, odměníme jej nějakým jiným materiálem, kterého máme dostatek.
 
-Collect Scrap
-Deliver the Scrap to the Homestead Bounty Table
+Sežeň Železný šrot
+Dones Železný šrot k vývěsce v Homesteadu
 
 
 
