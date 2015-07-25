@@ -25,7 +25,7 @@ tagNecromancerH01=Urokoraa, mluvčí mrtvých
 tagNecromancerH02=Nokultaak, žnec
 tagNecromancerH03=Naakala ~ oživovač
 tagNecromancerH04=Misonaak ~ chráněný
-tagNecromancer_Boss01=Master Ravok, smrtící našeptávač
+tagNecromancer_Boss01=Mistr Ravok, smrtící našeptávač
 tagNecromancer_Boss02=Malkadarr, šampión Řádu Strážců smrti
 
 tagZealot_MeleeA01=Zélóta Kymonových vyvolených

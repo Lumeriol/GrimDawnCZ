@@ -1867,7 +1867,7 @@ tagCraftMaterial_Mancitore_Desc="Bystré oko nepřekonatelného dravce."
 tagCraftMaterial_SkeletonKey=Univerzální klíč
 tagCraftMaterial_SkeletonKey_Desc="Pokud se dá věřit příběhům, tento klíč otevře téměř každé starobylé dveře."
 tagCraftMaterial_CultistSeal=Chthonická pečeť závazku
-tagCraftMaterial_CultistSeal_Desc="Pečetě využívané Kultem Ch'thona ke svázání mocných tvorů s jejich fyzickou podstatou."
+tagCraftMaterial_CultistSeal_Desc="Pečeti využívané Kultem Ch'thona ke svázání mocných tvorů s jejich fyzickou podstatou."
 
 tagCraftRandomItemDesc=Kovář vytvoří očarovaný předmět odpovídající tvé úrovni a alespoň magické kvality.
 tagCraftComponentDesc=Zkušenosti v kovářské technice mohou přinést materiály nejvyšší kvality.
