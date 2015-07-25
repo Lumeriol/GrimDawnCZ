@@ -1,10 +1,10 @@
-Bounties
-Bounty: Chthonic Seal
-Bounty
-The Cult of Ch'thon uses strange Seals in order to perform their summoning rituals.{^n}{^n}We must deny them this resource. Seals recovered from slain cultists should be brought here for incineration.{^n}{^n}As reward for faithful service, Father Kymon has set aside a pouch of iron bits.
+Úkoly za odměny
+Hledá se: Chthonická pečeť
+Popis
+Kult Ch'thona používá zvláštní pečeti za účelem vykonávání jejich vyvolávacích rituálů.{^n}{^n}Musíme je odříznout od tohoto zdroje. Pečeti získané ze zabitých kultistů je třeba zanést sem a spálit je.{^n}{^n}Jako odměna za vstřícnou službu ti Otec Kymon věnuje tučný váček železných mincí.
 
-Collect Chthonic Seal
-Deliver the Chthonic Seal to the Kymon's Chosen Bounty Table
+Sežeň Chthonickou pečeť
+Dones Chthonickou pečeť k vývěsce Kymonových Vyvolených
 
 
 
