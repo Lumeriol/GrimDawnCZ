@@ -36,7 +36,7 @@ tagZealotH01=Sestra Oseltia, bouřná panna
 tagZealotH02=Bratr Baldris, Empyrionův dobíječ
 tagZealotH03=Sestra Thandria ~ obránkyně
 tagZealotH04=Bratr Handrick ~ spalující
-tagZealot_Boss01=Sestra Bravna, narušitel nebes
+tagZealot_Boss01=Sestra Bravna, narušitelka nebes
 tagZealot_Boss02=Sharanatu, posel Prázdnoty
 tagZealot_AncestralSpirit=Archón Barthollem
 
