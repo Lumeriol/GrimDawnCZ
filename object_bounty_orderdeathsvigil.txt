@@ -1,27 +1,25 @@
-Order of Death's Vigil Bounties
-The Order does not wish to entrust its tasks to someone who has allies among the Chosen.
-Step away from the Bounty Table.
-You return with the materials in hand, a Bounty fulfilled.
-Report in.
+Úkoly pro Řád Strážců smrti
+Řád nehodlá svěřit své úkoly někomu, kdo má spojence mezi Vyvolenými
+Odstup kousek od vývěsky.
+Vracíš se s rukama plnýma materiálů, úkol byl splněn.
+Ohlas se.
 
-Step away from the Bounty Table.
-You return with the materials in hand, a Bounty fulfilled.
-Report in.
+Odstup kousek od vývěsky.
+Vracíš se s rukama plnýma materiálů, úkol byl splněn.
+Ohlas se.
 
-Step away from the Bounty Table.
-You return triumphantly, a Bounty fulfilled.
-Report in.
+Odstup kousek od vývěsky.
+Úkol byl splněn a ty se vítězoslavně vracíš zpět.
+Ohlas se.
 
-Step away from the Bounty Table.
-You are already on a Bounty for the Order of Death's Vigil.
-Step away from the Bounty Table.
-The Keeper of Tomes calls upon the Order to handle many important tasks imperative to Cairn's Balance.{^n}{^n}Will you join your brothers and sisters in this sacred task?
-Take a look at the bounty.
-You have completed all of the Order's currently available Bounties.
-Step away from the Bounty Table.
-Take a look at the bounty.
-
-
+Odstup kousek od vývěsky.
+Úkol pro Řád Strážců smrti už byl přijat.
+Odstup kousek od vývěsky.
+Knihovník vyzývá Řád ke splnění mnoha důležitých úkolů k udrží rovnováhy v Cairnu.{^n}{^n}Přidáš se ke svým bratrům a sestrám a budeš plnit tyto posvátné úlohy?
+Prohlédni si úkoly.
+Momentálně žádné úkoly pro Řád Strážců smrti nejsou dostupné.
+Odstup kousek od vývěsky.
+Prohlédni si úkoly.
 
 
 
@@ -40,109 +38,111 @@ Take a look at the bounty.
 
 
 
-Step away from the Bounty Table.
-The Aetherials have an uncanny ability to manipulate the dead that is worthy of investigation, but first we must contend with their creations.{^n}{^n}Fleshwarped Vanguards, once living trolls, are being created somewhere out near the Gruesome Harvest. They are resilient and incredibly strong. We cannot allow the Aetherials to maintain such a resource.{^n}{^n}Eliminate Fleshwarped Vanguards and cripple the Aetherial forces.{^n}{^n}Your efforts will be rewarded with iron bits.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
 
-Aetherial Dominators are masters of resurrecting the dead, their powers strangely mimicking our own.{^n}{^n}We must deny the enemy their reinforcements. Every Dominator destroyed means less undead fighting against us.{^n}{^n}To assist you, the Order will bestow an enchantment. Your efforts will be rewarded with iron bits.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
 
-Kymon's Chosen cannot be reasoned with. They send their flame-wielding Blade Maidens after our people to butcher them like animals.{^n}{^n}We will not stand for this. Slaughter any Blade Maidens you come across. Perhaps that will send a message to the Chosen and their false prophet. And besides, they will serve as excellent minions.{^n}{^n}Iron bits for every slain Blade Maiden.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Odstup kousek od vývěsky.
+Aetheriané mají zvláštní schopnost manipulovat s mrtvými, což by stálo za to prošetřit. Ale nejdřív se musíme vypořádat s jejich výmysly.{^n}{^n}Pokroucené předvoje, kdysi živí zlobři, jsou utvářeny někde poblíž Hrůzných pastvin. Jsou to odolné a neuvěřitelně silné nestvůry. Nemůžeme si dovolit, aby Aetheriané měli tak silné jednotky.{^n}{^n}Zlikviduj Pokroucené předvoje a oslab tak síly Aetherianů.{^n}{^n}Tvé úsilí bude odměněno železnými mincemi.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-Legends say that ghouls were once humans. Humans twisted by madness and obsessed with devouring dead flesh.{^n}{^n}Now they are little more than mindless fiends, too far gone to be reasoned with. The Necropolis is teeming with these Corpse-eaters. There is little choice in the matter. They must be exterminated.{^n}{^n}Any such effort shall be rewarded with iron bits.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Aetherianští vládci mysli jsou mistři v oživování mrtvých, jejich moc až prazvláštně připomíná a napodobuje naši vlastní.{^n}{^n}Musíme nepříteli zamezit získávat nové posily. Každý zlikvidovaný Vládce mysli znamená méně nemrtvých bojujících proti nám.{^n}{^n}Pomůžeme ti, Řád ti věnuje jedno očarování. Tvá snaha pak bude odměněna železnými mincemi.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-The Chosen of Kymon have deployed one of their most powerful agents to face us in battle. Her name is Sister Bravna, the Skybreaker.{^n}{^n}Show the Chosen that even their most powerful champions cannot stand against the masters of death. To set an example, we shall raise her corpse to serve as a pathetic skeletal minion.{^n}{^n}Our material stores are at the disposal of the champion that ends her.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Kymonovi Vyvolení si prostě nedají říct. Neustále posílají své Ostré panny vládnoucí ohněm, aby spalovaly naše lidi, kteří pak vypadají jak zvířata na jatkách.{^n}{^n}Tohle jim přece nebudeme trpět. Sejmi na potkání každou Ostrou pannu. Ubliž jí, zmasakruj, vydloubni jí oko. Třeba se to dostane až k Vyvoleným a jejich falešnému bohu. Mimochodem, můžeme je pak využít jako vynikající poskoky.{^n}{^n}Za každou zabitou Ostrou pannu dostaneš železné mince.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-Underneath Burrwitch, in the Warden's Lab, were conducted some of the Aetherials' early experiments into resurrecting our dead.{^n}{^n}The research was spearheaded by several Aetherials, including a Taken known as Halvastra Wrathfire. Though it is too late to prevent what was discovered in those labs, we can still lay vengeance upon one of the masterminds behind the operation.{^n}{^n}A reward of iron bits awaits the one who slays the Aetherial witch.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Legendy vypráví, že ghúlové byli kdysi lidmi. Lidmi, kteří zešíleli a jsou posedlí požíráním odumřelého masa.{^n}{^n}Teď jsou víc než jen tupí netvoři, zašlo to příliš daleko abychom si tohle o nich mysleli. Pohřebiště se jen hemží těmito požírači mrtvol. V téhle otázce nemáme moc odpovědí. Stačí jediná - prostě je pozabíjej.{^n}{^n}Každé podobné úsilí bude odměněno železnými mincemi.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-The Chosen of Kymon are fanatics and fools, but even fools can be dangerous when armed with blades and fire.{^n}{^n}One of their finest warriors, Horvald Shieldbreaker, has been spotted at Fort Haron. Make an example of him.{^n}{^n}Our material stores are at the disposal of the champion that ends his life.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Kymonovi Vyvolení nasadili jednu z jejich nejsilnějších agentek, aby se nám postavila v bitvě. Jmenuje se Sestra Bravna, Narušitelka nebes.{^n}{^n}Ukaž Vyvoleným, že ani jejich nejsilnější šampiónka se nemůže rovnat mistrům smrti. Aby to bylo o něco záživnější, oživíme její mrtvolu, která nám pak bude sloužit jako obyčejný, ubohý kosterní poskok.{^n}{^n}S jejím koncem ti budou k dispozici nějaké ty materiály.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-The Chosen of Kymon are fanatics and fools, but even fools can be dangerous when armed with blades and fire.{^n}{^n}One of their finest warriors, Olga Flamebearer, has been spotted at Fort Haron. Make an example of her.{^n}{^n}Our material stores are at the disposal of the champion that ends her life.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Pod Burrwitchem, ve Wardenově laboratoři, byly prováděny některé z prvních Aetherianských experimentů s oživováním našich mrtvých.{^n}{^n}Výzkum byl veden několika Aetheriany, včetně Posedlé známé jako Halvastra, trest ohněm. Sice už je pozdě zabránit tomu, co se v laboratořích dělo, ale proč bychom se za to nemohli mstít, že. Zejména pokud se jedná o jednoho z mozků celé operace.{^n}{^n}Odměna v podobě železných mincí tomu, kdo zabije tu Aetherianskou čarodějnici.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-A fleshwarped troll of truly massive proportions has been spotted out in the Gruesome Harvest. This behemoth could lay waste to the Black Legion forces stationed within Homestead and crush any chance we may have of stopping the Aetherials in this region.{^n}{^n}The Order sees this as an opportunity to prove ourselves to our new-found allies. Head into the Harvest and slay this Narroth. The Order will bestow an enchantment upon your weapons to aid with this dangerous task.{^n}{^n}Your efforts will be compensated with materials from our stores.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Kymonovi Vyvolení jsou fanatici a šílenci, jenže i šílenci mohou být nebezpeční, když se vyzbrojí mečem a ohněm.{^n}{^n}Jeden z jejich nejlepších bojovníků, Horvald, proražeč štítů, byl spatřen v pevnosti Haron. Co s ním udělat krátký proces?{^n}{^n}Naše materiály ti budou k dispozici jakmile jeho život definitivně vyhasne.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-A Reanimator walks the halls of the Warden's Laboratory with an uncanny connection to the Aether.{^n}{^n}While most Reanimators can merely conjure burst of Aetherfire, this one can tear gaps in reality itself, calling down manifestations of the Aether unlike that of the most powerful arcanists.{^n}{^n}The Order wishes to study this anomaly. Travel to Burrwitch and slay this Barrostrandt, the Ascended so that we may investigate its remains.{^n}{^n}Your efforts will be compensated with materials from our stores.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Kymonovi Vyvolení jsou fanatici a šílenci, jenže i šílenci mohou být nebezpeční, když se vyzbrojí mečem a ohněm.{^n}{^n}Jedna z jejich nejlepších bojovnic, Olga, zrozená v plamenech, byla spatřena v pevnosti Haron. Co s ní udělat krátký proces?{^n}{^n}Naše materiály ti budou k dispozici jakmile její život definitivně vyhasne.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-Ghouls, despicable beings and abominations. The weak ones hide in the shadows, skulking about tombs searching for their next meal.{^n}{^n}But it is the greater ghouls that should strike terror into the hearts of man. They do not fear the sun, do not fear flame. They are the nightmares with which we must contend.{^n}{^n}One such ghoul, we call it Gravvis, has been wandering the Necropolis. For the sake of Cairn herself, it must be slain.{^n}{^n}Gravvis' elimination will be amply rewarded with materials from our stores.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Pokroucený zlobr vpravdě masivních rozměrů byl spatřen na Hrůzných pastvinách. Kdyby tohle monstrum zpustošilo jednotky Černé legie umístěné v Homesteadu, pak by naše šance na zastavení Aetherianů v téhle oblasti byly dost mizerné.{^n}{^n}Řád tohle vidí jako příležitost blýsknout se před našimi novými spojenci. Zamiř do Pastvin a vypořádej se tam s Narrothem. Řád jako podporu pro tuto úlohu očaruje tvou zbraň.{^n}{^n}Až se vrátíš, dostaneš nějaké materiály z našich obchodů.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-The Aetherials have proven to be a curious enemy, their powers contending with our own, but we must never let our guard down around the Cult of Ch'thon.{^n}{^n}Their summoners are capable of bringing horrific creatures into this world, but their leader, one Karroz the Sigil of Ch'thon, brings forth the worst. One of his personal pets, Narl'Sarroth, has an insatiable appetite for human flesh. Horror stories are told of it single-handedly devouring every inhabitant of Darkvale prior to the cult taking the village and the gates beyond.{^n}{^n}Anyone willing to take on this monstrosity will be amply rewarded with materials from our stores.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Oživovači bloudí chodbami Wardenovy laboratoře a jsou zajímavým způsobem napojeni na Aether.{^n}{^n}Zatímco většina Oživovačů může pouze vzplanout výbuchem v Aetherickém ohni, jeden z nich může v klidu rozervat sám sebe na kusy a vyvolat účinky Aetheru, což je podstatný rozdíl proti nejmocnějším alchymistům.{^n}{^n}Řád by rád tuto anomálii prostudoval. Zajdi do Burrwitche a zabij Stoupence Barrostrandta, abychom mohli ohledat jeho ostatky a něčemu se přiučit.{^n}{^n}Tvé úsilí nebude nazmar, až se vrátíš, odměníme tě nějakými materiály z místních obchodů.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-The Arkovian curse of a horrific display of our master's power, but it also serves as a source of countless curiosities for the Order.{^n}{^n}Deep within the Steps of Torment, there are Revenants that have learned to manipulate death as we have. It is a twisted mockery of Uroboruuk's spell and must be put to an end.{^n}{^n}Anyone who braves the Steps of Torment in order to see this through will be justly rewarded with materials from our stores. The Order shall provide enchantments to assist in the journey.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Ghúlové, padouchové a zrůdnosti. Ti slabší se schovávají ve stínech, krčí se za hrobkami, kde čekají na další várku čerstvého masa.{^n}{^n}Ale jsou to veleghúlové, kdo vkládají hrůzy do lidských srdcí. Nebojí se slunce, nebojí se ani plamenů. Jsou nočními můrami, s kterými se musíme potýkat.{^n}{^n}Jeden takový ghúl, který si říká Gravvis, se potuluje na Pohřebišti. V zájmu Cairnu samotného je třeba ho zabít.{^n}{^n}Gravvisova likvidace bude bohatě odměněna materiály z našeho obchodu.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-No Arkovian was spared from Uroboruuk's curse, such was his wrath. But that did not stop the Arkovians from trying to evade it. One such group gathered in a temple hidden away within a flooded cavern near Wightmire.{^n}{^n}There they prayed to their gods and waited for the curse to expire. Their High Priest, Rolderathis, preached sermon after sermon condemning necromancy and praising the Arkovians. To this day, he stands at his ruined altar and spew out the same flawd rhetoric.{^n}{^n}The Keeper of Tomes wishes to reclaim the temple from the undead in order to tap into its archives, what little remains undamaged by the flooding. For this to be accomplished, Rolderathis must be destroyed.{^n}{^n}His elimination will be amply rewarded with materials from our stores.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Aetheriané se ukázali být velmi kuriózním nepřítelem, jejich moc se potýká s naší vlastní, ale nikdy nesmíme přestat být na pozoru před Kultem Ch'thona.{^n}{^n}Jejich vyvolavači jsou schopni přivolávat strašlivá stvoření do tohoto světa. Ale jeden z nich, jejich vůdce Karroz, pečetitel Ch'thona, přivádí jen to nejhorší, co si můžeme představit. Jeden z jeho osobních mazlíků, Narl'Sarroth, má neuvěřitelnou chuť na lidské maso, kterého nikdy nemá dost. Hrůzné historky vypráví o tom, jak úplně v pohodě sežral každého obyvatele Darkvale ještě předtím, než kultisté prošli branou vesnice.{^n}{^n}Jestli se najde někdo odvážný, kdo se vypořádá s tímto úkolem, bude odměněn materiály z našich obchodů.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-The Cult of Ch'thon uses strange Seals in order to perform their summoning rituals.{^n}{^n}We must deny them this resource. Seals recovered from slain cultists should be brought here for close study.{^n}{^n}Every seal delivered will be rewarded with iron bits.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Arkovianské prokletí je strašlivý předobraz moci našich pánů, ale také slouží jako zdroj bezbřehých zvláštností Řádu.{^n}{^n}Hluboko ve Stupních bolesti se nacházejí přízraky, kteří se naučili ovládat smrt tak jako my. Je to zvrácený výsměch Uroboruukova kouzla, které musí být dokončeno.{^n}{^n}Každý statečný jedinec, který vstoupí do Stupňů bolesti a učiní spravedlnosti zadost, bude odměněn materiály z našich skladů. Řád poskytne k této výpravě potřebná očarování.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-The Cult's activites in Darkvale are getting out of hand. It is time to strike at the head of the snake, two heads to be precise.{^n}{^n}Two of the cult's prominent members, Bolvar the Bloodbinder and Zaria the Carver, have been spotted in the Blood Grove and near the village of Darkvale.{^n}{^n}The Keeper has demanded their lives. End them and you shall be rewarded with materials from our stores. The Order shall provide enchantments to assist in the mission.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Žádný Arkoviánec nebyl ušetřen Uroboruukova prokletí nebo jeho hněvu. Ale to samozřejmě nezastavilo Arkoviánce pokusům vyhnout se tomu. Jedna taková skupinka se shromáždila v chrámu skrytém uvnitř zaplavené jeskyně poblíž Wightmire.{^n}{^n}Tam se modlí ke svým bohům a čekají, až kletba pomine. Jejich velekněz, Rolderathis, pořádá veřejné kázání za kázáním, v nichž odsuzuje nekromancii a vychvaluje Arkoviánce. Zrovna dneska bude zase stát u toho svého zničeného oltáře a chrlit ty svoje pitomý kecy.{^n}{^n}Knihovník chce převzít tento chrám od nemrtvých, aby mohl získat své archívy, nebo aspoň to málo, co nebylo zničené povodněmi. Ze všeho nejdřív se ale musí začít Rolderathisem a zabít ho.{^n}{^n}Jeho eliminace samozřejmě nebude zadarmo, získáš nějaké materiály z našich obchodů.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-One of the Cult's most prominent leaders has revealed himself at the Necropolis.{^n}{^n}The arrival of a sorcerer of such power cannot be ignored. We must take advantage of this opportunity to land a crippling blow to our foes. Travel to the Necropolis and end the life of Bloodlord Thalonis.{^n}{^n}Thalonis' death will be rewarded with materials from our stores.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Kult Ch'thona používá zvláštní pečeti za účelem vykonávání jejich vyvolávacích rituálů.{^n}{^n}Musíme je odříznout od tohoto zdroje. Pečeti získané ze zabitých kultistů je třeba zanést sem a řádně prostudovat.{^n}{^n}Každá doručená pečeť bude odměněna železnými mincemi.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-We have identified two of the men involved in the experiments conducted within Warden Krieg's laboratory. Unfortunately, they are both already dead.{^n}{^n}Fortunately, however, they have both been raised as Reanimators. The Order wishes to study the process by which normal humans are turned into these necrotic vessels.{^n}{^n}Travel to Krieg's facility and slay Gethrand and Zanbrandt.{^n}{^n}The elimination of the Reanimators will be rewarded with iron bits.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Aktivity Kultu v Darkvale se nám vymykají z rukou. Je čas utnout hadovi hlavu. Tedy pro upřesnění, dvě hlavy.{^n}{^n}Dva z prominentních členů kultu, Bolvar, vazač krve a Zaria Řezbář, byli spatřeni v Krvavém háji a poblíž vesnice Darkvale.{^n}{^n}Strážce chce jejich životy. Skonči to s nima a tvá odměna v podobě materiálů z našich obchodů tě nemine. Řád poskytne i nějaké to očarování jako pomoc při této misi.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-The Chosen of Kymon have taken over a crypt beneath Fort Ikon known as the Tomb of Archon Barthollem. This is a valuable resource to the Order and must not be squandered by the Chosen.{^n}{^n}They have already summoned a manifestation of the Archon. We dare not think what else they can do with such an ancient site. Travel to the tomb and exterminate the Chosen and their champion.{^n}{^n}Wealth from within our rarest collection shall be at your disposal should you survive.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Jeden z nejprominentnějších vůdců Kultu se objevil na Pohřebišti.{^n}{^n}Příchod čaroděje s takovou mocí nelze ignorovat. Musíme chytit příležitost za pačesy a rozprášit naše nepřátele. Vydej se na Pohřebiště a skoncuj to s Pánem krve, Thalonisem.{^n}{^n}Thalonisova smrt bude odměněna materiály z našich obchodů.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-Dark times are ahead. The world is in ruins and it is up to us to restore the broken pieces.{^n}{^n}But power also lies in ruin and destruction. The Order wishes to harness this potential.{^n}{^n}Speak to a smith who knows the ancient ways. Have them create a Ruination Relic for us.{^n}{^n}Do this for the Order, and you shall be rewarded with the vial of the Blood of Ch'thon, to use as you see fit in your rituals.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Odhalili jsme dva chlapy, kteří se podílejí na experimentech prováděných v laboratořích Wardena Kriega. Bohužel, oba jsou už mrtví.{^n}{^n}Naštěstí, alespoň pro nás, byli oba znovu přivedeni k životu jako Oživovači. Řád by chtěl prostudovat způsob, jakým běžní lidi jsou přeměněni na tyhle oživlé zdechliny.{^n}{^n}Zajdi do Kriegovy skrýše, najdi ty dva a zabij je.{^n}{^n}Zabitím Oživovačů ti bude vyplacena odměna v železných mincích.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-The Keeper of Tomes calls upon the Order to handle many important tasks imperative to Cairn's Balance.{^n}{^n}Will you join your brothers and sisters in this sacred task?
+Kymonovi Vyvolení převzali moc nad kryptou pod pevností Ikon, kde leží hrobka Archóna Barthollema. Ta je jednou z cenností Řádu a nesmí být znesvěcena Vyvolenými.{^n}{^n}Už teď se jim podařilo vyvolat Archónova ducha. Nechci ani pomyslet na to, co dalšího by ještě mohli s tímto starodávným místem provést. Zajdi do hrobky a zlikviduj Vyvolené a jejich šampióna.{^n}{^n}Pak ti budou k dispozici cennosti z našich nejcennějších sbírek. Teda, ehm, pokud to přežiješ.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-Step away from the Bounty Table.
-The Keeper of Tomes does not yet trust you to handle important Order duties.{^n}{^n}A Respected reputation is required to access the Bounty Table.
-Step away from the Bounty Table.
+Nastávají krušné časy. Svět je v troskách a je jen na nás, abychom ho obnovili do původní podoby.{^n}{^n}Ale moc je v troskách. Řád by rád využil tohoto potenciálu.{^n}{^n}Promluv si s kovářem, který zná staré způsoby výroby předmětů. Ať pro nás vytvoří relikvii Ztroskotání.{^n}{^n}Splň tento úkol pro Řád a tvá odměna tě nemine. Darujeme ti ampuli s Krví Ch'thona, kterou budeš moci využít dle své libosti ve svých rituálech.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
+
+Knihovník vyzývá Řád ke splnění mnoha důležitých úkolů k udrží rovnováhy v Cairnu.{^n}{^n}Přidáš se ke svým bratrům a sestrám a budeš plnit tyto posvátné úlohy?
+
+Odstup kousek od vývěsky.
+Knihovník ti nemá důvod věřit, nesplňuješ jeho očekávání a proto nemůžeš plnit jeho významné úkoly.{^n}{^n}Získej si ještě nějakou přízeň a pak se zkus k němu vrátit, aby tě nechal nahlédnout na vývěsku.
+Odstup kousek od vývěsky.
