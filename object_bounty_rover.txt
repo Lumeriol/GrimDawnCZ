@@ -1,29 +1,27 @@
-Rover Bounties
-You return with the materials in hand, a Bounty fulfilled.
-Report in.
+Úkoly pro Tuláky
+Vracíš se s rukama plnýma materiálů, úkol byl splněn.
+Ohlas se.
 
-Step away from the Bounty Table.
-You return with the materials in hand, a Bounty fulfilled.
-Report in.
+Odstup kousek od vývěsky.
+Vracíš se s rukama plnýma materiálů, úkol byl splněn.
+Ohlas se.
 
-Step away from the Bounty Table.
-You return with the materials in hand, a Bounty fulfilled.
-Report in.
+Odstup kousek od vývěsky.
+Vracíš se s rukama plnýma materiálů, úkol byl splněn.
+Ohlas se.
 
-Step away from the Bounty Table.
-You return triumphantly, a Bounty fulfilled.
-Report in.
+Odstup kousek od vývěsky.
+Úkol byl splněn a ty se vítězoslavně vracíš zpět.
+Ohlas se.
 
-Step away from the Bounty Table.
-You are already on a Bounty for the Rovers.
-Step away from the Bounty Table.
-The nomadic Rovers are seeking assistance.{^n}{^n}You have proven your loyalty and are entrusted with their most critical affairs.
-Take a look at the bounty.
-You have done all that the Rovers have asked of you this session.
-Step away from the Bounty Table.
-Take a look at the bounty.
-
-
+Odstup kousek od vývěsky.
+Úkol pro Tuláky už byl přijat.
+Odstup kousek od vývěsky.
+Tito kočovní Tuláci hledají pomoc.{^n}{^n}Prokážeš svou věrnost a vypomůžeš s jejich nejpalčivějšími problémy?
+Prohlédni si úkoly.
+Momentálně žádné úkoly pro Tuláky nejsou dostupné.
+Odstup kousek od vývěsky.
+Prohlédni si úkoly.
 
 
 
@@ -42,109 +40,111 @@ Take a look at the bounty.
 
 
 
-Step away from the Bounty Table.
-The vile undead roaming the Arkovian ruins are a danger to all that travel the lone road.{^n}{^n}Skeletal Knights, the undying guardians of a fallen empire, continue to perform their loyal duties far beyond death. That includes violently attacking anyone that comes near the ruins. These attacks must end.{^n}{^n}We have set aside iron bits for anyone willing to deal with this threat.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
 
-The harpies are a cruel punishment upon the legacy of a long-dead people. Their Oracles have somehow learned to channel sky magic.{^n}{^n}For now, this is limited to storm clouds and gusts of wind but, if their studies are allowed to continue, we dread to think of what they could do next.{^n}{^n}Anyone that slays Harpy Oracles will be rewarded with a pouch of iron bits.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
 
-Arkovian Revenants were once knights of the priesthood, relentless defenders of Arkovian faith and their gods. They now roam the ruins as embodiments of the elements themselves.{^n}{^n}Their once noble cause has been twisted as they endlessly protect temples that have not existed for centuries. It is time for these loyal knights to be put to their final rest.{^n}{^n}We have set aside some iron bits as a reward to anyone brave enough to enter the ruins and perform this task.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Odstup kousek od vývěsky.
+Ti odporní nemrtví se potulují mezi Arkovianskými ruinami a jsou nebezpečím pro každého, kdo se vyskytuje na cestách osamocen.{^n}{^n}Kosterní rytíři, neživí strážci padlé říše, nadále konají své loajální povinnosti i dávno po své smrti. Což znamená, že jsou násilní a napadají každého, kdo se dostane do blízkosti zříceniny. Tyhle přepady musí přestat.{^n}{^n}Pro každého, kdo bude ochoten se s touto hrozbou vypořádat, máme připravenou hrst železných mincí.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-Rover texts speak of a temple dedicated to the Arkovian god, Ishtak, hidden away within a flooded cavern system out in Wightmire.{^n}{^n}If the Arkovian curse had taken them too, then the souls trapped within could one day escape out into the surrounding region.{^n}{^n}We will gladly reward anyone willing to investigate the ruins with some of their scavenged materials.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Harpyje jsou krutým trestem a dědictvím mrtvých lidí. Jejich věštkyně se nějakým způsobem naučily ovládat nebeskou magii.{^n}{^n}Teď jsou omezeny bouřkovými mraky a poryvy větru, ale pokud se budou dál učit, měli bychom se začít bát toho, co nás čeká dalšího.{^n}{^n}Kdo zabije Harpyjí věštkyně, bude odměněn sáčkem železných mincí.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-In the Arkovian Foothills, there is a cavern known as the Spined Cove. There, an ancient Arkovian spirit known as Baron Wradlith has dominated over the other spirits, rallying them under his command.{^n}{^n}For now, the spirits remain within the caves, but the undead can be unpredictable. This Lord of the Lost Souls must be banished before he even considers leaving his underground kingdom.{^n}{^n}We will happily share their scavenged materials with anyone that braves the Spined Cove.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Arkoviánské přízraky byli kdysi rytíři knížectví, vytrvalí ochránci Arkovianské víry a bohů. Teď se toulají mezi ruinami jako ztělesnění samotných elementárních prvků.{^n}{^n}Jejich původní honosné bytí bylo zcela převrácené tím, jak neustále ochraňují chrámy, které už dávno neexistují. Je čas, aby se tito loajální rytíři odebrali k věčnému odpočinku na onen svět.{^n}{^n}Vyhradili jsme si nějaké železné mince pro toho, kdo bude mít odvahu vstoupit do ruin a ujme se tohoto úkolu.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-The Oligarchs were once leaders of Arkovian society, following the abdication of the throne by King Rhowan. Even in death, they command loyalty from their undying subjects.{^n}{^n}Three such spirits still roam the Undercity of Old Arkovia, their hatred for the living spurring the undead into a frenzy. For the sake of all travelers, the Oligarchs must be destroyed.{^n}{^n}To see this through, we have set aside a substantial stash of iron bits.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Tulácké texty hovoří o chrámu zasvěcenému Arkoviánskému bohu Ishtakovi, který se ukrývá v zatopených jeskyních někde ve Wightmire.{^n}{^n}Pokud Arkoviánské prokletí zamořilo i tento chrám, pak všechny duše uvězněné uvnitř by jednoho krásného dne mohly uniknout do širého okolí.{^n}{^n}Velmi rádi odměnímě několika materiály toho, kdo prozkoumá dané ruiny.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-Cronley's gang up in the Four Hills represents a serious threat to the entire region, but we cannot just take them head on.{^n}{^n}If their weapons production were to be crippled, then that would give us more of a fighting chance.{^n}{^n}Anyone that destroys the bandit forges will be rewarded with some of our scavenged materials.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+V Arkovianském podhůří se nachází jeskyně známá jako Zátoka trnů. V ní se nachází starý Arkoviánský duch známý jako Baron Wradlith, který shromažďuje a velí ostatním duchům.{^n}{^n}Teď sice duchové zůstávají v jeskyních, ale nemrtví mohou být nepředvídatelní. Pán ztracených duší musí být vyhoštěn dřív, než se rozhodnou vylézt ze svého podzemního království na denní světlo.{^n}{^n}Rádi se podělíme se svými materiály s někým, kdo statečně vkročí do Zátoky trnů.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-Deep within the Arkovian Undercity, there dwells a manifestation of darkness known as Kilrian. The ancient Arkovian has been driven mad with the curse, his soul shattered and broken.{^n}{^n}Kilrian now gathers other sufferers to him, creating an army of the dead that could sweep across this land if unleashed. He must be destroyed before this can happen.{^n}{^n}The Rovers understand the risk in taking on Kilrian in his domain and are willing to compensate anyone brave enough to enter the Undercity with a substantial iron bits reward.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Oligarchové bývali vůdci Arkoviánské společnosti po abdikaci Krále Rhowana. Dokonce i po smrti si žádají loajalitu svých nemrtvých poddaných.{^n}{^n}Tři takoví duchové se stále potulují Podzemním městem Staré Arkovie a jejich nenávist vůči všemu živému přivádí nemrtvé přímo k šílenství. V zájmu všech cestovatelů musí být Oligarchové zlikvidováni.{^n}{^n}Pro tento úkol jsme si vyčlenili slušnou zásobu železných mincí.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-The Wasps provide the Rovers with valuable Royal Jelly but, when found in great numbers, they can pose a serious threat.{^n}{^n}The poison carried by the Venomwing Stingers is so potent, not even Rover medicine can treat it. Victims must withstand hours of agonizing pain. Many do not even last that long.{^n}{^n}The Venomwing Stinger population must be brought down immediately. A pouch of iron bits to anyone that carries out the task.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Cronleyova banda ve Čtvero vršcích představuuje vážnou hrozbu pro celou oblast, ale nemůžeme jim jen tak bezhlavě čelit.{^n}{^n}Chtělo by to omezit výrobu jejich zbraní, abychom měli větší šance je dostat.{^n}{^n}Kdokoliv zničí kovárnu banditů, bude odměněn trochou materiálů.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-We have always believed there to be three Oligarchs from the ancient Arkovia, but recent sightings in the Undercity have proven our texts wrong. Oligeane Dar appears to be a fourth Oligarch that has recently been reunited with the rest of the Arkovian leaders.{^n}{^n}Three Oligarchs is threat enough, we cannot allow a fourth to roam freely. She must be banished back to whatever hell she crawled from.{^n}{^n}We have set aside some of their scavenged materials as reward for this task.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+V hlubinách Arkoviánského podzemního města se uhnízdil projev temnoty, známý jako Kilrian. Prastarý Arkoviánec byl prokletím dohnán k šílenství, jeho duše se roztříštila a zcela se rozpadla.{^n}{^n}Kilrian teď shromažďuje další trpící k sobě a utváří armádu nemrtvých. krerá by mohla rozpoutat peklo na zemi. Musí být zlikvidován dřív, než k něčemu podobnému dojde.{^n}{^n}Tuláci si uvědomují riziko, které Kilrian představuje, a jsou ochotni kompenzovat veškeré náhrady vynaložené s tímto úkolem tomu, kdo sebere veškerou odvahu a vydá se do Podzemního města.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-A vile harpy by the name Rixna Plaguefeather has been sighted in the skies over the Broken Hills. Several Rovers have already fallen ill from coming in contact with her plume.{^n}{^n}Rixna appears to carry a plague to which the harpies appear immune, but its effects on humans seem to be far more deadly. She must be put down.{^n}{^n}We have set aside some of their scavenged materials as reward for this task.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Vosy poskytují Tulákům cennou Mateří kašičku, ale když se vyskytují ve velkém množství, mohou představovat vážnou hrozbu.{^n}{^n}Jed v tělech Bodačů je tak silný, že ani tulácké léky na něj nestačí. Oběti umírají několik hodin v ochromujících bolestech. Mnozí nevydrží právě díky té bolesti.{^n}{^n}Bodači s jedovatými perutěmi musí být okamžitě zničeni. Nabízíme pěkně tučnou sumu železných mincí tomu, kdo se úkolu ujme.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-Deep within the Steps of Torment, the Arkovian torture prison, there dwell several ruthless undead beings, chief amongst them Alkamos, the Lord Executioner. But Alkamos had many servants to carry out his decrees.{^n}{^n}Among them was Mortallis, a butcher of men who relished in the gruesome work of the Steps. Should he ever escape from the Steps of Torment, Mortallis would bring his hunger for death to the innocents now inhabiting the region. He must be destroyed.{^n}{^n}We have set aside some of their scavenged materials as reward for this task.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Vždycky jsme si mysleli, že ve starověké Arkovii byli oligarchové jen tři, ale nedávné průzkumy v Podzemním městě ukázaly, že naše informace jsou mylné. Oligeane Dar je nejspíš čtvrtým oligarchou, který se nedávno setkal s ostatními Arkoviánskými vůdci.{^n}{^n}Tři oligarchové jsou už tak dost velkou hrozbou, nemůžeme dovolit, aby se tu volně potuloval ještě čtvrtý. Musí se vrátit zpátky do pekel, odkud vylezl.{^n}{^n}Jako odměna za tenhle úkol ti bude vyplaceno několik materiálů.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-The Venomwing wasp hives are dangerous when stirred, but their queens produce a valuable reagent known as Royal Jelly, which we use to create many of our healing ointments.{^n}{^n}Our supplies are running low and casualties are up from the battle against Cronley's men. It is imperative that we acquire more Royal Jelly.{^n}{^n}We will gladly pay iron bits for the delivery of this precious reagent.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Ta odporná harpyje, Rixna Moropírko, byla viděna na obloze nad Sesutými kopci. Několik Tuláků se už nakazilo při kontaktu s jejím peřím.{^n}{^n}Rixna nejspíš přenáší mor, ale ostatní harpyje jsou vůči němu imunní, ovšem pro člověka je to nemoc smrtelná. Musíš ji sejmout.{^n}{^n}Pokud se ti to podaří, dostaneš za odměnu nějaké materiály.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-One of our scouts has been poisoned by one of Cronley's men while out on patrol. It appears to be a deadly concotion that causes necrosis and paralysis of the flesh.{^n}{^n}Eva believes she may have a cure, but she will require an Ancient Heart to craft the tonic. She will gladly offer up a Blood of Ch'thon for trade.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Hluboko ve Stupních bolesti, Arkoviánském vězení a mučírně v jednom, pobývá několik nemrtvých bytostí, kterým šéfuje Alkamos, vykonavatel spravedlnosti. Bohužel Alkamos měl mnoho služebníků, kteří vykonávali jeho příkazy.{^n}{^n}Mezi nimi byl Mortallis, řezník a vrah, který vykonával neechutnou práci ve Stupních. Pokud by se někdy dostal ven ze Stupňů bolesti, Mortallis by začal ukájet svůj hlad po smrti zabíjením nevinných obětí v této oblasti. Musí být zabit.{^n}{^n}Vyhradili jsme několik materiálů pro toho, kdo se zhostí tohoto úkolu.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-The Rover way requires us that we abandon worldly desires and abstain from violence. We have now broken that oath in order to defend ourselves from Cronley's men.{^n}{^n}So that not all of our ways are lost, we seek to craft an old relic known as Equilibrium, so that we can restore some balance to our lives.{^n}{^n}We will gladly exchange some of our rare scavenged materials in exchange for this valuable object.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Vosy s jedovatými perutěmi jsou nebezpečné v roji, ale jejich královny produkují hodnotné činidlo, které se říká Mateří kašička. Používáme ji k výrobě mnoha našich léčivých mastí.{^n}{^n}Naše zásoby docházejí a ztráty jsou čím dál vyšší díky bojům s chlapama od Cronleyho. Je proto nezbytné, abychom získali další Mateří kašičku.{^n}{^n}Velice rádi zaplatíme železnými mincemi za donášku tohoto vzácného činidla.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-Skeletal golems are an abomination, a joining of tortured souls no longer stable enough to exist as individuals. This joining also makes them incredibly powerful and unstable.{^n}{^n}Should one ever escape from the ruins below Arkovia, it would wreck havoc across the land. We would rather this never be allowed to happen.{^n}{^n}Anyone that eliminates these tortured beings will be justly rewarded with some of our scavenged materials.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Jeden z našich zvědů byl otráven jedním z Cronleyových chlapů, zatímco byl na hlídce. Nejspíš požil smrtící lektvar, který způsobuje nekrózu masa a ochrnutí svalů.{^n}{^n}Eva věří, že dokáže najít lék, ale aby mohla vytvořit tonikum, potřtebuje k tomu Starověké srdce. Výměnou ti dáme Krev Ch'thona.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-The Arkovian Grand Priest, Zarthuzellan, came up often in the Rover text as a charismatic and manipulative spiritual leader of Arkovia.{^n}{^n}His tortured soul now roams within the Steps of Torment, forever bound to the land he helped condemn to damnation. But even in death, he gathers followers at his cursed altar.{^n}{^n}This twisted practice must be stopped. We have set aside iron bits for anyone brave enough to enter the Steps of Torment.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Tulákova cesta po nás chce, abychom se zřeklo světských tužeb a zdrželi se násilí. Porušili jsme tuhle příssahu, abychom se bránili před Cronleyovými chlapy.{^n}{^n}Snad nejsou všechny naše cesty zmařeny, protože se snažíme vytvořit pradávnou relikvii, která by přinesla rovnováhu do našich životů.{^n}{^n}Pokud náhodou seženeš tuto vzácnou relikvii, rádi ji vyměníme za některé vzácné materiály z našich sbírek.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-Smuggler's Pass was once a popular route taken by our people when traveling north. It is now overrun with the Mistborn trolls, but the greatest danger comes from an oversized brute they keep within the cave known as Voldrak.{^n}{^n}Voldrak is huge, even by troll standards, and he guards the way through. If Smuggler's Pass is ever to be safe again, Voldrak must be slain.{^n}{^n}We will gladly spare some of our scavenged materials to see this through.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Kosterní golemové jsou hnusné bytosti, spojení mučených duší, které už dále nevydržely být stabilní jako jednotlivci. Toto spojení je dělá neuvěřitelně silné, ale nestabilní.{^n}{^n}Pokud by náhodou některý z nich utekl ze zřícenin pod Arkovií, mohl by udělat spoušť po celé zemi. Raději bychom byli, aby k tomu nikdy nedošlo.{^n}{^n}Kdokoliv zlikviduje tyto zmučené bytosti, bude spravedlivě odměněn některými z našich materiálů.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-A skeletal monstrosity known as Grum has been spotted out at the Crumbling Watch in the Arkovian Foothills. It is a poisonous fiend capable of terrifying destruction.{^n}{^n}The roads will never be safe again if such a creature is allowed to roam free. The Rovers ask that it be slain.{^n}{^n}Anyone brave enough to see this through will be rewarded with some of our scavenged materials.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Arkoviánský velekněz, Zarthuzellan, často vystupuje v Tuláckých zkazcích jako charismatický a manipulativníí duchovní vůdce Arkovie.{^n}{^n}Jeho zmučená duše se teď toulá někde ve Stupních bolesti, navždy svázaná se zemí, kterou pomohl odsoudit k zatracení. Ale i po smrti shromažďuje své stoupence ke svému prokletému oltáři.{^n}{^n}Tyto zvrácené praktiky musí být zastaveny. Nabízíme železné mince tomu, kdo bude statečný a vstoupí do Stupňů bolesti.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-The Venomwing hives are each under the control of a queen. These queens once produced ample quantities of Royal Jelly, but they are well past their prime.{^n}{^n}If the supply of Royal Jelly is to continue, then the queens must be slain so that new younger queens will rise to take their place.{^n}{^n}We have set aside iron bits for anyone willing to see this through.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Pašerákův průsmyk byl kdysi oblíbenou cestou, kterou naši lidé cestovali na sever. Teď je plná Blátivých zlobrů, ale největší nebezpečí tam číhá v podobě obrovského hovada. Teda, pro vysvětlení, je to surovec, který se schovává někde v jeskyni a jmenuje se Voldrak.{^n}{^n}Voldrak je obrovitánský dokonce i na zlobří standardní rozměry a střeží cestu. Pokud má být Pašerácký průsmyk zase bezpečný, Voldraka je třeba.{^n}{^n}Budeme rádi, pokud se to někomu podaří, a věnujeme dotyčnému některé z našich materiálů.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-The nomadic Rovers are seeking assistance.{^n}{^n}You have proven your loyalty and are entrusted with their most critical affairs.
+Kosterní zrůdnost známá jako Grum byla spatřena u Rozpadlé strážní věže v Arkovianském podhůří. Je to netvor s jedem v těle, schopný zničit cokoliv.{^n}{^n}Cesty už nebudou nikdy znovu bezpečné, pokud se tenhle netvor bude volně pohybovat světem. Tuláci žádají, aby byl zlikvidován.{^n}{^n}Každý statečný jedinec bude za tento hrdinský čin odměněn materiály.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-Step away from the Bounty Table.
-The Rovers do not yet trust you with their internal affairs.{^n}{^n}A Respected reputation is required to access the Bounty Table.
-Step away from the Bounty Table.
+Každý úl vos s jedovatými perutěmi má svou jedinečnou královnu. Tyto královny kdysi produkovali dostatečné množství Mateří kašičky, ale vzhledem ke svému stáří to už dneska nedokážou.{^n}{^n}Pokud chceme mít další zásoby Mateří kašičky, bude třeba královny pozabíjet, aby je nahradily mladší uchazečky.{^n}{^n}Pokud se nebojíš vosích bodnutí, nabízíme ti železné mince za tento úkol.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
+
+Tito kočovní Tuláci hledají pomoc.{^n}{^n}Prokážeš svou věrnost a vypomůžeš s jejich nejpalčivějšími problémy?
+
+Odstup kousek od vývěsky.
+Tuláci nejsou ochotni ti svěřit své nejpalčivější problémy.{^n}{^n}Chce to získat si jejich přízeň aby ti zpřístupnili svou vývěsku.
+Odstup kousek od vývěsky.

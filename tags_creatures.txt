@@ -660,7 +660,7 @@ tagSkeletonHeroH05=Lord Alistar Hernsworth ~ odrážející
 tagSkeletonHeroH06=Chladné srdce ~ zmrzlý
 
 tagSkeletonBoss01=Kilrian, poskvrněná duše
-tagSkeletonBoss02=Velký kněz Zarthuzellan
+tagSkeletonBoss02=Velekněz Zarthuzellan
 tagSkeletonBoss03=Elnadrinův stín
 tagSkeletonBoss04=Velekněz Rolderathis
 
@@ -1045,7 +1045,7 @@ tagBountyODV10=Stoupenec Barrostrandt
 tagBountyODV11=Uhnívající Gravvis
 tagBountyODV12=Narl'Sarroth
 tagBountyRO10=Oligeane Dar
-tagBountyRO11=Rixna, morové pírko
+tagBountyRO11=Rixna Moropírko
 tagBountyRO12=Mortallis
 tagBountyRO19=Grum
 
