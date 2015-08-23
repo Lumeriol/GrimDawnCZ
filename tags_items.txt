@@ -2079,9 +2079,9 @@ tagEnchantA003B=Prášek bezduché příšery II
 tagEnchantA003C=Prášek bezduché příšery III
 tagEnchantA003Desc="Jemný prášek pocházející z vyschlých ostatků Chthonické příšery."^w^n(Použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
 
-tagEnchantA004A=Silný prášek bezduché příšery I
-tagEnchantA004B=Silný prášek bezduché příšery II
-tagEnchantA004C=Silný prášek bezduché příšery III
+tagEnchantA004A=Hrubý prášek bezduché příšery I
+tagEnchantA004B=Hrubý prášek bezduché příšery II
+tagEnchantA004C=Hrubý prášek bezduché příšery III
 tagEnchantA004Desc="Jemný prášek pocházející z vyschlých ostatků Chthonické příšery."^w^n(Použitelné na všechny obouruční zbraně)
 
 tagEnchantA005A=Prášek z černé oceli I
@@ -2089,9 +2089,9 @@ tagEnchantA005B=Prášek z černé oceli II
 tagEnchantA005C=Prášek z černé oceli III
 tagEnchantA005Desc="Tajná směs železa a různých minerálů známých pouze Černou legií."^w^n(Použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
 
-tagEnchantA006A=Silný prášek z černé oceli I
-tagEnchantA006B=Silný prášek z černé oceli II
-tagEnchantA006C=Silný prášek z černé oceli III
+tagEnchantA006A=Hrubý prášek z černé oceli I
+tagEnchantA006B=Hrubý prášek z černé oceli II
+tagEnchantA006C=Hrubý prášek z černé oceli III
 tagEnchantA006Desc="Tajná směs železa a různých minerálů známých pouze Černou legií."^w^n(Použitelné na všechny obouruční zbraně)
 
 tagEnchantA007A=Aetherický prach I
@@ -2099,9 +2099,9 @@ tagEnchantA007B=Aetherický prach II
 tagEnchantA007C=Aetherický prach III
 tagEnchantA007Desc="Prášek vytažený z ostatků Aetherianů pomocí koncentrované dávky soli."^w^n(Použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
 
-tagEnchantA008A=Silný Aetherický prach I
-tagEnchantA008B=Silný Aetherický prach II
-tagEnchantA008C=Silný Aetherický prach III
+tagEnchantA008A=Hrubý Aetherický prach I
+tagEnchantA008B=Hrubý Aetherický prach II
+tagEnchantA008C=Hrubý Aetherický prach III
 tagEnchantA008Desc="Prášek vytažený z ostatků Aetherianů pomocí koncentrované dávky soli."^w^n(Použitelné na všechny obouruční zbraně)
 
 tagEnchantA009A=Arkovianský růžový prášek I
@@ -2139,9 +2139,9 @@ tagEnchantA015B=Prášek ze zlobrovy bradavice II
 tagEnchantA015C=Prášek ze zlobrovy bradavice III
 tagEnchantA015Desc="Prášek izolovaný z bradavic starodávného zlobra. Je vhodné mít při manipulaci rukavice."^w^n(Použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
 
-tagEnchantA016A=Silný prášek ze zlobrovy bradavice I
-tagEnchantA016B=Silný prášek ze zlobrovy bradavice II
-tagEnchantA016C=Silný prášek ze zlobrovy bradavice III
+tagEnchantA016A=Hrubý prášek ze zlobrovy bradavice I
+tagEnchantA016B=Hrubý prášek ze zlobrovy bradavice II
+tagEnchantA016C=Hrubý prášek ze zlobrovy bradavice III
 tagEnchantA016Desc="Prášek izolovaný z bradavic starodávného zlobra. Je vhodné mít při manipulaci rukavice."^w^n(Použitelné na všechny obouruční zbraně)
 
 tagEnchantA017A=Páteř bezpáteřní krysy I
@@ -2169,9 +2169,9 @@ tagEnchantA021B=Prášek z révy Prázdnoty II
 tagEnchantA021C=Prášek z révy Prázdnoty III
 tagEnchantA021Desc="Prášek extrahovaný z révy, která se agresivně šéří skrze Chthonickou Prázdnotu."^w^n(Použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
 
-tagEnchantA022A=Silný prášek z révy Prázdnoty I
-tagEnchantA022B=Silný prášek z révy Prázdnoty II
-tagEnchantA022C=Silný prášek z révy Prázdnoty III
+tagEnchantA022A=Hrubý prášek z révy Prázdnoty I
+tagEnchantA022B=Hrubý prášek z révy Prázdnoty II
+tagEnchantA022C=Hrubý prášek z révy Prázdnoty III
 tagEnchantA022Desc="Prášek extrahovaný z révy, která se agresivně šéří skrze Chthonickou Prázdnotu."^w^n(Použitelné na všechny obouruční zbraně)
 
 tagEnchantA023A=Kopyto kamenošpičáka I
@@ -2199,9 +2199,9 @@ tagEnchantA027B=Prášek vyvolavače deště II
 tagEnchantA027C=Prášek vyvolavače deště III
 tagEnchantA027Desc="Pověsti vypráví o čarodějném prášku, který když se vhodí do otevřeného ohně vesnickým šamanem, vyvolá do čtrnácti dnů déšť."^w^n(Použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
 
-tagEnchantA028A=Hrubý Prášek vyvolavače deště I
-tagEnchantA028B=Hrubý Prášek vyvolavače deštěr II
-tagEnchantA028C=Hrubý Prášek vyvolavače deště III
+tagEnchantA028A=Hrubý prášek vyvolavače deště I
+tagEnchantA028B=Hrubý prášek vyvolavače deštěr II
+tagEnchantA028C=Hrubý prášek vyvolavače deště III
 tagEnchantA028Desc="Pověsti vypráví o čarodějném prášku, který když se vhodí do otevřeného ohně vesnickým šamanem, vyvolá do čtrnácti dnů déšť."^w^n(Použitelné na všechny obouruční zbraně)
 
 tagEnchantA029A=Božský plamen I
@@ -2244,55 +2244,55 @@ tagEnchantA036B=Hrubý prášek ze zimních květů II
 tagEnchantA036C=Hrubý prášek ze zimních květů III
 tagEnchantA036Desc="Prášek z bledě modrých květů rostlin, které vzácně vykvetou pouze během velmi krutých zimních měsíců."^w^n(Použitelné na všechny obouruční zbraně)
 
-tagEnchantA037A=Prach z čarodějnice I
-tagEnchantA037B=Prach z čarodějnice II
-tagEnchantA037C=Prach z čarodějnice III
-tagEnchantA037Desc="Ač je to technický nelegální, tento prach našel využití mezi Legionářskými kouzelníky."^w^n(Použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
+tagEnchantA037A=Popel čarodějnice I
+tagEnchantA037B=Popel čarodějnice II
+tagEnchantA037C=Popel čarodějnice III
+tagEnchantA037Desc="Ač je to technicky nelegální, tento popel našel využití mezi Legionářskými kouzelníky."^w^n(Použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
 
-tagEnchantA038A=Hrubý prach z čarodějnice I
-tagEnchantA038B=Hrubý prach z čarodějnicer II
-tagEnchantA038C=Hrubý prach z čarodějnice III
-tagEnchantA038Desc="Ač je to technický nelegální, tento prach našel využití mezi Legionářskými kouzelníky."^w^n(Použitelné na všechny obouruční zbraně)
+tagEnchantA038A=Hrubý popel čarodějnice I
+tagEnchantA038B=Hrubý popel čarodějnicer II
+tagEnchantA038C=Hrubý popel čarodějnice III
+tagEnchantA038Desc="Ač je to technicky nelegální, tento popel našel využití mezi Legionářskými kouzelníky."^w^n(Použitelné na všechny obouruční zbraně)
 
-tagEnchantA039A=Prach kouzelníků I
-tagEnchantA039B=Prach kouzelníků II
-tagEnchantA039C=Prach kouzelníků III
-tagEnchantA039Desc="Prášek používaný Tuláky při různých rituálech a meditačních sezeních. Překvapivě účinný během rituálech vyvolávání."^w^n(Použitelné na prsteny a amulety)
+tagEnchantA039A=Prach kejklířů I
+tagEnchantA039B=Prach kejklířů II
+tagEnchantA039C=Prach kejklířů III
+tagEnchantA039Desc="Prášek používaný Tuláky při různých rituálech a meditačních sezeních. Překvapivě účinný během rituálů vyvolávání."^w^n(Použitelné na prsteny a amulety)
 
-tagEnchantA040A=Rifthound Salts I
-tagEnchantA040B=Rifthound Salts II
-tagEnchantA040C=Rifthound Salts III
-tagEnchantA040Desc="Powder derived from the glowing skin of a rifthound matriarch."^w^n(Použitelné na prsteny a amulety)
+tagEnchantA040A=Soli trhajících fen I
+tagEnchantA040B=Soli trhajících fen II
+tagEnchantA040C=Soli trhajících fen III
+tagEnchantA040Desc="Prášek vytažený ze zářící kůže trhající matriarchy."^w^n(Použitelné na prsteny a amulety)
 
-tagEnchantA041A=Beast Tamer's Powder I
-tagEnchantA041B=Beast Tamer's Powder II
-tagEnchantA041C=Beast Tamer's Powder III
-tagEnchantA041Desc="A calming agent used by Homestead farmers to soothe wild animals into submission."^w^n(Použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
+tagEnchantA041A=Popel krotitele zvířat I
+tagEnchantA041B=Popel krotitele zvířat II
+tagEnchantA041C=Popel krotitele zvířat III
+tagEnchantA041Desc="Uklidňující prostředek používaný Homesteadskými farmáři ke zklidnění divokých zvířat a jejich podrobení."^w^n(Použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
 
-tagEnchantA042A=Potent Beast Tamer's Powder I
-tagEnchantA042B=Potent Beast Tamer's Powder II
-tagEnchantA042C=Potent Beast Tamer's Powder III
-tagEnchantA042Desc="A calming agent used by Homestead farmers to soothe wild animals into submission."^w^n(Použitelné na všechny obouruční zbraně)
+tagEnchantA042A=Hrubý popel krotitele zvířat I
+tagEnchantA042B=Hrubý popel krotitele zvířat II
+tagEnchantA042C=Hrubý popel krotitele zvířat III
+tagEnchantA042Desc="Uklidňující prostředek používaný Homesteadskými farmáři ke zklidnění divokých zvířat a jejich podrobení."^w^n(Použitelné na všechny obouruční zbraně)
 
-tagEnchantA043A=Firebloom Powder I
-tagEnchantA043B=Firebloom Powder II
-tagEnchantA043C=Firebloom Powder III
-tagEnchantA043Desc="Powder derived from a flower hot to the touch, often found at the base of volcanoes."^w^n(Použitelné na prsteny a amulety)
+tagEnchantA043A=Prášek z ohnivého květu I
+tagEnchantA043B=Prášek z ohnivého květu II
+tagEnchantA043C=Prášek z ohnivého květu III
+tagEnchantA043Desc="Prášek vytažený z květu horkého na dotek, často se nacházející na úpatí sopek."^w^n(Použitelné na prsteny a amulety)
 
-tagEnchantA044A=Storm Powder I
-tagEnchantA044B=Storm Powder II
-tagEnchantA044C=Storm Powder III
-tagEnchantA044Desc="A blue powder sparking with raw power from a lightning strike."^w^n(Použitelné na prsteny a amulety)
+tagEnchantA044A=Bouřný prach I
+tagEnchantA044B=Bouřný prach II
+tagEnchantA044C=Bouřný prach III
+tagEnchantA044Desc="Modrý prach jiskřící surovou silou po úderu blesku."^w^n(Použitelné na prsteny a amulety)
 
-tagEnchantA045A=Binding Dust I
-tagEnchantA045B=Binding Dust II
-tagEnchantA045C=Binding Dust III
-tagEnchantA045Desc="Dust used by the Order to bind undead beings to their will."^w^n(Použitelné na prsteny a amulety)
+tagEnchantA045A=Prach vazby I
+tagEnchantA045B=Prach vazby II
+tagEnchantA045C=Prach vazby III
+tagEnchantA045Desc="Prach používaný Řádem k vázání nemrtvých bytostí k jejich vůli."^w^n(Použitelné na prsteny a amulety)
 
-tagEnchantA046A=Chillheart Powder I
-tagEnchantA046B=Chillheart Powder II
-tagEnchantA046C=Chillheart Powder III
-tagEnchantA046Desc="Powder derived from the dead. It appears to readily sap heat from the air around it."^w^n(Použitelné na prsteny a amulety)
+tagEnchantA046A=Prášek ze studeného srdce I
+tagEnchantA046B=Prášek ze studeného srdce II
+tagEnchantA046C=Prášek ze studeného srdce III
+tagEnchantA046Desc="Prášek získaný z mrtvých. Zdá se, že snadno pohltí teplo z okolního vzduchu."^w^n(Použitelné na prsteny a amulety)
 
 tagEnchantB001A=Ulgrimova podlost I
 tagEnchantB001B=Ulgrimova podlost II
@@ -2304,45 +2304,45 @@ tagEnchantB002B=Mocná Ulgrimova podlost II
 tagEnchantB002C=Mocná Ulgrimova podlost III
 tagEnchantB002Desc="Nikdo si není pořádně jistý, co Císařovo První ostří sloučil, aby vytvořil tento čarodějnický prášek, ale nikdo nemůže zpochybňovat jeho výsledek."^w^n(Použitelné na všechny obouruční zbraně)
 
-tagEnchantB003A=Creed's Cunning I
-tagEnchantB003B=Creed's Cunning II
-tagEnchantB003C=Creed's Cunning III
-tagEnchantB003Desc="The inquisitor's powder, given only to his most trusted allies, sparks with arcane energy."^w^n(Použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
+tagEnchantB003A=Creedova prohnanost I
+tagEnchantB003B=Creedova prohnanost II
+tagEnchantB003C=Creedova prohnanost III
+tagEnchantB003Desc="Inkvizitorův prach jiskřící tajemnou energií, dávaný pouze jeho nejvěrnějším spojencům."^w^n(Použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
 
-tagEnchantB004A=Silný Creed's Cunning I
-tagEnchantB004B=Silný Creed's Cunning II
-tagEnchantB004C=Silný Creed's Cunning III
-tagEnchantB004Desc="The inquisitor's powder, given only to his most trusted allies, sparks with arcane energy."^w^n(Použitelné na všechny obouruční zbraně)
+tagEnchantB004A=Průkazná Creedova prohnanost I
+tagEnchantB004B=Průkazná Creedova prohnanost II
+tagEnchantB004C=Průkazná Creedova prohnanost III
+tagEnchantB004Desc="Inkvizitorův prach jiskřící tajemnou energií, dávaný pouze jeho nejvěrnějším spojencům."^w^n(Použitelné na všechny obouruční zbraně)
 
-tagEnchantB005A=Oleron's Fervor I
-tagEnchantB005B=Oleron's Fervor II
-tagEnchantB005C=Oleron's Fervor III
-tagEnchantB005Desc="Some Black Legion troops shout the war god's name as they charge into battle. This enchantment, given only to officers, was named in honor of the legion's patron deity."^w^n(Použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
+tagEnchantB005A=Oleronova zanícenost I
+tagEnchantB005B=Oleronova zanícenost II
+tagEnchantB005C=Oleronova zanícenost III
+tagEnchantB005Desc="Někteří vojáci Černé legie řvou jméno boha války jako válečný pochod. Toto očarování, dávané pouze důstojníkům, bylo pojmenováno na počest svatého patrona legionářů."^w^n(Použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
 
-tagEnchantB006A=Potent Oleron's Fervor I
-tagEnchantB006B=Potent Oleron's Fervor II
-tagEnchantB006C=Potent Oleron's Fervor III
-tagEnchantB006Desc="Some Black Legion troops shout the war god's name as they charge into battle. This enchantment, given only to officers, was named in honor of the legion's patron deity."^w^n(Použitelné na všechny obouruční zbraně)
+tagEnchantB006A=Přesvědčivá Oleronova zanícenost I
+tagEnchantB006B=Přesvědčivá Oleronova zanícenost II
+tagEnchantB006C=Přesvědčivá Oleronova zanícenost III
+tagEnchantB006Desc="Někteří vojáci Černé legie řvou jméno boha války jako válečný pochod. Toto očarování, dávané pouze důstojníkům, bylo pojmenováno na počest svatého patrona legionářů."^w^n(Použitelné na všechny obouruční zbraně)
 
-tagEnchantB007A=Aetherstorm Powder I
-tagEnchantB007B=Aetherstorm Powder II
-tagEnchantB007C=Aetherstorm Powder III
-tagEnchantB007Desc="Black Legion mages believe that the best way to combat the enemy is to use their power against them. This powder is a rare example where such experiments were sanctioned."^w^n(Použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
+tagEnchantB007A=Prach Aetherické bouře I
+tagEnchantB007B=Prach Aetherické bouře II
+tagEnchantB007C=Prach Aetherické bouře III
+tagEnchantB007Desc="Čarodějové Černé legie věří, že nejlepším způsobem, jak bojovat proti nepříteli, je využít jeho sílu proti němu. Tento prach je vzácným příkladem toho, proč byly podobné pokusy pokutovány."^w^n(Použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
 
-tagEnchantB008A=Potent Aetherstorm Powder I
-tagEnchantB008B=Potent Aetherstorm Powder II
-tagEnchantB008C=Potent Aetherstorm Powder III
-tagEnchantB008Desc="Black Legion mages believe that the best way to combat the enemy is to use their power against them. This powder is a rare example where such experiments were sanctioned."^w^n(Použitelné na všechny obouruční zbraně)
+tagEnchantB008A=Hrubý prach Aetherické bouře I
+tagEnchantB008B=Hrubý prach Aetherické bouře II
+tagEnchantB008C=Hrubý prach Aetherické bouře III
+tagEnchantB008Desc="Čarodějové Černé legie věří, že nejlepším způsobem, jak bojovat proti nepříteli, je využít jeho sílu proti němu. Tento prach je vzácným příkladem toho, proč byly podobné pokusy pokutovány."^w^n(Použitelné na všechny obouruční zbraně)
 
-tagEnchantB009A=Essence of Ch'thon I
-tagEnchantB009B=Essence of Ch'thon II
-tagEnchantB009C=Essence of Ch'thon III
-tagEnchantB009Desc="Weapons coated with the entrails of Chthonian beings often become warped and unrecognizable, but in doing so capture the essence of the void itself."^w^n(Použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
+tagEnchantB009A=Ch'thonova podstata I
+tagEnchantB009B=Ch'thonova podstata II
+tagEnchantB009C=Ch'thonova podstata III
+tagEnchantB009Desc="Zbraně zabalené do vnitřností chthonických bytostí se často stávají nerozpoznatelné od běžné, ale přitom zachybují samotnou podstanu prázdnoty."^w^n(Použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
 
-tagEnchantB010A=Potent Essence of Ch'thon I
-tagEnchantB010B=Potent Essence of Ch'thon II
-tagEnchantB010C=Potent Essence of Ch'thon III
-tagEnchantB010Desc="Weapons coated with the entrails of Chthonian beings often become warped and unrecognizable, but in doing so capture the essence of the void itself."^w^n(Použitelné na všechny obouruční zbraně)
+tagEnchantB010A=Průkazná Ch'thonova podstata I
+tagEnchantB010B=Průkazná Ch'thonova podstata II
+tagEnchantB010C=Průkazná Ch'thonova podstata III
+tagEnchantB010Desc="Zbraně zabalené do vnitřností chthonických bytostí se často stávají nerozpoznatelné od běžné, ale přitom zachybují samotnou podstanu prázdnoty."^w^n(Použitelné na všechny obouruční zbraně)
 
 tagEnchantB011A=Rhowanova moudrost I
 tagEnchantB011B=Rhowanova moudrost II
