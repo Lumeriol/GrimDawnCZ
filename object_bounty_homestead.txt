@@ -3,10 +3,6 @@ Vracíš se s rukama plnýma materiálů, úkol byl splněn.
 Ohlas se.
 
 Odstup kousek od vývěsky.
-Vracíš se s rukama plnýma materiálů, úkol byl splněn.
-Ohlas se.
-
-Odstup kousek od vývěsky.
 Úkol byl splněn a ty se vítězoslavně vracíš zpět.
 Ohlas se.
 
@@ -54,7 +50,7 @@ Přijmout úkol.
 Odstup od vývěsky.
 Další úkol.
 
-Mantikory jsou sice zlomyslní lovci, ale jejich alfa samci, před těma je třeba mít se na pozoru. Jsou to ty, které se vyskytují mimo běžné loviště mantikor, protože hledají pro své stádo nová loviště.{^n}{^n}Nemůžeme dovolit, aby se mantikory rozšířily v okolí Homesteadu. Pokud někdo zlikviduje mantikoří alfa samce v okolí Rozeklané pustiny, dostane určitou sumu železných mincí.
+Mantikory jsou sice zlomyslní lovci, ale jejich alfa samci, před těma je třeba mít se na pozoru. Jsou to ty, které se vyskytují mimo běžné loviště mantikor, protože hledají pro své stádo nová loviště.{^n}{^n}Nemůžeme dovolit, aby se mantikory rozšířily v okolí Homesteadu. Pokud někdo zlikviduje mantikoří alfa samce v okolí Rozeklané pustiny a Krvavého háje, dostane určitou sumu železných mincí.
 Přijmout úkol.
 Odstup od vývěsky.
 Další úkol.
@@ -104,7 +100,7 @@ Přijmout úkol.
 Odstup od vývěsky.
 Další úkol.
 
-Může to znít sobecky, ale to je mi fuk. Když jsem byl ještě malé dítě, mantikory roztrhaly mojí sestru.{^n}{^n}Přísahal jsem, že až budu dostatečně starý a budu moci mít zbraň, vrátím se tam a vystřílím jich tolik, kolik jen budu moci. Jenže teď nemůžete vyjít ani pět kroků za Homestead, aniž byste vběhli do něčeho mnohem horšího, než jsou mantikory.{^n}{^n}Prosím každého, kdo je statečnější než já, aby tam venku pozabíjel několik mantikor. Když mi doneseš jejich oko jako důkaz, odvděčím se ti nějakým posbíraným materiálem.
+Underneath the mountains to the south, there is a cavern system we call the Mountain Deeps. It is a terrible place filled with terrors that should see the light of day.{^n}{^n}However, as the population of cavern crawlers swells, they begin to hunt outside of the caves. It has been too long since their population was culled. Somebody needs to go down there and handle it.{^n}{^n}Anyone that slays Albino Cavern Crawlers will be compensated with scavenged materials from our stores.
 Přijmout úkol.
 Odstup od vývěsky.
 Další úkol.

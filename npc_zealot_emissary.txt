@@ -14,6 +14,18 @@ Už vyrážím.
 Musím tě poprosit, abys [[ms]navštívil[fs]navštívila] naši enklávu na severu. Převzali jsme část Bašty zármutku a udělali z ní náš nový domov.{^n}{^n}Vyhledej nás tak, že půjdeš po severní cestě přes Neobdělaná pole. Až narazíš na ruiny, podívej se po věži.{^n}{^n}Jakmile tam budeš, promluv si s bratrem Elluviusem. Připraví tě na naši cestu osvícení.
 Vaši enklávu vyhledám.
 Možná někdy jindy.
+Your allegiance to the vile necromancers will lead you down a dark path from which there is no return.
+You're right, it was a mistake. I wish to join you.
+Are you certain of this? The Chosen will welcome you as an ally, but everything you have done up to this moment will be forgotten.{^n}{^n}(Warning: selecting the Chosen will reset your Faction Reputation with the Order of Death's Vigil and Kymon's Chosen)
+The Black Legion will work with you. (Select the Kymon's Chosen)
+Kymon will be pleased to hear of this. This alliance will be beneficial to both groups. Let us banish the enemy as one!{^n}{^n}I must ask that you visit our enclave to the north. We have taken over a part of Sorrow's Bastion and made it our new home.{^n}{^n}Seek us out by taking the road north through the Fallow Fields. When you've reached the ruins, look for the tower.{^n}{^n}Once there, please speak to Brother Elluvius. He will set you upon our enlightened path.
+I will seek out your enclave.
+Perhaps another time.
+Perhaps not.
+They are valuable allies.
+Word of your actions has already reached me. The Chosen of Kymon will gladly see you as an ally once more.
+
+We'll speak of this later.
 Bratr Molltair, Kymonovi Vyvolení, k tvým službám. {^n}{^n}Ikdyž si musím lámat hlavu, proč jsi sem [[ms]přivedl[fs]přivedla] i tu nekromantskou špínu.
 Myslím, že už jsem se [[ms]rozhodl[fs]rozhodla].
 Takže už jsi se [[ms]rozhodl[fs]rozhodla]? Jsou Kymonovi Vyvolení ti, jež budou bojovat bok po boku s Černou legií?
@@ -31,9 +43,11 @@ Jsme dobře vycvičení a dobře ozbrojení. Naši muž a ženy slouží Cairnu 
 
 
 
+
 Budu potřebovat nějaký čas na rozmyšlenou.
 Kdo je Otec Kymon?
 Otec Kymon je náš duchovní vůdce. Je požehnán Empyrionem - Světlonošem, prvním z bohů.{^n}{^n}Jeho slovy zprostíme Cairn nečistých a prohnilých, začínajíc odporným Řádem strážců smrti a končíc vyhlazením Aetherianů a Ch'tonianů.
+
 
 
 
@@ -43,13 +57,22 @@ Empyrion - Světlonoš je první mezi bohy. Právě pod jeho vedením svět pro�
 
 
 
+
 Budu potřebovat nějaký čas na rozmyšlenou.
+
 
 Co mi můžeš říct o Řádu strážců smrti?
 Jsou to zrůdnosti, které ohýbají božské nitě života podle své vůle, jakoby to byly hračky. {^n}{^n}Řád je morem na tomto světě, stejně jako Aetheriané a Ch'toniané. Pokud má být Cairn uzdraven, musí být zničeni.
 
 
+
 Budu potřebovat nějaký čas na rozmyšlenou.
+What sort of equipment do you offer?
+We are well equipped to deal with the fiends infesting our world. There is something there to suit most fighting style, but warriors who wage battle with Physical, Fire and Lightning will fit right in.
+
+
+
+I'll need some time to think this through.
 Sbohem.
 I have come to represent Kymon's Chosen, as the one you call Ulgrim has requested.
 Kdo jsou Kymonovi Vyvolení?
