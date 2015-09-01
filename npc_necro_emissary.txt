@@ -17,6 +17,18 @@ Už vyrážím.
 Musím tě požádat, abys [[ms]vyhledal[fs]vyhledala] naši svatyni na severu. Zabrali jsme malou kryptu ukrytou v horách, na východ od Bašty zármutku.{^n}{^n}Aby ses tam [[ms]dostal[fs]dostala], musíš se vydat po cestě na sever přes Neobdělaná pole. Jakmile dojdeš k ruinám staré pevnosti, pak jsi blízko našemu domovu.{^n}{^n}Až budeš uvnitř, vyhledej mistra Varuuka. Bude si chtít promluvit s naším novým spojencem.
 Vyhledám vaši svatyni.
 Možná někdy jindy.
+You are a fool to trust Kymon's Chosen.
+You're right, it was a mistake. I wish to join you.
+Are you certain of this? The Order will welcome you as an ally, but everything you have done up to this moment will be forgotten.{^n}{^n}(Warning: selecting the Order will reset your Faction Reputation with the Order of Death's Vigil and Kymon's Chosen)
+The Black Legion will work with you. (Select the Order)
+Splendid. I shall make the arrangements immediately.{^n}{^n}In the meantime, I would ask that you seek out our sanctum to the north. We have claimed a small crypt hidden in the mountains, just west of Sorrow's Bastion.{^n}{^n}To get there, you must take the road north through the Fallow Fields. When you've reached the old fort ruins, then you are close to our home.{^n}{^n}Once inside, see Master Varuuk. He will wish to speak with our new ally.
+I will seek out your sanctum.
+Perhaps another time.
+Perhaps not.
+They are valuable allies.
+Word of your actions has already reached me. The Order is eager to continue their efforts with you alongside them.
+
+We'll speak of this later.
 Buď [[ms]pozdraven[fs]pozdravena], já jsem Haruuv a reprezentuji Řád strážců smrti.{^n}{^n}Jsme odhodláni diskutovat o dohodě, i v případě, že by měla být i s tak pochybnou společností.
 Myslím, že už jsem se [[ms]rozhodl[fs]rozhodla].
 Jak to tedy bude? Bude Černá legie bojovat bok po boku s Řádem strážců smrti proti vetřelcům, jež vstoupili do našeho světa?
@@ -34,9 +46,11 @@ Jsme experti tajemna a umění nekromancie.{^n}{^n}Proč posílat živé na smrt
 
 
 
+
 Budu potřebovat nějaký čas, abych si to [[ms]promyslel[fs]promyslela].
 Co mi můžeš říct o Uroboruukovi?
 Náš mistr je věčný. Byl zde, když byla Arkovianská říše mladá a bude zde, až podlehnou své kletbě. Arkoviané, stejně jako Erulanská říše roztříštěni Ponurým úsvitem, potírali nekromancii a pronásledovali ty, kteří by vyhledávali zakázané umění. {^n}{^n}Oni našeho pána mučili, aby se naučili tajemství nesmrtelnosti. Na oplátku je Uroboruuk proklel k věčnému nežití. Po pádu Arkovie Uroboruuk založil Řád strážců smrti, aby se ujistil, že honbu za věděním a tajemstvím života už nikdy nebudou ohrožovat ignoranti.{^n}{^n}Nyní, když lidstvo stojí na pokraji vyhynutí, se zdá, že jeho učení je významější než kdy jindy. Navrátíme na svět řád, tak jak náš mistr rozhodl.
+
 
 
 
@@ -48,13 +62,22 @@ Nekromancie je studování smrti a sil života, které nás pojí k tomuto kone�
 
 
 
+
 Budu potřebovat nějaký čas, abych si to [[ms]promyslel[fs]promyslela].
+
 
 Co mi můžeš říct o Kymonových Vyvolených?
 Jsou to fanatici, posedlí pradávnou vírou uctívat neexistujícího boha známého jako Empyrion.{^n}{^n}Každý, kdo se postaví jejich zásadám, je heretik hodný anihilace. V tomto nejsou o nic lepší než říše, která pronásledovala Řád po celé generace.
 
 
+
 Budu potřebovat nějaký čas, abych si to [[ms]promyslel[fs]promyslela].
+What sort of equipment do you offer?
+You should find that our equipment can handle many situations, but the users of Cold, Vitality and minions will find our arsenal to be of great use.
+
+
+
+I'll need some time to think this through.
 Sbohem.
 Ten, jehož nazýváš Ulgrim, se vyptával na rozhovor s Řádem strážců smrti, a tak jsem před tebe předstoupil.
 Co je vlastně Řád strážců smrti?

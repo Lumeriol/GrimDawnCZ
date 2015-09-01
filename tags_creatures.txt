@@ -218,6 +218,8 @@ tagGazerHeroH04=Beholdan ~ zrcadlící
 tagGazerHeroH05=Garminix ~ obnovitel
 tagGazerHeroH06=Illumin ~ elektrizovaný
 
+tagEnemyFleshHulkBoss01=Venarius, lamač zad
+
 #CreatureGhost
 
 tagEnemyGhostA01=Zjevení
@@ -262,12 +264,21 @@ tagEnemyGolemRockB01=Mechem obrostlý strážce lesa
 tagEnemyGolemRockC01=Kamenitý strážce lesa
 tagEnemyGolemRockMiniBoss01=Pradávný strážce lesa
 
+tagEnemyGolemIceA01=Mrazivý strážce lesa
+tagEnemyGolemIceB01=Ojíněný strážce lesa
+tagEnemyGolemIceC01=Ledový strážce lesa
+
 tagGolemRockHeroH01=Kamenolam
 tagGolemRockHeroH02=Haldras, plivač plamenů
 tagGolemRockHeroH03=Kamenné srdce ~ zrcadlící
 tagGolemRockHeroH04=Kamenný mlejn ~ dobíječ
 tagGolemRockHeroH05=Zmrzlý kámen ~ zmrzlý
 tagGolemRockHeroH06=Prázdný kámen ~ dotčený Prázdnotou
+
+tagGolemIceHeroH01=
+tagGolemIceHeroH02=
+tagGolemIceHeroH03=
+tagGolemIceHeroH04=
 
 #CreatureGrobles
 
@@ -320,6 +331,7 @@ tagGrobleHeroH02=Arbagol Nožička
 tagGrobleHeroH03=Uldagu ~ požírač plamenů
 tagGrobleHeroH04=Molbagdal ~ vyvolavač bouří
 tagGrobleHeroH05=Holborack ~ obránce
+tagGrobleHeroH06=Špinavec flusající soply
 
 #Harpy
 
@@ -360,7 +372,7 @@ tagHumanCultistHeroH01=Julius Crowley, vysávač mysli
 tagHumanCultistHeroH02=Lucius Krvavý vřed
 tagHumanCultistHeroH03=Nathalian, přivolavač psů
 tagHumanCultistHeroH04=Ignacius ~ spalující
-tagHumanCultistHeroH05=Bolivar Krvežíznivý ~ obnovitel
+tagHumanCultistHeroH05=Balvadar Krvežíznivý ~ obnovitel
 tagEnemyBloodswornMiniBoss01=Salazar, čepel Ch'thona
 tagEnemyBloodswornMiniBoss02=Bolvar, vazač krve
 tagEnemyBloodswornMiniBoss03=Zaria Řezbář
@@ -943,6 +955,8 @@ tagPetWhirlwindA01=Vichřice
 tagPetThornedHorrorA01=Krvošípek
 tagPetManticoreA01=Duch minulosti
 tagPetWindDevilA01=Větrný dáběl
+tagPetTotemA01=Totem Wendiga
+tagPetTotemA02=Totem bouřky
 
 tagPetIceWallA01=Ledová bariéra
 

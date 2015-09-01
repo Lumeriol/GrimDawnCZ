@@ -35,10 +35,10 @@ tagMapNecropolis=Pohřebiště
 tagMapOldGrove=Starý háj
 tagMapVoidlands=Obsidiánový trůn
 tagMapVoidlands02=Popelavé pustiny
+tagMapVoidlands03=Opuštěné pustiny
 tagMapEastMarsh01=Východní močály
 tagMapEastMarsh02=Škodlivá paseka
 tagMapEastMarsh03=Craigovy útesy
-
 
 tagMapBrokenHills=Sesuté kopce
 tagMapOldArkovia=Stará Arkovia
@@ -235,6 +235,7 @@ tagUGFortFaction01=Pevnost Haron
 tagUGFortBlackLegion01=Pevnost Ikon
 tagUGCryptNecropolis01=Černý hrob
 tagUGCryptFactionBattle01=Hrobka Archóna Barthollema
+tagUGCryptFactionBattle02=Ztracená hrobka Zatraceného
 tagUGCryptZealot01=Korvaakova hrobka
 
 tagUGVoidlands01=Bašta Chaosu
@@ -710,7 +711,7 @@ tagLoreObj_LowerCrossingA02Text=Jsem tu v pasti... Až teď si uvědomuji, že v
 
 tagLoreObj_WightmireA01Name=Listina pro Wightmirského Krvepřísežníka
 tagLoreObj_WightmireA01codexTitle=Krvopříseřníkův úřední dopis
-tagLoreObj_WightmireA01Text=Nadešel čas udeřit na naše největší nepřátele, Aetheriany, ve Wightmire. V klidu jsme shromáždili naše síly v kopcích nad Burrwitchem, abychom na něj mohli snáze zaútočit. Nicméně předtím, než k tomu dojde, musíme zabezpečit Wightmire, abychom neměli nepřítele v zádech.{^n}{^n}I když jsou silní, loajální a připraveni zemřít ve jménu Ch'thona, mám dojem, že máte nedostatek Krvepřísežníků ke zdolání Aetherianských bojovníků. V poslední době jsme měli obrovský úspěch při zrodu mnohem silnějších služebníků Ch'thona z Prázdnoty. Jeden Posel může rozdrtit všechny Aetherianské ve Wightmire a klidně může pokračovat do Ďáblova průsmyku, který by mohl v této oblasti sloužit jako pevnost našeho řádu.{^n}{^n}Ke zrodu Posla budete potřebovat krev a životy alespoň tří mužů. Shromážděte oběti jak uznáte za vhodné; buď z uprchlíků na cestách, tuláckých osad nebo vybírejte mezi vlastními Krvepřísežníky. Informujte mne o vašem úspěchu, až bude po všem.{^n}{^n}Velekněz Ulto Treig
+tagLoreObj_WightmireA01Text=Nadešel čas udeřit na naše největší nepřátele, Aetheriany, ve Wightmire. V klidu jsme shromáždili naše síly v kopcích nad Burrwitchem, abychom na něj mohli snáze zaútočit. Nicméně předtím, než k tomu dojde, musíme zabezpečit Wightmire, abychom neměli nepřítele v zádech.{^n}{^n}I když jsou silní, loajální a připraveni zemřít ve jménu Ch'thona, mám dojem, že máte nedostatek Krvepřísežníků ke zdolání Aetherianských bojovníků. V poslední době jsme měli obrovský úspěch při zrodu mnohem silnějších služebníků Ch'thona z Prázdnoty. Jeden Posel může rozdrtit všechny Aetheriany ve Wightmire a klidně může pokračovat do Ďáblova průsmyku, který by mohl v této oblasti sloužit jako pevnost našeho řádu.{^n}{^n}Ke zrodu Posla budete potřebovat krev a životy alespoň tří mužů. Shromážděte oběti jak uznáte za vhodné; buď z uprchlíků na cestách, tuláckých osad nebo vybírejte mezi vlastními Krvepřísežníky. Informujte mne o vašem úspěchu, až bude po všem.{^n}{^n}Velekněz Ulto Treig
 
 tagLoreObj_WightmireA02Name=List Miltona Harta
 tagLoreObj_WightmireA02Text=Obávám se, že budu muset porušit svůj slib. Nechci to vzdávat, ale zatím se to venku moc dobře nevyvíjí. Měl jsem štěstí, že jsem přežil už první noc, kdy jsem jako dobrovolník pozdržel Hnijící chodce, zatímco Bourbon a jeho skupina, včetně mojí malé sestry Sybil, mířili do Ďáblova průsmyku. Bourbonovi věřím a pokud je někdo schopný vést tyhle lidi, je to prostě on. Než odešli, podíval jsem se Bourbonovi do očí a řekl mu, aby sestru udržel v bezpečí. Položil mi ruku na rameno a promluvil tím svým tichým, uklidňujícím tónem. Řekl mi, že udělá všechno, co bude moci, ale musel jsem také něco slíbit. Že udělám všechno proto, abych se odsud dostal živý.{^n}{^n}S jistotou si myslím, že jsem se dostal do pasti. Sice jsem odvrátil hrozbu chodců, ale teď jsem jimi obklíčen. Skrývám se mezi několika starým zchrátralými chatrčemi a snažím se změnit pozici, jakmile cítím, že se smrt blíží. Nedokážu mezi nimi projít a snažím se utíkat z denního světla. Chodci se zdají opravdu pitomí, ale mám dojem, že se během včerejší noci vyhrabali na břeh a voda jim vymlela cestu. Skoro jako by je něco řídilo.{^n}{^n}Ještě jsem neskončil, ale nehodlám chcípnout v týhle shnilý chajdě. Pokusím se vymanit odsud a probojovat si cestu skrz, pokud budu muset. Pokud přijde to nejhorší, a najdeš tenhle cár papíru u mý vystydlý mrtvoly, dej alespoň vědět mé sestře Sybil, co se tady událo, a řekni jí, aby byla statečná. Jenom doufám, že se v pořádku dostala do Ďáblova průsmyku.
