@@ -169,7 +169,7 @@ tagWorldMapBloodGrove=Krvavý{^n}háj
 tagWorldMapDarkvaleMill=Gryverův{^n}mlýn
 tagWorldMapDarkvale=Vesnice{^n}Darkvale
 tagWorldMapDarkvaleGate=Brána{^n}v Darkvale
-tagWorldMapFactionFort=Prvnost Haron
+tagWorldMapFactionFort=Pevnost Haron
 tagWorldMapBloodGroveMine=Mortonovy{^n}pozemky
 
 
@@ -353,7 +353,7 @@ tagPOIQuest_Homestead=Zabezpeč cestu do Homesteadu
 tagNotification_WightmireBurialCaveFound=Zdroj nemrtvých je poblíž...
 tagNotification_WightmireReanimatorFound=Stvoření je znovuoživená mrtvola!
 tagNotification_WightmireCaravanFound=Tenhle masakr se stal nedávno...
-tagNotification_WightmireCaravanDriverFound=Vězeň žádá o pomoc!
+tagNotification_WightmireCaravanDriverFound=Vězeň prosí o pomoc!
 tagNotification_InventoryBagAcquired=Získán pytel na věci!
 tagNotification_BurrwitchRiftgateEvent=Brána a její okolí se hemží nepřáteli!
 tagNotification_BurrwitchRiftgateSecured=Nepřátelé v okolí Burrwitchské Brány byli zlikvidováni!
@@ -368,7 +368,7 @@ tagNotification_HS_WeNeedFood_HomesteadBridgeFound=Starý pobřežní most je zn
 tagNotification_HS_WeNeedFood_HomesteadSmugglerPassCrossed=Prošel jsi Pašeráckým průsmykem. Teď se podívej po cestě do Homesteadu.
 tagNotification_HS_OldArkoviaPassagesCompleted=Prošel jsi Arkovianskou chodbou a prozkoumal její obsah.
 tagNotification_HS_OldArkoviaPassagesBossKilled=Získal jsi kousek roztříštěné duše Poskvrněného!
-tagNotification_HS_RoverLegacy_Chthonians=Svatyně Mogdrogena je zamořená chthonickými bytostmo!
+tagNotification_HS_RoverLegacy_Chthonians=Svatyně Mogdrogena je zamořená chthonickými bytostmi!
 tagNotification_HS_RoverLegacy_Cleansed=Chthonické bytosti byly vypuzeny!
 
 tagNotification_AreaC_EnclaveRiftgateEvent=Vstup do Homesteadu je obsazen Aetherijskými bytostmi!
@@ -632,7 +632,7 @@ tagQuestItemCultistNecropolisNote=Karrozův tlustopis
 tagQuestItemCultistNecropolisNote_Desc="Kniha je popsána temnými rituály, které líčí návrat velké temnoty z Pohřebiště."
 
 tagQuestItemAnnalsOfArkovia=Arkovianské anály
-tagQuestItemAnnalsOfArkovia_Desc="Záznamy z posledních dnů arkovianského krále Rhowana."
+tagQuestItemAnnalsOfArkovia_Desc="Záznamy posledních dnů arkovianského krále Rhowana."
 
 tagQuestItemExileBeastFang=Tesák šelmy
 tagQuestItemExileBeastFang_Desc="Tesák Beronathovy mrtvé příšery."
@@ -927,10 +927,10 @@ tagLoreObj_AreaCZealot_Note02Name=Světlo naděje
 tagLoreObj_AreaCZealot_Note02Text=Viděla jsem mezi prvními očišťující sílu Kymonova plamene a nikdo mě už nepřesvědčí o opaku. Naše jednotky byly přečísleny hrůzami mimo moje chápání, to bylo poté, co jsem ho poprve spatřila.{^n}{^n}Stejně jako zářící maják v chaosu vstoupil Otec Kymon do bitvy. Byl jako planoucí vítr spalující les, který rostl svévolně příliš dlouho a je nutné ho vykácet a vyrvat kořeny, které se snaží přiškrtit světlo tohoto světa. Tušila jsem, že jednoho dne bude jedním z těch, kteří nás vyvedou z těchto hrůz. Je to jeho spravedlnost, která hoří v temnotách tohoto světa a vyhání všechno to zlo. Nezklamu ho.{^n}{^n}Ostrá panna Sendra Ambri
 
 tagLoreObj_AreaCZealot_Note03Name=Kymonův deník - 1. část
-tagLoreObj_AreaCZealot_Note03Text=The Messenger is harsh to deal with. With each exchange I feel drained as though my life were being drawn into a deep well. Everything appears darker and father away as if seen though a long tunnel. A lesser man without the years of Inquisitor mental training would be consumed.{^n}{^n}Even as I write this, I can sense its energy rippling through the room. I can feel it like worms twitching below my skin. It burrows and pulls, urging me to get closer. I dread to think of what would become of any of my Chosen should they get too close to this entity. What would remain, I cannot say, but I suspect the Messenger would shuck the mind and claim the body for its own.{^n}{^n}I fear there are none who would understand or survive this secret. I alone must shoulder this burden and so I will steel myself and endure. I have taken on a great risk, but the fate of the world hinges on the success of The Chosen and the pact that I have made.{^n}{^n}Father Kymon
+tagLoreObj_AreaCZealot_Note03Text=Bejt poslem je tvrdá dřina. S každou zásilkou se cejtim vyčerpanější a můj život je je v čim dál větší krizi. Všechno se zdá černější a vzdálenější, jako bych byl v nějakym šíleně dlouhym tunelu, kterej nemá druhej konec. Malej člověk bez nějaké mentální inkvizitorské průpravy během let bude jednou úplně ztracenej.{^n}{^n}Když tohle píšu, cejtim nějakou vlnící energii tady v místnosti. Cejtim to, jako by mi červi lezli pod kůží.  Hrabe se to ve mně a pulzuje to, táhne mě to k sobě blíž. Bojim se pomyslet co by se mohlo stát, kdyby některej z mejch Vyvolenejch dostal poblíž týhle entity. Co by zůstalo nedokážu vůbec říct, ale mam podezření, že Posel přišel o rozum a poskytnul svoje tělo.{^n}{^n}Bojim se, že že tu neni nikdo, kdo by to pochopil nebo přežil tohle tajemství. Sám musim nést tohle břímě a tak se musim zocelit a přetrpět to. Vzal jsem na sebe vobrovský riziko, ale osud světa závisí na úspěchu Vyvoleného a smlouvy, kterou jsem uzavřel.{^n}{^n}Otec Kymon
 
 tagLoreObj_AreaCZealot_Note04Name=Kymonův deník - 2. část
-tagLoreObj_AreaCZealot_Note04Text=There are questions that have been scratching at the back of my mind. I have tried to push them aside but with each conversation I have with the Messenger they become harder to ignore.{^n}{^n}I must ask: when the last demon is driven from this world, what will become of us then? In my heart, I fear I already know the answer, but dare not speak it out loud. I have no doubt that I have made the right choice. The power I have revived will be humanity's salvation from the blood fiends of the Chthonic Void.{^n}{^n}However, there must always be evil. And when there is no evil left to conquer who or, more frighteningly, what will fill that emptiness? Will we become as reviled as those who we oppose? The Primordial powers have no care or sympathy for humanity. Without shackles, this power I have borrowed could be just as disastrous as, or perhaps even worse than, Ch'thon.{^n}{^n}I now wish I had not burned the town where I awoke this ancient being. If it ever needs to be stopped I may have destroyed the last remaining knowledge to unmake it.{^n}{^n}Father Kymon
+tagLoreObj_AreaCZealot_Note04Text=Jsou tady otázky, který mě užíraj. Snažim se na to nemyslet, ale po každý rozmluvě s Poslem, je těžší a těžší to ignorovat.{^n}{^n}Musim se ptát, jestli až poslední démon vodejde z tohohle světa, co pak bude s náma? V mym srdci už je známa odpověď, ale bojim se o tom mluvit nahlas. Nepochybuju o tom, že jsem se rozhodnul správně. In my heart, I fear I already know the answer, but dare not speak it out loud. I have no doubt that I have made the right choice. Ta moc, kterou jsem vzkřísil, bude spásou lidstva z krve ďáblů chthonické Prázdnoty.{^n}{^n}Na druhou stranu, vždycky musí existovat zlo. A když tady nebude žádný zlo, který by mohlo bejt poraženo, kdo, respektive co, ho nahradí? Staneme se těma, který budou nadávat a pak se to obrátí nám a budeme těma špatnýma? Vyšší moci nemaj žádnou obavu ani soucit vůči lidstvu. Bez zkrocení by síla, kterou jsem si vypučil, mohla bejt stejně katastrofická, nebo snad ještě horší, než samotnej Ch'thon.{^n}{^n}Teď si přeju, abych nespálil město, kde jsem probudil tu starodávnou bytost. Jestli se tohle bude dát zastavit, měl bych zničit poslední zbytky znalostí, který to můžou zrušit.{^n}{^n}Otec Kymon
 
 
 
@@ -991,35 +991,35 @@ tagStoreTitle_SmithA01=Mistr kovadliny
 tagStoreDesc_SmithA01_1={}Praktické dovednosti
 tagStoreDesc_SmithA01_2=Angrim využívá své dlouholeté zkušenosti k ukování smrtících zbraní a pevných zbrojí.
 tagStoreDesc_SmithA01_3=
-tagStoreDesc_SmithA01_4=Vytvořené zbraně, zbroj a příslušenství jsou prodchnuty jednou z následujících vlastností:
+tagStoreDesc_SmithA01_4=Vyrobené zbraně, zbroj a příslušenství jsou prodchnuty jednou z následujících vlastností:
 
 tagNPC_SmithA02=Duncan
 tagStoreTitle_SmithA02=Tajemný kovář
 tagStoreDesc_SmithA02_1={}Tajemné kování
 tagStoreDesc_SmithA02_2=Duncan používá experimentální metody k prodchnutí zbraní a zbrojí tajemnými vlastnostmi.
 tagStoreDesc_SmithA02_3=
-tagStoreDesc_SmithA02_4=Vytvořené zbraně, zbroj a příslušenství jsou prodchnuty jednou z následujících vlastností:
+tagStoreDesc_SmithA02_4=Vyrobené zbraně, zbroj a příslušenství jsou prodchnuty jednou z následujících vlastností:
 
 tagNPC_SmithA03=Valdrick
 tagStoreTitle_SmithA03=Kovář Legionářů
 tagStoreDesc_SmithA03_1={}Poznání nepřítele
-tagStoreDesc_SmithA03_2=Valdrick sledoval a studoval nepřátele lidstva a naučil se vkládat jejich sílu do kovářského řemesla.
+tagStoreDesc_SmithA03_2=Valdrick sledoval a studoval nepřátele lidstva a naučil se vkládat jejich moc do kovářského řemesla.
 tagStoreDesc_SmithA03_3=
-tagStoreDesc_SmithA03_4=Vytvořené zbraně, zbroj a příslušenství jsou prodchnuty jednou z následujících vlastností:
+tagStoreDesc_SmithA03_4=Vyrobené zbraně, zbroj a příslušenství jsou prodchnuty jednou z následujících vlastností:
 
 tagNPC_SmithA04=Horrus
 tagStoreTitle_SmithA04=Padlý kovář
 tagStoreDesc_SmithA04_1={}Dar neživota
 tagStoreDesc_SmithA04_2=Horrus je obdarován staletými kovářskými znalostmi, jež jsou posíleny jeho poněkud jedinečným... stavem existence.
 tagStoreDesc_SmithA04_3=
-tagStoreDesc_SmithA04_4=Vytvořené zbraně, zbroj a příslušenství jsou prodchnuty jednou z následujících vlastností:
+tagStoreDesc_SmithA04_4=Vyrobené zbraně, zbroj a příslušenství jsou prodchnuty jednou z následujících vlastností:
 
 tagNPC_SmithA05=Bratr Galvin
 tagStoreTitle_SmithA05=Kymonův kovář
 tagStoreDesc_SmithA05_1={}Posvěcení Empyrionem
 tagStoreDesc_SmithA05_2=Galvinova práce je považována za posvátnou, jeho kladivo řídí sám Empyrion.
 tagStoreDesc_SmithA05_3=
-tagStoreDesc_SmithA05_4=Vytvořené zbraně, zbroj a příslušenství jsou prodchnuty jednou z následujících vlastností:
+tagStoreDesc_SmithA05_4=Vyrobené zbraně, zbroj a příslušenství jsou prodchnuty jednou z následujících vlastností:
 
 
 #Faction Quartermasters
@@ -1052,8 +1052,8 @@ tagStoreTitle_FactionQuartermaster_09=Tajemství Vyvrhelů
 #Faction Bounty Tables
 tagNPC_FactionTable_01=Vývěska v Ďáblově průsmyku
 tagNPC_FactionTable_02=Tulácká vývěska
-tagNPC_FactionTable_03=Homestead v Homestead
+tagNPC_FactionTable_03=Vývěska v Homesteadu
 tagNPC_FactionTable_04=Vývěska Černé legie
 tagNPC_FactionTable_05=Vývěska Kymonových Vyvolených
 tagNPC_FactionTable_06=Vývěska Řádu Strážců smrti
-tagNPC_FactionTable_07=Vyvrhelův stůl
+tagNPC_FactionTable_07=Vyvrhelčin stůl
