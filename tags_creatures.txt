@@ -273,7 +273,7 @@ tagGolemRockHeroH02=Haldras, plivač plamenů
 tagGolemRockHeroH03=Kamenné srdce ~ zrcadlící
 tagGolemRockHeroH04=Kamenný mlejn ~ dobíječ
 tagGolemRockHeroH05=Zmrzlý kámen ~ zmrzlý
-tagGolemRockHeroH06=Prázdný kámen ~ dotčený Prázdnotou
+tagGolemRockHeroH06=Dutý kámen ~ dotčený Prázdnotou
 
 tagGolemIceHeroH01=
 tagGolemIceHeroH02=
@@ -417,7 +417,7 @@ tagHumanHeroH01=Krvavý Jack
 tagHumanHeroH02=Černooký Delnar
 tagHumanHeroH03=Zuřivec Hudson
 tagHumanHeroH04=Stínový Nadra
-tagHumanHeroH05=Serul, zpěvák ve stínu
+tagHumanHeroH05=Serul, zpěvák ve stínech
 tagHumanHeroH06=Wiley Mrskač ~ rychlý
 tagHumanHeroH07=Krvavý pes Everett ~ planoucí
 tagHumanHeroH08=Jednooký Dred
@@ -821,7 +821,7 @@ tagEnemyTrollCorruptedC01=Pokroucený velitel
 
 tagTrollCorruptedHeroH01=Sulkarr, bleskem zasažený
 tagTrollCorruptedHeroH02=Děsivý Horcris
-tagTrollCorruptedHeroH03=Corruptis
+tagTrollCorruptedHeroH03=Pukavec
 tagTrollCorruptedHeroH04=Caladrak ~ nezastavitelný
 tagTrollCorruptedHeroH05=Faldrak ~ odrážející
 

@@ -36,7 +36,7 @@ tagTransferStashError={^r}Tento předmět sem nelze umístit
 
 tagRiftgatePersonal=Osobní Brána
 tagRiftgateDestination=Lokace
-tagRiftgateError01=Tuto Bránu nemůžeš použít. Byla vytvořen hráčem, který není ve tvé skupině.
+tagRiftgateError01=Tuto Bránu nemůžeš použít. Byla vytvořena hráčem, který není ve tvé skupině.
 tagRiftgateDialog01=Otevřením nové Brány uzavřeš svoji stávající Bránu. Je to tvým záměrem?
 tagRiftGateMapA01=Cairn
 
@@ -316,7 +316,7 @@ tagFactionStateRevered=Uctívaný
 
 #Faction Window
 
-tagFactionStatusChange={^w}Dosáhl jsi nové úrovně přízně "{^b}{%s0} {^w}" svůči frakci {^b}{%s1} {^w}.
+tagFactionStatusChange={^w}Dosáhl jsi nové úrovně přízně "{^b}{%s0} {^w}" vůči frakci {^b}{%s1} {^w}.
 tagFactionNegativeStatusChange={^w}Frakce {^b}{%s1} {^w} vůči tobě změnila svou přízeň. Nový stav přízně: "{%s0}" {^w}.
 tagFactionDoorLocked={^r}Tvá úroveň přízně vůči frakci {^b}{%s0} {^r}ti neumožňuje vstoupit na toto území.
 tagFactionWindowName=Frakce
@@ -332,9 +332,9 @@ tagFactionProgress=Potřebuješ ještě {^b}{%d1} {^w} bodů na úroveň přízn
 tagFactionKillingGain=Přízeň získáš za vyvražďování:
 tagFactionKillingLoss=Nepřízeň si vysloužíš za vyvražďování:
 tagFactionRewardsTier=Odemčeno na úrovni přízně "{%s0}{^w}":
-tagFactionKillCommon=Běžných příšer
-tagFactionKillChampion=Šampionů
-tagFactionKillHero=Hrdinů
+tagFactionKillCommon=běžných příšer
+tagFactionKillChampion=šampionů
+tagFactionKillHero=hrdinů
 tagFactionKillBoss=padouchů
 tagFactionBonusRep=Bonusová přízeň: {%d0}%
 tagFactionBonusInfamy=Bonusová nepřízeň: {%d0}%
@@ -846,62 +846,62 @@ tagCharStatsInternalTraumaPercentRet=Bonus k šoku
 tagCharStatsInternalTraumaPercentRetInfo=Procentuální bonus ke všem efektům pomocí odplaty vnitřním šokem.
 
 tagCharStatsFireRet=Oheň
-tagCharStatsFireRetInfo=Zranění ohněm způsobené útočníkovi kdykoliv tě zasáhne.
+tagCharStatsFireRetInfo=Zranění ohněm způsobené útočníkovi, kdykoliv tě zasáhne.
 tagCharStatsFirePercentRet=Bonus k ohni
 tagCharStatsFirePercentRetInfo=Procentuální bonus ke všem efektům pomocí odplaty ohnivým zraněním.
 
 tagCharStatsColdRet=Chlad
-tagCharStatsColdRetInfo=Zranění chladem způsobené útočníkovi kdykoliv tě zasáhne.
+tagCharStatsColdRetInfo=Zranění chladem způsobené útočníkovi, kdykoliv tě zasáhne.
 tagCharStatsColdPercentRet=Bonus k chladu
 tagCharStatsColdPercentRetInfo=Procentuální bonus ke všem efektům pomocí odplaty zraněním chladem.
 
 tagCharStatsLightningRet=Blesky
-tagCharStatsLightningRetInfo=Zranění blesky způsobené útočníkovi kdykoliv tě zasáhne.
+tagCharStatsLightningRetInfo=Zranění blesky způsobené útočníkovi, kdykoliv tě zasáhne.
 tagCharStatsLightningPercentRet=Bonus k bleskům
 tagCharStatsLightningPercentRetInfo=Procentuální bonus ke všem efektům pomocí odplaty zraněním blesky.
 
 tagCharStatsAcidRet=Poleptání
-tagCharStatsAcidRetInfo=Zranění poleptáním způsobené útočníkovi kdykoliv tě zasáhne.
+tagCharStatsAcidRetInfo=Zranění poleptáním způsobené útočníkovi, kdykoliv tě zasáhne.
 tagCharStatsAcidPercentRet=Bonus k poleptání
 tagCharStatsAcidPercentRetInfo=Procentuální bonus ke všem efektům pomocí odplaty poleptáním.
 
 tagCharStatsVitalityRet=Ztráta životní energie
-tagCharStatsVitalityRetInfo=Zranění ztrátou životní energie způsobené útočníkovi kdykoliv tě zasáhne.
+tagCharStatsVitalityRetInfo=Zranění ztrátou životní energie způsobené útočníkovi, kdykoliv tě zasáhne.
 tagCharStatsVitalityPercentRet=Bonus k životní energii
 tagCharStatsVitalityPercentRetInfo=Procentuální bonus ke všem efektům pomocí odplaty ztrátou životní energie.
 
 tagCharStatsAetherRet=Aether
-tagCharStatsAetherRetInfo=Zranění Aetherem způsobené útočníkovi kdykoliv tě zasáhne.
+tagCharStatsAetherRetInfo=Zranění Aetherem způsobené útočníkovi, kdykoliv tě zasáhne.
 tagCharStatsAetherPercentRet=Bonus k Aetheru
 tagCharStatsAetherPercentRetInfo=Procentuální bonus ke všem efektům pomocí odplaty aetherickým zraněním.
 
 tagCharStatsChaosRet=Chaos
-tagCharStatsChaosRetInfo=Zranění chaosem způsobené útočníkovi kdykoliv tě zasáhne.
+tagCharStatsChaosRetInfo=Zranění chaosem způsobené útočníkovi, kdykoliv tě zasáhne.
 tagCharStatsChaosPercentRet=Bonus k chaosu
 tagCharStatsChaosPercentRetInfo=Procentuální bonus ke všem efektům pomocí odplaty chaotickým zraněním.
 
 tagCharStatsBurnRet=Popálení
-tagCharStatsBurnRetInfo=Zranění popálením udělené každou sekundu po dobu 3 sekund, způsobené útočníkovi kdykoliv tě zasáhne.
+tagCharStatsBurnRetInfo=Zranění popálením udělené každou sekundu po dobu 3 sekund, způsobené útočníkovi, kdykoliv tě zasáhne.
 tagCharStatsBurnPercentRet=Bonus k popáleninám
 tagCharStatsBurnPercentRetInfo=Procentuální bonus ke všem efektům pomocí odplaty popálením.
 
 tagCharStatsColdburnRet=Omrzliny
-tagCharStatsColdburnRetInfo=Zranění omrznutím udělené každou sekundu po dobu 3 sekund, způsobené útočníkovi kdykoliv tě zasáhne.
+tagCharStatsColdburnRetInfo=Zranění omrznutím udělené každou sekundu po dobu 3 sekund, způsobené útočníkovi, kdykoliv tě zasáhne.
 tagCharStatsColdburnPercentRet=Bonus k omrzlinám
 tagCharStatsColdburnPercentRetInfo=Procentuální bonus ke všem efektům pomocí odplaty omrznutím.
 
 tagCharStatsElectrocuteRet=Elektrický proud
-tagCharStatsElectrocuteRetInfo=Zranění zásahem elektrického proudu udělené každou sekundu po dobu 3 sekund, způsobené útočníkovi kdykoliv tě zasáhne.
+tagCharStatsElectrocuteRetInfo=Zranění zásahem elektrického proudu udělené každou sekundu po dobu 3 sekund, způsobené útočníkovi, kdykoliv tě zasáhne.
 tagCharStatsElectrocutePercentRet=Bonus k el. proudu
 tagCharStatsElectrocutePercentRetInfo=Procentuální bonus ke všem efektům pomocí odplaty zásahem elektrickým proudem.
 
 tagCharStatsPoisonRet=Otrávení
-tagCharStatsPoisonRetInfo=Zranění otrávením udělené každou sekundu po dobu 5 sekund, způsobené útočníkovi kdykoliv tě zasáhne.
+tagCharStatsPoisonRetInfo=Zranění otrávením udělené každou sekundu po dobu 5 sekund, způsobené útočníkovi, kdykoliv tě zasáhne.
 tagCharStatsPoisonPercentRet=Bonus k otrávení
 tagCharStatsPoisonPercentRetInfo=Procentuální bonus ke všem efektům pomocí odplaty otrávením.
 
 tagCharStatsVitalityDecayRet=Uhnívání
-tagCharStatsVitalityDecayRetInfo=Zranění uhníváním udělené každou sekundu po dobu 3 sekund, způsobené útočníkovi kdykoliv tě zasáhne.
+tagCharStatsVitalityDecayRetInfo=Zranění uhníváním udělené každou sekundu po dobu 3 sekund, způsobené útočníkovi, kdykoliv tě zasáhne.
 tagCharStatsVitalityDecayPercentRet=Bonus k uhnívání
 tagCharStatsVitalityDecayPercentRetInfo=Procentuální bonus ke všem efektům pomocí odplaty uhníváním.
 
@@ -1226,7 +1226,7 @@ tagCharAttribute03R={%+.0f0}-{%.0f1} {^E}duchovna
 tagCharAttribute04R={%+.0f0}-{%.0f1} {^E}zdraví
 tagCharAttribute05R={%+.0f0}-{%.0f1} {^E}magické energie
 tagCharLifeRegenR={%+.1f0}-{%.1f1} {^E}zdraví obnovené za sekundu
-tagCharManaRegenR={%+.1f0}-{%.1f1} {^E}msgické energie obnovené za sekundu
+tagCharManaRegenR={%+.1f0}-{%.1f1} {^E}magické energie obnovené za sekundu
 tagCharAttribute01ModifierR={%+.0f0}-{%.0f1}% {^E}rafinovanosti
 tagCharAttribute02ModifierR={%+.0f0}-{%.0f1}% {^E}fyzické kondice
 tagCharAttribute03ModifierR={%+.0f0}-{%.0f1}% {^E}duchovna
@@ -1545,7 +1545,7 @@ tagDotPoison=Otrávení
 tagDotLightning=Elektrický šok
 tagDotChaos=Chaos
 tagDotAether=Aether
-tagDotLifeLeech=Vysávání života
+tagDotLifeLeech=Vysátí života
 
 tagSetItems={%d0} části setu
 tagSecond={^E}sekund
@@ -1914,10 +1914,10 @@ tagGrave01=Hrob hráče ~ {%t0}
 tagGrave02=Zabil tě {%t0}
 tagGrave03=Znovunavrácené zkušenosti: {%d0}
 tagHeroXPShort={%d0} hrdinských zkušeností
-tagBossXPShort={%d0} zkušeností hlavního nepřítele
-tagBossXPLong01=Nepřátelé hlavního nepřítele zabiti
+tagBossXPShort={%d0} zkušeností hlavního padoucha
+tagBossXPLong01=Nepřátelé hlavního padoucha zabiti
 tagBossXPLong02={%d0} přidělených zkušeností
-tagHeroXPLong01=Zabit hrdina nepřátel
+tagHeroXPLong01=Zabit nepřátelský hrdina
 tagHeroXPLong02={%d0} zkušeností přiděleno
 
 tagPetBonusNameAllPets=Bonus pro všechny spojence
@@ -2018,7 +2018,7 @@ tagChatReply=ODPOVĚDĚT
 tagChatSpeak=Mluvit s . . .
 tagChatError=Hráč tohoto jména neexistuje.
 tagChatMuted={%t0} je umlčený.
-tagChatUnmuted={%t0} už není umlčený.
+tagChatUnmuted={%t0} není umlčený.
 tagChatCommandShort01=p
 tagChatCommandShort02=a
 tagChatCommandShort03=r
