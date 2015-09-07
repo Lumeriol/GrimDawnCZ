@@ -1,13 +1,13 @@
-Necropolis
-Legion Retribution
-Destroy Obelisks
-Battlemage Moira of the Black Legion has tasked you with a dangerous mission that should cripple the Aetherials' ability to transform Cairn into whatever hell they came from. To her, it's not just about that though. This is a mission of payback, of revenge for lives taken. Travel to Deadman's Gulch and reopen the sealed off mine-shaft leading to the area called the Immolation. There, among the Aetherfire, you will find the Herald of Destruction, a giant Aetherial obelisk that has been terraforming the landscape. Destroy it, take revenge upon the Aetherials in the name of the Black Legion.
+Nekropole
+Odplata Legie
+Znič Obelisk
+Bojová kouzelnice Moira ti dala za úkol nebezpečnou misi, která by měla zlomit schopnost Aetherianů proměnit Cairn do jakéhokoliv pekla, ze kterého oni pocházejí. Pro ni to ale není pouze o tom. Tato mise je odplatou, pomstou za zmařené životy. Vydej se do Rokle mrtvého muže a znovu otevři uzavřenou důlní šachtu vedoucí do oblasti zvané Obětování. Tam, mezi Aetherickými plameny, nalezneš Posla zničení, obří Aetherianský obelisk, který přeměňoval krajinu. Znič ho a pomsti se tak na Aetherianech ve jménu Černé legie.
 
-Slay the Herald of Destruction
+Znič Posla zničení
 
-Turn-in
-You have slain the Herald of Destruction, thus crippling the Aetherials' effort to terraform Cairn and taking revenge upon the Aetherials for the lives lost on Moira's battalion. You should report back to her in Fort Ikon.
-Report to Battlemage Moira
+Obrat
+[[ms]Zničil[fs]Zničila] jsi Posla zničení a tak [[ms]překazil[fs]překazila] úsilí Aetherianů přeměnit Cairn a zároveň ses [[ms]pomstil[fs]pomstila] za zmařené životy v Moiřině praporu. [[ms]Měl[fs]Měla] by ses jí ohlásit zpět v pevnosti Ikon.
+Ohlaš se zpět bojové kouzelnici Moiře
 
 
 

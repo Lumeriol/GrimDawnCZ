@@ -17,18 +17,18 @@ Už vyrážím.
 Musím tě požádat, abys [[ms]vyhledal[fs]vyhledala] naši svatyni na severu. Zabrali jsme malou kryptu ukrytou v horách, na východ od Bašty zármutku.{^n}{^n}Aby ses tam [[ms]dostal[fs]dostala], musíš se vydat po cestě na sever přes Neobdělaná pole. Jakmile dojdeš k ruinám staré pevnosti, pak jsi blízko našemu domovu.{^n}{^n}Až budeš uvnitř, vyhledej mistra Varuuka. Bude si chtít promluvit s naším novým spojencem.
 Vyhledám vaši svatyni.
 Možná někdy jindy.
-You are a fool to trust Kymon's Chosen.
-You're right, it was a mistake. I wish to join you.
-Are you certain of this? The Order will welcome you as an ally, but everything you have done up to this moment will be forgotten.{^n}{^n}(Warning: selecting the Order will reset your Faction Reputation with the Order of Death's Vigil and Kymon's Chosen)
-The Black Legion will work with you. (Select the Order)
-Splendid. I shall make the arrangements immediately.{^n}{^n}In the meantime, I would ask that you seek out our sanctum to the north. We have claimed a small crypt hidden in the mountains, just west of Sorrow's Bastion.{^n}{^n}To get there, you must take the road north through the Fallow Fields. When you've reached the old fort ruins, then you are close to our home.{^n}{^n}Once inside, see Master Varuuk. He will wish to speak with our new ally.
-I will seek out your sanctum.
-Perhaps another time.
-Perhaps not.
-They are valuable allies.
-Word of your actions has already reached me. The Order is eager to continue their efforts with you alongside them.
+Jsi hlupák,  pokud věříš Kymonovým Vyvoleným.
+Máš pravdu, byla to chyba. [[ms]Chtěl[fs]Chtěla] bych se k vám přidat.
+Jsi si tím [[ms]jistý[fs]jistá]? Řád tě přivítá jako spojence, ale vše, co jsi doteď [[ms]vykonal[fs]vykonala] bude zapomenuto. {^n}{^n}(Varování: Zvolení Řádu vyresetuje reputaci s frakcemi Řád hlídky smrti a Kymonovi Vyvolení)
+Černá legie s vámi bude spolupracovat. (Zvol Řád)
+Skvěle. Začnu s přípravami okamžitě.{^n}{^n}Mezitím bych tě požádal, abys [[ms]vyhledal[fs]vyhledala] naše útočiště na severu. Zabrali jsme malou kryptu ukrytou v horách, na východ od Bašty zármutku.{^n}{^n}Aby ses tam [[ms]dostal[fs]dostala], musíš se vydat po cestě na sever přes Neobdělaná pole. Jakmile dojdeš k ruinám staré pevnosti, pak jsi blízko našemu domovu.{^n}{^n}Až budeš uvnitř, vyhledej mistra Varuuka. Bude si chtít promluvit s naším novým spojencem.
+Vyhledám vaši svatyni.
+Možná někdy jindy.
+Třeba ne.
+Jsou to hodnotní spojenci.
+Už se ke mně dostala slova o tvých činech. Řád je dychtivý pokračovat ve svém úsilí s tebou po boku.
 
-We'll speak of this later.
+Promluvíme si o tom později.
 Buď [[ms]pozdraven[fs]pozdravena], já jsem Haruuv a reprezentuji Řád strážců smrti.{^n}{^n}Jsme odhodláni diskutovat o dohodě, i v případě, že by měla být i s tak pochybnou společností.
 Myslím, že už jsem se [[ms]rozhodl[fs]rozhodla].
 Jak to tedy bude? Bude Černá legie bojovat bok po boku s Řádem strážců smrti proti vetřelcům, jež vstoupili do našeho světa?
@@ -72,8 +72,8 @@ Jsou to fanatici, posedlí pradávnou vírou uctívat neexistujícího boha zná
 
 
 Budu potřebovat nějaký čas, abych si to [[ms]promyslel[fs]promyslela].
-What sort of equipment do you offer?
-You should find that our equipment can handle many situations, but the users of Cold, Vitality and minions will find our arsenal to be of great use.
+Jaký druh vybavení nabízíte?
+[[ms]Měl[fs]Měla] bys vědět, že naše vybavení může vyřešit mnoho situací, ale ti, jež využívají chlad, vitalitu a přisluhovače zjistí, že jim bude náš arzenál velmi užitečný.
 
 
 
