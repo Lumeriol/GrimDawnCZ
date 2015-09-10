@@ -194,7 +194,7 @@ tagClass02SkillDescription03C=Další chemické modifikace způsobují, že Ohni
 tagClass02SkillName03D=Síra
 tagClass02SkillDescription03D=Umění s ohněm okořeněné tajemstvím okultismu vylepšuje Ohnivý úder o chaotickou energii získané ze síry. ^oS útokem na dálku také exploduje a roztrhne se na roztavené části.
 tagClass02SkillName03E=Spalující útok
-tagClass02SkillDescription03E=Focusing the destructive power of Fire Strike allows it to hit with greater intensity while requiring less energy, but this technique can only be achieved with the proper handling of a melee weapon or two-handed rifle or crossbow.  ^oRequires a melee or two-handed ranged weapon.
+tagClass02SkillDescription03E=Soustředění se na destruktivní sílu Ohnového úderu umožnuje zásah s větší intenzitou, zatímco je vyžadováno méně energie, ale této techniky může být dosaženo pouze správným zacházením ruční zbraně, obouruční palné zbraně či kuše. ^oVyžaduje chladnou nebo obouruční střelnou zbraň.
 
 tagClass02SkillName04A=Tříštivá bomba
 tagClass02SkillDescription04A=Výbušnina obalená dalšími výbušninami; tento ďábelský vynález je schopný rozmetat celé hordy nepřátel.
@@ -204,7 +204,7 @@ tagClass02SkillName04C=Sonická puma
 tagClass02SkillDescription04C=Sonická puma vyrobená pro větší účinek výbuchu způsobuje o něco menší poškození, ale zanechá nepřátele otřesené.
 
 tagClass02SkillName05A=Hmoždířová past
-tagClass02SkillDescription05A=Umístí minomet, který bude nepřetržitě vystřelovat výbušniny do vzduchu, dokud nebude vyčerpán. ^oThe trap scales with player damage bonuses.
+tagClass02SkillDescription05A=Umístí minomet, který bude nepřetržitě vystřelovat výbušniny do vzduchu, dokud nebude vyčerpán. ^oÚčinnost pasti se zvyšuje s bonusy poškození, které má postava.
 tagClass02SkillName05B=Těžké dělo
 tagClass02SkillDescription05B=Mocná magie zvyšuje celkovou účinnost minometných střel a obohacuje je o poškození elektřinou.
 tagClass02SkillName05C="Velikán"
@@ -215,18 +215,18 @@ tagClass02SkillName05E=Bleskový minomet
 tagClass02SkillDescription05E=Odpálí elektřinou nabitou střelu na nepřátele.
 
 tagClass02SkillName06A=Termitová mina
-tagClass02SkillDescription06A=Spustí trio malých, ale smrtících pyrotechnických náloží, které spálí tvé nepřátele intenzivními plameny. ^oThe mines scale with player damage bonuses.
+tagClass02SkillDescription06A=Spustí trio malých, ale smrtících pyrotechnických náloží, které spálí tvé nepřátele intenzivními plameny. ^oÚčinnost min se zvyšuje s bonusy poškození, které má postava.
 tagClass02SkillName06B=Kulový blesk
 tagClass02SkillDescription06B=Napůl pyrotechnika, napůl chemie - toto smrtící vylepšení Termitové miny způsobuje, že spálí nepřátele jak intenzivním plamenem, tak výboji elektřiny.
 tagClass02SkillName06C=Proud plamenů
 tagClass02SkillDescription06C=Vytvoří smrtící proud velice teplých plamenů, který zapálí nepřátele, kteří skrze něj projdou.
-tagClass02SkillName06D=Detonation
+tagClass02SkillName06D=Detonace
 
 tagClass02SkillName07A=Ohnivý štít
 tagClass02SkillDescription07A=Kombinace vojenského vybavení a práce s ohněm tvoří ochranu, která je schopna absorbovat přesně dané množství poškození ohněm a probodnutím, než se zhroutí. ^o Má šanci na aktivování při zasažení ohnivým poškozením nebo probodnutím. Štít zůstává aktivní do doby, dokud neabsorbuje danou kapacitu poškození.
 
 tagClass02SkillName07B=Ulzuinův vyvolený
-tagClass02SkillDescription07B=Ti, kteří obětovali mnoho při pronásledování pyrotechniky mohou vejít do přízně Ulzuina a dostane se jim tak jeho požehnání ve formě způsobení ohnivé devastace na tomto světě. ^o[Ovlivňuje Omračující částice, Granát a Tříštivou bombu a zároveň potřebuje alespoň jednu z těchto schopností k odemknutí]
+tagClass02SkillDescription07B=Ti, kteří obětovali mnoho při pronásledování pyrotechniky mohou vejít do přízně Ulzuina a dostane se jim tak jeho požehnání ve formě způsobení ohnivé devastace na tomto světě. ^o[Ovlivňuje Omračující částice, Granát a Tříštivou bombu a zároveň potřebuje alespoň jednu z těchto schopností k odemknutí.
 
 tagClass02SkillName08A=Černovodý koktejl
 tagClass02SkillDescription08A=Černovodý koktejl byl namíchán v době, kdy více účinné výbušniny docházely. Tyto vylepšené ohnivé pumy vytvoří po dopadu plameny a jsou účinné zejména proti nepřátelům, kteří jsou velmi blízko sebe.
@@ -282,7 +282,7 @@ tagClass03SkillName01E=Úder blesku
 tagClass03SkillDescription01E=Útočný havran přivolá mocný výboj blesku, který zasáhne nepřátele v blízkosti.
 
 tagClass03SkillName02A=Vyvolání pekelného psa
-tagClass03SkillDescription02A=Přivolá pekelného psa z tajemstvím obestřených říší, aby se vrhnul na Okultistovy nepřátele. Tato krutá bestie bude bojovat po tvém boku do té doby, než její život vyhasne v žáru pekla. ^oV jeden čas může být vyvolán pouze jeden pekelný pes.
+tagClass03SkillDescription02A=Přivolá pekelného psa z podivných oblastí, aby se vrhnul na Okultistovy nepřátele. Tato krutá bestie bude bojovat po tvém boku do té doby, než její život vyhasne v žáru pekla. ^oV jeden čas může být vyvolán pouze jeden pekelný pes.
 tagClass03SkillName02B=Žhavý dráp
 tagClass03SkillDescription02B=Sirnaté pařáty rozdrásají plamenným obloukovým útokem nepřátele v dosahu.
 tagClass03SkillName02C=Ďábelský oheň
@@ -307,11 +307,11 @@ tagClass03SkillName04C=Strážcovy bodliny
 tagClass03SkillDescription04C=Obětuj všechnu svoji obnovující sílu, abys posílil žíravý potenciál Dreegovy krve.
 
 tagClass03SkillName05A=Solaelův kouzelný oheň
-tagClass03SkillDescription05A=Ovládne podivnou Solaelovu sílu, což způsobí popálení nepřátel entropickou energií každým útokem zbraní. ^oTato schopnost musí být nastavena jako výchozí typ útoku, aby účinkovala.
+tagClass03SkillDescription05A=Ovládne podivnou Solaelovu sílu, což způsobí popálení nepřátel entropickou energií každým útokem zbraně. ^oTato schopnost musí být nastavena jako výchozí typ útoku, aby účinkovala.
 tagClass03SkillName05B=Druhý obřad
 tagClass03SkillDescription05B=Prohlubuje Okultistovo spojení se skrytou sférou a tak umocňuje sílu kouzelného ohně natolik, že i ten nejmenší dotek pálí tajemnou podstatu tvých nepřátel.
 tagClass03SkillName05C=Posvěcený meč
-tagClass03SkillDescription05C=Pekelný oheň pozře tvoji zbraň a vytvoří z ní ohnisko pro chaotické síly. ^oVyžaduje chladnou nebo obouruční střelnou zbraň.
+tagClass03SkillDescription05C=Pekelný oheň pozře tvoji zbraň a vytvoří z ní ohnisko pro chaotické síly. ^oVyžaduje chladnou zbraň.
 
 tagClass03SkillName06A=Prokletí křehkostí
 tagClass03SkillDescription06A=Kruté a mocné slovo, které okrade tvé nepřátele o sílu ducha, čímž je učiní křehkými a pomalými.
@@ -424,7 +424,7 @@ tagClass04SkillName07B=Chlad noci
 tagClass04SkillDescription07B=Způsobí, že protivníci zasaženi Závojem stínu pocítí temné mrazení, jak je tma obklopuje, což ovlivní jejich životy a oslabí obranu.
 
 tagClass04SkillName08A=Duch meče
-tagClass04SkillDescription08A=Vyvolá vířící se mrak smrtících mečů, který bude brázdit bojiště a krájet tvé nepřátele na kousky do té doby, než se nakonec promění ve sprchu zubatých úlomků. ^oBlade Spirits scale with player damage bonuses.
+tagClass04SkillDescription08A=Vyvolá vířící se mrak smrtících mečů, který bude brázdit bojiště a krájet tvé nepřátele na kousky do té doby, než se nakonec promění ve sprchu zubatých úlomků. ^oÚčinnost schopnosti Duch meče se zvyšuje s bonusy poškození, které má postava.
 tagClass04SkillName08PetA=Vířící se meče
 tagClass04SkillName08PetB=Vystřelovací meče
 tagClass04SkillDescription08PetB=Duch meče vystřeluje vyvrhovací meče do všech směrů.
@@ -568,13 +568,13 @@ tagClass06SkillName00=[[ms]Šaman[fs]Šamanka]
 tagClass06SkillDescription00=Zasvěcení prvotnímu volání divočiny.
 
 tagClass06SkillName01A=Barbarství
-tagClass06SkillDescription01A=Žár bitvy v tobě probouzí kruté zvířecí pudy, které zvyšují agresi a posiluje tě zuřivostí přírody. Pokud je Barbarství nastaveno jako základní útok tvé zbraně, zvyšuje pak intenzitu tvých útoků s každým úderem. ^oBuilding up charges increases the potency of the bonuses.
+tagClass06SkillDescription01A=Žár bitvy v tobě probouzí kruté zvířecí pudy, které zvyšují agresi a posiluje tě zuřivostí přírody. Pokud je Barbarství nastaveno jako základní útok tvé zbraně, zvyšuje pak intenzitu tvých útoků s každým úderem. ^oZvyšování počtu nabití pak zvyšuje potenciál bonusů.
 tagClass06SkillName01B=Houževnatost divokého kance
 tagClass06SkillDescription01B=Přijmi vzezření divokého kance, staň se dravým a nezastavitelným nepřítelem po začátku boje.
 tagClass06SkillName01C=[[ms]Dotčený[fs]Dotčená] bouří
 tagClass06SkillDescription01C=Zvoláním na nebesa posílíš své útoky zuřivostí bouře.
 tagClass06SkillName01D=Síla medvěda
-tagClass06SkillDescription01D=[[ms]Šamané[fs]Šamanky] oddané duchovi medvěda so osvojí schopnost používat brutální dvouruční zbraně, pokud zaujmou postoj divošského boje. Jejich nespoutaná suřivost je mezi severskými kmeny nepřekonatelná. ^oTato technika vyžaduje střelnou nebo obouruční chladnou zbraň.
+tagClass06SkillDescription01D=[[ms]Šamané[fs]Šamanky] oddané duchovi medvěda so osvojí schopnost používat brutální dvouruční zbraně, pokud zaujmou postoj divošského boje. Jejich nespoutaná suřivost je mezi severskými kmeny nepřekonatelná. ^oTato technika vyžaduje obouruční chladnou zbraň.
 
 tagClass06SkillName02A=Prvotní útok
 tagClass06SkillDescription02A=Prvni rituál, kteří nováčci podstupují, je zaměřen na vylepšení jejich oblíbené zbraně pomocí hrubé síly bouře. Ti, kteří přežijí tento kritický krok se stanou potomky Mogdrogenovy vůle a strážci svého lidu. ^oVyžaduje obouruční chladnou zbraň.
@@ -583,96 +583,96 @@ tagClass06SkillDescription02B=Hrubá síla Prvotního útoku se převalí přes 
 tagClass06SkillName02C=Záplava
 tagClass06SkillDescription02C=Přílivová síla kaskádovitě vychází z tvé zbraně, zpusobuje tvému cíli elektrický šok a přeskakuje na nepřátele v blízkosti.
 tagClass06SkillName02D=Burácející útok
-tagClass06SkillDescription02D=Vyvolávači bouří, členové sekty šamanismu oddané nebesům, jsou známi vyvoláváním Utlose, boha nebe, jež přivolává hněv přírody na jejich protivníky, allowing them to call down lightning with greater frequency.
+tagClass06SkillDescription02D=Vyvolávači bouří, členové sekty šamanismu oddané nebesům, jsou známi vyvoláváním Utlose, boha nebe, jež přivolává hněv přírody na jejich protivníky.
 
-tagClass06SkillName03A=Wendigo Totem
-tagClass06SkillDescription03A=Wendigo Totems represent a darker side to Shaman rituals, embracing the vicious duality of nature: one must die so that another may feed and live. Once placed, the totem will drain the life from nearby foes, all while creating a soothing aura that heals allies. The totems are taboo to most tribes though as the primal hunger spirit invoked to power the totem is perilous to control and has driven many shamans mad, filling them with an insatiable hunger that inevitably leads to cannibalism. ^oWendigo Totems scale with player damage bonuses.
-tagClass06SkillName03B=Blood Pact
-tagClass06SkillDescription03B=Seal a pact with the wendigo spirit inhabiting the totem. So long as you stand within its aura, your taste for blood will be insatiable.
-tagClass06SkillName03C=Life Tap
-tagClass06SkillName03D=Mend Wounds
+tagClass06SkillName03A=Totem Wendigo
+tagClass06SkillDescription03A=Totemy Wendigo představují temnější stranu rituálů prováděných Šamany, přijímacích krutou dualitu přírody: jeden musí zemřít, aby se jiný nakrmil a přežil. Jakmile je totem položen, začne vysávat život z nepřátel v blízkosti, zatímco vytvoří uklidňující auru, která léčí spojence. Totemy jsou pro mnoho kmenů tabu, protože prvotního hladového ducha, který je vyvolán, aby napájel totem, je nebezpečné ovládat a mnoho šamanů z toho zešílelo a navíc jsou postiženi nenasytným hladem, který nevyhnutelně vede ke kanibalismu. ^oÚčinnost Totemů Wendigo se zvyšuje s bonusy poškození, které má postava.
+tagClass06SkillName03B=Krvavá dohoda
+tagClass06SkillDescription03B=Spečeť dohodu s duchem wendigo, který obývá totem. Po dobu, kdy budeš stát uvnitř jeho aury bude tvá chuť po krvi neukojitelná.
+tagClass06SkillName03C=Kohoutek života
+tagClass06SkillName03D=Ranhojičství
 
-tagClass06SkillName04A=Wind Devil
-tagClass06SkillDescription04A=Shamans were often called upon to bring rain in times of heavy drought. This ritual has been manipulated by clever Stormcallers to conjure a swirling wind devil that lifts rocks and debris into the air, battering foes and ravaging them with the harsh power of the elements. ^oWind Devils scale with player damage bonuses.
-tagClass06SkillName04B=Raging Tempest
-tagClass06SkillDescription04B=The swirling vortex grows with tumultuous power. Freezing winds buffet enemies with a numbing cold that increases their vulnerability to further elemental exposure.
-tagClass06SkillName04C=Maelstrom
-tagClass06SkillDescription04C=Unleash the ultimate wrath of the sky, instilling the Wind Devil with static energy that strikes down nearby foes with bolts of lightning.
-tagClass06SkillName04_Pet=Howling Wind
+tagClass06SkillName04A=Větrný duch
+tagClass06SkillDescription04A=Šamané byli často přivoláni aby přinesli déšť, když byla období sucha. Rituál byl prováděn chytrými Vyvolávači bouří, aby vyvolali zlého vířivého ducha, který zvedne kamení a sutiny do vzduchu sužujíc nepřátele, devastujících je hrubou silou elementů. ^oÚčinnost Větrných duchů se zvyšuje s bonusy poškození, které má postava.
+tagClass06SkillName04B=Zuřící bouře
+tagClass06SkillDescription04B=Vířící se vír roste bouřlivou silou. Mrazivý vítr lomcuje s nepřáteli a ustrne je, což zvyšuje jejich zranitelnost, pokud jsou vystaveni dalšímu vlivu elementů.
+tagClass06SkillName04C=Vír
+tagClass06SkillDescription04C=Rozpoutej mohutnou zlobu nebes a vštěp Větrnému duchu statickou energii, která srazí výbojem blesku k zemi nepřátele v blízkosti.
+tagClass06SkillName04_Pet=Kvílející vítr
 
-tagClass06SkillName05A=Mogdrogen's Pact
-tagClass06SkillDescription05A=Call upon the beast god, Mogdrogen, to bestow nature's blessing upon you and your nearby allies. ^oThis ability must be toggled to maintain its effect.
-tagClass06SkillName05B=Oak Skin
-tagClass06SkillDescription05B=Take on the aspect of ancient trees, solemn ageless titans that have outlived civilizations, bestowing additional protection upon those under Mogdrogen's blessing.
-tagClass06SkillName05C=Heart of the Wild
-tagClass06SkillDescription05C=The wild spirit of nature flows through your veins, rapidly sealing wounds and cleansing poisons.
-tagClass06SkillName05D=Heart of Stone
-tagClass06SkillDescription05D=Embracing the nature of the earth upon which you stand, you no longer regenerate health in combat, but your skin becomes tough as stone. ^oThis effect is extended to your allies.
+tagClass06SkillName05A=Mogdrogenova dohoda
+tagClass06SkillDescription05A=Přivolej boha bestií, Mogdrogena, aby dal požehnání přírody tobě a tvým spojencům v blízkosti. ^oTato schopnost musí být nastavena jako výchozí, aby účinkovala.
+tagClass06SkillName05B=Dubová kůže
+tagClass06SkillDescription05B=Převezmi si aspekt starodávných stromů, slavných nestárnoucích titánů, kteří přečkali civilizace a propůjčí další obranu těm, kteří jsou pod Mogdrogenovým požehnáním.
+tagClass06SkillName05C=Srdce divočiny
+tagClass06SkillDescription05C=Divoký duch přírody proudí v tvých žilách a velmi rychle zaceluje rány a odstraňuje z těla jedy.
+tagClass06SkillName05D=Srdce z kamene
+tagClass06SkillDescription05D=Přijímajíc přirozenost země, na které stojíš, se ti již nadále neobnovuje zdraví během boje, ale tvá kůže ztvrdne jako kámen. ^oTento efekt je rozšířen i na tvé spojence.
 
-tagClass06SkillName06A=Summon Briarthorn
-tagClass06SkillDescription06A=Briarthorns are tenacious beasts, born of brambly woods and wild magic. Skilled Shamans can call upon these creatures to aid them in battle. ^oOnly one Briarthorn can be summoned at any one time.
-tagClass06SkillName06B=Stonebark
-tagClass06SkillDescription06B=The flesh of the Briarthorn hardens and its spines grow thicker, turning it into an intimidating presence on the battlefield that cannot be ignored.
-tagClass06SkillName06C=Ground Slam
-tagClass06SkillDescription06C=The Briarthorn slams its thorned claws into the ground, crushing any foe unlucky enough to be within reach.
-tagClass06SkillName06D=Emboldening Roar
-tagClass06SkillDescription06D=The Briarthorn calls out to its allies, emboldening them when fighting is at its thickest.
-tagClass06SkillName06E=Thorned Claws
-tagClass06SkillDescription06E=Innate Attack.
+tagClass06SkillName06A=Vyvolání Trnošípka
+tagClass06SkillDescription06A=Trnošípkové jsou houževnatá stvoření, zrozená z ostružinového dřeva a bezuzdné magie. Zkušení šamané mohou tato stvoření vyvolat, aby jim pomohla v boji. ^oV jeden čas může být vyvolán pouze jeden Trnošípek.
+tagClass06SkillName06B=Kamenná kůra
+tagClass06SkillDescription06B=Kůže Trnošípka tvrdne a jeho ostny vyrostou v silnější, což ho promění na bojišti v zastrašující vzezření, jež nemůže být ignorováno.
+tagClass06SkillName06C=Ozembouch
+tagClass06SkillDescription06C=Trnošípek udeří do země svými ostnatými pařáty, což rozdrtí jakéhokoliv nepřítele, který má zrovna tu smůlu, že je v dosahu.
+tagClass06SkillName06D=Odvahu dodávající řev
+tagClass06SkillDescription06D=Trnošípek zvolá na své spojence a dodá jim odvahu, když je boj na vrcholu.
+tagClass06SkillName06E=Ostnaté pařáty
+tagClass06SkillDescription06E=Vrozený útok.
 
-tagClass06SkillName07A=Feral Hunger
-tagClass06SkillDescription07A=Embrace your primal side, shredding your enemies and feasting voraciously on the spilled blood. ^oRequires a two-handed melee weapon.
+tagClass06SkillName07A=Divoký hlad
+tagClass06SkillDescription07A=Přijmi svoji nejzákladnější stránku, rozřež své nepřátele a nenasytně hoduj na rozlité krvi. ^oVyžaduje obouruční chladnou zbraň.
 
-tagClass06SkillName08A=Stormcaller's Pact
-tagClass06SkillDescription08A=Become one with Ultos, god of the sky, turning your mortal form into a conduit for the destructive power of lightning storms.
+tagClass06SkillName08A=Dohoda Vyvolávače bouří
+tagClass06SkillDescription08A=Spolu s Ultosem, bohem nebes, se sjednoť a proměň svoji smrtelnou formu ve vodič destruktivní síly bouře.
 
-tagClass06SkillName09A=Conjure Primal Spirit
-tagClass06SkillDescription09A=Legends speak of a great predator, the loyal pet of Mogdrogen, which relentlessly hunts down anyone that treads into the beast god's domain uninvited. As a favored follower of Mogdrogen, you call upon this Primal Spirit to aid you in battle.
-tagClass06SkillName09B_Pet=Tail Strike
-tagClass06SkillDescription09B_Pet=Strike the target with a poisonous tail.
-tagClass06SkillName009C=Claw and Fang Attacks
-tagClass06SkillDescription09C=Innate Attack.
+tagClass06SkillName09A=Vyvolání prvotního ducha
+tagClass06SkillDescription09A=Legendy hovoří o velikém predátoru, loajálnímu mazlíčkovi Mogdrogena, který neoblomně loví kohokoliv, kdo vkráčí do domény boha bestií nevítaný. Jako nejoblíbenější [[ms]Mogdrogenův následník[fs]Mogdrogenova následnice] přivolej tohoto Prvotního ducha, aby ti pomohl v boji.
+tagClass06SkillName09B_Pet=Úder ocasem
+tagClass06SkillDescription09B_Pet=Udeří nepřítele jedovatým ocasem.
+tagClass06SkillName009C=Útok pařáty a drápy
+tagClass06SkillDescription09C=Vrozený útok.
 
-tagClass06SkillName10A=Brute Force
-tagClass06SkillDescription10A=To many Shamans, a brutal two-handed weapon serves as the conduit for their storm powers. These practitioners favor a closer connection to the wilds through animalistic rage and close-quarters combat rather than through fragile wands and tomes which they consider to be the toys of those who would prefer to spend their time reading books over practicing their craft. ^oRequires a two-handed melee weapon.
-tagClass06SkillName11A=Shamanism
-tagClass06SkillDescription11A=Rigorous training within the untamed wilds has honed your mind and body into a savage weapon.
-tagClass06SkillName12A=Nature's Wrath
-tagClass06SkillDescription12A=Become as one with the primal forces of nature, tearing your foes apart with tooth, claw and lightning.
-tagClass06SkillName13A=Primal Bond
-tagClass06SkillDescription13A=Embrace your savage side as you seal your bond with Mogdrogen. Creatures from the beast god's domain readily answer your call.
+tagClass06SkillName10A=Hrubá síla
+tagClass06SkillDescription10A=Mnoha šamanům slouží jejich brutální dvouruční zbraň jako vodič pro jejich bouřkové síly. Tito praktici upřednostňují bližší propojení s divočinou skrze zvířecí zuřivost a útok na krátkou vzdálenost než skrze křehké hůlky a knihy, které jsou považovány za hračky těch, kteří preferují trávit čas jejich čtením než trénováním toho, co umí. ^oVyžaduje obouruční chladnou zbraň.
+tagClass06SkillName11A=Šamanismus
+tagClass06SkillDescription11A=Pečlivý trénink v nezkrocené divočině vypiloval tvou mysl a tělo do kruté zbraně.
+tagClass06SkillName12A=Hněv přírody
+tagClass06SkillDescription12A=Spoj se s prvotními silami přírody a roztrhej své nepřátele na kusy pomocí zubů, pařátů a blesků.
+tagClass06SkillName13A=Prvotní pouto
+tagClass06SkillDescription13A=Přijmi svoji stránku krutosti tak, že dokončís spojení s Mogdrogenem. Příšery z domény boha bestií ochotně odpovídají na tvé zvolání.
 
-tagClass06SkillName14A=Upheaval
-tagClass06SkillDescription14A=Strike with the strength of the earth. Whenever you land a critical strike with your basic weapon attacks, the ground shakes with the force of the blow, reverberating around the point of impact in a shockwave. ^oRequires a two-handed melee weapon.
+tagClass06SkillName14A=Otřesy
+tagClass06SkillDescription14A=Udeř silou země. Kamkoliv zasadíš svůj kritický útok svou základní zbraní, tam se země silou úderu otřese a vyvolá v okolí úderu v rázovou vlnu. ^oVyžaduje obouruční chladnou zbraň.
 
-tagClass06SkillName15A=Devouring Swarm
-tagClass06SkillDescription15A=Out in the wild, one must do whatever it takes to survive. Some Shaman Conjurers take this lesson to heart by conjuring a voracious swarm which hungrily tears apart anything it comes in contact with, inflicting grevious wounds and exposing vulnerabilities.
-tagClass06SkillName15B=Crippling Swarm
-tagClass06SkillDescription15B=The swarm assaults sensitive areas, tearing at the eyes, joints and ligaments, effectively crippling your foes.
-tagClass06SkillName15C=Voracious Swarm
-tagClass06SkillDescription15C=The swarm becomes voracious, inflicting even greater harm as it exposes new vulnerabilities.
-tagClass06SkillName15D=Devouring Swarm
-tagClass06SkillDescription15D=Out in the wild, one must do whatever it takes to survive. Some Shaman Conjurers take this lesson to heart by conjuring a voracious swarm which hungrily tears apart anything it comes in contact with and transfers precious lifeblood to you.
+tagClass06SkillName15A=Pohlcující roj
+tagClass06SkillDescription15A=Tam venku v divočině musí jeden udělat cokoliv, aby přežil. Někteří Šamané - Kejklíři si berou tuto lekci k srdci tak, že vyvolají nenasytný roj, který na kusy trhá cokoliv, s čím přijde do kontaktu, způsobuje bolestná zranění a činí cíl zranitelným.
+tagClass06SkillName15B=Paralyzující roj
+tagClass06SkillDescription15B=Roj napadá citlivé oblasti, drásá oči, klouby a vazy a efektivně mrzačí tvé nepřátele.
+tagClass06SkillName15C=Nenasytný roj
+tagClass06SkillDescription15C=Roj začne být nenasytný a způsobuje tak dokonce ještě větší zranění, jak činí cíl ještě více zranitelný.
+tagClass06SkillName15D=Pohlcující roj
+tagClass06SkillDescription15D=Tam venku v divočině musí jeden udělat cokoliv, aby přežil. Někteří Šamané - Kejklíři si berou tuto lekci k srdci tak, že vyvolají nenasytný roj, který na kusy trhá cokoliv, s čím přijde do kontaktu, způsobuje bolestná zranění a předává ti mízu.
 
-tagClass06SkillName16A=Storm Totem
-tagClass06SkillDescription16A=Channeling the power of storm is one of the most sacred rites of the Stormcallers. With sufficient practice, a Shaman can imbue a totem with the destructive force of lightning, causing it to rapidly fire off electric bursts at nearby foes. ^oStorm Totems scale with player damage bonuses.
-tagClass06SkillName16B=Corrupted Storm
-tagClass06SkillDescription16B=Twisted shamans obsessed with the power of Wendigos can corrupt a Storm Totem to unleash hungering bolts that sap vitality from foes.
-tagClass06SkillName16_Pet=Storm Strike
+tagClass06SkillName16A=Bouřlivý Totem
+tagClass06SkillDescription16A=Usměrňování síly bouře je jeden z nejposvátnějších rituálů Vyvolávačů bouře. S dostatečnou praxí může Šaman doplnit destruktivní silou blesku což způsobí, že z totemu budou vystřelovat ve velké rychlosti elektrické výboje směřované na nepřátele v blízkosti. ^oÚčinnost Bouřlivých totemů se zvyšuje s bonusy poškození, které má postava.
+tagClass06SkillName16B=Poškozená bouře
+tagClass06SkillDescription16B=Šamané posedlí silou Wendiga mohou poškodit Bouřlivý totem a vypustit hladovějící výboje, které vysají život z tvých nepřátel.
+tagClass06SkillName16_Pet=Úder bouře
 
-tagClass06SkillName17A=Grasping Vines
-tagClass06SkillDescription17A=At your whim, thorned vines erupt from the earth underneath your foes, inhibiting their movement.
-tagClass06SkillName17B=Entangling Vines
-tagClass06SkillDescription17B=The vines grow virulently, entrapping helpless foes in a tangle of thorns.
+tagClass06SkillName17A=Lapající vinná réva
+tagClass06SkillDescription17A=Z tvého rozmaru ze země vyroste ostnatá vinná réva tam, kde stojí tví nepřátelé a znemožňuje jejich pohyb.
+tagClass06SkillName17B=Omotávající vinná réva
+tagClass06SkillDescription17B=Vinná réva prudce roste a uvězňuje bezradné nepřátele ve  změti trnů.
 
-xtagClass06SkillName13A=Wrath of Mogdrogen
-xtagClass06SkillDescription13A=Mogdrogen is often depicted as a benevolent deity who bestows protective boons upon his followers, but the wrath of the beast god can be terrifying to behold when his sanctum is threatened.
+xtagClass06SkillName13A=Mogdrogenova zloba
+xtagClass06SkillDescription13A=Mogdrogen je často líčen jako benevolentní bůh, který propůjčuje ochranné požehnání jeho následnovíkům, ale zloba boha bestií se může zdát jako děsivá, pokud je jeho útočiště ohroženo.
 
-xtagClass06SkillName08A=Conjure Wind Devil
-xtagClass06SkillDescription08A=A tornado is one of the most destructive forces of nature. Shaman Stormcallers conjure manifestations of this raw power in the form of Wind Devils, swirling whirlwinds of destruction that move about the battle seemingly with a mind of their own. ^oWind Devils are considered pets and benefit from pet bonuses.
-xtagClass06SkillName08B_Pet=Howling Wind
-xtagClass06SkillDescription08B_Pet=A swirling whirlwind of destruction assaults nearby foes.
-xtagClass06SkillDescription07A=Channeling the power of storm is one of the most sacred rites of the Stormcallers. With sufficient practice, a Shaman can imbue a totem with the destructive force of lightning.
+xtagClass06SkillName08A=Vyvolání Větrného démona
+xtagClass06SkillDescription08A=Tornádo je jednou z nejdestruktivnějších sil přírody. Šamanští Vyvolávači bouří zhmotňují tuto hrubou sílu ve formu Větrných démonů, vířící se destruktivní větrnné smršťě, které se v boji pohybují zjevně dle jejich  vlastního uvážení. ^oVětrnní démoni jsou považováni za mazlíčky a těží z bonusů pro mazlíčky.
+xtagClass06SkillName08B_Pet=Úpějící vítr
+xtagClass06SkillDescription08B_Pet=Vířící a ničící větrnná smršť útočí na blízké nepřátele v blízkosti.
+xtagClass06SkillDescription07A=Usměrňování síly bouře je jeden z nejposvátnějších rituálů Vyvolávačů bouře. S dostatečnou praxí může Šaman posílit totem destruktivní silou blesku.
 xtagClass06SkillName03A=Feral Hunger
 xtagClass06SkillDescription03A=Embrace your primal side, feeding voraciously on blood spilled by your weapon attacks during combat.
 xtagClass06SkillName03B=Taste for Blood
@@ -1192,56 +1192,56 @@ tagItemSkillC092Desc=V naléhavé potřebě zvoláš na nebesa, která tě nabij
 tagItemSkillC093Name=Pavučina
 tagItemSkillC093Desc=Zachyť tvé nepřátele v lepkavé síťovině, která úplně znemožňuje pohyb a dělá z nich snadnou kořist. ^oToto kouzlo znehybní nepřátele po dobu svého trvání. Nepřátelé odolní vůči efektům pastí budou polapeni kratší dobu.
 
-tagItemSkillC094Name=Flash Freeze
-tagItemSkillC094Desc=A flash of pure cold freezes nearby enemies. ^oThis spell freezes enemies for its duration. Enemies resistant to freeze effects will suffer a reduced duration.
+tagItemSkillC094Name=Záblesk mrazu
+tagItemSkillC094Desc=Záblesk ryzího chladu zmrazí nepřátele v blízkosti. ^oToto kouzlo zmrazí nepřátele po dobu jeho trvání. Nepřátelé odolní vůči zmražení budou trpět kratší dobu.
 
-tagItemSkillC095Name=Hellfire
-tagItemSkillC095Desc=Unleash a wave of flame upon your foes, leaving nothing but ashes.
+tagItemSkillC095Name=Pekeklý oheň
+tagItemSkillC095Desc=Vypustí ohnivou vlnu na tvé nepřátele, která nezanechá nic než popel.
 
-tagItemSkillC096Name=Solar Flare
-tagItemSkillC096Desc=Blinding light erupts from you, confounding your foes.
+tagItemSkillC096Name=Sluneční záře
+tagItemSkillC096Desc=Vyjde z tebe oslepující světlo, které zmate tvé nepřátele.
 
-tagItemSkillC097Name=Aetherbolt
-tagItemSkillC097Desc=Shocks the target with lightning infused by the Aether. The wild magic cascades to nearby foes.
+tagItemSkillC097Name=Šíp z Aetheru
+tagItemSkillC097Desc=Zasáhne cíl bleskem posilněným Aetherem. Nezpoutaná magie pak přeskakuje na nepřátele v blízkosti.
 
-tagItemSkillC098Name=Elemental Balance
-tagItemSkillC098Desc=Strike a balance between the opposing forces of fire and ice, empowering your attacks.
+tagItemSkillC098Name=Elementální rovnováha
+tagItemSkillC098Desc=Nalezne rovnováhu mezi odporujícími si silami, ohněm a ledem, a posiluje tvé útoky.
 
-tagItemSkillC099Name=Rain of Fire
-tagItemSkillC099Desc=At your command, fire rains from the sky.
+tagItemSkillC099Name=Ohnivý déšť
+tagItemSkillC099Desc=Na tvůj příkaz bude pršet z nebe oheň.
 
-tagItemSkillC100Name=Devastation
-tagItemSkillC100Desc=Hailed as the ultimate force of destruction known to Arcanists, this technique tears a rift in reality through which fall embers of raw arcane energy.
+tagItemSkillC100Name=Devastace
+tagItemSkillC100Desc=Tato technika, oslavována jako ultimátní síla známá Arkanistům, rozevře trhlinu v realitě a skrze ní padají rozžhavené části samotné arkanické energie.
 
-tagItemSkillC101Name=Chillmane Breath
-tagItemSkillC101Desc=Chill your enemies to the core with the breath of a Chillmane Yeti.
+tagItemSkillC101Name=Dech Ledohřívnatce
+tagItemSkillC101Desc=Zmraz své nepřátele do morku kostí dechem Ledohřívnatého Yetiho.
 
-tagItemSkillC102Name=Fire Claw
-tagItemSkillC102Desc=Cleave your enemies in two with claws of hellfire.
+tagItemSkillC102Name=Ohnivý pařát
+tagItemSkillC102Desc=Rozpolti své nepřátele pařáty z pekelného ohně.
 
-tagItemSkillC103Name=Conjure Devourer
-tagItemSkillC103Desc=Pull a Chthonian Devourer from the depths of the void to protect you.
+tagItemSkillC103Name=Vyvolat Požírače
+tagItemSkillC103Desc=Vytáhni Chtonianského požírače z hlubin Prázdnoty, aby tě bránil.
 
-tagItemSkillC104Name=Spirit Ward
-tagItemSkillC104Desc=Partially enter the spirit realm, warding yourself against life-sapping spells and physical assault.
+tagItemSkillC104Name=Spirituální obrana
+tagItemSkillC104Desc=Vstup částečně do říše duchovna a obrň se proti životaberoucím kouzlům a fyzickým útokům.
 
-tagItemSkillC105Name=Ring of Ice
-tagItemSkillC105Desc=A swirling wind of icy shards surrounds you and chills nearby enemies.
+tagItemSkillC105Name=Ledový kruh
+tagItemSkillC105Desc=Vířivý vítr s ledovými úlomky tě obklopí a zchladí nepřátele v blízkosti.
 
-tagItemSkillC106Name=Manticore's Bite
-tagItemSkillC106Desc=Lash out at your foes, inflicting grievous wounds.
+tagItemSkillC106Name=Kousnutí Mantikory
+tagItemSkillC106Desc=Ožeň se směrem k tvým nepřátelům a způsob jim bolestivá zranění.
 
-tagItemSkillC107Name=Black Star
-tagItemSkillC107Desc=A dark omen falls upon your enemies.
+tagItemSkillC107Name=Černá hvězda
+tagItemSkillC107Desc=Temná předzvěst padne na tvé nepřátele.
 
-tagItemSkillC108Name=Nymph's Touch
-tagItemSkillC108Desc=Soothe the wounds of nearby allies with a blessing from the forest nymphs.
+tagItemSkillC108Name=Dotek Nymfy
+tagItemSkillC108Desc=Zahoj rány blízkých spojenců díky požehnání od lesních nymf.
 
-tagItemSkillC109Name=Freezing Nova
-tagItemSkillC109Desc=A burst of chilling air around you freezes enemies solid.
+tagItemSkillC109Name=Mrazící Nova
+tagItemSkillC109Desc=Poryv mrazivého vzduchu kolem tebe úplně zmrazí tvé nepřátele.
 
-tagItemSkillC110Name=Elemental Blast
-tagItemSkillC110Desc=A blast of elemental energies erupts from you, pushing back all nearby foes.
+tagItemSkillC110Name=Elementální výbuch
+tagItemSkillC110Desc=Vytryskne z tebe poryv elementálních energií a odstrčí tak nepřátele v blízkosti.
 
 tagItemSkillM001Name=Esence života.
 tagItemSkillM001Desc=Léčí zranění a vzpruží unaveného hrdinu.
@@ -1253,7 +1253,7 @@ tagItemSkillM003Name=Apokalypsa
 tagItemSkillM003Desc=Zasype tvé nepřátele očišťujícím pekelným ohněm.
 
 tagItemSkillM004Name=Soustředění Tajemna
-tagItemSkillM004Desc=S každým útokem vstoupíš do stavu podobného transu a tím umocníš svou tajemnou sílu. ^oBuilding up charges increases the potency of the bonuses.
+tagItemSkillM004Desc=S každým útokem vstoupíš do stavu podobného transu a tím umocníš svou tajemnou sílu. ^oZvyšování počtu nabití pak zvyšuje potenciál bonusů.
 
 tagItemSkillM005Name=Zběsilost
 tagItemSkillM005Desc=Ponoř se do stavu šílence, který dělá výpady se zvýšenou zuřivostí na úkor schopnosti přežít.
@@ -1333,7 +1333,7 @@ tagCompSkillA006Desc=Dodá tvému brnění obranu proti probodávajícím útok�
 tagCompSkillA007Name=Krvesaj
 tagCompSkillA007Desc=Posílí tvé útoky vampirickou energií.
 
-tagCompSkillA008Name=Bloodthirster
+tagCompSkillA008Name=Krvechtíč
 tagCompSkillA008Desc=Posílí tvé útoky vampirickou energií.
 
 tagCompSkillA009Name=Výboj chaosu
@@ -1343,10 +1343,10 @@ tagCompSkillA010Name=Ledová aura
 tagCompSkillA010Desc=Tvým útokům a spojencům v okolí dodá smrtící mrazení. ^oTato schopnost musí být nastavena jako výchozí typ útoku, aby účinkovala.
 
 tagCompSkillA011Name=Poprava
-tagCompSkillA011Desc=Pokus se popravit své protivníky smrtícím úderem, který je schopný způsobit intensivní krvácení.
+tagCompSkillA011Desc=Pokus se popravit své protivníky smrtícím úderem, který je schopný způsobit intenzivní krvácení.
 
 tagCompSkillA012Name=Setnutí
-tagCompSkillA012Desc=Pokus se setnout své protivníky smrtícím úderem, který je schopný způsobit intensivní krvácení.
+tagCompSkillA012Desc=Pokus se setnout své protivníky smrtícím úderem, který je schopný způsobit intenzivní krvácení.
 
 tagCompSkillA013Name=Ohnivá aura
 tagCompSkillA013Desc=Tvým útokům a spojencům v okolí dodá spalující plamen. ^oTato schopnost musí být nastavena jako výchozí typ útoku, aby účinkovala.
@@ -1354,13 +1354,13 @@ tagCompSkillA013Desc=Tvým útokům a spojencům v okolí dodá spalující plam
 tagCompSkillA014Name=Ohnivý výbuch
 tagCompSkillA014Desc=Vypustí kouli spalujících plamenů na tvůj cíl.
 
-tagCompSkillA015Name=Greater Ohnivý výbuch
+tagCompSkillA015Name=Větší ohnivý výbuch
 tagCompSkillA015Desc=Vypustí kouli spalujících plamenů na tvůj cíl.
 
 tagCompSkillA016Name=Ledový bodec
 tagCompSkillA016Desc=Vypustí šipku tvrdou jako kámen, která dokáže probodnout tvé nepřátele.
 
-tagCompSkillA017Name=Greater Ledový bodec
+tagCompSkillA017Name=Větší ledový bodec
 tagCompSkillA017Desc=Vypustí šipku tvrdou jako kámen, která dokáže probodnout tvé nepřátele.
 
 tagCompSkillA018Name=Aura z blesků
@@ -1369,7 +1369,7 @@ tagCompSkillA018Desc=Tvým útokům a spojencům v okolí dodá energii blesku. 
 tagCompSkillA019Name=Úder blesku
 tagCompSkillA019Desc=Tvůj cíl je zasažen energií blesku.
 
-tagCompSkillA020Name=Empowered Úder blesku
+tagCompSkillA020Name=Mocnější úder blesku
 tagCompSkillA020Desc=Tvůj cíl je zasažen energií blesku.
 
 tagCompSkillA021Name=Jedovatá aura
@@ -1378,7 +1378,7 @@ tagCompSkillA021Desc=Tobě a tvým spojencům v okolí dodá útok odpornými je
 tagCompSkillA022Name=Jedovatá bomba
 tagCompSkillA022Desc=Vypustí jedovatou pumu, která exploduje v blízkosti cíle a pokryje tvé nepřátele jedem.
 
-tagCompSkillA023Name=Noxious Jedovatá bomba
+tagCompSkillA023Name=Škodlivá jedovatá bomba
 tagCompSkillA023Desc=Vypustí jedovatou pumu, která exploduje v blízkosti cíle a pokryje tvé nepřátele jedem.
 
 tagCompSkillA024Name=Zářící štít
@@ -1396,41 +1396,41 @@ tagCompSkillA027Desc=Udeř svého nepřítele štítem s ostny, na které ho nab
 tagCompSkillA028Name=Stříbrné ostří
 tagCompSkillA028Desc=Úder zbraní, který ničí Ch'tonické bytosti.
 
-tagCompSkillA029Name=Udeření
+tagCompSkillA029Name=Úder
 tagCompSkillA029Desc=Udeř svého nepřítele zdrcující ranou.
 
-tagCompSkillA030Name=Brutal Udeření
+tagCompSkillA030Name=Brutální úder
 tagCompSkillA030Desc=Udeř svého nepřítele zdrcující ranou.
 
-tagCompSkillA031Name=Empowered Pronikavá aura
+tagCompSkillA031Name=Umocněná pronikavá aura
 tagCompSkillA031Desc=Umocní tvé útoky a útoky tvých nejbližších spojenců probodávajícím úderem skrz zbroj. ^oTato schopnost musí být nastavena jako výchozí typ útoku, aby účinkovala.
 
 tagCompSkillA032Name=Aetherická aura
 tagCompSkillA032Desc=Umocní tvé útoky a útoky tvých nejbližších spojenců samotným Aetherem.  ^oTato schopnost musí být nastavena jako výchozí typ útoku, aby účinkovala.
 
 tagCompSkillA033Name=Úder chaosem
-tagCompSkillA033Desc=Leap through the void to strike at your enemies with the destructive power of the chaos. ^oRequires a melee weapon.
+tagCompSkillA033Desc=Proskoč skrze Prázdnotu a udeř své nepřátele destruktivní silou chaosu. ^oVyžaduje chladnou zbraň.
 
-tagCompSkillA034Name=Brutal Úder štítem
+tagCompSkillA034Name=Brutální Úder štítem
 tagCompSkillA034Desc=Udeř svého nepřítele štítem, slabší nepřátele můžeš úplně ochromit. ^oVyžaduje chladnou zbraň.
 
-tagCompSkillA035Name=Aether-Ward Aura
-tagCompSkillA035Desc=Shield yourself and your allies from the corrupting power of the Aether. ^oThis ability must be toggled to maintain its effect.
+tagCompSkillA035Name=Aura ochrany proti Aetheru
+tagCompSkillA035Desc=Ochrání tebe a tvé spojence od poškozující síly Aetheru. ^oTato schopnost musí být nastavena jako výchozí, aby účinkovala.
 
-tagCompSkillA036Name=Void-Ward Aura
-tagCompSkillA036Desc=Shield yourself and your allies from the chaotic Void. ^oThis ability must be toggled to maintain its effect.
+tagCompSkillA036Name=Aura ochrany proti Prázdnotě
+tagCompSkillA036Desc=Ochraň sebe a své spojence před chaotickou Prázdnotou. ^oTato schopnost musí být nastavena jako výchozí, aby účinkovala.
 
-tagCompSkillA037Name=Lightning Nova
-tagCompSkillA037Desc=Unleashes a blast of lightning energy, damaging all nearby enemies.
+tagCompSkillA037Name=Nova z blesků
+tagCompSkillA037Desc=Uvolní výbuch energie blesku, což poškodí nepřátele v blízkosti.
 
-tagCompSkillA038Name=Empowered Lightning Nova
-tagCompSkillA038Desc=Unleashes a blast of lightning energy, damaging all nearby enemies.
+tagCompSkillA038Name=Umocněná Nova z blesků
+tagCompSkillA038Desc=Uvolní výbuch energie blesku, což poškodí nepřátele v blízkosti..
 
 tagCompSkillB001Name=Démonický dech
 tagCompSkillB001Desc=Vypustí vlnu nadpřirozených plamenů směrem k tvému nepříteli.
 
 tagCompSkillB002Name=Beronathův vztek
-tagCompSkillB002Desc=Udeří na tvé nepřátele zlobou mocné bestie Beronatha. Pokud je použita jako výchozí typ útoku, Beronathův vztek zvýší intenzitu tvého útoku s každým úderem. ^oBuilding up charges increases the potency of the bonuses.
+tagCompSkillB002Desc=Udeří na tvé nepřátele zlobou mocné bestie Beronatha. Pokud je použita jako výchozí typ útoku, Beronathův vztek zvýší intenzitu tvého útoku s každým úderem. ^oZvyšování počtu nabití zvyšuje potenciál bonusů.
 
 tagCompSkillB003Name=Pokrytí stříbrem
 tagCompSkillB003Desc=Vypustí množství projektilů potažených stříbrem za účelem zničení Ch'tonických bytostí.
@@ -1460,7 +1460,7 @@ tagRelicSkillB003Name=Klid
 tagRelicSkillB003Desc=Zaplav nepřátele v blízkosti svou myslí.
 
 tagRelicSkillB004Name=Ledový příval
-tagRelicSkillB004Desc=Nech prostoupit mrazivou energii skrze své jádro a tak příležitostně spustíš příval ledu na ty, jež na tebe zaútočí.
+tagRelicSkillB004Desc=Nech prostoupit mrazivou energii skrze své jádro a tak příležitostně spustíš příval ledu na ty, jež na tebe zaútočí. ^oTato schopnost musí být nastavena jako výchozí, aby účinkovala.
 
 tagRelicSkillB005Name=Bouře
 tagRelicSkillB005Desc=Vyvolá bouřkový mrak nad zvolenou oblastí a pravidelně bude elektřinou zasahovat ty nepřátele, kteří pod se pod ním ocitnou.
@@ -1481,7 +1481,7 @@ tagRelicSkillB010Name=Zuřivost
 tagRelicSkillB010Desc=Vstup do stavu rozzuřenosti poté, co zasadíš kritický zásah tvému cíli a máš záruku, že další takové rány budou následovat.
 
 tagRelicSkillB011Name=Zuřivost trola
-tagRelicSkillB011Desc=Veď boj jako nemilosrdný poloviční trol. Pokud je tato schopnost použita jako výchozí typ útoku, Zuřivost trola tě ponoří do ještě hlubší zuřivosti s každým útokem, ale za cenu soustředěnosti. ^oVyžaduje chladnou zbraň. Building up charges increases the potency of the bonuses.
+tagRelicSkillB011Desc=Veď boj jako nemilosrdný poloviční trol. Pokud je tato schopnost použita jako výchozí typ útoku, Zuřivost trola tě ponoří do ještě hlubší zuřivosti s každým útokem, ale za cenu soustředěnosti. ^oVyžaduje chladnou zbraň. ^oZvyšování počtu nabití zvyšuje potenciál bonusů.
 
 tagRelicSkillB012Name=Zmrzačení
 tagRelicSkillB012Desc=Zmrzačí tvůj cíl třemi rychlými výpady a způsobí mohutné krvácení. ^oToto je technika dvou zbraní. Také aplikuje schopnost ovládat dvě chladné zbraně.
