@@ -9,7 +9,7 @@ tagSkillClassName08=?
 tagSkillClassName09=?
 
 tagSkillClassName0102=[ms]Úderník[fs]Údernice
-tagSkillClassName0103=[ms]Vymítač čarodějů[fs]Vymítačka čarodějek
+tagSkillClassName0103=[ms]Vymýtač čarodějů[fs]Vymýtačka čarodějek
 tagSkillClassName0104=[ms]Mistr čepelí[fs]Mistryně čepelí
 tagSkillClassName0105=[ms]Bojový mág[fs]Bojový mág
 tagSkillClassName0106=[ms]Dozorce[fs]Dozorkyně
@@ -51,13 +51,13 @@ tagSkillClassDescription01=Vojáci císařské armády byli trénováni k přež
 
 tagSkillClassDescription02=[[ms]Pyrotechničtí[fs]Pyrotechnické] [[ms]mistři[fs]mistryně] císařské armády. [[ms]Ničitelé[fs]Ničitelky] jsou částečně [[ms]inženýři[fs]inženýrky] a částečně [[ms]kouzelníci[fs]kouzelnice]. [[ms]Byli[fs]Byly] [[ms]využíváni[fs]využívány] k prolomení nepřátelských pozic a opevnění za pomoci jejich zničující výbavy různých výbušnin a destruktivní magie. Obvykle [[ms]dávali[fs]dávaly] přednost boji na dálku; [[ms]útočili[fs]útočily] na nepřátele střelnými zbraněmi, pastmi a výbušninami. Samozřejmě jsou také [[ms]schopni[fs]schopny] použít chladnou zbraň.
 
-tagSkillClassDescription03=[[ms]Poté, co byli pronásledováni císařskými vojsky ve snaze ovládnout jejich podivnou moc, Okultisté se zaměřili na vyvolávání a vypůjčili si energii od tří čarodějnických "bohů" - Bysmiela, Solaela a Dreega. Mezi jejich různorodá umění patří odporné kletby a kouzla, která způsobují zranění jedem, kyselinou a chaotickou energií. Nevynikají v boji s mečem ani střelnou zbraní, ale mohou je použít jako dodatečnou údernou sílu.[fs]Poté, co byly pronásledovány císařskými vojsky ve snaze ovládnout jejich podivnou moc, Okultistky se zaměřily na vyvolávání a vypůjčily si energii od tří čarodějnických "bohů" - Bysmiela, Solaela a Dreega. Mezi jejich různorodá umění patří odporné kletby a kouzla, která způsobují zranění jedem, kyselinou a chaotickou energií. Nevynikají v boji s mečem ani střelnou zbraní, ale mohou je použít jako dodatečnou údernou sílu.]
+tagSkillClassDescription03=[[ms]Poté, co byli pronásledováni císařskými vojsky ve snaze ovládnout jejich podivnou moc, Okultisté se zaměřili na vyvolávání a vypůjčili si energii od tří čarodějnických "bohů" - Bysmiela, Solaela a Dreega. Mezi jejich různorodá umění patří odporné kletby a kouzla, která způsobují zranění jedem, kyselinou a chaotickou energií. Nevynikají v boji s mečem ani střelnou zbraní, ale mohou je použít jako dodatečnou údernou sílu. [fs]Poté, co byly pronásledovány císařskými vojsky ve snaze ovládnout jejich podivnou moc, Okultistky se zaměřily na vyvolávání a vypůjčily si energii od tří čarodějnických "bohů" - Bysmiela, Solaela a Dreega. Mezi jejich různorodá umění patří odporné kletby a kouzla, která způsobují zranění jedem, kyselinou a chaotickou energií. Nevynikají v boji s mečem ani střelnou zbraní, ale mohou je použít jako dodatečnou údernou sílu.]
 
-tagSkillClassDescription04=[[ms]Noční lovci byli tajní bojovníci, kteří nabízeli své služby velkým rodům v říši. Noční lovci vynikají v boji se všemi druhy bojových zbraní, ale největší obavy vzbuzují smrtící magické nože, jež jsou jejich obchodním tajemstvím. Noční lovci nejsou přizpůsobeni k tělesnému kontaktu s odolnějším nepřítelem a raději se spoléhají na svou iluzi o rychlém a zničujícím přepadení, nebo na boj z určité vzdálenosti s jejich přízračnými noži.[fs]Noční lovkyně byly tajné bojovnice, které nabízely své služby velkým rodům v říši. Noční lovkyně vynikají v boji se všemi druhy bojových zbraní, ale největší obavy vzbuzují smrtící magické nože, jež jsou jejich obchodním tajemstvím. Noční lovkyně nejsou přizpůsobeny k tělesnému kontaktu s odolnějším nepřítelem a raději se spoléhají na svou iluzi o rychlém a zničujícím přepadení, nebo na boj z určité vzdálenosti s jejich přízračnými noži.]
+tagSkillClassDescription04=[[ms]Noční lovci byli tajní bojovníci, kteří nabízeli své služby velkým rodům v říši. Noční lovci vynikají v boji se všemi druhy bojových zbraní, ale největší obavy vzbuzují smrtící magické nože, jež jsou jejich obchodním tajemstvím. Noční lovci nejsou přizpůsobeni k tělesnému kontaktu s odolnějším nepřítelem a raději se spoléhají na svou iluzi o rychlém a zničujícím přepadení, nebo na boj z určité vzdálenosti s jejich přízračnými noži. [fs]Noční lovkyně byly tajné bojovnice, které nabízely své služby velkým rodům v říši. Noční lovkyně vynikají v boji se všemi druhy bojových zbraní, ale největší obavy vzbuzují smrtící magické nože, jež jsou jejich obchodním tajemstvím. Noční lovkyně nejsou přizpůsobeny k tělesnému kontaktu s odolnějším nepřítelem a raději se spoléhají na svou iluzi o rychlém a zničujícím přepadení, nebo na boj z určité vzdálenosti s jejich přízračnými noži.]
 
-tagSkillClassDescription05=[[ms]Pro Vládce temnot není tajemství magie nějaká nevysvětlitelná záhadanebo vůle bohů, ale věda, která chce být odtajněna. Tato snaha o poznání žene všechny Vládce temnot dychtivě dál za objevováním nových způsobů, které by si mohli osvojit. Vládce temnot vychyluje Éterickou a živelnou energii podle své vůle, čímž tvoří ničivou demonstraci síly, kterou může použít na malé armády. Nicméně hrubá síla znamená chabou obranu.[fs]Pro Vládkyně temnot není tajemství magie nějaká nevysvětlitelná záhadanebo vůle bohů, ale věda, která chce být odtajněna. Tato snaha o poznání žene všechny Vládkyně temnot dychtivě dál za objevováním nových způsobů, které by si mohly osvojit. Vládkyně temnot vychyluje Éterickou a živelnou energii podle své vůle, čímž tvoří ničivou demonstraci síly, kterou může použít na malé armády. Nicméně hrubá síla znamená chabou obranu.]
+tagSkillClassDescription05=[[ms]Pro Vládce temnot není tajemství magie nějaká nevysvětlitelná záhada nebo vůle bohů, ale věda, která chce být odtajněna. Tato snaha o poznání žene všechny Vládce temnot dychtivě dál za objevováním nových způsobů, které by si mohli osvojit. Vládce temnot vychyluje Aetherickou a živelnou energii podle své vůle, čímž tvoří ničivou demonstraci síly, kterou může použít na malé armády. Nicméně hrubá síla znamená chabou obranu. [fs]Pro Vládkyně temnot není tajemství magie nějaká nevysvětlitelná záhada nebo vůle bohů, ale věda, která chce být odtajněna. Tato snaha o poznání žene všechny Vládkyně temnot dychtivě dál za objevováním nových způsobů, které by si mohly osvojit. Vládkyně temnot vychyluje Aetherickou a živelnou energii podle své vůle, čímž tvoří ničivou demonstraci síly, kterou může použít na malé armády. Nicméně hrubá síla znamená chabou obranu.]
 
-tagSkillClassDescription06=[[ms]Šamané[fs]Šamanky] pocházejí z nezkroceného severu a [[ms]byli duchovními vůdci a strážci[fs]byly duchovními vůdkyněmi a strážkyněmi] jejich lidu. Prohlašujíc ohromující zasvěcení k přírodě a jejímu bohu Mogdrogenovi jsou [[ms]Šamané schopni[fs]Šamanky schopny] užívat moc strašlivých sil přírody či dokonce přivolat divoké bestie, aby jim přišly na pomoc. [[ms]Šamané[fs]Šamanky] excelují v užívání brutálních obouručních zbraní, ale jednoduše se mohou uchýlit k jiným nástrojům války, zatímco vyvolávají jejich prvotní síly.
+tagSkillClassDescription06=[[ms]Šamané[fs]Šamanky] pocházejí z nezkroceného severu a [[ms]byli duchovními vůdci a strážci[fs]byly duchovními vůdkyněmi a strážkyněmi] jejich lidu. Prohlašujíc ohromující zasvěcení k přírodě a jejímu bohu Mogdrogenovi jsou [[ms]Šamané schopni[fs]Šamanky schopny] užívat moc strašlivých sil přírody či dokonce přivolat divoké bestie, aby jim přišly na pomoc. [[ms]Šamané[fs]Šamanky] excelují v užívání brutálních obouručních zbraní, ale jednoduše se mohou uchýlit k jiným válečným nástrojům, zatímco vyvolávají jejich prvotní síly.
 
 tagSkillClassDescription07=
 
@@ -673,15 +673,15 @@ xtagClass06SkillDescription08A=Tornádo je jednou z nejdestruktivnějších sil 
 xtagClass06SkillName08B_Pet=Úpějící vítr
 xtagClass06SkillDescription08B_Pet=Vířící a ničící větrnná smršť útočí na blízké nepřátele v blízkosti.
 xtagClass06SkillDescription07A=Usměrňování síly bouře je jeden z nejposvátnějších rituálů Vyvolávačů bouře. S dostatečnou praxí může Šaman posílit totem destruktivní silou blesku.
-xtagClass06SkillName03A=Feral Hunger
-xtagClass06SkillDescription03A=Embrace your primal side, feeding voraciously on blood spilled by your weapon attacks during combat.
-xtagClass06SkillName03B=Taste for Blood
-xtagClass06SkillDescription03B=Your taste for carnage is insatiable. While under the effects of Feral Hunger, your attacks wound deeper and draw more of your target's precious vitality.
-xtagClass06SkillDescription04C=Mastery of storm conjuration allows you to repeat the ritual with greater frequency, effectively covering the battlefield with a torrential downpour.
-xtagClass06SkillName04D=Maelstrom
-xtagClass06SkillDescription04D=Mastery of storm conjuration allows you to focus your powers into one devastating Squall, rather than several lesser tempests.
-xtagClass06SkillName03B=Storm Totem
-xtagClass06SkillDescription03B=Channeling the power of storm is one of the most sacred rites of the Stormcallers. With sufficient practice, a Shaman can imbue a Wendigo Totem with the destructive force of lightning, causing it to rapidly fire off electric bursts at nearby foes.
+xtagClass06SkillName03A=Divoký hlad
+xtagClass06SkillDescription03A=Přijmi svoji nejzákladnější stránku a nenasytně hoduj na prolité krvi po útocích tvé zbraně v průběhu boje.
+xtagClass06SkillName03B=Touha po krvi
+xtagClass06SkillDescription03B=Tvá touha po krveprolití je neukojitelná. Pokud budeš pod vlivem Divokého hladu, tvé útoky budou způsobovat hlubší zranění a vysávat z tvého cíle větší množství vzácné vitality.
+xtagClass06SkillDescription04C=Mistrovství ve vyvolávání bouří ti dovoluje rituál opakovat častěji, což na bojišti vyvolá efekt přívalových dešťů.
+xtagClass06SkillName04D=Smršť
+xtagClass06SkillDescription04D=Mistrovství ve vyvolávání bouří ti dovoluje soustředit své síly do jedné devastující bouře než do vícero malých.
+xtagClass06SkillName03B=Bouřný totem
+xtagClass06SkillDescription03B=Usměrňování síly bouře je jeden z nejposvátnějších rituálů Vyvolávačů bouře. S dostatečnou praxí může Šaman doplnit destruktivní silou blesku což způsobí, že z totemu budou vystřelovat ve velké rychlosti elektrické výboje směřované na nepřátele v blízkosti.
 
 #Class07
 
@@ -691,43 +691,43 @@ xtagClass06SkillDescription03B=Channeling the power of storm is one of the most 
 
 #Class09
 
-XXXtagClass01SkillName15A=Battle Fury
-XXXtagClass01SkillDescription15A=The heat of battle rouses savage animal impulses that heighten your strength and speed but diminish discipline lowering your defenses.
-XXXtagClass01SkillName15B=Rampage
-XXXtagClass01SkillDescription15B=Adrenaline and rage drive you on, giving you almost super-human speed but also making you more wreckless, reducing defensive ability.
+XXXtagClass01SkillName15A=Bojová zuřivost
+XXXtagClass01SkillDescription15A=Žár bitvy vyburcuje kruté zvířecí pudy, které zvyšují tvou sílu a rychlost, ale snižuje disciplínu, která oslabuje tvou obranyschopnost.
+XXXtagClass01SkillName15B=Zuřivost
+XXXtagClass01SkillDescription15B=Adrenalin a vztek tě vyburcuje dávajíc ti téměř nadlidskou rychlost, ale také tě činí více lehkomyslným a tak je snížena tvá obranyschopnost.
 
 
-XXXtagClass03SkillName09=Fulcrum Training
-XXXtagClass03SkillDescription09=Channeling chaotic energy to bend the physical world is a volatile art that deforms and can eventually destroy the body of practicioners.  Channeling through a fulcrum can mitigate some of this damage.
+XXXtagClass03SkillName09=Pilířový trénink
+XXXtagClass03SkillDescription09=Vedení chaotické energie, aby ohýbala fyzický svět, je nestabilní umění kež deformuje a příležitostně může zničit tělo provozovatele. Vedení skrze pilíř může zmírnit toto poškození.
 
 
-XXXtagClass04SkillName03A=Toxic Bomb
-XXXtagClass04SkillDescription03A=A combination of vicious toxins and explosive powders results in a deadly explosive charge that will leave enemies gasping for air.
-XXXtagClass04SkillName03B=Necrotic Miasma
-XXXtagClass04SkillDescription03B=The addition of an unstable agent to the Toxic Bomb causes weakened resolve and painful convulsions.
+XXXtagClass04SkillName03A=Toxická bomba
+XXXtagClass04SkillDescription03A=Kombinace odporných jedů a explozivních prášků vyústí ve smrtící explozivní nálož, která zanechá nepřátele lapající po dechu.
+XXXtagClass04SkillName03B=Nekrotická miazma
+XXXtagClass04SkillDescription03B=Přidáním nestálého činitele do Toxické bomby je způsobeno, že oslabení pocítí bolestivé křeče.
 
-XXXtagClass03SkillName06A=Elemental Orb
-XXXtagClass03SkillDescription06A=Lobs a pulsating orb of combined elemental force at enemies that explodes in a burst of heat, cold, and electricity.
-
-
-
-XXXtagClass03SkillName08A=Gale Force
-XXXtagClass03SkillDescription08A=A burst of wind and elemental energy knocks enemies away from the caster and inflicts elemental damage.
+XXXtagClass03SkillName06A=Elementální koule
+XXXtagClass03SkillDescription06A=Hoď pulsující kouli kombinovaných elementálních sil na nepřátele, která vybuchne s účinky žáru, chladu a elektřiny.
 
 
 
+XXXtagClass03SkillName08A=Síla vichru
+XXXtagClass03SkillDescription08A=Výbuch větru a elementální energie odhodí nepřátele od vyvolavatele a způsobuje elementální poškození.
 
-XXXtagClass03SkillName01C=Whirlwind
-XXXtagClass03SkillDescription01C=The great raven controls the winds, channeling them into a swirling vortex of rocks and debris that pummel enemies within its path.
 
-XXXtagClass03SkillName01D=Storm Vortex
-XXXtagClass03SkillDescription01D=Magnifies the power of Whirlwind and causes it to emit bolts of lightning.
 
-xxxtagClass05SkillName01A=Vile Brew
-xxxtagClass05SkillDescription01A=Bottled and hurled at enemies, this vile concoction releases a poisonous miasma that sickens enemies and eats away at their flesh.
 
-xxxtagClass05SkillName02A=Envenom
-xxxtagClass05SkillDescription02A=Coats your weapons with oil from the vile brew.
+XXXtagClass03SkillName01C=Vichřice
+XXXtagClass03SkillDescription01C=Veliký havran ovládá větry a usměrní je do víru kamení a štěrku, který pak buší no nepřátel, kteří stojí v cestě.
+
+XXXtagClass03SkillName01D=Bouřný vír
+XXXtagClass03SkillDescription01D=Umocňuje sílu Vichřice a posiluje ji o vypouštění blesků.
+
+xxxtagClass05SkillName01A=Odporná směs
+xxxtagClass05SkillDescription01A=Zalahvována a vržena na nepřátele způsobí, že tato jedovatá směs vypustí jedovatý oblak, díky které nepřátelé ochuraví a zároveň jim bude rozežírat maso.
+
+xxxtagClass05SkillName02A=Otrávení
+xxxtagClass05SkillDescription02A=Pokryje tvé zbraně olejem z Odporné směsi.
 
 #ItemSkills
 
