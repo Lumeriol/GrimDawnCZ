@@ -710,7 +710,7 @@ tagSlithHeroH04=Hnusný Farnlan ~ nezastavitelný
 tagSlithHeroH05=Eidonax ~ rychlý
 tagSlithHeroH06=Avaladran ~ zkažený
 
-tagSlithBossB01=Viloth Narušitel
+tagSlithBossB01=Viloth Narušitelka
 tagSlithBossB02=Zapomenutý Primordian
 tagSlitbBossB03=Ellena, první Slith
 
