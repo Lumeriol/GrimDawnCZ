@@ -338,7 +338,7 @@ tagClass03SkillName12A=Posedlost
 tagClass03SkillDescription12A=Umožňuješ svému tělu, aby se chovalo jako koráb pro čarodějnického boha Solaela. Velký dočasně osídlí tvé tělo a propůjčí ti úctyhodné fyzické schopnosti.
 
 tagClass03SkillName13A=Krvavé neštovice
-tagClass03SkillDescription13A=Dokonce i mnozí Okultisté se vyhýbají této odporné kletbě s prodlouženou dobou utrpení, kterou způsobuje. Sešle prudce nakažlivý mor na tvé nepřátele a nezadržitelně oslabuje jejich životní sílu a způsobuje jim krvácení z každého otvoru.
+tagClass03SkillDescription13A=Dokonce i mnozí Okultisté se vyhýbají této odporné kletbě s prodlouženou dobou utrpení, kterou způsobuje. Sešle prudce nakažlivý mor na tvé nepřátele a nezadržitelně oslabuje jejich životní sílu a způsobuje jim krvácení ze všech otvorů.
 tagClass03SkillName13B=Plýtvání
 tagClass03SkillDescription13B=Způsobuje, že neštovice zničí vitalitu tvých nepřátel a promění mokvavé rány v krvavou dnu. Toto vnitřní kouzelnictví vysloužilo Okultistům jejich temnou reputaci a mnoho z nich bylo upáleno na hranici.
 tagClass03SkillName13C=Černá smrt
