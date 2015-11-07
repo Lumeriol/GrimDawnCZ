@@ -2632,125 +2632,125 @@ tagEnchantB029B=Velké Menhirovo požehnání II
 tagEnchantB029C=Velké Menhirovo požehnání III
 tagEnchantB029Desc="Proslýchá se, že země požehnaná Menhirským božstvem přináší nejbohatší sklizeň. Při správném použití může tohle požehnání být využito i na různé nástroje, obydlí a dokonce i na zbraně."^w^n(použitelné na všechny obouruční zbraně)
 
-tagEnchantB030A=Kymon's Will
-tagEnchantB030B=Kymon's Will II
-tagEnchantB030C=Kymon's Will III
-tagEnchantB030Desc="Kymon, chosen by the gods, bestows some of his divine status upon the worthy and willing."^w^n(použitelné na prsteny a amulety)
+tagEnchantB030A=Kymonova budoucnost
+tagEnchantB030B=Kymonova budoucnost II
+tagEnchantB030C=Kymonova budoucnost III
+tagEnchantB030Desc="Kymon, vyvolený bohy, propůjčuje některé ze svých božských vlastností ctihodným a poslušným."^w^n(použitelné na prsteny a amulety)
 
-tagEnchantB031A=Kymon's Fury
-tagEnchantB031B=Kymon's Fury II
-tagEnchantB031C=Kymon's Fury III
-tagEnchantB031Desc="Those that have seen Kymon in battle say that he fights with the vengeful fury of the gods themselves."^w^n(použitelné na prsteny a amulety)
+tagEnchantB031A=Kymonův vztek
+tagEnchantB031B=Kymonův vztek II
+tagEnchantB031C=Kymonův vztek III
+tagEnchantB031Desc="Ti, kteří viděli Kymona v bitvě, tvrdí, že bojuje s pomstychtivou zuřivostí samotných bohů."^w^n(použitelné na prsteny a amulety)
 
-tagEnchantB032A=Kymon's Vision
-tagEnchantB032B=Kymon's Vision II
-tagEnchantB032C=Kymon's Vision III
-tagEnchantB032Desc="Kymon's vision for Cairn's future drives his Chosen into a frenzy when they engage with the enemies of Cairn."^w^n(použitelné na prsteny a amulety)
+tagEnchantB032A=Kymonova představa
+tagEnchantB032B=Kymonova představa II
+tagEnchantB032C=Kymonova představa III
+tagEnchantB032Desc="Kymonova představa budoucnosti Cairnu přivádí jeho Vyvolené k šílenství, jakmile zaútočí na jakéhokoliv nepřítele Cairnu."^w^n(použitelné na prsteny a amulety)
 
-tagEnchantB033A=Uroboruuk's Word
-tagEnchantB033B=Uroboruuk's Word II
-tagEnchantB033C=Uroboruuk's Word III
-tagEnchantB033Desc="During the first of many lessons, the master Uroboruuk would utter just a single word as he held his arms over a corpse: Rise."^w^n(použitelné na prsteny a amulety)
+tagEnchantB033A=Uroboruukovo slovo
+tagEnchantB033B=Uroboruukovo slovo II
+tagEnchantB033C=Uroboruukovo slovo III
+tagEnchantB033Desc="Během první z mnoha lekcí, když mistr Uroboruuk držel své ruce nad mrtvolou, pronesl jen jediné slovo. Povstaň!"^w^n(použitelné na prsteny a amulety)
 
-tagEnchantB034A=Uroboruuk's Anguish
-tagEnchantB034B=Uroboruuk's Anguish II
-tagEnchantB034C=Uroboruuk's Anguish III
-tagEnchantB034Desc="The master Uroboruuk endured unspeakable anguish at the hands of the Arkovians. This horrid enchantment seeks to replicate his suffering."^w^n(použitelné na prsteny a amulety)
+tagEnchantB034A=Uroboruukova muka
+tagEnchantB034B=Uroboruukova muka II
+tagEnchantB034C=Uroboruukova muka III
+tagEnchantB034Desc="Mistr uroboruuk vydržel nevýslovnou bolest z rukou Arkoviánců. Toto hrůzné očarování se snaží replikovat jeho utrpení."^w^n(použitelné na prsteny a amulety)
 
 tagEnchantB035A=Uroboruukova stezka
 tagEnchantB035B=Uroboruukova stezka II
 tagEnchantB035C=Uroboruukova stezka III
 tagEnchantB035Desc="Chceš-li najít Uroboruukovu stezku, musíš hledat cesty za poznáním všude tam, kam mohou vést."^w^n(použitelné na prsteny a amulety)
 
-tagEnchantB036A=Outcast's Might
-tagEnchantB036B=Outcast's Might II
-tagEnchantB036BC=Outcast's Might III
-tagEnchantB036Desc="Supreme enchantment devised by the Outcast to bestow the strength of ten men upon the user."^w^n(Applied to all one-handed weapons, shields and off-hands)
+tagEnchantB036A=Vyvrhelova moc
+tagEnchantB036B=Vyvrhelova moc II
+tagEnchantB036BC=Vyvrhelova moc III
+tagEnchantB036Desc="Nejlepší očarování vymyšlené Vyvrhely. Propůjčí svému nositeli sílu deseti mužů."^w^n(použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
 
-tagEnchantB037A=Potent Outcast's Might
-tagEnchantB037B=Potent Outcast's Might II
-tagEnchantB037BC=Potent Outcast's Might III
-tagEnchantB037Desc="Supreme enchantment devised by the Outcast to bestow the strength of ten men upon the user."^w^n(Applied to all two-handed weapons)
+tagEnchantB037A=Vyvrhelova divoká moc
+tagEnchantB037B=Vyvrhelova divoká moc II
+tagEnchantB037BC=Vyvrhelova divoká moc III
+tagEnchantB037Desc="Nejlepší očarování vymyšlené Vyvrhely. Propůjčí svému nositeli sílu deseti mužů."^w^n(použitelné na všechny obouruční zbraně)
 
-tagEnchantB038A=Outcast's Frostbite
-tagEnchantB038B=Outcast's Frostbite II
-tagEnchantB038BC=Outcast's Frostbite III
-tagEnchantB038Desc="Supreme enchantment devised by the Outcast to bestow mastery over ice upon the user."^w^n(Applied to all one-handed weapons, shields and off-hands)
+tagEnchantB038A=Vyvrhelovo mrazivé kousnutí
+tagEnchantB038B=Vyvrhelovo mrazivé kousnutí II
+tagEnchantB038BC=Vyvrhelovo mrazivé kousnutí III
+tagEnchantB038Desc="Nejlepší očarování vymyšlené Vyvrhely. Propůjčuje svému nositeli nadvládu nad veškerým ledem."^w^n(použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
 
-tagEnchantB039A=Potent Outcast's Frostbite
-tagEnchantB039B=Potent Outcast's Frostbite II
-tagEnchantB039BC=Potent Outcast's Frostbite III
-tagEnchantB039Desc="Supreme enchantment devised by the Outcast to bestow mastery over ice upon the user."^w^n(Applied to all two-handed weapons)
+tagEnchantB039A=Vyvrhelovo silné mrazivé kousnutí
+tagEnchantB039B=Vyvrhelovo silné mrazivé kousnutí II
+tagEnchantB039BC=Vyvrhelovo silné mrazivé kousnutí III
+tagEnchantB039Desc="Nejlepší očarování vymyšlené Vyvrhely. Propůjčuje svému nositeli nadvládu nad veškerým ledem."^w^n(použitelné na všechny obouruční zbraně)
 
-tagEnchantB040A=Outcast's Inferno
-tagEnchantB040B=Outcast's Inferno II
-tagEnchantB040BC=Outcast's Inferno III
-tagEnchantB040Desc="Supreme enchantment devised by the Outcast to bestow mastery of hellfire upon the user."^w^n(Applied to all one-handed weapons, shields and off-hands)
+tagEnchantB040A=Vyvrhelovo peklo
+tagEnchantB040B=Vyvrhelovo peklo II
+tagEnchantB040BC=Vyvrhelovo peklo III
+tagEnchantB040Desc="Nejlepší očarování vymyšlené Vyvrhely. Propůjčuje svému nositeli nadvládu nad pekelným ohněm."^w^n(použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
 
-tagEnchantB041A=Potent Outcast's Inferno
-tagEnchantB041B=Potent Outcast's Inferno II
-tagEnchantB041BC=Potent Outcast's Inferno III
-tagEnchantB041Desc="Supreme enchantment devised by the Outcast to bestow mastery of hellfire upon the user."^w^n(Applied to all two-handed weapons)
+tagEnchantB041A=Vyvrhelovo kruté peklo
+tagEnchantB041B=Vyvrhelovo kruté peklo II
+tagEnchantB041BC=Vyvrhelovo kruté peklo III
+tagEnchantB041Desc="Nejlepší očarování vymyšlené Vyvrhely. Propůjčuje svému nositeli nadvládu nad pekelným ohněm."^w^n(použitelné na všechny obouruční zbraně)
 
-tagEnchantB042A=Outcast's Thunder
-tagEnchantB042B=Outcast's Thunder II
-tagEnchantB042BC=Outcast's Thunder III
-tagEnchantB042Desc="Supreme enchantment devised by the Outcast to bestow mastery of the skies upon the user."^w^n(Applied to all one-handed weapons, shields and off-hands)
+tagEnchantB042A=Vyvrhelův hřmot
+tagEnchantB042B=Vyvrhelův hřmot II
+tagEnchantB042BC=Vyvrhelův hřmot III
+tagEnchantB042Desc="Nejlepší očarování vymyšlené Vyvrhely. Propůjčuje svému nositeli nadvádlu nad nebesy."^w^n(použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
 
-tagEnchantB043A=Potent Outcast's Thunder
-tagEnchantB043B=Potent Outcast's Thunder II
-tagEnchantB043BC=Potent Outcast's Thunder III
-tagEnchantB043Desc="Supreme enchantment devised by the Outcast to bestow mastery of the skies upon the user."^w^n(Applied to all two-handed weapons)
+tagEnchantB043A=Vyvrhelův děsivý hřmot
+tagEnchantB043B=Vyvrhelův děsivý hřmot II
+tagEnchantB043BC=Vyvrhelův děsivý hřmot III
+tagEnchantB043Desc="Nejlepší očarování vymyšlené Vyvrhely. Propůjčuje svému nositeli nadvádlu nad nebesy."^w^n(použitelné na všechny obouruční zbraně)
 
-tagEnchantB044A=Outcast's Venom
-tagEnchantB044B=Outcast's Venom II
-tagEnchantB044BC=Outcast's Venom III
-tagEnchantB044Desc="Supreme enchantment devised by the Outcast to bestow mastery over poisons upon the user."^w^n(Applied to all one-handed weapons, shields and off-hands)
+tagEnchantB044A=Vyvrhelova jedovatost
+tagEnchantB044B=Vyvrhelova jedovatost II
+tagEnchantB044BC=Vyvrhelova jedovatost III
+tagEnchantB044Desc="Nejlepší očarování vymyšlené Vyvrhely. Propůjčuje svému nositeli nadvládu nad všemi jedy."^w^n(použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
 
-tagEnchantB045A=Potent Outcast's Venom
-tagEnchantB045B=Potent Outcast's Venom II
-tagEnchantB045BC=Potent Outcast's Venom III
-tagEnchantB045Desc="Supreme enchantment devised by the Outcast to bestow mastery over poisons upon the user."^w^n(Applied to all two-handed weapons)
+tagEnchantB045A=Vyvrhelova silná jedovatost
+tagEnchantB045B=Vyvrhelova silná jedovatost II
+tagEnchantB045BC=Vyvrhelova silná jedovatost III
+tagEnchantB045Desc="Nejlepší očarování vymyšlené Vyvrhely. Propůjčuje svému nositeli nadvládu nad všemi jedy."^w^n(použitelné na všechny obouruční zbraně)
 
-tagEnchantB046A=Outcast's Deathtouch
-tagEnchantB046B=Outcast's Deathtouch II
-tagEnchantB046BC=Outcast's Deathtouch III
-tagEnchantB046Desc="Supreme enchantment devised by the Outcast to bestow mastery over life's essence upon the user."^w^n(Applied to all one-handed weapons, shields and off-hands)
+tagEnchantB046A=Vyvrhelův dotek smrti
+tagEnchantB046B=Vyvrhelův dotek smrti II
+tagEnchantB046BC=Vyvrhelův dotek smrti III
+tagEnchantB046Desc="Nejlepší očarování vymyšlené Vyvrhely. Propůjčuje svému nositeli nadvládu nad esencí života."^w^n(použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
 
-tagEnchantB047A=Potent Outcast's Deathtouch
-tagEnchantB047B=Potent Outcast's Deathtouch II
-tagEnchantB047BC=Potent Outcast's Deathtouch III
-tagEnchantB047Desc="Supreme enchantment devised by the Outcast to bestow mastery over life's essence upon the user."^w^n(Applied to all two-handed weapons)
+tagEnchantB047A=Vyvrhelův chladný dotek smrti
+tagEnchantB047B=Vyvrhelův chladný dotek smrti II
+tagEnchantB047BC=Vyvrhelův chladný dotek smrti III
+tagEnchantB047Desc="Nejlepší očarování vymyšlené Vyvrhely. Propůjčuje svému nositeli nadvládu nad esencí života."^w^n(použitelné na všechny obouruční zbraně)
 
-tagEnchantB048A=Outcast's Wrath
-tagEnchantB048B=Outcast's Wrath II
-tagEnchantB048BC=Outcast's Wrath III
-tagEnchantB048Desc="Supreme enchantment devised by the Outcast to bestow mastery over the aether upon the user."^w^n(Applied to all one-handed weapons, shields and off-hands)
+tagEnchantB048A=Vyvrhelův hněv
+tagEnchantB048B=Vyvrhelův hněv II
+tagEnchantB048BC=Vyvrhelův hněv III
+tagEnchantB048Desc="Nejlepší očarování vymyšlené Vyvrhely. Propůjčuje svému nositeli nadvládu nad Aetherem."^w^n(použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
 
-tagEnchantB049A=Potent Outcast's Wrath
-tagEnchantB049B=Potent Outcast's Wrath II
-tagEnchantB049BC=Potent Outcast's Wrath III
-tagEnchantB049Desc="Supreme enchantment devised by the Outcast to bestow mastery over the aether upon the user."^w^n(Applied to all two-handed weapons)
+tagEnchantB049A=Vyvrhelův šílený hněv
+tagEnchantB049B=Vyvrhelův šílený hněv II
+tagEnchantB049BC=Vyvrhelův šílený hněv III
+tagEnchantB049Desc="Nejlepší očarování vymyšlené Vyvrhely. Propůjčuje svému nositeli nadvládu nad Aetherem."^w^n(použitelné na všechny obouruční zbraně)
 
-tagEnchantB050A=Outcast's Riftstorm
-tagEnchantB050B=Outcast's Riftstorm II
-tagEnchantB050BC=Outcast's Riftstorm III
-tagEnchantB050Desc="Supreme enchantment devised by the Outcast to bestow mastery over the chaotic void upon the user."^w^n(Applied to all one-handed weapons, shields and off-hands)
+tagEnchantB050A=Vyvrhelova bouře
+tagEnchantB050B=Vyvrhelova bouře II
+tagEnchantB050BC=Vyvrhelova bouře III
+tagEnchantB050Desc="Nejlepší očarování vymyšlené Vyvrhely. Propůjčuje svému nositeli nadvládu nad chaotickou prázdnotou."^w^n(použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
 
-tagEnchantB051A=Potent Outcast's Riftstorm
-tagEnchantB051B=Potent Outcast's Riftstorm II
-tagEnchantB051BC=Potent Outcast's Riftstorm III
-tagEnchantB051Desc="Supreme enchantment devised by the Outcast to bestow mastery over the chaotic void upon the user."^w^n(Applied to all two-handed weapons)
+tagEnchantB051A=Vyvrhelova zvláštní bouře
+tagEnchantB051B=Vyvrhelova zvláštní bouře II
+tagEnchantB051BC=Vyvrhelova zvláštní bouře III
+tagEnchantB051Desc="Nejlepší očarování vymyšlené Vyvrhely. Propůjčuje svému nositeli nadvládu nad chaotickou prázdnotou."^w^n(použitelné na všechny obouruční zbraně)
 
-tagEnchantB052A=Outcast's Bastion
-tagEnchantB052B=Outcast's Bastion II
-tagEnchantB052BC=Outcast's Bastion III
-tagEnchantB052Desc="Supreme enchantment devised by the Outcast to bestow skin of iron upon the user."^w^n(Applied to all one-handed weapons, shields and off-hands)
+tagEnchantB052A=Vyvrhelova bašta
+tagEnchantB052B=Vyvrhelova bašta II
+tagEnchantB052BC=Vyvrhelova bašta III
+tagEnchantB052Desc="Nejlepší očarování vymyšlené Vyvrhely. Propůjčuje svému nositeli hroší kůži."^w^n(použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
 
-tagEnchantB053A=Potent Outcast's Bastion
-tagEnchantB053B=Potent Outcast's Bastion II
-tagEnchantB053BC=Potent Outcast's Bastion III
-tagEnchantB053Desc="Supreme enchantment devised by the Outcast to bestow skin of iron upon the user."^w^n(Applied to all two-handed weapons)
+tagEnchantB053A=Vyvrhelova pevná bašta
+tagEnchantB053B=Vyvrhelova pevná bašta II
+tagEnchantB053BC=Vyvrhelova pevná bašta III
+tagEnchantB053Desc="Nejlepší očarování vymyšlené Vyvrhely. Propůjčuje svému nositeli hroší kůži."^w^n(použitelné na všechny obouruční zbraně)
 
 tagEnchantB054A=Nature's Wrath
 tagEnchantB054B=Nature's Wrath II
