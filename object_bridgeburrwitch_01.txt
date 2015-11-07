@@ -3,10 +3,10 @@ S odstraněním trosek je teď možné opravit most do Východních močálů.{^
 Nedostatek materiálu.
 Opravit most do Východních močálů.
 Nechat to být.
-This bridge once connected Burrwitch to East Marsh. Trash has accumulated at its support beams, making repairs impossible.{^n}{^n}The debris could be cleared with some heavy explosives. The old abandoned mines around Old Arkovia are likely the best place to find those.{^n}{^n}It will take 1 Dynamite to clear the bridge.
-Not enough materials.
-Clear the repair site.
+Tento most kdysi spojoval Burrwitch s Východními močály. U nosníků se však nahromadila halda odpadu, která zapříčinila, že je most neopravitttelný.{^n}{^n}Všechen ten odpad je možné zničit ¨pomocí těžkých výbušnin. Staré a opuštěné doly v okolí Staré Arkovie jsou asi tím nejlepším místem, kde se dá nějaká výbušnina sehnat.{^n}{^n}K odstranění budeš potřebovat 1 dynamit.
+Nedostatek materiálu.
+Odstranit zával.
 
-Leave it.
-[[ms]Obnovil[fs]Obnovila] jsi tento most.
+Nechat to být.
+[[ms]Obnovil[fs]Obnovila] si tento most.
 Ok.

@@ -2602,35 +2602,35 @@ tagEnchantB023B=Dozorcův pohled II
 tagEnchantB023C=Dozorcův pohled III
 tagEnchantB023Desc="Kasparov upírá neustále svou pozornost na nějaké experimenty a nyní náhodou narazil na využití očí Aetherianských dozorců, když se pokoušel jedno z nich použít jako výbušninu."^w^n(použitelné na prsteny a amulety)
 
-tagEnchantB024A=Nature's Harvest
-tagEnchantB024B=Nature's Harvest II
-tagEnchantB024C=Nature's Harvest III
-tagEnchantB024Desc="Some farmers pray for a healthy harvest. Those more magically inclined know how to cheat the odds. When adapted to weapons, this wild growth can prove disastrous to flesh."^w^n(použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
+tagEnchantB024A=Sklizeň přírody
+tagEnchantB024B=Sklizeň přírody II
+tagEnchantB024C=Sklizeň přírody III
+tagEnchantB024Desc="Někteří farmáři se modlí za bohatou sklizeň. Ti více magicky zkušení vědí, jak ošálit náhodu. Když se uzpůsobí zbraně, skončí tento divoký růst pro všechny velkou katastrofou."^w^n(použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
 
-tagEnchantB025A=Potent Nature's Harvest
-tagEnchantB025B=Potent Nature's Harvest II
-tagEnchantB025C=Potent Nature's Harvest III
-tagEnchantB025Desc="Some farmers pray for a healthy harvest. Those more magically inclined know how to cheat the odds. When adapted to weapons, this wild growth can prove disastrous to flesh."^w^n(použitelné na všechny obouruční zbraně)
+tagEnchantB025A=Bohatá sklizeň přírody
+tagEnchantB025B=Bohatá sklizeň přírody II
+tagEnchantB025C=Bohatá sklizeň přírody III
+tagEnchantB025Desc="Někteří farmáři se modlí za bohatou sklizeň. Ti více magicky zkušení vědí, jak ošálit náhodu. Když se uzpůsobí zbraně, skončí tento divoký růst pro všechny velkou katastrofou."^w^n(použitelné na všechny obouruční zbraně)
 
-tagEnchantB026A=Solar Radiance
-tagEnchantB026B=Solar Radiance II
-tagEnchantB026C=Solar Radiance III
-tagEnchantB026Desc="The power of the sun, trapped in sorcerous powder."^w^n(použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
+tagEnchantB026A=Sluneční záře
+tagEnchantB026B=Sluneční záře II
+tagEnchantB026C=Sluneční záře III
+tagEnchantB026Desc="Síla slunce uvězněná do čarodějného prachu."^w^n(použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
 
-tagEnchantB027A=Potent Solar Radiance
-tagEnchantB027B=Potent Solar Radiance II
-tagEnchantB027C=Potent Solar Radiance III
-tagEnchantB027Desc="The power of the sun, trapped in sorcerous powder."^w^n(použitelné na všechny obouruční zbraně)
+tagEnchantB027A=Silná sluneční záře
+tagEnchantB027B=Silná sluneční záře II
+tagEnchantB027C=Silná sluneční záře III
+tagEnchantB027Desc="Síla slunce uvězněná do čarodějného prachu."^w^n(použitelné na všechny obouruční zbraně)
 
-tagEnchantB028A=Menhir's Blessing
-tagEnchantB028B=Menhir's Blessing II
-tagEnchantB028C=Menhir's Blessing III
-tagEnchantB028Desc="It is said that earth blessed by the deity Menhir brings the most plentiful harvest. When applied correctly, this blessing can be extended to tools, homes and even weapons."^w^n(použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
+tagEnchantB028A=Menhirovo požehnání
+tagEnchantB028B=Menhirovo požehnání II
+tagEnchantB028C=Menhirovo požehnání III
+tagEnchantB028Desc="Proslýchá se, že země požehnaná Menhirským božstvem přináší nejbohatší sklizeň. Při správném použití může tohle požehnání být využito i na různé nástroje, obydlí a dokonce i na zbraně."^w^n(použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
 
-tagEnchantB029A=Potent Menhir's Blessing
-tagEnchantB029B=Potent Menhir's Blessing II
-tagEnchantB029C=Potent Menhir's Blessing III
-tagEnchantB029Desc="It is said that earth blessed by the deity Menhir brings the most plentiful harvest. When applied correctly, this blessing can be extended to tools, homes and even weapons."^w^n(použitelné na všechny obouruční zbraně)
+tagEnchantB029A=Velké Menhirovo požehnání
+tagEnchantB029B=Velké Menhirovo požehnání II
+tagEnchantB029C=Velké Menhirovo požehnání III
+tagEnchantB029Desc="Proslýchá se, že země požehnaná Menhirským božstvem přináší nejbohatší sklizeň. Při správném použití může tohle požehnání být využito i na různé nástroje, obydlí a dokonce i na zbraně."^w^n(použitelné na všechny obouruční zbraně)
 
 tagEnchantB030A=Kymon's Will
 tagEnchantB030B=Kymon's Will II
@@ -2807,41 +2807,41 @@ tagEnchantC001Desc="Čarodějnický prášek utvořený Legionářskými alchymi
 tagEnchantC002A=Prášek královské stráže
 tagEnchantC002Desc="Čarodějnický prášek příhodně pojmenovaný pro jeho použití na skříně královské rodiny, ale najde své využití i v boji."^w^n(použitelné na všechny zbroje)
 
-tagEnchantC003A=Venomguard Powder
-tagEnchantC003Desc="A Rover powder derived from several deadly toxins originating from both beast and plant."^w^n(použitelné na všechny zbroje)
-tagEnchantC004A=Nightshade Powder
-tagEnchantC004Desc="Powder derived from the blue petals of the Asterkarn Nightshade, a flower that only blossoms in the light of the moon."^w^n(použitelné na všechny zbroje)
+tagEnchantC003A=Prášek z jedů
+tagEnchantC003Desc="Tulácký prášek extrahovaný z několika smrtících toxinů pocházejících jak ze zvířat, tak z rostlin."^w^n(použitelné na všechny zbroje)
+tagEnchantC004A=Prach nočního stínu
+tagEnchantC004Desc="Prach derivovaný z modrých okvětních lístků Asterkamu, zvané Noční stín. Tato květina kvete pouze za světla měsíce."^w^n(použitelné na všechny zbroje)
 
-tagEnchantC005A=Bladeward Powder
-tagEnchantC005Desc="Given their vow to reject violence, the Rovers had to improvise alternative ways to survive the dangers of the world."^w^n(použitelné na všechny zbroje)
-tagEnchantC006A=Mogdrogen's Touch
-tagEnchantC006Desc="A blessing from the beast god to protect his followers from the ravages of nature."^w^n(použitelné na všechny zbroje)
+tagEnchantC005A=Prach z pochvy
+tagEnchantC005Desc="Vzhledem k jejich sibu odmítání násilí museli Tuláci improvizovat všemi způsoby, aby přežili v nebezpečích světa."^w^n(použitelné na všechny zbroje)
+tagEnchantC006A=Mogdrogenův dotek
+tagEnchantC006Desc="Požehnání bohem zvířat, chránícího své následovníky před všudypřítomnou přírodou."^w^n(použitelné na všechny zbroje)
 
-tagEnchantC007A=Flameweave Powder
-tagEnchantC007Desc="Sorcerous powder derived from the sun-bleached bones of Manticores, often used to strengthen armor against flame."^w^n(použitelné na všechny zbroje)
-tagEnchantC008A=Solarstorm Powder
-tagEnchantC008Desc="This specially crafted powder can only be mixed during a solar eclipse, lest it loses its arcane properties and becomes no more than ash."^w^n(použitelné na všechny zbroje)
+tagEnchantC007A=Prach sžírajícího plamene
+tagEnchantC007Desc="Čarodějný prach extrahovaný ze sluncem vybělených kostí mantikor, často používaný k zesílení zbroje proti plamenům."^w^n(použitelné na všechny zbroje)
+tagEnchantC008A=Prach ze slunečné bouře
+tagEnchantC008Desc="Tento speciálně stvořený prach může být smíchán pouze během zatmění Slunce, jinak ztrácí své tajemné vlastnosti a není ničím jiným, než obyčejným smetím."^w^n(použitelné na všechny zbroje)
 
-tagEnchantC009A=Kymon's Blessing
-tagEnchantC009Desc="Sorcerous powder blessed by Father Kymon to ward his followers against the scorching flames of Empyrion."^w^n(použitelné na všechny zbroje)
-tagEnchantC010A=Kymon's Conduit
-tagEnchantC010Desc="Sorcerous powder created by Father Kymon to channel lightning away from the wearer's heart."^w^n(použitelné na všechny zbroje)
-tagEnchantC011A=Demonbane Powder
-tagEnchantC011Desc="Sorcerous powder created by Chosen priests to protect their allies against the vile denizens of the Chthonic Void."^w^n(použitelné na všechny zbroje)
+tagEnchantC009A=Kymonovo požehnání
+tagEnchantC009Desc="Čarodějný prach požehnaný Otcem Kymonem, aby chránil své následovníky proti požírajícím plamenům Empyrionu."^w^n(použitelné na všechny zbroje)
+tagEnchantC010A=Kymonův bleskosvod
+tagEnchantC010Desc="Čarodějný prach vytvořený Otcem Kymonem, aby odváděl blesky od srdce svého nositele."^w^n(použitelné na všechny zbroje)
+tagEnchantC011A=Zhouba démona
+tagEnchantC011Desc="Čarodějný prach vytvořený knezi Vyvolených, aby chránil jejich spojence proti ohavným netvorům chthonické Prázdnoty."^w^n(použitelné na všechny zbroje)
 
-tagEnchantC012A=Wraithtouch Powder
-tagEnchantC012Desc="Sorcerous powder infused with the essence of a captured wraith."^w^n(použitelné na všechny zbroje)
-tagEnchantC013A=Spiritguard Powder
-tagEnchantC013Desc="Sorcerous powder derived from the ashes of a fallen necromancer."^w^n(použitelné na všechny zbroje)
-tagEnchantC014A=Spellward Powder
-tagEnchantC014Desc="Experienced arcanists within the ranks of the Order have crafted this powder to protect their allies from arcane rituals."^w^n(použitelné na všechny zbroje)
+tagEnchantC012A=Dotek přízraku
+tagEnchantC012Desc="Čarodějný prach nasáklý esencemi zajatých přízraků."^w^n(použitelné na všechny zbroje)
+tagEnchantC013A=Strážce duchů
+tagEnchantC013Desc="Čarodějný prach vytažený z popela padlého nekromancera."^w^n(použitelné na všechny zbroje)
+tagEnchantC014A=Kouzlo ochrany
+tagEnchantC014Desc="Zkušení alchymisté Řádu vytvořili tento prach k ochraně svých spojenců před temnými rituály."^w^n(použitelné na všechny zbroje)
 
-tagEnchantC015A=Outcast's Warding Powder
-tagEnchantC015Desc="The Outcast's exceptional mastery over the arcane allows her to create powders that can ward even the dimmest man against the destructive forces of the Aether."^w^n(použitelné na všechny zbroje)
-tagEnchantC016A=Outcast's Elemental Scales
-tagEnchantC016Desc="The Outcast's specially crafted powder wards the user against the contrasting forces of fire and ice."^w^n(použitelné na všechny zbroje)
-tagEnchantC017A=Outcast's Skyguard Powder
-tagEnchantC017Desc="The Outcast's specially crafted powder wards the user against sky-powered sorcery."^w^n(použitelné na všechny zbroje)
+tagEnchantC015A=Vyvrhelův ochranný prach
+tagEnchantC015Desc="Výjimečné mistrovství Vyvrhelů v tajemných rituálech jim umožňuje vytvářet prášky, které mohou ochránit i toho nejslabšího chlapa před ničivou silou Aetheru."^w^n(použitelné na všechny zbroje)
+tagEnchantC016A=Vyvrhelova elementární ochrana
+tagEnchantC016Desc="Vyvrhely speciálně vytvořený prach chrání svého nositele proti kontrastním silám ohně a ledu."^w^n(použitelné na všechny zbroje)
+tagEnchantC017A=Vyvrhelův strážce nebes
+tagEnchantC017Desc="Vyvrhely speciálně vytvořený prášek chránící svého nositele před čarodějnými úkazy prohánějícími se po obloze."^w^n(použitelné na všechny zbroje)
 
 
 
@@ -3869,7 +3869,7 @@ tagShrineConstitutionA01=Nedotčené jídlo
 
 tagWoodenDoor=Dřevěné dveře
 tagBarnDoor=Vrata
-tagCageDoor=Vraty cely
+tagCageDoor=Vrata cely
 tagTrollDoor=Zlobří brána
 
 #Dungeon Doors
