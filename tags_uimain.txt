@@ -60,7 +60,7 @@ tagRDifficultyTitle01=Normální
 tagRDifficultyTitle02=Elitní
 tagRDifficultyTitle03=Ultimátní
 tagChallengeDifficulty=Veteránská
-tagHardcore=Zkouška ohněm
+tagHardcore=Výzva
 tagChallenge=Veterán
 tagRDifficultyDesc01=Pro odemčení těžších obtížností musíš dokončit hru na této obtížnosti.
 tagRDifficultyDesc02=Pro odemčení veteránské obtížnosti musíš dokončit hru na normální obtížnost.
@@ -291,7 +291,7 @@ tagUPnPCheckFail=Služby UPnP nejsou dostupné, aby bylo možné nakonfigurovat 
 tagUPnPNotAvailableHelp=UPnP není dostupné.  Grim Dawn nebude schopen automaticky nastavit tvůj router, abys mohl hostit internetový server. Zkontroluj prosím nastavení svého routeru a povol UPnP nebo ručně nastav svůj router tak, aby měl otevřený port 27016 pro protokoly UDP a TCP.
 
 tagUPnPEnabledHelp=UPnP je povoleno.  Není potřeba žádná manuální konfigurace.
-tagUPnPDisabledHelp=UPnP je zakázáno.  Port 27016 musí na tvém routeru být otevřený pro oba protokoly UDP a TCP, pokud chceš hostovat Grim Dawn server.
+tagUPnPDisabledHelp=UPnP je zakázáno.  Pokud chceš hostovat Grim Dawn server, musíš na svém routeru mít otevřený port 27016 pro protokoly UDP a TCP.
 
 tagUPnPHelp=UPnP je protokol, který umožňuje hře Grim Dawn komunikovat a ovládat tvůj router.  Pro hostování internetového serveru musí být na tvém routeru otevřeny porty.  UPnP umožňuje hře Grim Dawn otevírat tyto porty a zavírat je, pokud je server ukončen, bez nutného manuálního zásahu do konfigurace.
 
@@ -353,7 +353,7 @@ tagMenuError19=Nelze se připojit. S touto postavou nemáš odemčenu požadovan
 tagMenuError20=Špatné heslo.
 tagMenuError21=Tato hra vyžaduje vlastní mapu: {%t0}
 tagMenuError21a=Tato hra používá nekompatibilní herní režim. Tvůj režim je "{%s0"}, kdežto na serveru je "{%s1}".
-tagMenuError21b=Postavy ze Zkoušky ohněm a klasické postavy spolu hrát nemohou. Zkus si vybrat jinou hru.
+tagMenuError21b=Postavy z Výzvy a klasické postavy spolu hrát nemohou. Zkus si vybrat jinou hru.
 tagMenuError22=Tato hra je plně obsazená. Vyber si prosím jinou.
 tagMenuError23=Tato hra vyžaduje úroveň postavy v rozmezí {%d0} ~ {%d1}. Vyber si prosím jinou hru.
 tagMenuError24=Některé z požadovaných změn se projeví až po restartování hry.
@@ -425,7 +425,7 @@ tagLobbyAutoparty=Automatické sdružování povoleno
 tagLobbyInstancedLoot=Vlastní kořist
 tagLobbyLanguage=Jazyk
 tagLobbyPVP=PvP povoleno
-tagLobbyHardcore=Zkouška ohněm povolena
+tagLobbyHardcore=Výzva povolena
 tagLobbyNormalDifficulty=Normální obtížnost
 tagLobbyEliteDifficulty=Elitní obtížnost
 tagLobbyUltimateDifficulty=Ultimátní obtížnost
