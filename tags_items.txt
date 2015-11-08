@@ -2752,55 +2752,55 @@ tagEnchantB053B=Vyvrhelova pevná bašta II
 tagEnchantB053BC=Vyvrhelova pevná bašta III
 tagEnchantB053Desc="Nejlepší očarování vymyšlené Vyvrhely. Propůjčuje svému nositeli hroší kůži."^w^n(použitelné na všechny obouruční zbraně)
 
-tagEnchantB054A=Nature's Wrath
-tagEnchantB054B=Nature's Wrath II
-tagEnchantB054C=Nature's Wrath III
-tagEnchantB054Desc="Potent mix of poisons and toxins known only to the Rovers and used only under dire circumstances."^w^n(použitelné na prsteny a amulety)
+tagEnchantB054A=Hněv přírody
+tagEnchantB054B=Hněv přírody II
+tagEnchantB054C=Hněv přírody III
+tagEnchantB054Desc="Silný mix jedů a toxinů je znám jen Tulákům, kteří je používají jen v zoufalých situacích."^w^n(použitelné na prsteny a amulety)
 
-tagEnchantB055A=Spirit of Vengeance
-tagEnchantB055B=Spirit of Vengeance II
-tagEnchantB055C=Spirit of Vengeance III
-tagEnchantB055Desc="Captured form of a vile and vengeful spirit from the Arkovian ruins. The inside of the crucible is etched with protective runes."^w^n(použitelné na prsteny a amulety)
+tagEnchantB055A=Duch pomsty
+tagEnchantB055B=Duch pomsty II
+tagEnchantB055C=Duch pomsty III
+tagEnchantB055Desc="Zachycená forma odporného a pomstychtivého ducha z ruin Arkovie. Na vnitřních stěnách lahvičky jsou vyleptány ochranné runy."^w^n(použitelné na prsteny a amulety)
 
-tagEnchantB056A=Survivor's Ally
-tagEnchantB056B=Survivor's Ally II
-tagEnchantB056C=Survivor's Ally III
-tagEnchantB056Desc="When allies are few, an animal companion can prove to be the only true friend."^w^n(použitelné na prsteny a amulety)
+tagEnchantB056A=Spojenec přeživšího
+tagEnchantB056B=Spojenec přeživšího II
+tagEnchantB056C=Spojenec přeživšího III
+tagEnchantB056Desc="Jak spojenců ubývá, může se zvířecí společník stát jediným opravdovým přítelem."^w^n(použitelné na prsteny a amulety)
 
-tagEnchantB057A=Beastlord's Calling
-tagEnchantB057B=Beastlord's Calling II
-tagEnchantB057BC=Beastlord's Calling III
-tagEnchantB057Desc="A concoction used by the people of Homestead to bless their herds."^w^n(použitelné na jednoruční zbraně, štíty a příruční předměty)
+tagEnchantB057A=Řev pána zvířat
+tagEnchantB057B=Řev pána zvířat II
+tagEnchantB057BC=Řev pána zvířat III
+tagEnchantB057Desc="Výmysl používaný lidmi z Homesteadu k požehnání svých stád."^w^n(použitelné na jednoruční zbraně, štíty a příruční předměty)
 
-tagEnchantB058A=Potent Beastlord's Calling
-tagEnchantB058B=Potent Beastlord's Calling II
-tagEnchantB058BC=Potent Beastlord's Calling III
-tagEnchantB058Desc="A concoction used by the people of Homestead to bless their herds."^w^n(použitelné na všechny obouručné zbraně)
+tagEnchantB058A=Hlasitý řev pána zvířat
+tagEnchantB058B=Hlasitý řev pána zvířat II
+tagEnchantB058BC=Hlasitý řev pána zvířat III
+tagEnchantB058Desc="Výmysl používaný lidmi z Homesteadu k požehnání svých stád."^w^n(použitelné na všechny obouručné zbraně)
 
-tagEnchantB059A=Mogdrogen's Blessing
-tagEnchantB059B=Mogdrogen's Blessing II
-tagEnchantB059C=Mogdrogen's Blessing III
-tagEnchantB059Desc="Powder allegedly blessed by the beast god himself to strengthen the bond between man and beast."^w^n(použitelné na prsteny a amulety)
+tagEnchantB059A=Mogdrogenovo požehnání
+tagEnchantB059B=Mogdrogenovo požehnání II
+tagEnchantB059C=Mogdrogenovo požehnání III
+tagEnchantB059Desc="Prach byl údajně požehnán samotným zvířecím bohem k posílení vztahu mezi člověkem a zvířetem."^w^n(použitelné na prsteny a amulety)
 
-tagEnchantB060A=Empyrion's Touch
-tagEnchantB060B=Empyrion's Touch II
-tagEnchantB060C=Empyrion's Touch III
-tagEnchantB060Desc="Sparking powder believed to have been touched by the Lightbringer himself."^w^n(použitelné na prsteny a amulety)
+tagEnchantB060A=Dotek Empyrionu
+tagEnchantB060B=Dotek Empyrionu II
+tagEnchantB060C=Dotek Empyrionu III
+tagEnchantB060Desc="Jiskřící prach, kterého se prý dotkl samotný Světlonoš."^w^n(použitelné na prsteny a amulety)
 
-tagEnchantB061A=Infernal Dust
-tagEnchantB061B=Infernal Dust II
-tagEnchantB061C=Infernal Dust III
-tagEnchantB061Desc="Sorcerous powder burning with the wrath of Empyrion."^w^n(použitelné na prsteny a amulety)
+tagEnchantB061A=Pekelný prach
+tagEnchantB061B=Pekelný prach II
+tagEnchantB061C=Pekelný prach III
+tagEnchantB061Desc="Čarodějný prach hořící hněvem Empyriona."^w^n(použitelné na prsteny a amulety)
 
-tagEnchantB062A=Malkadarr's Chillbane
-tagEnchantB062B=Malkadarr's Chillbane II
-tagEnchantB062C=Malkadarr's Chillbane III
-tagEnchantB062Desc="Sorcerous powder created by Malkadarr, First of the Inner Circle."^w^n(použitelné na prsteny a amulety)
+tagEnchantB062A=Malkadarrovo mrazivé kousnutí
+tagEnchantB062B=Malkadarrovo mrazivé kousnutí II
+tagEnchantB062C=Malkadarrovo mrazivé kousnutí III
+tagEnchantB062Desc="Čarodějný prach stvořený Malkadarrem, Prvním z Vnitřního kruhu."^w^n(použitelné na prsteny a amulety)
 
-tagEnchantB063A=Keeper's Binding Dust
-tagEnchantB063B=Keeper's Binding Dust II
-tagEnchantB063C=Keeper's Binding Dust III
-tagEnchantB063Desc="Binding Dust created by the Keeper herself to bind the most powerful of undead servants."^w^n(použitelné na prsteny a amulety)
+tagEnchantB063A=Knihovničin vazební prach
+tagEnchantB063B=Knihovničin vazební prach II
+tagEnchantB063C=Knihovničin vazební prach III
+tagEnchantB063Desc="Vazební prach stvořený samotnou Knihovnicí k vazbám s nejsilnějšími nemrtvými služebníky."^w^n(použitelné na prsteny a amulety)
 
 tagEnchantC001A=Lidská bdělost
 tagEnchantC001Desc="Čarodějnický prášek utvořený Legionářskými alchymisty k ochraně svých vojáků před invazí jednotek Aetherianů a chthonických bytostí."^w^n(použitelné na všechny zbroje)
