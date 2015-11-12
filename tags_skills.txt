@@ -57,7 +57,7 @@ tagSkillClassDescription04=[[ms]Noční lovci byli tajní bojovníci, kteří na
 
 tagSkillClassDescription05=[[ms]Pro Vládce temnot není tajemství magie nějaká nevysvětlitelná záhada nebo vůle bohů, ale věda, která chce být odtajněna. Tato snaha o poznání žene všechny Vládce temnot dychtivě dál za objevováním nových způsobů, které by si mohli osvojit. Vládce temnot vychyluje Aetherickou a živelnou energii podle své vůle, čímž tvoří ničivou demonstraci síly, kterou může použít na malé armády. Nicméně hrubá síla znamená chabou obranu. [fs]Pro Vládkyně temnot není tajemství magie nějaká nevysvětlitelná záhada nebo vůle bohů, ale věda, která chce být odtajněna. Tato snaha o poznání žene všechny Vládkyně temnot dychtivě dál za objevováním nových způsobů, které by si mohly osvojit. Vládkyně temnot vychyluje Aetherickou a živelnou energii podle své vůle, čímž tvoří ničivou demonstraci síly, kterou může použít na malé armády. Nicméně hrubá síla znamená chabou obranu.]
 
-tagSkillClassDescription06=[[ms]Šamané[fs]Šamanky] pocházejí z nezkroceného severu a [[ms]byli duchovními vůdci a strážci[fs]byly duchovními vůdkyněmi a strážkyněmi] jejich lidu. Prohlašujíc ohromující zasvěcení k přírodě a jejímu bohu Mogdrogenovi jsou [[ms]Šamané schopni[fs]Šamanky schopny] užívat moc strašlivých sil přírody či dokonce přivolat divoké bestie, aby jim přišly na pomoc. [[ms]Šamané[fs]Šamanky] excelují v užívání brutálních obouručních zbraní, ale jednoduše se mohou uchýlit k jiným válečným nástrojům, zatímco vyvolávají jejich prvotní síly.
+tagSkillClassDescription06=[[ms]Šamané[fs]Šamanky] pocházejí z nezkroceného severu a [[ms]byli duchovními vůdci a strážci[fs]byly duchovními vůdkyněmi a strážkyněmi] jejich lidu. Prohlašujíc ohromující zasvěcení k přírodě a jejímu bohu Mogdrogenovi jsou [[ms]Šamané schopni[fs]Šamanky schopny] užívat moc strašlivých sil přírody či dokonce přivolat divoké bestie, aby jim přišly na pomoc. [[ms]Šamané[fs]Šamanky] excelují v užívání brutálních obouručních zbraní, ale jednoduše se mohou uchýlit k jiným válečným nástrojům, zatímco vyvolávají své prvotní síly.
 
 tagSkillClassDescription07=
 
@@ -610,7 +610,7 @@ tagClass06SkillName05D=Srdce z kamene
 tagClass06SkillDescription05D=Přijímajíc přirozenost země, na které stojíš, se ti již nadále neobnovuje zdraví během boje, ale tvá kůže ztvrdne jako kámen. ^oTento efekt je rozšířen i na tvé spojence.
 
 tagClass06SkillName06A=Vyvolání Trnošípka
-tagClass06SkillDescription06A=Trnošípkové jsou houževnatá stvoření, zrozená z ostružinového dřeva a bezuzdné magie. Zkušení šamané mohou tato stvoření vyvolat, aby jim pomohla v boji. ^oV jeden čas může být vyvolán pouze jeden Trnošípek.
+tagClass06SkillDescription06A=Trnošípci jsou houževnatá stvoření, zrozená z ostružinového dřeva a bezuzdné magie. Zkušení šamané mohou tato stvoření vyvolat, aby jim pomohla v boji. ^oV jeden čas může být vyvolán pouze jeden Trnošípek.
 tagClass06SkillName06B=Kamenná kůra
 tagClass06SkillDescription06B=Kůže Trnošípka tvrdne a jeho ostny vyrostou v silnější, což ho promění na bojišti v zastrašující vzezření, jež nemůže být ignorováno.
 tagClass06SkillName06C=Ozembouch
