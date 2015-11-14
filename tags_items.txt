@@ -2213,7 +2213,7 @@ tagConsumableF06=Výtažek odvážného
 tagConsumableF06Desc="Roztříštěním lahvičky povzbudíš všechny blízké spojence."
 tagConsumableF07=Olej z probodlého srdce
 tagConsumableF07Desc="Toxin vymyšlený zabijáky Černé legie."
-tagConsumableF08=Blade-Ochranný výtažek
+tagConsumableF08=Výtažek z pochvy na meč
 tagConsumableF08Desc="Roztříštěním lahvičky vyčaruješ kolem sebe vířící nože."
 tagConsumableF09=Ice-Krvavý olej
 tagConsumableF09Desc="Tajemný toxin, z kterého tuhne krev v žilách tvým nepřátelům."
@@ -2244,8 +2244,8 @@ tagNoteExcerpt="{%t}.."
 
 #ItemEnchantment
 
-tagEnchanted=vylepšeno
-tagEnchantmentName=vylepšit
+tagEnchanted= ~ vylepšeno
+tagEnchantmentName= ~ vylepšení
 tagEnchantmentUsable=[Pravým tlačítkem vylepšíš předmět]
 tagEnchantmentUnusable=[Nelze použít - nejsou splněny požadavky]
 tagEnchantmentConfirmation=Opravdu chceš použít toto vylepšení?
@@ -2280,12 +2280,12 @@ tagEnchantA004Desc="Jemný prášek pocházející z vyschlých ostatků Chthoni
 tagEnchantA005A=Prášek z černé oceli
 tagEnchantA005B=Prášek z černé oceli II
 tagEnchantA005C=Prášek z černé oceli III
-tagEnchantA005Desc="Tajná směs železa a různých minerálů známých pouze Černou legií."^w^n(použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
+tagEnchantA005Desc="Tajná směs železa a různých minerálů, jež jsou známé pouze Černé legii."^w^n(použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
 
 tagEnchantA006A=Hrubý prášek z černé oceli
 tagEnchantA006B=Hrubý prášek z černé oceli II
 tagEnchantA006C=Hrubý prášek z černé oceli III
-tagEnchantA006Desc="Tajná směs železa a různých minerálů známých pouze Černou legií."^w^n(použitelné na všechny obouruční zbraně)
+tagEnchantA006Desc="Tajná směs železa a různých minerálů, jež jsou známé pouze Černé legii."^w^n(použitelné na všechny obouruční zbraně)
 
 tagEnchantA007A=Aetherický prach
 tagEnchantA007B=Aetherický prach II
@@ -2490,12 +2490,12 @@ tagEnchantA046Desc="Prášek získaný z mrtvých. Zdá se, že snadno pohltí t
 tagEnchantB001A=Ulgrimova podlost
 tagEnchantB001B=Ulgrimova podlost II
 tagEnchantB001C=Ulgrimova podlost III
-tagEnchantB001Desc="Nikdo si není pořádně jistý, co Císařovo První ostří sloučil, aby vytvořil tento čarodějnický prášek, ale nikdo nemůže zpochybňovat jeho výsledek."^w^n(použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
+tagEnchantB001Desc="Nikdo si není pořádně jistý, co Císařova První čepel sloučil, aby vytvořil tento čarodějnický prášek, ale nikdo nemůže zpochybňovat jeho výsledek."^w^n(použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
 
 tagEnchantB002A=Mocná Ulgrimova podlost
 tagEnchantB002B=Mocná Ulgrimova podlost II
 tagEnchantB002C=Mocná Ulgrimova podlost III
-tagEnchantB002Desc="Nikdo si není pořádně jistý, co Císařovo První ostří sloučil, aby vytvořil tento čarodějnický prášek, ale nikdo nemůže zpochybňovat jeho výsledek."^w^n(použitelné na všechny obouruční zbraně)
+tagEnchantB002Desc="Nikdo si není pořádně jistý, co Císařovo První čepel sloučil, aby vytvořil tento čarodějnický prášek, ale nikdo nemůže zpochybňovat jeho výsledek."^w^n(použitelné na všechny obouruční zbraně)
 
 tagEnchantB003A=Creedova prohnanost
 tagEnchantB003B=Creedova prohnanost II
@@ -2530,12 +2530,12 @@ tagEnchantB008Desc="Čarodějové Černé legie věří, že nejlepším způsob
 tagEnchantB009A=Ch'thonova podstata
 tagEnchantB009B=Ch'thonova podstata II
 tagEnchantB009C=Ch'thonova podstata III
-tagEnchantB009Desc="Zbraně zabalené do vnitřností chthonických bytostí se často stávají nerozpoznatelné od běžné, ale přitom zachybují samotnou podstanu prázdnoty."^w^n(použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
+tagEnchantB009Desc="Zbraně zabalené do vnitřností chthonických bytostí jsou často nerozpoznatelné od běžné, ale přitom zachycují samotnou podstatu Prázdnoty."^w^n(použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
 
 tagEnchantB010A=Průkazná Ch'thonova podstata
 tagEnchantB010B=Průkazná Ch'thonova podstata II
 tagEnchantB010C=Průkazná Ch'thonova podstata III
-tagEnchantB010Desc="Zbraně zabalené do vnitřností chthonických bytostí se často stávají nerozpoznatelné od běžné, ale přitom zachybují samotnou podstanu prázdnoty."^w^n(použitelné na všechny obouruční zbraně)
+tagEnchantB010Desc="Zbraně zabalené do vnitřností chthonických bytostí jsou často nerozpoznatelné od běžné, ale přitom zachycují samotnou podstatu Prázdnoty."^w^n(použitelné na všechny obouruční zbraně)
 
 tagEnchantB011A=Rhowanova moudrost
 tagEnchantB011B=Rhowanova moudrost II
@@ -2812,7 +2812,7 @@ tagEnchantC003Desc="Tulácký prášek extrahovaný z několika smrtících toxi
 tagEnchantC004A=Prach nočního stínu
 tagEnchantC004Desc="Prach derivovaný z modrých okvětních lístků Asterkamu, zvané Noční stín. Tato květina kvete pouze za světla měsíce."^w^n(použitelné na všechny zbroje)
 
-tagEnchantC005A=Prach z pochvy
+tagEnchantC005A=Prach z pochvy meče
 tagEnchantC005Desc="Vzhledem k jejich sibu odmítání násilí museli Tuláci improvizovat všemi způsoby, aby přežili v nebezpečích světa."^w^n(použitelné na všechny zbroje)
 tagEnchantC006A=Mogdrogenův dotek
 tagEnchantC006Desc="Požehnání bohem zvířat, chránícího své následovníky před všudypřítomnou přírodou."^w^n(použitelné na všechny zbroje)
@@ -3133,7 +3133,7 @@ tagFactionMandateConfirmation=Opravdu chceš využít frakční mandát? Zruší
 tagFactionWarrantConfirmation=Opravdu chceš použít tento frakční oprávnění? Zrušíš tak stávající frakční mandát.
 
 tagBoosterADesc=Frakční dokumenty, označující tě jako vzor pro jejich lid.
-tagBoosterBDesc=Frakční dokumenty pověřující někoho zástupcem. ^Mohou být uložen u pašeráka a být využity jinými postavami.
+tagBoosterBDesc=Frakční dokumenty pověřující někoho zástupcem. ^oMohou být uloženy u pašeráka a být využity jinými postavami.
 tagBoosterCDesc=Plakát, kde jsi označen jako hledaný úhlavní nepřítel.
 tagBoosterBL_A01=Příkaz Černé legie
 tagBoosterBL_A02=Ráznější příkaz Černé legie
