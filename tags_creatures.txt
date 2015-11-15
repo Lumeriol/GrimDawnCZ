@@ -356,7 +356,7 @@ tagEnemyHarvestmanB01=Strašidelný sekáč
 tagHarvestmanHeroH01=Nemedian, žnec
 tagHarvestmanHeroH02=Effigus, zamořený
 tagHarvestmanHeroH03=Asper ~ rychlý
-tagHarvestmanHeroH04=Crowfiend ~ rváč
+tagHarvestmanHeroH04=Strašák ~ rváč
 
 #CreatureHuman
 

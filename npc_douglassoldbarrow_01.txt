@@ -27,7 +27,7 @@ Děkuji ti. Dám ihned vědět mým lidem.
 Děkuji ti. Brzy se za tebou kvůli tomu vrátím.
 Jsi [[ms]výborným[fs]výbornou] [[ms]pomocníkem[fs]pomocnicí] pro lidi z Homesteadu.
 Mí lidé v Ďáblově průsmyku potřebují jídlo.
-[[ms]Udělal[fs]Udělala] jsi toho hodně, když jsi [[ms]dal[fs]dala] naše pole zpátky do pořádku, ale nemohu nic postrádat do té doby, než budou mít mí lidé více času vypěstovat čerstvou úrodu.{^n}{^n}Pokud nám budeš nadále pomáhat, pak uvolníš ruce, které potřebuji u sklizně. Chytání bestií, jež se potulují krajem zase zajistí, že budeme moci pracovat v klidu.
+[[ms]Udělal[fs]Udělala] si toho hodně, když si [[ms]dal[fs]dala] naše pole zpátky do pořádku, ale nemohu nic postrádat do té doby, než budou mít mí lidé více času vypěstovat čerstvou úrodu.{^n}{^n}Pokud nám budeš nadále pomáhat, pak uvolníš ruce, které potřebuji u sklizně. Chytání bestií, jež se potulují krajem, zase zajistí, že budeme moci pracovat v klidu.
 Dobrá.
 Opravdu to vypadá, že jsou tví lidé ve velmi špatné situaci. [[ms]Udělal[fs]Udělala] jsi toho pro nás tak mnoho, myslím že je fér, že vypomůžeme my vám.{^n}{^n}Kapitán Somerová nemusí souhlasit s dělením našich zásob, ale nemůžeme přehlížet problémy ostatních, a už vůbec ne poté, co jsi pro nás tolik [[ms]udělal[fs]udělala].
 To [[ms]rád[fs]ráda] slyším.
@@ -35,10 +35,10 @@ Pošlu zprávu, že jídlo je okamžitě posíláno do Ďáblova průsmyku.{^n}{
 Děkuji ti. Dám ihned vědět mým lidem.
 Děkuji ti. Brzy se za tebou kvůli tomu vrátím.
 S čím dalším mohu vypomoci?
-Cokoliv co zmenší vytížení farmářů bude obrovskou výpomocí. Čím více času stráví péčí o úrodu, tím lépe. Chytání bestií, jež se potulují krajem zase zajistí, že budeme moci pracovat v klidu.
+Cokoliv, co zmenší vytížení farmářů, bude obrovskou výpomocí. Čím více času stráví péčí o úrodu, tím lépe. Chytání bestií, jež se potulují krajem, zase zajistí, že budeme moci pracovat v klidu.
 Tak zatím.
 Sbohem.
-[[ms]Vypořádal[fs]Vypořádala] jsi se s tou škvoří královnou?
+[[ms]Vypořádal[fs]Vypořádala] ses s tou škvoří královnou?
 Cyklus škvorů je přerušen.
 To jsou ty nejlepší zprávy za poslední týdny. Budu si muset promluvit s kapitánem Somerovou, abychom připravili kuchyni.{^n}{^n}Tvá neustávající podpora nám zajišťuje, že Homestead vyprodukuje dostatek potravy pro všechny.
 A co Ďáblův průsmyk?
@@ -48,7 +48,7 @@ Tak zatím.
 To jsou ty nejlepší zprávy za poslední týdny. Budu si muset promluvit s kapitánem Somerovou, abychom připravili kuchyni.{^n}{^n}[[ms]Udělal[fs]Udělala] jsi toho pro nás tak mnoho, myslím že je fér, že vypomůžeme my vám.
 To [[ms]rád[fs]ráda] slyším.
 
-[[ms]Vypořádal[fs]Vypořádala] jsi se s tou škvoří královnou?
+[[ms]Vypořádal[fs]Vypořádala] ses s tou škvoří královnou?
 Mí lidé v Ďáblově průsmyku potřebují jídlo.
 Omlouvám se, ale nemůžeme postrádat nic do doby, než se nám podaří více pěstovat, a to se nepovede, dokud škvoři napadnou a sežerou všechno, co jim přijde na oči. {^n}{^n}Pomoz nám a já zajistím že Ďáblův průsmyk dostane jídlo, které potřebuje.
 
@@ -75,7 +75,7 @@ To [[ms]rád[fs]ráda] slyším.
 Omlouvám se, ale myslím že už jsem toho [[ms]udělal[fs]udělala] dost.
 Nějaký pokrok s těmi škvory?
 [[ms]Vyčistil[fs]Vyčistila] jsem pole, jak jsi žádal.
-Tak to se mi ulevilo, a také jsi se [[ms]vrátil[fs]vrátila] v jednom kuse. Se škvory by se nemělo zahrávat, hlavně když je jich tolik.{^n}{^n}Promluvím si s kapitánem Somerovou o poslání pár strážných společně s některými farmáři. Pak to pole bude prázdné cobydup.{^n}{^n}Doufal jsem, že bys mě mezitím [[ms]mohl[fs]mohla] vyslyšet a dozvědět se o více nebezpečném úkolu.
+Tak to se mi ulevilo, a také ses [[ms]vrátil[fs]vrátila] v jednom kuse. Se škvory by se nemělo zahrávat, hlavně když je jich tolik.{^n}{^n}Promluvím si s kapitánem Somerovou o poslání pár strážných společně s některými farmáři. Pak to pole bude prázdné cobydup.{^n}{^n}Doufal jsem, že bys mě mezitím [[ms]mohl[fs]mohla] vyslyšet a dozvědět se o více nebezpečném úkolu.
 Co je to?
 
 Omlouvám se, ale myslím že už jsem toho [[ms]udělal[fs]udělala] dost.
@@ -88,7 +88,7 @@ Kdeže jsou ty farmy?
 Na západ odtud jsou dvě farmy, které patří Elmsworthovým a Thornsburyovým, které by byly ideálním krokem ke zvýšení naší potravinové produkce. Pokud můžeš odstranit shluky škvořích vajíček, které tam jsou spolu se škvory, kteří je brání, možná bych pak mohl přesvědčit kapitána, aby přidělil pár strážných na farmy a naši muži tak mohli v klidu pracovat na polích.
 Vydám se tam obratem.
 Stále pracuji na řešení.
-Vítej zpátky. Předpokládám, že jsi si [[ms]nerozmyslel[fs]nerozmyslela] nám vypomoci?
+Vítej zpátky. Předpokládám, že sis [[ms]nerozmyslel[fs]nerozmyslela] nám vypomoci?
 Jaký máte problém?
 Po Ponurém úsvitu muselo mnoho našich sousedů opustit svůj domov a uprchnout sem. Společně jsme vybudovali Homestead do útočiště, to vše ale za ztrátu nepřeberného množství jiných statků.{^n}{^n}Když přišla Černá legie, byli jsme schopni dostat zpět pár polí, ale ani náhodou ne dost, abychom nakrmili všechny. Kapitán Somerová považuje dostupné zásoby za dostačující pro její misi a snahu získat zpět jakákoliv další pole považuje za druhotnou, vzhledem k misi Legie. Škvoři, odporně zamořující tento kraj každých pár let, jsou přebujelí a požírají v našem kraji všechno co spatří a všude kladou svá vajíčka. Pokud brzy nezakročíme, naše úroda bude zničená a krajina zůstane neúrodná.{^n}{^n}Jsou tu dvě farmy, které patří Elmsworthovým a Thornsburyovým, které by byly ideálním krokem ke zvýšení naší potravinové produkce. Pokud můžeš odstranit shluky škvořích vajíček, které tam jsou spolu se škvory, kteří je brání, možná bych pak mohl přesvědčit kapitána, aby přidělil pár strážných na farmy a naši muži tak mohli v klidu pracovat na polích. Zajistím, že budeš po právu [[ms]odměněn[fs]odměněna]. Co na to říkáš?
 Odstraním to zamoření.
