@@ -1487,9 +1487,9 @@ TargetRange=Rozsah
 ProjectileLaunchRotation=Rozsah projektilů: {%.1f0} stupňů
 ProjectileLaunchNumber={%d0} {^E}projektilů
 ProjectileLaunchNumberMod=+{%d0} {^E}projektilů
-ProjectileFragmentsLaunchNumberMinMax={%d0 - %d1} {^E}úlomků
-ProjectileFragmentsLaunchNumber={%d0} {^E}úlomků
-ProjectilePiercingChance={%.1f0}% {^E}šance na projití skrz nepřátele
+ProjectileFragmentsLaunchNumberMinMax={%d0 - %d1} {^E}střepin
+ProjectileFragmentsLaunchNumber={%d0} {^E}střepin
+ProjectilePiercingChance={%.1f0}% {^E}šance na projití skrz nepřítele
 
 
 tagTooltipPetsHeader=Spojenci
@@ -1858,8 +1858,8 @@ DefenseSleepMaxResistR={%+.0f0}-{%.0f1} % {^E}k maximu odolnosti vůči uspání
 DefenseAllMaxResist={%+.0f0} % {^E}k maximum všech odolností
 DefenseAllMaxResistR={%+.0f0}-{%.0f1} % {^E}k maximu všech odolností
 
-RacialBonusPercentDamage={%+.0f0}% {^E}zranění na {%s1}
-RacialBonusAbsoluteDamage={%+.0f0} {^E}zranění na {%s1}
+RacialBonusPercentDamage={%+.0f0}% {^E}zranění vůči frakci {%s1}
+RacialBonusAbsoluteDamage={%+.0f0} {^E}zranění vůči frakci {%s1}
 RacialBonusPercentDefense={^E}{%s1} ti udělí o {^H}{%.0f0} % {^E}menší zranění
 RacialBonusAbsoluteDefense={^E}{%s1} ti udělí o {^H}{%.0f0} % {^E}menší zranění
 RacialBonusRaceName={%s0}
@@ -1871,7 +1871,7 @@ tagDefenseSleep={%.0f0}% {^E}odolnost vůči spánku
 tagDefenseSleepModifier={%+.0f0}% {^E}odolnost vůči uspání
 tagDamageModifierTotalDamage={%+.0f0}% {^E}celkového zranění
 tagDamageModifierCritDamage={%+.0f0}% {^E}kritického zranění
-tagDamageModifierDamageMult={^E}zranění ovlivňuje {^H}{%.0f0}%
+tagDamageModifierDamageMult={^H}{%.0f0}% {^E}zranění
 tagRetaliationModifierTotalDamage={%+.0f0}% {^E}Celkové zranění oplácením
 tagTotalSpeedResistance={%.0f0}% {^E}odolnost vůči zpomalení
 tagMindcontrolledMonster=Ovládaný myšlenkami

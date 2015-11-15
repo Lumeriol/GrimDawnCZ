@@ -2847,8 +2847,8 @@ tagEnchantC017Desc="Vyvrhely speciálně vytvořený prášek chránící svého
 
 #ItemComponents
 
-tagComponentIncomplete=dílčí komponenta
-tagComponentComplete=celá komponenta
+tagComponentIncomplete= ~ dílčí komponenta
+tagComponentComplete= ~ celá komponenta
 tagComponentNumber={%s0 - %d1 / %d2}
 tagComponentNumberRare={%s0}{%s1 - %d2 / %d3}
 tagComponentBonus=Bonus za složení
