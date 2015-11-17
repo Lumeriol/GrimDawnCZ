@@ -3388,8 +3388,8 @@ tagPrefixAA010=[ms]oddaný[fs]oddaná[ns]oddané[mp]oddané[fp]oddané[np]oddan�
 tagPrefixAA011=[ms]vojákův[fs]vojákova[ns]vojákovo[mp]vojákovy[fp]vojákovy[np]vojákovy
 tagPrefixAA012=[ms]ničitelův[fs]ničitelova[ns]ničitelovo[mp]ničitelovy[fp]ničitelovy[np]ničitelovy
 tagPrefixAA013=[ms]okultistův[fs]okultistova[ns]okultistovo[mp]okultistovy[fp]okultistovy[np]okultistovy
-tagPrefixAA014=[ms]nočního lovce[fs]nočního lovce[ns]nočního lovce[mp]nočního lovce[fp]nočního lovce[np]nočního lovce
-tagPrefixAA015=[ms]pána temnot[fs]pána temnot[ns]pána temnot[mp]pána temnot[fp]pána temnot[np]pána temnot
+tagPrefixAA014=[ms]lovcův[fs]lovcova[ns]lovcovo[mp]lovcovy[fp]lovcovy[np]lovcovy
+tagPrefixAA015=[ms]alchymistův[fs]alchymistova[ns]alchymistovo[mp]alchymistovy[fp]alchymistovy[np]alchymistovy
 
 tagPrefixAA016=[ms]regenerační[fs]regenerační[ns]regenerační[mp]regenerační[fp]regenerační[np]regenerační
 tagPrefixAA017=[ms]zotročující[fs]zotročující[ns]zotročující[mp]zotročující[fp]zotročující[np]zotročující
