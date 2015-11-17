@@ -1000,7 +1000,7 @@ tagCraftingDisplayBoxHelp=Aby vytvoření předmětu mohlo začít, polož plán
 tagCraftingBlueprintInfo=Kovář může použít plánky k vynalezení vylepšení předmětů z různých zachráněných materiálů.
 tagCraftingDeviceCost=Cena v železných mincích:  {%t0}
 tagCraftingCreate=Vyrobit:
-tagCraftingLearn=[pravým tlačítkem myši se naučit]
+tagCraftingLearn=[pravým tlačítkem myši se naučíš]
 tagCraftingRandom={^E}+náhodné vlastnosti
 
 tagCraftingItemType00= ~ Zařízení
@@ -1622,7 +1622,7 @@ DamagePhysicalResistanceReductionAbsolute= {^E}snížení nepřátelských fyzic
 DamageElementalResistanceReductionPercent=% {^E}snížení nepřátelských elementárních odolností
 DamageElementalResistanceReductionAbsolute= {^E}snížení nepřátelských elementárních odolností
 DamageDurationFumble=% {^E}šance, že nepřítel promáchne svůj útok
-DamageDurationProjectileFumble=% {^E}šance narušení zamíření na cíl
+DamageDurationProjectileFumble=% {^E}šance narušení zaměření nepřítele
 
 DamageModifierPhysical={%+.0f0}% {^E}fyzického zranění
 DamageModifierPhysicalR={%+.0f0}-{%.0f1}% {^E}fyzického zranění
