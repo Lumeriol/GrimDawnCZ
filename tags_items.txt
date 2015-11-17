@@ -2320,12 +2320,12 @@ tagEnchantA012Desc="Prášek jiskřící energií, opatrně vytažený z jedu ch
 tagEnchantA013A=Arkovianská kostní moučka
 tagEnchantA013B=Arkovianská kostní moučka II
 tagEnchantA013C=Arkovianská kostní moučka III
-tagEnchantA013Desc="Drcené kosti prokletých Arkoviánců, kteří byli proměněni Starými Tuláky."^w^n(použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
+tagEnchantA013Desc="Drcené kosti prokletých Arkovianců, kteří byli proměněni Starými Tuláky."^w^n(použitelné na všechny jednoruční zbraně, štíty a příruční předměty)
 
 tagEnchantA014A=Opojná arkovianská kostní moučka
 tagEnchantA014B=Opojná arkovianská kostní moučka II
 tagEnchantA014C=Opojná arkovianská kostní moučka III
-tagEnchantA014Desc="Drcené kosti prokletých Arkoviánců, kteří byli proměněni Starými Tuláky."^w^n(použitelné na všechny obouruční zbraně)
+tagEnchantA014Desc="Drcené kosti prokletých Arkovianců, kteří byli proměněni Starými Tuláky."^w^n(použitelné na všechny obouruční zbraně)
 
 tagEnchantA015A=Prášek ze zlobrovy bradavice
 tagEnchantA015B=Prášek ze zlobrovy bradavice II
@@ -2655,7 +2655,7 @@ tagEnchantB033Desc="Během první z mnoha lekcí, když mistr Uroboruuk držel s
 tagEnchantB034A=Uroboruukova muka
 tagEnchantB034B=Uroboruukova muka II
 tagEnchantB034C=Uroboruukova muka III
-tagEnchantB034Desc="Mistr uroboruuk vydržel nevýslovnou bolest z rukou Arkoviánců. Toto hrůzné očarování se snaží replikovat jeho utrpení."^w^n(použitelné na prsteny a amulety)
+tagEnchantB034Desc="Mistr Uroboruuk vydržel nevýslovnou bolest rukama Arkovianců. Toto hrůzné očarování se snaží replikovat jeho utrpení."^w^n(použitelné na prsteny a amulety)
 
 tagEnchantB035A=Uroboruukova stezka
 tagEnchantB035B=Uroboruukova stezka II
