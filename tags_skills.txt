@@ -509,8 +509,8 @@ tagClass05SkillDescription04B=Ze Smrště se stává zuřící inferno, jež pá
 tagClass05SkillName04C=Agrivixova zloba
 tagClass05SkillDescription04C=Agrivix byl proslulý převáděním tak ohromného množství energie do Smrště, že její výsledná exploze by nezanechala v okolí nic než prach z těch, jež by byli tak hloupí, aby zůstali v dosahu výbuchu. Tato technika ale vyžaduje hluboké soustředění a nemůže být bez odpočinku znovu vyvolána.
 
-tagClass05SkillName05A=Maivenina Sféra ochrany
-tagClass05SkillDescription05A=Jedinečná obranná technika tajemné magie vyvinutá vysoce váženou Vládkyní temnot jménem Maiven. Vytváří v okolí vyvolavatele štít, jež je ale vykoupený ohromnou ztrátou koncentrace.
+tagClass05SkillName05A=Maivenina sféra ochrany
+tagClass05SkillDescription05A=Jedinečná obranná technika tajemné magie, vyvinutá vysoce váženou Vládkyní temnot jménem Maiven. Vytváří v okolí vyvolavatele štít, jež je ale vykoupený ohromnou ztrátou koncentrace.
 tagClass05SkillName05B=Přeměna
 tagClass05SkillDescription05B=Sféra absorbuje zhoubné vysilující efekty a konvertuje je do tvých zásob energie.
 

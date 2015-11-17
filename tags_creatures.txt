@@ -860,7 +860,7 @@ tagEnemyVultureA01=Arkovianský skálodráp
 tagEnemyVultureB01=Arkovianský morozobák
 
 tagHeroVultureH01=Volaxna Krvavé hrdlo
-tagHeroVultureH02=Zkáza nebes ~ nakažený
+tagHeroVultureH02=Zkáza nebes ~ nakažená
 tagHeroVultureH03=Týrající zobák ~ nezastavitelný
 tagHeroVultureH04=Přízračný spár ~ zkažený
 tagHeroVultureH05=Spár Prázdnoty ~ dotčený Prázdnotou

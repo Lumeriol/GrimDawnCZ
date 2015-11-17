@@ -799,29 +799,29 @@ tagStyle041=[ms]vznešený[fs]vznešená[ns]vznešené[mp]vznešené[fp]vznešen
 tagStyle042=[ms]okázalý[fs]okázalá[ns]okázalé[mp]okázalé[fp]okázalé[np]okázalé
 
 #ArmorClass
-tagArmorClass01= ~ kouzelnická zbroj
-tagArmorClass02= ~ lehká zbroj
-tagArmorClass03= ~ těžká zbroj
+tagArmorClass01=kouzelnická zbroj
+tagArmorClass02=lehká zbroj
+tagArmorClass03=těžká zbroj
 
 #WeaponClass
-tagOneHanded= ~ jednoruční zbraň
-tagTwoHanded= ~ obouruční zbraň
-tagOffHand= ~ příruční předmět
+tagOneHanded=jednoruční zbraň
+tagTwoHanded=obouruční zbraň
+tagOffHand=příruční předmět
 
 #MiscClass
-tagRing= ~ prsten
-tagAmulet= ~ amulet
-tagMedal= ~ medaile
-tagBelt= ~ opasek
+tagRing=prsten
+tagAmulet=amulet
+tagMedal=medaile
+tagBelt=opasek
 
 #QualityClass
-tagMagic=magická kvalita
-tagRare=vzácná kvalita
-tagEpic=epická kvalita
-tagLegend=legendární kvalita
+tagMagic=magické kvality
+tagRare=vzácné kvality
+tagEpic=epické kvality
+tagLegend=legendární kvality
 
-tagStyleUniqueTier2=Mocný předmět
-tagStyleUniqueTier3=Bájný předmět
+tagStyleUniqueTier2=mocný předmět
+tagStyleUniqueTier3=bájný předmět
 
 tagSoulbound=Předmět svázaný s duší
 tagDestroySoulbound=Zničit předmět svázaný s tvou duší?
@@ -2847,12 +2847,12 @@ tagEnchantC017Desc="Vyvrhely speciálně vytvořený prášek chránící svého
 
 #ItemComponents
 
-tagComponentIncomplete= ~ dílčí komponenta
-tagComponentComplete= ~ celá komponenta
-tagComponentNumber={%s0 - %d1 / %d2}
-tagComponentNumberRare={%s0}{%s1 - %d2 / %d3}
+tagComponentIncomplete=komponenty
+tagComponentComplete=celá komponenta
+tagComponentNumber={%d1 / %d2 %s0}
+tagComponentNumberRare={%d2 / %d3 %s1} {%s0}
 tagComponentBonus=Bonus za složení
-tagComponentQualities=Vlastnosti komponenety:
+tagComponentQualities=Vlastnosti komponenty:
 tagComponentHelp=[pravým kliknutím použij nebo zkombinuj]
 tagComponentError=[nelze použít - nesplňuješ podmínky]
 tagComponentCombine=[pravým kliknutím složit]
