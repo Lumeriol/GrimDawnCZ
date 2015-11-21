@@ -1211,7 +1211,7 @@ tagItemSkillC099Name=Ohnivý déšť
 tagItemSkillC099Desc=Na tvůj příkaz bude pršet z nebe oheň.
 
 tagItemSkillC100Name=Devastace
-tagItemSkillC100Desc=Tato technika, oslavována jako ultimátní síla známá Arkanistům, rozevře trhlinu v realitě a skrze ní padají rozžhavené části samotné arkanické energie.
+tagItemSkillC100Desc=Tato technika, oslavována jako ultimátní síla známá Vládcům temnot, rozevře trhlinu v realitě a skrze ní padají rozžhavené části samotné arkanické energie.
 
 tagItemSkillC101Name=Dech Ledohřívnatce
 tagItemSkillC101Desc=Zmraz své nepřátele do morku kostí dechem Ledohřívnatého Yetiho.

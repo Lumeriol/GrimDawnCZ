@@ -28,10 +28,10 @@ tagNecromancerH04=Misonaak ~ chráněný
 tagNecromancer_Boss01=Mistr Ravok, smrtící našeptávač
 tagNecromancer_Boss02=Malkadarr, šampión Řádu Strážců smrti
 
-tagZealot_MeleeA01=Zélóta Kymonových vyvolených
-tagZealot_RangedA01=Střelecký zélóta Kymonových vyvolených
-tagZealot_CasterB01=Pán bouří Kymonových vyvolených
-tagZealot_ChampionC01=Ostrá panna Kymonových vyvolených
+tagZealot_MeleeA01=Zélóta Kymonových Vyvolených
+tagZealot_RangedA01=Střelecký zélóta Kymonových Vyvolených
+tagZealot_CasterB01=Pán bouří Kymonových Vyvolených
+tagZealot_ChampionC01=Ostrá panna Kymonových Vyvolených
 tagZealotH01=Sestra Oseltia, bouřná panna
 tagZealotH02=Bratr Baldris, Empyrionův dobíječ
 tagZealotH03=Sestra Thandria ~ obránkyně
