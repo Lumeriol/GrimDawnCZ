@@ -11,14 +11,14 @@ Kde je vaše enkláva?
 Vydej se skrze severní bránu a dále na Neobdělaná pole. Jdi po cestě, dokud nenarazíš na ruiny staré pevnosti. To je Bašta zármutku. Naše enkláva je ve věži.
 Díky,
 Už vyrážím.
-Musím tě poprosit, abys [[ms]navštívil[fs]navštívila] naši enklávu na severu. Převzali jsme část Bašty zármutku a udělali z ní náš nový domov.{^n}{^n}Vyhledej nás tak, že půjdeš po severní cestě přes Neobdělaná pole. Až narazíš na ruiny, podívej se po věži.{^n}{^n}Jakmile tam budeš, promluv si s bratrem Elluviusem. Připraví tě na naši cestu osvícení.
+Musím tě poprosit, abys [[ms]navštívil[fs]navštívila] naši enklávu na severu. Převzali jsme část Bašty zármutku a udělali z ní náš nový domov.{^n}{^n}Vyhledej nás tak, že půjdeš po severní cestě přes Neobdělaná pole. Až narazíš na ruiny, podívej se po věži.{^n}{^n}Jakmile tam budeš, promluv si s bratrem Elluviem. Připraví tě na naši cestu osvícení.
 Vaši enklávu vyhledám.
 Možná někdy jindy.
 Tvé spojenectví s prohnilými nekromancery tě zavede dolů na cestu temna, ze které již není návratu.
 Máš pravdu, byla to chyba. [[ms]Chtěl[fs]Chtěla] bych se k vám přidat.
 Jsi si tím [[ms]jistý[fs]jistá]? Vyvolení se stanou tvým spojencem, ale vše, co si doteď [[ms]udělal[fs]udělala] do tohoto okamžiku bude zapomenuto.{^n}{^n}(Varování: Zvolením Vyvolených bude anulována reputace u frakcí Řád hlídky smrti a Kymonovi Vyvolení)
 Černá legie s vámi bude spolupracovat. (Zvol Kymonovy Vyvolené)
-Kymon to rád uslyší. Toto spojenectví bude prospěšné oběma skupinám. Nechť porazíme naše nepřátele jako jeden!{^n}{^n}Musím tě poprosit, abys [[ms]navštívil[fs]navštívila] naši enklávu na severu. Převzali jsme část Bašty zármutku a udělali z ní náš nový domov.{^n}{^n}Vyhledej nás tak, že půjdeš po severní cestě přes Neobdělaná pole. Až narazíš na ruiny, podívej se po věži.{^n}{^n}Jakmile tam budeš, promluv si s bratrem Elluviusem. Připraví tě na naši cestu osvícení.
+Kymon to rád uslyší. Toto spojenectví bude prospěšné oběma skupinám. Nechť porazíme naše nepřátele jako jeden!{^n}{^n}Musím tě poprosit, abys [[ms]navštívil[fs]navštívila] naši enklávu na severu. Převzali jsme část Bašty zármutku a udělali z ní náš nový domov.{^n}{^n}Vyhledej nás tak, že půjdeš po severní cestě přes Neobdělaná pole. Až narazíš na ruiny, podívej se po věži.{^n}{^n}Jakmile tam budeš, promluv si s bratrem Elluviem. Připraví tě na naši cestu osvícení.
 Vyhledám vaši enklávu.
 Možná někdy jindy.
 Třeba ne.
@@ -26,11 +26,11 @@ Jsou to hodnotní spojenci.
 Slova o tvých činech ke mně již dolehla. Kymonovi Vyvolení rádi uvidí, že jsi zase pro jednou naším spojencem.
 
 Promluvíme si o tom později.
-Bratr Molltair, Kymonovi Vyvolení, k tvým službám. {^n}{^n}I když si musím lámat hlavu, proč si sem [[ms]přivedl[fs]přivedla] i tu nekromantskou špínu.
+Bratr Molltair, Kymonovi Vyvolení, k tvým službám. {^n}{^n}I když si musím lámat hlavu, proč si sem [[ms]přitáhnul[fs]přitáhla] i tu nekromantskou špínu.
 Myslím, že už jsem se [[ms]rozhodl[fs]rozhodla].
 Takže už ses [[ms]rozhodl[fs]rozhodla]? Jsou Kymonovi Vyvolení ti, jež budou bojovat bok po boku s Černou legií?
 Černá legie s vámi bude spolupracovat (Vyber si Kymonovy Vyvolené)
-Kymon bude potěšen, až to uslyší. Spojenectví bude prospěšné oběma skupinám. Nech nás zapudit nepřítele, jako bychom byli jeden!{^n}{^n}Musím tě poprosit, abys [[ms]navštívil[fs]navštívila] naši enklávu na severu. Převzali jsme část Bašty zármutku a udělali z ní náš nový domov.{^n}{^n}Vyhledej nás tak, že půjdeš po severní cestě přes Neobdělaná pole. Až narazíš na ruiny, podívej se po věži.{^n}{^n}Jakmile tam budeš, promluv si s bratrem Elluviusem. Připraví tě na naši cestu osvícení.
+Kymon bude potěšen, až to uslyší. Spojenectví bude prospěšné oběma skupinám. Nech nás zapudit nepřítele, jako bychom byli jeden!{^n}{^n}Musím tě poprosit, abys [[ms]navštívil[fs]navštívila] naši enklávu na severu. Převzali jsme část Bašty zármutku a udělali z ní náš nový domov.{^n}{^n}Vyhledej nás tak, že půjdeš po severní cestě přes Neobdělaná pole. Až narazíš na ruiny, podívej se po věži.{^n}{^n}Jakmile tam budeš, promluv si s bratrem Elluviem. Připraví tě na naši cestu osvícení.
 Vaši enklávu vyhledám.
 Možná někdy jindy.
 Popravdě, budu potřebovat víc času a promyslet si to.
@@ -38,7 +38,7 @@ Co mi můžeš říct o Kymonových Vyvolených?
 Jsme Vyvolení Otce Kymona, svatého proroka Empyrionu, strážce svatého plamene a zachránce lidstva.
 
 Co nabízíte Černé legii?
-Jsme dobře vycvičení a dobře ozbrojení. Naši muž a ženy slouží Cairnu s hrdostí a zemřou, pokud je to potřeba.{^n}{^n}Naše víra nás zoceluje proti prohnilým silám Aetherianů a Ch'tonianů.{^n}{^n}S Vyvolenými na straně Legie bude naše síla nezastavitelná.
+Jsme dobře vycvičení a dobře ozbrojení. Naši muži a ženy slouží hrdě Cairnu a zemřou, pokud je to potřeba.{^n}{^n}Naše víra nás zoceluje proti prohnilým silám Aetherianů a Ch'tonianů.{^n}{^n}Pokud budou Vyvolení po boku Legie, bude naše síla nezastavitelná.
 
 
 
@@ -53,7 +53,7 @@ Otec Kymon je náš duchovní vůdce. Je požehnán Empyrionem - Světlonošem, 
 
 Budu potřebovat nějaký čas na rozmyšlenou.
 Kdo je Empyrion?
-Empyrion - Světlonoš je první mezi bohy. Právě pod jeho vedením svět prožil řád a vyrovnanost, osvobozený od zkaženosti Prázdnotou a Aetherem.{^n}{^n}Nicméně ostatní bohové začali žárlit na Empyrionovu moc a uvěznili ho hluboko uvnitř země, odloučeného na celá staletí, ne-li tisíciletí.{^n}{^n}Ale Otec Kymon celu starého boha nalezl. To on komunikuje se Světlonošem a přenáší svatá slova na jeho Vyvolené.
+Empyrion - Světlonoš je první mezi bohy. Právě pod jeho vedením svět prožil řád a vyrovnanost, osvobozený od zkaženosti Prázdnoty a Aetheru.{^n}{^n}Nicméně ostatní bohové začali žárlit na Empyrionovu moc a uvěznili ho hluboko uvnitř země, odloučeného na celá staletí, ne-li tisíciletí.{^n}{^n}Ale Otec Kymon celu starého boha nalezl. To on komunikuje se Světlonošem a přenáší svatá slova na jeho Vyvolené.
 
 
 
@@ -67,14 +67,14 @@ Jsou to zrůdnosti, které ohýbají božské nitě života podle své vůle, ja
 
 
 Budu potřebovat nějaký čas na rozmyšlenou.
-What sort of equipment do you offer?
-We are well equipped to deal with the fiends infesting our world. There is something there to suit most fighting style, but warriors who wage battle with Physical, Fire and Lightning will fit right in.
+Jaký druh vybavení nabízíte?
+Jsme dobře vybavení, abychom se vypořádali s těmi ďábly otravující náš svět. Máme něco pro všechny způsoby boje, ale válečníci, kteří používají fyzické zranění, oheň nebo blesky, ti si u nás určitě vyberou.
 
 
 
-I'll need some time to think this through.
+Budu potřebovat nějaký čas na rozmyšlenou.
 Sbohem.
-I have come to represent Kymon's Chosen, as the one you call Ulgrim has requested.
+Přišel jsem jako zástupce Kymonových Vyvolených, jelikož mne ten, jehož nazýýváš Ulgrim, o to požádal.
 Kdo jsou Kymonovi Vyvolení?
 Jsme Vyvolení Otce Kymona, svatého proroka Empyrionu, strážce svatého plamene a zachránce lidstva.
 Chápu.
