@@ -816,7 +816,7 @@ tagBossTrollB03=Balegor, král bažin
 
 tagEnemyTrollCorruptedA01=Pokroucený zlobr
 tagEnemyTrollCorruptedB01=Pokroucený předvoj
-tagEnemyTrollCorruptedB02=Pokroucené smrtící oko
+tagEnemyTrollCorruptedB02=Pokroucený ostřelovač
 tagEnemyTrollCorruptedC01=Pokroucený velitel
 
 tagTrollCorruptedHeroH01=Sulkarr, bleskem zasažený

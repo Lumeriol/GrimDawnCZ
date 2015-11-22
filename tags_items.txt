@@ -2239,7 +2239,7 @@ tagDLCConsumableA02Desc="Není to pro lidi se slabým srdcem. Jako vedlejší ú
 #ItemNote
 
 tagNoteHelp=[pravým kliknutím přečti]
-tagNoteKnown=[již znáš]
+tagNoteKnown=[přečteno]
 tagNoteExcerpt="{%t}.."
 
 #ItemEnchantment
