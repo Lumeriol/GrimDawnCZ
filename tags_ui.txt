@@ -328,7 +328,7 @@ tagFactionReputationQuests=Úkoly{^n}
 tagFactionDiscountPositive=Budeš získávat o {^r}{%.0f0}% {^g}více frakčních bodů
 tagFactionDiscountNegative=Budeš získávat o {^g}{%.0f0}% {^g}méně frakčních bodů
 tagFactionDiscountZero=Získáš {^s}{%.0f0}% {^w}frakčních bodů
-tagFactionProgress=Potřebuješ ještě {^b}{%d1} {^g}bodů na úroveň přízně "{^b}{%s0}{^w}".
+tagFactionProgress=Potřebuješ ještě {^b}{%d1} {^w}bodů na úroveň přízně "{^b}{%s0}{^w}".
 tagFactionKillingGain=Přízeň získáš za vyvražďování:
 tagFactionKillingLoss=Nepřízeň si vysloužíš za vyvražďování:
 tagFactionRewardsTier=Odemčeno na úrovni přízně "{%s0}{^w}":
@@ -592,9 +592,9 @@ tagCharStatsArmorFeet=Chodidla:
 tagCharStatsArmorWaist=Pas:
 tagCharStatsArmorShoulders=Ramena:
 
-tagFormulaLearn01={^w}Blahopřejeme! Nyní umíš vytvořit:
+tagFormulaLearn01={^w}Blahopřejeme! Nyní můžeš vytvořit:
 tagFormulaLearn02={^r}Tento plánek už znáš
-tagFormulaLearn03={^r}[už umíš]
+tagFormulaLearn03={^r}[už znáš]
 
 tagItemCompareEquipped=Momentálně máš na sobě
 tagItemCompareVendor=Předmět na prodej
