@@ -20,8 +20,20 @@ tagHeroKilled=Nepřátelský hrdina zabit
 tagBossKilled=Nepřátelský padouch zabit
 tagXPAwarded=Získáno {%d0} zkušeností
 tagRepAwarded=Získáno +{%d0} přízně za frakci {%s1}
+
+#Devotion
+
 tagDevotionAwarded=Získáno {%d0} bodů oddanosti
 tagDevotionShrine=Svatyně očištěna
+tagDevotionShrineGuardian=Shrine Guardian
+tagDevotionSkillLevelUp={%s0} has reached rank {%d1}
+tagDevotionSkillMaxLevel={%s0} has reached maximum rank
+tagDevotionAffinityBonus=Complete Constellation Bonus:
+tagDevotionAffinity=Affinities:
+tagDevotionSelected= (Selected)
+tagDevotionInUse= (In Use)
+tagDevotionConfirm=Replace Celestial Power?
+tagDevotionExperienceFormat=Experience: {^y}{%d0}{^w} / {^y}{%d1}
 
 tagUndo=Zpět
 Chat=Chat:
@@ -53,6 +65,8 @@ tagCodexJournalSubHeadingEnemy=Nepřítel v dohledu
 tagCodexJournalSubHeadingFaction=Frakce
 tagCodexJournalSubHeadingCreed=Inkvizitor Creed
 tagCodexJournalSubHeadingArkovia=Historie - Arkovia
+tagCodexJournalSubHeadingNecropolis=History - Necropolis
+tagCodexJournalSubHeadingSurvivorBlackLegion=Survivors - Black Legion
 tagCodexJournalSubHeadingSurvivorBurrwitch=Přeživší - Burrwitch
 tagCodexJournalSubHeadingSurvivorsHomestead=Přeživší - Homestead
 tagCodexJournalSubHeadingDefault=Různé
@@ -105,8 +119,8 @@ tagFactionSurvivorsRewards3=-
 tagFactionSurvivorsRewards4=nic
 tagFactionSurvivorsRewards5=Nový úkol {^n}Přístup k frakčnímu trhovci
 tagFactionSurvivorsRewards6=Nový úkol {^n}Přístup k frakční vývěsce {^n}Frakční výzbroj {^n}Frakční výstroj {^n}Frakční plánky
-tagFactionSurvivorsRewards7=Nová jeskyně / úkol {^n}Frakční vylepšení {^n}Frakční doplňky
-tagFactionSurvivorsRewards8=Vzácná vylepšení {^n}Frakční příkazy a udělení
+tagFactionSurvivorsRewards7=Nová jeskyně / úkol {^n}Frakční vylepšení {^n}Frakční doplňky {^n}Frakční příkazy {^n}Frakční plánky
+tagFactionSurvivorsRewards8=Vzácná vylepšení {^n}Frakční udělení
 tagFactionAetherials=Aetheriané
 tagFactionAetherialsInfo= Jak pošetilí a hamižní byli čarodějové z Cairnu, poblouzněni magickým závojem známým jako Aether, aniž by aspoň pojali nějaké podezření nebo se ohlédli zpětně na své činy.{^n}{^n} Aetheriané vstoupili do Cairnu v době, která je teď známa jako Ponurý úsvit, kdy posedli nespočet lidí a zmasakrovali mnohé další. Nejzavrženíhodnější z toho všeho je, že začali oživovat padlé jako zmutované nemrtvé příšery, bezduché pěšáky určené k další invazi. Jejich přítomnost v Cairnu stačí k tomu, aby začala mutovat i divočina - krotká zvířata se začala měnit v brutální příšery. {^n}{^n} Ovšem nejdivnější je jejich zřejmá nenávist ke Chthonskému kultu, který, stejně jako oni, si nenechá ujít žádnou příležitost bojovat proti hrůzám z Prázdnoty.
 tagFactionAetherialsRewards1=Tábořiště úhlavního nepřítele
@@ -147,8 +161,8 @@ tagFactionUser0Rewards3=-
 tagFactionUser0Rewards4=nic
 tagFactionUser0Rewards5=Nový úkol {^n}Přístup k frakčnímu trhovci
 tagFactionUser0Rewards6=Přístup k vývěsce {^n}Frakční výzbroj {^n}Frakční výstroj {^n}Frakční plánky
-tagFactionUser0Rewards7=Nový úkol {^n}Frakční vylepšení {^n}Frakční doplňky
-tagFactionUser0Rewards8=Vzácná vylepšení {^n}Frakční příkazy a udělení
+tagFactionUser0Rewards7=Nový úkol {^n}Frakční vylepšení {^n}Frakční doplňky {^n}Frakční příkazy {^n}Frakční plánky
+tagFactionUser0Rewards8=Vzácná vylepšení {^n}Frakční udělení
 tagFactionUser1=Neutrální
 tagFactionUser1Info=není
 tagFactionUser2=Obyvatelé Homesteadu
@@ -159,8 +173,8 @@ tagFactionUser2Rewards3=-
 tagFactionUser2Rewards4=nic
 tagFactionUser2Rewards5=Přístup k frakčnímu trhovci
 tagFactionUser2Rewards6=Přístup k frakční vývěsce {^n}Frakční výzbroj {^n}Frakční výstroj {^n}Frakční plánky
-tagFactionUser2Rewards7=Nový úkol {^n}Frakční vylepšení {^n}Frakční doplňky
-tagFactionUser2Rewards8=Vzácná vylepšení {^n}Frakční příkazy a udělení
+tagFactionUser2Rewards7=Nový úkol {^n}Frakční vylepšení {^n}Frakční doplňky {^n}Frakční příkazy {^n}Frakční plánky
+tagFactionUser2Rewards8=Vzácná vylepšení {^n}Frakční udělení
 tagFactionUser3=Svobodní muži Corriganova dolu
 tagFactionUser3Info=Stanoviště: Corriganův důl {^n}{^n} SLOVA
 tagFactionUser3Rewards1=-
@@ -178,9 +192,9 @@ tagFactionUser4Rewards2=Hněv Vyvrhelů
 tagFactionUser4Rewards3=Nohsledi Vyvrhelů
 tagFactionUser4Rewards4=nic
 tagFactionUser4Rewards5=Nový úkol
-tagFactionUser4Rewards6=Nový úkol
-tagFactionUser4Rewards7=Nový úkol {^n}Přístup k frakčnímu trhovci
-tagFactionUser4Rewards8=Vzácná vylepšení
+tagFactionUser4Rewards6=Nový úkol {^n}Access to Bounty Table
+tagFactionUser4Rewards7=Nový úkol (coming soon)  {^n}Přístup k frakčnímu trhovci
+tagFactionUser4Rewards8=Vzácná vylepšení {^n}Faction Mandates
 tagFactionUser5=Řád strážců smrti
 tagFactionUser5Info=Stanoviště: Bašta zármutku {^n}{^n} Řád strážců smrti představuje poslední pojítko s téměř ztraceným uměním nekromancie - velmi drahých vědomostí předávaných mezi svými členy od jejich velmistra Uroboruuka. {^n}{^n} Členové řádu se nebojí smrti. Místo toho sí osvojují drsné lekce ve víře, že díky ovládnutí mistrovského umění smrti se stanou způsobnější ve světě samotném. {^n}{^n} Přes po celá staletí trvající pronásledování říší, Řádu nejsou cizí předsudky a kontroverze, ale nikdy se nesetkali s nepřítelem tak nelítostným jako jsou Kymonovi Vyvolení. Vyvolení se zaměřili pouze na očištění Cairnu od zkaženosti, pro něž je Řád pouze jakousi parodií, která musí být zlikvidována.
 tagFactionUser5Rewards1=Tábořiště úhlavního nepřítele
@@ -189,8 +203,8 @@ tagFactionUser5Rewards3=Dodatečná tábořiště
 tagFactionUser5Rewards4=nic
 tagFactionUser5Rewards5=Přístup ke frakčnímu trhovci
 tagFactionUser5Rewards6=Nový úkol {^n}Přístup k fračkní vývěsce {^n}Frakční výzbroj {^n}Frakční výstroj {^n}Frakční plánky
-tagFactionUser5Rewards7=Nový úkol {^n}Frakční vylepšení {^n}Frakční doplňky
-tagFactionUser5Rewards8=Vzácná vylepšení {^n}Frakční příkazy a udělení
+tagFactionUser5Rewards7=Nový úkol {^n}Frakční vylepšení {^n}Frakční doplňky {^n}Faction Writs {^n}Faction Blueprints
+tagFactionUser5Rewards8=Vzácná vylepšení {^n}Frakční udělení
 tagFactionUser6=Nemrtví
 tagFactionUser6Info=Mnoho tragických příběhů bylo řečeno o nemrtvých, do nekonečna se potulujících v troskách Arkovie. Někteří věří, že jsou to duchové uvěznění ve světě smrtelníků, bez možnosti přejít do země zaslíbené v jejich dalším životě. Jiní zase tvrdí, že se jedná o práci odporné nekromancie, kdy legie nemrtvých slouží svému krutému veliteli. Pravda ovšem nejspíš bude někde uprostřed. {^n}{^n} Jedna věc, s kterou může každý souhlasit, je ta, že nemrtví jsou velice nebezpeční pro živé bytosti. Stejně jako rabování jejich zapomenutých ostatků by se dalo považovat jako velmi neuvážené jednání.
 tagFactionUser6Rewards1=Tábořiště úhlavního nepřítele
@@ -209,8 +223,8 @@ tagFactionUser7Rewards3=-
 tagFactionUser7Rewards4=nic
 tagFactionUser7Rewards5=Přístup k frakční vývěsce {^n}Přístup ke frakčnímu trhovci
 tagFactionUser7Rewards6=Nové výzvy na vývěsce {^n}Frakční výzbroj {^n}Frakční výstroj {^n}Frakční plánky
-tagFactionUser7Rewards7=Nová jeskyně / úkol {^n}Frakční vylepšení {^n}Frakční doplňky
-tagFactionUser7Rewards8=Vzácná vylepšení {^n}Frakční příkazy a udělení
+tagFactionUser7Rewards7=Nová jeskyně / úkol {^n}Frakční vylepšení {^n}Frakční doplňky {^n}Faction Writs {^n}Faction Blueprints
+tagFactionUser7Rewards8=Vzácná vylepšení {^n}Frakční udělení
 tagFactionUser8=Kymonovi Vyvolení
 tagFactionUser8Info=Stanoviště: Bašta zármutku {^n}{^n}Kymonovi Vyvolení jsou horliví stoupenci světlonoše Empyriona, ve kterém vidí toho, kdo se vrátí do Cairnu v planoucí slávě a povede své Vyvolené k nastolení nového řádu a prosperity. {^n}{^n} Vedeni svým charismatickým kazatelem známým jako Otec Kymon, střeží svou víru a nemohou se dočkat až vymítí veškerou zkaženost a korupci z Cairnu, ať už se jedná o chthonické hrůzy nebo se smrtí manipulující nekromanty. Navíc za jednu ze svých hlavních priorit považují zprovození Řádu strážců smrti ze světa.
 tagFactionUser8Rewards1=Tábořiště úhlavního nepřítele
@@ -219,8 +233,8 @@ tagFactionUser8Rewards3=Dodatečná tábořiště
 tagFactionUser8Rewards4=nic
 tagFactionUser8Rewards5=Přístup k frakčnímu trhovci
 tagFactionUser8Rewards6=Nový úkol {^n}Přístup k frakční vývěsce {^n}Frakční výzbroj {^n}Frakční výstroj {^n}Frakční plánky
-tagFactionUser8Rewards7=Nový úkol {^n}Frakční vylepšení {^n}Frakční doplňky
-tagFactionUser8Rewards8=Vzácná vylepšení {^n}Frakční příkazy a udělení
+tagFactionUser8Rewards7=Nový úkol {^n}Frakční vylepšení {^n}Frakční doplňky {^n}Faction Writs {^n}Faction Blueprints
+tagFactionUser8Rewards8=Vzácná vylepšení {^n}Frakční udělení
 tagFactionUser9=Hráč 9
 tagFactionUser9Info=
 tagFactionUser9Rewards1=Tábořiště úhlavního nepřítele
@@ -380,6 +394,14 @@ tagHUD_RightMouse_R=Akce na pravém tlačítku myši
 tagHUD_RightMouse_R1=Tohle je tvůj sekundární útok. Pravým kliknutím myši přiřaď jinou dovednost.
 tagHUD_CompassToggleName=Přepínač kompasové mapy
 tagHUD_CompassToggleDescription=Kliknutím změníš velikost nebo pozici kompasové mapy.
+tagHUD_LootModeToggleOff=Auto Show Loot ^D(Off)
+tagHUD_LootModeToggleCommon=Auto Show Loot (Common+)
+tagHUD_LootModeToggleMagic=Auto Show Loot ^Y(Magic+)
+tagHUD_LootModeToggleRare=Auto Show Loot ^G(Rare+)
+tagHUD_LootModeToggleEpic=Auto Show Loot ^B(Epic+)
+tagHUD_LootModeToggleLegendary=Auto Show Loot ^P(Legendary+)
+
+tagHUD_LootModeToggleDescription=Click to change the type of loot which is automatically shown.
 
 tagHUD_LeftMouse=L
 tagHUD_RightMouse=P
@@ -578,6 +600,7 @@ tagCharStatsDPSLeftDescription=Zranění za schopnosti na levém tlačítku myš
 
 tagCharStatsArmorTotalAlert=Hodnocení zbroje {^b}(?)
 tagCharStatsArmorTotal=Hodnocení zbroje
+tagCharStatsAbsorption=Pohlcení zranšní
 tagCharStatsArmorTotalDescription=Čím vyšší je tvá celková zbroj, tím méně zranění obdržíš fyzickými zásahy. Bonusy na dovednosti a na předměty, které nejsou součástí zbroje jsou přidány ke všem slotům zbroje.
 tagCharStatsHitArmor=Šance na zásah oblasti
 tagCharStatsArmorUnprotected=Bez ochrany
@@ -634,6 +657,8 @@ tagCharStatsNightbladeSkillsBonus=Dovednosti Nočního lovce
 tagCharStatsNightbladeSkillsBonusInfo=Bonus ke všem naučeným dovednostem v povolání Nočního lovce.
 tagCharStatsArcanistSkillsBonus=Dovednosti Vládce temnot
 tagCharStatsArcanistSkillsBonusInfo=Bonus ke všem naučeným dovednostem v povolání Vládce temnot.
+tagCharStatsShamanSkillsBonus=Dovednosti Šamana
+tagCharStatsShamanSkillsBonusInfo=Bonus ke všem naučeným dovednostem v povolání Šamana.
 
 #Physical
 tagCharStatsAttackSpeed=Útočná rychlost
@@ -1077,10 +1102,17 @@ tagDismantleBoxInfo=Umísti do komory předmět lepší kvality než běžné.
 tagShrineDesecrated=Znesvěcená svatyně
 tagShrineRuined=Rozbořená svatyně
 tagShrineRestored=Obnovená svatyně
-tagShrineButton=Obětovat
+tagShrineButton01=Obětovat
+tagShrineButton02=Začít
+tagShrineButton03=Zrušit
 tagShrineButtonInfo=Umísti tuto oběť poblíž svatyně
-tagShrineWarning=Opravdu chceš umístit tuto oběť?
+tagShrineWarning=Tato svatyně je rozbořená a je potřeba ji obnovit. Opravdu chceš umístit tuto oběť?
 tagShrineConfirmProxy=Tato svatyně je znesvěcená a je třeba ji očistit. Chceš vypustit to, co je uvězněné uvnitř?
+tagShrineActivated=That shrine has already been restored.
+tagShrineHostActivated=Tato svatyně už byla obnovena.
+tagShrineHostNotActivated=Tato svatyně už byla obnovena hostujícím hráčem.
+tagShrineBusy=Tuto svatyni teď využívá jiný hráč.
+tagShrineLocked=Tato svatyně je nevyužitá.
 
 #Smuggler
 
@@ -1119,11 +1151,6 @@ tagChatBrag=[{%t0}{%t1}{^-}]
 #NPC Conversation
 tagNpcConversationBusy=Tato postava právě hovoří s jiným hráčem.
 
-tagShrineActivated=Tato svatyně už byla obnovena.
-tagShrineHostActivated=Tato svatyně už byla obnovena hostujícím hráčem.
-tagShrineBusy=Tuto svatyni teď využívá jiný hráč.
-tagShrineLocked=Tato svatyně je nevyužitá.
-
 #Treasure Trove
 tagTroveBusy=Tento objekt si prohlíží jiný hráč.
 
@@ -1158,8 +1185,8 @@ tagMapSymbolVendor=Kupec
 tagMapSymbolVendorDesc=Obchodník s vybavením.
 tagMapSymbolWitch=Duchovní
 tagMapSymbolWitchDesc=Duchovní postava, která ti může pomoci odnaučit se tvé dovednosti.
-tagMapSymbolShrine=Objekt zájmu
-tagMapSymbolShrineDesc=V tomto místě lze najít něco použitelného.
+tagMapSymbolShrine=Svatyně
+tagMapSymbolShrineDesc=Starodávná svatyně zasvěcená hvězdám a starým bohům.
 tagMapSymbolSmith=Kovář
 tagMapSymbolSmithDesc=Zručný řemeslník schopný vytvářet nové předměty.
 
@@ -1458,10 +1485,11 @@ PressToAddUnusedSkillPoints=Levým tlačítkem myši přidáš nevyužité body 
 PressToAddUnusedDevotionPoints=Levým kliknutím přiřadíš nevyužité body oddanosti
 PressToActivateDevotion=Levým kliknutím aktivuješ
 PressToAssignDevotion=Levým kliknutím přiřadíš
+AssignDevotionForExp=Must be Assigned to Earn Experience
 SkillEnhancement=+{%d0} ke všem dovednostem
 NoSkillPointsToAdd=Nemáš dovednostní body, které by šly přidat.
 NoDevotionPointsToAdd=Žádné body oddanosti
-LockedDevotion=Zamčené
+LockedDevotion=Locked - Requires Star Earlier in Constellation
 ActiveDevotion=Aktivní
 YouMustIncreaseMasteryLevel=Pro přidání více bodů musíš zvýšit úroveň svého povolání.
 EnableOneBaseSkill=Alespoň jedna požadovaná dovednost musí být povolena
@@ -1472,6 +1500,9 @@ FailedSkillDependancy=Požadavek ~ dovednost {%s0}
 FailedSkillDependancyAll=Vyžaduje následující dovednosti:
 FailedSkillDependancyOne=Vyžaduje jednu z následujících dovedností:
 FailedSkillDependancyName={%s0}
+FailedDevotionDependency=Affinity Requirement:
+FailedDevotionDependencyName={%d0} {%s1}
+FailedConstellationDependency=Constellation Dependencies:
 ManaCost={^E}magické energie
 ManaCostPerSecond={^E}magické energie za sekundu
 ActiveLifeCost={^E} aktivního zdraví za sekundu
@@ -1521,6 +1552,8 @@ tagQualifyingDamagePoison=jedu nebo kyselině
 tagQualifyingDamageLife=životní energii
 tagQualifyingDamageBleeding=krvácení
 tagQualifyingDamageElemental=živlům
+tagQualifyingDamageAether=Aetheru
+tagQualifyingDamageChaos=chaosu
 
 DamageSingleFormat={%.0f0}
 DamageRangeFormat={%.0f0}-{%.0f1}
@@ -1626,8 +1659,8 @@ DamageDurationProjectileFumble=% {^E}šance narušení zaměření nepřítele
 
 DamageModifierPhysical={%+.0f0}% {^E}fyzického zranění
 DamageModifierPhysicalR={%+.0f0}-{%.0f1}% {^E}fyzického zranění
-DamageModifierPierceRatio={%+.0f0}% {^E}proražení zbroje
-DamageModifierPierceRatioR={%+.0f0}-{%.0f1}% {^E}proražení zbroje
+DamageModifierPierceRatio={^E}zvyšuje proražení zbroje o {^H}{%.0f0}%
+DamageModifierPierceRatioR={^E}zvyšuje proražení zbroje o {^H}{%.0f0}-{%.0f1}%
 DamageModifierPierce={%+.0f0}% {^E}zranění probodnutím
 DamageModifierPierceR={%+.0f0}-{%.0f1}% {^E}zranění probodnutím
 DamageModifierCold={%+.0f0}% {^E}zranění ledem
@@ -1803,7 +1836,7 @@ DefenseLifeModifier={^H}{%.0f0}% {^E}zvýšení současné odolnosti vůči ztr�
 DefenseChaosModifier={^H}{%.0f0}% {^E}zvýšení současné odolnosti vůči chaosu
 DefenseAetherModifier={^H}{%.0f0}% {^E}zvýšení odolnosti vůči Aetheru
 DefenseStunModifier={^H}{%.0f0}% {^E}zvýšení současné odolnosti vůči omráčen
-DefenseBlockModifier={^H}{%.0f0}% {^E}zvýšení šance vykrytí štítem
+DefenseBlockModifier={^H}{%+.0f0}% {^E}zvýšení šance vykrytí štítem
 DefenseBlockAmountModifier={^H}{%+.0f0}% {^E}zranění vykryto štítem
 DefenseLifeLeachModifier={^H}{%.0f0}% {^E}zvýšení současné odolnosti vůči vysátí života
 DefenseManaLeachModifier={^H}{%.0f0}% {^E}zvýšení současné odolnosti vůči vysátí magické energie
@@ -1857,6 +1890,8 @@ DefenseSleepMaxResist={%+.0f0} % {^E}k maximu odolnosti vůči uspání
 DefenseSleepMaxResistR={%+.0f0}-{%.0f1} % {^E}k maximu odolnosti vůči uspání
 DefenseAllMaxResist={%+.0f0} % {^E}k maximum všech odolností
 DefenseAllMaxResistR={%+.0f0}-{%.0f1} % {^E}k maximu všech odolností
+DefenseReflectResist={%+.0f0} % {^E}snížené odražení zranění
+DefenseReflectResistR={%+.0f0}-{%.0f1} % {^E}snížené odražení zranění
 
 RacialBonusPercentDamage={%+.0f0}% {^E}zranění vůči frakci {%s1}
 RacialBonusAbsoluteDamage={%+.0f0} {^E}zranění vůči frakci {%s1}
@@ -1882,7 +1917,7 @@ tagItemGrantSkill=Přiděluje dovednost:
 tagItemSkill= {^E}(přiděleno předmětem)
 tagItemSkillShort= (předmět)
 tagEffect=Efekt:
-tagSkillGrantEffect=Druhotný efekt:
+tagSkillGrantEffect=Nebeská moc:
 tagDevotionAttached=Svázáno s:
 
 tagItemUseDirections=[použij pravým kliknutím]
@@ -1959,6 +1994,10 @@ tagEmptyHotSlot=Vymazat přidružení k tlačítku.
 
 tagDevotionUnassigned=Žádné dovednosti
 
+#Stack Window
+tagStackOk=Ok
+tagStackCancel=Zrušit
+
 #Multiplayer
 
 tagMPTrade=Obchod
@@ -1994,6 +2033,7 @@ tagMPInviteDeny=Odmítnout
 tagMPStats=Herní statistiky:
 tagMPMapName=Název mapy:
 tagMPServerName=Název serveru:
+tagMPServerAddress=Adresa serveru:
 tagMPPing=Ping:
 tagMPTime=Uplynulý čas:
 tagMPServer=Název serveru: {%t0}

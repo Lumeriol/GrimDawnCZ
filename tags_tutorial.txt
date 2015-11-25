@@ -7,11 +7,11 @@ tagTutorialTip06Title=Nedotčené jídlo
 tagTutorialTip06TextA=Objevil jsi zbytky jídla, které po sobě nejspíš zanechal nějaký méně šťastný dobrodruh.{^n}{^n}Pokud jídlo pozřeš, obnovíš část své konstituce.
 
 tagTutorialTip08Title=Vítejte ve hře Grim Dawn
-tagTutorialTip08TextA=Děkujeme za podporu a pomoc - díky tobě může Grim Dawn existovat! Doufáme, že si užiješ první část hry.{^n}{^n}Měj prosím na paměti, že se nejedná o dokončenou verzi hry, která je vytvořena nezávislým týmem o osmi lidech. Setkáš se s chybami, nedokončenými částmi a jen se zhruba dvěma třetinami hry. Velice uvítáme příspěvky o chybách a pocitech z hraní hry na našich fórech na www.grimdawn.com.
+tagTutorialTip08TextA=Děkujeme za podporu a pomoc - díky tobě může Grim Dawn existovat! Doufáme, že si užiješ hru, na které pracujeme a směřujeme k oficiálnímu vydání.{^n}{^n}Měj prosím na paměti, že se nejedná o dokončenou verzi hry, která je vytvořena nezávislým týmem o osmi lidech. Během hry se setkáš se s chybami. Velice uvítáme příspěvky o chybách a pocitech z hraní hry na našich fórech na www.grimdawn.com.
 
 tagTutorialTip09Title=Okno obchodníka
 tagTutorialTip09TextA=Obchodník prodává a nakupuje zbraně a jinou výbavu nutnou pro přežití v oblasti Cairnu.
-tagTutorialTip09TextB=V těchto zoufalých dobách není kvalitní vybavení zrovna levné. Obchodník ti za běžné věci nezaplatí příliš mnoho, ale předměty, které jsou očarované, mohou mít cenu výrazně vyšší.{^n}
+tagTutorialTip09TextB=V těchto zoufalých dobách není kvalitní vybavení zrovna levné. Obchodník ti za běžné věci nezaplatí příliš mnoho, ale předměty, které jsou očarované, mohou mít cenu výrazně vyšší.{^n}{^n}Možná bude chtít si některé méně kvalitní předměty odfiltrovat. Můžeš tak učinit ve filtru předmětů po levé straně herního rozhraní.{^n}
 
 tagTutorialTip10Title=Brány
 tagTutorialTip10TextA=Zabezpečené Brány ti umožňují rychle cestovat mezi různými lokacemi v oblasti Cairnu. Klikni levým tlačítkem na Bránu a otevře se {^y}Mapa Bran{^w}.
@@ -37,6 +37,8 @@ tagTutorialTip15CaptionA=Klávesová zkratka: {^b}{%t0}{^w}
 tagTutorialTip15TextB=Body atributů můžeš přiřadit v {^y}Okně postavy{^w}. Každý bod atributu zvyšuje konkrétní atribut o 8.
 tagTutorialTip15CaptionB=Klávesová zkratka: {^b}{%t0}{^w}
 tagTutorialTip15TextC=Zkušenosti své postavy a množství zkušeností potřebných na další úroveň můžeš sledovat na zeleném pruhu na spodním panelu a v {^y}Okně postavy{^w}. Jakmile je potřebné množství naplněno, tvá postava získá novou úroveň.
+tagTutorialTip15SubtitleA=Body dovednosti za úroveň
+tagTutorialTip15TextD=Zpočátku budeš dostávat 3 dovednostní body za každou novou úroveň. S postupující postavou a obtížnějšími úrovněmi se počet bodů sníží na 2 za úroveň, a nakonec na 1 bod za úroveň.{^n}{^n}
 
 tagTutorialTip16Title=Okno postavy
 tagTutorialTip16TextA=Použij {^y}Okno postavy{^w} a můžeš svou postavu vybavit předměty, přerovnat si svůj inventář, využít body atributů nebo shlédnout statistiky své postavy. Najetím kurzoru na statistiky získáš další informace.
@@ -220,10 +222,15 @@ tagTutorialTip59CaptionA=Klávesová zkratka: {^b}{%t0}{^w}
 
 tagTutorialTip60Title=Okno oddanosti
 tagTutorialTip60TextA={^y}Okno oddanosti{^w} ti umožňuje přiřazovat tvé body oddanosti k různým božstvům a nebeským symbolům Cairnu.
-tagTutorialTip60SubtitleA=Získávání bodů oddanosti
+tagTutorialTip60SubtitleA=Získávání bodů oddanosti{^N}{^N}As you complete Constellations, you will earn Affinity, which will in-turn earn you access to more powerful Constellations.
 tagTutorialTip60TextB=Body oddanosti získáváš navštěvováním svatyni roztroušených po celém světě. Prozkoumej každý kousíček země, abys našel všechny!
+tagTutorialTip60SubtitleB=Affinity
+tagTutorialTip60TextC=The Constellations are aligned to five different Affinities, representing different celestial aspects. Different Constellations require different amounts of Affinity to unlock.{^N}{^N}The entry Constellations all give significant Affinity bonuses, while the most powerful Constellations do not give any at all.{^N}{^N}Note that if you unlearn a piece of a completed Constellation, you will lose its Affinity bonus.
+tagTutorialTip60SubtitleC=Spending Devotion Points
+tagTutorialTip60TextD=Bright blue stars indicate where you can put a Devotion Point in next. Left-click on a star to unlock its bonus.
+tagTutorialTip60TextE=The Halo Stars mark the locations of Celestial Powers, which you can unlock to enhance your primary skills with new effects.{^N}{^N}
 
-tagTutorialTip61Title=Druhotné dovednosti
-tagTutorialTip61TextA=Druhotné dovednosti jsou mocné samoaktivující se efekt, které se přiřadí ke tvým primárním dovednostem z tvého povolání.
+tagTutorialTip61Title=Celestial Powers
+tagTutorialTip61TextA=Celestial Powers are powerful auto-activated abilities which can be assigned to your primary skills from your Masteries and Equipment.{^N}{^N}Celestial Powers assigned to your skills will earn experience from combat and quests, which will cause them to rank up and increase in strength.
 tagTutorialTip61SubtitleA=Přiřazení primárních dovedností
-tagTutorialTip61TextB=Pro přiřazení druhotné dovednosti ji musíš nejprve odemknout v {^y}Okně oddanosti{^w} a vybrat správnou primární dovednost ze seznamu. Pro přeřazení druhotné dovednosti musíš navštívit Průvodce duchovnem.
+tagTutorialTip61TextB=To assign a Celestial Power, you must first unlock it in the {^y}Devotion Window{^w}, then select a valid Primary Skill from the drop-down list. You can re-assign a Celestial Power at any time without penalty. If you unassign a Celestial Power, it will retain any experience or ranks it has earned.
