@@ -2956,40 +2956,40 @@ tagCompA008Name=Zmutované šupiny
 tagCompA008Desc="Neobvykle silné a těžké šupiny, zmutované působením Aetherické energie."^w^n(Může vylepšit hrudní zbroje a nárameníky)
 
 tagCompA009Name=Prach z mrtvoly
-tagCompA009Desc="Prach získaný z ostatků zemřelého, často využívaný pro čarování a kouzlení."^w^n(Může vylepšit prsteny a amulety)
+tagCompA009Desc="Prach získaný z ostatků zemřelého, často využívaný pro čarování a kouzlení."^w^n(Může vylepšit prsteny, amulety a medaile)
 
 tagCompA010Name=Kousek duše
-tagCompA010Desc="Kouzelný drahokam používaný lovci čarodějnic, o němž se říká, že v sobě vězní duše zatracených."^w^n(Může vylepšit amulety a medaile)
+tagCompA010Desc="Kouzelný drahokam používaný lovci čarodějnic, o němž se říká, že v sobě vězní duše zatracených."^w^n(Může vylepšit prsteny, amulety a medaile)
 
 tagCompA011Name=Ektoplazma
-tagCompA011Desc="Želatinový zbytek, který po sobě zanechala nějaká neztělesněná entita."^w^n(Může vylepšit ochranu hlavy, prsteny a amulety)
+tagCompA011Desc="Želatinový zbytek, který po sobě zanechala nějaká neztělesněná entita."^w^n(Může vylepšit ochranu hlavy, prsteny, amulety a medaile)
 
 tagCompA012Name=Požehnaná ocel
-tagCompA012Desc="Ocel požehnaná Menhirskými kněžími, aby porazila rozpínající se temnotu."^w^n(Může vylepšit všechny zbraně, štíty a příruční předměty)
+tagCompA012Desc="Ocel požehnaná Menhirskými kněžími, aby porazila rozpínající se temnotu."^w^n(Může vylepšit všechny zbraně, štíty a kouzelnické příruční předměty)
 
 tagCompA013Name=Jedovatý tesák
 tagCompA013Desc="Tesák divocha, ze kterého stále odkapávají odporné toxiny."^w^n(Může vylepšit chladné zbraně)
 
 tagCompA014Name=Rafinovaná sůl
-tagCompA014Desc="Kamenná sůl extrahovaná kvůli vymítání a zastrašování démonů z jiných světů."^w^n(Může vylepšit všechny zbraně, štíty a příruční předměty)
+tagCompA014Desc="Kamenná sůl extrahovaná kvůli vymítání a zastrašování démonů z jiných světů."^w^n(Může vylepšit všechny zbraně, štíty a kouzelnické příruční předměty)
 
 tagCompA015Name=Dutý tesák
-tagCompA015Desc="Zakřivený tesák určený ke konzumaci životně důležitých tekutin."^w^n(Může vylepšit všechny zbraně, štíty a příruční předměty)
+tagCompA015Desc="Zakřivený tesák určený ke konzumaci životně důležitých tekutin."^w^n(Může vylepšit všechny zbraně, štíty a kouzelnické příruční předměty)
 
 tagCompA016Name=Odseknutý dráp
-tagCompA016Desc="Nemilosrdný dráp utržený z končetiny mohutného zvířete."^w^n(Může vylepšit všechny zbraně, štíty a příruční předměty)
+tagCompA016Desc="Nemilosrdný dráp utržený z končetiny mohutného zvířete."^w^n(Může vylepšit všechny zbraně, štíty a kouzelnické příruční předměty)
 
 tagCompA017Name=Zabarvené stříbro
-tagCompA017Desc="Stříbrný prach obohacený mocným čarodějnictvím."^w^n(Může vylepšit všechny zbraně, štíty a příruční předměty)
+tagCompA017Desc="Stříbrný prach obohacený mocným čarodějnictvím."^w^n(Může vylepšit všechny zbraně, štíty a kouzelnické příruční předměty)
 
 tagCompA018Name=Hroty zla
-tagCompA018Desc="Nezkrotné hroty z nepřirozené bytosti."^w^n(Může vylepšit štíty)
+tagCompA018Desc="Nezkrotné hroty z nepřirozené bytosti."^w^n(Může vylepšit štíty a kouzelnické příruční předměty)
 
 tagCompA019Name=Zářivý klenot
-tagCompA019Desc="Lesknoucí se klenot, který hraje všemi barvami."^w^n(Může vylepšit štíty a příruční předměty)
+tagCompA019Desc="Lesknoucí se klenot, který hraje všemi barvami."^w^n(Může vylepšit štíty a kouzelnické kouzelnické příruční předměty)
 
 tagCompA020Name=Náboj pekelného prokletí
-tagCompA020Desc="Posvěcená munice, která má způsobit velkou bolest těm, jež mají nečisté úmysly."^w^n(Může vylepšit pušky, kuše a příruční předměty)
+tagCompA020Desc="Posvěcená munice, která má způsobit velkou bolest těm, jež mají nečisté úmysly."^w^n(Může vylepšit pušky, kuše a kouzelnické příruční předměty)
 
 tagCompA021Name=Smrtelně ledové šipky
 tagCompA021Desc="Doručí ledově chladnou smrt tvým nepřátelům."^w^n(Může vylepšit pušky, kuše a příruční předměty)
@@ -3004,16 +3004,16 @@ tagCompA024Name=Rozžhavená kůže
 tagCompA024Desc="Silná vrstva kůže z ohnivého stvoření."^w^n(Může vylepšit všechny druhy zbroje)
 
 tagCompA025Name=Očarovaný pazourek
-tagCompA025Desc="Tento očarovaný pazourek vnese přízračný plamen do jakékoliv zbraně, kterou pohladí."^w^n(Může vylepšit chladné zbraně, štíty a příruční předměty)
+tagCompA025Desc="Tento očarovaný pazourek vnese přízračný plamen do jakékoliv zbraně, kterou pohladí."^w^n(Může vylepšit chladné zbraně, štíty a kouzelnické příruční předměty)
 
 tagCompA026Name=Studený kámen
-tagCompA026Desc="Ve folklórech se praví, že tyto tajemné kameny vyzařující chlad, jsou srdce vyhoštěných přízraků."^w^n(Může vylepšit chladné zbraně, štíty a příruční předměty)
+tagCompA026Desc="Ve folklórech se praví, že tyto tajemné kameny vyzařující chlad, jsou srdce vyhoštěných přízraků."^w^n(Může vylepšit chladné zbraně, štíty a kouzelnické příruční předměty)
 
 tagCompA027Name=Jantar
-tagCompA027Desc="Vypráví se, že křišťálová míza stromů, do nichž uhodí blesk, jsou polapené bouřné přízraky."^w^n(Může vylepšit chladné zbraně, štíty a příruční předměty)
+tagCompA027Desc="Vypráví se, že křišťálová míza stromů, do nichž uhodí blesk, jsou polapené bouřné přízraky."^w^n(Může vylepšit chladné zbraně, štíty a kouzelnické příruční předměty)
 
 tagCompA028Name=Zžíravý žlučníkový kámen
-tagCompA028Desc="Jedovaté kameny vytvořené ve žluči odporných bestií."^w^n(Může vylepšit chladné zbraně, štíty a příruční předměty)
+tagCompA028Desc="Jedovaté kameny vytvořené ve žluči odporných bestií."^w^n(Může vylepšit chladné zbraně, štíty a kouzelnické příruční předměty)
 
 tagCompA029Name=Posvěcený brousek
 tagCompA029Desc="Zostřuje i nejostřejší ostří, čímž se zvyšuje zranění, jakmile čepel pronikne zbrojí."^w^n(Může vylepšit sekyry a meče)
@@ -3025,10 +3025,10 @@ tagCompA031Name=Šupinatá kůže
 tagCompA031Desc="Tyto husté, ale lehoučké, šupiny mohou být navrstveny na zbroj a zvýšit tak její ochranu."^w^n(Může vylepšit nárameníky, hrudní a nožní zbroje)
 
 tagCompA032Name=Šipky z tvrdého pazourku
-tagCompA032Desc="Jádro kamene očarovaného jiskrami plamene."^w^n(Může vylepšit pušky, kuše a příruční předměty)
+tagCompA032Desc="Jádro kamene očarovaného jiskrami plamene."^w^n(Může vylepšit pušky, kuše a kouzelnické příruční předměty)
 
 tagCompA033Name=Náboj s otráveným hrotem
-tagCompA033Desc="Tento druh nábojů je potažen toxiny ze chřtánu jedovatého zvířete."^w^n(Může vylepšit pušky, kuše a příruční předměty)
+tagCompA033Desc="Tento druh nábojů je potažen toxiny ze chřtánu jedovatého zvířete."^w^n(Může vylepšit pušky, kuše a kouzelnické příruční předměty)
 
 tagCompA034Name=Znamení cestovatele
 tagCompA034Desc="Cestovatelé používají tyto značky při průchodu divokou přírodou, aby nebyli mylně označeni jako lovci bohem zvířat Mogdrogenem."^w^n(Může vylepšit obuv)
@@ -3043,19 +3043,19 @@ tagCompA037Name=Hustá srst
 tagCompA037Desc="Hustá pokrývka srsti, ideální v náročných zimních podmínkách."^w^n(Může vylepšit všechny druhy zbroje)
 
 tagCompA038Name=Zoubkovaný hrot
-tagCompA038Desc="Tenký, ale velmi ostrý hrot ze zvířete."^w^n(Může vylepšit všechny zbraně, štíty a příruční předměty)
+tagCompA038Desc="Tenký, ale velmi ostrý hrot ze zvířete."^w^n(Může vylepšit všechny zbraně, štíty a kouzelnické příruční předměty)
 
 tagCompA039Name=Žhavý popel
-tagCompA039Desc="Věčně žhavý uhlík z vypáleného domova."^w^n(Může vylepšit všechny zbraně, štíty a příruční předměty)
+tagCompA039Desc="Věčně žhavý uhlík z vypáleného domova."^w^n(Může vylepšit všechny zbraně, štíty a kouzelnické příruční předměty)
 
 tagCompA040Name=Chladná ocel
-tagCompA040Desc="Tato ocel je prodchnuta mrazivým zimním vichrem."^w^n(Může vylepšit všechny zbraně, štíty a příruční předměty)
+tagCompA040Desc="Tato ocel je prodchnuta mrazivým zimním vichrem."^w^n(Může vylepšit všechny zbraně, štíty a kouzelnické příruční předměty)
 
 tagCompA041Name=Prasklý magnetovec
-tagCompA041Desc="Po jeho povrchu poskakují jiskry energie."^w^n(Může vylepšit všechny zbraně, štíty a příruční předměty)
+tagCompA041Desc="Po jeho povrchu poskakují jiskry energie."^w^n(Může vylepšit všechny zbraně, štíty a kouzelnické příruční předměty)
 
 tagCompA042Name=Odštípnutý dráp
-tagCompA042Desc="Dráp nemilosrdného dravce, kterého konečně dostihl jeho osud."^w^n(Může vylepšit všechny zbraně, štíty a příruční předměty)
+tagCompA042Desc="Dráp nemilosrdného dravce, kterého konečně dostihl jeho osud."^w^n(Může vylepšit všechny zbraně, štíty a kouzelnické příruční předměty)
 
 tagCompA043Name=Pomačkaný plát
 tagCompA043Desc="Plát ze zbroje, která už zažila lepší časy."^w^n(Může vylepšit všechny druhy zbroje)
@@ -3064,19 +3064,19 @@ tagCompA044Name=Zježená srst
 tagCompA044Desc="Tlustá vrstva srsti nadpřirozeného zvířete."^w^n(Může vylepšit všechny druhy zbroje)
 
 tagCompA045Name=Odolný plát
-tagCompA045Desc="Plát zbroje, která přečkala nespočet bitev, a vypadá, že by mohla přečkat mnoho dalších."^w^n(Může vylepšit štíty, příruční předměty a nárameníky)
+tagCompA045Desc="Plát zbroje, která přečkala nespočet bitev, a vypadá, že by mohla přečkat mnoho dalších."^w^n(Může vylepšit štíty, kouzelnické příruční předměty a nárameníky)
 
 tagCompA046Name=Vyleštěný smaragd
-tagCompA046Desc="Nádherný klenot vyleštěný k dokonalosti."^w^n(Může vylepšit štíty, příruční předměty, prsteny, ochranu hlavy a hrudní zbroje)
+tagCompA046Desc="Nádherný klenot vyleštěný k dokonalosti."^w^n(Může vylepšit štíty, kouzelnické příruční předměty, prsteny, ochranu hlavy a hrudní zbroje)
 
 tagCompA047Name=Zmrzlé srdce
 tagCompA047Desc="Navždy zapouzdřené do černého ledu."^w^n(Může vylepšit prsteny)
 
 tagCompA048Name=Bublající krev
-tagCompA048Desc="Bublá hněvem, který ji kdysi poháněl."^w^n(Může vylepšit prsteny a amulety)
+tagCompA048Desc="Bublá hněvem, který ji kdysi poháněl."^w^n(Může vylepšit prsteny, amulety a medaile)
 
 tagCompA049Name=Kámen ochrany
-tagCompA049Desc="Kámen s vyleptaným starověkým ochranným symbolem."^w^n(Může vylepšit amulety)
+tagCompA049Desc="Kámen s vyleptaným starověkým ochranným symbolem."^w^n(Může vylepšit amulety a medaile)
 
 tagCompA050Name=Zaostřující hranol
 tagCompA050Desc="Používaný temnými pány, aby usměrňovali své síly během zvláště namáhavých rituálů."^w^n(Může vylepšit amulety)
@@ -3085,7 +3085,7 @@ tagCompA051Name=Černý lůj
 tagCompA051Desc="Lůj ze svíčky vyhořel během Chthonických rituálů."^w^n(Může vylepšit amulety a medaile)
 
 tagCompA052Name=Pomstychtivý přízrak
-tagCompA052Desc="Duch pomsty."^w^n(Může vylepšit amulety a medaile)
+tagCompA052Desc="Duch pomsty."^w^n(Může vylepšit prsteny, amulety a medaile)
 
 tagCompA053Name=Znamení iluze
 tagCompA053Desc="Symbol síly používaný v mnoha nápisech."^w^n(Může vylepšit prsteny a amulety)
@@ -3094,16 +3094,16 @@ tagCompA054Name=Zlomyslná čelist
 tagCompA054Desc="Čelist zvířete přirostlá ke kostem, jako by na ně byla nabodnutá."^w^n(Může vylepšit amulety a medaile)
 
 tagCompA055Name=Kámen hněvu
-tagCompA055Desc="Vibruje při sebemenším kontaktu se živým masem."^w^n(Může vylepšit chladné zbraně, štíty a příruční předměty)
+tagCompA055Desc="Vibruje při sebemenším kontaktu se živým masem."^w^n(Může vylepšit chladné zbraně, štíty a kouzelnické příruční předměty)
 
 tagCompA056Name=Portálový kámen
-tagCompA056Desc="Hemží se hrubými silami Prázdnoty."^w^n(Může vylepšit chladné zbraně, štíty a příruční předměty)
+tagCompA056Desc="Hemží se hrubými silami Prázdnoty."^w^n(Může vylepšit chladné zbraně, štíty a kouzelnické příruční předměty)
 
 tagCompA057Name=Aetherické šipky
-tagCompA057Desc="Rozpínající se na základě Aetherických zrůdností."^w^n(Může vylepšit pušky, kuše a příruční předměty)
+tagCompA057Desc="Rozpínající se na základě Aetherických zrůdností."^w^n(Může vylepšit pušky, kuše a kouzelnické příruční předměty)
 
 tagCompA058Name=Náboj Prázdnoty
-tagCompA058Desc="Namočený v čerstvé Chthonické krvi."^w^n(Může vylepšit pušky, kuše a příruční předměty)
+tagCompA058Desc="Namočený v čerstvé Chthonické krvi."^w^n(Může vylepšit pušky, kuše a kouzelnické příruční předměty)
 
 tagCompA059Name=Vyztužená skořepina
 tagCompA059Desc="Téměř nezničitelná skořepina, která již absorbovala nespočet zásahů."^w^n(Může vylepšit štíty)
@@ -3143,19 +3143,19 @@ tagCompB008Name=^kTajemná čočka
 tagCompB008Desc="Centrum tajemných procházek vesmírem."^w^n(Může vylepšit amulety)
 
 tagCompB009Name=^kĎáblem dotčená nábojnice
-tagCompB009Desc="Naplněná svatokrádežným plamenem."^w^n(Může vylepšit pušky, kuše a příruční předměty)
+tagCompB009Desc="Naplněná svatokrádežným plamenem."^w^n(Může vylepšit pušky, kuše a kouzelnické příruční předměty)
 
 tagCompB010Name=^kStříbřité šipky
-tagCompB010Desc="Zlem vyčištěné od nejjemnějšího poškrábání."^w^n(Může vylepšit pušky, kuše a příruční předměty)
+tagCompB010Desc="Zlem vyčištěné od nejjemnějšího poškrábání."^w^n(Může vylepšit pušky, kuše a kouzelnické příruční předměty)
 
 tagCompB011Name=^kSolaelův symbol
-tagCompB011Desc="Tajný symbol používaný stoupenci Solaela, aby se poznali mezi sebou."^w^n(Může vylepšit všechny zbraně, štíty a příruční předměty)
+tagCompB011Desc="Tajný symbol používaný stoupenci Solaela, aby se poznali mezi sebou."^w^n(Může vylepšit všechny zbraně, štíty a kouzelnické příruční předměty)
 
 tagCompB012Name=^kDreegovo znamení
-tagCompB012Desc="Znamení vždy bdícího oka, z něhož kapou slzy otrávené krve."^w^n(Může vylepšit všechny zbraně, štíty a příruční předměty)
+tagCompB012Desc="Znamení vždy bdícího oka, z něhož kapou slzy otrávené krve."^w^n(Může vylepšit všechny zbraně, štíty a kouzelnické příruční předměty)
 
 tagCompB013Name=^kStrašidelná ocel
-tagCompB013Desc="Naplňuje tvou mysl nesnesitelným šepotem uvězněných přízraků."^w^n(Může vylepšit všechny zbraně, štíty a příruční předměty)
+tagCompB013Desc="Naplňuje tvou mysl nesnesitelným šepotem uvězněných přízraků."^w^n(Může vylepšit všechny zbraně, štíty a kouzelnické příruční předměty)
 
 tagCompB014Name=^kBeronathův úlomek
 tagCompB014Desc="Kousek legendárního Beronathova nože, který si stále zachovává své ostří."^w^n(Může vylepšit chladné zbraně)
@@ -3170,7 +3170,7 @@ tagCompB017Name=^kMogdrogenovo znamení
 tagCompB017Desc="Tajemný znak nošený druidskými vyznavači Mogdrogena, boha zvířat."^w^n(Může vylepšit obuv)
 
 tagCompB018Name=^kDěsivá lebka
-tagCompB018Desc="Symbol zabijáků udělovaný za přijetí zvláště nebezpečného úkolu."^w^n(Může vylepšit amulety)
+tagCompB018Desc="Symbol zabijáků udělovaný za přijetí zvláště nebezpečného úkolu."^w^n(Může vylepšit amulety a medaile)
 
 tagCompB019Name=^kTajemná jiskra
 tagCompB019Desc="Jiskra nejčistší tajemné energie."^w^n(Může vylepšit amulety a medaile)
@@ -3289,7 +3289,7 @@ tagPotionConstitutionB01=Esence života
 tagPotionConstitutionB01Desc=Přetrvávající životní energie, která může být vstřebána pro obnovení ztracené konstituce.
 
 tagPotionDirections=[použít pravým tlačítkem myši]
-tagCombineStacks=[Kliknutím na stejný předmět budou oba seštosovány]
+tagCombineStacks=[přidržením klávesy Ctrl a kliknutím rozdělíš štosovaný předmět]
 
 # Bonuses
 tagBonusLifePercentPercent={^E}Obnovuje {^H}{%.0f0}% {^E}zdraví {^H}+{%.0f1}% {^E}v průběhu času
@@ -3305,31 +3305,44 @@ tagBonusSkillPoint={%+d0} bodů dovedností
 tagBonusAttribPoint={%+d0} bodů atributů
 
 
+#Devotion
+tagDevotionReset=Use to Reset your Devotion Points
+tagDevotionNoPointsUsed={^r}[No Devotion Points to Reset]
+tagDevotionResetConfirmation=Reset all your Devotion Points?
+
 #ItemSets
 
 
 tagItemSetC001Name=Gardistovo roucho
+tagItemSetC001NameB=Peacekeeper's Raiment
 tagItemSetC001Desc="Kdysi bylo běžným vybavením mírotvůrců a královských stráží. Ale pouze pár kousků této výbavy přečkalo Ponurý úsvit."
 
 tagItemSetC002Name=Cestovatelův oděv
+tagItemSetC002NameB=Explorer's Vestments
 tagItemSetC002Desc="Lehká, ale odolná zbroj pro dychtivého cestovatele."
 
 tagItemSetC003Name=Maivenina svatyně
+tagItemSetC003NameB=Maiven's Sanctum
 tagItemSetC003Desc="Klenoty na počest legendární temné lady Maiven."
 
 tagItemSetC004Name=Sláva krvavého žence
+tagItemSetC004NameB=Bloodreaper's Carnage
 tagItemSetC004Desc="Zbroj a zbraně používané jen těmi nejkrvelačnějšími zabijáky v Cairnu."
 
 tagItemSetC005Name=Záškodníkova spravedlnost
+tagItemSetC005NameB=Marauder's Judgement
 tagItemSetC005Desc="Soudce, porota a kat."
 
 tagItemSetC006Name=Heroldské klenoty
+tagItemSetC006NameB=Herald's Markings
 tagItemSetC006Desc="Zbroj nošená císařskými heroldy při diplomatických misích."
 
-tagItemSetC007Name=Dotek Menhiru
-tagItemSetC007Desc="Klenoty nošené kněžími Strážců Menhiru. Kněží byli označováni jako léčitelé bez diplomatických vlivů."
+tagItemSetC007Name=The Apothecary
+tagItemSetC007NameB=The Soothsayer
+tagItemSetC007Desc="Regalia worn by medics and soothsayers dedicated to aiding those in need, designating them as healers with no diplomatic affiliation."
 
 tagItemSetC008Name=Vykoupení
+tagItemSetC008NameB=Rozhřešení
 tagItemSetC008Desc="Zbroj, jež musel nosit templář Randall Grayweather na své celoživotní pouti, aby se oprostil od svého selhání, když porušil posvátné sliby a pojal ženu za svou manželku."
 
 tagItemSetC009Name=Nevidoucí oko
@@ -3345,6 +3358,7 @@ tagItemSetC012Name=Královská nevázanost
 tagItemSetC012Desc="Královská sbírka korunovačních klenotů, o které se myslelo, že se ztratila během plenění za Ponurého úsvitu."
 
 tagItemSetC013Name=Zrádce
+tagItemSetC013NameB=Oathbreaker's Flame
 tagItemSetC013Desc="Výbava nošená Zrádcem - rytířem, který oklamal svého krále tím, že otevřel městské brány nepříteli."
 
 tagItemSetC014Name=Ozdoby udatnosti
@@ -3363,15 +3377,18 @@ tagItemSetC018Name=Alkamosův hněv
 tagItemSetC018Desc="Pečetě Alkamose, Arkovianského vykonavatele spravedlnosti"
 
 tagItemSetC019Name=Nepříjemnost
+tagItemSetC019NameB=Smrtící nepříjemnost
 tagItemSetC019Desc="Klenoty nošené Dreegovými Vyvolenými."
 
 tagItemSetC020Name=Síra
+tagItemSetC020NameB=Everburning Brimstone
 tagItemSetC020Desc="Zbraň a zbroj nošená Ulzuinovými oddanými."
 
 tagItemSetC021Name=Orientální zástava
 tagItemSetC021Desc="Róba nošená ctěnými kněžími z cizích zemí za velkými moři."
 
 tagItemSetC022Name=Volání divočiny
+tagItemSetC022NameB=Wildcaller's Call
 tagItemSetC022Desc="Ozdoby Divochů, šamanů naslouchajících hlasům přírody."
 
 tagItemSetC023Name=Pretorián
@@ -3698,6 +3715,8 @@ tagSuffixA062=mrazení
 tagSuffixA063=elektrického výboje
 tagSuffixA064=traumatu
 
+tagSuffixA065=barikády
+
 tagSuffixB001_Wpn_A=požáru
 tagSuffixB002_Wpn_A=šílenství
 tagSuffixB003_Wpn_A=posvěcení
@@ -3746,7 +3765,7 @@ tagSuffixB006_Ar_A=$Oleronova trestu
 tagSuffixB007_Ar_A=$Natuřiny úrody
 tagSuffixB008_Ar_A=$Albrechtovy pozornosti
 tagSuffixB009_Ar_A=$Gildamského tajemství
-tagSuffixB010_Ar_A=$Prázdnoty
+tagSuffixB010_Ar_A=of Hungering Rifts
 tagSuffixB011_Ar_A=lesa
 tagSuffixB012_Ar_A=ostří
 tagSuffixB013_Ar_A=hrdinství
@@ -3846,11 +3865,11 @@ tagAutoSkillCondition04= ({%d0}% šance při zásahu chladnou zbraní)
 tagAutoSkillCondition05= ({%d0}% šance při zásahu střelnou zbraní)
 tagAutoSkillCondition06= ({%d0}% šance při kouzlení zlepšujícího kouzla)
 tagAutoSkillCondition07= ({%d0}% šance na útok)
-tagAutoSkillCondition08= (Aktivní, pokud je nasazeno)
+tagAutoSkillCondition08= (aktivní, pokud je nasazeno)
 tagAutoSkillCondition09= ({%d0}% šance při zásahu kritickým úderem)
 tagAutoSkillCondition10= ({%d0}% šance na kritický úder)
 tagAutoSkillCondition11= ({%d0}% šance na vykrytí)
-
+tagAutoSkillCondition12= ({%d0}% šance na smrt nepřítele)
 
 #LootChests
 
@@ -3945,6 +3964,9 @@ tagBarnDoor=Vrata
 tagCageDoor=Vrata cely
 tagTrollDoor=Zlobří brána
 
+tagBreakableStoneWall=Crumbling Wall
+tagBreakableNaturalWall=Loose Earth
+
 #Dungeon Doors
 
 tagUGDoorCave01=Vstup do jeskyně
@@ -3965,6 +3987,7 @@ tagDoorLocked= {^R} ~ zamčeno
 
 tagDoorOneWay01=Útěk na povrch
 tagDoorLever01=Ovládání portcullisu
+tagTorchLever01=Loose Torch
 
 #Doors
 
@@ -3976,14 +3999,17 @@ tagEpicDoor_StepsOfTormentLocked= {^R} ~ Zapečetěno starodávnou silou
 tagLocked= {^R} ~ zamčeno
 tagBlocked= {^R} ~ zborcená jeskyně v cestě
 tagLocked_BlackLegion= {^R} ~ zapečetěno Černou legií
+tagLocked_Cult= {^R} ~ Sealed by the Cult of Ch'thon
 tagUGDoorDermapteranQueen=Vstup do vosího hnízda
 tagUGDoorDermapteranQueenLocked= {^R} ~ střeženo Velkými vezíry
 tagDoorRampart=Zabarikádované dveře
 tagDoorWarden=Železné dveře
 tagDoorFarmland=Dřevěná brána
-tagDoorLab=Zasílené dveře
+tagDoorLab=Zesílené dveře
+tagDoorStone=Kamenné dveře
 tagLocked_Kymon= {^R} ~ střeženo Otcem Kymonem
 tagLocked_Necro= {^R} ~ střeženo Řádem Strážců smrti
+tagLocked_Outcast= {^R} ~ střeženo Anasterií
 
 #Quest Rewards
 

@@ -1,4 +1,6 @@
 Úlohy Vyvrhelů
+Anasteria does not offer her bounties to those who would see her dead.
+Step away from the Table.
 Vracíš se s rukama plnýma surovin, úkol byl splněn.
 Ohlas se.
 
@@ -59,9 +61,9 @@ Odstup kousek od stolu.
 Ohlas se.
 
 Odstup kousek od stolu.
-Úkol pro Vyvrhele už byl přijat.
+Úkol od Anasterie už byl přijat.
 Odstup kousek od stolu.
-Vyvrhelka v tobě vidí potenciál.{^n}{^n}Věří, že tvá přízeň by mohla ještě trochu stoupnout.
+Anasteria v tobě vidí potenciál.{^n}{^n}Věří, že tvá přízeň by mohla ještě trochu stoupnout.
 Prohlédni si úkoly.
 Prozatím žádné úkoly nemám.
 Odstup kousek od stolu.
@@ -187,8 +189,8 @@ Přijmout úkol.
 Odstup od stolu.
 Další úkol.
 
-Vyvrhelka v tobě vidí potenciál.{^n}{^n}Věří, že tvá přízeň by mohla ještě trochu stoupnout.
+Anasteria v tobě vidí potenciál.{^n}{^n}Věří, že tvá přízeň by mohla ještě trochu stoupnout.
 
 Odstup kousek od stolu.
-Vyvrhelka ti pořád ještě moc nedůvěřuje, aby ti mohla svěřit nějaké úkoly.{^n}{^n}Pokud si získáš další přízeň, budeš mít přístup k vývěsce s úkoly.
+Anasteria ti pořád ještě moc nedůvěřuje, aby ti mohla svěřit nějaké úkoly.{^n}{^n}Pokud si získáš další přízeň, budeš mít přístup k vývěsce s úkoly.
 Odstup kousek od stolu.
