@@ -13,7 +13,12 @@ Nemáš zač.
 Muselo to být dokonáno.
 Vítej, [[ms]příteli[fs]přítelkyně]. Už jsi [[ms]navštívil[fs]navštívila] Mogdrogenův oltář??
 Kdeže je ten oltář?
-Oltář je daleko na severu za místem, kterému říkáte Homestead, v zasněžených vršcích Asterkarnských hor.{^n}{^n}Vyvaruj se Kultu Ch'thona, jejich počet je v tom regionu velký.
+Oltář je daleko na severu za vesnicí Darkvale, v zasněžených vršcích Asterkarnských hor.{^n}{^n}Vyvaruj se Kultu Ch'thona, jejich počet je v tom regionu velký.
+
+Thank you.
+Where are the parts to the Shrine of Mogdrogen?
+The shrine was damaged by the Cult of Ch'thon and its parts lost to the void. You must enter the void rifts in the Blood Grove, to the north of Homestead, and in the Plains of Strife, to the north of Fort Ikon.{^n}{^n}Please do not let our shrine be lost to history.
+
 Díky.
 [[ms]Našel[fs]Našla] jsem nějaké úryvky textů, které by tě mohly zajímat.
 Tohle je šokující objev. Děkuji ti, ve jménu všech Rhowari, že jsi nám tyto texty [[ms]přinesl[fs]přinesla].{^n}{^n}Zajistím, aby se všichni tuláci, kteří tudy projdou, učili z jejich obsahu.
@@ -25,7 +30,7 @@ Vítej, [[ms]příteli[fs]přítelkyně] lidu Rhowari. Omlouvám se, že tě ru�
 O co jde?
 Daleko na severu, v zamrzlých Asterkarnských horách, je svatyně věnovaná Mogdrogenovi, patronovi bestií a ochránci Rhowari. Po generace navštěvovali naši lidé Mogdrogenův posvátný oltář, aby se mu poklonili, a to do dne, kdy propůjčil svou moudrost Rhowanovi a tak inspiroval náš lid, aby opustil Starou Arkovii. {^n}{^n}Ale svatyně byla poskvrněna kultem Ch'thona. Následníci mrtvého boha znesvětili naši svatou půdu a zničili Mogdrogenův oltář.
 Co se dá udělat?
-Oltář je zruinovaný, jeho Runový kámen a Duch rozptýleni po kultských kempech. Nemůžeme dovolit tomuto symbolu našeho lidu aby byl zapomenut. Prosím, prohledej kultské území na severu a získej zpět části s Mogdrogenova oltáře. {^n}{^n}Přines části zpět do svatyně a umísti je na oltář spolu s bijícím srdcem starověké bestie, jejíž ušlechtilá oběť poslouží jako katalyzátor ke spojení všech částí v jednu. Jakmile budeš [[ms]hotov[fs]hotova], buď [[ms]připraven[fs]připravena] zprovodit ze světa všechny odporné Ch'thoniany, kteří zaplavili Mogdrogenovo území. Za to ti budou Rhowari nadosmrti zavázáni. {^n}{^n}Varování: Tento úkol nemůžeš dokončit v této verzi hry. Území na které se musíš vydat bude dostupné až v následujících verzích.
+The Shrine lies in ruins, its Runed Stone and Spirit taken by the cult into the void. We cannot allow this symbol of our people to be lost to history. Please, seek out the void rifts torn open within the Blood Grove and the Plains of Strife. Recover the pieces of Mogdrogen's Shrine.{^n}{^n}Bring the parts back to the Shrine and place them upon the altar along with the beating heart of an ancient beast, its noble sacrifice will serve as a catalyst to fuse the broken pieces into one. Once you are finished, be prepared to dispatch whatever vile Chthonians have infested Mogdrogen's lands. For this, the Rhowari will be eternally at your service.
 Oblovím Mogdrogenův oltář.
 Najdi si někoho jiného.
 Už jsem oltář [[ms]obnovil[fs]obnovila].
