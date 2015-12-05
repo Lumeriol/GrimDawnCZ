@@ -1022,6 +1022,8 @@ tagShoulderD016=Dreegovy tkané nárameníky
 tagShoulderD017=Střelmistrovy chrániče ramen
 tagShoulderD018=Iskandřiny skládané nárameníky
 tagShoulderD019=Ultosovy rytířské nárameníky
+tagShoulderD020=Mantle of Mogdrogen
+tagShoulderD020Desc="The mantle worn by the avatar of Mogdrogen himself."
 
 tagShoulderF001=Vyvrhelovy spalující tkané nárameníky
 tagShoulderF002=Vyvrhelovy mrazívé tkané nárameníky
@@ -3535,7 +3537,7 @@ tagPrefixAO009=[ms]vyčerpávající[fs]vyčerpávající[ns]vyčerpávající[m
 tagPrefixAO010=[ms]oslabující[fs]oslabující[ns]oslabující[mp]oslabující[fp]oslabující[np]oslabující
 tagPrefixAO011=[ms]korozivní[fs]korozivní[ns]korozivní[mp]korozivní[fp]korozivní[np]korozivní
 tagPrefixAO012=[ms]pokroucený[fs]pokroucená[ns]pokroucené[mp]pokroucené[fp]pokroucené[np]pokroucené
-tagPrefixAO013=[ms]dotčený Prázdnotou[fs]dotčená Prázdnotou[ns]dotčené Prázdnotou[mp]dotčené Prázdnotou[fp]dotčené Prázdnotou[np]dotčené Prázdnotou
+tagPrefixAO013=[ms]Prázdnotou dotčený[fs]Prázdnotou dotčená[ns]Prázdnotou dotčené[mp]Prázdnotou dotčené[fp]Prázdnotou dotčené[np]Prázdnotou dotčené
 
 tagPrefixB001_WpnMelee1h_A=[ms]tyranův[fs]tyranova[ns]tyranovo[mp]tyranovy[fp]tyranovy[np]tyranovy
 tagPrefixB002_WpnMelee1h_A=[ms]nepovolný[fs]nepovolná[ns]nepovolné[mp]nepovolné[fp]nepovolné[np]nepovolné
@@ -3979,7 +3981,7 @@ tagUGDoorRuin01=Vstup do zříceniny
 tagUGDoorIronDoorSecret01=Železné dveře
 tagUGDoorIronGate=Železná brána
 tagUGDoorPortcullisFloor01=Portcullis
-tagUGDoorBoat=Vstup do podpalubí
+tagUGDoorBoat=Nastoupit na loďku
 tagUGDoorObsidian=Obsidiánové trny
 tagUGDoorFort=Vstup do pevnosti
 tagUGDoorCrypt=Vstup do krypty

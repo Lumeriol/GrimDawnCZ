@@ -1,15 +1,15 @@
-Building Site
-This bridge has collapsed, preventing access to another section of the Necropolis. It must be restored before you can cross it.{^n}{^n}It will take 10 Scrap and 25000 Iron Bits to repair.
-Not enough materials.
-Repair the Bridge.
-Leave it.
-This bridge has collapsed, preventing access to another section of the Necropolis. It must be restored before you can cross it.{^n}{^n}It will take 10 Scrap and 15000 Iron Bits to repair.
-Not enough materials.
-Repair the Bridge.
-Leave it.
-This bridge has collapsed, preventing access to another section of the Necropolis. It must be restored before you can cross it.{^n}{^n}It will take 10 Scrap and 10000 Iron Bits to repair.
-Not enough materials.
-Repair the Bridge.
-Leave it.
-You have restored this bridge.
+Staveniště
+Tento most se zbortil a znemožnil tak přejít do další části Pohřebiště. Než budeš moci pokračovat, budeš muset most opravit.{^n}{^n}Bude tě to stát 10 kusů železného šrotu a 25 000 železných mincí.
+Nedostatek materiálu.
+Opravit most.
+Nechat to být.
+Tento most se zbortil a znemožnil tak přejít do další části Pohřebiště. Než budeš moci pokračovat, budeš muset most opravit.{^n}{^n}Bude tě to stát 10 kusů železného šrotu a 15 000 železných mincí.
+Nedostatek materiálu.
+Opravit most.
+Nechat to být.
+Tento most se zbortil a znemožnil tak přejít do další části Pohřebiště. Než budeš moci pokračovat, budeš muset most opravit.{^n}{^n}Bude tě to stát 10 kusů železného šrotu a 10 000 železných mincí.
+Nedostatek materiálu.
+Opravit most.
+Nechat to být.
+Most byl obnoven.
 Ok.

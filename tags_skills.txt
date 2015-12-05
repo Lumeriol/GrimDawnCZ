@@ -2149,7 +2149,7 @@ tagRelicSkillD007Name=Morová rána
 tagRelicSkillD007Desc=Zaútoč na své nepřátele mrazivým útokem, který se zaryje až do jejich samotného jádra se smrtícím chladem, čímž ti bude část uloupené vitality navrácena. ^oVyžaduje chladnou zbraň.
 
 tagRelicSkillD008Name=Ohnivé peklo
-tagRelicSkillD008Desc=Rozpoutá bouři pekelného ohně, který se prorve skrze nebesa, aby padl na tvé nepřátele.
+tagRelicSkillD008Desc=A wild flame spirals out from your position, incinerating anything that comes too close with Ulzuin's wrathful touch.
 
 tagRelicSkillD009Name=Nekróza
 tagRelicSkillD009Desc=Přivolá oslabující kletbu na tvé nepřátele, jež způsobí hnilobu jejich masa a kostí a zpomalí jejich smysly.
@@ -2287,7 +2287,7 @@ NoSkillPointsAvailable=Dostupné body: 0
 DevotionPointsAvailable=Dostupné body: {%d0}
 DevotionPointsAvailableSingular=Dostupné body: {%d0}
 NoDevotionPointsAvailable=Dostupné body: 0
-DevotionPointsTotal=Odblokované body: {%d0} / {%d1}
+DevotionPointsTotal=Získané body: {%d0} / {%d1}
 tagConfirmSkillChanges=Potvrdit změny?
 
 #SkillDevotion

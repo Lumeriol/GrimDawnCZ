@@ -1,7 +1,7 @@
-Detonation Site
-This gate has been collapsed, but it looks deliberate. With enough explosives, the way through could be re-opened.{^n}{^n}It will take some Heavy Explosives to clear out.
-You do not have the Heavy Explosives.
-Destroy the Barricade.
-Leave it.
-You have cleared this barricade.
+Místo výbuchu
+Tato brána se zbortila, ale určitě ne sama od sebe. S dostatkem výbušnin by bylo možné cestu zase uvolnit.{^n}{^n}Pro odstranění závalu budeš potřebovat nějakou trhavinu.
+Nemáš trhavinu.
+Odstranit zával.
+Nechat to být.
+Zával byl odstraněn.
 Ok.
