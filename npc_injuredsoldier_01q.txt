@@ -1,10 +1,10 @@
-Footman
-Don't go in there.{^n}{^n}The Aetherials have torn open a rift. More are pouring through...
-I've secured the courtyard.
-Thank the gods. I thought the Fort was lost.
+Pěšák
+Nechoď tam.{^n}{^n}Aetheriané vytvořili trhlinu. Víc jich přichází skrz ni...
+Nádvoří jsem [[ms]zabezpečil[fs]zabezpečila].
+Díky bohu. Myslel jsem, že pevnost je ztracena.
 
-Farewell.
-Will you be alright?
-Once things calm down, I'm sure someone will come for me.{^n}{^n}Don't worry, the Legion takes care of its own.
-Alright.
-I will handle it.
+Zatím.
+Budeš v pořádku?
+Jakmile se věci zklidní, jsem si jistý, že se pro mne někdo staví.{^n}{^n}Nestrachuj se, Legie se o své lidi stará.
+Dobrá.
+Poradím si s tím.

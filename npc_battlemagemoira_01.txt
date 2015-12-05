@@ -1,34 +1,34 @@
-Spellbreaker Moira
-The Legion is indebted to you. It would be an honor to fight by your side.
-Farewell.
-Few would brave the Immolation as you have.{^n}{^n}The Legion thanks you.
-Farewell.
-Moira of the Spellbreaker Division, at your service.
+Lamačka kouzel Moira
+Legie na vás vsadila. Bude mi ctí bojovat po vašem boku.
+Tak zatím.
+Jen pár by se odvážilo do Obětiště, tak jako jste to [[ms]udělal[fs]udělala] ty.{^n}{^n}Legie vám děkuje.
+Tak zatím.
+Moira z divize lamaček kouzel, k vašim službám.
 
-Farewell.
-Have you braved the Immolation?
-The Herald of Destruction lies dead.
-You've done us all a great service. With the Herald gone, the Aetherials will not be able to spread their aetherfire in the south.{^n}{^n}I'd also like to personally thank you for avenging my fellow soldiers. I'll sleep easier knowing the thing that slaughtered them is gone.
-Farewell.
-Have you braved the Immolation?
-Where is it located?
-The Aetherials have infested an area of Deadman's Gulch we have begun calling the Immolation. It is a terrible place of aetherfire and corruption. One of their obelisks, the Herald of Destruction, is there.
-I will take care of it.
-I'm still on it.
-Sir, Moira of the Spellbreaker Division reporting.{^n}{^n}I was wondering if I could have a moment of your time.
-What do you need?
-Before I arrived at Fort Ikon, I was assigned to a division marching south towards Old Arkovia. With the bridge collapsed, we had no choice but to take Deadman's Gulch.{^n}{^n}We never would have suspected the enemy to be there in such numbers. The Aetherials were heavily entrenched in the crags, busily spreading their aetherfire using a massive obelisk known as the Herald of Destruction. The place was turned into a literal hell. We now call it the Immolation.Few of us made it out of there alive, but we managed to seal the mine shaft. I've heard word of your exploits. If you could enter the Immolation and destroy the Herald, then you will severely cripple the enemy's ability to terraform our world, and I will have revenge for all the lives lost in my battalion.{^n}{^n}Will you do the Legion this service?
-I will deal with this threat.
-I'm sorry, I cannot help you.
-I have already slain the Herald of Destruction.
+Tak zatím.
+[[ms]Odvážil[fs]Odvášila] jste se do Obětiště?
+Posel zničení je mrtev.
+Všem jste nám [[ms]prokázal[fs]prokázala] velkou službu. Když je Posel pryč, nebudou moci Aetheriané šířit jejich Aetherický oheň směrem na jih. {^n}{^n}Také bych vám chtěla osobně poděkovat za to, že jste [[ms]pomstil[fs]pomstila] mé kamarády vojáky. Bude se mi spát líp když vím, že ta věc, která je zabila, je pryč.
+Tak zatím.
+[[ms]Odvážil[fs]Odvážila] jste se do Obětiště?
+Kdeže je jeho lokace?
+Aetheriané nakazili část Rokle mrtvého muže, kterou jsme začali nazývat Obětiště. Je to hrůzné, poškozené místo plné Aetherického ohně. Jeden z jejich obelisků, Posel zničení, je tam.
+Postarám se o to.
+Pořád na tom dělám.
+[[ms]Pane[fs]Paní], Moira z divize Lamaček kouzel se hlásí. {^n}{^n}Zajímalo mne, zda byste si pro mne [[ms]vyhradil[fs]vyhradila] trochu vašeho času.
+Co potřebuješ?
+Než jsem dorazila do pevnosti Ikon, byla jsem přiřazena k divizi směřující na jich ke Staré Arkovii. Ale protože byl most zborcen, neměli jsme jinou možnost než jít Roklí mrtvého muže.{^n}{^n}Nikdy jsme si nemysleli, že tam budou nepřátelé v takovém počtu. Aetheriané byli těžce opevněni ve skalách a s plnou vervou šířili Aetherický oheň za pomoci masivního obelisku, známého jako Posel zničení. To místo bylo proměněno v peklo, a to doslova. Nyní mu říkáme Obětiště. Jen pár z nás to zvládlo tamodtud živých, ale podařilo se nám uzavřít důlní šachtu. Slyšela jsem o tvých hrdinských činech. Pokud by jsi [[ms]mohl[fs]mohla] vstoupit do Obětiště a zničit Posla, vážně bys [[ms]ochromil[fs]ochromila] nepřítelovu schopnost přeměňovat náš svět a já se tak pomstím za všechny ty životy zmařené v našem praporu. {^n}{^n}Prokážete Legii tuto službu?
+S tou hrozbou se vypořádám.
+Je mi líto, nemohu ti pomoci.
+Posla zničení jsem již [[ms]zabil[fs]zabila].
 
-What's a Spellbreaker?
-We are Legion-sanctioned arcanists specialized in disrupting enemy spellcasters. Our primary duty is the nullification and elimination of enemy arcane capabilities.{^n}{^n}With the Aetherial threat growing, our ranks are stretched all too thin.
-What did you need from me?
-Intriguing.
-Not at this time.
-Moira of the Spellbreaker Division, at your service.
-What's a Spellbreaker?
-We are Legion-sanctioned arcanists specialized in disrupting enemy spellcasters. Our primary duty is the nullification and elimination of enemy arcane capabilities.{^n}{^n}With the Aetherial threat growing, our ranks are stretched all too thin.
-Intriguing.
-Farewell.
+Co znamená Lamačka kouzel?
+S povolením od Legie jsme arkanisté specializující se nepřátelské kouzelníky. Naší hlavní poviností je rušení a eliminace nepřátelských arkanických schopností. {^n}{^n}S tím, jak roste Aetherická hrozba, je naše postavení všeobecně příliš malé.
+Co ode mne potřebuješ?
+Fascinující.
+Teď ne.
+Moira z divize lamaček kouzel, k vašim službám.
+Co znamená Lamačka kouzel?
+S povolením od Legie jsme arkanisté specializující se nepřátelské kouzelníky. Naší hlavní poviností je rušení a eliminace nepřátelských arkanických schopností. {^n}{^n}S tím, jak roste Aetherická hrozba, je naše postavení všeobecně příliš malé.
+Fascinující.
+Tak zatím.

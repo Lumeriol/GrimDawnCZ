@@ -1,18 +1,18 @@
 Ulgrim
-Prepare yourself. The nightmare buried underneath the Necropolis is all too real.
-I have some questions.
-Go ahead.
-You seem unusually shaken by the Loghorrean's return.
-It's nothing. Just saddened to discover that such evil can never truly be contained.{^n}{^n}*Ulgrim smirks*{^n}{^n}If I get too emotional during the fighting, just hand me a handkerchief.
-I have another question.
-I'll keep that in mind.
-You say this thing has been summoned before?
-Yes, many centuries ago, at the Battle of Ikon. Nobody knows for sure whether it was the Carineans performing a last desperate maneuver, or perhaps the Loghorrean was drawn to all the spilled blood, but the results were catastrophic.{^n}{^n}And now we know what the real purpose behind the Necropolis was.
-I have another question.
-Mistakes of the past coming back.
-What's our plan of action?
-I'm preparing an elite team to infiltrate the Necropolis and take the enemy by surprise from the inside.{^n}{^n}Speak to Creed for more details when you're ready.
-I have another question.
-Will do.
-Nevermind.
-Farewell.
+Připrav se. Noční můra žijící pod Nekropolí je skutečností.
+[[ms]Měl[fs]Měla] bych nějaké otázky.
+Do toho.
+Vypadáš až nezvykle znepokojený návratem Loghorreana.
+To nic není. Jen jsem smutný z toho že jsem zjistil, že takové zlo nemůže být nikdy ovládnuto.{^n}{^n}*Ulgrim se pousměje*{^n}{^n}Pokud bych během boje začal být moc citlivý, prostě mi podej kapesník.
+Mám další otázku.
+Budu na to myslet.
+Říkáš, že už tahle věc jednou vyvolaná byla?
+Ano, před mnoha staletími, v Bitvě o Ikon. Nikdo s jistotou neví jestli to byli Carineňané, kdo udělal tenhle poslední zoufalý krok, a nebo byl Loghorrean přilákán tou veškerou prolitou krví, ale výsledek byl katastrofální. {^n}{^n}A teď už víme, jaký opravdový důvod stojí za stavbou Nekropole.
+Mám další otázku.
+Chyby z minulosti se vrací zpět.
+Jaký je náš plán akce?
+Připravuji elitní tým, aby infiltroval Nekropoli a nečekaně udeřil na nepřítele zevnitř. {^n}{^n}Promluv si s Creedem o dalších detailech, až budeš [[ms]připravený[fs]připravená].
+Mám další otázku.
+Provedu.
+Neřeš to.
+Sbohem.
