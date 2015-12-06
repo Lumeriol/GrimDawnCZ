@@ -130,7 +130,7 @@ tagWeaponBluntC014=Předek
 tagWeaponBluntC015=Hwarovo pokárání
 tagWeaponBluntC016=Barthollemova palička
 tagWeaponBluntC016Desc="Posvátná palička Archóna Barthollema, sloužící k Božímu rozhodnutí nad nehodnými."
-tagWeaponBluntC017=Chillsteel Redeemer
+tagWeaponBluntC017=Chladnokrevný spasitel
 
 tagWeaponBluntD001=Smrtící věštba
 tagWeaponBluntD001Desc="Posel smrti."
@@ -236,7 +236,7 @@ tagWeaponGun1hC013=Vyjednavač
 tagWeaponGun1hC014=Mrazivá hlaveň neúprosného Severu
 tagWeaponGun1hC015=Burrwitchský mírotvůrce
 tagWeaponGun1hC015Desc="Důvěryhodná pistole šerifa Harmona Griffitha."
-tagWeaponGun1hC016=Apothecary's Injector
+tagWeaponGun1hC016=Lékárníkův vstřikovač
 tagWeaponGun1hC017=Zrádce
 tagWeaponGun1hC018=Stahovač mrtvol
 tagWeaponGun1hC019=Spalovač země
@@ -298,7 +298,7 @@ tagWeaponGun2hC013=Opakovací puška plamenného dozorce
 
 tagWeaponGun2hD001=Odpůrce
 tagWeaponGun2hD002=Hodina čarodějnic
-tagWeaponGun2hD002Desc="Weapon blessed by the witch gods and gifted to their followers in order to defend their sanctuaries from the wrath of the inquisition."
+tagWeaponGun2hD002Desc="Zbraň požehnaná čarodějnými bohy a věnována jejich následovníkům k obraně svých útočišť před hněvem inkvizice."
 tagWeaponGun2hD003=Zplozenec pekla
 tagWeaponGun2hD003Desc="Hlaveň chrlí ven zuřivost sedmi pekel."
 tagWeaponGun2hD004=Vír duší
@@ -340,8 +340,8 @@ tagWeaponCrossbow2hD001=Stříbrný šíp
 tagWeaponCrossbow2hD001Desc="Vybraná zbraň lovkyně démonů Krvavé Edith, bývalé Chthonské kultistky posedlé zabíjením démonů."
 tagWeaponCrossbow2hD002=Dreegův ostnovrh
 tagWeaponCrossbow2hD002Desc="Nasáknutá samotnou podstatou čarodějnického boha Dreega."
-tagWeaponCrossbow2hD003=The Northern Wyrm
-tagWeaponCrossbow2hD003Desc="The great wyrm freezes all that it touches before devouring it whole."
+tagWeaponCrossbow2hD003=Severní Wyrm
+tagWeaponCrossbow2hD003Desc="Obrovský wyrm nejprve všechno zmrazí a teprve poté to sežere."
 tagWeaponCrossbow2hD004=Raka'Jax
 tagWeaponCrossbow2hD005=Posel věčného utrpení
 
@@ -492,7 +492,7 @@ tagWeaponCaster1hD002=Černá pohroma
 tagWeaponCaster1hD003=Hněv předků
 tagWeaponCaster1hD004=Posel duší
 tagWeaponCaster1hD004Desc="Toto ohavné žezlo vězní putující duše."
-tagWeaponCaster1hD005=Olexranin chlad
+tagWeaponCaster1hD005=Olexrařin chlad
 tagWeaponCaster1hD006=Panettiho replikující hůlka
 tagWeaponCaster1hD006Desc="Náčiní kdysi patřilo Mistru Panettimu, mistrovi replikace kouzel a tvůrce Replikující střely."
 tagWeaponCaster1hD007=Ultosova jiskra
@@ -697,16 +697,16 @@ tagFocusD005=Krvavá koule Ch'thona
 tagFocusD005Desc="Fanatičtí kabalisté přísahali, že v této kouli je obsažena kapka krve jejich prvotního boha."
 tagFocusD006=Mluvčí mrtvých
 tagFocusD006Desc="Sbírka básní a náboženských textů určených k pohřebním obřadům."
-tagFocusD007=Eye of Dominion
-tagFocusD008=Tome of the Arcane Wastes
-tagFocusD009=Skull of Gul'Amash
-tagFocusD009Desc="The skull of Gul'amash, a once powerful occultist, condemned for his knowledge and burnt at the stake during a public proceeding that saw him tried and executed within the hour at the behest of an angry mob."
-tagFocusD010=Wretched Tome of Nar'Adin
-tagFocusD011=Codex of Eternal Storms
-tagFocusD012=Consumption of Agrivix
-tagFocusD012Desc="The Grand Arcanist Agrivix was famous for pouring inordinate quantities of energy into his spellwork, but this hunger for power took him down a path of destruction that had him convinced he was the rightful ruler of the world. Agrivix ultimately met his end at the hands of inquisitors, but not before taking several of them down with him."
-tagFocusD013=Invoker's Blaze
-tagFocusD014=Iskandra's Texts
+tagFocusD007=Oko nadvlády
+tagFocusD008=Bible tajemného mrhání
+tagFocusD009=Gul'Amashova lebka
+tagFocusD009Desc="Lebka Gul'amashe, kdysi mocného okultisty, který byl za své znalosti odsouzen a upálen na hranici ve veřejném řízení, během které byl mučen a nakonec popraven během hodiny na příkaz rozzuřené lůzy."
+tagFocusD010=Žalostná bible Nar'Adina
+tagFocusD011=Kodex věčných bouří
+tagFocusD012=Agrivixovo pozření
+tagFocusD012Desc="Velký alchymista Agrivix byl slavný tím, že dopoval nadměrné množství energie do svých magických projektů, ale touha po moci ho svedla na cestu zkázy, když se snažil přesvědčit sám sebe, že je právoplatným vládcem světa. Agrivix nakonec našel svůj konec v rukách inkvizitorů, ovšem ještě před tím jich stačil pár vzít s sebou."
+tagFocusD013=Vyvolávačův žár
+tagFocusD014=Iskandřiny texty
 
 tagFocusF001=Polní bible
 tagFocusF002=Polní tlustopis
@@ -923,7 +923,7 @@ tagheadD003Desc="Našeptává temná tajemství do uší svých obětí před sm
 tagHeadD004=Hlubinná maska
 tagheadD004Desc="Svázána smrtí k smrti nespoutaným."
 tagHeadD005=Čelenka obřího hada
-tagHeadD006=Mask of Infernal Truth
+tagHeadD006=Maska pekelné pravdy
 tagHeadD007=Chránič obličeje před spravedlností
 tagHeadD008=Kutna vyvolavače bestií
 tagHeadD009=Zvěstovatelova maska
@@ -1022,8 +1022,8 @@ tagShoulderD016=Dreegovy tkané nárameníky
 tagShoulderD017=Střelmistrovy chrániče ramen
 tagShoulderD018=Iskandřiny skládané nárameníky
 tagShoulderD019=Ultosovy rytířské nárameníky
-tagShoulderD020=Mantle of Mogdrogen
-tagShoulderD020Desc="The mantle worn by the avatar of Mogdrogen himself."
+tagShoulderD020=Mogdrogenovy tkané nárameníky
+tagShoulderD020Desc="Nárameníky nošené iluzí samotného Mogdrogena."
 
 tagShoulderF001=Vyvrhelovy spalující tkané nárameníky
 tagShoulderF002=Vyvrhelovy mrazívé tkané nárameníky
@@ -1362,7 +1362,7 @@ tagLegsD011Desc="Barbaros byl legendární bojovník v řadách Černé legie, k
 tagLegsD012=Bouří stvořené náholeníky
 tagLegsD013=Pěkně velké pumpky
 tagLegsD013Desc="Teď vypadají v pohodě."
-tagLegsD014=Wildshorn Legguards
+tagLegsD014=Divoce střižené náholeníky
 
 
 #ArmorFeet
@@ -1399,7 +1399,7 @@ tagFeetC014=Pohorky pána magie
 
 tagFeetD001=Pohorky z mláděte golema
 tagFeetD002=Chrániče nohou z šupin wyrma
-tagFeetD002Desc="Acquiring Wyrmscale is so dangerous few can manage to even afford a scrap, nevermind an actual piece of armor. These boots were likely a status symbol for a wealthy noble."
+tagFeetD002Desc="Získávání wyrmových šupin je tak nebezpečné, že se stěží poštěstí je dát na nějaký šrot, tím spíš na kus zbroje. Tyto boty byly pravděpodobně symbolem společenského postavení velmi bohatého šlechtice."
 tagFeetD003=Pohorky s jedovatými ostny
 tagFeetD003Desc="Z ostnů odkapává jed několika různých druhů pavouků a hadů."
 tagFeetD004=Opánky nicotného chodce
@@ -1532,8 +1532,8 @@ tagRingF012=Bouřný pečetní prsten Vyvoleného
 
 #Necklaces
 
-tagNecklaceA00=Salt Bag
-tagNecklaceA00Desc="A bag full of salt, seemingly to ward off evil spirits."
+tagNecklaceA00=Pytlík soli
+tagNecklaceA00Desc="Pytlík plný soli, zřejmě aby zaháněla zlé duchy."
 
 tagNecklaceA001=[ms]úctyhodný dráp
 tagNecklaceA002=[ms]stříbrný amulet
@@ -1615,7 +1615,7 @@ tagNecklaceD004=Výsostný rubín nadvlády
 tagNecklaceD005=Beronathovo jedinečné oko
 tagNecklaceD005Desc="Zakonzervované oko samotného antikrista Beronatha."
 tagNecklaceD006=Smaragd ze zběsilé hvězdy
-tagNecklaceD007=Esence ponurého úsvitu
+tagNecklaceD007=Esence Ponurého úsvitu
 tagNecklaceD007Desc="Fyzický projev utrpení a smrti, který byl svědkem začátku Ponurého úsvitu."
 tagNecklaceD008=Ametyst svázaný se smrtí
 tagNecklaceD009=Halakořin nebeský kámen
@@ -1633,8 +1633,8 @@ tagNecklaceD017=Vyvolávačův úlomek
 tagNecklaceD018=Dreegův černý drahokam
 tagNecklaceD019=Iskandřino zaostřovací sklíčko
 tagNecklaceD020=Ultosův klenot
-tagNecklaceD021=Markovian's Distinction
-tagNecklaceD022=Heart of Ulzuin
+tagNecklaceD021=Markovianova proslulost
+tagNecklaceD022=Ulzuinino srdce
 
 tagNecklaceF001=Tulákův strážní kámen
 tagNecklaceF002=Tulákova nevraživost
@@ -1696,7 +1696,7 @@ tagMedalC026=Stoupencova hvězda ctnosti
 tagMedalD001=Znak renegáta
 tagMedalD001Desc="Symbol kdysi vypalovaný kacířům, později nošen s pýchou uctívač čarodějnických bohů."
 tagMedalD002=Odznak mistrovství
-tagMedalD003=Pyroclasm Mark
+tagMedalD003=Pyroklazmatická značka
 tagMedalD004=Pečeť Medvědího krále
 tagMedalD004Desc="Pečeť krále Ursala Benedicta IV., také známého jako Medvědího krále."
 tagMedalD005=Krvavá pečeť Ch'Thona
@@ -1733,7 +1733,7 @@ tagBlueprint_RelicB004=Plánek: Relikvie - Ledovec
 tagBlueprint_RelicB005=Plánek: Relikvie - Větrná bouře
 tagBlueprint_RelicB006=Plánek: Relikvie - Peklo
 tagBlueprint_RelicB007=Plánek: Relikvie - Zkaženost
-tagBlueprint_RelicB008=Plánek: Relikvie - Svatostánek
+tagBlueprint_RelicB008=Plánek: Relikvie - Útočiště
 tagBlueprint_RelicB009=Plánek: Relikvie - Záludnost
 tagBlueprint_RelicB010=Plánek: Relikvie - Běsnění
 tagBlueprint_RelicB011=Plánek: Relikvie - Blátivý talisman
@@ -1854,23 +1854,23 @@ tagBlueprint_WeaponC004=Plánek: Věštba
 tagBlueprint_WeaponC005=Plánek: Záchvěv
 tagBlueprint_WeaponC006=Plánek: Hůlka kouzelného ohně
 tagBlueprint_WeaponC007=Plánek: Žezlo ohnivé bouře
-tagBlueprint_WeaponC008=Blueprint: Ulda'Jax
-tagBlueprint_WeaponC009=Blueprint: Empowered Spellfire Wand
-tagBlueprint_WeaponC010=Blueprint: Empowered Skyshard Spellblade
-tagBlueprint_WeaponC011=Blueprint: Empowered Malformed Effigy
-tagBlueprint_WeaponC012=Blueprint: Empowered Black Grimoire of Og'Napesh
+tagBlueprint_WeaponC008=Plánek: Ulda'Jax
+tagBlueprint_WeaponC009=Plánek: Mocná hůlka kouzelného ohně
+tagBlueprint_WeaponC010=Plánek: Mocná kouzelná čepel nebeského úlomku
+tagBlueprint_WeaponC011=Plánek: Mocná znetvořená podobizna
+tagBlueprint_WeaponC012=Plánek: Mocný černý grimoár Og'Napeshe
 
-tagBlueprint_WeaponD001=Blueprint: Arcanum Sigillis
-tagBlueprint_WeaponD002=Blueprint: Raka'Jax
-tagBlueprint_WeaponD003=Blueprint: Damnation
-tagBlueprint_WeaponD004=Blueprint: Herald of Blazing Ends
-tagBlueprint_WeaponD005=Blueprint: Beronath, Reforged
-tagBlueprint_WeaponD006=Blueprint: Leviathan
-tagBlueprint_WeaponD007=Blueprint: Olexra's Chill
-tagBlueprint_WeaponD008=Blueprint: Basilisk Claw
-tagBlueprint_WeaponD009=Blueprint: Siegebreaker
-tagBlueprint_WeaponD010=Blueprint: Eye of Dominion
-tagBlueprint_WeaponD011=Blueprint: Codex of Eternal Storms
+tagBlueprint_WeaponD001=Plánek: Pečetitel tajemství
+tagBlueprint_WeaponD002=Plánek: Raka'Jax
+tagBlueprint_WeaponD003=Plánek: Zatracení
+tagBlueprint_WeaponD004=Plánek: Zvěstovatel planoucích konců
+tagBlueprint_WeaponD005=Plánek: Beronath, znovu zkutý
+tagBlueprint_WeaponD006=Plánek: Livjátan
+tagBlueprint_WeaponD007=Plánek: Olexrařin chlad
+tagBlueprint_WeaponD008=Plánek: Baziliškův spár
+tagBlueprint_WeaponD009=Plánek: Proražeč
+tagBlueprint_WeaponD010=Plánek: Oko nadvlády
+tagBlueprint_WeaponD011=Plánek: Kodex věčných bouří
 
 tagBlueprint_WeaponF001=Plánek: Ďáblův kyj
 tagBlueprint_WeaponF002=Plánek: Mocný obránce Ďáblova průsmyku
@@ -1927,56 +1927,56 @@ tagBlueprint_ArmorC002=Plánek: Gardistův prsní plát
 tagBlueprint_ArmorC003=Plánek: Cestovatelova tunika
 tagBlueprint_ArmorC004=Plánek: Cestovatelovy kalhoty
 tagBlueprint_ArmorC005=Plánek: Zdobené skládané nárameníky
-tagBlueprint_ArmorC006=Blueprint: Cowl of the Blind Assassin
-tagBlueprint_ArmorC007=Blueprint: Unholy Visage of the Covenant
-tagBlueprint_ArmorC008=Blueprint: Flame Keeper's Jacket
-tagBlueprint_ArmorC009=Blueprint: Callidor's Vestments
-tagBlueprint_ArmorC010=Blueprint: Myrmidon Visor
-tagBlueprint_ArmorC011=Blueprint: Cowl of Mogdrogen
+tagBlueprint_ArmorC006=Plánek: Kápě slepého zabijáka
+tagBlueprint_ArmorC007=Plánek: Dohodnutý bezbožný vzhled
+tagBlueprint_ArmorC008=Plánek: Kabátec strážce ohně
+tagBlueprint_ArmorC009=Plánek: Callidorův háv
+tagBlueprint_ArmorC010=Plánek: Stoupencovo hledí
+tagBlueprint_ArmorC011=Plánek: Mogdrogenova kápě
 
-tagBlueprint_ArmorD001=Blueprint: Maw of Despair
-tagBlueprint_ArmorD002=Blueprint: Dread-Mask of Gurgoth
-tagBlueprint_ArmorD003=Blueprint: Whisperer of Secrets
-tagBlueprint_ArmorD004=Blueprint: Abyssal Mask
-tagBlueprint_ArmorD005=Blueprint: Circlet of the Great Serpent
-tagBlueprint_ArmorD006=Blueprint: Mask of Infernal Truth
-tagBlueprint_ArmorD007=Blueprint: Faceguard of Justice
-tagBlueprint_ArmorD008=Blueprint: Beastcaller's Cowl
-tagBlueprint_ArmorD009=Blueprint: Mask of the Harbinger
-tagBlueprint_ArmorD010=Blueprint: Demonslayer's Hat
-tagBlueprint_ArmorD011=Blueprint: Clairvoyant's Hat
-tagBlueprint_ArmorD012=Blueprint: Markovian's Visor
-tagBlueprint_ArmorD013=Blueprint: Ulzuin's Headguard
-tagBlueprint_ArmorD014=Blueprint: Hood of Dreeg
-tagBlueprint_ArmorD015=Blueprint: Deathmarked Hood
-tagBlueprint_ArmorD016=Blueprint: Iskandra's Circlet
-tagBlueprint_ArmorD017=Blueprint: Ultos' Hood
+tagBlueprint_ArmorD001=Plánek: Chřtán beznaděje
+tagBlueprint_ArmorD002=Plánek: Gurgothova hrůzná maska
+tagBlueprint_ArmorD003=Plánek: Šeptač tajemství
+tagBlueprint_ArmorD004=Plánek: Hlubinná maska
+tagBlueprint_ArmorD005=Plánek: Čelenka obřího hada
+tagBlueprint_ArmorD006=Plánek: Maska pekelné pravdy
+tagBlueprint_ArmorD007=Plánek: Chránič obličeje před spravedlností
+tagBlueprint_ArmorD008=Plánek: Kutna vyvolavače bestií
+tagBlueprint_ArmorD009=Plánek: Zvěstovatelova maska
+tagBlueprint_ArmorD010=Plánek: Kapalec zabijáka démonů
+tagBlueprint_ArmorD011=Plánek: Jasnovidcův kapalec
+tagBlueprint_ArmorD012=Plánek: Markovianovo hledí
+tagBlueprint_ArmorD013=Plánek: Ulzuinin chránič hlavy
+tagBlueprint_ArmorD014=Plánek: Dreegova kapuce
+tagBlueprint_ArmorD015=Plánek: Střelmistrova kapuce
+tagBlueprint_ArmorD016=Plánek: Iskandřina čelenka
+tagBlueprint_ArmorD017=Plánek: Ultosova kapuce
 
 
 tagBlueprint_AccessoryC001=Plánek: Maiveniny čočky
 tagBlueprint_AccessoryC002=Plánek: Vírný kámen
-tagBlueprint_AccessoryC003=Blueprint: Lapis Manticora
-tagBlueprint_AccessoryC004=Blueprint: Mark of Fierce Resolve
-tagBlueprint_AccessoryC005=Blueprint: Ruby of Elemental Balance
-tagBlueprint_AccessoryC006=Blueprint: Sapphire of Elemental Balance
-tagBlueprint_AccessoryC007=Blueprint: Empowered Plaguemancer's Amulet
-tagBlueprint_AccessoryC008=Blueprint: Empowered Essence of Beronath
-tagBlueprint_AccessoryC009=Blueprint: Empowered Tempest Sigil
-tagBlueprint_AccessoryC010=Blueprint: Blazethread Sash
-tagBlueprint_AccessoryC011=Blueprint: Equilibrium Sash
-tagBlueprint_AccessoryC012=Blueprint: Empowered Chthonian Thread Sash
+tagBlueprint_AccessoryC003=Plánek: Mantikoří lazurit
+tagBlueprint_AccessoryC004=Plánek: Znak prudkého odhodlání
+tagBlueprint_AccessoryC005=Plánek: Rubín živelné rovnováhy
+tagBlueprint_AccessoryC006=Plánek: Safír živelné rovnováhy
+tagBlueprint_AccessoryC007=Plánek: Mocný amulet rozsévače moru
+tagBlueprint_AccessoryC008=Plánek: Mocná Beronathova esence
+tagBlueprint_AccessoryC009=Plánek: Mocná pečeť bouře
+tagBlueprint_AccessoryC010=Plánek: Pelerína ze spalujících vláken
+tagBlueprint_AccessoryC011=Plánek: Pelerína rovnováhy
+tagBlueprint_AccessoryC012=Plánek: Mocná chthonská vláknitá pelerína
 
-tagBlueprint_AccessoryD001=Blueprint: Starfury Emerald
-tagBlueprint_AccessoryD002=Blueprint: Essence of the Grim Dawn
-tagBlueprint_AccessoryD003=Blueprint: Herald of the Apocalypse
-tagBlueprint_AccessoryD004=Blueprint: Pestilence of Dreeg
-tagBlueprint_AccessoryD005=Blueprint: Voidmancer's Cord
-tagBlueprint_AccessoryD006=Blueprint: Tinker's Ingenuity
-tagBlueprint_AccessoryD007=Blueprint: Reforged Chains of Oleron
-tagBlueprint_AccessoryD008=Blueprint: Ulzuin's Torment
-tagBlueprint_AccessoryD009=Blueprint: Spellbreaker Waistguard
-tagBlueprint_AccessoryD010=Blueprint: Badge of Mastery
-tagBlueprint_AccessoryD011=Blueprint: Mark of Divinity
+tagBlueprint_AccessoryD001=Plánek: Smaragd ze zběsilé hvězdy
+tagBlueprint_AccessoryD002=Plánek: Esence Ponurého úsvitu
+tagBlueprint_AccessoryD003=Plánek: Posel zhouby
+tagBlueprint_AccessoryD004=Plánek: Dreegova nákaza
+tagBlueprint_AccessoryD005=Plánek: Šnůra pohlcovače nicoty
+tagBlueprint_AccessoryD006=Plánek: Dráteníkův důvtip
+tagBlueprint_AccessoryD007=Plánek: Znovuzkutý Oleronův řetěz
+tagBlueprint_AccessoryD008=Plánek: Ulzuinina muka
+tagBlueprint_AccessoryD009=Plánek: Ochraný pás lamače kouzel
+tagBlueprint_AccessoryD010=Plánek: Odznak mistrovství
+tagBlueprint_AccessoryD011=Plánek: Božský znak
 
 tagBlueprint_MiscA01=Plánek: Univerzální klíč
 tagBlueprint_MiscA01Desc=Starověká kovářská technika známá jen několika vyvoleným.
@@ -2004,7 +2004,7 @@ tagRelicB006=Peklo
 tagRelicB006Desc="Obsahuje Ulzuininu pomstu."
 tagRelicB007=Zkaženost
 tagRelicB007Desc="Utrpení Cairnu jest najevo dáno."
-tagRelicB008=Svatostánek
+tagRelicB008=Ütočiště
 tagRelicB008Desc="Bezpečné útočiště v těchto těžkých dobách."
 tagRelicB009=Záludnost
 tagRelicB009Desc="Bystrost a důvtip nad hrubou silou a svaly."
@@ -2296,8 +2296,8 @@ tagConsumableF11Desc="Posvátný olej požehnaný samotným Kymonem, aby zapalov
 tagConsumableF12=Výtažek z Kymonova hněvu
 tagConsumableF12Desc="Roztříštěním lahvičky uvolníš kolem sebe Kymonův božský hněv."
 
-tagConsumable_DevotionReset=Tonic of Clarity
-tagConsumable_DevotionReset_Desc="Clears the mind and primes it for a new spiritual journey."
+tagConsumable_DevotionReset=Tonikum jasnozřivosti
+tagConsumable_DevotionReset_Desc="Očistí mysl a připraví ji na novou duchovní cestu."
 
 #DLC
 tagDLCA01=Iluze: Prachová paruka
@@ -3308,40 +3308,40 @@ tagBonusAttribPoint={%+d0} bodů atributů
 
 
 #Devotion
-tagDevotionReset=Use to Reset your Devotion Points
-tagDevotionNoPointsUsed={^r}[No Devotion Points to Reset]
-tagDevotionResetConfirmation=Reset all your Devotion Points?
+tagDevotionReset=Použij k vynulování svých bodů oddanosti
+tagDevotionNoPointsUsed={^r}[žádné body oddanosti k vynulování]
+tagDevotionResetConfirmation=Chceš vynulovat všechny body dovednosti?
 
 #ItemSets
 
 
 tagItemSetC001Name=Gardistovo roucho
-tagItemSetC001NameB=Peacekeeper's Raiment
+tagItemSetC001NameB=Mírotvůrcovo roucho
 tagItemSetC001Desc="Kdysi bylo běžným vybavením mírotvůrců a královských stráží. Ale pouze pár kousků této výbavy přečkalo Ponurý úsvit."
 
 tagItemSetC002Name=Cestovatelův oděv
-tagItemSetC002NameB=Explorer's Vestments
+tagItemSetC002NameB=Cestovatelův háv
 tagItemSetC002Desc="Lehká, ale odolná zbroj pro dychtivého cestovatele."
 
-tagItemSetC003Name=Maivenina svatyně
-tagItemSetC003NameB=Maiven's Sanctum
-tagItemSetC003Desc="Klenoty na počest legendární temné lady Maiven."
+tagItemSetC003Name=Maivenino útočiště
+tagItemSetC003NameB=Maivenina svatyně
+tagItemSetC003Desc="Vzácná zbroj na počest legendární temné lady Maiven."
 
 tagItemSetC004Name=Sláva krvavého žence
-tagItemSetC004NameB=Bloodreaper's Carnage
+tagItemSetC004NameB=Krveprolití krvavého žence
 tagItemSetC004Desc="Zbroj a zbraně používané jen těmi nejkrvelačnějšími zabijáky v Cairnu."
 
 tagItemSetC005Name=Záškodníkova spravedlnost
-tagItemSetC005NameB=Marauder's Judgement
+tagItemSetC005NameB=Záškodníkův rozsudek
 tagItemSetC005Desc="Soudce, porota a kat."
 
 tagItemSetC006Name=Heroldské klenoty
-tagItemSetC006NameB=Herald's Markings
+tagItemSetC006NameB=Heroldské značení
 tagItemSetC006Desc="Zbroj nošená císařskými heroldy při diplomatických misích."
 
-tagItemSetC007Name=The Apothecary
-tagItemSetC007NameB=The Soothsayer
-tagItemSetC007Desc="Regalia worn by medics and soothsayers dedicated to aiding those in need, designating them as healers with no diplomatic affiliation."
+tagItemSetC007Name=Lékárník
+tagItemSetC007NameB=Jasnovidec
+tagItemSetC007Desc="Vzácná zbroj nošená zdravotníky a jasnovidci, kteří pomáhali lidem v nouzi jako léčitelé bez nějaké diplomatické příslušnosti."
 
 tagItemSetC008Name=Vykoupení
 tagItemSetC008NameB=Rozhřešení
@@ -3360,7 +3360,7 @@ tagItemSetC012Name=Královská nevázanost
 tagItemSetC012Desc="Královská sbírka korunovačních klenotů, o které se myslelo, že se ztratila během plenění za Ponurého úsvitu."
 
 tagItemSetC013Name=Zrádce
-tagItemSetC013NameB=Oathbreaker's Flame
+tagItemSetC013NameB=Zrádcův plamen
 tagItemSetC013Desc="Výbava nošená Zrádcem - rytířem, který oklamal svého krále tím, že otevřel městské brány nepříteli."
 
 tagItemSetC014Name=Ozdoby udatnosti
@@ -3383,14 +3383,14 @@ tagItemSetC019NameB=Smrtící nepříjemnost
 tagItemSetC019Desc="Klenoty nošené Dreegovými Vyvolenými."
 
 tagItemSetC020Name=Síra
-tagItemSetC020NameB=Everburning Brimstone
+tagItemSetC020NameB=Věčně hořící síra
 tagItemSetC020Desc="Zbraň a zbroj nošená Ulzuinovými oddanými."
 
 tagItemSetC021Name=Orientální zástava
 tagItemSetC021Desc="Róba nošená ctěnými kněžími z cizích zemí za velkými moři."
 
-tagItemSetC022Name=Volání divočiny
-tagItemSetC022NameB=Wildcaller's Call
+tagItemSetC022Name=Divochovo volání
+tagItemSetC022NameB=Volání divočiny
 tagItemSetC022Desc="Ozdoby Divochů, šamanů naslouchajících hlasům přírody."
 
 tagItemSetC023Name=Pretorián
@@ -3767,7 +3767,7 @@ tagSuffixB006_Ar_A=$Oleronova trestu
 tagSuffixB007_Ar_A=$Natuřiny úrody
 tagSuffixB008_Ar_A=$Albrechtovy pozornosti
 tagSuffixB009_Ar_A=$Gildamského tajemství
-tagSuffixB010_Ar_A=of Hungering Rifts
+tagSuffixB010_Ar_A=hladovějící trhliny
 tagSuffixB011_Ar_A=lesa
 tagSuffixB012_Ar_A=ostří
 tagSuffixB013_Ar_A=hrdinství
@@ -3966,8 +3966,8 @@ tagBarnDoor=Vrata
 tagCageDoor=Vrata cely
 tagTrollDoor=Zlobří brána
 
-tagBreakableStoneWall=Crumbling Wall
-tagBreakableNaturalWall=Loose Earth
+tagBreakableStoneWall=Drolící se zeď
+tagBreakableNaturalWall=Kyprá zemina
 
 #Dungeon Doors
 
@@ -3989,7 +3989,7 @@ tagDoorLocked= {^R} ~ zamčeno
 
 tagDoorOneWay01=Útěk na povrch
 tagDoorLever01=Ovládání portcullisu
-tagTorchLever01=Loose Torch
+tagTorchLever01=Uvolněná pochodeň
 
 #Doors
 
@@ -4001,7 +4001,7 @@ tagEpicDoor_StepsOfTormentLocked= {^R} ~ Zapečetěno starodávnou silou
 tagLocked= {^R} ~ zamčeno
 tagBlocked= {^R} ~ zborcená jeskyně v cestě
 tagLocked_BlackLegion= {^R} ~ zapečetěno Černou legií
-tagLocked_Cult= {^R} ~ Sealed by the Cult of Ch'thon
+tagLocked_Cult= {^R} ~ zapečetěno kultem Ch'thona
 tagUGDoorDermapteranQueen=Vstup do vosího hnízda
 tagUGDoorDermapteranQueenLocked= {^R} ~ střeženo Velkými vezíry
 tagDoorRampart=Zabarikádované dveře
@@ -4009,9 +4009,9 @@ tagDoorWarden=Železné dveře
 tagDoorFarmland=Dřevěná brána
 tagDoorLab=Zesílené dveře
 tagDoorStone=Kamenné dveře
-tagLocked_Kymon= {^R} ~ střeženo Otcem Kymonem
-tagLocked_Necro= {^R} ~ střeženo Řádem Strážců smrti
-tagLocked_Outcast= {^R} ~ střeženo Anasterií
+tagLocked_Kymon= {^R} ~ zapečetěno Otcem Kymonem
+tagLocked_Necro= {^R} ~ zapečetěno Řádem Strážců smrti
+tagLocked_Outcast= {^R} ~ zapečetěno Anasterií
 
 #Quest Rewards
 
