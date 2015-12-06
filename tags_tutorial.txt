@@ -125,7 +125,7 @@ tagTutorialTip35TextB=Svého spojence můžeš kdykoliv propustit pravým kliknu
 tagTutorialTip35TextC=Můžeš si uspořádat všechny své spojence k útoku nebo pohybu k nepříteli pomocí příkazu {^Y}Útok spojenců{^w}. K přiřazení této dovednosti klikni pravým tlačítkem na místo v panelu rychlých voleb nebo na pravé tlačítko myši a vyber si jej z dostupné nabídky.
 
 tagTutorialTip36Title=Přerozdělení dovedností
-tagTutorialTip36TextA=Průvodci duchovnem ti umožňují odebrat přidělené body dovedností. Kliknutím na ikonku dovednosti u Průvodce se odebere jeden bod dovednosti. Čím více bodů odebereš, tím se zvyšuje cena dalšího odebraného bodu.
+tagTutorialTip36TextA=Kaplani ti umožňují odebrat přidělené body dovedností. Kliknutím na ikonku dovednosti u Kaplana se odebere jeden bod dovednosti. Čím více bodů odebereš, tím více se zvyšuje cena dalšího odebraného bodu.
 tagTutorialTip36TextB=Nemůžeš odebrat body vložené do úrovně svého povolání. Navíc nemůžeš odebrat ani poslední bod dovednosti, která má přidělené body v některé přídavné vlastnosti.
 
 tagTutorialTip37Title=Okno pašeráka
