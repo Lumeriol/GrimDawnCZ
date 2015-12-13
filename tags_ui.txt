@@ -736,7 +736,7 @@ tagCharStatsAetherAbsDmgInfo=Zranění Aetherem způsobené zásahem a odvozené
 tagCharStatsAetherPercentDmg=Bonus k Aetheru
 tagCharStatsAetherPercentDmgInfo=Procentuální bonus ke všem Aetherickým zraněním způsobeným útokem a kouzly, bez bonusů za duchovno.
 
-tagCharStatsChaosAbsDmg=Chaosem
+tagCharStatsChaosAbsDmg=Chaos
 tagCharStatsChaosAbsDmgInfo=Zranění chaosem způsobené zásahem a odvozeného od síly zbraně včetně bonusů.
 tagCharStatsChaosPercentDmg=Bonus k chaosu
 tagCharStatsChaosPercentDmgInfo=Procentuální bonus ke všem chaotickým zraněním způsobenými útokem a kouzly, bez bonusů za duchovno.
@@ -771,7 +771,7 @@ tagCharStatsPoisonDurationInfo=Procentuální bonus k době trvání otravy. Zra
 
 tagCharStatsVitalityDecayAbsDmg=Uhnívání
 tagCharStatsVitalityDecayAbsDmgInfo=Zranění uhníváním za jednu sekundu, trvající po dobu 3 sekund, způsobené jedním zásahem a odvozeného od síly zbraně včetně bonusů.
-tagCharStatsVitalityDecayPercentDmg=Bonud k uhnívání
+tagCharStatsVitalityDecayPercentDmg=Bonus k uhnívání
 tagCharStatsVitalityDecayPercentDmgInfo=Procentuální bonus ke všem zraněním uhníváním způsobenými útokem a kouzly, bez bonusů za duchovno.
 tagCharStatsVitalityDecayDuration=Účinkování uhnívání
 tagCharStatsVitalityDecayDurationInfo=Procentuální bonus k době trvání uhnívání. Zranění za sekundu není ovlivněno.
@@ -1206,15 +1206,15 @@ tagInfoButtonOk=OK
 tagGameOver=Jsi mrtvý!
 
 SimpleStringFormat={%s0}
-SimpleStringsFormat={%s0} {%s1}
-TripleStringFormat={%s0} {%s2} {%s1}
+SimpleStringsFormat={%s1} {%s0}
+TripleStringFormat={%s2} {%s1} {%s0}
 SkillBaseNamesFormat={    %s0}
-CostFormat=Cost: {%d0}
-ManaDisplayFormat=Magická energie  {%d0} / {%d1} ({%d2} rezervováno)
-LifeDisplayFormat=Zdraví  {%d0} / {%d1}
-ExperienceDisplayFormat=Současné zkušenosti: {^y}{%d0}{^w}  ~  Zkušenosti na další úroveň: {^y}{%d1}
+CostFormat=Cena: {%d0}
+ManaDisplayFormat=Magická energie: {%d0} / {%d1} ({%d2} rezervováno)
+LifeDisplayFormat=Zdraví: {%d0} / {%d1}
+ExperienceDisplayFormat=Současné zkušenosti: {^y}{%d0}{^w} ~ Zkušenosti na další úroveň: {^y}{%d1}
 
-tagExpDisplayFormat=Současné zkušenosti: {^y}{%t0}{^w}  ~  Zkušenosti do další úrovně: {^y}{%t1}
+tagExpDisplayFormat=Současné zkušenosti: {^y}{%t0}{^w} ~ Zkušenosti do další úrovně: {^y}{%t1}
 
 tagCharAttribute01={%+.0f0} {^E}rafinovanost
 tagCharAttribute02={%+.0f0} {^E}fyzická kondice
@@ -1435,8 +1435,8 @@ LevelRequirement=Úroveň hráče
 ShieldBlockAbsorption={%.0f0}% utlumení
 ShieldBlockRecoveryTime={%.2f0} sekund na obnovu vykrytí
 MeetsRequirement=Požadavek ~ {%s0}: {%.0f1}
-MeetsRequirementWithReduction=Požadavek ~ {%s0}: {%.0f1} [ {^r%.0f2 ^y- %.0f3}% snížení]
-FailsRequirementWithReduction={^r}Požadavek ~ {%s0: %.0f1} [ {%.0f2 ^y- %.0f3}% snížení]
+MeetsRequirementWithReduction=Požadavek ~ {%s0}: {%.0f1} [{^r%.0f2 ^y- %.0f3}% snížení{^g}]
+FailsRequirementWithReduction={^r}Požadavek ~ {%s0: %.0f1} [{%.0f2 ^y- %.0f3}% snížení]
 FailsRequirement={^r}Požadavek ~ {%s0: %.0f1}
 SkillIntFormat={%d0 %s1}
 SkillFloatFormat={%.0f0 %s1}
