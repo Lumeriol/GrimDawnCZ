@@ -500,7 +500,7 @@ tagClass05SkillDescription03B=Led zachycený v Úlomcích nebe se uvolní v okam
 tagClass05SkillName03C=Roztříštěná hvězda
 tagClass05SkillDescription03C=Úlomky nebe se při pádu stávají čím dál více nestabilními a ke konci velmi nebezpečně nabitými.
 
-tagClass05SkillName04A=Callidorova Smršť
+tagClass05SkillName04A=Callidorova smršť
 tagClass05SkillDescription04A=Mistr Callidor věhlasně sloužil jako generál armády krále Samuela. Když byl v prvních liniích, Callidor si osvojil techniku, která díky vytvoření náhlého a koncentrovaného výbuchu čisté Aetherické energie zapálila vzduch a roznítila kolem něj tajemnou bouři.
 tagClass05SkillName04B=Inferno
 tagClass05SkillDescription04B=Ze Smrště se stává zuřící inferno, jež pálí maso a taví brnění.
