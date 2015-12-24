@@ -124,7 +124,7 @@ tagRiftRottedCroplands=Brána v Hnijících polích
 tagRiftRottedHarvest=Brána na Hrůzných pastvinách
 tagRiftSorrowsBastion=Brána v Baště zármutku
 tagRiftBloodGrove=Brána v Krvavém háji
-tagRiftDarkvale=Brána v Darkvale
+tagRiftDarkvale=Brána u Brány do Darkvale
 tagRiftAlpineGate=Brána v Asterkarnském pohoří
 tagRiftAlpineRoad=Brána na Asterkarnské stezce
 tagRiftAlpineValley=Brána v Asterkarnském údolí
@@ -410,6 +410,7 @@ tagNotification_WardenCellarFound=Tohle musí být Wardenovo sklepení...
 tagNotification_WardenLabFound=Laboratoř. Warden musí být někde poblíž...
 tagNotification_LostApprenticeCellar=Někdo tady nedávno byl...
 tagNotification_LostApprenticeFound=Někde tady bude Kasparova učednice!
+tagNotification_WightmireRiftgate=Brána je obklopena slithy!
 
 tagNotification_HS_RemoveTheHead_ElsaFound=Zdá se, že Cronley nemá Elsu...
 tagNotification_HS_SpoilsOfTheGrimDawn=Prohledal jsi starou zříceninu.
@@ -428,11 +429,15 @@ tagNotification_AreaC_TrappedAndAloneReturn=V táboře Tuláků řádí chthonic
 tagNotification_AreaD_KymonSecret=Slyšíš z nedaleka přicházející skřípot otevíraných kamenných dveří.
 tagNotification_AreaD_NecropolisRiftgate=Ďáblové Prázdnoty vylézají z Brány!
 tagNotification_AreaD_FortIkonRiftgate=Brána se hemží Aetherijskými bojovníky.
+tagNotification_AreaD_FinalCryptLocked=Krypta je zapečetěna kultistickými pečetěmi, které jsou ještě umocněny nedalekými vozy krve.
+tagNotification_AreaD_FinalBossUlgrim=Brány Prázdnoty se rozevřeny kolem podél celého sálu a požraly Ulgrima!
 
 tagNotification_WarningToughArea=Na tomhle místě se nachází mnohem mocnější síly, než jsi schopen porazit...
 tagNotification_WarningRiftgateDisabled=Tvé spojení s Bránou se zdá být v tomhle místě nemožné...
 tagNotification_WarningGatesOfAnguish=Brány utrpení byly otevřeny. Ale pospěš si, protože nezůstanou otevřeny dlouho...
 tagNotification_WarningGatesOfAnguishLocked=Brány utrpení jsou uzavřeny a do konce této herní relace se již neotevřou.
+tagNotification_WarningBastionGates=Brány Bašty se otevřely. Ale pospěš si, protože nezůstanou otevřeny dlouho...
+tagNotification_WarningBastionGatesLocked=Brány Bašty jsou zapečetěny a do konce této herní relace se již neotevřou.
 
 #NPC Names
 
@@ -524,7 +529,7 @@ tagNPC_AreaC_23=Strážce duší Kaandris
 tagNPC_AreaC_24=
 tagNPC_AreaC_25=
 
-tagNPC_AreaD_01=Bojová čarodějka Moira
+tagNPC_AreaD_01=Lamačka kouzel Moira
 tagNPC_AreaD_02=Kapitán Reave
 tagNPC_AreaD_03=Edric ~ mistr zbraní
 tagNPC_AreaD_04=Anasteria
@@ -540,7 +545,7 @@ tagNPC_OldGroveBridge=Staveniště mostu do Starého háje
 tagNPC_HomesteadBridge=Staveniště mostu do Dvojspádů
 tagNPC_WightmireBridge=Staveniště mostu do Wightmire
 tagNPC_BurrwitchBridge=Staveniště mostu do Burrwitch
-
+tagNPC_NecropolisBridge=Staveniště mostu do Pohřebiště
 
 tagNPC_JosephClaxton=Joseph Claxton
 tagNPC_MariaFletcher=Maria Fletcher
@@ -645,9 +650,6 @@ tagQuestItemSlithNecklace=Náhrdelník slithů
 tagQuestItemSlithNecklaceDesc="Nošen šamany slithů z důvodu známého pouze jim samotným."
 tagQuestItemFabric=Látka
 tagQuestItemFabricDesc="Trochu opotřebovaná a špinavá, ale jinak v dobrém stavu."
-
-tagQuestItemSaltMineKey_Name=Klíč do Zapomenutých hlubin
-tagQuestItemSaltMineKey_Text="Klíč k železným dveřím oddělujících Zapomenuté hlubiny od zbytku Corriganova dolu."
 
 tagQuestItemForgottenPassage=Zapomenutý průchod
 tagQuestItemForgottenPassage_Desc="Roztříštěná mapa z historie Staré Arkovie. Nerozluštitelná bez zbývajících částí."
@@ -936,7 +938,7 @@ tagLoreObj_TrappedAndAloneName=Elařin deníček
 tagLoreObj_TrappedAndAloneText=Zase jsem měla noční můru. Jsem ve staré hrobce, světlo svíčky stěží dokáže osvětlit cestu. V jednom koutě vidím pár rudě žhnoucích očí. Jdou ke mně blíž... a blíž... a pak těsně před tím, než mohu něco udělat, tvor zmizí někde ve stínech.{^n}{^n}Zkouším běžet, ale každá cesta je zasypána sutí a kamením. Není odsud úniku. Otáčím se kolem dokola, abych znovu spatřila ty oči, které na mě zezadu zírají. Slyším smích. Dětský smích. A pak všechno hoří. Zkouším křičet, ale nevychází ze mě ani hláska. Oči na mne jenom zírají, zatímco se zmítám v plamenech.{^n}{^n}V tu chvíli se probouzím úplně propocená. Už se mi to zdá pátou noc za sebou. Noční můry jsou čím dál častější a nejsem si jista, zda ještě nějakou další vydržím. Asi to není nejrozumnější, ale asi je nejvyšší čas opustit tohle nešťastné místo.
 
 tagLoreObj_AreaCThornsburyDiary_Name=Výňatek z Dailina deníku
-tagLoreObj_AreaCThornsburyDiary_Text=Oliver už nechce abych dál psala. Tvrdí mi, že si pouze vymýšlím a sním, ačkoliv je tady kolem farmy plno práce. Takže píšu jen v noci když spí. Nemůže zastavit myšlenky, které naplňují mé srdce.{^n}{^n}Proutek vrby, pro Dailu Thornsbury{^n}{^n}Větvičky vrby rytmicky poklepávaly do okna ložnice. Na obzoru se vytvořil další blesk, ale Daila se nemohla zbavit pocitu, že to nebude jen přeháňka. Posadila se na posteli a věnovala krátký pohled na svého manžela Olivera. Stále tvrdě spal. Snad ani hurikán by tohohle chlapa neprobudil ze spánku.{^n}{^n}Daila opatrně vstala, aby neshodila přikrývku z manžela. Po špičkách došla ke své šatní skříni a vytáhla nějakou výbavu: dobře padnoucí lehkou koženou zbroj a svůj důvěrný meč, Srdce bouře. Čepel zajiskřila jak vytahovala meč z pochvy. Očarování bylo stále stejně silné jako v den, kdy jej našla v hrobce severně od Bašty zármutku. Daila zasunula čepel a připnula pochvu k opasku. Než se vydala ke dveřím, věnovala ještě letmý pohled na Olivera. Bylo dobře, že o jejích malých nočních toulkách nic nevěděl. Měl dost svých starostí se svým zdravím a Daila mu nechtěla ještě přidělávat další problémy ohledně jejího bezpečí.{^n}{^n}Jakmile vyšla ze dveří, vítr šlehal Dahlii vlasy do tváře. Déšť pomalu ustával, země byla rozmáčená a z cest se staly rozblácené stružky. Daila našlapovala opatrně, hledala vhodné kameny a aspoň trochu pevnou půdu. Konečně došla ke smuteční vrbě, kde jí okamžitě opustil hluboký pocit hrůzy.{^n}{^n}"Vím že jsi mne šla ven pozdravit, má drahá Dailo," ozval se skřípavý hlas zpoza stromu. Daila tasila Srdce bouře, jeho jiskřivý povrch měnil dešťové kapky v mlhu. Temná postava se vyjevila a v klidu šla k ní. Neviděla mu do tváře, ale dobře věděla, o koho jde. "Pojď sem, cožpak nepozdravíš svého brášku?" Muž znovu promluvil. Zato Daila neřekla ani slovo. Nechala za sebe promluvit svůj meč. Postava odrazila její meč svým vlastním, ohnivým mečem, který zanechával s každým úderem plamenné kruhy ve vzduchu. "Vidím, že jsi trénovala," řekl muž s úsměvem na rtech.{^n}{^n}Hrom zaburácel na obloze v okamžiku, kdy z nebe sjel blesk, krátce osvětlující celou scénu. Záblesk bouřky odhalil tvář Dailina protivníka, děsivou a těžce znetvořenou tvář jejího mrtvého bratra. "Dravisi," procedila Daila mezi zuby. A přistoupila k dalšímu útoku...
+tagLoreObj_AreaCThornsburyDiary_Text=Oliver už nechce, abych dál psala. Tvrdí mi, že si pouze vymýšlím a sním, ačkoliv je tady kolem farmy plno práce. Takže píšu jen v noci když spí. Nemůže zastavit myšlenky, které naplňují mé srdce.{^n}{^n}Proutek vrby, pro Dailu Thornsbury{^n}{^n}Větvičky vrby rytmicky poklepávaly do okna ložnice. Na obzoru se vytvořil další blesk, ale Daila se nemohla zbavit pocitu, že to nebude jen přeháňka. Posadila se na posteli a věnovala krátký pohled na svého manžela Olivera. Stále tvrdě spal. Snad ani hurikán by tohohle chlapa neprobudil ze spánku.{^n}{^n}Daila opatrně vstala, aby neshodila přikrývku z manžela. Po špičkách došla ke své šatní skříni a vytáhla nějakou výbavu: dobře padnoucí lehkou koženou zbroj a svůj důvěrný meč, Srdce bouře. Čepel zajiskřila jak vytahovala meč z pochvy. Očarování bylo stále stejně silné jako v den, kdy jej našla v hrobce severně od Darkvale. Daila zasunula čepel a připnula pochvu k opasku. Než se vydala ke dveřím, věnovala ještě letmý pohled na Olivera. Bylo dobře, že o jejích malých nočních toulkách nic nevěděl. Měl dost svých starostí se svým zdravím a Daila mu nechtěla ještě přidělávat další problémy ohledně jejího bezpečí.{^n}{^n}Jakmile vyšla ze dveří, vítr šlehal Dahlii vlasy do tváře. Déšť pomalu ustával, země byla rozmáčená a z cest se staly rozblácené stružky. Daila našlapovala opatrně, hledala vhodné kameny a aspoň trochu pevnou půdu. Konečně došla ke smuteční vrbě, kde jí okamžitě opustil hluboký pocit hrůzy.{^n}{^n}"Vím že jsi mne šla ven pozdravit, má drahá Dailo," ozval se skřípavý hlas zpoza stromu. Daila tasila Srdce bouře, jeho jiskřivý povrch měnil dešťové kapky v mlhu. Temná postava se vyjevila a v klidu šla k ní. Neviděla mu do tváře, ale dobře věděla, o koho jde. "Pojď sem, cožpak nepozdravíš svého brášku?" Muž znovu promluvil. Zato Daila neřekla ani slovo. Nechala za sebe promluvit svůj meč. Postava odrazila její meč svým vlastním, ohnivým mečem, který zanechával s každým úderem plamenné kruhy ve vzduchu. "Vidím, že jsi trénovala," řekl muž s úsměvem na rtech.{^n}{^n}Hrom zaburácel na obloze v okamžiku, kdy z nebe sjel blesk, krátce osvětlující celou scénu. Záblesk bouřky odhalil tvář Dailina protivníka, děsivou a těžce znetvořenou tvář jejího mrtvého bratra. "Dravisi," procedila Daila mezi zuby. A přistoupila k dalšímu útoku...
 
 tagLoreObj_AreaCFarmer_NoteA01Name=Walterova poznámka
 tagLoreObj_AreaCFarmer_NoteA01Text=Vidím kouř stoupající z Everbrookova statku. Jsou téměř tady, ať je to kdokoliv. Zabarikádoval jsem dveře a okna jak nejlíp jsem mohl. Zbývá jediné. Čekat, až si pro nás přijdou.{^n}{^n}Manželka trvala na tom, abychom opustili farmu a zamířili do Homesteadu, ale do hajzlu přece nenechám nějaký zelenooký příšery, aby nás vykopali z naší země. Naše rodina nedřela na týhle farmě po celý generace jenom proto, aby odešla při prvních známkách problémů. Ti zbabělci v Homesteadu si klidně můžou nechat jejich úrodu shnít. Ale až tohle všechno skončí, já si sklidím svoji úrodu a oni budou čumět jak blázni.
@@ -1113,13 +1115,16 @@ tagStoreTitle_MerchantB04=Dodavatel Řádu
 tagNPC_MerchantC01=Marris Kas
 tagStoreTitle_MerchantC01=Kramář
 
+tagNPC_MerchantC02=Karros Adal
+tagStoreTitle_MerchantC02=Proklaté předměty
+
 tagNPC_MerchantT01=Kárník
 tagStoreTitle_MerchantT01=Toulavý obchodník
 
 tagNPC_SmugglerA01=Carlile
 tagStoreTitle_SmugglerA01=Pašerák
 
-tagNPC_SmugglerA02=Harry
+tagNPC_SmugglerA02=Hannah
 tagStoreTitle_SmugglerA02=Pašerák
 
 tagNPC_SmugglerA03=Ogvald
@@ -1154,7 +1159,7 @@ tagStoreDesc_SmithA03_3=
 tagStoreDesc_SmithA03_4=Vyrobené zbraně, zbroj a příslušenství jsou prodchnuty jednou z následujících vlastností:
 
 tagNPC_SmithA04=Horrus
-tagStoreTitle_SmithA04=Padlý kovář
+tagStoreTitle_SmithA04=Prokletý kovář
 tagStoreDesc_SmithA04_1={}Dar neživota
 tagStoreDesc_SmithA04_2=Horrus je obdarován staletými kovářskými znalostmi, jež jsou posíleny jeho poněkud jedinečným... stavem existence.
 tagStoreDesc_SmithA04_3=
@@ -1188,7 +1193,7 @@ tagStoreTitle_FactionQuartermaster_06=Kustod s artefakty
 tagNPC_FactionQuartermaster_07=Kustod Poruuk
 tagStoreTitle_FactionQuartermaster_07=Kustod s artefakty
 
-tagNPC_FactionQuartermaster_08=Thorney
+tagNPC_FactionQuartermaster_08=Thalia
 tagStoreTitle_FactionQuartermaster_08=Forman
 tagNPC_FactionQuartermaster_09=Klines
 
@@ -1203,3 +1208,34 @@ tagNPC_FactionTable_04=Vývěska Černé legie
 tagNPC_FactionTable_05=Vývěska Kymonových Vyvolených
 tagNPC_FactionTable_06=Vývěska Řádu Strážců smrti
 tagNPC_FactionTable_07=Vyvrhelčin stůl
+
+#Devotion Shrines
+tagDevotionShrineA01=Pohřební vrch
+tagDevotionShrineA02=Mlhavé pobřeží
+tagDevotionShrineA03=Burrwitchské předměstí
+tagDevotionShrineA04=Zatopený průchod
+tagDevotionShrineA05=Burrwitch
+tagDevotionShrineA06=Ďáblův kolektor
+tagDevotionShrineA07=Wardenova laboratoř
+tagDevotionShrineA08=Východní močály
+tagDevotionShrineB01=Arkovianské podhůří
+tagDevotionShrineB02=Stará Arkovia
+tagDevotionShrineB03=Podzemní město
+tagDevotionShrineB04=Cronleyovo doupě
+tagDevotionShrineB05=Sesuté kopce
+tagDevotionShrineB06=Stará Arkovia
+tagDevotionShrineB07=Stupně bolesti
+tagDevotionShrineC01=Horské hlubiny
+tagDevotionShrineC02=Rozeklaná pustina
+tagDevotionShrineC03=Tyranova država
+tagDevotionShrineC04=Zapomenuté hlubiny
+tagDevotionShrineC05=Zamořené farmy
+tagDevotionShrineC06=Vesnice Darkvale
+tagDevotionShrineC07=Bašta Chaosu
+tagDevotionShrineC08=Krvavý háj
+tagDevotionShrineD01=Horské údolí
+tagDevotionShrineD02=Hrobka Zatraceného
+tagDevotionShrineD03=Pohřebiště
+tagDevotionShrineD04=Černý hrob
+tagDevotionShrineD05=???
+tagDevotionShrineMogdrogen=Mogdrogenův oltář

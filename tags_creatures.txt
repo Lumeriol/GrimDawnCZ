@@ -126,6 +126,7 @@ tagChthonianMinionHeroH07=Sharanatu ~ chráněnec
 tagEnemyChthonianDreadguardA01=Chthonský předvoj
 tagEnemyChthonianDreadguardB01=Chthonský smrtonoš
 tagEnemyChthonianDreadguardC01=Chthonský tyran
+tagEnemyChthonianDreadguardD01=Loghorreanův předvoj
 
 tagChthonianDreadguardHeroH01=Shar'Oruuth
 tagChthonianDreadguardHeroH02=Wen'Kazul Hladové ostří
@@ -148,6 +149,8 @@ tagChthonianBoss02=Shar'Zul, posel chaosu
 tagChthonianBoss03=Bane'Gargoroth, strážce bran
 tagChthonianBoss04=Balok'Anatu, krvavý démon
 tagChthonianBoss05=Galar'Bargok, černý ďábel
+tagChthonianBoss06=Harak'Bargoth, strážce Bašty
+tagChthonianBoss07=Zal'Naroth, strážce Bašty
 
 #CreatureChthonianFiend
 
@@ -443,6 +446,7 @@ tagHumanPossessedHeroH03=Kamladris "Zmrzlé srdce"
 tagHumanPossessedHeroH04=Corpusia ~ zrcadlící
 tagHumanPossessedHeroH05=Espiria ~ pomocník
 
+tagHumanPossessedHeroH06=Noční mág Loxmere
 tagHumanPossessedBoss01=Noveria "Bouřný oheň"
 tagHumanPossessedBoss02=Archivář Thelon
 tagHumanPossessedBoss03=Usterius Avelone
@@ -959,6 +963,7 @@ tagPetManticoreA01=Duch minulosti
 tagPetWindDevilA01=Větrný dáběl
 tagPetTotemA01=Totem Wendiga
 tagPetTotemA02=Totem bouřky
+tagPetTotemA02B=Totem zkaženosti
 tagPetBlackScourge=Černá pohroma
 tagPetGazeOfDreeg=Dreegův pohled
 tagPetEyeOfGuardian=Oko Strážce
@@ -987,9 +992,11 @@ tagItemGuardianA02=Bezohledný strážce
 tagItemAncestorA01=Rodový duch
 tagItemRevenantA01=Duch Og'Napeshe
 tagItemPrawnA01=Zkázonosný kreverak
+tagItemYetiA01=Mrazohřívný skálodrtič
 tagRelicStormhound=Bouřný pes
 tagRelicNemesis=Mstitel
 tagRelicSwarm=Poblázněný roj
+
 
 tagDLCWisp=Bludička
 
@@ -1004,6 +1011,11 @@ tagEnemySummonRaven=Krkavec
 tagEnemySummonAetherTrap=Aetherická past
 tagEnemySummonIceCrystal=Ledový krystal
 tagEnemySummonTentacle=Zkroucené chapadlo
+tagEnemySummonVoid=Entropická Prázdnota
+
+tagEnemyMogdrogenBoar=Mogdrogenův ledošpičák
+tagEnemyMogdrogenRat=Mogdrogenova bezpáteřní krysa
+tagEnemyMogdrogenHorror=Mogdrogenův trnošípek
 
 #Boss&Quest
 
@@ -1018,6 +1030,9 @@ tagBossOutcast01=Anasteria, Aetherianská zlodějka
 tagBossOutcast02=Anasteria, Aetherická pomsta
 tagBossOutcast03=Anasteria, Aetherický hněv
 tagBossLoghorrean01=Loghorrean "Hlas Ch'thona"
+tagBossLoghorreanTentacle01=Loghorreanovo chapadlo
+tagBossLoghorreanTentacle02=Loghorreanovo chapadlo
+tagBossLoghorreanTentacleCluster=Chuchvalec chapadel
 
 #Nemesis
 tagNemesis_Aetherial01=Valdaran, bouřná pohroma

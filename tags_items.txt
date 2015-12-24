@@ -74,6 +74,8 @@ tagWeaponSwordD007Desc="Při pohledu na tento nůž pociťuješ vlastní smrteln
 tagWeaponSwordD008=Ortus
 tagWeaponSwordD008Desc="Pouhý pohled na tuto čepel tě naplňuje nadějí."
 tagWeaponSwordD009=Smrtonosný dráp
+tagWeaponSwordD010=Srdce bouří
+tagWeaponSwordD010Desc="Do rukojeti jsou vyleptaná dvě písmena: D.T."
 
 tagWeaponSwordF001=Legionářský kráječ
 tagWeaponSwordF002=Ostří Vyvoleného
@@ -398,6 +400,7 @@ tagWeaponMelee2hC015Desc="Velké kladivo templářského bratra Bernarda Melling
 tagWeaponMelee2hC016=Šampion světla
 tagWeaponMelee2hC017=Divochův stínač hlav
 tagWeaponMelee2hC018=Shar'Zulova výheň
+tagWeaponMelee2hC018B=Shar'Zulův spalovač
 tagWeaponMelee2hC018Desc="Plameny v Shar'Zulově válečné palici se neustále rozdmýchávají."
 tagWeaponMelee2hC019=Zlostný smutek
 tagWeaponMelee2hC020=Kuchač zlobřích střev
@@ -573,7 +576,7 @@ tagShieldC008=Lichova stráž
 tagShieldC009=Záštita úlomku světla
 tagShieldC009Desc="Kovaná z nejčistšího úlomku soladrinského křišťálu."
 tagShieldC010=Templářova důvěra
-tagShieldC011=Štít vykoupení
+tagShieldC011=Štít záhuby
 tagShieldC012=Zrádcův chránič
 tagShieldC013=Elementum
 tagShieldC013Desc="Ukovaný tajemnými kováři k usměrnění surových elementárních sil."
@@ -825,6 +828,7 @@ tagLegend=legendární kvality
 
 tagStyleUniqueTier2=mocný předmět
 tagStyleUniqueTier3=bájný předmět
+tagStyleFactionTier2=elitní předmět
 
 tagSoulbound=Předmět svázaný s duší
 tagDestroySoulbound=Zničit předmět svázaný s tvou duší?
@@ -899,7 +903,7 @@ tagHeadC014Desc="Vyjmuta z kůže starodávného Trnitého děsu."
 tagHeadC015=Čelenka přadleny duší
 tagHeadC016=Vyvrhelova kapuce
 tagHeadC017=Maska herolda
-tagHeadC018=Spásný chránič obličeje
+tagHeadC018=Zhoubný chránič obličeje
 tagHeadC019=Kápě slepého zabijáka
 tagHeadC020=Ostrostřelcovo skleněné oko
 tagHeadC021=Dohodnutý bezbožný vzhled
@@ -935,6 +939,8 @@ tagHeadD014=Dreegova kapuce
 tagHeadD015=Střelmistrova kapuce
 tagHeadD016=Iskandřina čelenka
 tagHeadD017=Ultosova kapuce
+tagHeadD018=Koruna Zimního krále
+tagheadD018Desc="Koruna krále Hrothnara, vládce severních držav a syn velkého bílého vlka."
 
 tagHeadF001=Vyvrhelova kapuce
 tagHeadF001Desc="Nemůžeš si pomoci, ale máš dojem, že ta maska vejrá na tebe."
@@ -987,7 +993,7 @@ tagShoulderC007=Epolety lekavého střelmistra
 tagShoulderC008=Zdobené skládané nárameníky
 tagShoulderC009=Mecenášovy tkané nárameníky
 tagShoulderC009Desc="Nárameníky z peří velkého havrana, propůjčené čarodějnickým bohem Bysmielem jeho smrtelným následovníkům."
-tagShoulderC010=Vykoupené chrániče ramen
+tagShoulderC010=Zhoubné chrániče ramen
 tagShoulderC011=Ostrostřelcovo krytí
 tagShoulderC012=Bezbožné tkané nárameníky Závazku
 tagShoulderC013=Ideální chrániče ramen
@@ -1103,7 +1109,7 @@ tagTorsoC015=Drátěná košile z pavoučích vláken
 tagTorsoC016=Oděv nepopsatelného vyvolávání
 tagTorsoC016Desc="Chthonské róby jsou nošeny pouze vybranými členy krvelačného kultu."
 tagTorsoC017=Heroldův kabátec
-tagTorsoC018=Vykoupený hrudní chránič
+tagTorsoC018=Zhoubný hrudní chránič
 tagTorsoC019=Neviditelný kabátec slepého zabijáka
 tagTorsoC020=Ostrostřelcův kabát
 tagTorsoC021=Plát budoucího strážce
@@ -1143,6 +1149,7 @@ tagTorsoD015=Dreegův háv
 tagTorsoD016=Střelmistrův kabátec
 tagTorsoD017=Iskandřin háv
 tagTorsoD018=Ultosův kyrys
+tagTorsoD019=Děsivě mrazivý kyrys
 
 tagTorsoF001=Vyvrhelův spalující háv
 tagTorsoF002=Vyvrhelův mrazivý háv
@@ -1286,7 +1293,7 @@ tagHandsC011=Hedvábně jemné rukavičky
 tagHandsC011Desc="Zateplené ve stínech, abyste v temnotách byli neporazitelní."
 tagHandsC012=Zvěstovatelovy prstové rukavice
 tagHandsC013=Lékárníkův dotek
-tagHandsC014=Vykoupené chrániče rukou
+tagHandsC014=Zhoubné chrániče rukou
 tagHandsC015=Rytířské rukavice budoucího strážce
 tagHandsC016=Rozžhavené chrániče rukou
 tagHandsC017=Pohotové rukavice
@@ -1635,6 +1642,7 @@ tagNecklaceD019=Iskandřino zaostřovací sklíčko
 tagNecklaceD020=Ultosův klenot
 tagNecklaceD021=Markovianova proslulost
 tagNecklaceD022=Ulzuinino srdce
+tagNecklaceD023=Srdce Hory
 
 tagNecklaceF001=Tulákův strážní kámen
 tagNecklaceF002=Tulákova nevraživost
@@ -1951,6 +1959,7 @@ tagBlueprint_ArmorD014=Plánek: Dreegova kapuce
 tagBlueprint_ArmorD015=Plánek: Střelmistrova kapuce
 tagBlueprint_ArmorD016=Plánek: Iskandřina čelenka
 tagBlueprint_ArmorD017=Plánek: Ultosova kapuce
+tagBlueprint_ArmorD018=Plánek: Koruna Zimního krále
 
 
 tagBlueprint_AccessoryC001=Plánek: Maiveniny čočky
@@ -2139,6 +2148,7 @@ tagCraftComponentDesc=Zkušenosti v kovářské technice mohou přinést materi�
 tagCraftComponentRareDesc=Mimořádná kovářská technika se nejspíš na věky vytratila.
 tagCraftShardBeronathDesc=Přemění ocel v úlomek svatého Beronatha.
 tagCraftRelicDesc=Starodávná kovářská technika ztracená dávno před Ponurým úsvitem.
+tagCraftTransmuteDesc=Pomocí žáru výhně a trochy alchymie mohou být vzácné materiály přeměněny na jiné, stejně vzácné výtvory.
 
 tagCraftRandomAxe=Očarovaná sekyra
 tagCraftRandomBlunt=Očarovaná palice
@@ -2221,8 +2231,6 @@ tagConsumableBlueprintA19=Recept: Gel z mateří kašičky
 tagConsumableBlueprintA19Desc="Tajemství léčitelských způsobů tuláků."
 tagConsumableBlueprintA20=Recept: Mast z mateří kašičky
 tagConsumableBlueprintA20Desc="Tajemství léčitelských způsobů tuláků."
-tagConsumableBlueprintA21=Recept: Nebeská zhouba
-tagConsumableBlueprintA21Desc="Elixír polobohů, kteří chrání smrtelníky před božskou odplatou."
 
 tagConsumable_RoyalJellyBalm=Balzám z mateří kašičky
 tagConsumable_RoyalJellyBalmDesc="Uklidňující odvar z koncentrované mateří kašičky."
@@ -2266,8 +2274,8 @@ tagConsumableA19=Gel z mateří kašičky
 tagConsumableA19Desc="Uklidňující odvar z koncentrované mateří kašičky."
 tagConsumableA20=Mast z mateří kašičky
 tagConsumableA20Desc="Uklidňující odvar z koncentrované mateří kašičky."
-tagConsumableA21=Nebeská zhouba
-tagConsumableA21Desc="Elixír polobohů, kteří chrání smrtelníky před božskou odplatou."
+tagConsumableA21=
+tagConsumableA21Desc=
 tagConsumableA22=Svazek Aetherů
 tagConsumableA22Desc="Velký svazek Aetherických krystalů, z nichž se ozývvá podivná energie."
 
@@ -2940,7 +2948,7 @@ tagCompA002Name=Balistické plátování
 tagCompA002Desc="Části staré zbroje navržené tak, aby odolaly šípům, šipkám a střelám."^w^n(může vylepšit hrudní zbroje)
 
 tagCompA003Name=Světská kost
-tagCompA003Desc="Očištěné kosti palatýna zabitého v čestném souboji."^w^n(může vylepšit hrudní zbroje)
+tagCompA003Desc="Očištěné kosti palatýna zabitého v čestném souboji."^w^n(může vylepšit hrudní zbroje a ochranu hlavy)
 
 tagCompA004Name=Kožená useň
 tagCompA004Desc="Tlustá kůže s drsným povrchem, ideální pro vstřebání náhlých otřesů."^w^n(může vylepšit ochranu hlavy)
@@ -2955,7 +2963,7 @@ tagCompA007Name=Shnilé srdce
 tagCompA007Desc="Dávno utišené srdce, svraštělé nějakou nekromantickou mocí."^w^n(může vylepšit hrudní zbroje)
 
 tagCompA008Name=Zmutované šupiny
-tagCompA008Desc="Neobvykle silné a těžké šupiny, zmutované působením Aetherické energie."^w^n(může vylepšit hrudní zbroje a nárameníky)
+tagCompA008Desc="Neobvykle silné a těžké šupiny, zmutované působením Aetherické energie."^w^n(může vylepšit nárameníky, hrudní zbroje, ochranu nohou a rukou)
 
 tagCompA009Name=Prach z mrtvoly
 tagCompA009Desc="Prach získaný z ostatků zemřelého, často využívaný pro čarování a kouzlení."^w^n(může vylepšit prsteny, amulety a medaile)
@@ -3294,6 +3302,7 @@ tagPotionDirections=[použít pravým tlačítkem myši]
 tagCombineStacks=[přidržením klávesy Ctrl a kliknutím rozdělíš štosovaný předmět]
 
 # Bonuses
+tagBonusLifePercentAbsPercent={^E}Obnovuje {^H}{%.0f0}%+{%.0f1} {^E}zdraví {^H}+{%.0f2}% {^E}v průběhu času
 tagBonusLifePercentPercent={^E}Obnovuje {^H}{%.0f0}% {^E}zdraví {^H}+{%.0f1}% {^E}v průběhu času
 tagBonusLifePercentAbs={^E}Obnovuje {^H}{%.0f0}% + {%.0f1} {^E}zdraví
 tagBonusLifePercent={^E}Obnovuje {^H}{%.0f0}% {^E}zdraví
@@ -3308,7 +3317,7 @@ tagBonusAttribPoint={%+d0} bodů atributů
 
 
 #Devotion
-tagDevotionReset=Použij k vynulování svých bodů oddanosti
+tagDevotionReset={^E}Použij k vynulování svých bodů oddanosti
 tagDevotionNoPointsUsed={^r}[žádné body oddanosti k vynulování]
 tagDevotionResetConfirmation=Chceš vynulovat všechny body dovednosti?
 
@@ -3343,9 +3352,9 @@ tagItemSetC007Name=Lékárník
 tagItemSetC007NameB=Jasnovidec
 tagItemSetC007Desc="Vzácná zbroj nošená zdravotníky a jasnovidci, kteří pomáhali lidem v nouzi jako léčitelé bez nějaké diplomatické příslušnosti."
 
-tagItemSetC008Name=Vykoupení
+tagItemSetC008Name=Zhouba
 tagItemSetC008NameB=Rozhřešení
-tagItemSetC008Desc="Zbroj, jež musel nosit templář Randall Grayweather na své celoživotní pouti, aby se oprostil od svého selhání, když porušil posvátné sliby a pojal ženu za svou manželku."
+tagItemSetC008Desc="Zbroj inkvizitora Grayweathera, nechvalně známého tím, že stříkal na své nepřátele kyselinu, protože věřil, že potírání zla je nedostatečné a tento trest je mnohem způsobnější."
 
 tagItemSetC009Name=Nevidoucí oko
 tagItemSetC009Desc="Slepý zabiják Thaddeus Brannagan si vydobil svou pověst na slunci, když zavraždil templářského Velmistra za denního světla."
@@ -3553,7 +3562,7 @@ tagPrefixB011_WpnMelee1h_A=[ms]tajuplný[fs]tajuplná[ns]tajuplné[mp]tajuplné[
 tagPrefixB012_WpnMelee1h_A=[ms]z nebe spadlý[fs]z nebe spadlá[ns]z nebe spadlé[mp]z nebe spadlé[fp]z nebe spadlé[np]z nebe spadlé
 tagPrefixB013_WpnMelee1h_A=[ms]z mrazu zkutý[fs]z mrazu zkutá[ns]z mrazu zkuté[mp]z mrazu zkuté[fp]z mrazu zkuté[np]z mrazu zkuté
 tagPrefixB014_WpnMelee1h_A=[ms]se zemí svázaný[fs]se zemí svázaná[ns]se zemí svázané[mp]se zemí svázané[fp]se zemí svázané[np]se zemí svázané
-tagPrefixB015_WpnMelee1h_A=ze srdce bouře
+tagPrefixB015_WpnMelee1h_A=[ms]bouří nabitý[fs]bouří nabitá[ns]bouří nabité[mp]bouří nabité[fp]bouří nabité[np]bouří nabité
 tagPrefixB016_WpnMelee1h_A=pekelného ohně
 tagPrefixB017_WpnMelee1h_A=[ms]pokřivený[fs]pokřivená[ns]pokřivené[mp]pokřivené[fp]pokřivené[np]pokřivené
 tagPrefixB018_WpnMelee1h_A=z jedovatého tesáku
@@ -3639,7 +3648,7 @@ tagPrefixB015_Sh_A=[ms]leptavý[fs]leptavá[ns]leptavé[mp]leptavé[fp]leptavé[
 tagPrefixB016_Sh_A=z kamenné kůže
 tagPrefixB017_Sh_A=[ms]tajuplný[fs]tajuplná[ns]tajuplné[mp]tajuplné[fp]tajuplné[np]tajuplné
 tagPrefixB018_Sh_A=[ms]pekelný[fs]pekelná[ns]pekelné[mp]pekelné[fp]pekelné[np]pekelné
-tagPrefixB019_Sh_A=z nitra bouře
+tagPrefixB019_Sh_A=[ms]bouří nabitý[fs]bouří nabitá[ns]bouří nabité[mp]bouří nabité[fp]bouří nabité[np]bouří nabité
 tagPrefixB020_Sh_A=[ms]zjihlý[fs]zjihlá[ns]zjihlé[mp]zjihlé[fp]zjihlé[np]zjihlé
 tagPrefixB021_Sh_A=[ms]démonický[fs]démonická[ns]démonické[mp]démonické[fp]démonické[np]démonické
 tagPrefixB022_Sh_A=Aetherického ohně
@@ -3810,8 +3819,20 @@ tagSuffixB050_Ar_A=$Solaelovy potměšilosti
 tagSuffixB051_Ar_A=$Oleronova hněvu
 tagSuffixB052_Ar_A=přírodní hojnosti
 tagSuffixB053_Ar_A=zničení
-tagSuffixB054_Ar_A=$Amarastiny sněhové přeháňky
+tagSuffixB054_Ar_A=$Amarastanovy sněhové přeháňky
 tagSuffixB055_Ar_A=padlých nebes
+tagSuffixB056_Ar_A=tajemných křídel
+tagSuffixB057_Ar_A=opeřence
+tagSuffixB058_Ar_A=kamenného kroku
+tagSuffixB059_Ar_A=tančících stínů
+tagSuffixB060_Ar_A=plazí odolnosti
+tagSuffixB061_Ar_A=tajemných křídel
+tagSuffixB062_Ar_A=rychlých reflexů
+tagSuffixB063_Ar_A=$Amarastanova horlivost
+tagSuffixB064_Ar_A=ctěné stráže
+tagSuffixB065_Ar_A=tajemných myšlenek
+tagSuffixB066_Ar_A=$Aetherických bouří
+tagSuffixB067_Ar_A=temného úmyslu
 
 tagSuffixB001_Sh_A=pevnosti
 tagSuffixB002_Sh_A=statečnosti
@@ -3921,6 +3942,7 @@ tagChestHeroD05=Nádherná truhla
 tagChestHeroD06=Mimořádná truhlice
 tagChestHeroD07=Shluk obsidiánů
 tagChestHeroD08=Obsidiánový poklad
+tagChestHeroD09=Obsidianové bohatství
 tagChestNemesis01=Poklad božského hrdiny
 
 tagBreakableA01=Sud
@@ -3947,6 +3969,7 @@ tagChestLockedQuest= {^R} ~ Uzamčeno úkolem
 
 tagChestBossOneShot_Warden=Wardenova truhla
 tagChestBossOneShot_Darius=Dariova truhla
+tagChestBossOneShot_Loghorrean=Loghorreanova zkaženost
 tagChestOneShot_Sacrifice=Isaacova skrýš
 tagChestOneShot_Generic01=Vznešená skrýš
 tagChestOneShot_Generic02=Vznešená skrýš
@@ -3997,7 +4020,8 @@ tagCellDoor=Posuvné dveře
 tagPrisonEntranceDoor=Burrwitchská vězeňská brána
 tagMineDoor=Důlní dveře
 tagEpicDoor_StepsOfTorment=Brány Utrpení
-tagEpicDoor_StepsOfTormentLocked= {^R} ~ Zapečetěno starodávnou silou
+tagEpicDoor_BastionOfChais=Brány Bašty
+tagEpicDoor_StepsOfTormentLocked= {^R} ~ Zapečetěno starodávnou silou (vyžaduje univerzální klíč)
 tagLocked= {^R} ~ zamčeno
 tagBlocked= {^R} ~ zborcená jeskyně v cestě
 tagLocked_BlackLegion= {^R} ~ zapečetěno Černou legií
@@ -4012,6 +4036,7 @@ tagDoorStone=Kamenné dveře
 tagLocked_Kymon= {^R} ~ zapečetěno Otcem Kymonem
 tagLocked_Necro= {^R} ~ zapečetěno Řádem Strážců smrti
 tagLocked_Outcast= {^R} ~ zapečetěno Anasterií
+tagLocked_BoCGauntlet= {^R} ~ zapečetěno Strážci
 
 #Quest Rewards
 
@@ -4020,3 +4045,21 @@ tagQuestItemBrothersAmuletDesc="Pro mého drahého bratra: Nechť ti tento amule
 
 tagQuestItemSlithRing=Slithův prvotní prsten
 tagQuestItemSlithRingDesc="Zápach po prstenu přetrvává a zdá se, že jen tak nevyčichne."
+
+#Equipment Locations
+
+tagSlotLeftHand= (levá ruka)
+tagSlotRightHand= (pravá ruka)
+tagSlotHead= (hlava)
+tagSlotNeck= (krk)
+tagSlotRing1= (prsten 1)
+tagSlotRing2= (prsten 2)
+tagSlotChest= (hruď)
+tagSlotLegs= (nohy)
+tagSlotShoulders= (nárameníky)
+tagSlotHands= (ruce)
+tagSlotFeet= (chodidla)
+tagSlotWaist= (pas)
+tagSlotRelic= (relikvie)
+tagSlotMedal= (medaile)
+tagSlotUnknown= (neznámé)
