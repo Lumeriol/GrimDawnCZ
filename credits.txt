@@ -1,33 +1,34 @@
 <h1>Tým Crate Entertainment
 
 <h2>Programování
-<h5>Paul Bryant - Vedoucí programátor
-<h5>Brian Stephens - Senior programátor
-<h5>Paul Chieffo - Senior programátor
-<h5>Jakub Proszowski - Programátor
+<h5>Paul Bryant - vedoucí programátor
+<h5>Brian Stephens - senior programátor
+<h5>Paul Chieffo - senior programátor
+<h5>Jakub Proszowski - programátor
 
 <h2>Výtvarná část
-<h5>Ben Soderstrom - Hlavní výtvarník
-<h5>Jim Dobbler - Výtvarník
+<h5>Ben Soderstrom - hlavní výtvarník
+<h5>Jim Dobbler - výtvarník
 
 <h2>Animace
-<h5>Christophe Marchal - Senior technický animátor
+<h5>Christophe Marchal - senior technický animátor
 
 <h2>Grafický návrh
-<h5>Arthur Bruno - Hlavní grafický návrhář
-<h5>Kamil Marczewski - Grafický návrhář
+<h5>Arthur Bruno - hlavní grafický návrhář
+<h5>Kamil Marczewski - grafický návrhář
+<h5>Eric Sexton - grafický návrhář
 
 <h1>Krotitelé zvuků
 
-<h5>Dan Crislip - Hlavní zvukař
-<h5>Steve Pardo - Skladatel
-<h5>Christopher Wilson - Zvukový návrhář
+<h5>Dan Crislip - hlavní zvukař
+<h5>Steve Pardo - skladatel
+<h5>Christopher Wilson - zvukový návrhář
 
 <h1>Další členové týmu
 
-<h5>Jonathan Mack - Senior animátor
+<h5>Jonathan Mack - senior animátor
 <h5>Brian Parnell - výtvarník
-<h5>Mike Handverger - Senior programátor
+<h5>Mike Handverger - senior programátor
 <h5>Jesse Comb - návrhář
 
 <h1>Zvláštní poděkování
@@ -58,35 +59,42 @@
 <h5>Matthew Farmery
 <h5>Jon "Jaknet" Kent
 <h5>Powbam
+<h5>Nine
 
-<h1>A Special Thanks to the Community Translators
+<h1>Zvláštní poděkování komunitním překladatelům
 
-<h2>Czech Translation
+<h2>Bulharština
+<h2>Адмирал АнимЕ
+
+<h2>Čeština
 <h5>Lukáš "Lumeriol" Rajchl
 <h5>Miroslav "Iks" Kopecký
 
-<h2>Dutch Translation
+<h2>Holandština
 <h5>Sjoerd "fishbone" Groen
 
-<h2>French Translation
+<h2>Francouzština
 <h5>Alexandre "all_zebest" Mangin
 <h5>Philippe "pendragon64" Reybaud
 <h5>Yann "Rougecorne" Verryken
 
-<h2>German Translation
+<h2>Němčina
 <h5>FOE
 <h5>Firewind
 <h5>Skyhaster
 
-<h2>Greek Translation
+<h2>Řečtina
 <h5>randomspawn
 
-<h2>Portuguese Translation
+<h2>Japonština
+<h5>"Matougi The BlueBamboo"
+
+<h2>Portugalština
 <h5>MagoIlusionista
 <h5>Tyzual
 <h5>Tigre
 
-<h2>Russian Translation
+<h2>Ruština
 <h5>Andrey "@lk0z@uru$" Chertkov
 <h5>Denis "mad_enis" Maslov
 <h5>Usov Aleksey
@@ -94,7 +102,7 @@
 <h5>"Slayer Moon"
 <h5>Sergey "kapxapot" Atroshchenko
 
-<h2>Spanish Translation
+<h2>Španělština
 <h5>chewrafa
 <h5>cloudsefi
 <h5>Oscar "darkpadawan" Rodríguez

@@ -147,12 +147,13 @@ tagTutorialTip39TextB=Odstranění komponent z předmětů stojí poplatek úmě
 tagTutorialTip39SubtitleB=Odstraňování vylepšení
 tagTutorialTip39TextC=Pokud budeš chtít odstranit pouze vylepšení, předmět i komponenta zůstanou nedotčeny.{^N}{^N}Pokud odstraníš vylepšení svázané s tvou duší, a příslušný předmět vázaný nebyl, zůstane předmět i nadále nevázaný.{^N}{^N}
 
+
 tagTutorialTip42Title=Kovář
 tagTutorialTip42TextA=Kovář je schopný vytvářet předmět mocnou silou. Je to už zkušený řemeslník a všechno co vyrobí, obsahuje malý kovářský bonus. Kovářovy znalosti mohou být prohloubeny pomocí nových plánků.
 tagTutorialTip42SubtitleA=Plánky
 tagTutorialTip42TextB=Kovář se naučí, jak vyrábět nové předměty, jakmile najdeš nový plánek. Plánky mohou být získány z úkolů, nebo je lze najít různě po světě.
 tagTutorialTip42SubtitleB=Vytváření předmětů
-tagTutorialTip42TextC=Chceš-li vytvořit předmět, nejprve si vyber recept ze seznamu. Pak umísti požadované předměty do určených prostorů v rozhraní pro vytváření předmětů, nebo použij klávesu Shift + kliknutí na předmět ve svém inventáři.{^N}{^N}Jakmile jsou všechny požadované materiály na svých pozicích, stiskni tlačítko Zkombinovat, aby byl předmět vytvořen.{^N}{^N}
+tagTutorialTip42TextC=Chceš-li vytvořit předmět, nejprve si vyber recept ze seznamu. Předměty pak budou automaticky umístěny do určených prostorů v rozhraní pro vytváření předmětů, vybrány z osobní i sdílené úschovy, inventáře a nebo z předmětů a to přesně v tomto pořadí.{^N}{^N}Pokud vlastníš všechny požadované materiály, stiskni tlačítko Zkombinovat, aby byl předmět vytvořen.{^N}{^N}
 
 tagTutorialTip43Title=Plánky
 tagTutorialTip43TextA=Plánky jsou zapomenuté šablony pro vytváření mocných předmětů, které může kovář zkoumat.
@@ -214,7 +215,7 @@ tagTutorialTip57TextA=Jsi poblíž svatyně oddanosti. Návštěvami svatyní z�
 tagTutorialTip58Title=Navštívení svatyně
 tagTutorialTip58TextA=Svatyně oddanosti jsou prastaré pozůstatky dávno zaniklé říše, pomníky věnované různým bohům a nebeským symbolům.{^N}{^N}Svatyně musí být buď vyčištěny poražením všelijakých uvězněných existencí, nebo obnoveny obětováním vzácných materiálů. Požadavky mohou být v každé svatyni jiné.
 tagTutorialTip58SubtitleA=Obnovení svatyně
-tagTutorialTip58TextB=K obnovení rozbořené svatyně umísti požadované materiály do okna svatyně a nebo stiskni klávesu Shift a klikni na předmět ve svém inventáři.{^N}{^N}Jakmile jsou všechny požadované materiály umístěny, stiskni pro obnovení svatyně tlačítko Obětovat.
+tagTutorialTip58TextB=K obnovení rozbořené svatyně musíš mít požadované materiály v osobní nebo sdílené úschově, inventáři nebo na předmětu, který máš na sobě. Požadovaný předmět se vyhledává přesně v tomto pořadí.{^N}{^N} Pokud vlastníš všechny požadované předměty, stiskni pro obnovení svatyně tlačítko Obětovat.
 
 tagTutorialTip59Title=Body oddanosti
 tagTutorialTip59TextA=Navštívil jsi svou první svatyni a získal bod oddanosti. Body oddanosti můžeš spravovat v {^y}Okně oddanosti{^w}, které můžeš naleznout i v {^y}Okně dovedností{^w}.
@@ -231,6 +232,6 @@ tagTutorialTip60TextD=Jasně modré hvězdy ti napovídají, kam můžeš vloži
 tagTutorialTip60TextE=Kruhové hvězdy označují místa nebeské moci, které můžeš odemknout k posílení svých primárních dovedností o nové efekty.{^N}{^N}
 
 tagTutorialTip61Title=Nebeská moc
-tagTutorialTip61TextA=Nebeské síly jsou automaticky aktivované schopnosti, které mohou být přiděleny ke tvým primárním dovednostem odemčených v povolání nebo na předmětech.{^N}{^N}Nebeské síly přiřazené ke tvým dovednostem budou získávat zkušenosti z bojů a úkolů, čímž zvýší svou úroveň a nabudou na síle.
-tagTutorialTip61SubtitleA=Přiřazení primární dovednosti
+tagTutorialTip61TextA=Nebeské síly jsou automaticky aktivované schopnosti, které mohou být přiděleny ke tvým primárním dovednostem odemčených v povolání nebo na předmětech.{^N}{^N}Nebeské síly přiřazené ke tvým dovednostem budou získávat zkušenosti z bojů a úkolů, čímž zvýší svou úroveň a nabudou na síle. Pokud přiřadíš dovednosti svého spojence, poroste její úroveň se zraněními způsobenými spojencem.
+tagTutorialTip61SubtitleA=Přiřazení primární dovednosti.
 tagTutorialTip61TextB=Pro přiřazení Nebeské moci musíš nejprve nějakou odemknout v {^y}Okně oddanosti{^w} a poté zvolíš vhodnou primární dovednost ze seznamu. Samozřejmě můžeš nebeskou moc kdykoliv přeřadit k jiné dovednosti bez jakéhokoliv postihu. Pokud odejmeš nebeskou moc nebo ji vyměníš za jinou, veškeré zkušenosti a úrovně jí zůstanou zachovány.
