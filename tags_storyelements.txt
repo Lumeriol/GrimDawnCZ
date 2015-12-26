@@ -92,7 +92,7 @@ tagMapAlpineFort=Pevnost Ikon
 tagMapFortIkon=Pevnost Ikon
 tagMapPlainsofStrife=Pláně sváru
 tagMapNecropolisGate=Brány Pohřebiště
-tagMapNecropolisInterior=Vnitřní Pohřebiště
+tagMapNecropolisInterior=Vnitřní pohřebiště
 
 #Riftgate Names
 
@@ -131,7 +131,7 @@ tagRiftAlpineValley=Brána v Asterkarnském údolí
 tagRiftAlpineFort=Brána v Pevnosti Ikon
 tagRiftPlaintsofStrife=Brána na Pláních sváru
 tagRiftNecropolisGate=Brána v Branách Pohřebiště
-tagRiftNecropolisInterior=Brána ve Vnějším Pohřebišti
+tagRiftNecropolisInterior=Brána ve Vnitřním pohřebišti
 
 tagRiftRandom01=Chthonská Brána
 

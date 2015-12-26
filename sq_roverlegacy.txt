@@ -1,7 +1,7 @@
 Stará Arkovia
 Odkaz Rhowari
 Oprav oltář
-Daleko na severu v Asterkarnských horách, kult Ch'thona znesvětil Mogdrogenovu svatyni, která je posvátným místem Tuláků. Amkala tě poprosila, abys zpět[[ms]získal[fs]získala] části oltáře, které byly odcizeny kultisty a [[ms]obnovil[fs]obnovila] oltář tak, že vrátíš tyto části společně se Starověkým srdcem právě do této svatyně. Kousky jsou ztraceny v Prázdnotě, do které se lze dostat trhlinami v Krvavém háji na sever od Homesteadu a trhlinou v Pláních sváru na sever od pevnosti Ikon.
+Daleko na severu, v Asterkarnských horách, kult Ch'thona znesvětil Mogdrogenovu svatyni, která je posvátným místem Tuláků. Amkala tě poprosila, abys zpět[[ms]získal[fs]získala] části oltáře, které byly odcizeny kultisty a [[ms]obnovil[fs]obnovila] oltář tak, že vrátíš tyto části společně se Starověkým srdcem právě do této svatyně. Kousky jsou ztraceny v Prázdnotě, do které se lze dostat trhlinami v Krvavém háji na sever od Homesteadu a trhlinou v Pláních sváru na sever od pevnosti Ikon.
 
 
 Najdi Mogdrogenův Runový kámen
@@ -13,14 +13,15 @@ Obnov Mogdrogenův oltář
 
 
 Poraž Ch'thoniany
-[[ms]Obnovil[fs]Obnovila] jsi Mogdrogenův oltář, ale Ch'thoniané zamořující tuto oblast se nyní objevují. Všechny je znič.
+[[ms]Obnovil[fs]Obnovila] jsi Mogdrogenův oltář, ale teď se objevují Ch'thoniané zamořující tuto oblast. Všechny je znič.
 
 Znič Ch'thonovy splozence
 
 
-Turn-in
+Vrať se
 [[ms]Očistil[fs]Očistila] jsi Mogdrogenovu svatyni. Mogdrogenův avatar vystoupil z oltáře, aby ti poděkoval za tvé služby. Promluv si s ním.
 Promluv si s Mogdrogenovým avatarem
+
 
 
 

@@ -25,7 +25,7 @@ tagReputationBonus=Bonus k přízni
 tagRepAwarded=Získáno +{%d0} přízně za frakci {%s1}
 tagLoreBonus=Bonus za přečtení
 
-tagLevelUp=Postup o úroveň
+tagLevelUp=Nová úroveň
 tagLevelReached=Byla dosažena {^y}{%d0}. úroveň
 
 #Devotion
