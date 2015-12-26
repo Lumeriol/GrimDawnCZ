@@ -217,14 +217,14 @@ tagEnemyFleshHulkBoss01=Venarius, lamač zad
 tagEnemyGazerA01=Záškodník
 tagEnemyGazerB01=Hlídač
 tagEnemyGazerC01=Lovec myšlenek
-tagEnemyGazerD01=Mindrager
+tagEnemyGazerD01=Vzteklý myslitel
 
 tagGazerHeroH01=Mesmer
 tagGazerHeroH02=Bane'Zal, v pekle zrozený
 tagGazerHeroH03=Darlax, požírač snů
 tagGazerHeroH04=Beholdan ~ zrcadlící
 tagGazerHeroH05=Garminix ~ oživovač
-tagGazerHeroH06=Illumin ~ elektrizovaný
+tagGazerHeroH06=Illumin ~ elektrizující
 
 #CreatureGhost
 
@@ -1023,7 +1023,7 @@ tagQuestEnemyReanimator=Kyzogg Oživovatel
 tagQuestEnemyMiltonHart=Milton Hart
 tagQuestEnemyBanditForge=Kovárna banditů
 tagQuestChthonianMonstrosity=Thall'Nosh Rozparovač
-tagQuestBloodWagon=Vůz krve
+tagQuestBloodWagon=Povoz krve
 
 tagBossTheWarden01=Warden Krieg
 tagBossOutcast01=Anasteria, Aetherianská zlodějka

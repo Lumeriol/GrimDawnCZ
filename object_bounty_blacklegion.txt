@@ -2,71 +2,44 @@ Výzvy Černé legie
 Vracíš se s ukořistěnými materiály, výzva byla splněna.
 Ohlas se.
 
+Odstup kousek od vývěsky.
+Vracíš se s ukořistěnými materiály, výzva byla splněna.
+Ohlas se.
 
 Odstup kousek od vývěsky.
 Vracíš se s ukořistěnými materiály, výzva byla splněna.
 Ohlas se.
 
-
 Odstup kousek od vývěsky.
 Vracíš se s ukořistěnými materiály, výzva byla splněna.
 Ohlas se.
 
-
 Odstup kousek od vývěsky.
 Vracíš se s ukořistěnými materiály, výzva byla splněna.
 Ohlas se.
-
-
-Odstup kousek od vývěsky.
-Vracíš se s ukořistěnými materiály, výzva byla splněna.
-Ohlas se.
-
 
 Odstup kousek od vývěsky.
 Výzva byla splněna a ty se vítězoslavně vracíš zpět.
 Ohlas se.
 
-
 Odstup kousek od vývěsky.
 Výzva od Černé legie už byla přijata.
 Odstup kousek od vývěsky.
-Černá legie stále hledá muže a ženy, kteří by jim pomáhali při obtížných misích.{^n}{^n}Se svou přízní máš nyní možnost pustit se do některých nebezpečných úkolů.
-Podívej se na výzvy.
-Všechno co po tobě Legie chtěla, už je splněné. Zkus to příště.
-Odstup kousek od vývěsky.
-Podívej se na výzvy.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Odstup kousek od vývěsky.
 Černá legie stále hledá muže a ženy, kteří by jim pomáhali při obtížných misích.
 Podívej se na výzvy.
-Všechno co po tobě Legie chtěla, už je splněné. Zkus to příště.
+Všechno, co po tobě Legie chtěla, už je splněné. Zkus to příště.
 Odstup kousek od vývěsky.
 Podívej se na výzvy.
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -98,7 +71,7 @@ Přijmout výzvu.
 Odstup od vývěsky.
 Další úkol.
 
-Legie hledá někoho, kdo se zúčastní lovu příšery.{^n}{^n}Krvošípek, známý jako Ol' Krvošípek, už nějakou dobu uniká našim lovcům. Jeho doupě je snad ukryto někde ve Stinné vodní nádrži.{^n}{^n}Jakákoliv pomoc bude odměněna železnými mincemi.
+Legie hledá někoho, kdo se zúčastní lovu příšery.{^n}{^n}Krvošípek, známý jako Staroch Krvošípek, už nějakou dobu uniká našim lovcům. Jeho doupě je snad ukryto někde ve Stinné vodní nádrži.{^n}{^n}Jakákoliv pomoc bude odměněna železnými mincemi.
 Přijmout výzvu.
 Odstup od vývěsky.
 Další úkol.
@@ -193,7 +166,7 @@ Přijmout výzvu.
 Odstup od vývěsky.
 Další úkol.
 
-Legie hledá někoho, kdo by zlikvidoval úhlavního nepřítele.{^n}{^n}Severně od Homesteadu, v oblasti, která se teď nazývá Požářiště, byla Legie nucena prchnout před Aetherickým stvořením, známým pouze jako Plamenný posel. Tento netvor šíří aetherický oheň na každém místě, kde to jenom jde, a jeho dalším cílem se zdá být Homestead. Plamenný posel představuje skutečné nebezpečí, které nelze podceňovat. Za každou cenu musí být zlikvidován.{^n}{^n}Pokud splníš tuto takřka nesplnitelnou úlohu, Legie se s tebou podělí o několik vzácných materiálů.
+Legie hledá někoho, kdo by zlikvidoval úhlavního nepřítele.{^n}{^n}Severně od Homesteadu, v oblasti, která se teď nazývá Požářiště, byla Legie nucena prchnout před Aetherickým stvořením, známým pouze jako Plamenný posel. Tento netvor šíří aetherický oheň na každém místě, kde to jenom jde, a jeho dalším cílem se zdá být Homestead. Plamenný posel představuje skutečné nebezpečí, které nelze podceňovat. Za každou cenu musí být zlikvidován. Pokud splníš tuto takřka nesplnitelnou úlohu, Legie se s tebou podělí o několik vzácných materiálů.
 Přijmout výzvu.
 Odstup od vývěsky.
 Další úkol.
@@ -208,86 +181,8 @@ Přijmout výzvu.
 Odstup od vývěsky.
 Další úkol.
 
-Legie hledá někoho, kdo pomůže při likvidaci hrozby v podobě Pokroucených zlobrů.{^n}{^n}Likvidace Pokroucených velitelů je klíčový krok pro úspěch našich jednotek v této oblasti.{^n}{^n}Jakákoliv pomoc bude odměněna železnými mincemi.
-Přijmout výzvu.
-Odstup od vývěsky.
-Další úkol.
-
-Legie hledá někoho, kdo pomůže se zrádným Kultem Ch'thona.{^n}{^n}Krvepřísežníci ~ osudoví vrazi likvidujou naše linie v Krvavém háji. Pro každého agenta Legie jsou tito vrazi hlavním cílem v této oblasti.{^n}{^n}Jakákoliv pomoc bude odměněna železnými mincemi.
-Přijmout výzvu.
-Odstup od vývěsky.
-Další úkol.
-
-Legie hledá někoho, kdo pomůže s těmi hnusy z Prázdnot.{^n}{^n}Chthonští žrouti jsou byli spatřeni při svém řádění v Krvavém háji, kdy roztrhali naše muže svými trháky. Jejich přežívání škodí morálce našeho vojska a proto musí být vyhlazeni.{^n}{^n}Jakákoliv pomoc bude odměněna několika materiály z Legionářského obchodu.
-Přijmout výzvu.
-Odstup od vývěsky.
-Další úkol.
-
-Legie hledá někoho, kdo se zúčastní lovu příšery.{^n}{^n}Krvošípek, známý jako Ol' Krvošípek, už nějakou dobu uniká našim lovcům. Jeho doupě je snad ukryto někde ve Stinné vodní nádrži.{^n}{^n}Jakákoliv pomoc bude odměněna železnými mincemi.
-Přijmout výzvu.
-Odstup od vývěsky.
-Další úkol.
-
-Legie hledá někoho, kdo by pomohl při likvidaci hrozby v podobě Škvorů.{^n}{^n}Ve škvořím úlu někde na Hnijících polích byl nakažen Aetherem jeden vezír. Pokud ho Aetheriané využijí, mohl by v brzké době velet celému úlu. Tenhle nakažený vezír musí být co nejdřív zničen.{^n}{^n}Jakákoliv pomoc bude odměněna železnými mincemi.
-Přijmout výzvu.
-Odstup od vývěsky.
-Další úkol.
-
-Legie hledá někoho, kdo pomůže s těmi hnusy z Prázdnot.{^n}{^n}Poblíž Bašty zármutku se otevřela Brána vedoucí do Prázdnoty. Tam v hloubi, obsidiánová zrůda známá jako Bane'Gargoth, posílá na povrch našeho světa své podsvětní příšery. Někdo musí být statečný, a pro dobro lidstva čelit těmto hrůzám z temnot.{^n}{^n}Jakákoliv pomoc bude odměněna značnou sumou železných mincí.
-Přijmout výzvu.
-Odstup od vývěsky.
-Další úkol.
-
-Legie hledá někoho, kdo se zúčastní lovu příšery.{^n}{^n}Mantikoří matriarcha známá jako Mogara se ukázala být velmi nesnadným cílem, jelikož z lovců se stávají lovení. Její loviště se pravděpodobně nacházejí jižně od Rozeklané pustiny.{^n}{^n}Jakákoliv pomoc bude odměněna železnými mincemi.
-Přijmout výzvu.
-Odstup od vývěsky.
-Další úkol.
-
-Legie hledá někoho, kdo pomůže se zrádným Kultem Ch'thona.{^n}{^n}Chthonická bytost jménem Gluttrius Bachor terorizuje naše jednotky v Krvavém háji. Je prokázáno, že je nepolapitelný a neuvěřitelně rychle zabíjí. Jeho smrt je do značné míry naší prioritou.{^n}{^n}Jakákoliv pomoc bude odměněna několika materiály z Legionářského obchodu.
-Přijmout výzvu.
-Odstup od vývěsky.
-Další úkol.
-
-Legie hledá někoho, kdo se zúčastní lovu příšery.{^n}{^n}Jeskynní plazivec Sicrix se už delší dobu vyhýbá Legionářským lovcům, ale podařilo se ho sledovat do Horských hlubin. Na zničení tohoto netvora je potřeba dalších posil.{^n}{^n}Jakákoliv pomoc bude odměněna několika materiály z Legionářského obchodu.
-Přijmout výzvu.
-Odstup od vývěsky.
-Další úkol.
-
-Legie hledá někoho, kdo se zúčastní lovu příšery.{^n}{^n}Krvošípek známý jako Zuhelnatělá huba se ukázal být až překvapivě odolný vůči plamenům. Naposledy byl spatřen u Stinné vodní nádrže, jelikož zakládá požáry všude, kde může.{^n}{^n}Jakákoliv pomoc bude odměněna několika materiály z Legionářského obchodu.
-Přijmout výzvu.
-Odstup od vývěsky.
-Další úkol.
-
-Legie hledá pomoc při získávání nepřátelské inteligence.{^n}{^n}Kult uctívající Ch'thona najímal ke svým vyvolávacím rituálům zvláštní Pečetitele. Pokud chceme rozvrátit snahy Kultu, musíme se o těchto individuích dozvědět více.{^n}{^n}Doručení Chthonické pečeti bude odměněno železnými mincemi.
-Přijmout výzvu.
-Odstup od vývěsky.
-Další úkol.
-
-Legie hledá pomoc při získávání nepřátelské inteligence.{^n}{^n}Kult Ch'thona je přímo posedlý něčím, co sami nazývají Krví Ch'thona. Legie by ráda prostudovala účinky této kapaliny.{^n}{^n}Doručení Krve Ch'thona bude odměněno několika materiály z Legionářského obchodu.
-Přijmout výzvu.
-Odstup od vývěsky.
-Další úkol.
-
-Legie hledá pomoc při získávání nepřátelské inteligence.{^n}{^n}Aetheriané čerpají sílu z různých uspořádání krystalů. Pokud má Legie čelit těmto nepřátelským zdrojům, potřebuje exemplář jednoho takového uspořádání.{^n}{^n}Doručení Úlomku aetheru bude odměněno několika materiály z Legionářského obchodu.
-Přijmout výzvu.
-Odstup od vývěsky.
-Další úkol.
-
-Legie hledá pomoc při získávání nepřátelské inteligence.{^n}{^n}Nejúčinnější Trsy Aetherických krystalů, pocházející pouze z největších Aetherických krystalů a Aetherických obelisků, v sobě udržují pravděpodobně obrovské množství surové energie. Legie by si přála dozvědět, jak to vlastně funguje.{^n}{^n}Doručení Trsu Aetherů bude odměněno několika materiály z Legionářského obchodu.
-Přijmout výzvu.
-Odstup od vývěsky.
-Další úkol.
-
-Legie hledá pomoc při získávání nepřátelské inteligence.{^n}{^n}Zdá se, že projev Aetherického posednutí podstatně mění chemickou strukturu mozku. Legie by to ráda prostudovala, ale chybí ji nějaký vhodný vzorek.{^n}{^n}Doručení Zkažené mozkové hmoty bude odměněno několika materiály z Legionářského obchodu.
-Přijmout výzvu.
-Odstup od vývěsky.
-Další úkol.
-
-Černá legie stále hledá muže a ženy, kteří by jim pomáhali při obtížných misích.{^n}{^n}Se svou přízní máš nyní možnost pustit se do některých nebezpečných úkolů.
-
-Odstup kousek od vývěsky.
 Černá legie stále hledá muže a ženy, kteří by jim pomáhali při obtížných misích.
-Odstup kousek od vývěsky.
 
+Odstup kousek od vývěsky.
 Černá legie nevěří ve tvé schopnosti.{^n}{^n}Získej si jejich přízeň a dokaž jim, že můžeš plnit výzvy na vývěsce.
 Odstup kousek od vývěsky.
