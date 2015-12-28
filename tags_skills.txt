@@ -580,7 +580,7 @@ tagClass06SkillDescription02B=Hrubá síla Prvotního útoku se převalí přes 
 tagClass06SkillName02C=Záplava
 tagClass06SkillDescription02C=Přílivová síla kaskádovitě vychází z tvé zbraně, způsobuje nejbližšímu cíli šok a přeskakuje na další nepřátele.
 tagClass06SkillName02D=Burácející útok
-tagClass06SkillDescription02D=Vyvolávači bouří, členové sekty šamanismu oddané nebesům, jsou známi vyvoláváním Utlose, boha nebe, jež přivolává hněv přírody na jejich protivníky. ^oBurácející útok nevylepšuje výchozí typ útoku a nemůže způsobit efekt jako třeba Divoký hlad. ^oRequires a two-handed melee weapon.
+tagClass06SkillDescription02D=Vyvolávači bouří, členové sekty šamanismu oddané nebesům, jsou známi vyvoláváním Utlose, boha nebe, jež přivolává hněv přírody na jejich protivníky. ^oBurácející útok nevylepšuje výchozí typ útoku a nemůže způsobit efekt jako třeba Divoký hlad. ^oVyžaduje obouruční chladnou zbraň.
 
 tagClass06SkillName03A=Totem Wendigo
 tagClass06SkillDescription03A=Totemy Wendigo představují temnější stranu rituálů prováděných Šamany, přijímacích krutou dualitu přírody: jeden musí zemřít, aby se jiný nakrmil a přežil. Jakmile je totem položen, začne vysávat život z nepřátel v blízkosti, zatímco vytvoří uklidňující auru, která léčí spojence. Totemy jsou pro mnoho kmenů tabu, protože prvotního hladového ducha, který je vyvolán, aby napájel totem, je nebezpečné ovládat a mnoho šamanů z toho zešílelo a navíc jsou postiženi nenasytným hladem, který nevyhnutelně vede ke kanibalismu. ^oÚčinnost Totemů Wendigo se zvyšuje s bonusy poškození, které má postava.
@@ -611,7 +611,7 @@ tagClass06SkillDescription06A=Trnošípci jsou houževnatá stvoření, zrozená
 tagClass06SkillName06B=Kamenná kůra
 tagClass06SkillDescription06B=Kůže Trnošípka tvrdne a jeho ostny vyrostou v silnější, což ho promění na bojišti v zastrašující vzezření, jež nemůže být ignorováno.
 tagClass06SkillName06C=Ozembouch
-tagClass06SkillDescription06C=Trnošípek udeří do země svými ostnatými pařáty, releasing a cascade of spines to impale nearby foes.
+tagClass06SkillDescription06C=Trnošípek udeří do země svými ostnatými pařáty a uvolní ve vlnách ostny, které nabodnou nepřátele v blízkosti.
 tagClass06SkillName06D=Odvahu dodávající řev
 tagClass06SkillDescription06D=Trnošípek zvolá na své spojence a dodá jim odvahu, když je boj na vrcholu.
 tagClass06SkillName06E=Ostnaté pařáty
@@ -767,14 +767,14 @@ tagItemSkillDescA010=Uvolní se z tebe vlna elektřiny, která poškodí nepřá
 tagItemSkillA011=Kilrianův plamen
 tagItemSkillDescA011=Temný plamen pohltí tvé tělo a zapálí všechny, kteří se opováží přiblížit, a odčerpá jejich vitalitu.
 
-tagItemSkillA012=Freeze
-tagItemSkillDescA012=Freeze your foe solid.
+tagItemSkillA012=Zmražení
+tagItemSkillDescA012=Úplně zmrazí tvé nepřátele.
 
-tagItemSkillA013=Stun
-tagItemSkillDescA013=Interrupt your foe.
+tagItemSkillA013=Omráčení
+tagItemSkillDescA013=Přeruší konání tvého nepřítele.
 
-tagItemSkillA014=Petrify
-tagItemSkillDescA014=Turn your foe to stone.
+tagItemSkillA014=Zkamenění
+tagItemSkillDescA014=Promění tvého nepřítele v kámen.
 
 tagItemSkillB001Name=Výbušná vlna
 tagItemSkillB001Desc=Z tvých útoků vzniká ohnivá vlna.
@@ -990,7 +990,7 @@ tagItemSkillC025Desc=Vylepšená podrážka těchto bot udeří do země a vypus
 
 tagItemSkillC026Name=Pomsta
 tagItemSkillC026Desc=Rychlá rána tvou zbraní. ^oVyžaduje chladnou zbraň.
-tagItemSkillC026DescB=A swift jab with your sword.
+tagItemSkillC026DescB=Rychlé bodnutí mečem.
 
 tagItemSkillC027Name=Energetický štít
 tagItemSkillC027Desc=Vyvolá ochranný štít, který absorbuje příchozí fyzické údery.
@@ -1131,8 +1131,8 @@ tagItemSkillC070Desc=Vzývej temné síly, jež dodají Chthonického posluhova�
 tagItemSkillC071Name=Diplomacie
 tagItemSkillC071Desc=Tvůj hlas s sebou nese příkazy králů. Jen malý počet dokáže odolat jeho síle.
 
-tagItemSkillC072Name=Empyrion's Touch
-tagItemSkillC072Desc=The light of Empyrion soothes the wounds of nearby allies.
+tagItemSkillC072Name=Empyrionův dotek
+tagItemSkillC072Desc=Empyrionovo světlo hojí rány spojenců v blízkosti.
 
 tagItemSkillC073Name=Ovládání mysli
 tagItemSkillC073Desc=Zhypnotizuje cíl, který si splete přátele s nepřáteli.
@@ -1202,8 +1202,8 @@ tagItemSkillC093Desc=Zachyť tvé nepřátele v lepkavé síťovině, která úp
 tagItemSkillC094Name=Záblesk mrazu
 tagItemSkillC094Desc=Záblesk ryzího chladu zmrazí nepřátele v blízkosti. ^oToto kouzlo zmrazí nepřátele po dobu jeho trvání. Nepřátelé odolní vůči zmražení budou trpět kratší dobu.
 
-tagItemSkillC095Name=Hell Path
-tagItemSkillC095Desc=Flames erupt from the earth all around you, leaving nothing but ashes.
+tagItemSkillC095Name=Imitace pekla
+tagItemSkillC095Desc=Ze země kolem tebe vzejde oheň, který nezanechá nic než popel.
 
 tagItemSkillC096Name=Sluneční záře
 tagItemSkillC096Desc=Vyjde z tebe oslepující světlo, které zmate tvé nepřátele.
@@ -1248,57 +1248,57 @@ tagItemSkillC109Name=Mrazící Nova
 tagItemSkillC109Desc=Poryv mrazivého vzduchu kolem tebe úplně zmrazí tvé nepřátele.
 
 tagItemSkillC110Name=Živelný výbuch
-tagItemSkillC110Desc=Vytryskne z tebe poryv energií živlů a odstrčí tak nepřátele v blízkosti.
+tagItemSkillC110Desc=Vytryskne z tebe poryv živelných energií a odstrčí tak nepřátele v blízkosti.
 
-tagItemSkillC111Name=Curse of Burrwitch
-tagItemSkillC111Desc=Your foes become marked with a debilitating curse that embodies the suffering of Burrwitch.
+tagItemSkillC111Name=Burrwitchské prokletí
+tagItemSkillC111Desc=Tví nepřátelé jsou označeni omezující kletbou, která je stejně silná jako utrpení Burrwitche.
 
-tagItemSkillC112Name=Ignite
-tagItemSkillC112Desc=Ignite your foe with intense flame that melts through armor.
+tagItemSkillC112Name=Zážeh
+tagItemSkillC112Desc=Zapal své nepřátele intenzivním plamenem, jež protaví brnění.
 
-tagItemSkillC114Name=Aether Smash
-tagItemSkillC114Desc=A wave of aether energies erupts from you.
+tagItemSkillC114Name=Aetherická rána
+tagItemSkillC114Desc=Uvolníš vlnu Aetherické energie.
 
-tagItemSkillC115Name=Malice
-tagItemSkillC115Desc=A malicious force erupts from you that shakes the earth and shatters armor.
+tagItemSkillC115Name=Zlá vůle
+tagItemSkillC115Desc=Zloba s tebe vycházející rozechvěje zemi a rozbije brnění.
 
-tagItemSkillC116Name=Bleedout
-tagItemSkillC116Desc=Clips a major artery, causing intense bleeding.
+tagItemSkillC116Name=Vykrvácení
+tagItemSkillC116Desc=Přetni hlavní tepnu a způsob tak silné krvácení.
 
-tagItemSkillC117Name=Flamebrand
-tagItemSkillC117Desc=Mark your foe with flame, exposing them to your burning wrath.
+tagItemSkillC117Name=Cejch
+tagItemSkillC117Desc=Označ svého nepřítele plamenem a vystav ho dalším účinkům tvé ohnivé zloby.
 
-tagItemSkillC118Name=Beastslayer
-tagItemSkillC118Desc=Cleave through nearby foes with the intent of exterminating foul beasts.
+tagItemSkillC118Name=Zabiják bestií
+tagItemSkillC118Desc=Proklesti se nepřáteli v blízkosti s takovou silou, jako bys [[ms]hubil[fs]hubila] odporné bestie.
 
-tagItemSkillC119Name=Virulent Pox
-tagItemSkillC119Desc=A wildly spreading disease infects your foe.
+tagItemSkillC119Name=Nakažlivé neštovice
+tagItemSkillC119Desc=Divoce se šířící choroba infikuje tvé nepřátele.
 
-tagItemSkillC120Name=Scorched Earth
-tagItemSkillC120Desc=Scorching heat erupts from you, burning the ground ahead.
+tagItemSkillC120Name=Spáleniště
+tagItemSkillC120Desc=Intenzivní horko, které se z tebe uvolňuje spálí zemi, která je před tebou.
 
-tagItemSkillC121Name=Bloodbath
-tagItemSkillC121Desc=Lacerate nearby foes and shower the area with their blood.
+tagItemSkillC121Name=Krvavá lázeň
+tagItemSkillC121Desc=Rozpárej nepřátele v okolí a potřísni okolí jejich krví.
 
-tagItemSkillC122Name=Glass Eye
-tagItemSkillC122Desc=A trained eye, a lethal shot. ^oThis is a ranged two-handed weapon bonus.
-tagItemSkillC122NameB=Sharpshooter
-tagItemSkillC122DescB=Expertise in the use of rifles and scopes. ^oThis is a ranged two-handed weapon bonus.
+tagItemSkillC122Name=Skleněné oko
+tagItemSkillC122Desc=Vytrénované oko, smrtelná rána. ^oToto je bonus k obouručním palným zbraním.
+tagItemSkillC122NameB=Ostrostřelec
+tagItemSkillC122DescB=Specializace v používání pušek a odstřelovacích pušek. ^oToto je bonus k obouručním palným zbraním.
 
-tagItemSkillC123Name=Flame Patch
-tagItemSkillC123Desc=You ignite the very ground you step on.
+tagItemSkillC123Name=Ohnivá skvrna
+tagItemSkillC123Desc=Zapaluješ samotnou zemi, po níž kráčíš.
 
-tagItemSkillC124Name=Spine Nova
-tagItemSkillC124Desc=A burst of spines erupts from you, impaling nearby foes.
+tagItemSkillC124Name=Nova z ostnů
+tagItemSkillC124Desc=Vyjde z tebe salva trnů, která probodne nepřátele v blízkosti.
 
-tagItemSkillC125Name=Chaos Wave
-tagItemSkillC125Desc=A wave of entropic energies erupts from you.
+tagItemSkillC125Name=Vlna chaosu
+tagItemSkillC125Desc=Vyjde z tebe vlna entropických energií.
 
-tagItemSkillC126Name=Apothecary's Touch
-tagItemSkillC126Desc=Training in the art of field medicine enables you to soothe the wounds of nearby allies.
+tagItemSkillC126Name=Lékárníkův dotek
+tagItemSkillC126Desc=Trénink v oblasti medicíny ti umožňuje hojit rány spojenců v blízkosti.
 
-tagItemSkillC127Name=Aether Lightning
-tagItemSkillC127Desc=Lightning infused with pure aether emanates from you and cascades through your foes.
+tagItemSkillC127Name=Aetherický blesk
+tagItemSkillC127Desc=Vyjde z tebe blesk obohacený o čistý Aether a přeskakuje mezi tvými nepřáteli.
 
 tagItemSkillM005Name=Zběsilost
 tagItemSkillM005Desc=Ponoř se do stavu šílence, který dělá výpady se zvýšenou zuřivostí na úkor schopnosti přežít.
@@ -1355,7 +1355,7 @@ tagItemSkillD025Name=Agónie
 tagItemSkillD025Desc=Proklej své protivníky utrpením a způzob jim nevyslovitelnou bolest a vystav je dalšímu zranění.
 
 tagItemSkillD026Name=Aldanarova ješitnost
-tagItemSkillD026Desc=Aldanar was not one to let such trivial matters as conservation of energy and laws of reality stop him from continuing his spellcraft.
+tagItemSkillD026Desc=Aldanar nebyl jedním z těch, jehož tak triviální záležitosti jako uchovávání energie či zákony přírody odradily od pokračování v kouzlení.
 
 tagItemSkillD027Name=Apokalypsa
 tagItemSkillD027Desc=Uvolni zlobu samotných bohů tím, že otevřeš trhlinu v realitě a rozpoutáš potomu apokalyptických rozměrů.
@@ -1367,7 +1367,7 @@ tagItemSkillD029Name=Zloba Povzneseného
 tagItemSkillD029Desc=Zažít zlobu Povzneseného je strašlivá věc. Jen pár je schopných překonat její paralyzující moc.
 
 tagItemSkillD030Name=Ulzuinův avatar
-tagItemSkillD030Desc=You leave the wild flames of Ulzuin wherever you step.
+tagItemSkillD030Desc=Zanecháváš po sobě nezpoutané Ulzuinovy plameny všude tam, kam vkročíš.
 
 tagItemSkillD031Name=Azragorianova taktika
 tagItemSkillD031Desc=Převezmi taktiku Azragora, tajnou a rozporuplnou techniku, ale výsledky zpochybnit nelze. Tento efekt ovlivňuje i tvé spojence v blízkosti.  ^oTato schopnost musí být nastavena jako výchozí typ útoku, aby účinkovala.
@@ -1641,7 +1641,7 @@ tagItemSkillD118Name=Vyvolávačovo tajemství
 tagItemSkillD118Desc=Vyvolávačovo mistrovství v magii podpořilo mnoho neobvyklých praktik včetně malého triku, který Vyvolávač používa, aby nepřátele odradil od toho se více přiblížit.
 
 tagItemSkillD119Name=Iskanřina obrana
-tagItemSkillD119Desc=Iskandra byla mistryní konverze a dokázala tak válečné zbraně proměnit ve vodiče pro tajemno. Her unusual attunement to martial combat required that proper defenses be raised.
+tagItemSkillD119Desc=Iskandra byla mistryní konverze a dokázala tak válečné zbraně proměnit ve vodiče pro tajemno. Pro její zasvěcení do bojových umění bylo zapotřebí, aby byla vylepšena její obranyschopnost.
 
 tagItemSkillD120Name=Iskanřina jednota
 tagItemSkillD120Desc=Iskandra preferovala ovládání všech forem magie. Tato schopnost je rozšířena na spojence v blízkosti. ^oTato schopnost musí být nastavena jako výchozí typ útoku, aby účinkovala.
@@ -1958,17 +1958,17 @@ tagItemSkillD223Desc=Vytvoř trhlinu v samotném čase v místě toho, jež na t
 tagItemSkillD224Name=Zloba Ponurého úsvitu
 tagItemSkillD224Desc=Rozpoutej utrpení a destrukci takovou, jakou svět zažil v čase Ponurého úsvitu.
 
-tagItemSkillD225Name=Winter King's Might
-tagItemSkillD225Desc=^oRequires a two-handed melee weapon.
+tagItemSkillD225Name=Moc Zimního krále
+tagItemSkillD225Desc=^oVyžaduje obouruční chladnou zbraň.
 
-tagItemSkillD226Name=Summon Chillmane
-tagItemSkillD226Desc=Calls forth a mighty Chillmane Yeti to fight beside you. ^oOnly one Chillmane can be summoned at any one time. The yeti scales with Pet Bonuses.
+tagItemSkillD226Name=Vyvolání Ledohřívnatce
+tagItemSkillD226Desc=Přivolá mocného Ledohřívného Yetiho, aby bojoval po tvém boku. ^oV jeden čas může být vyvolán pouze jeden Ledohřívnatec. Ledohřívnatec sílí spolu se zvyšujícími se bonusy na mazlíčky.
 
-tagItemSkillD227Name=Frostdread Presence
-tagItemSkillD227Desc=Unleash the chill that dwells within your frozen heart, infusing your weapons with life-sapping chill. This effect is extended to nearby allies.  ^oThis ability must be toggled to maintain its effect.
+tagItemSkillD227Name=Ztělesnění ledového děsu
+tagItemSkillD227Desc=Vyvolej mráz z nitra svého srdce a naplň své zbraně život vysávajícím chladem. Tato schopnost ovlivňuje i spojence v blízkosti. ^oTato schopnost musí být nastavena jako výchozí typ útoku, aby účinkovala.
 
-tagItemSkillD228Name=Shattering Force
-tagItemSkillD228Desc=Shatter nearby foes' defenses with a rush of physical force.
+tagItemSkillD228Name=Tříštivá síla
+tagItemSkillD228Desc=Roztříšti obranu nepřítel v blízkosti svým fyzickým útokem.
 
 tagItemSkillFailName=Selhávání
 tagItemSkillFailDesc=Selhání je četnější.
@@ -2108,8 +2108,8 @@ tagCompSkillB005Desc=Spal svého nepřítele temným plamenem Solaela.
 tagCompSkillB006Name=Oleronova moc
 tagCompSkillB006Desc=Úder zbraní, jež způsobí těžkou újmu nepříteli a ochromí ho.
 
-tagCompSkillB007Name=Bysmiel's Binding
-tagCompSkillB007Desc=Bind your minions to your will. ^o(Passive bonus)
+tagCompSkillB007Name=Bysmielova vazba
+tagCompSkillB007Desc=Podmaň nohsledy své vůli. ^o(Pasivní bonus)
 
 
 
@@ -2223,7 +2223,7 @@ tagRelicSkillD007Name=Morová rána
 tagRelicSkillD007Desc=Zaútoč na své nepřátele mrazivým útokem, který se zaryje až do jejich samotného jádra se smrtícím chladem, čímž ti bude část uloupené vitality navrácena. ^oVyžaduje chladnou zbraň.
 
 tagRelicSkillD008Name=Ohnivé peklo
-tagRelicSkillD008Desc=Wild flames erupt from you in a trail of devastation.
+tagRelicSkillD008Desc=Vyjdou z tebe nezpoutané plameny s cílem ničit.
 
 tagRelicSkillD009Name=Nekróza
 tagRelicSkillD009Desc=Přivolá oslabující kletbu na tvé nepřátele, jež způsobí hnilobu jejich masa a kostí a zpomalí jejich smysly.

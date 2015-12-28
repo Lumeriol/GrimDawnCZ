@@ -8,7 +8,7 @@ Znič povoz krve na východě
 Znič povoz krve na západě
 
 Zabij posledního Velitele
-[[ms]Zničil[fs]Zničila] jsi Povozy krve a cesta do Hrobky Strážců je nyní volná. Vstup do hrobky a vyhledej Ulgrima na nižším podlaží, u Loghorreanovy pečetě. Společně musíte rituál kultistů nadobro zastavit.{^n}{^n}The cult may try to rebuild the Blood Wagons in your absence, you will need to destroy them again as the seal will be renewed.
+[[ms]Zničil[fs]Zničila] jsi Povozy krve a cesta do Hrobky Strážců je nyní volná. Vstup do hrobky a vyhledej Ulgrima na nižším podlaží, u Loghorreanovy pečetě. Společně musíte rituál kultistů nadobro zastavit.{^n}{^n}Kult se může pokusit o to znovu obnovit povozy s krví a pokud nebudeš [[ms]přítomen[fs]přítomna], budeš je muset zničit znovu, protože s nimi se obnoví i pečeť.
 
 
 
