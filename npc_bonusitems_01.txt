@@ -1,15 +1,15 @@
 Kory, strážce.
-Vítej, [[ms]příteli[fs]přítelkyně]! Viděl jsem tě již někdy předtím?... Možná jsme se potkali... někde na cestě? Kory je mé jméno. Jsem cestovatel... obchodník... strážce tajemna. Bývaly časy kdy...no...na tom nesejde. Cestoval jsem daleko, vždy ve stínu.
-To je zváštní kabátec, který nosíš...
-Ah, vskutku...je na něm značka hulváta. Býval jsem dobrodruh tak jako ty, kdysi dávno...
-(Získej Iluzi: Hulvátův kabátec)
+Vítej, [[ms]můj příteli[fs]má přítelkyně]! Viděl jsem tě již někdy předtím? Možná jsme se potkali... někde na cestě? Kory je mé jméno. Jsem cestovatel... obchodník... strážce tajemna. Bývaly časy kdy... no... na tom nesejde. Cestoval jsem daleko, vždy ve stínu.
+To je zváštní kabát, který nosíš...
+Ach, vskutku... je na něm značka hulváta. Býval jsem dobrodruh tak jako ty, kdysi dávno...
+(získej Iluzi: Hulvátův kabát)
 *Skrytě si potřásáte rukou*
 *Kory šeptá*{^n}{^n}Vítej, [[ms]bratře[fs]sestro]. Věčnou bdělost.
-(Získej Iluzi: Paruka v prášku)
+(získej Iluzi: Prachová paruka)
 Máš zájem o drink?
-*Kory pozvedne lahev Burrwitchského moku*{^n}{^n}Na tvé zdraví!
-(Získej předmět: Burrwitchský mok)
-Co to září v tvé kapse?
-Oh tohle?{^n}{^n}*Kory vyndá nádobu s vířící se modrou září*{^n}{^n}To, [[ms]příteli[fs]přítelkyně], je Will'O'Wisp. Jsou užiteční na temných místech.
+*Kory pozvedne lahev Burrwitchského dryáku*{^n}{^n}Na tvé zdraví!
+(získej předmět: Burrwitchský dryák)
+Co to září ve tvé kapse?
+Oh tohle?{^n}{^n}*Kory vyndá nádobu s vířící se modrou září*{^n}{^n}To, [[ms]můj příteli[fs]má přítelkyně], je Polapená bludička. Je užitečná na temných místech.
 (Získej předmět: Polapená bludička)
-Um, ok. Sbohem.
+Ehm, dobře. Sbohem.
