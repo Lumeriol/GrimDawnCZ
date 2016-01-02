@@ -191,7 +191,7 @@ tagClass02SkillDescription03C=Další chemické modifikace způsobují, že Ohni
 tagClass02SkillName03D=Síra
 tagClass02SkillDescription03D=Umění s ohněm okořeněné tajemstvím okultismu obohacuje Ohnivý úder chaotickou energií získané ze síry. ^oS útokem na dálku také exploduje a roztrhne se na roztavené části.
 tagClass02SkillName03E=Spalující útok
-tagClass02SkillDescription03E=Soustředění se na destruktivní sílu Ohnivého úderu umožnuje intenzivnější zásah zatímco je vyžadováno méně energie, ale této techniky může být dosaženo pouze správným zacházením ruční zbraně, obouruční palné zbraně či kuše. ^oVyžaduje chladnou nebo obouruční střelnou zbraň.
+tagClass02SkillDescription03E=Soustředění se na destruktivní sílu Ohnivého úderu umožnuje intenzivnější zásah zatímco je vyžadováno méně energie, ale této techniky může být dosaženo pouze správným zacházením chladné zbraně, obouruční palné zbraně či kuše. ^oVyžaduje chladnou nebo obouruční střelnou zbraň.
 
 tagClass02SkillName04A=Tříštivá bomba
 tagClass02SkillDescription04A=Výbušnina obalená dalšími výbušninami; tento ďábelský vynález je schopný rozmetat celé hordy nepřátel.
@@ -2675,7 +2675,7 @@ tagReallocateError02=Nemáš dostatek železných mincí pro odstranění dalš�
 tagReallocateError03=Nemůžeš odstranit body ze svého povolání.
 tagDecreaseMasteryError=Z povolání nelze získat zpět body dovednosti.
 tagReclaimPoint=Kliknutím získáš zpět bod dovednosti (Cena {^s}{%t0}{^-} železných mincí)
-tagReclaimDevotionPoint=Klikni pro navrácení bodu Oddanosti (Cost {^s}{%t0}{^-} Iron Bits, {^g}{%t1}{^-} Aether Crystal)
+tagReclaimDevotionPoint=Klikni pro navrácení bodu Oddanosti (Stojí {^s}{%t0}{^-} železných mincí, {^g}{%t1}{^-} krystal Aetheru)
 tagRemovePoint=Levým kliknutím odeber body oddanosti
 tagReclaimBase=Odstraň vlastnosti pro navrácení posledního bodu dovednosti
 tagReclaimDevotion=Odeber přiřazený efekt Oddanosti
