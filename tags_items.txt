@@ -1,6 +1,6 @@
-#prefix/quality/style/name/suffix concatenation
+#prefix/quality/style/name/suffix concatenation #CZ - style is on last position
 
-tagItemNameOrder=${%_3a0}{%_3a1}{%_3a2}{%_s3}{%_3a4}
+tagItemNameOrder=${%_3a0}{%_3a1}{%_s3}{%_3a4}{%_3a2}
 tagItemNameAndStack={%s0} ({%d1})
 
 #Weapons
@@ -826,9 +826,9 @@ tagRare=vzácné kvality
 tagEpic=epické kvality
 tagLegend=legendární kvality
 
-tagStyleUniqueTier2=mocný předmět
-tagStyleUniqueTier3=bájný předmět
-tagStyleFactionTier2=elitní předmět
+tagStyleUniqueTier2=~ mocný předmět
+tagStyleUniqueTier3=~ bájný předmět
+tagStyleFactionTier2=~ elitní předmět
 
 tagSoulbound=Předmět svázaný s duší
 tagDestroySoulbound=Zničit předmět svázaný s tvou duší?

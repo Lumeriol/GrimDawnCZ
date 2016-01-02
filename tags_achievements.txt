@@ -38,10 +38,10 @@ ach010Title=Vzor Cairnu
 ach010Desc=Získej si přízeň šesti frakcí.
 
 ach011Title=Služebník Empyrionův
-ach011Desc=Dosáhni přízně u Kymonových vyvolených.
+ach011Desc=Získej si přízeň Kymonových vyvolených.
 
 ach012Title=Uroboruukův následovník
-ach012Desc=Dosáhni přízně u Řádu strážců smrti.
+ach012Desc=Získej si přízeň Řádu Strážců smrti.
 
 ach013Title=Konec neřesti
 ach013Desc=Zlikviduj Salazara, čepel Ch'thona ve Svatyni neřesti.
@@ -56,7 +56,7 @@ ach016Title=Konec bolesti
 ach016Desc=Zlikviduj Alkamose, vykonavatele spravedlnosti ve Stupních bolesti ve Veteránském režimu.
 
 ach017Title=Nesmrtelný popravčí
-ach017Desc=Zlikviduj Alkamose, vykonavatele spravedlnosti ve Stupních bolesti ve Zkoušce ohněm.
+ach017Desc=Zlikviduj Alkamose, vykonavatele spravedlnosti ve Stupních bolesti ve Výzvě.
 
 ach018Title=Doručení spravedlnosti
 ach018Desc=Zlikviduj Wardena Kriega ve Skryté laboratoři.
@@ -128,7 +128,7 @@ ach040Title=Legenda
 ach040Desc=Dosáhni 75. úrovně.
 
 ach041Title=Nesmrtelná legenda
-ach041Desc=Dosáhni 75. úrovně ve Zkoušce ohněm.
+ach041Desc=Dosáhni 75. úrovně ve Výzvě.
 
 ach042Title=Obránce Cairnu
 ach042Desc=Dokonči hru.
@@ -140,7 +140,7 @@ ach044Title=Spasitel Cairnu
 ach044Desc=Dokonči hru na ultimátní obtížnost.
 
 ach045Title=Nesmrtelný spasitel
-ach045Desc=Dokonči hru na ultimátní obtížnost ve Zkoušce ohněm.
+ach045Desc=Dokonči hru na ultimátní obtížnost ve Výzvě.
 
 ach046Title=Těžké rozhodnutí
 ach046Desc=???

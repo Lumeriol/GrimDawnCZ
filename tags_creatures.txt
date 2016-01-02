@@ -1122,7 +1122,7 @@ tagDevotion_SkeletonH04=Everon ~ spalující
 tagDevotion_SkeletonH05=Pomstychtivý Vengar ~ odrážející
 tagDevotion_SkeletonH06=Jitřní lord ~ mrazivý
 tagDevotion_SkeletonH07=Lord Tenethon
-tagDevotion_SkeletonH08=Alladon, Strážce plamene
+tagDevotion_SkeletonH08=Alladon, strážce plamene
 tagDevotion_SkeletonH09=Elagorian "Temný morek"
 tagDevotion_SkeletonH10=Ollegon, ledový strážce
 
