@@ -34,7 +34,7 @@ tagMapDevilsSpur=Ďáblův výběžek
 tagMapNecropolis=Pohřebiště
 tagMapOldGrove=Starý háj
 tagMapVoidlands=Obsidiánový trůn
-tagMapVoidlands02=Popelavé pustiny
+tagMapVoidlands02=Popelavá pustina
 tagMapVoidlands03=Opuštěné pustiny
 tagMapEastMarsh01=Východní močály
 tagMapEastMarsh02=Škodlivá paseka
@@ -507,7 +507,7 @@ tagNPC_AreaC_01=Lysell ~ mistr průzkumníků
 tagNPC_AreaC_02=Douglass Sullivan Oldbarrow
 tagNPC_AreaC_03=Myla Finegan
 tagNPC_AreaC_04=Inkvizitor Creed
-tagNPC_AreaC_05=Ostrostřelec Kadris
+tagNPC_AreaC_05=Stopař Kadris
 tagNPC_AreaC_06=Alleria
 tagNPC_AreaC_07=Kalista
 tagNPC_AreaC_08=Nathaniel Thorn
@@ -519,7 +519,7 @@ tagNPC_AreaC_13=Kronikář
 tagNPC_AreaC_14=Rallia
 tagNPC_AreaC_15=Kapitán Somerová
 tagNPC_AreaC_16=Collin Taverin
-tagNPC_AreaC_17=Ostrostřelec Vallar
+tagNPC_AreaC_17=Stopař Vallar
 tagNPC_AreaC_18=Bratr Molltair
 tagNPC_AreaC_19=Haruuv
 tagNPC_AreaC_20=Četař Serriv
@@ -584,7 +584,7 @@ tagNPC_Flavor_Homestead_12=Horace
 tagNPC_Flavor_AreaC_01=Dean Oldbarrow
 tagNPC_Flavor_AreaC_02=Denny Oldbarrow
 tagNPC_Flavor_AreaC_03=Maria Oldbarrow
-tagNPC_Flavor_AreaC_04=Ostrostřelkyně Harra
+tagNPC_Flavor_AreaC_04=Stopařka Harra
 tagNPC_Flavor_AreaC_05=Rob Halloway
 tagNPC_Flavor_AreaC_06=Beatrice Summers
 tagNPC_Flavor_AreaC_07=Tricia Windborough
@@ -838,52 +838,52 @@ tagLoreObject_BozemanFollyText=Všichni tvrdí, že jsem blázen, pokud si chci 
 
 
 #Random Burrwitch Notes
-tagLoreObj_BookA01Name=Chthonické kacířství - Strana 1
+tagLoreObj_BookA01Name=Chthonické kacířství - 1. část
 tagLoreObj_BookA01Text=Strach, moji bratři. Bojte se Chthoniana, protože je předzvěstí našich hříchů. Nevyslovujte jméno jejich pána, neboť se jedná o projev škodolibosti a nehorázných rozhodnutí. Vyvarujte se kacířství, protože jejich slova jsou jedem pro uši věřících. Stejně jako ďábel musí být zbaven své duše, i kacíř musí být zbaven svého života.
 
-tagLoreObj_BookA02Name=Chthonické kacířství - Strana 2
+tagLoreObj_BookA02Name=Chthonické kacířství - 2. část
 tagLoreObj_BookA02Text=Krev, moji bratři. Krev je podstatou, jež nám dává život. Nepijte krev démonů, protože se jedná o projev zkaženosti. Ti, kteří se živí krví, budou navždy zatraceni. Vyvarujte se darů Chthoniana - jejich dotekem očerníte svou duši. Čistota krve zvěstuje čistotu duše.
 
-tagLoreObj_BookA03Name=Chthonické kacířství - Strana 3
+tagLoreObj_BookA03Name=Chthonické kacířství - 3. část
 tagLoreObj_BookA03Text=Víra, moji bratři. Nechť vás vaše víra ochraňuje, protože to je Chthonian, kdo vměšuje sůl do mokvající rány. Ochraňujte svou víru, která vás vymezuje. Vyvarujte se kacířským dopisům, protože jejich slova jsou plná lží a klamu. Silná víra bude opěvována jako hrdinové. Ta slabá... bude navždy zapomenuta.
 
-tagLoreObj_BookA04Name=Chthonické kacířství - Strana 4
+tagLoreObj_BookA04Name=Chthonické kacířství - 4. část
 tagLoreObj_BookA04Text=Spravedlnost, moji bratři. Spravedlnost musí být rychlá a nemilosrdná, protože jen ta ve vás vznítí víru, krev a strach. Spravedlnost dostihne kacíře, naprosto vždy a neúprosně. Ti, kteří pozvednou zbraň proti Chthonianovi, se stanou horlivými a pomstychtivými ve jménu božím. Ti, kteří vzývají boha Chthoniana, okusí plamen spravedlnosti. A spravedlnost je třeba vykonat.
 
-tagLoreObj_CriminalA01Name=Kriminální záznamy - Strana 1
+tagLoreObj_CriminalA01Name=Kriminální záznamy - 1. část
 tagLoreObj_CriminalA01Text=Leander "Černovoda" Greene{^n}{^n}Propuštěný voják hledaný za vydírání a vraždu. Leander byl nečestně propuštěn z demoliční čety za strašlivé civilní neštěstí. Leander uprchl z vyšetřovací vazby při nejméně dvou různých příležitostech za použití neschválených výbušných zařízení.{^n}{^n}Zprávy o jeho zpozorování nebo důkazy o jeho smrti by měly být doručeny Wardenu Kriegovi do Burrwitchské věznice. Za předvedení živého Leandera Greena bude vyplacena odměna 1.000 královských mincí.
 
-tagLoreObj_CriminalA02Name=Kriminální záznamy - Strana 2
+tagLoreObj_CriminalA02Name=Kriminální záznamy - 2. část
 tagLoreObj_CriminalA02Text=Krvavý Jack{^n}{^n}Nebezpečný vrah a známý uctívač pohanského boha Solaela. V protokolech jsou označeny příznaky vražd Krvavého Jacka - proříznuté hrdlo a čarodějnické symboly vyryté do levého prsu. Tyto symboly se vyskytují stále blíže vesnici Burrwitch. Občanům se doporučuje, aby necestovali samotní a vyhýbali se lesním cestám, kdykoliv je to možné.{^n}{^n}Zprávy o jeho zpozorování nebo důkazy o jeho smrti by měly být doručeny Wardenu Kriegovi do Burrwitchské věznice. Za zajetí a předvedení živého Krvavého Jacka bude vyplacena odměna 400 královských mincí.
 
-tagLoreObj_CriminalA03Name=Kriminální záznamy - Strana 3
+tagLoreObj_CriminalA03Name=Kriminální záznamy - 3. část
 tagLoreObj_CriminalA03Text=Everett ~ Krvavý pes{^n}{^n}Pohan a chlemtač krve. Známý společník Chthonských kultů a udavač kacířů. Když se střetl se zákonem, Everett vyvolal rozběsněnou tajemnou zvěř proti vymahačům spravedlnosti a poté uprchl. Extrémně nebezpečný jedinec. Lidem, kteří nemají zkušenosti s odvrácením pohanských umění, se doporučuje vyhnout se mu.{^n}{^n}Zprávy o jeho zpozorování nebo důkazy o jeho smrti by měly být doručeny Wardenu Kriegovi do Burrwitchské věznice. Za zajetí a předvedení živého Everetta ~ Krvavého psa bude vyplacena odměna 1.200 královských mincí.
 
-tagLoreObj_BookC01Name=Gildam Arcanum - Strana 1
+tagLoreObj_BookC01Name=Gildam Arcanum - 1. část
 tagLoreObj_BookC01Text=Chceš-li pochopit toky Aetheru, musíš se nejprve naučit uvědomovat si jeho podstatná rizika. Tajemné umění není na hraní, ani to není nástroj, který by se dal zneužívat. Bezpočet mladých učedníků temnoty přišlo o život z neopatrnosti a zanedbání předpisů. Správné ovládání Aetheru vyžaduje roky praxe pod pečlivým dohledem Gildam Arcanum, jediného formálního úřadu schvalujícího pokyny a výzkum umění tajemna. Nepleť si to, co je tady přednášeno s učením hypotetických čarodějnických bohů, což je mezi nevzdělanci často mylně zaměňováno. Nejsou žádní bohové. Existuje pouze realita a věda zahalená tajemstvím.
 
-tagLoreObj_BookC02Name=Gildam Arcanum - Strana 2
+tagLoreObj_BookC02Name=Gildam Arcanum - 2. část
 tagLoreObj_BookC02Text=K posílení vynalézavosti živých i mrtvých učedníků temnoty, se obracíme k dílům Maiven, plodné Vládkyně temnot ze třetího věku naší slavné říše. Vládkyně temnot Maiven byla schopna obracet neodmyslitelné ničivé toky Aetheru vůlí své mysli tak, aby kolem sebe vyvolala ochrannou bariéru. Tato technika je ukázkovým příkladem toho, jak se Gildam Arcanum neustále snaží zlomit naše předsudky o Aetheru a vytváří zcela nové myšlenkové toky v rámci tajemných umění.
 
-tagLoreObj_BookD01Name=Původ Slithů - Strana 1
+tagLoreObj_BookD01Name=Původ Slithů - 1. část
 tagLoreObj_BookD01Text=Za celou historii našeho velkého národa nebylo pozorováno větší zvěrstvo, než vznik vyšinutých druhů, které nazýváme Slithy. Částečně člověk, částečně had. Slithové byli posledním nebezpečným prohřeškem tajemna a motivace do založení Gildam Arcanum a jeho přísným sankcím vůči tajemným praktikám.{^n}{^n}Slith byl stvořen akcí samolibého jednotlivce - Oswaldem Hargatem. S podporou rodinného bohatství a vášní pro výzkum, Oswald usiloval zanechat svou stopu ve studiích temnot. Věděl, že jeho odkaz by mohl zanechat trvalou vzpomínku mezi všemi Vládci temnot a v celém oboru.
 
-tagLoreObj_BookD02Name=Původ Slithů - Strana 2
+tagLoreObj_BookD02Name=Původ Slithů - 2. část
 tagLoreObj_BookD02Text=Oswald Hargate pevně věřil, že Aether by mohl být použit ke stvoření nového života. Přesvědčený, že by mohl nahradit bohy, se Oswald vydal vykonávat svůj odporný výzkum, na do dnešního dne neznámém místě.{^n}{^n}Ačkoliv o jeho výzkumu nebylo známo mnoho detailů, výsledky byly zcela jasné. Svůj výtvor nazval Slith pro jeho plazí pohyb a hadí ocas. Oswald oznámil vítězoslavně svá zjištění ve společnosti Arcanum. Výsledné stvoření neslo tělo člověka a ocas hada, s čumákem plaza nepocházejícího ani z jednoho druhu. Jeho oči se na vás upíraly s náznakem lidského žalu, ačkoliv to mělo pouze otupit mysl a nic nenasvědčovalo tomu, že původní osoba je uvnitř.{^n}{^n}Účastníci byli šokováni nehorázným pohrdáním bohy a jejich jedinečností. Po krátkém procesu byl Oswald obviněn z ohrožení společností a po zbytek svého života byl uvězněn. Vzorek byl zničen a jeho popel rozptýlen do větru. S Oswaldem za mřížemi a mrtvým slithem všichni věřili, že noční můra skončila. Ale mýlili se, strašně se mýlili.
 
-tagLoreObj_BookD03Name=Původ Slithů - Strana 3
+tagLoreObj_BookD03Name=Původ Slithů - 3. část
 tagLoreObj_BookD03Text=Když se první slith objevil v oblasti známé jako Wightmire, bylo jasné, že Oswald nevytvořil pouze jednoho slitha. Jelikož jeho laboratoř nebyla nikdy objevena, úředníci mohli pouze hádat, kde je původ nového druhu. Slithové byli neuvěřitelně invazivní, snadno se stali predátory v místním potravinovém řetězci a začali se reprodukovat znepokojivým tempem.{^n}{^n}S tím jak se jejich počty znásobovaly, si Slithové přizpůsobili primitivní kmenovou hierarchii, kde určití členové skupiny vykazují dominanci nad ostatními. Nejděsivější z toho všeho bylo jejo šamanské chování, které bylo pozorováno u některých populací Slithů, což naznačuje silné vazby s jejich tajemným původem.{^n}{^n}Všechny snahy vyhladit slithy se ukázaly být marné, jelikož další jedinci se rodí na nových místech ve skrytých hnízdech a jeskyních. Není pochyb o tom, že jednání jednoho arogantního člověka bude mít vliv ještě na mnoho dalších generací.
 
-tagLoreObj_BookD04Name=Hargatův deník - 1. strana
+tagLoreObj_BookD04Name=Hargatův deník - 1. část
 tagLoreObj_BookD04Text=První den v mé nové laboratoři. Musím říct, že jsem nadšený, že se mi to podařilo. Dny, kdy jsem jenom zíral do knih, jsou konečně pryč. Přijde čas, kdy studium starých knih skončí. Konečně se mohu vydat svou vlastní cestou a dát prostor svým nápadům. Je to naše svatá povinnost jako učenců, zanechat po sobě ve světě nějakou stopu!{^n}{^n}Moje žena Helen a má nejdražší dcera Ellena za mnou brzy přijedou do našeho nového domova. Helen vyjádřila určité znepokojení nad tím, aby naše holčička vyrůstala v laboratoři, daleko od jiných dětí, ale uklidnil jsem ji. Ellena bude mít všechno, co bude potřebovat a Burrwitch je jen kousek odsud po vodě, pokud bude chtít navštívit kamarády.{^n}{^n}Helen a já se společně chystáme dělat něco, na co ostatní alchymisté ani nepomysleli; stvoříme novou formu života. Aether je podivuhodný zdroj energie, ale přesto se nikdo nepozastavil nad tím, aby prozkoumal účinky tohoto organického materiálu. Helenina odbornost v přírodních vědách by měla být v tomto úsilí velmi hodnotná.
 
-tagLoreObj_BookD05Name=Hargatův deník - 2. strana
+tagLoreObj_BookD05Name=Hargatův deník - 2. část
 tagLoreObj_BookD05Text=Na Helenino doporučení jsem vybral ošklivě zelenou bažinnou zmiji jako základ svého experimentu. Její krátká životnost a rychle se měnící kůže je ideální výzkumný předmět. Prvotní výsledky se zdály být na první pohled slibné. Použitím vysoce koncentrované Aetherické energie jsme byli schopni vštěpit různé mutace do vzorků, vytvářeli různé končetiny nebo uměle zvětšovali jejich velikost. Bohužel žádný z těchto vzorků nepřežil déle než pár týdnů, jejich zvýšená mozková funkce byla zřejmě neschopná ovládat přídavné tělní prvky.{^n}{^n}Pro naši druhou sérii pokusů jsme zkusili zformovat zmije s několika grobly chycenými místními lovci. Výsledek byl... přinejmenším zvláštní. I když to nebylo nikterak průlomové, zdá se, že míříme správným směrem. Chorá mysl groblů byla schopna se přizpůsobit novému tělu, ale jeho primitivní a nechutně znetvořená postava se stávala terčem posměchu mých kolegů. Ne, musím k výsledku dojít nějakou logickou cestou. Helen se to moc nepozdává, ale další krok se mi zdá tak jasný jako samotný den...
 
-tagLoreObj_BookD06Name=Hargatův deník - 3. strana
+tagLoreObj_BookD06Name=Hargatův deník - 3. část
 tagLoreObj_BookD06Text=Poslal jsem na léto Helen a Ellenu navštívit rodinu do hlavního města, zatímco já pokračoval ve své práci. Zaúkoloval jsem několik odporných individuí, aby shromáždili "dobrovolníky" pro další stupeň mého výzkumu, obyčejné pobudy a Tuláky, lidi, kteří nikomu chybět nebudou. Tato cena byla sice značná, ale zaplatím jakokoliv cenu, aby pokročil ve svém výzkumu.{^n}{^n}Vzorky dorazily během noci, doručeny v klecích jak jsem chtěl. Moji spolupracovníci sbalili svoje prachy a vypadli bez dalších otázek. Upřímně řečeno, vypadali trochu rozrušeně. Ale nějak se mě to nedotklo. Jsou to jenom prosťáčci, nedokážou pochopit dalekosáhlý význam mé práce.{^n}{^n}Ráno se začaly míchat vzorky, jejich vyděšené výkřiky se nesly celou laboratoří. Vysvětlil jsem jim, že byli vybráni k důležitému úkolu, že jejich životy budou konečně mít nějaký smysl a účel. Spodina by mi měla být vděčná, ale místo toho mě prokleli jako nějakého šílence a zločince. Vymanil jsem se z jejich obvinění a vrátil se k práci. Ještě je toho tady dost, co je potřeba dodělat.
 
-tagLoreObj_BookD07Name=Hargatův deník - 4. strana
+tagLoreObj_BookD07Name=Hargatův deník - 4. část
 tagLoreObj_BookD07Text=Helen a Ellena se ze svého výletu vrátily poměrně brzy. Zatímco si Ellena hrála se svými hračkami v obývacích místnostech, Helen přišla za mnou do laboratoře, kde mne našla mezi mými posledními studiemi. Zděšený výraz v její tváři je něco, na co už nikdy v životě nezapomenu. Snažil jsem se být rozumný. Vysvětlil jsem jí, že to co viděla, byl jen odrazový můstek, že tito muži a ženy zemřeli, aby naše dosavadní práce nebyla promarněna a postavena jen na hadech a groblech. Ale s ní to ani nehlo.{^n}{^n}Moje žena, moje životní partnerka, mne zradila v té nejnevhodnější chvíli. Moje práce je příliš důležitá, a tak šly všechny citové vazby zcela stranou. Udělal jsem rozumnou věc. Ať historie soudí mé činy...{^n}{^n}Přestal jsem se zabývat nešťastným rozptylováním a vrátil se ke svým výsledkům. Hybrid člověka a hada se ukázal být nestabilní a násilnický. Několikrát při studiu jejich fyzických funkcí jsem jimi byl napaden, ale tyto útoky nebyly ničím víc, než posledními záchvěvy na pokraji smrti. Všechny vzorky zemřely krátce po zákroku spojení. Pitva odhalila neúplnou hybridizaci vnitřních orgánů. S nefunkčním zažívacím traktem byla smrt nevyhnutelná. Zajímalo by mě, jestli nebyli příliš staří na to, aby můj postup uspěl. Kdybych začal znovu s mladším kandidátem, snad bych se konečně dočkal kýženého výsledku...
 
 tagLoreObj_VillagerNoteE01Name=Varování: Groblové útočí na říši
@@ -955,13 +955,13 @@ tagLoreObj_AreaCAetherial_NoteA01Text=Bylo dosaženo dohody. Svatyně v Homestea
 tagLoreObj_BlackLegion_NoteA01Name=Průzkumné hlášení Černé legie
 tagLoreObj_BlackLegion_NoteA01Text=Píšu tento dopis jako hlášení o extrémní a zneklidňující Aetherianské činnosti severně od Homesteadu. Vydal jsem se do podhůří a prošel bludištěm nízkých kamenných zídek, plotů a příležitostných usedlostí. Dával jsem si pozor, abych se pohyboval tajně a zůstal neodhalen hrůzami, které se pohybují v neoznačených polích. Prošel jsem údolím mezi dvěma kopci v blízkosti řeky, když jsem se stal svědkem něčeho, co nedokážu ani ve snu pochopit.{^n}{^n}Nadpozemsky černý sloup, který nebyl ani kamenný, ani z masa a kostí, se pomalu sunul po zemi jako nízký mrak. Odporně zelená záře hořela v jeho nitru a obrovská ovíjivá chapadla visela pod posouvajícím se tělem. Sledoval jsem tu pohybující se hrůzu, viděl jsem jak ten pekelný obelisk zpomalil a pak, zcela bez varování, zanořil háky svých mávajících chapadel do země. Země začala pukat a zářit stejně nezdravou zelenou barvou. Pak se najednou obelisk zanořil do země. Se zvukem, který země vydávala, jako by umírala, začala zářit tak jasně, až jsem stěží něco viděl. Síla toho obelisku prosakovala do země, která se prohýbala a byla poškozována s tím, jak se to šířilo.{^n}{^n}Zůstal jsem skoro hodinu na jednom místě a za celou dobu se země ve velké vzdálenosti od obelisku zcela změnila. Už jsem byl na odchodu, když obelisk od země vybuchl a začal se pohybovat k dalšímu nedotčenému kusu země, kde to všechno začalo od znova. Musíme začít něco dělat, nebo už nebude co zachraňovat.{^n}{^n}-- 6. regiment zvědů Černé legie, plukovník Renall Oberach
 
-tagLoreObj_AreaCCultist_NoteA01Name=Avallinin list - strana 1
+tagLoreObj_AreaCCultist_NoteA01Name=Avallinin list - 1. část
 tagLoreObj_AreaCCultist_NoteA01Text=Utíkali jsme dlouho, snad několik týdnů. Aetheriani jsou nám furt v patách, roztahujou se krajinou jako požár. Děcka trpí hladem a těch pár soust, co občas někde seženem u cesty, prostě pro nás čtyři nestačí. Nemám vůbec tucha, jak dlouho tohle ještě zvládnem.{^n}{^n}Cedule na cestě uporňovala, že Kult Ch'thona nabírá nový lidi a má pro všechny dostatek jídla i střechu nad hlavou. Vžycky jsem si je představovala jako kacířský magory, co vyjou na měsíc a koupou se při tom v krvi, ale sliby o bezpečnosti jsou snad až příliš velkorysý na to, aby to byla pravda. Thallon se cuká při pomyšlení, že by ho viděli mezi Krvepřísežníky, ale souhlasil s tím, že to může být jen takové nutné zlo, abysme přežili. Naše děti si zaslouží aspoň ten žvanec.
 
-tagLoreObj_AreaCCultist_NoteA02Name=Avallinin list - strana 2
+tagLoreObj_AreaCCultist_NoteA02Name=Avallinin list - 2. část
 tagLoreObj_AreaCCultist_NoteA02Text=Život mezi Krvepřísežníky vyžadoval nějaké změny v naší malý rodince. Především děti můžeme vídat jenom ve dnech, kdy skončej rituály a všechny práce jsou hotový, což kolikrát bejvá až pozdě v noci. Některý dny je nevidím vůbec, teprve až když večer chrní v postýlkách. Můj manžel má co dělat s modlitbama, říká tý špíně rouhání, ale i tak mu musím připomínat, že to děláme proto, aby rodina přežila.{^n}{^n}Nemůžu si pomoct, ale chtěla bych se zeptat bohů, co nám dali jinýho než tu blbou chudobu. Ale tady, pod ochranou Ch'thona, jsme v bezpečí a máme co do huby. Krvepřísežníci nám dali všechno, co slíbili a ještě mnohem víc. Teď se nás ptají, jestli jim na oplátku věnujeme svou oddanost a pár kapek krve.{^n}{^n}Nemůžu si pomoct, ale teď si každý ráno radostně prozpěvuju a chválím při tom Ch'thona. Rány od rituálního nože slouží jako slabá připomínka toho, že pořád žijeme a nehnijem někde v poušti. Cítím se... dobře. Díky Ch'thonovi se cítím dobře...
 
-tagLoreObj_AreaCCultist_NoteA03Name=Avallinin list - strana 3
+tagLoreObj_AreaCCultist_NoteA03Name=Avallinin list - 3. část
 tagLoreObj_AreaCCultist_NoteA03Text=Všechno začíná a končí u Ch'thona. Až teď to vidím. Fakt jsme trápení mojí rodiny, chudobu, přečkali? To všechno jsou příznaky našeho odloučení od Ch'thona. Krvepřísežníci mi ukázali cestu k vykoupení.{^n}{^n}Velmi dlouho jsem se modlila u oltáře a prolévala svou krev na ty kameny, dokud ke mne nedolehly odpovědi. Jediný způsob, jak skutečně zabezpečit svou rodinu, vede skrz setkání s Ch'thonem.{^n}{^n}Udělala sem všechny nezbytný opatření. Oběť proběhne za úsvitu.
 
 tagLoreObj_AreaCCultist_NoteA04Name=Krev pro Ch'thona
@@ -980,10 +980,10 @@ tagLoreObj_AreaCNecro_Note01Text=Dnešek jsem označil jako nejkritičtější m
 tagLoreObj_AreaCNecro_Note02Name=Doktrína Řádu
 tagLoreObj_AreaCNecro_Note02Text=Řád Strážců smrti byl založen na zásadách Uroboruuka, naše nesmrtelného velmistra. Uroboruuk nás učil, aby nás nikdy nenaplňovala nesčetná tajemství života, protože jinak nikdy nedosáhneme mnohem hlouběji ke zdroji poznání.{^n}{^n}Jako členové Řádu je naší svatou povinností chránit a udržovat naše znalosti, bez ohledu na jejich původ nebo znepokojující povahu, protože žádný člověk nedokáže ocenit jejich hodnotu. Znalosti jsou bohatství, snadno promrhatelné těmi, kdo se jich bojí, o čemž svědčí i blížící se zničení zakládající doktríny Řádu, umění nekromancie.{^n}{^n}Zvládnutí krutého osudu, který čeká všechny lidi, představuje jedinečnou hranici učení. Takže je to na našich zelenáčích, aby překonali svůj strach ze smrti a přijali tuto drsnou lekci za svou. Protože ne vždycky smrtí jejich služba končí.
 
-tagLoreObj_AreaCNecro_Note03Name=Uroboruukův deník - 1. strana
+tagLoreObj_AreaCNecro_Note03Name=Uroboruukův deník - 1. část
 tagLoreObj_AreaCNecro_Note03Text=Něco mocného se k nám blíží ze záhrobí. Cítím to už nějakou dobu. Ale jako sen nebo dávná vzpomínka, nemohl jsem si do teď vzpomenout na nějaké podrobnosti.{^n}{^n}Cítím, že se to drápe zpod svého závoje někde na východě Burrwitche a není pochyb, že tam roztáčí smršť nadpozemské zkaženosti. Troufnu si tvrdit, že její podstata uniká i mě, ale není to ani člověk, ani duch. Musím zjistit, čemu budeme čelit, a bude-li třeba, budu to muset znovu uzavřít za bariérou mezi světy.{^n}{^n}Řád by se teď neměl zabývat takovými záležitostmi, takže to musím udělat sám...{^n}{^n}Uroboruuk
 
-tagLoreObj_AreaCNecro_Note04Name=Uroboruukův deník - 2. strana
+tagLoreObj_AreaCNecro_Note04Name=Uroboruukův deník - 2. část
 tagLoreObj_AreaCNecro_Note04Text=Za tuhle zradu vyrvu tisíce kostí z jejich těl. Zaplatil jsem příliš velkou cenu za přežití toho smrtícího útoku.{^n}{^n}Odhalil jsem obrovskou skupinu chthonických nestvůr. Nejdřív jsem si myslel, že jsou tím zdrojem moci, který jsem hledal, a tak jsem je vystopoval. Tím jak cestovali na východ, tak jsem si uvědomil, že mají stejný důvod jako já. Jenže oni šli cestou k útesům skrze močály. A jak jsem je tak sledoval, vběhnul jsem přímo do léčky a přepadli mě zezadu.{^n}{^n}Boj byl zcela zdrcující a zničil jsem jich desítky v tomhle souboji. Nicméně uprostřed bitvy se několik Poslů ovládlo moje Strážce. Nejdřív jsem myslel, že je chtějí zničit, ale když vybuchli, ten příval chthonické energie se navalil do mých stvoření a zcela přerval mé spojení s nimi. Oživená hromada kostí se otočila ke mě a já věděl že Poslové našli způsob jak zničit má nekromantská stvoření. Pořád vůbec nechápu, jak toho docílili, ale aspoň už vím, čeho jsou tyhle bytosti schopné.{^n}{^n}Jestliže tyhle ďáblové z Prázdnoty jsou schopni využít tuto schopnost ve větším měřítku, pak Řád Strážců smrti bude v podstatě vyšachován. Musím si zachovat naději, že to, co hledám, bude odpovědí na to, jak bojovat s touto temnotou. S každým krokem jejich síla roste a ostatní budou do toho jistě vtaženi. Musím si pospíšit.{^n}{^n}Uroboruuk
 
 tagLoreObj_AreaCZealot_Note01Name=Ministrantův slib
@@ -1032,16 +1032,16 @@ tagLoreObj_AreaDAlpine_NoteA02Text=28. den: Bohové chraňte nás. Hladověli js
 tagLoreObj_AreaDAlpine_NoteA03Name=Výlet na jih - 3. část
 tagLoreObj_AreaDAlpine_NoteA03Text=Den... už nevím kolikátej: Silvie začíná šílet. Je nevraživá. Zlomyslná. Kde je všechna ta něžnost a nevinnost mojí holčičky? Proč je mi to najednou tak ukradený? Nemělo by být. Ale cítím to tak.{^n}{^n}Další bůhvíjakej den: V táboře nikdo nezůstal. Všichni jsou pryč. Musíme jít. Těžko se skrývá krev na zmrzlém sněhu. Jak snadný vystopovat kořist.{^n}{^n}Den... nevím: Těžko se mi píše. Jenom těžko přemejšlim o něčem, když nemám co do huby.{^n}{^n}Den ??: Nový místo mimo cestu. Jak snadný nalákat další cestovatele směřující k jihu. Hledám nějaký bezpečný místo. Nikde ho nenacházim.{^n}{^n}Další den útrap: Žádný žrádlo. Zase. Chtěla bych, aby Silvie našla nějaký lidi, co by přitáhli kus žvance. Je tak nějak škodolibě rozdováděná. John odešel do věčných lovišť, takže už můžu zabíjet.{^n}{^n}Den xx: Jsem fakt hladová. Už se ani neobtěžuju žrádlo vařit.{^n}{^n}Den xxx: Dneska jsem mluvila se ženou. Tím že jíme, tak furt žijem. Držky od krve. A vona se zeptá proč? Řekla jsem jí jediný slovo: "hlad". Silvie se tak strašně smála, jak jí to kecá, když jí stejně sežerem.{^n}{^n}Den...: Vlasy vypadávaj. Je mi to u prdele.{^n}{^n}Den ??: Lidi už mně nelákaj. Už ví co je čeká. Uštveme je.{^n}{^n}Další nějakej den: Silvie je teď dobrou lovkyní. Miluje zabíjení. Já taky. Cejtim se blbě. Vim že to je špatný. Ale něco žrát musime.{^n}{^n}Den xx: Necejtim chlad. Kusy zmrzlý krve mi odpadávaj z huby. Dásně mám prohnilý. No a co.{^n}{^n}Den xx: Pronásledujeme další lidi. Terorizováním je jejich maso sladší a chutnější. Fakt chutná líp.{^n}{^n}Den xx: Chcípám hlady. Musim najít něco jedlýho.{^n}{^n}*Zbytek textu je už v podstatě nemožné přečíst.*
 
-tagLoreObj_AreaDNecropolis_NoteA01Name=Zakázka pro Pohřebiště - strana 1
-tagLoreObj_AreaDNecropolis_NoteA01codexTitle=Pohřebiště - strana 1
-tagLoreObj_AreaDNecropolis_NoteA01Text=I have been commissioned to construct a grand mausoleum that will house the thousands of dead from the great battle with the west. This will be my Magnum Opus. The project will take many decades and at my age it is unlikely that I will live to see its completion.{^n}{^n}I have begun drafting the plans in my head. The main tomb will be centered around a vast well, which will house most of the fallen. The quantity of earth we will need to move is staggering, but it will serve as a foundation for the rest of the city of the dead. While this is being done, a small army of civil servants will be carefully collecting the bodies, crafting notices of identification, and preparing them for temporary burial. It will be many years before the fallen receive their proper burial.{^n}{^n}We have started construction of temporary mass grave structures to hold them. Some of the families have insisted that they take the remains to which I have no objection but I cannot imagine why they would not want their loved ones to be honored here, at the site of their glorious victory. I should note that the bodies of the enemy will be shipped back to their border and left for them to do with as they please. I mean no disrespect to their fallen but, quite frankly, they are not our problem.{^n}{^n}There are thousands of workers being commissioned for the digging, hauling and carving of the stone. Where Erulan found so many able-bodied and willing workers so quickly is obvious. Slaves. Brought from the imperial prison mines, or enemy soldiers from the war.  Distasteful, but there is too much work to get done to be timid about this.{^n}{^n}So many things to consider and prepare. I am eager to get started. I can only hope that my wife and son will be happy here. It won't be much more than a mining town for a few years, but the work is too important to leave to any other.{^n}{^n}The Grand Architect, Hemal Listari
+tagLoreObj_AreaDNecropolis_NoteA01Name=Zakázka na Pohřebiště - 1. část
+tagLoreObj_AreaDNecropolis_NoteA01codexTitle=Pohřebiště - 1. část
+tagLoreObj_AreaDNecropolis_NoteA01Text=Byl jsem pověřen postavit velké mauzoleum, které bude domovem pro tisíce mrtvých z velké bitvy se západem. Bude to mé Magnum Opus. Projekt bude trvat mnoho desítek let a ve svém věku je nepravděpodobné, že se vůbec dožiju dokončení.{^n}{^n}Začal jsem ve své hlavě spřádat plány. Hlavní hrobka bude umístěna uprostřed a obklopena obrovskou studnou, která bude novým domovem většiny padlých. Množství zeminy, kterou budeme muset odtěžit, je ohromující, ale poslouží jako základ pro zbytek města mrtvých. A až bude tohle hotové, naše malá armáda státních ouředníků bude muset pečlivě sbírat těla, vytvářet oznámení o jejich identifikaci a připravovat je k dočasnému pohřbení. Bude to trvat několik let než se padlým dostane řádného pohřbu.{^n}{^n}Začali jsme výýstavbu dočasného hromadného hrobu, abychom je udrželi pospolu. Některé z rodin trvají na tom, že si ponechají ostatky svých blízkých, pokud je nebudu potřebovat, ale netuším, proč by neměli chtít nechat své milované tady, na místě slavného vítězství. Musím poznamenat, že těla nepřátel budou poslány zpátky za hranice a ponechány tam, ať se s nima dělají, co chtějí. Nechci se snížit k nějaké neúctě jejich padlých, ale upřímně řečeno, tohle není náš problém.{^n}{^n}Je tady tisíce dělníků, kteří jsou pověření kopáním, taháním kamenů a jejich otesáváním. Je zřejmé, kde Erulan našel tak rychle tolik zdatných a ochotných pracovníků. Otroci. Byli sem dotaženi z císařských vězeňských dolů nebo to jsou nepřátelští vojáci z války. Je to nechutné, ale je tady tolik práce, která se musí stihnout, že je lepší nad tím nepřemýšlet.{^n}{^n}Je tolik věcí, které musím zvážit a připravit. Nemůžu se dočkat, abych mohl už začít. Mohu jen doufat, že má žena a syn budou šťastní. Teď několik dalších let to nebude nic jiného, než hornické městečko, ale tahle práce je mnohem důležitější než cokoliv jiného.{^n}{^n}Hlavní architekt, Hemal Listari
 
-tagLoreObj_AreaDNecropolis_NoteA02Name=Commission of the Necropolis - Page 2
-tagLoreObj_AreaDNecropolis_NoteA02codexTitle=The Necropolis - Page 2
+tagLoreObj_AreaDNecropolis_NoteA02Name=Zakázka na Pohřebiště - 2. část
+tagLoreObj_AreaDNecropolis_NoteA02codexTitle=Pohřebiště - 2. část
 tagLoreObj_AreaDNecropolis_NoteA02Text=After ten years, the Necropolis, as it has come to be known, is more than halfway finished. Far ahead of my early projections. Though I can't say it has been without complications.{^n}{^n}I was shocked when an agent of the Erulan Imperium appeared and began reassigning workers and equipment without my approval. Apparently the Imperium is having an additional chamber constructed beneath my original designs. These imbeciles have no sense of grandeur and design. This is my life's work we are talking about! I don't care how much the Imperium is paying me. I will not stand for it.{^n}{^n}Over the last seven months, I have written several distasteful letters to the Erulan council stating my displeasure with these arrangements. Not a single response. Every time I see that wretched man, Vestiaris, I confront him on the subject; and every time he gives me the same tired response: â€œI have been appointed by the Erulan Imperium. If you take issue with my duties here, please take it up with themâ€. Well they can ignore me all they want. This is my vision and I will not be pushed aside as it is befouled. I don't care how long it takes. I will find out what they are doing down there and I will put an end to it.{^n}{^n}The Grand Architect, Hemal Listari
 
-tagLoreObj_AreaDNecropolis_NoteA03Name=Commission of the Necropolis - Page 3
-tagLoreObj_AreaDNecropolis_NoteA03codexTitle=The Necropolis - Page 3
+tagLoreObj_AreaDNecropolis_NoteA03Name=Zakázka na Pohřebiště - 3. část
+tagLoreObj_AreaDNecropolis_NoteA03codexTitle=Pohřebiště - 3. část
 tagLoreObj_AreaDNecropolis_NoteA03Text=My father, Hemal Listari, is dead. After nearly twenty years of his finest work, the Necropolis is complete. It is of great misfortune that he did not live to see his final work completed, having suddenly passed away mere days ago. It haunts me how strong and healthy he was to die as suddenly as he did. I am deeply saddened, and yet filled with pride and happiness that I was handed the honor of finishing his grand designs. The Imperium has agreed to have him entombed here, a great honor to our family name to be at rest with so many valiant defenders of our great nation.{^n}{^n}As for myself, I am designing my father's mausoleum and then I must leave for my next commission. I have been tasked with the construction of a massive tunnel that will be serve as passage between the conquered northlands and the Arkovian south; perhaps not as noble a project as the great Necropolis, but it will be mine and I have many years to fill my father's shoes.{^n}{^n}I wanted to stay and oversee the construction of my father's mausoleum, but the orders were clear that I get started on the passage immediately. I don't understand the rush or insistence. I almost feel like they are forcing me to leave.{^n}{^n}Assistant Architect, Modin Listari
 
 tagLoreObj_AreaDIkon_NoteA01Name=Black Legion Scouting Report: Necropolis

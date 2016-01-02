@@ -7,7 +7,7 @@ Neviním tě z toho, jak ses [[ms]rozhodl[fs]rozhodla]. Angrim je dobrý kovář
 Sbohem.
 Ty ses [[ms]vrátil[fs]vrátila]! Máš Malleum Menhir?
 Omlouvám se, ale kladivo zůstane u Angrima.
-Ah, Já...chápu...Pak hádám, že tohle je sbohem. Pokud mne teď omluvíš, musím ke kovárně.
+Ach, já... chápu... pak tedy hádám, že tohle je sbohem. Pokud mne teď omluvíš, musím ke kovárně.
 Sbohem.
 Ty ses [[ms]vrátil[fs]vrátila]! Máš Malleum Menhir?
 [[ms]Přesvědčil[fs]Přesvědčila] jsem Angrima, aby se ho vzdal. Tady ho máš.
@@ -29,7 +29,7 @@ Cože?! Jdi zpátky a najdi ho. To kladivo je k nezaplacení!
 Jdu na to.
 Tak? [[ms]Mluvil[fs]Mluvila] jsi s Angrimem?
 Kdeže je?
-Můj mistr opustil kemp dnes brzy ráno, zamířil na severovýchod. Nemůže být daleko.
+Můj mistr opustil tábořiště dnes brzy ráno, zamířil na severovýchod. Nemůže být daleko.
 
 
 Najdu ho.
@@ -46,7 +46,7 @@ Chápu.
 Stále ho hledám.
 Ahoj [[ms]cestovateli[fs]cestovatelko]. Když jsi [[ms]došel[fs]došla] až sem do této oblasti, zajímalo by mne, jestli bys nám [[ms]nepomohl[fs]nepomohla] někoho najít. Jsem tak trochu zaneprázdněný tady s tou kovárnou.
 Někdo se ztratil?
-Můj mistr, Angrim, opustil náš kemp dnes brzy ráno. Je rozhodnutý najít skupinu přeživších, které považuje za "hodné" našeho kovářského umu. Tak úplně jsme se neshodli na tom, komu máme pomoci.{^n}{^n}Angrim chce vybudovat armádu a bojovat s Aetheriany. Já bych raději zachránil tolik lidí, kolik dokážu, ať už umí bojovat či ne. Chci pomoci těmto lidem, ale bez Malleum Menhir, posvátného kovářského kladiva mého mistra, nedokážu vyrobit něco, co by za to stálo.
+Můj mistr, Angrim, opustil naše tábořiště dnes brzy ráno. Je rozhodnutý najít skupinu přeživších, které považuje za "hodné" našeho kovářského umu. Tak úplně jsme se neshodli na tom, komu máme pomoci.{^n}{^n}Angrim chce vybudovat armádu a bojovat s Aetheriany. Já bych raději zachránil tolik lidí, kolik dokážu, ať už umí bojovat či ne. Chci pomoci těmto lidem, ale bez Malleum Menhir, posvátného kovářského kladiva mého mistra, nedokážu vyrobit něco, co by za to stálo.
 Kovář? Užili bychom tě v Ďáblově průsmyku.
 Pokud získáš Malleum Menhir zpět, rád se k tobě přidám v Ďáblově průsmyku poté, až ho využiji k pomoci zde. {^n}{^n}Prosím, vyhledej mého mistra a přines Malleum Menhir zpět. Viděl jsem ho odcházet na severovýchod. Nemohl se dostat daleko.
 Najdu Angrima.

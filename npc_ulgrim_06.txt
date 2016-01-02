@@ -7,15 +7,15 @@ Nestůj tady jen tak a nekoukej na tu mojí hezkou tvář, je tady dost práce!
 Zatím.
 Setkám se s tebou v Hrobce Strážců, hned za Loghorreanovou kobkou.{^n}{^n}A teď už jdi!
 Kdeže je Hrobka Strážců?
-Hrobka Strážců je v severovýchodní části Nekropole. Bude těžce bráněna jak Kultem Ch'thona, tak příšerami z Prázdnoty, takže buď [[ms]opatrný[fs]opatrná].{^n}{^n}Sestkám se s tebou v Loghorreanově kobce.
+Hrobka Strážců je v severovýchodní části Pohřebiště. Bude těžce bráněna jak Kultem Ch'thona, tak příšerami z Prázdnoty, takže buď [[ms]opatrný[fs]opatrná].{^n}{^n}Sestkám se s tebou v Loghorreanově kobce.
 Setkáme se uvnitř.
 Dobrá.
 Kult Ch'thona je v příliš velkém počtu, abychom na ně zaútočili přímo, ale můžeme sabotovat jejich úsilí pár precizními útoky, zatímco naši přátelé z Černé legie udrží jejich pozornost jinde.
 Coi jsi měl na mysli?
-Vypadá to, že rituál je poháněn krví shromážděnou v tábořištích kultistů, která je sem dodávána v ohavných vagónech plné krve. {^n}{^n}Aby to bylo ještě složitější, nepřetržitý to krve zajišťuje, že je nad vstupem do Hrobky Strážců chtonická pečeť. Možná bych se tam s patřičným vynaloženým úsilím dostal, ale není šance, že bys mne [[ms]mohl[fs]mohla] následovat skrz. Budeš muset nejdříve přerušit dodávání krve. Samotná hrobka je rozdělena na tři patra s tím, že nejspodnější patro je oddělené pradávnými ochrannými mechanismy; ale pokud kult dodává krev v tak velkém množství, tak už se skrze ně museli dostat.{^n}{^n}Vstoupím do hrobky a uvidím, jestli mohu rituál přerušit zevnitř. Mezitím by ses [[ms]měl[fs]měla] vypořádat s těmi vagóny plnými krve. Až to dokončíš, připoj se k mně na spodním patře, hned za Loghorreanovou kobkou. S trochou štěstí zastavíme kult ještě před tím, než Loghorrean vůbec pohne jedním se svých chapadel.
+Vypadá to, že rituál je poháněn krví shromážděnou v tábořištích kultistů, která je sem dodávána v ohavných povozech plné krve. {^n}{^n}Aby to bylo ještě složitější, nepřetržitý to krve zajišťuje, že je nad vstupem do Hrobky Strážců chtonická pečeť. Možná bych se tam s patřičným vynaloženým úsilím dostal, ale není šance, že bys mne [[ms]mohl[fs]mohla] následovat skrz. Budeš muset nejdříve přerušit dodávání krve. Samotná hrobka je rozdělena na tři patra s tím, že nejspodnější patro je oddělené pradávnými ochrannými mechanismy; ale pokud kult dodává krev v tak velkém množství, tak už se skrze ně museli dostat.{^n}{^n}Vstoupím do hrobky a uvidím, jestli mohu rituál přerušit zevnitř. Mezitím by ses [[ms]měl[fs]měla] vypořádat s těmi povozy plnými krve. Až to dokončíš, připoj se k mně na spodním patře, hned za Loghorreanovou kobkou. S trochou štěstí zastavíme kult ještě před tím, než Loghorrean vůbec pohne jedním se svých chapadel.
 Kult zastavíme.
 Nemůže to vyřídit někdo jiný?
-Vagóny už jsem [[ms]zničil[fs]zničila].
+Povozy už jsem [[ms]zničil[fs]zničila].
 Dobrá.{^n}{^n}Nyní jediné co zbývá je jednoduchá záležitost; probojovat se do nitra nepřátelských sil, vniknout do Hrobky Strážců a zabezpečit místo, kde se provádějí tiruály než kult napáchá nějaké další škody.{^n}{^n}Setkáme se v hrobce.
 Dokončíme to.
 [[ms]Měl[fs]Měla] bych nějaké otázky.
@@ -27,7 +27,7 @@ Jaký je náš další krok?
 Mám další otázku.
 Hned se vrátím.
 Říkáš, že už tahle věc jednou vyvolaná byla?
-Ano, před mnoha staletími, v Bitvě o Ikon. Nikdo s jistotou neví jestli to byli Carineňané, kdo udělal tenhle poslední zoufalý krok, a nebo byl Loghorrean přilákán tou veškerou prolitou krví, ale výsledek byl katastrofální. {^n}{^n}A teď už víme, jaký opravdový důvod stojí za stavbou Nekropole.
+Ano, před mnoha staletími, v Bitvě o Ikon. Nikdo s jistotou neví jestli to byli Carineňané, kdo udělal tenhle poslední zoufalý krok, a nebo byl Loghorrean přilákán tou veškerou prolitou krví, ale výsledek byl katastrofální. {^n}{^n}A teď už víme, jaký opravdový důvod stojí za stavbou Pohřebiště.
 What's our next step?
 
 Mám další otázku.
@@ -42,7 +42,7 @@ Tohle budu potřebovat prokonzultovat později.
 Už ti to trvalo dost dlouho.{^n}{^n}V jednu chvíli jsem si myslel, že půjdu zachránit svět sám.
 Jaký je plán?
 
-Připrav se. Noční můra pohřbená pod Nekropolí je více než skutečná.
+Připrav se. Noční můra pohřbená pod Pohřebištěm je více než skutečná.
 [[ms]Měl[fs]Měla] bych nějaké otázky.
 Nejsem si jistý, jestli je na to teďka čas.
 Vypadáš až nezvykle znepokojený návratem Loghorreana.
@@ -50,13 +50,13 @@ To nic není. Jen jsem smutný z toho že jsem zjistil, že takové zlo nemůže
 Mám další otázku.
 Budu si to pamatovat.
 Říkáš, že už tahle věc jednou vyvolaná byla?
-Ano, před mnoha staletími, v Bitvě o Ikon. Nikdo s jistotou neví jestli to byli Carineňané, kdo udělal tenhle poslední zoufalý krok, a nebo byl Loghorrean přilákán tou veškerou prolitou krví, ale výsledek byl katastrofální. {^n}{^n}A teď už víme, jaký opravdový důvod stojí za stavbou Nekropole.
+Ano, před mnoha staletími, v Bitvě o Ikon. Nikdo s jistotou neví jestli to byli Carineňané, kdo udělal tenhle poslední zoufalý krok, a nebo byl Loghorrean přilákán tou veškerou prolitou krví, ale výsledek byl katastrofální. {^n}{^n}A teď už víme, jaký opravdový důvod stojí za stavbou Pohřebiště.
 Mám další otázku.
 Chyby z minulosti se vrací zpět.
 Jaký je náš plán akce?
 Černá legie způsobí rozruch zatímco ty se postaráš o špinavou práci. {^n}{^n}Budeme muset přerušit tok krve do vyvolávací komnaty a poté samotný rituál, a to ve Hrobce Strážců. {^n}{^n}Nic ti nerozpumpuje srdce víc než stará dobrá sebevražedná mise.
 Mám další otázku.
-Jasně, um...dobře...
+Jasně, no... dobře...
 Na mě to působí.
 Neřeš to.
 Zatím.
