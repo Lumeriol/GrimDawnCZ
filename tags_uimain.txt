@@ -56,10 +56,10 @@ tagMenuImport04=Třída
 tagMenuImport05=Úroveň
 tagMenuImport06=Přejmenovat postavu:
 
-tagRDifficultyTitle01=Normální
-tagRDifficultyTitle02=Elitní
-tagRDifficultyTitle03=Ultimátní
-tagChallengeDifficulty=Veteránská
+tagRDifficultyTitle01=Normální obtížnost
+tagRDifficultyTitle02=Elitní obtížnost
+tagRDifficultyTitle03=Ultimátní obtížnost
+tagChallengeDifficulty=Veteránská obtížnost
 tagHardcore=Výzva
 tagRDifficultyDesc01=Pro odemčení těžších obtížností musíš dokončit hru na této obtížnosti.
 tagRDifficultyDesc02=Pro odemčení veteránské obtížnosti musíš dokončit hru na normální obtížnost.

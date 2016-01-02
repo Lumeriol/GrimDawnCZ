@@ -12,7 +12,7 @@ tagBlackLegion_GuardRangedA01=Střelec Černé legie
 
 tagBlackLegion_MeleeA01=Stoupenec Černé legie
 tagBlackLegion_MeleeB01=Předvoj Černé legie
-tagBlackLegion_RangedA01=Ostrostřelec Černé legie
+tagBlackLegion_RangedA01=Stopař Černé legie
 tagBlackLegion_CasterB01=Bojový čaroděj Černé legie
 tagBlackLegion_CasterB02=Bojový zdravotník Černé legie
 tagBlackLegion_ChampionC01=Kapitán Černé legie

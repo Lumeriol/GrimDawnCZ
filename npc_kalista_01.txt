@@ -5,67 +5,67 @@ Prosím. Jsem tak vyděšená.
 Někdo přichází. Zůstaň tady.
 Prosím pomoz mi. Jsem tak vystrašená.
 Jak se stalo, že jsi tady dole uvězněná?
-Vydala jsem se sama hrát ven i když mi maminka říkala, abych to nedělala. Došla jsem do této jeskyně, ale vchod za mnou se zhroutil.{^n}{^n}*Kalista mezi slovy pofňukává*{^n}{^n}Prosím, jenom chci jít domů za mým tatínkem a maminkou. Žijí v kempu nedaleko.
-Samozřejmě že ti pomůžu. (Otevři Bránu)
+Vydala jsem se sama hrát ven i když mi maminka říkala, abych to nedělala. Došla jsem do této jeskyně, ale vchod za mnou se zhroutil.{^n}{^n}*Kalista mezi slovy pofňukává*{^n}{^n}Prosím, jenom chci jít domů za mým tatínkem a maminkou. Žijí v nedalekém tábořišti.
+Samozřejmě že ti pomůžu. (otevři Bránu)
 Hned se vrátím.
 Proč se nevydali tě hledat?
-Já...Já nevím. Proč na tom záleží? Možná že tohle místo nemohou pod tou hromadou kamenů prostě najít.{^n}{^n}*Kalista už skoro brečí*{^n}{^n}Děsíš mě všemi těmi otázkami. Potřebuji se prostě dostat z tohoto vězení!
+Já... já nevím. Proč na tom záleží? Možná že tohle místo nemohou pod tou hromadou kamenů prostě najít.{^n}{^n}*Kalista už skoro brečí*{^n}{^n}Děsíš mě všemi těmi otázkami. Potřebuji se prostě dostat z tohoto vězení!
 Dobrá, uklidni se. Dostanu tě domů (Otevři Bránu)
 Hned se vrátím.
 
 
 Kde je vaše tábořiště?
-[[ms]Musel[fs]Musela] si projít kempem na cestě sem. Cítím... Tedy mám na mysli, že vím že mí lidé jsou dole v údolí; pravděpodobně na mě čekají! {^n}{^n}*Kalista fňuká*{^n}{^n}Prosím, musíš mě pustit ven; musím z tohoto místa utéct!
-Dostanu tě domů. (Otevři Bránu)
+[[ms]Musel[fs]Musela] si projít tábořištěm na cestě sem. Cítím... tedy mám na mysli, že vím že mí lidé jsou dole v údolí; pravděpodobně na mě čekají! {^n}{^n}*Kalista fňuká*{^n}{^n}Prosím, musíš mě pustit ven; musím z tohoto místa utéct!
+Dostanu tě domů. (otevři Bránu)
 Hned se vrátím.
 Proč tě tví rodiče nehledali?
 
 Jak dlouho jsi tady byla?
-Já...Já nevím. Mnoho dní.{^n}{^n}Je to tu tmavé a strašidelné. A...a někdy slyším nějaké věci chodit kolem, ale nevidím je.{^n}{^n}Teďka už bych ráda šla domů. Mám hlad; tak strašný hlad...
-Dostanu tě domů. (Otevři Bránu)
+Já... já nevím. Mnoho dní.{^n}{^n}Je to tu tmavé a strašidelné. A... a někdy slyším nějaké věci chodit kolem, ale nevidím je.{^n}{^n}Teďka už bych ráda šla domů. Mám hlad; tak strašný hlad...
+Dostanu tě domů. (otevři Bránu)
 Hned se vrátím.
 Neměl by tě někdo hledat?
 
 
 Připadá mi divné, že jsi tady přežila sama.
 Připadá mi divné, že jsi tak podezíravý. Tvá nedůvěra musí být odrazem tvého vlastního ubohého charakteru!{^n}{^n}Je tvé srdce tak zahořklé, že nepomůžeš ztracenému dítěti najít cestu domů?{^n}{^n}Prosím pomoz mi!
-Dostanu tě domů. (Otevři Bránu)
+Dostanu tě domů. (otevři Bránu)
 Hned se vrátím.
 Proč tě nikdo nehledal?
 
 
 
 Odkud jsi?
-Žiji v kempu nedaleko s mamkou a taťkou. Říkají, že jsme Tou...Tuláci, ale já nevím co to znamená. {^n}{^n}Jenom chci jít prostě domů.
-Dostanu tě domů. (Otevři Bránu)
+Žiji v nedalekém tábořišti s mamkou a taťkou. Říkají, že jsme Tou... Tuláci, ale já nevím co to znamená. {^n}{^n}Jenom chci jít prostě domů.
+Dostanu tě domů. (otevři Bránu)
 Hned se vrátím.
 Jak se stalo, že jsi tady dole uvězněná?
-Vydala jsem se sama hrát ven, i když mi maminka říkala, abych to nedělala. Došla jsem do této jeskyně, ale vchod za mnou se zhroutil.{^n}{^n}*Kalista mezi slovy pofňukává*{^n}{^n}Prosím, jenom chci jít domů za mým tatínkem a maminkou. Žijí v kempu nedaleko.
-Samozřejmě že ti vypomůžu. (Otevři Bránu)
+Vydala jsem se sama hrát ven, i když mi maminka říkala, abych to nedělala. Došla jsem do této jeskyně, ale vchod za mnou se zhroutil.{^n}{^n}*Kalista mezi slovy pofňukává*{^n}{^n}Prosím, jenom chci jít domů za mým tatínkem a maminkou. Žijí v nedalekém tábořišti.
+Samozřejmě že ti vypomůžu. (otevři Bránu)
 Hned se vrátím.
 
 
 
 Proč tě nehledali?
-Já...Já nevím. Proč na tom záleží? Možná že tohle místo nemohou pod tou hromadou kamenů prostě najít.{^n}{^n}*Kalista už skoro brečí*{^n}{^n}Děsíš mě všemi těmi otázkami. Potřebuji se prostě dostat z tohoto vězení!
-Dobrá, uklidni se. Dostanu tě domů (Otevři Bránu)
+Já... já nevím. Proč na tom záleží? Možná že tohle místo nemohou pod tou hromadou kamenů prostě najít.{^n}{^n}*Kalista už skoro brečí*{^n}{^n}Děsíš mě všemi těmi otázkami. Potřebuji se prostě dostat z tohoto vězení!
+Dobrá, uklidni se. Dostanu tě domů (otevři Bránu)
 Hned se vrátím.
 
 
 Je na tom něco podezřelého.
 *Oheň zajiskří v Kalistině očích*{^n}{^n}Odveď mě ihned z tohoto místa!
-Jsi podvodník, démone. (Zaútoč)
+Jsi podvodník, démone. (zaútoč)
 Ušetřím tě, prozatím.
 Jak dlouho jsi tady byla?
-Já...Já nevím. Mnoho dní.{^n}{^n}Je to tu tmavé a strašidelné. A...a někdy slyším nějaké věci chodit kolem, ale nevidím je.{^n}{^n}Teďka už bych ráda šla domů. Mám hlad; tak strašný hlad...
-Dostanu tě domů. (Otevři Bránu)
+Já... já nevím. Mnoho dní.{^n}{^n}Je to tu tmavé a strašidelné. A... a někdy slyším nějaké věci chodit kolem, ale nevidím je.{^n}{^n}Teďka už bych ráda šla domů. Mám hlad; tak strašný hlad...
+Dostanu tě domů. (otevři Bránu)
 Hned se vrátím.
 
 Neměl by tě někdo hledat?
 
 Připadá mi divné, že jsi tady přežila sama.
 Připadá mi divné, že jsi tak podezíravý. Tvá nedůvěra musí být odrazem tvého vlastního ubohého charakteru!{^n}{^n}Je tvé srdce tak zahořklé, že nepomůžeš ztracenému dítěti najít cestu domů?{^n}{^n}Prosím pomoz mi!
-Dostanu tě domů. (Otevři Bránu)
+Dostanu tě domů. (otevři Bránu)
 Hned se vrátím.
 
 Proč se tě nikdo nevydal hledat?
@@ -76,19 +76,19 @@ Malá dívka a úplně sama, tady?
 
 
 Jak dlouho jsi tady byla?
-Já...Já nevím. Mnoho dní.{^n}{^n}Je to tu tmavé a strašidelné. A...a někdy slyším nějaké věci chodit kolem, ale nevidím je.{^n}{^n}Teďka už bych ráda šla domů. Mám hlad; tak strašný hlad...
-Dostanu tě domů. (Otevři Bránu)
+Já... já nevím. Mnoho dní.{^n}{^n}Je to tu tmavé a strašidelné. A... a někdy slyším nějaké věci chodit kolem, ale nevidím je.{^n}{^n}Teďka už bych ráda šla domů. Mám hlad; tak strašný hlad...
+Dostanu tě domů. (otevři Bránu)
 Hned se vrátím.
 
 
 Neměl by tě někdo hledat?
-Já...Já nevím. Proč na tom záleží? Možná že tohle místo nemohou pod tou hromadou kamenů prostě najít.{^n}{^n}*Kalista už skoro brečí*{^n}{^n}Děsíš mě všemi těmi otázkami. Potřebuji se prostě dostat z tohoto vězení!
+Já... já nevím. Proč na tom záleží? Možná že tohle místo nemohou pod tou hromadou kamenů prostě najít.{^n}{^n}*Kalista už skoro brečí*{^n}{^n}Děsíš mě všemi těmi otázkami. Potřebuji se prostě dostat z tohoto vězení!
 Dobrá, uklidni se. Dostanu tě domů (Otevři Bránu)
 Hned se vrátím.
 
 Připadá mi divné, že jsi tady přežila sama.
 Připadá mi divné, že jsi tak podezíravý. Tvá nedůvěra musí být odrazem tvého vlastního ubohého charakteru!{^n}{^n}Je tvé srdce tak zahořklé, že nepomůžeš ztracenému dítěti najít cestu domů?{^n}{^n}Prosím pomoz mi!
-Dostanu tě domů. (Otevři Bránu)
+Dostanu tě domů. (otevři Bránu)
 Hned se vrátím.
 
 
