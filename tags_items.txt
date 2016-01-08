@@ -1,6 +1,6 @@
-#prefix/quality/style/name/suffix concatenation #CZ - style is on last position
+#prefix/quality/style/name/suffix concatenation
 
-tagItemNameOrder=${%_3a0}{%_3a1}{%_s3}{%_3a4}{%_3a2}
+tagItemNameOrder=${%_3a0}{%_3a1}{%_3a2}{%_s3}{%_3a4}
 tagItemNameAndStack={%s0} ({%d1})
 
 #Weapons
@@ -826,9 +826,9 @@ tagRare=vzácné kvality
 tagEpic=epické kvality
 tagLegend=legendární kvality
 
-tagStyleUniqueTier2=~ mocný předmět
-tagStyleUniqueTier3=~ bájný předmět
-tagStyleFactionTier2=~ elitní předmět
+tagStyleUniqueTier2=[ms]mocný[fs]mocná[ns]mocné[mp]mocné[fp]mocné[np]mocné
+tagStyleUniqueTier3=[ms]bájný[fs]bájná[ns]bájné[mp]bájné[fp]bájné[np]bájné
+tagStyleFactionTier2=[ms]elitní[fs]elitní[ns]elitní[mp]elitní[fp]elitní[np]elitní
 
 tagSoulbound=Předmět svázaný s duší
 tagDestroySoulbound=Zničit předmět svázaný s tvou duší?
@@ -3550,7 +3550,7 @@ tagPrefixAO013=[ms]Prázdnotou dotčený[fs]Prázdnotou dotčená[ns]Prázdnotou
 
 tagPrefixB001_WpnMelee1h_A=[ms]tyranův[fs]tyranova[ns]tyranovo[mp]tyranovy[fp]tyranovy[np]tyranovy
 tagPrefixB002_WpnMelee1h_A=[ms]nepovolný[fs]nepovolná[ns]nepovolné[mp]nepovolné[fp]nepovolné[np]nepovolné
-tagPrefixB003_WpnMelee1h_A=[ms]inkvizitorův[fs]inkvizitorova[nsinkvizitorovo[mp]inkvizitorovy[fp]inkvizitorovy[np]inkvizitorovy
+tagPrefixB003_WpnMelee1h_A=[ms]inkvizitorův[fs]inkvizitorova[ns]inkvizitorovo[mp]inkvizitorovy[fp]inkvizitorovy[np]inkvizitorovy
 tagPrefixB004_WpnMelee1h_A=[ms]moronosičův[fs]moronosičova[ns]moronosičovo[mp]moronosičovy[fp]moronosičovy[np]moronosičovy
 tagPrefixB005_WpnMelee1h_A=[ms]barbarský[fs]barbarská[ns]barbarské[mp]barbarské[fp]barbarské[np]barbarské
 tagPrefixB006_WpnMelee1h_A=[ms]krvežíznivý[fs]krvežíznivá[ns]krvežíznivé[mp]krvežíznivé[fp]krvežíznivé[np]krvežíznivé
@@ -3588,7 +3588,7 @@ tagPrefixB011_Ar_A=[ms]šílencův[fs]šílencova[ns]šílencovo[mp]šílencovy[
 tagPrefixB012_Ar_A=[ms]dozorův[fs]dozorova[ns]dozorovo[mp]dozorovy[fp]dozorovy[np]dozorovy
 tagPrefixB013_Ar_A=[ms]paladinův[fs]paladinova[ns]paladinovo[mp]paladinovy[fp]paladinovy[np]paladinovy
 tagPrefixB014_Ar_A=[ms]serafínský[fs]serafínská[ns]serafínské[mp]serafínské[fp]serafínské[np]serafínské
-tagPrefixB015_Ar_A=[msposvěcený[fs]posvěcená[ns]posvěcené[mp]posvěcené[fp]posvěcené[np]posvěcené
+tagPrefixB015_Ar_A=[ms]posvěcený[fs]posvěcená[ns]posvěcené[mp]posvěcené[fp]posvěcené[np]posvěcené
 tagPrefixB016_Ar_A=[ms]namrzlý[fs]namrzlá[ns]namrzlé[mp]namrzlé[fp]namrzlé[np]namrzlé
 tagPrefixB017_Ar_A=[ms]zkázonosný[fs]zkázonosná[ns]zkázonosné[mp]zkázonosné[fp]zkázonosné[np]zkázonosné
 tagPrefixB018_Ar_A=[ms]nezkazitelný[fs]nezkazitelná[ns]nezkazitelné[mp]nezkazitelné[fp]nezkazitelné[np]nezkazitelné
