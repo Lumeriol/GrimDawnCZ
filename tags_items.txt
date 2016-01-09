@@ -925,7 +925,7 @@ tagHeadD002=Gurgothova hrůzná maska
 tagHeadD003=Šeptač tajemství
 tagheadD003Desc="Našeptává temná tajemství do uší svých obětí před smrtícím úderem."
 tagHeadD004=Hlubinná maska
-tagheadD004Desc="Svázána smrtí k smrti nespoutaným."
+tagheadD004Desc="Svázána smrtí k odpoutání se od smrti."
 tagHeadD005=Čelenka obřího hada
 tagHeadD006=Maska pekelné pravdy
 tagHeadD007=Chránič obličeje před spravedlností
@@ -2996,7 +2996,7 @@ tagCompA018Name=Hroty zla
 tagCompA018Desc="Nezkrotné hroty z nepřirozené bytosti."^w^n(může vylepšit štíty a kouzelnické příruční předměty)
 
 tagCompA019Name=Zářivý klenot
-tagCompA019Desc="Lesknoucí se klenot, který hraje všemi barvami."^w^n(může vylepšit štíty a kouzelnické kouzelnické příruční předměty)
+tagCompA019Desc="Lesknoucí se klenot, který hraje všemi barvami."^w^n(může vylepšit štíty a kouzelnické příruční předměty)
 
 tagCompA020Name=Náboj pekelného prokletí
 tagCompA020Desc="Posvěcená munice, která má způsobit velkou bolest těm, jež mají nečisté úmysly."^w^n(může vylepšit pušky, kuše a kouzelnické příruční předměty)
