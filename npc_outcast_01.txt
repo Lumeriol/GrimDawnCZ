@@ -123,13 +123,13 @@ Báječné. Tento spis je zázračná fontána vědomostí, které jsou datován
 Dobrá.
 Máš tu knihu, kterou potřebuji?
 Kde že ta kniha je?
-Archív nevyřčených osudů je ve vlastnictví dlouho mrtvého Arkoviánce zvaného Elnadrinův stín. Musíš se vydat do Stupňů bolesti v Sesutých kopcích, projít skrze starověkou bránu a sničit Stín. Získej tu knihu a přines mi ji.
+Archív nevyřčených osudů je ve vlastnictví dlouho mrtvého Arkoviánce zvaného Elnadrinův stín. Musíš se vydat do Stupňů bolesti v Sesutých kopcích, projít skrze starověkou bránu a zničit Stín. Získej tu knihu a přines mi ji.
 Podívám se po ní.
 
 Stále na tom dělám.
 Ah, můj jediný přítel v této proklaté věznici se vrátil. {^n}{^n}Možná bys [[ms]pomohl[fs]pomohla] staré čarodejnici v hledání odpovědí?
 Co potřebuješ?
-Předpokládá se, že Arkoviánci měli přístup k mocné magii věštění, ale toto umění bylo ztraceno, když jejich civilizace propadla prokletí nekromancera. {^n}{^n}Věřím, že tuto praktiku můžeme obnovit s těmi správnými informacemi. Kniha známá jako Archív nevyřčených osudů je v držení Arkoviánce známého jako Elnadrinův stín.{^n}{^n}Musíš se vydat do Stupňů bolesti v Sesutých kopcích, projít skrze starověkou bránu a sničit Stín. Získej tu knihu a přines mi ji.
+Předpokládá se, že Arkoviánci měli přístup k mocné magii věštění, ale toto umění bylo ztraceno, když jejich civilizace propadla prokletí nekromancera. {^n}{^n}Věřím, že tuto praktiku můžeme obnovit s těmi správnými informacemi. Kniha známá jako Archív nevyřčených osudů je v držení Arkoviánce známého jako Elnadrinův stín.{^n}{^n}Musíš se vydat do Stupňů bolesti v Sesutých kopcích, projít skrze starověkou bránu a zničit Stín. Získej tu knihu a přines mi ji.
 Tu knihu získám.
 Nemám zájem se tam vydat.
 Je tohle ta kniha, kterou hledáš?
@@ -155,7 +155,7 @@ Ulovím to.
 Stále jsem na lovu.
 Pověz, [[ms]slyšel[fs]slyšela] jsi někdy pověst o obrovské bestii, Beronathovi?
 Ne, ale rád bych si to [[ms]poslechl[fs]poslechla].
-Je to legenda stará snad jak sám čas, nespočetněkrát převyprávěná s různými hrdiny a někdy i s různými příšerami. V každé z nich velký hrdina stopuje monstrum, které terorizovalo okolní vesnice.{^n}{^n}Lov vezme hrdinu na deset let dlouhou pouť skrze zapomenuté kraje a na daleko vzdálená pobřeží, vždy konec se odehrává vždy na vrchnolku hory, kde je Benorath probodnut kopím z kosti. Monstrum se zřítí z vrcholku a z jeho prolité krve se zrodila monstra a stvůry, kterých se v dnešních dnech obáváme. {^n}{^n}Detaily jsou pozměněny díky folklórům, ale jeden fakt zůstává: Beronath kdysi žil. Mít kousek tak starodávného původu by se mohl hodit k mému kouzelnictví, a já věřím že vím, kde jeden takový potomek přebývá. {^n}{^n}Lidé z Burrwitche mu říkají Kalis Ka, Lovec kostí. Loví v oblastni zvané Východní močály, ale usídlilo se ma skalnatém výběžku. Vystopuj pro mě to monstrum a zabij ho. Pak seber jeden z jeho pařátů a přines mi ho.
+Je to legenda stará snad jak sám čas, nespočetněkrát převyprávěná s různými hrdiny a někdy i s různými příšerami. V každé z nich velký hrdina stopuje monstrum, které terorizovalo okolní vesnice.{^n}{^n}Lov vezme hrdinu na deset let dlouhou pouť skrze zapomenuté kraje a na daleko vzdálená pobřeží, vždy konec se odehrává vždy na vrchnolku hory, kde je Benorath probodnut kopím z kosti. Monstrum se zřítí z vrcholku a z jeho prolité krve se zrodila monstra a stvůry, kterých se v dnešních dnech obáváme. {^n}{^n}Detaily jsou pozměněny díky folklórům, ale jeden fakt zůstává: Beronath kdysi žil. Mít kousek tak starodávného původu by se mohl hodit k mému kouzelnictví, a já věřím že vím, kde jeden takový potomek přebývá. {^n}{^n}Lidé z Burrwitche mu říkají Kalis Ka, Lovec kostí. Loví v oblasti zvané Východní močály, ale usídlilo se na skalnatém výběžku. Vystopuj pro mě to monstrum a zabij ho. Pak seber jeden z jeho pařátů a přines mi ho.
 Získám pro tebe ten pařát.
 Zní to jako velký problémy.
 Takový pařád už mám.
@@ -193,7 +193,7 @@ To není termín který bych preferovala, ale ano, tak mě nazývají.{^n}{^n}Js
 Mám další otázku.
 Zajímavé.
 Co tady děláš?
-Hodně z toho co jsem dělala, než jsem se přidala k Legii. Zkouším odhalit budoucnost z rituálů, které mě naučili mí předci.{^n}{^n}Musím přiznat že ne vždy mi věštba vyjde ale nikdo z vojáků Černé legie nemůže popřít informaci kterou jse poskytla. tedy a6 na ty případy kdy bylo popřeno i to, kolik lidí jsem zachránila.
+Hodně z toho co jsem dělala i před tím, než jsem se přidala k Legii. Zkouším odhalit budoucnost z rituálů, které mě naučili mí předci.{^n}{^n}Musím přiznat že ne vždy mi věštba vyjde, ale nikdo z vojáků Černé legie nemůže popřít informaci, kterou jse poskytla. tedy až na ty případy kdy bylo popřeno i to, kolik lidí jsem zachránila.
 Tví předci?
 Cože, ty si s nad myslíš že jsem jen tak vyrostla ze země a věděla, že všechno kolem tebe je čarodejnictví.{^n}{^n}Naučila jsem se po mnoho letech toto umění ovládat díky rokům tvrdého trénování a procvičování.
 Mám další otázku.
@@ -218,7 +218,7 @@ Mám předměty, které jsi požadovala.
 Nejdříve mám pár otázek.
 Co bys [[ms]rád věděl[fs]ráda věděla]?
 Proč tě vojáci z Legie tolik nenávidí?
-To není termín který bych preferovala, ale ano, tak mě nazývají.{^n}{^n}Jsem kouzelnice se schopností manipulovat s Aetherem jak se mi zachce, ale také jsem studovala věštění, což jak předpokládám je důvodem k rozhněvanosti pověrčivých vojáků.{^n}{^n}Každý si nárokuje vědět budoucnost, dokud ji neslyší. Je těžké oddělit zlé od dobrého, když život smrtelníka čeká takové utrpení.
+Považují mé schopnosti za... nepřirozené. Moc předpovědět budoucnost je umění určeno čarodejnicím, termín, který s sebou v Erulanu nese znamení hanby.{^n}{^n}Vojáci by mě mnohem radši viděli hořet na hranici ne mě vidět stát u válečného stolu.
 Tak proč jim potom pomáháš?
 Je tak divné si myslet, že chci udělat pouze svoji část? Černá legie může být poslední nadějí pro přežití lidstva. {^n}{^n}Chci jen ujistit že tato naděje stále žije, ikdyž mě za to můžou nenávidět.
 Tak co potřebuješ?
@@ -233,7 +233,7 @@ Tak co potřebuješ?
 Mám další otázku.
 Zajímavé.
 Co tady děláš?
-Hodně z toho co jsem dělala, než jsem se přidala k Legii. Zkouším odhalit budoucnost z rituálů, které mě naučili mí předci.{^n}{^n}Musím přiznat že ne vždy mi věštba vyjde ale nikdo z vojáků Černé legie nemůže popřít informaci kterou jse poskytla. tedy a6 na ty případy kdy bylo popřeno i to, kolik lidí jsem zachránila.
+Hodně z toho co jsem dělala i před tím, než jsem se přidala k Legii. Zkouším odhalit budoucnost z rituálů, které mě naučili mí předci.{^n}{^n}Musím přiznat že ne vždy mi věštba vyjde, ale nikdo z vojáků Černé legie nemůže popřít informaci, kterou jse poskytla. tedy až na ty případy kdy bylo popřeno i to, kolik lidí jsem zachránila.
 Tví předci?
 Cože, ty si s nad myslíš že jsem jen tak vyrostla ze země a věděla, že všechno kolem tebe je čarodejnictví.{^n}{^n}Naučila jsem se po mnoho letech toto umění ovládat díky rokům tvrdého trénování a procvičování.
 Tak co potřebuješ?
@@ -278,7 +278,7 @@ Potřebuji si to promyslet.
 Kapitán Reave si přeje tvou hlavu.
 Jednala bych překvaleně, ale není tajemstvím že mnou ten chlap opovrhuje. {^n}{^n}Označil mě za čarodejnici a od počátku požadoval moji popravu.
 Proč tě tolik nenávidí?
-To není termín který bych preferovala, ale ano, tak mě nazývají.{^n}{^n}Jsem kouzelnice se schopností manipulovat s Aetherem jak se mi zachce, ale také jsem studovala věštění, což jak předpokládám je důvodem k rozhněvanosti pověrčivých vojáků.{^n}{^n}Každý si nárokuje vědět budoucnost, dokud ji neslyší. Je těžké oddělit zlé od dobrého, když život smrtelníka čeká takové utrpení.
+Jsem kouzelnice se schopností manipulovat s Aetherem jak se mi zachce, ale také jsem studovala věštění, což jak předpokládám je důvodem k rozhněvanosti pověrčivých vojáků.{^n}{^n}Každý si nárokuje vědět budoucnost, dokud ji neslyší. Je těžké oddělit zlé od dobrého, když život smrtelníka čeká takové utrpení.
 A proč bych ti [[ms]měl[fs]měla] věřit??
 Ujišťuji tě, přišla jsem za Legií se záměrem jen pomoct v boji proti Aetherianské invazi. {^n}{^n}Mé informace už mnoho životů zachránily, ale kapitán Reave a ostatní to odmítají vidět. {^n}{^n}Připojíš se k nim a opustíš mě za to, co dělám?
 Dobrá. Reaveho odmítnu.
