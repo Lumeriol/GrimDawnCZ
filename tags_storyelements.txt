@@ -254,7 +254,7 @@ tagUGCryptNecro02=Sál duší
 tagUGFortIkon_Prison=Věznice pevnosti Ikon
 tagUGFortIkon_Armory=Zbrojnice pevnosti Ikon
 
-tagUGFortCultist01=Brána do Temného údolí
+tagUGFortCultist01=Darkvaleská brána
 tagUGFortFaction01=Pevnost Haron
 tagUGFortBlackLegion01=Pevnost Ikon
 tagUGCryptNecropolis01=Černý hrob
@@ -699,7 +699,7 @@ tagQuestItemAnnalsOfArkovia_Desc="Záznamy posledních dnů arkovianského král
 tagQuestItemThornsburyDiary=Dailin diář
 tagQuestItemThornsburyDiary_Desc="Majetek Daily Thornsbury."
 
-tagQuestItemSlithLab=Hargatova formulka
+tagQuestItemSlithLab=Hargatův vzorec
 tagQuestItemSlithLab_Desc="Je nemožné rozluštit čmáranice šíleného alchymisty Oswalda Hargata."
 
 tagQuestItemAetherialEssence=Aetherický výtažek

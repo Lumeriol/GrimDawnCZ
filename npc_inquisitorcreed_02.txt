@@ -55,7 +55,7 @@ Co tady ještě pořád děláš? Ulgrim tě potřebuje na Pohřebišti!
 Hned tam vyrazím.
 [[ms]Zabezpečil[fs]Zabezpečila] jsi Bránu?
 Kdeže je Pohřebiště?
-Jdi předními branami z pevnosti Ikon a vydej se skrze Pláně sváru. Brány Pohřebiště jsou pak nedaleko.{^n}{^n}Jakmile tam budeš, najdi Bránu a zabezpeči ji, aby naše jednotky mohly udežit na Kult.
+Jdi předními branami z pevnosti Ikon a vydej se skrze Pláně sváru. Brány Pohřebiště jsou pak nedaleko.{^n}{^n}Jakmile tam budeš, najdi Bránu a zabezpeči ji, aby naše jednotky mohly udeřit na Kult.
 Děkuji ti.
 [[ms]Měl[fs]Měla] bych nějaké otázky.
 Ano?
@@ -86,8 +86,8 @@ Neřeš to.
 Postarám se o to.
 Dobrá práce s Luciem, ale Pohřebiště stále čeká.
 Kdeže mě potřebuješ?
-Nemůžeme jen tak vyslat naše jednotky přímo na Pohřebiště. Následovníci Kultu se na nás sesypou a rozdrtí nás dřív, než se vůbec přiblížíme k Hrobce Strážců.{^n}{^n}Místo toho využijeme tvých unikátních schopností. Vydej se na Pohřebiště, za oblastí Plání sváru, a zajisti nejbližší Bránu.{^n}{^n}Jakmile tak učiníš, Ulgrim projde skrz s regimentem svých mužů. S momentem překvapení na naší straně udeříme na nepřítele zevnitř.
-Tak já se na Pohřebiště tedy vydám.
+Nemůžeme jen tak vyslat naše jednotky přímo do Pohřebiště. Následovníci Kultu se na nás sesypou a rozdrtí nás dřív, než se vůbec přiblížíme k Hrobce Strážců.{^n}{^n}Místo toho využijeme tvých unikátních schopností. Vydej se do Pohřebiště, za oblastí Plání sváru, a zajisti nejbližší Bránu.{^n}{^n}Jakmile tak učiníš, Ulgrim projde skrz s regimentem svých mužů. S momentem překvapení na naší straně udeříme na nepřítele zevnitř.
+Tak já se do Pohřebiště tedy vydám.
 Potřebuji nějaký čas na přípravu.
 Bránu už jsem [[ms]zabezpečil[fs]zabezpečila].
 Rychlé uvažování. Ihned vyšlu kontingent jednotek.{^n}{^n}Vydej se zpět a promluv si s Ulgrimem. V krátkosti ti řekne, co dalšího se musí udělat.
@@ -118,7 +118,7 @@ Cože jsi chtěl, abych [[ms]udělal[fs]udělala]?
 
 Mám další otázku.
 Brzy se vrátím.
-Co mi můžeš říct o Pohřebiště?
+Co mi můžeš říct o Pohřebišti?
 Pohřebiště bylo vybudována v důsledku velkého konfliktu mezi Erulanem a Carineou, západním národem. Bitva o Ikon, kterou Erulan vyhrál, a dobyl tak země kde nyní jsme, byla brutální a stála tisíce životů.{^n}{^n}Mrtví hrdinové toho času prý byli pohřbeni na Pohřebišti, které bylo vybudováno na počest vítězství.{^n}{^n}I když to teďka vypadá, že Pohřebiště mělo i vedlejší význam.
 Cože jsi chtěl, abych [[ms]udělal[fs]udělala]?
 
@@ -140,7 +140,7 @@ Vydám se tam hned teď.
 Ještě ne.
 Zrada, sabotáž, říkej tomu, jak chceš. Byli jsme napadeni zevnitř.{^n}{^n}Jak to tak vypadá, Aetheriané si získali kapitána.
 Byl ovládnut?
-Přesně tak. Na základě zpráv velitel Lucius posílal naše muže na zbytečné mise, aby tak oslabil naši obranu. POtom, když byla obrana dostatečně slabá, otevřel brány a nechal Aetheriany valit se dovnitř.{^n}{^n}Ale nepočítat s lidskou vynalézavostí. Zbrojmistr Edric zavalil přední brány pomocí výbušnin a tak odřízl nepřátelské posily. Když jsme dorazili z jihu s posilami, ten zbabělec Lucius utekl do zbrojnice. Dokud nebudou ty brány zase průchozí, zůstaneme tu trčet. Potřebuji, abys [[ms]vstoupil[fs]vstoupila] do zbrojnice a získala zpět to, co zbylo ze Silných výbušnin; použij je k odstranění trosek. Dávej si pozor na Luciuse. Zbavil se lidského převleku, aby z něj vznikla monstrózní bytost, kterou ani nevím jak bych začal popisovat. Pravděpodobně se s ním budeš muset vypořádat, pokud chceš ty výbušniny získat.
+Přesně tak. Na základě zpráv velitel Lucius posílal naše muže na zbytečné mise, aby tak oslabil naši obranu. POtom, když byla obrana dostatečně slabá, otevřel brány a nechal Aetheriany valit se dovnitř.{^n}{^n}Ale nepočítal s lidskou vynalézavostí. Zbrojmistr Edric zavalil přední brány pomocí výbušnin a tak odřízl nepřátelské posily. Když jsme dorazili z jihu s posilami, ten zbabělec Lucius utekl do zbrojnice. Dokud nebudou ty brány zase průchozí, zůstaneme tu trčet. Potřebuji, abys [[ms]vstoupil[fs]vstoupila] do zbrojnice a získala zpět to, co zbylo ze Silných výbušnin; použij je k odstranění trosek. Dávej si pozor na Luciuse. Zbavil se lidského převleku, aby z něj vznikla monstrózní bytost, kterou ani nevím jak bych začal popisovat. Pravděpodobně se s ním budeš muset vypořádat, pokud chceš ty výbušniny získat.
 Tak bude učiněno.
 Bude to muset počkat.
 S Luciusem jsem se [[ms]vypořádal[fs]vypořádala] a [[ms]uvolnil[fs]uvolnila] brány.

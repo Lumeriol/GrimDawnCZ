@@ -2293,7 +2293,7 @@ tagConsumableF06=Výtažek odvážného
 tagConsumableF06Desc="Roztříštěním lahvičky povzbudíš všechny blízké spojence."
 tagConsumableF07=Olej z probodlého srdce
 tagConsumableF07Desc="Toxin vymyšlený zabijáky Černé legie."
-tagConsumableF08=Výtažek z pochvy na meč
+tagConsumableF08=Výtažek čepelové ochrany
 tagConsumableF08Desc="Roztříštěním lahvičky vyčaruješ kolem sebe vířící nože."
 tagConsumableF09=Ice-Krvavý olej
 tagConsumableF09Desc="Tajemný toxin, z kterého tuhne krev v žilách tvým nepřátelům."
@@ -2896,7 +2896,7 @@ tagEnchantC004A=Prach nočního stínu
 tagEnchantC004Desc="Prach derivovaný z modrých okvětních lístků Asterkamu, zvané Noční stín. Tato květina kvete pouze za světla měsíce."^w^n(použitelné na všechny zbroje)
 
 tagEnchantC005A=Prach z pochvy meče
-tagEnchantC005Desc="Vzhledem k jejich sibu odmítání násilí museli Tuláci improvizovat všemi způsoby, aby přežili v nebezpečích světa."^w^n(použitelné na všechny zbroje)
+tagEnchantC005Desc="Vzhledem k jejich slibu odmítat násilí museli Tuláci improvizovat všemi způsoby, aby přežili v nástrahách světa."^w^n(použitelné na všechny zbroje)
 tagEnchantC006A=Mogdrogenův dotek
 tagEnchantC006Desc="Požehnání bohem zvířat, chránícího své následovníky před všudypřítomnou přírodou."^w^n(použitelné na všechny zbroje)
 
