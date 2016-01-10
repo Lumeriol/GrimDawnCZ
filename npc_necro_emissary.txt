@@ -21,7 +21,7 @@ Vyhledám vaši svatyni.
 Možná někdy jindy.
 Jsi hlupák,  pokud věříš Kymonovým Vyvoleným.
 Máš pravdu, byla to chyba. [[ms]Chtěl[fs]Chtěla] bych se k vám přidat.
-Jsi si tím [[ms]jistý[fs]jistá]? Řád tě přivítá jako spojence, ale vše, co jsi doteď [[ms]vykonal[fs]vykonala] bude zapomenuto. {^n}{^n}(Varování: Zvolení Řádu vyresetuje reputaci s frakcemi Řád hlídky smrti a Kymonovi Vyvolení)
+Jsi si tím [[ms]jistý[fs]jistá]? Řád tě přivítá jako spojence, ale vše, co jsi doteď [[ms]vykonal[fs]vykonala], bude zapomenuto. {^n}{^n}(Varování: Zvolení Řádu vyresetuje reputaci s frakcemi Řád Strážců smrti a Kymonovi Vyvolení)
 Černá legie s vámi bude spolupracovat. (Zvol Řád)
 Skvěle. Začnu s přípravami okamžitě.{^n}{^n}Mezitím bych tě požádal, abys [[ms]vyhledal[fs]vyhledala] naše útočiště na severu. Zabrali jsme malou kryptu ukrytou v horách, na východ od Bašty zármutku.{^n}{^n}Aby ses tam [[ms]dostal[fs]dostala], musíš se vydat po cestě na sever přes Neobdělaná pole. Jakmile dojdeš k ruinám staré pevnosti, pak jsi blízko našemu domovu.{^n}{^n}Až budeš uvnitř, vyhledej mistra Varuuka. Bude si chtít promluvit s naším novým spojencem.
 Vyhledám vaši svatyni.
@@ -31,7 +31,7 @@ Jsou to hodnotní spojenci.
 Už se ke mně dostala slova o tvých činech. Řád je dychtivý pokračovat ve svém úsilí s tebou po boku.
 
 Promluvíme si o tom později.
-Buď [[ms]pozdraven[fs]pozdravena], já jsem Haruuv a reprezentuji Řád Strážců smrti.{^n}{^n}Jsme odhodláni diskutovat o dohodě, i v případě, že by měla být i s tak pochybnou společností.
+Buď [[ms]pozdraven[fs]pozdravena], já jsem Haruuv a reprezentuji Řád Strážců smrti.{^n}{^n}Jsme odhodláni diskutovat o dohodě, i v případě, že by měla být uzavřena uprostřed tak pochybné společnosti.
 Myslím, že už jsem se [[ms]rozhodl[fs]rozhodla].
 Jak to tedy bude? Bude Černá legie bojovat bok po boku s Řádem Strážců smrti proti vetřelcům, jež vstoupili do našeho světa?
 Černá legie bude spolupracovat. (Vybrat Řád)
