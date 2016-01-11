@@ -76,7 +76,7 @@ tagMapBloodGroveMine=Mortonovy pozemky
 tagMapBloodGroveAetherMine=Kamenolom
 tagMapBloodGroveShrine=Svatyně Zapomenutého boha
 tagMapDarkvale=Vesnice Darkvale
-tagMapDarkvaleGate=Brána v Darkvale
+tagMapDarkvaleGate=Brána do Darkvale
 tagMapFactionFort=Pevnost Haron
 tagMapInfestedField01=Thornsburyova farma
 tagMapInfestedField02=Elmsworthova farma
@@ -130,7 +130,7 @@ tagRiftAlpineRoad=Brána na Asterkarnské stezce
 tagRiftAlpineValley=Brána v Asterkarnském údolí
 tagRiftAlpineFort=Brána v Pevnosti Ikon
 tagRiftPlaintsofStrife=Brána na Pláních sváru
-tagRiftNecropolisGate=Brána v Branách Pohřebiště
+tagRiftNecropolisGate=Brána u Bran Pohřebiště
 tagRiftNecropolisInterior=Brána ve Vnitřním pohřebišti
 
 tagRiftRandom01=Chthonská Brána
@@ -182,7 +182,7 @@ tagWorldMapSorrowsBastion=Bašta{^n}zármutku
 tagWorldMapBloodGrove=Krvavý{^n}háj
 tagWorldMapDarkvaleMill=Gryverův{^n}mlýn
 tagWorldMapDarkvale=Vesnice{^n}Darkvale
-tagWorldMapDarkvaleGate=Brána{^n}v Darkvale
+tagWorldMapDarkvaleGate=Brána{^n}do Darkvale
 tagWorldMapFactionFort=Pevnost Haron
 tagWorldMapBloodGroveMine=Mortonovy{^n}pozemky
 tagWorldMapFortIkon=Pevnost Ikon
@@ -254,7 +254,7 @@ tagUGCryptNecro02=Sál duší
 tagUGFortIkon_Prison=Věznice pevnosti Ikon
 tagUGFortIkon_Armory=Zbrojnice pevnosti Ikon
 
-tagUGFortCultist01=Darkvaleská brána
+tagUGFortCultist01=Brána do Darkvale
 tagUGFortFaction01=Pevnost Haron
 tagUGFortBlackLegion01=Pevnost Ikon
 tagUGCryptNecropolis01=Černý hrob
@@ -1024,7 +1024,7 @@ tagLoreObj_AreaDSecretPrison_NoteA02Name=Uvěznění
 tagLoreObj_AreaDSecretPrison_NoteA02Text=Slíbili nám svobodu. Svobodu výměnou za deset dlouhých let zničující práce. Ale teď už vím, že tady všichni zdechnem. Minulou noc, když jsme spali, nám sebrali všechny nástroje i žrádlo. Vstup do hrobky je teď zakryt velkým šutrem a uvnitř to bzučí nelidským hlukem, jako kdyby tam byl vosí roj.{^n}{^n}Byli jsme uvězněni v tomto děsivém místě, kde není nic, kromě runami pokrytých beden. Je tady zkažený vzduch, který se zahryzává do nosních dírek. Nedokážu se dívat na ty nápisy příliš dlouho. Pálí do očí a rozostřují vidění. Nemyslím, že bychom je měli otevřít, ale ostatní začínají hladovět a doufají, že uvnitř je jídlo. Já však mám dojem, že tam určitě nebude. Každý sval na mém těle mi říká, abych se od těch beden držel co nejdál. Runy na těch bednách jsou stejné, jako ty, které jsme museli vydlabat do zdí této komory.{^n}{^n}Tuším, že je to určitý druh vězení, postavené proto, aby udrželo uvnitř to, co vytéká z těch kontejnerů... a my jste teď tady s tím uvězněni. Možná jsem byl ve válce na straně poražených, viděl jsem spoustu mých kámošů umřít na bojišti. Ale tohle? Tohle přecí není způsob, jak by měl chlap chcípnout.
 
 tagLoreObj_AreaDAlpine_NoteA01Name=Výlet na jih - 1. část
-tagLoreObj_AreaDAlpine_NoteA01Text=*Zápisník je zmáčený zaschlou krví a blátem, a mnoho stránek je, pravděpodobně záměrně, vytrhaných.*{^n}{^n}3. den: John drží naší Silvinku v jedné ruce a druhou řídí povoz. Směje se a je šťastný, když nám říká, že bychom měli dosáhnout vrcholku hory během pár dní. Je smutné, když musíme opustit domov, ale doufám, že najdeme daleko lepší život daleko od všech těch nebezpečí, která tady na severu narůstají.{^n}{^n}4. den: Silvie je tak šťastná, běhá kolem povozu a trhá květiny. Opravdu jsem se bála, aby nebyla nešťastná z toho, že musela opustit jediný domov, který kdy znala. Zázrak a nádhera je to její mládí. Hřeje mě to u srdce.{^n}{^n}6. den: Hory jsou před námi na obzoru a venku pomalu přituhuje. V Johnově tváři vidím starosti, a přitom se nám snaží zvedat náladu jak jen může. Vím že nás chce ochránit před nebezpečím a já se mohu jen modlit, abychom přešli horu dřív, než začne sněžit.{^n}{^n}8. den: Jsme ve stínu hory a dny se čím dál víc krátí. Začal padat sníh a zima přišla tak náhle, až nás překvapila. Máme sice teplé oblečení, ale vítr skrz něj profukuje.{^n}{^n}11. den: Došli jsme roviny u úpatí tvrze. Je tady několik dalších cestovatelů, kteří nám řekli, že cesta skrze Darkvale je zablokovaná. S tím, jak nám dochází jídlo, jsme doufali, že za Darkvaleskou branou se dozásobíme v obchodní čtvrti. Ale teď fakt nevím, co budeme dělat. Vrátit se zpátky není zrovna nejlepší možnost, když sníh padá stále víc. John říkal, že si půjde s ostatními promluvit.{^n}{^n}16. den: Dneska nám zdechnul kůň. John je z toho zasmušilý, ale aspoň nám ta kobyla obstará obživu, dokud nepřijde pomoc. Jsem poměrně naštvaná, že jsme museli vzít na tento výlet Silvii. Je jí jenom devět a nelíbí se mi, jakým způsobem na ní ostatní chlapi v táboře koukají.{^n}{^n}22. den: Všechno maso z koně je snězeno. Vydrželo by nám déle, kdybychom se nemuseli dělit s ostatními. Ale John říkal, že by to nemuselo dopadnout dobře, kdybychom to neudělali. Nechci ani přemýšlet nad tím, co těmi slovy vlastně myslel.
+tagLoreObj_AreaDAlpine_NoteA01Text=*Zápisník je zmáčený zaschlou krví a blátem, a mnoho stránek je, pravděpodobně záměrně, vytrhaných.*{^n}{^n}3. den: John drží naší Silvinku v jedné ruce a druhou řídí povoz. Směje se a je šťastný, když nám říká, že bychom měli dosáhnout vrcholku hory během pár dní. Je smutné, když musíme opustit domov, ale doufám, že najdeme daleko lepší život daleko od všech těch nebezpečí, která tady na severu narůstají.{^n}{^n}4. den: Silvie je tak šťastná, běhá kolem povozu a trhá květiny. Opravdu jsem se bála, aby nebyla nešťastná z toho, že musela opustit jediný domov, který kdy znala. Zázrak a nádhera je to její mládí. Hřeje mě to u srdce.{^n}{^n}6. den: Hory jsou před námi na obzoru a venku pomalu přituhuje. V Johnově tváři vidím starosti, a přitom se nám snaží zvedat náladu jak jen může. Vím že nás chce ochránit před nebezpečím a já se mohu jen modlit, abychom přešli horu dřív, než začne sněžit.{^n}{^n}8. den: Jsme ve stínu hory a dny se čím dál víc krátí. Začal padat sníh a zima přišla tak náhle, až nás překvapila. Máme sice teplé oblečení, ale vítr skrz něj profukuje.{^n}{^n}11. den: Došli jsme roviny u úpatí tvrze. Je tady několik dalších cestovatelů, kteří nám řekli, že cesta skrze Darkvale je zablokovaná. S tím, jak nám dochází jídlo, jsme doufali, že za Branou do Darkvale se dozásobíme v obchodní čtvrti. Ale teď fakt nevím, co budeme dělat. Vrátit se zpátky není zrovna nejlepší možnost, když sníh padá stále víc. John říkal, že si půjde s ostatními promluvit.{^n}{^n}16. den: Dneska nám zdechnul kůň. John je z toho zasmušilý, ale aspoň nám ta kobyla obstará obživu, dokud nepřijde pomoc. Jsem poměrně naštvaná, že jsme museli vzít na tento výlet Silvii. Je jí jenom devět a nelíbí se mi, jakým způsobem na ní ostatní chlapi v táboře koukají.{^n}{^n}22. den: Všechno maso z koně je snězeno. Vydrželo by nám déle, kdybychom se nemuseli dělit s ostatními. Ale John říkal, že by to nemuselo dopadnout dobře, kdybychom to neudělali. Nechci ani přemýšlet nad tím, co těmi slovy vlastně myslel.
 
 tagLoreObj_AreaDAlpine_NoteA02Name=Výlet na jih - 2. část
 tagLoreObj_AreaDAlpine_NoteA02Text=28. den: Bohové chraňte nás. Hladověli jsme. Dneska ráno jsem strávila prohledáváním lesa, abych našla k jídlu aspoň nějaké oříšky a brouky. Nemůžu uvěřit, že mě vůbec netrápí říct, že pojídám brouky, pokud nějaké najdu. Když jsem se vrátila zpátky do tábora, našla jsem svého Johna, jak zabil chlapa, co napadl naší dcerku.{^n}{^n}29. den: John přinesl Silvii a mně malou porci masa. Radši se neptám, kde to vůbec vzal.{^n}{^n}30. den: Ostatní se začínají ptát, co se stalo s jejich přítelem. John jim vysvětlil, že se pokusil zranit naši malou holčičku a nabídl jim trochu čerstvě odřízlého masa. Beze slova si ho vzali a odešli pryč. Znamená v těchto časech přátelství tak málo?{^n}{^n}36. den: John nabídl Silvii jednomu z chlápků v táboře. Když vešel do stanu, aby vykonal svou potřebu, John ho bez milosti přede mnou a Silvií zabil. Jsem tak hladová, že mě to nějak moc nevzalo.{^n}{^n}Nevím jaký den: Je tak těžký psát. Necitlivé prsty a chlad otupuje moje myšlenky. V temnotě hory se velmi snadno přestává orientovat v čase.{^n}{^n}Další nějaký den: Další chlápek byl vlákán do našeho stanu. Trocha jídla za příslib tepla. Musí přece vědět, že je to past. Možná že jsou připravený chcípnout. Nalhávají si to, i když jdou řezníkovi pod kudlu.{^n}{^n}Nějaký den: Náš další host prozíravě zaútočil. John ho sice zabil, ale přišel k ošklivýmu zranění. Není si jistý, že přežije tuhle noc. Přistihla jsem se, že mně to netrápí tolik, jak by asi mělo. Jediný co vidím, je trochu masa, který by z něj mohlo být. Bohové, co se to se mnou stalo?{^n}{^n}O několik dní později: John vydržel mnohem dýl než jsme čekali, takže i užíral naše tenčící se zásoby potravin. Musela jsem se o to postarat. Teď máme žvanec na mnohem delší dobu.
