@@ -1697,7 +1697,7 @@ tagItemSkillD136Desc=Staň se [[ms]posilněný[fs]posilněná] nekrotickými ene
 tagItemSkillD137Name=Milost
 tagItemSkillD137Desc=V tvém nejhorším momentě boží milost nadejde.
 
-tagItemSkillD138Name=Meteor
+tagItemSkillD138Name=Meteorit
 tagItemSkillD138Desc=Protrhni křehkou bariéru spodní vrstvy a vrstvy smrtelníků tím, že vyčaruješ masivní hořící kus skály, který dopadne na tvé nepřátele.
 
 tagItemSkillD139Name=Beronathova moc
@@ -1709,14 +1709,14 @@ tagItemSkillD140Desc=Z rozmaru zdeformuj realitu a zkonvertuj veškerou svou fyz
 tagItemSkillD141Name=Bystrá chvilka
 tagItemSkillD141Desc=Vstup do stavu podobnému tranzu a během něj mysli tak jasně, až tvá mysl prozře a otevře se pro nekonečné množství možností tajemna.
 
-tagItemSkillD142Name=Mesíční záře
-tagItemSkillD142Desc=Označ svého nepřítele odhalujícím svitem rudého měsíce a tak se ti ukáží jejich slabiny.
+tagItemSkillD142Name=Měsíční záře
+tagItemSkillD142Desc=Označ svého nepřítele odhalujícím svitem rudého měsíce, čímž se ti ukáží jeho slabiny.
 
 tagItemSkillD143Name=Vlákna smrtelnosti
-tagItemSkillD143Desc=Převezmi vlákna smrtelnosti svých nepřátel a z jejich vitality udělej svou vlastní.
+tagItemSkillD143Desc=Převezmi vlákna smrtelnosti svých nepřátel a z jejich životní energie udělej svou vlastní.
 
-tagItemSkillD144Name=Nidallanina pomsta
-tagItemSkillD144Desc=Nepřátelé, kteří se opovažují tě napadnout mohou zažít velmi nepříjemné překvapení až zjistí, jak jim jedy patřící Nidalle prosakují do žil.
+tagItemSkillD144Name=Nidallina pomsta
+tagItemSkillD144Desc=Nepřátelé, kteří se tě opovažují napadnout, mohou zažít velmi nepříjemné překvapení až zjistí, jak jim Nidalliny jedy prosakují do žil.
 
 tagItemSkillD145Name=Jed nočního stínu
 tagItemSkillD145Desc=Vypusť odporný toxin uchovaný v ostří, jež změní maso v kámen.
@@ -1725,40 +1725,40 @@ tagItemSkillD146Name=Vyhlazení
 tagItemSkillD146Desc=Rozpoutej paprsek arkanické destrukce, která zahubí vše, s čím přijde do styku, projde skrze tvé nepřátele a vymaže je ze zemského povrchu.
 
 tagItemSkillD147Name=Obsidiánové zemetřesení
-tagItemSkillD147Desc=Rozbij bariéru mezi Prázdnotou a světem, který známe tím jak obsidiánové ostny projdou skrze zemi.
+tagItemSkillD147Desc=Rozbij bariéru mezi Prázdnotou a nám známým světem, pomocí obsidiánových ostnů protínající zemi.
 
 tagItemSkillD148Name=Olexrandřin chlad
-tagItemSkillD148Desc=Sveď svoji sílu do koncentrovaného výbuchu ledové energie, která úplně zmrazí tvé nepřátele.
+tagItemSkillD148Desc=Sveď svou sílu do koncentrovaného výbuchu ledové energie, která úplně zmrazí tvé nepřátele.
 
 tagItemSkillD149Name=Zamoření požíváním
-tagItemSkillD149Desc=Vyvolej jednu ze sedmi Dreegových morových ran, mocnou nákazu která vysává vitalitu a rychle se šíří.
+tagItemSkillD149Desc=Vyvolej jednu ze sedmi Dreegových morových ran, mocnou nákazu, která se rychle šíří a vysává životní energii.
 
 tagItemSkillD150Name=Zamoření poškozením
-tagItemSkillD150Desc=Vyvolej jednu ze sedmi Dreegových morových ran, mocnou nákazu která způsobuje zmatek a rychle se šíří.
+tagItemSkillD150Desc=Vyvolej jednu ze sedmi Dreegových morových ran, mocnou nákazu, která se rychle šíří a způsobuje zmatek.
 
 tagItemSkillD151Name=Zamoření samotným Dreegem
-tagItemSkillD151Desc=Vyvolej vrcholný úspěch čarodejnického boha, jedovatou nákazu která způsobí masakr v řadách tvých nepřátel.
+tagItemSkillD151Desc=Vyvolej vrcholný úspěch čarodějnického boha, jedovatou nákazu, která způsobí masakr v řadách tvých nepřátel.
 
 tagItemSkillD152Name=Zamoření vysílením
-tagItemSkillD152Desc=Vyvolej jednu ze sedmi Dreegových morových ran, mocnou nákazu která způsobuje únavu a rychle se šíří.
+tagItemSkillD152Desc=Vyvolej jednu ze sedmi Dreegových morových ran, mocnou nákazu, která se rychle šíří a způsobuje únavu.
 
 tagItemSkillD153Name=Zamoření hnilobou
-tagItemSkillD153Desc=Vyvolej jednu ze sedmi Dreegových morových ran, mocnou nákazu která infikuje pomocí jedů a rychle se šíří.
+tagItemSkillD153Desc=Vyvolej jednu ze sedmi Dreegových morových ran, mocnou nákazu, která se rychle šíří a infikuje nepřátele jedem.
 
 tagItemSkillD154Name=Zamoření rzí
-tagItemSkillD154Desc=Vyvolej jednu ze sedmi Dreegových morových ran, mocnou nákazu která rozežírá brnění a rychle se šíří.
+tagItemSkillD154Desc=Vyvolej jednu ze sedmi Dreegových morových ran, mocnou nákazu, která se rychle šíří a rozežírá zbroj.
 
 tagItemSkillD155Name=Zamoření rozbitými dušemi
-tagItemSkillD155Desc=Vyvolej jednu ze sedmi Dreegových morových ran, mocnou nákazu která vysává ducha a rychle se šíří.
+tagItemSkillD155Desc=Vyvolej jednu ze sedmi Dreegových morových ran, mocnou nákazu, která se rychle šíří a vysává ducha.
 
 tagItemSkillD156Name=Zamoření terorem
-tagItemSkillD156Desc=Vyvolej jednu ze sedmi Dreegových morových ran, mocnou nákazu která podněcuje strach a rychle se šíří.
+tagItemSkillD156Desc=Vyvolej jednu ze sedmi Dreegových morových ran, mocnou nákazu, která se rychle šíří a podněcuje strach.
 
 tagItemSkillD157Name=Prizmatická bariéra
 tagItemSkillD157Desc=Okolo tebe se zformují obranné runy, chránící tě proti veškerému zranění.
 
 tagItemSkillD158Name=Sálající zuřivost
-tagItemSkillD158Desc=Osvoboď zuřivost sálající z tvých zbraní. ^oToto je technika dvou střelných zbraní a je aktivována výchozím útokem těchto zbraní. Také aplikuje schopnost ovládat dvě střelné zbraně.
+tagItemSkillD158Desc=Osvoboď zuřivost sálající z tvých zbraní. ^oToto je technika dvou střelných zbraní a je aktivována výchozím útokem těchto zbraní. Také umožňuje používat dvě střelné zbraně najednou.
 
 tagItemSkillD159Name=Znamení rozparovače
 tagItemSkillD159Desc=Označ svůj cíl pro rychlý a bolestivý konec.
@@ -1767,10 +1767,10 @@ tagItemSkillD160Name=Důtka
 tagItemSkillD160Desc=Rozdrť svého nepřítele devastujícím úderem, který je typický pro obra.
 
 tagItemSkillD161Name=Replikace
-tagItemSkillD161Desc=Panettiho talent pro replikaci arkanických kouzel se stal ještě úchvatnějším, ktyž tak udělal pod obrovským tlakem.
+tagItemSkillD161Desc=Panettiho talent pro replikaci arkanických kouzel se stal ještě úchvatnějším, když tak udělal pod obrovským tlakem.
 
 tagItemSkillD162Name=Odplata
-tagItemSkillD162Desc=Vyprovokuj nepřátele v blízkosti rázovou vlnou, která vychází z tvého štítu. ^oVyžaduje štít.
+tagItemSkillD162Desc=Vyprovokuj své nejbližší nepřátele rázovou vlnou, která vychází z tvého štítu. ^oVyžaduje štít.
 
 tagItemSkillD163Name=Libování si ve smrti
 tagItemSkillD163Desc=Libuj si v masakru, který jsi [[ms]způsobil[fs]způsobila] a hoduj na rozlité krvi.
@@ -1779,7 +1779,7 @@ tagItemSkillD164Name=Pošestnost
 tagItemSkillD164Desc=S každým zabitím se o trošku víc opevni, protože nevíš, kdy mohou stvůry z Prázdnoty udeřit.
 
 tagItemSkillD165Name=Kruh ohně
-tagItemSkillD165Desc=Obkop se kruhem z uhlíků, které jsou pro tebe neškodné, ale nepřátelé se přiblížit nemohou.
+tagItemSkillD165Desc=Obklop se kruhem z uhlíků, které jsou pro tebe neškodné, ale nepřátelé se přiblížit nemohou.
 
 tagItemSkillD166Name=Kruh z oceli
 tagItemSkillD166Desc=Mrknutím oka tě obklopí stovky přízračných čepelí rotujících smrtící rychlostí, které setnou nepřátele v blízkosti.
@@ -1790,7 +1790,7 @@ tagItemSkillD167Desc=Udeř na rovnováhu mezi odporujícími si silami světla a
 tagItemSkillD168Name=Vřískot Aetheru
 tagItemSkillD168Desc=Vychází z tebe pláč Aetheru, který děsí nepřátele v blízkosti.
 
-tagItemSkillD169Name=Spečetění osudu
+tagItemSkillD169Name=Zpečetění osudu
 tagItemSkillD169Desc=Zpečetíš osud svých nepřátel, sebejistý v rozsudku, který jsi nad nimi [[ms]vynesl[fs]vynesla].
 
 tagItemSkillD170Name=Strážcova tajemství
@@ -1802,14 +1802,14 @@ tagItemSkillD171Desc=Směrem k nepříteli vypustíš šipku stvořenou z čist�
 tagItemSkillD172Name=Plamen ze stínu
 tagItemSkillD172Desc=Posilni svou zbraň Plamenem ze stínu a rozpoutej tak smrtící záplavu střelivem. ^oVyžaduje obouruční střelnou zbraň. Tato technika je aktivována výchozím útokem zbraně.
 
-tagItemSkillD173Name=Třpitivá nádhera
-tagItemSkillD173Desc=Krása těchto kalhot je příliš mnoho, abys [[ms]odolal[fs]odolala].
+tagItemSkillD173Name=Třpytivá nádhera
+tagItemSkillD173Desc=Krása těchto kalhot je tak obrovská, že jí nelze odolat.
 
-tagItemSkillD174Name=Ničitel obléhačů
+tagItemSkillD174Name=Prolomení obležení
 tagItemSkillD174Desc=Řady nepřátel ničíš tak, že necháš rozpraskat zemi pod jejich nohama.
 
 tagItemSkillD175Name=Znamení konzumace
-tagItemSkillD175Desc=Vytvoř okultní znamení na zemi jež bude konzumovat životní energii nepřátel lapených uvnitř jejího dosahu; část tohoto poškození se ti vrátí ve formě zdraví.
+tagItemSkillD175Desc=Vytvoř na zemi okultní znamení, jež bude konzumovat životní energii nepřátel lapených uvnitř jejího dosahu. Část tohoto poškození se ti vrátí ve formě zdraví.
 
 tagItemSkillD176Name=Výzbroj ze stříbra
 tagItemSkillD176Desc=Obrň sebe a své přátele proti nestvůrám z Prázdnoty. ^oTato schopnost musí být nastavena jako výchozí typ útoku, aby účinkovala.
@@ -1818,7 +1818,7 @@ tagItemSkillD177Name=Zabijákovy meče
 tagItemSkillD177Desc=Vypusť pár rotujících mečů, aby setnuly odporné nepřátele.
 
 tagItemSkillD178Name=Studna duší
-tagItemSkillD178Desc=Otevři trhlinu za hranici reality a vyvolej studnu plnou neklidných duší které roztrhají jakéhokoliv nepřítele, který se odváží do ni vstoupit.
+tagItemSkillD178Desc=Otevři trhlinu za hranicí reality a vyvolej studnu plnou neklidných duší, které roztrhají jakéhokoliv nepřítele, který se odváží do ni vstoupit.
 
 tagItemSkillD179Name=Suverénnost
 tagItemSkillD179Desc=Uval svou vrcholnou vůli na své nohsledy a dodej jim tak nezastavitelnou sílu.
@@ -1848,13 +1848,13 @@ tagItemSkillD187Name=Dráteníkův důmysl
 tagItemSkillD187Desc=Tvá důmyslnost ti dovoluje prospívat v těch nejtěžších chvílích.
 
 tagItemSkillD188Name=Moc titána
-tagItemSkillD188Desc=Zacházíš s masivními zbraněmi tak lehce, důkaz tvé síly měřitelné s titánem. ^oVyžaduje obouruční chladnou zbraň.
+tagItemSkillD188Desc=Můžeš používat masivní zbraně s takovou lehkostí, že se můžeš rovnat titánovy. ^oVyžaduje obouruční chladnou zbraň.
 
 tagItemSkillD189Name=Dotek čistoty
-tagItemSkillD189Desc=Sprosti blízké spojence jejich churavění a lehkých zranění z kleteb.
+tagItemSkillD189Desc=Zprosti blízké spojence jejich churavění a lehkých zranění způsobených prokletím.
 
-tagItemSkillD190Name=Skidit duši
-tagItemSkillD190Desc=Skiď duši nepřítele, jež už díky tobě nežije a obnov tak svou sílu.
+tagItemSkillD190Name=Sklizení duše
+tagItemSkillD190Desc=Skliď duši nepřítele, jež už díky tobě nežije a obnov tak svou sílu.
 
 tagItemSkillD191Name=Lstivá střela
 tagItemSkillD191Desc=S pečlivým zaměřením a trochou toho štěstí se ti povede neuvěřitelná střela, která překvapí tvého nepřítele.
@@ -2237,7 +2237,7 @@ tagRelicSkillD011Desc=Rozpoutá čistě destruktivní sílu chaosu zaměřenou n
 tagRelicSkillD012Name=Krveprolití
 tagRelicSkillD012Desc=Čím více krve proliješ a škody způsobíš, tím lehčeji se to zopakuje. ^oToto je technika dvou zbraní. Také aplikuje schopnost ovládat dvě chladné zbraně.
 
-tagRelicSkillD013Name=Meteor
+tagRelicSkillD013Name=Meteorit
 tagRelicSkillD013Desc=Tebou vyvolaný masivní hořící kámen se prorve skrze křehkou bariéru mezi světem živých a Prázdnotou a dopadne na tvé nepřátele.
 
 tagRelicSkillD014Name=Pomsta
@@ -2647,7 +2647,7 @@ tagDevotionEffectC06=Kamenná forma
 tagDevotionEffectC06Desc=Tvé maso se stane kamenem, skoro neproniknutelným až na ty nejtvrdší údery.
 tagDevotionEffectC07=Nebeské kopí
 tagDevotionEffectC07Desc=Nebeské kopí udeří nepřítele, který se tě opováží napadnout.
-tagDevotionEffectC08=Sprška meteorů
+tagDevotionEffectC08=Sprška meteoritů
 tagDevotionEffectC08Desc=Na tvůj příkaz se nebe rozevře a spustí bombardování rozžhavenými kameny.
 tagDevotionEffectC09=Hladová Prázdnota
 tagDevotionEffectC09Desc=Hladová Prázdnota tě posiluje stejně jako tvé spojence a nohsledy, ale tato síla přichází za vysokou cenu vzatou z tvého těla.
@@ -2660,9 +2660,9 @@ tagDevotionEffectC11Desc=V zápalu právě způsobené smrti jste ty i tví nohs
 tagDevotionEffectC12=Elementární stopař
 tagDevotionEffectC12Desc=Vyvolej podivnou příšeru z čisté energie, která vyhledává a pálí nepřátele v blízkosti jen svou samotnou přítomností před tím, než se navrátí do Aetheru za doprovodu exploze její energie. ^oElementární hledači sílí spolu se zvyšujícími se bonusy pro spojence.
 tagDevotionEffectC12_Pet01=Hořící podoba
-tagDevotionEffectC12_Pet02=Detonace
+tagDevotionEffectC12_Pet02=Výbuch
 tagDevotionEffectC13=Vodní vír
-tagDevotionEffectC13Desc=Chvějící se hlubiny jsou u vytržení, když vidí jak se hladující vodní vír blíží s cílem rozdrtit tvé nepřátele.
+tagDevotionEffectC13Desc=Chvějící se hlubiny se přeměňují na hladový vodní vír blíží s cílem rozdrtit tvé nepřátele.
 tagDevotionEffectC14=Živoucí stín
 tagDevotionEffectC14Desc=Ztělestnění bezejmenného hrdiny vzestupuje, aby bojovalo po tvém boku. ^oŽivoucí stíny sílí spolu se zvyšujícími se bonusy pro spojence.
 tagDevotionEffectC14_Pet01=Útok ze stínu
@@ -2673,22 +2673,22 @@ tagDevotionEffectC14_Pet02=Stínové čepele
 tagReallocateError01=Musíš odstranit všechny body ze všech vlastností než budeš moci odstranit poslední bod dovednosti.
 tagReallocateError02=Nemáš dostatek železných mincí pro odstranění dalších bodů dovedností.
 tagReallocateError03=Nemůžeš odstranit body ze svého povolání.
-tagDecreaseMasteryError=Z povolání nelze získat zpět body dovednosti.
-tagReclaimPoint=Kliknutím získáš zpět bod dovednosti (cena {^s}{%t0}{^-} železných mincí)
-tagReclaimDevotionPoint=Klikni pro navrácení bodu Oddanosti (cena {^s}{%t0}{^-} železných mincí, {^g}{%t1}{^-} krystal Aetheru)
+tagDecreaseMasteryError=Z povolání nelze body dovednosti získat zpšt.
+tagReclaimPoint=Kliknutím získáš zpět bod dovednosti (cena: {^s}{%t0}{^-} železných mincí)
+tagReclaimDevotionPoint=Klikni pro navrácení bodu Oddanosti (cena: {^s}{%t0}{^-} železných mincí, {^g}{%t1}{^-} Aetherický krystal)
 tagRemovePoint=Levým kliknutím odeber body oddanosti
 tagReclaimBase=Odstraň vlastnosti pro navrácení posledního bodu dovednosti
-tagReclaimDevotion=Odeber přiřazený efekt Oddanosti
-tagRemoveBase=Bod oddanosti nemůže být odebrán
+tagReclaimDevotion=Odebrat přiřazený efekt Oddanosti
+tagRemoveBase=Bod oddanosti nelze odebrat
 tagReclaimNoPoints=Žádné body k navrácení
 tagRemoveNoPoints=Žádné body k odebrání
-tagReclaimTotalGold=Celkem železných mincí:
-tagReclaimCost=Cena v železných mincích:
-tagReclaimNoGold=Nedostatek železných mincí (cena {^s}{%t0}{^r})
-tagReclaimNoAether=Nedostatek Aetherických krystalů (cena {^g}{%t0}{^r})
+tagReclaimTotalGold=Železné mince:
+tagReclaimCost=Cena:
+tagReclaimNoGold=Nedostatek železných mincí (cena: {^s}{%t0}{^r})
+tagReclaimNoAether=Nedostatek Aetherických krystalů (cena: {^g}{%t0}{^r})
 tagReallocateTitle=Přerozdělení dovedností
-tagReallocationDescription=Klinutím na ikonku dovednosti odstraníš bod dovednosti. Cena se zvyšuje s každým odebraným bodem dovednosti.
-tagReclaimTotalAether=Celkem Aetherických krystalů:
+tagReallocationDescription=Kliknutím na ikonu dovednosti odstraníš bod dovednosti. Cena se zvyšuje s každým odebraným bodem dovednosti.
+tagReclaimTotalAether=Aetherické krystaly:
 
 tagTemplateName=Přejmenuj mě
 tagTemplateDescription=Popiš mě
