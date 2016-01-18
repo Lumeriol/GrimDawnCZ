@@ -2736,8 +2736,8 @@ tagEnemySkillA11_Desc=Obsidiánový poskvrnitel tě uvěznil v obsidiánové kle
 tagEnemySkillA12=Obsidiánová past
 tagEnemySkillA12_Desc=Benn'Jahr tě uvěznil v obsidiánové kleci a drtí tě silou chaosu.
 
-tagEnemySkillD01=Entropic Void
-tagEnemySkillD01_Desc=The void pulls you apart slowly with chaotic energy.
+tagEnemySkillD01=Entropická Prázdnota
+tagEnemySkillD01_Desc=Prázdnota tě pomalu trhá na kousky vlivem chaotické energie.
 
-tagEnemySkillD02=Fire Devil
-tagEnemySkillD02_Desc=The spinning flames singe you.
+tagEnemySkillD02=Ohnivý démon
+tagEnemySkillD02_Desc=Vířící se plameny tě popálí.
