@@ -8,25 +8,25 @@ achGroupWorld=Celý svět
 # Achievements
 
 ach001Title=Zabiják příšer
-ach001Desc=Zlikviduj 15 hrdinů (jsou označeni hvězdou).
+ach001Desc=Zlikviduj 25 hrdinů (jsou označeni hvězdou).
 
 ach002Title=Zabiják hrdinů
-ach002Desc=Zlikviduj 30 hrdinů (jsou označeni hvězdou).
+ach002Desc=Zlikviduj 100 hrdinů (jsou označeni hvězdou).
 
 ach003Title=Legendární zabiják
-ach003Desc=Zlikviduj 100 hrdinů (jsou označeni hvězdou).
+ach003Desc=Zlikviduj 1000 hrdinů (jsou označeni hvězdou).
 
-ach004Title=Jeden z milionu
-ach004Desc=Zabij velmi vzácného hrdinu (červené jméno) na elitní nebo ultimátní obtížnost.
+ach004Title=Mstitel
+ach004Desc=Zabij Mstitele na elitní nebo ultimátní obtížnosti.
 
-ach005Title=Osm z milionu
-ach005Desc=Zabij všechny velmi vzácné hrdiny (červené jméno) na elitní nebo ultimátní obtížnost
+ach005Title=Nezastavitelný
+ach005Desc=Zabij šest Mstitelů na elitní nebo ultimátní obtížnosti.
 
 ach006Title=Očista světa
-ach006Desc=Zbav Cairn 100.000 příšer.
+ach006Desc=Zbav Cairn 25.000 příšer.
 
 ach007Title=Krvavé povstvání
-ach007Desc=Zbav Cairn 500.000 příšer.
+ach007Desc=Zbav Cairn 100.000 příšer.
 
 ach008Title=Oceán krve
 ach008Desc=Zbav Cairn 1.000.000 příšer.
@@ -47,13 +47,13 @@ ach013Title=Konec neřesti
 ach013Desc=Zlikviduj Salazara, čepel Ch'thona ve Svatyni neřesti.
 
 ach014Title=Znič Čepel Ch'thona
-ach014Desc=Zlikviduj Salazara, čepel Ch'thona ve Svatyni neřesti ve Veteránském režimu.
+ach014Desc=Zlikviduj Salazara, čepel Ch'thona ve Svatyni neřesti na ultimátní obtížnosti.
 
 ach015Title=Poprava popravčího
 ach015Desc=Zlikviduj Alkamose, vykonavatele spravedlnosti ve Stupních bolesti.
 
 ach016Title=Konec bolesti
-ach016Desc=Zlikviduj Alkamose, vykonavatele spravedlnosti ve Stupních bolesti ve Veteránském režimu.
+ach016Desc=Zlikviduj Alkamose, vykonavatele spravedlnosti ve Stupních bolesti na ultimátní obtížnosti.
 
 ach017Title=Nesmrtelný popravčí
 ach017Desc=Zlikviduj Alkamose, vykonavatele spravedlnosti ve Stupních bolesti ve Výzvě.
@@ -68,19 +68,19 @@ ach020Title=Krev za krev
 ach020Desc=Zlikviduj Karroze, pečeť Ch'thona.
 
 ach021Title=Prokletí Cairnu
-ach021Desc=Zlikviduj ???
+ach021Desc=Zlikviduj Loghorreana "Hlas Ch'thona"
 
 ach022Title=Vyčištění Požářiště
-ach022Desc=Zlikviduj Plamenného Heralda v Požářišti.
+ach022Desc=Zlikviduj Plamenného posla v Požářišti.
 
 ach023Title=Netřeba se bát ohýnku
-ach023Desc=Zlikviduj Plamenného Heralda v Požářišti ve Veteránském režimu.
+ach023Desc=Zlikviduj Plamenného posla v Požářišti na ultimátní obtížnosti.
 
 ach024Title=Vykuchání Střevního červa
 ach024Desc=Zlikviduj Střevního červa v Pašerácké kotlině.
 
 ach025Title=Měl jsi střeva
-ach025Desc=Zlikviduj Střevního červa v Pašerácké kotlině ve Veteránském režimu.
+ach025Desc=Zlikviduj Střevního červa v Pašerácké kotlině na ultimátní obtížnosti.
 
 ach026Title=Drátování je její specialita
 ach026Desc=Zachraň Darlet ve vesnici Burrwitch.
@@ -109,32 +109,32 @@ ach033Desc=Vytvoř mimořádnou relikvii.
 ach034Title=Bájná síla
 ach034Desc=Vytvoř bájnou relikvii.
 
-ach035Title=Od průzkumu ke kořisti
-ach035Desc=Otevři 10 jednorázových truhliček
+ach035Title=Mladičký průzkumník
+ach035Desc=Otevři 10 jednorázových truhliček.
 
-ach036Title=Skutečná oddanost
-ach036Desc=Obnov 10 svatyň oddanosti.
+ach036Title=Od průzkumu ke kořisti
+ach036Desc=Otevři 20 jednorázových truhliček.
 
-ach037Title=Přeživší
-ach037Desc=Dosáhni 10. úrovně.
+ach037Title=Hledět ke hvězdám
+ach037Desc=Obnov 10 svatyň oddanosti.
 
-ach038Title=Šampión
-ach038Desc=Dosáhni 35. úrovně.
+ach038Title=Skutečná oddanost
+ach038Desc=Obnov 50 svatyň oddanosti.
 
-ach039Title=Hrdina
-ach039Desc=Dosáhni 50. úrovně.
+ach039Title=Přeživší
+ach039Desc=Dosáhni 10. úrovně.
 
-ach040Title=Legenda
-ach040Desc=Dosáhni 75. úrovně.
+ach040Title=Šampión
+ach040Desc=Dosáhni 35. úrovně.
 
-ach041Title=Nesmrtelná legenda
-ach041Desc=Dosáhni 75. úrovně ve Výzvě.
+ach041Title=Hrdina
+ach041Desc=Dosáhni 50. úrovně ve Výzvě.
 
-ach042Title=Obránce Cairnu
-ach042Desc=Dokonči hru.
+ach042Title=Legenda
+ach042Desc=Dosáhni 85. úrovně.
 
-ach043Title=Šampión Cairnu
-ach043Desc=Dokonči hru na elitní obtížnost.
+ach043Title=Nesmrtelná legenda
+ach043Desc=Dosáhni 85. úrovně vve Výzvě.
 
 ach044Title=Spasitel Cairnu
 ach044Desc=Dokonči hru na ultimátní obtížnost.
@@ -143,10 +143,10 @@ ach045Title=Nesmrtelný spasitel
 ach045Desc=Dokonči hru na ultimátní obtížnost ve Výzvě.
 
 ach046Title=Těžké rozhodnutí
-ach046Desc=???
+ach046Desc=Vyřeš situaci v Novém přístavu bez uchýlení se k násilí.
 
-ach047Title=Bez výjimky
-ach047Desc=Zlikviduj ???
+ach047Title=Žádné výjimky
+ach047Desc=Zlikviduj Anastarii.
 
 ach048Title=Neočekával jsem tě, člověče
 ach048Desc=Zlikviduj Wardena Kriega ve Veteránském režimu s postavou na nižší než 11. úrovni.
@@ -164,10 +164,10 @@ ach052Title=Ukryté bohatství
 ach052Desc=Najdi pohřbený poklad na polích poblíž Homesteadu.
 
 ach053Title=V hlubinách žije sám a zapomenut
-ach053Desc=Zlikviduj ???
+ach053Desc=Zlikviduj Golluse, obyvatele hlubin.
 
 ach054Title=Místnost smrti
-ach054Desc=???
+ach054Desc=Přežij v Sále duší.
 
 ach055Title=Seberme ten lísteček
 ach055Desc=Posbírej 5 zápisků
@@ -178,5 +178,35 @@ ach056Desc=Posbírej 20 zápisků
 ach057Title=Knihomol
 ach057Desc=Posbírej 50 zápisků
 
-ach058Title=Pravý mstitel
-ach058Desc=Zabij všechny božské hrdiny (červené jméno) na elitní nebo ultimátní obtížnosti.
+ach058Title=The Fields of Despair
+ach058Desc=Survive the Fields of Despair.
+
+ach059Title=Celestial Bane
+ach059Desc=Defeat the Avatar of Mogdrogen.
+
+ach060Title=Shar'Zul Extinguished
+ach060Desc=Slay Shar'Zul, Harbinger of Chaos in the Bastion of Chaos.
+
+ach061Title=The Bastion Conquered
+ach061Desc=Slay Shar'Zul, Harbinger of Chaos in the Bastion of Chaos on Ultimate Difficulty.
+
+ach062Title=Immortal Conqueror of Chaos
+ach062Desc=Slay Shar'Zul, Harbinger of Chaos in the Bastion of Chaos in Hardcore Mode.
+
+ach063Title=The Order's Champion
+ach063Desc=Slay Archon Barthollem in the name of the Order of Death's Vigil on Ultimate Difficulty.
+
+ach064Title=The Chosen of Kymon
+ach064Desc=Slay Malkadarr in the name of Kymon's Chosen on Ultimate Difficulty.
+
+ach065Title=Cleansing the Immolation
+ach065Desc=Slay the Herald of Destruction in the Immolation.
+
+ach066Title=Grounding the Herald
+ach066Desc=Slay the Herald of Destruction in the Immolation on Ultimate Difficulty.
+
+ach067Title=Obránce Cairn
+ach067Desc=Dokonči hru.
+
+ach068Title=Šampión Cairn
+ach068Desc=Dokonči hru na elitní obtížnosti.

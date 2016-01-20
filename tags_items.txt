@@ -76,6 +76,7 @@ tagWeaponSwordD008Desc="Pouhý pohled na tuto čepel tě naplňuje nadějí."
 tagWeaponSwordD009=Smrtonosný dráp
 tagWeaponSwordD010=Srdce bouří
 tagWeaponSwordD010Desc="Do rukojeti jsou vyleptaná dvě písmena: D.T."
+tagWeaponSwordD011=Reaver's Claw
 
 tagWeaponSwordF001=Legionářský kráječ
 tagWeaponSwordF002=Ostří Vyvoleného
@@ -307,6 +308,7 @@ tagWeaponGun2hD004=Vír duší
 tagWeaponGun2hD004Desc="Každá vystřelená rána způsobuje zčeření uvnitř Aetheru."
 tagWeaponGun2hD005=Trhač střev
 tagWeaponGun2hD006=Ulzuinův rozmetač plamene
+tagWeaponGun2hD007=Valdun's Rifle
 
 tagWeaponGun2hF001=Ďáblova mušketa
 tagWeaponGun2hF002=Polní dvouhlavňovka
@@ -510,6 +512,7 @@ tagWeaponCaster1hD013=Tesák Ch'thona
 tagWeaponCaster1hD014=Baziliškův spár
 tagWeaponCaster1hD015=Jasnovidcova hůlka
 tagWeaponCaster1hD016=Dreegova runová dýka
+tagWeaponCaster1hD017=Trozan's Starkeeper
 
 tagWeaponCaster1hF001=Legionářský podpalovač
 tagWeaponCaster1hF002=Legionářská jiskra Aetheru
@@ -937,10 +940,12 @@ tagHeadD012=Markovianovo hledí
 tagHeadD013=Ulzuinův chránič hlavy
 tagHeadD014=Dreegova kapuce
 tagHeadD015=Střelmistrova kapuce
-tagHeadD016=Iskandřina čelenka
+tagHeadD016=Iskandřina kapuce
 tagHeadD017=Ultosova kapuce
 tagHeadD018=Koruna Zimního krále
 tagheadD018Desc="Koruna krále Hrothnara, vládce severních držav a syn velkého bílého vlka."
+tagHeadD019=Trozan's Hat
+tagHeadD020=Valdun's Hat
 
 tagHeadF001=Vyvrhelova kapuce
 tagHeadF001Desc="Nemůžeš si pomoci, ale máš dojem, že ta maska na tebe zírá."
@@ -1005,6 +1010,7 @@ tagShoulderC018=Mrazohřívné tkané nárameníky
 tagShoulderC019=Amarastanovy skládané nárameníky
 tagShoulderC020=Skládané nárameníky strážce ohně
 tagShoulderC021=Callidorovy tkané nárameníky
+tagShoulderC030=Spaulders of Mogdrogen
 
 tagShoulderD001=Tkané nárameníky přadleny osudu
 tagShoulderD001Desc="Vlákna osudu, podobně jako nekonečné nitky, se proplétají a netřepí s přibývajícím věkem člověka."
@@ -1030,6 +1036,7 @@ tagShoulderD018=Iskandřiny skládané nárameníky
 tagShoulderD019=Ultosovy rytířské nárameníky
 tagShoulderD020=Mogdrogenovy tkané nárameníky
 tagShoulderD020Desc="Nárameníky nošené iluzí samotného Mogdrogena."
+tagShoulderD021=Trozan's Mantle
 
 tagShoulderF001=Vyvrhelovy spalující tkané nárameníky
 tagShoulderF002=Vyvrhelovy mrazivé tkané nárameníky
@@ -1150,6 +1157,8 @@ tagTorsoD016=Střelmistrův kabátec
 tagTorsoD017=Iskandřin háv
 tagTorsoD018=Ultosův kyrys
 tagTorsoD019=Děsivě mrazivý kyrys
+tagTorsoD020=Trozan's Vestments
+tagTorsoD021=Valdun's Jacket
 
 tagTorsoF001=Vyvrhelův spalující háv
 tagTorsoF002=Vyvrhelův mrazivý háv
@@ -1643,6 +1652,7 @@ tagNecklaceD020=Ultosův klenot
 tagNecklaceD021=Markovianova proslulost
 tagNecklaceD022=Ulzuinovo srdce
 tagNecklaceD023=Srdce Hory
+tagNecklaceD024=Valdun's Bounty
 
 tagNecklaceF001=Tulákův strážní kámen
 tagNecklaceF002=Tulákova nevraživost
@@ -1773,7 +1783,7 @@ tagBlueprint_RelicD006=Plánek: Relikvie - Zúčtování
 tagBlueprint_RelicD007=Plánek: Relikvie - Pohroma
 tagBlueprint_RelicD008=Plánek: Relikvie - Ulzuinova ohnivá bouře
 tagBlueprint_RelicD009=Plánek: Relikvie - Odumření
-tagBlueprint_RelicD010=Plánek: Relikvie - Agravixova zášť
+tagBlueprint_RelicD010=Plánek: Relikvie - Agrivixova zášť
 tagBlueprint_RelicD011=Plánek: Relikvie - Zapomnění
 tagBlueprint_RelicD012=Plánek: Relikvie - Belgothianův masakr
 tagBlueprint_RelicD013=Plánek: Relikvie - Vyhlazení
@@ -1960,6 +1970,8 @@ tagBlueprint_ArmorD015=Plánek: Střelmistrova kapuce
 tagBlueprint_ArmorD016=Plánek: Iskandřina čelenka
 tagBlueprint_ArmorD017=Plánek: Ultosova kapuce
 tagBlueprint_ArmorD018=Plánek: Koruna Zimního krále
+tagBlueprint_ArmorD019=Blueprint: Trozan's Hat
+tagBlueprint_ArmorD020=Blueprint: Valdun's Hat
 
 
 tagBlueprint_AccessoryC001=Plánek: Maiveniny čočky
@@ -3216,7 +3228,7 @@ tagFactionMandateConfirmation=Opravdu chceš využít frakční mandát? Zruší
 tagFactionWarrantConfirmation=Opravdu chceš použít tento frakční oprávnění? Zrušíš tak stávající frakční mandát.
 
 tagBoosterADesc=Frakční dokumenty, označující tě jako vzor pro jejich lid.
-tagBoosterBDesc=Frakční dokumenty pověřující někoho zástupcem. ^oMohou být uloženy u pašeráka a být využity jinými postavami.
+tagBoosterBDesc=Frakční dokumenty pověřující někoho zástupcem. ^oMohou být uloženy u pašeráka a být využity jinými postavami. Does not stack with Writs.
 tagBoosterCDesc=Plakát, kde jsi označen jako hledaný úhlavní nepřítel.
 tagBoosterBL_A01=Příkaz Černé legie
 tagBoosterBL_A02=Ráznější příkaz Černé legie
@@ -3474,6 +3486,13 @@ tagItemSetD016Desc="Krásně zachovalé klenoty mistryně Iskandry, které měla
 tagItemSetD017Name=Ultosova bouře
 tagItemSetD017Desc="Zbroj nošená ztělesněními Ultose, boha nebes a kouzelníka zkázonosných bouří."
 
+tagItemSetD018Name=Trozan's Ascension
+tagItemSetD018Desc="In his seclusion, Trozan studied the stars and learned to harness their unbelievable power, despite all risks involved in taming such raw energies."
+
+tagItemSetD019Name=Valdun's Treachery
+tagItemSetD019Desc="Valdun was one of the finest marksmen in all of Cairn, but it was not until he turned his sights upon the nobility of Erulan that he became truly infamous."
+
+
 #Prefixes
 
 tagPrefixAA002=[ms]osvícený[fs]osvícená[ns]osvícené[mp]osvícené[fp]osvícené[np]osvícené
@@ -3526,7 +3545,7 @@ tagPrefixAD023=[ms]oslabující[fs]oslabující[ns]oslabující[mp]oslabující[
 tagPrefixAD024=[ms]rozmrazující[fs]rozmrazující[ns]rozmrazující[mp]rozmrazující[fp]rozmrazující[np]rozmrazující
 tagPrefixAD025=[ms]odolný[fs]odolná[ns]odolné[mp]odolné[fp]odolné[np]odolné
 tagPrefixAD026=[ms]stálý[fs]stálá[ns]stálé[mp]stálé[fp]stálé[np]stálé
-tagPrefixAD027=[ms]neproniknutelný[fs]neproniknutelná[ns]neproniknutelné[mp]neproniknutelné[fp]neproniknutelné[np]neproniknutelné
+tagPrefixAD027=[ms]neschůdný[fs]neschůdná[ns]neschůdné[mp]neschůdné[fp]neschůdné[np]neschůdné
 tagPrefixAD028=[ms]tvrdý[fs]tvrdá[ns]tvrdé[mp]tvrdé[fp]tvrdé[np]tvrdé
 tagPrefixAD029=[ms]věčný[fs]věčná[ns]věčné[mp]věčné[fp]věčné[np]věčné
 tagPrefixAD030=[ms]nerozbitný[fs]nerozbitná[ns]nerozbitné[mp]nerozbitné[fp]nerozbitné[np]nerozbitné
@@ -3943,6 +3962,7 @@ tagChestHeroD06=Mimořádná truhlice
 tagChestHeroD07=Shluk obsidiánů
 tagChestHeroD08=Obsidiánový poklad
 tagChestHeroD09=Obsidianové bohatství
+tagChestHeroD10=Loghorreanův poklad
 tagChestNemesis01=Poklad božského hrdiny
 
 tagBreakableA01=Sud

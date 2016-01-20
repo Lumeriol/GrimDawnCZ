@@ -60,7 +60,7 @@ tagTutorialTip20Title=Použití komponent
 tagTutorialTip20SubtitleA=Připevňování komponent
 tagTutorialTip20TextA=Pravým tlačítkem myši si vyber komponentu a pak klikni levým tlačítkem myši na předmět, ke kterému chceš komponentu připevnit. Pamatuj, že každá komponenta může být použita pouze na určitém typu předmětů.
 tagTutorialTip20SubtitleB=Skládání komponent
-tagTutorialTip20TextB=Můžeš si skládat jednotlivé úlomky komponent stejného typu do jednoho a získat tak mnohem větší bonusy. Kompletní komponenta pak ještě vytvoří dodatečný bonus za složení.{^n}{^n}Úlomky komponent stejného typu mohou být připevněny k předmětům i poté, co tam byl již jeden úlomek připevněn.
+tagTutorialTip20TextB=Můžeš si skládat jednotlivé úlomky komponent stejného typu do jednoho a získat tak mnohem větší bonusy.{^n}{^n}Úlomky komponent stejného typu mohou být připevněny k předmětům i poté, co tam byl již jeden úlomek připevněn.
 
 tagTutorialTip21Title=Druhé povolání
 tagTutorialTip21TextA=Po dosažení 10. úrovně si budeš moci vybrat druhé povolání. Pro vybrání druhého povolání otevři {^y}Okno dovedností{^w}. Nemusíš si ho nutně volit, ale stále tuto možnost budeš mít.
