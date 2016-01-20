@@ -524,7 +524,7 @@ tagEnemyManticoreC01=Mantikoří alfa samec
 
 tagEnemyManticoreAetherA01=Masorvoucí mantikora
 tagEnemyManticoreAetherB01=Masorvoucí odpadkář
-tagEnemyManticoreAetherC01=Masorvoucí aetherohřívnáč
+tagEnemyManticoreAetherC01=Masorvoucí Aetherohřívnáč
 
 tagManticoreHeroH01=Raxa, nefritová lovkyně
 tagManticoreHeroH02=Neleron "Oko smrti"
