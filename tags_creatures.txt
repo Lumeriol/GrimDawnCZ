@@ -5,7 +5,7 @@ tagSurvivorGuardGenericRangedB01=Přeživší ~ vyzyvatel
 tagSurvivorGuardGenericMeleeA01=Přeživší ~ obránce
 tagSurvivorGuardGenericMeleeB01=Přeživší ~ strážce
 
-tagHumanRover_GuardGeneric_MeleeA01=Tulácký vymahač
+tagHumanRover_GuardGeneric_MeleeA01=Tulácký ochránce
 
 tagBlackLegion_GuardMeleeA01=Pěšák Černé legie
 tagBlackLegion_GuardRangedA01=Střelec Černé legie
@@ -125,7 +125,9 @@ tagChthonianMinionHeroH07=Sharanatu ~ chráněnec
 
 tagEnemyChthonianDreadguardA01=Chthonský předvoj
 tagEnemyChthonianDreadguardB01=Chthonský smrtonoš
+tagEnemyChthonianDreadguardB01Logghorrean=Loghorreanův smrtonoš
 tagEnemyChthonianDreadguardC01=Chthonský tyran
+tagEnemyChthonianDreadguardC01Logghorrean=Loghorreanův tyran
 tagEnemyChthonianDreadguardD01=Loghorreanův předvoj
 
 tagChthonianDreadguardHeroH01=Shar'Oruuth
@@ -431,7 +433,7 @@ tagHumanBoss04=Boris, mistr jámy
 
 tagHumanRoverA_A01=Tulák
 tagHumanRoverA_B01=Toulavý průzkumník
-tagHumanRoverA_C01=Toulavý vymahač
+tagHumanRoverA_C01=Toulavý ochránce
 
 #CreatureHumanPossessed
 
