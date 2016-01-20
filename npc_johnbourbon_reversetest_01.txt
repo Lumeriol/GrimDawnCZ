@@ -79,7 +79,7 @@ Opravdu? Můžeš to rozvést?
 [[ms]Zmínil[fs]Zmínila] ses, že už jsi ve vesnici Burrwitch [[ms]byl[fs]byla]. Pověz mi, jaká je tam situace?
 
 [[ms]Našel[fs]Našla] jsi tu Bránu v Burrwitchi? Jaká je tam situace?
-Všude kolem je Aetherické poškození, ale Brána je zabezpečená.
+Všude kolem je aetherické poškození, ale Brána je zabezpečená.
 
 Potřebujeme zabezpečit cestu do Burrwitche. Všechno závisí právě na tom.
 Jdu na to.
@@ -92,7 +92,7 @@ Jsem [[ms]připravený[fs]připravená].
 Zní to jako sebevražda. Najdi si někoho jiného.
 V Burrwitchi jsem už [[ms]byl[fs]byla].
 To je skvělé! Jaká je tam situace?
-Všude kolem je Aetherické poškození, ale Brána je zabezpečená.
+Všude kolem je aetherické poškození, ale Brána je zabezpečená.
 
 Dobře, že jsi zpátky. Slyšel jsem nějaké dobré zprávy jak od Barnabase, tak od Kasparova. Pro naši komunitu jsi opravdovým přínosem.
 Díky.
@@ -158,7 +158,7 @@ Jdu k Pohřebnímu vrchu.
 
 Nevypadáš až tak špatně na někoho, kdo se právě vymanil ze spárů smrti! [[ms]Byl[fs]Byla] jsi [[ms]Posedlý[fs]Posedlá], [[ms]ovládán[fs]ovládána] těmi stejnými nestvůrami, které tu oživovaly mrtvé. {^n}{^n}Normálně bych tě spálil s ostatníma, abych se ujistil, že je tu bezpečno, ale ztratili jsme až příliš mnoho lidí díky mrtvým. Potřebuji někoho postradatelného, někoho, kdo nemá co ztratit a může hodně přinést. A to jsi právě ty. {^n}{^n}Dokaž, že pro mne máš alespoň nějakou cenu a přeživší z Ďáblova průsmyku tě přivítají.
 Co chceš, abych [[ms]udělal[fs]udělala]?
-Těla mrtvých znovu povstávají a stávají se nemrtvými. Mrtvoly prostě jen tak nevstanou a nepotulují se kolem. {^n}{^n}Něco oživuje naše padlé díky Aetherické energii. Nějaký čas jsme mrtvé pozorovali a vypadá to, že zamořují území od Dolního rozcestí k Pohřebnímu vrchu, hned za městem. {^n}{^n}Chci, abys [[ms]šel[fs]šla] k Pohřebnímu vrchu, [[ms]našel[fs]našla] cokoliv, co ovládá tyhle zrůdnosti a [[ms]zničil[fs]zničila] to.
+Těla mrtvých znovu povstávají a stávají se nemrtvými. Mrtvoly prostě jen tak nevstanou a nepotulují se kolem. {^n}{^n}Něco oživuje naše padlé díky aetherické energii. Nějaký čas jsme mrtvé pozorovali a vypadá to, že zamořují území od Dolního rozcestí k Pohřebnímu vrchu, hned za městem. {^n}{^n}Chci, abys [[ms]šel[fs]šla] k Pohřebnímu vrchu, [[ms]našel[fs]našla] cokoliv, co ovládá tyhle zrůdnosti a [[ms]zničil[fs]zničila] to.
 Kde najdu Pohřební vrch?
 Budeš si muset probojovat cestu skrze Dolní rozcestí. Jakmile překročíš potok na vzdálenější straně města, bude tam vyšlapaná cesta vedoucí na Pohřební vrch. {^n}{^n}Vím, že po tobě žádám mnoho, ale o mnoho jsem žádal i já, když jsem po mých lidech chtěl, aby tě přivítali s otevřenou náručí.
 Najdu toho, kdo oživuje ty mrtvoly.
