@@ -2109,7 +2109,7 @@ tagCompSkillB006Name=Oleronova moc
 tagCompSkillB006Desc=Úder zbraní, jež způsobí těžkou újmu nepříteli a ochromí ho.
 
 tagCompSkillB007Name=Bysmielova vazba
-tagCompSkillB007Desc=Podmaň nohsledy své vůli. ^o(Pasivní bonus)
+tagCompSkillB007Desc=Podmaň nohsledy své vůli. ^o(pasivní bonus)
 
 
 
