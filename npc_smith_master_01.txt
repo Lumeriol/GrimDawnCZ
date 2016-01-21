@@ -29,10 +29,10 @@ Mám skupinu v Ďáblově průsmyku. Mohl by ses k nám přidat.
 Ďáblův průsmyk, eh? Skutečně vypadáš jako schopný typ. Pokud je zbytek skupiny takový, jako jsi ty, dobrá... lidstvo možná ještě má šanci.{^n}{^n}Dobrá, budu tvým zbrojířem. Společně udeříme proti útočníkům a získáme Cairn zpět pro lidstvo!
 Vlastně si myslím, že je čas předat kladivo dál.
 Vlastně si myslím, že si to kladivo prostě vezmu.
-Uvidíme se v Ďáblově průsmyku. (Spolči se s Angrimem: Otevři Bránu)
+Uvidíme se v Ďáblově průsmyku. (spolči se s Angrimem: Otevři Bránu)
 Je čas předat kladivo dál.
 To je pravda, Duncan přinesl s tajemnými zbraněmi ke kovárně nový postoj a svoji práci dělá s jedinečnou energií, ale pořád mu chybí zkušenosti k vytváření zbraní pro opravdové vojáky a pány meče.{^n}{^n}Nemůžu plýtvat silou kladiva Malleum Menhir, když jsme ve válce.
-Budu se dívat, jak je jeho práce přínosem pro lidstvo. (Spolči se s Duncanem)
+Budu se dívat, jak je jeho práce přínosem pro lidstvo. (spolči se s Duncanem)
 [[ms]Zapřáhnul[fs]Zapřáhla] bys ho do práce, eh? Skutečně vypadáš jako schopný typ.{^n}{^n}*Angrim si povzdechne.*{^n}{^n}Dobrá tedy, Duncan zdědí Malleum Menhir. Vezmi mu ho. Nech ho udělat jeho charitativní práci, ale potom...
 Děkuji ti. On a já dokážeme velké věci.
 Využili bychom tvůj talent v Ďáblově průsmyku.
@@ -43,12 +43,12 @@ Skutečně si nemyslíš, že tě nechám si ho jen tak vzít, nebo ano?
 Nezkoušej se mnou o něj bojovat.
 Nevyrábím jenom zbraně, víš. Také vím, jak je používat.{^n}{^n}Pokud chceš Malleum Menhir, budeš ho muset získat přes mojí mrtvolu.
 Omlouvám se, jen se snažím pomoci Duncanovi.
-Nenuť mě se ptát znovu. (Spolči se s Duncanem)
+Nenuť mě se ptát znovu. (spolči se s Duncanem)
 Koukám, že jsi [[ms]nezmoudřel[fs]nezmoudřela]. Tak budiž. Vezmi si ode mne tu pýchu vlastnit život. {^n}{^n}Jsi výsměchem toho, co znamená být člověkem v těchto těžkých časech.
 Jsem [[ms]rád[fs]ráda], že jsme si začali rozumět.
-Budiž. (Spolči se s Duncanem: Zaútoč)
+Budiž. (spolči se s Duncanem: Zaútoč)
 Omlouvám se, jen se snažím pomoci Duncanovi.
-Tak potom hádám že musíš zemřít. (Spolči se s Duncanem: Zaútoč)
+Tak potom hádám že musíš zemřít. (spolči se s Duncanem: Zaútoč)
 Co tady venku děláš?
 To samé co ty, předpokládám. Hledám svůj smysl v boji za záchranu Cairnu. Černá legie je stále tam venku a určitě by využili kováře.
 Černá legie?
