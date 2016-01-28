@@ -63,7 +63,7 @@ tagTutorialTip20SubtitleB=Skládání komponent
 tagTutorialTip20TextB=Můžeš si skládat jednotlivé úlomky komponent stejného typu do jednoho a získat tak mnohem větší bonusy.{^n}{^n}Úlomky komponent stejného typu mohou být připevněny k předmětům i poté, co tam byl již jeden úlomek připevněn.
 
 tagTutorialTip21Title=Druhé povolání
-tagTutorialTip21TextA=Po dosažení 10. úrovně si budeš moci vybrat druhé povolání. Pro vybrání druhého povolání otevři {^y}Okno dovedností{^w}. Nemusíš si ho nutně volit, ale stále tuto možnost budeš mít.
+tagTutorialTip21TextA=Po dosažení 10. úrovně si budeš moci vybrat druhé povolání. Pro vybrání druhého povolání otevři {^y}Okno dovedností{^w}. Nemusíš si ho nutně volit, ale stále budeš tuto možnost mít.
 
 tagTutorialTip22Title=Okno dovedností
 tagTutorialTip22TextA=Vždy když získáš novou úroveň, obdržíš nové dovednostní body. Investuj tyto body do úrovně svého povolání nebo do odemčených dovedností.
