@@ -147,7 +147,7 @@ tagChthonianLeechHeroH04=Orudin'Anatu ~ nemocný
 tagChthonianLeechHeroH05=Yakwa'Anatu ~ nezastavitelný
 
 tagChthonianBoss01=Lagoth'Ak, posel krve
-tagChthonianBoss02=Shar'Zul, posel chaosu
+tagChthonianBoss02=Shar'Zul, posel Chaosu
 tagChthonianBoss03=Bane'Gargoroth, strážce bran
 tagChthonianBoss04=Balok'Anatu, krvavý démon
 tagChthonianBoss05=Galar'Bargok, černý ďábel

@@ -178,32 +178,32 @@ ach056Desc=Posbírej 20 zápisků
 ach057Title=Knihomol
 ach057Desc=Posbírej 50 zápisků
 
-ach058Title=The Fields of Despair
-ach058Desc=Survive the Fields of Despair.
+ach058Title=Lány zoufalství
+ach058Desc=Přežij na Lánech zoufalství.
 
-ach059Title=Celestial Bane
-ach059Desc=Defeat the Avatar of Mogdrogen.
+ach059Title=Nebeské prokletí
+ach059Desc=Poraž Mogdrogenovu iluzi.
 
-ach060Title=Shar'Zul Extinguished
-ach060Desc=Slay Shar'Zul, Harbinger of Chaos in the Bastion of Chaos.
+ach060Title=Vyhasnutí Shar'Zula
+ach060Desc=Zlikviduj Shar'Zula, posla Chaosu v Baště Chaosu.
 
-ach061Title=The Bastion Conquered
-ach061Desc=Slay Shar'Zul, Harbinger of Chaos in the Bastion of Chaos on Ultimate Difficulty.
+ach061Title=Dobytí Bašty
+ach061Desc=Zlikviduj Shar'Zula, posla Chaosu v Baště Chaosu na Ultimátní obtížnost.
 
-ach062Title=Immortal Conqueror of Chaos
-ach062Desc=Slay Shar'Zul, Harbinger of Chaos in the Bastion of Chaos in Hardcore Mode.
+ach062Title=Nesmrtelný dobyvatel Chaosu
+ach062Desc=Zlikviduj Shar'Zula, posla Chaosu v Baště Chaosu ve Výzvě.
 
-ach063Title=The Order's Champion
-ach063Desc=Slay Archon Barthollem in the name of the Order of Death's Vigil on Ultimate Difficulty.
+ach063Title=Šampión Řádu
+ach063Desc=Zlikviduj Archóna Barthollema ve jménu Řádu Strážců smrti na Ultimátní obtížnost.
 
-ach064Title=The Chosen of Kymon
-ach064Desc=Slay Malkadarr in the name of Kymon's Chosen on Ultimate Difficulty.
+ach064Title=Kymonův Vyvolený
+ach064Desc=Zlikviduj Malkadarra ve jménu Kymonových Vyvolených na Ultimátní obtížnost.
 
-ach065Title=Cleansing the Immolation
-ach065Desc=Slay the Herald of Destruction in the Immolation.
+ach065Title=Čistka v Obětišti
+ach065Desc=Zlikviduj Posla zničení na Obětišti.
 
-ach066Title=Grounding the Herald
-ach066Desc=Slay the Herald of Destruction in the Immolation on Ultimate Difficulty.
+ach066Title=Uzemnění Posla
+ach066Desc=Zlikviduj Posla zničení na Obětišti na Ultimátní obtížnost.
 
 ach067Title=Obránce Cairn
 ach067Desc=Dokonči hru.
