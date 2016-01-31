@@ -1693,8 +1693,8 @@ DamageTotalResistanceReductionPercent=% {^E}snížení nepřátelských odolnost
 DamageTotalResistanceReductionAbsolute= {^E}snížení nepřátelských odolností
 DamagePhysicalResistanceReductionPercent=% {^E}snížení nepřátelských fyzických odolnosti
 DamagePhysicalResistanceReductionAbsolute= {^E}snížení nepřátelských fyzických odolností
-DamageElementalResistanceReductionPercent=% {^E}snížení nepřátelských elementárních odolností
-DamageElementalResistanceReductionAbsolute= {^E}snížení nepřátelských elementárních odolností
+DamageElementalResistanceReductionPercent=% {^E}snížení nepřátelských odolností vůči živlům
+DamageElementalResistanceReductionAbsolute= {^E}snížení nepřátelských odolností vůči živlům
 DamageDurationFumble=% {^E}šance, že nepřítel promáchne svůj útok
 DamageDurationProjectileFumble=% {^E}šance narušení zaměření nepřítele
 
@@ -1744,7 +1744,7 @@ IncreasedDuration={^H}{%+.0f0}% {^E}zvýšené{%s1} doby trvání
 
 RetaliationCold={%t0} {^E}odplata ledem
 RetaliationFire={%t0} {^E}odplata ohněm
-RetaliationLife={%t0} {^E}odplata životní energií
+RetaliationLife={%t0} {^E}odplata ztrátou životní energie
 RetaliationLightning={%t0} {^E}odplata bleskem
 RetaliationElemental={%t0} {^E}odplata živlem
 RetaliationPhysical={%t0} {^E}odplata fyzickým zraněním
@@ -1973,7 +1973,7 @@ tagInspectWarning=Tento hráč je příliš daleko než abys sis jej mohl prohl�
 tagGroup01=Povoleny souboje mezi hráči
 tagGroup02=Automatické seskupování povoleno
 tagAutoItemSkill= (uděleno předmětem - pasivní aktivace)
-tagExclusiveSkill=^oExkluzivní dovednosti - vždy pouze jedna z exkluzivních dovedností může být aktivována.
+tagExclusiveSkill=^oVýjimečná dovednost - aktivní může být vždy pouze jedna Výjimečná dovednost.
 
 tagAutoSort=Automatické řazení
 tagAutoComplete=Celé komponenty

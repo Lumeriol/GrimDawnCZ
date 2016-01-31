@@ -277,7 +277,7 @@ tagEnemyGolemRockMiniBoss01=Pradávný strážce lesa
 
 tagGolemRockHeroH01=Kamenolam
 tagGolemRockHeroH02=Haldras, vrhač plamenů
-tagGolemRockHeroH03=Kamenné srdce ~ zrcadlící
+tagGolemRockHeroH03=Zkamenělé srdce ~ zrcadlící
 tagGolemRockHeroH04=Kamenný mlejn ~ dobíječ
 tagGolemRockHeroH05=Zmrzlý kámen ~ zmrzlý
 tagGolemRockHeroH06=Dutý kámen ~ dotčený Prázdnotou
@@ -977,7 +977,7 @@ tagDevotionPet_Skeleton=Kostra
 tagDevotionPet_ArcaneBomb=Tajemná bomba
 tagDevotionPet_Hound=Podivný ohař
 tagDevotionPet_Hungerling=Hladovec
-tagDevotionPet_ElementalSeeker=Elementární hledač
+tagDevotionPet_ElementalSeeker=Živelný hledač
 tagDevotionPet_LivingShadow=Živý stín
 tagDevotionPet_Volcano=Výbuch
 
