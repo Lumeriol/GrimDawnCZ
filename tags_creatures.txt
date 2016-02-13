@@ -520,7 +520,7 @@ tagInsectSwarmHeroH03=Omnol Plíseň ~ nakažený
 
 tagEnemyManticoreA01=Bělohřívnatá mantikora
 tagEnemyManticoreA02=Černohřívnatá mantikora
-tagEnemyManticoreB01=Mantikoří odpadkář
+tagEnemyManticoreB01=Mantikoří pustinný stopař
 tagEnemyManticoreB02=Mantikoří noční stopař
 tagEnemyManticoreC01=Mantikoří alfa samec
 

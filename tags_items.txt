@@ -21,13 +21,13 @@ tagWeaponSwordA012=[ms]dobyvatelský meč
 tagWeaponSwordA013=[fs]šavle
 
 tagWeaponSwordB001=[fs]Salazarova suverénní čepel
-tagWeaponSwordB001Desc="Vykována z Čepele Ch'thona za jeho neochvějnou službu."
+tagWeaponSwordB001Desc="Udělena Čepeli Ch'thona za jeho neochvějnou službu."
 tagWeaponSwordB002=[ms]přízračný široký meč
 tagWeaponSwordB003=[ms]přízračný dlouhý meč
 tagWeaponSwordB004=[ms]nabroušený dlouhý meč
 tagWeaponSwordB005=[ms]nabroušený široký meč
 tagWeaponSwordB006=[ms]nabroušený dobyvatelský meč
-tagWeaponSwordB007=$[fs]Malkadarrova strašidelná čepel
+tagWeaponSwordB007=[fs]Malkadarrova strašidelná čepel
 tagWeaponSwordB008=[ms]mantikoří dlouhý meč
 tagWeaponSwordB009=[ms]kostěný kráječ
 tagWeaponSwordB010=[fs]kostěná čepel
@@ -374,7 +374,7 @@ tagWeaponMelee2hB006=[fs]Alkamosova kosa
 tagWeaponMelee2hB007=[fs]přízračná válečná sekyra
 tagWeaponMelee2hB008=[ms]Alkamosův válečný meč
 tagWeaponMelee2hB009=[fs]přízračná válečná palice
-tagWeaponMelee2hB010=$[fs]Archónova válečná palice
+tagWeaponMelee2hB010=[fs]Archónova válečná palice
 tagWeaponMelee2hB011=[ms]obsidiánový půlič hlav
 tagWeaponMelee2hB012=[ms]obsidiánový válečný oddělovač
 
@@ -882,7 +882,7 @@ tagHeadB013=[fs]masorvoucí helma
 tagHeadB014=[fs]masorvoucí přilbice
 tagHeadB015=[fs]přízračná koruna
 tagHeadB015Desc="Mocné nekrotické energie umožňují této koruně zhmotňovat se ve své fyzické podobě."
-tagHeadB016=$[fs]Miltonova přilbice
+tagHeadB016=[fs]Miltonova přilbice
 tagHeadB016Desc="Každý zářez na přilbici značí jednoho, jím zabitého, hajzla."
 
 tagHeadC001=Čelenka vyvolavače bouří
@@ -2665,7 +2665,7 @@ tagEnchantB016Desc="Rhowan, poslední král Arkovie a zakladatel řádu Tuláků
 tagEnchantB017A=Důvtip přeživšího
 tagEnchantB017B=Důvtip přeživšího II
 tagEnchantB017C=Důvtip přeživšího III
-tagEnchantB017Desc="S omezenými zásobami lidé z Ďáblova přístaviště vymysleli chytrý způsob k vypořádání se s jakoukoliv hrozbou, a to včetně jakéhokoliv očarování."^w^n(použitelné na prsteny a amulety)
+tagEnchantB017Desc="S omezenými zásobami lidé z Ďáblova průsmyku vymysleli chytrý způsob k vypořádání se s jakoukoliv hrozbou, a to včetně jakéhokoliv očarování."^w^n(použitelné na prsteny a amulety)
 
 tagEnchantB018A=Nezdolnost přeživšího
 tagEnchantB018B=Nezdolnost přeživšího II
@@ -3218,11 +3218,11 @@ tagCompAScrapDesc="Kusy železa, zlámané šipky, kožené šňůry nebo nekval
 
 #ItemFactionBoosters
 
-tagFactionBooster={^E}Získaná přízeň se zvýší o {^H}{%d0}% {^E}vůči frakci {%s1}
-tagFactionAlreadyBoosted={^r}[Tato frakce ti už udělila svůj mandát]
+tagFactionBooster={^E}Získaná přízeň se zvýší o {^H}{%d0} % {^E}vůči frakci {%s1}
+tagFactionAlreadyBoosted={^r}[tato frakce ti už udělila svůj mandát]
 
-tagFactionNegativeBooster={^E}Získaná nepříteň se zvýšila o {^H}{%d0}% {^E}vůči frakci {%s1}
-tagFactionAlreadyNegativeBoosted={^r}[Tato frakce už má v platnosti frakční oprávnění]
+tagFactionNegativeBooster={^E}Získaná nepřízeň se zvýšila o {^H}{%d0}% {^E}vůči frakci {%s1}
+tagFactionAlreadyNegativeBoosted={^r}[tato frakce už má v platnosti frakční oprávnění]
 
 tagFactionMandateConfirmation=Opravdu chceš využít frakční mandát? Zrušíš tak platnost stávajícího frakčního oprávnění.
 tagFactionWarrantConfirmation=Opravdu chceš použít tento frakční oprávnění? Zrušíš tak stávající frakční mandát.
@@ -3235,11 +3235,11 @@ tagBoosterBL_A02=Ráznější příkaz Černé legie
 tagBoosterBL_B01=Mandát Černé legie
 tagBoosterBL_B02=Vyšší mandát Černé legie
 tagBoosterBL_B03=Mýtický mandát Černé legie
-tagBoosterDC_A01=Příkaz Ďáblova přístaviště
-tagBoosterDC_A02=Ráznější příkaz Ďáblova přístaviště
-tagBoosterDC_B01=Mandát Ďáblova přístaviště
-tagBoosterDC_B02=Vyšší mandát Ďáblova přístaviště
-tagBoosterDC_B03=Mýtický mandát Ďáblova přístaviště
+tagBoosterDC_A01=Příkaz Ďáblova průsmyku
+tagBoosterDC_A02=Ráznější příkaz Ďáblova průsmyku
+tagBoosterDC_B01=Mandát Ďáblova průsmyku
+tagBoosterDC_B02=Vyšší mandát Ďáblova průsmyku
+tagBoosterDC_B03=Mýtický mandát Ďáblova průsmyku
 tagBoosterEXILE_A01=Příkaz Vyvrhelů
 tagBoosterEXILE_A02=Ráznější příkaz Vyvrhelů
 tagBoosterEXILE_B01=Mandát Vyvrhelů

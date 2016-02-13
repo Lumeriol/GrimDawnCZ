@@ -47,7 +47,7 @@ tagSkillClassName0809=[ms]
 
 tagSkillDevotion=Oddanost
 
-tagSkillClassDescription01=Vojáci císařské armády byli trénováni k přežití v těch nejhorších podmínkách a drželi linie před těmi nejnebezpečnějšími nepřáteli Říše. Vojáci upřednostňují používání zbraně pro boj zblízka, jako jsou meče a štíty, ale mohou se také uplatnit jako střelci ze zálohy. Co může vojákovi chybět v množství jím způsobeného zranění, to doplní svou statečností a vedením.
+tagSkillClassDescription01=Vojáci císařské armády byli trénováni k přežití v těch nejhorších podmínkách, a k držení linie před těmi nejnebezpečnějšími nepřáteli Říše. Vojáci upřednostňují používání zbraně pro boj zblízka, jako jsou meče a štíty, ale mohou se také uplatnit jako střelci ze zálohy. Co může vojákovi chybět v množství jím způsobeného zranění, to doplní svou statečností a vedením.
 
 tagSkillClassDescription02=[[ms]Pyrotechničtí mistři[fs]Pyrotechnické mistryně] císařské armády. [[ms]Ničitelé[fs]Ničitelky] jsou částečně [[ms]inženýři[fs]inženýrky] a částečně [[ms]kouzelníci[fs]kouzelnice]. [[ms]Byli[fs]Byly] [[ms]využíváni[fs]využívány] k prolomení nepřátelských pozic a opevnění za pomoci své zničující výbavy různých výbušnin a destruktivní magie. Obvykle [[ms]dávali[fs]dávaly] přednost boji na dálku; [[ms]útočili[fs]útočily] na nepřátele střelnými zbraněmi, pastmi a výbušninami. Samozřejmě jsou také [[ms]schopni[fs]schopny] použít chladnou zbraň.
 
@@ -2679,7 +2679,7 @@ tagDevotionEffectC12Desc=Vyvoláš podivnou příšeru z čisté energie, která
 tagDevotionEffectC12_Pet01=Hořící podoba
 tagDevotionEffectC12_Pet02=Výbuch
 tagDevotionEffectC13=Vodní vír
-tagDevotionEffectC13Desc=Chvějící se hlubiny se přeměňí na hladový vodní vír, blížící se s cílem rozdrtit tvé nepřátele.
+tagDevotionEffectC13Desc=Chvějící se hlubiny se přemění na hladový vodní vír, blížící se s cílem rozdrtit tvé nepřátele.
 tagDevotionEffectC14=Živoucí stín
 tagDevotionEffectC14Desc=Vzestoupí ztělesnění bezejmenného hrdiny, aby bojovalo po tvém boku. ^oŽivoucí stíny sílí spolu se zvyšujícími se bonusy pro spojence.
 tagDevotionEffectC14_Pet01=Útok ze stínu
@@ -2690,7 +2690,7 @@ tagDevotionEffectC14_Pet02=Stínové čepele
 tagReallocateError01=Než budeš moci odstranit poslední bod dovednosti, musíš odstranit všechny body ze všech vlastností.
 tagReallocateError02=Nemáš dostatek železných mincí pro odstranění dalších bodů dovedností.
 tagReallocateError03=Nemůžeš odstranit body ze svého povolání.
-tagDecreaseMasteryError=Z povolání nelze body dovednosti získat zpšt.
+tagDecreaseMasteryError=Z povolání nelze body dovednosti získat zpět.
 tagReclaimPoint=Kliknutím získáš zpět bod dovednosti (cena: {^s}{%t0}{^-} železných mincí)
 tagReclaimDevotionPoint=Klikni pro navrácení bodu Oddanosti (cena: {^s}{%t0}{^-} železných mincí, {^g}{%t1}{^-} Aetherický krystal)
 tagRemovePoint=Levým kliknutím odebereš body oddanosti

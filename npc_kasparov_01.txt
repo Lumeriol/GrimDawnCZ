@@ -52,7 +52,7 @@ V Hargatově laboratoři, není to daleko od pobřeží. Budeš potřebovat loď
 To mě uklidnilo. Díky za informaci.
 Ještě ne.
 Tady jsi! Pojď, pojď. Mám něco, co vyžaduje zálibu v násilí a schopnost přežít za všech podmínek.
-Ah, skvělé, co je to tentokrát?
+Ach, skvělé, co je to tentokrát?
 Před necelými sto lety muž jménem Oswald Hargate vytvořil prvního Slitha. Netřeba říkat, že to všechno byla velká chyba, za kterou právě tento muž zaplatil doživotním vězením, ale to co mě zajímá je jak ho stvořil.{^n}{^n}Víš, Hargate využil Aether, aby mohl provádět své mutagenní experimenty. Pokud bych mohl nahlédnout do jeho poznámek, možná bych mohl využít jeho znalostí Aetheru a vrátit některé ze škod, jež Aetheriané způsobili místní fauně a floře. Hargatovu laboratoř jsem hledal celé roky, uplácel jsem ty správné lidi, dokonce navštívil některá vězení a věřím že vím kde je ukryta. Byl jsem v Burrwitchi a dával dohromady expedici, když se všechno zvrtlo.{^n}{^n}Teď jsem tady a ten objev je důležitější než kdy předtím. Poslal bych Darlet, ale po jejím výkonu v Burrwitchi se zdráhám nabídnout jí něco víc než hadr na vytření polic.{^n}{^n}Budeš můj spolupracovník? V Dolním rozcestí mám veslici, hned za mostem z vězení. Pokud se vydáš na severozápad, [[ms]měl[fs]měla] bys najít Hargatův ostrov a pod ním jeho laboratoř.
 Najdu pro tebe ty poznámky.
 Najdi si někoho jinýho, dostatečně šílenýho.
@@ -67,7 +67,7 @@ Není šance, že to pro tebe udělám.
 Nemám na tvoje experimenty čas.
 Začaly přicházet zásilky z Homesteadu.{^n}{^n}Předpokládám že to znamená že mohu přestat pátrat po způsobech, jak proměnit maso z Trhající feny v něco poživatelného. Škoda...
 Můžeš mi poskytnout služby vynálezce?
-Oh, ty myslíš tu mizernou věc? Jsem zaneprázdněný prací! Promluv si s mou učednicí. To ona se stará o činnosti sluhy.
+Jo ty myslíš tu mizernou věc? Jsem zaneprázdněný prací! Promluv si s mou učednicí. To ona se stará o tyhle podřadný činnosti.
 Hmm, dobrá.
 Já... ani nechci vědět, co to znamená.
 Tak zatím.
@@ -78,12 +78,12 @@ Tví přátelé mi již poskytli všechen materiál, který jsem pro experiment 
 Dobře.
 Hm, ano? Máš dynamit, který potřebujeme?
 Tady je.
-Oh, dobře, dobře! Nech nás tedy začít s experimentem okamžitě! Darlet! Připrav vysokou pec!
+No dobře, dobře! Nech nás tedy začít s experimentem okamžitě! Darlet! Připrav vysokou pec!
 Je to bezpečné?
-Samozřejmě! Jsem si zcela jistý že to bude fungovat tak jak je zamýšleno. No, ehm, možná je tady malá šance, že roztrhneme realitu, až bude artefakt pohlcen konflagrací...{^n}{^n}Ale šance, že se to stane, je velmi malá. Tak malá! Jedna k miliardě. Jsi v bezpečí. Opravdu.
+Samozřejmě! Jsem si zcela jistý, že to bude fungovat tak, jak je zamýšleno. No, ehm, možná je tady malá šance, že roztrhneme realitu, až bude artefakt pohlcen konflagrací...{^n}{^n}Ale šance, že se to stane, je velmi malá. Tak malá! Jedna k miliardě. Jsi v bezpečí. Opravdu.
 Tohle nemůže dopadnout dobře.
-Ha! Měl jsem pravdu! Jen se podívej na ty úžasné komponenty! Konečně můžeme začít pořádně studovat artefakty. Kdyby mě tak společnost Erulanského muzea mohla nyní vidět! Úplně by zuřila!{^n}{^n}Oh, a pokud chceš, můžeš využít Darlet a rozložit všechny předměty, co najdeš. Jenom přines víc výbušnin.
-Já...ehm, díky.
+Ha! Měl jsem pravdu! Jen se podívej na ty úžasné komponenty! Konečně můžeme začít pořádně studovat artefakty. Kdyby mě tak společnost Erulanského muzea mohla nyní vidět! Úplně by zuřila!{^n}{^n}No, a pokud chceš, můžeš využít Darlet a rozložit všechny předměty, co najdeš. Jenom přines víc výbušnin.
+Já... ehm, díky.
 Myslím, že ustoupím.
 Ještě ne.
 Hm, ano? Máš dynamit, který potřebujeme?
@@ -91,7 +91,7 @@ Kde bych se [[ms]měl[fs]měla] podívat?
 Spousta uzavřených dolů je za severozápadním mostem, v Arkovianském podhůří a Staré Arkovii. Já bych začal s hledáním pávě tam.
 Podívám se do nich.
 Ještě ne.
-Ah, tady jsi! Pojď, pojď, máme tady záležitost, kterou musíš ihned vyřídit.
+Ach, tady jsi! Pojď, pojď, máme tady záležitost, kterou musíš ihned vyřídit.
 Prosím?
 Ano, konečně. Nezdržuj se! Jsou zde experimenty, které musejí být vyzkoušeny a Darlet a já potřebujeme neprodleně explozivní materiály. Není čas na otázky. Magické artefakty se samy o sobě nerozloží, nebo snad ano?{^n}{^n}Ještě pořád jsi tady? Zamiř ihned do dolů v okolí Arkovianského podhůří a Staré Arkovie!
 Dobře. Seženu ty výbušniny.
@@ -102,7 +102,7 @@ Doručili mí přátelé dynamit?
 Ano, ano. Experiment měl ohromný, ne... explozivní úspěch! Možná to vybuchlo. Ale nikomu se nic nestalo, doopravdy. {^n}{^n}[[ms]Měl[fs]Měla] by sis promluvit s Darlet, tedy pokud chceš ještě něco dalšího, ehm... vyhodit do povětří.
 
 Ale ne, už žádný další experiment...
-Ah, tady jsi! Pojď, pojď, máme tady záležitost, kterou musíš ihned vyřídit.
+Ach, tady jsi! Pojď, pojď, máme tady záležitost, kterou musíš ihned vyřídit.
 Prosím?
 Ano, konečně. Nezdržuj se! Jsou zde experimenty, které musejí být vyzkoušeny a Darlet a já potřebujeme neprodleně explozivní materiály. Není čas na otázky. Magické artefakty se samy o sobě nerozloží, nebo snad ano?{^n}{^n}Ještě pořád jsi tady? Zamiř ihned do dolů v okolí Arkovianského podhůří a Staré Arkovie!
 Dobře. Seženu ty výbušniny.
@@ -129,12 +129,12 @@ Vidím, že se moje líná asistentka konečně vrátila ze svého malého výle
 Promluvím s ní.
 Podařilo se ti najít mou učednici? Jsem si docela jistý, že je v nějakém sklepení v Burrwitchských statcích. Můžeš ji přivést zpátky otevřením Brány. Vlastně, pokud bys [[ms]našel[fs]našla] v okolí další lidi, [[ms]mohl[fs]mohla] bys je přivést také.
 Budu dál hledat.
-Ah, byli jsme tak moc zaměstnáni tou věcí s Bránou, že jsem úplně zapomněl na mou učednici, Darlet! {^n}{^n}Poslal jsem ji ven do Burrwitchských statků, aby se podívala po nějakých dílech pro náš výzkum a už je pryč až příliš dlouho. Vypadá to, že její hloupost se plně projevuje i mimo pracoviště.
+Ach, byli jsme tak moc zaměstnáni tou věcí s Bránou, že jsem úplně zapomněl na mou učednici, Darlet! {^n}{^n}Poslal jsem ji ven do Burrwitchských statků, aby se podívala po nějakých dílech pro náš výzkum a už je pryč až příliš dlouho. Vypadá to, že její hloupost se plně projevuje i mimo pracoviště.
 Ty jsi ztratil učednici?
 Musím říct, že se za ni cítím tak trošku zodpovědný, když už je mojí učednicí. [[ms]Mohl[fs]Mohla] bys tam prosím jít a podívat se po té beznadějné holce?
 Budu se mít na pozoru.
 Dokáže se o sebe postarat.
-Ah, tví přátelé mi poskytli všechno, co jsem potřeboval. Ale děkuji za optání.
+Ach, tví přátelé mi poskytli všechno, co jsem potřeboval. Ale děkuji za optání.
 Výborně.
 [[ms]Přinesl[fs]Přinesla] jsi zpátky ty fragmenty aetherických krystalů, které potřebuji?
 Tady jsou.
@@ -149,10 +149,10 @@ Rád bych si s tebou popovídal, ale jsem opravdu zaneprázdněn s tímto protot
 Kdeže můžu najít ty fragmenty aetherických krystalů?
 Porozhlédni se po velkých fragmentech krystalů, které nepřirozeně zeleně září. Jsou roztroušené po kraji, všude tam, kde Aetheriané zanechali své stopy. Nemělo by být těžké je najít, hlavně v místech, kde je velká koncentrace mrtvých. {^n}{^n}Zkontroloval bych hřbitov. Ale buď [[ms]opatrný[fs]opatrná]. Ty krystaly jsou v blízkosti živých trošku nestabilní.
 Přinesu nějaké zpátky.
-Vítej v mé dílně! Viděl jsem tě bojovat s mrtvými u Dolního rozcestí a troufám se říct, že jsi [[ms]byl[fs]byla] absolutně [[ms]skvělý[fs]skvělá]! Vypadá to, že odříznutí tě z té šibenice bylo to nejrozumnější rozhodnutí, které kapitán ten den udělal... {^n}{^n}Ah! Kde jsou moje způsoby? Já jsem Kasparov, věděc a vynálezce. Co tě přivádí do mého skromného obchodu?
+Vítej v mé dílně! Viděl jsem tě bojovat s mrtvými u Dolního rozcestí a troufám se říct, že jsi [[ms]byl[fs]byla] absolutně [[ms]skvělý[fs]skvělá]! Vypadá to, že odříznutí tě z té šibenice bylo to nejrozumnější rozhodnutí, které kapitán ten den udělal... {^n}{^n}Ach! Kde jsou moje způsoby? Já jsem Kasparov, věděc a vynálezce. Co tě přivádí do mého skromného obchodu?
 Kapitán říkal, že si se mnou chtěl mluvit?
 Brány, ach ano! Aetheriané je používají pro to, aby se sem dostali. Pracoval jsem na tom, jak je zavřít, ale pak ses z ní [[ms]vynořil[fs]vynořila] ty! {^n}{^n}Ještě nikdy jsme neviděli člověka, ať už posedlého či nikoliv, projít skrze jednu z nich. Vlastně nikoho, kdo žil... A právě tehdy jsem si uvědomil, že bychom ty Brány mohly využít pro naše dobro! {^n}{^n}Něco na tobě je a má to spojitost s Branami a já mám v úmyslu to rozluštit!
-Počkat... Já co?
+Počkat... já co?
 Ty si nic nepamatuješ, nebo ano? Něco jsem... udělal, když jsi [[ms]byl[fs]byla] v bezvědomí. Bylo to jen pár testů, jeden nebo dva krevní vzorky. Nic zásadního. {^n}{^n}Výsledky byly... zajímavé. Ukázalo se, že tvé tělo stále obsahuje zbytky aetherické energie. Ale neobávej se, nenarostou ti žádné nové končetiny, pravděpodobně... ale změňme téma! Věřím, že s dobře vyladěným pulsem aetherické energie můžeme zreplikovat tento fenomén kontrolovaným způsobem bez potřeby tíživé posedlosti. Právě jsem pracoval na zařízení, abych to udělal, ale potřebuji zdroj energie. Právě proto potřebuji fragmenty aetherických krystalů.
 Kde je můžu najít?
 Porozhlédni se po velkých fragmentech krystalů, které nepřirozeně zeleně září. Jsou roztroušené po kraji, všude tam, kde Aetheriané zanechali své stopy. Nemělo by být těžké je najít, hlavně v místech, kde je velká koncentrace mrtvých. {^n}{^n}Zkontroloval bych hřbitov. Ale buď [[ms]opatrný[fs]opatrná]. Ty krystaly jsou v blízkosti živých trošku nestabilní.
@@ -161,7 +161,7 @@ Promiň, ale nemám čas.
 Aetherické krystaly... jako třeba tyhle?
 Výborně, tyhle určitě budou pasovat! Jenom je dám sem do mého zařízení a... ale ne. To není dobré, to vůbec není dobré. Ten puls, neměl z toho zařízení uniknout. Božíčku. Jedna, dvě, tři... ano, mé prsty jsou stále všechny. Dostalo se to až k tobě? Jak se cítíš?
 Cítím se... silnější.
-Ah! Velmi dobře! Jsem si jist, že troška Aetheru navíc v tvém oběhu ti vůbec nic neudělá. Ok... možná to byla mnohem větší troška. Ale vypadáš dobře! Lépe než kdy předtím.{^n}{^n}Ale toho prototypu je škoda. Vypadalo to tak slibně. Možná, že kdybych měl víc fragmentů...
+Ach! Velmi dobře! Jsem si jist, že troška Aetheru navíc v tvém oběhu ti vůbec nic neudělá. Ok... možná to byla mnohem větší troška. Ale vypadáš dobře! Lépe než kdy předtím.{^n}{^n}Ale toho prototypu je škoda. Vypadalo to tak slibně. Možná, že kdybych měl víc fragmentů...
 Ehm... myslím, že tady už jsme hotoví.
 
 
