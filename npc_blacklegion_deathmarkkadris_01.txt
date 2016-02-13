@@ -48,7 +48,7 @@ Potřebuješ nějak pomoci?
 
 Jsi naivní.
 Černá Legie?
-Um, ano? Císařská Elita? Dobyvatelé Venmaru? Musíš být odněkud z venkova.{^n}{^n}Nevěděli o nás mnoho ani v Homesteadu.
+Heh, ano? Císařská Elita? Dobyvatelé Venmaru? Musíš být odněkud z venkova.{^n}{^n}Nevěděli o nás mnoho ani v Homesteadu.
 Kde je Homestead?
 To je místo kam jsi [[ms]šel[fs]šla]? Tak to jdeš špatným směrem, [[ms]příteli[fs]přítelkyně].{^n}{^n}Homestead je odtud daleko na sever. Následuj prašnou cestu.
 Díky.
