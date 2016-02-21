@@ -246,7 +246,7 @@ tagClass02SkillName12B=Vztek
 tagClass02SkillDescription12B=Ponoření se hlouběji do tajů zacházení s ohněm nad ním garantuje tak rafinovanou kontrolu, že může být použit na posilnění zbraní a zbroje spojenců za hranicí běžných možností a navíc je pokrývá živými plameny.
 
 tagClass02SkillName13A=Mstivý plamen
-tagClass02SkillDescription13A=Ulzuinův věčný plamen kdysi přinesl život a zdraví na tento svět, ale zrada a muka jej přeměnily ve zbraň pomsty. Ti, kteří jsou oddaní Ulzuinovi, získají na bojišti proti svým nepřátelům sílu a odvetný ohnivý úder. ^oTato schopnost musí být nastavena na výchozí typ útoku, aby účinkovala.
+tagClass02SkillDescription13A=Ulzuinův věčný plamen kdysi přinesl život a zdraví na tento svět, ale zrada a muka jej přeměnily ve zbraň pomsty. Ti, kteří jsou oddaní Ulzuinovi, získají na bojišti proti svým nepřátelům sílu a odvetný ohnivý úder. ^oAby tato schopnost účinkovala, musí být aktivní.
 tagClass02SkillName13B=Ulzuinův hněv
 tagClass02SkillDescription13B=Když Ulzuinův plamen pálí nepřátele v blízkosti, střely magických plamenů a elektřiny jsou vypuštěny do všech směrů, aby zasáhly vzdálenější nepřátele.
 
@@ -399,7 +399,7 @@ tagClass04SkillDescription05B=Svalnatý Belgothian byl anomálií mezi pružným
 tagClass04SkillName05C=Amarastin rychlý řez
 tagClass04SkillDescription05C=Amarasta je legendou díky své rychlosti a říkalo se, že zvuk jejích mečů byl jako svist vzduchu, zanechávající pouze paprsky světla, protože byly tak rychlé, že je okem nebylo možné sledovat. Mistři v této technice mohou zaútočit třikrát za dobu jediného klasického útoku. ^oToto je technika dvou chladných zbraní a je aktivována výchozím útokem těchto zbraní.
 tagClass04SkillName05D=Vířivá smrt
-tagClass04SkillDescription05D=Devastující technika zaměřená na boj s vícero cíli. Ti, kteří přežijí, budou krvácet jako z tisíce řezných ran. ^oToto je technika dvou zbraní a je aktivována, pokud je nastavena jako výchozí typ útoku.
+tagClass04SkillDescription05D=Devastující technika zaměřená na boj s vícero cíli. Ti, kteří přežijí, budou krvácet jako z tisíce řezných ran. ^oToto je technika dvou zbraní a aby tato schopnost účinkovala, musí být aktivní.
 tagClass04SkillName05E=Nidallanina skrytá dlaň
 tagClass04SkillDescription05E=Kontroverzní mistryně Nočních lovců Nidalla předváděla krutou účinnost jedů během Věku nerozumu, kdy kombinovala odporné toxiny s dalšími technikami Nočních lovců, díky čemuž dokázala přetrvat v boji proti obrovské převaze. ^oTato technika ovlivňuje Belgothianovy nůžky, Amarastin rychlý řez a Vířivou smrt.
 tagClass04SkillName05F=Poprava
