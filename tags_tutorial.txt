@@ -1,237 +1,285 @@
-tagTutorialTitle=Herní nápověda
-tagTutorialRollOver=Pro vypnutí herní nápovědy zaškrtni toto políčko. Po vypnutí může být herní nápověda opět aktivována, a to ve spodní části obrazovky tlačítkem "nápověda".
-tagTutorialOf=z
-tagTutorialDisable=Vypnout nápovědu
+#Loading Tips
+tagLoadingTip01={^g}Tip: {^w}Svou kořist můžeš filtrovat podle kvality (magická a lepší, vzácná a lepší, atd.) použitím tlačítka Filtru kořisti vlevo od lišty dovedností.
+tagLoadingTip02={^g}Tip: {^w}If you find a Devotion Shrine you cannot restore yet, its location will be marked on the World Map.
+tagLoadingTip03={^g}Tip: {^w}You can view Tutorial Tips again at any time in the Codex Window, default hotkey: H.
+tagLoadingTip04={^g}Tip: {^w}Enemies significantly below your level do not grant Experience or Faction Reputation.
+tagLoadingTip05={^g}Tip: {^w}Remember to invest in the Mastery Bar. It provides core stats that will help you survive and gear up.
+tagLoadingTip06={^g}Tip: {^w}Visit www.GrimDawn.com to read the Game Guide, which has a wealth of information on game mechanics.
+tagLoadingTip07={^g}Tip: {^w}Hero Monsters (marked by a Star) are powerful foes with unique abilities, but also better loot.
+tagLoadingTip08={^g}Tip: {^w}Enemies significantly below your level will not drop Rare Crafting Materials such as Ancient Hearts.
+tagLoadingTip09={^g}Tip: {^w}On Elite Difficulty, your core resistances are reduced by 25%. That penalty goes up to 50% on Ultimate.
+tagLoadingTip10={^g}Tip: {^w}There are many secret places in the world of Cairn. Look closely and you may find hidden treasure!
+tagLoadingTip11={^g}Tip: {^w}On Veteran Difficulty and above, Bosses will regain a portion of their health if you are killed.
+tagLoadingTip12={^g}Tip: {^w}Explore the world to find One-Shot Chests, which will always drop an Epic item, once per character.
+tagLoadingTip13={^g}Tip: {^w}Epic and Legendary items can grant you unique abilities that can complement, or even define, your build.
+tagLoadingTip14={^g}Tip: {^w}Some monsters can drop equipment unique to them, known as Monster Infrequents.
+tagLoadingTip15={^g}Tip: {^w}Legendary items are very rare, but also incredibly powerful. They start dropping at level 50+.
+tagLoadingTip16={^g}Tip: {^w}Set items have powerful bonuses if worn together and can even grant new skills.
+tagLoadingTip17={^g}Tip: {^w}Components used on weapons grant an activated skill that you can use to complement your build.
+tagLoadingTip18={^g}Tip: {^w}Relics are special items that can only be created by a skilled Blacksmith.
+tagLoadingTip19={^g}Tip: {^w}Many Components can only be crafted. Learn new Blueprints by gaining favor with Cairn's Factions.
+tagLoadingTip20={^g}Tip: {^w}Větší šanci na získání skvělé kořisti máš na vyšší obtížnostech, ale i úkoly za odměny jsou dobrou variantou.
+
+#Tutorial Pages
 
 tagTutorialTip06Title=Nedotčené jídlo
-tagTutorialTip06TextA=Objevil jsi zbytky jídla, které po sobě nejspíš zanechal nějaký méně šťastný dobrodruh.{^n}{^n}Pokud jídlo pozřeš, obnovíš část své konstituce.
+tagTutorialTip06TextA=Abandoned meals are found throughout the world of Cairn. Likely left behind by less fortunate adventurers, they can be consumed to restore some of your lost Constitution.
 
 tagTutorialTip08Title=Vítejte ve hře Grim Dawn
-tagTutorialTip08TextA=Děkujeme za podporu a pomoc - díky tobě může Grim Dawn existovat! Doufáme, že si užiješ hru na které pracujeme, a kterou směřujeme k oficiálnímu vydání.{^n}{^n}Měj prosím na paměti, že se nejedná o dokončenou verzi hry, která je vytvořena nezávislým týmem o osmi lidech. Během hry se nejspíš setkáš s chybami. Velice uvítáme příspěvky o chybách a pocitech z hraní hry na našich fórech na www.grimdawn.com.
+tagTutorialTip08TextA=Thank you for supporting us and our work. Grim Dawn was made possible by the generosity of our backers, whether through our Website, Kickstarter or Steam Early Access.
+tagTutorialTip08TextB=Should you encounter a bug, please report it on our forums at www.grimdawn.com.
+tagTutorialTip08SubtitleA=Tutorial Tips
+tagTutorialTip08TextC=You can enable or disable in game tutorial tips at any time on the options menu. The options menu can be accessed in-game by pressing {^x}[Escape]{^-}.
 
-tagTutorialTip09Title=Okno obchodníka
+tagTutorialTip09Title=Přehled obchodníka
 tagTutorialTip09TextA=Obchodník prodává a nakupuje zbraně a jinou výbavu nutnou pro přežití v oblasti Cairnu.
-tagTutorialTip09TextB=V těchto zoufalých dobách není kvalitní vybavení zrovna levné. Obchodník ti za běžné věci nezaplatí příliš mnoho, ale předměty, které jsou očarované, mohou mít cenu výrazně vyšší.{^n}{^n}Možná budeš chtít si některé méně kvalitní předměty odfiltrovat. Můžeš tak učinit ve filtru předmětů po levé straně herního rozhraní.{^n}
+tagTutorialTip09TextB=V těchto zoufalých dobách není kvalitní vybavení zrovna levné. Obchodník ti za běžné věci nezaplatí příliš mnoho, ale předměty, které jsou očarované, mohou mít cenu výrazně vyšší.
 
 tagTutorialTip10Title=Brány
-tagTutorialTip10TextA=Zabezpečené Brány ti umožňují rychle cestovat mezi různými lokacemi v oblasti Cairnu. Klikni levým tlačítkem na Bránu a otevře se {^y}Mapa Bran{^w}.
-tagTutorialTip10TextB=Objevil jsi Bránu v Dolním rozcestí. Umístění všech Bran, které objevíš, budou nadále přístupné na {^y}Mapě Bran{^w}.
-tagTutorialTip10SubtitleA=Osobní Brána:
-tagTutorialTip10TextC=Protože jsi Aetherem dotčený člověk, můžeš otevírat {^y}Osobní Brány{^w}. Abys aktivoval svoji Osobní Bránu, klikni na tlačítko Cestování Branou ve spodní části obrazovky.
-tagTutorialTip10CaptionA=Klávesová zkratka: {^b}{%t0}{^w}{^n}
-
-tagTutorialTip11Title=Osobní Brána
-tagTutorialTip11TextA=Osobní Brány mohou být otevřeny kdekoliv na světě a jsou propojeny se sítí ostatních postálů.
-tagTutorialTip11CaptionA=Klávesová zkratka: {^b}{%t0}{^w}
-tagTutorialTip11TextB=Stejně jako u klasických Bran, klikni levým tlačítkem myši na svoji Osobní Bránu a zobrazí se ti {^y}Mapa Bran{^w}. Poté klikni na pozici, kam chceš odcestovat.
-tagTutorialTip11TextC=Tvá Brána zůstane otevřena do doby, než skrze ni přicestuješ zpět. Jakmile se Brána otevře, mohou ji využívat i tvoji spolubojovníci. Vždy můžeš mít v jeden okamžik otevřenou maximálně jednu Osobní Bránu.
+tagTutorialTip10TextA=Zabezpečené Brány ti umožňují rychle cestovat mezi lokacemi. Klikni levým tlačítkem na Bránu, čímž otevřeš Mapu světa a vyber si cílovou lokaci.
+tagTutorialTip10SubtitleA=Osobní Brána
+tagTutorialTip10TextB=Protože jsi Aetherem dotčený člověk, můžeš otevírat Osobní Brány. Abys aktivoval svoji Osobní Bránu, klikni na tlačítko Cestování Branou umístěné vpravo vedle lišty dovedností nebo stiskni {^x}[%t0]{^-}.
+tagTutorialTip10TextC=Personal Riftgates can be opened almost anywhere in the world, and are linked to the main Riftgate network. Your Riftgate will remain open until you return to it, and while it remains open your party members may travel to it as well. You can only have one Personal Riftgate open at any given time.
 
 tagTutorialTip14Title=Lektvary
-tagTutorialTip14TextA=Lektvary zdraví a magické energie obnovují život, respektive magickou energii, tvé postavy. Pro vypití lektvaru klikni na jeho ikonu na spodní liště a nebo stiskni přidruženou klávesu.
-tagTutorialTip14TextB=Lektvary jsou automaticky přiřazovány na poslední dvě místa na spodní liště. Lektvary můžeš libovolně přemístit tak, že klikneš pravým tlačítkem myši na požadovaný lektvar a přesuneš ho na jiné volné políčko na spodní liště.
-tagTutorialTip14TextC=Pro vypití lektvaru klikni na jeho ikonu na spodní liště a nebo stiskni přidruženou klávesu.
+tagTutorialTip14TextA=Lektvary zdraví a magické energie obnovují život, respektive magickou energii, tvé postavy. Pro vypití lektvaru klikni na jeho ikonu na liště dovedností a nebo stiskni přidruženou klávesu.
+tagTutorialTip14TextB=Lektvary jsou automaticky přiřazovány na poslední dvě místa na liště dovedností. Lektvary můžeš libovolně přemístit tak, že klikneš pravým tlačítkem myši na požadovaný lektvar a přesuneš ho na jiné volné políčko na liště dovedností.
+tagTutorialTip14TextC=Pro vypití lektvaru klikni na jeho ikonu na liště dovedností a nebo stiskni přidruženou klávesu.
+tagTutorialTip14TextD=You will find potions in chests and from monsters, but you can always purchase more from any merchant if you find yourself running low.
 
-tagTutorialTip15Title=Nová úroveň
-tagTutorialTip15TextA=Získal jsi novou úroveň. Pokaždé, když dosáhneš vyšší úrovně, získáš volné body k dovednostem a atributům.{^n}{^n} Dovednostní body můžeš uplatnit v {^y}Okně dovedností{^w}.
-tagTutorialTip15CaptionA=Klávesová zkratka: {^b}{%t0}{^w}
-tagTutorialTip15TextB=Body atributů můžeš přiřadit v {^y}Okně postavy{^w}. Každý bod atributu zvyšuje konkrétní atribut o 8.
-tagTutorialTip15CaptionB=Klávesová zkratka: {^b}{%t0}{^w}
-tagTutorialTip15TextC=Zkušenosti své postavy a množství zkušeností potřebných na další úroveň můžeš sledovat na zeleném pruhu na spodním panelu a v {^y}Okně postavy{^w}. Jakmile je potřebné množství naplněno, tvá postava získá novou úroveň.
-tagTutorialTip15SubtitleA=Body dovednosti za úroveň
-tagTutorialTip15TextD=Zpočátku budeš dostávat 3 dovednostní body za každou novou úroveň. S postupující postavou a obtížnějšími úrovněmi se počet bodů sníží na 2 za úroveň, a nakonec na 1 bod za úroveň.{^n}{^n}
+tagTutorialTip15Title=Nové úrovně
+tagTutorialTip15TextA=Pokaždé, když dosáhneš vyšší úrovně, získáš volné body k dovednostem a atributům.
+tagTutorialTip15TextB=Attribute points can be used to increase your Cunning, Physique and Spirit by 8 per point.
+tagTutorialTip15TextC=Skill points can be used to increase your mastery level, unlock new skills, or improve skills you have already unlocked.
+tagTutorialTip15TextD=Initially, you will earn 3 skill points per level, but as you achieve higher levels, the number of skills points gained will eventually go down to 2 and finally 1 per level.
+tagTutorialTip15SubtitleA=Assigning Points
+tagTutorialTip15TextE=Attribute points are assigned in the Character Window. Click the icon to the left of the skill bar, or press {^x}[%t0]{^-}. To assign an attribute point, click the "+" next to the appropriate attribute.
+tagTutorialTip15TextF=Skill points are assigned by opening the Skill Window. Click the icon to the left of the skill bar, or press {^x}[%t0]{^-}.
+tagTutorialTip15SubtitleB=Experience
+tagTutorialTip15TextG=You can track your experience on the yellow bar below your health and mana, and in the Character Window. The bar shows your current experience, experience gain, and experience required to reach the next level. When the bar fills up, you gain a level.
 
-tagTutorialTip16Title=Okno postavy
-tagTutorialTip16TextA=Použij {^y}Okno postavy{^w} a můžeš svou postavu vybavit předměty, přerovnat si svůj inventář, využít body atributů nebo shlédnout statistiky své postavy. Najetím kurzoru na statistiky získáš další informace.
-tagTutorialTip16SubtitleA=Inventář:
-tagTutorialTip16TextB=Pokud chceš nějaký předmět použít, klikni na něj pravým tlačítkem v inventáři nebo předmět přesuň do adekvátního slotu. Předmět můžeš také odhodit tím, že jej přesuneš mimo okno postavy, nebo na něj klikneš a stiskneš klávesu "{^b}{%t0}{^w}".
-tagTutorialTip16SubtitleB=Body atributů:
-tagTutorialTip16TextC=Body atributů využiješ tak, že klikneš na "{^y}+{^w}" vlevo od požadovaného atributu. Každý bod atributu zvyšuje konkrétní atribut o 8.{^n}{^n}
+tagTutorialTip16Title=Přehled postavy
+tagTutorialTip16TextA=V Přehledu postavy můžeš svou postavu vybavit předměty, přerovnat si svůj inventář, využít body atributů nebo shlédnout statistiky své postavy. Najetím kurzoru na statistiky získáš další informace.
+tagTutorialTip16SubtitleA=Správa inventáře
+tagTutorialTip16TextB=Pokud chceš nějaký předmět použít, klikni na něj pravým tlačítkem v inventáři nebo předmět přesuň do adekvátního slotu. Předmět můžeš také odhodit tím, že jej přesuneš mimo okno postavy, nebo na něj klikneš a stiskneš klávesu {^x}[{%t0}]{^-}.
+tagTutorialTip16SubtitleB=Body atributů
+tagTutorialTip16TextC=Body atributů využiješ tak, že klikneš na tlačítko "+" vlevo od požadovaného atributu. Každý bod atributu zvyšuje konkrétní atribut o 8.
 
 tagTutorialTip17Title=Povolání
-tagTutorialTip17TextA=Volba povolání je rozhodnutí, které rýsuje tvou postavu. Různá povolání veou ke zcela jinému hernímu stylu, takže vybírej moudře.
+tagTutorialTip17TextA=Volba povolání je rozhodnutí, které rýsuje tvou postavu. Různá povolání vedou ke zcela jinému hernímu stylu, takže vybírej moudře.
 tagTutorialTip17TextB=Jakmile si vybereš své povolání a investuješ do něj body, nebudeš moci toto povolání už změnit.
 tagTutorialTip17TextC=Jakmile dosáhneš 10. úrovně, budeš si moci zvolit druhé povolání.
 
-tagTutorialTip19Title=Komponenty
-tagTutorialTip19TextA=Komponenty mohou být použity k vylepšení tvého vybavení. Vždy je nalezneš jen jako úlomky, které mohou být spojeny dohromady, čímž se zvyšují jejich bonusy.{^n}{^n}Legendy vypráví o vzácných komponentách s pradávnou mocí, které jsou označeny světle žlutou barvou.
-tagTutorialTip19TextB=Pro použití úlomku na něj klikni pravým tlačítkem. Poté ho můžeš buď spojit s jiným úlomkem stejného typu, nebo jej použít na nějaký předmět.
-
-tagTutorialTip20Title=Použití komponent
+tagTutorialTip20Title=Komponenty
+tagTutorialTip20TextA=Komponenty mohou být použity k vylepšení tvého vybavení. Vždy je nalezneš jen jako úlomky, které mohou být spojeny dohromady, čímž se zvyšují jejich bonusy. Vzácné komponenty jsou označeny světle žlutým okrajem.
 tagTutorialTip20SubtitleA=Připevňování komponent
-tagTutorialTip20TextA=Pravým tlačítkem myši si vyber komponentu a pak klikni levým tlačítkem myši na předmět, ke kterému chceš komponentu připevnit. Pamatuj, že každá komponenta může být použita pouze na určitém typu předmětů.
+tagTutorialTip20TextB=Pravým tlačítkem myši si vyber komponentu a pak klikni levým tlačítkem myši na předmět, ke kterému chceš komponentu připevnit. Pamatuj, že každá komponenta může být použita pouze na určitém typu předmětů.
 tagTutorialTip20SubtitleB=Skládání komponent
-tagTutorialTip20TextB=Můžeš si skládat jednotlivé úlomky komponent stejného typu do jednoho a získat tak mnohem větší bonusy.{^n}{^n}Úlomky komponent stejného typu mohou být připevněny k předmětům i poté, co tam byl již jeden úlomek připevněn.
+tagTutorialTip20TextC=Můžeš si skládat jednotlivé úlomky komponent stejného typu do jednoho a získat tak mnohem větší bonusy.
+tagTutorialTip20TextD=Úlomky komponent stejného typu mohou být připevněny k předmětům i poté, co tam byl již jeden úlomek připevněn.
 
-tagTutorialTip21Title=Druhé povolání
-tagTutorialTip21TextA=Po dosažení 10. úrovně si budeš moci vybrat druhé povolání. Pro vybrání druhého povolání otevři {^y}Okno dovedností{^w}. Nemusíš si ho nutně volit, ale stále budeš tuto možnost mít.
-
-tagTutorialTip22Title=Okno dovedností
+tagTutorialTip22Title=Přehled dovedností
 tagTutorialTip22TextA=Vždy když získáš novou úroveň, obdržíš nové dovednostní body. Investuj tyto body do úrovně svého povolání nebo do odemčených dovedností.
 tagTutorialTip22SubtitleA=Úroveň povolání
-tagTutorialTip22TextB=Pokud investuješ své dovednostní body do úrovně povolání, odemkneš nové řady dovedností. Úroveň svého povolání můžeš zvyšovat tak, že klikneš na tlačítko povolání v levém dolním rohu {^y}Okna dovedností{^w}.
+tagTutorialTip22TextB=Pokud investuješ své dovednostní body do úrovně povolání, odemkneš nové řady dovedností. Úroveň svého povolání můžeš zvyšovat tak, že klikneš na tlačítko povolání v levém dolním rohu Přehledu dovedností.
 tagTutorialTip22TextC=Pro odemčení první řady dovedností musíš vložit alespoň jeden bod do úrovně svého povolání.
 tagTutorialTip22SubtitleB=Úroveň dovednosti
 tagTutorialTip22TextD=Kliknutím na odemčenou ikonku dovednosti přidáš body do této dovednosti. První bod dovednosti ti umožní danou dovednost používat. Další body v dovednosti ji učiní mnohem mocnější.
 tagTutorialTip22TextE=Zelené linky označují propojení s dalšími vlastnostmi této dovednosti. Musíš mít alespoň jeden bod v základní dovednosti, než budeš moci investovat body do těchto vlastností.
 
-tagTutorialTip23Title=Přiřazení dovednosti
-tagTutorialTip23TextA=Aktivní dovednosti (čtvercové ikonky) musí být přiřazeny na tlačítka myši nebo do panelu rychlých voleb před tím, než je budeš moci používat.{^n}{^n}Pro přiřazení dovednosti klikni pravým tlačítkem myši do pole ve spodní liště, nebo na pole tlačítka myši vpravo od panelu a vyber si z nabídky požadovanou dovednost.
+tagTutorialTip23Title=Přiřazování dovedností
+tagTutorialTip23TextA=Aktivní dovednosti (čtvercové ikonky) musí být přiřazeny na tlačítka myši nebo do lišty dovedností před tím, než je budeš moci používat.
+tagTutorialTip23TextB=Pro přiřazení dovednosti klikni pravým tlačítkem myši do pole na liště dovedností, nebo na pole tlačítka myši vpravo od panelu a vyber si z nabídky požadovanou dovednost.
 tagTutorialTip23SubtitleA=Používání dovedností
-tagTutorialTip23TextB=K aktivování dovednosti dojde kliknutím levého tlačítka v panelu rychlých voleb nebo stisknutím přiřazení klávesy.
-tagTutorialTip23TextC=Pasivní dovednosti (kulaté ikonky) jsou vždy aktivní a nemusejí být přiřazené do panelu rychlých voleb. Jakmile jim přidělíš body, okamžitě začnou účinkovat.{^N}{^N}
+tagTutorialTip23TextC=K aktivování dovednosti dojde kliknutím levého tlačítka na liště dovedností nebo stisknutím přiřazené klávesy.
+tagTutorialTip23TextD=Pasivní dovednosti (kulaté ikonky) jsou vždy aktivní a nemusejí být přiřazené na lištu dovedností. Jakmile jim přidělíš body, okamžitě začnou účinkovat.
 
 tagTutorialTip24Title=Smrt
-tagTutorialTip24TextA=Když tvé zdraví klesne na 0, tvá postava zemře.{^n}{^n}Využívej možnosti, že se tvá postava může velmi rychle léčit, pokud jsi jen pár sekund mimo souboj. Pokud ti ani toto nestačí, pamatuj na používání lektvarů a dovedností, aby tvá postava zůstala naživu.
-tagTutorialTip24TextB=Jakmile zemřeš, přijdeš o nějaké zkušenosti a tvá postava ožije v posledním útočišti, které navštívila. Ztráta zkušeností se zvyšuje s přibývající úrovní tvé postavy, ale část z nich můžeš získat zpět, pokud se ti podaří dostat k mohyle, kde tvá postava zemřela.
+tagTutorialTip24TextA=Když tvé zdraví klesne na nulu, tvá postava zemře. Dying costs experience and returns your character to the last sanctuary you visited. You can regain some of your lost experience by recovering your Grave Marker.
+tagTutorialTip24TextB=To avoid death, take advantage of your character's rapid health regeneration, which activates when out of combat for a few seconds. When your constitution has been depleted, remember to use potions and skills to stay alive.
 
 tagTutorialTip26Title=Chat
-tagTutorialTip26TextA=Můžeš využít Okno chatu k posílání zpráv jiným hráčům ve své herní relaci. Pro poslání soukromé zprávy si vyber příjemce kliknutím na tlačítko "{^y}Poslat...{^w}".
+tagTutorialTip26TextA=Můžeš využít Chatu k posílání zpráv jiným hráčům ve své herní relaci. Pro poslání soukromé zprávy si vyber příjemce kliknutím na tlačítko "Poslat...".
 tagTutorialTip26SubtitleA=Připojení předmětů
 tagTutorialTip26TextB=Pro připojení předmětů do chatu přidrž klávesu Shift a klikni na vybraný předmět. Okno chatu musíš mít samozřejmě otevřené. Zpráva bude automaticky odeslána s odkazem na tvůj předmět.
 
 tagTutorialTip27Title=Hra více hráčů
-tagTutorialTip27TextA=Můžeš se připojit do nějaké skupiny s ostatními hráči ve hře, abys s nimi mohl sdílet zkušenosti, železné mince nebo obchodovat. Skupiny jsou také důležiré pro pořádání soubojů hráčů mezi sebou.
-tagTutorialTip27CaptionA=Klávesová zkratka: {^b}{%t0}{^w}
-tagTutorialTip27TextB=Začít obchodovat můžeš s jiným hráčem ve své skupině tím, že klikneš pravým tlačítkem na jeho stav zobrazeným v levém horním rohu obrazovky.
-tagTutorialTip27TextC=S ostatními hráči ve hře si můžeš také povídat v {^y}Okně zpráv{^w}.
-tagTutorialTip27CaptionB=Klávesová zkratka: {^b}{%t0}{^w}
+tagTutorialTip27TextA=Joining a party with other players allows you to share experience and loot. You can access the Group Window by clicking the icon, or by pressing {^x}[%t0]{^-}. Parties are also important for PvP sessions.
+tagTutorialTip27TextB=Začít obchodovat můžeš s jiným hráčem ve své skupině tím, že klikneš pravým tlačítkem na jeho portrét a zvolením nabídky "Obchod".
+tagTutorialTip27TextC=S ostatními hráči ve hře si můžeš také povídat v Chatu, který může být otevřen klávesou {^x}[%t0]{^-}.
 
 tagTutorialTip28Title=Obchodování mezi hráči
 tagTutorialTip28TextA=Obchodování probíhá tak, že umístíš předměty na svou stranu obchodovacího okna. Také můžeš obchodovat se železnými mincemi zadáním počtz vedle ikony v horní části okna.
 tagTutorialTip28TextB=Oba hráči musí před výměnou předmětů souhlasit a přijmout obchod. Pokud je obchod zrušen, veškeré tvé předměty a železné mince se přesunou zpět do inventáře.
 
-tagTutorialTip30Title=Přidělování tvých dovedností
-tagTutorialTip30TextA=Máš nepřidělené aktivní dovednosti. Aktivní dovednosti musí být přiřazeny na panel rychlých voleb nebo na tlačítka myši dříve, než je budeš moci použít.
-tagTutorialTip30TextB=Pro přiřazení dovednosti klikni pravým tlačítkem myši do pole v panelu ve spodní části obrazovky, nebo na pole tlačítka myši vpravo od panelu a vyber si z nabídky požadovanou dovednost.
-
-tagTutorialTip31Title=Používání uzdravujících lektvarů
-tagTutorialTip31TextA=Pokud je úroveň tvého zdraví nízká, zvaž, zda nevypít lektvar. Než budeš moci vypít další, je třeba vyčkat delší prodlevu kvůli svým mocným účinkům. Ovšem lektvar tě plně uzdraví. Pro vypití lektvaru klikni na jeho ikonku v panelu rychlých voleb nebo stiskni přiřazenou klávesovou zkratku.
-tagTutorialTip31TextB=Lektvary můžeš najít v bednách nebo u mrtvých nepřátel, ale pokud ti docházejí, vždy si můžeš nějaké přikoupit u obchodníků.
-
-tagTutorialTip32Title=Užití získaných bodů atributů a dovedností
-tagTutorialTip32TextA=Máš nepřiřazené body atributů a/nebo dovedností. Body atributů mohou být použity ke zvýšení tvé rafinovanosti, fyzické kondice nebo duchovna o 8 bodů za jeden vložený bod. Body dovedností můžeš použít ke zvýšení úrovně tvého povolání, odemčení nových dovedností, nebo vylepšení dovedností, které již máš odemčené.
-
 tagTutorialTip33Title=Učení dovedností
-tagTutorialTip33TextA=Investoval jsi všechny své body dovedností do úrovně svého povolání místo toho, abys získal nějakou dovednost. Až získáš další úroveň, zkus vložit nějaký bod do některé dovednosti.
-tagTutorialTip33TextB=Abys přidělil body dovednosti k některé schopnosti, klikni na odemčenou ikonku dovednosti v {^y}Okně dovedností{^w}. První bod dovednosti ti umožní použít tuto dovednost. Další body učiní dovednost mnohem mocnější.
+tagTutorialTip33TextA=When leveling up it's important to allocate points to skills as well as putting points in your class mastery bar. Learning new skills can provide you with powerful offensive and defensive abilities.
+tagTutorialTip33TextB=Pro přidělení bodů dovedností k některé schopnosti klikni na odemčenou ikonku dovednosti v Přehledu dovedností. První bod dovednosti ti umožní použít tuto dovednost. Další body učiní dovednost mnohem silnější.
 
-tagTutorialTip34Title=Návštěva obchodníka
+tagTutorialTip34Title=Nákup a prodej
 tagTutorialTip34TextA=Pokud začíná být tvůj inventář přeplněný, měl bys nejspíš navštívit obchodníka a prodat mu nepotřebné předměty.
 tagTutorialTip34TextB=Obchodníky můžeš nalézt v útočištích ovládaných lidmi, ale zrovna tak můžeš potkat nějakého obchodníka toulajícího se po světě. Hledej značku obchodníka na kompasu nebo na mapě.
 
 tagTutorialTip35Title=Spojenci
-tagTutorialTip35TextA=Spojenci automaticky cestují s tebou a bojují po tvém boku. Pokud si přeješ dát svému spojenci přímý rozkaz, můžeš podržet klávesu "{^b}{%t0}{^w}" a kliknout na požadovaného spojence v levém horním okraji obrazovky a následně si vyber cíl.
-tagTutorialTip35TextB=Svého spojence můžeš kdykoliv propustit pravým kliknutím myši na jeho portrét a zvolením možnosti "{^Y}Propustit spojence{^w}".
-tagTutorialTip35TextC=Můžeš si uspořádat všechny své spojence k útoku nebo pohybu k nepříteli pomocí příkazu {^Y}Útok spojenců{^w}. K přiřazení této dovednosti klikni pravým tlačítkem na místo v panelu rychlých voleb nebo na pravé tlačítko myši a vyber si jej z dostupné nabídky.
+tagTutorialTip35TextA=Spojenci automaticky cestují s tebou a bojují po tvém boku. Pokud si přeješ dát svému spojenci přímý rozkaz, můžeš podržet klávesu {^x}[{%t0}]{^-} a kliknout na požadovaného spojence v levém horním okraji obrazovky a následně si vyber cíl.
+tagTutorialTip35TextB=Svého spojence můžeš kdykoliv propustit pravým kliknutím myši na jeho portrét a zvolením možnosti "Propustit spojence".
+tagTutorialTip35TextC=Můžeš si uspořádat všechny své spojence k útoku nebo pohybu k nepříteli pomocí příkazu Útok spojenců. K přiřazení této dovednosti klikni pravým tlačítkem na místo na liště dovedností nebo na pravé tlačítko myši a vyber si jej z dostupné nabídky.
 
 tagTutorialTip36Title=Přerozdělení dovedností
 tagTutorialTip36TextA=Kaplani ti umožňují odebrat přidělené body dovedností. Kliknutím na ikonku dovednosti u Kaplana se odebere jeden bod dovednosti. Čím více bodů odebereš, tím více se zvyšuje cena dalšího odebraného bodu.
 tagTutorialTip36TextB=Nemůžeš odebrat body vložené do úrovně svého povolání. Navíc nemůžeš odebrat ani poslední bod dovednosti, která má přidělené body v některé přídavné vlastnosti.
 
-tagTutorialTip37Title=Okno pašeráka
-tagTutorialTip37TextA=Pašerák může uchovávat tvé předměty a nebo je dokonce přesouvat mezi tvými dalšími postavami! K úschovně máš přístup u jakéhokoliv pašeráka, kterého v Cairnu najdeš.{^N}Předměty můžeš rychle přesouvat pomocí klávesy Shift a levého kliknutí myši.
-tagTutorialTip37TextB=Kliknutím na Přesun předmětů umožníš sdílení předmětů mezi svými dalšími postavami.
+tagTutorialTip37Title=Pašerák
+tagTutorialTip37TextA=Pašerák může uchovávat tvé předměty a nebo je dokonce přesouvat mezi tvými dalšími postavami! K úschovně máš přístup u jakéhokoliv pašeráka, kterého v Cairnu najdeš.
+tagTutorialTip37TextB=Předměty můžeš rychle přesouvat pomocí klávesy Shift a levého kliknutí myši.
+tagTutorialTip37TextC=Kliknutím na Přesun předmětů umožníš sdílení předmětů mezi svými dalšími postavami.
 
 tagTutorialTip38Tile=Přesun předmětů
 tagTutorialTip38TextA=Předměty umístěné v Pašerákově komoře pro přesun předmětů budou sdíleny mezi tvými ostatními postavami (ovšem předměty pro běžnou hru a Výzvu jsou odděleny).
-tagTutorialTip38TextB=Svou sdílenou truhlu můžeš rozšířit dokoupením přídatných záložek viditelných podél levé strany rozhraní truhly.{^N}{^N}Samozřejmě tě to bude stát pár železných mincí.
+tagTutorialTip38TextB=Svou sdílenou truhlu můžeš rozšířit dokoupením přídatných záložek za železné mince. Tyto přídatné záložky jsou viditelné podél levé strany rozhraní truhly.
 tagTutorialTip38SubtitleA=Přesun předmětů mezi postavami
 tagTutorialTip38TextC=Pro přesun předmětů umísti předmět do předávací komory. Jakmile budeš hrát s jinou postavou, předměty u Pašeráka ti budou opět dostupné.
 tagTutorialTip38SubtitleB=Přesun mezi hráči
-tagTutorialTip38TextD=Pro zprosředkování přesunu předmětů mezi hráči ve hře více hráčů musíš použít funkci obchodu.
+tagTutorialTip38TextD=Pro zprosředkování přesunu předmětů mezi hráči ve hře více hráčů musíš použít funkci obchodu. Right click the player's portait, and choose "Trade".
 
 tagTutorialTip39Title=Vynálezce
 tagTutorialTip39TextA=Vynálezci jsou schopni odstranit komponenty a vylepšení z předmětů. V tomto procesu zůstane zachován buď předmět, nebo patřičná komponenta. Jakékoliv vylepšení bude zničeno.
 tagTutorialTip39SubtitleA=Odstraňování komponent
-tagTutorialTip39TextB=Odstranění komponent z předmětů stojí poplatek úměrný sjednocené hodnotě předmětu, vylepšení a komponenty. Pro započetí odstranění umísti předmět s komponentou k vynálezci.{^N}{^N}Můžeš zachovat buď předmět nebo komponentu.{^N}{^N}Pokud zachováš předmět, komponenta bude zničena. A samozřejmě to platí i obráceně.{^N}{^N}
+tagTutorialTip39TextB=Odstranění komponent z předmětů stojí poplatek úměrný sjednocené hodnotě předmětu, vylepšení a komponenty. Pro započetí odstranění umísti předmět s komponentou do rozkladové komory.
+tagTutorialTip39TextC=Můžeš zachovat buď předmět nebo komponentu.{^N}{^N}Pokud zachováš předmět, komponenta bude zničena. A samozřejmě to platí i obráceně.
 tagTutorialTip39SubtitleB=Odstraňování vylepšení
-tagTutorialTip39TextC=Pokud budeš chtít odstranit pouze vylepšení, předmět i komponenta zůstanou nedotčeny.{^N}{^N}Pokud odstraníš vylepšení svázané s tvou duší, a příslušný předmět vázaný nebyl, zůstane předmět i nadále nevázaný.{^N}{^N}
-
+tagTutorialTip39TextD=Pokud budeš chtít odstranit pouze vylepšení, předmět i komponenta zůstanou nedotčeny. Pokud odstraníš vylepšení svázané s tvou duší, a příslušný předmět vázaný nebyl, zůstane předmět i nadále nevázaný.
 
 tagTutorialTip42Title=Kovář
 tagTutorialTip42TextA=Kovář je schopný vytvářet předmět mocnou silou. Je to už zkušený řemeslník a všechno co vyrobí, obsahuje malý kovářský bonus. Kovářovy znalosti mohou být prohloubeny pomocí nových plánků.
 tagTutorialTip42SubtitleA=Plánky
 tagTutorialTip42TextB=Kovář se naučí, jak vyrábět nové předměty, jakmile najdeš nový plánek. Plánky mohou být získány z úkolů, nebo je lze najít různě po světě.
 tagTutorialTip42SubtitleB=Vytváření předmětů
-tagTutorialTip42TextC=Chceš-li vytvořit předmět, nejprve si vyber recept ze seznamu. Předměty pak budou automaticky umístěny do určených prostorů v rozhraní pro vytváření předmětů, vybrány z osobní i sdílené úschovy, inventáře a nebo z předmětů a to přesně v tomto pořadí.{^N}{^N}Pokud vlastníš všechny požadované materiály, stiskni tlačítko Zkombinovat, aby byl předmět vytvořen.{^N}{^N}
+tagTutorialTip42TextC=Chceš-li vytvořit předmět, nejprve si vyber recept ze seznamu. Předměty pak budou automaticky umístěny do určených prostorů v rozhraní pro vytváření předmětů, vybrány z osobní i sdílené úschovy, inventáře a nebo z předmětů a to přesně v tomto pořadí.
+tagTutorialTip42TextD=Pokud vlastníš všechny požadované materiály, stiskni tlačítko Zkombinovat, aby byl předmět vytvořen.
 
 tagTutorialTip43Title=Plánky
 tagTutorialTip43TextA=Plánky jsou zapomenuté šablony pro vytváření mocných předmětů, které může kovář zkoumat.
-tagTutorialTip43TextB=Aby ses naučil plánku, klikni na něj pravým tlačítkem myši. Pokud tento plánek ještě neznáš, bude přidán na seznam předmětů u kováře.{^n}{^n}Plánky pak zná každý kovář, ať už hraješ za jakoukoliv postavu (odděluje se pouze běžná hra a Výzva). Každý plánek se tak musíš učit nanejvýše jednou.
+tagTutorialTip43TextB=Aby ses naučil plánku, klikni na něj pravým tlačítkem myši. Pokud tento plánek ještě neznáš, bude přidán na seznam předmětů u kováře.
+tagTutorialTip43TextC=Plánky zná každý kovář, ať už hraješ za jakoukoliv postavu (rozděluje se pouze běžná hra a Výzva). Každý plánek se tak musíš učit nanejvýše jednou.
 
 tagTutorialTip44Title=Ztracený kovář!
 tagTutorialTip44TextA=Naučil ses novému plánku, ale nemáš kováře schopného pro tebe daný předmět vytvořit.{^n}{^n}Než budeš moci vytvářet předměty, budeš muset nejdříve najít nějakého kováře.{^n}{^n}Kovář bude okamžitě vědět, jak daný předmět podle plánku vytvořit.
 tagTutorialTip44TextB=
 
 tagTutorialTip45Title=Konstituce
-tagTutorialTip45TextA=Jakmile skončí souboj a tvůj život není na maximu, aktivuje se druhotný regenerační systém zvaný Konstituce.{^N}{^N}Konstituce ti urychleně doplní tvůj život, ale její hodnota pro změnu klesne. Konstituci indikuje žlutá barva na tvém ukazateli života.{^N}{^N}
-tagTutorialTip45TextB=Konstituce se automaticky sama doplní, jakmile najdeš nějakou porci jídla nebo esenci života, případně pokud dosáhneš další úrovně. Také se doplní pokud zemřeš.{^N}{^N}Pokud tvá konstituce z tebe vyprchá, nebude se ti mimo bojiště tak rychle obnovovat zdraví.{^N}{^N}
+tagTutorialTip45TextA=Jakmile skončí souboj a tvůj život není na maximu, aktivuje se druhotný regenerační systém zvaný Konstituce.
+tagTutorialTip45TextB=Konstituce ti urychleně doplní tvůj život, ale její hodnota pro změnu klesne. Konstituci indikuje žlutá barva na tvém ukazateli života.
+tagTutorialTip45TextC=Konstituce se automaticky sama doplní, jakmile najdeš nějakou porci jídla nebo esenci života, případně pokud dosáhneš další úrovně. Také se doplní pokud zemřeš.
+tagTutorialTip45TextD=Pokud tvá konstituce z tebe vyprchá, nebude se ti mimo bojiště tak rychle obnovovat zdraví.
 
 tagTutorialTip46Title=Nedostatek konstituce
 tagTutorialTip46TextA=Vyprchala z tebe veškerá konstituce, což znamená, že nebudeš schopen rychle obnovovat své zdraví mimo bojiště. Svou konstituci můžeš opět obnovit požitím porce jídla nebo esence života.
 
 tagTutorialTip47Title=Rozebírání
-tagTutorialTip47TextA=Odemkl jsi novou vlastnost vynálezce - rozebírání předmětů na základní součástky, s malou možností získat část komponenty. Čím mocnější předmět rozebereš, tím větší je pravděpodobnost, že získáš lepší komponentu.
+tagTutorialTip47TextA=Navštiv vynálezce, abys mohl rozebírat předměty na základní součástky, s malou možností získat část komponenty. Čím mocnější předmět rozebereš, tím větší je pravděpodobnost, že získáš lepší komponentu.
 tagTutorialTip47SubtitleA=Rozebrání předmětu
-tagTutorialTip47TextB=K rozebrání předmětu budeš potřebovat dynamit a železné mince. Rozebraný předmět je tak navždy zničen. Umísti předmět alespoň magické kvality do vynálezcovy rozkladové komory, aby proces mohl začít.{^N}{^N}Po stisknutí tlačítka Rozebrat se z tvého inventáře odebere potřebné množství dynamitu a železných mincí, a předmět se rozebere na základní součástky{^N}{^N}
+tagTutorialTip47TextB=K rozebrání předmětu budeš potřebovat dynamit a železné mince. Rozebraný předmět je tak navždy zničen. Umísti předmět alespoň magické kvality do vynálezcovy rozkladové komory, aby proces mohl začít.
+tagTutorialTip47TextC=Po stisknutí tlačítka Rozebrat se z tvého inventáře odebere potřebné množství dynamitu a železných mincí, a předmět se rozebere na základní součástky.
 
 tagTutorialTip49Title=Porovnávání zbraní
 tagTutorialTip49TextA=Když myší ukážeš na některý předmět ve svém inventáři, uvidíš jeho vlastnosti a ihned vedle něj i vlastnosti předmětu, který máš na sobě. V případě zbraní uvidíš také přídatnou informaci porovnávající Zranění za sekundu (DPS).
 tagTutorialTip49SubtitleA=Porovnávání bez komponent
-tagTutorialTip49TextB=Porovnat dvě zbraně, aniž by byly ovlivněny komponentami, můžeš přidržením klávesy "{^b}CTRL{^w}".
+tagTutorialTip49TextB=Porovnat dvě zbraně, aniž by byly ovlivněny komponentami, můžeš přidržením klávesy {^x}[Ctrl]{^-}.
 
 tagTutorialTip50Title=Vylepšení
 tagTutorialTip50TextA=Vylepšení se nacházejí ve formě očarovaného prachu, který můžeš použít k vylepšení svých předmětů. Tvorba vylepšení je s velkou opatrností chráněna různými frakcemi Cairnu.
 tagTutorialTip50TextB=Pro použití vylepšení na něj stačí kliknout pravým tlačítkem myši. Můžeš jej použít pouze na příslušný předmět. Jakmile předmět vylepšíš, vylepšení již nelze odstranit, ale může být nahrazeno jiným.
 
 tagTutorialTip51Title=Použití vylepšení
-tagTutorialTip51TextA=Klikni pravým tlačítkem myši na Vylepšit a poté levým tlačítkem na předmět, který chceš vylepšit.{^N}{^N}Jen tě musím upozornit, že vylepšení lze použít pouze na určité druhy předmětů a po jeho aplikování nelze vylepšení již odstranit. Na druhou stranu je možné jej nahradit jiným vylepšením.
-
-tagTutorialTip52Title=Objevení frakce
-tagTutorialTip52TextA=Z úkolu sis získal přízeň jedné z Cairnských frakcí.{^N}{^N}Úkoly jsou skvělý způsob jak zlepšit své vztahy s frakcí, ale nejsou jedinou metodou. Více se o frakcích můžeš dozvědět v {^y}Okně frakcí{^w}.
-tagTutorialTip52CaptionA=Klávesová zkratka: {^b}{%t0}{^w}
+tagTutorialTip51TextA=Klikni pravým tlačítkem myši na Vylepšit a poté levým tlačítkem na předmět, který chceš vylepšit.
+tagTutorialTip51TextB=Jen tě musím upozornit, že vylepšení lze použít pouze na určité druhy předmětů a po jeho aplikování nelze vylepšení již odstranit. Na druhou stranu je možné jej nahradit jiným vylepšením.
 
 tagTutorialTip53Title=Forman
 tagTutorialTip53TextA=Frakční forman prodává předměty dostupné výhradně pro danou frakci. Tato výbava je dostupná pouze těm, kteří se u dané frakce osvědčí.
 tagTutorialTip53SubtitleA=Vázané vybavení
-tagTutorialTip53TextB=Vybavení prodávané frakčními formany je svázáno s duší tvé postavy a nelze s ním obchodovat nebo jej přemísťovat u Pašeráka.{^N}{^N}Pokud je vázané vylepšení použito na běžný předmět, stává se tento taktéž vázaným.
+tagTutorialTip53TextB=Vybavení prodávané frakčními formany je svázáno s duší tvé postavy a nelze s ním obchodovat nebo jej přemísťovat u Pašeráka.
+tagTutorialTip53TextC=Pokud je vázané vylepšení použito na běžný předmět, stává se tento taktéž vázaným.
 
-tagTutorialTip54Title=Úroveň přízně
-tagTutorialTip54TextA=Byla dosažena další úroveň přízně s některou z frakcí. To ti nyní umožňuje nakupovat zboží u této frakce mnohem levněji a také máš přístup k lepší výbavě u frakčních formanů.{^N}{^N}Podívej se kolem po nových výzvách, které jsou třeba dostupné.
-
-tagTutorialTip55Title=Okno frakcí
-tagTutorialTip55TextA=Používej {^y}Okno frakcí{^w} pro sledování svého pokroku ohledně Cairnských frakcí, a abys zjistil, co dané frakce vyžadují, abys získal jejich přízeň.
+tagTutorialTip55Title=Přehled frakcí
+tagTutorialTip55TextA=Používej Přehled frakcí pro sledování svého pokroku ohledně Cairnských frakcí, a abys zjistil, co dané frakce vyžadují, abys získal jejich přízeň.
 tagTutorialTip55SubtitleA=Získávání přízně
-tagTutorialTip55TextB=Každá frakce má své jedinečné touhy a cíle. Jak si získat jejich přízeň si můžeš prohlédnout v sekci {^y}Přízeň získáš za{^w}.{^N}{^N}Jen je třeba upozornit, že čím více přízně máš, tím víc budeš muset splnit úkolů a zabít silnější nepřátele, aby sis získal přízeň novou.
+tagTutorialTip55TextB=Každá frakce má své jedinečné touhy a cíle. Jak si získat jejich přízeň si můžeš prohlédnout v sekci "Přízeň získáš za".
+tagTutorialTip55TextC=Your reputation levels determine how the various factions in the world of Cairn act towards you. Higher reputation levels entitle you to discounted goods at all of the faction's merchants and access to better equipment from their Faction Quartermaster.
+tagTutorialTip55TextD=As your rise through the different reputation levels new quests may become available. Don't forget to seek them out.
+tagTutorialTip55TextE=Jen je třeba upozornit, že čím více přízně máš, tím víc budeš muset splnit úkolů a zabít silnější nepřátele, aby sis získal přízeň novou.
 
-tagTutorialTip56Title=Výzvy
-tagTutorialTip56TextA=Výzvy jsou skvělou cestou ke zvýšení své přízně vůči různým frakcím Cairnu. Tyto úkoly mají různou obtížnost i odměny a jsou především neznačené a nevedené. Musíš tak lovit své oběti na vlastní pěst a s omezenou pomocí hry.
-tagTutorialTip56SubtitleA=Výzvy jsou opakovatelné
-tagTutorialTip56TextB=Narozdíl od hlavních a vedlejších úkolů nejsou výzvy omezeny na jeden pokus za postavu. Každá frakce ti nabídne až 5 výzev za jednu herní relaci s tím, že můžeš obdržet i výzvy splněné v předešlých herních relacích.{^N}{^N}
+tagTutorialTip56Title=Úkoly za odměnu
+tagTutorialTip56TextA=Úkoly za odměnu jsou skvělou cestou ke zvýšení své přízně vůči různým frakcím Cairnu. Tyto úkoly mají různou obtížnost i odměnu a jsou především neznačené a nevedené. Musíš tak lovit své oběti na vlastní pěst a s omezenou pomocí ze strany hry.
+tagTutorialTip56SubtitleA=Úkoly za odměnu jsou opakovatelné
+tagTutorialTip56TextB=Narozdíl od hlavních a vedlejších úkolů nejsou úkoly za odměnu omezeny na jeden pokus za postavu. Každá frakce ti nabídne až 5 úkolů za jednu herní relaci s tím, že můžeš obdržet i úkoly dokončené v předešlých herních relacích.
 
-tagTutorialTip57Title=Svatyně oddanosti
-tagTutorialTip57TextA=Jsi poblíž svatyně oddanosti. Návštěvami svatyní získáš body oddanosti, které můžeš použít k uzpůsobení své postavy pomocí unikátních vlastností.
-
-tagTutorialTip58Title=Navštívení svatyně
-tagTutorialTip58TextA=Svatyně oddanosti jsou prastaré pozůstatky dávno zaniklé říše, pomníky věnované různým bohům a nebeským symbolům.{^N}{^N}Svatyně musí být buď vyčištěny poražením všelijakých uvězněných existencí, nebo obnoveny obětováním vzácných materiálů. Požadavky mohou být v každé svatyni jiné.
-tagTutorialTip58SubtitleA=Obnovení svatyně
-tagTutorialTip58TextB=K obnovení rozbořené svatyně musíš mít požadované materiály v osobní nebo sdílené úschově, inventáři nebo na předmětu, který máš na sobě. Požadovaný předmět se vyhledává přesně v tomto pořadí.{^N}{^N} Pokud vlastníš všechny požadované předměty, stiskni pro obnovení svatyně tlačítko Obětovat.
-
+tagTutorialTip59Title=Svatyně oddanosti
+tagTutorialTip59TextA=Svatyně oddanosti jsou prastaré pozůstatky dávno zaniklé říše, pomníky věnované různým bohům a nebeským symbolům. Svatyně musí být buď vyčištěny poražením všelijakých uvězněných existencí, nebo obnoveny obětováním vzácných materiálů. Požadavky mohou být v každé svatyni jiné.
+tagTutorialTip59CaptionA=Obnovení svatyní
+tagTutorialTip59TextB=K obnovení rozbořené svatyně musíš mít požadované materiály v osobní nebo sdílené úschově, inventáři nebo na předmětu, který máš na sobě. Požadovaný předmět se vyhledává přesně v tomto pořadí. Pokud vlastníš všechny požadované předměty, stiskni pro obnovení svatyně tlačítko Obětovat.
 tagTutorialTip59Title=Body oddanosti
-tagTutorialTip59TextA=Navštívil jsi svou první svatyni a získal bod oddanosti. Body oddanosti můžeš spravovat v {^y}Okně oddanosti{^w}, které můžeš naleznout i v {^y}Okně dovedností{^w}.
-tagTutorialTip59CaptionA=Klávesová zkratka: {^b}{%t0}{^w}
+tagTutorialTip59TextC=When a shrine is cleansed you earn a devotion point. To allocate your Devotion Points visit the Devotion Window, which can be accessed through the Skill Window. Click the icon located to the left of the skill bar, or press {^x}[%t0]{^-}.
 
-tagTutorialTip60Title=Okno oddanosti
-tagTutorialTip60TextA={^y}Okno oddanosti{^w} ti umožňuje přiřazovat tvé body oddanosti k různým božstvům a nebeským symbolům Cairnu.
-tagTutorialTip60SubtitleA=Získávání bodů oddanosti{^N}{^N}Tím že dokončíš některé ze Souhvězdí, získáš body spřízněnosti, které pak můžeš použít pro odemknutí mocnějších Souhvězdí.
-tagTutorialTip60TextB=Body oddanosti získáváš navštěvováním svatyni roztroušených po celém světě. Prozkoumej každý kousíček země, abys našel všechny!
-tagTutorialTip60SubtitleB=Spřízněnost
-tagTutorialTip60TextC=Souhvězdí jsou přiřazeny k pěti různým Spřízněnostem, zastupujícím pět různých nebeských aspektů. Různá Souhvězdí vyžadují různé množství Spřízněnosti ke svému odemčení.{^N}{^N}Obyčejná Souhvězdí udělují značné množství Spřízněnosti, zatímco ta nejmocnější Souhvězdí neudělují vůbec žádnou.{^N}{^N}Pamatuj, že pokud se odnaučíě nějaké dokončené Souhvězdí, přijdeš o jeho bonusové body Spřízněnosti.
-tagTutorialTip60SubtitleC=Utracení bodů oddanosti
-tagTutorialTip60TextD=Jasně modré hvězdy ti napovídají, kam můžeš vložit svůj další bod oddanosti. Levým kliknutím na hvězdu odemkneš její bonusy.
-tagTutorialTip60TextE=Kruhové hvězdy označují místa nebeské moci, které můžeš odemknout k posílení svých primárních dovedností o nové efekty.{^N}{^N}
+tagTutorialTip60Title=Přehled oddanosti
+tagTutorialTip60TextA=Přehled oddanosti ti umožňuje přiřazovat tvé body oddanosti k různým božstvům a nebeským symbolům Cairnu.
+tagTutorialTip60TextB=Tím že dokončíš některé ze Souhvězdí, získáš body spřízněnosti, které pak můžeš použít pro odemknutí mocnějších Souhvězdí.
+tagTutorialTip60SubtitleA=Spřízněnost
+tagTutorialTip60TextC=Souhvězdí jsou přiřazeny k pěti různým Spřízněnostem, zastupujícím pět různých nebeských aspektů. Různá Souhvězdí vyžadují různé množství Spřízněnosti ke svému odemčení.
+tagTutorialTip60SubtitleB=Utracení bodů oddanosti
+tagTutorialTip60TextD=Obyčejná Souhvězdí udělují značné množství Spřízněnosti, zatímco ta nejmocnější Souhvězdí neudělují vůbec žádnou.
+tagTutorialTip60TextE=Pamatuj, že pokud se odnaučíě nějaké dokončené Souhvězdí, přijdeš o jeho bonusové body Spřízněnosti.
+tagTutorialTip60TextF=Jasně modré hvězdy ti napovídají, kam můžeš vložit svůj další bod oddanosti. Levým kliknutím na hvězdu odemkneš její bonusy.
+tagTutorialTip60TextG=Kruhové hvězdy označují místa nebeské moci, které můžeš odemknout k posílení svých primárních dovedností o nové efekty.
 
 tagTutorialTip61Title=Nebeská moc
-tagTutorialTip61TextA=Nebeské síly jsou automaticky aktivované schopnosti, které mohou být přiděleny ke tvým primárním dovednostem odemčených v povolání nebo na předmětech.{^N}{^N}Nebeské síly přiřazené ke tvým dovednostem budou získávat zkušenosti z bojů a úkolů, čímž zvýší svou úroveň a nabudou na síle. Pokud přiřadíš dovednosti svého spojence, poroste její úroveň se zraněními způsobenými spojencem.
+tagTutorialTip61TextA=Nebeské síly jsou automaticky aktivované schopnosti, které mohou být přiděleny ke tvým primárním dovednostem odemčených v povolání nebo na předmětech. Nebeské síly přiřazené ke tvým dovednostem budou získávat zkušenosti z bojů a úkolů, čímž zvýší svou úroveň a nabudou na síle. Pokud přiřadíš dovednosti svého spojence, poroste její úroveň se zraněními způsobenými spojencem.
 tagTutorialTip61SubtitleA=Přiřazení primární dovednosti.
-tagTutorialTip61TextB=Pro přiřazení Nebeské moci musíš nejprve nějakou odemknout v {^y}Okně oddanosti{^w} a poté zvolíš vhodnou primární dovednost ze seznamu. Samozřejmě můžeš nebeskou moc kdykoliv přeřadit k jiné dovednosti bez jakéhokoliv postihu. Pokud odejmeš nebeskou moc nebo ji vyměníš za jinou, veškeré zkušenosti a úrovně jí zůstanou zachovány.
+tagTutorialTip61TextB=Pro přiřazení Nebeské moci musíš nejprve nějakou odemknout v Přehledu oddanosti a poté zvolíš vhodnou primární dovednost ze seznamu. Samozřejmě můžeš nebeskou moc kdykoliv přeřadit k jiné dovednosti bez jakéhokoliv postihu. Pokud odejmeš nebeskou moc nebo ji vyměníš za jinou, veškeré zkušenosti a úrovně jí zůstanou zachovány.
+
+#Quick Tips
+
+tagQuickTipMainMenu={^z}Welcome to Grim Dawn!{^-}{^n}{^n}{^w}Tutorial Tips{^-} are currently enabled. You can disable them at any time via the options menu.{^n}{^n}{^w}Normal Difficulty{^-} is intended for less experienced ARPG players.{^n}{^n}For a more challenging experience select {^w}Veteran Difficulty{^-}.
+tagQuickTip06={^z}Untouched Meal{^-}Collecting an untouched meal restores a large amount of Constitution, which allows you to regenerate Health quickly when out of combat.
+tagQuickTip07={^z}You Unlocked a Riftgate!{^-}{^n}{^n}{^w}Rift Travel{^-} {^x}[%t0]{^-} allows you to create a portal which you can use to teleport to the Riftgates found throughout the world of Cairn.
+tagQuickTip08={^z}Tutorial Tips{^-}{^n}{^n}{^s}Tutorial Tips{^-} are currently enabled. You can disable them at any time via the options menu. For more information, simply left click on a tip as it appears, or right click to close it. In game help is accessible at any time in the Codex Window {^x}[%t0]{^-}.
+tagQuickTip09={^z}Merchants{^-}{^n}{^n}Merchants allow you to sell your collected loot and buy equipment and potions. Right clicking an item is a the quickest way to buy or sell.
+tagQuickTip11={^z}Personal Riftgate{^-}{^n}{^n}Use the Personal Riftgate to open the World Map and select a Riftgate to travel to.
+tagQuickTip14={^z}Potions{^-}{^n}{^n}Potions have long cooldowns, but they can be used to quickly restore your Health or Energy. To drink a potion, click on the potion icon on the skill bar or press the assigned hotkey.
+tagQuickTip15={^z}Leveling{^-}{^n}{^n}When you level up you gain Skill and Attribute points which can be assigned in the Skill and Character Windows.
+tagQuickTip16={^z}Character Window{^-}{^n}{^n}The Character Window allows you to manage your Inventory, Equipment, and view your Stats.
+tagQuickTip20={^z}Components{^-}{^n}{^n}Components apply bonuses to items and equipment, and can be combined for an increase in power.
+tagQuickTip21={^z}Secondary Mastery{^-}{^n}{^n}You reached level 10, and can now select a second Mastery.
+tagQuickTip22={^z}Skill Window{^-}{^n}{^n}The Skill Window {^x}[%t0]{^-} allows you to spend the Skill Points you earn when leveling up.
+tagQuickTip23={^z}Mastery & Skills{^-}{^n}{^n}Increasing the number of points spent in the Mastery Bar allows access to additional skills as well as providing stat bonuses. Remember to learn new skills as well as increasing your mastery.
+tagQuickTip24={^z}Death is Not The End!{^-}{^n}{^n}When you die you lose experience, but you can recover some of the experience you lost by collecting your Grave Marker.
+tagQuickTip26={^z}Chat{^-}{^n}{^n}Press {^x}[Enter]{^-} to chat to other players, or press "Send To" to send a Private Message. Shift-clicking an item sends a viewable link to that item to other players in the game.
+tagQuickTip27={^z}Multiplayer{^-}{^n}{^n}Access the Group Window {^x}[%t0]{^-} to form a party. Press {^x}[Enter]{^-} to chat with other players.
+tagQuickTip30={^z}Unassigned Skills!{^-}{^n}{^n}Active skills must be assigned to the skill bar before they can be used. Right click a slot on the bar to assign a skill to it.
+tagQuickTip31={^z}Health Potions{^-}{^n}{^n}When your health is low during combat, use a potion to restore it. Health Potions have a long cooldown but restore a large amount of health.
+tagQuickTip32={^z}Unassigned Points!{^-}{^n}{^n}You have unassigned attribute or skill points. Remember to spend your points when leveling up.
+tagQuickTip33={^z}Learning Skills{^-}{^n}{^n}It's important to learn Skills as well as increasing your Mastery bar. Skills provide you with powerful offensive and defensive abilities.
+tagQuickTip34={^z}Inventory Full!{^-}{^n}{^n}Open the Character Window to manage your inventory, or visit a merchant to sell the loot you have collected in exchange for iron bits.
+tagQuickTip35={^z}Summoned Pets{^-}{^n}{^n}You can order all pets to attack or move to a target by commanding them using the Pet Attack skill. They can also be set to aggressive/defensive, and desummoned when required.
+tagQuickTip36={^z}Spirit Guide{^-}{^n}{^n}The Spirit Guide allows you to change your skills and devotions in exchange for Iron Bits and Aether Crystals. Each point refunded increases the cost of the next point.
+tagQuickTip37={^z}Smuggler{^-}{^n}{^n}The Smuggler allows you to store items you wish to save for later in your Private Stash, as well as access the Transfer Stash.
+tagQuickTip38={^z}Transfer Stash{^-}{^n}{^n}The Transfer Stash can be used to transfer items between your character. Additional transfer space can be purchased for Iron Bits.
+tagQuickTip39={^z}Inventor{^-}{^n}{^n}The Inventor allows you to recover Components from items, and Dismantle unwanted items into crafting materials.
+tagQuickTip42={^z}Blacksmith{^-}{^n}{^n}The Blacksmith allows you to craft powerful items using the Blueprints you have learned and various crafting components found in the world.
+tagQuickTip43=^{z}Blueprints{^-}{^n}{^n}Visit the Blacksmith to craft items using the Blueprints you have learned, and the crafting materials you have found.
+tagQuickTip44={^z}Blueprints{^-}{^n}{^n}Blueprints require the services of a Blacksmith to craft. Any blueprints you collect will be stored until you recruit one.
+tagQuickTip45={^z}Fast Regen{^-}{^n}{^n}Constitution is converted into health when out of combat, allowing you to regenerate quickly between fights while your constitution lasts.
+tagQuickTip46={^z}Constitution Exhausted!{^-}{^n}{^n}When your Constitution runs out you can no longer regenerate Health quickly when out of combat. Collect Untouched Meals and Vital Essence in order to refill your constitution bar.
+tagQuickTip47={^z}Dismantling{^-}{^n}{^n}The Dismantle Window allows you to break unwanted items down into their component parts, which can then be used for crafting.
+tagQuickTip49={^z}Equipment Comparison{^-}{^n}{^n}Placing the cursor over an item will show a comparison of that item with your current equipment.
+tagQuickTip50={^z}Augments{^-}{^n}{^n}Augments can be used on equipment to add additional bonuses. They can be purchased from Faction Quartermasters when you have met the reputation requirements.
+tagQuickTip52={^z}Reputation Gained{^-}{^n}{^n}You have gained some reputation with one of Cairn's factions. You can view your repution status in the in the Factions Window {^x}[%t0]{^-}.
+tagQuickTip53={^z}Faction Quartermaster{^-}{^n}{^n}Faction Quatermasters allow you to purchase faction related items and enhancements if your reputation meets their requirements.
+tagQuickTip54={^z}Reputation{^-}{^n}{^n}Your Reputation level has increased with one of Cairn's factions. The Factions Window {^x}[%t0]{^-} contains information on the rewards associated with higher reputation levels.
+tagQuickTip55={^z}Faction Window{^-}{^n}{^n}The Faction Window allows you to view your current Reputation with the various friendly and enemy factions, and learn background information about them.
+tagQuickTip56={^z}Bounties{^-}{^n}{^n}Unlike regular quests, bounties are repeatable. Each faction will offer you up to 5 bounties per game session.
+tagQuickTip57={^z}Devotion Shrines{^-}{^n}{^n}Cleansing shrines grants you Devotion Points which can be allocated by accessing the Skills Window {^x}[%t0]{^-}. Devotion is an additional layer of character customization in addition to the Mastery system.
+tagQuickTip58={^z}Cleansing Shrines{^-}{^n}{^n}Shrines can be cleansed by either making an offering to the gods, or defeating foes trapped within the shrine, depending on the type of shrine you encounter.
+tagQuickTip59={^z}Devotion Points{^-}{^n}{^n}Devotions Points earned from cleansing shrines can be spent in the Devotion Window, accessed via the Skills Window {^x}[%t0]{^-}.
+tagQuickTip60={^z}Devotion Window{^-}{^n}{^n}The Devotion Window allows you to spend Devotion points gained by cleansing shrines. Each spent point allows you to unlock new bonuses and skills.
+tagQuickTip61={^z}Celestial Powers{^-}{^n}{^n}Assign your Celestial Power to a skill by clicking the icon in the Devotion Window and selecting a skill from the list.
