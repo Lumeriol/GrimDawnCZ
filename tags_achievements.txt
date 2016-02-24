@@ -1,9 +1,12 @@
 # Achievement Groups
 
-achGroupAct1=Akt 1
-achGroupAct2=Akt 2
-achGroupAct3=Akt 3
-achGroupWorld=Celý svět
+achGroupAct1=Akt I
+achGroupAct2=Akt II
+achGroupAct3=Akt III
+achGroupChallenges=Výzvy
+achGroupCharacter=Postava
+achGroupMonsters=Nestvůry
+achGroupStory=Příběh
 
 # Achievements
 
@@ -82,7 +85,7 @@ ach024Desc=Zlikviduj Střevního červa v Pašerácké kotlině.
 ach025Title=Měl jsi střeva
 ach025Desc=Zlikviduj Střevního červa v Pašerácké kotlině na ultimátní obtížnosti.
 
-ach026Title=Drátování je její specialita
+ach026Title=Drátenictví je její specialita
 ach026Desc=Zachraň Darlet ve vesnici Burrwitch.
 
 ach027Title=Za Malleum Menhir
