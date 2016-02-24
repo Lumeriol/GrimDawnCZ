@@ -148,7 +148,7 @@ tagChthonianLeechHeroH05=Yakwa'Anatu ~ nezastavitelný
 
 tagChthonianBoss01=Lagoth'Ak, posel krve
 tagChthonianBoss02=Shar'Zul, posel Chaosu
-tagChthonianBoss03=Bane'Gargoroth, strážce bran
+tagChthonianBoss03=Bane'Galgalor, strážce bran
 tagChthonianBoss04=Balok'Anatu, krvavý démon
 tagChthonianBoss05=Galar'Bargok, černý ďábel
 tagChthonianBoss06=Harak'Bargoth, strážce Bašty
@@ -234,14 +234,14 @@ tagEnemyGhostA01=Zjevení
 tagEnemyGhostB01=Strašidelný šlechtic
 tagEnemyGhostB02=Strašidelný šampión
 
-tagHeroGhostH01=Lady Valavan, toulavá duše
-tagHeroGhostH02=Lord Černochvost ~ zrcadlící
-tagHeroGhostH03=Lady Rosenthal ~ oživovatelka
+tagHeroGhostH01=Valavan, toulavá duše
+tagHeroGhostH02=Ballan Voros ~ zrcadlící
+tagHeroGhostH03=Rosena Malgos ~ oživovatelka
 tagHeroGhostH04=Ječící bouře ~ elektrizovaný
-tagHeroGhostH05=Lord Oldrakan ~ rychlý
+tagHeroGhostH05=Oldrakan Pald ~ rychlý
 tagHeroGhostH06=Aetherické zjevení ~ nakažený
 
-tagGhostBoss01=Baron Wradlith, Pán ztracených duší
+tagGhostBoss01=Baros Wradlith, Pán ztracených duší
 tagGhostBoss02=Nomos Dred
 tagGhostBoss03=Laudos Vagra
 tagGhostBoss04=Rhovena Kur
@@ -334,6 +334,8 @@ tagGrobleHeroH03=Uldagu ~ požírač plamenů
 tagGrobleHeroH04=Molbagdal ~ vyvolavač bouří
 tagGrobleHeroH05=Holborack ~ obránce
 tagGrobleHeroH06=Usoplený špinavec
+
+tagGrobleBoss01=Narbalgal, hledač bouří
 
 #Harpy
 
@@ -472,7 +474,7 @@ tagDermapteranHeroH05=Vildrix ~ dotčený Prázdnotou
 tagDermapteranBoss01=Velký vezír Lozakal
 tagDermapteranBoss02=Velký vezír Inixil
 tagDermapteranBoss03=Ravna ~ královna roje
-tagDermapteranBoss04=Vezír Anoxis, nakažený
+tagDermapteranBoss04=Strážce úlu Anoxis, nakažený
 
 #CreatureInsectMosquito
 tagEnemyInsectMosquitoA01=Močálový krvožrout
@@ -671,9 +673,9 @@ tagEnemySkeletonC04=Smrtící přízrak
 
 tagSkeletonHeroH01=Tenebris, opilý krví
 tagSkeletonHeroH02=Balrazar, Dreegův věčný sluha
-tagSkeletonHeroH03=Lord Harris, zatracený
+tagSkeletonHeroH03=Harros Dred, zatracený
 tagSkeletonHeroH04=Pekelný přízrak ~ hořící
-tagSkeletonHeroH05=Lord Alistar Hernsworth ~ odrážející
+tagSkeletonHeroH05=Allos Sadarin ~ odrážející
 tagSkeletonHeroH06=Chladné srdce ~ zmrzlý
 
 tagSkeletonBoss01=Kilrian, poskvrněná duše
@@ -919,6 +921,8 @@ tagEnemyZombieVoidA01=Chthonský bezduchý chodec
 tagEnemyZombieMutatedA01=Uhnívající řezník
 tagEnemyZombieMutatedB01=Uhnívající mlátička
 
+tagZombieMutatedBoss01=Barrog, milovník krve
+
 tagZombieHeroH01=Opuštěnec Abner
 tagZombieHeroH02=Rudá zhouba
 tagZombieHeroH03=Odporný Gastris
@@ -1036,6 +1040,8 @@ tagBossLoghorreanTentacle01=Loghorreanovo chapadlo
 tagBossLoghorreanTentacle02=Loghorreanovo chapadlo
 tagBossLoghorreanTentacleCluster=Chuchvalec chapadel
 
+tagMiscTargetDummy=Tréninková atrapa
+
 #Nemesis
 tagNemesis_Aetherial01=Valdaran, bouřná pohroma
 tagNemesis_Aetherial02=Nevšímavý sprosťák
@@ -1053,6 +1059,17 @@ tagNemesis_Outlaw03=Oko smrti
 tagNemesis_Undead01=Řemeslník Allminoxius
 tagNemesis_Undead02=Moosilauke "Ledový vichr"
 tagNemesis_Undead03=Toxemus
+
+tagNemesis_Clone01=Klon Johna Bourbona
+tagNemesis_Clone02=Spalující klon Johna Bourbona
+tagNemesis_Clone03=Mrazivý klon Johna Bourbona
+tagNemesis_Clone04=Elektrizující klon Johna Bourbona
+tagNemesis_Clone05=Nakažený klon Johna Bourbona
+tagNemesis_Clone06=Vražedný klon Johna Bourbona
+tagNemesis_Clone07=Zkažený klon Johna Bourbona
+tagNemesis_Clone08=Poslední forma klonu Johna Bourbona
+tagNemesis_Clone09=Momentálně poslední forma klonu Johna Bourbona
+
 
 #Devotion
 tagDevotion_AetherialH01=Hlídkař Athraz
@@ -1094,15 +1111,15 @@ tagDevotion_FleshHulkH02=Aethollin
 tagDevotion_FleshHulkH03=Kollus ~ spalující
 tagDevotion_FleshHulkH04=Feseron ~ mrazivý
 
-tagDevotion_GhostH01=Lady Odellia
-tagDevotion_GhostH02=Lord Mardenthal ~ spalující
-tagDevotion_GhostH03=Lady Agathon ~ oživovačka
-tagDevotion_GhostH04=Lord Stormbane ~ elektrizující
-tagDevotion_GhostH05=Lord Blackwood ~ dotčený Prázdnotou
-tagDevotion_GhostH06=Lord Senethal ~ zkažený
-tagDevotion_GhostH07=Lord Develon
-tagDevotion_GhostH08=Lady Barroth
-tagDevotion_GhostH09=Lady Senethal
+tagDevotion_GhostH01=Odellia Lanos
+tagDevotion_GhostH02=Marden Thal ~ spalující
+tagDevotion_GhostH03=Agalla Varos ~ oživovačka
+tagDevotion_GhostH04=Bouřné prokletí ~ elektrizující
+tagDevotion_GhostH05=Baullos Gar ~ dotčený Prázdnotou
+tagDevotion_GhostH06=Senal Thandris ~ zkažený
+tagDevotion_GhostH07=Develos Ondal
+tagDevotion_GhostH08=Barrosa Namos
+tagDevotion_GhostH09=Aneria Thandris
 
 tagDevotion_CavePrawnH01=Direcrix
 tagDevotion_CavePrawnH02=Malocrix ~ dotčený Prázdnotou
@@ -1123,7 +1140,7 @@ tagDevotion_SkeletonH03=Damnoth
 tagDevotion_SkeletonH04=Everon ~ spalující
 tagDevotion_SkeletonH05=Pomstychtivý Vengar ~ odrážející
 tagDevotion_SkeletonH06=Jitřní lord ~ mrazivý
-tagDevotion_SkeletonH07=Lord Tenethon
+tagDevotion_SkeletonH07=Tenethon
 tagDevotion_SkeletonH08=Alladon, strážce plamene
 tagDevotion_SkeletonH09=Elagorian "Temný morek"
 tagDevotion_SkeletonH10=Ollegon, ledový strážce
