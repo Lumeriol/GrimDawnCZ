@@ -100,7 +100,7 @@ Bude tenhle dynamit stačit?
 
 Doručili mí přátelé dynamit?
 Ano, ano. Experiment měl ohromný, ne... explozivní úspěch! Možná to vybuchlo. Ale nikomu se nic nestalo, doopravdy. {^n}{^n}[[ms]Měl[fs]Měla] by sis promluvit s Darlet, tedy pokud chceš ještě něco dalšího, ehm... vyhodit do povětří.
-
+No, dobrá.
 Ale ne, už žádný další experiment...
 Ach, tady jsi! Pojď, pojď, máme tady záležitost, kterou musíš ihned vyřídit.
 Prosím?
@@ -111,7 +111,7 @@ Bude tenhle dynamit stačit?
 
 Doručili mí přátelé dynamit?
 Ano, ano. Experiment měl ohromný, ne... explozivní úspěch! Možná to vybuchlo. Ale nikomu se nic nestalo, doopravdy. {^n}{^n}[[ms]Měl[fs]Měla] by sis promluvit s Darlet, tedy pokud chceš ještě něco dalšího, ehm... vyhodit do povětří.
-
+No, dobrá.
 Ale ne, už žádný další experiment...
 Ty ses [[ms]vrátil[fs]vrátila]! Je něco, s čím bych ti mohl pomoci?
 Můžeš mi poskytnout služby vynálezce?
@@ -126,7 +126,9 @@ Výborně.
 Vidím, že se moje líná asistentka konečně vrátila ze svého malého výletu. Dobře, dobře. Znovu ji zaměstnám.{^n}{^n}Zmínila se o tobě. [[ms]Měl[fs]Měla] by sis s ní promluvit.
 Udělám to.
 Vidím, že se moje líná asistentka konečně vrátila ze svého malého výletu. Dobře, dobře. Znovu ji zaměstnám.{^n}{^n}Zmínila se o tobě. [[ms]Měl[fs]Měla] by sis s ní promluvit.
-Promluvím s ní.
+Udělám to.
+Podařilo se ti najít mou učednici? Jsem si docela jistý, že je v nějakém sklepení v Burrwitchských statcích. Můžeš ji přivést zpátky otevřením Brány. Vlastně, pokud bys [[ms]našel[fs]našla] v okolí další lidi, [[ms]mohl[fs]mohla] bys je přivést také.
+Budu dál hledat.
 Podařilo se ti najít mou učednici? Jsem si docela jistý, že je v nějakém sklepení v Burrwitchských statcích. Můžeš ji přivést zpátky otevřením Brány. Vlastně, pokud bys [[ms]našel[fs]našla] v okolí další lidi, [[ms]mohl[fs]mohla] bys je přivést také.
 Budu dál hledat.
 Ach, byli jsme tak moc zaměstnáni tou věcí s Bránou, že jsem úplně zapomněl na mou učednici, Darlet! {^n}{^n}Poslal jsem ji ven do Burrwitchských statků, aby se podívala po nějakých dílech pro náš výzkum a už je pryč až příliš dlouho. Vypadá to, že její hloupost se plně projevuje i mimo pracoviště.

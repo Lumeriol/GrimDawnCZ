@@ -21,8 +21,26 @@
 <h1>Krotitelé zvuků
 
 <h5>Dan Crislip - hlavní zvukař
-<h5>Steve Pardo - skladatel
+<h5>Steve Pardo - hlavní skladatel
 <h5>Christopher Wilson - zvukový návrhář
+<h5>Nicholas Kallman - zvukový návrhář
+
+<h2>Hlasy postav
+<h5>Kent Clark
+<h5>Gary Craig
+<h5>Mark Dodson
+<h5>Josh Glavine
+<h5>David Godfrey
+<h5>Charlie Hughes
+<h5>Obehi Janice
+<h5>Mark H. Lucas
+<h5>Helen McWilliams
+<h5>Chris Rando
+<h5>Hannah Risser-Sperry
+<h5>Paul Sherrard
+<h5>Kylie Sullivan
+<h5>Michael Sutherland
+<h5>Gabriel Wolf
 
 <h1>Další členové týmu
 
@@ -41,6 +59,9 @@
 <h5>Ian Wells
 <h5>Matthew Ball
 <h5>Angela Nerell
+<h5>Tim Croteau
+<h5>Tom Lennon
+<h5>Lee Smith
 
 <h1>Hráči - testeři
 
@@ -65,6 +86,14 @@
 
 <h2>Bulharština
 <h2>Адмирал АнимЕ
+
+<h2>Čínština
+<h5>EsclaveDuReve(zyhmuyu)
+<h5>gpqkevin
+<h5>Otic(琉璃mk2)
+<h5>kingzy(04160131)
+<h5>tt300(GD汉化小白丁)
+<h5>USunOfBeach
 
 <h2>Čeština
 <h5>Lukáš "Lumeriol" Rajchl
