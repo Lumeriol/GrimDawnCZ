@@ -80,6 +80,8 @@ tagCodexJournalSubHeadingNecropolis=Historie - Pohřebiště
 tagCodexJournalSubHeadingSurvivorBlackLegion=Přeživší - Černá legie
 tagCodexJournalSubHeadingSurvivorBurrwitch=Přeživší - Burrwitch
 tagCodexJournalSubHeadingSurvivorsHomestead=Přeživší - Homestead
+tagCodexJournalSubHeadingSurvivorsDarkvale=Přeživší - Darkvale
+tagCodexJournalSubHeadingHistoryGods=Historie - Bohové Cairnu
 tagCodexJournalSubHeadingDefault=Různé
 tagDevotionJournalTitle={%d0}/{%d1} svatyní oddanosti
 tagAccept=Přijmout
@@ -373,6 +375,7 @@ tagFactionBonusInfamy=Bonusová nepřízeň: {%d0}%
 
 tagAchievements=Úspěchy
 tagAchievementUnlocked=Odemčen nový úspěch!
+tagAchievementsComplete={%d0} / {%d1}
 
 #HUD
 
@@ -438,24 +441,24 @@ tagHUDQuickslotRM=Akce na pravém tlačítku myši
 tagHUDQuickslotRMRoll=Vedlejší útok. Pravým tlačítkem myši přiřaď dovednost.
 tagHUDQuickslotBarSwap=Přepnout na druhý panel rychlých voleb.
 
-tagHUDButtonCharacter=Okno postavy
-tagHUDButtonSkills=Okno dovedností
-tagHUDButtonGroup=Okno skupiny
-tagHUDButtonQuest=Okno úkolů
-tagHUDButtonMap=Okno mapy
-tagHUDButtonChat=Okno chatu
-tagHUDButtonFaction=Okno frakcí
-tagHUDButtonHelp=Okno nápovědy
+tagHUDButtonCharacter=Přehled postavy
+tagHUDButtonSkills=Přehled dovedností
+tagHUDButtonGroup=Přehled skupiny
+tagHUDButtonQuest=Přehled kodexů
+tagHUDButtonMap=Mapa
+tagHUDButtonChat=Chat
+tagHUDButtonFaction=Přehled frakcí
+tagHUDButtonAchievements=Přehled úspěchů
 tagHUDButtonOptions=Nabídka možností
 
 tagHUDButtonRollCharacter=Správa atributů postavy, inventáře a výbavy.
-tagHUDButtonRollSkills=Výběr povolání a dovedností.
+tagHUDButtonRollSkills=Výběr povolání, dovedností a oddanosti.
 tagHUDButtonRollGroup=Pozvánky hráče a správa skupiny.
-tagHUDButtonRollQuest=Seznam úkolů s detaily o stavu úkolu a úkolových objektech.
+tagHUDButtonRollQuest=Záznamy úkolů, zápisky, svatyně oddanosti a herní nápověda.
 tagHUDButtonRollMap=Detailní místní a světová mapa.
 tagHUDButtonRollChat=Odesílání zpráv hráčům ve tvé hře.
 tagHUDButtonRollFaction=Podrobnosti o různých frakcích obývajících Cairn.
-tagHUDButtonRollHelp=Zobrazení herní nápovědy.
+tagHUDButtonRollAchievements=Dokončené úspěchy ve hře.
 tagHUDButtonRollOptions=Uložení hry, ukončení hry a herní nastavení.
 
 #SkillUI
@@ -609,12 +612,13 @@ tagCharHeaderRetaliation=Oplácení
 tagCharHeaderStats=Statistiky
 tagCharHeaderMisc=Různé
 
+tagCharStatsDPSTitle=Zranění za sekundu
 tagCharStatsDPS=Zranění za sekundu {^b}
 tagCharStatsDPSDescription=Průměrné zranění nepřítele za sekundu pro schopnosti na levém a pravém tlačítku myši proti jednomu cíli, ovlivněné dobou obnovy schopnosti, všemi bonusy z tvé výstroje a dovedností. Nezahrnuje obrannou schopnost nepřítele.
 tagCharStatsDPSRightDescription=Zranění za schopnosti na pravém tlačítku myši proti jedinému cíli, ovlivněné všemi bonusy z výstroje a dovedností. Nemá vliv na nepřátelskou obranu.
 tagCharStatsDPSLeftDescription=Zranění za schopnosti na levém tlačítku myši proti jedinému cíli, ovlivněné všemi bonusy z výstroje a dovedností. Nemá vliv na nepřátelskou obranu.
 
-tagCharStatsArmorTotalAlert=Hodnocení zbroje {^b}(?)
+tagCharStatsArmorTotalAlert=Hodnocení zbroje {^b}
 tagCharStatsArmorTotal=Hodnocení zbroje
 tagCharStatsAbsorption=Pohlcení zranění
 tagCharStatsArmorTotalDescription=Čím vyšší je tvá celková zbroj, tím méně zranění obdržíš fyzickými zásahy. Bonusy na dovednosti a na předměty, které nejsou součástí zbroje jsou přidány ke všem slotům zbroje.
@@ -835,6 +839,33 @@ tagCharStatsPetOAInfo=Procentuální bonus k útočné schopnosti tvých spojenc
 
 tagCharStatsPetDA=Obranná schopnost
 tagCharStatsPetDAInfo=Procentuální bonus k obranné schopnosti tvých spojenců a vyvolaných příšer.
+
+tagCharStatsPetFireResist=Odolnost vůči ohni
+tagCharStatsPetFireResistInfo=The percent bonus to the Fire Resistance of your pets and summoned minions.
+
+tagCharStatsPetColdResist=Odolnost vůči mrazu
+tagCharStatsPetColdResistInfo=The percent bonus to the Cold Resistance of your pets and summoned minions.
+
+tagCharStatsPetLightningResist=Odolnost vůči bleskům
+tagCharStatsPetLightningResistInfo=The percent bonus to the Lightning Resistance of your pets and summoned minions.
+
+tagCharStatsPetPoisonResist=Odolnost vůči jedům
+tagCharStatsPetPoisonResistInfo=The percent bonus to the Poison/Acid Resistance of your pets and summoned minions.
+
+tagCharStatsPetPierceResist=Odolnost vůči probodnutí
+tagCharStatsPetPierceResistInfo=The percent bonus to the Pierce Resistance of your pets and summoned minions.
+
+tagCharStatsPetBleedResist=Odolnost vůči krvácení
+tagCharStatsPetBleedResistInfo=The percent bonus to the Bleeding Resistance of your pets and summoned minions.
+
+tagCharStatsPetVitalityResist=Odolnost vůči ztrátě životní energie
+tagCharStatsPetVitalityResistInfo=The percent bonus to the Vitality Resistance of your pets and summoned minions.
+
+tagCharStatsPetAetherResist=Odolnost vůči Aetheru
+tagCharStatsPetAetherResistInfo=The percent bonus to the Aether Resistance of your pets and summoned minions.
+
+tagCharStatsPetChaosResist=Odolnost vůči Chaosu
+tagCharStatsPetChaosResistInfo=The percent bonus to the Chaos Resistance of your pets and summoned minions.
 
 #Char Stats Tab 3
 
@@ -1066,7 +1097,8 @@ tagCraftingCreate=Vytvořeno:
 tagCraftingLearn=[pravým tlačítkem myši se naučíš]
 tagCraftingRandom={^E}+ náhodné vlastnosti
 tagCraftingQuantity={%d0}/{%d1}
-tagCraftingLargeQuantity=*/{%d0}
+tagCraftingLargeQuantity=99+/{%d0}
+tagCraftingLargeStack=99+
 
 tagCraftingItemType00= ~ zařízení
 tagCraftingItemType01= ~ kompletní součástka
@@ -1446,7 +1478,7 @@ HitFormat={%.0f0}
 CriticalHitFormat={%.0f0}
 CriticalHitFormatMult={%.0f0} (x{%.2f1})
 DurationCriticalHit=Kritický zásah
-DurationCriticalHitMult=Kritický zásah (x{%.2f1})
+DurationCriticalHitMult=Kritický zásah (x{%.2f0})
 tagMiss=Vedle
 tagFumble=Neobratný úder
 tagDodge=Úskok
@@ -1489,6 +1521,8 @@ SkillPercentFormat={%.0f0% %s1}
 SkillNumProjectilesFormat=Vystřelí {%d0} projektilů
 SkillWeaponDamageFormat={%.0f0%} {^E}zranění zbraní
 SkillWeaponDamageValuesFormat={%.0f0%} {^E}zranění zbraní ({^H}{%.0f1} - {%.0f2}{^E})
+SkillWeaponDamageMainhandFormat={%.0f0%} {^E}zranění hlavní zbraní ({^H}{%.0f1} - {%.0f2}{^E})
+SkillWeaponDamageOffhandFormat={%.0f0%} {^E}zranění příručním předmětem ({^H}{%.0f1} - {%.0f2}{^E})
 SkillChargeFactor=za úroveň nabití
 SkillChargeMax={^E}Úrovně nabití:
 SkillChargeLevel={^H}{%d0}%
@@ -1543,6 +1577,7 @@ FailedSkillDependancyName={%s0}
 FailedDevotionDependency=Požadavek na spřízněnost:
 FailedDevotionDependencyName={%d0} {%s1}
 FailedConstellationDependency=Závislosti souhvězdí:
+FailedConstellationSelfLocked=Toto souhvězdí je závislé na své vlastní Spřízněnosti. Pro odnaučení se budeš potřebovat více Spřízněnosti z jiných souhvězdí.
 ManaCost={^E}magické energie
 ManaCostPerSecond={^E}magické energie za sekundu
 ActiveLifeCost={^E} aktivního zdraví za sekundu
@@ -1619,6 +1654,7 @@ tagDotLightning=Elektrický šok
 tagDotChaos=Chaos
 tagDotAether=Aether
 tagDotLifeLeech=Vysátí života
+tagDotPhysical=Vnitřní zranění
 
 tagSetItems={%d0} části setu
 tagSecond={^E}sekund
@@ -1656,7 +1692,7 @@ DamageFreeze={^E}zmražení protivníka {%t0}
 DamagePetrify={^E}ochromení protivníka {%t0}
 DamageTrap={^E}znehybnění protivníka {%t0}
 DamageTaunt={^E}Posměch nepříteli
-DamageThreat={^E}Vytváří hrozbu
+DamageThreat={^E}Vytváří další hrozbu
 DamageConvert={^E}ovládnutí protivníkovy mysli {%t0}
 DamageFear={^E}vyděšení nepřítele {%t0}
 DamageConfusion={^E}zmatení nepřítele na {%t0}
@@ -1829,18 +1865,23 @@ DefenseLightningR={%.0f0}-{%.0f1}% {^E}odolnost vůči bleskům
 DefenseLife={%.0f0}% {^E}odolnost vůči ztrátě životní energie
 DefenseLifeR={%.0f0}-{%.0f1}% {^E}odolnost vůči ztrátě životní energie
 DefenseStun={%.0f0}% {^E}snížení trvání omráčení
+DefenseStunNegative={%.0f0}% {^E}odolnost vůči omráčení
 DefenseStunR={%.0f0}-{%.0f1}% {^E}snížení trvání omráčení
 DefenseLifeLeach={%.0f0}% {^E}odolnost vůči vysátí života
 DefenseLifeLeachR={%.0f0}-{%.0f1}% {^E}odolnost vůči vysátí života
 DefenseManaLeach={%.0f0}% {^E}odolnost vůči vysátí magické energie
 DefenseManaLeachR={%.0f0}-{%.0f1}% {^E}odolnost vůči vysátí magické energie
 DefenseTrap={%.0f0}% {^E}snížení doby chycení do pasti
+DefenseTrapNegative={%.0f0}% {^E}odolnosti vůči chycení do pasti
 DefenseTrapR={%.0f0}-{%.0f1}% {^E}snížení doby chycení do pasti
-DefenseFreeze={%.0f0}% {^E}snížení doby zmražení
-DefenseFreezeR={%.0f0}-{%.0f1}% {^E}snížení doby zmražení
+DefenseFreeze={%.0f0}% {^E}snížení doby zmrazení
+DefenseFreezeNegative={%.0f0}% {^E}odolnost vůči zmrazení
+DefenseFreezeR={%.0f0}-{%.0f1}% {^E}snížení doby zmrazení
 DefenseKnockdown={%.0f0}% {^E}snížení doby sražení
+DefenseKnockdownNegative={%.0f0}% {^E}odolnost vůči sražení
 DefenseKnockdownR={%.0f0}-{%.0f1}% {^E}snížení doby sražení
 DefensePetrify={%.0f0}% {^E}snížení doby zkamenění
+DefensePetrifyNegative={%.0f0}% {^E}odolnost vůči zkamenění
 DefensePetrifyR={%.0f0}-{%.0f1}% {^E}snížení doby zkamenění
 DefenseTaunt={%.0f0}% {^E}ochrana proti vyprovokání (pouze pro spojence nebo pasti)
 DefenseConvert={%.0f0}% {^E}snížení doby trvání ovládnutí mysli (pouze pro spojence nebo pasti)
@@ -1946,10 +1987,10 @@ tagDamageSleep={^E}Uspat nepřítele {%t0}
 tagDamageModifierSleep={%+.0f0}% {^E}zranění uspáním
 tagDefenseSleep={%.0f0}% {^E}odolnost vůči spánku
 tagDefenseSleepModifier={%+.0f0}% {^E}odolnost vůči uspání
-tagDamageModifierTotalDamage={%+.0f0}% {^E}celkového zranění
+tagDamageModifierTotalDamage={%+.0f0}% {^E}k celkovému zranění
 tagDamageModifierCritDamage={%+.0f0}% {^E}kritického zranění
 tagDamageModifierDamageMult={^H}{%.0f0}% {^E}celkového zranění
-tagRetaliationModifierTotalDamage={%+.0f0}% {^E}ke všem zraněním oplácením
+tagRetaliationModifierTotalDamage={%+.0f0}% {^E}ke všem zraněním odplatou
 tagTotalSpeedResistance={%.0f0}% {^E}odolnost vůči zpomalení
 tagMindcontrolledMonster=Ovládaný myšlenkami
 tagSparkMaxNumberChanceSingle={^H}{%.0f0}% {^E}šance ovlivnit až {^H}{%d1} {^E}nepřítele
