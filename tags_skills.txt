@@ -89,7 +89,7 @@ tagClass01SkillDescription00A=Velká fyzická kondice je nutná, aby voják dok�
 tagClass01SkillName01A=Rychlý útok
 tagClass01SkillDescription01A=Využití vlastností zbraně v boji dodá tvému útoku přirozený spád se všemi jeho klady i zápory, a ačkoliv jsou údery předvídatelné, jsou neméně účinné a těžce se jim čelí. ^oPokud jej využiješ jako výchozí typ útoku, zvýší sílu každého třetího úderu.
 tagClass01SkillName01B=Bojová formace
-tagClass01SkillDescription01B=The fury of Cadence resonates with the target, causing heavy bleeding and striking additional nearby targets. ^oWith ranged weapons, Cadence has a chance to pierce through enemies.
+tagClass01SkillDescription01B=Běsnění tvé zbraně rozechvěje protivníka, způsobí mu těžké krvácení a zároveň zasahuje nepřátele v blízkosti. ^oSe střelnými zbraněmi má Rychlý útok šanci projít skrze nepřátele.
 tagClass01SkillName01C=Smrtící pohyb
 tagClass01SkillDescription01C=Využíváš výhodu Rychlého útoku, což na krátkou dobu způsobí, že všechny tvé údery mají větší smrtící účinek. ^oSmrtící pohyb ovlivňuje všechny útoky, pokud je aktivní.
 tagClass01SkillName01D=Disharmonie
@@ -191,7 +191,7 @@ tagClass02SkillDescription03C=Další chemické modifikace způsobují, že Ohni
 tagClass02SkillName03D=Síra
 tagClass02SkillDescription03D=Umění s ohněm okořeněné tajemstvím okultismu obohacuje Ohnivý úder chaotickou energií získané ze síry. ^oS útokem na dálku také exploduje a roztrhne se na roztavené části.
 tagClass02SkillName03E=Spalující útok
-tagClass02SkillDescription03E=Soustředění se na destruktivní sílu Ohnivého úderu umožnuje intenzivnější zásah, zatímco je vyžadováno méně energie. Této techniky může být dosaženo pouze správným zacházením s chladnou zbraní, obouruční střelnou zbraní nebo kuší. ^oVyžaduje chladnou zbraň nebo obouruční střelnou zbraň.
+tagClass02SkillDescription03E=Soustředění se na destruktivní sílu Ohnivého úderu umožnuje intenzivnější zásah, zatímco je vyžadováno méně energie. Této techniky může být dosaženo pouze správným zacházením s chladnou zbraní, obouruční střelnou zbraní nebo kuší. ^oVyžaduje chladnou nebo obouruční střelnou zbraň.
 
 tagClass02SkillName04A=Tříštivá bomba
 tagClass02SkillDescription04A=Výbušnina obalená dalšími výbušninami; tento ďábelský vynález je schopný rozmetat celé hordy nepřátel.
@@ -213,8 +213,8 @@ tagClass02SkillDescription05E=Odpálí na nepřátele elektřinou nabitou střel
 
 tagClass02SkillName06A=Termitová mina
 tagClass02SkillDescription06A=Spustí trio malých, ale smrtících, pyrotechnických náloží, které spálí tvé nepřátele intenzivním plamenem. ^oÚčinnost min se zvyšuje s bonusy ke zranění, která uděluješ.
-tagClass02SkillName06B=Hellfire Mine
-tagClass02SkillDescription06B=Half pyrotechnics, half alchemy, this lethal improvement to the Thermite Mine causes it to scorch enemies with unearthly flame that sears the very being.
+tagClass02SkillName06B=Pekelná mina
+tagClass02SkillDescription06B=Napůl pyrotechnika, napůl chemie - toto smrtící vylepšení Termitové miny má schopnost zasáhnout tvé nepřátele tak intenzivním plamenem, že spálí samotnou podstatu zasažené bytosti.
 tagClass02SkillName06C=Proud plamenů
 tagClass02SkillDescription06C=Vytvoří smrtící proud velice teplých plamenů, který zapálí nepřátele, kteří skrze něj projdou.
 tagClass02SkillName06D=Detonace
@@ -297,8 +297,8 @@ tagClass03SkillDescription03B=Jemná manipulace s pouty, kterými ovládáš sv�
 
 tagClass03SkillName04A=Dreegova krev
 tagClass03SkillDescription04A=Souznění s velkým ochráncem ti uděluje některé Dreegovy regenerační schopnosti a ze zranění uštědřených nepřáteli bude rozprašována žíravá krev, jakoby se jednalo o zranění samotného Dreega. ^oTento efekt je aplikován i na spojence v blízkosti.
-tagClass03SkillName04B=Aspect of the Guardian
-tagClass03SkillDescription04B=Deepening the connection to Dreeg causes enemy attacks on the occultist to impact as though they were striking the quilled scales of the guardian.
+tagClass03SkillName04B=Aspekt ochránce
+tagClass03SkillDescription04B=Jak upevňuješ spojení s Dreegem, jsou útoky proti okultistovi ve výsledku stejné, jako by byly vedeny proti ostnatým šupinám samotného strážce.
 tagClass03SkillName04C=Strážcovy bodliny
 tagClass03SkillDescription04C=Obětuješ všechnu svoji obnovující sílu pro posílení žíravého potenciálu Dreegovy krve.
 
@@ -422,7 +422,7 @@ tagClass04SkillDescription07B=Způsobí, že protivníci zasaženi Závojem stí
 tagClass04SkillName08A=Duch meče
 tagClass04SkillDescription08A=Vyvolá vířící mrak smrtících mečů, který bude brázdit bojiště a krájet tvé nepřátele na kousky do té doby, než se nakonec promění ve spršku zubatých úlomků. ^oÚčinnost schopnosti Duch meče se zvyšuje s bonusy ke zranění, které uděluješ.
 tagClass04SkillName08PetA=Vířící meče
-tagClass04SkillName08PetB=Blade Eruption
+tagClass04SkillName08PetB=Erupce mečů
 tagClass04SkillDescription08PetB=Duch meče vystřeluje vrhací meče do všech směrů.
 
 tagClass04SkillName11A=Past z mečů
@@ -456,23 +456,23 @@ tagClass04SkillDescription12A=Čerpá v oblasti životně důležitý dech z nep
 tagClass04SkillName13D=Nemilosrdný repertoár
 tagClass04SkillDescription13D=Efektivní využívání jedů a činidel proti srážlivosti krve mohou být někdy ty nejúčinnější zbraně.
 
-tagClass04SkillName14A=Amarasta's Blade Burst
-tagClass04SkillDescription14A=Master of assassins Amarasta, legendary among the Nightblades for her alacrity, developed a technique by which she would unleash a burst of deadly phantasmal blades which spread out from the point of attack to impale all adjacent foes. ^oRequires a melee weapon or two-handed ranged weapon.
-tagClass04SkillName14B=Lethal Assault
-tagClass04SkillDescription14B=Committed to the offensive, Amarasta would continue her relentless assault following a blade burst to quickly and decisively finish off any surviving adversaries with her imbued weapons. ^oLethal Assault affects all attacks while active.
+tagClass04SkillName14A=Amarastina záplava mečů
+tagClass04SkillDescription14A=Mystryně zabijáků, Amarasta, která byla legendou mezi Nočními čepelemi pro její horlivost, vyvinula techniku, kterou vypustí množství smrtících přízračných čepelí, které se rozletí do okolí z místa útoku a probodne všechny přilehlé nepřátele. ^oVyžaduje chladnou nebo obouruční střelnou zbraň.
+tagClass04SkillName14B=Smrtící útok
+tagClass04SkillDescription14B=Oddaná útoku pokračuje Amarasta ve svém neúnavném napadání a vystřelí množsví mečů aby rychle a rázně dorazila zbylé přeživší nepřátele svými vylepšenými zbraněmi.^oSmrtící útok ovlivňuje všechny druhy útoku, pokud je aktivní.
 
 xtagClass04SkillName14A=Smrtelný manévr
 xtagClass04SkillDescription14A=Odvážná technika oblíbená Amarastou, vražednou mistryní. Smrtelný manévr má potenciál způsobit devastující zranění, pokud se perfektně zdaří, ale s riskem, že se nemusí povést. ^oVyžaduje chladnou zbraň nebo obouruční střelnou zbraň. Pokud je použita chladná zbraň, udeříš i další blízké nepřátele.
 xtagClass04SkillName14B=Amarastino vypuštění mečů
-xtagClass04SkillDescription14B=Mastery of the Lethal Gambit technique enhances it with a burst of dozens of deadly phantasmal blades which spread out from the point of attack to damage all adjacent foes. ^oFor ranged weapons, only one projectile will trigger this effect.
+xtagClass04SkillDescription14B=Mistrovství v technice Smrtelného manévru jej vylepšuje tím, že vypustí tucty smrtících mečů, které se rozletí z místa útoku a zraní všechny blízké nepřátele. ^oPro palné zbraně spustí tento efekt byť jediný projektil.
 
 
 xtagClass04SkillName15A=Vyvržení
 xtagClass04SkillDescription15A=Rychlé říznutí do vnitřností zajistí, že za čas oběť vykrvácí, ale do té doby naruší její pohyblivost a ovlivní rychlost útoku. ^oVyžaduje meč nebo sekyru.
 xtagClass04SkillName15B=Amarastin manévr
 xtagClass04SkillDescription15B=Mistrovská technika, která vylepšuje Vyvržení a má potenciál způsobit devastující zranění, pokud se perfektně zdaří, ale s riskem že se nemusí povést a může tak způsobit malé nebo žádné zranění.
-xtagClass04SkillName14C=Splintering Gambit
-xtagClass04SkillDescription14C=An outnumbered gunman can quickly turn the odds in their favor with clever use of a splintering round. As desperate measure, this method can also prove lethal at point-blank range. ^oRequires a two-handed ranged weapon to launch additional projectiles.
+xtagClass04SkillName14C=Tříštivý gambit
+xtagClass04SkillDescription14C=Obklíčený střelec může rychle zvýšit svůj kurz chytrým použitím tříštivé střely. Ale i jako zoufalý způsob se tato rána může stát smrtící, pokud je uštědřena z bezprostřední blízkosti. ^oPro vystřelení dalších projektilů je vyžadována obouruční palnou zbraň.
 
 
 
@@ -917,8 +917,8 @@ tagItemSkillB042Desc=Vystřelí z tebe životaberoucí šípy vysávajíc vzácn
 tagItemSkillB043Name=Omlazení
 tagItemSkillB043Desc=Pokryje tě utišující klid a umocní tak schopnost tvého těla se léčit.
 
-tagItemSkillB044Name=Poison Bolt
-tagItemSkillB044Desc=Launches a bolt of toxins at your enemies.
+tagItemSkillB044Name=Jedovatá šipka
+tagItemSkillB044Desc=Vypustí množství jedovatých šilek na tvé nepřátele.
 
 tagItemSkillC002Name=Kulový blesk
 tagItemSkillC002Desc=Oplácí kulovým bleskem, jež je vypuštěn směrem na útočníka, poškozujíc a omračujíc vše, co mu stojí v cestě.
@@ -1555,7 +1555,7 @@ tagItemSkillD086Name=Padající nebe
 tagItemSkillD086Desc=Nebe se rozvlní díky destruktivní síle poté, co na tvé nepřátele začnou dopadat padající hvězdy.
 
 tagItemSkillD087Name=Hojnost duší
-tagItemSkillD087Desc=Budeš hodovat na duších blízkých nepřátel a posilíš tak svou vlastní.
+tagItemSkillD087Desc=Budeš hodovat na duších blízkých nepřátel a posílíš tak svou vlastní.
 
 tagItemSkillD088Name=Maso z nestvůry
 tagItemSkillD088Desc=Maso z nestvůry ochrání tebe a tvé nohsledy před újmou.
@@ -1804,7 +1804,7 @@ tagItemSkillD169Name=Zpečetění osudu
 tagItemSkillD169Desc=Zpečetíš osud svých nepřátel, sebejistý ve vyneseném rozsudku.
 
 tagItemSkillD170Name=Strážcova tajemství
-tagItemSkillD170Desc=The secrets of Dreeg are revealed to you, threatening your sanity but also empowering your spellwork.
+tagItemSkillD170Desc=Dreegova tajemství ti jsou odhalena, sice ohrožují tvou duchapřítomnost, ale také umocňují tvé schopnosti čarovat.
 
 tagItemSkillD171Name=Šipka ze stínu
 tagItemSkillD171Desc=Směrem k nepříteli vypustíš šipku stvořenou z čisté temnoty.
@@ -1969,7 +1969,7 @@ tagItemSkillD224Name=Zloba Ponurého úsvitu
 tagItemSkillD224Desc=Rozpoutáš utrpení a takovou destrukci, jakou svět zažil v čase Ponurého úsvitu.
 
 tagItemSkillD225Name=Moc Zimního krále
-tagItemSkillD225Desc=Slam your weapon into the earth with the might of the Winter King, unleashing a cascade of icy spines. ^oRequires a two-handed melee weapon.
+tagItemSkillD225Desc=Udeř zbraní do země silou Zimního krále a vypusť tak řadu ledových ostnů. ^oVyžaduje obouruční chladnou zbraň.
 
 tagItemSkillD226Name=Vyvolání Ledohřívnatce
 tagItemSkillD226Desc=Přivolá mocného Ledohřívného Yetiho, aby bojoval po tvém boku. ^oV jednu chvíli může být vyvolán pouze jeden Ledohřívnatec. Ledohřívnatec sílí spolu se zvyšujícími se bonusy pro spojence.
@@ -1993,22 +1993,22 @@ tagItemSkillD232Name=Valdunova rafinovanost
 tagItemSkillD232Desc=Valdun byl nejen známý pro své zacházení s puškou, ale také pro pohrdání autoritami. Nikdy nebyl dopaden. ^oToto je pasivní bonus k obouručním střelným zbraním.
 
 tagItemSkillD233Name=Valdunova svorka
-tagItemSkillD233Desc=Fire a custom round that splinters on contact. ^oActivates off of default weapon attacks.
+tagItemSkillD233Desc=Vystřelíš vlastní modifikovanou střelu, která se při kontaktu roztříští. ^oJe aktivní při používání výchozího útoku zbraně.
 
-tagItemSkillD234Name=Valdun's Treachery
-tagItemSkillD234Desc=Valdun was not know for fighting fairly. He once ended an honorable duel by loading an explosive round into his clip. ^oRequires a two-handed ranged weapon and activates off of default weapon attacks.
+tagItemSkillD234Name=Valdunova zrada
+tagItemSkillD234Desc=Valdun nebyl znám zrovna proto, že by bojoval fér. Jednou ukončil šlechetný duel tím, že použil explozivní nábojnici. ^oVyžaduje obouruční zbraň. Je aktivní při používání výchozího útoku zbraně.
 
-tagItemSkillD235Name=Anasteria's Devastation
-tagItemSkillD235Desc=This technique tears a rift in reality through which fall embers of raw arcane energy. ^oRequires a Caster Off-Hand. Embers continue to fall over the duration of the spell.
+tagItemSkillD235Name=Anasteřina devastace
+tagItemSkillD235Desc=Tato technika roztrhne roušku reality a skrze trhlinu začnou padat žhavé kusy surové arkanické energie. ^oVyžaduje kouzelnický předmět v druhé ruce. Žhavé úlomky budou padat po dobu trvání kouzla.
 
-tagItemSkillD236Name=Justicar's Guard
-tagItemSkillD236Desc=The Grand Arbiter stands resolute against any blow. ^oThis is a shield passive bonus.
+tagItemSkillD236Name=Justikarova stráž
+tagItemSkillD236Desc=Velký arbitr pevně odolává všem úderům. ^oToto je pasivní bonus aplikovaný na štít.
 
-tagItemSkillD237Name=Justicar's Vengeance
-tagItemSkillD237Desc=Horvald seldom uttered a word, instead letting his shield do the talking. ^oThis is a shield passive bonus.
+tagItemSkillD237Name=Justikarova pomsta
+tagItemSkillD237Desc=Horvald jen zřídkakdy prohodil slovo, místo toho nechával mluvit svůj štít. ^oToto je pasivní bonus aplikovaný na štít.
 
-tagItemSkillD238Name=Power of the Gazer
-tagItemSkillD238Desc=The power of the Gazer flows through you.
+tagItemSkillD238Name=Moc Pozorovatele
+tagItemSkillD238Desc=Proudí skrze tebe moc Pozorovatele.
 
 
 
@@ -2427,10 +2427,10 @@ tagDevotion_RequiresCaster=^oVyžaduje žezlo nebo dýku.
 tagDevotion_RequiresFocus=^oVyžaduje kouzelnický příruční předmět.
 tagDevotion_Requires1hRange=^oVyžaduje jednoruční střelnou zbraň.
 tagDevotion_Requires2hRange=^oVyžaduje obouruční střelnou zbraň.
-tagDevotion_RequiresRange=^oRequires a ranged weapon.
-tagDevotion_Requires2h=^oRequires a two-handed melee or ranged weapon.
+tagDevotion_RequiresRange=^oVyžaduje palnou zbraň.
+tagDevotion_Requires2h=^oVyžaduje obouruční chladnou nebo střelnou zbraň.
 tagDevotion_RequiresShield=^oVyžaduje štít.
-tagDevotion_RequiresMagic=^oRequires a scepter, dagger or caster off-hand.
+tagDevotion_RequiresMagic=^oVyžaduje žezlo, dýku nebo kouzelnický předmět v druhé ruce.
 
 tagDevotion_A01=Netopýr
 tagDevotion_A01Desc=Upíří netopýr si snadno najde cestu noční oblohou a lapá záblesky ztracených hvězd, aby vysál jejich světlo.
@@ -2647,8 +2647,8 @@ tagDevotionEffectB08=Zadupání
 tagDevotionEffectB08Desc=Ze svého štítu vypustíš rázovou vlnu, která rozbije samotnou zemi a rozežene tvé nepřátele.
 tagDevotionEffectB09=Tajemná puma
 tagDevotionEffectB09Desc=Označíš zemi tajemným znamením, které exploduje při kontaktu s nepřítelem. ^oZnovunabití Tajemné pumy trvá 1 vteřinu.
-tagDevotionEffectB09_Pet01=Arcane Mark
-tagDevotionEffectB09_Pet01Desc=Marked by an Arcane Bomb.
+tagDevotionEffectB09_Pet01=Arkanické znamení
+tagDevotionEffectB09_Pet01Desc=Označení arkanickou bombou.
 tagDevotionEffectB10=Vyvolání mrtvých
 tagDevotionEffectB10Desc=Vyvoláš mrtvé, nechť ti slouží. Nicméně nekrotické energie potřebné pro tento rituál jsou velmi nestabilní a tak budou neživí spojenci živi pouze po omezený čas. ^oMrtví sílí spolu se zvyšujícími se bonusy pro spojence.
 tagDevotionEffectB10_Pet01=Útok zblízka
@@ -2671,7 +2671,7 @@ tagDevotionEffectB17Desc=Tvůj štít se stane bariérou proti prvkům magie.
 tagDevotionEffectB18=Jedovatá sprška
 tagDevotionEffectB18Desc=Mantikoří osten projde skrze zbroj nepřítele, za níž rozpráší kapičky leptavého jedu.
 tagDevotionEffectB20=Válečný posel
-tagDevotionEffectB20Desc=Carry on your message of conquest, rebuking any foe daring enough to try and stop you.
+tagDevotionEffectB20Desc=Roznes tvoji zprávu o dobytí a pokárej kohokoliv, kdo bude dost troufalý na to se pokusit tě zastavit.
 tagDevotionEffectB28=Krev obra
 tagDevotionEffectB28Desc=V žilách ti začne putovat krev obra, přinášející zlepšenou regeneraci a uzdravování.
 tagDevotionEffectB29=Nezvladatelná duše
