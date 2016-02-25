@@ -67,7 +67,7 @@ tagWeaponSwordD002Desc="Soladrinova krystalická čepel se hemží nevyužitou s
 tagWeaponSwordD003=Chmurná zhouba
 tagWeaponSwordD004=Bořič mysli
 tagWeaponSwordD005=Beronath, znovu skutý
-tagWeaponSwordD005Desc="Zabiják Beronatha, kdysi zlomený, konečně znovu skutý."
+tagWeaponSwordD005Desc="Zabiják Beronatha, kdysi zlomený, konečně znovu skutý jako mocná zbraň."
 tagWeaponSwordD006=Píseň krve
 tagWeaponSwordD007=Nex
 tagWeaponSwordD007Desc="Při pohledu na tento nůž pociťuješ vlastní smrtelnost."
@@ -165,6 +165,7 @@ tagWeaponAxeB002=[fs]přízračná bitevní sekera
 tagWeaponAxeB003=[fs]sekera mistra jámy
 tagWeaponAxeB004=[fs]kostěný sekáček
 tagWeaponAxeB005=[fs]kostěná kosa
+tagWeaponAxeB006=[fs]Olmanova sekera
 
 tagWeaponAxeC001=Surové ostří
 tagWeaponAxeC002=Žencův dotek
@@ -185,7 +186,7 @@ tagWeaponAxeC012=Znesvětitel mrtvol
 tagWeaponAxeC013=Chonag'Ri
 tagWeaponAxeC013Desc="Šamanská sekyra skládající se z různých neidentifikovatelných lidských a zvířecích kostí."
 tagWeaponAxeC014=Asterkarnský sekáček
-tagWeaponAxeC015=Pekelný plátkovač
+tagWeaponAxeC015=Pekelný dráp
 
 tagWeaponAxeD001=Burrwitchský řezník
 tagWeaponAxeD001Desc="Ztělesnění šílenství a zvrácenosti, které přemohlo lid Cairnu ihned po Ponurém úsvitu."
@@ -217,6 +218,7 @@ tagWeaponGun1hB002=[ms]ruční minomet
 tagWeaponGun1hB003=[fs]šrapnelová pistole
 tagWeaponGun1hB004=[fs]krvepřísežníkova pistole
 tagWeaponGun1hB005=[fs]krvepřísežníkova opakovací puška
+tagWeaponGun1hB006=[ns]Francisovo dělo
 
 tagWeaponGun1hC001=Ruční dělo Leandera Greena
 tagWeaponGun1hC001Desc="Vzato z ledových mrtvých rukou Černovodého bandity."
@@ -227,6 +229,7 @@ tagWeaponGun1hC003Desc="Starý kněz se nestal známým pro své mírové rozhov
 tagWeaponGun1hC004=Záškodníkova zuřivost
 tagWeaponGun1hC005=Záškodníkova spravedlnost
 tagWeaponGun1hC006=Ranař
+tagWeaponGun1hC006B=Ranař
 tagWeaponGun1hC007=Revolver 3. roty
 tagWeaponGun1hC007Desc="Na hlavni je napsáno jediné slovo: Oddanost."
 tagWeaponGun1hC008=Vzpoura
@@ -283,13 +286,16 @@ tagWeaponGun2hB004=[fs]masorvoucí puška
 tagWeaponGun2hB005=[fs]masorvoucí karabina
 
 tagWeaponGun2hC001=Lovec
+tagWeaponGun2hC001B=Lovec
 tagWeaponGun2hC002=Oko
+tagWeaponGun2hC002B=Oko
 tagWeaponGun2hC002Desc="Jeden výstřel, jeden mrtvý."
 tagWeaponGun2hC003=Brokovnice ze chřtánu pekla
 tagWeaponGun2hC004=Ďáblova značka
 tagWeaponGun2hC005=Vůle osudu
 tagWeaponGun2hC005Desc="Každá kulka je předurčena setkat se s jejím pravým cílem, bez ohledu na to, kdo stojí v cestě."
 tagWeaponGun2hC006=Šarlatový střelec
+tagWeaponGun2hC006B=Šarlatový střelec
 tagWeaponGun2hC007=Solná střílna
 tagWeaponGun2hC007Desc="Nesourodě pospojovaná zbraň navržená k likvidaci Aetherianů."
 tagWeaponGun2hC008=Nositel hněvu
@@ -331,6 +337,7 @@ tagWeaponCrossbow2hC004Desc="Vyroben použitím dřeva z lesa nedaleka Černoles
 tagWeaponCrossbow2hC005=Mrazem bodající dech
 tagWeaponCrossbow2hC006=Vrhač tyčí
 tagWeaponCrossbow2hC007=Pavoučí objetí
+tagWeaponCrossbow2hC007B=Pavoučí objetí
 tagWeaponCrossbow2hC008=Bysmielův mizerný sochor
 tagWeaponCrossbow2hC008Desc="Symbolická zbraň oddaných stoupenců Bysmiela."
 tagWeaponCrossbow2hC009=Ulda'Jax
@@ -377,6 +384,7 @@ tagWeaponMelee2hB009=[fs]přízračná válečná palice
 tagWeaponMelee2hB010=[fs]Archónova válečná palice
 tagWeaponMelee2hB011=[ms]obsidiánový půlič hlav
 tagWeaponMelee2hB012=[ms]obsidiánový válečný oddělovač
+tagWeaponMelee2hB013=[ms]Hevillův velký meč
 
 tagWeaponMelee2hC001=Vykuchávající škubač střev
 tagWeaponMelee2hC002=Masakr
@@ -385,12 +393,14 @@ tagWeaponMelee2hC003Desc="Svůj název získal pro nespočet rozpůlených ohavn
 tagWeaponMelee2hC004=Sokolí dráp
 tagWeaponMelee2hC005=Záchvěv
 tagWeaponMelee2hC006=Usměrňovač
+tagWeaponMelee2hC006B=Usměrňovač
 tagWeaponMelee2hC006Desc="Vzácný úspěch vzejitý z experimentování s tajemnými kovářskými technikami."
 tagWeaponMelee2hC007=Rozdírač zbytků kostí
 tagWeaponMelee2hC008=Palice z golemovy pěsti
 tagWeaponMelee2hC009=Čepel hněvu
 tagWeaponMelee2hC010=Dvorní osvoboditel
-tagWeaponMelee2hC010Desc="Historická zbraň z Farmsteadského povstání, nemilosrdně rozdrceného císařskou armádou."
+tagWeaponMelee2hC010B=Dvorní osvoboditel
+tagWeaponMelee2hC010Desc="Historická zbraň z povstání rolníků, nemilosrdně rozdrceného císařskou armádou."
 tagWeaponMelee2hC011=Alvarickovo pokárání
 tagWeaponMelee2hC012=Prizmatický kuchač
 tagWeaponMelee2hC013=Ostrohraná kůsa
@@ -461,6 +471,7 @@ tagWeaponCaster1hB010=[ms]kreverakův dráp
 tagWeaponCaster1hB011=[ms]kreverakův plátkovač
 tagWeaponCaster1hB012=[fs]krvepřísežníkova hůlka
 tagWeaponCaster1hB013=[ns]krvepřísežníkovo žezlo
+tagWeaponCaster1hB014=[ms]Loxmerův mrazobol
 
 tagWeaponCaster1hC001=Spalující nenávist
 tagWeaponCaster1hC002=Hůlka kouzelného ohně
@@ -565,6 +576,8 @@ tagShieldB008=[fs]troglodytova kostěná zeď
 tagShieldB009=[fs]upírova kostěná zeď
 tagShieldB010=[fs]obsidiánová stráž
 tagShieldB011=[fs]obsidiánová hradba
+tagShieldB012=[ms]masorvoucí štít
+tagShieldB013=[fs]masorvoucí hradba
 
 tagShieldC001=Obránce Ďáblova průsmyku
 tagShieldC002=Hradba požírače duchů
@@ -596,7 +609,7 @@ tagShieldD002=Konečná zastávka
 tagShieldD002Desc="Kovaný staviteli železnice v zoufalém boji s rozrůstající se Chthonskou armádou."
 tagShieldD003=Nedotknutelný
 tagShieldD004=Budoucnost Živých
-tagShieldD004Desc="Dříve Císařův erb, byl tento štít prohnán Chthonským plamenem, aby se stal ideálem lidského druhu."
+tagShieldD004Desc="Dříve Císařův erb, byl tento štít prohnán Aetherickým ohněm, aby se stal ideálem lidského druhu."
 tagShieldD005=Nebeská hradba
 tagShieldD006=Proražeč
 tagShieldD007=Zolhanova pomsta
@@ -904,7 +917,7 @@ tagHeadC013=Sláva Stříbrného rytíře
 tagHeadC014=Hrůza z hájů
 tagHeadC014Desc="Vyjmuta z kůže starodávného Trnitého děsu."
 tagHeadC015=Čelenka přadleny duší
-tagHeadC016=Vyvrhelova kapuce
+tagHeadC016=Kapuce nočního stínu
 tagHeadC017=Maska herolda
 tagHeadC018=Zhoubný chránič obličeje
 tagHeadC019=Kápě slepého zabijáka
@@ -946,6 +959,7 @@ tagHeadD018=Koruna Zimního krále
 tagheadD018Desc="Koruna krále Hrothnara, vládce severních držav a syn velkého bílého vlka."
 tagHeadD019=Trozanův kapalec
 tagHeadD020=Valdunův kapalec
+tagHeadD021=Vyvrhelovo tajemství
 
 tagHeadF001=Vyvrhelova kapuce
 tagHeadF001Desc="Nemůžeš si pomoci, ale máš dojem, že ta maska na tebe zírá."
@@ -1402,7 +1416,8 @@ tagFeetC004=Kamenem tepané zemědrtiče
 tagFeetC005=Cestovatelovy opánky
 tagFeetC006=Pohorky krvavého psa
 tagFeetC007=Poslední pochod
-tagFeetC007Desc="Každý krok nese váhu tisíce vojáků, kteří ztratili svůj život v boji proti Chthonským jednotkám."
+tagFeetC007B=Poslední pochod
+tagFeetC007Desc="Každý krok nese váhu tisíce vojáků, kteří ztratili svůj život v boji proti chthonským jednotkám."
 tagFeetC008=Štvoucí kožené boty
 tagFeetC008Desc="Bestie jsou k ničemu, ale vyrábějí se z nich vynikající boty."
 tagFeetC009=Návleky neohroženosti
@@ -1464,6 +1479,8 @@ tagRingB004=Gollův prsten
 tagRingB004Desc="Tenhle prsten měl opravdu rád."
 tagRingB005=Krvepřísežníkova pečeť
 tagRingB005Desc="Drahokam zářící během vyvolávacích rituálů."
+tagRingB006=Vilothin prsten
+tagRingB006Desc="Uměle vytvořený módní doplněk. Je trochu s podivem, že takovou věc u sebe nosí slith."
 
 tagRingC001=Morkový kroužek
 tagRingC002=Obsidiánový pečetní prsten
@@ -2324,6 +2341,14 @@ tagDLCA01=Iluze: Prachová paruka
 tagDLCA01Desc="Definice kultivovanosti a stylu"
 tagDLCA02=Iluze: Hulvátův kabát
 tagDLCA02Desc="Preferovaný výběr každého dobrodruha."
+tagDLCA03=Mecenášova sláva
+tagDLCA03Desc="Recognition for the most dedicated of backers."
+tagDLCA04=Medaile úslužnosti Kickstarteru
+tagDLCA04Desc="Vojenská insignie z velké Kickstarterské války roku 2012."
+tagDLCA05=Veteránská medaile Kickstarteru
+tagDLCA05Desc="Veteránská insignie z velké Kickstarterské války roku 2012."
+tagDLCA06=Důstojná medaile Kickstarteru
+tagDLCA06Desc="Důstojná insignie z velké Kickstarterské války roku 2012."
 tagDLCConsumableA01=Polapená bludička
 tagDLCConsumableA01Desc="Neškodný duch uvězněný ve sklenici"
 tagDLCConsumableA01PetSkill01=Aura pramene
@@ -3180,7 +3205,7 @@ tagCompB013Name=^kStrašidelná ocel
 tagCompB013Desc="Naplňuje tvou mysl nesnesitelným šepotem uvězněných přízraků."^w^n(může vylepšit všechny zbraně, štíty a kouzelnické příruční předměty)
 
 tagCompB014Name=^kBeronathův úlomek
-tagCompB014Desc="Kousek legendárního Beronathova nože, který si stále zachovává své ostří."^w^n(může vylepšit chladné zbraně)
+tagCompB014Desc="Kousek legendárního kopí, kterým byl poražen Beronath, si stále zachovává své ostří."^w^n(může vylepšit chladné zbraně)
 
 tagCompB015Name=^kKrvavý brousek
 tagCompB015Desc="Namočený v krvi padlých dává tento prokletý brousek čepelím touhu po krvi."^w^n(může vylepšit sekyry a meče)
@@ -3341,7 +3366,6 @@ tagItemSetC001NameB=Mírotvůrcovo roucho
 tagItemSetC001Desc="Kdysi bylo běžným vybavením mírotvůrců a královských stráží. Ale pouze pár kousků této výbavy přečkalo Ponurý úsvit."
 
 tagItemSetC002Name=Cestovatelův oděv
-tagItemSetC002NameB=Cestovatelův háv
 tagItemSetC002Desc="Lehká, ale odolná zbroj pro dychtivého cestovatele."
 
 tagItemSetC003Name=Maivenino útočiště
@@ -3491,7 +3515,6 @@ tagItemSetD018Desc="Trozan studoval v ústraní hvězdy a naučil se využívat 
 
 tagItemSetD019Name=Valdunova zrada
 tagItemSetD019Desc="Valdun byl jedním z nejlepších střelců v celém Cairnu, dokud neobrátil hlaveň proti erulanské šlechtě, čímž se stal vpravdě nechvalně známým."
-
 
 #Prefixes
 
@@ -3852,6 +3875,9 @@ tagSuffixB064_Ar_A=ctěné stráže
 tagSuffixB065_Ar_A=tajemných myšlenek
 tagSuffixB066_Ar_A=aetherických bouří
 tagSuffixB067_Ar_A=temného úmyslu
+tagSuffixB068_Ar_A=bojové zuřivosti
+tagSuffixB069_Ar_A=tajemné moci
+tagSuffixB070_Ar_A=kamenných pěstí
 
 tagSuffixB001_Sh_A=pevnosti
 tagSuffixB002_Sh_A=statečnosti
@@ -3963,7 +3989,13 @@ tagChestHeroD07=Shluk obsidiánů
 tagChestHeroD08=Obsidiánový poklad
 tagChestHeroD09=Obsidianové bohatství
 tagChestHeroD10=Loghorreanův poklad
+tagChestHeroD11=Edmundova skrýš
 tagChestNemesis01=Poklad božského hrdiny
+tagChestNemesis02=Poklad klonu
+
+tagChestSecret01=Ukrytá kořist
+tagChestSecret02=Ukryté ostatky
+tagChestSecret03=Ukrytý poklad
 
 tagBreakableA01=Sud
 tagBreakableA02=Bedna
@@ -4001,6 +4033,8 @@ tagChestOneShot_HiddenWealth=Ukryté bohatství
 
 #Interactive Objects
 tagShrineConstitutionA01=Nedotčené jídlo
+tagShrineBossLocked= {^R} ~ střeženo mocným nepřítelem
+tagShrineMogdrogenLocked= {^R} ~ střeženo chthonickými energiemi
 
 #Breakables
 
@@ -4066,6 +4100,9 @@ tagQuestItemBrothersAmuletDesc="Pro mého drahého bratra: Nechť ti tento amule
 tagQuestItemSlithRing=Slithův prvotní prsten
 tagQuestItemSlithRingDesc="Zápach po prstenu přetrvává a zdá se, že jen tak nevyčichne."
 
+tagItemTest=Panďulák
+tagItemTestDesc="Nejlepší je na něm to oblečení."
+
 #Equipment Locations
 
 tagSlotLeftHand= (levá ruka)
@@ -4082,4 +4119,4 @@ tagSlotFeet= (chodidla)
 tagSlotWaist= (pas)
 tagSlotRelic= (relikvie)
 tagSlotMedal= (medaile)
-tagSlotUnknown= (neznámé)
+tagSlotUnknown= (nenasazeno)
