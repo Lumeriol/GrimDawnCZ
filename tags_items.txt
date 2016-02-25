@@ -326,6 +326,7 @@ tagWeaponCrossbow2hA004=[ms]šípomet
 
 tagWeaponCrossbow2hB001=[fs]přízračná kuše
 tagWeaponCrossbow2hB002=[ms]přízračný samostříl
+tagWeaponCrossbow2hB003=[fs]Ghavlinova kuše
 
 tagWeaponCrossbow2hC001=Šipkomet
 tagWeaponCrossbow2hC001Desc="Prototyp zbraně. Bohužel její vynálezce byl zabit dříve než mohla být zahájena hromadná výroba."
@@ -472,6 +473,7 @@ tagWeaponCaster1hB011=[ms]kreverakův plátkovač
 tagWeaponCaster1hB012=[fs]krvepřísežníkova hůlka
 tagWeaponCaster1hB013=[ns]krvepřísežníkovo žezlo
 tagWeaponCaster1hB014=[ms]Loxmerův mrazobol
+tagWeaponCaster1hB015=[ms]Slithův jazyk
 
 tagWeaponCaster1hC001=Spalující nenávist
 tagWeaponCaster1hC002=Hůlka kouzelného ohně
@@ -578,6 +580,7 @@ tagShieldB010=[fs]obsidiánová stráž
 tagShieldB011=[fs]obsidiánová hradba
 tagShieldB012=[ms]masorvoucí štít
 tagShieldB013=[fs]masorvoucí hradba
+tagShieldB014=[ms]Bernardův lehce ohlodaný štít
 
 tagShieldC001=Obránce Ďáblova průsmyku
 tagShieldC002=Hradba požírače duchů
@@ -683,6 +686,7 @@ tagFocusB021=groblova smrtící podobizna
 tagFocusB022=šmírákovo oko
 tagFocusB023=vševidoucí oko
 tagFocusB023_Desc="Oko se ve tvých rukách stále zmítá."
+tagFocusB024=Karvořina čarovná kůstka
 
 tagFocusC001=Demence
 tagFocusC002=Zdrcující vůle
