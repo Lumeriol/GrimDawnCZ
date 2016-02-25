@@ -17,13 +17,13 @@ ach002Title=Zabiják hrdinů
 ach002Desc=Zlikviduj 100 hrdinů (jsou označeni hvězdou).
 
 ach003Title=Legendární zabiják
-ach003Desc=Zlikviduj 1000 hrdinů (jsou označeni hvězdou).
+ach003Desc=Zlikviduj 1.000 hrdinů (jsou označeni hvězdou).
 
 ach004Title=Mstitel
-ach004Desc=Zabij Mstitele na elitní nebo ultimátní obtížnosti.
+ach004Desc=Zabij Mstitele na elitní nebo Ultimátní obtížnosti.
 
 ach005Title=Nezastavitelný
-ach005Desc=Zabij šest Mstitelů na elitní nebo ultimátní obtížnosti.
+ach005Desc=Zabij šest Mstitelů na elitní nebo Ultimátní obtížnosti.
 
 ach006Title=Očista světa
 ach006Desc=Zbav Cairn 25.000 příšer.
@@ -37,26 +37,26 @@ ach008Desc=Zbav Cairn 1.000.000 příšer.
 ach009Title=Přátelé v apokalypse
 ach009Desc=Získej si přízeň některé frakce.
 
-ach010Title=Vzor Cairnu
+ach010Title=Vzor pro Cairn
 ach010Desc=Získej si přízeň šesti frakcí.
 
 ach011Title=Služebník Empyrionův
 ach011Desc=Získej si přízeň Kymonových vyvolených.
 
-ach012Title=Uroboruukův následovník
+ach012Title=Uroboruukův následník
 ach012Desc=Získej si přízeň Řádu Strážců smrti.
 
 ach013Title=Konec neřesti
 ach013Desc=Zlikviduj Salazara, čepel Ch'thona ve Svatyni neřesti.
 
 ach014Title=Znič Čepel Ch'thona
-ach014Desc=Zlikviduj Salazara, čepel Ch'thona ve Svatyni neřesti na ultimátní obtížnosti.
+ach014Desc=Zlikviduj Salazara, čepel Ch'thona ve Svatyni neřesti na Ultimátní obtížnosti.
 
 ach015Title=Poprava popravčího
 ach015Desc=Zlikviduj Alkamose, vykonavatele spravedlnosti ve Stupních bolesti.
 
 ach016Title=Konec bolesti
-ach016Desc=Zlikviduj Alkamose, vykonavatele spravedlnosti ve Stupních bolesti na ultimátní obtížnosti.
+ach016Desc=Zlikviduj Alkamose, vykonavatele spravedlnosti ve Stupních bolesti na Ultimátní obtížnosti.
 
 ach017Title=Nesmrtelný popravčí
 ach017Desc=Zlikviduj Alkamose, vykonavatele spravedlnosti ve Stupních bolesti ve Výzvě.
@@ -77,13 +77,13 @@ ach022Title=Vyčištění Požářiště
 ach022Desc=Zlikviduj Plamenného posla v Požářišti.
 
 ach023Title=Netřeba se bát ohýnku
-ach023Desc=Zlikviduj Plamenného posla v Požářišti na ultimátní obtížnosti.
+ach023Desc=Zlikviduj Plamenného posla v Požářišti na Ultimátní obtížnosti.
 
 ach024Title=Vykuchání Střevního červa
 ach024Desc=Zlikviduj Střevního červa v Pašerácké kotlině.
 
 ach025Title=Měl jsi střeva
-ach025Desc=Zlikviduj Střevního červa v Pašerácké kotlině na ultimátní obtížnosti.
+ach025Desc=Zlikviduj Střevního červa v Pašerácké kotlině na Ultimátní obtížnosti.
 
 ach026Title=Drátenictví je její specialita
 ach026Desc=Zachraň Darlet ve vesnici Burrwitch.
@@ -137,10 +137,10 @@ ach042Title=Legenda
 ach042Desc=Dosáhni 85. úrovně.
 
 ach043Title=Nesmrtelná legenda
-ach043Desc=Dosáhni 85. úrovně vve Výzvě.
+ach043Desc=Dosáhni 85. úrovně ve Výzvě.
 
 ach044Title=Spasitel Cairnu
-ach044Desc=Dokonči hru na ultimátní obtížnost.
+ach044Desc=Dokonči hru na Ultimátní obtížnost.
 
 ach045Title=Nesmrtelný spasitel
 ach045Desc=Dokonči hru na ultimátní obtížnost ve Výzvě.

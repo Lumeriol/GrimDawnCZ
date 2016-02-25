@@ -33,7 +33,7 @@ tagZealot_RangedA01=Střelecký zélóta Kymonových Vyvolených
 tagZealot_CasterB01=Pán bouří Kymonových Vyvolených
 tagZealot_ChampionC01=Ostrá panna Kymonových Vyvolených
 tagZealotH01=Sestra Oseltia, bouřná panna
-tagZealotH02=Bratr Baldris, Empyrionův dobíječ
+tagZealotH02=Bratr Baldris, Empyrionův neurvalec
 tagZealotH03=Sestra Thandria ~ obránkyně
 tagZealotH04=Bratr Handrick ~ spalující
 tagZealot_Boss01=Sestra Bravna, narušitelka nebes
@@ -278,7 +278,7 @@ tagEnemyGolemRockMiniBoss01=Pradávný strážce lesa
 tagGolemRockHeroH01=Kamenolam
 tagGolemRockHeroH02=Haldras, vrhač plamenů
 tagGolemRockHeroH03=Zkamenělé srdce ~ zrcadlící
-tagGolemRockHeroH04=Kamenný mlejn ~ dobíječ
+tagGolemRockHeroH04=Kamenný mlejn ~ neurvalec
 tagGolemRockHeroH05=Zmrzlý kámen ~ zmrzlý
 tagGolemRockHeroH06=Dutý kámen ~ dotčený Prázdnotou
 
@@ -425,7 +425,7 @@ tagHumanHeroH05=Serul, zpěvák ve stínech
 tagHumanHeroH06=Wiley Mrskač ~ rychlý
 tagHumanHeroH07=Krvavý pes Everett ~ planoucí
 tagHumanHeroH08=Jednooký Dred
-tagHumanHeroH09=Meric, Aetherem dotčený ~ dobíječ
+tagHumanHeroH09=Meric, Aetherem dotčený ~ neurvalec
 tagHumanHeroH10=Eldon "Hadí kůže" ~ oživovač
 
 tagHumanBoss01="Zazobanec" Martin
@@ -550,7 +550,7 @@ tagObsidianDefilerHeroH01=Obsidius, titán
 tagObsidianDefilerHeroH02=Ch'thallis, uchvatitel
 tagObsidianDefilerHeroH03=Kelphat'Idoth ~ elektrizující
 tagObsidianDefilerHeroH04=Orudin'Idoth ~ zmrzlý
-tagObsidianDefilerHeroH05=Drygol'Ukog ~ dobíječ
+tagObsidianDefilerHeroH05=Drygol'Ukog ~ neurvalec
 
 tagObsidianDefilerBoss01=Bane'Gargoth
 
