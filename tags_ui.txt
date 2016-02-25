@@ -67,7 +67,7 @@ tagRiftGateMapA01=Cairn
 tagQuests=Aktivní úkoly
 tagQuestLogNameNumber={%t0} ({%d1})
 tagQuestJournalNoQuests=Žádné úkoly
-tagQuestJournalNoComplete=Žádné dokončené úkolyNo Completed Quests
+tagQuestJournalNoComplete=Žádné dokončené úkoly
 tagQuestIncentives=Pobídky:
 tagQuestObjectives=Cíle:
 tagQuestRewards=Odměny:
@@ -169,7 +169,7 @@ tagFactionOutlawsRewards6=-
 tagFactionOutlawsRewards7=-
 tagFactionOutlawsRewards8=-
 tagFactionBeasts=Bestie
-tagFactionBeastsInfo=Bestie budou pořád bestie
+tagFactionBeastsInfo=Zvířata budou pořád zvířata
 tagFactionUser0=Tuláci
 tagFactionUser0Info=Stanoviště: Stará Arkovia {^n}{^n}Rhowari, nebo takzvaní Tuláci, jak jsou běžně nazýváni, je skupina lidí bez trvalého domova. Pro ně jsou otevřené cesty jejich jediné domovy, které kdy budou potřebovat, cestujíc po světě Cairnu svou celoživotní pouť a očišťujíc sebe sama od všech světských pokušení a zkažeností civilizace. Mnohé z jejich historie je na věky ztraceno, a většina lidských kultur je považuje za něco více než tuláky a drobné zlodějíčky. {^n}{^n} Tulákům se hnusí násilí a snaží se mu vyhnout za každou cenu, což často vede ke zneužívání těmi, kteří násilí upřednostňují.
 tagFactionUser0Rewards1=-
@@ -359,7 +359,7 @@ tagFactionReputationBounties=Odměny{^n}
 tagFactionReputationQuests=Úkoly{^n}
 tagFactionDiscountPositive=Sleva z ceny zboží frakčního obchodníka: {^r}{%.0f0}% {^g}
 tagFactionDiscountNegative=Sleva z ceny zboží frakčního obchodníka: {^g}{%.0f0}% {^g}
-tagFactionDiscountZero=Získáš {^s}{%.0f0}% {^w}frakčních bodů
+tagFactionDiscountZero=Sleva z ceny zboží u frakčního obchodníka: {^s}{%.0f0}% {^w}
 tagFactionProgress=Potřebuješ ještě {^b}{%d1} {^w}bodů na úroveň přízně "{^b}{%s0}{^w}".
 tagFactionKillingGain=Přízeň získáš za vyvražďování frakce
 tagFactionKillingLoss=Nepřízeň si vysloužíš za vyvražďování frakce
@@ -405,12 +405,12 @@ tagSkillUnusableConfiguration=Dovednost vyžaduje vybavení
 tagSkillUnusableNotLearned=Tuto dovednost neovládáš
 
 tagHUD_Riftgate=Rozerve Bránu na titěrné části a ty pak budeš moci vyjít ven skrze jinou známou bránu.
-tagHUD_EmptySlot_R=Prázdný rychlý panel
+tagHUD_EmptySlot_R=Prázdná lišta dovedností
 tagHUD_EmptySlot_R1=Pravým kliknutím přiřaď dovednost.
 tagHUD_LeftMouse_R=Akce na levém tlačítku myši
-tagHUD_LeftMouse_R1=Tohle je tvůj primární útok. Pravým kliknutím myši přiřaď jinou dovednost.
+tagHUD_LeftMouse_R1=Toto je tvůj primární útok. Pravým kliknutím myši přiřaď jinou dovednost.
 tagHUD_RightMouse_R=Akce na pravém tlačítku myši
-tagHUD_RightMouse_R1=Tohle je tvůj sekundární útok. Pravým kliknutím myši přiřaď jinou dovednost.
+tagHUD_RightMouse_R1=Toto je tvůj sekundární útok. Pravým kliknutím myši přiřaď jinou dovednost.
 tagHUD_CompassToggleName=Přepínač kompasové mapy
 tagHUD_CompassToggleDescription=Kliknutím změníš velikost nebo pozici kompasové mapy.
 tagHUD_LootModeToggleOff=Automatické zobrazování předmětů ^D(vypnuto)
@@ -428,7 +428,7 @@ tagHUD_RightMouse=P
 tagHUDPortraitLevelUP=Nová úroveň
 tagHUDWeaponSwap=Přehození zbraní
 tagHUDWeaponSwapRoll=Přepíná mezi tvou výzbrojí. Musíš být vyzbrojen sadou zbraní na alternativním slotu.
-tagHUDWeaponSwapHelpRoll=Dříve než budeš moci použít přehození zbraní, musíš se vyzbrojit druhou sadou zbraní do alternativních slotů v okně postavy.
+tagHUDWeaponSwapHelpRoll=Dříve než budeš moci použít přehození zbraní, musíš se vyzbrojit druhou sadou zbraní do alternativních slotů v přehledu postavy.
 
 tagHUDRiftgateButton=Cestování Branou
 tagHUDRiftgateButtonRoll=Rozerve vzduch a vytvoří malý vstup do Brány s východem v některém z dříve objevených Bran, nebo můžeš vyjít v některých z Bran tvého spojence.
@@ -439,7 +439,7 @@ tagHUDQuickslotLM=Akce na levém tlačítku myši
 tagHUDQuickslotLMRoll=Hlavní útok. Pravým tlačítkem myši přiřaď dovednost.
 tagHUDQuickslotRM=Akce na pravém tlačítku myši
 tagHUDQuickslotRMRoll=Vedlejší útok. Pravým tlačítkem myši přiřaď dovednost.
-tagHUDQuickslotBarSwap=Přepnout na druhý panel rychlých voleb.
+tagHUDQuickslotBarSwap=Přepnout na druhou lištu dovedností.
 
 tagHUDButtonCharacter=Přehled postavy
 tagHUDButtonSkills=Přehled dovedností
@@ -468,7 +468,7 @@ tagSkillUndoPoints=Vrátit body
 tagSkillClassSelect=Vybrat povolání
 tagCurrentLevel=Současná úroveň: {%d0}
 tagNextLevel=Další úroveň: {%d0}
-tagSkillClassSelectInfo=Vyber si povolání své postavy{^n}{^n} Jakmile si některé vybereš a zavřeš okno s dovednostmi, bude tvůj výběr trvalý.
+tagSkillClassSelectInfo=Vyber si povolání své postavy{^n}{^n} Jakmile si některé vybereš a zavřeš přehled dovedností, bude tvůj výběr trvalý.
 tagSkillReq01=Vyžaduje dalších {%d0} bodů v povolání {%s1}.
 tagSkillReq01Singular=Vyžaduje ještě {%d0} bod v povolání {%s1}.
 tagSkillReq02=Vyžaduje dalších {%d0} bodů v povolání {%s1} a dovednost {%s2}.
@@ -504,7 +504,7 @@ tagStatsResistance08Desc=Odolnost vůči ovládnutí mysli Aetherem a vůči ča
 tagStatsResistance09=Omráčení
 tagStatsResistance09Desc=Snižuje dobu trvání omračujících útoků a kouzel, po kterou nemůžeš reagovat na ostatní podněty.
 tagStatsResistance10=Chaos
-tagStatsResistance10Desc=Odolnost vůči zranění chaosem, způsobeným nestabilními energiemi samotného Vesmíru, které obvykle používají Ch'thonské bytosti.
+tagStatsResistance10Desc=Odolnost vůči zranění chaosem, způsobeným nestabilními energiemi samotného Vesmíru, které obvykle používají chthonské bytosti.
 tagStatsResistance11=Sražení
 tagStatsResistance11Desc=Odolnost vůči sražení.
 tagStatsResistance12=Ochromení
@@ -841,31 +841,31 @@ tagCharStatsPetDA=Obranná schopnost
 tagCharStatsPetDAInfo=Procentuální bonus k obranné schopnosti tvých spojenců a vyvolaných příšer.
 
 tagCharStatsPetFireResist=Odolnost vůči ohni
-tagCharStatsPetFireResistInfo=The percent bonus to the Fire Resistance of your pets and summoned minions.
+tagCharStatsPetFireResistInfo=Procentuální bonus tvých spojenců a vyvolaných příšer k odolnosti vůči ohni.
 
 tagCharStatsPetColdResist=Odolnost vůči mrazu
-tagCharStatsPetColdResistInfo=The percent bonus to the Cold Resistance of your pets and summoned minions.
+tagCharStatsPetColdResistInfo=Procentuální bonus tvých spojenců a vyvolaných příšer k odolnosti vůči mrazu.
 
 tagCharStatsPetLightningResist=Odolnost vůči bleskům
-tagCharStatsPetLightningResistInfo=The percent bonus to the Lightning Resistance of your pets and summoned minions.
+tagCharStatsPetLightningResistInfo=Procentuální bonus tvých spojenců a vyvolaných příšer k odolnosti vůči bleskům.
 
 tagCharStatsPetPoisonResist=Odolnost vůči jedům
-tagCharStatsPetPoisonResistInfo=The percent bonus to the Poison/Acid Resistance of your pets and summoned minions.
+tagCharStatsPetPoisonResistInfo=Procentuální bonus tvých spojenců a vyvolaných příšer k odolnosti vůči jedům a kyselinám.
 
 tagCharStatsPetPierceResist=Odolnost vůči probodnutí
-tagCharStatsPetPierceResistInfo=The percent bonus to the Pierce Resistance of your pets and summoned minions.
+tagCharStatsPetPierceResistInfo=Procentuální bonus tvých spojenců a vyvolaných příšer k odolnosti vůči probodnutí.
 
 tagCharStatsPetBleedResist=Odolnost vůči krvácení
-tagCharStatsPetBleedResistInfo=The percent bonus to the Bleeding Resistance of your pets and summoned minions.
+tagCharStatsPetBleedResistInfo=Procentuální bonus tvých spojenců a vyvolaných příšer k odolnosti vůči krvácení.
 
 tagCharStatsPetVitalityResist=Odolnost vůči ztrátě životní energie
-tagCharStatsPetVitalityResistInfo=The percent bonus to the Vitality Resistance of your pets and summoned minions.
+tagCharStatsPetVitalityResistInfo=Procentuální bonus tvých spojenců a vyvolaných příšer k odolnosti vůči ztrátě životní energie.
 
 tagCharStatsPetAetherResist=Odolnost vůči Aetheru
-tagCharStatsPetAetherResistInfo=The percent bonus to the Aether Resistance of your pets and summoned minions.
+tagCharStatsPetAetherResistInfo=Procentuální bonus tvých spojenců a vyvolaných příšer k odolnosti vůči Aetheru.
 
 tagCharStatsPetChaosResist=Odolnost vůči Chaosu
-tagCharStatsPetChaosResistInfo=The percent bonus to the Chaos Resistance of your pets and summoned minions.
+tagCharStatsPetChaosResistInfo=Procentuální bonus tvých spojenců a vyvolaných příšer k odolnosti vůči Chaosu.
 
 #Char Stats Tab 3
 
@@ -1056,7 +1056,7 @@ tagFactionVendorTab04A=Poctěný
 tagFactionVendorTab04B=Frakční odměny odemčené pokud je frakce tebou zcela poctěna.
 
 tagVendorRolloverName=Prodejce předmětů
-tagVendorRolloverDescription=Obchodníci profitují z lidského neštěstí prodejem zachráněných nebo ukradených předmětů těm, kteří se odváží se vydat za hranice lidských pevností. Proto je lepší se raději nepídit po původu těchto předmětů.
+tagVendorRolloverDescription=Obchodníci profitují z lidského neštěstí prodejem zachráněných nebo ukradených předmětů těm, kteří se odváží vydat za hranice lidských pevností. Proto je lepší se raději nepídit po původu těchto předmětů.
 
 MarketCostAffordable={^g}Cena:  {%d0}
 MarketCostTooExpensive={^r}Cena:  {%d0} ~ nedostatek železných mincí
@@ -1106,7 +1106,7 @@ tagCraftingItemType02= ~ kompletní doplňky
 tagCraftingItemType03= ~ svitek
 tagCraftingItemType04= ~ výstroj
 
-tagCraftingButtonInfo=Sloučí předměty umístěné v Okně výroby. Toto tlačítko bude zvýrazněno jakmile budou přidány všechny požadované materiály.
+tagCraftingButtonInfo=Sloučí předměty umístěné v přehledu výroby. Toto tlačítko bude zvýrazněno jakmile budou přidány všechny požadované materiály.
 tagCraftingConfirmation=Opravdu chceš sloučit tyto předměty?
 
 tagCraftingDetatchmentInfo=
@@ -1918,7 +1918,7 @@ DefenseLightningModifier={^H}{%.0f0}% {^E}zvýšení současné odolnosti vůči
 DefenseLifeModifier={^H}{%.0f0}% {^E}zvýšení současné odolnosti vůči ztrátě životní energie
 DefenseChaosModifier={^H}{%.0f0}% {^E}zvýšení současné odolnosti vůči chaosu
 DefenseAetherModifier={^H}{%.0f0}% {^E}zvýšení odolnosti vůči Aetheru
-DefenseStunModifier={^H}{%.0f0}% {^E}zvýšení současné odolnosti vůči omráčen
+DefenseStunModifier={^H}{%.0f0}% {^E}zvýšení současné odolnosti vůči omráčení
 DefenseBlockModifier={^H}{%+.0f0}% {^E}zvýšení šance vykrytí štítem
 DefenseBlockAmountModifier={^H}{%+.0f0}% {^E}zranění vykryto štítem
 DefenseLifeLeachModifier={^H}{%.0f0}% {^E}zvýšení současné odolnosti vůči vysátí života
@@ -2047,7 +2047,7 @@ TagSpeakerSetup=Nastavení reproduktorů
 TagHeadphoneSpeakers=Sluchátka
 Tag41Speakers=4 reproduktory
 Tag51Speakers=5.1 reproduktorů
-TagKeybind40=Použít alternativní panel rychlých voleb
+TagKeybind40=Použít alternativní lištu dovedností
 tagKeybindUnassigned=Nepřiřazeno
 
 tagSelectPet1=Výběr 1. spojence
