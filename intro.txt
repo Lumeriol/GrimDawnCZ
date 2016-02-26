@@ -1,6 +1,6 @@
 12=Bourbon: Těžce jsme za to zaplatili. Bude ta past funkční?
 15=Sahdina: Vypadáš překvapeně.
-17=Bourbon: Už je to nějaká doba a my měli vyhrát. Jak dlouho ho to udrží?
+17=Bourbon: Už je to nějaká doba a my měli vyhrát. Jak dlouho to vydrží uvězněné?
 21=Sahdina: Nikdy jsem neuvěznila bytost podobnou této, ale drží to... aspoň zatím.
 26=Bourbon: A jak se toho zbavíme?
 28=Sahdina: Já jsem jenom čarodějka. Voják seš tady ty.
@@ -15,7 +15,7 @@
 65=Vaše rasa nám otevřela cestu a teď se můžeme vrátit a získat to, co nám dřív náleželo!
 72=Jarvis: Těch keců už mám dost, pověsíme to.
 85=Posedlá postava: Jen si zničte tohle tělo. Najdu si jiné.
-89=Cítím jejich touhy a emoce...
+89=Cítím vaše touhy a emoce...
 92=Vaše rasa je slabá. Tuhle válku už jste prohráli.
 98=Bourbon: Dělej!
 107=Sahdina: Kapitáne!              Bourbon: Odřízni to!
