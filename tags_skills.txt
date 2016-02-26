@@ -305,7 +305,7 @@ tagClass03SkillDescription04C=Obětuješ všechnu svoji obnovující sílu pro p
 tagClass03SkillName05A=Solaelův kouzelný oheň
 tagClass03SkillDescription05A=Ovládne podivnou Solaelovu sílu, což způsobí popálení nepřátel entropickou energií každým útokem zbraně. ^oAby tato schopnost účinkovala, musí být aktivní.
 tagClass03SkillName05B=Druhý obřad
-tagClass03SkillDescription05B=Prohlubuje Okultistovo spojení se skrytou sférou a umocňuje tak sílu kouzelného ohně natolik, že i ten nejmenší dotek pálí tajemnou podstatu tvých nepřátel.
+tagClass03SkillDescription05B=Prohlubuje Okultistovo spojení se skrytou sférou a umocňuje tak sílu kouzelného ohně natolik, že i ten nejmenší dotek pálí podstatu života tvých nepřátel.
 tagClass03SkillName05C=Posvěcený meč
 tagClass03SkillDescription05C=Pekelný oheň pozře tvoji zbraň a vytvoří z ní ohnisko chaotické síly.
 

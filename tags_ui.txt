@@ -858,7 +858,7 @@ tagCharStatsPetPierceResistInfo=Procentuální bonus tvých spojenců a vyvolan�
 tagCharStatsPetBleedResist=Odolnost vůči krvácení
 tagCharStatsPetBleedResistInfo=Procentuální bonus tvých spojenců a vyvolaných příšer k odolnosti vůči krvácení.
 
-tagCharStatsPetVitalityResist=Odolnost vůči ztrátě životní energie
+tagCharStatsPetVitalityResist=Odolnost vůči ztrátě živ. en.
 tagCharStatsPetVitalityResistInfo=Procentuální bonus tvých spojenců a vyvolaných příšer k odolnosti vůči ztrátě životní energie.
 
 tagCharStatsPetAetherResist=Odolnost vůči Aetheru
@@ -1288,6 +1288,8 @@ ExperienceDisplayFormat=Současné zkušenosti: {^y}{%d0}{^w} ~ Zkušenosti na d
 
 tagExpDisplayFormat=Současné zkušenosti: {^y}{%t0}{^w} ~ Zkušenosti do další úrovně: {^y}{%t1}
 
+tagCharPointsSpent=Rozdělených bodů:
+
 tagCharAttribute01={%+.0f0} {^E}rafinovanost
 tagCharAttribute02={%+.0f0} {^E}fyzická kondice
 tagCharAttribute03={%+.0f0} {^E}duchovno
@@ -1531,7 +1533,7 @@ SkillChargeLevelMod={%d0}%
 SkillChargeLevelMod2=, {%d0}%
 SkillChargeDuration=Trvání úrovně nabití
 SkillChargeFactorMod=zvyšuje za úroveň nabití
-SkillChargeMaxMod=Úrovně nabití:
+SkillChargeMaxMod=úrovní nabití:
 SkillChargeDurationMod=zvyšuje v trvání nabití
 SkillChanceWeight={%d0}% {^E}šance na použití
 SkillActivationChance={^E}šance na aktivování
