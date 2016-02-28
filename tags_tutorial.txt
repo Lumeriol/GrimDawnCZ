@@ -1,7 +1,7 @@
 #Loading Tips
 tagLoadingTip01={^g}Tip: {^w}Svou kořist můžeš filtrovat podle kvality (magická a lepší, vzácná a lepší, atd.) použitím tlačítka Filtru kořisti vlevo od lišty dovedností.
 tagLoadingTip02={^g}Tip: {^w}Pokud najdeš Svatyni oddanosti, která ještě není obnovena, bude její umístění označeno na mapě světa.
-tagLoadingTip03={^g}Tip: {^w}Nápovědu si můžeš kdykoliv zobrazit znovu v Přehledu kodexů, nebo pomocí klávesovoé zkratky (výchozí je H).
+tagLoadingTip03={^g}Tip: {^w}Nápovědu si můžeš kdykoliv zobrazit znovu v Přehledu kodexů, nebo pomocí klávesové zkratky (výchozí je H).
 tagLoadingTip04={^g}Tip: {^w}Za nepřátele, jejichž úroveň je o poznání menší než tvá, nezískáš žádné body zkušeností ani frakční přízeň.
 tagLoadingTip05={^g}Tip: {^w}Nezapomeň dávat body do svého povolání. Získáš tím body do základních vlastností, což ti umožní přežít a nosit lepší výbavu.
 tagLoadingTip06={^g}Tip: {^w}Navštiv www.GrimDawn.com pro zjištění nejnovějších informací, herních mechanismů nebo stažení nejnovější verze českého překladu.
