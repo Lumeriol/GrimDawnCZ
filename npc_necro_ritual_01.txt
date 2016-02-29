@@ -1,18 +1,19 @@
 Strážce duší Kaandris
-Doveď nás k velikosti, [[ms]bratře[fs]sestro].
+Doveď nás k velikému, [[ms]bratře[fs]sestro].
 Sbohem.
 [[ms]Prokázal[fs]Prokázala] jsi Řádu velkou službu.
 Co Malkadarr?
 Znovu začne se svými povinnostmi ve službách Knihovnice, aby byly jeho znalosti zachovány pro nastávající generace.
 Sbohem.
-Nemáš zač.
-[[ms]Neměl[fs]Neměla] by si zde být.
+Vítej.
+[[ms]Neměl[fs]Neměla] bys tady být.
 Dobrá, odcházím.
 Vše je na svém místě.{^n}{^n}Rituál bude vyžadovat mé úplné soustředění, takže zbývá na tobě udržet nemrtvé zatímco budu hledat Malakarra. Budu před jejich přítomností ochráněn, ale pokud zde nějaký duch přetrvá po dokončení rituálu, výsledky by mohly být katastrofické.{^n}{^n}Jsi [[ms]připraven[fs]připravena] začít? 
 Co musím udělat?
-Tento rituál k sobě přitáhne duchy jako světlo v temnotě. Ujisti se že cokoliv projde skrze závoj zde nezůstane na dlouho. {^n}{^n}Musíš udržet místnost čistou, aby se vrátil Malakarr a ne nějaká vzpurná duše.
+Tento rituál k sobě přitáhne duchy jako světlo v temnotě. Ujisti se že cokoliv projde skrze závoj zde nezůstane na dlouho. {^n}{^n}Musíš udržet místnost čistou, aby se vrátil Malkadarr a ne nějaká vzpurná duše.
+Jsem [[ms]připravený[fs]připravená]. (zahaj rituál)
 Ještě nejsem [[ms]připravený[fs]připravená] začít.
 Jsem [[ms]připravený[fs]připravená]. (zahaj rituál)
 Ještě nejsem [[ms]připravený[fs]připravená] začít.
-[[ms]Neměl[fs]Neměla] bys zde být.
+[[ms]Neměl[fs]Neměla] bys tady být.
 Dobrá, odcházím.
