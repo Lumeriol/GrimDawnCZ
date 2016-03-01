@@ -1118,7 +1118,7 @@ tagItemSkillC063Name=Prismatický štít
 tagItemSkillC063Desc=Aktivuje runy vryté do těchto chráničů, čímž kolem tebe vytvoří ochranný štít.
 
 tagItemSkillC064Name=Pozorně sledovaná slabina
-tagItemSkillC064Desc=Pozorně si prohlédneš a skrze své nové oko zachytíš i ten nejmenší nedostatek na svých nepřátelích, a zvážíš tak, zda by mohli být tvými spojence. ^oAby tato schopnost účinkovala, musí být aktivní.
+tagItemSkillC064Desc=Pozorně si prohlédneš a skrze své nové oko zachytíš i ten nejmenší nedostatek na svých nepřátelích, a zvážíš tak, zda by mohli být tvými spojenci. ^oAby tato schopnost účinkovala, musí být aktivní.
 
 tagItemSkillC065Name=Šílenství
 tagItemSkillC065Desc=Z nitra masky odpoutá šíleného ducha, který zničí mysl nepřátel v okolí.
