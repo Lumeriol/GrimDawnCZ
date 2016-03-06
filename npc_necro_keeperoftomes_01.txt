@@ -47,11 +47,11 @@ Co mohu udělat, abych se [[ms]osvědčil[fs]osvědčila]?
 Rozdrť naše nepřátele, Kymonovy Vyvolené, nebo Aetheriany, kteří se vysmívají naší moci. {^n}{^n}Také se můžeš podívat na vývěsku pro případ, že by kdokoliv z Řádu měl úkol, se kterým by potřeboval pomoci.
 Dobrá, udělám to.
 Co s Malkadarrem?
-Malkadarr bude pokračovat ve své službě uvnitř prvního kruhu, předávat své vědomosti studentům. {^n}{^n}Pokud to po něm bude vyžadováno, povede válku proti našim nepřátelům. Je to jeho nekonečná náplň bránit Řád a jeho vědomosti.
+Malkadarr bude pokračovat ve své službě uvnitř Prvního kruhu, předávat své vědomosti studentům. {^n}{^n}Pokud to po něm bude vyžadováno, povede válku proti našim nepřátelům. Je to jeho nekonečná náplň bránit Řád a jeho vědomosti.
 Malkadarr ti musí sloužit?
 Jeho pokračující bytí je spojené s mou vůlí. Bude sloužit a tak dlouho vykonávat své povinnosti, jak uznám za vhodné.
 To nevypadá jako správné.
-Je tak špatné plně se obětovat ve jménu vyšších cílů? Malkadarr věděl co je v sázce, když vstoupil do prvního kruhu a seznámil se s jeho tajemstvími.{^n}{^n}Jeho vědomosti musí být zachovány pro dobro Řádu.
+Je tak špatné plně se obětovat ve jménu vyšších cílů? Malkadarr věděl co je v sázce, když vstoupil do Prvního kruhu a seznámil se s jeho tajemstvími.{^n}{^n}Jeho vědomosti musí být zachovány pro dobro Řádu.
 Zní to jako strašný osud.
 Připouštím, že to dává smysl.
 Připouštím, že to dává smysl.
@@ -62,7 +62,7 @@ Vskutku, obřad znovuoživení byl úspěšný a Malkadarr je opět schopný slo
 Malkadarr ti musí sloužit?
 Jeho pokračující bytí je spojené s mou vůlí. Bude sloužit a tak dlouho vykonávat své povinnosti, jak uznám za vhodné.
 To nevypadá jako správné.
-Je tak špatné plně se obětovat ve jménu vyšších cílů? Malkadarr věděl co je v sázce, když vstoupil do prvního kruhu a seznámil se s jeho tajemstvími.{^n}{^n}Jeho vědomosti musí být zachovány pro dobro Řádu.
+Je tak špatné plně se obětovat ve jménu vyšších cílů? Malkadarr věděl co je v sázce, když vstoupil do Prvního kruhu a seznámil se s jeho tajemstvími.{^n}{^n}Jeho vědomosti musí být zachovány pro dobro Řádu.
 
 Zní to jako strašný osud.
 Připouštím, že to dává smysl.
@@ -86,7 +86,7 @@ Pak riskujeme, že někdo jiný vstoupí do Malkadarrovy schránky.{^n}{^n}Pokud
 Budu ti asistovat při rituálu.
 Nebudu se toho účastnit.
 Obávám se že ne.
-[[ms]Sloužil[fs]Sloužila] si Řádu dobře ohledně přípravy pro Mlakadarrův návrat, ale poslední krok musí být ponechán těm nejdůvěryhodnějším členům Řádu.{^n}{^n}Přijď až prokážeš svou věrnost.
+[[ms]Sloužil[fs]Sloužila] si Řádu dobře ohledně přípravy pro Malkadarrův návrat, ale poslední krok musí být ponechán těm nejdůvěryhodnějším členům Řádu.{^n}{^n}Přijď až prokážeš svou věrnost.
 
 Dobrá.
 [[ms]Rozdrtil[fs]Rozdrtila] jsi naše nepřátele a [[ms]získal[fs]získala] ostatky?
@@ -112,7 +112,7 @@ Ostatky mám, Vyvolení zemřeli, když se je pokoušeli chránit.
 Mám nějaké otázky.
 Pokud znám odpověď, dostaneš ji.
 Co mi můžeš říct o historii Řádu?
-Řád byl založen před 313 lety naším nesmrtelným mistrem, Uroboruukem, za účelem zachování vědomostí a věnování se studování nekromancie. Před Řádem svět o nekromancii téměř přišel, o umění pronásledované tak, že téměř zaniklo. {^n}{^n}Možná jsi [[ms]slyšel[fs]slyšela] o prokletí Arkovie. To byla pomsta našeho pána za systematickou likvidaci nekromancerů. Po Arkovianské tragédii Uroboruuk putoval světem v odloučení po mnohá staletí. {^n}{^n}Znovu se vynořil před zhruba třemi staletími, přísahajíc že obnoví umění nekromancie a znovu zaseje honbu za vědomostmi a záhadami života do nové generace. {^n}{^n}Dnes se Řád skládá hlavně z arkanistů a okultistů rozčarovaných a pronásledovaných Erulanskou společností, i když vítáme ty, jež nemají dar podivna. Uroboruukovo učení koneckonců podporuje toleranci a porozumnění.
+Řád byl založen před 313 lety naším nesmrtelným mistrem, Uroboruukem, za účelem zachování vědomostí a věnování se studování nekromancie. Před Řádem svět o nekromancii téměř přišel, o umění pronásledované tak, že téměř zaniklo. {^n}{^n}Možná jsi [[ms]slyšel[fs]slyšela] o prokletí Arkovie. To byla pomsta našeho pána za systematickou likvidaci nekromancerů. Po Arkovianské tragédii Uroboruuk putoval světem v odloučení po mnohá staletí. {^n}{^n}Znovu se vynořil před zhruba třemi staletími, přísahajíc že obnoví umění nekromancie a znovu zaseje honbu za vědomostmi a záhadami života do nové generace. {^n}{^n}Dnes se Řád skládá hlavně z arkanistů a okultistů rozčarovaných a pronásledovaných Erulanskou společností, ale přivítáme i ty, jež nemají dar podivna. Uroboruukovo učení koneckonců podporuje toleranci a porozumnění.
 Kdo byl Uroboruuk?
 Povídky o Uroboruukovi existovaly po staletí. Nikdo s jistotou neví jak je to dlouho a kde byl narozen či dokonce zda je Uroboruuk jeho pravé jméno. Co víme je, že Uroboruuk byl středem povídek o pádu Arkovie před mnoha staletími.{^n}{^n}Pod dekretem Arkovianských oligarchů byli všichni podezřelí provozovatelé nekromantického umění vzati do Stupňů bolesti, odporného vězení kde odsouzení muži byli ponecháni hnít v temnotě v hlubinách země. Uroboruuk, ten jež měl v Arkovii silné přívržence, byl zrazen a předán Arkovianským mučitelům. Nicméně on byl mužem, jakého nikdy nepotkali. Zdálo se, že Uroboruuk nemůže zemřít. Jeho kůže se nespálila a jeho zranění nekrvácela.{^n}{^n}Toto bez překvapení přitáhlo pozornost oligarchů, kteří toužili mít takovou moc sami pro sebe. Pod jejich vedením byl Uroboruuk vystaven těm nejbrutálnějším a nápaditým formám mučení, jaké si lze jen představit. Jeho nesmrtelnost se obrátila proti němu.{^n}{^n} Nakonec náš pán souhlasil s jejich požadavky a nabídl jim provedení rituálu, který by učinil oligarchy nesmrtelnými. Oligarchové předpokládali, že jeho vůle byla zlomena a hamižně souhlasili. Vskutku jim Uroboruuk nadělil nesmrtelnost tak jak toužili, ale ta přišla ve formě záludného prokletí. {^n}{^n}Stále trpěli vlivem času, ale milosrdné vysvobození smrtí ne a ne přijít. Zůstali uvězněni v jejich fyzických formách, i když se jejich těla rozložila a proměnila v prach. Nemrtví kdysi mocné Arkovianské říše stále chodí po světě jako bezmyšlenkovité zombie a mučení duchové. {^n}{^n}O staletí později založil Uroboruuk Řád Strážců smrti, takže naše vědění už nikdy nebude ohrožováno ignoranty. Učil naše lidi po mnoho generací do doby, než nás záhadně opustil uprostřed noci, pár let před tím, než udeřil Ponurý úsvit.
 Váš mistr vás opustil?
@@ -132,7 +132,7 @@ Mám ještě otázku.
 Co jsi potřebovala, abych [[ms]udělal[fs]udělala]??
 Jaká to zajímavá pověst.
 Co je tvou rolí coby Strážkyně?
-Starám se o záznamy v naší knihovně, ujišťuji se že nic z našich vědomostí není ztraceno. {^n}{^n}Vzhledem k absenci našeho pána také sloužím jako velitel Řádu a První ve vnitřním kruhu.
+Starám se o záznamy v naší knihovně, ujišťuji se že nic z našich vědomostí není ztraceno. {^n}{^n}Vzhledem k absenci našeho pána také sloužím jako velitel Řádu a vnitřního kruhu.
 
 Mám ještě otázku.
 Co jsi potřebovala, abych [[ms]udělal[fs]udělala]??
@@ -155,7 +155,7 @@ Další se [[ms]připojil[fs]připojila] k našim řadám. Je vždy potěšením
 Mám nějaké otázky.
 Pokud znám odpověď, dostaneš ji.
 Co mi můžeš říct o historii Řádu?
-Řád byl založen před 313 lety naším nesmrtelným mistrem, Uroboruukem, za účelem zachování vědomostí a věnování se studování nekromancie. Před Řádem svět o nekromancii téměř přišel, o umění pronásledované tak, že téměř zaniklo. {^n}{^n}Možná jsi [[ms]slyšel[fs]slyšela] o prokletí Arkovie. To byla pomsta našeho pána za systematickou likvidaci nekromancerů. Po Arkovianské tragédii Uroboruuk putoval světem v odloučení po mnohá staletí. {^n}{^n}Znovu se vynořil před zhruba třemi staletími, přísahajíc že obnoví umění nekromancie a znovu zaseje honbu za vědomostmi a záhadami života do nové generace. {^n}{^n}Dnes se Řád skládá hlavně z arkanistů a okultistů rozčarovaných a pronásledovaných Erulanskou společností, i když vítáme ty, jež nemají dar podivna. Uroboruukovo učení koneckonců podporuje toleranci a porozumnění.
+Řád byl založen před 313 lety naším nesmrtelným mistrem, Uroboruukem, za účelem zachování vědomostí a věnování se studování nekromancie. Před Řádem svět o nekromancii téměř přišel, o umění pronásledované tak, že téměř zaniklo. {^n}{^n}Možná jsi [[ms]slyšel[fs]slyšela] o prokletí Arkovie. To byla pomsta našeho pána za systematickou likvidaci nekromancerů. Po Arkovianské tragédii Uroboruuk putoval světem v odloučení po mnohá staletí. {^n}{^n}Znovu se vynořil před zhruba třemi staletími, přísahajíc že obnoví umění nekromancie a znovu zaseje honbu za vědomostmi a záhadami života do nové generace. {^n}{^n}Dnes se Řád skládá hlavně z arkanistů a okultistů rozčarovaných a pronásledovaných Erulanskou společností, ale přivítáme i ty, jež nemají dar podivna. Uroboruukovo učení koneckonců podporuje toleranci a porozumnění.
 Kdo byl Uroboruuk?
 Povídky o Uroboruukovi existovaly po staletí. Nikdo s jistotou neví jak je to dlouho a kde byl narozen či dokonce zda je Uroboruuk jeho pravé jméno. Co víme je, že Uroboruuk byl středem povídek o pádu Arkovie před mnoha staletími.{^n}{^n}Pod dekretem Arkovianských oligarchů byli všichni podezřelí provozovatelé nekromantického umění vzati do Stupňů bolesti, odporného vězení kde odsouzení muži byli ponecháni hnít v temnotě v hlubinách země. Uroboruuk, ten jež měl v Arkovii silné přívržence, byl zrazen a předán Arkovianským mučitelům. Nicméně on byl mužem, jakého nikdy nepotkali. Zdálo se, že Uroboruuk nemůže zemřít. Jeho kůže se nespálila a jeho zranění nekrvácela.{^n}{^n}Toto bez překvapení přitáhlo pozornost oligarchů, kteří toužili mít takovou moc sami pro sebe. Pod jejich vedením byl Uroboruuk vystaven těm nejbrutálnějším a nápaditým formám mučení, jaké si lze jen představit. Jeho nesmrtelnost se obrátila proti němu.{^n}{^n} Nakonec náš pán souhlasil s jejich požadavky a nabídl jim provedení rituálu, který by učinil oligarchy nesmrtelnými. Oligarchové předpokládali, že jeho vůle byla zlomena a hamižně souhlasili. Vskutku jim Uroboruuk nadělil nesmrtelnost tak jak toužili, ale ta přišla ve formě záludného prokletí. {^n}{^n}Stále trpěli vlivem času, ale milosrdné vysvobození smrtí ne a ne přijít. Zůstali uvězněni v jejich fyzických formách, i když se jejich těla rozložila a proměnila v prach. Nemrtví kdysi mocné Arkovianské říše stále chodí po světě jako bezmyšlenkovité zombie a mučení duchové. {^n}{^n}O staletí později založil Uroboruuk Řád Strážců smrti, takže naše vědění už nikdy nebude ohrožováno ignoranty. Učil naše lidi po mnoho generací do doby, než nás záhadně opustil uprostřed noci, pár let před tím, než udeřil Ponurý úsvit.
 Váš mistr vás opustil?
