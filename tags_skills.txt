@@ -932,7 +932,7 @@ tagItemSkillC004PetSkill01=Vysmívavý řev
 tagItemSkillC004PetSkill01Desc=Strážce v bitvě zařve a vysměje se nepřátelům v okolí.
 tagItemSkillC004PetSkill02=Vrozené vlastnosti
 
-tagItemSkillC005Name=Lehkomyslný strážce
+tagItemSkillC005Name=Bezohledný strážce
 tagItemSkillC005Desc=Přivolá strážce s velikou útočnou schopností.
 
 tagItemSkillC005PetSkill01=Šílený řev
