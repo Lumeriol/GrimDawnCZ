@@ -604,7 +604,7 @@ tagShieldC014Desc="Pokrytý vrstvami chitinu ze zabité Škvoří královny."
 tagShieldC015=Gladiátor
 tagShieldC016=Planoucí soudce
 tagShieldC017=Předvoj Legie
-tagShieldC018=Stoupencova stráž
+tagShieldC018=Myrmidonova stráž
 
 tagShieldD001=Štít z masa
 tagShieldD001Desc="Nekromantický štít vytvarovaný z hrudní dutiny nešťastného rolníka."
@@ -846,9 +846,9 @@ tagRare=vzácné kvality
 tagEpic=epické kvality
 tagLegend=legendární kvality
 
-tagStyleUniqueTier2=[ms]mocný[fs]mocná[ns]mocné[mp]mocné[fp]mocné[np]mocné
-tagStyleUniqueTier3=[ms]bájný[fs]bájná[ns]bájné[mp]bájné[fp]bájné[np]bájné
-tagStyleFactionTier2=[ms]elitní[fs]elitní[ns]elitní[mp]elitní[fp]elitní[np]elitní
+tagStyleUniqueTier2=mocnější
+tagStyleUniqueTier3=vynikající
+tagStyleFactionTier2=elitní
 
 tagSoulbound=Předmět svázaný s duší
 tagDestroySoulbound=Zničit předmět svázaný s tvou duší?
@@ -936,7 +936,7 @@ tagHeadC027=Pretoriánská ochranná maska
 tagHeadC028=Koruna z rampouchů
 tagHeadC029=Čelenka spalujícího hněvu
 tagHeadC030=Žencovy oči
-tagHeadC031=Stoupencovo hledí
+tagHeadC031=Myrmidonovo hledí
 tagHeadC032=Mogdrogenova kápě
 
 tagHeadD001=Chřtán beznaděje
@@ -1148,7 +1148,7 @@ tagTorsoC027=Pretoriánský hrudní chránič
 tagTorsoC028=Dutá bojová zbroj Prázdnoty
 tagTorsoC029=Kabátec strážce ohně
 tagTorsoC030=Callidorův háv
-tagTorsoC031=Myrmidonský hrudní chránič
+tagTorsoC031=Myrmidonův hrudní chránič
 tagTorsoC032=Mogdrogenův plášť
 
 tagTorsoD001=Kabátec ze šupin démona
@@ -1721,7 +1721,7 @@ tagMedalC014=Zaklínačova insignie
 tagMedalC015=Kacířova pečeť
 tagMedalC016=Pečeť bouře
 tagMedalC017=Znak falešných bohů
-tagMedalC018=Krvavý pečetní prsten střevního červa
+tagMedalC018=Krvavá pečeť střevního červa
 tagMedalC018Desc="Nasáklý krví svých obětí."
 tagMedalC019=Mogdrogenova pečeť
 tagMedalC020=Iluzionistův znak
@@ -1730,7 +1730,7 @@ tagMedalC022=Rusalčin znak
 tagMedalC023=Hvězda ze zamrzlých nebes
 tagMedalC024=Volcanum
 tagMedalC025=Znak prudkého odhodlání
-tagMedalC026=Stoupencova hvězda ctnosti
+tagMedalC026=Myrmidonova hvězda ctnosti
 
 tagMedalD001=Znak renegáta
 tagMedalD001Desc="Symbol kdysi vypalovaný kacířům, později nošen s pýchou uctívači čarodějnických bohů."
@@ -1970,7 +1970,7 @@ tagBlueprint_ArmorC006=Plánek: Kápě slepého zabijáka
 tagBlueprint_ArmorC007=Plánek: Dohodnutý bezbožný vzhled
 tagBlueprint_ArmorC008=Plánek: Kabátec strážce ohně
 tagBlueprint_ArmorC009=Plánek: Callidorův háv
-tagBlueprint_ArmorC010=Plánek: Stoupencovo hledí
+tagBlueprint_ArmorC010=Plánek: Myrmidonovo hledí
 tagBlueprint_ArmorC011=Plánek: Mogdrogenova kápě
 
 tagBlueprint_ArmorD001=Plánek: Chřtán beznaděje
@@ -3226,7 +3226,7 @@ tagCompB018Desc="Symbol zabijáků udělovaný za přijetí zvláště nebezpeč
 tagCompB019Name=^kTajemná jiskra
 tagCompB019Desc="Jiskra nejčistší tajemné energie."^w^n(může vylepšit amulety a medaile)
 
-tagCompB020Name=^kMyrmidonské znamení
+tagCompB020Name=^kMyrmidonovo znamení
 tagCompB020Desc="Symbol moci udělovaný nejodvážnějším bojovým hrdinům."^w^n(může vylepšit štíty)
 
 tagCompB021Name=^kOleronova krev
@@ -3451,7 +3451,7 @@ tagItemSetC024Desc="Ohnivé srdce prodchnuté duchem plamene."
 tagItemSetC025Name=Callidorovy poklady
 tagItemSetC025Desc="Pomůcky Mistra Callidora, ctěného Pána temnot a tvůrce tajemných a zmatečných technik."
 
-tagItemSetC026Name=Stoupencova zbroj
+tagItemSetC026Name=Myrmidonova zbroj
 tagItemSetC026Desc="Zbroj Černé legie nošená svými elitními vojáky v předvoji."
 
 tagItemSetC027Name=Mogdrogenova umírněnost

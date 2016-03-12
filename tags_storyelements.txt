@@ -654,14 +654,14 @@ tagQuestItemHartsAmulet_Text="Mému drahému bratrovi: Ať tě tento amulet uči
 tagQuestItemCultistKey_Name=Zvláštní klíč
 tagQuestItemCultistKey_Text="Na klíči je vyryto mnoho podivných run a chlípných symbolů charakteristických pro Kult Ch'thona."
 tagQuestItemDirections_Name=Direniho instrukce
-tagQuestItemDirections_Text=Dohoda je dohoda: Kultisté si pohodlně sedí na zadku v horách mimo trasy obyčejných cestovatelů. Vydej se k rozbitému mostu u Burrwitchskhom předměstí. Až tam budeš, obejdi celý útes, dokud nenarazíš na cestu vedoucí do skal.{^n}{^n}Jakmile nalezneš muže v krví nasáklých róbách a velících temným silám, jsi na správném místě. Vstup do svatyně vede skrz jejich tábor a je vytesán do úbočí hory.
+tagQuestItemDirections_Text=Dohoda je dohoda: kultisté si pohodlně sedí na zadku v horách mimo trasy obyčejných cestovatelů. Vydej se k rozbitému mostu u Burrwitchského předměstí. Až tam budeš, obejdi celý útes, dokud nenarazíš na cestu vedoucí do skal.{^n}{^n}Jakmile nalezneš muže v krví nasáklých róbách a velících temným silám, jsi na správném místě. Cesta ke vstupu do svatyně vede skrz jejich tábor a je vytesán do úbočí hory.
 
 tagQuestChestLostJournal=Zaprášený řečnický pult
 tagQuestItemLostJournal_Name=Řád kultistů
-tagQuestItemLostJournal_Text="Bratři krve,{^n}{^n}Přítomnost aetherických stvoření v Burrwitchi sílí s každým dalším dnem. Své aktivity přesouváme za hranice města, kde můžeme nerušeně pokračovat v našich plánech. Nyní se zaměřujeme na Ďáblův průsmyk, kde náš nejnovější zástupce Direni úspěšně sabotoval jejich vodní čerpadlo. Brzy bude tahle protivná skupinka nucena opustit své útočiště a hned poté je vezmeme na milost. Připravte se, bratři. Brzy budeme pít jejich krev!{^n}{^n}Salazar, Čepel Ch'thona"
+tagQuestItemLostJournal_Text="Bratři krve,{^n}{^n}přítomnost aetherických stvoření v Burrwitchi sílí s každým dalším dnem. Své aktivity přesouváme za hranice města, kde můžeme nerušeně pokračovat v našich plánech. Nyní se zaměřujeme na Ďáblův průsmyk, kde náš nejnovější zástupce Direni úspěšně sabotoval jejich vodní čerpadlo. Brzy bude tahle protivná skupinka nucena opustit své útočiště a hned poté je vezmeme na milost. Připravte se, bratři. Brzy budeme pít jejich krev!{^n}{^n}Salazar, Čepel Ch'thona"
 
 tagQuestItemDynamite=Dynamit
-tagQuestItemDynamiteDesc="Surová výbušnina kdysi používaná ničitely, aby čelili ničivým silám uživatelů magie."
+tagQuestItemDynamiteDesc="Surová výbušnina kdysi používaná ničiteli, aby čelili ničivým silám uživatelů magie."
 tagQuestItemSupplies=Bedna se zásobami
 tagQuestItemSuppliesDesc="Bedna plná cenných materiálů a nekazícího se zboží."
 tagQuestItemSlithNecklace=Náhrdelník slithů
@@ -682,16 +682,16 @@ tagQuestItemDermapteranPheromones_02=Inixilova feromonní žláza
 tagQuestItemDermapteranPheromones_02Desc="Ze smradu vycházejícího z této žlázy se ti zvedá žaludek."
 
 tagQuestItemManticorePoisonGland=Mantikoří jedovatá žláza
-tagQuestItemManticorePoisonGland_Desc="Ze žlázy odkapává silný toxin, který spálí kůži při sebemenším kontaktu."
+tagQuestItemManticorePoisonGland_Desc="Ze žlázy odkapává silný toxin, který při sebemenším kontaktu spálí kůži."
 
 tagQuestItemNecromancerRemains=Malkadarrovy ostatky
-tagQuestItemNecromancerRemains_Desc="Ještě hnijící ostatky kdysi mocného nekromanta."
+tagQuestItemNecromancerRemains_Desc="Stále hnijící ostatky kdysi mocného nekromanta."
 
 tagQuestItemUroboruukInfo=Uroboruukovy poznámky
 tagQuestItemUroboruukInfo_Desc="Poznámky tady nejspíš nechal Uroboruuk, mistr nekromancerů."
 
 tagQuestItemKymonRelic=Korvaakovo oko
-tagQuestItemKymonRelic_Desc="Svraštělé oko překypující tajemnými energiemi. Nemůžeš si pomoct, ale cítíš se, jako by zíralo na tebe."
+tagQuestItemKymonRelic_Desc="Svraštělé oko překypující tajemnými energiemi. Nemůžeš si pomoct, ale cítíš, jako by zíralo na tebe."
 
 tagQuestItemExileBossDrop_01=Archív nevyřčených osudů
 tagQuestItemExileBossDrop_01Desc="Tato tlustá kniha se zdá být zapečetěna temnými silami. Její desky odmítají ustoupit od listů."
@@ -718,7 +718,7 @@ tagQuestItemThornsburyDiary=Dailin diář
 tagQuestItemThornsburyDiary_Desc="Majetek Daily Thornsbury."
 
 tagQuestItemSlithLab=Hargatův vzorec
-tagQuestItemSlithLab_Desc="Je nemožné rozluštit čmáranice šíleného alchymisty Oswalda Hargata."
+tagQuestItemSlithLab_Desc="Rozluštit čmáranice šíleného alchymisty Oswalda Hargata je nemožné."
 
 tagQuestItemAetherialEssence=Aetherický výtažek
 tagQuestItemAetherialEssence_Desc="Přežívající duch aetherické bytosti, uvězněné pomocí odumřelých energií."
@@ -738,10 +738,10 @@ tagQuestItemHeavyExplosives=Legionářská trhavina
 tagQuestItemHeavyExplosives_Desc="Vytvořena vojenskými kouzelníky pro zaručení opravdu velkého výbuchu."
 
 tagQuestItemLegionSupplies=Legionářské zásoby
-tagQuestItemLegionSupplies_Desc="Skrýš surových materiálů Černé legie. Skutečné štěstí s ohledem na danou situaci v Říši."
+tagQuestItemLegionSupplies_Desc="Skrýš surových materiálů Černé legie. Skutečný poklad s ohledem na danou situaci v Říši."
 
 tagQuestItem_Dravis_A01Name=Dravisův první dopis Daile
-tagQuestItem_Dravis_A01Text=Má nejdražší sestro,{^n}doufám, že tento dopis si najde cestu k tobě. Nemůžeš odolat vrátit se na tohle místo, protože vím, že vzpomínky na tu noc se ti stále vracejí během spánku jako noční můry. Ta tvář, kterou si spatřila, byla cena, kterou jsem zaplatil, abych poznal pravdu. Pravdu, kterou jsi odmítala!{^n}{^n}Pamatuješ, jak jsme si jako děti chodívali hrát do staré zříceniny? Otec nás vždycky varoval, ať tam nelezeme, že nás sežerou harpyje, které se tam slétají po soumraku. Ale co když se nás nesnažil jen ochránit? Co když tady byly ještě postranní úmysly držet nás od té starověké zříceniny opodál? Co když bychom tam našli v některém úkrytu něco, co by prozradilo víc o jeho minulosti a on nechtěl, abychom to věděli?{^n}{^n}Udělal jsem to, k čemu ty jsi neměla odvahu, Dailo. Vzepřel jsem se našemu otci a sestoupil až do Muk. Teprve tam jsem zcela procitl. Pokud jsi stále moudrá, uděláš to samé, co já...{^n}{^n}Dravis
+tagQuestItem_Dravis_A01Text=Má nejdražší sestro,{^n}doufám, že tento dopis si k tobě najde cestu. Nemůžeš odolat nevrátit se na tohle místo, protože vím, že vzpomínky na tu noc se ti stále vracejí během spánku jako noční můry. Ta tvář, kterou si spatřila, byla cena, kterou jsem zaplatil, abych poznal pravdu. Pravdu, kterou jsi odmítala!{^n}{^n}Pamatuješ, jak jsme si jako děti chodívali hrát do staré zříceniny? Otec nás vždycky varoval, ať tam nelezeme, že nás sežerou harpyje, které se tam slétají po soumraku. Ale co když se nás nesnažil jen ochránit? Co když tady byly ještě postranní úmysly držet nás od té starověké zříceniny co nejdál? Co kdybychom tam našli v některém úkrytu něco, co by prozradilo víc o jeho minulosti a on nechtěl, abychom to věděli?{^n}{^n}Udělal jsem to, k čemu ty jsi neměla odvahu, Dailo. Vzepřel jsem se našemu otci a sestoupil až do Muk. Teprve tam jsem zcela procitl. Pokud jsi stále moudrá, uděláš to samé, co já...{^n}{^n}Dravis
 
 tagQuestItem_Dravis_A02Name=Dravisův druhý dopis Daile
 tagQuestItem_Dravis_A02Text=Dailo,{^n}teď si musela spatřit ty strašidelné výjevy Arkovianské minulosti. Cožpak ses nikdy nezajímala, jak to všechno mohlo být? Jak Arkovia opravdu padla? Otec to nazval chamtivostí, ale samotná chamtivost přeci nikdy nemůže odsoudit člověka k takovému utrpení. Měl v tom prsty mocný čaroděj Nay.{^n}{^n}Pociťoval jsem to už ze samotných stěn. Ty kameny křičely nespoutaným řevem, řevem na... mě. Můžou snad mrtví tak pohrdat živou bytostí? Ještě touží po tom sebrat mi to, co i jim bylo ukradeno? Existovat v takovém stavu nekonečného zapomění by možná přivedlo k šílenství každého, ale nechce se mi tomu věřit, že by to mělo až takové důsledky. Mezi těmi kameny bylo něco povědomého.{^n}{^n}Musel jsem se dozvědět víc. Takže jsem byl navštívit jedno místo, kde vím, že byl náš otec - domov, kde jsme vyrůstali. Samozřejmě, bylo to trochu odvážné, však víš proč. Vždyť náš domov byl prožrán Chthonskou branou, a není to zase tak dávno. Ale ani tyhle drobnosti mne nezastaví před nalezením odpovědí na to, co hledám...{^n}{^n}Dravis
