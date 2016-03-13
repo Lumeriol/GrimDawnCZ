@@ -7,6 +7,7 @@ achGroupChallenges=Výzvy
 achGroupCharacter=Postava
 achGroupMonsters=Nestvůry
 achGroupStory=Příběh
+achGroupWorld=Svět
 
 # Achievements
 
