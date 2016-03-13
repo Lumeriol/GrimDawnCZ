@@ -79,11 +79,11 @@ tagSkillDefaultPetAttackDescription=Přikáže všem spojencům pod tvou kontrol
 tagSkillInnate=Vrozená schopnost
 tagSkillSumLVL=Roste s úrovní vyvolávání.
 
-tagSkillUsableReady=Dovednost je možno použít
+tagSkillUsableReady=Dovednost je možno použít.
 
 #Class01
 
-tagClass01SkillName00A=[[ms]Voják[fs]Voják]
+tagClass01SkillName00A=[ms]Voják[fs]Voják
 tagClass01SkillDescription00A=Velká fyzická kondice je nutná, aby voják dokázal čelit kruté realitě v oblastech Cairnu.
 
 tagClass01SkillName01A=Rychlý útok
@@ -167,7 +167,7 @@ tagClass01SkillDescription18=Extenzivní studium bojových technik se štítem u
 
 #Class02
 
-tagClass02SkillName00A=[[ms]Ničitel[fs]Ničitelka]
+tagClass02SkillName00A=[ms]Ničitel[fs]Ničitelka
 tagClass02SkillDescription00A=Odbornost v kombinaci vědy a magie dokáže rozpoutat na bitevním poli ohnivé peklo.
 
 tagClass02SkillName01A=Granát
@@ -263,7 +263,7 @@ tagClass02SkillDescription14A=Mocný útok, který způsobuje zvýšené zraněn
 
 #Class03
 
-tagClass03SkillName00=[[ms]Okultista[fs]Okultistka]
+tagClass03SkillName00=[ms]Okultista[fs]Okultistka
 tagClass03SkillDescription00=Do hloubky studovaná manipulace a ovládání okultních věd.
 
 tagClass03SkillName01A=Přivolání známosti
@@ -361,7 +361,7 @@ tagClass03SkillDescription15A=Uzamkne cíl uvnitř ochraňující a uzdravujíc�
 
 #Class04
 
-tagClass04SkillName00=[[ms]Noční lovec[fs]Noční lovkyně]
+tagClass04SkillName00=[ms]Noční lovec[fs]Noční lovkyně
 tagClass04SkillDescription00=Umění iluze a vířících se nožů v praxi.
 
 tagClass04SkillName01A=Přízračné čepele
@@ -478,7 +478,7 @@ xtagClass04SkillDescription14C=Obklíčený střelec může rychle zvýšit svů
 
 #Class05
 
-tagClass05SkillName00=[[ms]Vládce temnot[fs]Vládkyně temnot]
+tagClass05SkillName00=[ms]Vládce temnot[fs]Vládkyně temnot
 tagClass05SkillDescription00=Trénování těla a mysli pomáhá snést zničující síly prvotní magie.
 
 tagClass05SkillName01A=Panettiho replikující se střela
@@ -568,7 +568,7 @@ tagClass05SkillDescription16B=Kompletně zbaví okolní vzduch tepla a cokoliv j
 
 
 #Class06
-tagClass06SkillName00=[[ms]Šaman[fs]Šamanka]
+tagClass06SkillName00=[ms]Šaman[fs]Šamanka
 tagClass06SkillDescription00=Zasvěcení prvotnímu volání divočiny.
 
 tagClass06SkillName01A=Barbarství
@@ -2645,17 +2645,17 @@ tagDevotionEffectB07Desc=Na zemi se začnou objevovat praskliny, jež budou chrl
 tagDevotionEffectB07_Pet01=Magma
 tagDevotionEffectB08=Zadupání
 tagDevotionEffectB08Desc=Ze svého štítu vypustíš rázovou vlnu, která rozbije samotnou zemi a rozežene tvé nepřátele.
-tagDevotionEffectB09=Tajemná puma
-tagDevotionEffectB09Desc=Označíš zemi tajemným znamením, které exploduje při kontaktu s nepřítelem. ^oZnovunabití Tajemné pumy trvá 1 vteřinu.
-tagDevotionEffectB09_Pet01=Arkanické znamení
-tagDevotionEffectB09_Pet01Desc=Označení arkanickou bombou.
+tagDevotionEffectB09=Tajemná bomba
+tagDevotionEffectB09Desc=Označíš zemi tajemným znamením, které exploduje při kontaktu s nepřítelem. ^oZnovunabití Tajemné bomby trvá 1 vteřinu.
+tagDevotionEffectB09_Pet01=Znamení tajemna
+tagDevotionEffectB09_Pet01Desc=Označení tajemnou bombou.
 tagDevotionEffectB10=Vyvolání mrtvých
-tagDevotionEffectB10Desc=Vyvoláš mrtvé, nechť ti slouží. Nicméně nekrotické energie potřebné pro tento rituál jsou velmi nestabilní a tak budou neživí spojenci živi pouze po omezený čas. ^oMrtví sílí spolu se zvyšujícími se bonusy pro spojence.
+tagDevotionEffectB10Desc=Vyvoláš mrtvé, nechť ti slouží. Nicméně nekrotické energie potřebné pro tento rituál jsou velmi nestabilní a tak budou neživí spojenci na tomto světě pouze omezený čas. ^oMrtví sílí spolu se zvyšujícími se bonusy pro spojence.
 tagDevotionEffectB10_Pet01=Útok zblízka
 tagDevotionEffectB11=Podivný oheň
 tagDevotionEffectB11Desc=Z tvých úderů začnou vycházet podivné plameny, jež se divoce rozšíří mezi tvými nepřáteli.
 tagDevotionEffectB12=Bysmielův příkaz
-tagDevotionEffectB12Desc=Přivoláš podivného psa, který uchopí a roztrhá tvé nepřátele. Přítomnost psa ve fyzickém světě je nestabilní a proto zůstane na tvé straně jen po omezenou dobu. ^oPes sílí spolu se zvyšujícími se bonusy pro spojence.
+tagDevotionEffectB12Desc=Přivoláš Podivného ohaře, který uchopí a roztrhá tvé nepřátele. Přítomnost ohaře ve fyzickém světě je nestabilní a proto zůstane na tvé straně jen po omezenou dobu. ^oOhař sílí spolu se zvyšujícími se bonusy pro spojence.
 tagDevotionEffectB12_Pet01=Zuby a pařáty
 tagDevotionEffectB12_Pet02=Morový dech
 tagDevotionEffectB13=Bezohledná bouře
@@ -2681,14 +2681,14 @@ tagDevotionEffectB30Desc=Uloovy čistící vody vypudí veškerou odpornou magii
 
 tagDevotionEffectC01=Zastavení času
 tagDevotionEffectC01Desc=Písek v hodinách zastaví svůj neustálý pohyb a tak se zastaví i čas tvých nepřátel, jež se tě opováží napadnout.
-tagDevotionEffectC02=Znečištěná erupce
-tagDevotionEffectC02Desc=Zkaženost zachycená uvnitř tebe bude uvolněna a vznikne tak masivní exploze odporných jedů.
+tagDevotionEffectC02=Výbuch zkaženosti
+tagDevotionEffectC02Desc=Zkaženost kolující tvým tělem bude uvolněna a vznikne tak masivní exploze odporných jedů.
 tagDevotionEffectC03=Strašlivá síla
-tagDevotionEffectC03Desc=Chaotické síly Prázdnoty se ti rozproudí v žilách a změní tvé zbraně v prostředníky stvůrné moci.
+tagDevotionEffectC03Desc=V žilách se ti rozproudí chaotické síly Prázdnoty a změní tvé zbraně v prostředníky nestvůrné moci.
 tagDevotionEffectC04=Empyrionovo světlo
 tagDevotionEffectC04Desc=Posvátné světlo Empyriona zapudí temnotu a sežehne tvé nepřátele.
 tagDevotionEffectC05=Slepá zuřivost
-tagDevotionEffectC05Desc=Nadšení z krve a způsobených jatek budeš dál krvelačně napadat všechny blízké nepřátele za přívalu brutálních úderů. ^oVyžaduje chladnou zbraň.
+tagDevotionEffectC05Desc=Nadšením z krve a způsobených jatek budeš dál krvelačně napadat všechny blízké nepřátele za přívalu brutálních úderů. ^oVyžaduje chladnou zbraň.
 tagDevotionEffectC06=Kamenná forma
 tagDevotionEffectC06Desc=Tvé maso se stane kamenem, skoro neproniknutelným až na ty nejtvrdší údery.
 tagDevotionEffectC07=Nebeské kopí

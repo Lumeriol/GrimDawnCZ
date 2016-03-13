@@ -981,8 +981,8 @@ tagDevotionPet_Skeleton=Kostra
 tagDevotionPet_ArcaneBomb=Tajemná bomba
 tagDevotionPet_Hound=Podivný ohař
 tagDevotionPet_Hungerling=Hladovec
-tagDevotionPet_ElementalSeeker=Živelný hledač
-tagDevotionPet_LivingShadow=Živý stín
+tagDevotionPet_ElementalSeeker=Živelný stopař
+tagDevotionPet_LivingShadow=Živoucí stín
 tagDevotionPet_Volcano=Výbuch
 
 tagPetIceWallA01=Ledová bariéra
