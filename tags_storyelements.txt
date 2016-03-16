@@ -1216,7 +1216,7 @@ tagNPC_MerchantC02=Karros Adal
 tagStoreTitle_MerchantC02=Proklaté předměty
 
 tagNPC_MerchantT01=Kárník
-tagStoreTitle_MerchantT01=Toulavý obchodník
+tagStoreTitle_MerchantT01=Obchodník se šrotem
 
 tagNPC_SmugglerA01=Carlile
 tagStoreTitle_SmugglerA01=Pašerák
@@ -1262,10 +1262,10 @@ tagStoreDesc_SmithA04_2=Horrus je obdarován staletými kovářskými znalostmi,
 tagStoreDesc_SmithA04_3=
 tagStoreDesc_SmithA04_4=Vyrobené zbraně, zbroj a příslušenství jsou prodchnuty jednou z následujících vlastností:
 
-tagNPC_SmithA05=Bratr Galvin
-tagStoreTitle_SmithA05=Kymonův kovář
-tagStoreDesc_SmithA05_1={}Posvěcení Empyrionem
-tagStoreDesc_SmithA05_2=Galvinova práce je považována za posvátnou, jeho kladivo řídí sám Empyrion.
+tagNPC_SmithA05=Etram Fald
+tagStoreTitle_SmithA05=Nebeský kovář
+tagStoreDesc_SmithA05_1={}
+tagStoreDesc_SmithA05_2=Kladivo Etrama Falda je prý ukováno ze samotných hvězd.
 tagStoreDesc_SmithA05_3=
 tagStoreDesc_SmithA05_4=Vyrobené zbraně, zbroj a příslušenství jsou prodchnuty jednou z následujících vlastností:
 
