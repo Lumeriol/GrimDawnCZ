@@ -826,19 +826,38 @@ tagStyle042=[ms]okázalý[fs]okázalá[ns]okázalé[mp]okázalé[fp]okázalé[np
 
 #ArmorClass
 tagArmorClass01=kouzelnická zbroj
-tagArmorClass02=lehká zbroj
+tagArmorClass02=
 tagArmorClass03=těžká zbroj
 
 #WeaponClass
-tagOneHanded=jednoruční zbraň
-tagTwoHanded=obouruční zbraň
 tagOffHand=příruční předmět
+tagShield=štít
 
-#MiscClass
+tagOneHandedSword=meč
+tagOneHandedMace=palcát
+tagOneHandedAxe=sekyra
+tagOneHandedDagger=dýka
+tagOneHandedScepter=žezlo
+tagOneHandedPistol=střelná zbraň
+
+tagTwoHandedSword=obouruční meč
+tagTwoHandedMace=obouruční palcát
+tagTwoHandedAxe=obouruční sekyra
+tagTwoHandedRifle=obouruční střelná zbraň
+
+tagWeaponUnknown=bůh ví co to je
+
+#ArmorSlots
 tagRing=prsten
 tagAmulet=amulet
 tagMedal=medaile
 tagBelt=opasek
+tagShoulders=nárameníky
+tagHead=helma
+tagLegs=kalhoty
+tagChest=hrudní zbroj
+tagFeet=boty
+tagGloves=rukavice
 
 #QualityClass
 tagMagic=magické kvality
@@ -1002,6 +1021,18 @@ tagShoulderB010=[mp]stoupencovy tkané nárameníky
 tagShoulderB011=[fp]stoupencovy epolety
 tagShoulderB012=[mp]masorvoucí rytířské nárameníky
 tagShoulderB013=[mp]masorvoucí skládané nárameníky
+tagShoulderB014=[mp]Valdaranovy tkané nárameníky
+tagShoulderB015=[mp]Valdaranovy chrániče ramen
+tagShoulderB016=[mp]Benn'Jahrovy chrániče ramen
+tagShoulderB017=[mp]Benn'Jahrovy skládané nárameníky
+tagShoulderB018=[mp]Moosilaukenovy chrániče ramen
+tagShoulderB019=[mp]Moosilaukenovy skládané nárameníky
+tagShoulderB020=[mp]tkané nárameníky železné panny
+tagShoulderB021=[mp]chrániče ramen železné panny
+tagShoulderB022=[mp]Zantarinovy tkané nárameníky
+tagShoulderB023=[mp]Zantarinovy chrániče ramen
+tagShoulderB024=[mp]Fabiovy chrániče ramen
+tagShoulderB025=[mp]Fabiovy skládané nárameníky
 
 tagShoulderC001=Tkané nárameníky z bodlin divočáka
 tagShoulderC001Desc="Sešity dohromady ze zdechlin divočáků."
@@ -2182,6 +2213,7 @@ tagCraftComponentRareDesc=Mimořádná kovářská technika se nejspíš na věk
 tagCraftShardBeronathDesc=Přemění ocel v úlomek svatého Beronatha.
 tagCraftRelicDesc=Starodávná kovářská technika ztracená dávno před Ponurým úsvitem.
 tagCraftTransmuteDesc=Pomocí žáru výhně a trochy alchymie mohou být vzácné materiály přeměněny na jiné, stejně vzácné výtvory.
+tagCraftRandomLegendaryDesc=Kovář dává dohromady surovou alchymistickou sílu s těmito předměty, aby vytvořil předmět s legendárními vlastnostmi.
 
 tagCraftRandomAxe=Očarovaná sekyra
 tagCraftRandomBlunt=Očarovaná palice
@@ -2221,6 +2253,12 @@ tagCraftRandomShoulder_Light=Očarované nárameníky
 tagCraftRandomTorso_Caster=Očarovaná kouzelnická zbroj
 tagCraftRandomTorso_Heavy=Očarovaná těžká hrudní zbroj
 tagCraftRandomTorso_Light=Očarovaná hrudní zbroj
+
+tagCraftRandomLegendary_Armor=Legendární zbroj
+tagCraftRandomLegendary_Accessory=Legendární příslušenství
+tagCraftRandomLegendary_MeleeWeapon=Legendární chladná zbraň
+tagCraftRandomLegendary_RangedWeapon=Legendární střelná zbraň
+tagCraftRandomLegendary_CasterWeapon=Legendární kouzelnická zbraň
 
 
 tagSuppliesIncomplete=Zkombinované dílčí části
@@ -2714,7 +2752,7 @@ tagEnchantB020Desc="S tím jak se připravují na svou ochranu, hovoří přeži
 tagEnchantB021A=Píseň živlů
 tagEnchantB021B=Píseň živlů II
 tagEnchantB021C=Píseň živlů III
-tagEnchantB021Desc="Kaplan Mullone navrhnul toto očarování zahrnující protichůdné síly ohně a ledu."^w^n(použitelné na prsteny a amulety)
+tagEnchantB021Desc="Kaplanka Sahdina navrhla toto očarování zahrnující protichůdné síly ohně a ledu."^w^n(použitelné na prsteny a amulety)
 
 tagEnchantB022A=Vilothino kousnutí
 tagEnchantB022B=Vilothino kousnutí II
@@ -3341,6 +3379,7 @@ tagPotionConstitutionB01Desc=Přetrvávající životní energie, která může 
 
 tagPotionDirections=[použít pravým tlačítkem myši]
 tagCombineStacks=[přidržením klávesy Ctrl a kliknutím rozdělíš štosovaný předmět]
+tagHideTooltip=[přidržením klávesy Ctrl skryješ nápovědu]
 
 # Bonuses
 tagBonusLifePercentAbsPercent={^E}Obnovuje {^H}{%.0f0}%+{%.0f1} {^E}zdraví {^H}+{%.0f2}% {^E}v průběhu času
