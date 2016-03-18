@@ -59,6 +59,8 @@ tagTransferStashError={^r}Tento předmět sem nelze umístit
 tagRiftgatePersonal=Osobní Brána
 tagRiftgateDestination=Lokace
 tagRiftgateError01=Tuto Bránu nemůžeš použít. Byla vytvořena hráčem, který není ve tvé skupině.
+tagRiftgateError02=Nemůžeš se přenést do téhle samé Brány, vyber si jinou.
+tagRiftgateError03=Odsud se do této vybrané Brány nemůžeš přenést.
 tagRiftgateDialog01=Otevřením nové Brány uzavřeš svoji stávající Bránu. Je to tvým záměrem?
 tagRiftGateMapA01=Cairn
 
@@ -1276,7 +1278,7 @@ tagInfoTitle=Informace
 tagInfoButtonYes=Ano
 tagInfoButtonNo=Ne
 tagInfoButtonOk=OK
-tagGameOver=Jsi mrtvý!
+tagGameOver=Budiž ti země Cairnu lehká!
 
 SimpleStringFormat={%s0}
 SimpleStringsFormat={%s1} {%s0}

@@ -12,7 +12,7 @@ Kam že to mám jít?
 Stará cesta skrze doly je zablokovaná, zdvořilost od Aetherianů. Bude potřeba, abys [[ms]vstoupil[fs]vstoupila] do Horských hlubin poblíž a [[ms]našel[fs]našla] cestu skrz až na Zlatokopovu pěšinu. Pokud po ní půjdeš na sever, [[ms]měl[fs]měla] bys najít Homestead. Jen těžko ho mineš.
 Dobrá, pak tedy vyrazím.
 Brzy vás dostanu do bezpečí.
-Vida, jestli tohle není [[ms]můj[fs]má] nejlepší [[ms]přítel[fs]kamarádka] z Ďáblova průsmyku. Tušil jsem, že tudy budeš procházet.
+Vida, jestli tohle není [[ms]můj starý přítel[fs]má stará přítelkyně] z Ďáblova průsmyku. Tušil jsem, že tudy budeš procházet.
 Ulgrime? Co ty tady děláš!?
 Nebyl jsem vůči tobě úplně upřímný. Nejsem kuchař, nejsem ani ve stejném oboru, i když by to byla možná lepší cesta...{^n}{^n}Je to tak, jsem nájemný vrah, První čepel císaře Erulana. Je to titul, který ne vždy hrdě nosím stejně tak jako to, že moje pracovní činnost nebyla vždy ctnostná, ale vypořádával jsem se s hrozbami vůči říši. Díky nepřátelům je nyní celé lidstvo v tak velkém ohrožení, jakému ještě nikdy nečelilo. Nicméně je to doba, kdy můžu svůj talent využít k noblesnějším účelům.{^n}{^n}Ani ty jsi ke mně ale [[ms]nebyl[fs]nebyla] zcela [[ms]upřímný[fs]upřímná], [[ms]'poblázněný'[fs]'poblázněná'], ale ničeho se neobávej, střežím mnohá tajemství.
 
@@ -62,7 +62,7 @@ Omlouvám se, tohle nemůžu udělat.
 [[ms]Byl[fs]Byla] jsem tam. Můžu vás tam vzít skrze Bránu.
 
 Sbohem.
-Vida, jestli tohle není [[ms]můj[fs]má] nejlepší [[ms]přítel[fs]kamarádka] z Ďáblova průsmyku. Tušil jsem, že tudy budeš procházet.
+Vida, jestli tohle není [[ms]můj starý přítel[fs]má stará přítelkyně] z Ďáblova průsmyku. Tušil jsem, že tudy budeš procházet.
 Ulgrime? Co ty tady děláš!?
 
 Nebyl jsem vůči tobě úplně upřímný. Nejsem kuchař, nejsem ani ve stejném oboru, i když by to byla možná lepší cesta...{^n}{^n}Je to tak, jsem vrah, První čepel císaře Erulana. Je to titul, který ne vždy hrdě nosím stejně tak jako to, že moje pracovní činnost nebyla vždy ctnostná, ale vypořádával jsem se s hrozbami vůči říši. Díky nepřátelům je nyní celé lidstvo v tak velkém ohrožení, jakému ještě nikdy nečelilo. Nicméně je to doba, kdy můžu svůj talent využít k noblesnějším účelům.{^n}{^n}Ani ty jsi ke mně ale [[ms]nebyl[fs]nebyla] zcela [[ms]upřímný[fs]upřímná], [[ms]'poblázněný'[fs]'poblázněná'], ale ničeho se neobávej, střežím mnohá tajemství.
@@ -102,6 +102,8 @@ Vím že jsi tam v Cronleyově úkrytu [[ms]zanechal[fs]zanechala] slušný nepo
 
 Vím že ses [[ms]musel[fs]musela] probojovat skrze stvůry a Aetheriany, aby ses [[ms]dostal[fs]dostala] takto daleko, ale přesto odmítáš čelit opravdovým démonům tohoto světa.{^n}{^n}Mé zdroje jsou vcelku dobré, pokud za sebe mohu říct.
 
+I know that you've had to battle through beast and Aetherial to get this far, but yet you refuse to face the world's real demons.{^n}{^n}My sources are very good, if I say so myself.
+
 První čepel císaře Erulana?
 Podívej, jsem si jistý, že máš mnoho otázek, ale nyní není vhodná chvíle.{^n}{^n}Potřebujeme tyto lidi dostat do Homesteadu.
 
@@ -128,6 +130,8 @@ Nakonec mne to nezajímá.
 Také vím o tvém heroickém výkonu v Burrwitchi. Warden Krieg málem přelstil jednoho z nejmocnějších inkvizitorů, kterého jsem kdy potkal, ale to právě ty jsi ho nakonec [[ms]přemohl[fs]přemohla].{^n}{^n}A přece jen jsi [[ms]prošel[fs]prošla] přes Arkovii bez úvahy nad Cronleyovými aktivitami. Záměrně? Nad tím se později budeme muset zamyslet.{^n}{^n}Mé zdroje jsou vcelku dobré, pokud za sebe mohu říct.
 
 Věděl jsem že ses [[ms]musel[fs]musela] probojovat skrze stvůry a Aetheriany, aby ses [[ms]dostal[fs]dostala] takto daleko, ale přesto odmítáš čelit opravdovým démonům tohoto světa.{^n}{^n}Mé zdroje jsou vcelku dobré, pokud za sebe mohu říct.
+
+I know that you've had to battle through beast and Aetherial to get this far, but yet you refuse to face the world's real demons.{^n}{^n}My sources are very good, if I say so myself.
 
 Jak tady můžu pomoci?
 Narazil jsem na tyhle uprchlíky, když jsem procházel skrze Pašerákův průsmyk. Byli zajati a brzy by se stali zábavou a potravou pro troly. Musel jsem něco udělat. No a teď jsme tady, uvěznění uprostřed bitvy mezi troly a aetherianskými jednotkami.{^n}{^n}Tunel do Homesteadu je zablokován aetherickým ohněm a nyní jediná možnost je vydat se skrze Horské hlubiny. Je to odporné místo uvnitř země, zaplaveno všemi možnými strašlivými věcmi, které nesnáší slunce. Není žádná šance, že by tam tito lidé přežili. V Ďáblově průsmyku jsem si všiml, že máš schopnost otevírat Brány. Potřebuji, aby sis [[ms]probojoval[fs]probojovala] cestu do Homesteadu, [[ms]zabezpečil[fs]zabezpečila] Bránu a [[ms]vrátil[fs]vrátila] se sem pro nás.{^n}{^n}Takže prosím, pomoz těmto lidem. Tady dole je vstup do Hlubin, odtud vyjdeš na Zlatokopovu pěšinu a ta tě pak zavede do Homesteadu. Pospěš si! Nejsem si jistý, jak dlouho ještě dokážu ty troly zdržet než přijdou ve větším počtu.
