@@ -826,7 +826,7 @@ tagStyle042=[ms]okázalý[fs]okázalá[ns]okázalé[mp]okázalé[fp]okázalé[np
 
 #ArmorClass
 tagArmorClass01=kouzelnická zbroj
-tagArmorClass02=
+tagArmorClass02=lehká zbroj
 tagArmorClass03=těžká zbroj
 
 #WeaponClass
@@ -2389,8 +2389,8 @@ tagDLCA04=Medaile úslužnosti Kickstarteru
 tagDLCA04Desc="Vojenská insignie z velké Kickstarterské války roku 2012."
 tagDLCA05=Veteránská medaile Kickstarteru
 tagDLCA05Desc="Veteránská insignie z velké Kickstarterské války roku 2012."
-tagDLCA06=Důstojná medaile Kickstarteru
-tagDLCA06Desc="Důstojná insignie z velké Kickstarterské války roku 2012."
+tagDLCA06=Důstojnická medaile Kickstarteru
+tagDLCA06Desc="Důstojnická insignie z velké Kickstarterské války roku 2012."
 tagDLCConsumableA01=Polapená bludička
 tagDLCConsumableA01Desc="Neškodný duch uvězněný ve sklenici"
 tagDLCConsumableA01PetSkill01=Aura pramene
@@ -2412,9 +2412,9 @@ tagEnchantmentUsable=[pravým tlačítkem vylepšíš předmět]
 tagEnchantmentUnusable=[nelze použít - nejsou splněny požadavky]
 tagEnchantmentConfirmation=Opravdu chceš použít toto vylepšení?
 tagEnchantmentOverwrite=Opravdu chceš nahradit stávající vylepšení?
-tagEnchantmentSoulboundConfirmation=Opravdu chceš použít toto vylepšení? Vylepšením tohoto předmětu jej svážeš se svou duší.
-tagEnchantmentSoulboundOverwrite=Opravdu chceš nahradit stávající vylepšení? Vylepšením tohoto předmětu jej svážeš se svou duší.
-tagEnchantmentSoulboundRemoval=Opravdu chceš nahradit stávající vylepšení? Odstraníš tím zároveň svázání předmětu s tvou duší.
+tagEnchantmentSoulboundConfirmation=Opravdu chceš použít toto vylepšení? Vylepšený předmět bude svázán s tvou duší.
+tagEnchantmentSoulboundOverwrite=Opravdu chceš nahradit stávající vylepšení? Vylepšený předmět bude svázán s tvou duší.
+tagEnchantmentSoulboundRemoval=Opravdu chceš nahradit stávající vylepšení? Odstraníš tím zároveň vazbu předmětu s tvou duší.
 
 tagEnchantTest=ZKUŠEBNÍ NÁZEV
 tagEnchantTestDesc="Zkušební popisek."^w^n(může vylepšit prsteny)
@@ -3285,7 +3285,7 @@ tagCompAScrapDesc="Kusy železa, zlámané šipky, kožené šňůry nebo nekval
 
 #ItemFactionBoosters
 
-tagFactionBooster={^E}Získaná přízeň se zvýší o {^H}{%d0} % {^E}vůči frakci {%s1}
+tagFactionBooster={^E}Veškerá získaná přízeň vůči frakci {^H}{%s1}{^E} se zvýší o {^H}{%d0} %.
 tagFactionAlreadyBoosted={^r}[tato frakce ti už udělila svůj mandát]
 
 tagFactionNegativeBooster={^E}Získaná nepřízeň se zvýšila o {^H}{%d0}% {^E}vůči frakci {%s1}
