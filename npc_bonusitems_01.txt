@@ -23,23 +23,23 @@ Pravda, tuhle bludičku už mám.
 Máš nějaké válečné medaile?
 Troufám si říct, že jsem zasloužilý válečný veterán.{^n}{^n}Která z nich tě zajímá?
 Co tahle zlatá?
-Ale, to je veterán ze starých válek, jak tak pozoruju.{^n}{^n}Tumáš, za svou letitou podporu si ji zasloužíš.{^n}{^n}*Kory zasalutuje*
+Ale, ty seš veterán ze starých válek, jak tak pozoruju.{^n}{^n}Tumáš, za svou letitou podporu si ji zasloužíš.{^n}{^n}*Kory zasalutuje*
 (získej předmět Mecenášova sláva)
-Ale, to je veterán ze starých válek, jak tak pozoruju.{^n}{^n}*Kory zasalutuje*{^n}{^n}Tohle vyznamenání sis jistě [[ms]vysloužil[fs]vysloužila] za chrabrou službu.
+Ale, ty seš veterán ze starých válek, jak tak pozoruju.{^n}{^n}*Kory zasalutuje*{^n}{^n}Tohle vyznamenání sis jistě [[ms]vysloužil[fs]vysloužila] za chrabrou službu.
 (zasalutovat)
 Co tahle oranžová?
-Ah, also served in the great Kickstarter Wars of 2012?{^n}{^n}Here, you've earned it.{^n}{^n}*Kory Salutes*
-(Receive Item: Kickstarter Service Medal)
-Ah, also served in the great Kickstarter Wars of 2012?{^n}{^n}*Kory Salutes*{^n}{^n}You've certainly earned that medal.
+No ne, tys také [[ms]sloužil[fs]sloužila] ve velké Kickstarterské válce roku 2012?{^n}{^n}Tumáš, zasloužíš si ji.{^n}{^n}*Kory zasalutuje*
+(získej Medaili úslužnosti Kickstarteru)
+No ne, tys také [[ms]sloužil[fs]sloužila] ve velké Kickstarterské válce roku 2012?{^n}{^n}*Kory zasalutuje*{^n}{^n}Tuhle medaili sis jistě [[ms]vysloužil[fs]vysloužila].
 (zasalutovat)
 Co tahle zelená?
-Ah, a veteran from the great Kickstarter Wars of 2012?{^n}{^n}Here, you've earned it.{^n}{^n}*Kory Salutes*
-(Receive Item: Kickstarter Veteran's Medal)
-Ah, a veteran from the great Kickstarter Wars of 2012?{^n}{^n}*Kory Salutes*{^n}{^n}You've certainly earned that medal.
+Že ty seš veterán velké Kickstarterské války roku 2012?{^n}{^n}Ta medaile patří tobě.{^n}{^n}*Kory zasalutuje*
+(získej Veteránskou medaili Kickstarteru)
+Že ty seš veterán velké Kickstarterské války roku 2012?{^n}{^n}*Kory zasalutuje*{^n}{^n}Tuhle medaili sis jistě [[ms]vysloužil[fs]vysloužila].
 (zasalutovat)
-How about this jeweled one?
-Ah, an officer from the great Kickstarter Wars of 2012?{^n}{^n}Here, you've earned it.{^n}{^n}*Kory Salutes*
-(Receive Item: Kickstarter Officer's Medal)
-Ah, an officer from the great Kickstarter Wars of 2012?{^n}{^n}*Kory Salutes*{^n}{^n}You've certainly earned that medal.
+Co tahle s těmi drahokamy?
+Nejseš ty důstojník z velké Kickstarterské války roku 2012?{^n}{^n}Tak to si zasloužíš tuhle medaili.{^n}{^n}*Kory zasalutuje*
+(získej Důstojnickou medaili Kickstarteru)
+Nejseš ty důstojník z velké Kickstarterské války roku 2012?{^n}{^n}*Kory zasalutuje*{^n}{^n}Tuhle medaili sis jistě [[ms]vysloužil[fs]vysloužila].
 (zasalutovat)
 Ehm, dobře. Sbohem.
