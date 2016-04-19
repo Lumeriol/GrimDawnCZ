@@ -3296,7 +3296,7 @@ tagFactionWarrantConfirmation=Opravdu chceš použít tento frakční oprávněn
 
 tagBoosterADesc=Frakční dokumenty, označující tě jako vzor pro jejich lid.
 tagBoosterBDesc=Frakční dokumenty pověřující někoho zástupcem. ^oMohou být uloženy u pašeráka a být využity jinými postavami. Nesčítá se s frakčními příkazy.
-tagBoosterCDesc=Plakát, kde jsi označen jako hledaný úhlavní nepřítel.
+tagBoosterCDesc=Plakát, kde jsi [ms]označen[fs]označena jako hledaný úhlavní nepřítel.
 tagBoosterBL_A01=Příkaz Černé legie
 tagBoosterBL_A02=Ráznější příkaz Černé legie
 tagBoosterBL_B01=Mandát Černé legie
