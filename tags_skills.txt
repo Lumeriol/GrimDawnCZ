@@ -377,7 +377,7 @@ tagClass04SkillDescription01D=Spustíš nekonečnou salvu přízračných čepel
 
 tagClass04SkillName02A=Úder ze stínu
 tagClass04SkillDescription02A=Lstivá kombinace iluze a duševního vychýlení ti umožňuje zdánlivě se vypařit a znovu se objevit před obětí jako hrůzostrašný přízrak. ^oVyžaduje chladnou zbraň.
-tagClass04SkillName02B=Nidallin ospravedlňující konec
+tagClass04SkillName02B=Nidallanin ospravedlňující konec
 tagClass04SkillDescription02B=Většina Nočních čepelí shledala charakter Nidally odporným, protože využívala jedy, ale pro Nidallu to byl "účel světící prostředky". Tato jedovatá otočka spolu s klasickým Úderem ze stínu zajistí konec jakéhokoliv nepřítele, který přežije původní útok.
 tagClass04SkillName02C=Soumrak
 tagClass04SkillDescription02C=Když se znovu objevíš a zaútočíš na svůj primární cíl, plášť temnoty padne na nepřátele v okolí jako ta nejtmavší a nejchladnější noc, která ochladí jejich krev a napadne jejich mysl nekontrolovatelnou únavou.
@@ -1725,8 +1725,8 @@ tagItemSkillD142Desc=Označíš svého nepřítele odhalujícím svitem rudého 
 tagItemSkillD143Name=Vlákna smrtelnosti
 tagItemSkillD143Desc=Převezmeš vlákna smrtelnosti svých nepřátel a z jejich životní energie uděláš svou vlastní.
 
-tagItemSkillD144Name=Nidallina pomsta
-tagItemSkillD144Desc=Nepřátelé, kteří se tě opovažují napadnout, mohou zažít velmi nepříjemné překvapení, až zjistí, jak jim Nidalliny jedy prosakují do žil.
+tagItemSkillD144Name=Nidallanina pomsta
+tagItemSkillD144Desc=Nepřátelé, kteří se tě opovažují napadnout, mohou zažít velmi nepříjemné překvapení, až zjistí, jak jim Nidallaniny jedy prosakují do žil.
 
 tagItemSkillD145Name=Jed nočního stínu
 tagItemSkillD145Desc=Vypustíš odporný toxin uchovaný v ostří, jež mění maso v kámen.
