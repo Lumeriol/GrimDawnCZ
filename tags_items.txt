@@ -77,6 +77,8 @@ tagWeaponSwordD009=Smrtonosný dráp
 tagWeaponSwordD010=Srdce bouří
 tagWeaponSwordD010Desc="Do rukojeti jsou vyleptaná dvě písmena: D.T."
 tagWeaponSwordD011=Plenitelův dráp
+tagWeaponSwordD012=Dráp Šílené královny
+tagWeaponSwordD012Desc="Odtržená od svých potomků a uvězněná pod zdmi pevnosti škvoří královna pomalu zešílela."
 
 tagWeaponSwordF001=Legionářský kráječ
 tagWeaponSwordF002=Ostří Vyvoleného
@@ -339,8 +341,8 @@ tagWeaponCrossbow2hC005=Mrazem bodající dech
 tagWeaponCrossbow2hC006=Vrhač tyčí
 tagWeaponCrossbow2hC007=Pavoučí objetí
 tagWeaponCrossbow2hC007B=Pavoučí objetí
-tagWeaponCrossbow2hC008=Bysmielův mizerný sochor
-tagWeaponCrossbow2hC008Desc="Symbolická zbraň oddaných stoupenců Bysmiela."
+tagWeaponCrossbow2hC008=Bysmielin mizerný sochor
+tagWeaponCrossbow2hC008Desc="Symbolická zbraň oddaných stoupenců Bysmiel."
 tagWeaponCrossbow2hC009=Ulda'Jax
 tagWeaponCrossbow2hC009Desc="Primitivní, ale překvapivě efektivní zbraň z horské divočiny."
 tagWeaponCrossbow2hC010=Samostříl s jiskřícími šipkami
@@ -957,6 +959,10 @@ tagHeadC029=Čelenka spalujícího hněvu
 tagHeadC030=Žencovy oči
 tagHeadC031=Myrmidonovo hledí
 tagHeadC032=Mogdrogenova kápě
+tagHeadC033=Přilbice strážce jiného světa
+tagHeadC033Desc="Přilbice rozostřuje tvůj zrak, jakoby při pohledu do jiného světa."
+tagHeadC034=Triumvirát
+tagHeadC034Desc="Požehnaný Trojicí."
 
 tagHeadD001=Chřtán beznaděje
 tagHeadD001Desc="Podívej se na mě a začni zoufat, tvá hodina právě nastala."
@@ -983,6 +989,10 @@ tagheadD018Desc="Koruna krále Hrothnara, vládce severních držav a syn velké
 tagHeadD019=Trozanův kapalec
 tagHeadD020=Valdunův kapalec
 tagHeadD021=Vyvrhelovo tajemství
+tagHeadD022=Hledí opředené tajemstvím
+tagHeadD022Desc="Helmice ti našeptává hlasem, který nedokážeš pochopit."
+tagHeadD023=Dohoda Tří
+tagHeadD023Desc="Síla podstaty čarodějných bohů zpečetěných dohodou, zavazuje je a jejich následníky, že se vzájemně nezničí."
 
 tagHeadF001=Vyvrhelova kapuce
 tagHeadF001Desc="Nemůžeš si pomoci, ale máš dojem, že ta maska na tebe zírá."
@@ -1046,7 +1056,7 @@ tagShoulderC006Desc="Symbolický oděv tajného řádu, vymýceného Samuelem Dr
 tagShoulderC007=Epolety lekavého střelmistra
 tagShoulderC008=Zdobené skládané nárameníky
 tagShoulderC009=Mecenášovy tkané nárameníky
-tagShoulderC009Desc="Nárameníky z peří velkého havrana, propůjčené čarodějnickým bohem Bysmielem jeho smrtelným následovníkům."
+tagShoulderC009Desc="Nárameníky z peří velkého havrana, propůjčené čarodějnickou bohyní Bysmiel jejím smrtelným následovníkům."
 tagShoulderC010=Zhoubné chrániče ramen
 tagShoulderC011=Ostrostřelcovo krytí
 tagShoulderC012=Bezbožné tkané nárameníky Závazku
@@ -1391,6 +1401,10 @@ tagLegsA004=[fp]kalhoty
 tagLegsA005=[fp]nohavice
 tagLegsA006=[mp]náholeníky
 
+tagLegsB001=[mp]náholeníky Dreegovy sekty
+tagLegsB002=[mp]náholeníky Solaeovy sekty
+tagLegsB003=[mp]náholeníky Bysmieliny sekty
+
 tagLegsC001=Kamaše mlžného chodce
 tagLegsC002=Poustevníkovy náholeníky
 tagLegsC003=Náholeníky obyvatele bažin
@@ -1675,7 +1689,7 @@ tagNecklaceC039=Mogdrogenův svazující smaragd
 tagNecklaceC040=Amulet aetherické bouře
 tagNecklaceC041=Mantikoří lazurit
 
-tagNecklaceD001=Bysmielova vůle
+tagNecklaceD001=Bysmielina vůle
 tagNecklaceD002=Vlákno smrtelnosti
 tagNecklaceD003=Ztělesnění soucitu
 tagNecklaceD003Desc="První ze sedmi posvátných ctností lidstva."
@@ -1843,7 +1857,7 @@ tagBlueprint_RelicD014=Plánek: Relikvie - Mstitel
 tagBlueprint_RelicD015=Plánek: Relikvie - Prvotní instinkt
 tagBlueprint_RelicD016=Plánek: Relikvie - Solaelovo zdecimování
 tagBlueprint_RelicD017=Plánek: Relikvie - Dreegovo utrpení
-tagBlueprint_RelicD018=Plánek: Relikvie - Bysmielova nadvláda
+tagBlueprint_RelicD018=Plánek: Relikvie - Bysmielina nadvláda
 tagBlueprint_RelicD019=Plánek: Relikvie - Oleronův hněv
 tagBlueprint_RelicD020=Plánek: Relikvie - Menhirova bašta
 tagBlueprint_RelicD021=Plánek: Relikvie - Iskandřina rovnováha
@@ -2019,11 +2033,13 @@ tagBlueprint_ArmorD012=Plánek: Markovianovo hledí
 tagBlueprint_ArmorD013=Plánek: Ulzuinův chránič hlavy
 tagBlueprint_ArmorD014=Plánek: Dreegova kapuce
 tagBlueprint_ArmorD015=Plánek: Střelmistrova kapuce
-tagBlueprint_ArmorD016=Plánek: Iskandřina čelenka
+tagBlueprint_ArmorD016=Plánek: Iskandřina kapuce
 tagBlueprint_ArmorD017=Plánek: Ultosova kapuce
 tagBlueprint_ArmorD018=Plánek: Koruna Zimního krále
 tagBlueprint_ArmorD019=Plánek: Trozanův kapalec
 tagBlueprint_ArmorD020=Plánek: Valdunův kapalec
+tagBlueprint_ArmorD021=Plánek: Hledí opředené tajemstvím
+tagBlueprint_ArmorD022=Plánek: Dohoda Tří
 
 
 tagBlueprint_AccessoryC001=Plánek: Maiveniny čočky
@@ -2163,7 +2179,7 @@ tagRelicD016=Solaelovo zdecimování
 tagRelicD016Desc="Říkali, že žádný člověk nemůže využít takovou moc. A tak jsem ukončil svůj lidský život."
 tagRelicD017=Dreegovo utrpení
 tagRelicD017Desc="Největší tajemství, které se od tebe drží daleko, je klam tvé křehké smrtelnosti."
-tagRelicD018=Bysmielova nadvláda
+tagRelicD018=Bysmielina nadvláda
 tagRelicD018Desc="Podívej se na ně, na ty malé loutky. Všechny se pohybují na mých neviditelných provázcích."
 tagRelicD019=Oleronův hněv
 tagRelicD019Desc="Krev... bolest... smrt. Chceš snad popřít válečné bubnování?"
@@ -2213,7 +2229,8 @@ tagCraftComponentRareDesc=Mimořádná kovářská technika se nejspíš na věk
 tagCraftShardBeronathDesc=Přemění ocel v úlomek svatého Beronatha.
 tagCraftRelicDesc=Starodávná kovářská technika ztracená dávno před Ponurým úsvitem.
 tagCraftTransmuteDesc=Pomocí žáru výhně a trochy alchymie mohou být vzácné materiály přeměněny na jiné, stejně vzácné výtvory.
-tagCraftRandomLegendaryDesc=Kovář dává dohromady surovou alchymistickou sílu s těmito předměty, aby vytvořil předmět s legendárními vlastnostmi.
+tagCraftRandomLegendaryDesc=Kovář dává dohromady surovou alchymistickou sílu s těmito předměty, aby vytvořil předmět s legendárními vlastnostmi. Ovšem ti, jež nemají úroveň 50, získají pouze epický předmět.
+tagCraftRandomLegendaryAccessoryDesc=Kovář dává dohromady surovou alchymistickou sílu s těmito předměty, aby vytvořil předmět s legendárními vlastnostmi. Ovšem ti, jež nemají úroveň 50, získají pouze epický předmět.
 
 tagCraftRandomAxe=Očarovaná sekyra
 tagCraftRandomBlunt=Očarovaná palice
@@ -3207,8 +3224,8 @@ tagCompA062Name=Zoubkovaná skořepina
 tagCompA062Desc="Tuhá skořepina vyrobená z řady hrozivých ostrých trnů."^w^n(může vylepšit štíty)
 
 
-tagCompB001Name=^kBysmielova vazba
-tagCompB001Desc="Kouzelná vazba používaná na sabatech Bysmiela k posílení kontroly nad vyvolávanými bytostmi."^w^n(může vylepšit hrudní zbroje)
+tagCompB001Name=^kBysmielina vazba
+tagCompB001Desc="Kouzelná vazba používaná na sabatech Bysmiel k posílení kontroly nad vyvolávanými bytostmi."^w^n(může vylepšit hrudní zbroje)
 
 tagCompB002Name=^kOleronův řetěz
 tagCompB002Desc="Rozbité články kdysi obsahovaly zuřivost boha Olerona."^w^n(může vylepšit hrudní zbroje)
@@ -3296,7 +3313,7 @@ tagFactionWarrantConfirmation=Opravdu chceš použít tento frakční oprávněn
 
 tagBoosterADesc=Frakční dokumenty, označující tě jako vzor pro jejich lid.
 tagBoosterBDesc=Frakční dokumenty pověřující někoho zástupcem. ^oMohou být uloženy u pašeráka a být využity jinými postavami. Nesčítá se s frakčními příkazy.
-tagBoosterCDesc=Plakát, kde jsi [ms]označen[fs]označena jako hledaný úhlavní nepřítel.
+tagBoosterCDesc=Plakát s tvou podobou, kde tě hledají jako úhlavního nepřítele.
 tagBoosterBL_A01=Příkaz Černé legie
 tagBoosterBL_A02=Ráznější příkaz Černé legie
 tagBoosterBL_B01=Mandát Černé legie
@@ -3692,6 +3709,8 @@ tagPrefixB030_Ar_A=[ms]ledový[fs]ledová[ns]ledové[mp]ledové[fp]ledové[np]le
 tagPrefixB031_Ar_A=[ms]bleskem zasažený[fs]bleskem zasažená[ns]bleskem zasažené[mp]bleskem zasažené[fp]bleskem zasažené[np]bleskem zasažené
 tagPrefixB032_Ar_A=[ms]démonický[fs]démonická[ns]démonické[mp]démonické[fp]démonické[np]démonické
 tagPrefixB033_Ar_A=|9Aetherického ohně
+tagPrefixB034_Ar_A=[ms]kaprálův[fs]kaprálova[ns]kaprálovo[mp]kaprálovi[fp]kaprálovy[np]kaprálovy
+tagPrefixB035_Ar_A=|9dominance
 
 tagPrefixB001_Class_A=[ms]úderníkův[fs]úderníkova[ns]úderníkovo[mp]úderníkovi[fp]úderníkovy[np]úderníkovy
 tagPrefixB002_Class_A=|9bijce čarodějnic
@@ -3699,10 +3718,10 @@ tagPrefixB003_Class_A=|9mistra čepelí
 tagPrefixB004_Class_A=|9bojového mága
 tagPrefixB005_Class_A=[ms]pyromantův[fs]pyromantova[ns]pyromantovo[mp]pyromantovi[fp]pyromantovy[np]pyromantovy
 tagPrefixB006_Class_A=[ms]sabotérův[fs]sabotérova[ns]sabotérovo[mp]sabotérovi[fp]sabotérovy[np]sabotérovy
-tagPrefixB007_Class_A=obchodníka se smrtí
-tagPrefixB008_Class_A=lovce čarodějnic
+tagPrefixB007_Class_A=[ms]kouzelníkův[fs]kouzelníkova[ns]kouzelníkovo[mp]kouzelníkovi[fp]kouzelníkovy[np]kouzelníkovy
+tagPrefixB008_Class_A=|9lovce čarodějnic
 tagPrefixB009_Class_A=[ms]čarodějův[fs]čarodějova[ns]čarodějovo[mp]čarodějovi[fp]čarodějovy[np]čarodějovy
-tagPrefixB010_Class_A=|9nočního lovce
+tagPrefixB010_Class_A=|9lamače kouzel
 tagPrefixB011_Class_A=[ms]bojovníkův[fs]bojovníkova[ns]bojovníkovo[mp]bojovníkovi[fp]bojovníkovy[np]bojovníkovy
 tagPrefixB012_Class_A=[ms]žhářův[fs]žhářova[ns]žhářovo[mp]žhářovi[fp]žhářovy[np]žhářovy
 tagPrefixB013_Class_A=[ms]kacířův[fs]kacířova[ns]kacířovo[mp]kacířovi[fp]kacířovy[np]kacířovy
@@ -3921,6 +3940,8 @@ tagSuffixB067_Ar_A=temného úmyslu
 tagSuffixB068_Ar_A=bojové zuřivosti
 tagSuffixB069_Ar_A=tajemné moci
 tagSuffixB070_Ar_A=kamenných pěstí
+tagSuffixB071_Ar_A=divokosti
+tagSuffixB072_Ar_A=nezkrocenosti
 
 tagSuffixB001_Sh_A=pevnosti
 tagSuffixB002_Sh_A=statečnosti
@@ -4068,8 +4089,8 @@ tagChestBossOneShot_Loghorrean=Loghorreanova zkaženost
 tagChestOneShot_Sacrifice=Isaacova skrýš
 tagChestOneShot_Generic01=Vznešená skrýš
 tagChestOneShot_Generic02=Vznešená skrýš
-tagChestOneShot_BurrwitchCave01=Zásoby netvora
-tagChestOneShot_LowerCrossingCave01=Zásoby netvora
+tagChestOneShot_BurrwitchCave01=Netvorova hromada
+tagChestOneShot_LowerCrossingCave01=Netvorova hromada
 tagChestOneShot_CultistSummoner=Karrozova truhlice
 tagChestOneShot_ChthonicAbomination=Chthonická truhla
 tagChestOneShot_HiddenWealth=Ukryté bohatství
@@ -4105,11 +4126,13 @@ tagUGDoorBoat=Nastoupit na loďku
 tagUGDoorObsidian=Obsidiánové trny
 tagUGDoorFort=Vstup do pevnosti
 tagUGDoorCrypt=Vstup do krypty
+tagUGDoorWitchGods=Označený kámen
 tagDoorLocked= {^R} ~ zamčeno
 
 tagDoorOneWay01=Útěk na povrch
 tagDoorLever01=Ovládání padací mříže
 tagTorchLever01=Uvolněná pochodeň
+tagStoneLever01=Uvolněný kámen
 
 #Doors
 
@@ -4134,6 +4157,7 @@ tagLocked_Kymon= {^R} ~ zapečetěno Otcem Kymonem
 tagLocked_Necro= {^R} ~ zapečetěno Řádem Strážců smrti
 tagLocked_Outcast= {^R} ~ zapečetěno Anasterií
 tagLocked_BoCGauntlet= {^R} ~ zapečetěno Strážci
+tagLocked_WitchGods= {^R} ~ zapečetěno tajemstvím opředenými silami
 
 #Quest Rewards
 

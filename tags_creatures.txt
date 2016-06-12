@@ -95,6 +95,9 @@ tagEnemyBoneRatRangedA01=Bezpáteřní krysa
 tagEnemyBoneRatMeleeB01=Vzteklá bezpáteřní krysa
 tagEnemyBoneRatMeleeB02=Morová bezpáteřní krysa
 
+tagEnemyBoneratWitchGodA01=Horečný morový netvor
+tagEnemyBoneratWitchGodA02=Hnijící morový netvor
+
 tagEnemyBoneRatMeleeB02_Summon=Halionova mrňavá krysa
 
 tagBoneRatHeroH01=Maledictus
@@ -362,6 +365,16 @@ tagHarvestmanHeroH02=Effigus, zamořený
 tagHarvestmanHeroH03=Asper ~ rychlý
 tagHarvestmanHeroH04=Strašák ~ rváč
 
+
+#Hellhound
+
+tagEnemyHellhoundA01=Pekelný pes
+
+tagEnemyHellHoundWitchGodA01=Rafan opředený tajemstvím
+tagEnemyHellHoundWitchGodA02=Pronásledovatel bouří opředený tajemstvím
+
+
+
 #CreatureHuman
 
 tagEnemyBloodswornA01=Krvepřísežník ~ pochlebovač
@@ -475,6 +488,7 @@ tagDermapteranBoss01=Velký vezír Lozakal
 tagDermapteranBoss02=Velký vezír Inixil
 tagDermapteranBoss03=Ravna ~ královna roje
 tagDermapteranBoss04=Strážce úlu Anoxis, nakažený
+tagDermapteranBoss05=Šílená královna Rashalga
 
 #CreatureInsectMosquito
 tagEnemyInsectMosquitoA01=Močálový krvožrout
@@ -569,6 +583,9 @@ tagEnemyCavePrawnB01=Jeskynní plazivec - albín
 tagEnemyCavePrawnC01=Jeskynní plazivec - pukavec
 tagEnemyCavePrawnSummonA01=Vyrojený jeskynní plazivec
 
+tagEnemyPrawnWitchGodA01=Hejno opředené tajemstvím
+tagEnemyPrawnWitchGodA02=Hrůzný plazivec
+
 tagPrawnHeroH01=Hladový Ravacrix
 tagPrawnHeroH02=Starodávný Palacrix
 tagPrawnHeroH03=Velacrix, přenašeč moru
@@ -593,6 +610,9 @@ tagEnemyRaptorB_MeleeA01=Větrný raptor ~ slídil
 tagEnemyRaptorB_RangedA01=Větrný raptor ~ atentátník
 tagEnemyRaptorB_ChampionA01=Větrný raptor ~ pán nebes
 
+tagEnemyRaptorWitchGodA01=Okřídlená hrůza
+tagEnemyRaptorWitchGodA02=Chlemtač života opředený tajemstvím
+
 tagRaptorHeroH01=Roztržitá duše
 tagRaptorHeroH02=Aragonax, požírač duší
 tagRaptorHeroH03=Baldim, nositel chaosu
@@ -614,6 +634,9 @@ tagEnemyPlanesHoundB01=Zploštělý rafan ~ vůdce smečky
 
 tagEnemyVoidHoundA01=Zmatečný pes
 tagEnemyVoidHoundB01=Zmatečný pes ~ vůdce smečky
+
+tagEnemyRiftHoundWitchGodA01=Pes opředený tajemstvím
+tagEnemyRiftHoundWitchGodA02=Alfa samec opředený tajemstvím
 
 tagRiftHoundHeroH01=Charrus
 tagRiftHoundHeroH02=Pán moru
@@ -735,6 +758,11 @@ tagEnemySpiderB01=Spřadač hrůzy ~ skákač
 tagEnemySpiderB02=Přadlena děsu ~ vdova
 tagEnemySpiderC01=Přadlena děsu ~ matka rodu
 tagEnemySpiderSummon=Pavoučí mládě
+
+tagEnemySpiderWitchGodA01=Pavoukovec opředený tajemstvím
+tagEnemySpiderWitchGodA02=Přadlena opředená tajemstvím
+tagEnemySpiderWitchGodA03=Matriarcha opředená tajemstvím
+tagEnemySpiderWitchGodSummon=Plazivec opředený tajemstvím
 
 tagSpiderHeroH01=Roztavený Oldelon
 tagSpiderHeroH02=Skokan Raglis
@@ -934,6 +962,13 @@ tagZombieHeroH08=Teselon ~ elektrizující
 tagZombieHeroH09=Zkáza požitků ~ nabíječ
 tagZombieHeroH10=Alrick "Kouzelný plamen"
 
+tagZombieMiniBoss01=Hnijící Farros
+tagZombieMiniBoss02=Rozpadlý Jillius
+tagZombieMiniBoss03=Zchřadlý Neegan
+tagZombieMiniBoss04=Znetvořený Balros
+tagZombieMiniBoss05=Trýzněná Hagra
+
+
 #CreatureZombieHound
 
 tagEnemyZombieHoundA01=Otrávený pes
@@ -1018,6 +1053,7 @@ tagEnemySummonAetherTrap=Aetherická past
 tagEnemySummonIceCrystal=Ledový krystal
 tagEnemySummonTentacle=Zkroucené chapadlo
 tagEnemySummonVoid=Entropická Prázdnota
+tagEnemySummonWitchGodCrystal=Strážný maják
 
 tagEnemyMogdrogenBoar=Mogdrogenův ledošpičák
 tagEnemyMogdrogenRat=Mogdrogenova bezpáteřní krysa
@@ -1032,15 +1068,18 @@ tagQuestChthonianMonstrosity=Thall'Nosh Rozparovač
 tagQuestBloodWagon=Povoz krve
 
 tagBossTheWarden01=Warden Krieg
-tagBossOutcast01=Anasteria, Aetherianská zlodějka
-tagBossOutcast02=Anasteria, Aetherická pomsta
-tagBossOutcast03=Anasteria, Aetherický hněv
 tagBossLoghorrean01=Loghorrean "Hlas Ch'thona"
 tagBossLoghorreanTentacle01=Loghorreanovo chapadlo
 tagBossLoghorreanTentacle02=Loghorreanovo chapadlo
 tagBossLoghorreanTentacleCluster=Chuchvalec chapadel
 
 tagMiscTargetDummy=Tréninková atrapa
+
+tagQuestWitchGod01=Dreegův strážce
+tagQuestWitchGod01_Summon=Dreegovo oko
+tagQuestWitchGod02=Solaelův strážce
+tagQuestWitchGod03=Bysmielin strážce
+tagQuestWitchGod04=Hlídka
 
 #Nemesis
 tagNemesis_Aetherial01=Valdaran, bouřná pohroma
