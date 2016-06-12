@@ -7,7 +7,6 @@ tagMenu04=Nastavení
 tagMenu05=Autoři
 tagMenu06=Aktualizace
 tagMenu07=Ukončit hru
-tagMenu08=Režim přežití
 tagMenuButton01=Vytvořit postavu
 tagMenuButton02=Importovat
 tagMenuButton03=Smazat postavu
@@ -76,6 +75,10 @@ tagDifficultyJoinNormal=Pouze normální obtížnost
 tagDifficultyJoinElite=Až do elitní obtížnosti
 tagDifficultyJoinUltimate=Až do ultimátní obtížnosti
 tagDifficultyJoinAny=Jakákoliv obtížnost
+
+tagSDifficultyTitle01=Bronzová
+tagSDifficultyTitle02=Stříbrná
+tagSDifficultyTitle03=Zlatá
 
 tagPlayOptionsAccept=Přijmout
 tagPlayOptionsCancel=Zrušit

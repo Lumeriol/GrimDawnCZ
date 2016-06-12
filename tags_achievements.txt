@@ -33,7 +33,7 @@ ach007Title=Krvavé povstvání
 ach007Desc=Zbav Cairn 100.000 příšer.
 
 ach008Title=Oceán krve
-ach008Desc=Zbav Cairn 1.000.000 příšer.
+ach008Desc=Zbav Cairn 500.000 příšer.
 
 ach009Title=Přátelé v apokalypse
 ach009Desc=Získej si přízeň některé frakce.
@@ -153,7 +153,7 @@ ach047Title=Žádné výjimky
 ach047Desc=Zlikviduj Anastarii.
 
 ach048Title=Neočekával jsem tě, člověče
-ach048Desc=Zlikviduj Wardena Kriega ve Veteránském režimu s postavou na nižší než 11. úrovni.
+ach048Desc=Zlikviduj Wardena Kriega ve Veteránském režimu než tvá postava dosáhne 11. úrovně.
 
 ach049Title=Zabezpečení vesnice Burrwitch
 ach049Desc=Zabezpeč Burrwitchskou bránu ve Veteránském režimu.

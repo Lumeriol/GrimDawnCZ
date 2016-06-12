@@ -51,7 +51,7 @@ tagSkillClassDescription01=Vojáci císařské armády byli trénováni k přež
 
 tagSkillClassDescription02=[[ms]Pyrotechničtí mistři císařské armády. Ničitelé jsou částečně inženýři a částečně kouzelníci. Byli využíváni k prolomení nepřátelských pozic a opevnění za pomoci své zničující výbavy různých výbušnin a destruktivní magie. Obvykle dávali přednost boji na dálku; útočili na nepřátele střelnými zbraněmi, pastmi a výbušninami. Samozřejmě jsou také schopni použít chladnou zbraň. [fs]Pyrotechnické mistryně císařské armády. Ničitelky jsou částečně inženýrky a částečně kouzelnice. Byly využívány k prolomení nepřátelských pozic a opevnění za pomoci své zničující výbavy různých výbušnin a destruktivní magie. Obvykle dávaly přednost boji na dálku; útočily na nepřátele střelnými zbraněmi, pastmi a výbušninami. Samozřejmě jsou také schopny použít chladnou zbraň.]
 
-tagSkillClassDescription03=[[ms]Poté, co byli pronásledováni císařskými vojsky ve snaze ovládnout svou podivnou moc, se Okultisté zaměřili na vyvolávání, a vypůjčili si energii od tří čarodějnických "bohů" - Bysmiela, Solaela a Dreega. Mezi jejich různorodá umění patří odporné kletby a kouzla, která způsobují zranění jedem, kyselinou a chaotickou energií. Nevynikají v boji s mečem ani střelnou zbraní, ale mohou je použít jako dodatečnou údernou sílu. [fs]Poté, co byly pronásledovány císařskými vojsky ve snaze ovládnout svou podivnou moc, se Okultistky zaměřily na vyvolávání, a vypůjčily si energii od tří čarodějnických "bohů" - Bysmiela, Solaela a Dreega. Mezi jejich různorodá umění patří odporné kletby a kouzla, která způsobují zranění jedem, kyselinou a chaotickou energií. Nevynikají v boji s mečem ani střelnou zbraní, ale mohou je použít jako dodatečnou údernou sílu.]
+tagSkillClassDescription03=[[ms]Poté, co byli pronásledováni císařskými vojsky ve snaze ovládnout svou podivnou moc, se Okultisté zaměřili na vyvolávání, a vypůjčili si energii od tří čarodějnických bohů - Bysmiel, Solaela a Dreega. Mezi jejich různorodá umění patří odporné kletby a kouzla, která způsobují zranění jedem, kyselinou a chaotickou energií. Nevynikají v boji s mečem ani střelnou zbraní, ale mohou je použít jako dodatečnou údernou sílu. [fs]Poté, co byly pronásledovány císařskými vojsky ve snaze ovládnout svou podivnou moc, se Okultistky zaměřily na vyvolávání, a vypůjčily si energii od tří čarodějnických bohů - Bysmiel, Solaela a Dreega. Mezi jejich různorodá umění patří odporné kletby a kouzla, která způsobují zranění jedem, kyselinou a chaotickou energií. Nevynikají v boji s mečem ani střelnou zbraní, ale mohou je použít jako dodatečnou údernou sílu.]
 
 tagSkillClassDescription04=[[ms]Noční lovci byli tajní bojovníci, kteří nabízeli své služby velkým rodům v říši. Noční lovci vynikají v boji se všemi druhy bojových zbraní, ale největší obavy vzbuzují smrtící magické nože, jež jsou jejich obchodním tajemstvím. Noční lovci nejsou přizpůsobeni k tělesnému kontaktu s odolnějším nepřítelem a raději se spoléhají na svou iluzi o rychlém a zničujícím přepadení, nebo na boj z určité vzdálenosti s jejich přízračnými noži. [fs]Noční lovkyně byly tajné bojovnice, které nabízely své služby velkým rodům v říši. Noční lovkyně vynikají v boji se všemi druhy bojových zbraní, ale největší obavy vzbuzují smrtící magické nože, jež jsou jejich obchodním tajemstvím. Noční lovkyně nejsou přizpůsobeny k tělesnému kontaktu s odolnějším nepřítelem a raději se spoléhají na svou iluzi o rychlém a zničujícím přepadení, nebo na boj z určité vzdálenosti s jejich přízračnými noži.]
 
@@ -290,7 +290,7 @@ tagClass03SkillDescription02E=Vrozený útok.
 tagClass03SkillName02F=Planoucí smrt
 tagClass03SkillDescription02F=Tělo pekelného psa vybuchne ve chvíli, kdy se navrací do své přirozené sféry a zapálí nepřátele v blízkosti.
 
-tagClass03SkillName03A=Smlouva s Bysmielem
+tagClass03SkillName03A=Smlouva s Bysmiel
 tagClass03SkillDescription03A=Posiluje pouta, kterými ovládáš své nohsledy, díky čemuž bojují s větším důrazem a odhodláním.
 tagClass03SkillName03B=Manipulace
 tagClass03SkillDescription03B=Jemná manipulace s pouty, kterými ovládáš své nohsledy, je okouzlí a získají pocit ohromující oddanosti vůči tobě, což způsobí, že budou bojovat s až fanatickou silou a rychlostí.
@@ -354,7 +354,7 @@ tagClass03SkillName08B=Spálení energie
 tagClass03SkillDescription08B=Umocňuje zranění chaosem a navíc spálí část nepřítelovi energie a způsobí další zranění energickým popálením.
 tagClass03SkillName09A=Kruh ochrany
 tagClass03SkillDescription09A=Vytvoří okolo sesilatele magický kruh, který obnovuje život a odrazí ty, jež mají zlý úmysl.
-tagClass03SkillName15A=Bysmielova ochrana
+tagClass03SkillName15A=Bysmielina ochrana
 tagClass03SkillDescription15A=Uzamkne cíl uvnitř ochraňující a uzdravující svatyně, kde se nemůžou hýbat, ale jsou ochráněni před jakoukoliv újmou.
 
 
@@ -377,7 +377,7 @@ tagClass04SkillDescription01D=Spustíš nekonečnou salvu přízračných čepel
 
 tagClass04SkillName02A=Úder ze stínu
 tagClass04SkillDescription02A=Lstivá kombinace iluze a duševního vychýlení ti umožňuje zdánlivě se vypařit a znovu se objevit před obětí jako hrůzostrašný přízrak. ^oVyžaduje chladnou zbraň.
-tagClass04SkillName02B=Nidallanin ospravedlňující konec
+tagClass04SkillName02B=Nidallin ospravedlňující konec
 tagClass04SkillDescription02B=Většina Nočních čepelí shledala charakter Nidally odporným, protože využívala jedy, ale pro Nidallu to byl "účel světící prostředky". Tato jedovatá otočka spolu s klasickým Úderem ze stínu zajistí konec jakéhokoliv nepřítele, který přežije původní útok.
 tagClass04SkillName02C=Soumrak
 tagClass04SkillDescription02C=Když se znovu objevíš a zaútočíš na svůj primární cíl, plášť temnoty padne na nepřátele v okolí jako ta nejtmavší a nejchladnější noc, která ochladí jejich krev a napadne jejich mysl nekontrolovatelnou únavou.
@@ -400,7 +400,7 @@ tagClass04SkillName05C=Amarastin rychlý řez
 tagClass04SkillDescription05C=Amarasta je legendou díky své rychlosti a říkalo se, že zvuk jejích mečů byl jako svist vzduchu, zanechávající pouze paprsky světla, protože byly tak rychlé, že je okem nebylo možné sledovat. Mistři v této technice mohou zaútočit třikrát za dobu jediného klasického útoku. ^oToto je technika dvou chladných zbraní a je aktivována výchozím útokem těchto zbraní.
 tagClass04SkillName05D=Vířivá smrt
 tagClass04SkillDescription05D=Devastující technika zaměřená na boj s vícero cíli. Ti, kteří přežijí, budou krvácet jako z tisíce řezných ran. ^oToto je technika dvou zbraní a aby tato schopnost účinkovala, musí být aktivní.
-tagClass04SkillName05E=Nidallanina skrytá dlaň
+tagClass04SkillName05E=Nidallina skrytá dlaň
 tagClass04SkillDescription05E=Kontroverzní mistryně Nočních lovců Nidalla předváděla krutou účinnost jedů během Věku nerozumu, kdy kombinovala odporné toxiny s dalšími technikami Nočních lovců, díky čemuž dokázala přetrvat v boji proti obrovské převaze. ^oTato technika ovlivňuje Belgothianovy nůžky, Amarastin rychlý řez a Vířivou smrt.
 tagClass04SkillName05F=Poprava
 tagClass04SkillDescription05F=Nelítostný úder, uštědřený během chvilky, kdy byla příležitost, s úmyslem rychle dorazit protivníka. Ti, kteří přežijí, nebudou s největší pravděpodobnosti žít dlouho. ^oToto je technika dvou chladných zbraní a je aktivována výchozím útokem těchto zbraní.
@@ -1564,7 +1564,7 @@ tagItemSkillD089Name=Pán nestvůr
 tagItemSkillD089Desc=Uzákoníš svou vůli nad všemi svými nohsledy a těmi, jež jsou tvými přáteli. ^oAby tato schopnost účinkovala, musí být aktivní.
 
 tagItemSkillD090Name=Nestvůrné odhodlání
-tagItemSkillD090Desc=Ďábelská kniha tě naplní odhodlaností a umožní ti tak pokračovat v boji.
+tagItemSkillD090Desc=Ďábelská figurka tě naplní odhodlaností a umožní ti tak pokračovat v boji.
 
 tagItemSkillD091Name=Konečná
 tagItemSkillD091Desc=Nabodneš své nepřátele na ostny trčící ze štítu.
@@ -1725,8 +1725,8 @@ tagItemSkillD142Desc=Označíš svého nepřítele odhalujícím svitem rudého 
 tagItemSkillD143Name=Vlákna smrtelnosti
 tagItemSkillD143Desc=Převezmeš vlákna smrtelnosti svých nepřátel a z jejich životní energie uděláš svou vlastní.
 
-tagItemSkillD144Name=Nidallanina pomsta
-tagItemSkillD144Desc=Nepřátelé, kteří se tě opovažují napadnout, mohou zažít velmi nepříjemné překvapení, až zjistí, jak jim Nidallaniny jedy prosakují do žil.
+tagItemSkillD144Name=Nidallina pomsta
+tagItemSkillD144Desc=Nepřátelé, kteří se tě opovažují napadnout, mohou zažít velmi nepříjemné překvapení, až zjistí, jak jim Nidalliny jedy prosakují do žil.
 
 tagItemSkillD145Name=Jed nočního stínu
 tagItemSkillD145Desc=Vypustíš odporný toxin uchovaný v ostří, jež mění maso v kámen.
@@ -2002,15 +2002,19 @@ tagItemSkillD235Name=Anasteřina devastace
 tagItemSkillD235Desc=Tato technika roztrhne roušku reality a skrze trhlinu začnou padat žhavé kusy surové arkanické energie. ^oVyžaduje kouzelnický předmět v druhé ruce. Žhavé úlomky budou padat po dobu trvání kouzla.
 
 tagItemSkillD236Name=Justikarova stráž
-tagItemSkillD236Desc=Velký arbitr pevně odolává všem úderům. ^oToto je pasivní bonus aplikovaný na štít.
+tagItemSkillD236Desc=Velký arbitr pevně odolává všem úderům. ^oToto je pasivní bonus aplikovaný na chladnou zbraň.
 
 tagItemSkillD237Name=Justikarova pomsta
-tagItemSkillD237Desc=Horvald jen zřídkakdy prohodil slovo, místo toho nechával mluvit svůj štít. ^oToto je pasivní bonus aplikovaný na štít.
+tagItemSkillD237Desc=Horvald jen zřídkakdy prohodil slovo, místo toho nechával mluvit svou zbraň. ^oToto je pasivní bonus aplikovaný na chladnou zbraň.
 
 tagItemSkillD238Name=Moc Pozorovatele
 tagItemSkillD238Desc=Proudí skrze tebe moc Pozorovatele.
 
+tagItemSkillD239Name=Black Flame
+tagItemSkillD239Desc=A patch of Eldritch flames erupts underneath your foes.
 
+tagItemSkillD240Name=Mad Queen's Bite
+tagItemSkillD240Desc=Lash out desperately at nearby foes, driving your blade deep.
 
 tagItemSkillFailName=Selhávání
 tagItemSkillFailDesc=Selhat je těžší.
@@ -2150,7 +2154,7 @@ tagCompSkillB005Desc=Spálíš svého nepřítele temným plamenem Solaela.
 tagCompSkillB006Name=Oleronova moc
 tagCompSkillB006Desc=Úder zbraní, jež způsobí těžkou újmu nepříteli a ochromí ho.
 
-tagCompSkillB007Name=Bysmielova vazba
+tagCompSkillB007Name=Bysmielina vazba
 tagCompSkillB007Desc=Podmaníš své nohsledy své vůli. ^o(pasivní bonus)
 
 
@@ -2531,8 +2535,8 @@ tagDevotion_B10=Nemrtvý
 tagDevotion_B10Desc=Nemrtvý reprezentuje smrt a utrpení. Říká se, že nikdo neunikne jeho mrtvolnému pohledu, dokonce ani samotní bohové.
 tagDevotion_B11=Solaelova čarovná dýka
 tagDevotion_B11Desc=Říká se, že Solael byl ten nejkrutější z třech čarodějnických bohů, který vykuchal nespočet obětí svou zakřivenou obětní dýkou ve svém šíleném pronásledování nesmrtelnosti.
-tagDevotion_B12=Bysmielova pouta
-tagDevotion_B12Desc=Říká se, že Bysmiel, čarodějnický bůh, byl poslán na šibenici, tam opustil své fyzické bytí a vstoupil na nebesa. Jeho zpřetrhané řetězy jsou jedinou známkou úniku.
+tagDevotion_B12=Bysmieliny pouta
+tagDevotion_B12Desc=Říká se, že čarodějnická bohyně Bysmiel byla poslána na šibenici, kde opustila své fyzické bytí a vstoupila na nebesa. Její zpřetrhané řetězy jsou jedinou známkou úniku.
 tagDevotion_B13=Bouře
 tagDevotion_B13Desc=Říká se, že bouře září nejjasněji, když na horizontu hrozí nebezpečná smršť. Také se říká, že děti zrozené během bouře jsou předurčeny k velkým věcem.
 tagDevotion_B14=Targo stavitel
@@ -2654,7 +2658,7 @@ tagDevotionEffectB10Desc=Vyvoláš mrtvé, nechť ti slouží. Nicméně nekroti
 tagDevotionEffectB10_Pet01=Útok zblízka
 tagDevotionEffectB11=Podivný oheň
 tagDevotionEffectB11Desc=Z tvých úderů začnou vycházet podivné plameny, jež se divoce rozšíří mezi tvými nepřáteli.
-tagDevotionEffectB12=Bysmielův příkaz
+tagDevotionEffectB12=Bysmielin příkaz
 tagDevotionEffectB12Desc=Přivoláš Podivného ohaře, který uchopí a roztrhá tvé nepřátele. Přítomnost ohaře ve fyzickém světě je nestabilní a proto zůstane na tvé straně jen po omezenou dobu. ^oOhař sílí spolu se zvyšujícími se bonusy pro spojence.
 tagDevotionEffectB12_Pet01=Zuby a pařáty
 tagDevotionEffectB12_Pet02=Morový dech
@@ -2679,8 +2683,8 @@ tagDevotionEffectB29Desc=Obětuješ nezvladatelnou duši a ochraníš sebe před
 tagDevotionEffectB30=Očištující voda
 tagDevotionEffectB30Desc=Uloovy čistící vody vypudí veškerou odpornou magii z oblasti a odebere prospěšné aury a kouzla z tvých nepřátel, zatímco jsou tví spojenci očišťováni od negativních vlivů, včetně efektů, které tě v průběhu času zraňují.
 
-tagDevotionEffectC01=Zastavení času
-tagDevotionEffectC01Desc=Písek v hodinách zastaví svůj neustálý pohyb a tak se zastaví i čas tvých nepřátel, jež se tě opováží napadnout.
+tagDevotionEffectC01=Časová dilatace
+tagDevotionEffectC01Desc=The sands of the hourglass spin in an untamed whirlwind. The laws of time itself no longer apply to you.
 tagDevotionEffectC02=Výbuch zkaženosti
 tagDevotionEffectC02Desc=Zkaženost kolující tvým tělem bude uvolněna a vznikne tak masivní exploze odporných jedů.
 tagDevotionEffectC03=Strašlivá síla
@@ -2787,3 +2791,11 @@ tagEnemySkillD01_Desc=Prázdnota tě pomalu trhá na kousky vlivem chaotické en
 
 tagEnemySkillD02=Ohnivý démon
 tagEnemySkillD02_Desc=Spalují tě vířící se plameny.
+
+tagEnemySkillD03=Siphoning Spirit
+tagEnemySkillD03_Desc=A vile spirit haunts you and saps your vitality and regeneration.
+
+tagEnemySkillD04=Eldritch Aura
+tagEnemySkillD04_Desc=Raw eldritch energies surround this crystal, empowering eldritch beings and harming natural life.
+
+

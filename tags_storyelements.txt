@@ -199,7 +199,10 @@ tagWorldMapBastionOfChaos=Bašta{^n}Chaosu
 tagWorldMapTombofWatchers=Hrobka{^n}Strážců
 tagWorldMapTombofArchon=Archónova{^n}hrobka
 tagWorldMapNecropolisGates=Brány{^n}Pohřebiště
-
+tagWorldMapHiddenPath=Utajená{^n}stezka
+tagWorldMapWitchGodTemple=Chrám Tří
+tagWorldMapWitchGodBoss=Svatyně{^n}čarodějných bohů
+tagWorldMapCorpseCave=Zřídlo{^n}mrtvých
 
 #Underground Names
 
@@ -443,6 +446,11 @@ tagNotification_AreaD_FortIkonRiftgate=Brána se hemží aetherijskými bojovní
 tagNotification_AreaD_FinalCryptLocked=Krypta je zapečetěna kultistickými pečetěmi, které jsou ještě umocněny nedalekými vozy krve.
 tagNotification_AreaD_FinalBossUlgrim=Brány Prázdnoty se rozevřeny kolem podél celého sálu a požraly Ulgrima!
 
+tagNotification_WitchGods_Shrine02=Cesta před tebou se otevřela....
+tagNotification_WitchGods_Shrine03=Utajená stezka se ti otevřela...
+tagNotification_WitchGods_3Markers=Tvé spojení s čarodějnými bohy tě posiluje.
+tagNotification_WitchGods_Secret=Někde poblíž se posunula kamenná zeď.
+
 tagNotification_WarningToughArea=Na tomhle místě se nachází mnohem mocnější síly, než jsi schopen porazit...
 tagNotification_WarningRiftgateDisabled=Tvé spojení s Bránou se zdá být v tomhle místě nemožné...
 tagNotification_WarningGatesOfAnguish=Brány utrpení byly otevřeny. Ale pospěš si, protože nezůstanou otevřeny dlouho...
@@ -487,6 +495,8 @@ tagNPC_DevilsCrossing_05=Kuldo
 tagNPC_DevilsCrossing_06=Edwin
 tagNPC_DevilsCrossing_07=Rose - strážkyně
 tagNPC_DevilsCrossing_08=Chester
+
+tagNPC_WitchGodAttendant=Hlídač
 
 tagNPC_Homestead_01=Minova
 tagNPC_Homestead_02=Darius Cronley
@@ -752,6 +762,15 @@ tagQuestItem_Dravis_A03Text=Drahá Dailo,{^n}konečně to všechno začíná do 
 tagLoreObj_AreaDDravis_NoteA04Name=Dravisův poslední dopis Daile
 tagLoreObj_AreaDDravis_NoteA04codexTitle=Dravisův dopis Daile
 tagLoreObj_AreaDDravis_NoteA04Text=Dailo,{^n}celý se klepu v očekávání toho, co přijde, takže tyto řádky ti píšu značně roztřesenou rukou. Náš otec, naše dědictví, to je víc, než o co jsem si kdy mohl říct, mnohem víc, než jsem si dokázal vůbec představit. Aby nám odepřel toto dědictví... to je příkoří na vlastních dětech. Ale pochopil jsem jeho tajemství a nenechám se vydědit.{^n}{^n}Dailo, náš otec je nesmrtelný. Aby se jím stal, musel vydržet šílenou bolest během jedné chvíle, kdy do jeho těla vstoupily statisíce duší. Který ponurý den v historii se tohle odehrálo, to ti nedokážu říct. Ale tady, na Pohřebišti, připravoval náš otec ještě trochu jiný rituál. Ten měl vytěžit to, co zbylo z trýzněných mrtvých v hrobech, aby doplnil své vlastní zdrcené bytí. Ale z nějakého důvodu tento rituál nikdy nedokončil. Pečeť už byla rozlomena. Jediné, co zbývalo, bylo zapálit hranici a nabídnout živou oběť.{^n}{^n}Bez váhání jsem dokončil to, co on nemohl. A ačkoliv nejsem opravdu nesmrtelný jako on, moc v těchto duších stačí na to, abych ho vystopoval a on tak zaplatil za všechno to utrpení, kterého se na nás dopustil. Pak, až bude moje pomsta dokončena, použiju všechno to neštěstí, které ničí svět, tak, jak to kdysi před mnoha staletími udělal náš otec.{^n}{^n}Pokud se rozhodneš ke mně připojit, vyhledej mě na severu. Budu vítězně stát nad popelem našeho otce.{^n}{^n}Dravis
+
+tagQuestItemShrineMarker_Dreeg=Runestone of Dreeg
+tagQuestItemShrineMarker_Dreeg_Text="Runestone carried by the thralls of Dreeg. There is an inscription along the edge: Though the Three are now as one, it was not always so. Wary of the other's power, they quarelled across Cairn in destructive displays of Eldritch might. Mountains crumbled and RIVERS shifted, but no god emerged the victor..."
+
+tagQuestItemShrineMarker_Bysmiel=Runestone of Bysmiel
+tagQuestItemShrineMarker_Bysmiel_Text="Runestone carried by the followers of Bysmiel. There is an inscription along the edge: ...And so, by the light of the EASTERN star, the Three joined together at their Sanctum. Bound by divine blood, their quarrels put to rest. The Covenant of the Three was forged."
+
+tagQuestItemShrineMarker_Solael=Runestone of Solael
+tagQuestItemShrineMarker_Solael_Text="Runestone carried by the adherents of Solael. There is an inscription along the edge: ...In the end it was Solael who looked past the carnage and saw the inevitability of their actions. In truth, none could triumph where all three were equal. He sent his loyal Attendant to speak before the rest of a resolution. They would seal a pact, there among the SWAMPY remains of their last skirmish."
 
 
 #Journals
@@ -1166,11 +1185,30 @@ tagLoreObj_AreaDCultist_NoteA02Name=Dveře jsou otevřené
 tagLoreObj_AreaDCultist_NoteA02Text=Něco se změnilo. Něco ve vzduchu je cítit jinak. Je to jako být na dně lahve, když je vytažen korek a všechen ten tlak se uvolní a moje duše vyletí z mého těla v omračujícím výbuchu. Moje myšlenky jsou pomatené a já se stěží udržím na nohou.{^n}{^n}Cítím to. Hluboko pod zemí byly konečně dokončeny poslední obřady a dveře byly otevřeny. Krev se ve mně navaluje. Tlačí se. Dere se ven. Přitahuje mně blíž. Musím jít. Musím vidět to velké probouzení. Pokud jsem vyvolený, jsem připraven být mnohem víc, být s Ch'thonem jako jeden.{^n}{^n}Kabalista Zakul
 
 tagLoreObj_AreaDCultist_NoteA03Name=Prozíravé hrdinství
-tagLoreObj_AreaDCultist_NoteA03Text=Se vším tím zlem vypuštěným do tohoto světa bylo spojení s Krvepřísežníky asi to nejsmysluplnější, co jsem mohl udělat. Nejdřív to bylo z důvodů uniknutí před těmi aetherianskými hrůzami, a kvůli smrti mé rodiny, mé ženy a syna. Ale později jsem začal chápat a věřit slovům vůdců kultu, kterými mě chlácholili. Smysl sounáležitosti mi dával pocit důležitosti. To, že jsem součástí něčeho většího, než jsem já samotný.{^n}{^n}Teď, když stojím v sálech tohoto mocného místa, cítím oči všech, kteří se vzdali svých životů: vojevůdců, velkých hrdinů a bezpočtu tisíců těch, kteří je následovali. Bojovali za to, abychom mohli žít beze strachu z bezejmenných ďáblů, kterým teď sloužím. Cítím čest a obětování svých předků a sám se stydím. Jsem zahanben všemi těmi hrůzami, které jsem zanechal na své cestě.{^n}{^n}Celé měsíce jsem dělal ty nejodpornější a nevyslovitelné věci. Smrt manželů, manželek a dětí mám na svých zkrvavených rukách, a to jenom abych posloužil svému vlastnímu sobectví, abych se zbavil svého vlastního strachu a abych potlačil svědomí, které mne dohnalo k tomuto šílenství. Smrt a vraždění, všechno ve jménu nějakého dávno mrtvého boha, který nemá na krev ve svých žilách o moc větší právo než já. Na krev, která náležela těm, které jsem zabil v jeho jménu.{^n}{^n}Krví nasáklé základy jeho zapomenutého bojiště mě zbavily strachu a probraly mě. Neexistuje odpuštění pro to, co jsem prováděl, není trestu, který by to všechno kdy ospravedlnil. Ale mohu obětovat svůj poslední výdech, svou poslední kapku krve a svůj zbytek života k tomu, abych způsobil co největší škody, a zastavil aspoň něco z toho, co se tady děje. Ale nebudu v tom sám. Velcí hrdinové budou při mně a proto se toho nebojím.
+tagLoreObj_AreaDCultist_NoteA03Text=Se vším tím zlem vypuštěným do tohoto světa bylo spojení s Krvepřísežníky asi to nejsmysluplnější, co jsem mohl udělat. Nejdřív to bylo z důvodů uniknutí před těmi aetherianskými hrůzami, a kvůli smrti mé rodiny, mé ženy a syna. Ale později jsem začal chápat a věřit slovům vůdců kultu, kterými mě chlácholili. Smysl sounáležitosti mi dával pocit důležitosti. To, že jsem součástí něčeho většího, než jsem já samotný.{^n}{^n}Teď, když stojím v sálech tohoto mocného místa, cítím oči všech, kteří se vzdali svých životů: vojevůdců, velkých hrdinů a bezpočtu tisíců těch, kteří je následovali. Bojovali za to, abychom mohli žít beze strachu z bezejmenných ďáblů, kterým teď sloužím. Cítím čest a obětování svých předků a sám se stydím. Jsem zahanben všemi těmi hrůzami, které jsem zanechal na své cestě.{^n}{^n}Celé měsíce jsem dělal ty nejodpornější a nevyslovitelné věci. Smrt manželů, manželek a dětí mám na svých zkrvavených rukách, a to jenom abych posloužil svému vlastnímu sobectví, abych se zbavil svého vlastního strachu a abych potlačil svědomí, které mne dohnalo k tomuto šílenství. Smrt a vraždění, všechno ve jménu nějakého dávno mrtvého boha, který nemá na krev ve svých žilách o moc větší právo než já. Na krev, která náležela těm, které jsem zabil v jeho jménu.{^n}{^n}Krví nasáklé základy jeho zapomenutého bojiště mě zbavily strachu a probraly mě. Neexistuje odpuštění pro to, co jsem prováděl, není trestu, který by to všechno kdy ospravedlnil. Ale mohu obětovat svůj poslední výdech, svou poslední kapku krve a svůj zbytek života k tomu, abych způsobil co největší škody. Ale nebudu v tom sám. Velcí hrdinové budou stát při mně a proto se toho nebojím.
 
 tagLoreObj_AreaDCultist_NoteA04Name=Poslední pečeť
 tagLoreObj_AreaDCultist_NoteA04Text=Konečně stojíme před krví nasáklými branami vítězství. Loghorrean brzy povstane a spolu s ním povstane nový věk. Jste to vy, moji věrní prosebníci, kdo vydláždil cestu k našemu velkému vítězství. Vaše odhodlání a obětování nás dovedla na práh vítězství, a já už tuším, co bude následovat.{^n}{^n}Pradávní byli odhodlaní postavit tuto komnatu vítězství. Stovka nejlepších říšských alchymistů obětovala svůj život ve jménu zesílení run, které jsou teď vázány na Loghorreanův hrob. Věřili, že jsou této oběti hodni, a že jejich pečeti jsou neproniknutelné. Ale i tak máme armádu o mnoha tisících povstalých, posílených mocí Mrtvého boha; moci, kterou nebude možné porazit.{^n}{^n}Jsem potěšen, že jsem přiložil nůž na krky svých nejvěrnějších, aby jejich život vyprchal s krví ženoucí se ven; krev, kterou ochotně věnovali v tuto závěrečnou hodinu. S mocí jejich krve jsem roztříštil poslední pečeť a začal s rituálem. Brzy povstane Loghorrean ze svého věčného spánku. Svět se opět roztřese pod neustávajícím dohledem Ch'thonových Úst.{^n}{^n}Nechť krev teče!{^n}{^n}Thalonis, Ch'thonův Pán krve
 
+
+#Witch God Shrine Notes
+tagLoreObj_WitchGods_NoteA01Name=The Hidden Path - Dreeg
+tagLoreObj_WitchGods_NoteA01Text=Welcome, seeker of the truth, to this bastion of knowledge. You have taken your first step along the way to the deeper truths, as countless brothers and sisters have before you. The path now presented to you is a treacherous one. You will be persecuted for your practices, hunted like a rodent by the empire's Luminari hounds; but to persevere, to endure the trials that our patron Lords have endured, that is the way to true power through the eldritch realm.{^n}{^n}You stand before the shrine of Dreeg, the oldest of the three Witch Gods. The Great Guardian sought to know all, to see the truth behind the veil that blinds us all. In arrogance, or perhaps foresight, he cast aside the ancient warnings and the cautionary words of his peers. Dreeg reached into the veil and witnessed the workings of the gods themselves. For his hubris, he was struck blind, but it was then that his eyes had become truly open. Exposed to the wild magic of the eldritch realm, he was forever changed. Cruel spines pierced his flesh, acidic blood dripping from the festering wounds for all eternity. What emerged from beyond the veil bore little resemblance to the man that entered. Dreeg was reborn...a god.{^n}{^n}Dreeg now watches over us all, his peerless gaze pierces through our very souls and sees us for who we really are. To stand before the Great Guardian is an honor without match, to hear His voice is a blessing from the heavens themselves. If you are indeed deserving of his attention, then follow the way of the Three: travel to the broken lands beyond the Arkovian border, where harpies feast on the flesh of the unworthy. Seek a path blocked by stone. If you carry the message of Dreeg, the way shall open before you.
+
+tagLoreObj_WitchGods_NoteA02Name=The Hidden Path - Solael
+tagLoreObj_WitchGods_NoteA02Text=You have traveled far, seeker, and seen much, but still the veil between worlds blinds you to the deeper truths. You stumble about the world we inhabit, eager for answers that the Empire and its Luminari deny. They think us heretics, followers of false gods, and yet none of them can claim to have witnessed the power of their deities. Their...illusions.  Show me the cripples that Menhir has cured; the armies that Oleron has toppled; the beasts that Mogdrogen spared from the hunt. You cannot, because they are not real. But the Witch Gods, born of man, had ascended to raise us from our own ignorance. If you are willing to listen, they may open your eyes as well.{^n}{^n}You now stand before the shrine of Solael, the youngest of the Three. Eldritch fire is at his behest, the very essence of the eldritch realm his to mold and shape as he sees fit. Clothed in black robes that hide his gaunt frame, Solael glides unseen through the shadowy veil to hunt unwitting mortals for their vitality. Many a devout of Solael had been asked to make the ultimate sacrifice, to present themselves before the dark god and offer their life so that Solael may bestow his infinite wisdom upon those that remain.{^n}{^n}You, worthy seeker, do not yet have the attention of the gods, but know that with each step you take you bring yourself closer to the Three. Go now to the frozen lands of the north, where primitive tribes had constructed standing stones ages ago. Armed with the words of Solael and Dreeg, the way shall be opened to you.
+
+tagLoreObj_WitchGods_NoteA03Name=The Hidden Path - Desecrated
+tagLoreObj_WitchGods_NoteA03Text=The sight before you may bring you pause, seeker, and rightfully it should for the ignorant followers of Mogdrogen had found their way here. The defilers entered our ritual grounds, befouled the shrine and threatened our secrets. Revenge was swift and justified. Know that their entrails littered the valley, what remained scattered for the mountain yetis to fight over.{^n}{^n}Fear not, seeker of the Hidden Path, for the way forward is secured. Return to the Asterkarn Road and follow it Southeast. Underneath the Legion ramparts, the marked stone awaits. If you are truly sent here by the Three, then the way to Bysmiel shall open to you.
+
+tagLoreObj_WitchGods_NoteA04Name=The Hidden Path - Bysmiel
+tagLoreObj_WitchGods_NoteA04Text=At last, brave seeker, you arrive at the final shrine, the sacred grounds of Bysmiel the Schemer. Through her vast web of servants, Bysmiel tugs on the strings of fate that bind us all. It was she who taught the first occultists in the art of binding eldritch beings and it is through her machinations that the empire is still aimlessly hunting us to this day, their inquisitors confounded by the endless weave of decoys and dead ends. Only a chosen few are privileged to witness even a portion of the Schemer's vast network, and even they could never comprehend it in its entirety if given the opportunity.{^n}{^n}By reaching this far, you too are now a part of Bysmiel's web, forever bound to what you have seen and heard. In your hands you now possess the secret to the Temple of the Three. If you are prepared to commit your very existence to the Witch Gods, then follow the clues contained therein. Your destiny awaits you at the sanctum.
+
+tagLoreObj_WitchGods_NoteA05Name=The Runes Fall Silent
+tagLoreObj_WitchGods_NoteA05Text=The runes are extinguished one by one; and with each one gone another of my informants falls to the calamity that has consumed the Capital. The world crumbles around us and the temple walls shake with outrage. The Three are not pleased by the incursion. Twice now I have seen heralds thrown out of the Attendant's chamber, their eye sockets hollow with eldritch flame. No, they are not pleased at all.{^n}{^n}Already I can hear scheming whispers among the servants of Solael, wondering if the time has come for us to dissolve the Covenant and seek our own opportunities in this new reality that we face. I dismiss this as the rationale of terrified fools. It is of no concern; the most vocal dissenters had already been offered at Solael's altar. The thralls of Dreeg are as cryptic as ever, their mad ramblings speak of tides of blood shifting in a vast emptiness. They claw at their faces and tear out their hair, their minds barely able to withstand the presence of their god. But it would take someone far wiser and more experienced than I to unravel the disturbing messages Dreeg imparts upon his followers.{^n}{^n}My concerns are only with the weave. With our informants gone silent, we have become blinded to the outside world. The lady Bysmiel demands word from Erulan, but I have nothing to offer. I am beginning to fear that it is my eyes the Attendant will claim next.{^n}{^n}Karrin Taros, Servant of Bysmiel
+
+tagLoreObj_WitchGods_NoteA06Name=Ramblings of Ughdar
+tagLoreObj_WitchGods_NoteA06Text=Twice the moon has waned, the Great Eye weeps with tears of blood. The seas rage and the waters run red. The others had fallen silent, but yet the words remain, painted clear on the wall with gore. I study them, but their meaning eludes me. I study them yet I am no wiser. Tell me, great Guardian, what truth escapes me? What does Dreeg desire of this frail form of flesh and bone?{^n}{^n}Your infinite gaze reaches out across the realm. It has seen the unseen. It has witnessed the green flame devour all. Its tendrils threaten our walls, our beliefs, our fates. Tell me, Master of Secrets, what must be done? The blood of the unwilling that I spilled in your name has run dry in my search for your voice. Have you too fallen silent to our pleas?{^n}{^n}The quiet is too quiet. The voices are gone. I must hear their chattering sermons once more or I shall go mad! I must see beyond what I can see. If the gods will not come to me, than I shall seek them where they lay dreaming.{^n}{^n}Ughdar Claz, Servant of Dreeg
 
 #Guards
 
@@ -1269,6 +1307,12 @@ tagStoreDesc_SmithA05_2=Kladivo Etrama Falda je prý ukováno ze samotných hvě
 tagStoreDesc_SmithA05_3=
 tagStoreDesc_SmithA05_4=Vyrobené zbraně, zbroj a příslušenství jsou prodchnuty jednou z následujících vlastností:
 
+tagNPC_SmithA06=Hallena
+tagStoreTitle_SmithA06=Kovářka Legionářů
+tagStoreDesc_SmithA06_1={}Poznání nepřítele
+tagStoreDesc_SmithA06_2=Hallena sledovala a studovala nepřátele lidstva a naučila se vkládat jejich moc do kovářského řemesla.
+tagStoreDesc_SmithA06_3=
+tagStoreDesc_SmithA06_4=Vyrobené zbraně, zbroj a příslušenství jsou prodchnuty jednou z následujících vlastností:
 
 #Faction Quartermasters
 tagNPC_FactionQuartermaster_01=Ellis
