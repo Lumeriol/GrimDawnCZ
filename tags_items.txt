@@ -2048,12 +2048,12 @@ tagBlueprint_AccessoryC003=Plánek: Mantikoří lazurit
 tagBlueprint_AccessoryC004=Plánek: Znak prudkého odhodlání
 tagBlueprint_AccessoryC005=Plánek: Rubín živelné rovnováhy
 tagBlueprint_AccessoryC006=Plánek: Safír živelné rovnováhy
-tagBlueprint_AccessoryC007=Plánek: Mocný amulet rozsévače moru
-tagBlueprint_AccessoryC008=Plánek: Mocná Beronathova esence
-tagBlueprint_AccessoryC009=Plánek: Mocná pečeť bouře
+tagBlueprint_AccessoryC007=Plánek: Mocnější amulet rozsévače moru
+tagBlueprint_AccessoryC008=Plánek: Mocnější Beronathova esence
+tagBlueprint_AccessoryC009=Plánek: Mocnější pečeť bouře
 tagBlueprint_AccessoryC010=Plánek: Pelerína ze spalujících vláken
 tagBlueprint_AccessoryC011=Plánek: Pelerína rovnováhy
-tagBlueprint_AccessoryC012=Plánek: Mocná chthonská vláknitá pelerína
+tagBlueprint_AccessoryC012=Plánek: Mocnější chthonská vláknitá pelerína
 
 tagBlueprint_AccessoryD001=Plánek: Smaragd ze zběsilé hvězdy
 tagBlueprint_AccessoryD002=Plánek: Esence Ponurého úsvitu
