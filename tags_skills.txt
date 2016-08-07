@@ -105,7 +105,7 @@ tagClass01SkillName02D=Zemětřas
 tagClass01SkillDescription02D=S Menhirovou vůlí silně udeříš do země obouruční zbraní a roztrháš své nepřátele devastujícími vlnami energie. ^oVyžaduje obouruční chladnou zbraň. Zemětřas nevylepšuje výchozí typ útoku a nemůže způsobit efekt jako třeba Markovianova výhoda.
 
 tagClass01SkillName03A=Prudký útok
-tagClass01SkillDescription03A=Vyrazíš do boje s drtivou otočkou a překvapivě zasáhneš nepřátele. ^oVyžaduje chladnou zbraň. Pokud je použit štít, pak je započítáváno jen zranění štítem.
+tagClass01SkillDescription03A=Vyrazíš do boje s drtivou otočkou a překvapivě zasáhneš nepřátele. ^oVyžaduje chladnou zbraň. Pokud je použit štít, pak je započítáno i zranění štítem.
 tagClass01SkillName03B=Ohromení
 tagClass01SkillDescription03B=Neočekávanost a zuřivost tvého útoku rozhodí tvé nepřátele, což sníží jejich odvahu bojovat.
 
@@ -183,7 +183,7 @@ tagClass02SkillName02B=Spalující světlo
 tagClass02SkillDescription02B=Vypálí nepřátelům do sítnice to, co naposledy viděli, a sníží tak jejich schopnost přesně zasáhnout.
 
 tagClass02SkillName03A=Ohnivý úder
-tagClass02SkillDescription03A=Smrtící alchymistická technika způsobí, že údery spalují vzduch okolo nepřítele. ^oPokud je dovednost použita jako výchozí útok, přidává Ohnivému úderu fyzické a ohnivé zranění.
+tagClass02SkillDescription03A=Smrtící alchymistická technika způsobuje, že každý úder spaluje vzduch okolo nepřítele. ^oPokud je dovednost použita jako výchozí útok, způsobuje Ohnivý úder dodatečná zranění.
 tagClass02SkillName03B=Výbušný úder
 tagClass02SkillDescription03B=Zvyšuje potenciál Ohnivého úderu a dává mu tak šanci způsobit zvýšené zranění ohněm. ^oS útokem na dálku také exploduje, což způsobuje zranění nepřátel v blízkém okolí.
 tagClass02SkillName03C=Statický úder
@@ -1567,7 +1567,7 @@ tagItemSkillD090Name=Nestvůrné odhodlání
 tagItemSkillD090Desc=Ďábelská figurka tě naplní odhodlaností a umožní ti tak pokračovat v boji.
 
 tagItemSkillD091Name=Konečná
-tagItemSkillD091Desc=Nabodneš své nepřátele na ostny trčící ze štítu.
+tagItemSkillD091Desc=Nabodneš své nepřátele na ostny trčící ze štítu. ^oVyžaduje chladnou zbraň.
 
 tagItemSkillD092Name=Oheň a síra
 tagItemSkillD092Desc=Posíláš se kataklyzmatickou silou ohně a síry.
@@ -1983,8 +1983,8 @@ tagItemSkillD228Desc=Roztříštíš obranu blízkých nepřátel svým fyzický
 tagItemSkillD229Name=Padající kometa
 tagItemSkillD229Desc=Trozanovy síly pokračovaly ve vývoji volání padajících úlomků nebes až do dne, kdy svrhnul samotné nebe.
 
-tagItemSkillD230Name=Děrovací nábojnice
-tagItemSkillD230Desc=Vytvoříš vlastní nábojnici, která prorazí tvůj cíl.
+tagItemSkillD230Name=Tříštivá nábojnice
+tagItemSkillD230Desc=Vystřelíš zvláštní nábojnici, která prorazí a roztrhá tvůj cíl.
 
 tagItemSkillD231Name=Valdunova smrtonosnost
 tagItemSkillD231Desc=Valdun byl nechvalně známý pro svůj talent s puškami. ^oToto je pasivní bonus k obouručním střelným zbraním.
@@ -2002,10 +2002,10 @@ tagItemSkillD235Name=Anasteřina devastace
 tagItemSkillD235Desc=Tato technika roztrhne roušku reality a skrze trhlinu začnou padat žhavé kusy surové arkanické energie. ^oVyžaduje kouzelnický předmět v druhé ruce. Žhavé úlomky budou padat po dobu trvání kouzla.
 
 tagItemSkillD236Name=Justikarova stráž
-tagItemSkillD236Desc=Velký arbitr pevně odolává všem úderům. ^oToto je pasivní bonus aplikovaný na chladnou zbraň.
+tagItemSkillD236Desc=Velký arbitr pevně odolává všem úderům. ^oToto je pasivní bonus vyžadující chladnou zbraň nebo štít.
 
 tagItemSkillD237Name=Justikarova pomsta
-tagItemSkillD237Desc=Horvald jen zřídkakdy prohodil slovo, místo toho nechával mluvit svou zbraň. ^oToto je pasivní bonus aplikovaný na chladnou zbraň.
+tagItemSkillD237Desc=Horvald jen zřídkakdy prohodil slovo, místo toho nechával mluvit svou zbraň. ^oToto je pasivní bonus vyžadující chladnou zbraň nebo štít.
 
 tagItemSkillD238Name=Moc Pozorovatele
 tagItemSkillD238Desc=Proudí skrze tebe moc Pozorovatele.
@@ -2095,7 +2095,7 @@ tagCompSkillA024Name=Oslňující štít
 tagCompSkillA024Desc=Prodchne tvůj štít proti živlům.
 
 tagCompSkillA025Name=Posvátný úder
-tagCompSkillA025Desc=Udeří nepřátele devastujícím zásahem, který oslabí jejich odolnost vůči živlům.
+tagCompSkillA025Desc=Udeří nepřátele devastujícím zásahem, který oslabí jejich odolnost.
 
 tagCompSkillA026Name=Úder štítem
 tagCompSkillA026Desc=Udeříš svého nepřítele štítem, slabší nepřátele můžeš úplně ochromit. ^oVyžaduje chladnou zbraň.
@@ -2257,7 +2257,7 @@ tagRelicSkillD003Name=Přivolání Mstitele
 tagRelicSkillD003Desc=Přivolá Mstitele, poloboha stínů a pána nočního lovu. ^oZtělesnění Mstitele může v jednu chvíli být sesláno pouze jednou. Mstitel sílí spolu s tvými bonusy ke zranění.
 
 tagRelicSkillD004Name=Citadela
-tagRelicSkillD004Desc=Posílí tvou obranu a obranu tvých spojenců a stanete se tak chodícími pevnostmi. ^oVyžaduje štít. Aby tato schopnost účinkovala, musí být aktivní.
+tagRelicSkillD004Desc=Posílí tvou obranu a obranu tvých spojenců a stanete se tak chodícími pevnostmi. Aby tato schopnost účinkovala, musí být aktivní.
 
 tagRelicSkillD005Name=Aura Vyvolávače bouří
 tagRelicSkillD005Desc=Posilníš sebe a své spojence silou bouře. ^oAby tato schopnost účinkovala, musí být aktivní.
@@ -2308,7 +2308,7 @@ tagRelicSkillD020Name=Menhirova bašta
 tagRelicSkillD020Desc=Zesílíš ochraňujícím duchem Menhira a ochraníš tak sebe a své spojence před újmou.
 
 tagRelicSkillD021Name=Nevyváženost živlů
-tagRelicSkillD021Desc=Bolest, kterou musíš snášet, narušuje tvou pečlivou vyváženost mezi živly, což uvolní dávku energie, která donutí tvé nepřátele litovat toho, že se k tobě byť jen přiblížili. ^oVyžaduje kouzelnický příruční předmět.
+tagRelicSkillD021Desc=Tvůj zuřivý útok může občas narušit tvou pečlivou vyváženost mezi živly, což uvolní dávku energie, která donutí tvé nepřátele litovat toho, že se k tobě byť jen přiblížili. ^oVyžaduje kouzelnický příruční předmět.
 
 
 
@@ -2665,13 +2665,13 @@ tagDevotionEffectB12_Pet02=Morový dech
 tagDevotionEffectB13=Bezohledná bouře
 tagDevotionEffectB13Desc=Naroste v tobě statická energie a je odpoutá se ve formě blesků ve chvíli, kdy jsou v okolí nepřátelé.
 tagDevotionEffectB14=Hradba ze štítu
-tagDevotionEffectB14Desc=Tvůj štít se promění v bariéru, která překračuje svá fyzická omezení. ^oVyžaduje štít.
+tagDevotionEffectB14Desc=Kolem tebe se vytvoří metafyzická bariéra.
 tagDevotionEffectB15=Vánice
 tagDevotionEffectB15Desc=Úlomky ledu ostrého jako břitva začnou padat z oblohy na tvé nepřátele.
 tagDevotionEffectB16=Páchnoucí jezírko
 tagDevotionEffectB16Desc=Pod nohami tvých nepřátel se objeví jezírko hnisu a zničí zemi.
 tagDevotionEffectB17=Bariéra živlů
-tagDevotionEffectB17Desc=Tvůj štít se stane bariérou proti prvkům magie.
+tagDevotionEffectB17Desc=Kolem tebe se vytvoří bariéra vůči silám magie.
 tagDevotionEffectB18=Jedovatá sprška
 tagDevotionEffectB18Desc=Mantikoří osten projde skrze zbroj nepřítele, za níž rozpráší kapičky leptavého jedu.
 tagDevotionEffectB20=Válečný posel

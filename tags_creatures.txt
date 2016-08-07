@@ -370,7 +370,7 @@ tagHarvestmanHeroH04=Strašák ~ rváč
 
 tagEnemyHellhoundA01=Pekelný pes
 
-tagEnemyHellHoundWitchGodA01=Rafan opředený tajemstvím
+tagEnemyHellHoundWitchGodA01=Podvraťák opředený tajemstvím
 tagEnemyHellHoundWitchGodA02=Pronásledovatel bouří opředený tajemstvím
 
 

@@ -847,6 +847,9 @@ tagTwoHandedMace=obouruční palcát
 tagTwoHandedAxe=obouruční sekyra
 tagTwoHandedRifle=obouruční střelná zbraň
 
+tagSpear=oštěp
+tagStaff=hůl
+
 tagWeaponUnknown=bůh ví co to je
 
 #ArmorSlots
