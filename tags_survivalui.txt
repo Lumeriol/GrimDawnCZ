@@ -66,7 +66,7 @@ tagHUDMultiplier01=Score Multiplier
 tagHUDMultiplier01Info=The Score Multiplier you achieved; based on how many consecutive Bonus Timers you beat. If you fail to beat the Bonus Timer, the Multiplier resets.
 
 tagHUDTribute01=Tributes
-tagHUDTribute01Info=How many Tributes you have earned at the Crucible. Tributes are a currency that can be spent on various Celestial Blessings, Defenses and to Gamble for greater rewards. You cannot have more than 100 Tributes at a time.
+tagHUDTribute01Info=How many Tributes you have earned at the Crucible. Tributes are a currency that can be spent on various Celestial Blessings, Defenses and to resume at various checkpoints. You cannot have more than 100 Tributes at a time.
 
 tagHUDTimer01=Bonus Timer
 tagHUDTimer01Info=If you defeat a Crucible Wave before this timer expires, the Score Multiplier will increase.
