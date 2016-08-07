@@ -2,30 +2,30 @@
 
 
 #Defenses
-tagDefense_Turret01=Inferno Beacon
-tagDefense_Turret02=Deathchill Beacon
-tagDefense_Turret03=Stormcaller Beacon
-tagDefense_Banner01=Stonewall Banner
-tagDefense_Banner01_Skill01=Stonewall Aura
-tagDefense_Banner01_Skill01Desc=The Banner steels you for battle, increasing % Defensive Ability, % Health and Health Regeneration
-tagDefense_Banner01_Skill02=Healing Mist
-tagDefense_Banner01_Skill02Desc=The Banner renews you for continued conflict, restoring health.
-tagDefense_Banner02=Vanguard Banner
-tagDefense_Banner02_Skill01=Vanguard Aura
-tagDefense_Banner02_Skill01Desc=The Banner fills you with rage, increasing % Offensive Ability, % Crit damage and % All damage
-tagDefense_Banner02_Skill02=Frenzy
-tagDefense_Banner02_Skill02Desc=The Banner fills you with rage, increasing Total Speed.
-tagDefense_Wall01=Barricade
+tagDefense_Turret01=Pekelná střílna
+tagDefense_Turret02=Střílna mrazivé smrti
+tagDefense_Turret03=Střílna vyvolavače bouří
+tagDefense_Banner01=Korouhev kamenné zdi
+tagDefense_Banner01_Skill01=Aura kamenné zdi
+tagDefense_Banner01_Skill01Desc=Tato korouhev tě zoceluje v boji, zvyšuje obrannou schopnost, život a regeneraci života.
+tagDefense_Banner01_Skill02=Mlha života
+tagDefense_Banner01_Skill02Desc=Tato korouhev ti zaceluje rány během bitvy a obnovuje tak tvé zdraví.
+tagDefense_Banner02=Korouhev předvoje
+tagDefense_Banner02_Skill01=Aura předvoje
+tagDefense_Banner02_Skill01Desc=Tato korouhev tě naplňuje vztekem, čímž zvyšuje útočnou schopnost, kritické zásahy a celkové zranění.
+tagDefense_Banner02_Skill02=Šílenství
+tagDefense_Banner02_Skill02Desc=Tato korouhev tě naplňuje zuřivostí a zvyšuje tak celkovou rychlost.
+tagDefense_Wall01=Barikáda
 
-tagBeacon01=Celestial Beacon
-tagBeacon_Aura01_Skill=Celestial Aura
-tagBeacon_Aura01_Desc=The Celestial Light of the beacon shields you from the darkness.
+tagBeacon01=Nebeský maják
+tagBeacon_Aura01_Skill=Aura nebes
+tagBeacon_Aura01_Desc=Nebeské světlo z tohoto majáku tě chrání před temnotou.
 
 #Traps
-tagTrap_A01=Frost Pylon
-tagTrap_A02=Infernal Pylon
-tagTrap_A03=Death Pylon
-tagTrap_A04=Toxic Pylon
+tagTrap_A01=Sloup mrazu
+tagTrap_A02=Sloup pekla
+tagTrap_A03=Sloup smrti
+tagTrap_A04=Sloup jedu
 
 tagTrap_SkillA01=Chilling Presence
 tagTrap_SkillA01_Desc=The nearby pylon saps you of warmth, slowing you.
@@ -37,79 +37,79 @@ tagTrap_SkillA04=Toxic Presence
 tagTrap_SkillA04_Desc=The nearby pylon is choking you with poisonous fumes, reducing damage.
 
 #PowerUps
-tagSkillPowerup01=Blessing of Ulo
+tagSkillPowerup01=Ulovo požehnání
 tagSkillPowerup01Desc=You are blessed by Ulo, granting you resistance to damage over time and crowd control effects.
 
 tagSkillPowerup02=Empyrion's Guidance
 tagSkillPowerup02Desc=You are blessed by the light of Empyrion, granting you unparalleled fortitude.
 
-tagSkillPowerup03=Might of Amatok
+tagSkillPowerup03=Amatokova síla
 tagSkillPowerup03Desc=You are marked by the spirit of Amatok, granting you incredible might.
 
-tagSkillPowerup04=Ulzuin's Pact
+tagSkillPowerup04=Ulzuinova dohoda
 tagSkillPowerup04Desc=You are marked by Ulzuin, granting you restless fury.
 
 
 #Rewards
-tagItem_ChestA01=Journeyman's チェスト
-tagItem_ChestB01=Champion's チェスト
-tagItem_ChestC01=Triumphant チェスト
-tagItem_ChestD01=Ornate チェスト
-tagItem_ChestE01=Heroic チェスト
-tagItem_ChestF01=Valorous チェスト
-tagItem_ChestG01=Grand チェスト
-tagItem_ChestH01=Supreme チェスト
-tagItem_ChestI01=Magnificent チェスト
-tagItem_ChestJ01=Glorious チェスト
-tagItem_ChestK01=Transcendent チェスト
-tagItem_ChestL01=Nemesis Trove
-tagItem_ChestM01=Conqueror's Trove
-tagItem_ChestN01=Celestial Trove
+tagItem_ChestA01=Nádeníkova truhla
+tagItem_ChestB01=Šampiónova truhla
+tagItem_ChestC01=Truhla vítězství
+tagItem_ChestD01=Zdobená truhla
+tagItem_ChestE01=Truhla hrdinů
+tagItem_ChestF01=Truhla neohrožených
+tagItem_ChestG01=Velkolepá truhlice
+tagItem_ChestH01=Ohromující truhlice
+tagItem_ChestI01=Nádherná truhlice
+tagItem_ChestJ01=Skvostná truhlice
+tagItem_ChestK01=Přepychová truhlice
+tagItem_ChestL01=Mstitelův poklad
+tagItem_ChestM01=Dobyvatelův poklad
+tagItem_ChestN01=Nebeský poklad
 
-tagItem_ChestStart=Fallen Combatant
+tagItem_ChestStart=Padlý bojovník
 
 #Arenas
-tagSurvivalArena_01=Crucible of the Dead
-tagSurvivalArena_02=Crucible of the Deeps
-tagSurvivalArena_03=Crucible of the Sands
-tagSurvivalArena_04=Crucible of the Grove
+tagSurvivalArena_01=Aréna mrtvých
+tagSurvivalArena_02=Aréna hlubin
+tagSurvivalArena_03=Aréna písků
+tagSurvivalArena_04=Aréna hrobů
 
 #NPCs
-tagNPC_Event_01=Lokarr, Master of the Crucible
-tagNPC_DefenseSite_01=Defense Site
+tagNPC_Event_01=Lokarr, Mistr arény
+tagNPC_DefenseSite_01=Staveniště
 
 tagNPC_MerchantS01=Kandral
-tagStoreTitle_MerchantS01=Immortal Peddler
+tagStoreTitle_MerchantS01=Nesmrtelný překupník
 
 tagNPC_SmugglerS01=Ignotius
-tagStoreTitle_SmugglerS01=Immortal Smuggler
+tagStoreTitle_SmugglerS01=Nesmrtelný pašerák
 
 tagNPC_ReallocatorS01=Kracius
-tagStoreTitle_ReallocatorS01=Spirit Guide
+tagStoreTitle_ReallocatorS01=Kaplan
 
 tagNPC_InventorS01=Yvalla
-tagStoreTitle_InventorS01=Ancient Inventor
+tagStoreTitle_InventorS01=Vynálezce dávných věků
 
-tagNPC_PowerupsS01=Torralia, the Immortal Archmage
+tagNPC_PowerupsS01=Torralia, nesmrtelná čarodějka
 
 tagNPC_SmithS01=Garrius
-tagStoreTitle_SmithS01=Cursed Smith
-tagStoreDesc_SmithS01_1={}Gift of Unlife
-tagStoreDesc_SmithS01_2=Garrius is gifted with centuries of smithing knowledge, bolstered by his rather unique...state of existence.
+tagStoreTitle_SmithS01=Prokletý kovář
+tagStoreDesc_SmithS01_1={}Dar neživota
+tagStoreDesc_SmithS01_2=Garrius je obdarován staletými kovářskými znalostmi, jež jsou posíleny jeho poněkud jedinečným... stavem existence.
 tagStoreDesc_SmithS01_3= 
-tagStoreDesc_SmithS01_4=Crafted Weapons, Armor and Accessories are imbued with one of the following properties:
+tagStoreDesc_SmithS01_4=Vyrobené zbraně, zbroj a příslušenství jsou prodchnuty jednou z následujících vlastností:
 
 
 #Notifications
-tagNotification_Start=Speak to the Master of the Crucible to Begin
-tagNotification_Active=Eliminate all Enemies
-tagNotification_Continue=Speak to the Master of the Crucible to Continue
-tagNotification_Failure=You have failed, your Compensation awaits in the Treasure Chamber
-tagNotification_Reward=Your Reward awaits in the Treasure Chamber
-tagNotification_Reset=(Optional) Speak to the Master of the Crucible to Reset the Crucible for another attempt
+tagNotification_Start=Pro zahájení bitvy si promluv s Mistrem arény
+tagNotification_Active=Zlikviduj všechny nepřátele
+tagNotification_Continue=Pro pokračování si promluv s Mistrem arény
+tagNotification_Failure=Tvá snaha byla marná, ale za svou účast navštiv Síň pokladů
+tagNotification_Reward=Tvá odměna na tebe čeká v Síni pokladů
+tagNotification_Reset=(volitelné) Promluv si s Mistrem arény pro nmožnost zkusit tuto arénu ještě jednou
 
-tagNotification_Checkpoint05=You can now resume on Wave 50 in this Crucible.
-tagNotification_Checkpoint10=You can now resume on Wave 100 in this Crucible.
+tagNotification_Checkpoint05=Od teď se můžeš vrátit v této aréně k 50. vlně.
+tagNotification_Checkpoint10=Od teď se můžeš vrátit v této aréně ke 100. vlně.
 
 
 #Mutators
