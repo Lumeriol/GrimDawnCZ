@@ -33,7 +33,7 @@ tagLoadingTip20={^g}Tip: {^w}Větší šanci na získání skvělé kořisti má
 tagTutorialTip06Title=Nedotčené jídlo
 tagTutorialTip06TextA=Opuštěné jídlo můžeš najít po celém světě Cairnu, protože vtšinou ho někde zapomněli méně úspěšní dobrodruzi. Jeho pozřením si doplníš chybějící Konstituci.
 
-tagTutorialTip08Title=Vítejte ve hře Grim Dawn
+tagTutorialTip08Title=Vítej ve hře Grim Dawn
 tagTutorialTip08TextA=Děkujeme ti, že podporuješ naší práci se hrou. Grim Dawn vznikl především na základě štědrosti našich sponzorů a hráčů, když přispívali skrze naše webové stránky, na Kickstarteru, nebo si koupili hru s předběžným přístupem na Steamu.
 tagTutorialTip08TextB=Pokud najdeš nějakou chybu, nahlaš nám ji prosím na našich fórech na www.grimdawn.com. Přispěješ tak ke zlepšení hry pro sebe i dalším hráčům.
 tagTutorialTip08SubtitleA=Herní nápověda
