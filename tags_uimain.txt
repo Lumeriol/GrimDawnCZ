@@ -90,7 +90,7 @@ tagPlayOptionsAccept=Přijmout
 tagPlayOptionsCancel=Zrušit
 tagPlayGameModeCampaign=Hlavní kampaň
 tagPlayGameModeCustom=Vlastní hra
-tagPlayGameModeSurvival=Režim přežití
+tagPlayGameModeSurvival=Aréna
 
 tagGameStateInit=Spouštění...
 tagGameStateLoading=Načítání...

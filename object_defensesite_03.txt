@@ -1,42 +1,42 @@
-Defense Site
-This seems like a good area to put up some defenses.{^n}{^n}Defenses can only be constructed while the Crucible is inactive. Once a defense site is activated, it cannot be replaced.
-Create Deathchill Beacon
-Deathchill Beacons launch icy orbs at distant enemies, slowing their advance, with a chance to freeze, but their damage is relatively low.{^n}{^n}(Requires 5 Crucible Tributes and 10000 Iron Bits)
-Create this defense (spend 5 Tributes + 10000 Iron Bits)
-Insufficient Materials.
-Consider other options.
+Obranná stavba
+Tohle místo se zdá být skvělou pozicí na postavení nějaké obranné stavby.{^n}{^n}Obranné stavby je možné postavit pouze v době, kdy se v aréně nic neděje. Jakmile je pozice obsazena, už není možné zde postavit jinou obrannou stavbu.
+Postavit Střílnu mrazivé smrti
+Střílny mrazivé smrti vystřelují ledové koule na vzdálené nepřátele, zpomalují jejich postup a mají možnost nepřítele zmrazit. Zranění ledovou koulí je relativně nízké.{^n}{^n}(vyžaduje 5 bodů cti a 10.000 železných mincí)
+Postavit tuto stavbu (utratit 5 bodů cti a 10.000 železných mincí)
+Nedostatek materiálu.
+Zvážit jiné možnosti.
 
-How do I earn Tributes?
-Tributes are the currency of the Crucible, given out by its Master to those he finds...entertaining.{^n}{^n}You cannot have more than 100 Tributes at a time.
-Consider the options.
-Step away
-Step away
-Create Inferno Beacon
-Inferno Beacons frequently release bursts of flame at nearby enemies in a large area, but their range is limited.{^n}{^n}(Requires 5 Crucible Tributes and 10000 Iron Bits)
-Create this Defense (spend 5 Tributes + 10000 Iron Bits)
-Insufficient Materials.
-
-
-Step away
-Create Stormcaller Beacon
-Stormcaller Beacons occasionally release a bolt of chain lightning at distant enemies, with a chance to reduce resistances, but they hit a limited number of targets and attack slowly.{^n}{^n}(Requires 5 Crucible Tributes and 10000 Iron Bits)
-Create this Defense (spend 5 Tributes + 10000 Iron Bits)
-Insufficient Materials.
+Jak získám body cti?
+Body cti jsou platidlem v aréně, které rozdává Mistr arény těm, kteří mu přijdou... zábavní.{^n}{^n}Nemůžeš mít více než 100 bodů cti.
+Zvážit možnosti.
+Odstup
+Odstup
+Postavit Pekelnou střílnu
+Pekelné střílny rychle šlehají ohnivé plameny na blízké nepřátele v širém okolí, ale jejich dosah je značně omezen.{^n}{^n}(vyžaduje 5 bodů cti a 10.000 železných mincí)
+Postavit tuto stavbu (utratit 5 bodů cti a 10.000 železných mincí)
+Nedostatek materiálu.
 
 
-Step away
-Create Stonewall Banner
-Stonewall Banners grant nearby players bonus defenses.{^n}{^n}(Requires 5 Crucible Tributes and 10000 Iron Bits)
-Create this Defense (spend 5 Tributes + 10000 Iron Bits)
-Insufficient Materials.
+Odstup
+Postavit Střílnu vyvolavače bouří
+Střílny vyvolavače bouří občasně vypustí retězec kulových blesků na vzdálené nepřátele a může jim způsobit snížení  odolností. Blesky mají šanci zasáhnout pouze menší množství nepřátel a jsou velmi pomalé.{^n}{^n}(vyžaduje 5 bodů cti a 10.000 železných mincí)
+Postavit tuto stavbu (utratit 5 bodů cti a 10.000 železných mincí)
+Nedostatek materiálu.
 
 
-Step away
-Create Vanguard Banner
-Vanguard Banners grant nearby players bonus offensive stats.{^n}{^n}(Requires 5 Crucible Tributes and 10000 Iron Bits)
-Create this Defense (spend 5 Tributes + 10000 Iron Bits)
-Insufficient Materials.
+Odstup
+Postavit Korouhev kamenné zdi
+Korouhve kamenné zdi přidělují okolním hráčům bonus k obraně.{^n}{^n}(vyžaduje 5 bodů cti a 10.000 železných mincí)
+Postavit tuto stavbu (utratit 5 bodů cti a 10.000 železných mincí)
+Nedostatek materiálu.
 
 
-Step away
-Step away
+Odstup
+Postavit Korouhev předvoje
+Korouhve předvoje přidělují okolním hráčům bonus k útoku.{^n}{^n}(vyžaduje 5 bodů cti a 10.000 železných mincí)
+Postavit tuto stavbu (utratit 5 bodů cti a 10.000 železných mincí)
+Nedostatek materiálu.
+
+
+Odstup
+Odstup
