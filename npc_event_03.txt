@@ -1,46 +1,46 @@
-Lokarr, Master of the Crucible
-You have bested all that the Crucible had to offer.{^n}{^n}Where others fell, you triumphed.{^n}{^n}My wealth is yours to claim, champion.
-I wish to take on the Crucible again.
-Splendid! I look forward to the spectacle.{^n}{^n}Shall I prepare the arena?{^n}{^n}(Activating the Crucible again will reset all Treasure. All players will be teleported back to the spawn point. Only proceed if you are finished gathering your rewards.)
-Yes, proceed (Reset to the beginning)
-Restart on Wave 130 (Spend 5 Tributes)
-Restart on Wave 130 (Spend 15 Tributes)
-Restart on Wave 130 (Spend 30 Tributes)
-Insufficient Tributes to Restart at Checkpoint (Need 5 Tributes)
-Insufficient Tributes to Restart at Checkpoint (Need 15 Tributes)
-Insufficient Tributes to Restart at Checkpoint (Need 30 Tributes)
+Lokarr, mistr Arény
+[[ms]Překonal[fs]Překonala] jsi vše, co mohla Aréna nabídnout.{^n}{^n}Kde ostatní padli, tys [[ms]vytrval[fs]vytrvala].{^n}{^n}Mé bohatsví je ti k dispozici, [[ms]šampióne[fs]šampiónko].
+Přeji si znovu vstoupit do Arény.
+Výtečně! Těším se na tu podívanou.{^n}{^n}Mám připravit Arénu?{^n}{^n}(Aktivace Arény znovu vyresetuje všechny tvé odměny. Všichni hráči budou vráceni zpět na místo zrodu. Pokračuj pouze tehdy, pokud sis svou odměnu již [[ms]vyzvedl[fs]vyzvedla].)
+Ano, pokračuj (Začni od začátku)
+Restartuj od vlny 130 (Vzdej se 5 Bodů cti)
+Restartuj od vlny 130 (Vzdej se 15 Bodů cti)
+Restartuj od vlny 130 (Vzdej se 30 Bodů cti)
+Nedostatek Bodů cti pro restartování v záchytném bodě (Je potřeba 5 Bodů cti)
+Nedostatek Bodů cti pro restartování v záchytném bodě (Je potřeba 15 Bodů cti)
+Nedostatek Bodů cti pro restartování v záchytném bodě (Je potřeba 30 Bodů cti)
 Nevermind
-Thank you.
-The Crucible claims another. Go, take your pitiful earnings and get out of my sight.
-I wish to take on the Crucible again.
-Watching you squirm was enjoyable, I admit.{^n}{^n}Shall I prepare the arena?{^n}{^n}(Activating the Crucible again will reset all Treasure. All players will be teleported back to the spawn point. Only proceed if you are finished gathering your rewards.)
-Yes, proceed (Reset to the beginning)
-Restart at Checkpoint (Spend 5 Tributes)
-Restart at Checkpoint (Spend 15 Tributes)
-Restart at Checkpoint (Spend 30 Tributes)
-Insufficient Tributes to Restart at Checkpoint (Need 5 Tributes)
-Insufficient Tributes to Restart at Checkpoint (Need 15 Tributes)
-Insufficient Tributes to Restart at Checkpoint (Need 30 Tributes)
-No More Restarts at Checkpoint Remain
-No Checkpoint Available
-Nevermind
-Very well.
-The Crucible claims another. You've gotten far, but in the end you've come short of the ultimate challenge.{^n}{^n}Go, take your pitiful earnings and get out of my sight.
+Děkuji ti.
+Aréna pohltila dalšího. Jdi, vezmi si svou směšnou odměnu a jdi mi z očí.
+Přeji si znovu vstoupit do Arény.
+Vidět tě se svíjet bylo vskutku zábavné, to musím přiznat.{^n}{^n}Mám připravit Arénu?{^n}{^n}(Aktivace Arény znovu vyresetuje všechny tvé odměny. Všichni hráči budou vráceni zpět na místo zrodu. Pokračuj pouze tehdy, pokud sis svou odměnu již [[ms]vyzvedl[fs]vyzvedla].)
+Ano, pokračuj (Začni od začátku)
+Restartování v záchytném bodě (Vzdej se 5 Bodů cti)
+Restartování v záchytném bodě (Vzdej se 15 Bodů cti)
+Restartování v záchytném bodě (Vzdej se 30 Bodů cti)
+Nedostatek Bodů cti pro restartování v záchytném bodě (Je potřeba 5 Bodů cti)
+Nedostatek Bodů cti pro restartování v záchytném bodě (Je potřeba 15 Bodů cti)
+Nedostatek Bodů cti pro restartování v záchytném bodě (Je potřeba 30 Bodů cti)
+Nezbývá žádný další restart v záchytném bodě
+Není dostupný žádný záchytný bod
+Neřešme to
+Tak dobrá.
+Aréna pohltila dalšího. [[ms]Dostal[fs]Dostala] ses daleko, ale nakonec jsi [[ms]byl krátký[fs]byla krátká] na ultimátní výzvu.{^n}{^n}Jdi, vezmi si svou směšnou odměnu a jdi mi z očí.
 
-Very well.
-You chose to end your suffering. Understandable.{^n}{^n}Not all are made to conquer what I have conceived.{^n}{^n}Take your reward and go.
-I wish to take on the Crucible again.
-Perhaps you will do better this time.{^n}{^n}Shall I prepare the arena?{^n}{^n}(Activating the Crucible again will reset all Treasure. All players will be teleported back to the spawn point. Only proceed if you are finished gathering your rewards.)
-Yes, proceed (Reset to the beginning)
-Restart at Checkpoint (Spend 5 Tributes)
-Restart at Checkpoint (Spend 15 Tributes)
-Restart at Checkpoint (Spend 30 Tributes)
-Insufficient Tributes to Restart at Checkpoint (Need 5 Tributes)
-Insufficient Tributes to Restart at Checkpoint (Need 15 Tributes)
-Insufficient Tributes to Restart at Checkpoint (Need 30 Tributes)
-No More Restarts at Checkpoint Remain
-No Checkpoint Available
-Nevermind
-Very well.
-You are too late to participate in this Crucible.
-Very well.
+Tak dobrá.
+[[ms]Zvolil[fs]Zvolila] jsi konec svému utrpení. Pochopitelné. {^n}{^n}Ne všichni jsou zrozeni pro to dobýt to, co jsem stvořil. {^n}{^n}Vezmi si odměnu a jdi.
+Přeji si znovu vstoupit do Arény.
+Možná se ti tentokrát povede lépe.{^n}{^n}Mám připravit Arénu?{^n}{^n}(Aktivace Arény znovu vyresetuje všechny tvé odměny. Všichni hráči budou vráceni zpět na místo zrodu. Pokračuj pouze tehdy, pokud sis svou odměnu již [[ms]vyzvedl[fs]vyzvedla].)
+Ano, pokračuj (Začni od začátku)
+Restartování v záchytném bodě (Vzdej se 5 Bodů cti)
+Restartování v záchytném bodě (Vzdej se 15 Bodů cti)
+Restartování v záchytném bodě (Vzdej se 30 Bodů cti)
+Nedostatek Bodů cti pro restartování v záchytném bodě (Je potřeba 5 Bodů cti)
+Nedostatek Bodů cti pro restartování v záchytném bodě (Je potřeba 15 Bodů cti)
+Nedostatek Bodů cti pro restartování v záchytném bodě (Je potřeba 30 Bodů cti)
+Nezbývá žádný další restart v záchytném bodě
+Není dostupný žádný záchytný bod
+Neřešme to
+Tak dobrá.
+Jdeš příliš pozdě - účast v této Aréně již není možná.
+Tak dobrá.

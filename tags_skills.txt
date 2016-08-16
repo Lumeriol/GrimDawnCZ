@@ -192,8 +192,8 @@ tagClass02SkillName03D=Síra
 tagClass02SkillDescription03D=Umění s ohněm okořeněné tajemstvím okultismu obohacuje Ohnivý úder chaotickou energií získané ze síry. ^oS útokem na dálku také exploduje a roztrhne se na roztavené části.
 tagClass02SkillName03E=Spalující útok
 tagClass02SkillDescription03E=Soustředění se na destruktivní sílu Ohnivého úderu umožnuje intenzivnější zásah, zatímco je vyžadováno méně energie. Této techniky může být dosaženo pouze správným zacházením s jednoruční chladnou zbraní. ^oVyžaduje jednoruční chladnou zbraň.
-tagClass02SkillName03F=Searing Might
-tagClass02SkillDescription03F=When channeled through a mighty two-handed melee or ranged weapon, Flame Strike inflicts devastating harm. ^oRequires a two-handed melee or ranged weapon.
+tagClass02SkillName03F=Spalující síla
+tagClass02SkillDescription03F=Pokud je Ohnivý útok veden skrze mocnou obouruční střelnou nebo chladnou zbraň, způsobuje devastující zranění. ^oVyžaduje obouruční chladnou nebo obouruční střelnou zbraň.
 
 tagClass02SkillName04A=Tříštivá bomba
 tagClass02SkillDescription04A=Výbušnina obalená dalšími výbušninami; tento ďábelský vynález je schopný rozmetat celé hordy nepřátel.
@@ -1224,7 +1224,7 @@ tagItemSkillC097Name=Šíp z Aetheru
 tagItemSkillC097Desc=Zasáhne cíl bleskem posilněným Aetherem. Nespoutaná magie pak přeskakuje na blízké nepřátele.
 
 tagItemSkillC098Name=Síly živlů
-tagItemSkillC098Desc=Imbue your attacks with the opposing forces of fire and ice.
+tagItemSkillC098Desc=Umocní tvůj útok neslučitelnými silami ohně a ledu.
 
 tagItemSkillC099Name=Ohnivý déšť
 tagItemSkillC099Desc=Na tvůj příkaz bude pršet z nebe oheň.
@@ -1312,38 +1312,38 @@ tagItemSkillC126Desc=Trénink v oblasti medicíny ti umožňuje hojit rány blí
 tagItemSkillC127Name=Aetherický blesk
 tagItemSkillC127Desc=Vyjde z tebe blesk obohacený o čistý Aether a přeskakuje mezi tvými nepřáteli.
 
-tagItemSkillC128Name=Eye of Thaddeus
-tagItemSkillC128Desc=The Eye of Thaddeus exposes easy to exploit weak points on your feeble foes.
+tagItemSkillC128Name=Thaddeusovo oko
+tagItemSkillC128Desc=Thaddeusovo oko lehce odhalí jakékoliv slabiny tvých slabých nepřátel.
 
-tagItemSkillC129Name=Ignited Round
-tagItemSkillC129Desc=Fire an ignition round from the rifle that sets anything on fire and frequently pierces through your foes. ^oActivates off of default weapon attacks.
+tagItemSkillC129Name=Rozžhavená kulka
+tagItemSkillC129Desc=Vystřel ze své pušky rozžhavenou kulku, která snadno projde skrze tvé nepřátele a zapálí vše, s čím se setká. ^oTato technika je aktivována výchozím útokem zbraně.
 
-tagItemSkillC130Name=Unholy Covenant
-tagItemSkillC130Desc=Forge an unholy covenant with your minions, empowering your connections to the dark forces of the void. ^oThis ability must be toggled to maintain its effect.
+tagItemSkillC130Name=Zvrácená dohoda
+tagItemSkillC130Desc=Uzavři se svými nohsledy zvrácený pakt a posilni tak své spojení s temnými silami z Prázdnoty. ^oAby tato schopnost účinkovala, musí být aktivní.
 
-tagItemSkillC131Name=Lightning Spike
-tagItemSkillC131Desc=An spike of electric energy erupts towards your assailant.
+tagItemSkillC131Name=Bodec z blesku
+tagItemSkillC131Desc=Bodec stvořený z blesku z tebe vyjde směrem na toho, jež se tě opovážil napadnout.
 
-tagItemSkillC132Name=Fire Spread
-tagItemSkillC132Desc=Fires an exploding round that shatters on impact in a large burst of flame. ^oActivates off of default weapon attacks.
+tagItemSkillC132Name=Šíření ohně
+tagItemSkillC132Desc=Vystřelí explozivní kulku, která se při kontaktu roztrhne a promění se v ohromný plamen. ^oTato technika je aktivována výchozím útokem zbraně.
 
-tagItemSkillC133Name=Callidor's Wrath
-tagItemSkillC133Desc=Unleash a massive explosion of arcane energies.
+tagItemSkillC133Name=Callidorův hněv
+tagItemSkillC133Desc=Rozpoutej masivní explozi arkanických energií.
 
-tagItemSkillC134Name=Myrmidon Strike
-tagItemSkillC134Desc=Strike your foe with your shield, inflicting grievous internal harm. ^oRequires a melee weapon.
+tagItemSkillC134Name=Úder Myrmidona
+tagItemSkillC134Desc=Udeř svého nepřítele štítem a způsob tak smrtelná vnitří poranění. ^oVyžaduje chladnou zbraň.
 
-tagItemSkillC135Name=Mogdrogen's Tranquility
-tagItemSkillC135Desc=Fills you and your nearby allies with Mogdrogen's tranquility, emboldening them and their beastly companions. ^oThis ability must be toggled to maintain its effect.
+tagItemSkillC135Name=Mogdrogenova poklidnost
+tagItemSkillC135Desc=Naplní tebe a tvé přátele v blízkosti Mogdrogenovou poklidností, čímž povzbudí jak tebe, tak i je a jejich zvířecí mazlíčky. ^oAby tato schopnost účinkovala, musí být aktivní.
 
-tagItemSkillC136Name=Aether Lightning
-tagItemSkillC136Desc=Unleash lightning infused with pure aether that cascades through your foes.
+tagItemSkillC136Name=Aetherický blesk
+tagItemSkillC136Desc=Vypustí blesk posilněný čistým Aetherem, který přeskakuje mezi tvými nepřáteli.
 
-tagItemSkillC137Name=Elemental Force
-tagItemSkillC137Desc=Unleash a force of fire and ice magic that spirals outward from your location.
+tagItemSkillC137Name=Síla živlu
+tagItemSkillC137Desc=Rozpoutej sílu ohnivé a ledové magie, jež se ve spirále pohybuje z místa, kde stojíš.
 
-tagItemSkillC138Name=Oathbreaker
-tagItemSkillC138Desc=The Oathbreaker fires an explosive round teeming with dark powers. ^oActivates off of default weapon attacks.
+tagItemSkillC138Name=Narušitel dohody
+tagItemSkillC138Desc=Narušitel dohody vystřelí explozivní kulku obohacenou temnými silami. ^oTato technika je aktivována výchozím útokem zbraně.
 
 
 tagItemSkillM005Name=Zběsilost
@@ -2052,35 +2052,35 @@ tagItemSkillD239Desc=Množství podivných plamenů je zažeháváno pod tvými 
 tagItemSkillD240Name=Kousance Šílené královny
 tagItemSkillD240Desc=Oboř se v zoufalosti na nepřátele v blízkosti a hluboko zabodni svůj meč.
 
-tagItemSkillD241Name=Venomspine
-tagItemSkillD241Desc=Unleash a cascade of venomous spines.
+tagItemSkillD241Name=Jedové ostny
+tagItemSkillD241Desc=Vypustí dávku jedových ostnů.
 
-tagItemSkillD242Name=Venomwrath
-tagItemSkillD242Desc=A vile poison that infuses the flesh and exposes hidden weaknesses.
+tagItemSkillD242Name=Jedová zloba
+tagItemSkillD242Desc=Odporný jed, který napadne tkáň a odhalí skryté slabiny.
 
-tagItemSkillD243Name=Ritual Circle
-tagItemSkillD243Desc=Conjure a ritual circle that empowers your spellwork and protects you from physical harm so long as you stand within it.
+tagItemSkillD243Name=Rituální kruh
+tagItemSkillD243Desc=Vyčaruj rituální kruh, který umocní tvé kouzelnické schopnosti a ochrání tě od fyzické újmy po dobu, kdy v něm setrváš.
 
-tagItemSkillD244Name=Storm Shard
-tagItemSkillD244Desc=Conjure a storm-infused crystal at the target location to shock nearby enemies. ^oStorm Shards scale with player damage bonuses.
+tagItemSkillD244Name=Úlomek bouře
+tagItemSkillD244Desc=Vyčaruj bouří obohacený krystal v požadovaném místě a elektřinou zasáhni nepřátele v blízkosti. ^oÚlomky bouře sílí spolu se zvyšujícími se bonusy pro spojence.
 
-tagItemSkillD245Name=Call Forth the Inferno
-tagItemSkillD245Desc=Infernal flames burst out from the earth beneath your foes.
+tagItemSkillD245Name=Vyvolání pekla
+tagItemSkillD245Desc=Pekelné plameny se šíří ze země pod tvými nepřáteli.
 
-tagItemSkillD246Name=Agrivix's Pact
-tagItemSkillD246Desc=Conjure a wisp of arcane energy to assault your foes. ^oArcane Wisps scale with player damage bonuses.
+tagItemSkillD246Name=Agrivixova dohoda
+tagItemSkillD246Desc=Vyvolej bludičku z arkanické energie, aby napadala tvé nepřátele. ^oBludičky sílí spolu se zvyšujícími se bonusy pro spojence.
 
-tagItemSkillD247Name=Warborn
-tagItemSkillD247Desc=You were born for combat and thrive in the thick of it.
+tagItemSkillD247Name=[[ms]Zrozen[fs]Zrozena] pro válku
+tagItemSkillD247Desc=[[ms]Byl[fs]Byla] si [[ms]zrozen[fs]zrozena] pro válku a v ní také skutečně prospíváš.
 
-tagItemSkillD248Name=Bloodrage
-tagItemSkillD248Desc=Slaying a foe throws you into a rage as you thirst for more blood to spill.
+tagItemSkillD248Name=Krvavá vášeň
+tagItemSkillD248Desc=Zabíjení tvých nepřátel tě uvede do stavu zuřivosti, kdy prahneš po dalším krveprolití.
 
-tagItemSkillD249Name=Arcane Destruction
-tagItemSkillD249Desc=Tear a small rift in reality through which falls an arcane ember.
+tagItemSkillD249Name=Arkanická destrukce
+tagItemSkillD249Desc=Otevři malou trhlinu v realitě, skrze kterou propadne rozžhavený arkanický uhlík.
 
-tagItemSkillD250Name=Spill the Blood
-tagItemSkillD250Desc=Rip through nearby foes in a bloody display.
+tagItemSkillD250Name=Krveprolití
+tagItemSkillD250Desc=Prořezej se skrze nepřátele v blízkosti k hrůznému obrazu.
 
 tagItemSkillFailName=Schopnost selhat
 tagItemSkillFailDesc=Pravděpodobnost selhání je nižší.
