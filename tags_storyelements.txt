@@ -501,7 +501,7 @@ tagNPC_WitchGodAttendant=Hlídač
 
 tagNPC_Homestead_01=Minova
 tagNPC_Homestead_02=Darius Cronley
-tagNPC_Homestead_03=Převtělený Mogdroge
+tagNPC_Homestead_03=Převtělený Mogdrogen
 tagNPC_Homestead_04=Drew Larkin
 tagNPC_Homestead_05=Edmund "Noha" Doyle
 tagNPC_Homestead_06=Elizabeth Skinner
