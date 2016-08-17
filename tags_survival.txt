@@ -27,27 +27,27 @@ tagTrap_A02=Sloup pekla
 tagTrap_A03=Sloup smrti
 tagTrap_A04=Sloup jedu
 
-tagTrap_SkillA01=Chilling Presence
-tagTrap_SkillA01_Desc=The nearby pylon saps you of warmth, slowing you.
-tagTrap_SkillA02=Burning Presence
-tagTrap_SkillA02_Desc=The nearby pylon is burning you alive, reducing armor.
-tagTrap_SkillA03=Necrotic Presence
-tagTrap_SkillA03_Desc=The nearby pylon is sapping your vitality, reducing health and regeneration.
-tagTrap_SkillA04=Toxic Presence
-tagTrap_SkillA04_Desc=The nearby pylon is choking you with poisonous fumes, reducing damage.
+tagTrap_SkillA01=Přítomnost mrazu
+tagTrap_SkillA01_Desc=Nedaleký sloup z tebe vysává teplo a zpomaluje tě.
+tagTrap_SkillA02=Přítomnost ohně
+tagTrap_SkillA02_Desc=Nedaleký sloup tě spaluje za živa a snižuje tvou zbroj.
+tagTrap_SkillA03=Přítomnost nekrózy
+tagTrap_SkillA03_Desc=Nedaleký sloup oslabuje tvou životní energii a snižuje tak tvé zdraví a regeneraci.
+tagTrap_SkillA04=Přítomnost jedu
+tagTrap_SkillA04_Desc=Nedaleký sloup tě přidušuje jedovatými výpary a snižuje tak způsobované zranění.
 
 #PowerUps
 tagSkillPowerup01=Ulovo požehnání
-tagSkillPowerup01Desc=You are blessed by Ulo, granting you resistance to damage over time and crowd control effects.
+tagSkillPowerup01Desc=Máš požehnání Ula, který ti přidělil odolnost vůči zranění a negativním účinkům.
 
-tagSkillPowerup02=Empyrion's Guidance
-tagSkillPowerup02Desc=You are blessed by the light of Empyrion, granting you unparalleled fortitude.
+tagSkillPowerup02=Empyrionův doprovod
+tagSkillPowerup02Desc=Máš požehnání světlem Empyriona, který ti přidělil nebývalou statečnost.
 
 tagSkillPowerup03=Amatokova síla
-tagSkillPowerup03Desc=You are marked by the spirit of Amatok, granting you incredible might.
+tagSkillPowerup03Desc=Tvá osobnost byla vybrána duchem Amatoka, jež ti přidělil neuvěřitelnou sílu.
 
 tagSkillPowerup04=Ulzuinova dohoda
-tagSkillPowerup04Desc=You are marked by Ulzuin, granting you restless fury.
+tagSkillPowerup04Desc=Tvá osobnost byla vybrána Ulzuinem, jež ti přidělil neutuchající zběsilost.
 
 
 #Rewards
@@ -113,61 +113,61 @@ tagNotification_Checkpoint10=Od teď se můžeš vrátit v této aréně ke 100.
 
 
 #Mutators
-Mutator_Monster_01=Aetherwarped
-Mutator_Monster_01Desc=Monsters are resistant to the Aether, but more Susceptible to Chaos.
-Mutator_Monster_02=Armored
-Mutator_Monster_02Desc=Monsters are nearly impervious to Physical harm and armor Piercing, but are more Susceptible to the Elements.
-Mutator_Monster_03=Berserking
-Mutator_Monster_03Desc=Monsters are berserking, Attacking faster but also becoming more Susceptible to Attacks.
-Mutator_Monster_04=Brutal
-Mutator_Monster_04Desc=Monsters land Critical Strikes more often, but deal Reduced Damage.
-Mutator_Monster_05=Corrupted
-Mutator_Monster_05Desc=Monsters resistant to Chaos, but more Susceptible to the Aether.
-Mutator_Monster_06=Crippling
-Mutator_Monster_06Desc=Monster attacks Slow opponents, but attack Slower.
-Mutator_Monster_07=Cruel
-Mutator_Monster_07Desc=Monster Critical Strikes are extra lethal, but attacks are more likely to Miss.
-Mutator_Monster_08=Ignited
-Mutator_Monster_08Desc=Monsters are infused with Fire, dealing additional Fire damage and Retaliating Fire damage, but are more Susceptible to the Cold.
-Mutator_Monster_09=Time-Warped
-Mutator_Monster_09Desc=Monsters have greatly reduced Spell Cooldowns and increased Casting Speed, but deal Reduced Physical Damage.
-Mutator_Monster_10=Leeching
-Mutator_Monster_10Desc=Monsters leech health back with every attack, but have Reduced Health.
-Mutator_Monster_11=Poisonous
-Mutator_Monster_11Desc=Monsters are tainted with poison, dealing additional Poison damage and Retaliating Poison damage, but are more Susceptible to Vitality draining attacks.
-Mutator_Monster_12=Regenerating
-Mutator_Monster_12Desc=Monsters have highly enhanced health and energy regeneration, but are more Susceptible to Acid, Poison and Bleeding.
-Mutator_Monster_13=Resistant
-Mutator_Monster_13Desc=Monsters are nearly impervious to Magical attacks, but are more Susceptible to Physical harm.
-Mutator_Monster_14=Toughened
-Mutator_Monster_14Desc=Monsters have greatly increased Health, but have reduced Health Regeneration.
-Mutator_Monster_15=Unstoppable
-Mutator_Monster_15Desc=Monsters are highly resistant to Crowd Control, but Move Slowly.
-Mutator_Monster_16=Vengeful
-Mutator_Monster_16Desc=Monsters have greatly enhanced Retaliation effects, but have Reduced Armor.
-Mutator_Monster_17=Swift
-Mutator_Monster_17Desc=Monsters have greatly increased Movement Speed, but are more susceptible to Crowd Control.
+Mutator_Monster_01=Postih Aetherem
+Mutator_Monster_01Desc=Nepřátelé jsou odolné vůči Aetheru, ale jsou náchylnější vůči Chaosu.
+Mutator_Monster_02=Ochrana
+Mutator_Monster_02Desc=Nepřátelé jsou neteční vůči fyzické újmě a probudnutí zbroje, ale náchylnější vůči síle živlů..
+Mutator_Monster_03=Zběsilost v srdci
+Mutator_Monster_03Desc=Nepřátelé jsou zběsilí, útočí rychleji, ale jsou náchylnější ke zranění.
+Mutator_Monster_04=Brutalita
+Mutator_Monster_04Desc=Nepřátelé uštědřují kritické údery častěji, ale s nižším zraněním.
+Mutator_Monster_05=Zkaženost
+Mutator_Monster_05Desc=Nepřátelé jsou odolní vůči Chaosu, ale jso náchylnější vůči Aetheru.
+Mutator_Monster_06=Ochromení
+Mutator_Monster_06Desc=Nepřátelské útočí na pomalé protivníky, ale pomalými zásahy.
+Mutator_Monster_07=Krutost
+Mutator_Monster_07Desc=Nepřátelské kritické zásahy jsou extrémně smrtící, ale útoky často minou cíl.
+Mutator_Monster_08=Zápal
+Mutator_Monster_08Desc=Nepřátelé jsou prostoupeni ohněm a způsobují tak navíc zranění ohněm a ohněm také oplácí, ale jsou náchylnější vůči mrazu.
+Mutator_Monster_09=Cestování v čase
+Mutator_Monster_09Desc=Nepřátelé mají výrazně sníženou prodlevu mezi kouzly a kouzlí tak rychleji, na druhou stranu jejich fyzický útok je slabý.
+Mutator_Monster_10=Sání života
+Mutator_Monster_10Desc=Nepřátelé sajou život s každým zásahem, ale jejich zdraví je snížený.
+Mutator_Monster_11=Otrava
+Mutator_Monster_11Desc=Nepřátelé jsou otráveni jedem a způsobují tak zranění jedem a jedem oplácí, ale jsou náchylnější vůči ztrátě životní energie.
+Mutator_Monster_12=Regenerace
+Mutator_Monster_12Desc=Nepřáelé mají vysoce zrychlenou regeneraci života a energie, ale jsou náchylnější vůči kyselinám, jedům a krvácení.
+Mutator_Monster_13=Odolnost
+Mutator_Monster_13Desc=Nepřátelé jsou takřka neteční vůči magickým útokům, ale o to více jsou zranitelnější fyzickými útoky.
+Mutator_Monster_14=Otužilost
+Mutator_Monster_14Desc=Nepřátelé mají podstatně více zdraví, ale jeho regenerace je velmi pomalá.
+Mutator_Monster_15=Nezastavitelnost
+Mutator_Monster_15Desc=Nepřátelé jsou vysoce odolní vůči ovládnutí mysli, ale pohybují se pomaleji.
+Mutator_Monster_16=Pomstychtivost
+Mutator_Monster_16Desc=Nepřátelé mají výrazně posíleny odvetné akce, ale jejich zbroj je snížena.
+Mutator_Monster_17=Rychlost
+Mutator_Monster_17Desc=Nepřátelé jsou výjimečně rychlí, ale jsou také náchylnější vůči ovládnutí mysli.
 
-Mutator_Player_01=Aethermarked
-Mutator_Player_01Desc=Players experience slowed Attacks, but are more Resistant to the Aether.
-Mutator_Player_02=Voidmarked
-Mutator_Player_02Desc=Players experience slowed Casting but are more Resistant to Chaos.
-Mutator_Player_03=Marked
-Mutator_Player_03Desc=Players have reduced Defensive Ability, but Damage is Magnified.
-Mutator_Player_04=Drained
-Mutator_Player_04Desc=Players have reduced Health Regeneration, but are more Resistant to Poison and Bleeding.
-Mutator_Player_05=Shattered
-Mutator_Player_05Desc=Players have reduced Damage and Retaliation effects, but Armor is Increased.
-Mutator_Player_06=Afflicted
-Mutator_Player_06Desc=Players have reduced Health, but are more Resistant to Vitality drains.
-Mutator_Player_07=Slowed
-Mutator_Player_07Desc=Player Movement Speed is greatly reduced, but Crowd Control doesn't last as long.
-Mutator_Player_08=Tainted
-Mutator_Player_08Desc=Players are Slowed, but Critical Damage is Increased.
-Mutator_Player_09=Exposed
-Mutator_Player_09Desc=Players have reduced Armor, but Cooldowns are Reduced.
-Mutator_Player_10=Weakened
-Mutator_Player_10Desc=Player Critical Attacks are weakened, but attacks are more likely to hit.
+Mutator_Player_01=Dotek Aetherem
+Mutator_Player_01Desc=Bojovníci se potýkají se zpomalenými útoky, ale jsou odolnější vůči Aetheru.
+Mutator_Player_02=Dotek Prázdnotou
+Mutator_Player_02Desc=Bojovníci se potýkají s pomalým sesíláním kouzel, ale jsou odolnější vůči Chaosu.
+Mutator_Player_03=Neohrabanost
+Mutator_Player_03Desc=Bojovníci mají sníženou obrannou schopnost, ale jejich způsobené zranění je výrazně vyšší.
+Mutator_Player_04=Vyčerpanost
+Mutator_Player_04Desc=Bojovníci mají sníženou regeneraci života, ale jsou odolnější vůči jedům a krvácení.
+Mutator_Player_05=Otřesení
+Mutator_Player_05Desc=Bojovníci mají snížený útok a oplácení, ale jejich zbroj je odolnější.
+Mutator_Player_06=Soužení
+Mutator_Player_06Desc=Bojovníci mají snížené zdraví, ale jsou více odolní vůči ztrátě životní energie.
+Mutator_Player_07=Zpomalení
+Mutator_Player_07Desc=Pohyblivost bojovníků je výrazně omezena, ale účinky ovládnutí mysli odezní rychleji.
+Mutator_Player_08=Nákaza
+Mutator_Player_08Desc=Bojovníci jsou pomalejší, ale způsobují silnější kritický zásah.
+Mutator_Player_09=Obnaženost
+Mutator_Player_09Desc=Bojovníci mají slabší zbroj, ale prodlevy dovedností jsou sníženy.
+Mutator_Player_10=Oslabení
+Mutator_Player_10Desc=Kritické zásahy bojovníků jsou oslabeny, ale mají vyšší pravděpodobnost zásahu.
 
 
 
