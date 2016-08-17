@@ -591,14 +591,14 @@ tagClass06SkillDescription02C=Přílivová síla kaskádovitě vychází z tvé 
 tagClass06SkillName02D=Burácející útok
 tagClass06SkillDescription02D=Vyvolávači bouří, členové sekty šamanismu oddané nebesům, jsou známi vyvoláváním Ultose, boha nebe, jež přivolává hněv přírody na své protivníky. ^oBurácející útok nevylepšuje výchozí typ útoku a nemůže způsobit efekt jako třeba Divoký hlad.
 
-tagClass06SkillName03A=Totem Wendigo
-tagClass06SkillDescription03A=Totemy Wendigo představují temnější stranu rituálů prováděných Šamany, přijímacích krutou dualitu přírody: jeden musí zemřít, aby se jiný nakrmil a přežil. Jakmile je totem položen, začne vysávat život z blízkých nepřátel, zatímco vytvoří uklidňující auru, která léčí spojence. Totemy jsou pro mnoho kmenů tabu, protože prvotního hladového ducha, který je vyvolán, aby napájel totem, je nebezpečné ovládat a mnoho šamanů z toho zešílelo. Navíc jsou postiženi nenasytným hladem, který nevyhnutelně vede ke kanibalismu. ^oÚčinnost Totemů Wendigo se zvyšuje s bonusy ke zranění, které způsobuješ.
+tagClass06SkillName03A=Totem Wendiga
+tagClass06SkillDescription03A=Totemy Wendiga představují temnější stranu rituálů prováděných Šamany, přijímacích krutou dualitu přírody: jeden musí zemřít, aby se jiný nakrmil a přežil. Jakmile je totem položen, začne vysávat život z blízkých nepřátel, zatímco vytvoří uklidňující auru, která léčí spojence. Totemy jsou pro mnoho kmenů tabu, protože prvotního hladového ducha, který je vyvolán, aby napájel totem, je nebezpečné ovládat a mnoho šamanů z toho zešílelo. Navíc jsou postiženi nenasytným hladem, který nevyhnutelně vede ke kanibalismu. ^oÚčinnost Totemů Wendiga se zvyšuje s bonusy ke zranění, které způsobuješ.
 tagClass06SkillName03B=Krvavá dohoda
-tagClass06SkillDescription03B=Zpečeť dohodu s duchem Wendigo, který obývá totem. Po dobu, kdy budeš stát uvnitř jeho aury, bude tvá chuť po krvi neukojitelná.
+tagClass06SkillDescription03B=Zpečeť dohodu s duchem Wendiga, který obývá totem. Po dobu, kdy budeš stát uvnitř jeho aury, bude tvá chuť po krvi neukojitelná.
 tagClass06SkillName03C=Kohoutek života
 tagClass06SkillName03D=Ranhojičství
 
-tagClass06SkillName04A=Větrný duch
+tagClass06SkillName04A=Větrný ďábel
 tagClass06SkillDescription04A=Šamané byli často přivoláni, aby přinesli déšť, když byla období sucha. Rituál byl prováděn chytrými Vyvolávači bouří, aby vyvolali zlého vířivého ducha, který zvedne kamení a sutiny do vzduchu a bude sužovat nepřátele a devastovat je hrubou silou živlů. ^oÚčinnost Větrného ducha se zvyšuje s bonusy ke zranění, která způsobuješ.
 tagClass06SkillName04B=Zuřící bouře
 tagClass06SkillDescription04B=Vířící vír roste bouřlivou silou. Mrazivý vítr lomcuje s nepřáteli a ustrne je, což zvyšuje jejich zranitelnost, pokud jsou vystaveni dalšímu vlivu živlů.
@@ -660,7 +660,7 @@ tagClass06SkillDescription15C=Roj začne být nenasytný a bude způsobovat doko
 tagClass06SkillName15D=Pohlcující roj
 tagClass06SkillDescription15D=Tam venku v divočině musí člověk udělat cokoliv, aby přežil. Někteří šamanští kejklíři si berou tuto lekci k srdci tak, že vyvolají pohlcující roj, který na kusy trhá cokoliv, s čím přijde do kontaktu, způsobuje bolestná zranění a předává ti mízu.
 
-tagClass06SkillName16A=Bouřlivý totem
+tagClass06SkillName16A=Totem bouřky
 tagClass06SkillDescription16A=Usměrňování síly bouře je jeden z nejposvátnějších rituálů Vyvolávačů bouře. S dostatečnou praxí může Šaman doplnit totem destruktivní silou blesku, což způsobí, že z totemu budou vystřelovat ve velké rychlosti elektrické výboje směřované na blízké nepřátele. ^oÚčinnost Bouřlivého totemu se zvyšuje s bonusy ke zranění, která způsobuješ.
 tagClass06SkillName16B=Zraňující bouře
 tagClass06SkillDescription16B=Šamané posedlí silou wendiga mohou poškodit Bouřlivý totem a vypustit hladovějící výboje, které vysají život z tvých nepřátel.
@@ -676,8 +676,8 @@ xtagClass06SkillDescription13A=Mogdrogen je často líčen jako benevolentní b�
 
 xtagClass06SkillName08A=Vyvolání větrného ďábla
 xtagClass06SkillDescription08A=Tornádo je jednou z nejdestruktivnějších sil přírody. Šamanští Vyvolávači bouří zhmotňují tuto hrubou sílu ve formě Větrných ďáblů, vířící destruktivní větrné smrště, které se v boji pohybují zjevně dle svého vlastního uvážení. ^oVětrní ďáblové jsou považováni za spojence a těží z bonusů pro spojence.
-xtagClass06SkillName08B_Pet=Úpějící vítr
-xtagClass06SkillDescription08B_Pet=Vířící a ničívá větrnná smršť útočí na blízké nepřátele.
+xtagClass06SkillName08B_Pet=Kvílející vítr
+xtagClass06SkillDescription08B_Pet=Vířící a ničívá větrná smršť útočí na blízké nepřátele.
 xtagClass06SkillDescription07A=Usměrňování síly bouře je jeden z nejposvátnějších rituálů Vyvolávačů bouře. S dostatečnou praxí může Šaman posílit totem destruktivní silou blesku.
 xtagClass06SkillName03A=Divoký hlad
 xtagClass06SkillDescription03A=Přijmeš svoji nejzákladnější stránku a budeš nenasytně hodovat na prolité krvi po útocích tvé zbraně v průběhu boje.
@@ -686,7 +686,7 @@ xtagClass06SkillDescription03B=Tvá touha po krveprolití je neukojitelná. Poku
 xtagClass06SkillDescription04C=Mistrovství ve vyvolávání bouří ti dovoluje rituál opakovat častěji, což na bojišti vyvolá efekt přívalových dešťů.
 xtagClass06SkillName04D=Smršť
 xtagClass06SkillDescription04D=Mistrovství ve vyvolávání bouří ti dovoluje soustředit své síly do jedné devastující bouře než do vícero malých.
-xxtagClass06SkillName03B=Bouřný totem
+xxtagClass06SkillName03B=Totem bouřky
 xxtagClass06SkillDescription03B=Usměrňování síly bouře je jeden z nejposvátnějších rituálů Vyvolávačů bouře. S dostatečnou praxí může Šaman doplnit totem destruktivní silou blesku, což způsobí, že z totemu budou vystřelovat ve velké rychlosti elektrické výboje směřované na blízké nepřátele.
 
 #Class07
@@ -1161,7 +1161,7 @@ tagItemSkillC076Desc=Vypálí salvu střel naplněných ledem. ^oAplikuje schopn
 tagItemSkillC077Name=Zděšení
 tagItemSkillC077Desc=Necháš zaplavit mysl svého nepřítele čistou hrůzou.
 
-tagItemSkillC078Name=Řvoucí vítr
+tagItemSkillC078Name=Kvílející vítr
 tagItemSkillC078Desc=Obklopí tě vražedným větrem, jež na kost zmrazí tvé nepřátele.
 
 tagItemSkillC079Name=Pistolník
@@ -1312,26 +1312,26 @@ tagItemSkillC126Desc=Trénink v oblasti medicíny ti umožňuje hojit rány blí
 tagItemSkillC127Name=Aetherický blesk
 tagItemSkillC127Desc=Vyjde z tebe blesk obohacený o čistý Aether a přeskakuje mezi tvými nepřáteli.
 
-tagItemSkillC128Name=Thaddeusovo oko
-tagItemSkillC128Desc=Thaddeusovo oko lehce odhalí jakékoliv slabiny tvých slabých nepřátel.
+tagItemSkillC128Name=Thaddeovo oko
+tagItemSkillC128Desc=Thaddeovo oko lehce odhalí jakékoliv slabiny tvých slabých nepřátel.
 
 tagItemSkillC129Name=Rozžhavená kulka
-tagItemSkillC129Desc=Vystřel ze své pušky rozžhavenou kulku, která snadno projde skrze tvé nepřátele a zapálí vše, s čím se setká. ^oTato technika je aktivována výchozím útokem zbraně.
+tagItemSkillC129Desc=Vystřelíš ze své pušky rozžhavenou kulku, která snadno projde skrze tvé nepřátele a zapálí vše, s čím se setká. ^oTato technika je aktivována výchozím útokem zbraně.
 
 tagItemSkillC130Name=Zvrácená dohoda
-tagItemSkillC130Desc=Uzavři se svými nohsledy zvrácený pakt a posilni tak své spojení s temnými silami z Prázdnoty. ^oAby tato schopnost účinkovala, musí být aktivní.
+tagItemSkillC130Desc=Uzavřeš se svými nohsledy zvrácený pakt a posilníš tak své spojení s temnými silami z Prázdnoty. ^oAby tato schopnost účinkovala, musí být aktivní.
 
 tagItemSkillC131Name=Bodec z blesku
-tagItemSkillC131Desc=Bodec stvořený z blesku z tebe vyjde směrem na toho, jež se tě opovážil napadnout.
+tagItemSkillC131Desc=Bodec stvořený z blesku z tebe vystřelí směrem k tomu, jež se tě opovážil napadnout.
 
 tagItemSkillC132Name=Šíření ohně
-tagItemSkillC132Desc=Vystřelí explozivní kulku, která se při kontaktu roztrhne a promění se v ohromný plamen. ^oTato technika je aktivována výchozím útokem zbraně.
+tagItemSkillC132Desc=Vystřelíš explozivní kulku, která se při kontaktu roztrhne a promění se v ohromný plamen. ^oTato technika je aktivována výchozím útokem zbraně.
 
 tagItemSkillC133Name=Callidorův hněv
-tagItemSkillC133Desc=Rozpoutej masivní explozi arkanických energií.
+tagItemSkillC133Desc=Rozpoutáš masivní výbuch tajemných energií.
 
 tagItemSkillC134Name=Úder Myrmidona
-tagItemSkillC134Desc=Udeř svého nepřítele štítem a způsob tak smrtelná vnitří poranění. ^oVyžaduje chladnou zbraň.
+tagItemSkillC134Desc=Udeříš svého nepřítele štítem a způsobíš tak smrtelná vnitřní poranění. ^oVyžaduje chladnou zbraň.
 
 tagItemSkillC135Name=Mogdrogenova poklidnost
 tagItemSkillC135Desc=Naplní tebe a tvé přátele v blízkosti Mogdrogenovou poklidností, čímž povzbudí jak tebe, tak i je a jejich zvířecí mazlíčky. ^oAby tato schopnost účinkovala, musí být aktivní.
@@ -1340,7 +1340,7 @@ tagItemSkillC136Name=Aetherický blesk
 tagItemSkillC136Desc=Vypustí blesk posilněný čistým Aetherem, který přeskakuje mezi tvými nepřáteli.
 
 tagItemSkillC137Name=Síla živlu
-tagItemSkillC137Desc=Rozpoutej sílu ohnivé a ledové magie, jež se ve spirále pohybuje z místa, kde stojíš.
+tagItemSkillC137Desc=Rozpoutáš sílu ohnivé a ledové magie, jež se ve spirále pohybuje z místa, kde stojíš.
 
 tagItemSkillC138Name=Narušitel dohody
 tagItemSkillC138Desc=Narušitel dohody vystřelí explozivní kulku obohacenou temnými silami. ^oTato technika je aktivována výchozím útokem zbraně.
@@ -1481,11 +1481,11 @@ tagItemSkillD051Desc=Vyčistíš svou mysl během přípravy na nadcházející 
 tagItemSkillD052Name=Kolosální moc
 tagItemSkillD052Desc=Mistrovství v boji se štítem tě poctí stát se smrtící a nezastavitelnou silou. ^oToto je pasivní bonus pro štít.
 
-tagItemSkillD053Name=Vyvolání černého moru
+tagItemSkillD053Name=Vyvolání černé pohromy
 tagItemSkillD053Desc=Tvé bezohledné vraždění oslavuje Prázdnotu.
 tagItemSkillD053_Pet01=Entropický konec
 
-tagItemSkillD054Name=Strážcovo oko
+tagItemSkillD054Name=Oko Strážce
 tagItemSkillD054Desc=Vyčaruješ jedno z nekonečného množství očí Dreega, které tě bude bránit barikádou z ostnů. Oko sílí spolu se zvyšujícími se bonusy pro spojence.
 tagItemSkillD054_Pet01=Jedovaté ostny
 
@@ -2059,28 +2059,28 @@ tagItemSkillD242Name=Jedová zloba
 tagItemSkillD242Desc=Odporný jed, který napadne tkáň a odhalí skryté slabiny.
 
 tagItemSkillD243Name=Rituální kruh
-tagItemSkillD243Desc=Vyčaruj rituální kruh, který umocní tvé kouzelnické schopnosti a ochrání tě od fyzické újmy po dobu, kdy v něm setrváš.
+tagItemSkillD243Desc=Vyčaruješ rituální kruh, který umocní tvé kouzelnické schopnosti a ochrání tě od fyzické újmy po dobu, kdy v něm setrváš.
 
 tagItemSkillD244Name=Úlomek bouře
-tagItemSkillD244Desc=Vyčaruj bouří obohacený krystal v požadovaném místě a elektřinou zasáhni nepřátele v blízkosti. ^oÚlomky bouře sílí spolu se zvyšujícími se bonusy pro spojence.
+tagItemSkillD244Desc=Vyčaruješ bouří obohacený krystal v požadovaném místě a elektřinou zasáhneš blízké nepřátele. ^oÚlomky bouře sílí spolu se zvyšujícími se bonusy pro spojence.
 
 tagItemSkillD245Name=Vyvolání pekla
 tagItemSkillD245Desc=Pekelné plameny se šíří ze země pod tvými nepřáteli.
 
 tagItemSkillD246Name=Agrivixova dohoda
-tagItemSkillD246Desc=Vyvolej bludičku z arkanické energie, aby napadala tvé nepřátele. ^oBludičky sílí spolu se zvyšujícími se bonusy pro spojence.
+tagItemSkillD246Desc=Vyvoláš bludičku z tajemné energie, aby napadala tvé nepřátele. ^oBludičky sílí spolu se zvyšujícími se bonusy pro spojence.
 
-tagItemSkillD247Name=[[ms]Zrozen[fs]Zrozena] pro válku
-tagItemSkillD247Desc=[[ms]Byl[fs]Byla] si [[ms]zrozen[fs]zrozena] pro válku a v ní také skutečně prospíváš.
+tagItemSkillD247Name=Zrození pro válku
+tagItemSkillD247Desc=V tvých žilách proudí válka a v ní také skutečně prospíváš.
 
 tagItemSkillD248Name=Krvavá vášeň
 tagItemSkillD248Desc=Zabíjení tvých nepřátel tě uvede do stavu zuřivosti, kdy prahneš po dalším krveprolití.
 
-tagItemSkillD249Name=Arkanická destrukce
-tagItemSkillD249Desc=Otevři malou trhlinu v realitě, skrze kterou propadne rozžhavený arkanický uhlík.
+tagItemSkillD249Name=Tajemná destrukce
+tagItemSkillD249Desc=Otevřeš malou trhlinu v realitě, skrze kterou propadne rozžhavený tajemný uhlík.
 
 tagItemSkillD250Name=Krveprolití
-tagItemSkillD250Desc=Prořezej se skrze nepřátele v blízkosti k hrůznému obrazu.
+tagItemSkillD250Desc=Prořežeš se skrze blízké nepřátele k hrůznému obrazu.
 
 tagItemSkillFailName=Schopnost selhat
 tagItemSkillFailDesc=Pravděpodobnost selhání je nižší.
@@ -2584,7 +2584,7 @@ tagDevotion_B01Desc=Říká se, že když Rhowan z Arkovie opustil svůj trůn, 
 tagDevotion_B02=Ulcamovy váhy
 tagDevotion_B02Desc=Soudce Ulcama řídí nebesa a posuzuje životy všech živých. Říká se, že skutky všech živých jsou nakládány na jeho zlaté váhy a pokud je dobro v jejich životě převáženo zlem, jejich duch je navždy vyhnán do plání Prázdnoty.
 tagDevotion_B03=Wendigo
-tagDevotion_B03Desc=Wendigo je prvotní hladový duch. Mnoho šamanů se vydá cestou odporující jejich učení a zkoušejí uzavřít pakt s duchy Wendigo v naději, že se jim podaří tyto hanebné duchy poštvat na své nepřátele; ale Wendigo jsou hlavně velmi nebezpeční v případě, že se je šamané snaží ovládnout. Mnoho šamanů již zešílelo a začali mít neukojitelný hlad, což nevyhnutelně vedlo ke kanibalismu.
+tagDevotion_B03Desc=Wendigo je prvotní hladový duch. Mnoho šamanů se vydá cestou odporující jejich učení a zkoušejí uzavřít pakt s duchy Wendiga v naději, že se jim podaří tyto hanebné duchy poštvat na své nepřátele; ale Wendiga jsou hlavně velmi nebezpeční v případě, že se je šamané snaží ovládnout. Mnoho šamanů již zešílelo a začali mít neukojitelný hlad, což nevyhnutelně vedlo ke kanibalismu.
 tagDevotion_B04=Lovkyně
 tagDevotion_B04Desc=Lovkyně kráčí noční oblohou, sleduje svou nebeskou oběť. Říká se, že její nekonečný lov skončí až zabije nesmrtelnou Hydru.
 tagDevotion_B05=Divoký medvěd
@@ -2703,7 +2703,7 @@ tagDevotionEffectB01Desc=Na popud tvého příkazu vznikne praskající vír z l
 tagDevotionEffectB02=Jazýček vah
 tagDevotionEffectB02Desc=Nakloníš jazýček vah ve svůj prospěch, vysaješ životní energii ze svých nepřátel a přidělíš ji sobě.
 tagDevotionEffectB03=Znamení Wendigo
-tagDevotionEffectB03Desc=Označíš své nepřátele znamením wendigo, vysaješ z ních to málo, co jim ještě zbylo z životní energie a předáš ji sobě.
+tagDevotionEffectB03Desc=Označíš své nepřátele znamením Wendigo, vysaješ z ních to málo, co jim ještě zbylo z životní energie a předáš ji sobě.
 tagDevotionEffectB04=Rozervání
 tagDevotionEffectB04Desc=Roztrháš své nepřátele, odkryješ choulostivé tepny a způsobíš tak intenzivní krvácení.
 tagDevotionEffectB05=Kyj

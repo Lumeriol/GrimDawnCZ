@@ -1,7 +1,7 @@
 Poklad
-Tato truhla je chráněna těžkými řetězy.{^n}{^n}Abys [[ms]zjistil[fs]zjistila], jaké poklady se uvnitř nacházejí, budeš potřebovat 1 dynamit na rozbití řetězů.
+Tato truhla je chráněna těžkými řetězy.{^n}{^n}Pro zjištění, jaké poklady se uvnitř nacházejí, budeš potřebovat 1 dynamit na rozbití řetězů.
 Nedostatek dynamitu.
 Otevřít truhlu.
 Nechat to být.
-[[ms]Otevřel[fs]Otevřela] si truhlu.
+Truhla je otevřena.
 Ok.
