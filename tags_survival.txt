@@ -101,7 +101,7 @@ tagStoreDesc_SmithS01_4=Vyrobené zbraně, zbroj a příslušenství jsou prodch
 
 
 #Notifications
-tagNotification_Start=Pro zahájení bitvy si promluv s Mistrem arény
+tagNotification_Start=Pro zahájení boje si promluv s Mistrem arény
 tagNotification_Active=Zlikviduj všechny nepřátele
 tagNotification_Continue=Pro pokračování si promluv s Mistrem arény
 tagNotification_Failure=Tvá snaha byla marná, ale za svou účast navštiv Síň pokladů
