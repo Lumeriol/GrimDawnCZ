@@ -1,32 +1,32 @@
-Torralia, nesmrtelný Archmág
-Můj pán mi poručil, abych ti nabídla své služby. {^n}{^n}Zadarmo ale nepracuji. Přines mi Body cti, které zde můžeš získat, a já na tebe mohu seslat požehnání hvězd.
+Torralia, nesmrtelná čarodějka
+Můj pán mi poručil, abych ti nabídla své služby. {^n}{^n}Zadarmo ale nepracuji. Přines mi body cti, které můžeš v aréně získat, a já na tebe mohu seslat požehnání hvězd.
 Jaké jsou mé možnosti?
-K dispozici jsou ti čtyři požehnání:{^n}- Požehnání Ula tě chrání před efekty ovlivňujícími kontrolu a dobu trvání.{^n}- Empyrionovo vedení ti přisoudí jedinečnou obranyschopnost. {^n}- Amatokova moc tě učiní mocnějším.{^n}- Ulzuinova dohoda urychlí tvé schopnosti. {^n}{^n}Které požehnání to tedy bude?
-Dej mi Požehnání Ula (12 Bodů cti)
-Dej mi Empyrionovo vedení (12 Bodů cti)
-Dej mi Amatokovu moc (12 Bodů cti)
-Dej mi Ulzuinovu dohodu (12 Bodů cti)
-Nedostatek bodů (Potřebuješ 12 Bodů cti)
+K dispozici jsou ti čtyři požehnání:{^n}- Požehnání Ula tě chrání před efekty ovlivňujícími kontrolu a dobu trvání.{^n}- Empyrionovo vedení ti přisoudí jedinečnou obranyschopnost. {^n}- Amatokova moc tě učiní [[ms]mocnějším[fs]mocnější].{^n}- Ulzuinova dohoda urychlí tvé schopnosti. {^n}{^n}Které požehnání to tedy bude?
+Dej mi Požehnání Ula (12 bodů cti)
+Dej mi Empyrionovo vedení (12 bodů cti)
+Dej mi Amatokovu moc (12 bodů cti)
+Dej mi Ulzuinovu dohodu (12 bodů cti)
+Nedostatek bodů (potřebuješ 12 bodů cti)
 
 Co jsou to body cti?
-Body cti jsou platidlem v Aréně. {^n}{^n}Získej si přízeň našeho pána a budeš odměněn Body cti na základě tvých schopností.
+Body cti jsou platidlem v Aréně. {^n}{^n}Získej si přízeň našeho pána a budeš [[ms]odměněn[fs]odměněna] body cti na základě svých schopností.
 
 Chápu.
-Přeji si dokázat svoji Oddanost.
-Je zapotřebí se jen podívat do nebe a být svědkem nepochopitelné síly, která nás obklopuje. {^n}{^n}Odevzdej Body cti bohům a možná se nad tebou slitují.{^n}{^n}(Torralia vymění tvé Body cti za body Oddanosti)
-Zde jsou mé Body cti pro bohy. (3 Body cti)
-Nedostatek bodů (Potřebuješ 3 Body cti)
+Přeji si dokázat svoji oddanost.
+Je zapotřebí se jen podívat do nebe a být [[ms]svědkem[fs]svědkyní] nepochopitelné síly, která nás obklopuje. {^n}{^n}Odevzdej body cti bohům a možná se nad tebou slitují.{^n}{^n}(Torralia vymění tvé body cti za body oddanosti)
+Zde jsou mé body cti pro bohy. (3 body cti)
+Nedostatek bodů (potřebuješ 3 body cti)
 Neřešme to.
-Zde jsou mé Body cti pro bohy. (8 Bodů cti)
-Nedostatek bodů (Potřebuješ 8 bodů cti)
+Zde jsou mé body cti pro bohy. (8 Bodů cti)
+Nedostatek bodů cti (potřebuješ 8 bodů cti)
 Neřešme to.
-Zde jsou mé Body cti pro bohy. (15 Bodů cti)
-Nedostatek bodů (Potřebuješ 15 Bodů cti)
+Zde jsou mé body cti pro bohy. (15 Bodů cti)
+Nedostatek bodů cti (potřebuješ 15 bodů cti)
 Neřešme to.
-Zde jsou mé Body cti pro bohy. (25 Bodů cti)
-Nedostatek bodů (Potřebuješ 25 Bodů cti)
+Zde jsou mé body cti pro bohy. (25 Bodů cti)
+Nedostatek bodů cti (potřebuješ 25 bodů cti)
 Neřešme to.
-Zde jsou mé Body cti pro bohy. (40 Bodů cti)
-Nedostatek bodů (Potřebuješ 40 Bodů cti)
+Zde jsou mé body cti pro bohy. (40 bodů cti)
+Nedostatek bodů cti (potřebuješ 40 bodů cti)
 Neřešme to.
 Teď ne.
