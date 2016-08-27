@@ -68,12 +68,6 @@ tagItem_ChestN01=Nebeský poklad
 
 tagItem_ChestStart=Padlý bojovník
 
-#Arenas
-tagSurvivalArena_01=Aréna mrtvých
-tagSurvivalArena_02=Aréna hlubin
-tagSurvivalArena_03=Aréna písků
-tagSurvivalArena_04=Aréna hrobů
-
 #NPCs
 tagNPC_Event_01=Lokarr, Mistr arény
 tagNPC_DefenseSite_01=Staveniště
@@ -122,7 +116,7 @@ Mutator_Monster_03Desc=Nepřátelé jsou zběsilí, útočí rychleji, ale jsou 
 Mutator_Monster_04=Brutalita
 Mutator_Monster_04Desc=Nepřátelé uštědřují kritické údery častěji, ale s nižším zraněním.
 Mutator_Monster_05=Zkaženost
-Mutator_Monster_05Desc=Nepřátelé jsou odolní vůči Chaosu, ale jso náchylnější vůči Aetheru.
+Mutator_Monster_05Desc=Nepřátelé jsou odolní vůči Chaosu, ale jsou náchylnější vůči Aetheru.
 Mutator_Monster_06=Ochromení
 Mutator_Monster_06Desc=Nepřátelské útočí na pomalé protivníky, ale pomalými zásahy.
 Mutator_Monster_07=Krutost

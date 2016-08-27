@@ -79,6 +79,7 @@ tagWeaponSwordD010Desc="Do rukojeti jsou vyleptaná dvě písmena: D.T."
 tagWeaponSwordD011=Plenitelův dráp
 tagWeaponSwordD012=Dráp Šílené královny
 tagWeaponSwordD012Desc="Odtržená od svých potomků a uvězněná pod zdmi pevnosti škvoří královna pomalu zešílela."
+tagWeaponSwordD013=Břitva napuštěná jedem
 
 tagWeaponSwordF001=Legionářský kráječ
 tagWeaponSwordF002=Ostří Vyvoleného
@@ -144,6 +145,8 @@ tagWeaponBluntD003=Trápení
 tagWeaponBluntD004=Zvěstovatel planoucích konců
 tagWeaponBluntD005=Dreegův moronosič
 tagWeaponBluntD006=Perlík zpožděného svítání
+tagWeaponBluntD007=Pěst napuštěná jedem
+tagWeaponBluntD008=Palička ze starých válek
 
 tagWeaponBluntF001=Ďáblův drtič
 tagWeaponBluntF002=Legionářské válečné kladivo
@@ -528,6 +531,7 @@ tagWeaponCaster1hD014=Baziliškův spár
 tagWeaponCaster1hD015=Jasnovidcova hůlka
 tagWeaponCaster1hD016=Dreegova runová dýka
 tagWeaponCaster1hD017=Trozanův hvězdonoš
+tagWeaponCaster1hD018=Čepel z černého plamene
 
 tagWeaponCaster1hF001=Legionářský podpalovač
 tagWeaponCaster1hF002=Legionářská jiskra Aetheru
@@ -732,6 +736,8 @@ tagFocusD012=Agrivixovo pozření
 tagFocusD012Desc="Velký alchymista Agrivix byl slavný tím, že dopoval nadměrné množství energie do svých magických projektů, ale touha po moci ho svedla na cestu zkázy, když se snažil přesvědčit sám sebe, že je právoplatným vládcem světa. Agrivix nakonec našel svůj konec v rukách inkvizitorů, ovšem ještě před tím jich stačil pár vzít s sebou."
 tagFocusD013=Vyvolávačův žár
 tagFocusD014=Iskandřiny texty
+tagFocusD015=KOule z černého plamene
+tagFocusD016=Agrivixův kodex
 
 tagFocusF001=Polní bible
 tagFocusF002=Polní tlustopis
@@ -996,6 +1002,13 @@ tagHeadD022=Hledí opředené tajemstvím
 tagHeadD022Desc="Helmice ti našeptává hlasem, který nedokážeš pochopit."
 tagHeadD023=Dohoda Tří
 tagHeadD023Desc="Síla podstaty čarodějných bohů zpečetěných dohodou, zavazuje je a jejich následníky, že se vzájemně nezničí."
+tagHeadD024=Kápě napuštěná jedem
+tagHeadD025=Kryt z černého plamene
+tagHeadD026=Helma obránce Světla
+tagHeadD027=Chránič obličeje pekelného rytíře
+tagHeadD028=Hledí ze starých válek
+tagHeadD029=Kápě vteklého krvesaje
+
 
 tagHeadF001=Vyvrhelova kapuce
 tagHeadF001Desc="Nemůžeš si pomoci, ale máš dojem, že ta maska na tebe zírá."
@@ -1099,6 +1112,12 @@ tagShoulderD019=Ultosovy rytířské nárameníky
 tagShoulderD020=Mogdrogenovy tkané nárameníky
 tagShoulderD020Desc="Nárameníky nošené iluzí samotného Mogdrogena."
 tagShoulderD021=Trozanovy tkané nárameníky
+tagShoulderD022=Tkané nárameníky z černého plamene
+tagShoulderD023=Epolety obránce Světla
+tagShoulderD024=Skládané nárameníky pekelného rytíře
+tagShoulderD025=Agrivixovy tkané nárameníky
+tagShoulderD026=Skládané nárameníky ze starých válek
+tagShoulderD027=Chrániče ramen vzteklého krvesaje
 
 tagShoulderF001=Vyvrhelovy spalující tkané nárameníky
 tagShoulderF002=Vyvrhelovy mrazivé tkané nárameníky
@@ -1221,6 +1240,12 @@ tagTorsoD018=Ultosův kyrys
 tagTorsoD019=Děsivě mrazivý kyrys
 tagTorsoD020=Trozanův háv
 tagTorsoD021=Valdunův kabátec
+tagTorsoD022=Tajný kabátec napuštěný jedem
+tagTorsoD023=Plát obránce Světla
+tagTorsoD024=Kabátec pekelného rytíře
+tagTorsoD025=Agrivixův háv
+tagTorsoD026=Hrudní chránič ze starých válek
+tagTorsoD027=Kabát vzteklého krvesaje
 
 tagTorsoF001=Vyvrhelův spalující háv
 tagTorsoF002=Vyvrhelův mrazivý háv
@@ -1316,6 +1341,7 @@ tagWaistD013Desc="Tento ochranný pás byl nošen plukem lamačů kouzel - vybra
 tagWaistD014=Opasek z fantomovy příze
 tagWaistD014Desc="Tkaný pomocí stáčené příze na satanových čepech z duší zatracených."
 tagWaistD015=Opasek divoké krve
+tagWaistD016=Opasek pekelného rytíře
 
 tagWaistF001=Ďáblova šňůra
 tagWaistF002=Ďáblův ochranný pás
@@ -1388,6 +1414,7 @@ tagHandsD008=Aetherické rukavice
 tagHandsD009=Obrovy chňapky
 tagHandsD010=Chrániče rukou spravedlnosti
 tagHandsD011=Zvěstovatelovy chňapky
+tagHandsD012=Rytířské rukavice obránce Světla
 
 tagHandsF001=Tulákovy pěstnice
 tagHandsF002=Tulákovy chrániče rukou
@@ -1722,6 +1749,8 @@ tagNecklaceD021=Markovianova proslulost
 tagNecklaceD022=Ulzuinovo srdce
 tagNecklaceD023=Srdce Hory
 tagNecklaceD024=Valdunova odměna
+tagNecklaceD025=Agrivixův úlomek Tajemna
+tagNecklaceD026=Klenot vzteklého krvesaje
 
 tagNecklaceF001=Tulákův strážní kámen
 tagNecklaceF002=Tulákova nevraživost
@@ -2043,6 +2072,12 @@ tagBlueprint_ArmorD019=Plánek: Trozanův kapalec
 tagBlueprint_ArmorD020=Plánek: Valdunův kapalec
 tagBlueprint_ArmorD021=Plánek: Hledí opředené tajemstvím
 tagBlueprint_ArmorD022=Plánek: Dohoda Tří
+tagBlueprint_ArmorD023=Plánek: Kápě napuštěná jedem
+tagBlueprint_ArmorD024=Plánek: Kryt z černého plamene
+tagBlueprint_ArmorD025=Plánek: Helma obránce Světla
+tagBlueprint_ArmorD026=Plánek: Chránič obličeje pekelného rytíře
+tagBlueprint_ArmorD027=Plánek: Hledí ze starých válek
+tagBlueprint_ArmorD028=Plánek: Kápě vteklého krvesaje
 
 
 tagBlueprint_AccessoryC001=Plánek: Maiveniny čočky
@@ -3303,6 +3338,11 @@ tagCompAmmoBoxDesc="Aby temné síly zamořující Cairn byly zlikvidovány, mů
 tagCompAScrap=Kovový šrot
 tagCompAScrapDesc="Kusy železa, zlámané šipky, kožené šňůry nebo nekvalitní kovy mohou být sloučeny dohromady a být tak použity ke zpevnění předmětů nebo staveb."
 
+#ItemDifficultyUnlock
+tagDifficultyUnlock={^E}Odemknuta obtížnost {%s0}
+tagDifficultyAlreadyUnlocked=Tato obtížnost už byla odemčena
+tagDifficultyUnlockDLC=Tento předmět je spojený s DLC, které nevlastníš
+
 #ItemFactionBoosters
 
 tagFactionBooster={^E}Veškerá získaná přízeň vůči frakci {^H}{%s1}{^E} se zvýší o {^H}{%d0} %.
@@ -3578,6 +3618,27 @@ tagItemSetD018Desc="Trozan studoval v ústraní hvězdy a naučil se využívat 
 
 tagItemSetD019Name=Valdunova zrada
 tagItemSetD019Desc="Valdun byl jedním z nejlepších střelců v celém Cairnu, dokud neobrátil hlaveň proti erulanské šlechtě, čímž se stal vpravdě nechvalně známým."
+
+tagItemSetD020Name=Smlouva s pomalou smrtí
+tagItemSetD020Desc="Zbroj nošená skupinou nočních lovců, kteří se specializovali na co nejodpornější využití kyselin ve svých zbraních."
+
+tagItemSetD021Name=Dohoda s černým plamenem
+tagItemSetD021Desc="Roucho Bledého jedince, mistra v užívání Solaelova černého plamene."
+
+tagItemSetD022Name=Obránce Světla
+tagItemSetD022Desc="Ochránce víry, obránce Empyrionova Světla."
+
+tagItemSetD023Name=Pekelný rytíř
+tagItemSetD023Desc="Zbroj Gallrose Vala, známého spíše jako Pekelný rytíř Černé legie."
+
+tagItemSetD024Name=Agrivixův hněv
+tagItemSetD024Desc="Agrivix byl uznávaným mistrem tajemných energií, leč jeho žízeň po moci mu nakonec přinesla jen zkázu."
+
+tagItemSetD025Name=Zbroj ze starých válek
+tagItemSetD025Desc="Tato zbroj, kovaná v bitvách, zažila mnohem víc konfliktů, než všechny relikvie dohromady, které přežili do dnešních dnů."
+
+tagItemSetD026Name=Šílenství vzteklého krvesaje
+tagItemSetD026Desc="Zbroj vzteklých krvesajů, divokého klanu ze zamrzlých severských pustin."
 
 #Prefixes
 
@@ -3906,7 +3967,7 @@ tagSuffixB029_Ar_A=nemravných ostnů
 tagSuffixB030_Ar_A=masakru
 tagSuffixB031_Ar_A=zaklínadel
 tagSuffixB032_Ar_A=pochopení
-tagSuffixB033_Ar_A=$Prázdnoty
+tagSuffixB033_Ar_A=spáleného konce
 tagSuffixB034_Ar_A=přežití
 tagSuffixB035_Ar_A=králů
 tagSuffixB036_Ar_A=zničení

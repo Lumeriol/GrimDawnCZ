@@ -994,6 +994,7 @@ tagReanimatorBossH02=Stoupenec Zanbrandt
 tagReanimatorBossH03=Chladný ďas
 tagReanimatorBossH04=Padlý Nazagrad
 
+
 #Pets
 
 tagPetRavenA01=Velký havran
@@ -1010,6 +1011,9 @@ tagPetGazeOfDreeg=Dreegův upřený pohled
 tagPetEyeOfGuardian=Oko Strážce
 tagPetHeraldOfDoom=Prapor zkázy
 tagPetSpirit=Duch vazeb
+tagPetRitualCircle=Rituální kruh
+tagPetStormShard=Úlomek bouře
+tagPetArcaneWisp=Tajemná bludička
 
 
 tagDevotionPet_Skeleton=Kostra
@@ -1072,6 +1076,14 @@ tagBossLoghorrean01=Loghorrean "Hlas Ch'thona"
 tagBossLoghorreanTentacle01=Loghorreanovo chapadlo
 tagBossLoghorreanTentacle02=Loghorreanovo chapadlo
 tagBossLoghorreanTentacleCluster=Chuchvalec chapadel
+
+tagAetherialRoguelikeBoss01=Jarren, morem znetvořený
+tagAetherialRoguelikeBoss02=Mistr Van Aldritch
+tagAetherialRoguelikeBoss03=Radní Hallos
+tagAetherialRoguelikeBoss04=Radní Garl
+tagAetherialRoguelikeBoss05=Hlídač Ygraad
+tagAetherialRoguelikeBoss06=Hlídač Ordas
+tagAetherialRoguelikeBoss07=Hlídač Brandis
 
 tagMiscTargetDummy=Tréninková atrapa
 
@@ -1263,6 +1275,7 @@ tagRace012=Bestie
 tagRace013=Magické stvoření
 tagRace014=Nebešťan
 tagRace015=Pavoukovec
+tagRace016=Rostlina
 tagRace001P=Nemrtví
 tagRace002P=Zvířata
 tagRace003P=Aetherianští bojovníci
@@ -1278,3 +1291,5 @@ tagRace012P=Bestie
 tagRace013P=Magická stvoření
 tagRace014P=Nebešťané
 tagRace015P=Pavoukovci
+tagRace016P=Rostliny
+
