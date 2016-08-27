@@ -5,10 +5,6 @@ tagSurvivalMode_Desc=Vstup do arény, kde se prověří tvá síla a udatnost pr
 tagSurvivalDeath=Už bohužel nežiješ, ale tvoji přátelé stále mohou odrážet současnou vlnu nepřátel. Pokud ji přečkají, budeš moci opět bojovat proti další vlně nepřátel.
 tagSurvivalLastDeath=Tvá skupina padla.
 
-tagGameSDifficultySetting01=Obtížnost kandidáta
-tagGameSDifficultySetting02=Obtížnost vyzyvatele
-tagGameSDifficultySetting03=Obtížnost gladiátora
-
 #Achievements
 achGroupSurvival=Aréna
 
@@ -51,9 +47,9 @@ achS012Desc=Aktivuj všechna 4 požehnání nebes v jedné aréně.
 
 #Mutators
 
-tagNewMutator=Aktivní nový mutátor
-tagNewMutators=Aktivní nové mutátory
-tagMutatorGained=Hráč {%s0} získal {^r}{%s1} mutátor
+tagNewMutator=Nové aktivní znevýhodnění
+tagNewMutators=Nová aktivní znevýhodnění
+tagMutatorGained=Hráč {%s0} je oslaben znevýhodněním {^r}"{%s1}".
 tagMutatorPlayers=Hráči
 tagMutatorMonsters=Nestvůry
 
