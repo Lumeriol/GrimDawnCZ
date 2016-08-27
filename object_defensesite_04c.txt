@@ -1,13 +1,13 @@
 Obranná stavba
-This Defense Site can be upgraded, granting it a new ability.{^n}{^n}Upgrade this Site?{^n}{^n}(Requires 8 Crucible Tributes and 5000 Iron Bits)
-Upgrade this Defense (spend 8 Tributes + 5000 Iron Bits)
-Insufficient Materials.
-Step away
-This Defense Site can be upgraded, granting it a new ability.{^n}{^n}Upgrade this Site?{^n}{^n}(Requires 8 Crucible Tributes and 14000 Iron Bits)
-Upgrade this Defense (spend 8 Tributes + 14000 Iron Bits)
-Insufficient Materials.
-Step away
+Tato obranná stavba může být vylepšena, čímž se posílí její schopnosti.{^n}{^n}Vylepšit tuto stavbu?{^n}{^n}(vyžaduje 12 bodů cti a 7.500 železných mincí)
+Vylepšit tuto stavbu (použít 12 bodů cti a 7.500 železných mincí)
+Nedostatek materiálu.
+Odstup
+Tato obranná stavba může být vylepšena, čímž se posílí její schopnosti.{^n}{^n}Vylepšit tuto stavbu?{^n}{^n}(vyžaduje 12 bodů cti a 21.000 železných mincí)
+Vylepšit tuto stavbu (použít 12 bodů cti a 21.000 železných mincí)
+Nedostatek materiálu.
+Odstup
 Tato obranná stavba může být vylepšena, čímž se posílí její schopnosti.{^n}{^n}Vylepšit tuto stavbu?{^n}{^n}(vyžaduje 12 bodů cti a 30.000 železných mincí)
-Vylepšit tuto stavbu (utratit 12 bodů cti a 30.000 železných mincí)
+Vylepšit tuto stavbu (použít 12 bodů cti a 30.000 železných mincí)
 Nedostatek materiálu.
 Odstup
