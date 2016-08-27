@@ -2052,16 +2052,16 @@ tagItemSkillD239Desc=Množství podivných plamenů je zažeháváno pod tvými 
 tagItemSkillD240Name=Kousance Šílené královny
 tagItemSkillD240Desc=Oboř se v zoufalosti na nepřátele v blízkosti a hluboko zabodni svůj meč.
 
-tagItemSkillD241Name=Earthquake
-tagItemSkillD241Desc=Tear a fissure through the area underneath your foes, slowing and stunning any enemies caught within it.
+tagItemSkillD241Name=Zemětřesení
+tagItemSkillD241Desc=Rozervi zemi v oblasti tvých nepřátel a zpomal a omrač všechny ty, kteří budou v trhlině zachyceni.
 
 tagItemSkillD242Name=Jedová zloba
 tagItemSkillD242Desc=Odporný jed, který napadne tkáň a odhalí skryté slabiny.
 
 tagItemSkillD243Name=Rituální kruh
 tagItemSkillD243Desc=Vyčaruješ rituální kruh, který umocní tvé kouzelnické schopnosti a ochrání tě od fyzické újmy po dobu, kdy v něm setrváš.
-tagItemSkillD243NamePetSkill=Empowered Rituals
-tagItemSkillD243DescPetSkill=Standing within the Ritual Circle empowers your spells and protects you from physical harm.
+tagItemSkillD243NamePetSkill=Umocněné rituály
+tagItemSkillD243DescPetSkill=Setrvání uvnitř Rituálního kruhu umocňuje tvá kouzla a chrání tě od fyzické újmy.
 
 tagItemSkillD244Name=Úlomek bouře
 tagItemSkillD244Desc=Vyčaruješ bouří obohacený krystal v požadovaném místě a elektřinou zasáhneš blízké nepřátele. ^oÚlomky bouře sílí spolu se zvyšujícími se bonusy pro spojence.
@@ -2071,9 +2071,9 @@ tagItemSkillD245Desc=Pekelné plameny se šíří ze země pod tvými nepřátel
 
 tagItemSkillD246Name=Agrivixova dohoda
 tagItemSkillD246Desc=Vyvoláš bludičku z tajemné energie, aby napadala tvé nepřátele. ^oBludičky sílí spolu se zvyšujícími se bonusy pro spojence.
-tagItemSkillD246NamePetSkill=Arcane Shock
+tagItemSkillD246NamePetSkill=Arkanický šok
 
-tagItemSkillD247Name=Zrození pro válku
+tagItemSkillD247Name=Zrozeni pro válku
 tagItemSkillD247Desc=V tvých žilách proudí válka a v ní také skutečně prospíváš.
 
 tagItemSkillD248Name=Krvavá vášeň
@@ -2085,8 +2085,8 @@ tagItemSkillD249Desc=Otevřeš malou trhlinu v realitě, skrze kterou propadne r
 tagItemSkillD250Name=Krveprolití
 tagItemSkillD250Desc=Prořežeš se skrze blízké nepřátele k hrůznému obrazu.
 
-tagItemSkillD251Name=Black Mark
-tagItemSkillD251Desc=The mark of the Pale One fills your foes with excruciating pain.
+tagItemSkillD251Name=Temné znamení
+tagItemSkillD251Desc=Znamení Bledého zaplaví tvé nepřátele nesnesitelnou bolestí.
 
 tagItemSkillFailName=Schopnost selhat
 tagItemSkillFailDesc=Pravděpodobnost selhání je nižší.
