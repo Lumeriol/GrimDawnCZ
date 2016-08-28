@@ -2047,13 +2047,13 @@ tagItemSkillD238Name=Moc Pozorovatele
 tagItemSkillD238Desc=Proudí skrze tebe moc Pozorovatele.
 
 tagItemSkillD239Name=Černý plamen
-tagItemSkillD239Desc=Množství podivných plamenů je zažeháváno pod tvými nepřáteli.
+tagItemSkillD239Desc=Pod tvými nepřáteli je zažeháváno větší množství podivných plamenů.
 
 tagItemSkillD240Name=Kousance Šílené královny
-tagItemSkillD240Desc=Oboř se v zoufalosti na nepřátele v blízkosti a hluboko zabodni svůj meč.
+tagItemSkillD240Desc=Oboříš se ze zoufalství na blízké nepřátele a hluboko zabodneš svůj meč.
 
 tagItemSkillD241Name=Zemětřesení
-tagItemSkillD241Desc=Rozervi zemi v oblasti tvých nepřátel a zpomal a omrač všechny ty, kteří budou v trhlině zachyceni.
+tagItemSkillD241Desc=Rozerveš zemi v oblasti svých nepřátel a zpomalíš a omráčíš všechny, kteří budou v trhlině zachyceni.
 
 tagItemSkillD242Name=Jedová zloba
 tagItemSkillD242Desc=Odporný jed, který napadne tkáň a odhalí skryté slabiny.
@@ -2071,7 +2071,7 @@ tagItemSkillD245Desc=Pekelné plameny se šíří ze země pod tvými nepřátel
 
 tagItemSkillD246Name=Agrivixova dohoda
 tagItemSkillD246Desc=Vyvoláš bludičku z tajemné energie, aby napadala tvé nepřátele. ^oBludičky sílí spolu se zvyšujícími se bonusy pro spojence.
-tagItemSkillD246NamePetSkill=Arkanický šok
+tagItemSkillD246NamePetSkill=Tajemný šok
 
 tagItemSkillD247Name=Zrozeni pro válku
 tagItemSkillD247Desc=V tvých žilách proudí válka a v ní také skutečně prospíváš.
@@ -2095,7 +2095,7 @@ tagItemSkillFailDesc=Pravděpodobnost selhání je nižší.
 #Component Skills
 
 tagCompSkillA001Name=Zásah kyselinou
-tagCompSkillA001Desc=Udeříš svého soupeře sžíravou kyselinou, která si poradí i s tím nejtužším materiálem.
+tagCompSkillA001Desc=Zasáhneš svého soupeře žíravou kyselinou, která si poradí i s tím nejtužším materiálem.
 
 tagCompSkillA002Name=Úponek Aetheru
 tagCompSkillA002Desc=Uvolní výbuch čisté Aetherické energie vůči tvému nepříteli.

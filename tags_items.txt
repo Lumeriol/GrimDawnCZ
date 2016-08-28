@@ -3623,7 +3623,7 @@ tagItemSetD020Name=Smlouva s pomalou smrtí
 tagItemSetD020Desc="Zbroj nošená skupinou nočních lovců, kteří se specializovali na co nejodpornější využití kyselin ve svých zbraních."
 
 tagItemSetD021Name=Dohoda s černým plamenem
-tagItemSetD021Desc="Roucho Bledého jedince, mistra v užívání Solaelova černého plamene."
+tagItemSetD021Desc="Roucho Bledého, mistra v užívání Solaelova černého plamene."
 
 tagItemSetD022Name=Obránce Světla
 tagItemSetD022Desc="Ochránce víry, obránce Empyrionova Světla."
