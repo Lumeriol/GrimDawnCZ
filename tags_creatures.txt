@@ -1078,7 +1078,7 @@ tagBossLoghorreanTentacle02=Loghorreanovo chapadlo
 tagBossLoghorreanTentacleCluster=Chuchvalec chapadel
 
 tagAetherialRoguelikeBoss01=Jarren, morem znetvořený
-tagAetherialRoguelikeBoss02=Mistr Van Aldritch
+tagAetherialRoguelikeBoss02=Mistr Von Aldritch
 tagAetherialRoguelikeBoss03=Radní Hallos
 tagAetherialRoguelikeBoss04=Radní Garl
 tagAetherialRoguelikeBoss05=Hlídač Ygraad
