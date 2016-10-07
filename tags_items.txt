@@ -163,7 +163,7 @@ tagWeaponAxeA005=[ms]kalač
 tagWeaponAxeA006=[fs]bitevní sekera
 tagWeaponAxeA007=[fs]půlkruhová sekera
 tagWeaponAxeA008=[fs]těžká sekera
-tagWeaponAxeA009=[fs]bradzatice
+tagWeaponAxeA009=[fs]bradatice
 
 tagWeaponAxeB001=[ms]přízračný sekáček
 tagWeaponAxeB002=[fs]přízračná bitevní sekera
@@ -171,6 +171,7 @@ tagWeaponAxeB003=[fs]sekera mistra jámy
 tagWeaponAxeB004=[fs]kostěný sekáček
 tagWeaponAxeB005=[fs]kostěná kosa
 tagWeaponAxeB006=[fs]Olmanova sekera
+tagWeaponAxeB007=[ms]Aetherem prodchnutý sekáček
 
 tagWeaponAxeC001=Surové ostří
 tagWeaponAxeC002=Žencův dotek
@@ -508,6 +509,7 @@ tagWeaponCaster1hC019=Lapač bouří
 tagWeaponCaster1hC020=Kráječ s pekelnými runami
 tagWeaponCaster1hC021=Z ledu stvořená kouzelná čepel
 tagWeaponCaster1hC022=Zkrvavená dýka závazku
+tagWeaponCaster1hC023=Aldritchovo žezlo
 
 tagWeaponCaster1hD001=Dotek čistoty
 tagWeaponCaster1hD001Desc="Staré povídky hovořily o zahalené postavě, která cestovala světem a očišťovala jej od nemocí a zacelovala jeho rány, aniž by přijala jedinou minci nebo jiný znak vděčnosti."
@@ -532,6 +534,8 @@ tagWeaponCaster1hD015=Jasnovidcova hůlka
 tagWeaponCaster1hD016=Dreegova runová dýka
 tagWeaponCaster1hD017=Trozanův hvězdonoš
 tagWeaponCaster1hD018=Čepel z černého plamene
+tagWeaponCaster1hD019=Aldritchův výnos
+tagWeaponCaster1hD019Desc="Díky poslednímu rozhodnutí odsoudil Von Aldritch celé město zkáze Ponurého úsvitu.
 
 tagWeaponCaster1hF001=Legionářský podpalovač
 tagWeaponCaster1hF002=Legionářská jiskra Aetheru
@@ -736,7 +740,7 @@ tagFocusD012=Agrivixovo pozření
 tagFocusD012Desc="Velký alchymista Agrivix byl slavný tím, že dopoval nadměrné množství energie do svých magických projektů, ale touha po moci ho svedla na cestu zkázy, když se snažil přesvědčit sám sebe, že je právoplatným vládcem světa. Agrivix nakonec našel svůj konec v rukách inkvizitorů, ovšem ještě před tím jich stačil pár vzít s sebou."
 tagFocusD013=Vyvolávačův žár
 tagFocusD014=Iskandřiny texty
-tagFocusD015=KOule z černého plamene
+tagFocusD015=Koule z černého plamene
 tagFocusD016=Agrivixův kodex
 
 tagFocusF001=Polní bible
@@ -1007,7 +1011,7 @@ tagHeadD025=Kryt z černého plamene
 tagHeadD026=Helma obránce Světla
 tagHeadD027=Chránič obličeje pekelného rytíře
 tagHeadD028=Hledí ze starých válek
-tagHeadD029=Kápě vteklého krvesaje
+tagHeadD029=Kápě vzteklého krvesaje
 
 
 tagHeadF001=Vyvrhelova kapuce
@@ -1240,7 +1244,7 @@ tagTorsoD018=Ultosův kyrys
 tagTorsoD019=Děsivě mrazivý kyrys
 tagTorsoD020=Trozanův háv
 tagTorsoD021=Valdunův kabátec
-tagTorsoD022=Tajný kabátec napuštěný jedem
+tagTorsoD022=Neviditelný kabátec napuštěný jedem
 tagTorsoD023=Plát obránce Světla
 tagTorsoD024=Kabátec pekelného rytíře
 tagTorsoD025=Agrivixův háv
@@ -1288,11 +1292,14 @@ tagWaistA009=[ms]císařský pásek
 tagWaistA010=[ms]vznešený pásek
 
 tagWaistB001=Plátový opasek lovce odměn
-tagWaistB002=V šoku tkaná pelerína
+tagWaistB002=pelerína tlakového rázu
 tagWaistB003=Štváčův opasek
 tagWaistB004=Hedvábná pelerína s plameny
 tagWaistB005=Plátový opasek zmrzlého strážce
 tagWaistB006=Pelerína z přízračné kosti
+tagWaistB007=Ygraadova pouta
+tagWaistB008=Ordasova pouta
+tagWaistB009=Brandisova pouta
 
 tagWaistC001=Oldenarův stabilizátor
 tagWaistC002=Frizzickovy prospěšné váčky
@@ -2077,7 +2084,7 @@ tagBlueprint_ArmorD024=Plánek: Kryt z černého plamene
 tagBlueprint_ArmorD025=Plánek: Helma obránce Světla
 tagBlueprint_ArmorD026=Plánek: Chránič obličeje pekelného rytíře
 tagBlueprint_ArmorD027=Plánek: Hledí ze starých válek
-tagBlueprint_ArmorD028=Plánek: Kápě vteklého krvesaje
+tagBlueprint_ArmorD028=Plánek: Kápě vzteklého krvesaje
 
 
 tagBlueprint_AccessoryC001=Plánek: Maiveniny čočky

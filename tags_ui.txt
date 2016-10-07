@@ -1939,6 +1939,7 @@ DefenseAetherModifier={^H}{%.0f0}% {^E}zvýšení odolnosti vůči Aetheru
 DefenseStunModifier={^H}{%.0f0}% {^E}zvýšení současné odolnosti vůči omráčení
 DefenseBlockModifier={^H}{%+.0f0}% {^E}zvýšení šance vykrytí štítem
 DefenseBlockAmountModifier={^H}{%+.0f0}% {^E}zranění vykryto štítem
+DefenseReflectModifier={%+.0f0}% {^E}odraženého zranění
 DefenseLifeLeachModifier={^H}{%.0f0}% {^E}zvýšení současné odolnosti vůči vysátí života
 DefenseManaLeachModifier={^H}{%.0f0}% {^E}zvýšení současné odolnosti vůči vysátí magické energie
 DefensePercentLifeModifier={^H}{%.0f0}% {^E}zvýšení odolnosti vůči procentuální ztrátě života
