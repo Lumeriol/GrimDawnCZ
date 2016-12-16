@@ -62,10 +62,16 @@ tagLeaderboardHeader01=Postava
 tagLeaderboardHeader02=Body
 
 tagRDifficultyTitle01=Normální
+tagRDifficultyTitle01Desc=Běžná úroveň obtížnosti.
 tagRDifficultyTitle02=Elitní obtížnost
+tagRDifficultyTitle02Desc=Elitní obtížnost je vyšší úroveň pro postavy, které dokončily Normální obtížnost nebo Veterána.
 tagRDifficultyTitle03=Ultimátní obtížnost
+tagRDifficultyTitle03Desc=Ultimátní obtížnost je nejvyšší zkouška dovedností a vybavení postavy; je dostupná pouze po dokončení Elitní obtížnosti.
 tagChallengeDifficulty=Veterán
+tagChallengeDifficultyDesc=Veterán zvyšuje Normální obbtížnost, pouze pro zkušené ARPG hráče.
+tagChallengeDifficultyDescNA=Obtížnost Veterán není v tomto herním režimu dostupná.
 tagHardcore=Výzva
+tagHardcoreDesc=Smrt je věčná!
 tagRDifficultyDesc01=Pro odemčení těžších obtížností musíš dokončit hru na této obtížnosti.
 tagRDifficultyDesc02=Pro odemčení veteránské obtížnosti musíš dokončit hru na normální obtížnost.
 tagRDifficultyDesc03=Pro odemčení elitní obtížnosti musíš dokončit hru na veteránskou obtížnost.
