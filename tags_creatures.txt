@@ -52,6 +52,7 @@ tagAetherObeliskB01=Aetherianský původní obyvatel
 
 tagBossAetherObelisk01=Plamenný posel
 tagBossAetherObelisk02=Posel zničení
+tagBossAetherObelisk03=Hvězdný posel
 
 tagEnemyAetherialA01=Aetherianský hlídač
 tagEnemyAetherialB01=Aetherianský přízrak
@@ -852,6 +853,7 @@ tagBossTrollB03=Balegor, král bažin
 tagEnemyTrollCorruptedA01=Pokroucený zlobr
 tagEnemyTrollCorruptedB01=Pokroucený předvoj
 tagEnemyTrollCorruptedB02=Pokroucený ostřelovač
+tagEnemyTrollCorruptedB03=Pokroucené plamenné oko
 tagEnemyTrollCorruptedC01=Pokroucený velitel
 
 tagTrollCorruptedD01=Chladný strážce smrti
@@ -1078,7 +1080,7 @@ tagBossLoghorreanTentacle02=Loghorreanovo chapadlo
 tagBossLoghorreanTentacleCluster=Chuchvalec chapadel
 
 tagAetherialRoguelikeBoss01=Jarren, morem znetvořený
-tagAetherialRoguelikeBoss02=Mistr Von Aldritch
+tagAetherialRoguelikeBoss02=Mistr Van Aldritch
 tagAetherialRoguelikeBoss03=Radní Hallos
 tagAetherialRoguelikeBoss04=Radní Garl
 tagAetherialRoguelikeBoss05=Hlídač Ygraad

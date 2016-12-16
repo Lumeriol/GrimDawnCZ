@@ -290,6 +290,8 @@ tagWeaponGun2hB002=[fs]předovka
 tagWeaponGun2hB003=[fs]šrapnelová puška
 tagWeaponGun2hB004=[fs]masorvoucí puška
 tagWeaponGun2hB005=[fs]masorvoucí karabina
+tagWeaponGun2hB006=[ms]masorvoucí ohňomet
+tagWeaponGun2hB007=[ms]masorvoucí spalovač
 
 tagWeaponGun2hC001=Lovec
 tagWeaponGun2hC001B=Lovec
@@ -510,6 +512,7 @@ tagWeaponCaster1hC020=Kráječ s pekelnými runami
 tagWeaponCaster1hC021=Z ledu stvořená kouzelná čepel
 tagWeaponCaster1hC022=Zkrvavená dýka závazku
 tagWeaponCaster1hC023=Aldritchovo žezlo
+tagWeaponCaster1hC023_Desc="Z žezla vychází pochybný šepot v jazyce, kterému se nedá porozumět."
 
 tagWeaponCaster1hD001=Dotek čistoty
 tagWeaponCaster1hD001Desc="Staré povídky hovořily o zahalené postavě, která cestovala světem a očišťovala jej od nemocí a zacelovala jeho rány, aniž by přijala jedinou minci nebo jiný znak vděčnosti."
@@ -535,7 +538,7 @@ tagWeaponCaster1hD016=Dreegova runová dýka
 tagWeaponCaster1hD017=Trozanův hvězdonoš
 tagWeaponCaster1hD018=Čepel z černého plamene
 tagWeaponCaster1hD019=Aldritchův výnos
-tagWeaponCaster1hD019Desc="Díky poslednímu rozhodnutí odsoudil Von Aldritch celé město zkáze Ponurého úsvitu.
+tagWeaponCaster1hD019Desc="Díky poslednímu rozhodnutí odsoudil Van Aldritch celé město zkáze Ponurého úsvitu."
 
 tagWeaponCaster1hF001=Legionářský podpalovač
 tagWeaponCaster1hF002=Legionářská jiskra Aetheru
@@ -2453,6 +2456,10 @@ tagDLCA05=Veteránská medaile Kickstarteru
 tagDLCA05Desc="Veteránská insignie z velké Kickstarterské války roku 2012."
 tagDLCA06=Důstojnická medaile Kickstarteru
 tagDLCA06Desc="Důstojnická insignie z velké Kickstarterské války roku 2012."
+tagDLCA07=Iluze: Admirálská čapka
+tagDLCA07Desc="Znak vedení, na souši i na vodě."
+tagDLCA08=Iluze: Helma jižanského generála
+tagDLCA08Desc="Helma vzbuzuje neochvějnou loajalitu."
 tagDLCConsumableA01=Polapená bludička
 tagDLCConsumableA01Desc="Neškodný duch uvězněný ve sklenici"
 tagDLCConsumableA01PetSkill01=Aura pramene
@@ -3468,6 +3475,8 @@ tagDevotionReset={^E}Použij k vynulování svých bodů oddanosti
 tagDevotionNoPointsUsed={^r}[žádné body oddanosti k vynulování]
 tagDevotionResetConfirmation=Chceš vynulovat všechny body dovednosti?
 
+
+
 #ItemSets
 
 
@@ -3531,7 +3540,7 @@ tagItemSetC017Name=Budoucí strážce
 tagItemSetC017Desc="Zbroj nošená pouze nejhorlivějšími zastánci svaté víry boha Menhira."
 
 tagItemSetC018Name=Alkamosův hněv
-tagItemSetC018Desc="Pečetě Alkamose, Arkovianského vykonavatele spravedlnosti"
+tagItemSetC018Desc="Pečetě Alkamose, Arkovianského vykonavatele spravedlnosti."
 
 tagItemSetC019Name=Nepříjemnost
 tagItemSetC019NameB=Smrtící nepříjemnost
@@ -3966,7 +3975,7 @@ tagSuffixB021_Ar_A=slitha
 tagSuffixB022_Ar_A=odlišnosti
 tagSuffixB023_Ar_A=proroka
 tagSuffixB024_Ar_A=masitého hromotluka
-tagSuffixB025_Ar_A=posla
+tagSuffixB025_Ar_A=posla Prázdnoty
 tagSuffixB026_Ar_A=vyvážené oceli
 tagSuffixB027_Ar_A=nadvlády
 tagSuffixB028_Ar_A=stínů
@@ -4093,6 +4102,8 @@ tagChestStoneSarcophagusC01=Starověký sarkofág
 tagChestBoneChestD01=Kostěný relikviář
 tagChestBoneChestD02=Kostěná truhlice
 tagChestTreasureTrove01=Poklad
+tagChestCorruptedChestD01=Poškozený relikviář
+tagChestCorruptedChestD02=Poškozená truhlice
 
 tagChestRackArmorA01=Stojan na zbroj
 tagChestRackArmorB01=Sbírka zbrojí
@@ -4105,6 +4116,7 @@ tagChestCorpse_Jacob=Jacobova mrtvola
 tagChestCorpse_Refugee=Mrtvola Dahliy Taverin
 tagChestCorpse_BlackLegion=Ostatky Černého legionáře
 tagChestCorpse_Malkadarr=Malkadarrovy ostatky
+tagChestCorpse_BurrwitchScout=Thalnovy ostatky
 
 tagLectern_WardensLabA01=Výzkumný deníček
 tagLectern_OldArkoviaRuinsA01=Starodávný řečnický pult
@@ -4198,9 +4210,12 @@ tagUGDoorObsidian=Obsidiánové trny
 tagUGDoorFort=Vstup do pevnosti
 tagUGDoorCrypt=Vstup do krypty
 tagUGDoorWitchGods=Označený kámen
+tagUGDoorAetherFire=Aetherická bariéra
 tagDoorLocked= {^R} ~ zamčeno
+tagUGCellarOneWay=Vstup do sklepa
 
 tagDoorOneWay01=Útěk na povrch
+tagDoorOneWayPortValbury=Útěk z města
 tagDoorLever01=Ovládání padací mříže
 tagTorchLever01=Uvolněná pochodeň
 tagStoneLever01=Uvolněný kámen
@@ -4212,6 +4227,7 @@ tagPrisonEntranceDoor=Burrwitchská vězeňská brána
 tagMineDoor=Důlní dveře
 tagEpicDoor_StepsOfTorment=Brány Utrpení
 tagEpicDoor_BastionOfChais=Brány Bašty
+tagEpicDoor_PortValbury=Brány Valburského přístavu
 tagEpicDoor_StepsOfTormentLocked= {^R} ~ Zapečetěno starodávnou silou (vyžaduje univerzální klíč)
 tagLocked= {^R} ~ zamčeno
 tagBlocked= {^R} ~ zborcená jeskyně v cestě

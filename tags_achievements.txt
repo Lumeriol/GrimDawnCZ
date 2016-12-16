@@ -209,8 +209,20 @@ ach065Desc=Zlikviduj Posla zničení na Obětišti.
 ach066Title=Uzemnění Posla
 ach066Desc=Zlikviduj Posla zničení na Obětišti na Ultimátní obtížnost.
 
-ach067Title=Obránce Cairn
+ach067Title=Obránce Cairnu
 ach067Desc=Dokonči hru.
 
-ach068Title=Šampión Cairn
+ach068Title=Šampión Cairnu
 ach068Desc=Dokonči hru na elitní obtížnosti.
+
+ach069Title=Valbury v plamenech
+ach069Desc=Přežij Plameny ve Valbury.
+
+ach070Title=Velmistr poražených
+ach070Desc=Zlikviduj Mistra Von Aldritche ve Valburském přístavu.
+
+ach071Title=Pomsta z Valburského přístavu
+ach071Desc=Zlikviduj Mistra Von Aldritche ve Valburském přístavu na Ultimátní obtížnost.
+
+ach072Title=Nesmrtelný protivník z Valbury
+ach072Desc=Zlikviduj Mistra Von Aldritche ve Valburském přístavu ve Výzvě.
