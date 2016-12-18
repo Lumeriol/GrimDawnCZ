@@ -216,7 +216,7 @@ ach068Title=Šampión Cairnu
 ach068Desc=Dokonči hru na elitní obtížnosti.
 
 ach069Title=Valbury v plamenech
-ach069Desc=Přežij Plameny ve Valbury.
+ach069Desc=Přežij ve Spáleništi Valbury.
 
 ach070Title=Velmistr poražených
 ach070Desc=Zlikviduj Mistra Von Aldritche ve Valburském přístavu.
