@@ -87,7 +87,7 @@ tagClass01SkillName00A=[ms]Voják[fs]Voják
 tagClass01SkillDescription00A=Velká fyzická kondice je nutná, aby voják dokázal čelit kruté realitě v oblastech Cairnu.
 
 tagClass01SkillName01A=Rychlý útok
-tagClass01SkillDescription01A=Využití vlastností zbraně v boji dodá tvému útoku přirozený spád se všemi jeho klady i zápory, a ačkoliv jsou údery předvídatelné, jsou neméně účinné a těžce se jim čelí. ^oPokud jej využiješ jako výchozí typ útoku, zvýší sílu každého třetího úderu.
+tagClass01SkillDescription01A=Využití vlastností zbraně v boji dodá tvému útoku přirozený spád se všemi jeho klady i zápory, a ačkoliv jsou údery předvídatelné, jsou neméně účinné a těžce se jim čelí. ^oPokud jej využiješ jako výchozí typ útoku, zvýší sílu každého třetího úderu jedné zbraně.
 tagClass01SkillName01B=Bojová formace
 tagClass01SkillDescription01B=Běsnění tvé zbraně rozechvěje protivníka, způsobí mu těžké krvácení a zároveň zasahuje nepřátele v blízkosti. ^oSe střelnými zbraněmi má Rychlý útok šanci projít skrze nepřátele.
 tagClass01SkillName01C=Smrtící pohyb
@@ -176,6 +176,8 @@ tagClass02SkillName01B=Vysoký účinek
 tagClass02SkillDescription01B=Vylepšená verze standardního Granátu uvolňuje při výbuchu intenzivní žár a nebezpečně ostré střepiny.
 tagClass02SkillName01C=Granát nebeského ohně
 tagClass02SkillDescription01C=Pokud exploze není na nepřítele dost, při výbuchu tato alchymistická úprava chemického složení Granátu rozpoutá smršť elektrické energie.
+tagClass02SkillName01D=Shattering Blast
+tagClass02SkillDescription01D=The intense blastwave created by the Grenado explosion ripples through your foes, inflicting grievous internal harm.
 
 tagClass02SkillName02A=Třesk blesku
 tagClass02SkillDescription02A=Oslepující světlo dočasně ochromí nepřátele a přeruší jejich schopnost se bránit.
@@ -185,7 +187,7 @@ tagClass02SkillDescription02B=Vypálí nepřátelům do sítnice to, co naposled
 tagClass02SkillName03A=Ohnivý úder
 tagClass02SkillDescription03A=Smrtící alchymistická technika způsobuje, že každý úder spaluje vzduch okolo nepřítele. ^oPokud je dovednost použita jako výchozí útok, způsobuje Ohnivý úder dodatečná zranění.
 tagClass02SkillName03B=Výbušný úder
-tagClass02SkillDescription03B=Zvyšuje potenciál Ohnivého úderu a dává mu tak šanci způsobit zvýšené zranění ohněm. ^oS útokem na dálku také exploduje, což způsobuje zranění nepřátel v blízkém okolí.
+tagClass02SkillDescription03B=Increases the potency of Fire Strike with an explosive charge that inflicts additional harm upon nearby foes.
 tagClass02SkillName03C=Statický úder
 tagClass02SkillDescription03C=Další chemické modifikace způsobují, že Ohnivý úder zasáhne cíl elektrickým výbojem a zároveň je šance, že budou sraženi k zemi.
 tagClass02SkillName03D=Síra
@@ -1345,6 +1347,8 @@ tagItemSkillC137Desc=Rozpoutáš sílu ohnivé a ledové magie, jež se ve spir�
 tagItemSkillC138Name=Narušitel dohody
 tagItemSkillC138Desc=Narušitel dohody vystřelí explozivní kulku obohacenou temnými silami. ^oTato technika je aktivována výchozím útokem zbraně.
 
+tagItemSkillC139Name=Corrupting Touch of Aldritch
+tagItemSkillC139Desc=The corrupting energies of the Aldritch's scepter lash out at your foes.
 
 tagItemSkillM005Name=Zběsilost
 tagItemSkillM005Desc=Ponoříš se do stavu šílenství, který dělá výpady se zvýšenou zuřivostí na úkor schopnosti přežít.
@@ -1783,7 +1787,7 @@ tagItemSkillD150Name=Zamoření zkažeností
 tagItemSkillD150Desc=Vyvoláš jednu ze sedmi Dreegových morových ran, mocnou nákazu, která se rychle šíří a způsobuje zmatek.
 
 tagItemSkillD151Name=Zamoření samotným Dreegem
-tagItemSkillD151Desc=Vyvoláš vrcholný úspěch čarodějnického boha, jedovatou nákazu, která způsobí masakr v řadách tvých nepřátel.
+tagItemSkillD151Desc=Vyvoláš vrcholný úspěch čarodějnického boha, devět morových ran, jedovatou nákazu, která způsobí masakr v řadách tvých nepřátel.
 
 tagItemSkillD152Name=Zamoření vysílením
 tagItemSkillD152Desc=Vyvoláš jednu ze sedmi Dreegových morových ran, mocnou nákazu, která se rychle šíří a způsobuje únavu.
@@ -2087,6 +2091,7 @@ tagItemSkillD250Desc=Prořežeš se skrze blízké nepřátele k hrůznému obra
 
 tagItemSkillD251Name=Temné znamení
 tagItemSkillD251Desc=Znamení Bledého zaplaví tvé nepřátele nesnesitelnou bolestí.
+
 
 tagItemSkillFailName=Schopnost selhat
 tagItemSkillFailDesc=Pravděpodobnost selhání je nižší.
@@ -2467,6 +2472,8 @@ tagQuestSkill_A01=Kymonovo požehnání
 tagQuestSkill_A01Desc=Tvé zbraně jsou požehnány svatým plamenem Empyriona.
 tagQuestSkill_A02=Očarování Strážců smrti
 tagQuestSkill_A02Desc=Tvé zbraně jsou očarovány Řádem.
+tagQuestSkill_A03=Anasteria's Mark
+tagQuestSkill_A03Desc=You are marked by the Outcast.
 
 
 #SkillsGeneral
@@ -2858,6 +2865,9 @@ tagEnemySkillA11_Desc=Obsidiánový poskvrnitel tě uvěznil v obsidiánové kle
 tagEnemySkillA12=Obsidiánová past
 tagEnemySkillA12_Desc=Benn'Jahr tě uvěznil v obsidiánové kleci a drtí tě silou Chaosu.
 
+tagEnemySkillA13=Mark of Aetherfire
+tagEnemySkillA13_Desc=Aetherfire singes your soul, exposing you to the elements and the Aether itself.
+
 tagEnemySkillD01=Entropická Prázdnota
 tagEnemySkillD01_Desc=Prázdnota tě pomalu trhá na kousky vlivem chaotické energie.
 
@@ -2869,5 +2879,8 @@ tagEnemySkillD03_Desc=Zlý duch tě straší, vysává z tebe vitalitu a přeru�
 
 tagEnemySkillD04=Podivná aura
 tagEnemySkillD04_Desc=Surová podivná energie obklopuje tento krystal, čímž posiluje podivné bytosti a poškozuje živé bytosti.
+
+tagEnemySkillD05=Scepter of Aldritch
+tagEnemySkillD05_Desc=The Scepter of Aldritch emits arcs of energy that shock nearby foes.
 
 
