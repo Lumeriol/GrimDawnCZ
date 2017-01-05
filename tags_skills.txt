@@ -2382,7 +2382,7 @@ tagRelicSkillD019Name=Oleronova zloba
 tagRelicSkillD019Desc=Zesílíš silou krve válečného boha a rozpoutáš hněv nad blízkými nepřáteli.
 
 tagRelicSkillD020Name=Menhirova bašta
-tagRelicSkillD020Desc=Zesílíš ochraňujícím duchem Menhira a ochraníš tak sebe a své spojence před újmou.
+tagRelicSkillD020Desc=Zesílíš ochraňujícím duchem Menhira a ochráníš tak sebe a své spojence před újmou.
 
 tagRelicSkillD021Name=Nevyváženost živlů
 tagRelicSkillD021Desc=Tvůj zuřivý útok může občas narušit tvou pečlivou vyváženost mezi živly, což uvolní dávku energie, která donutí tvé nepřátele litovat toho, že se k tobě byť jen přiblížili. ^oVyžaduje kouzelnický příruční předmět.
@@ -2758,7 +2758,7 @@ tagDevotionEffectB20Desc=Roznes tvoji zprávu o dobytí a pokárej kohokoliv, kd
 tagDevotionEffectB28=Krev obra
 tagDevotionEffectB28Desc=V žilách ti začne putovat krev obra, přinášející zlepšenou regeneraci a uzdravování.
 tagDevotionEffectB29=Nezvladatelná duše
-tagDevotionEffectB29Desc=Obětuješ nezvladatelnou duši a ochraníš sebe před hrozbou smrti.
+tagDevotionEffectB29Desc=Obětuješ nezvladatelnou duši a ochráníš sebe před hrozbou smrti.
 tagDevotionEffectB30=Očištující voda
 tagDevotionEffectB30Desc=Uloovy čistící vody vypudí veškerou odpornou magii z oblasti a odebere prospěšné aury a kouzla z tvých nepřátel, zatímco jsou tví spojenci očišťováni od negativních vlivů, včetně efektů, které tě v průběhu času zraňují.
 
