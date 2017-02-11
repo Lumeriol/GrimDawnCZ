@@ -49,7 +49,7 @@ tagMapTwinFalls=Dvojspády
 tagMapFourHills=Čtvery vršky
 tagMapRockyCoast=Skalnaté pobřeží
 tagMapNewHarbor=Nový přístav
-tagMapBarrenHighlands=Neúrodná vysočina
+tagMapBarrenHighlands=Neúrodná vrchovina
 tagMapCrumblingWatch=Rozpadlá strážní věž
 tagMapCronleysHideout=Cronleyův úkryt
 
@@ -1382,7 +1382,7 @@ tagStoreDesc_SmithA04_4=Vyrobené zbraně, zbroj a příslušenství jsou prodch
 
 tagNPC_SmithA05=Etram Fald
 tagStoreTitle_SmithA05=Nebeský kovář
-tagStoreDesc_SmithA05_1={}
+tagStoreDesc_SmithA05_1={}Nebeské umění
 tagStoreDesc_SmithA05_2=Kladivo Etrama Falda je prý ukováno ze samotných hvězd.
 tagStoreDesc_SmithA05_3=
 tagStoreDesc_SmithA05_4=Vyrobené zbraně, zbroj a příslušenství jsou prodchnuty jednou z následujících vlastností:
@@ -1443,7 +1443,7 @@ tagDevotionShrineB01=Arkovianské podhůří
 tagDevotionShrineB02=Stará Arkovia
 tagDevotionShrineB03=Arkovianské podzemní město
 tagDevotionShrineB04=Cronleyův úkryt
-tagDevotionShrineB05=Sesuté kopce
+tagDevotionShrineB05=Neúrodná vrchovina
 tagDevotionShrineB06=Skalnaté pobřeží
 tagDevotionShrineB07=Stupně bolesti
 tagDevotionShrineC01=Horské hlubiny

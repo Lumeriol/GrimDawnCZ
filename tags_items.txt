@@ -443,6 +443,10 @@ tagWeaponMelee2hD008=Světská zaoblená čepel
 tagWeaponMelee2hD009=Krvavý drtič
 tagWeaponMelee2hD010=Ultosův hledač bouří
 tagWeaponMelee2hD011=Livjátan
+tagWeaponMelee2hD012=Žrout duší
+tagWeaponMelee2hD012_Desc="Alkamosova pravá ruka, pořírač duší a mučitel hříšníků."
+tagWeaponMelee2hD013=Shar'Zulův pohlcovač světa
+tagWeaponMelee2hD013_Desc="Zbraň, jež rozlévá oceány krve pro Ch'thona, a touží po další."
 
 tagWeaponMelee2hF001=Legionářské válečné ostří
 tagWeaponMelee2hF002=Perlík Slunce
@@ -893,15 +897,17 @@ tagDestroySoulbound=Zničit předmět svázaný s tvou duší?
 tagUntradeable=Neprodejné
 tagDestroyUntradeable=Zničit neprodejný předmět?
 
-tagTransmuted=Očarování
+tagTransmuted=Iluze:
 tagTransmuteCapture=[pravým kliknutím sloučíš]
 tagTransmuteApply=[pravým kliknutím použij]
+tagTransmuteApplyRemove=[pravým kliknutím odstraň iluzi]
 tagTransmuteUnusable=[nelze použít - nesplňuje požadavky]
-tagTransmuteConfirmation=Opravdu chceš použít toto očarování?
-tagTransmuteOverwrite=Opravdu chceš nahradit stávající očarování?
-tagTransmuteSoulboundConfirmation=Opravdu chceš použít toto očarování? Tímto činem se předmět sváže s tvou duší.
-tagTransmuteSoulboundOverwrite=Opravdu chceš nahradit stávající očarování? Tímto činem se předmět sváže s tvou duší.
-tagTransmuteDestroy=Opravdu chceš sloučit toto očarování? Tímto činem předmět zničíš.
+tagTransmuteConfirmation=Opravdu chceš použít tuto iluzi?
+tagTransmuteOverwrite=Opravdu chceš nahradit stávající iluzi?
+tagTransmuteSoulboundConfirmation=Opravdu chceš použít tuto iluzi? Tímto činem se předmět sváže s tvou duší.
+tagTransmuteSoulboundOverwrite=Opravdu chceš nahradit stávající iluzi? Tímto činem se předmět sváže s tvou duší.
+tagTransmuteDestroy=Opravdu chceš sloučit tuto iluzi? Tímto činem předmět zničíš.
+tagTransmuteRemove=Opravdu chceš odstranit tuto iluzi?
 
 #ArmorHead
 
@@ -1637,6 +1643,9 @@ tagRingD011=Otevřená ruka milosti
 tagRingD012=Sevřená pěst pomsty
 tagRingD013=Vyvolávačova spalující ruka
 tagRingD014=Vyvolávačův šokující dotek
+tagRingD015=Alkamosův dotek hrůzy
+tagRingD016=Alkamosův dotek trýzně
+
 
 tagRingF001=Ďáblův válečný pečetní prsten
 tagRingF002=Ďáblův pečetní prsten hněvu
@@ -2444,6 +2453,8 @@ tagConsumable_DevotionReset=Tonikum jasnozřivosti
 tagConsumable_DevotionReset_Desc="Očistí mysl a připraví ji na novou duchovní cestu."
 
 #DLC
+tagDLCIllusionRemoval=Rozplývající se iluze
+tagDLCIllusionRemovalDesc="Napuštěna 100% autentickým rozpouštěcím prachem."
 tagDLCA01=Iluze: Prachová paruka
 tagDLCA01Desc="Definice kultivovanosti a stylu"
 tagDLCA02=Iluze: Hulvátův kabát
@@ -3540,6 +3551,7 @@ tagItemSetC017Name=Budoucí strážce
 tagItemSetC017Desc="Zbroj nošená pouze nejhorlivějšími zastánci svaté víry boha Menhira."
 
 tagItemSetC018Name=Alkamosův hněv
+tagItemSetC018NameB=Alkamosova zuřivost
 tagItemSetC018Desc="Pečetě Alkamose, Arkovianského vykonavatele spravedlnosti."
 
 tagItemSetC019Name=Nepříjemnost
@@ -3655,6 +3667,9 @@ tagItemSetD025Desc="Tato zbroj, kovaná v bitvách, zažila mnohem víc konflikt
 
 tagItemSetD026Name=Šílenství vzteklého krvesaje
 tagItemSetD026Desc="Zbroj vzteklých krvesajů, divokého klanu ze zamrzlých severských pustin."
+
+tagItemSetD027Name=Katovy okultní výbava
+tagItemSetD027Desc="Inspirovaná arkovianským popravčím Alkamosem, naplněna hrůzou svou pouhou přítomností rozsévá úzkost na všechny kolemjdoucí."
 
 #Prefixes
 

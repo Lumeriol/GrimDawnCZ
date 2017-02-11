@@ -19,6 +19,7 @@ tagLoadingTip17={^g}Tip: {^w}Komponenty používané ve zbraních ti přiděluj�
 tagLoadingTip18={^g}Tip: {^w}Relikvie jsou speciální předměty, které může vytvořit pouze zkušený Kovář.
 tagLoadingTip19={^g}Tip: {^w}Mnoho komponent lze pouze vyrobit. Plánky na tyto komponenty lze koupit od spřízněných frakcí po celém Cairnu.
 tagLoadingTip20={^g}Tip: {^w}Větší šanci na získání skvělé kořisti máš na vyšší obtížnostech, ale i úkoly za odměny jsou dobrou variantou.
+tagLoadingTip21={^g}Tip: {^w}Kamerou je možné otáčet podržením kolečka myši. Také je možné přiřadit klávesovou zkratku.
 
 #Tutorial Pages
 

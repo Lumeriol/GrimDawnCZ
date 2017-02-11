@@ -567,6 +567,8 @@ tagCharStatsDAHit=Šance být zasažen:
 tagCharStatsDACrit=Šance obdržet kritický zásah:
 tagCharStatsDADescription=Vyšší obranyschopnost ti umožňuje častěji se vyhnout nepřátelským zásahům, snižuje šanci na utrpení kritického zásahu a snižuje zranění udělené kritickým zásahem. Obranná schopnost je ovlivněna dovednostmi, předměty a fyzickou kondicí.
 
+tagOverCapResist={%s0} {^b}{%.0f1}% {^s}(+{%.0f2}% přes maximum)
+
 tagRollFormat01={%s0} {^b}{%d1}
 tagRollFormat02={%s0} {^s}{%d1} {^b}+ {%d2}
 tagRollFormat03={%s0}     {%+.0f1}%
@@ -586,6 +588,7 @@ tagRollFormat16={%s0} {^s}{%.2f1} {^b}- {%.2f2}
 tagRollFormat17={%s0} {^b}{%.1f1}% + {%.2f2}
 tagRollFormat18={^b}{%.0f0} - {%.0f1}
 tagRollFormat19={^b}{%.0f0}
+tagRollFormat20={%s0} {^b}{%d1}%
 tagFormatPercent={%.0f}%
 tagFormatPlusPercent=+ {%.0f}%
 tagFormatMinusPercent=- {%.0f}%
@@ -658,7 +661,11 @@ tagItemInsufficientStatus={^r}Nedostatečná přízeň frakce
 
 #Char Stats Tab 2
 
+tagCharStatsMaximumSpeed=Maximální rychlost
+
 #Character
+tagCharStatsAttacksPerSecond=Výpady za vteřinu
+tagCharStatsAttacksPerSecondInfoo=Počet výpadů pomocí zbraně za vteřinu, včetně bonusů.
 tagCharStatsRunSpeed=Rychlost běhu
 tagCharStatsRunSpeedInfo=Rychlost, jakou může tvá postava běhat vzhledem k výchozímu stavu (včetně celkové rychlosti).
 tagCharStatsCritDmg=Kritický zásah
@@ -668,7 +675,7 @@ tagCharStatsLifeRegenInfo=Hodnota udávající rychlost obnovení tvého zdraví
 tagCharStatsEnergyRegen=Obnova magické energie
 tagCharStatsEnergyRegenInfo=Hodnota udávající rychlost obnovení tvé magické energie. Procentuální bonusy mají vliv pouze na regeneraci z výstroje a dovedností, nikoliv na základní regeneraci, která je založena na duchovnu.
 tagCharStatsEnergyAbsorption=Absorpce mag. energie
-tagCharStatsEnergyAbsorptionInfo=Udává, kolik procent magické energie vydané na výpady a kouzla, kterými se strefíš, ti bude navráceno zpět do tvé zásoby magické energie.
+tagCharStatsEnergyAbsorptionInfo=Udává, kolik procent magické energie ti bude navráceno zpět do tvé zásoby magické energie za tobě způsobebé zranění výpady a kouzly.
 tagCharStatsConstitution=Bonus ke konstituci
 tagCharStatsConstitutionInfo=Procentuální bonus ke tvé maximální konstituci.
 tagCharStatsExpGainedBonus=Získané zkušenosti
@@ -692,7 +699,7 @@ tagCharStatsShamanSkillsBonusInfo=Bonus ke všem naučeným dovednostem v povol�
 
 #Physical
 tagCharStatsAttackSpeed=Útočná rychlost
-tagCharStatsAttackSpeedDescription=Rychlost útoku tvé zbraně vzhledem k výchozímu stavu (včetně celkové rychlosti).
+tagCharStatsAttackSpeedDescription=Rychlost útoku tvé zbraně vzhledem k výchozímu stavu (včetně celkové rychlosti). Pomalejší zbraně získávají méně % z bonusu k rychlosti útoku.
 tagCharStatsAvgDmg=Zranění zbraní
 tagCharStatsAvgDmgDescription=Zranění způsobené zásahem dle síly zbraně, včetně bonusů.
 
@@ -1423,6 +1430,9 @@ tagAttackSpeedAverage=Rychlost:  průměrná
 tagAttackSpeedFast=Rychlost:  rychlá
 tagAttackSpeedVeryFast=Rychlost:  velmi rychlá
 
+tagAttackSpeed={^W}{%.2f0} {^S}výpadů za sekundu
+tagAttackSpeedR={^W}{%.2f0} - {%.2f1} {^S}výpadů za sekundu
+
 tagCharOffensiveAbility={%+.0f0} {^E}útočná schopnost
 tagCharDefensiveAbility={%+.0f0} {^E}obranná schopnost
 tagCharOffensiveAbilityModifier={%+.0f0}% {^E}útočné schopnosti
@@ -1552,6 +1562,7 @@ SkillChanceWeight={%d0}% {^E}šance na použití
 SkillActivationChance={^E}šance na aktivování
 SkillDamageAbsorption={%.0f0} {^E}pohlcení zranění
 SkillDamageAbsorptionPercent={%.0f0}% {^E}pohlcení zranění
+SkillPetBurstSpawn={^E}Přivolání {^H}{%d0}
 SkillPetLimit={%d0} {^E}limit přivolání
 SkillPetLimitMod=+{%d0} {^E}limit přivolání
 SkillLifeBonus={%+.1f0} {^E}obnoveného zdraví
