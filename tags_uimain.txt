@@ -164,6 +164,7 @@ tagGameplayDesc21=Pomoz nám vylepšovat Grim Dawn odesíláním herních statis
 tagGameplayDesc22=Zobrazí násobky kritického zásahu při zásahu nepřítele.
 tagGameplayDesc23=Nastaví maximální počet snímků za vteřinu (FPS) v neaktivním herním okně.
 tagGameplayDesc24=Povolí herní ovladač kompatibilní s XInput.
+tagGameplayDesc24S=Povolí herní ovladač kompatibilní s XInput, pokud není použit ovladač podporovaný službou Steam.
 tagGameplayDesc25=Povolí otřesy kamery při kritickém zásahu a jiných efektech.
 tagGameplayDesc26=Nakonfiguruje připojení Steam ovladač.{^n}Vyžaduje režim Big picture.
 tagGameplayDesc27=Pokud je povolena dovednost "Přesun k", může být využita k rozbití interaktivních objektů.
