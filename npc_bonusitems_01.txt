@@ -20,6 +20,16 @@ Co, tohle?{^n}{^n}*Kory vyndá nádobu s vířící se modrou září*{^n}{^n}To
 (získej Polapenou bludičku)
 Co, tohle?{^n}{^n}*Kory vyndá nádobu s vířící se modrou září*{^n}{^n}To, [[ms]můj příteli[fs]má přítelkyně], je Polapená bludička. Ale vždyť už máš jednu takovou.
 Pravda, tuhle bludičku už mám.
+Say, what is that fine hat?
+Why, it's just the perfect hat for you!
+(Receive Illusion: Admiral's Hat)
+Why, it's just the perfect hat for you!
+True, I already have one for good reason.
+That helm looks expensive.
+It was once worn by a great general.{^n}{^n}But I'm sure you'd take good care of it.
+(Receive Illusion: Helm of the Southern General)
+It was once worn by a great general.{^n}{^n}But I'm sure you take good care of it.
+True, I already have this helm.
 Máš nějaké válečné medaile?
 Troufám si říct, že jsem zasloužilý válečný veterán.{^n}{^n}Která z nich tě zajímá?
 Co tahle zlatá?
@@ -42,4 +52,9 @@ Nejseš ty důstojník z velké Kickstarterské války roku 2012?{^n}{^n}Tak to 
 (získej Důstojnickou medaili Kickstarteru)
 Nejseš ty důstojník z velké Kickstarterské války roku 2012?{^n}{^n}*Kory zasalutuje*{^n}{^n}Tuhle medaili sis jistě [[ms]vysloužil[fs]vysloužila].
 (zasalutovat)
+I'm tired of these Illusions.
+Say no more. I have just the product for you.
+(Receive Item: Illusion-Be-Gone)
+Then purge it clean with Illusion-Be-Gone!
+True, I already have that.
 Ehm, dobře. Sbohem.
