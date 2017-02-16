@@ -153,8 +153,8 @@ tagClass01SkillDescription14A=Odvoláš se na boha války, Olerona. Oleron je pr
 
 tagClass01SkillName15A=Zaštítování
 tagClass01SkillDescription15A=Zaujmeš obranný postoj, který vysoce zvýší tvé bojové vnímání. Tento postoj můžeš zaujmout jen na krátkou chvíli. ^oVyžaduje štít.
-tagClass01SkillName15B=Markovian's Defense
-tagClass01SkillDescription15B=Markovian became a legend on the battlefield for his tactical knowledge, but it was his mastery of the shield is what allowed him to endure countless conflicts and emerge the victor. With enough focus and training, Markovian was capable of maintaining a defensive stance nearly indefinitely at the cost of his offensive, opting to wear out his opponents before striking the killing blow.
+tagClass01SkillName15B=Markovianova obrana
+tagClass01SkillDescription15B=Markovian se stal legendou na bojišti díky jeho znalosti taktiky, ale bylo to právě umění zacházet se štítem, které mu dovolilo přečkat nespočet soubojů a zvítězit. S dostatkem soustředění a tréninku byl Markovian schopný zaujmout obranný postoj na téměř jakkoli dlouho za cenu své schopnosti útočit, což vedlo k vyčerpání jeho nepřátel, aby pak uštědřil poslední úder.
 
 tagClass01SkillName16=Jizvy z bitvy
 tagClass01SkillDescription16=Přes nespočet násilných střetů jsi viděl tu nejhorší bitvu, která mohla kdy být. Hrůzy války už nezabrání tvým akcím a ani ti nebude vadit trocha prolité krve.
@@ -926,11 +926,11 @@ tagItemSkillB043Desc=Pokryje tě utišující klid a umocní tak schopnost tvéh
 tagItemSkillB044Name=Jedovatá šipka
 tagItemSkillB044Desc=Vypustí množství jedovatých šilek na tvé nepřátele.
 
-tagItemSkillB045Name=Fireball Nova
-tagItemSkillB045Desc=A burst of flaming orbs erupts from you.
+tagItemSkillB045Name=Nova z ohnivých koulí
+tagItemSkillB045Desc=Vyjde z tebe dávka ohnivých koulí.
 
-tagItemSkillB046Name=Acid Spine Nova
-tagItemSkillB046Desc=A burst of acidic spines erupts from you.
+tagItemSkillB046Name=Nova z jedovatých ostnů
+tagItemSkillB046Desc=Z tvé postavy vyjde salva jedovatých ostnů.
 
 tagItemSkillC002Name=Kulový blesk
 tagItemSkillC002Desc=Oplácí kulovým bleskem, jež je vypuštěn směrem na útočníka, poškozujíc a omračujíc vše, co mu stojí v cestě.
@@ -2100,19 +2100,19 @@ tagItemSkillD250Desc=Prořežeš se skrze blízké nepřátele k hrůznému obra
 tagItemSkillD251Name=Temné znamení
 tagItemSkillD251Desc=Znamení Bledého zaplaví tvé nepřátele nesnesitelnou bolestí.
 
-tagItemSkillD252Name=Dread Strike
-tagItemSkillD252Desc=Disappear into the veil of the dead and re-emerge next to your intended target in an instant.
+tagItemSkillD252Name=Úder strachu
+tagItemSkillD252Desc=Schovej se do světa mrtvých a v mžiku se zjev vedle svého cíle.
 
-tagItemSkillD253Name=Dreadfire
-tagItemSkillD253Desc=A ring of spectral flame expands around you, crippling your foes.
+tagItemSkillD253Name=Oheň mrtvých
+tagItemSkillD253Desc=Kruh spektrálního ohně vznikne v tvém blízkém okolí a bude poškozovat tvé nepřátele.
 
-tagItemSkillD254Name=Shar'Zul's Wrath
-tagItemSkillD254Desc=Flames erupt from the earth all around you, leaving nothing but ashes and misery.
+tagItemSkillD254Name=Shar'Zul'ova zloba
+tagItemSkillD254Desc=Ze země pod tebou vzejdou plameny a nezanechají za sebou nic než popel a utrpení.
 
-tagItemSkillD255Name=Dread Ice
-tagItemSkillD255Desc=Release a burst of frozen razor sharp spines.
+tagItemSkillD255Name=Led mrtvých
+tagItemSkillD255Desc=Vypustíš množství ledových ostnů, které jsou ostré jako břitva.
 
-tagItemSkillFailName=Schopnost selhat
+tagItemSkillFailName=Vylepšení schopnosti neselhat
 tagItemSkillFailDesc=Pravděpodobnost selhání je nižší.
 
 
@@ -2130,7 +2130,7 @@ tagCompSkillA003Desc=Úder tvé zbraně je zničující pro Aetherické bytosti.
 tagCompSkillA004Name=Narážecí zbraně
 tagCompSkillA004Desc=Umocní tvé útoky probodávajícím úderem skrz zbroj. ^oAby tato schopnost účinkovala, musí být aktivní.
 
-tagCompSkillA005Name=Čepelová bariéra
+tagCompSkillA005Name=Barikáda z čepelí
 tagCompSkillA005Desc=Zesílí tvou zbroj proti probodávajícím útokům a podobně oplácí těm, co na tebe útočí.
 
 tagCompSkillA006Name=Čepelová barikáda
@@ -2752,7 +2752,7 @@ tagDevotionEffectB09Desc=Označíš zemi tajemným znamením, které exploduje p
 tagDevotionEffectB09_Pet01=Znamení tajemna
 tagDevotionEffectB09_Pet01Desc=Označení tajemnou bombou.
 tagDevotionEffectB10=Vyvolání mrtvých
-tagDevotionEffectB10Desc=Vyvoláš mrtvé, nechť ti slouží. Nicméně nekrotické energie potřebné pro tento rituál jsou velmi nestabilní a tak budou neživí spojenci na tomto světě pouze omezený čas. ^oMrtví sílí spolu se zvyšujícími se bonusy ke zranění.
+tagDevotionEffectB10Desc=Vyvoláš mrtvé, nechť ti slouží. Nicméně nekrotické energie potřebné pro tento rituál jsou velmi nestabilní a tak budou neživí spojenci na tomto světě pouze omezený čas. ^oMrtví sílí spolu se zvyšujícími se bonusy mazlíčků.
 tagDevotionEffectB10_Pet01=Útok zblízka
 tagDevotionEffectB11=Podivný oheň
 tagDevotionEffectB11Desc=Z tvých úderů začnou vycházet podivné plameny, jež se divoce rozšíří mezi tvými nepřáteli.
