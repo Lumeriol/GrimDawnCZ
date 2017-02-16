@@ -100,7 +100,7 @@ tagClass01SkillDescription02A=Do útoku je dána taková síla, že stlačí sam
 tagClass01SkillName02B=Drásající síla
 tagClass01SkillDescription02B=Tlaková vlna roztřese protivníkovu zbroj, což ho učiní citlivějšího vůči fyzickým útokům.
 tagClass01SkillName02C=Vnitřní zranění
-tagClass01SkillDescription02C=Tlaková vlna tříští kosti a trhá orgány, což způsobí velká vnitřní i vnější krvácení.
+tagClass01SkillDescription02C=Tlaková vlna tříští kosti a trhá orgány, což způsobí velká vnitřní i vnější poranění.
 tagClass01SkillName02D=Zemětřas
 tagClass01SkillDescription02D=S Menhirovou vůlí silně udeříš do země obouruční zbraní a roztrháš své nepřátele devastujícími vlnami energie. ^oVyžaduje obouruční chladnou zbraň. Zemětřas nevylepšuje výchozí typ útoku a nemůže způsobit efekt jako třeba Markovianova výhoda.
 
