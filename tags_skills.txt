@@ -83,7 +83,7 @@ tagSkillUsableReady=Dovednost je možno použít.
 
 #Class01
 
-tagClass01SkillName00A=[ms]Voják[fs]Voják
+tagClass01SkillName00A=Voják
 tagClass01SkillDescription00A=Velká fyzická kondice je nutná, aby voják dokázal čelit kruté realitě v oblastech Cairnu.
 
 tagClass01SkillName01A=Rychlý útok
@@ -169,7 +169,7 @@ tagClass01SkillDescription18=Rozsáhlé studium bojových technik se štítem um
 
 #Class02
 
-tagClass02SkillName00A=[ms]Ničitel[fs]Ničitelka
+tagClass02SkillName00A=Ničitel
 tagClass02SkillDescription00A=Odbornost v kombinaci vědy a magie dokáže rozpoutat na bitevním poli ohnivé peklo.
 
 tagClass02SkillName01A=Granát
@@ -269,7 +269,7 @@ tagClass02SkillDescription14A=Mocný útok, který způsobuje zvýšené zraněn
 
 #Class03
 
-tagClass03SkillName00=[ms]Okultista[fs]Okultistka
+tagClass03SkillName00=Okultista
 tagClass03SkillDescription00=Do hloubky studovaná manipulace a ovládání okultních věd.
 
 tagClass03SkillName01A=Přivolání známosti
@@ -367,7 +367,7 @@ tagClass03SkillDescription15A=Uzamkne cíl uvnitř ochraňující a uzdravujíc�
 
 #Class04
 
-tagClass04SkillName00=[ms]Noční lovec[fs]Noční lovkyně
+tagClass04SkillName00=Noční lovec
 tagClass04SkillDescription00=Umění iluze a vířících se nožů v praxi.
 
 tagClass04SkillName01A=Přízračné čepele
@@ -484,7 +484,7 @@ xtagClass04SkillDescription14C=Obklíčený střelec může rychle zvýšit svů
 
 #Class05
 
-tagClass05SkillName00=[ms]Vládce temnot[fs]Vládkyně temnot
+tagClass05SkillName00=Vládce temnot
 tagClass05SkillDescription00=Trénování těla a mysli pomáhá snést zničující síly prvotní magie.
 
 tagClass05SkillName01A=Panettiho replikující se střela
@@ -574,7 +574,7 @@ tagClass05SkillDescription16B=Kompletně zbaví okolní vzduch tepla a cokoliv j
 
 
 #Class06
-tagClass06SkillName00=[ms]Šaman[fs]Šamanka
+tagClass06SkillName00=Šaman
 tagClass06SkillDescription00=Zasvěcení prvotnímu volání divočiny.
 
 tagClass06SkillName01A=Barbarství
@@ -1999,7 +1999,7 @@ tagItemSkillD218Name=Dech sopečného draka
 tagItemSkillD218Desc=Vypustíš na své nepřátele dech obrovského sopečného draka.
 
 tagItemSkillD219Name=Dračí šupina
-tagItemSkillD219Desc=Dračí šupina tě ochrání před ohněm a elektrickým proudem, pokud tě tyto síly zasáhnou.
+tagItemSkillD219Desc=Dračí šupina tě ochrání před zraněním.
 
 tagItemSkillD220Name=Zolhanova pomsta
 tagItemSkillD220Desc=Zolhan byl expertem v udržování nevyrovnanosti nepřátel. Přesně ve chvíli, kdy si mysleli, že mají výhodu, udeřil devastujícím úderem zpoza jeho štítu.
@@ -2768,7 +2768,7 @@ tagDevotionEffectB15=Vánice
 tagDevotionEffectB15Desc=Úlomky ledu ostrého jako břitva začnou padat z oblohy na tvé nepřátele.
 tagDevotionEffectB16=Páchnoucí jezírko
 tagDevotionEffectB16Desc=Pod nohami tvých nepřátel se objeví jezírko hnisu a zničí zemi.
-tagDevotionEffectB17=Bariéra živlů
+tagDevotionEffectB17=Tajemná bariéra
 tagDevotionEffectB17Desc=Kolem tebe se vytvoří bariéra vůči silám magie.
 tagDevotionEffectB18=Jedovatá sprška
 tagDevotionEffectB18Desc=Mantikoří osten projde skrze zbroj nepřítele, za níž rozpráší kapičky leptavého jedu.
@@ -2812,7 +2812,7 @@ tagDevotionEffectC12_Pet02=Výbuch
 tagDevotionEffectC13=Vodní vír
 tagDevotionEffectC13Desc=Chvějící se hlubiny se přemění na hladový vodní vír, blížící se s cílem rozdrtit tvé nepřátele.
 tagDevotionEffectC14=Živoucí stín
-tagDevotionEffectC14Desc=Vzestoupí ztělesnění bezejmenného hrdiny, aby bojovalo po tvém boku. ^oŽivoucí stíny sílí spolu se zvyšujícími se bonusy pro spojence.
+tagDevotionEffectC14Desc=Vzestoupí ztělesnění bezejmenného hrdiny, aby bojovalo po tvém boku a s každým úderem obnovilo tvou životní energii. ^oŽivoucí stíny sílí spolu se zvyšujícími se bonusy pro spojence.
 tagDevotionEffectC14_Pet01=Útok ze stínu
 tagDevotionEffectC14_Pet02=Stínové čepele
 
@@ -2858,7 +2858,7 @@ tagEnemySkillA03=Spektrální miazma
 tagEnemySkillA03_Desc=Chthonické prokletí tě zbavuje všech tvých schopností se bránit.
 
 tagEnemySkillA04=Znamení bolesti
-tagEnemySkillA04_Desc=Znamení stvůry z tebe odčerpává sílu.
+tagEnemySkillA04_Desc=Znamení stvůry z tebe odčerpává sílu, snižuje zranění a rychlost a zásadně snižuje obnovu zdraví.
 
 tagEnemySkillA05=Zuřivost přírody
 tagEnemySkillA05_Desc=Prokletí trola zpomaluje tvou mysl a tělo a podrobuje tě živlům.

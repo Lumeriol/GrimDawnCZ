@@ -1299,6 +1299,7 @@ tagGameOver=Budiž ti země Cairnu lehká!
 SimpleStringFormat={%s0}
 SimpleStringsFormat={%s1} {%s0}
 TripleStringFormat={%s2} {%s1} {%s0}
+TripleStringFormat2={%s2} {%s1} {(%s0)}
 QuadStringFormat={%s3}{%_s1} {(%s2)} {%_s0}
 SkillBaseNamesFormat={    %s0}
 CostFormat=Cena: {%d0}
@@ -2032,7 +2033,7 @@ tagSparkMaxNumberChanceSingle={^H}{%.0f0}% {^E}šance ovlivnit až {^H}{%d1} {^E
 tagSparkMaxNumberChance={^H}{%.0f0}% {^E}šance ovlivnit až {^H}{%d1} {^E}nepřátel
 tagSparkMaxNumberSingle={^E}Ovlivňuje až {^H}{%d0} {^E}nepřítele
 tagSparkMaxNumber={^E}Ovlivňuje až {^H}{%d0} {^E}nepřátel
-tagSparkMaxNumberMod=Ovlivňuje až {^H}{%d0} {^E}nepřátel
+tagSparkMaxNumberMod={^E}Ovlivňuje až {^H}+{%d0} {^E}nepřátel
 
 tagItemGrantSkill=Přiděluje dovednost:
 tagItemSkill= {^E}(přiděleno předmětem)

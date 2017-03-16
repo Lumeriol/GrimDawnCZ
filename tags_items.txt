@@ -3327,7 +3327,7 @@ tagCompB013Name=^kStrašidelná ocel
 tagCompB013Desc="Naplňuje tvou mysl nesnesitelným šepotem uvězněných přízraků."^w^n(může vylepšit všechny zbraně, štíty a kouzelnické příruční předměty)
 
 tagCompB014Name=^kBeronathův úlomek
-tagCompB014Desc="Kousek legendárního kopí, kterým byl poražen Beronath, si stále zachovává své ostří."^w^n(může vylepšit chladné zbraně)
+tagCompB014Desc="Kousek legendárního kopí, kterým byl poražen Beronath, si stále zachovává své ostří."^w^n(může vylepšit všechny zbraně, štíty a kouzelnické příruční předměty)
 
 tagCompB015Name=^kKrvavý brousek
 tagCompB015Desc="Namočený v krvi padlých dává tento prokletý brousek čepelím touhu po krvi."^w^n(může vylepšit sekyry a meče)
