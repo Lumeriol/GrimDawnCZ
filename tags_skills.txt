@@ -2884,8 +2884,8 @@ tagEnemySkillA11_Desc=Obsidiánový poskvrnitel tě uvěznil v obsidiánové kle
 tagEnemySkillA12=Obsidiánová past
 tagEnemySkillA12_Desc=Benn'Jahr tě uvěznil v obsidiánové kleci a drtí tě silou Chaosu.
 
-tagEnemySkillA13=Mark of Aetherfire
-tagEnemySkillA13_Desc=Aetherfire singes your soul, exposing you to the elements and the Aether itself.
+tagEnemySkillA13=Znamení Aetherického ohně
+tagEnemySkillA13_Desc=Aetherický oheň sužuje tvou duši a vystavuje tě tak napospas samotnému Aetheru.
 
 tagEnemySkillD01=Entropická Prázdnota
 tagEnemySkillD01_Desc=Prázdnota tě pomalu trhá na kousky vlivem chaotické energie.
@@ -2899,7 +2899,7 @@ tagEnemySkillD03_Desc=Zlý duch tě straší, vysává z tebe vitalitu a přeru�
 tagEnemySkillD04=Podivná aura
 tagEnemySkillD04_Desc=Surová podivná energie obklopuje tento krystal, čímž posiluje podivné bytosti a poškozuje živé bytosti.
 
-tagEnemySkillD05=Scepter of Aldritch
-tagEnemySkillD05_Desc=The Scepter of Aldritch emits arcs of energy that shock nearby foes.
+tagEnemySkillD05=Aldritchovo žezlo
+tagEnemySkillD05_Desc=Aldritchovo žezlo vysílá oblouky energie, která zraňuje nepřátele v blízkosti.
 
 
