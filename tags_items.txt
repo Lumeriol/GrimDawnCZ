@@ -1421,7 +1421,7 @@ tagHandsD001Desc="Rukavice jsou obdařeny zuřivostí samotného Olerona."
 tagHandsD002=Dotek nehynoucího háje
 tagHandsD003=Rytířské rukavice z falešné oceli
 tagHandsD003Desc="Kované nad doutnající mrtvolou Chthonského zvěstovatele."
-tagHandsD004=Nekromantovy pěstnice smrti
+tagHandsD004=Mrchožroutovy pěstnice smrti
 tagHandsD004Desc="Usměrněné nekromantovy rukavice, ve kterých stále zůstává část strašlivé magické síly."
 tagHandsD005=Chrániče rukou zkostnatělého červa
 tagHandsD006=Drápy ledoštíra
@@ -1828,7 +1828,7 @@ tagMedalC024=Volcanum
 tagMedalC025=Znak prudkého odhodlání
 tagMedalC026=Myrmidonova hvězda ctnosti
 
-tagMedalD001=Znak renegáta
+tagMedalD001=Znak zakázaných
 tagMedalD001Desc="Symbol kdysi vypalovaný kacířům, později nošen s pýchou uctívači čarodějnických bohů."
 tagMedalD002=Odznak mistrovství
 tagMedalD003=Pyroklazmatická značka
@@ -2471,6 +2471,10 @@ tagDLCA07=Iluze: Admirálská čapka
 tagDLCA07Desc="Znak vedení, na souši i na vodě."
 tagDLCA08=Iluze: Helma jižanského generála
 tagDLCA08Desc="Helma vzbuzuje neochvějnou loajalitu."
+tagDLCA09=Iluze: Drancířova helmice strachu
+tagDLCA09Desc="Tato helmice pamatuje nemálo krvavých konfliktů."
+tagDLCA10=Iluze: Helma ctihodného bojovníka
+tagDLCA10Desc="S poctivostí nejdál dojdeš."
 tagDLCConsumableA01=Polapená bludička
 tagDLCConsumableA01Desc="Neškodný duch uvězněný ve sklenici"
 tagDLCConsumableA01PetSkill01=Aura pramene
@@ -3055,7 +3059,7 @@ tagEnchantC004A=Prach nočního stínu
 tagEnchantC004Desc="Prach derivovaný z modrých okvětních lístků Asterkamu, zvané Noční stín. Tato květina kvete pouze za světla měsíce."^w^n(použitelné na všechny zbroje)
 
 tagEnchantC005A=Prach bariéry z ostří
-tagEnchantC005Desc="Vzhledem k jejich slibu odmítat násilí museli Tuláci improvizovat všemi způsoby, aby přežili v nástrahách světa."^w^n(použitelné na všechny zbroje)
+tagEnchantC005Desc="Kouzelný prach vynalezený Sahdinou k ochraně obránců Ďáblova průsmyku před fyzickými výpady."^w^n(použitelné na všechny zbroje)
 tagEnchantC006A=Mogdrogenův dotek
 tagEnchantC006Desc="Požehnání bohem zvířat, chránícího své následovníky před všudypřítomnou přírodou."^w^n(použitelné na všechny zbroje)
 
@@ -3179,7 +3183,7 @@ tagCompA026Name=Studený kámen
 tagCompA026Desc="Ve folklórech se praví, že tyto tajemné kameny vyzařující chlad, jsou srdce vyhoštěných přízraků."^w^n(může vylepšit chladné zbraně, štíty a kouzelnické příruční předměty)
 
 tagCompA027Name=Jantar
-tagCompA027Desc="Vypráví se, že křišťálová míza stromů, do nichž uhodí blesk, jsou polapené bouřné přízraky."^w^n(může vylepšit chladné zbraně, štíty a kouzelnické příruční předměty)
+tagCompA027Desc="Vypráví se, že křišťálová míza stromů, do nichž uhodí blesk, jsou uvězněné bouřné přízraky."^w^n(může vylepšit chladné zbraně, štíty a kouzelnické příruční předměty)
 
 tagCompA028Name=Zžíravý žlučníkový kámen
 tagCompA028Desc="Jedovaté kameny vytvořené ve žluči odporných bestií."^w^n(může vylepšit chladné zbraně, štíty a kouzelnické příruční předměty)
@@ -3203,7 +3207,7 @@ tagCompA034Name=Znamení cestovatele
 tagCompA034Desc="Cestovatelé používají tyto značky při průchodu divokou přírodou, aby nebyli mylně označeni jako lovci bohem zvířat Mogdrogenem."^w^n(může vylepšit obuv)
 
 tagCompA035Name=Posvěcená látka
-tagCompA035Desc="Krví potřísněné látky nošené Chthonskými kultisty."^w^n(může vylepšit ochranu rukou)
+tagCompA035Desc="Krví potřísněná látka nošená Chthonskými kultisty."^w^n(může vylepšit ochranu rukou)
 
 tagCompA036Name=Nepokojné ostatky
 tagCompA036Desc="Ostatky umučených, kterým je odepřeno právo na klid."^w^n(může vylepšit ochranu rukou)
@@ -3379,7 +3383,7 @@ tagFactionAlreadyNegativeBoosted={^r}[tato frakce už má v platnosti frakční 
 tagFactionMandateConfirmation=Opravdu chceš využít frakční mandát? Zrušíš tak platnost stávajícího frakčního oprávnění.
 tagFactionWarrantConfirmation=Opravdu chceš použít tento frakční oprávnění? Zrušíš tak stávající frakční mandát.
 
-tagBoosterADesc=Frakční dokumenty, označující tě jako vzor jejich lidu.
+tagBoosterADesc=Frakční dokumenty, označující tě jako vzor jejich lidu. ^oNesčítá se s mandáty. Mandát nahrazuje tento bonus.
 tagBoosterBDesc=Frakční dokumenty pověřující někoho zástupcem frakce. ^oMohou být uloženy u pašeráka a být využity jinými postavami. Nesčítá se s frakčními dokumenty.
 tagBoosterCDesc=Plakát s tvou podobou, kde tě hledají jako úhlavního nepřítele.
 tagBoosterBL_A01=Výnos Černé legie
@@ -3747,7 +3751,7 @@ tagPrefixAO013=[ms]Prázdnotou dotčený[fs]Prázdnotou dotčená[ns]Prázdnotou
 
 tagPrefixB001_WpnMelee1h_A=[ms]tyranův[fs]tyranova[ns]tyranovo[mp]tyranovy[fp]tyranovy[np]tyranovy
 tagPrefixB002_WpnMelee1h_A=[ms]nepovolný[fs]nepovolná[ns]nepovolné[mp]nepovolné[fp]nepovolné[np]nepovolné
-tagPrefixB003_WpnMelee1h_A=[ms]inkvizitorův[fs]inkvizitorova[ns]inkvizitorovo[mp]inkvizitorovy[fp]inkvizitorovy[np]inkvizitorovy
+tagPrefixB003_WpnMelee1h_A=|9runového mága
 tagPrefixB004_WpnMelee1h_A=[ms]moronosičův[fs]moronosičova[ns]moronosičovo[mp]moronosičovy[fp]moronosičovy[np]moronosičovy
 tagPrefixB005_WpnMelee1h_A=[ms]barbarský[fs]barbarská[ns]barbarské[mp]barbarské[fp]barbarské[np]barbarské
 tagPrefixB006_WpnMelee1h_A=[ms]krvežíznivý[fs]krvežíznivá[ns]krvežíznivé[mp]krvežíznivé[fp]krvežíznivé[np]krvežíznivé
@@ -3947,7 +3951,7 @@ tagSuffixB017_Wpn_A=divokého ohně
 tagSuffixB018_Wpn_A=bystřiny
 tagSuffixB019_Wpn_A=otřesení
 tagSuffixB020_Wpn_A=plísně
-tagSuffixB021_Wpn_A=pošpinění
+tagSuffixB021_Wpn_A=jedovatého drápu
 tagSuffixB022_Wpn_A=ohavnosti
 tagSuffixB023_Wpn_A=vyhlazení
 tagSuffixB024_Wpn_A=elementů

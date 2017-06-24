@@ -87,8 +87,11 @@ tagDifficultyJoinUltimate=Až do ultimátní obtížnosti
 tagDifficultyJoinAny=Jakákoliv obtížnost
 
 tagSDifficultyTitle01=Kandidát
+tagSDifficultyTitle01Desc=Standardní úroveň obtížnosti arény.
 tagSDifficultyTitle02=Vyzyvatel
+tagSDifficultyTitle02Desc=Zkušenější bojovníci mohou vstoupit mezi Vyzyvatele do arény, jejíž obtížnost je vyšší, ale odměny hodnotnější.
 tagSDifficultyTitle03=Gladiátor
+tagSDifficultyTitle03Desc=Pouze pro ostřílené bojovníky budou opravdovou zkouškou Gladiátorské arény, kde čeká pohádkové bohatství.
 tagGameSDifficultySetting01=Obtížnost kandidáta
 tagGameSDifficultySetting02=Obtížnost vyzyvatele
 tagGameSDifficultySetting03=Obtížnost gladiátora
@@ -109,6 +112,7 @@ tagGameStateConnecting=Připojování k serveru...
 tagGameStateData=Čekání na server...
 
 tagGogMustBeSignedIn=Musíš být přihlášen do sítě GOG Galaxy, abys mohl hrát Grim Dawn s více hráči. Přihlaš se prosím do sítě GOG Galaxy a spusť Grim Dawn pomocí GOG spouštěče!
+tagSteamCloudLimit=Bylo dosaženo limitu prostoru ve službě Steam Cloud Storage pro hru Grim Dawn. Před vytvořením nové postavy smaž prosím některou starší.
 
 #
 # Options
@@ -322,6 +326,7 @@ tagFullscreenWindowed=Okno (bez hran)
 tagWindowed=Okno
 tagWidescreen=širokoúhlé
 tagNetworkTitle=Síť
+tagUpnpProbing=Vyhledávám UPnP zařízení...
 tagUpnpTitle=UPnP:
 tagUpnpStatus=Stav UPnP:
 tagUpnpAvailable=Dostupný
