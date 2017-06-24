@@ -98,7 +98,7 @@ tagClass01SkillDescription01D=Nesoulad rozhněvané duše proudí do vojákova �
 tagClass01SkillName02A=Tlaková vlna
 tagClass01SkillDescription02A=Do útoku je dána taková síla, že stlačí samotný vzduch a vyvolá vlnu energie, která omráčí a zraní protivníka. ^oTento druh útoku vyžaduje štít nebo obouruční chladnou zbraň.
 tagClass01SkillName02B=Drásající síla
-tagClass01SkillDescription02B=Tlaková vlna roztřese protivníkovu zbroj, což ho učiní citlivějšího vůči fyzickým útokům.
+tagClass01SkillDescription02B=Tlaková vlna rozbíjí protivníkovu zbroj a těžce zraňuje v citlivých místech.
 tagClass01SkillName02C=Vnitřní zranění
 tagClass01SkillDescription02C=Tlaková vlna tříští kosti a trhá orgány, což způsobí velká vnitřní i vnější poranění.
 tagClass01SkillName02D=Zemětřas
@@ -209,7 +209,7 @@ tagClass02SkillDescription04C=Sonická puma vyrobená pro větší účinek výb
 tagClass02SkillName05A=Hmoždířová past
 tagClass02SkillDescription05A=Umístí minomet, který bude nepřetržitě vystřelovat výbušniny do vzduchu, dokud nebude vyčerpán. ^oÚčinnost pasti se zvyšuje s bonusy ke zranění, které uděluješ.
 tagClass02SkillName05B=Těžké dělo
-tagClass02SkillDescription05B=Mocná magie zvyšuje celkovou účinnost minometných střel a obohacuje je o zranění elektrickým proudem.
+tagClass02SkillDescription05B=Mocná magie zvyšuje celkovou účinnost minometných střel a obohacuje je o zranění elektrickým proudem. ^oOvlivňuje jak základní hmoždířovou past, tak "Velikána".
 tagClass02SkillName05C="Velikán"
 tagClass02SkillDescription05C=Naláduje Hmoždířovou past devastující bombou, známou pod jediným názvem: "Velikán". Ta bude odpálena jako první. Výsledná ničivá exploze poznamená tvé nepřátele post-traumatickým syndromem, pokud to tedy vůbec přežijí.
 tagClass02SkillName05D=Ohnivý minomet
@@ -233,7 +233,7 @@ tagClass02SkillDescription07B=Ti, kteří obětovali mnoho v zájmu o pyrotechni
 tagClass02SkillName08A=Černovodý koktejl
 tagClass02SkillDescription08A=Černovodý koktejl byl namíchán v době, kdy docházely účinnější výbušniny. Tyto vylepšené ohnivé pumy vytvoří po dopadu plameny a jsou účinné zejména proti nepřátelům, kteří jsou velmi blízko sebe.
 tagClass02SkillName08B=Démonický oheň
-tagClass02SkillDescription08B=Čarodějnické vylepšení obohacuje plameny chaotickou silou, která rozpouští maso nepřátel a oslabuje zbroj.
+tagClass02SkillDescription08B=Čarodějnické vylepšení obohacuje plameny chaotickou silou, která rozpouští maso nepřátel.
 tagClass02SkillName08C=Bolestné plameny
 tagClass02SkillDescription08C=Umocňuje oheň a pekelné plameny do teplot, které promění tvé nepřátele v popel.
 tagClass02SkillName08D=Vysoká účinnost
@@ -297,7 +297,7 @@ tagClass03SkillName02F=Planoucí smrt
 tagClass03SkillDescription02F=Tělo pekelného psa vybuchne ve chvíli, kdy se navrací do své přirozené sféry a zapálí nepřátele v blízkosti.
 
 tagClass03SkillName03A=Smlouva s Bysmiel
-tagClass03SkillDescription03A=Posiluje pouta, kterými ovládáš své nohsledy, díky čemuž bojují s větším důrazem a odhodláním.
+tagClass03SkillDescription03A=Posiluje pouta, kterými ovládáš své nohsledy, díky čemuž bojují s větším důrazem a odhodláním. ^oAby tato schopnost účinkovala, musí být aktivní.
 tagClass03SkillName03B=Manipulace
 tagClass03SkillDescription03B=Jemná manipulace s pouty, kterými ovládáš své nohsledy, je okouzlí a získají pocit ohromující oddanosti vůči tobě, což způsobí, že budou bojovat s až fanatickou silou a rychlostí.
 
@@ -1282,7 +1282,7 @@ tagItemSkillC114Name=Aetherická rána
 tagItemSkillC114Desc=Uvolníš vlnu Aetherické energie.
 
 tagItemSkillC115Name=Zlá vůle
-tagItemSkillC115Desc=Zloba z tebe vycházející rozechvěje zemi a rozbije nepřátelskou zbroj.
+tagItemSkillC115Desc=Zloba z tebe vycházející rozechvěje zemi.
 
 tagItemSkillC116Name=Vykrvácení
 tagItemSkillC116Desc=Přetneš hlavní tepnu a způsobíš tak silné krvácení.
@@ -1534,7 +1534,7 @@ tagItemSkillD063Name=Opožděné svítání
 tagItemSkillD063Desc=Oslepíš své nepřátele přítomností spravedlnosti.
 
 tagItemSkillD064Name=Moc svázání smrti
-tagItemSkillD064Desc=Posílíš se životy, které zajmeš.
+tagItemSkillD064Desc=Posílíš se zajatými dušemi.
 
 tagItemSkillD065Name=Štípací sekyra
 tagItemSkillD065Desc=Udeříš rozeklanou sekyrou a protneš zbroj až na maso.
@@ -1759,10 +1759,10 @@ tagItemSkillD138Name=Meteorit
 tagItemSkillD138Desc=Protrhneš křehkou bariéru mezi spodním světem a světem smrtelníků tím, že vyčaruješ masivní hořící kus skály, který dopadne na tvé nepřátele.
 
 tagItemSkillD139Name=Beronathova moc
-tagItemSkillD139Desc=Standeš se vodičem moci ohromné bestie jménem Beronath.
+tagItemSkillD139Desc=Staneš se vodičem moci ohromné bestie jménem Beronath, čímž svou skrytou sílu převedeš do smrtících fyzických úderů.
 
 tagItemSkillD140Name=Deformace mysli
-tagItemSkillD140Desc=Z rozmaru zdeformuješ realitu a zkonvertuješ veškerou svou fyzickou sílu do tajuplné destruktivní síly.
+tagItemSkillD140Desc=Z rozmaru zdeformuješ realitu a zkonvertuješ část své fyzické síly do tajuplné destruktivní síly.
 
 tagItemSkillD141Name=Bystrá chvilka
 tagItemSkillD141Desc=Vstoupíš do stavu podobnému tranzu a během něj budeš myslet tak jasně, až tvá mysl prozře a otevře se pro nekonečné množství možností tajemna.
@@ -1969,7 +1969,7 @@ tagItemSkillD208Name=Divoká krev
 tagItemSkillD208Desc=Tvá poděděná divokost tě uvrhuje v šílenství.
 
 tagItemSkillD209Name=Divoká vinná réva
-tagItemSkillD209Desc=Vinná réva divoce obroste tvé nepřátele, omotá je a infikuje jedem.
+tagItemSkillD209Desc=Vinná réva divoce obroste tvé nepřátele, omotá je a způsobí jim těžká zranění.
 
 tagItemSkillD210Name=Vůle živých
 tagItemSkillD210Desc=Tvá vůle přežít tě učiní ještě těžším tě zabít, a to ve chvíli, kdy se tvoje životní energie sníží až na úroveň smrti.
@@ -2607,7 +2607,7 @@ tagDevotion_A35Desc=Ještěrka byla jednou z prvních potomků zrozených na Str
 tagDevotion_A36=Učencovo světlo
 tagDevotion_A36Desc=Učencovo světlo jasně září v době, kdy učenci postrádají spánek a neustále pracují pod slabým světlem svých svíček.
 tagDevotion_A37=Lev
-tagDevotion_A37Desc=Lev reprezentuje statečnost, chrabrost, zrození králů.
+tagDevotion_A37Desc=Lev reprezentuje statečnost, chrabrost a zrození králů.
 tagDevotion_A38=Šakal
 tagDevotion_A38Desc=Šakal se skrývá na obloze a hledá snadnou kořist.
 

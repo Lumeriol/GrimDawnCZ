@@ -473,6 +473,7 @@ tagHUDButtonRollOptions=Uložení hry, ukončení hry a herní nastavení.
 
 tagSkillUndoClass=Změnit povolání
 tagSkillUndoPoints=Vrátit body
+tagSkillUndoGeneric=Vrátit
 tagSkillClassSelect=Vybrat povolání
 tagCurrentLevel=Současná úroveň: {%d0}
 tagNextLevel=Další úroveň: {%d0}
@@ -706,24 +707,24 @@ tagCharStatsAvgDmgDescription=Zranění způsobené zásahem dle síly zbraně, 
 tagCharStatsPhysicalAbsDmg=Fyzické zranění
 tagCharStatsPhysicalAbsDmgInfo=Fyzické zranění způsobené jedním zásahem pomocí síly zbraně včetně bonusů.
 tagCharStatsPhysicalPercentDmg=Bonus k fyz. zranění
-tagCharStatsPhysicalPercentDmgInfo=Procentuální bonus ke všem fyzickým zraněním způsobených útokem a kouzly, bez bonusů za rafinovanost.
+tagCharStatsPhysicalPercentDmgInfo=Procentuální bonus ke všem fyzickým zraněním způsobených útokem a kouzly, bez bonusů za rafinovanost. Včetně % ke všem zraněním.
 
 tagCharStatsPierceAbsDmg=Zranění probodnutím
 tagCharStatsPierceAbsDmgInfo=Zranění probodnutím způsobené jedním zásahem pomocí síly zbraně včetně bonusů.
 tagCharStatsPiercePercentDmg=Bonus k probodnutí
-tagCharStatsPiercePercentDmgInfo=Procentuální bonus ke každému zranění probodnutím způsobeným útokem a kouzly, bez bonusů za rafinovanost.
+tagCharStatsPiercePercentDmgInfo=Procentuální bonus ke každému zranění probodnutím způsobeným útokem a kouzly, bez bonusů za rafinovanost. Včetně % ke všem zraněním.
 
 tagCharStatsBleedAbsDmg=Zranění krvácením
 tagCharStatsBleedAbsDmgInfo=Zranění krvácením za jednu sekundu, trvající po dobu 3 sekund, způsobené jedním zásahem a odvozeným od síly zbraně včetně bonusů.
 tagCharStatsBleedPercentDmg=Bonus ke krvácení
-tagCharStatsBleedPercentDmgInfo=Procentuální bonus ke každému zranění krvácením způsobeným útokem a kouzly, bez bonusů za rafinovanost.
+tagCharStatsBleedPercentDmgInfo=Procentuální bonus ke každému zranění krvácením způsobeným útokem a kouzly, bez bonusů za rafinovanost. Včetně % ke všem zraněním.
 tagCharStatsBleedDuration=Trvání krvácení
 tagCharStatsInternalTraumaDurationInfo=Procentuální bonus k době trvání vnitřního krvácení. Zranění za sekundu není ovlivněno.
 
 tagCharStatsInternalTraumaAbsDmg=Zranění vnitřním krvácením
 tagCharStatsInternalTraumaAbsDmgInfo=Zranění způsobující vnitřní krvácení za jednu sekundu, trvající po dobu 5 sekund, způsobené jedním zásahem a odvozeným od síly zbraně včetně bonusů.
 tagCharStatsInternalTraumaPercentDmg=Bonus k vnitřnímu krvácení
-tagCharStatsInternalTraumaPercentDmgInfo=Procentuální bonus ke každému zranění vnitřním krvácením způsobeným útokem a kouzly, bez bonusů za rafinovanost.
+tagCharStatsInternalTraumaPercentDmgInfo=Procentuální bonus ke každému zranění vnitřním krvácením způsobeným útokem a kouzly, bez bonusů za rafinovanost. Včetně % ke všem zraněním.
 tagCharStatsInternalTraumaDuration=Trvání vnitřního krvácení
 tagCharStatsInternalTraumaDurationInfo=Procentuální bonus k době trvání vnitřního krvácení. Zranění za sekundu není ovlivněno.
 
@@ -746,70 +747,70 @@ tagCharStatsPercentHealthDamageInfo=Udává počet procent, o kolik života při
 tagCharStatsFireAbsDmg=Oheň
 tagCharStatsFireAbsDmgInfo=Zranění ohněm způsobené zásahem a odvozeného od síly zbraně včetně bonusů.
 tagCharStatsFirePercentDmg=Bonus k ohni
-tagCharStatsFirePercentDmgInfo=Procentuální bonus ke všem ohnivým zraněním způsobeným útokem a kouzly, bez bonusů za duchovno.
+tagCharStatsFirePercentDmgInfo=Procentuální bonus ke všem ohnivým zraněním způsobeným útokem a kouzly, bez bonusů za duchovno. Včetně % ke všem zraněním.
 
 tagCharStatsColdAbsDmg=Chlad
 tagCharStatsColdAbsDmgInfo=Zranění chladem způsobené zásahem a odvozeného od síly zbraně včetně bonusů.
 tagCharStatsColdPercentDmg=Bonus k chladu
-tagCharStatsColdPercentDmgInfo=Procentuální bonus ke všem mrazivým zraněním způsobeným útokem a kouzly, bez bonusů za duchovno.
+tagCharStatsColdPercentDmgInfo=Procentuální bonus ke všem mrazivým zraněním způsobeným útokem a kouzly, bez bonusů za duchovno. Včetně % ke všem zraněním.
 
 tagCharStatsLightningAbsDmg=Blesky
 tagCharStatsLightningAbsDmgInfo=Zranění blesky způsobené zásahem a odvozeného od síly zbraně včetně bonusů.
 tagCharStatsLightningPercentDmg=Bonus k bleskům
-tagCharStatsLightningPercentDmgInfo=Procentuální bonus ke všem zraněním blesky způsobeným útokem a kouzly, bez bonusů za duchovno.
+tagCharStatsLightningPercentDmgInfo=Procentuální bonus ke všem zraněním blesky způsobeným útokem a kouzly, bez bonusů za duchovno. Včetně % ke všem zraněním.
 
 tagCharStatsAcidAbsDmg=Poleptání
 tagCharStatsAcidAbsDmgInfo=Zranění poleptáním způsobené zásahem a odvozeného od síly zbraně včetně bonusů.
 tagCharStatsAcidPercentDmg=Bonus k poleptání
-tagCharStatsAcidPercentDmgInfo=Procentuální bonus ke všem zraněním poleptáním způsobeným útokem a kouzly, bez bonusů za duchovno.
+tagCharStatsAcidPercentDmgInfo=Procentuální bonus ke všem zraněním poleptáním způsobeným útokem a kouzly, bez bonusů za duchovno. Včetně % ke všem zraněním.
 
 tagCharStatsVitalityAbsDmg=Ztráta životní energie
 tagCharStatsVitalityAbsDmgInfo=Zranění ztrátou životní energie způsobené zásahem a odvozeného od síly zbraně včetně bonusů.
 tagCharStatsVitalityPercentDmg=Bonus k životní energii
-tagCharStatsVitalityPercentDmgInfo=Procentuální bonus ke všem zraněním ztrátou životní energie způsobeným útokem a kouzly, bez bonusů za duchovno.
+tagCharStatsVitalityPercentDmgInfo=Procentuální bonus ke všem zraněním ztrátou životní energie způsobeným útokem a kouzly, bez bonusů za duchovno. Včetně % ke všem zraněním.
 
 tagCharStatsAetherAbsDmg=Aether
 tagCharStatsAetherAbsDmgInfo=Zranění Aetherem způsobené zásahem a odvozeného od síly zbraně včetně bonusů.
 tagCharStatsAetherPercentDmg=Bonus k Aetheru
-tagCharStatsAetherPercentDmgInfo=Procentuální bonus ke všem Aetherickým zraněním způsobeným útokem a kouzly, bez bonusů za duchovno.
+tagCharStatsAetherPercentDmgInfo=Procentuální bonus ke všem Aetherickým zraněním způsobeným útokem a kouzly, bez bonusů za duchovno. Včetně % ke všem zraněním.
 
 tagCharStatsChaosAbsDmg=Chaos
 tagCharStatsChaosAbsDmgInfo=Zranění chaosem způsobené zásahem a odvozeného od síly zbraně včetně bonusů.
 tagCharStatsChaosPercentDmg=Bonus k chaosu
-tagCharStatsChaosPercentDmgInfo=Procentuální bonus ke všem chaotickým zraněním způsobenými útokem a kouzly, bez bonusů za duchovno.
+tagCharStatsChaosPercentDmgInfo=Procentuální bonus ke všem chaotickým zraněním způsobenými útokem a kouzly, bez bonusů za duchovno. Včetně % ke všem zraněním.
 
 tagCharStatsBurnAbsDmg=Popáleniny
 tagCharStatsBurnAbsDmgInfo=Zranění popálením za jednu sekundu, trvající po dobu 3 sekund, způsobené jedním zásahem a odvozeného od síly zbraně včetně bonusů.
 tagCharStatsBurnPercentDmg=Bonus k popáleninám
-tagCharStatsBurnPercentDmgInfo=Procentuální bonus ke všem zraněním popálením způsobenými útokem a kouzly, bez bonusů za duchovno.
+tagCharStatsBurnPercentDmgInfo=Procentuální bonus ke všem zraněním popálením způsobenými útokem a kouzly, bez bonusů za duchovno. Včetně % ke všem zraněním.
 tagCharStatsBurnDuration=Účinkování popálení
 tagCharStatsBurnDurationInfo=Procentuální bonus k době trvání popálení. Zranění za sekundu není ovlivněno.
 
 tagCharStatsColdburnAbsDmg=Omrzliny
 tagCharStatsColdburnAbsDmgInfo=Zranění omrzlinami za jednu sekundu, trvající po dobu 3 sekund, způsobené jedním zásahem a odvozeného od síly zbraně včetně bonusů.
 tagCharStatsColdburnPercentDmg=Bonus k omrzlinám
-tagCharStatsColdburnPercentDmgInfo=Procentuální bonus ke všem zraněním omrzlinami způsobenými útokem a kouzly, bez bonusů za duchovno.
+tagCharStatsColdburnPercentDmgInfo=Procentuální bonus ke všem zraněním omrzlinami způsobenými útokem a kouzly, bez bonusů za duchovno. Včetně % ke všem zraněním.
 tagCharStatsColdburnDuration=Účinkování omrznutí
 tagCharStatsColdburnDurationInfo=Procentuální bonus k době trvání omrzlin. Zranění za sekundu není ovlivněno.
 
 tagCharStatsElectrocuteAbsDmg=Elektrický proud
 tagCharStatsElectrocuteAbsDmgInfo=Zranění elektrickým proudem za jednu sekundu, trvající po dobu 3 sekund, způsobené jedním zásahem a odvozeného od síly zbraně včetně bonusů.
 tagCharStatsElectrocutePercentDmg=Bonus k el. proudu
-tagCharStatsElectrocutePercentDmgInfo=Procentuální bonus ke všem zraněním elektrickým proudem způsobenými útokem a kouzly, bez bonusů za duchovno.
+tagCharStatsElectrocutePercentDmgInfo=Procentuální bonus ke všem zraněním elektrickým proudem způsobenými útokem a kouzly, bez bonusů za duchovno. Včetně % ke všem zraněním.
 tagCharStatsElectrocuteDuration=Působení el. proudu
 tagCharStatsElectrocuteDurationInfo=Procentuální bonus k době trvání zásahu elektrickým proudem. Zranění za sekundu není ovlivněno.
 
 tagCharStatsPoisonAbsDmg=Otrávení
 tagCharStatsPoisonAbsDmgInfo=Zranění otrávením za jednu sekundu, trvající po dobu 5 sekund, způsobené jedním zásahem a odvozeného od síly zbraně včetně bonusů.
 tagCharStatsPoisonPercentDmg=Bonus k otrávení
-tagCharStatsPoisonPercentDmgInfo=Procentuální bonus ke všem zraněním otravou způsobenými útokem a kouzly, bez bonusů za duchovno.
+tagCharStatsPoisonPercentDmgInfo=Procentuální bonus ke všem zraněním otravou způsobenými útokem a kouzly, bez bonusů za duchovno. Včetně % ke všem zraněním.
 tagCharStatsPoisonDuration=Účinkování otravy
 tagCharStatsPoisonDurationInfo=Procentuální bonus k době trvání otravy. Zranění za sekundu není ovlivněno.
 
 tagCharStatsVitalityDecayAbsDmg=Uhnívání
 tagCharStatsVitalityDecayAbsDmgInfo=Zranění uhníváním za jednu sekundu, trvající po dobu 3 sekund, způsobené jedním zásahem a odvozeného od síly zbraně včetně bonusů.
 tagCharStatsVitalityDecayPercentDmg=Bonus k uhnívání
-tagCharStatsVitalityDecayPercentDmgInfo=Procentuální bonus ke všem zraněním uhníváním způsobenými útokem a kouzly, bez bonusů za duchovno.
+tagCharStatsVitalityDecayPercentDmgInfo=Procentuální bonus ke všem zraněním uhníváním způsobenými útokem a kouzly, bez bonusů za duchovno. Včetně % ke všem zraněním.
 tagCharStatsVitalityDecayDuration=Účinkování uhnívání
 tagCharStatsVitalityDecayDurationInfo=Procentuální bonus k době trvání uhnívání. Zranění za sekundu není ovlivněno.
 
@@ -839,7 +840,7 @@ tagCharStatsPetHealth=Život
 tagCharStatsPetHealthInfo=Procentuální bonus ke zdraví tvých spojenců a vyvolaných příšer.
 
 tagCharStatsPetDamage=Zranění
-tagCharStatsPetDamageInfo=Procentuální bonus ke zranění způsobeného tvými spojenci a vyvolanými příšerami.
+tagCharStatsPetDamageInfo=Procentuální bonus ke zranění způsobeného tvými spojenci a vyvolanými příšerami. Neovlivňuje zranění odplatou spojenců.
 
 tagCharStatsPetAttackSpeed=Útočná rychlost
 tagCharStatsPetAttackSpeedInfo=Procentuální bonus k útočné rychlosti tvých spojenců a vyvolaných příšer.
@@ -938,82 +939,82 @@ tagCharStatsCurrentLifeReflectInfo=Procentuální bonus ke zranění, které zp�
 tagCharStatsPhysicalRet=Fyzické zranění
 tagCharStatsPhysicalRetInfo=Fyzické zranění způsobené útočníkovi kdykoliv tě zasáhne.
 tagCharStatsPhysicalPercentRet=Bonus k fyz. zranění
-tagCharStatsPhysicalPercentRetInfo=Procentuální bonus ke všem efektům pomocí odplaty fyzickým zraněním.
+tagCharStatsPhysicalPercentRetInfo=Procentuální bonus ke všem efektům pomocí odplaty fyzickým zraněním. % bonus k celkovému zranění neovlivňuje oplácení.
 
 tagCharStatsPierceRet=Probodnutí
 tagCharStatsPierceRetInfo=Zranění probodnutím způsobené útočníkovi kdykoliv tě zasáhne.
 tagCharStatsPiercePercentRet=Bonus k probodnutí
-tagCharStatsPiercePercentRetInfo=Procentuální bonus ke všem efektům pomocí odplaty probodnutím.
+tagCharStatsPiercePercentRetInfo=Procentuální bonus ke všem efektům pomocí odplaty probodnutím. % bonus k celkovému zranění neovlivňuje oplácení.
 
 tagCharStatsBleedRet=Krvácení
 tagCharStatsBleedRetInfo=Zranění krvácením udělené každou sekundu po dobu 3 sekund, způsobené útočníkovi kdykoliv tě zasáhne.
 tagCharStatsBleedPercentRet=Bonus ke krvácení
-tagCharStatsBleedPercentRetInfo=Procentuální bonus ke všem efektům pomocí odplaty krvácením.
+tagCharStatsBleedPercentRetInfo=Procentuální bonus ke všem efektům pomocí odplaty krvácením. % bonus k celkovému zranění neovlivňuje oplácení.
 
 tagCharStatsInternalTraumaRet=Vnitřní krvácení
 tagCharStatsInternalTraumaRetInfo=Zranění vnitřním krvácením udělené každou sekundu po dobu 5 sekund, způsobené útočníkovi kdykoliv tě zasáhne.
 tagCharStatsInternalTraumaPercentRet=Bonus k vnitřnímu krvácení
-tagCharStatsInternalTraumaPercentRetInfo=Procentuální bonus ke všem efektům pomocí odplaty, které způsobuje vnitřní krvácení.
+tagCharStatsInternalTraumaPercentRetInfo=Procentuální bonus ke všem efektům pomocí odplaty, které způsobuje vnitřní krvácení. % bonus k celkovému zranění neovlivňuje oplácení.
 
 tagCharStatsFireRet=Oheň
 tagCharStatsFireRetInfo=Zranění ohněm způsobené útočníkovi, kdykoliv tě zasáhne.
 tagCharStatsFirePercentRet=Bonus k ohni
-tagCharStatsFirePercentRetInfo=Procentuální bonus ke všem efektům pomocí odplaty ohnivým zraněním.
+tagCharStatsFirePercentRetInfo=Procentuální bonus ke všem efektům pomocí odplaty ohnivým zraněním. % bonus k celkovému zranění neovlivňuje oplácení.
 
 tagCharStatsColdRet=Chlad
 tagCharStatsColdRetInfo=Zranění chladem způsobené útočníkovi, kdykoliv tě zasáhne.
 tagCharStatsColdPercentRet=Bonus k chladu
-tagCharStatsColdPercentRetInfo=Procentuální bonus ke všem efektům pomocí odplaty zraněním chladem.
+tagCharStatsColdPercentRetInfo=Procentuální bonus ke všem efektům pomocí odplaty zraněním chladem. % bonus k celkovému zranění neovlivňuje oplácení.
 
 tagCharStatsLightningRet=Blesky
 tagCharStatsLightningRetInfo=Zranění blesky způsobené útočníkovi, kdykoliv tě zasáhne.
 tagCharStatsLightningPercentRet=Bonus k bleskům
-tagCharStatsLightningPercentRetInfo=Procentuální bonus ke všem efektům pomocí odplaty zraněním blesky.
+tagCharStatsLightningPercentRetInfo=Procentuální bonus ke všem efektům pomocí odplaty zraněním blesky. % bonus k celkovému zranění neovlivňuje oplácení.
 
 tagCharStatsAcidRet=Poleptání
 tagCharStatsAcidRetInfo=Zranění poleptáním způsobené útočníkovi, kdykoliv tě zasáhne.
 tagCharStatsAcidPercentRet=Bonus k poleptání
-tagCharStatsAcidPercentRetInfo=Procentuální bonus ke všem efektům pomocí odplaty poleptáním.
+tagCharStatsAcidPercentRetInfo=Procentuální bonus ke všem efektům pomocí odplaty poleptáním. % bonus k celkovému zranění neovlivňuje oplácení.
 
 tagCharStatsVitalityRet=Ztráta životní energie
 tagCharStatsVitalityRetInfo=Zranění ztrátou životní energie způsobené útočníkovi, kdykoliv tě zasáhne.
 tagCharStatsVitalityPercentRet=Bonus k životní energii
-tagCharStatsVitalityPercentRetInfo=Procentuální bonus ke všem efektům pomocí odplaty ztrátou životní energie.
+tagCharStatsVitalityPercentRetInfo=Procentuální bonus ke všem efektům pomocí odplaty ztrátou životní energie. % bonus k celkovému zranění neovlivňuje oplácení.
 
 tagCharStatsAetherRet=Aether
 tagCharStatsAetherRetInfo=Zranění Aetherem způsobené útočníkovi, kdykoliv tě zasáhne.
 tagCharStatsAetherPercentRet=Bonus k Aetheru
-tagCharStatsAetherPercentRetInfo=Procentuální bonus ke všem efektům pomocí odplaty aetherickým zraněním.
+tagCharStatsAetherPercentRetInfo=Procentuální bonus ke všem efektům pomocí odplaty aetherickým zraněním. % bonus k celkovému zranění neovlivňuje oplácení.
 
 tagCharStatsChaosRet=Chaos
 tagCharStatsChaosRetInfo=Zranění chaosem způsobené útočníkovi, kdykoliv tě zasáhne.
 tagCharStatsChaosPercentRet=Bonus k chaosu
-tagCharStatsChaosPercentRetInfo=Procentuální bonus ke všem efektům pomocí odplaty chaotickým zraněním.
+tagCharStatsChaosPercentRetInfo=Procentuální bonus ke všem efektům pomocí odplaty chaotickým zraněním. % bonus k celkovému zranění neovlivňuje oplácení.
 
 tagCharStatsBurnRet=Popálení
 tagCharStatsBurnRetInfo=Zranění popálením udělené každou sekundu po dobu 3 sekund, způsobené útočníkovi, kdykoliv tě zasáhne.
 tagCharStatsBurnPercentRet=Bonus k popáleninám
-tagCharStatsBurnPercentRetInfo=Procentuální bonus ke všem efektům pomocí odplaty popálením.
+tagCharStatsBurnPercentRetInfo=Procentuální bonus ke všem efektům pomocí odplaty popálením. % bonus k celkovému zranění neovlivňuje oplácení.
 
 tagCharStatsColdburnRet=Omrzliny
 tagCharStatsColdburnRetInfo=Zranění omrznutím udělené každou sekundu po dobu 3 sekund, způsobené útočníkovi, kdykoliv tě zasáhne.
 tagCharStatsColdburnPercentRet=Bonus k omrzlinám
-tagCharStatsColdburnPercentRetInfo=Procentuální bonus ke všem efektům pomocí odplaty omrznutím.
+tagCharStatsColdburnPercentRetInfo=Procentuální bonus ke všem efektům pomocí odplaty omrznutím. % bonus k celkovému zranění neovlivňuje oplácení.
 
 tagCharStatsElectrocuteRet=Elektrický proud
 tagCharStatsElectrocuteRetInfo=Zranění zásahem elektrického proudu udělené každou sekundu po dobu 3 sekund, způsobené útočníkovi, kdykoliv tě zasáhne.
 tagCharStatsElectrocutePercentRet=Bonus k el. proudu
-tagCharStatsElectrocutePercentRetInfo=Procentuální bonus ke všem efektům pomocí odplaty zásahem elektrickým proudem.
+tagCharStatsElectrocutePercentRetInfo=Procentuální bonus ke všem efektům pomocí odplaty zásahem elektrickým proudem. % bonus k celkovému zranění neovlivňuje oplácení.
 
 tagCharStatsPoisonRet=Otrávení
 tagCharStatsPoisonRetInfo=Zranění otrávením udělené každou sekundu po dobu 5 sekund, způsobené útočníkovi, kdykoliv tě zasáhne.
 tagCharStatsPoisonPercentRet=Bonus k otrávení
-tagCharStatsPoisonPercentRetInfo=Procentuální bonus ke všem efektům pomocí odplaty otrávením.
+tagCharStatsPoisonPercentRetInfo=Procentuální bonus ke všem efektům pomocí odplaty otrávením. % bonus k celkovému zranění neovlivňuje oplácení.
 
 tagCharStatsVitalityDecayRet=Uhnívání
 tagCharStatsVitalityDecayRetInfo=Zranění uhníváním udělené každou sekundu po dobu 3 sekund, způsobené útočníkovi, kdykoliv tě zasáhne.
 tagCharStatsVitalityDecayPercentRet=Bonus k uhnívání
-tagCharStatsVitalityDecayPercentRetInfo=Procentuální bonus ke všem efektům pomocí odplaty uhníváním.
+tagCharStatsVitalityDecayPercentRetInfo=Procentuální bonus ke všem efektům pomocí odplaty uhníváním. % bonus k celkovému zranění neovlivňuje oplácení.
 
 #Stats
 tagCharStatsItemLevel=Průměrná úroveň předmětů
@@ -1329,7 +1330,8 @@ tagCharConstitutionModifier={%+.0f0}% {^E}konstituce
 tagCharLifeRegenModifier={^E}Zvyšuje obnovu zdraví o {^H}{%.0f0}%
 tagCharManaRegenModifier={^E}Zvyšuje obnovu magické energie o {^H}{%.0f0}%
 
-tagCharManaLimitReserve={%+.0f0} {^E}rezervované magické energie
+tagCharManaLimitReserve={%.0f0} {^E}rezervované magické energie
+tagCharManaLimitReserveMod={%+.0f0} {^E}rezervované magické energie
 tagCharManaLimitReserveReduction=-{%.0f0} {^E}cena rezervované magické energie
 tagCharManaLimitReserveModifier={+%.0f0}% {^E}zásoby magické energie
 tagCharManaLimitReserveReductionModifier=-{%.0f0}% {^E}zásoby magické energie
@@ -1541,8 +1543,11 @@ SkillFloatFormat={%.0f0 %s1}
 SkillFloat1Format={%.1f0 %s1}
 SkillFloat2Format={%.2f0 %s1}
 SkillSecondFormat={^E}%s1 {^H}%.1f0 {^E}sekund
+SkillSecondFormatMod=+{%.1f0 {^E}sekund %s1}
 SkillDistanceFormat={^E}%s1 {^H}%.1f0 {^E}metrů
+SkillDistanceFormatMod=+{%.1f0 {^E}metrů %s1}
 SkillCostFormat={%.0f0 %s1}
+SkillCostFormatMod=+{%.1f0 %s1}
 SkillPercentFormat={%.0f0% %s1}
 SkillNumProjectilesFormat=Vystřelí {%d0} projektilů
 SkillWeaponDamageFormat={%.0f0%} {^E}zranění zbraní
@@ -1564,6 +1569,8 @@ SkillActivationChance={^E}šance na aktivování
 SkillDamageAbsorption={%.0f0} {^E}pohlcení zranění
 SkillDamageAbsorptionPercent={%.0f0}% {^E}pohlcení zranění
 SkillPetBurstSpawn={^E}Přivolání {^H}{%d0}
+SkillPetBurstSpawnMod=+{%d0} {^E}přivolání
+SkillPetBurstSpawnsMod=+{%d0} {^E}přivolání
 SkillPetLimit={%d0} {^E}limit přivolání
 SkillPetLimitMod=+{%d0} {^E}limit přivolání
 SkillLifeBonus={%+.1f0} {^E}obnoveného zdraví
@@ -1615,7 +1622,9 @@ ActiveDuration=Doba účinkování:
 Interval=Interval
 TargetRadius=Cílová oblast:
 TargetAngle={^E}Zásah v úhlu {^H}{%.0f0} {^E}stupňů
+TargetAngleMod={^E}Zásah v úhlu {^H}+{%.0f0} {^E}stupňů +{%.0f0}
 TargetNumber={%d0} {^E}cílů maximálně
+TargetNumberMod=+{%d0} {^E}cílů maximálně
 CooldownTime={^E}Čas na obnovení dovednosti:
 ExplosionRadius=Dosah:
 TargetRange=Rozsah
@@ -1625,6 +1634,7 @@ ProjectileLaunchNumberMod=+{%d0} {^E}projektilů
 ProjectileFragmentsLaunchNumberMinMax={%d0 - %d1} {^E}střepin
 ProjectileFragmentsLaunchNumber={%d0} {^E}střepin
 ProjectilePiercingChance={%.1f0}% {^E}šance na projití skrz nepřítele
+ProjectilePiercingChanceMod=+{%.1f0}% {^E}šance na projití skrz nepřítele
 
 
 tagTooltipPetsHeader=Spojenci
@@ -1674,7 +1684,12 @@ DamageFixedRangeFormatTime= {^E}po dobu {^H}{%.1f0} - {%.1f1} {^E}sekund
 RetaliationFixedSingleFormatSecond={^H}{%.1f0} {^E}sekundy
 RetaliationFixedSingleFormatTime={^H}{%.1f0} {^E}sekund
 RetaliationFixedRangeFormatTime={^H}{%.1f0} - {%.1f1} {^E}sekund
-tagDurationDamageOverTime={%d0} {^E}zranění během {^H}{%.1f1} {^E}sekund
+tagDurationDamageOverTime={%d0} {^E}zranění za sekundu
+tagDotReductionAbsolute={%d0} {^E}snížení
+tagDotReductionPercent={%d0}% {^E}snížení
+tagDotTimeRemaining={^H}{%.0f0} {^E}sekund zbývá
+tagDotTimeRemainingPrecise={^H}{%.1f0} {^E}sekund zbývá
+tagDurationFumble={%d0}% {^E}šance minout
 tagDotBleeding=Krvácení
 tagDotCold=Zmražení
 tagDotFire=Popálení
@@ -1683,7 +1698,26 @@ tagDotLightning=Elektrický šok
 tagDotChaos=Chaos
 tagDotAether=Aether
 tagDotLifeLeech=Vysátí života
+tagDotManaLeech=Vysátí energie
 tagDotPhysical=Vnitřní krvácení
+tagDotAttackSpeed=Rychlost útoku
+tagDotCastSpeed=Rychlost kouzlení
+tagDotRunSpeed=Rychlost běhu
+tagDotOffensiveAbility=Útočná schopnost
+tagDotDefensiveAbility=Obranná schopnost
+tagDotFumble=Slabost v rukách
+tagDotRangedFumble=Zhoršené zamíření
+tagDotTotalDamageReduction=Celkové zranění
+tagDotPhysicalDamageReduction=Fyzické zranění
+tagDotElementalDamageReduction=Zranění živly
+tagDotTotalResistReduction=Celková odolnost
+tagDotPhysicalResistReduction=Fyzická odolnost
+tagDotElementalResistReduction=Odolnost vůči živlům
+tagDotStun=Ochromený
+tagDotSleep=Spící
+tagDotTrap=V pasti
+tagDotFreeze=Zmražený
+tagDotPetrify=Zkaměnělý
 
 tagSetItems={%d0} části setu
 tagSecond={^E}sekund
@@ -2029,9 +2063,12 @@ tagDamageModifierDamageMult={^H}{%.0f0}% {^E}celkového zranění
 tagRetaliationModifierTotalDamage={%+.0f0}% {^E}ke všem zraněním odplatou
 tagTotalSpeedResistance={%.0f0}% {^E}odolnost vůči zpomalení
 tagMindcontrolledMonster=Ovládaný myšlenkami
-tagSparkMaxNumberChanceSingle={^H}{%.0f0}% {^E}šance ovlivnit až {^H}{%d1} {^E}nepřítele
+tagSparkMaxNumberChanceSingle={^H}{%.0f0}% {^E}šance ovlivnit {^H}{%d1} {^E}nepřítele
+tagSparkMaxNumberChanceSingleMod={^H}+{%.0f0}% {^E}šance ovlivnit {^H}{%d1} {^E}nepřítele
 tagSparkMaxNumberChance={^H}{%.0f0}% {^E}šance ovlivnit až {^H}{%d1} {^E}nepřátel
-tagSparkMaxNumberSingle={^E}Ovlivňuje až {^H}{%d0} {^E}nepřítele
+tagSparkMaxNumberChanceMod={^H}+{%.0f0}% {^E}šance ovlivnit až {^H}{%d1} {^E}nepřátel
+tagSparkMaxNumberSingle={^E}Ovlivňuje {^H}{%d0} {^E}nepřítele
+tagSparkMaxNumberSingleMod={^E}Ovlivňuje {^H}+{%d0} {^E}nepřítele
 tagSparkMaxNumber={^E}Ovlivňuje až {^H}{%d0} {^E}nepřátel
 tagSparkMaxNumberMod={^E}Ovlivňuje až {^H}+{%d0} {^E}nepřátel
 
