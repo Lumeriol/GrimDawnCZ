@@ -100,7 +100,7 @@ tagNotification_Active=Zlikviduj všechny nepřátele
 tagNotification_Continue=Pro pokračování si promluv s Mistrem arény
 tagNotification_Failure=Tvá snaha byla marná, ale za svou účast navštiv Síň pokladů
 tagNotification_Reward=Tvá odměna na tebe čeká v Síni pokladů
-tagNotification_Reset=(volitelné) Promluv si s Mistrem arény pro nmožnost zkusit tuto arénu ještě jednou
+tagNotification_Reset=(volitelné) Promluv si s Mistrem arény pro možnost zkusit tuto arénu znovu
 
 tagNotification_Checkpoint05=Od teď se můžeš vrátit v této aréně k 50. vlně.
 tagNotification_Checkpoint10=Od teď se můžeš vrátit v této aréně ke 100. vlně.
