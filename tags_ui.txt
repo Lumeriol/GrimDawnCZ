@@ -1783,6 +1783,7 @@ DamageDurationTotalSpeed=% {^E}zpomalení nepřítele
 DamageDurationRunSpeed=% {^E}zpomalení nepřátelského pohybu
 DamageDurationSpellCastSpeed=% {^E}zpomalení nepřátelského kouzlení
 DamageDurationBleeding= {^E}zranění krvácením
+DamageDurationElemental= {^E}zranění živelným útokem
 
 DamageTotalDamageReductionPercent=% {^E}snížení nepřátelského zranění
 DamageTotalDamageReductionAbsolute= {^E}snížení nepřátelského zranění
