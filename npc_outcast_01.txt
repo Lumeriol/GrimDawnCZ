@@ -152,9 +152,11 @@ Je tohle ta kniha, kterou hledáš?
 
 
 Nyní ne.
-Úkol dvě dokončen, nedostatek reputace
-
-
+Ah, my only friend in this accursed fort has returned.{^n}{^n}Always a pleasure.
+Is there anything you need?
+I'm not sure you're quite ready for what's next.{^n}{^n}Come back to me once you're more experienced in dealing with our enemies.
+Very well.
+Farewell.
 [[ms]Zabil[fs]Zabila] jsi Beronathova potomka?
 Ano, tady je jeho pařát.
 Příšera, kterou jsi [[ms]porazil[fs]porazila] musela být vskutku impozantní, aby mohla mít takový pařát. {^n}{^n}Za tohle ti děkuji, ale možná bys [[ms]chtěl[fs]chtěla] vypomoct staré čarodejnici ještě jednou?
