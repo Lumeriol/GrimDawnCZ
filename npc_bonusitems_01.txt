@@ -42,28 +42,28 @@ Nejseš ty důstojník z velké Kickstarterské války roku 2012?{^n}{^n}Tak to 
 (získej Důstojnickou medaili Kickstarteru)
 Nejseš ty důstojník z velké Kickstarterské války roku 2012?{^n}{^n}*Kory zasalutuje*{^n}{^n}Tuhle medaili sis jistě [[ms]vysloužil[fs]vysloužila].
 (zasalutovat)
-What fine headwear!
-Yes, friend, I have quite a selection.{^n}{^n}Which one do you like the most?
-Say, what is that fine hat?
-Why, it's just the perfect hat for you!
-(Receive Illusion: Admiral's Hat)
-Why, it's just the perfect hat for you!
-True, I already have one for good reason.
-That helm looks expensive.
-It was once worn by a great general.{^n}{^n}But I'm sure you'd take good care of it.
-(Receive Illusion: Helm of the Southern General)
-It was once worn by a great general.{^n}{^n}But I'm sure you take good care of it.
-True, I already have this helm.
-That one looks ferocious.
-Ah, yes. It belonged to my grandmother.{^n}{^n}Gods rest her soul.{^n}{^n}Take good care of it.
-(Receive Illusion: Pillager's Dread Helm.)
-Ah, yes. It belonged to my grandmother.{^n}{^n}Gods rest her soul.{^n}{^n}I presume you took good care of it.
-True, I already have this helm.
-That helm looks inspiring.
-Don't see many like this one around these parts. It belonged to a very skilled warrior.{^n}{^n}I hope you'll earn the right to wear it.
-(Receive Illusion: Helm of the Venerable Warrior)
-Don't see many like this one around these parts. It belonged to a very skilled warrior.{^n}{^n}I hope you've earned the right to wear it.
-True, I already have this helm.
+Jak skvělá pokrývka hlavy!
+Ano, mám skutečně dobrý výběr.{^n}{^n}Co se ti líbí nejvíc?
+Řekni, co je zač tahle fajnová čepice?
+Pro tebe je prostě perfektní!
+(Získej iluzi: Admirálská čapka)
+Pro tebe je prostě perfektní!
+Pravda, jednu takovou čapku už z pochopitelných důvodů mám.
+Ta helma vypadá dost draze.
+Kdysi byla nošena významným generálem.{^n}{^n}Jsem si ale jist, že by u tebe byla v dobrých rukách.
+(Získej iluzi: Helma jižanského generála)
+Kdysi byla nošena významným generálem.{^n}{^n}Jsem si ale jist, že se o ní dobře postaráš.
+Pravda, takovou helmu už mám.
+Tohle vypadá dravě.
+Ah, ano. Patřila mé babičce.{^n}{^n}Bůh dej klidu její duši.{^n}{^n}Dobře se o ni starej.
+(Získej iluzi: Nájezdníkova strašidelná helma.)
+Ah, ano. Patřila mé babičce.{^n}{^n}Bůh dej klidu její duši.{^n}{^n}Předpokládám, že se o ni dobře staráš.
+Pravda, takovou helmu už mám.
+Tahle helma inspiruje.
+Takových se tady v okolí moc nevidí. Patřila jednomu velmi zkušenému válečníkovi. {^n}{^n}Doufám, že máě vůbec právo ji nosit.
+(Získej iluzi: Helma ctihodného válečníka)
+Takových se tady v okolí moc nevidí. Patřila jednomu velmi zkušenému válečníkovi. {^n}{^n}Doufám, že máě vůbec právo ji nosit.
+Pravda, takovou helmu už mám.
 Už mám těch iluzí po krk.
 Už dál nemluv. Prostě ti něco dám.
 (Získej předmět: Rozplývající se iluze)
