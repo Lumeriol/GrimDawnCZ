@@ -152,11 +152,11 @@ Je tohle ta kniha, kterou hledáš?
 
 
 Nyní ne.
-Ah, my only friend in this accursed fort has returned.{^n}{^n}Always a pleasure.
-Is there anything you need?
-I'm not sure you're quite ready for what's next.{^n}{^n}Come back to me once you're more experienced in dealing with our enemies.
-Very well.
-Farewell.
+Ah, [[ms]můj jediný přítel[fs]má jediná přítelkyně] v téhle proklaté pevnosti je tu.{^n}{^n}Vždycky potěšením.
+Je něco, co potřebuješ?
+Nejsem si úplně jistá, jestli jsi [[ms]připravený[fs]připravená] na to, co bude následovat.{^n}{^n} Vrať se, až budeš mít více zkušeností s našimi nepřáteli.
+Tak dobrá.
+Sbohem.
 [[ms]Zabil[fs]Zabila] jsi Beronathova potomka?
 Ano, tady je jeho pařát.
 Příšera, kterou jsi [[ms]porazil[fs]porazila] musela být vskutku impozantní, aby mohla mít takový pařát. {^n}{^n}Za tohle ti děkuji, ale možná bys [[ms]chtěl[fs]chtěla] vypomoct staré čarodejnici ještě jednou?
