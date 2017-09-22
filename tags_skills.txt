@@ -625,13 +625,13 @@ tagClass06SkillName06B=Kamenná kůra
 tagClass06SkillDescription06B=Kůže Trnošípka tvrdne a jeho ostny vyrostou v silnější, což ho promění na bojišti v zastrašující stvoření, jež nemůže být ignorováno.
 tagClass06SkillName06C=Vozembouch
 tagClass06SkillDescription06C=Trnošípek udeří do země svými ostnatými pařáty a uvolní ve vlnách ostny, které nabodnou blízké nepřátele.
-tagClass06SkillName06D=Odvahu dodávající řev
-tagClass06SkillDescription06D=Trnošípek nabudí své spojence a dodá jim odvahu, když je boj na vrcholu.
+tagClass06SkillName06D=Emboldening Presence
+tagClass06SkillDescription06D=The Briarthorn is an imposing presence on the battlefield which emboldens its allies to fight with greater ferocity.
 tagClass06SkillName06E=Ostnaté pařáty
 tagClass06SkillDescription06E=Vrozený útok.
 
 tagClass06SkillName07A=Divoký hlad
-tagClass06SkillDescription07A=Přijmeš svoji nejzákladnější stránku, rozřežeš své nepřátele a nenasytně budeš hodovat na rozlité krvi. ^oVyžaduje obouruční chladnou zbraň. Tato technika je aktivována výchozím útokem zbraně.
+tagClass06SkillDescription07A=Přijmeš svoji nejzákladnější stránku, rozřežeš své nepřátele a nenasytně budeš hodovat na rozlité krvi. ^oVyžaduje obouruční chladnou nebo střelnou zbraň. Pokud je schopnost použita s chladnou zbraní, útok zasáhne několik nepřátel v okolí najednou. Tato technika je aktivována výchozím útokem zbraně.
 
 tagClass06SkillName08A=Dohoda Vyvolávače bouří
 tagClass06SkillDescription08A=Sjednotíš se spolu s Ultosem, bohem nebes, a proměníš svoji smrtelnou formu ve vodič destruktivní síly bouře. ^oAby tato schopnost účinkovala, musí být aktivní.
@@ -644,7 +644,7 @@ tagClass06SkillName009C=Útok pařáty a drápy
 tagClass06SkillDescription09C=Vrozený útok.
 
 tagClass06SkillName10A=Hrubá síla
-tagClass06SkillDescription10A=Mnoha šamanům slouží jejich brutální obouruční zbraň jako vodič pro jejich bouřkové síly. Tito praktici upřednostňují bližší propojení s divočinou skrze zvířecí zuřivost a útok na krátkou vzdálenost než skrze křehké hůlky a knihy, které jsou považovány za hračky těch, kteří preferují trávit čas jejich čtením než trénováním toho, co umí. ^oVyžaduje obouruční chladnou zbraň.
+tagClass06SkillDescription10A=Mnoha šamanům slouží jejich brutální obouruční zbraň jako vodič pro jejich bouřkové síly. Tito praktici upřednostňují bližší propojení s divočinou skrze zvířecí zuřivost, než-li skrze křehké hůlky a knihy, které jsou považovány za hračky těch, kteří preferují trávit čas jejich čtením než trénováním toho, co umí. ^oVyžaduje obouruční chladnou nebo střelnou zbraň.
 tagClass06SkillName11A=Šamanismus
 tagClass06SkillDescription11A=Pečlivý trénink v nezkrocené divočině vypiloval tvou mysl a tělo do kruté zbraně.
 tagClass06SkillName12A=Hněv přírody
@@ -653,7 +653,7 @@ tagClass06SkillName13A=Prvotní pouto
 tagClass06SkillDescription13A=Přijmeš svoji stránku krutosti tak, že dokončíš spojení s Mogdrogenem. Příšery z útočiště boha zvířat ochotně odpoví na tvé zvolání. ^oAby tato schopnost účinkovala, musí být aktivní.
 
 tagClass06SkillName14A=Otřesy
-tagClass06SkillDescription14A=Udeříš silou země. Kamkoliv zasadíš svůj kritický útok svou základní zbraní, tam se země silou úderu otřese a vyvolá v okolí úderu v rázovou vlnu. ^oVyžaduje obouruční chladnou zbraň. Tato technika je aktivována výchozím útokem zbraně.
+tagClass06SkillDescription14A=Udeříš silou země. Kamkoliv zasadíš svůj kritický útok svou základní zbraní, tam se země silou úderu otřese a vyvolá v okolí úderu v rázovou vlnu. ^oVyžaduje obouruční chladnou nebo střelnou zbraň. Tato technika je aktivována výchozím útokem zbraně.
 
 tagClass06SkillName15A=Pohlcující roj
 tagClass06SkillDescription15A=Tam venku v divočině musí člověk udělat cokoliv, aby přežil. Někteří šamanští kejklíři si berou tuto lekci k srdci tak, že vyvolají pohlcující roj, který na kusy trhá cokoliv, s čím přijde do kontaktu, způsobuje bolestná zranění a činí cíl zranitelným.
@@ -1127,7 +1127,7 @@ tagItemSkillC062Name=Sražení
 tagItemSkillC062Desc=Vyřaď protivníka z boje rychlým a přesným úderem. ^oTato technika je aktivována výchozím útokem zbraně.
 
 tagItemSkillC063Name=Prismatický štít
-tagItemSkillC063Desc=Aktivuje runy vryté do těchto chráničů, čímž kolem tebe vytvoří ochranný štít.
+tagItemSkillC063Desc=Aktivuje runy vryté do této zbroje, čímž kolem tebe vytvoří ochranný štít.
 
 tagItemSkillC064Name=Pozorně sledovaná slabina
 tagItemSkillC064Desc=Pozorně si prohlédneš a skrze své nové oko zachytíš i ten nejmenší nedostatek na svých nepřátelích, a zvážíš tak, zda by mohli být tvými spojenci. ^oAby tato schopnost účinkovala, musí být aktivní.
@@ -2902,4 +2902,6 @@ tagEnemySkillD04_Desc=Surová podivná energie obklopuje tento krystal, čímž 
 tagEnemySkillD05=Aldritchovo žezlo
 tagEnemySkillD05_Desc=Aldritchovo žezlo vysílá oblouky energie, která zraňuje nepřátele v blízkosti.
 
+tagEnemySkillD06=Bloodsworn Curse
+tagEnemySkillD06_Desc=The curse of the Bloodsworn saps your willingness to fight off the corrupting powers of the void, reducing resistances, regeneration and Offensive Ability.
 

@@ -174,13 +174,13 @@ ach054Title=Místnost smrti
 ach054Desc=Přežij v Sále duší.
 
 ach055Title=Seberme ten lísteček
-ach055Desc=Posbírej 5 zápisků
+ach055Desc=Posbírej 5 zápisků.
 
 ach056Title=Sběratel papírků
-ach056Desc=Posbírej 20 zápisků
+ach056Desc=Posbírej 20 zápisků.
 
 ach057Title=Knihomol
-ach057Desc=Posbírej 50 zápisků
+ach057Desc=Posbírej 50 zápisků.
 
 ach058Title=Lány zoufalství
 ach058Desc=Přežij na Lánech zoufalství.

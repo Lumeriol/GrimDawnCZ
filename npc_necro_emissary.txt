@@ -3,6 +3,11 @@ Cesta, po které kráčíš, byla dobrou volbou.
 Zatím.
 Cesta, po které ses [[ms]vydal[fs]vydala], je moudrým rozhodnutím. Do budoucna bychom s tebou chtěli spolupracovat.
 Tak nějak.
+I cannot fathom why you would turn on your own like this.
+
+I did what I feel is right.
+A fitting alliance for the likes of you.{^n}{^n}I hope your soul finds some comfort in the atrocities you will commit in the name of the Chosen.
+I did what I feel is right.
 Pokud je tvé rozhodnutí názorem Černé legie, pak je opravdu lidstvo odsouzeno k zániku.
 Dělám to co musím, abychom všichni přežili.
 Pak upřímně doufám, že máš pravdu. Ale pak nemohu pomoci jinak než tím, že zpochybním tvé spojenectví s fanatiky.
@@ -19,6 +24,15 @@ Už vyrážím.
 Musím tě požádat, abys [[ms]vyhledal[fs]vyhledala] naši svatyni na severu. Zabrali jsme malou kryptu ukrytou v horách, na východ od Bašty zármutku.{^n}{^n}Aby ses tam [[ms]dostal[fs]dostala], musíš se vydat po cestě na sever přes Neobdělaná pole. Jakmile dojdeš k ruinám staré pevnosti, pak jsi blízko našemu domovu.{^n}{^n}Až budeš uvnitř, vyhledej mistra Varuuka. Bude si chtít promluvit s naším novým spojencem.
 Vyhledám vaši svatyni.
 Možná někdy jindy.
+I cannot fathom why you would turn on your own like this.
+You're right, it was a mistake. I wish to join you.
+Are you certain of this? The Order will welcome you as an ally, but everything you have done up to this moment will be forgotten.{^n}{^n}(Warning: selecting the Order will reset your Faction Reputation with the Order of Death's Vigil and Kymon's Chosen)
+The Black Legion will work with you. (Select the Order)
+Splendid. I shall make the arrangements immediately.{^n}{^n}In the meantime, I would ask that you seek out our sanctum to the north. We have claimed a small crypt hidden in the mountains, just west of Sorrow's Bastion.{^n}{^n}To get there, you must take the road north through the Fallow Fields. When you've reached the old fort ruins, then you are close to our home.{^n}{^n}Once inside, see Master Varuuk. He will wish to speak with our new ally.
+I will seek out your sanctum.
+Perhaps another time.
+Perhaps not.
+They are valuable allies.
 Jsi hlupák,  pokud věříš Kymonovým Vyvoleným.
 Máš pravdu, byla to chyba. [[ms]Chtěl[fs]Chtěla] bych se k vám přidat.
 Jsi si tím [[ms]jistý[fs]jistá]? Řád tě přivítá jako spojence, ale vše, co jsi doteď [[ms]vykonal[fs]vykonala], bude zapomenuto. {^n}{^n}(varování: Zvolení Řádu vyresetuje reputaci s frakcemi Řád Strážců smrti a Kymonovi Vyvolení)
@@ -29,8 +43,65 @@ Možná někdy jindy.
 Třeba ne.
 Jsou to hodnotní spojenci.
 Už se ke mně dostala slova o tvých činech. Řád je dychtivý pokračovat ve svém úsilí s tebou po boku.
-
+The Black Legion will work with you. (Select the Order)
+Splendid. I shall make the arrangements immediately.{^n}{^n}In the meantime, I would ask that you seek out our sanctum to the north. We have claimed a small crypt hidden in the mountains, just west of Sorrow's Bastion.{^n}{^n}To get there, you must take the road north through the Fallow Fields. When you've reached the old fort ruins, then you are close to our home.{^n}{^n}Once inside, see Master Varuuk. He will wish to speak with our new ally.
+I will seek out your sanctum.
+Perhaps another time.
 Promluvíme si o tom později.
+Greetings, I am Haruuv and I represent the Order of Death's Vigil.{^n}{^n}We would be pleased to welcome another necromancer into our fold.
+I think I've made my decision.
+What will it be then? Will the Black Legion fight alongside the Order of Death's Vigil against these invaders to our realm?
+The Black Legion will work with you. (Select the Order)
+Splendid. I shall make the arrangements immediately.{^n}{^n}In the meantime, I would ask that you seek out our sanctum to the north. We have claimed a small crypt hidden in the mountains, just west of Sorrow's Bastion.{^n}{^n}To get there, you must take the road north through the Fallow Fields. When you've reached the old fort ruins, then you are close to our home.{^n}{^n}Once inside, see Master Varuuk. He will wish to speak with our new ally.
+I will seek out your sanctum.
+Perhaps another time.
+Actually, I'll need more time to think this through.
+
+
+
+Farewell.
+Very well, Inquisitor. We may have to swallow our pride and try and find common ground in these trying times.{^n}{^n}I cannot promise you a warm greeting, but we can try and work together.
+I think I've made my decision.
+What will it be then? Will the Black Legion fight alongside the Order of Death's Vigil against these invaders to our realm?
+The Black Legion will work with you. (Select the Order)
+Splendid. I shall make the arrangements immediately.{^n}{^n}In the meantime, I would ask that you seek out our sanctum to the north. We have claimed a small crypt hidden in the mountains, just west of Sorrow's Bastion.{^n}{^n}To get there, you must take the road north through the Fallow Fields. When you've reached the old fort ruins, then you are close to our home.{^n}{^n}Once inside, see Master Varuuk. He will wish to speak with our new ally.
+I will seek out your sanctum.
+Perhaps another time.
+Actually, I'll need more time to think this through.
+
+
+
+Farewell.
+An inquisitor? I under the impression that this was to be an amicable gathering.{^n}{^n}I am Haruuv and I represent the Order of Death's Vigil, but I'm not sure there is much for us to discuss.
+Why is that?
+Our people have suffered much under the watchful eye of the empire's Luminari.{^n}{^n}I'm not sure it is wise for me to recommend an alliance with an inquisitor.
+
+Very well.
+I was hoping we could be allies.
+You would hope to undo decades of persecution in one moment?{^n}{^n}I am not sure that is possible.
+True, but we must start somewhere.
+Perhaps, but with Kymon's Chosen at our doorstep and the enemies of humanity all around us, how can we afford to take such a risk?{^n}{^n}Father Kymon himself was an inquisitor once, why should my brothers and sisters trust you?
+
+
+It is a shame we cannot find an agreement.
+Much has changed, humanity must unite against our enemies.
+You do speak truth.{^n}{^n}We may have to swallow our pride and try and find common ground in these trying times.{^n}{^n}Very well. I cannot promise you a warm greeting, but we can try and work together.
+I think I've made my decision.
+What will it be then? Will the Black Legion fight alongside the Order of Death's Vigil against these invaders to our realm?
+The Black Legion will work with you. (Select the Order)
+Splendid. I shall make the arrangements immediately.{^n}{^n}In the meantime, I would ask that you seek out our sanctum to the north. We have claimed a small crypt hidden in the mountains, just west of Sorrow's Bastion.{^n}{^n}To get there, you must take the road north through the Fallow Fields. When you've reached the old fort ruins, then you are close to our home.{^n}{^n}Once inside, see Master Varuuk. He will wish to speak with our new ally.
+I will seek out your sanctum.
+Perhaps another time.
+Actually, I'll need more time to think this through.
+
+
+
+Farewell.
+I promise I mean you no harm.
+Those are just words, inquisitor. The actions of the Luminari speak louder.{^n}{^n}Your mere presence in our sanctum would raise suspicions, create a sense of dread and invoke painful memories.{^n}{^n}It is not something I am willing to put my people through. I'm sorry.
+Very well.
+It is a shame we cannot find an agreement.
+Farewell.
 Buď [[ms]pozdraven[fs]pozdravena], já jsem Haruuv a reprezentuji Řád Strážců smrti.{^n}{^n}Jsme odhodláni diskutovat o dohodě, i v případě, že by měla být uzavřena uprostřed tak pochybné společnosti.
 Myslím, že už jsem se [[ms]rozhodl[fs]rozhodla].
 Jak to tedy bude? Bude Černá legie bojovat bok po boku s Řádem Strážců smrti proti vetřelcům, jež vstoupili do našeho světa?
@@ -81,6 +152,22 @@ Jaký druh vybavení nabízíte?
 
 Budu potřebovat nějaký čas, abych si to [[ms]promyslel[fs]promyslela].
 Sbohem.
+A fellow seeker of knowledge, I feel more comfortable here already.{^n}{^n}The one you call Ulgrim has asked to speak with the Order of Death's Vigil, so I have come before you.
+What is the Order of Death's Vigil?
+We are seekers and preservers of knowledge, trained in the ancient art of necromancy.{^n}{^n}We do not fear death. We embrace all that it teaches us, and through it become more in tune with the world around us.
+I see.
+Goodbye.
+An inquisitor? I under the impression that this was to be an amicable gathering.{^n}{^n}The one you call Ulgrim has asked to speak with the Order of Death's Vigil, so I have come.
+What is the Order of Death's Vigil?
+We are seekers and preservers of knowledge, trained in the ancient art of necromancy.{^n}{^n}We do not fear death. We embrace all that it teaches us, and through it become more in tune with the world around us.
+
+I see.
+I mean you no harm.
+While that is certainly a relief, you'll have to forgive me for not putting my guard down.{^n}{^n}The Order does not have a comfortable history with the Luminari.
+
+Things change.
+Understandable.
+Goodbye.
 Ten, jehož nazýváš Ulgrim, mne požádal o rozhovor jako zástupce Řádu Strážců smrti, a tak jsem před tebe předstoupil.
 Co je vlastně Řád Strážců smrti?
 Jsme hledači a strážci vědění, vytrénovaní prastarým uměním nekromancie naším mistrem Uroboruukem.{^n}{^n} Neobáváme se smrti. Přijmeme vše, co nás učí, a tak budeme více v souladu se světem kolem nás.

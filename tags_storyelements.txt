@@ -844,7 +844,7 @@ tagLoreObj_LowerCrossingA02Text=Jsem tu v pasti... Až teď si uvědomuji, že v
 
 tagLoreObj_WightmireA01Name=Listina pro Wightmirského Krvepřísežníka
 tagLoreObj_WightmireA01codexTitle=Krvopříseřníkův úřední dopis
-tagLoreObj_WightmireA01Text=Nadešel čas udeřit na naše největší nepřátele, Aetheriany, ve Wightmire. V klidu jsme shromáždili naše síly v kopcích nad Burrwitchem, abychom na něj mohli snáze zaútočit. Nicméně předtím, než k tomu dojde, musíme zabezpečit Wightmire, abychom neměli nepřítele v zádech.{^n}{^n}Ikdyž jsou silní, loajální a připraveni zemřít ve jménu Ch'thona, mám dojem, že máte nedostatek Krvepřísežníků ke zdolání aetherianských bojovníků. V poslední době jsme měli obrovský úspěch při přivolávání mnohem silnějších Ch'thonovo služebníků z Prázdnoty. Jeden Posel může rozdrtit všechny Aetheriany ve Wightmire a klidně může pokračovat do Ďáblova průsmyku, který by mohl v této oblasti sloužit jako pevnost našeho řádu.{^n}{^n}Ke zrodu Posla budete potřebovat krev a životy alespoň tří mužů. Shromážděte oběti jak uznáte za vhodné; buď z uprchlíků na cestách, tuláckých osad nebo vybírejte mezi vlastními Krvepřísežníky. Informujte mne o vašem úspěchu, až bude po všem.{^n}{^n}Velekněz Ulto Treig
+tagLoreObj_WightmireA01Text=Nadešel čas udeřit na naše největší nepřátele, Aetheriany, ve Wightmire. V klidu jsme shromáždili naše síly v kopcích nad Burrwitchem, abychom na něj mohli snáze zaútočit. Nicméně předtím, než k tomu dojde, musíme zabezpečit Wightmire, abychom neměli nepřítele v zádech.{^n}{^n}I když jsou silní, loajální a připraveni zemřít ve jménu Ch'thona, mám dojem, že máte nedostatek Krvepřísežníků ke zdolání aetherianských bojovníků. V poslední době jsme měli obrovský úspěch při přivolávání mnohem silnějších Ch'thonovo služebníků z Prázdnoty. Jeden Posel může rozdrtit všechny Aetheriany ve Wightmire a klidně může pokračovat do Ďáblova průsmyku, který by mohl v této oblasti sloužit jako pevnost našeho řádu.{^n}{^n}Ke zrodu Posla budete potřebovat krev a životy alespoň tří mužů. Shromážděte oběti jak uznáte za vhodné; buď z uprchlíků na cestách, tuláckých osad nebo vybírejte mezi vlastními Krvepřísežníky. Informujte mne o vašem úspěchu, až bude po všem.{^n}{^n}Velekněz Ulto Treig
 
 tagLoreObj_WightmireA02Name=List Miltona Harta
 tagLoreObj_WightmireA02codexTitle=List Miltona Harta
@@ -1383,7 +1383,7 @@ tagStoreDesc_SmithA04_4=Vyrobené zbraně, zbroj a příslušenství jsou prodch
 tagNPC_SmithA05=Etram Fald
 tagStoreTitle_SmithA05=Nebeský kovář
 tagStoreDesc_SmithA05_1={}Nebeské umění
-tagStoreDesc_SmithA05_2=Kladivo Etrama Falda je prý ukováno ze samotných hvězd.
+tagStoreDesc_SmithA05_2=Kladivo Etrama Falda je prý ukováno ze samotných hvězd, schopné vytvořit legendární předmět až dp úrovně 75.
 tagStoreDesc_SmithA05_3=
 tagStoreDesc_SmithA05_4=Vyrobené zbraně, zbroj a příslušenství jsou prodchnuty jednou z následujících vlastností:
 
