@@ -1,8 +1,10 @@
 Bratr Molltair
 [[ms]Vybral[fs]Vybrala] sis dobře, [[ms]příteli[fs]přítelkyně]. Vítej v naší enklávě.
-Díky.
+Farewell.
 [[ms]Vybral[fs]Vybrala] sis dobře, [[ms]příteli[fs]přítelkyně]. Vítej v naší enklávě.
-Díky.
+Farewell.
+Filth stands alongside filth, fitting.{^n}{^n}Do not expect mercy should we meet on the battlefield.
+Whatever.
 Své rozhodnutí jsi již [[ms]učinil[fs]učinila] a teď mě nech být.
 Tak zatím.
 Přišel jsem reprezentovat Kymonovy Vyvolené tak, jak si mí nadřízení přáli.
@@ -16,6 +18,11 @@ Už vyrážím.
 Musím tě poprosit, abys [[ms]navštívil[fs]navštívila] naši enklávu na severu. Převzali jsme část Bašty zármutku a udělali z ní náš nový domov.{^n}{^n}Vyhledej nás tak, že půjdeš po severní cestě přes Neobdělaná pole. Až narazíš na ruiny, podívej se po věži.{^n}{^n}Jakmile tam budeš, promluv si s bratrem Elluviem. Připraví tě na naši cestu osvícení.
 Vaši enklávu vyhledám.                                             
 Možná někdy jindy.
+Your allegiance to the vile arts will lead you down a dark path from which there is no return.
+You're right, it was a mistake. I wish to join you.
+Do not presume to be ignorant of who you are, necromancer.{^n}{^n}The likes of you are an affront to nature, an abominations that twists the divine threads of life to your will as if they were playthings.{^n}{^n}I see it was a mistake in coming here as the Legion willingly aligns itself with heretics. Leave me be.
+Um, alright.
+It serves me well.
 Tvé spojenectví s prohnilými nekromancery tě zavede dolů na cestu temna, ze které již není návratu.
 Máš pravdu, byla to chyba. [[ms]Chtěl[fs]Chtěla] bych se k vám přidat.
 Jsi si tím [[ms]jistý[fs]jistá]? Vyvolení se stanou tvým spojencem, ale vše, co si doteď [[ms]udělal[fs]udělala] do tohoto okamžiku bude zapomenuto.{^n}{^n}(varování: Zvolením Vyvolených bude anulována reputace u frakcí Řád hlídky smrti a Kymonovi Vyvolení)
@@ -25,9 +32,39 @@ Vyhledám vaši enklávu.
 Možná někdy jindy.
 Snad ne.
 Jsou to hodnotní spojenci.
-Slova o tvých činech ke mně již dolehla. Kymonovi Vyvolení rádi uvidí, že jsi zase pro jednou naším spojencem.
+Word of your actions has already reached me.{^n}{^n}Your strange committment to our ways threatens to shatter all my values as a Chosen, but I cannot deny your conviction in aiding Father Kymon, despite your...flaws.{^n}{^n}The Chosen of Kymon will see you as an ally once more.
+The Black Legion will work with you. (Select the Kymon's Chosen)
+Kymon will be pleased to hear of this. This alliance will be beneficial to both groups. Let us banish the enemy as one!{^n}{^n}I must ask that you visit our enclave to the north. We have taken over a part of Sorrow's Bastion and made it our new home.{^n}{^n}Seek us out by taking the road north through the Fallow Fields. When you've reached the ruins, look for the tower.{^n}{^n}Once there, please speak to Brother Elluvius. He will set you upon our enlightened path.
+I will seek out your enclave.
+Perhaps another time.
+What is bothering you?
+Since joining the Chosen, you set yourself upon a dark path, one from which I thought there was no hope of redemption.{^n}{^n}And yet you find alongside us, even against your own kind. It is a strange feeling to call you [[ms]brother[fs]sister] and yet that is what you are.
 
+We'll speak of this later.
+We'll speak of this later.
+Slova o tvých činech ke mně již dolehla. Kymonovi Vyvolení rádi uvidí, že jsi zase pro jednou naším spojencem.
+The Black Legion will work with you. (Select the Kymon's Chosen)
+Kymon will be pleased to hear of this. This alliance will be beneficial to both groups. Let us banish the enemy as one!{^n}{^n}I must ask that you visit our enclave to the north. We have taken over a part of Sorrow's Bastion and made it our new home.{^n}{^n}Seek us out by taking the road north through the Fallow Fields. When you've reached the ruins, look for the tower.{^n}{^n}Once there, please speak to Brother Elluvius. He will set you upon our enlightened path.
+I will seek out your enclave.
+Perhaps another time.
 Promluvíme si o tom později.
+Do not dare to stand before me, filth.{^n}{^n}If we were not on neutral ground, I would incinerate you where you stand.
+Why the hostility?
+Do not presume to be ignorant of who you are, necromancer.{^n}{^n}The likes of you are an affront to nature, an abomination that twists the divine threads of life to your will as if they were playthings.{^n}{^n}I see it was a mistake in coming here as the Legion willingly aligns itself with heretics. Leave me be.
+Um, alright.
+Um, alright.
+Brother Molltair, Chosen of Kymon, at your service, blessed inquisitor.{^n}{^n}Though I must wonder why you've brought this necromancer filth here as well.
+I think I've made my decision.
+You have decided then? Are the Chosen of Kymon to battle alongside the Black Legion?
+The Black Legion will work with you. (Select the Kymon's Chosen)
+Kymon will be pleased to hear of this. This alliance will be beneficial to both groups. Let us banish the enemy as one!{^n}{^n}I must ask that you visit our enclave to the north. We have taken over a part of Sorrow's Bastion and made it our new home.{^n}{^n}Seek us out by taking the road north through the Fallow Fields. When you've reached the ruins, look for the tower.{^n}{^n}Once there, please speak to Brother Elluvius. He will set you upon our enlightened path.
+I will seek out your enclave.
+Perhaps another time.
+Actually, I'll need more time to think this through.
+
+
+
+Goodbye.
 Bratr Molltair, Kymonovi Vyvolení, k tvým službám. {^n}{^n}I když si musím lámat hlavu, proč si sem [[ms]přitáhnul[fs]přitáhla] i tu nekromantskou špínu.
 Myslím, že už jsem se [[ms]rozhodl[fs]rozhodla].
 Takže už ses [[ms]rozhodl[fs]rozhodla]? Jsou Kymonovi Vyvolení ti, jež budou bojovat bok po boku s Černou legií?
@@ -76,6 +113,21 @@ Jsme dobře vybavení, abychom se vypořádali s těmi ďábly otravující ná�
 
 Budu potřebovat nějaký čas na rozmyšlenou.
 Sbohem.
+Do not dare to stand before me, filth.{^n}{^n}If we were not on neutral ground, I would incinerate you where you stand.
+Why the hostility?
+Do not presume to be ignorant of who you are, necromancer.{^n}{^n}The likes of you are an affront to nature, an abominations that twists the divine threads of life to your will as if they were playthings.{^n}{^n}It is my duty as a Chosen of Kymon to eliminate all enemies of mankind.
+Um, alright.
+Um, alright.
+I have come to represent Kymon's Chosen, as the one you call Ulgrim has requested.{^n}{^n}We would be eager to learn from one such as you as our goals are much the same.
+Who are the Kymon's Chosen?
+We are the chosen of Father Kymon, blessed prophet of Empyrion, guardian of the divine flame and savior of humanity.
+
+I see.
+Learn from me?
+Yes, our Father Kymon was once an inquisitor himself.{^n}{^n}To have another in the ranks would be a blessing in our pursuit of fiends and traitors to humanity.
+
+I see.
+Goodbye.
 Přišel jsem jako zástupce Kymonových Vyvolených, jelikož mne ten, jehož nazýváš Ulgrim, o to požádal.
 Kdo jsou Kymonovi Vyvolení?
 Jsme Vyvolení Otce Kymona, svatého proroka Empyrionu, strážce svatého plamene a zachránce lidstva.
