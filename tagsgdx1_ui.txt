@@ -1,114 +1,115 @@
 #Faction
-tagFactionBeasts=Beasts
-tagFactionBeastsInfo= Creatures of fur and claw, of scale and venom, of carapace and spine; they are all a part of Cairn. And through one of the most brutal laws of nature, survival of the fittest, they become stronger with each generation. {^n}{^n} Whether through the forces of nature or the ignorant machinations of mankind, the beasts of Cairn will endure, become stronger, fiercer and bolder.
-tagFactionBeastsRewards1=Nemesis Spawns
-tagFactionBeastsRewards2=Additional Hero Spawns
-tagFactionBeastsRewards3=Extra Spawns
-tagFactionBeastsRewards4=Empty
-tagFactionBeastsRewards5=N/A
-tagFactionBeastsRewards6=N/A
-tagFactionBeastsRewards7=N/A
-tagFactionBeastsRewards8=N/A
-tagFactionUser9=Coven of Ugdenbog
-tagFactionUser9Info=Headquarters: Ugdenbog {^n}{^n} Not much is known about the mysterious Coven of Ugdenbog. A congregation of witches and warlocks, the coven seeks to shield its persecuted brothers and sisters from a society that does not understand and thus (often rightfully) fears their powers. {^n}{^n} Having successfully evaded the pursuit of the empire's Luminari for decades, the witches created a place of respite deep within the treacherous Ugdenbog, a place not even their determined pursuers dare to tread. This comes with its own dangers however. {^n}{^n} Those who found refuge with the coven must remain ever vigilant as new threats, whether from lost travelers stumbling upon their hideout or from the deadly wildlife of the bog itself, continue to arise. {^n}{^n} Worse still, there are secrets within the bog which even the coven avoids, lest mistakes of the past be repeated and the Luminari rediscover their trail.
-tagFactionUser9Rewards1=N/A
-tagFactionUser9Rewards2=N/A
-tagFactionUser9Rewards3=N/A
-tagFactionUser9Rewards4=Empty
-tagFactionUser9Rewards5=Access to Faction Vendor
-tagFactionUser9Rewards6=New Quest {^n}Access to Bounty Table {^n}Faction Weapons {^n}Faction Armor {^n}Faction Blueprints
-tagFactionUser9Rewards7=New Quests {^n}Faction Augments {^n}Faction Weapons {^n}Faction Accessories {^n}Faction Writs {^n}Faction Blueprints
-tagFactionUser9Rewards8=Rare Augments {^n}Faction Mandates {^n}Elite Faction Armor {^n}Legendary Faction Blueprints
+tagFactionBeasts=Zvířata
+tagFactionBeastsInfo=Tvorové se srstí a drápy, se šupinami a jedovými žlázami, s krunýřem nebo trny, tihle všichni jsou nedílnou součástí Cairnu. A díky jednomu z nejbrutálnějších zákonů přírody přežívají jen ti nejsilnější, tudíž je každá generace více nebezpečnější.{^n}{^n}Ať už prostřednictvím přírodních sil nebo díky lidským neomaleným zacházením se zvířata v Cairnu stávají silnějšími, dravějšími a troufalejšími.
+tagFactionBeastsRewards1=Tábořiště mstitele
+tagFactionBeastsRewards2=Přídavná tábořiště hrdinů
+tagFactionBeastsRewards3=Dodatečná tábořiště
+tagFactionBeastsRewards4=nic
+tagFactionBeastsRewards5=-
+tagFactionBeastsRewards6=-
+tagFactionBeastsRewards7=-
+tagFactionBeastsRewards8=-
+tagFactionUser9=Shromaždiště v Ugdenských močálech
+tagFactionUser9Info=Stanoviště: Ugdenské močály{^n}{^n}O tajemném Shromaždišti v Ugdenských močálech toho není mnoho známo. V kongregaci čarodějnic a černokněžníků se shromaždiště snaží chránit své pronásledované bratry a sestry před společností, která jim nerozumí, a (mnohdy oprávněně) se obává jejich moci.{^n}{^n}Po celá desetiletí se úspěšně vyhýbali pronásledování ze strany Luminářů tím, že čarodějnice využily odlehlé místo uvnitř zrádných Ugdenských močálů, tedy místa, kam se ani ti nejzarputilejší pronásledovatelé neodvažovali vkročit. Což samozřejmě přinášelo i nebezpečí v rámci samotného místa.{^n}{^n}Ti, kteří zde našli útočiště, museli neustále zůstat ostražití, neboť se stále objevovaly nové hrozby, ať už v podobě ztracených a utopených dobrodruhů, nebo ze smrtících bažin rozrůstající se divočiny.{^n}{^n}Nejhorší ovšem zůstává, že v bažinách jsou tajemství, kterým se i samotní obyvatelé shromaždiště vyhýbají, aby neopakovali chyby z minulosti a Lumináři tak nemohli vysledovat jejich stopy.
+tagFactionUser9Rewards1=-
+tagFactionUser9Rewards2=-
+tagFactionUser9Rewards3=-
+tagFactionUser9Rewards4=nic
+tagFactionUser9Rewards5=Přístup k frakčnímu trhovci
+tagFactionUser9Rewards6=Nový úkol {^n}Přístup k frakční vývěsce {^n}Frakční výzbroj {^n}Frakční výstroj {^n}Frakční plánky
+tagFactionUser9Rewards7=Nový úkol {^n}Frakční vylepšení {^n}Frakční doplňky {^n}Frakční dokumenty {^n}Frakční plánky
+tagFactionUser9Rewards8=Vzácná vylepšení {^n}Frakční udělení {^n}Elitní frakční výstroj {^n}Legendární frakční plánky
 tagFactionUser10=Barrowholm
-tagFactionUser10Info=Headquarters: Ugdenbog {^n}{^n} Barrowholm, a veritable jewel in the mud, offers a stark contrast to the dangers of the surrounding bog with its nearly immaculate structures and peaceful existence. Its denizens are rightfully protective of their home and offer an unusual mix of caution and warm hospitality to new visitors. {^n}{^n} After all, in a world ravaged by Aetherials and Chthonians, something this perfect must be protected at all costs.
-tagFactionUser10Rewards1=Nemesis Spawns
-tagFactionUser10Rewards2=Additional Hero Spawns
-tagFactionUser10Rewards3=Extra Spawns
-tagFactionUser10Rewards4=Empty
-tagFactionUser10Rewards5=Access to Faction Vendor
-tagFactionUser10Rewards6=New Quest {^n}Access to Bounty Table {^n}Faction Weapons {^n}Faction Armor {^n}Faction Blueprints
-tagFactionUser10Rewards7=New Quest {^n}Faction Augments {^n}Faction Weapons {^n}Faction Accessories {^n}Faction Writs {^n}Faction Blueprints
-tagFactionUser10Rewards8=Rare Augments {^n}Faction Mandates {^n}Elite Faction Armor {^n}Legendary Faction Blueprints
-tagFactionUser11=Malmouth Resistance
-tagFactionUser11Info=Headquarters: Malmouth {^n}{^n} Once the pride of the east, Malmouth was an industrial marvel in the Erulan empire, with a bustling naval port and a thriving economy. It was also one of the first cities to fall during the events that unfolded on the day of the Grim Dawn. {^n}{^n} Shattered from within by manipulative Aetherials, within mere weeks Malmouth turned from a proud beacon of the empire into a living nightmare for its denizens. But not all citizens of Malmouth perished when the fighting broke out. Some survived...endured...resisted. {^n}{^n} These people now form the backbone of a resistance fighting to take back their city from the scheming invaders; but their resources are running low and human lives are finite when compared to the nigh infinite armies of the Aetherials that have entrenched themselves within Malmouth.
-tagFactionUser11Rewards1=N/A
-tagFactionUser11Rewards2=N/A
-tagFactionUser11Rewards3=N/A
-tagFactionUser11Rewards4=Empty
-tagFactionUser11Rewards5=Access to Faction Vendor
-tagFactionUser11Rewards6=New Quest {^n}Access to Bounty Table {^n}Faction Weapons {^n}Faction Armor {^n}Faction Blueprints
-tagFactionUser11Rewards7=New Quest {^n}Faction Augments {^n}Faction Weapons {^n}Faction Accessories {^n}Faction Writs {^n}Faction Blueprints
-tagFactionUser11Rewards8=Rare Augments {^n}Faction Mandates {^n}Elite Faction Armor {^n}Legendary Faction Blueprints
-tagFactionUser12=Aetherial Vanguard
-tagFactionUser12Info= Among the Aetherials that crumbled humanity's empire, in a devastating event now called the Grim Dawn, there were those who reached out beyond the veil first, the ones that would become the heralds of mankind's destruction. {^n}{^n} They were the first to infiltrate the ranks of Erulan, the first to manipulate the unwitting humans to undermine their own cities and governments. This Aetherial Vanguard now spreads its corrupting influence from the ruins that once stood as proud beacons of the fallen empire. {^n}{^n} But all this carnage was merely the beginning of their machinations. At the hands of the Aetherial fleshshapers, vile new creations stir within the depths of Malmouth. Whatever comes next may well mark the end of humanity's resistance.
-tagFactionUser12Rewards1=Nemesis Spawns
-tagFactionUser12Rewards2=Additional Hero Spawns
-tagFactionUser12Rewards3=Extra Spawns
-tagFactionUser12Rewards4=Empty
-tagFactionUser12Rewards5=N/A
-tagFactionUser12Rewards6=N/A
-tagFactionUser12Rewards7=N/A
-tagFactionUser12Rewards8=N/A
+tagFactionUser10Info=Stanoviště: Ugdenské močály{^n}{^n} Barrowholm, opravdový klenot v bažinách, je silným kontrastem mezi nebezpečími okolních močálů a téměř nepoškozenými stavbami a poklidnou existencí. Jeho obyvatelé jsou především ochránci svých domovů a každého nového návštěvníka vítají s velkou opatrností při teplé večeři na stole.{^n}{^n}Konec konců, ve světě zničeném Aetheriany a Chthonskými přisluhovači musí být něco tak dokonalého chráněno za každou cenu.
+tagFactionUser10Rewards1=Tábořiště mstitele
+tagFactionUser10Rewards2=Přídavná tábořiště hrdinů
+tagFactionUser10Rewards3=Dodatečná tábořiště
+tagFactionUser10Rewards4=nic
+tagFactionUser10Rewards5=Přístup k frakčnímu trhovci
+tagFactionUser10Rewards6=Nový úkol {^n}Přístup k frakční vývěsce {^n}Frakční výzbroj {^n}Frakční výstroj {^n}Frakční plánky
+tagFactionUser10Rewards7=Nový úkol {^n}Frakční vylepšení {^n}Frakční doplňky {^n}Frakční dokumenty {^n}Frakční plánky
+tagFactionUser10Rewards8=Vzácná vylepšení {^n}Frakční udělení {^n}Elitní frakční výstroj {^n}Legendární frakční plánky
+tagFactionUser11=Obránci Malmouthu
+tagFactionUser11Info=Stanoviště: Malmouth{^n}{^n}Malmouth. Bývalá pýcha východu, průmyslový zázrak Erulanské říše s rušným námořním přístavem a prosperující ekonomikou. A zároveň jedno z prvních měst, kterí padlo během událostí odehrávajích se v den Ponurého úsvitu.{^n}{^n}Město zničené zevnitř pomocí ovládnutých lidí Aetheriany se během okamžiku stalo noční můrou pro všechny své obyvatele. Ale ne všichni občané Malmouthu zemřeli v boji. Někteří přežili... vydrželi... a odolali.{^n}{^n}Tito lidé nyní tvoří základ obrany bojujících za záchranu svého města z rukou intrikujících okupantů, ale jejich zdroje rychle docházejí a lidské životy jsou slabé, narozdíl od nekonečných armád Aetherianů, kteří se v Malmouthu opevnili.
+tagFactionUser11Rewards1=-
+tagFactionUser11Rewards2=-
+tagFactionUser11Rewards3=-
+tagFactionUser11Rewards4=nic
+tagFactionUser11Rewards5=Přístup k frakčnímu trhovci
+tagFactionUser11Rewards6=Nový úkol {^n}Přístup k frakční vývěsce {^n}Frakční výzbroj {^n}Frakční výstroj {^n}Frakční plánky
+tagFactionUser11Rewards7=Nový úkol {^n}Frakční vylepšení {^n}Frakční doplňky {^n}Frakční dokumenty {^n}Frakční plánky
+tagFactionUser11Rewards8=Vzácná vylepšení {^n}Frakční udělení {^n}Elitní frakční výstroj {^n}Legendární frakční plánky
+tagFactionUser12=Aetheriaský předvoj
+tagFactionUser12Info=Mezi Aetheriany, kteří rozdrtili lidskou říši, se během ničívých událostí zvaných Ponurý úsvit objevili i tací, jež sice zůstanou neproslavení, ale byli to oni, kdo způsobil zkázu lidstva.{^n}{^n}Byli prvními, kdo pronikl mezi Erulanskou šlechtu, prvními, jež ovládali lidi rozhodnuté podkopat základy své společnosti, města i celou vládu. Tento Aetherianský předvoj nyní rozšiřuje svůj vliv mezi zdmi města, které kdysi bylo majákem padlé říše.{^n}{^n}Ale veškeré toto krveprolití bylo jen počátkem jejich intrik. Rukama Aetherianských specialistů se v hlubinách Malmouthu utváří nové a ještě ohavnější zlo, které by mohlo rozprášit i ty poslední zbytky lidského odporu.
+tagFactionUser12Rewards1=Tábořiště mstitele
+tagFactionUser12Rewards2=Přídavná tábořiště hrdinů
+tagFactionUser12Rewards3=Dodatečná tábořiště
+tagFactionUser12Rewards4=nic
+tagFactionUser12Rewards5=-
+tagFactionUser12Rewards6=-
+tagFactionUser12Rewards7=-
+tagFactionUser12Rewards8=-
 
 #Quest
-tagCodexJournalSubHeadingUgdenbog=Survivors - Ugdenbog
-tagCodexJournalSubHeadingBarrowholm=Survivors - Barrowholm
-tagCodexJournalSubHeadingMalmouth=Survivors - Malmouth
+tagCodexJournalSubHeadingUgdenbog=Přeživší - Ugdenské močály
+tagCodexJournalSubHeadingBarrowholm=Přeživší - Barrowholm
+tagCodexJournalSubHeadingMalmouth=Přeživší - Malmouth
 
 #SkillUI
 
-tagSkillUndoClass=Undo Class
+tagSkillUndoClass=Změnit povolání
 
 #Transmuter
-tagTransmuterWindow=Illusionist
-tagTransmuteButton=Apply Illusion
-tagTransmuteNew=You have gained a new Illusion: {%t0}
+tagTransmuterWindow=Iluzionista
+tagTransmuteButton=Použít iluzi
+tagTransmuteNew=Získáváš novou iluzi: {%t0}
 tagTransmutePageFormat={%d0} / {%d1}
-tagTransmuteNoItems=You are not wearing any equipment which the Illusionist can service.
-tagTransmuteTotalGold=Total Iron Bits:
-tagTransmuteCost=Iron Bits Cost:
+tagTransmuteNoItems=Bohužel nemáš žádný předmět, který by mohl mít svou iluzi.
+tagTransmuteTotalGold=Celkem (železné mince):
+tagTransmuteCost=Cena (železné mince):
 
-SkillDamageAbsorptionReflectPercent={%.0f0}% {^E}Damage Absorbed Reflected
+SkillDamageAbsorptionReflectPercent={%.0f0}% {^E}Odražené vstřebané zranění
 
 tagGDX1w=GrimDawn/images/evil
 
 #Maps
 
-tagMapSymbolTransmuteNpc=Illusionist
-tagMapSymbolTransmuteNpcDesc=Illusionist illusions.
+tagMapSymbolTransmuteNpc=Iluzionista
+tagMapSymbolTransmuteNpcDesc=Iluzionistické iluze.
 
 #Skills
-tagItemSkillModified= {^E}to {^Z}{%s0}
+tagItemSkillModified= {^E}na {^Z}{%s0}
 
 #Skill Wheel
-tagSkillConfig01=Config 1
-tagSkillConfig02=Config 2
+tagSkillConfig01=1. nastavení
+tagSkillConfig02=2. nastavení
 
 #Gamepad HUD
-tagGamePadSelect=Select
-tagGamePadBack=Back
-tagGamePadEquip=Equip Item
-tagGamePadDrop=Drop Item
-tagGamePadUseItem=Use Item
-tagGamePadSellItem=Sell Item
-tagGamePadMoveItem=Move Item
-tagGamePadScroll=Scroll
-tagGamePadAssignSkills=Assign Skills
-tagGamePadSwapConfig=Swap Configuration
-tagGamePadMove=Move
-tagGamePadZoomIn=Zoom In
-tagGamePadZoomOut=Zoom Out
-tagGamePadExit=Exit
-tagGamePadRevert=Revert
+tagGamePadSelect=Vybrat
+tagGamePadBack=Zpět
+tagGamePadEquip=Nasadit předmět
+tagGamePadDrop=Zahodit předmět
+tagGamePadUseItem=Použít předmět
+tagGamePadSellItem=Prodat předmět
+tagGamePadMoveItem=Přesunout předmět
+tagGamePadScroll=Posun
+tagGamePadAssignSkills=Přiřadit dovednost
+tagGamePadSwapConfig=Změna nastavení
+tagGamePadMove=Posun
+tagGamePadZoomIn=Přiblížit
+tagGamePadZoomOut=Oddálit
+tagGamePadExit=Odejít
+tagGamePadRevert=Zrušit
+tagGamePadSplitStack=Rozdělit
 
-tagGamePadCharacter=Character
-tagGamePadSkills=Skills
-tagGamePadMap=Map
-tagGamePadFactions=Factions
-tagGamePadAchieve=Achievements
+tagGamePadCharacter=Postava
+tagGamePadSkills=Dovednosti
+tagGamePadMap=Mapa
+tagGamePadFactions=Frakce
+tagGamePadAchieve=Úspěchy
 
 #Char Stats Tab 2
-tagCharStatsInquisitorSkillsBonus=Inquisitor Skills
-tagCharStatsInquisitorSkillsBonusInfo=Bonus to all learned skills in the Inquisitor Mastery.
-tagCharStatsNecroSkillsBonus=Necromancer Skills
-tagCharStatsNecroSkillsBonusInfo=Bonus to all learned skills in the Necromancer Mastery.
+tagCharStatsInquisitorSkillsBonus=Dovednosti Inkvizitora
+tagCharStatsInquisitorSkillsBonusInfo=Bonus ke všem naučeným dovednostem v povolání Inkvizitora.
+tagCharStatsNecroSkillsBonus=Dovednosti Nekromanta
+tagCharStatsNecroSkillsBonusInfo=Bonus ke všem naučeným dovednostem v povolání Nekromanta.

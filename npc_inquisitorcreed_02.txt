@@ -10,10 +10,11 @@ This keepsake of Ulgrim's...
 I know, it doesn't seem like much, but this is one of only a few things Ulgrim dragged around everywhere he went.{^n}{^n}It clearly had sentimental value, something the witches can use to divine his whereabouts, if he still lives...
 
 I suppose it's the best we've got.
-Farewell.
 Why is finding Ulgrim so damn important?
 There's a lot to Ulgrim that you don't know about, that none of us know about.{^n}{^n}He seems more than human and I suspect has been walking this world for a lot longer than you and I combined. He could become a devastating weapon of the Chthonians if we allow them to corrupt his mind.{^n}{^n}Maybe there is some degree of comradery influencing my thinking but I do feel that he could become a threat if we leave him to be consumed by the madness of the void.
 Farewell.
+Farewell.
+Show me the events that transpired here again. (Play Intro)
 Even here, in our last stronghold, the enemy has found a way to wreak havoc.{^n}{^n}Nevertheless, we must stand united or face complete annihilation.
 We'll deal with it, one challenge at a time.
 Good, you're back.{^n}{^n}We have other matters to discuss immediately.
@@ -26,11 +27,14 @@ I need some time to prepare.
 
 I'll return soon.
 Sorry, I'll be right back.
+Show me the events that transpired here again. (Play Intro)
+We have no time to rest. Humanity's survival depends upon our vigilance.{^n}{^n}We have other matters to discuss.
+How can I help?
+I'll be back.
 I heard back from Captain Bourbon.{^n}{^n}I'm pleased to hear that Warden Krieg has been dealt with. He was a despicable creature. I only wish I had been more prepared when I met him myself.
 He was a menace, but it is finished.
 Indeed, but while one matter is closed, another begins. We have no time to rest. Humanity's survival depends upon our vigilance.{^n}{^n}We have other matters to discuss.
-What is it?
-
+How can I help?
 I'll be back.
 How go your efforts in Devil's Crossing.{^n}{^n}With so few of us remaining, every settlement counts.
 What do I need to do again?
@@ -79,17 +83,39 @@ I have another question.
 I need some time to think.
 Actually, forget it.
 I'll return soon.
+Show me the events that transpired here again. (Play Intro)
+I'll return soon.
+Show me the events that transpired here again. (Play Intro)
+And so our great moment of triumph is soured with tragedy.{^n}{^n}The cult's defeat at the Necropolis marks humanity's first major victory in this conflict, proving that we are not going to simply lie down and let ourselves be wiped out by fiends and spirits. Word of this victory will spread and give people hope that someday this nightmare will truly be over.{^n}{^n}Yet we cannot forget those who sacrificed their lives to bring us here. Brave men and women of the Black Legion who took up arms in the defense of Erulan, a nation that scorned them as criminals, outcasts and even traitors. In death, they were none of those things. They died as heroes.{^n}{^n}But I refuse to count Ulgrim among the dead just yet. I owe him that much.{^n}{^n}I could use your help. Are you with me?
+Sure, what can I do?
+I have some questions.
+Yes?
+What about the Aetherials?
+They are as much a threat as ever. Much of the empire is still under their control.{^n}{^n}We must be prepared for an extended conflict. It may be years before we even breach the capital, much less expel the Aetherials from Cairn.
+What about Ulgrim?
+I have another question.
+Farewell.
+The Cult is still out there. Shouldn't we stop them for good?
+Your actions at the Necropolis have severely crippled their activities.{^n}{^n}It will likely be some time before we have to deal with their ilk again.{^n}{^n}For now, we must see to strengthening our defenses.
+What about Ulgrim?
+I have another question.
+Farewell.
+Did you know that Anasteria is an Aetherial?
+I had my suspicions, but...she has put us all in a rather difficult place.{^n}{^n}I can't say that I fully trust her, but she has been useful in fighting against her own people, at least until recently when her information has gotten spotty at best.{^n}{^n}I suspect that the Aetherial have become wise to her dealings with us and had adjusted their plans to foil her information.{^n}{^n}Nevertheless, her knowledge has helped save countless human lives, and she still knows more about the Aetherials than any of us. For that alone she is still useful.
+What about Ulgrim?
+I have another question.
+Farewell.
+I...need some time.
+You're just going to end up killed.
+Good, you're back.{^n}{^n}Do you have a moment?
 Sure, what is it?
 While I look into Ulgrim's situation, something has come up that you may want to hear.{^n}{^n}The settlement you came from, Devil's Crossing, has requested assistance with the Aetherials pouring out of Burrwitch. We can't just leave those people to die. Since you've dealt with Captain Bourbon before, I figured you could handle this one personally.{^n}{^n}Please go back to Devil's Crossing and help bring down this Aetherial threat by any means necessary.
 I'm on it.
 I can't right now.
-I'll return soon.
-Vezmi si volno a odpočiň si. Trochu oslavuj, pokud můžeš. Rozhodně si to zasloužíš.
-Farewell.
 You've returned. Is it finished then?
 The beast has been banished, but Ulgrim was pulled into the Void along with it.
 And so our great moment of triumph is soured with tragedy.{^n}{^n}The cult's defeat at the Necropolis marks humanity's first major victory in this conflict, proving that we are not going to simply lie down and let ourselves be wiped out by fiends and spirits. Word of this victory will spread and give people hope that someday this nightmare will truly be over.{^n}{^n}Yet we cannot forget those who sacrificed their lives to bring us here. Brave men and women of the Black Legion who took up arms in the defense of Erulan, a nation that scorned them as criminals, outcasts and even traitors. In death, they were none of those things. They died as heroes.{^n}{^n}But I refuse to count Ulgrim among the dead just yet. I owe him that much.{^n}{^n}I could use your help. Are you with me?
-What can we do?
+How can I help?
 What can we do?
 [[ms]Měl[fs]Měla] bych nějaké otázky.
 Ano?

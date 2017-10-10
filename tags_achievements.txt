@@ -29,7 +29,7 @@ ach005Desc=Zabij šest Mstitelů na elitní nebo Ultimátní obtížnosti.
 ach006Title=Očista světa
 ach006Desc=Zbav Cairn 25.000 příšer.
 
-ach007Title=Krvavé povstvání
+ach007Title=Krvavé povstání
 ach007Desc=Zbav Cairn 100.000 příšer.
 
 ach008Title=Oceán krve
@@ -179,7 +179,7 @@ ach055Desc=Posbírej 5 zápisků.
 ach056Title=Sběratel papírků
 ach056Desc=Posbírej 20 zápisků.
 
-ach057Title=Knihomol
+ach057Title=Knihovník
 ach057Desc=Posbírej 50 zápisků.
 
 ach058Title=Lány zoufalství
