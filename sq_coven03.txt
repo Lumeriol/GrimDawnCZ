@@ -1,13 +1,12 @@
-Coven of Ugdenbog
-Pruning the Weeds
-The Giant Plant
-Garradia has tasked you with entering the lair known as the Undergrowth, deep within Ugdenbog. Therein thrives the infestation known as Sylvarria, a twisted creature whose roots grow far and deep across Ugdenbog.{^n}{^n}Sylvarria has grown out of control and her black roots could threaten even the Coven. It is time that she be pruned.
-Slay Sylvarria
+Ugdenbogský sněm
+Protrhávání plevele
+Obří rostlina
+Garradia ti dala za úkol vstoupit do doupěte, které je známo jako Undergrowth, hluboko v Ugdenbogu. Zde najdeš zamoření nazývané Sylvarria, zkomolenou bytost, jejíž kořeny rostou daleko a hluboko pod Ugdenbog. {^n}{^n}Sylvarria vyrostla a vymyká se kontrole a její černé kořeny by mohly ohrozit dokonce i Coven. Je čas, abys [[ms]začal[fs]začala] plít.
+Zabij Sylvarrii
 
-Return to Garradia
-You have slain the creature known as Sylvarria.{^n}{^n}Return to Garradia at the Coven's Refuge in Ugdenbog to inform her of your success.
-Speak to Garradia at the Coven's Refuge
-
+Vrať se ke Garradii
+[[ms]Zabil[fs]Zabila] jsi nestvůru známou jako Sylvarria.{^n}{^n}Vrať se ke Garradii v Covenově útočišti a informuj ji o svém úspěchu.
+Vrať se ke Garradii v Covenově útočišti                             
 
 
 

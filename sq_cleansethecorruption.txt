@@ -1,13 +1,13 @@
 Ugdenbog
-Cleanse the Corruption
-Slay Boss
-Mogdrogen's Avatar has shown himself before you in Ugdenbog. As the god of beasts is occupied elsewhere, he has asked you to assist him in cleansing the Ancient Grove of Ugdenbog of the vile corruption growing within it.{^n}{^n}Only when the Heart of the Forest has been purged will the grove be allowed to cleanse itself of the Aetherial and Ch'thonic taint.{^n}{^n}This task will require a Skeleton Key.
+Znič Korupci
+Zabij vůdce
+Mogdrogenův avatar se před tebou zjevil v Ugdenbogu. Protože bůh bestií momentálně není přítomen, poprosil tě, abys mu [[ms]pomohl[fs]pomohla] s očištěním Ugdenbogského Starého háje, kde uvnitř bují odporná hniloba.{^n}{^n} Pouze pokud bude srdce pralesa očištěno, pak se bude moci očistit i samotný háj od Aetherianského a Chtonického zamoření.{^n}{^n}Tato úloha bude vyžadovat Univerzální klíč.
 
-Cleanse the Ancient Grove
+Vyčisti Starý háj
 
-Return to Mogdrogen
-You have cleansed the corruption within the heart of the Ancient Grove.{^n}{^n}Return to Mogdrogen in Ugdenbog and report on your success.
-Speak to Mogdrogen in Ugdenbog
+Vrať se k Mogdrogenovi
+[[ms]Očistil[fs]Očistila] jsi zkaženost uvnitř srdce Starého háje.{^n}{^n}Vrať se k Mogdrogenovi a oznam mu, že jsi [[ms]uspěl[fs]uspěla].
+Promluv si v Ugdenbogu s Mogdrogenem
 
 
 

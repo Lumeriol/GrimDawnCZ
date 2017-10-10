@@ -1,146 +1,146 @@
 # Achievement Groups
 
-achGDX1Group1=Ashes of Malmouth
+achGDX1Group1=Malmouth - Prach a popel
 
 # Achievements
 
-achGDX1001Title=The Fight Continues
-achGDX1001Desc=Clear the Aetherial Barrier north of Burrwitch.
+achGDX1001Title=Boj pokračuje
+achGDX1001Desc=Odstraň zátaras Aetherianů nacházející se na severu od Burrwitche.
 
-achGDX1002Title=Embrace New Friendships
-achGDX1002Desc=Choose to remain friendly with the people of Barrowholm.
+achGDX1002Title=Využij nové spojence
+achGDX1002Desc=Zůstaň v přátelském vztahu s obyvateli Barrowholmu.
 
-achGDX1003Title=Embrace New Foes
-achGDX1003Desc=Choose to be hostile with the people of Barrowholm.
+achGDX1003Title=Čel novým nepřátelům
+achGDX1003Desc=Vyhraň se vůči obyvatelům Barrowholmu.
 
-achGDX1004Title=Into the Void
-achGDX1004Desc=Activate the Altar of Rattosh.
+achGDX1004Title=Do Prázdnoty
+achGDX1004Desc=Aktivuj Rattoshův oltář.
 
-achGDX1005Title=It's Me, Your Friend
-achGDX1005Desc=Convince Ulgrim that you are a friend.
+achGDX1005Title=To jsem já, tvůj známý.
+achGDX1005Desc=Přesvědči Ulgrima, že jsi jeho [[ms]přítel[fs]přítelkyně].
 
-achGDX1006Title=Friendly Brawl
-achGDX1006Desc=Beat some sense into Ulgrim.
+achGDX1006Title=Přátelská rvačka
+achGDX1006Desc=Propleskni Ulgrima a přiveď ho k sobě.
 
-achGDX1007Title=For Malmouth
-achGDX1007Desc=Retake the Malmouth Resistance Base in the Steelcap District.
+achGDX1007Title=Za Malmouth
+achGDX1007Desc=Převezmi Resistance Base v Malmouthu ve čtvrti Steelcap.
 
-achGDX1008Title=Centennial Legend
-achGDX1008Desc=Reach level 100.
+achGDX1008Title=Legenda 100. úrovně
+achGDX1008Desc=Dosáhni úrovně 100.
 
-achGDX1009Title=Monomythic Centennial
-achGDX1009Desc=Reach level 100 in Hardcore Mode.
+achGDX1009Title=Monomýtická legenda 100. úrovně
+achGDX1009Desc=Dosáhni 100. úrovně v módu "Zkouška ohněm".
 
-achGDX1010Title=A Stab in the Dark
-achGDX1010Desc=Slay Ekket'Zul, Progenitor of Darkness at the Void's Edge.
+achGDX1010Title=Bodnutí ve tmě
+achGDX1010Desc=Zabij Ekket'Zul, Progenitor of Darkness ve Void's Edge.
 
-achGDX1011Title=An End to the Darkness
-achGDX1011Desc=Slay Ekket'Zul, Progenitor of Darkness at the Void's Edge on Ultimate Difficulty.
+achGDX1011Title=Konec temnotě
+achGDX1011Desc=Zabij Ekket'Zul, Progenitor of Darkness ve the Void's Edge na Ultimátní obtížnost.
 
-achGDX1012Title=Knock Knock
-achGDX1012Desc=Slay Bollag, Keeper of the Gates at the Malmouth Bridge.
+achGDX1012Title=Ťuk Ťuk
+achGDX1012Desc=Zabij Bollag, Keeper of the Gates v Malmouth Bridge.
 
-achGDX1013Title=Gate Crasher
-achGDX1013Desc=Slay Bollag, Keeper of the Gates at the Malmouth Bridge on Ultimate Difficulty.
+achGDX1013Title=[[ms]Ničitel[fs]Ničitelka] bran
+achGDX1013Desc=Zabij Bollag, Keeper of the Gates v Malmouth Bridge na Ultimátní obtížnost.
 
-achGDX1014Title=So Others May Grow
-achGDX1014Desc=Slay Sylvarria in the Undergrowth.
+achGDX1014Title=Aby ostatní mohli růst
+achGDX1014Desc=Zabij Sylvarrii v Undergrowth.
 
-achGDX1015Title=Weed Killer
-achGDX1015Desc=Slay Sylvarria in the Undergrowth on Ultimate Difficulty.
+achGDX1015Title=[[ms]Zahradník[fs]Zahradnice]
+achGDX1015Desc=Zabij Sylvarrii v Undergrowth na Ultimátní obtížnost.
 
-achGDX1016Title=It's You Again!
-achGDX1016Desc=Slay Fleshshaper Krieg in the Fleshworks.
+achGDX1016Title=To jsi zase ty!
+achGDX1016Desc=Zabij Fleshshaper Kriega ve Fleshworks.
 
-achGDX1017Title=Remember Me?
-achGDX1017Desc=Slay Fleshshaper Krieg in the Fleshworks on Ultimate Difficulty.
+achGDX1017Title=Vzpomínáš si?
+achGDX1017Desc=Zabij Fleshshaper Kriega ve Fleshworks na Ultimátní obtížnost.
 
-achGDX1018Title=No Strings on Me
-achGDX1018Desc=Settle the score with the Aetherial that possessed you.
+achGDX1018Title=Netahej za nitky
+achGDX1018Desc=Urovnej si dluhy s Aetherianem, který tě ovládl.
 
-achGDX1019Title=I'm My Own Master
-achGDX1019Desc=Settle the score with the Aetherial that possessed you on Ultimate Difficulty.
+achGDX1019Title=Jsem pánem [[ms]sám[fs]sama] sobě.
+achGDX1019Desc=Urovnej si dluhy s Aetherianem, který tě ovládl na Ultimátní obtížnost.
 
-achGDX1020Title=Crush the Mountain
-achGDX1020Desc=Slay Galakros, the Mountain in the Malmouth Sewers.
+achGDX1020Title=Rozdrť Horu
+achGDX1020Desc=Zabij Galakrose, Horu v Malmouth Sewers.
 
-achGDX1021Title=Mountain Slayer
-achGDX1021Desc=Slay Galakros, the Mountain in the Malmouth Sewers on Ultimate Difficulty.
+achGDX1021Title=Zabiják Hor
+achGDX1021Desc=Zabij Galakrose, Horu v Malmouth Sewers na Ultimátní obtížnost.
 
-achGDX1022Title=The Scourge of Malmouth
-achGDX1022Desc=Slay Theodin Marcell, the Shaper of Flesh in the Sanctum of Flesh.
+achGDX1022Title=Metla z Malmouthu
+achGDX1022Desc=Zabij Theodina Marcella, Shaper of Flesh ve Sanctum of Flesh.
 
-achGDX1023Title=Revenge for the Fallen
-achGDX1023Desc=Slay Theodin Marcell, the Shaper of Flesh in the Sanctum of Flesh on Ultimate Difficulty.
+achGDX1023Title=Pomsta padlých
+achGDX1023Desc=Zabij Theodina Marcella, Shaper of Flesh ve Sanctum of Flesh na Ultimátní obtížnost.
 
-achGDX1024Title=Ravaged
-achGDX1024Desc=Defeat one of the manifestations of Ravager, the Wendigo Spirit.
+achGDX1024Title=Zpustošený
+achGDX1024Desc=Znič jedno ze zosobnění Ravagera, Wendigo Spirit.
 
-achGDX1025Title=The Jewel in the Mud
-achGDX1025Desc=Reach Revered reputation with Barrowholm.
+achGDX1025Title=Klenot v bahně
+achGDX1025Desc=Dosáhni reputace Revered s Barrowholmem.
 
-achGDX1026Title=Ugdenbog Rituals
-achGDX1026Desc=Reach Revered reputation with the Coven of Ugdenbog.
+achGDX1026Title=Ugdenbogské rituály
+achGDX1026Desc=Dosáhni reputace Revered s Ugdenbogským sněmem.
 
-achGDX1027Title=Hero of the People
-achGDX1027Desc=Reach Revered reputation with the Malmouth Resistance.
+achGDX1027Title=[[ms]Hrdina[fs]Hrdinka] lidí
+achGDX1027Desc=Dosáhni reputace Revered s Malmouth Resistance.
 
 achGDX1028Title=Revered Champion
-achGDX1028Desc=Become Revered with 9 Factions.
+achGDX1028Desc=Buď Revered s devíti frakcemi.
 
-achGDX1029Title=Defender of Malmouth
-achGDX1029Desc=Complete the Ashes of Malmouth.
+achGDX1029Title=[[ms]Ochránce[fs]Ochránkyně] Malmouthu
+achGDX1029Desc=Dokonči Malmouth - Prach a popel.
 
-achGDX1030Title=Champion of Malmouth
-achGDX1030Desc=Complete the Ashes of Malmouth on Elite Difficulty.
+achGDX1030Title=[[ms]Šampión[fs]Šampiónka] z Malmouthu
+achGDX1030Desc=Dokonči Malmouth - Prach a popel na Elitní obtížnost.
 
-achGDX1031Title=Savior of Malmouth
-achGDX1031Desc=Complete the Ashes of Malmouth on Ultimate Difficulty.
+achGDX1031Title=[[ms]Spasitel[fs]Spasitelka] Malmouthu
+achGDX1031Desc=Dokonči Malmouth - Prach a popel na Ultimátní obtížnost.
 
-achGDX1032Title=Unequaled Slayer
-achGDX1032Desc=Eradicate 2000 Heroic Monsters (marked by a Star).
+achGDX1032Title=Řezník, co nemá konkurenci
+achGDX1032Desc=Vymaž z Cairnu 2000 heroických monster (jsou označené hvězdičkou).
 
-achGDX1033Title=Mass Extermination
-achGDX1033Desc=Rid Cairn of 750000 Monsters.
+achGDX1033Title=Vyhlazení
+achGDX1033Desc=Zbav Cairn 750 000 monster.
 
-achGDX1034Title=A Mad Stash
-achGDX1034Desc=Raid Ivonda's Hidden Stash.
+achGDX1034Title=Truhla šílenství
+achGDX1034Desc=Vyrabuj Ivondinu skrytou truhlici.
 
-achGDX1035Title=Nemesis More Like MEHmesis
-achGDX1035Desc=Slay Ten Nemesis monsters on Elite or Ultimate Difficulty.
+achGDX1035Title=Nemesis spíš jako PCHEmesis
+achGDX1035Desc=Zabij 10 Nemesis monster na Elitní nebo Ultimátní obtížnost.
 
-achGDX1036Title=Pet Hoarder
-achGDX1036Desc=Summon 18 pets at the same time.
+achGDX1036Title=Farmář
+achGDX1036Desc=Měj vykouzlených alespoň 18 mazlíčků v jeden okamžik.
 
-achGDX1037Title=Ashen Devotion
-achGDX1037Desc=Restore 55 Devotion Shrines.
+achGDX1037Title=Ashenská oddanost
+achGDX1037Desc=Obnov 55 svatyň Oddanosti.
 
-achGDX1038Title=Exceptional Explorer
-achGDX1038Desc=Open 25 One-Shot Chests.
+achGDX1038Title=[[ms]Výjimečný průzkumník[fs]Výjimečná průzkumnice]
+achGDX1038Desc=Otevři 25 velkých truhlic
 
-achGDX1039Title=Loremaster
-achGDX1039Desc=Collect 70 Lore Notes.
+achGDX1039Title=[[ms]Vypravěč[fs]Vypravěčka]
+achGDX1039Desc=Posbírej 70 poznámek.
 
-achGDX1040Title=Immortal Savior of Malmouth
-achGDX1040Desc=Complete the Ashes of Malmouth on Ultimate Difficulty, Hardcore Mode.
+achGDX1040Title=[[ms]Nesmrtelný spasitel[fs]Nesmrtelná spasitelka] Malmouthu
+achGDX1040Desc=Dokonči Malmouth - Prach a popel na Ultimátní obtížnost v módu "Zkouška ohněm".
 
-achGDX1041Title=The Blood Trials
-achGDX1041Desc=Survive the Blood Trials in the Ancient Grove.
+achGDX1041Title=Krvavý proces
+achGDX1041Desc=Přežij Blood Trials v Ancient Grove.
 
-achGDX1042Title=The Wild Tamed
-achGDX1042Desc=Slay Gargabol, Heart of the Wild in the Ancient Grove.
+achGDX1042Title=Zkrocená divočina
+achGDX1042Desc=Zabij Gargabola, Srdce divočiny v Ancient Grove.
 
-achGDX1043Title=Taming the Untamed
-achGDX1043Desc=Slay Gargabol, Heart of the Wild in the Ancient Grove on Ultimate Difficulty.
+achGDX1043Title=Zkrocení nezkrotitelného
+achGDX1043Desc=Zabij Gargabola, Srdce divočiny v Ancient Grove na Ultimátní obtížnost.
 
-achGDX1044Title=Immortal Wild Tamer
-achGDX1044Desc=Slay Gargabol, Heart of the Wild in the Ancient Grove on Hardcore Mode.
+achGDX1044Title=[[ms]Nesmrtelný krotitel[fs]Nesmrtelná krotitelka] divočiny
+achGDX1044Desc=Zabij Gargabola, Srdce divočiny v Ancient Grove v módu "Zkouška ohněm".
 
-achGDX1045Title=The Ancient of Ugdenbog
-achGDX1045Desc=Slay Kra'vall, Ancient of the Waters.
+achGDX1045Title=Stařešina z Ugdenbogu
+achGDX1045Desc=Zabij Kra'valla, Ancient of the Waters.
 
-achGDX1046Title=Slayer of Myths
-achGDX1046Desc=Slay Kra'vall, Ancient of the Waters on Ultimate Difficulty.
+achGDX1046Title=Zabiják mýtů
+achGDX1046Desc=Zabij Kra'valla, Ancient of the Waters na Ultimátní obtížnost.
 
 achGDX1047Title=
 achGDX1047Desc=

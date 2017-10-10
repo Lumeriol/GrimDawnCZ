@@ -1,28 +1,28 @@
-The Liberation of Malmouth
-The Living Factory
-Sabotage
-The Aetherial Fleshworks infest vast portions of the city of Malmouth, a terrifying sight considering all this was grown from living human flesh. The entrance is nearly impenetrable, but Ulgrim believes if you sabotage the vents spewing out vast amounts of heat and steam across Crown Hill, the Fleshworks will be forced to open or else risk critical failure. Once you have destroyed the vents, head for the entrance to the Aetherial stronghold on the northern end of Crown Hill.
+Osvobození Malmouthu
+Oživlá továrna
+Sabotáž
+The Aetherial Fleshworks infikovali větší část města Malmouth, hrůzostrašný to pohled, protože tohle všechno zde vzniklo z živé lidské tkáně. Vstup je téměř neproniknutelný, ale Ulgrim věří, že pokud dokážeš sabotovat ventilační systém, skrze který je vypouštěno velké množství tepla a páry v okolí Crown Hill, Fleshworks se budou muset otevřít, aby bylo zabráněno kritickému selhání. Jakmile zničíš ventilační šachty, najdi vchod do Aetherianské pevnosti v severní části Crown Hill.
 
-Destroy the Northern Exhaust Vent
-Destroy the Eastern Exhaust Vent
-Destroy the Southern Exhaust Vent
-
-
-Slay the Shaper of Flesh
-The Fleshworks will not be without defenses and it is unlikely that you'll be able to simply walk into the Sanctum of Flesh and dispatch the monster in charge of all these atrocities. You must figure out a way to unlock the inner factory.{^n}{^n}Once the Sanctum of Flesh is open to you, you must deal with whoever, or whatever, is in charge and rid Malmouth of the Aetherials once and for all.
+Znič ventilační otvor na severu
+Znič ventilační otvor na východě
+Znič ventilační otvor na jihu
 
 
-
-
-Slay the Guardians of the Sanctum of Flesh
-Slay the Shaper of Flesh
-
-Report to Creed
-You've done the impossible by slaying the mastermind of the Malmouth invasion. Report back to Inquisitor Creed at the Resistance Hideout of your success.
+Zabij Shaper of Flesh
+The Fleshworks nebudou bez obrany a je dost nepravděpodobné, že si do Svatyně masa jen tak nakráčíš a odstraníš monstrum stojící za tou vší hrůzou. Musíš najít způsob jak odemknout cestu do vnitřní části továrny.{^n}{^n}Jakmile se ti Svatyně masa otevře, musíš se vypořádat s kýmkoliv, popřípadě čímkoliv, co je ve vedení a zbavit se tak Aetherianů v Malmouthu jednou provždy.
 
 
 
-Speak with Inquisitor Creed at the Resistance Hideout
+
+Zabij Strážné ve Svatyni masa
+Zabij Shaper of Flesh
+
+Ohlaš se Creedovi
+[[ms]Dokázal[fs]Dokázala] jsi nemožné tím, že jsi [[ms]zabil[fs]zabila] hlavu Malmouthské invaze. Ohlaš se zpět Inkvizitoru Creedovi ve Skrýši obránců a pověz mu o svém úspšchu.
+
+
+
+Promluv si s Inkvizitorem Creedem ve Skrýši obránců
 
 
 
