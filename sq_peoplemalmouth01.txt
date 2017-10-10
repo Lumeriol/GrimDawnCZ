@@ -1,14 +1,14 @@
 Malmouth
-Bring Out Your Dead
-Destroy Corpse Wagons
-Captain Wilfor has informed you of a despicable act the Aetherials are performing across Malmouth. The bodies of the dead are rounded up and transported to Crown Hill via wagons loaded up in the Candle District. It's become quite abundantly clear what the bodies are used for, so any chance to sabotage that supply chain is in everybody's benefit.
-Destroy the northern Wagon
-Destroy the southern Wagon
-Destroy the eastern Wagon
+Vyveď své mrtvé
+Znič vagóny s mrtvolami
+Kapitán Wilfor tě informoval o podlém aktu, který Aetheriané provádí po celém Malmouthu. Děla mrtvých jsou nakládána a převážena do Crown Hill pomocí vagónů naložených v Candle District. Je zcela jasné, k čemu tato těla slouží, takže jakákoliv šance sabotovat zásobování je v zájmu všech.
+Znič vagón na severu
+Znič vagón na jihu
+Znič vagón na východě
 
-Return to Captain
-You have sabotaged the corpse wagons and should report back to Captain Wilfor at the Resistance Hideout
-Speak to Captain Wilfor in the Resistance Hideout
+Vrať se ke kapitánovi
+[[ms]Sabotoval[fs]Sabotovala] jsi vagóny s mrtvolami a [[ms]měl[fs]měla] by ses ohlásit zpět kapitánovi Wilforovi v Resistance Hideout
+Promluv si s kapitánem Wilforem v Resistance Hideout
 
 
 

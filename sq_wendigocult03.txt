@@ -1,12 +1,12 @@
 Barrowholm
-Mine Pests
-Clear out mine
-In case of emergencies, Barrowholm would stock up on critical supplies by storing them within the nearby Barrowholm Mine to the east. That mine has now become infested with pests eager to claim the food stocks for themselves.{^n}{^n}Barrowholm will not last long without those supplies. Enter the mine and clear out any Ugdenbog Pitcreepers skulking around in there.
-Clear out Ugdenbog Pitcreepers in the Barrowholm Mine
+Důlní škůdci
+Vyčisti důl
+V případě nouze by Barronwholm shromáždil všechny nezbytné suroviny v nedalekém Barrowholmském dolu na východě. Důl je ale nyní zamořený škůdci, kteří jen dychtí pro to si zásoby nechat pro sebe. {^n}{^n}Barrowholm bez těchto zásob dlouho nevydrží. Vstup do dolu a vyčisti všechny Ugdenbog Pitcreepers, kteří se tam vyskytují.
+Vyčisti všechny Ugdenbog Pitcreepers v Barrowholmském dolu
 
-Return to Tyvald
-You have cleared out the infestation within the mine and should report back to Tyvald in Barrowholm.
-Speak to Tyvald Hallows at Barrowholm
+Vrať se k Tyvaldovi
+[[ms]Vyčistil[fs]Vyčistila] jsi zamoření uvnitř dolu a nyní by ses [[ms]měl[fs]měla vrátit za Tyvaldem do Barrowholm.
+Promluv si s Tyvald Hallows v Barrowholm
 
 
 

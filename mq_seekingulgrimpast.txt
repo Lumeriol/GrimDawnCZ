@@ -1,17 +1,17 @@
-The March to Malmouth
-A Witch's Bargain
-Find The Bog Village
-Garradia of the Coven of Ugdenbog has accepted your offering and agreed to help you in finding a way through the Aetherfire. In a way, finding Ulgrim may be just the key to reaching Malmouth...through the Chthonic void.{^n}{^n}But before she helps you, there is one more thing you must do for her: retrieve the Ugdenbog Fetish from the denizens of a nearby village called Barrowholm. Head out east from the Coven's Refuge and make your way through the bog, headed north, until you've see buildings.
-Find Barrowholm
+Pochod do Malmouthu
+Dohoda s čarodějkami
+Najdi vesnici v bažinách
+Garradia ze Sněmu čarodějnic přijala tvou nabídku a souhlasila s tím, že ti pomůže najít cestu skrze Aetherický oheň. Navíc, najít Ulgrima by také mohlo znamenat nalézt cestu do Malmouthu...skrze Chtonickou prázdnotu.{^n}{^n}Před tím, než ti vypomůže, musíš udělat ještě jednu věc: získej Ugdenbogskou fetiš od obyvatel blízké vesnice zvané Barrowholm. Vydej se na východ od Covenovo útociště a jdi dál skrze bažinu, dál na sever, dokud neuvidíš budovy.
+Najdi Barrowholm
 
-Speak to Scorv
-You have found the village that Garradia has instructed you to seek out.{^n}{^n}The man named Scorv Egdenor seems to be in charge. Speak to him in Barrowholm about the Ugdenbog Fetish.
-Speak to Scorv Egdenor in Barrowholm
+Promluv si se Scorvem
+[[ms]Našel[fs]Našla] jsi vesnici, o které ti Garradia řekla, abys ji [[ms]vyhledal[fs]vyhledala]. {^n}{^n}Muž jménem Scorv Egdenor je asi právě ten, co tomu velí. Promluv si s ním v Barrowholmu o Ugdenbogské fetiši.
+Promluv si s Scorv Egdenorem v Barrowholmu
 
-Return to Garradia
-You spoke with Scorv Egdenor in Barrowholm. Now you must acquire the Ugdenbog Fetish and return it to Garradia's at the Coven's Refuge.
-Acquire the Ugdenbog Fetish from Scorv Egdenor
-Bring the Ugdenbog Fetish to Garradia at the Coven's Refuge
+Vrať se ke garradii
+[[ms]Promluvil[fs]Promluvila] sis se Scorv Egdenorem v Barrowholmu. Nyní musíš získat Ugdenbogskou fetiš a vrátit ji Garradii v Covenově útocišti.
+Získej Ugdenbogskou fetiš od Scorv Egdenora
+Přines Ugdenbogskou fetiš Garradii v Covenově útocišti
 
 
 
