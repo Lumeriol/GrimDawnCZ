@@ -225,7 +225,7 @@ tagGDX1ShieldB103=Stonewall Defender
 
 tagGDX1ShieldC101=Dreadguard
 tagGDX1ShieldC102=Legionnaire's Rebuke
-tagGDX1ShieldC102_Desc="This shield history is almost as long as the Black Legion's own."
+tagGDX1ShieldC102_Desc="This shield's history is almost as long as the Black Legion's own."
 tagGDX1ShieldC107=Stormscourge Bulwark
 
 tagShieldD002B=Final Stop
@@ -261,7 +261,7 @@ tagGDX1FocusB102Desc="Filled with arcane knowledge known only to Terrnox."
 tagGDX1FocusB103=Bound Wraith
 tagGDX1FocusB104=Enslaved Wraith
 tagGDX1FocusB105=Fleshwarped Tome
-tagGDX1FocusB105Desc="The time writhes in your hands."
+tagGDX1FocusB105Desc="The tome writhes in your hands."
 tagGDX1FocusB106=Fleshwarped Codex
 tagGDX1FocusB107=Fleshwarped Archive
 tagGDX1FocusB108=Spellshock Tome
@@ -342,6 +342,8 @@ tagGDX1HeadC110=Silver Sentinel's Mask
 tagGDX1HeadC115=Stormherald's Visage
 tagGDX1HeadC122=Dreadwalker Cowl
 tagGDX1HeadC123=Luminari Hat
+tagGDX1HeadC124=Cauldron of Excitement
+tagGDX1HeadC124_Desc="Too much excitement, one could say."
 
 tagGDX1HeadD101=Necrolord's Gaze
 tagGDX1HeadD102=Venomancer's Guile
@@ -394,7 +396,7 @@ tagGDX1ShoulderB101=Ascendant Pauldrons
 tagGDX1ShoulderB102=Ascendant Shoulderguards
 tagGDX1ShoulderB103=Kra'vall Shoulderguards
 tagGDX1ShoulderB103_Desc="The tough skin of an Ugdenbog kraken may be difficult to work with, but it is prized among craftsmen for good reason."
-tagGDX1ShoulderB104=Kra'vall Shoulderguards
+tagGDX1ShoulderB104=Kra'vall Shoulderpads
 
 tagGDX1ShoulderC101=Wraithcaller's Mantle
 tagGDX1ShoulderC102=Wraith Knight's Pauldrons
@@ -550,6 +552,9 @@ tagGDX1LegsC103_Desc="Somehow the shadows themselves have been woven into the fa
 tagGDX1LegsC104=Runeward Legguards
 tagGDX1LegsC111=Spellstalker's Legwraps
 
+tagLegsD013B=Really Great Pants
+tagLegsD013BDesc="Turns out, still ok."
+
 tagGDX1LegsD101=Wendigomane Leggings
 tagGDX1LegsD101_Desc="The fur stinks of old blood, uncertain whether it is from the wendigo itself or from its past victims."
 tagGDX1LegsD102=Dread Knight's Legplates
@@ -695,7 +700,7 @@ tagGDX1NecklaceA103=Preserver Amulet
 tagGDX1NecklaceA104=Preserver Pendant
 
 tagGDX1NecklaceB100=Sahdina's Memento
-tagGDX1NecklaceB100_Desc="A simple pendant, warded against evil. An inscription on it reads: The Web we weave carries with it the portents of Evil."
+tagGDX1NecklaceB100_Desc="A simple pendant, warded against evil. An inscription on it reads: The Web we weave carries with it the portents of Evil imagery. - Jay Peggins"
 
 tagGDX1NecklaceC101=Whispers of the Dead
 tagGDX1NecklaceC102=Dismember Stone
@@ -711,14 +716,21 @@ tagGDX1NecklaceC116=Runefather's Gem
 
 tagNecklaceD005B=Peerless Eye of Beronath
 tagGDX1NecklaceD101=Soulcatcher
-tagGDX1NecklaceD101_Desc=The soul of every slain enemy is quickly captured within this necklace."
+tagGDX1NecklaceD101_Desc="The soul of every slain enemy is quickly captured within this necklace."
 tagGDX1NecklaceD102=Flames of Wrath
 tagGDX1NecklaceD103=Vigar's Hunger
 tagGDX1NecklaceD103_Desc="The phial is filled with blood from the wendigo Ravager itself."
 tagGDX1NecklaceD104=Tainted Ruby of Gar'dal
 tagGDX1NecklaceD105=Exeuctioner's Judgement
 tagGDX1NecklaceD106=Stormseer Sapphire
-tagGDX1NecklaceD113=Conduit of Eldritch Whispers
+tagGDX1NecklaceD113A=Conduit of Warring Whispers
+tagGDX1NecklaceD113B=Conduit of Destructive Whispers
+tagGDX1NecklaceD113C=Conduit of Eldritch Whispers
+tagGDX1NecklaceD113D=Conduit of Night Whispers
+tagGDX1NecklaceD113E=Conduit of Arcane Whispers
+tagGDX1NecklaceD113F=Conduit of Wild Whispers
+tagGDX1NecklaceD113G=Conduit of Runic Whispers
+tagGDX1NecklaceD113H=Conduit of Undying Whispers
 tagGDX1NecklaceD113_Desc="Peering into the eye reveals images of a vast and strange land, teeming with creatures and fiends unlike any native to Cairn."
 tagGDX1NecklaceD114=Shard of the Eternal Flame
 tagGDX1NecklaceD114_Desc="The flame given off by this crystal never fully goes out."
@@ -785,7 +797,7 @@ tagGDX1MedalD104_Desc="Commendation bestowed upon members of the Gildam Arcanum 
 tagGDX1MedalD105=Serenir's Commendation
 tagGDX1MedalD105_Desc="Commendation once given to High Inquisitor Serenir, who valiantly wielded the Horn of Gandarr to vanquish an occult coven singlehandedly."
 tagGDX1MedalD106=Mark of Kalastor
-tagGDX1MedalD113=Brazier of Ulzuin
+tagGDX1MedalD113=Mark of Ulzuin
 tagGDX1MedalD113_Desc="Used by the faithful of Ulzuin to sear their flesh and dedicate themselves to the wrathful god."
 tagGDX1MedalD114=Mark of Consumption
 
@@ -984,13 +996,13 @@ tagGDX1Blueprint_ArmorD136=Blueprint: Mythical Markovian's Visor
 tagGDX1Blueprint_ArmorD137=Blueprint: Mythical Ulzuin's Headguard
 tagGDX1Blueprint_ArmorD138=Blueprint: Mythical Hood of Dreeg
 tagGDX1Blueprint_ArmorD139=Blueprint: Mythical Deathmarked Hood
-tagGDX1Blueprint_ArmorD140=Blueprint: Mythical Iskandra's Circlet
-tagGDX1Blueprint_ArmorD141=Blueprint: Mythical Ulto's Hood
+tagGDX1Blueprint_ArmorD140=Blueprint: Mythical Iskandra's Hood
+tagGDX1Blueprint_ArmorD141=Blueprint: Mythical Ultos' Hood
 tagGDX1Blueprint_ArmorD142=Blueprint: Mythical Crown of the Winter King
 tagGDX1Blueprint_ArmorD143=Blueprint: Mythical Trozan's Hat
 tagGDX1Blueprint_ArmorD144=Blueprint: Mythical Valdun's Hat
-tagGDX1Blueprint_ArmorD145=Blueprint: Mythical Eldritch Gaze
-tagGDX1Blueprint_ArmorD146=Blueprint: Mythical Covenant of the Three
+tagGDX1Blueprint_ArmorD145=Blueprint: Eldritch Gaze
+tagGDX1Blueprint_ArmorD146=Blueprint: Covenant of the Three
 tagGDX1Blueprint_ArmorD147=Blueprint: Mythical Cowl of the Venomblade
 tagGDX1Blueprint_ArmorD148=Blueprint: Mythical Visage of the Black Flame
 tagGDX1Blueprint_ArmorD149=Blueprint: Mythical Light's Defender Helm
@@ -1057,7 +1069,14 @@ tagGDX1Blueprint_AccessoryD117=Blueprint: Mythical Glyph of Kalphat'Zoth
 tagGDX1Blueprint_AccessoryD118=Blueprint: Mythical Time-Flux Band
 tagGDX1Blueprint_AccessoryD119=Blueprint: Mythical Band of the Eternal Haunt
 tagGDX1Blueprint_AccessoryD120=Blueprint: Cataclysm's Pact
-tagGDX1Blueprint_AccessoryD121=Blueprint: Conduit of Eldritch Whispers
+tagGDX1Blueprint_AccessoryD121A=Blueprint: Conduit of Warring Whispers
+tagGDX1Blueprint_AccessoryD121B=Blueprint: Conduit of Destructive Whispers
+tagGDX1Blueprint_AccessoryD121C=Blueprint: Conduit of Eldritch Whispers
+tagGDX1Blueprint_AccessoryD121D=Blueprint: Conduit of Night Whispers
+tagGDX1Blueprint_AccessoryD121E=Blueprint: Conduit of Arcane Whispers
+tagGDX1Blueprint_AccessoryD121F=Blueprint: Conduit of Wild Whispers
+tagGDX1Blueprint_AccessoryD121G=Blueprint: Conduit of Runic Whispers
+tagGDX1Blueprint_AccessoryD121H=Blueprint: Conduit of Undying Whispers
 
 tagGDX1Blueprint_AccessoryF101=Blueprint: Aetherbolt Pendant
 tagGDX1Blueprint_AccessoryF102=Blueprint: Heart of Malmouth
@@ -1140,6 +1159,23 @@ tagGDX1ConsumableA101Desc="It hums with strange energy, as if something is tryin
 
 tagGDX1ConsumableA102=Kasparov's Crystal
 tagGDX1ConsumableA102Desc="It hums with strange energy, as if something is trying to escape..."
+
+tagGDX1ConsumableBlueprintB101=Recipe: Ugdenjuice
+tagGDX1ConsumableBlueprintB102=Recipe: Ugdensalve
+tagGDX1ConsumableBlueprintB103=Recipe: Vilescar Ointment
+tagGDX1ConsumableBlueprintB104=Recipe: Elixir of the Dranghoul
+tagGDX1ConsumableBlueprintB105=Recipe: Elixir of Mogdrogen
+
+tagGDX1ConsumableB101=Ugdenjuice
+tagGDX1ConsumableB101Desc="A sweet-smelling concoction made from Ugdenbloom extract."
+tagGDX1ConsumableB102=Ugdensalve
+tagGDX1ConsumableB102Desc="A soothing concoction made from concentrated Ugdenbloom."
+tagGDX1ConsumableB103=Vilescar Ointment
+tagGDX1ConsumableB103Desc="A viscous concoction that accelerates coagulation."
+tagGDX1ConsumableB104=Elixir of the Dranghoul
+tagGDX1ConsumableB104Desc="A powerful elixir derived from the stem of Ugdenbloom."
+tagGDX1ConsumableB105=Elixir of Mogdrogen
+tagGDX1ConsumableB105Desc="A powerful elixir concocted by Mogdrogen himself."
 
 tagGDX1ConsumableF101=Hex Oil
 tagGDX1ConsumableF101Desc="An oil infused with the foul curses of the Coven."
@@ -1494,13 +1530,13 @@ tagGDX1CompB106Desc="The arcane seal evokes memories of your ancestors, even one
 #ItemFactionBoosters
 tagGDX1BoosterCU_A01=Writ of the Coven of Ugdenbog
 tagGDX1BoosterCU_B01=Mandate of the Coven of Ugdenbog
-tagGDX1BoosterCW_A01=Writ of the Cult of the Wendigo
-tagGDX1BoosterCW_B01=Mandate of the Cult of the Wendigo
+tagGDX1BoosterCW_A01=Writ of Barrowholm
+tagGDX1BoosterCW_B01=Mandate of Barrowholm
 tagGDX1BoosterPM_A01=Writ of the People of Malmouth
 tagGDX1BoosterPM_B01=Mandate of the People of Malmouth
 
 tagGDX1BoosterAetherialVanguard_C01=Aetherial Vanguard Warrant
-tagGDX1BoosterWendigo_C01=Cult of the Wendigo Warrant
+tagGDX1BoosterWendigo_C01=Barrowholm Warrant
 tagGDX1BoosterBeast_C01=Beast "Warrant"
 tagGDX1BoosterBeastDesc=It's clearly "written" by a groble, but it looks angry and you're pretty sure the scribbled picture is of you.
 
@@ -1520,11 +1556,11 @@ tagAttributeResetConfirmation=Reset all your Attributes?
 tagGDX1ItemSetC018CName=Misery of Alkamos
 
 tagGDX1ItemSetC101Name=Corruptor of Spirits
-tagGDX1ItemSetC101NameB=Corruptor of Souls
+tagGDX1ItemSetC101BName=Corruptor of Souls
 tagGDX1ItemSetC101Desc="The spirits bend to your will."
 
 tagGDX1ItemSetC102Name=The Silver Guardian
-tagGDX1ItemSetC102NameB=The Silver Sentinel
+tagGDX1ItemSetC102BName=The Silver Sentinel
 tagGDX1ItemSetC102Desc="Warded against magic, the silver guardians of the imperial throne stood ever vigilant to occult threats."
 
 tagGDX1ItemSetC103Name=Blazeseer
@@ -1723,6 +1759,7 @@ tagGDX1ChestFleshC01=Fleshformed Chest
 tagGDX1ChestFleshD01=Fleshwarped Chest
 
 tagGDX1ChestSpecial01=Distinguished Chest
+tagGDX1ChestBucket01=Unfortunate Corpse
 
 tagGDX1ChestFleshshaper=The Master's Trove
 tagGDX1ChestNemesis03=Gladiator's Trove
@@ -1775,17 +1812,18 @@ tagGDX1UGDoorSlums=Candle District
 tagGDX1UGDoorIndust=Steelcap District
 tagGDX1UGDoorHideout=Resistance Refuge
 tagGDX1UGDoorFactoryGeneric=Fleshbound Door
-tagGDX1UGDoorFactoryHeart=The Heart
+tagGDX1UGDoorFactoryHeart=Srdce
 tagGDX1UGDoorSewerGeneric=Sewer Pipe
-tagGDX1RiftVoidExit=Void Exit
-tagGDX1WendioDoor=Cellar Entrance
+tagGDX1RiftVoidExit=Východ z Prázdnoty
+tagGDX1WendioDoor=Vstup do sklepa
 tagGDX1WitchDoor=Dwelling Entrance
 tagGDX1FleshFactoryDoor=Fleshy Entrance
 tagGDX1DoorMapleStump01=Hollowed Entrance
 tagGDX1DoorOvergrownCave=Overgrown Cave Entrance
 tagGDX1DoorLighthouse=Lighthouse Entrance
+tagGDX1CarraxusDoor=Carraxovo doupě
 
 #Doors
-tagGDX1Door_Vine=Vines
-tagGDX1Door_Flesh=Living Flesh Door
-tagGDX1Door_Puppetmaster=Living Flesh Door
+tagGDX1Door_Vine=Úponky
+tagGDX1Door_Flesh=Živé dveře z masa
+tagGDX1Door_Puppetmaster=Dveře ze zbytků těl

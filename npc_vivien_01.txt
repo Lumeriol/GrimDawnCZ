@@ -4,7 +4,9 @@ Don't worry, help is on the way.
 Please, we must get going. Rictor requires aid.
 Sure, lets get you two to safety. (Lie)
 But how will we get Rictor there? Can we carry him?{^n}{^n}I don't want to leave him out here all alone.
-
+I can send you both there via rift. (Lie)
+Truly, you can do that?{^n}{^n}You hear that, Rictor? We're going to make it out of this mess. You're going to be ok!
+I'll see you at the hideout. (Open Riftgate)
 I need a moment.
 Oh, thank the gods you found us.{^n}{^n}Please, you have to help us.{^n}{^n}I don't think we'll survive out here much longer. Rictor is hurt pretty bad. I'm not sure he can even stand.
 The resistance has a stronghold nearby.
