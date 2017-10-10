@@ -50,10 +50,10 @@ achGDX1015Title=Zabiják nedochůdčat
 achGDX1015Desc=Zlividuj Sylvarrii v Podrostu na ultimátní obtížnosti.
 
 achGDX1016Title=Zase TY?!
-achGDX1016Desc=Zlikviduj Masorvoucího Kriega ja Jatkách.
+achGDX1016Desc=Zlikviduj Masorvoucího Kriega na Jatkách.
 
 achGDX1017Title=Pamatuješ si mě?
-achGDX1017Desc=Zlikviduj Masorvoucího Kriega ja Jatkách na ultimátní obtížnosti.
+achGDX1017Desc=Zlikviduj Masorvoucího Kriega na Jatkách na ultimátní obtížnosti.
 
 achGDX1018Title=Mě nespoutáš
 achGDX1018Desc=Vyrovnej účty s Aetherianem, který tě posedl.
@@ -101,7 +101,7 @@ achGDX1032Title=Nepřekonatelný zabiják
 achGDX1032Desc=Zlikviduj 2.000 hrdinů (jsou označeni hvězdou).
 
 achGDX1033Title=Hromadná likvidace
-achGDX1033Desc=Zbav Cairn 755.000 příšer.
+achGDX1033Desc=Zbav Cairn 750.000 příšer.
 
 achGDX1034Title=Šílený vykradač
 achGDX1034Desc=Vyrabuj Ivondinu tajnou skrýš.
@@ -125,16 +125,16 @@ achGDX1040Title=Nesmrtelný zachránce Malmouthu
 achGDX1040Desc=Dokonči rozšíření Prach a popel Malmouthu na ultimátní obtížnosti ve Výzvě.
 
 achGDX1041Title=Krvavé zkoušky
-achGDX1041Desc=Přežij krvavé zkoušky ve Starověkém hrobě.
+achGDX1041Desc=Přežij krvavé zkoušky ve Starodávném háji.
 
 achGDX1042Title=Z divokých vajec
-achGDX1042Desc=Zlikviduj Gargabola, Srdce divočiny ve Starověkém hrobě.
+achGDX1042Desc=Zlikviduj Gargabola, Srdce divočiny ve Starodávném háji.
 
 achGDX1043Title=Zkrocení nezkrotitelného
-achGDX1043Desc=Zlikviduj Gargabola, Srdce divočiny ve Starověkém hrobě na ultimátní obtížnosti.
+achGDX1043Desc=Zlikviduj Gargabola, Srdce divočiny ve Starodávném háji na ultimátní obtížnosti.
 
 achGDX1044Title=Nesmrtelný divočák
-achGDX1044Desc=Zlikviduj Gargabola, Srdce divočiny ve Starověkém hrobě ve Výzvě.
+achGDX1044Desc=Zlikviduj Gargabola, Srdce divočiny ve Starodávném háji ve Výzvě.
 
 achGDX1045Title=Starožitost v Ugdenských močálech
 achGDX1045Desc=Zlikviduj Kra'valla, Starověkého vodnáře.
