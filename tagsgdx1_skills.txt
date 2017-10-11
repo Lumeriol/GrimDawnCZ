@@ -1,51 +1,47 @@
-tagSkillClassName07=Inquisitor
-tagSkillClassName08=Necromancer
+tagSkillClassName07=[[ms]Inkvizitor[fs]Inkvizitorka]
+tagSkillClassName08=Nekromancer
 
-tagSkillClassName0107=Tactician
-tagSkillClassName0108=Death Knight
-tagSkillClassName0207=Purifier
-tagSkillClassName0208=Defiler
-tagSkillClassName0307=Deceiver
-tagSkillClassName0308=Cabalist
-tagSkillClassName0407=Infiltrator
-tagSkillClassName0408=Reaper
-tagSkillClassName0507=Mage Hunter
-tagSkillClassName0508=Spellbinder
-tagSkillClassName0607=Vindicator
-tagSkillClassName0608=Ritualist
-tagSkillClassName0708=Apostate
-
-
-tagSkillClassDescription07=As members of the esteemed Luminari Order, Inquisitors were responsible for protecting the Erulan Empire from the dangers of the arcane and the occult. Over the centuries, the Inquisitors gathered countless relics of unimaginable power, but duty sometimes overcomes safety, and some of these relics were studied and in turn replicated for use by the inquisition. While they excel with ranged weapons, Inquisitors are armed with an arsenal of relics and arcane runes that allow them to be more than capable in close-quarters combat.
-
-tagSkillClassDescription08=Though most modern Necromancers hail from the Order of Death's Vigil and the training of the mysterious Uroboruuk, not all choose the secluded life. While their profession naturally inspires fear and revulsion, the Necromancers of Cairn seek balance through research and mastery over the ultimate fate that awaits all mortals: death. Necromancers make heavy use of conjuring forth skeletal minions and sapping the very vitality from their unwary foes, though entering the fray themselves with martial weapons is not unheard of.
+tagSkillClassName0107=[[ms]Taktik[fs]Taktička]
+tagSkillClassName0108=[[ms]Rytíř smrti[fs]Rytířka smrti]
+tagSkillClassName0207=[[ms]Očišťovatel[fs]Očišťovatelka]
+tagSkillClassName0208=[[ms]Poskvrnitel[fs]Poskvrnitelka]
+tagSkillClassName0307=[[ms]Podvodník[fs]Podvodnice]
+tagSkillClassName0308=[[ms]Student podivna[fs]Studentka podivna]
+tagSkillClassName0407=[[ms]Infiltrátor[fs]Infiltrátorka]
+tagSkillClassName0408=[[ms]Rozparovač[fs]Rozparovačka]
+tagSkillClassName0507=[[ms]Lovec čarodějek[fs]Lovkyně čarodějů]
+tagSkillClassName0508=[[ms]Vazač kouzel[fs]Vazačka kouzel]
+tagSkillClassName0607=[[ms]Vindikátor[fs]Vindikátorka]
+tagSkillClassName0608=[[ms]Ritualista[fs]Ritualistka]
+tagSkillClassName0708=Odpadlík
 
 
-#Class02
+tagSkillClassDescription07=Jakožto [[ms]členi[fs]členky] váženého spolku Luminářů [[ms]byli inkvizitoři zodpovědní[fs]byly inkvizitorky zodpovědné] za ochranu Erulanské říše před nebezpečími podivna a okultismu. Za ta staletí ikvizitoři a inkvizitorky posbírali nepřeberné množství relikvií nepředstavitelné síly, ale povinnost má leckdy přednost před bezpečností a tak některé z těchto relikvií byly studovány a kopírovány, aby je mohla používat inkvizice. Byť excelují se střelnými zbraněmi, jsou dále [[ms]inkvizitoři vybavení[fs]inkvizitorky vybavené] podivnými runami, které jim umožňují být dost nebezpečnými i v boji na blízko.
 
-tagGDX1Class02SkillTracker02A=Current Number of Mortars Placed
+tagSkillClassDescription08=Ikdyž mnoho nekromancerů moderní doby pochází z řádu Strážců smrti studující o záhadném Uroboruukovi, ne všichni si zvolili život v odloučení. Ikdyž jejich profese sama o sobě vyvolává strach a odpor, nekromanceři z Cairnu hledají rovnováhu studováním jakéhokoliv umění spojeného s tím, co jedou postihne každého živého: se smrtí. Nekromanceři hojně využívají vyvolané kostlivce a vysávají samotný život z jejich neopatrných nepřátel, nicméně není zaznamenáno, že by se nevyzbrojovali vojenským arzenálem.
+
 
 #Class07
 
-tagGDX1Class07SkillName00A=Inquisitor
-tagGDX1Class07SkillDescription00A=Rigorous training in combat against the arcane and the occult.
+tagGDX1Class07SkillName00A=Inkvizitor
+tagGDX1Class07SkillDescription00A=Pečlivý trénink v boji proti podivnu a okultismu.
 
-tagGDX1Class07SkillName01A=Word of Pain
-tagGDX1Class07SkillDescription01A=With arcane runes carefully woven into their gear, even the voices of inquisitors are sufficient to inflict immense suffering upon the enemies of humanity. With a single word, your foes writhe in pain as arcane energies assault their very being.
-tagGDX1Class07SkillName01B=Word of Agony
-tagGDX1Class07SkillDescription01B=The Word of Pain becomes empowered with its full elemental potential, expanding the area of influence and inflicting agonizing harm that blurs vision.
-tagGDX1Class07SkillName01C=Death Sentence
-tagGDX1Class07SkillDescription01C=With a single word, elemental energies rupture within your foes, sealing their fate.
+tagGDX1Class07SkillName01A=Slovo bolesti
+tagGDX1Class07SkillDescription01A=Záhadnými runami zašitými ve své výbavě se dokonce i hlas inkvizitora stává dostatečným pro to, aby nepřátelé lidstva trpěli. Jediným slovem se tví přátelé budou svíjet v bolestech a podivné energie napadnou jejich samotnou podstatu.
+tagGDX1Class07SkillName01B=Slovo agónie
+tagGDX1Class07SkillDescription01B=Slovo bolesti je posíleno plným potenciálem elementů, což rozšiřuje plochu působnosti a uštědřuje nesnesitelnou bolest, co rozostřuje vidění.
+tagGDX1Class07SkillName01C=Věta smrti
+tagGDX1Class07SkillDescription01C=Jediným vyslovením trhají elementální energie vnitřnosti tvých nepřátel, čímž zpečetíš jejich osud.
 
-tagGDX1Class07SkillName02A=Storm Box of Elgoloth
-tagGDX1Class07SkillDescription02A=Open the runed Storm Box of Elgoloth, surrounding the target foe with a psychic energy that electrifies the very air around them, shocking the target and all unfortunate enough to stand too close.
-tagGDX1Class07SkillName02B=Lightning Tether
-tagGDX1Class07SkillDescription02B=The target becomes tethered to you through an electrified connection that shocks all enemies unfortunate enough to pass through it. The power within the tether is limited however and will snap should the distance between you and the target become too great. ^oUp to 3 enemies can remain tethered at any given time.
-tagGDX1Class07SkillName02C=Allagast's Arcane Net
-tagGDX1Class07SkillDescription02C=Although the Luminari were known to police the activities of the Gildam Arcanum, sanctioned collaboration was not unheard of between the two orders. With carefully calculated adjustments to the Storm Box, the field becomes infused with arcane energies that swell with the Aether. ^oThe tether remains electrified.
+tagGDX1Class07SkillName02A=Elgolothova Krabička s bouří
+tagGDX1Class07SkillDescription02A=Otevři kameny osazenou Krabičku s bouří - bouře obklopí tvého nepřítele a elektrifikuje vzduch kolem, čímž elektřinou zasahuje cíl a všechny nešťastníky, kteří stojí příliš blízko.
+tagGDX1Class07SkillName02B=Opratě z blesků
+tagGDX1Class07SkillDescription02B=Cíl je k tobě přichycen pomocí blesků, které zasáhnou všechny nepřátele, které přes ně projdou. Síla uvnitř propojení je ale omezena a přeruší se, pokud je vzdálenost mezi tebou a cílem přiliš velká.^oAž tři nepřátelé mohou být zachyceni ve stejnou dobu.
+tagGDX1Class07SkillName02C=Allagastova Síť z podivna
+tagGDX1Class07SkillDescription02C=Ikdyž je známo, že Lumináři vyšetřovali aktivity spolku Gildam Arcanum, je také známo, že za spolupráci techto dvou řádů byly uděleny jisté sankce. S dobře propočítanými úpravami Krabičky s bouří je oblast obohacena o podivnou energii, v níž jiskří Aether. ^oOprať zůstává zelektrizovaná.
 
-tagGDX1Class07SkillName03A=Word of Renewal
-tagGDX1Class07SkillDescription03A=With the power to destroy their foes or revitalize allies with a single phrase, Words of Power quickly became a staple of the Inquisitor arsenal. The Word of Renewal established Inquisitors as priceless assets during wartime due to its ability to invigorate the Inquisitor and their allies and steel them against occult foes.
+tagGDX1Class07SkillName03A=Obnovující slovo
+tagGDX1Class07SkillDescription03A=Se silou ničit své nepřátele a léčit své spojence, a ani k tomu nepoužít více než jednu frázi se Slovo Moci rychle stalo součástí základního arzenálu inkvizitorů. Obnovující slovo se stalo nenahraditelnou součástí v době válečného konfliktu. Toto slovo je inkvizitory a jejich spojence a zocelilo je pro boj proti nepřátelům vyznávajících okultismus.
 tagGDX1Class07SkillName03B=Vigor
 tagGDX1Class07SkillDescription03B=A skilled Inquisitor lets nothing stand in the way of their doomed prey.
 tagGDX1Class07SkillName03C=Steel Resolve
@@ -213,7 +209,6 @@ tagGDX1Class08SkillDescription15A=Upon their master's command, your minions can 
 
 #ItemSkills
 
-tagGDX1RelicSkillTracker01A=Current Number of Swarmlins Summoned
 
 tagGDX1ItemSkillB101Name=Blastwave
 tagGDX1ItemSkillB101Desc=A wave of fire erupts from your attack.
@@ -225,7 +220,7 @@ tagGDX1ItemSkillC101Desc=Rend the souls of your foes in a deathly cascade.
 tagGDX1ItemSkillC102Name=Legionnaire's Firearms
 tagGDX1ItemSkillC102Desc=With sufficient training, firearms helped close the gap between soldiers and magic users. ^oThis is a ranged one-handed weapon passive bonus.
 
-tagGDX1ItemSkillC103Name=Vaultkeeper's Aim
+tagGDX1ItemSkillC103Name=Vaulkeeper's Aim
 tagGDX1ItemSkillC103Desc=Defense of the Vault of the Luminari requires the best training. ^oThis is a ranged one-handed and two-handed weapon passive bonus.
 
 tagGDX1ItemSkillC104Name=Drain Soul
@@ -249,8 +244,8 @@ tagGDX1ItemSkillC109Desc=The very presence of a trained Luminari Inquisitor is e
 tagGDX1ItemSkillC110Name=Poison Bolt Burst
 tagGDX1ItemSkillC110Desc=A burst of poisonous orbs erupts from you.
 
-tagGDX1ItemSkillC111Name=Noxious Fumes
-tagGDX1ItemSkillC111Desc=Unleash your excitement.
+tagGDX1ItemSkillC111Name=
+tagGDX1ItemSkillC111Desc=
 
 tagGDX1ItemSkillC112Name=
 tagGDX1ItemSkillC112Desc=
@@ -277,7 +272,7 @@ tagGDX1ItemSkillD105Desc=Morguul's toxin accelerates the victim towards their in
 tagGDX1ItemSkillD106Name=Venomlance
 tagGDX1ItemSkillD106Desc=Unleashes a lance of venom that penetrates any foe.
 
-tagGDX1ItemSkillD107Name=Malmouth Ingenuity
+tagGDX1ItemSkillD107Name=Malmouth Ingenuinty
 tagGDX1ItemSkillD107Desc=A peerless defense and offense in one. ^oThis is a ranged weapon passive bonus.
 
 tagGDX1ItemSkillD108Name=Grey Barrier
@@ -335,7 +330,7 @@ tagGDX1ItemSkillD125Name=Rageflame
 tagGDX1ItemSkillD125Desc=A burst of tainted flames erupts from the earth.
 
 tagGDX1ItemSkillD126Name=Flame of Gar'dal
-tagGDX1ItemSkillD126Desc=Engulf yourself in the wicked flames of Gar'dal, which are harmless to you and those you consider allies while singeing any foes that draw near.
+tagGDX1ItemSkillD126Desc=Engulf yourself in the wicked flames of Gar'dal, which are harmless to you and those you consider allies while singing any foes that draw near.
 
 tagGDX1ItemSkillD127Name=Executioner's Edge
 tagGDX1ItemSkillD127Desc=Unleash a deadly spinning blade to decapitate your foes.
@@ -419,7 +414,7 @@ tagGDX1ItemSkillD153Name=Ignaffar's Presence
 tagGDX1ItemSkillD153Desc=Imbue your armor with the flame of Ignaffar, which sears nearby foes. ^oThis ability must be toggled to maintain its effect.
 
 tagGDX1ItemSkillD154Name=Gildor's Guard
-tagGDX1ItemSkillD154Desc=Raise up your shield in anticipation, retaliating against any melee attackers in kind.
+tagGDX1ItemSkillD154Desc=Raise up your shield in anicipation, retaliating against any melee attackers in kind.
 
 tagGDX1ItemSkillD155Name=Prismatic Aura
 tagGDX1ItemSkillD155Desc=Imbue your armor and that of your nearby allies with protective runes. ^oThis ability must be toggled to maintain its effect.
@@ -607,22 +602,8 @@ tagGDX1RelicSkillD113Name=Mogdrogen's Ardor
 tagGDX1RelicSkillD113Desc=The beast god's blessing surrounds you and your minions, shielding you from harm. ^oThis ability must be toggled to maintain its effect.
 
 
+
 #ConsumableSkills
-tagGDX1ConsumableSkill_B101=Ugdenjuice
-tagGDX1ConsumableSkill_B101Desc=Fills you with a soothing warmth.
-
-tagGDX1ConsumableSkill_B102=Ugdensalve
-tagGDX1ConsumableSkill_B102Desc=Revitalizes and strengthens bones.
-
-tagGDX1ConsumableSkill_B103=Vilescar Ointment
-tagGDX1ConsumableSkill_B103Desc=Drastically accelerates coagulation.
-
-tagGDX1ConsumableSkill_B104=Elixir of the Dranghoul
-tagGDX1ConsumableSkill_B104Desc=Fills you with the rage of a Dranghoul.
-
-tagGDX1ConsumableSkill_B105=Elixir of Mogdrogen
-tagGDX1ConsumableSkill_B105Desc=Fills you with a deeper connection to your minions.
-
 tagGDX1ConsumableSkill_F101=Hex Oil
 tagGDX1ConsumableSkill_F101Desc=Coats your weapon with the Hex concoction.
 
