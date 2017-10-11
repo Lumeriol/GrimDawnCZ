@@ -21,6 +21,10 @@ tagSkillClassDescription07=Jakožto [[ms]členi[fs]členky] váženého spolku L
 tagSkillClassDescription08=Ikdyž mnoho nekromancerů moderní doby pochází z řádu Strážců smrti studující o záhadném Uroboruukovi, ne všichni si zvolili život v odloučení. Ikdyž jejich profese sama o sobě vyvolává strach a odpor, nekromanceři z Cairnu hledají rovnováhu studováním jakéhokoliv umění spojeného s tím, co jedou postihne každého živého: se smrtí. Nekromanceři hojně využívají vyvolané kostlivce a vysávají samotný život z jejich neopatrných nepřátel, nicméně není zaznamenáno, že by se nevyzbrojovali vojenským arzenálem.
 
 
+#Class02
+
+tagGDX1Class02SkillTracker02A=Current Number of Mortars Placed
+
 #Class07
 
 tagGDX1Class07SkillName00A=Inkvizitor
@@ -209,6 +213,7 @@ tagGDX1Class08SkillDescription15A=Upon their master's command, your minions can 
 
 #ItemSkills
 
+tagGDX1RelicSkillTracker01A=Current Number of Swarmlins Summoned
 
 tagGDX1ItemSkillB101Name=Blastwave
 tagGDX1ItemSkillB101Desc=A wave of fire erupts from your attack.
@@ -220,7 +225,7 @@ tagGDX1ItemSkillC101Desc=Rend the souls of your foes in a deathly cascade.
 tagGDX1ItemSkillC102Name=Legionnaire's Firearms
 tagGDX1ItemSkillC102Desc=With sufficient training, firearms helped close the gap between soldiers and magic users. ^oThis is a ranged one-handed weapon passive bonus.
 
-tagGDX1ItemSkillC103Name=Vaulkeeper's Aim
+tagGDX1ItemSkillC103Name=Vaultkeeper's Aim
 tagGDX1ItemSkillC103Desc=Defense of the Vault of the Luminari requires the best training. ^oThis is a ranged one-handed and two-handed weapon passive bonus.
 
 tagGDX1ItemSkillC104Name=Drain Soul
@@ -244,8 +249,8 @@ tagGDX1ItemSkillC109Desc=The very presence of a trained Luminari Inquisitor is e
 tagGDX1ItemSkillC110Name=Poison Bolt Burst
 tagGDX1ItemSkillC110Desc=A burst of poisonous orbs erupts from you.
 
-tagGDX1ItemSkillC111Name=
-tagGDX1ItemSkillC111Desc=
+tagGDX1ItemSkillC111Name=Noxious Fumes
+tagGDX1ItemSkillC111Desc=Unleash your excitement.
 
 tagGDX1ItemSkillC112Name=
 tagGDX1ItemSkillC112Desc=
@@ -272,7 +277,7 @@ tagGDX1ItemSkillD105Desc=Morguul's toxin accelerates the victim towards their in
 tagGDX1ItemSkillD106Name=Venomlance
 tagGDX1ItemSkillD106Desc=Unleashes a lance of venom that penetrates any foe.
 
-tagGDX1ItemSkillD107Name=Malmouth Ingenuinty
+tagGDX1ItemSkillD107Name=Malmouth Ingenuity
 tagGDX1ItemSkillD107Desc=A peerless defense and offense in one. ^oThis is a ranged weapon passive bonus.
 
 tagGDX1ItemSkillD108Name=Grey Barrier
@@ -330,7 +335,7 @@ tagGDX1ItemSkillD125Name=Rageflame
 tagGDX1ItemSkillD125Desc=A burst of tainted flames erupts from the earth.
 
 tagGDX1ItemSkillD126Name=Flame of Gar'dal
-tagGDX1ItemSkillD126Desc=Engulf yourself in the wicked flames of Gar'dal, which are harmless to you and those you consider allies while singing any foes that draw near.
+tagGDX1ItemSkillD126Desc=Engulf yourself in the wicked flames of Gar'dal, which are harmless to you and those you consider allies while singeing any foes that draw near.
 
 tagGDX1ItemSkillD127Name=Executioner's Edge
 tagGDX1ItemSkillD127Desc=Unleash a deadly spinning blade to decapitate your foes.
@@ -414,7 +419,7 @@ tagGDX1ItemSkillD153Name=Ignaffar's Presence
 tagGDX1ItemSkillD153Desc=Imbue your armor with the flame of Ignaffar, which sears nearby foes. ^oThis ability must be toggled to maintain its effect.
 
 tagGDX1ItemSkillD154Name=Gildor's Guard
-tagGDX1ItemSkillD154Desc=Raise up your shield in anicipation, retaliating against any melee attackers in kind.
+tagGDX1ItemSkillD154Desc=Raise up your shield in anticipation, retaliating against any melee attackers in kind.
 
 tagGDX1ItemSkillD155Name=Prismatic Aura
 tagGDX1ItemSkillD155Desc=Imbue your armor and that of your nearby allies with protective runes. ^oThis ability must be toggled to maintain its effect.
@@ -602,8 +607,22 @@ tagGDX1RelicSkillD113Name=Mogdrogen's Ardor
 tagGDX1RelicSkillD113Desc=The beast god's blessing surrounds you and your minions, shielding you from harm. ^oThis ability must be toggled to maintain its effect.
 
 
-
 #ConsumableSkills
+tagGDX1ConsumableSkill_B101=Ugdenjuice
+tagGDX1ConsumableSkill_B101Desc=Fills you with a soothing warmth.
+
+tagGDX1ConsumableSkill_B102=Ugdensalve
+tagGDX1ConsumableSkill_B102Desc=Revitalizes and strengthens bones.
+
+tagGDX1ConsumableSkill_B103=Vilescar Ointment
+tagGDX1ConsumableSkill_B103Desc=Drastically accelerates coagulation.
+
+tagGDX1ConsumableSkill_B104=Elixir of the Dranghoul
+tagGDX1ConsumableSkill_B104Desc=Fills you with the rage of a Dranghoul.
+
+tagGDX1ConsumableSkill_B105=Elixir of Mogdrogen
+tagGDX1ConsumableSkill_B105Desc=Fills you with a deeper connection to your minions.
+
 tagGDX1ConsumableSkill_F101=Hex Oil
 tagGDX1ConsumableSkill_F101Desc=Coats your weapon with the Hex concoction.
 
