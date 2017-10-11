@@ -625,8 +625,8 @@ tagClass06SkillName06B=Kamenná kůra
 tagClass06SkillDescription06B=Kůže Trnošípka tvrdne a jeho ostny vyrostou v silnější, což ho promění na bojišti v zastrašující stvoření, jež nemůže být ignorováno.
 tagClass06SkillName06C=Vozembouch
 tagClass06SkillDescription06C=Trnošípek udeří do země svými ostnatými pařáty a uvolní ve vlnách ostny, které nabodnou blízké nepřátele.
-tagClass06SkillName06D=Emboldening Presence
-tagClass06SkillDescription06D=The Briarthorn is an imposing presence on the battlefield which emboldens its allies to fight with greater ferocity.
+tagClass06SkillName06D=Dodání odvahy
+tagClass06SkillDescription06D=Trnošípek je fascinující bytostí a na bojišti tak povzbuzuje spojence, aby bojovali s větší vervou.
 tagClass06SkillName06E=Ostnaté pařáty
 tagClass06SkillDescription06E=Vrozený útok.
 
@@ -2902,6 +2902,6 @@ tagEnemySkillD04_Desc=Surová podivná energie obklopuje tento krystal, čímž 
 tagEnemySkillD05=Aldritchovo žezlo
 tagEnemySkillD05_Desc=Aldritchovo žezlo vysílá oblouky energie, která zraňuje nepřátele v blízkosti.
 
-tagEnemySkillD06=Bloodsworn Curse
-tagEnemySkillD06_Desc=The curse of the Bloodsworn saps your willingness to fight off the corrupting powers of the void, reducing resistances, regeneration and Offensive Ability.
+tagEnemySkillD06=Kletba Krvepřísežníka
+tagEnemySkillD06_Desc=Krvepřísežníkova kletba vysává tvou vůli bojovat proti devastujícím silám Prázdnoty a tak máš snížené odolnosti, regeneraci a útočnou schopnost.
 
