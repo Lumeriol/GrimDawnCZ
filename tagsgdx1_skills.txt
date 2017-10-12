@@ -23,7 +23,7 @@ tagSkillClassDescription08=Ikdyž mnoho nekromancerů moderní doby pochází z 
 
 #Class02
 
-tagGDX1Class02SkillTracker02A=Current Number of Mortars Placed
+tagGDX1Class02SkillTracker02A=Momentální počet rozmístěných hmoždířů
 
 #Class07
 
@@ -46,211 +46,211 @@ tagGDX1Class07SkillDescription02C=Ikdyž je známo, že Lumináři vyšetřovali
 
 tagGDX1Class07SkillName03A=Obnovující slovo
 tagGDX1Class07SkillDescription03A=Se silou ničit své nepřátele a léčit své spojence, a ani k tomu nepoužít více než jednu frázi se Slovo Moci rychle stalo součástí základního arzenálu inkvizitorů. Obnovující slovo se stalo nenahraditelnou součástí v době válečného konfliktu. Toto slovo je inkvizitory a jejich spojence a zocelilo je pro boj proti nepřátelům vyznávajících okultismus.
-tagGDX1Class07SkillName03B=Vigor
-tagGDX1Class07SkillDescription03B=A skilled Inquisitor lets nothing stand in the way of their doomed prey.
-tagGDX1Class07SkillName03C=Steel Resolve
-tagGDX1Class07SkillDescription03C=Word of Renewal sharpens the senses and steels the heart against corruption.
-tagGDX1Class07SkillName03D=Word of Arms
-tagGDX1Class07SkillDescription03D=By extending their will through massive two-handed weapons, Inquisitors can inscribe additional runes into their equipment and thus enact the Word of Renewal with greater frequency. ^oRequires a two-handed melee or two-handed ranged weapon.
+tagGDX1Class07SkillName03B=Nasazení
+tagGDX1Class07SkillDescription03B=[[ms]Zkušený inkvizitor[fs]Zkušená inkvizitorka] se nenechá vyrušit po cestě za jimi odsouzenou obětí.
+tagGDX1Class07SkillName03C=Zásadovost
+tagGDX1Class07SkillDescription03C=Obnovující slovo zostřuje smysly a zoceluje srdce vůči korupci.
+tagGDX1Class07SkillName03D=Slovo vyzbrojení
+tagGDX1Class07SkillDescription03D=Díky šíření své vůle skrze masivní obouruční zbraně mohou [[ms]inkvizitoři[fs]inkvizitorky] zasadit další runy do jejich výbavy a tak používat Obnovující slovo s větší kadencí. ^oVyžaduje obouruční chladnou nebo obouruční střelnou zbraň.
 
-tagGDX1Class07SkillName04A=Flames of Ignaffar
-tagGDX1Class07SkillDescription04A=Hold the Stone of Ignaffar in front of you, unleashing a torrent of flame from the palm of your hand for as long as you channel your will into the artifact.
-tagGDX1Class07SkillName04B=Intensify
-tagGDX1Class07SkillDescription04B=The Flames of Ignaffar intensify, melting through armor and turning flesh to ashes.
-tagGDX1Class07SkillName04C=Infernal Purge
-tagGDX1Class07SkillDescription04C=Your will pours forth through the Stone of Ignaffar, purging the weak with a blazing inferno.
-tagGDX1Class07SkillName04D=Endless Flame
-tagGDX1Class07SkillDescription04D=With enough training, an Inquisitor can maintain the power within the Stone of Ignaffar for longer periods and with increasingly devastating effect.
-tagGDX1Class07SkillName04E=Tainted Flame
-tagGDX1Class07SkillDescription04E=Though it is rare, some Inquisitors have been known to fall from grace and embrace the very powers that they were trained to defeat. By channeling the void itself into the Stone of Ignaffar, it instead unleashes a torrent of tainted flames.
+tagGDX1Class07SkillName04A=Ignaffarovy plameny
+tagGDX1Class07SkillDescription04A=Podrž Ignaffarův kámen před sebou a můžeš chrlit plameny ze své dlaně tak po celou dobu, kdy bude tvá mysl propojená s relikvií.
+tagGDX1Class07SkillName04B=Zesílení
+tagGDX1Class07SkillDescription04B=Ignaffarovy plameny sílí, propalují brnění a na popel pálí tkáně.
+tagGDX1Class07SkillName04C=Pekelná čistka
+tagGDX1Class07SkillDescription04C=Tvá vůle proudí skrze Ignaffarův kámen a očišťuje svět od slabých pomocí rozohněného pekla.
+tagGDX1Class07SkillName04D=Nekonečný plamen
+tagGDX1Class07SkillDescription04D=Díky dostatečnému tréninku může [[ms]ikvizitor[fs]inkvizitorka] udržet energii uvnitř Ignaffarova kamene po delší dobu a se zvyšující se ničivostí.
+tagGDX1Class07SkillName04E=Poskvrněný plamen
+tagGDX1Class07SkillDescription04E=Ikdyž se jedná o vzácnost, je známo, že někteří z inkvizitorů a inkvizitorek neodolali a přijali za své síly, proti kterým měli bojovat. Díky propojení Ignaffarovo kamene a samotné Prázdnoty jsou vypouštěny poskvrněné plameny.
 
-tagGDX1Class07SkillName05A=Rune of Hagarrad
-tagGDX1Class07SkillDescription05A=The Rune of Hagarrad was one of the first objects contained within the Vault of the Luminari but, after mounting pressure from the imperial court to exterminate occult activity within the capital, it also became the first artifact to be sanctioned for study and replicated by the Luminari in order to cut off escape routes for fleeing targets. ^oRunes of Hagarrad take 1.5 seconds to arm and scale with player bonuses.
-tagGDX1Class07SkillName05A_PetSkill=Chilling Burst
-tagGDX1Class07SkillName05B=Biting Cold
-tagGDX1Class07SkillDescription05B=The chilling energy released from the Rune of Hagarrad dulls the wits of the afflicted and makes them easy prey for follow-up attacks.
-tagGDX1Class07SkillName05C=Chillsurge
-tagGDX1Class07SkillDescription05C=Unleash the full potential of the Rune of Hagarrad, chilling weaker foes to the bone.
+tagGDX1Class07SkillName05A=Hagarradova runa
+tagGDX1Class07SkillDescription05A=Hagarradova runa byla jedním z prvních předmětů umístěných ve skladišti Luminářů, ale po značném nátlaku ze strany císařského soudu odstranit okultní aktivity uvnitř hlavního města to byl také první předmět, jehož studie a napodobování bylo povoleno v rámci odříznutí únikových cest prchajících cílů. ^oHagarradova runa vyžaduje 1.5 vteřiny na nabití a účinek roste s bonusy postavy.
+tagGDX1Class07SkillName05A_PetSkill=Salva mrazu
+tagGDX1Class07SkillName05B=Ledové kousnutí
+tagGDX1Class07SkillDescription05B=Mrazivá energie vypuštěná z Hagarradovy runy otupuje schopnosti cíle, což z nepřítele dělá snadnou oběť během dalšího útoku.
+tagGDX1Class07SkillName05C=Příval chladu
+tagGDX1Class07SkillDescription05C=Využij plný potenciál Hagarradovy runy, díky čemuž může dojít k úplnému zmražení slabšího nepřítele.
 
-tagGDX1Class07SkillName06A=Inquisitor Seal
-tagGDX1Class07SkillDescription06A=Inscribe a protective seal upon the ground that shields allies and rebukes foes that cross its border. The seal is not permanent however and will fade over time. ^oInquisitor Seal scales with player bonuses.
-tagGDX1Class07SkillName06A_PetSkill01=Barrier
-tagGDX1Class07SkillName06A_PetSkill02=Rebuke
-tagGDX1Class07SkillName06B=Arcane Empowerment
-tagGDX1Class07SkillDescription06B=Allies standing within the seal are empowered with arcane energies, infusing their weapons and spells with renewed strength.
-tagGDX1Class07SkillName06C=Null Field
-tagGDX1Class07SkillDescription06C=The Inquisitor Seal's inscription can be altered, if the need arises, to harden its barrier against incoming projectiles, but this comes at a cost in increased mental drain.
+tagGDX1Class07SkillName06A=Inkvizitorská pečeť
+tagGDX1Class07SkillDescription06A=Vepiš do země ochrannou pečeť, která ochrání tvé spojence a pokárá nepřátele, kteří překročí její okraj. Pečeť ale nemá nekonečnou účinnost a po čase zmizí. ^oÚčinky Inkvizitorské pečetě rostou spolu s bonusy hráče.
+tagGDX1Class07SkillName06A_PetSkill01=Bariéra
+tagGDX1Class07SkillName06A_PetSkill02=Pokárání
+tagGDX1Class07SkillName06B=Zvýšení účinnosti Podivnem
+tagGDX1Class07SkillDescription06B=Spojenci stojící uvnitř pečetě jsou posilováni arkanickými energiemi a vštěpí se do jejich kouzel a zbraní s obnovenou silou.
+tagGDX1Class07SkillName06C=Nulová oblast
+tagGDX1Class07SkillDescription06C=Nápis Inkvizitorské pečetě může být pozměněn, pokud je to skutečně potřeba, a její okraj se tak stane neproniknutelným vůči blížícím se projektilům, ale pouze za cenu zvýšeného psychického vyčerpání.
 
-tagGDX1Class07SkillName07A=Rune of Kalastor
-tagGDX1Class07SkillDescription07A=Place the Rune of Kalastor upon the ground. This unstable artifact explodes upon contact with enemies, spilling explosive shrapnel upon the battlefield that shatters and erupts to inflict grievous harm. ^oRunes of Kalastor take 1.5 seconds to arm and scale with player bonuses.
-tagGDX1Class07SkillName07B=Ignition
-tagGDX1Class07SkillDescription07B=The Rune of Kalastor becomes increasingly unstable, triggering an immediate additional detonation at point of contact that dazes nearby enemies.
-tagGDX1Class07SkillName07A_PetSkill=Concussive Blast
+tagGDX1Class07SkillName07A=Kalastorova runa
+tagGDX1Class07SkillDescription07A=Umísti Kalastorovu runu na zem. Tento nestálý artefakt exploduje při kontaktu s nepřítelem, metá další vybuchující šrapnely na bojišti, které se dál tříští a trhají se, aby napáchaly co největší škody.^oKalastorova runa vyžaduje 1.5 vteřiny na nabití a účinek roste s bonusy postavy.
+tagGDX1Class07SkillName07B=Zážeh
+tagGDX1Class07SkillDescription07B=Kalastorova runase stává ještě více nestabilní, díky čemuž se spustí další okamžitou detonaci při kontaktu s nepřítelem, která ho omámí.
+tagGDX1Class07SkillName07A_PetSkill=Konsistentní výbuch
 
-tagGDX1Class07SkillName08A=Aura of Conviction
-tagGDX1Class07SkillDescription08A=The protective properties of the runes emblazoned upon Inquisitor armor can be extended to nearby allies, offering enhanced combat awareness and martial prowess. ^oThis ability must be toggled to maintain its effect.
+tagGDX1Class07SkillName08A=Aura smýšlení
+tagGDX1Class07SkillDescription08A=Ochranné vlastnosti run, kterými je vyzdobeno oblečení [[ms]inkvizitora[fs]inkvizitorky] mohou účinkovat i na spojence v blízkosti a nabídnout tak bojovou bdělost a dovednost bojových umění.
 
-tagGDX1Class07SkillName09A=Aura of Censure
-tagGDX1Class07SkillDescription09A=An Inquisitor's mere presence is enough to inspire dread within the foes of mankind. With arcane runes emblazoned upon their armor, Inquisitors march into the thick of battle with fire in their hearts. ^oThis ability must be toggled to maintain its effect.
+tagGDX1Class07SkillName09A=Aura zavržení
+tagGDX1Class07SkillDescription09A=Už jen přítomnost [[ms]inkvizitora[fs]inkvizitorky] je dost na to, aby se nepřátelé lidstva třásli. Díky runám napsaným na oblečení se [[ms]inkvizitoři[fs]inkvizitorky] vrhají do boje s ohněm v srdci. ^oTato schopnost musí být aktivní, aby účinkovala.
 
-tagGDX1Class07SkillName10A=Horn of Gandarr
-tagGDX1Class07SkillDescription10A=Study of the Horn of Gandarr was forbidden for centuries due to its mind shattering properties, but desperation called it into use when High Inquisitor Serenir utilized the Horn to great effect while singlehandedly taking on an occult coven. The cultists turned upon each other in confusion, allowing Serenir to finish off the stragglers with ease. This earned the Inquisitor a commendation and the Horn was later replicated by the Luminari scholars for field use, though with reduced potency.
+tagGDX1Class07SkillName10A=Gandarrův roh
+tagGDX1Class07SkillDescription10A=Studování Gandarrova rohu bylo zakázané po staletí díky jeho zdrcujícím účinkům mysli, ale zoufalost dohnala velkého Inkvizitora Serenira k jeho účinnému užití, když pak jednou rukou rozdrtil sněm okultistů. Kultisté se zmatení obraceli jeden proti druhému, což umožnilo Serenirovi dorazit ty zbívající s lehkostí. To inkvizitorovi přineslo chválu a Roh mohl být poté studován a napodobován učni Luminářů pro účel boje, nicméně se sníženým účinkem.
 
-tagGDX1Class07SkillName11A=Ranged Expertise
-tagGDX1Class07SkillDescription11A=Though armed with an array of powerful artifacts and relics, all Inquisitors must be prepared to face an opponent while relying solely on their wits and their firearm. Expertly wielding ranged weapons allows trained Inquisitors to take out their prey from a safe distance. ^oThis is a ranged weapon bonus. Also enables the ability to dual wield ranged weapons.
-tagGDX1Class07SkillName12A=Bursting Round
-tagGDX1Class07SkillDescription12A=A carefully calibrated round that explodes upon contact with the target to consume them and nearby foes in flames. ^oThis is a ranged technique that activates off of default weapon attacks.
-tagGDX1Class07SkillName13A=Chilling Rounds
-tagGDX1Class07SkillDescription13A=A barrage infused with chilling arcane energies freezes the target to the core, ensuring an easy kill. ^oThis is a ranged technique that activates off of default weapon attacks.
-tagGDX1Class07SkillName14A=Storm Spread
-tagGDX1Class07SkillDescription14A=A reckless technique for when enemy numbers prove overwhelming, a spread across a room can quickly even the odds. ^oThis is a ranged technique that activates off of default weapon attacks.
+tagGDX1Class07SkillName11A=Specializace ve střelbě
+tagGDX1Class07SkillDescription11A=Ikdyž jsou [[ms]inkvizitoři vyzbrojeni[fs]inkvizitorky vyzbrojené] celou škálou relikvií a artefaktů, všichni musí být připraveni někdy čelit nepřátelům a spoléhat se jen na své schopnosti a arzenál. Zkušené používání palných zbraní umožňuje [[ms]inkvizitorům[fs]inkvizitorkám] složit oběť z bezpečné vzdálenosti. ^oToto je bonus ke střelným zbraním. Také umožňuje ovládat dvě střelné zbraně najednou.
+tagGDX1Class07SkillName12A=Spalující kulka
+tagGDX1Class07SkillDescription12A=Dobře zkalibrovaná kulka, která exploduje při zásahu, pohltí plameny jak cíl tak nepřátele v blízkosti. ^oToto je technika pro střelné zbraně a je aktivována běžným útokem.
+tagGDX1Class07SkillName13A=Ledová kulka
+tagGDX1Class07SkillDescription13A=Střelba obohacená ledovými arkanickými energiemi úplně zmrazí cíl, což zajišťuje snadný zářez. ^oToto je technika pro střelné zbraně a je aktivována běžným útokem.
+tagGDX1Class07SkillName14A=Šíření bouře
+tagGDX1Class07SkillDescription14A=Nemilosrdná technika pro případ, že je nepřátel příliš mnoho. Použití v místnosti může rychle vyrovnat nevyrovnané. ^oToto je technika pro střelné zbraně a je aktivována běžným útokem.
 
-tagGDX1Class07SkillName15A=Deadly Aim
-tagGDX1Class07SkillDescription15A=For an Inquisitor facing off against some of humanity's greatest foes, sometimes a single shot or well-placed critical blow is all the opportunity they have, and the only one they need.
+tagGDX1Class07SkillName15A=Přesná muška
+tagGDX1Class07SkillDescription15A=Pro [[ms]inkvizitora[fs]inkvizitorku], jež čelí některému z úhlavních nepřátel lidstva, znamená jedna dobře mířená střela či kritický zásah to jediné, co mají, a leckdy také to jediné, co potřebují.
 
-tagGDX1Class07SkillName16A=Artifact Handling
-tagGDX1Class07SkillDescription16A=Careful handling of the dangerous relics and artifacts replicated from the Vault of the Luminari storage is central to all Inquisitor training. In inexperienced hands, even the best of intentions could spell doom for the wielder, and those around them. ^o[Affects Rune of Hagarrad and Rune of Kalastor and requires one to unlock]
+tagGDX1Class07SkillName16A=Zručné zacházení s artefakty
+tagGDX1Class07SkillDescription16A=Opatrné zacházení s nebezpečnými relikviemi napodobených v Úkrytu Luminářů je středobodem pro trénink inkvizitorů a inkvizitorek. V nezkušených rukách i ty nejlepší úmysly mohou skončit pro majitele a ty kolem něj nešťastně. ^o[Ovlivňuje Hagarradovu runu, Kalastorovu runu a alespoň jedna z nich je potřeba pro odemčení tété schopnosti.]
 
 
 #Class08
 
 tagGDX1Class08SkillName00A=Necromancer
-tagGDX1Class08SkillDescription00A=Mastery of the cruel fate that awaits all living beings.
+tagGDX1Class08SkillDescription00A=Mistrovství v ovládání krutého osudu, který čeká na všechny živé.
 
-tagGDX1Class08SkillName01A=Drain Essence
-tagGDX1Class08SkillDescription01A=Necromancers firmly believe in the concept of greater good, and sometimes the greater good means that one's life essence must be sacrificed so that another may live. Though this transfer is frowned upon, some practitioners have trouble resisting the temptation of raw vital energy.
-tagGDX1Class08SkillName01B=Hungering Reach
-tagGDX1Class08SkillDescription01B=The hunger for life's essence cannot be easily sated once experienced. With your hungering desires poured into the spell, Drain Essence sometimes affects nearby foes in addition to the primary target.
-tagGDX1Class08SkillName01C=Decomposition
-tagGDX1Class08SkillDescription01C=Even before life has left their eyes, your foes begin to decompose and fall apart where they stand.
-tagGDX1Class08SkillName01D=Gravechill
-tagGDX1Class08SkillDescription01D=Necromancers well versed in the whispers of death can force the chill of the grave upon their unwilling victims, slowing their actions, but sapping less of their life essence.
-xxtagGDX1Class08SkillName01D=Endless Thirst
-xxtagGDX1Class08SkillDescription01D=The transfer of life essence is generally a practice reserved only for dire situations, but some practitioners have difficulty resisting the temptation of raw vital energies and succumb to sustaining themselves solely on this spell, at the cost of those around them.
+tagGDX1Class08SkillName01A=Sání života
+tagGDX1Class08SkillDescription01A=Nekromanceři obecně věří ve vyšší dobro a někdy vyšší dobro znamená to, že život jednoho musí být obětován pro to, aby druhý mohl žít. Ikdyž se na tuto schopnost nekromanceři dívají se svraštělým čelem, někteří její uživatelé mají problém odolat lákavosti surové životní energie.
+tagGDX1Class08SkillName01B=Hlad
+tagGDX1Class08SkillDescription01B=Hlad po životní esenci nemusí být jednoduché uspokojit, pokud si již jednou [[ms]okusil[fs]okusila]. S tím, jak promítáš svůj hlad do kouzla toto kouzlo ovlivňuješ a tak jsou kromě hlavního cíle občas zasaženi i nepřátelé v blízkosti.
+tagGDX1Class08SkillName01C=Rozklad
+tagGDX1Class08SkillDescription01C=Ještě před tím než vyhasne život v jejich očích, se tví přátelé začnou rozkládat tam, kde stojí.
+tagGDX1Class08SkillName01D=Smrtonosný chlad
+tagGDX1Class08SkillDescription01D=Nekromanceři, jež dobře využívají verše smrti, mohou donutit smrtící chlad padnout na nepohodlné nepřátele, čímž je zpomalí, nicméne za cenu menšího množství vysáté životní energie.
+xxtagGDX1Class08SkillName01D=Nekonečná žízeň
+xxtagGDX1Class08SkillDescription01D=Přenos životní energie je obecně schopnost vyhrazená pro kritické situace, ale někteří její uživatelé mají problém s odoláváním vůči této čisté životní energii a plně se tomuto kouzlu poddají, avšak na úkor těch, co stojí kolem.
 
-tagGDX1Class08SkillName02A=Raise Skeletons
-tagGDX1Class08SkillDescription02A=The art of reanimating skeletal remains is among the first rites of aspiring Necromancers, but also one of the most rudimentary. Through sheer will, a Necromancer may call upon the spirits beyond the veil and draw them into the bones of the deceased. Should the ritual succeed, skeletal minions, loyal only to the summoner, shall rise. ^oSkeletons scale with Pet Bonuses. More powerful minions may be raised with higher skill rank.
-tagGDX1Class08SkillTracker02A=Current Number of Skeletons Summoned
-tagGDX1Class08SkillName02A_PetSkill=Ancient Weapons
-tagGDX1Class08SkillName02A_PetSkill02=Fire Shard
-tagGDX1Class08SkillName02A_PetSkill03=FIrebolt Nova
-tagGDX1Class08SkillName02A_PetSkill04=Undeath Aura
-tagGDX1Class08SkillName02A_PetSkill04_Desc=The Revenants presence saps all life from nearby foes.
-tagGDX1Class08SkillName02A_PetSkill05=Undeath Missiles
-tagGDX1Class08SkillName02A_PetSkill06=Deathbolt
-tagGDX1Class08SkillName02B=Undead Legion
-tagGDX1Class08SkillDescription02B=Mastery of the resurrection ritual reduces the mental strain upon the caster, enabling you to maintain additional minions.
-tagGDX1Class08SkillName02C=Will of the Crypt
-tagGDX1Class08SkillDescription02C=Infuse your skeletal minions with necrotic energies, strengthening their bones against physical blows.
-tagGDX1Class08SkillName02D=Bones for the Taking
-tagGDX1Class08SkillDescription02D=A skilled Necromancer leaves no resource untapped. Every enemy slain is a potential opportunity to raise another willing minion. ^oChance to activate upon the player slaying a foe.
-tagGDX1Class08SkillName02E=Bone Ritual
-tagGDX1Class08SkillDescription02E=Through intense training of the mind, a Necromancer may instill the curse of undeath upon the bones of the dead for an indefinite period of time, thus allowing them to gradually gather a small legion of loyal servants. These persistent minions are more fragile however, as their curse makes them long for the merciful release of death.
+tagGDX1Class08SkillName02A=Vyvolání kostlivců
+tagGDX1Class08SkillDescription02A=Umění oživování koster patří mezi první kroky aspirujících Nekromancerů, ale také mezi ty nejzákladnější. Skrze jejich čirou mysl mohou Nekromanceři zavolat duchy spoza závoje reality a umístit je do kostí padlých. Pokud je rituál úspěšný, kosterní poskoci, loajální pouze tomu, kdo je vyvolal, povstanou. ^oKostlivci sílí s polu s bonusy pro mazlíčky. Skeletons sílí s bonusy pro mazlíčky. Silnější nohsledi mohou být vyvoláni na vyšší úrovni kouzla.
+tagGDX1Class08SkillTracker02A=Momentální počet vyvolaných kostlivců
+tagGDX1Class08SkillName02A_PetSkill=Starodávné zbraně
+tagGDX1Class08SkillName02A_PetSkill02=Úlomek ohně
+tagGDX1Class08SkillName02A_PetSkill03=Ohnivá nova
+tagGDX1Class08SkillName02A_PetSkill04=Aura nemrtvých
+tagGDX1Class08SkillName02A_PetSkill04_Desc=Přítomnost přívrženců vysává život ze všech nepřátel v okolí.
+tagGDX1Class08SkillName02A_PetSkill05=Střely nemrtvých
+tagGDX1Class08SkillName02A_PetSkill06=Šipka smrti
+tagGDX1Class08SkillName02B=Nesmrtelná legie
+tagGDX1Class08SkillDescription02B=Mistrovství v provádění oživovacího rituálu redukuje psychické vyčerpání vyvolávače, díky čemuž můžeš ovládat další přívržence.
+tagGDX1Class08SkillName02C=Vůle hrobky
+tagGDX1Class08SkillDescription02C=Posilní kosterní přívržence nekrotickými energiemi, čímž posilní jejich kosti vůči fyzickým úderům.
+tagGDX1Class08SkillName02D=Náhradní kosti
+tagGDX1Class08SkillDescription02D=Zkušený nekromancer využije jakékoliv prostředky, které jsou k dispozici. Je tak možnost, že z každého zabitého nepřítele povstane další poslušný nohsled. ^oTato možnost se aktivuje ve chvíli, kdy hráč zabije nepřítele.
+tagGDX1Class08SkillName02E=Rituál s kostmi
+tagGDX1Class08SkillDescription02E=Díky intenzivnímu psychickému tréninku může nekromancer vštípit prokletí nemrtvých do kostí mrtvých, a to po neurčitou dobu, čímž si umožňuje vytvořit si malou legii nemrtvých. Tito bojovníci, kteří nechřadnou časem, jsou nicméně více zranitelní díky tomu, jak moc touží být milosrdně propuštěni ze spárů smrti.
 
-tagGDX1Class08SkillName03A=Bone Harvest
-tagGDX1Class08SkillDescription03A=Through a force of necrotic energies, a Necromancer can force the bones of the long forgotten to burst forth from the earth like jagged spines and impale unwary foes.
-tagGDX1Class08SkillName03B=Dread
-tagGDX1Class08SkillDescription03B=The necrotic bone spires pierce into the very essence of your enemies, ripping the life from their bodies and sending weaker foes fleeing, if their lives are not already claimed.
-tagGDX1Class08SkillName03C=Soul Harvest
-tagGDX1Class08SkillDescription03C=The bones of the dead fragment and absorb the souls of your foes, empowering you and your minions with the power of death. ^oSoul Harvest affects all attacks and pets while active.
-tagGDX1Class08SkillName03D=Harvester of Death
-tagGDX1Class08SkillDescription03D=Necromancers trained in melee combat are not uncommon, but those who brandish heavy two-handed weapons to cut swathes of death across battlefields rightfully earn themselves the title of bone harvesters. There have been rumors of the Black Legion having employed such individuals into their ranks rather than having them executed for defying Imperial decree. ^oRequires a two-handed melee weapon.
+tagGDX1Class08SkillName03A=Sběr kostí
+tagGDX1Class08SkillDescription03A=Skrze sílu nekrotických energií může nekromancer donutit kosti dávno padlých, aby prorazili zem a jako zubatá ostří nabodávaly nicnetušící nepřátele.
+tagGDX1Class08SkillName03B=Děs
+tagGDX1Class08SkillDescription03B=Nekrotické hroty kostí probodávají samotnou esenci tvých nepořátel, čímž odrhává život z jejich těl a slabší nepřátelé v hrůze prchají, pokud tedy jejich život neprchnul už předtím.
+tagGDX1Class08SkillName03C=Sklízení duší
+tagGDX1Class08SkillDescription03C=Kosti mrtvých lámou a absorbují duši tvých nepřátel, což tobě a tvým nohsledům dodává sílu mrtvých. ^oSklízení duší ovlivňuje všechny útoky a všechny mazlíčky, pokud je aktivní.
+tagGDX1Class08SkillName03D=Žnec mrtvých
+tagGDX1Class08SkillDescription03D=Nekromanceři trénovaní v boji na blízko nejsou ničím neobvyklým, ale ti jež používají masivní obouruční sbraně, aby nakrájeli nepřátele na bojištích, se právoplatně nazývají "sběrateli kostí". Kolují historky, že Černá legie tyto jedince raději najímala, než aby je popravovala za porušení nařízení říše. ^oVyžaduje obouruční chladnou zbraň.Vyžaduje obouruční chladnou zbraň.
 
-tagGDX1Class08SkillName04A=Ravenous Earth
-tagGDX1Class08SkillDescription04A=At your command, disease and rot pour forth through a hellish maw within the earth and infect all unfortunate enough to stand too close.
-tagGDX1Class08SkillName04B=Decay
-tagGDX1Class08SkillDescription04B=The toxic fumes of decay emanate from the earth, weakening the resolve of enemies standing too close.
-tagGDX1Class08SkillName04C=Foul Eruption
-tagGDX1Class08SkillDescription04C=The vile necrotic energies suffuse the flesh, causing slain foes to sometimes erupt violently, spilling disease and ichor onto nearby enemies.
+tagGDX1Class08SkillName04A=Hladová Země
+tagGDX1Class08SkillDescription04A=Na tvůj příkaz se nákaza a hniloba valí z pekelných trhlin v zemi a infikuje všechny nešťastníky, kteří stojí příliš blízko.
+tagGDX1Class08SkillName04B=Rozklad
+tagGDX1Class08SkillDescription04B=Jedovaté plyny stoupají ze země a oslabuje nepřátele v blízkosti.
+tagGDX1Class08SkillName04C=Odporná erupce
+tagGDX1Class08SkillDescription04C=Odporné nekrotické energie zalijí tkáň, což u padlých nepřátel leckdy způsobí krvavou explozi a šíří tak nemoc a způsobuje výtok z ran nepřátel v blízkosti.
 
-tagGDX1Class08SkillName05A=Summon Blight Fiend
-tagGDX1Class08SkillDescription05A=Unmoved by the noxious fumes of decay, conjure forth an abomination made of corpses and rotting filth to rise up from the earth and subdue your enemies. ^oOnly one blight fiend can be summoned at any one time. The blight fiend scales with Pet Bonuses.
-tagGDX1Class08SkillName05A_PetSkill=Blighted Claws
-tagGDX1Class08SkillName05A_PetSkill02=Virulent Death
-tagGDX1Class08SkillName05B=Rotting Fumes
-tagGDX1Class08SkillDescription05B=The stench emanating from the blight fiend becomes impossible to withstand, with the very air around the creature inducing vomiting and blurring vision.
-tagGDX1Class08SkillName05C=Blight Burst
-tagGDX1Class08SkillDescription05C=Toxic gases build up within the rotting bulk of the blight fiend, which it can then release upon unsuspecting foes in a toxic eruption of decay.
-tagGDX1Class08SkillName05D=Unstable Anomaly
-tagGDX1Class08SkillDescription05D=While a blight fiend can serve as an ample guardian, a twist in the necromantic ritual can also turn it into a highly unstable vector for spreading rot and decay across the battlefield. These unstable abominations will rampage through your foes before violently erupting after a brief period.
+tagGDX1Class08SkillName05A=Vyvolání Odporné stvůry
+tagGDX1Class08SkillDescription05A=Z mrtvol a hniloby, netknutých díky škodlivým výparům z hnijících tkání, můžeš vyvolat zrůdu, a tak si podmanit své nepřátele. ^oPouze jedna Odporná stvůra může být vyvolána v jeden okamžik. Odporná stvůra sílí spolu s bonusy pro mazlíčky.
+tagGDX1Class08SkillName05A_PetSkill=Pařáty ze sněti
+tagGDX1Class08SkillName05A_PetSkill02=Rychlá smrt
+tagGDX1Class08SkillName05B=Hnilobné výpary
+tagGDX1Class08SkillDescription05B=Zápach stoupající z odporné stvůry se stává tak odporným, že jej nelze vydržet, takže samotný vzduch okolo stvůry způsobuje zvracení a rozmazané vidění.
+tagGDX1Class08SkillName05C=Salva sněti
+tagGDX1Class08SkillDescription05C=Toxické plyny se hromadí uvnitř hnijící masy, které mohou být vypuštěny na nicnetušící nepřátele, což vyústí v jedovatou erupci rozkladu.
+tagGDX1Class08SkillName05D=Nestálá anomálie
+tagGDX1Class08SkillDescription05D=Zatímco Odporná stvůra může sloužit jako postačující strážce, pozměněný nekromantický rituál jej může také proměnit ve vysoce nestálého přenašeče pro přenos hniloby a rozkladu na bojišti. Tyto nestálé ohavnosti se zuřivě proženou přes tvé nepřátele ještě před tím, než poměrně rychle explodují.
 
-tagGDX1Class08SkillName06A=Spectral Binding
-tagGDX1Class08SkillDescription06A=Binding spirits is a dangerous practice, but one that can be vastly rewarding with forgotten knowledge or even protection. By forcing the spirits of the fallen to serve, you become infused with their essence, granting you vitality and further control over your necrotic powers. ^oThis ability must be toggled to maintain its effect.
-tagGDX1Class08SkillName06B=Spectral Wrath
-tagGDX1Class08SkillDescription06B=The spectres empowering you lash out at anything that dares strike you, cursing it with a debilitating spell from beyond the grave.
+tagGDX1Class08SkillName06A=Vázání ducha
+tagGDX1Class08SkillDescription06A=Svázání ducha je velmi nebezpečná technika, ale také je velmi prospěšná díky zapomenutým znalostem či dokonce ochraně. Tím, že donutíš ducha, aby ti sloužil, stáváš se [[ms]obohacený[fs]obohacená] o jejich esenci, což ti dodává zdraví a další kontrolu nad tvými nekrotickými silami. ^oTato schopnost musí být aktivní, aby účinkovala.
+tagGDX1Class08SkillName06B=Zloba ducha
+tagGDX1Class08SkillDescription06B=Duchové ti umožňují ohnat se po čemkoliv, co se tě snaží napadnout, čímž je prokleješ vysilujícím kouzlem ze záhrobí.
 
-tagGDX1Class08SkillName07A=Siphon Souls
-tagGDX1Class08SkillDescription07A=In a ghastly release of necrotic energies, you attempt to harvest the spirits of nearby foes with a cruel curse, draining them of their very essence while transferring it to you.
-tagGDX1Class08SkillName07B=Blood Boil
-tagGDX1Class08SkillDescription07B=The curse boils the blood within your enemies, causing them to rapidly decay even as they draw their final breaths.
-tagGDX1Class08SkillName07C=Sear Souls
-tagGDX1Class08SkillDescription07C=By channeling the raw energies of the Aether into the Soul Siphon, a necromancer can sear the very souls of their enemies for an extended period of time, but the essence transferred in this manner is not as stable.
+tagGDX1Class08SkillName07A=Přečerpání duše
+tagGDX1Class08SkillDescription07A=Děsivým vypuštěním nekrotických energií se pokoušíš sklidit duchy nepřátel v blízkosti touto děsivou kletbou, čímž vysaješ jejich život a přeneseš jej k sobě.
+tagGDX1Class08SkillName07B=Vařící se krev
+tagGDX1Class08SkillDescription07B=Tato kletba zahřeje krev v tvých nepřátelích a ta začne vařit, což způsobí jejich rychlý rozklad během posledních výdechů.
+tagGDX1Class08SkillName07C=Spálení duše
+tagGDX1Class08SkillDescription07C=Vedením surové energie Aetheru do schopnosti Přečerpání duše může nekromancer pálit samotné duše svých nepřátel po delší dobu, ale esence přenášená tímto způsobem není až tak stabilní.
 
-tagGDX1Class08SkillName08A=Ill Omen
-tagGDX1Class08SkillDescription08A=The mere presence of a Necromancer is often enough to inspire terror within their enemies. You unleash a ghostly wail upon your target that shatters the confidence of lesser foes and rapidly spreads confusion and fear amongst your enemies.
+tagGDX1Class08SkillName08A=Znamení nemoci
+tagGDX1Class08SkillDescription08A=Samotná nekromancerova přítomnost je často dostačující, aby vyvolala hrůzu v jeho nepřátelích. Vydáváš zvuk v podobě kvílení duchů na svůj cíl, čímž otřeseš důvěrou slabších nepřátel a tak se mezi nimi začne rychle šířit zmatek a strach.
 
-tagGDX1Class08SkillName09A=Reap Spirit
-tagGDX1Class08SkillDescription09A=One of the most powerful techniques bestowed upon his followers by Uroboruuk. By ripping apart the very being of your foe, one can not only inflict grievous harm, but also conjure forth a fragment of their soul to serve you. The resulting spirit is unstable and highly aggressive, which makes it all the more useful in battle. ^oThe Wraith scales with Pet Bonuses.
-tagGDX1Class08SkillName09A_PetSkill=Wraith's Touch
-tagGDX1Class08SkillName09A_PetSkill02=Vitality Nova
+tagGDX1Class08SkillName09A=Odtržení ducha
+tagGDX1Class08SkillDescription09A=Jedna z nejmocnějších technik věnovaná nasledníkům Uroboruuka. Tím, že odtrhneš bytost od těla svého nepřítele můžeš způsobit nejen zdrcující zranění, ale dokonce vyvolat část jejich ducha, aby bojoval po tvém boku. Výsledkem je vysoce nestabilní, agresivní přízrak, což je ještě více užitečné v boji. ^oDuch sílí spolu s bonusy pro mazlíčky.
+tagGDX1Class08SkillName09A_PetSkill=Dotek ducha
+tagGDX1Class08SkillName09A_PetSkill02=Nova vitality
 
-tagGDX1Class08SkillName10A=Harbinger of Souls
-tagGDX1Class08SkillDescription10A=Having mastered death, you become a living harbinger of that final fate, the life essence of your enemies but a plaything to manipulate at will. ^oThis ability must be toggled to maintain its effect.
+tagGDX1Class08SkillName10A=Posel duší
+tagGDX1Class08SkillDescription10A=Tím jak mistrně ovládáš smrt jsi se [[ms]stal[fs]stala] živoucím poslem tohoto poslednmího soudu, vysáváš z nepřátel životní energii a chceš tak svévolně manipulovat cílem. ^oTato schopnost musí být aktivní, aby účinkovala.
 
-tagGDX1Class08SkillName11A=Master of Death
-tagGDX1Class08SkillDescription11A=A fully trained Necromancer is a terrifying thing to behold, their arrival heralded by the endless legions of the dead, forever bound to the will of their master. ^oThis ability must be toggled to maintain its effect.
+tagGDX1Class08SkillName11A=Ovládnutí smrti
+tagGDX1Class08SkillDescription11A=Plně vytrénovaný nekromancer je hrůzostrašná postava, jejich příchod je provázen nekonečnými zástupy nemrtvých, navždy podřízených vůli jejich [[ms]pána[fs]paní]. ^oTato schopnost musí být aktivní, aby účinkovala.
 
-tagGDX1Class08SkillName12A=Reaping Strike
-tagGDX1Class08SkillDescription12A=By infusing their weapons with deadly necrotic energies, Necromancers can inflict physical wounds that cut deeper than just the flesh. ^oCan activate with all default weapon attacks.
-tagGDX1Class08SkillName13A=Necrotic Edge
-tagGDX1Class08SkillDescription13A=By striking with the chill of the grave, your attacks inflict instant necrosis upon the afflicted wound, the sight of which can cause even the most resolute foes to falter. ^oCan activate with all default weapon attacks. When used with a melee weapon, the attack strikes multiple nearby targets.
+tagGDX1Class08SkillName12A=Odtrhávající úder
+tagGDX1Class08SkillDescription12A=Posílením zbraní smrtícími nekrotickými energiemi mohou nekromanceři způsobovat hluboká fyzická zranění. ^oLze aktivovat všemi běžnými typy útoků zbraně.
+tagGDX1Class08SkillName13A=Nekrotické ostří
+tagGDX1Class08SkillDescription13A=Díky účinku hrobového chladu tvé útoky způsobují okamžitou nekrózu v ráně, pohled díky kterému i ti nejodhodlanější nepřátelé zeslábnou. ^oZle aktivovat všemi běžnými typy útoků zbraně. Pokud je použita chladná zbraň, útok zasáhne vícero cílů v blízkosti.
 
-tagGDX1Class08SkillName14A=Mark of Torment
-tagGDX1Class08SkillDescription14A=Though all must ultimately answer to that final fate, your mastery of death has allowed you to delay the inevitable. By linking your soul to a nearby foe, you transfer some of the harm intended for you into them instead. ^oOnly one enemy can be Marked at any one time.
+tagGDX1Class08SkillName14A=Znamení trýzně
+tagGDX1Class08SkillDescription14A=Ikdyž se všichni musí podvolit nakonec svému osudu, tvá schopnost manipulovat se smrtí ti umožňuje oddálit nevyhnutelné. Tím, že propojíš svojí duši s nepřítelem v blízkosti přesuneš některá ze zranění, vedených proti tobě právě na něj. ^oPouze jeden nepřítel může být Označen v ten daný okamžik.
 
-tagGDX1Class08SkillName15A=Call of the Grave
-tagGDX1Class08SkillDescription15A=Upon their master's command, your minions can unleash the power of the grave that fuels them, throwing them into a vicious frenzy.
+tagGDX1Class08SkillName15A=Volání z hrobu
+tagGDX1Class08SkillDescription15A=Na příkaz jejich [[ms]vládce[fs]vládkyně] mohou nohsledi uvolnit energii z hrobu, která je pohání, což z nich udělá brutální a šílené jedince.
 
 #ItemSkills
 
-tagGDX1RelicSkillTracker01A=Current Number of Swarmlins Summoned
+tagGDX1RelicSkillTracker01A=Momentální počet ovládaných Swarmlinů
 
-tagGDX1ItemSkillB101Name=Blastwave
-tagGDX1ItemSkillB101Desc=A wave of fire erupts from your attack.
+tagGDX1ItemSkillB101Name=Tlaková vlna
+tagGDX1ItemSkillB101Desc=Ohnivá vlna vycházející s každým tvým útokem.
 
 
-tagGDX1ItemSkillC101Name=Soulsplit
-tagGDX1ItemSkillC101Desc=Rend the souls of your foes in a deathly cascade.
+tagGDX1ItemSkillC101Name=Rozdělení duše
+tagGDX1ItemSkillC101Desc=Kaskádovitě rozerve duše tvých, velmi brzy mrtvých, nepřátel.
 
-tagGDX1ItemSkillC102Name=Legionnaire's Firearms
-tagGDX1ItemSkillC102Desc=With sufficient training, firearms helped close the gap between soldiers and magic users. ^oThis is a ranged one-handed weapon passive bonus.
+tagGDX1ItemSkillC102Name=Legionářská výzbroj
+tagGDX1ItemSkillC102Desc=S dostatečným trénikem bylo dosaženo smazání jistých rozdílů mezi vojáky a kouzelníky. ^oToto je pasivní bonus pro jednoruční palné zbraně.
 
-tagGDX1ItemSkillC103Name=Vaultkeeper's Aim
-tagGDX1ItemSkillC103Desc=Defense of the Vault of the Luminari requires the best training. ^oThis is a ranged one-handed and two-handed weapon passive bonus.
+tagGDX1ItemSkillC103Name=Muška strážce trezoru
+tagGDX1ItemSkillC103Desc=Pro obranu trezoru Luminářů byl vyžadován ten nejlepší trénink. ^oToto je pasivní bonus pro jednoruční i obouruční palné zbraně.
 
-tagGDX1ItemSkillC104Name=Drain Soul
-tagGDX1ItemSkillC104Desc=Sap the target's very soul and restore some of your own vitality.
+tagGDX1ItemSkillC104Name=Vysávání duše
+tagGDX1ItemSkillC104Desc=Vysaj samotnou duši tvého nebohého cíle a obnov tak část svého zdraví.
 
-tagGDX1ItemSkillC105Name=Phantasmal Blade
-tagGDX1ItemSkillC105Desc=Hurl a conjured blade infused with shadow magic that rends through flesh like paper.
+tagGDX1ItemSkillC105Name=Phantasmální ostří
+tagGDX1ItemSkillC105Desc=Vyčaruj a vrhni ostří vylepšené kouzlem stínu, které protne tkáň jako papír.
 
-tagGDX1ItemSkillC106Name=Corrupted Soul
-tagGDX1ItemSkillC106Desc=The armor corrupts your soul, granting you dark power and greater control over your minions.
+tagGDX1ItemSkillC106Name=Zkažená duše
+tagGDX1ItemSkillC106Desc=Brnění korumpuje tvou duši, čímž ti garantuje temnou sílu a lepší kontrolu nad tvými nohsledy.
 
-tagGDX1ItemSkillC107Name=Silver Mark
-tagGDX1ItemSkillC107Desc=Your target becomes marked with a blessed Luminari rune that seals their fate. This symbol is particularly effective against fiends of the void.
+tagGDX1ItemSkillC107Name=Stříbrné znamení
+tagGDX1ItemSkillC107Desc=Tvůj cíl je označen požehnanou runou Luminářů, která zpečetí jeho osud. Tento symbol je částečně efektivní proti stvůrám z Prázdnoty.
 
-tagGDX1ItemSkillC108Name=Dreadwalker's Grace
-tagGDX1ItemSkillC108Desc=Inhale the energies given off by a freshly slain foe, restoring your strength and empowering your vile powers.
+tagGDX1ItemSkillC108Name=Dreadwalkerova elegance
+tagGDX1ItemSkillC108Desc=Inhaluj energie vycházející z čerstvě padlých nepřátel a obnov tak část tvé síly a posilni své odporné schopnosti.
 
-tagGDX1ItemSkillC109Name=Luminari Presence
-tagGDX1ItemSkillC109Desc=The very presence of a trained Luminari Inquisitor is enough to put fiends and heretics at unease. ^oThis ability must be toggled to maintain its effect.
+tagGDX1ItemSkillC109Name=Přítomnost Luminářů
+tagGDX1ItemSkillC109Desc=Už jen samotná přítomnost trénovaného inkvizitora Luminářů je dost na to, aby uvrhl stvůry a kacíře v obavy. ^oTato schopnost musí být aktivní, aby účinkovala.
 
-tagGDX1ItemSkillC110Name=Poison Bolt Burst
-tagGDX1ItemSkillC110Desc=A burst of poisonous orbs erupts from you.
+tagGDX1ItemSkillC110Name=Dávka jedovatých projektilů
+tagGDX1ItemSkillC110Desc=Je z tebe uvolněna dávka jedovatých projektilů.
 
-tagGDX1ItemSkillC111Name=Noxious Fumes
-tagGDX1ItemSkillC111Desc=Unleash your excitement.
+tagGDX1ItemSkillC111Name=Jedovaté plyny
+tagGDX1ItemSkillC111Desc=Dokaž své rozhořčení.
 
 tagGDX1ItemSkillC112Name=
 tagGDX1ItemSkillC112Desc=
@@ -259,83 +259,83 @@ tagGDX1ItemSkillC113Name=
 tagGDX1ItemSkillC113Desc=
 
 
-tagGDX1ItemSkillD101Name=Uroboruuk's Will
-tagGDX1ItemSkillD101Desc=Impose the dark master's will upon your feeble foes, forcing the weakminded to flee helplessly.
+tagGDX1ItemSkillD101Name=Uroboruukova vůle
+tagGDX1ItemSkillD101Desc=Uval temnou vůli mistra na své slabé nepřátele a donuť tak ty slabomyslné bezmocně prchat.
 
-tagGDX1ItemSkillD102Name=Bone Barrier
-tagGDX1ItemSkillD102Desc=The bones of fallen minions form a barrier around you, shielding you from physical and unliving harm.
+tagGDX1ItemSkillD102Name=Bariéra z kostí
+tagGDX1ItemSkillD102Desc=Kosti padlých nohsledů zformují v tvém okolí bariéru, chránící tě před fyzickou újmou a útoky neživých.
 
-tagGDX1ItemSkillD103Name=Ravager's Bite
-tagGDX1ItemSkillD103Desc=Ravager's very bite saps the will to live out of any foe, leaving them withered and drained of all life essence.
+tagGDX1ItemSkillD103Name=Pustošitelovo kousnutí
+tagGDX1ItemSkillD103Desc=Už jen samotné Pustošitelovo kousnutí vysává z tvých nepřátel vůli žít, což je zanechá seschlé a vysáté, bez jakékoliv životní energie.
 
-tagGDX1ItemSkillD104Name=Insanity
-tagGDX1ItemSkillD104Desc=The spirits within the axe lash out at your foes, driving them mad with despair.
+tagGDX1ItemSkillD104Name=Šílenost
+tagGDX1ItemSkillD104Desc=Duchové uvnitř sekery vyrazí proti tvému nepříteli, zanechávajících je šílené a v beznaději.
 
-tagGDX1ItemSkillD105Name=Mortal Coil
-tagGDX1ItemSkillD105Desc=Morguul's toxin accelerates the victim towards their inevitable end.
+tagGDX1ItemSkillD105Name=Smrtelníkova smyčka
+tagGDX1ItemSkillD105Desc=Morguulovy toxiny urychlují proces oběti, která se tak přibližuje svému nevyhnutelnému konci.
 
-tagGDX1ItemSkillD106Name=Venomlance
-tagGDX1ItemSkillD106Desc=Unleashes a lance of venom that penetrates any foe.
+tagGDX1ItemSkillD106Name=Jedovaté kopí  
+tagGDX1ItemSkillD106Desc=Vrhne na nepřítele jedovaté kopí, které jej probodne.
 
-tagGDX1ItemSkillD107Name=Malmouth Ingenuity
-tagGDX1ItemSkillD107Desc=A peerless defense and offense in one. ^oThis is a ranged weapon passive bonus.
+tagGDX1ItemSkillD107Name=Malmouthská vynalézavost
+tagGDX1ItemSkillD107Desc=Jedinečná obrana a útok v jednom. ^oToto je pasivní bonus ke střelným zbraním.
 
-tagGDX1ItemSkillD108Name=Grey Barrier
-tagGDX1ItemSkillD108Desc=The Grey Knight's barrier shields you from inhuman harm.
+tagGDX1ItemSkillD108Name=Šedá bariéra
+tagGDX1ItemSkillD108Desc=Bariéra šedého rytíře tě ochrání před nelidskými stvořeními.
 
-tagGDX1ItemSkillD109Name=Defy Death
-tagGDX1ItemSkillD109Desc=When death approaches, you boldly say...no.
+tagGDX1ItemSkillD109Name=Vzepřít se smrti
+tagGDX1ItemSkillD109Desc=Když přijde smrt, směle řekneš "ne".
 
-tagGDX1ItemSkillD110Name=Foul Contagion
-tagGDX1ItemSkillD110Desc=A foul contagion infects your foes, weakening them to further infection.
+tagGDX1ItemSkillD110Name=Odporná nákaza
+tagGDX1ItemSkillD110Desc=Odporná nákaza infikuje tvé nepřátele, čímž je oslabuje vůči dalším infekcím.
 
-tagGDX1ItemSkillD111Name=Fiend's Gaze
-tagGDX1ItemSkillD111Desc=The fiend's gaze falls upon your foes, burning their very souls.
+tagGDX1ItemSkillD111Name=Pohled stvůry
+tagGDX1ItemSkillD111Desc=Pohled stvůry se soustředí na tvé nepřátele a pálí jejich duše.
 
-tagGDX1ItemSkillD112Name=Flame Patch
-tagGDX1ItemSkillD112Desc=You ignite the very ground you step on.
+tagGDX1ItemSkillD112Name=Ohnivé pole
+tagGDX1ItemSkillD112Desc=Zapaluješ zemi, po které chodíš.
 
-tagGDX1ItemSkillD113Name=Light of Truth
-tagGDX1ItemSkillD113Desc=The light of the sacred truth overwhelms your foes and forces the weakminded to serve.
+tagGDX1ItemSkillD113Name=Světlo pravdy
+tagGDX1ItemSkillD113Desc=Světlo posvátné pravdy zaplaví tvé nepřátele a donutí ty slabomyslné ti sloužit.
 
 tagGDX1ItemSkillD114Name=Spines of Hagarrad
 tagGDX1ItemSkillD114Desc=Unleash icy spines conjured from the Luminari Rune of Hagarrad upon your foes.
 
-tagGDX1ItemSkillD115Name=Storm Cage
-tagGDX1ItemSkillD115Desc=Sorcerous lightning binds the feet of your foes, trapping them in place.
+tagGDX1ItemSkillD115Name=Klec z blesků
+tagGDX1ItemSkillD115Desc=Vyčarované blesky připoutá nohy tvých nepřátel k zemi, kde zůstanou nehybní.
 
-tagGDX1ItemSkillD116Name=Nightclaw
-tagGDX1ItemSkillD116Desc=Shred nearby foes with blades of shadow, tearing open wounds and crippling movement.
+tagGDX1ItemSkillD116Name=Noční pařát
+tagGDX1ItemSkillD116Desc=Rozřež nepřátele v blízkosti pomocí ostří ze stínu a zanech je chromé s otevřenými ranami.
 
-tagGDX1ItemSkillD117Name=Malakor's Infusion
-tagGDX1ItemSkillD117Desc=Malakor's runes instill a balance within you, mending wounds and empowering your weapons with the elements.
+tagGDX1ItemSkillD117Name=Malakorova infuze
+tagGDX1ItemSkillD117Desc=Malakorovy runy do tebe vštěpí rovnováhu, rány se začnou léčit a posílí tvé zbraně elementárním účinkem.
 
-tagGDX1ItemSkillD118Name=Arcane Devastation
-tagGDX1ItemSkillD118Desc=At your command, arcane energy tears through the sky and barrages your foes.
+tagGDX1ItemSkillD118Name=Arkanická devastace
+tagGDX1ItemSkillD118Desc=Na tvůj příkaz se arkanická energie prodere skrze oblohu a zasáhne tvé nepřátele.
 
-tagGDX1ItemSkillD119Name=Gutsplosion
-tagGDX1ItemSkillD119Desc=A shower of gore erupts from your slain foe.
+tagGDX1ItemSkillD119Name=Tělovýbuch
+tagGDX1ItemSkillD119Desc=Z nepřátel tebou zabitých doslova cáká krev.
 
-tagGDX1ItemSkillD120Name=Dreadfire
-tagGDX1ItemSkillD120Desc=Aetherfire surrounds and burns your foe before spreading to nearby enemies.
+tagGDX1ItemSkillD120Name=Obávaný oheň
+tagGDX1ItemSkillD120Desc=Aetherický oheň obklopuje a pálí tvé nepřátele, zatímco se šíří v jejich řadách.
 
-tagGDX1ItemSkillD121Name=Rune of Elgoloth
-tagGDX1ItemSkillD121Desc=Mark your foe with the Luminari Rune of Elgoloth, electrocuting and exposing them to the elements.
+tagGDX1ItemSkillD121Name=Elgolothova runa
+tagGDX1ItemSkillD121Desc=Označ své nepřátele Luminářskou runou Elgolotha, čímž jim budeš způsobovat poškození elektřinou a vystavíš je navíc vlivu elementů.
 
-tagGDX1ItemSkillD122Name=Hungering Maw
-tagGDX1ItemSkillD122Desc=Lash out with your shield, hungrily sapping your foes of their life essence. ^oRequires a melee weapon.
+tagGDX1ItemSkillD122Name=Hladový chřtán
+tagGDX1ItemSkillD122Desc=Proveď výpad svým štítem a hladově vysaj život ze svých nepřátel. ^oVyžaduje chladou zbraň.
 
-tagGDX1ItemSkillD123Name=Watcher's Aim
-tagGDX1ItemSkillD123Desc=Unhindered by the weight of a shield, the watcher's aim is true. ^oThis is a ranged one-handed weapon passive bonus.
+tagGDX1ItemSkillD123Name=Pozorovatelova muška
+tagGDX1ItemSkillD123Desc=Díky váze svého štítu je pozorovatelova muška pevná. ^oToto je pasivní bonus pro jednoruční palné zbraně.
 
-tagGDX1ItemSkillD124Name=Hellscourge
-tagGDX1ItemSkillD124Desc=A surge of tainted flame erupts from you, easily burning through any foe.
+tagGDX1ItemSkillD124Name=Pekelná metla
+tagGDX1ItemSkillD124Desc=Pohroma zkažených plamenů se šíří směrem od tebe a lehce popálí jakékoliv nepřátele.
 
-tagGDX1ItemSkillD125Name=Rageflame
-tagGDX1ItemSkillD125Desc=A burst of tainted flames erupts from the earth.
+tagGDX1ItemSkillD125Name=Rozzuřený oheň
+tagGDX1ItemSkillD125Desc=Salva poskvrněných plamenů šlehá ze země.
 
-tagGDX1ItemSkillD126Name=Flame of Gar'dal
-tagGDX1ItemSkillD126Desc=Engulf yourself in the wicked flames of Gar'dal, which are harmless to you and those you consider allies while singeing any foes that draw near.
+tagGDX1ItemSkillD126Name=Gar'dalův oheň
+tagGDX1ItemSkillD126Desc=Zaplav [[ms]sám[fs]sama] sebe v Gar'dalových zkažených plamenech, které tobě a těm, které považuješ za spojence, nepůsobí žádnou újmu, zatímco tví nepřátelé, kteří jsou dost blízko, se snadno opálí.
 
 tagGDX1ItemSkillD127Name=Executioner's Edge
 tagGDX1ItemSkillD127Desc=Unleash a deadly spinning blade to decapitate your foes.
@@ -353,7 +353,7 @@ tagGDX1ItemSkillD131Name=Fleshcarver
 tagGDX1ItemSkillD131Desc=Carve a path of destruction through your foes, leaving the survivors bleeding out, their fate already sealed.
 
 tagGDX1ItemSkillD132Name=Dreadblade
-tagGDX1ItemSkillD132Desc=Cleave through your foes with a tainted edge that petrifies flesh. ^oRequires a melee weapon.
+tagGDX1ItemSkillD132Desc=Cleave through your foes with a tainted edge that petrifies flesh. ^oVyžaduje chladou zbraň.
 
 tagGDX1ItemSkillD133Name=Debilitating Rot
 tagGDX1ItemSkillD133Desc=Infect your foes with a disease that rots the flesh away until nothing remains.
@@ -362,7 +362,7 @@ tagGDX1ItemSkillD134Name=Unleash the Arcane
 tagGDX1ItemSkillD134Desc=Arcane energies emanate from you, the sheer force of magic so intense that it harms nearby foes.
 
 tagGDX1ItemSkillD135Name=Lucky Shot
-tagGDX1ItemSkillD135Desc=Fire a spread of bullets at your enemies. With that many attempts, luck just may not have anything to do with it. ^oThis is a ranged technique that activates off of default weapon attacks.
+tagGDX1ItemSkillD135Desc=Fire a spread of bullets at your enemies. With that many attempts, luck just may not have anything to do with it. ^oToto je technika pro střelné zbraně a je aktivována běžným útokem.
 
 tagGDX1ItemSkillD136Name=Blood Pool
 tagGDX1ItemSkillD136Desc=A pool of filthy blood forms beneath your foes.
@@ -410,19 +410,19 @@ tagGDX1ItemSkillD150Name=Lifeblaze
 tagGDX1ItemSkillD150Desc=Living flame consumes your foe, burning more than just the flesh.
 
 tagGDX1ItemSkillD151Name=Venomancer's Aura
-tagGDX1ItemSkillD151Desc=Empower your weapons and those of nearby allies with a dreadful venom. ^oThis ability must be toggled to maintain its effect.
+tagGDX1ItemSkillD151Desc=Empower your weapons and those of nearby allies with a dreadful venom. ^oTato schopnost musí být aktivní, aby účinkovala.
 
 tagGDX1ItemSkillD152Name=Necrolord's Aura
-tagGDX1ItemSkillD152Desc=Imbue your weapons and those of nearby allies with the power of undeath. ^oThis ability must be toggled to maintain its effect.
+tagGDX1ItemSkillD152Desc=Imbue your weapons and those of nearby allies with the power of undeath. ^oTato schopnost musí být aktivní, aby účinkovala.
 
 tagGDX1ItemSkillD153Name=Ignaffar's Presence
-tagGDX1ItemSkillD153Desc=Imbue your armor with the flame of Ignaffar, which sears nearby foes. ^oThis ability must be toggled to maintain its effect.
+tagGDX1ItemSkillD153Desc=Imbue your armor with the flame of Ignaffar, which sears nearby foes. ^oTato schopnost musí být aktivní, aby účinkovala.
 
 tagGDX1ItemSkillD154Name=Gildor's Guard
 tagGDX1ItemSkillD154Desc=Raise up your shield in anticipation, retaliating against any melee attackers in kind.
 
 tagGDX1ItemSkillD155Name=Prismatic Aura
-tagGDX1ItemSkillD155Desc=Imbue your armor and that of your nearby allies with protective runes. ^oThis ability must be toggled to maintain its effect.
+tagGDX1ItemSkillD155Desc=Imbue your armor and that of your nearby allies with protective runes. ^oTato schopnost musí být aktivní, aby účinkovala.
 
 tagGDX1ItemSkillD156Name=Aether Spines
 tagGDX1ItemSkillD156Desc=Unleash a burst of aether-tainted bone spines upon your foes.
@@ -452,13 +452,13 @@ tagGDX1ItemSkillD164Name=Stoneguard
 tagGDX1ItemSkillD164Desc=The stoneguard hardens your skin against physical blows and lashes out against those who would harm you.
 
 tagGDX1ItemSkillD165Name=Gunner's Aegis
-tagGDX1ItemSkillD165Desc=The best offense and defense at the tip of the barrel. ^oThis is a ranged one-handed weapon passive bonus.
+tagGDX1ItemSkillD165Desc=The best offense and defense at the tip of the barrel. ^oToto je pasivní bonus pro jednoruční palné zbraně.
 
 tagGDX1ItemSkillD166Name=Concussive Round
 tagGDX1ItemSkillD166Desc=Fire a high-velocity round that penetrates all targets.
 
 tagGDX1ItemSkillD167Name=Stun Blast
-tagGDX1ItemSkillD167Desc=Fire a spread across the room that leaves foes perforated and stunned. ^oThis is a ranged technique that activates off of default weapon attacks.
+tagGDX1ItemSkillD167Desc=Fire a spread across the room that leaves foes perforated and stunned. ^oToto je technika pro střelné zbraně a je aktivována běžným útokem.
 
 tagGDX1ItemSkillD168Name=Korba's Bite
 tagGDX1ItemSkillD168Desc=Korba's axe bites into your foes with its chilling edge.
@@ -467,7 +467,7 @@ tagGDX1ItemSkillD169Name=Unleash Chaos
 tagGDX1ItemSkillD169Desc=Unleash the darkness you harness upon unsuspecting foes in a devastating blastwave around you.
 
 tagGDX1ItemSkillD170Name=Spellscourge
-tagGDX1ItemSkillD170Desc=Through sheer mental will, you turn the powers of magic itself into a physical force. ^oThis ability must be toggled to maintain its effect.
+tagGDX1ItemSkillD170Desc=Through sheer mental will, you turn the powers of magic itself into a physical force. ^oTato schopnost musí být aktivní, aby účinkovala.
 
 tagGDX1ItemSkillD171Name=Lifedrinker
 tagGDX1ItemSkillD171Desc=Your thirst for life is insatiable. Even when you draw upon a foe's life essence, nearby victims suffer the same fate.
@@ -502,10 +502,10 @@ tagGDX1w=GrimDawn/images/evil
 #Component Skills
 
 tagGDX1CompSkillA101Name=Presence of Might
-tagGDX1CompSkillA101Desc=You shrug off the blows of your opponents with ease. ^oThis ability must be toggled to maintain its effect.
+tagGDX1CompSkillA101Desc=You shrug off the blows of your opponents with ease. ^oTato schopnost musí být aktivní, aby účinkovala.
 
 tagGDX1CompSkillA102Name=Whirling Blades
-tagGDX1CompSkillA102Desc=At your command, whirling blades spin around you, shredding all foes who come too near. ^oThis ability must be toggled to maintain its effect.
+tagGDX1CompSkillA102Desc=At your command, whirling blades spin around you, shredding all foes who come too near. ^oTato schopnost musí být aktivní, aby účinkovala.
 
 tagGDX1CompSkillA103Name=Chain Lightning
 tagGDX1CompSkillA103Desc=Lightning crackles at your fingertips and cascades off of your foes to demolish their ranks.
@@ -529,7 +529,7 @@ tagGDX1CompSkillA109Name=Biting Blades
 tagGDX1CompSkillA109Desc=Hurl a blade coated in caustic acid that spirals outward away from your position, piercing through all enemies along the way.
 
 tagGDX1CompSkillA110Name=Arcane Resonance
-tagGDX1CompSkillA110Desc=Your mastery over the arcane shields you from debilitating effects. ^oThis ability must be toggled to maintain its effect.
+tagGDX1CompSkillA110Desc=Your mastery over the arcane shields you from debilitating effects. ^oTato schopnost musí být aktivní, aby účinkovala.
 
 tagGDX1CompSkillB101Name=Annihilation
 tagGDX1CompSkillB101Desc=The power within the seal annihilates your foe.
@@ -583,7 +583,7 @@ tagGDX1RelicSkillD105Name=Doomforce
 tagGDX1RelicSkillD105Desc=Unleash a physical shockwave so powerful that it knocks down and draws in nearby foes.
 
 tagGDX1RelicSkillD106Name=Blazing Charge
-tagGDX1RelicSkillD106Desc=Charge forth into battle in the name of Empyrion and incinerate foes with the divine flame. ^oRequires a melee weapon. When used with a shield, the shield's damage is added.
+tagGDX1RelicSkillD106Desc=Charge forth into battle in the name of Empyrion and incinerate foes with the divine flame. ^oVyžaduje chladou zbraň. When used with a shield, the shield's damage is added.
 
 tagGDX1RelicSkillD107Name=Chaos Surge
 tagGDX1RelicSkillD107Desc=Hurl a blast of destructive energy that pierces through foes before returning to you.
@@ -598,13 +598,13 @@ tagGDX1RelicSkillD110Name=Blood Orb
 tagGDX1RelicSkillD110Desc=Launch an orb of volatile blood at your foes.
 
 tagGDX1RelicSkillD111Name=Reaping Arc
-tagGDX1RelicSkillD111Desc=Swing with your weapon in an arc, cleaving through foes and reaping their souls. ^oRequires a melee weapon.
+tagGDX1RelicSkillD111Desc=Swing with your weapon in an arc, cleaving through foes and reaping their souls. ^oVyžaduje chladou zbraň.
 
 tagGDX1RelicSkillD112Name=Ignaffar's Combustion
 tagGDX1RelicSkillD112Desc=The ancient relic erupts with destructive flame that is harmless to you and your allies, but devastating to anyone standing too close.
 
 tagGDX1RelicSkillD113Name=Mogdrogen's Ardor
-tagGDX1RelicSkillD113Desc=The beast god's blessing surrounds you and your minions, shielding you from harm. ^oThis ability must be toggled to maintain its effect.
+tagGDX1RelicSkillD113Desc=The beast god's blessing surrounds you and your minions, shielding you from harm. ^oTato schopnost musí být aktivní, aby účinkovala.
 
 
 #ConsumableSkills
