@@ -1,24 +1,24 @@
 tagSkillClassName07=[[ms]Inkvizitor[fs]Inkvizitorka]
-tagSkillClassName08=Nekromancer
+tagSkillClassName08=[[ms]Nekromant[fs]Nekromantka]
 
 tagSkillClassName0107=[[ms]Taktik[fs]Taktička]
 tagSkillClassName0108=[[ms]Rytíř smrti[fs]Rytířka smrti]
-tagSkillClassName0207=[[ms]Očišťovatel[fs]Očišťovatelka]
+tagSkillClassName0207=[[ms]Čistič[fs]Čistička]
 tagSkillClassName0208=[[ms]Poskvrnitel[fs]Poskvrnitelka]
 tagSkillClassName0307=[[ms]Podvodník[fs]Podvodnice]
-tagSkillClassName0308=[[ms]Student podivna[fs]Studentka podivna]
+tagSkillClassName0308=[[ms]Kabalista[fs]Kabalistka]
 tagSkillClassName0407=[[ms]Infiltrátor[fs]Infiltrátorka]
 tagSkillClassName0408=[[ms]Rozparovač[fs]Rozparovačka]
-tagSkillClassName0507=[[ms]Lovec čarodějek[fs]Lovkyně čarodějů]
+tagSkillClassName0507=[[ms]Lovec čarodějů[fs]Lovkyně čarodějů]
 tagSkillClassName0508=[[ms]Vazač kouzel[fs]Vazačka kouzel]
-tagSkillClassName0607=[[ms]Vindikátor[fs]Vindikátorka]
+tagSkillClassName0607=[[ms]Obhájce[fs]Obhájkyně]
 tagSkillClassName0608=[[ms]Ritualista[fs]Ritualistka]
-tagSkillClassName0708=Odpadlík
+tagSkillClassName0708=[[ms]Odpadlík[fs]Odpadlice]
 
 
-tagSkillClassDescription07=Jakožto [[ms]členi[fs]členky] váženého spolku Luminářů [[ms]byli inkvizitoři zodpovědní[fs]byly inkvizitorky zodpovědné] za ochranu Erulanské říše před nebezpečími podivna a okultismu. Za ta staletí ikvizitoři a inkvizitorky posbírali nepřeberné množství relikvií nepředstavitelné síly, ale povinnost má leckdy přednost před bezpečností a tak některé z těchto relikvií byly studovány a kopírovány, aby je mohla používat inkvizice. Byť excelují se střelnými zbraněmi, jsou dále [[ms]inkvizitoři vybavení[fs]inkvizitorky vybavené] podivnými runami, které jim umožňují být dost nebezpečnými i v boji na blízko.
+tagSkillClassDescription07=Jakožto [[ms]členové[fs]členky] váženého spolku Luminářů [[ms]byli inkvizitoři zodpovědní[fs]byly inkvizitorky zodpovědné] za ochranu Erulanské říše před nebezpečími podivna a okultismu. Za ta staletí ikvizitoři a inkvizitorky posbírali nepřeberné množství relikvií nepředstavitelné síly, ale povinnost má leckdy přednost před bezpečností a tak některé z těchto relikvií byly studovány a kopírovány, aby je mohla používat inkvizice. Byť excelují se střelnými zbraněmi, jsou dále [[ms]inkvizitoři vybavení[fs]inkvizitorky vybavené] podivnými runami, které jim umožňují být dost nebezpečnými i v boji na blízko.
 
-tagSkillClassDescription08=Ikdyž mnoho nekromancerů moderní doby pochází z řádu Strážců smrti studující o záhadném Uroboruukovi, ne všichni si zvolili život v odloučení. Ikdyž jejich profese sama o sobě vyvolává strach a odpor, nekromanceři z Cairnu hledají rovnováhu studováním jakéhokoliv umění spojeného s tím, co jedou postihne každého živého: se smrtí. Nekromanceři hojně využívají vyvolané kostlivce a vysávají samotný život z jejich neopatrných nepřátel, nicméně není zaznamenáno, že by se nevyzbrojovali vojenským arzenálem.
+tagSkillClassDescription08=Ikdyž mnoho nekromantů moderní doby pochází z řádu Strážců smrti studující o záhadném Uroboruukovi, ne všichni si zvolili život v odloučení. Ikdyž jejich profese sama o sobě vyvolává strach a odpor, nekromanti z Cairnu hledají rovnováhu studováním jakéhokoliv umění spojeného s tím, co jedou postihne každého živého: se smrtí. Nekromanti hojně využívají vyvolané kostlivce a vysávají samotný život z jejich neopatrných nepřátel, nicméně není zaznamenáno, že by se nevyzbrojovali vojenským arzenálem.
 
 
 #Class02
@@ -118,18 +118,18 @@ tagGDX1Class08SkillName00A=Necromancer
 tagGDX1Class08SkillDescription00A=Mistrovství v ovládání krutého osudu, který čeká na všechny živé.
 
 tagGDX1Class08SkillName01A=Sání života
-tagGDX1Class08SkillDescription01A=Nekromanceři obecně věří ve vyšší dobro a někdy vyšší dobro znamená to, že život jednoho musí být obětován pro to, aby druhý mohl žít. Ikdyž se na tuto schopnost nekromanceři dívají se svraštělým čelem, někteří její uživatelé mají problém odolat lákavosti surové životní energie.
+tagGDX1Class08SkillDescription01A=Nekromanti obecně věří ve vyšší dobro a někdy vyšší dobro znamená to, že život jednoho musí být obětován pro to, aby druhý mohl žít. Ikdyž se na tuto schopnost nekromanti dívají se svraštělým čelem, někteří její uživatelé mají problém odolat lákavosti surové životní energie.
 tagGDX1Class08SkillName01B=Hlad
 tagGDX1Class08SkillDescription01B=Hlad po životní esenci nemusí být jednoduché uspokojit, pokud si již jednou [[ms]okusil[fs]okusila]. S tím, jak promítáš svůj hlad do kouzla toto kouzlo ovlivňuješ a tak jsou kromě hlavního cíle občas zasaženi i nepřátelé v blízkosti.
 tagGDX1Class08SkillName01C=Rozklad
 tagGDX1Class08SkillDescription01C=Ještě před tím než vyhasne život v jejich očích, se tví přátelé začnou rozkládat tam, kde stojí.
 tagGDX1Class08SkillName01D=Smrtonosný chlad
-tagGDX1Class08SkillDescription01D=Nekromanceři, jež dobře využívají verše smrti, mohou donutit smrtící chlad padnout na nepohodlné nepřátele, čímž je zpomalí, nicméne za cenu menšího množství vysáté životní energie.
+tagGDX1Class08SkillDescription01D=Nekromanti, jež dobře využívají verše smrti, mohou donutit smrtící chlad padnout na nepohodlné nepřátele, čímž je zpomalí, nicméne za cenu menšího množství vysáté životní energie.
 xxtagGDX1Class08SkillName01D=Nekonečná žízeň
 xxtagGDX1Class08SkillDescription01D=Přenos životní energie je obecně schopnost vyhrazená pro kritické situace, ale někteří její uživatelé mají problém s odoláváním vůči této čisté životní energii a plně se tomuto kouzlu poddají, avšak na úkor těch, co stojí kolem.
 
 tagGDX1Class08SkillName02A=Vyvolání kostlivců
-tagGDX1Class08SkillDescription02A=Umění oživování koster patří mezi první kroky aspirujících Nekromancerů, ale také mezi ty nejzákladnější. Skrze jejich čirou mysl mohou Nekromanceři zavolat duchy spoza závoje reality a umístit je do kostí padlých. Pokud je rituál úspěšný, kosterní poskoci, loajální pouze tomu, kdo je vyvolal, povstanou. ^oKostlivci sílí s polu s bonusy pro mazlíčky. Skeletons sílí s bonusy pro mazlíčky. Silnější nohsledi mohou být vyvoláni na vyšší úrovni kouzla.
+tagGDX1Class08SkillDescription02A=Umění oživování koster patří mezi první kroky aspirujících Nekromantů, ale také mezi ty nejzákladnější. Skrze jejich čirou mysl mohou Nekromanti zavolat duchy spoza závoje reality a umístit je do kostí padlých. Pokud je rituál úspěšný, kosterní poskoci, loajální pouze tomu, kdo je vyvolal, povstanou. ^oKostlivci sílí s polu s bonusy pro mazlíčky. Skeletons sílí s bonusy pro mazlíčky. Silnější nohsledi mohou být vyvoláni na vyšší úrovni kouzla.
 tagGDX1Class08SkillTracker02A=Momentální počet vyvolaných kostlivců
 tagGDX1Class08SkillName02A_PetSkill=Starodávné zbraně
 tagGDX1Class08SkillName02A_PetSkill02=Úlomek ohně
@@ -143,18 +143,18 @@ tagGDX1Class08SkillDescription02B=Mistrovství v provádění oživovacího ritu
 tagGDX1Class08SkillName02C=Vůle hrobky
 tagGDX1Class08SkillDescription02C=Posilní kosterní přívržence nekrotickými energiemi, čímž posilní jejich kosti vůči fyzickým úderům.
 tagGDX1Class08SkillName02D=Náhradní kosti
-tagGDX1Class08SkillDescription02D=Zkušený nekromancer využije jakékoliv prostředky, které jsou k dispozici. Je tak možnost, že z každého zabitého nepřítele povstane další poslušný nohsled. ^oTato možnost se aktivuje ve chvíli, kdy hráč zabije nepřítele.
+tagGDX1Class08SkillDescription02D=Zkušený nekromant využije jakékoliv prostředky, které jsou k dispozici. Je tak možnost, že z každého zabitého nepřítele povstane další poslušný nohsled. ^oTato možnost se aktivuje ve chvíli, kdy hráč zabije nepřítele.
 tagGDX1Class08SkillName02E=Rituál s kostmi
-tagGDX1Class08SkillDescription02E=Díky intenzivnímu psychickému tréninku může nekromancer vštípit prokletí nemrtvých do kostí mrtvých, a to po neurčitou dobu, čímž si umožňuje vytvořit si malou legii nemrtvých. Tito bojovníci, kteří nechřadnou časem, jsou nicméně více zranitelní díky tomu, jak moc touží být milosrdně propuštěni ze spárů smrti.
+tagGDX1Class08SkillDescription02E=Díky intenzivnímu psychickému tréninku může nekromant vštípit prokletí nemrtvých do kostí mrtvých, a to po neurčitou dobu, čímž si umožňuje vytvořit si malou legii nemrtvých. Tito bojovníci, kteří nechřadnou časem, jsou nicméně více zranitelní díky tomu, jak moc touží být milosrdně propuštěni ze spárů smrti.
 
 tagGDX1Class08SkillName03A=Sběr kostí
-tagGDX1Class08SkillDescription03A=Skrze sílu nekrotických energií může nekromancer donutit kosti dávno padlých, aby prorazili zem a jako zubatá ostří nabodávaly nicnetušící nepřátele.
+tagGDX1Class08SkillDescription03A=Skrze sílu nekrotických energií může nekromant donutit kosti dávno padlých, aby prorazili zem a jako zubatá ostří nabodávaly nicnetušící nepřátele.
 tagGDX1Class08SkillName03B=Děs
 tagGDX1Class08SkillDescription03B=Nekrotické hroty kostí probodávají samotnou esenci tvých nepořátel, čímž odrhává život z jejich těl a slabší nepřátelé v hrůze prchají, pokud tedy jejich život neprchnul už předtím.
 tagGDX1Class08SkillName03C=Sklízení duší
 tagGDX1Class08SkillDescription03C=Kosti mrtvých lámou a absorbují duši tvých nepřátel, což tobě a tvým nohsledům dodává sílu mrtvých. ^oSklízení duší ovlivňuje všechny útoky a všechny mazlíčky, pokud je aktivní.
 tagGDX1Class08SkillName03D=Žnec mrtvých
-tagGDX1Class08SkillDescription03D=Nekromanceři trénovaní v boji na blízko nejsou ničím neobvyklým, ale ti jež používají masivní obouruční sbraně, aby nakrájeli nepřátele na bojištích, se právoplatně nazývají "sběrateli kostí". Kolují historky, že Černá legie tyto jedince raději najímala, než aby je popravovala za porušení nařízení říše. ^oVyžaduje obouruční chladnou zbraň.Vyžaduje obouruční chladnou zbraň.
+tagGDX1Class08SkillDescription03D=Nekromanti trénovaní v boji na blízko nejsou ničím neobvyklým, ale ti jež používají masivní obouruční sbraně, aby nakrájeli nepřátele na bojištích, se právoplatně nazývají "sběrateli kostí". Kolují historky, že Černá legie tyto jedince raději najímala, než aby je popravovala za porušení nařízení říše. ^oVyžaduje obouruční chladnou zbraň.Vyžaduje obouruční chladnou zbraň.
 
 tagGDX1Class08SkillName04A=Hladová Země
 tagGDX1Class08SkillDescription04A=Na tvůj příkaz se nákaza a hniloba valí z pekelných trhlin v zemi a infikuje všechny nešťastníky, kteří stojí příliš blízko.
@@ -184,10 +184,10 @@ tagGDX1Class08SkillDescription07A=Děsivým vypuštěním nekrotických energií
 tagGDX1Class08SkillName07B=Vařící se krev
 tagGDX1Class08SkillDescription07B=Tato kletba zahřeje krev v tvých nepřátelích a ta začne vařit, což způsobí jejich rychlý rozklad během posledních výdechů.
 tagGDX1Class08SkillName07C=Spálení duše
-tagGDX1Class08SkillDescription07C=Vedením surové energie Aetheru do schopnosti Přečerpání duše může nekromancer pálit samotné duše svých nepřátel po delší dobu, ale esence přenášená tímto způsobem není až tak stabilní.
+tagGDX1Class08SkillDescription07C=Vedením surové energie Aetheru do schopnosti Přečerpání duše může nekromant pálit samotné duše svých nepřátel po delší dobu, ale esence přenášená tímto způsobem není až tak stabilní.
 
 tagGDX1Class08SkillName08A=Znamení nemoci
-tagGDX1Class08SkillDescription08A=Samotná nekromancerova přítomnost je často dostačující, aby vyvolala hrůzu v jeho nepřátelích. Vydáváš zvuk v podobě kvílení duchů na svůj cíl, čímž otřeseš důvěrou slabších nepřátel a tak se mezi nimi začne rychle šířit zmatek a strach.
+tagGDX1Class08SkillDescription08A=Samotná nekromantova přítomnost je často dostačující, aby vyvolala hrůzu v jeho nepřátelích. Vydáváš zvuk v podobě kvílení duchů na svůj cíl, čímž otřeseš důvěrou slabších nepřátel a tak se mezi nimi začne rychle šířit zmatek a strach.
 
 tagGDX1Class08SkillName09A=Odtržení ducha
 tagGDX1Class08SkillDescription09A=Jedna z nejmocnějších technik věnovaná nasledníkům Uroboruuka. Tím, že odtrhneš bytost od těla svého nepřítele můžeš způsobit nejen zdrcující zranění, ale dokonce vyvolat část jejich ducha, aby bojoval po tvém boku. Výsledkem je vysoce nestabilní, agresivní přízrak, což je ještě více užitečné v boji. ^oDuch sílí spolu s bonusy pro mazlíčky.
@@ -198,10 +198,10 @@ tagGDX1Class08SkillName10A=Posel duší
 tagGDX1Class08SkillDescription10A=Tím jak mistrně ovládáš smrt jsi se [[ms]stal[fs]stala] živoucím poslem tohoto poslednmího soudu, vysáváš z nepřátel životní energii a chceš tak svévolně manipulovat cílem. ^oTato schopnost musí být aktivní, aby účinkovala.
 
 tagGDX1Class08SkillName11A=Ovládnutí smrti
-tagGDX1Class08SkillDescription11A=Plně vytrénovaný nekromancer je hrůzostrašná postava, jejich příchod je provázen nekonečnými zástupy nemrtvých, navždy podřízených vůli jejich [[ms]pána[fs]paní]. ^oTato schopnost musí být aktivní, aby účinkovala.
+tagGDX1Class08SkillDescription11A=Plně vytrénovaný nekromant je hrůzostrašná postava, jejich příchod je provázen nekonečnými zástupy nemrtvých, navždy podřízených vůli jejich [[ms]pána[fs]paní]. ^oTato schopnost musí být aktivní, aby účinkovala.
 
 tagGDX1Class08SkillName12A=Odtrhávající úder
-tagGDX1Class08SkillDescription12A=Posílením zbraní smrtícími nekrotickými energiemi mohou nekromanceři způsobovat hluboká fyzická zranění. ^oLze aktivovat všemi běžnými typy útoků zbraně.
+tagGDX1Class08SkillDescription12A=Posílením zbraní smrtícími nekrotickými energiemi mohou nekromanti způsobovat hluboká fyzická zranění. ^oLze aktivovat všemi běžnými typy útoků zbraně.
 tagGDX1Class08SkillName13A=Nekrotické ostří
 tagGDX1Class08SkillDescription13A=Díky účinku hrobového chladu tvé útoky způsobují okamžitou nekrózu v ráně, pohled díky kterému i ti nejodhodlanější nepřátelé zeslábnou. ^oZle aktivovat všemi běžnými typy útoků zbraně. Pokud je použita chladná zbraň, útok zasáhne vícero cílů v blízkosti.
 
