@@ -337,158 +337,158 @@ tagGDX1ItemSkillD125Desc=Salva poskvrněných plamenů šlehá ze země.
 tagGDX1ItemSkillD126Name=Gar'dalův oheň
 tagGDX1ItemSkillD126Desc=Zaplav [[ms]sám[fs]sama] sebe v Gar'dalových zkažených plamenech, které tobě a těm, které považuješ za spojence, nepůsobí žádnou újmu, zatímco tví nepřátelé, kteří jsou dost blízko, se snadno opálí.
 
-tagGDX1ItemSkillD127Name=Executioner's Edge
-tagGDX1ItemSkillD127Desc=Unleash a deadly spinning blade to decapitate your foes.
+tagGDX1ItemSkillD127Name=Ostří popravčího
+tagGDX1ItemSkillD127Desc=Vypusť smrtící rotující čepel a setni hlavy svých nepřátel.
 
-tagGDX1ItemSkillD128Name=Gladiator's Persistence
-tagGDX1ItemSkillD128Desc=Persistence through glorious battle. ^oThis is a meele and ranged two-handed weapon passive bonus.
+tagGDX1ItemSkillD128Name=Výdrž gladiátora
+tagGDX1ItemSkillD128Desc=Výdrž díky slavným bitvám. ^oToto je pasivní bonus pro obouruční jak chladné, tak střelné zbraně.
 
-tagGDX1ItemSkillD129Name=Treacherous Means
-tagGDX1ItemSkillD129Desc=Victory through any means. ^oThis is a ranged weapon passive bonus.
+tagGDX1ItemSkillD129Name=Zrádné úmysly
+tagGDX1ItemSkillD129Desc=Vítězství za každou cenu. ^oToto je pasivní bonus pro střelné zbraně.
 
-tagGDX1ItemSkillD130Name=Magma Orb
-tagGDX1ItemSkillD130Desc=Hurl a projectile of pure fire which fragments at the slightest touch.
+tagGDX1ItemSkillD130Name=Koule z magmatu
+tagGDX1ItemSkillD130Desc=Vrhni projektil čistého ohně, který ničí už při tom nejmenším kontaktu.
 
-tagGDX1ItemSkillD131Name=Fleshcarver
-tagGDX1ItemSkillD131Desc=Carve a path of destruction through your foes, leaving the survivors bleeding out, their fate already sealed.
+tagGDX1ItemSkillD131Name=Řezbář
+tagGDX1ItemSkillD131Desc=Vyřež si cestu skrze své nepřátele a ty ostatní, jejichž osud je již zpečetěn, nech vykrvácet.
 
-tagGDX1ItemSkillD132Name=Dreadblade
-tagGDX1ItemSkillD132Desc=Cleave through your foes with a tainted edge that petrifies flesh. ^oVyžaduje chladou zbraň.
+tagGDX1ItemSkillD132Name=Hrůzné ostří
+tagGDX1ItemSkillD132Desc=Prosekej se skrze své nepřátele otráveným ostřím, které dokáže tkáň proměnit v kámen.
 
-tagGDX1ItemSkillD133Name=Debilitating Rot
-tagGDX1ItemSkillD133Desc=Infect your foes with a disease that rots the flesh away until nothing remains.
+tagGDX1ItemSkillD133Name=Vysilující hniloba
+tagGDX1ItemSkillD133Desc=Nakaž své nepřátele chorobou, díky které začnou z nepřátel odpadávat kusy masa do doby, než nevznikne vůbec nic.
 
-tagGDX1ItemSkillD134Name=Unleash the Arcane
-tagGDX1ItemSkillD134Desc=Arcane energies emanate from you, the sheer force of magic so intense that it harms nearby foes.
+tagGDX1ItemSkillD134Name=Vyzáření arkanické energie
+tagGDX1ItemSkillD134Desc=Arkanické energie proudí z tvého těla, čistá síla magie tak silná, že zraňuje nepřátele v okolí.
 
-tagGDX1ItemSkillD135Name=Lucky Shot
-tagGDX1ItemSkillD135Desc=Fire a spread of bullets at your enemies. With that many attempts, luck just may not have anything to do with it. ^oToto je technika pro střelné zbraně a je aktivována běžným útokem.
+tagGDX1ItemSkillD135Name=Šťastná střela
+tagGDX1ItemSkillD135Desc=Vypal salvu střel na své nepřátele. S tolika pokusy se může stát, že na štěstí úplně nezáleží. ^oToto je technika pro střelné zbraně a je aktivována běžným útokem.
 
-tagGDX1ItemSkillD136Name=Blood Pool
-tagGDX1ItemSkillD136Desc=A pool of filthy blood forms beneath your foes.
+tagGDX1ItemSkillD136Name=Louže krve
+tagGDX1ItemSkillD136Desc=Louže odporné krve se vytvoří pod nohami tvých nepřátel.
 
-tagGDX1ItemSkillD137Name=Elemental Force
-tagGDX1ItemSkillD137Desc=A spiraling force of arcane energies erupts from you.
+tagGDX1ItemSkillD137Name=Elementální síla
+tagGDX1ItemSkillD137Desc=Točící se vír arkanické energie vychází z tvé postavy.
 
-tagGDX1ItemSkillD138Name=Master of Spirits
-tagGDX1ItemSkillD138Desc=Your mastery over your undying servants inspires within them a fierceness that cannot be matched.
+tagGDX1ItemSkillD138Name=[[ms]Vládce[fs]Vládkyně] duchů
+tagGDX1ItemSkillD138Desc=Tvá nadvláda nad svými nemrtvými sluhy je insipiruje nepřekonatelnou měrou.
 
-tagGDX1ItemSkillD139Name=Whispers of the Void
-tagGDX1ItemSkillD139Desc=The void whispers to you secrets not meant for mortal ears.
+tagGDX1ItemSkillD139Name=Šepot Prázdnoty
+tagGDX1ItemSkillD139Desc=Prázdnota ti našeptává tajemství, která by lidské uši neměly slyšet.
 
-tagGDX1ItemSkillD140Name=Combustion
-tagGDX1ItemSkillD140Desc=Inflict searing magical flames upon your foes that sear the flesh and melt through armor.
+tagGDX1ItemSkillD140Name=Hoření
+tagGDX1ItemSkillD140Desc=Způsobuje to, že horké plameny se propálí skrze brnění nepřítele a dál poškozuje tkáň.
 
-tagGDX1ItemSkillD141Name=Mark of the Blade
-tagGDX1ItemSkillD141Desc=The target is marked by the blade, its fate sealed.
+tagGDX1ItemSkillD141Name=Znamení meče
+tagGDX1ItemSkillD141Desc=Cíl je označen znamením meče, čímž je jeho osud zpečetěn.
 
-tagGDX1ItemSkillD142Name=Curse of the Void
-tagGDX1ItemSkillD142Desc=The target is marked by the void, its maddening whispers slowly destroying it from within.
+tagGDX1ItemSkillD142Name=Prokletí Prázdnotou
+tagGDX1ItemSkillD142Desc=Cíl je označen Prázdnotou, jejíž šeptání jej psychicky ničí zevnitř.
 
-tagGDX1ItemSkillD143Name=Stormfield
-tagGDX1ItemSkillD143Desc=A field of electricity forms at your command, electrocuting any enemies that pass through it.
+tagGDX1ItemSkillD143Name=Oblast z blesky
+tagGDX1ItemSkillD143Desc=Oblast elektrických výbojů se vytvoří na tvůj pokyn a elektřinou zasáhne jakéhokoliv nepřítele, který se pokusí projít skrz.
 
-tagGDX1ItemSkillD144Name=Runeguard
-tagGDX1ItemSkillD144Desc=The runes inscribed upon the greaves shield you from arcane harm.
+tagGDX1ItemSkillD144Name=Ochranné runy
+tagGDX1ItemSkillD144Desc=Runy vyryté na tvých nánožnících tě chrání před arkanickými zraněními.
 
-tagGDX1ItemSkillD145Name=Cinderwind
-tagGDX1ItemSkillD145Desc=Conjure a blaze of living flame to incinerate your foes. ^oCinderwinds scale with player damage bonuses.
+tagGDX1ItemSkillD145Name=Vítr s oharky
+tagGDX1ItemSkillD145Desc=Vyvolej požár s živoucím ohněm a zapal tak své nepřátele. ^oVítr s oharky roste spolu s bonusy poškození pro hráče.
 
-tagGDX1ItemSkillD146Name=Ravager's Deathgaze
-tagGDX1ItemSkillD146Desc=The gaze of ravager falls upon nearby foes, weakening their defenses.
+tagGDX1ItemSkillD146Name=Ravagerův smrtící pohled
+tagGDX1ItemSkillD146Desc=Pohled ravagera doléhá na tvé nepřátele v blízkosti a oslabuje tak jejich obranyschopnost.
 
-tagGDX1ItemSkillD147Name=Ravager's Deathgaze
-tagGDX1ItemSkillD147Desc=The hellish gaze of ravager falls upon nearby foes, crippling their defenses.
+tagGDX1ItemSkillD147Name=Ravagerův smrtící pohled
+tagGDX1ItemSkillD147Desc=Pohled ravagera doléhá na tvé nepřátele v blízkosti a ničí tak jejich obranyschopnost.
 
-tagGDX1ItemSkillD148Name=Feral Lash
-tagGDX1ItemSkillD148Desc=Primal energies lashes out at your foe.
+tagGDX1ItemSkillD148Name=Zuřivý úder bičem
+tagGDX1ItemSkillD148Desc=Prvotní energie bičuje tvého nepřítele.
 
-tagGDX1ItemSkillD149Name=Venom Lash
-tagGDX1ItemSkillD149Desc=A lash of venomous energy strikes your foe.
+tagGDX1ItemSkillD149Name=Jedovatý úder bičem
+tagGDX1ItemSkillD149Desc=Úder jedovaté energie zasáhne tvůj cíl.
 
-tagGDX1ItemSkillD150Name=Lifeblaze
-tagGDX1ItemSkillD150Desc=Living flame consumes your foe, burning more than just the flesh.
+tagGDX1ItemSkillD150Name=Životapal
+tagGDX1ItemSkillD150Desc=Živé plameny pohltí tvého nepřítele, zatímco pálí Living flame consumes your foe, burning more than just the flesh.
 
-tagGDX1ItemSkillD151Name=Venomancer's Aura
-tagGDX1ItemSkillD151Desc=Empower your weapons and those of nearby allies with a dreadful venom. ^oTato schopnost musí být aktivní, aby účinkovala.
+tagGDX1ItemSkillD151Name=Aura jedochrliče
+tagGDX1ItemSkillD151Desc=Obohať své zbraně a zbraně svých blízkých spojenců o účinky strašlivého jedu. ^oTato schopnost musí být aktivní, aby účinkovala.
 
-tagGDX1ItemSkillD152Name=Necrolord's Aura
-tagGDX1ItemSkillD152Desc=Imbue your weapons and those of nearby allies with the power of undeath. ^oTato schopnost musí být aktivní, aby účinkovala.
+tagGDX1ItemSkillD152Name=Aura Nekrovládce
+tagGDX1ItemSkillD152Desc=Obohať své zbraně a zbraně svých blízkých spojenců efekt nemrtvých. ^oTato schopnost musí být aktivní, aby účinkovala.
 
-tagGDX1ItemSkillD153Name=Ignaffar's Presence
-tagGDX1ItemSkillD153Desc=Imbue your armor with the flame of Ignaffar, which sears nearby foes. ^oTato schopnost musí být aktivní, aby účinkovala.
+tagGDX1ItemSkillD153Name=Ignaffarova přítomnost
+tagGDX1ItemSkillD153Desc=Obohať své brnění Ignaffarovými plameny, které spalují tvé nepřátele. ^oTato schopnost musí být aktivní, aby účinkovala.
 
-tagGDX1ItemSkillD154Name=Gildor's Guard
-tagGDX1ItemSkillD154Desc=Raise up your shield in anticipation, retaliating against any melee attackers in kind.
+tagGDX1ItemSkillD154Name=Gildorova obrana
+tagGDX1ItemSkillD154Desc=V očekávání pozvedni svůj štít a částečně tak udeř z blízka útočícího protivníka.
 
-tagGDX1ItemSkillD155Name=Prismatic Aura
-tagGDX1ItemSkillD155Desc=Imbue your armor and that of your nearby allies with protective runes. ^oTato schopnost musí být aktivní, aby účinkovala.
+tagGDX1ItemSkillD155Name=Prismatická aura
+tagGDX1ItemSkillD155Desc=Vylepši své brnění a brnění blízkých spojenců obrannými runami. ^oTato schopnost musí být aktivní, aby účinkovala.
 
-tagGDX1ItemSkillD156Name=Aether Spines
-tagGDX1ItemSkillD156Desc=Unleash a burst of aether-tainted bone spines upon your foes.
+tagGDX1ItemSkillD156Name=Aetherické bodliny
+tagGDX1ItemSkillD156Desc=Vypusť na nepřátele řadu aetherem poskvněních bodců z kostí.
 
-tagGDX1ItemSkillD157Name=Krieg's Fury
-tagGDX1ItemSkillD157Desc=Unleash a shockwave of aether energy upon your foes.
+tagGDX1ItemSkillD157Name=Kriegova zuřivost
+tagGDX1ItemSkillD157Desc=Vypusť tlakovou vlnu aetherické energie na své nepřátele.
 
-tagGDX1ItemSkillD158Name=Krieg's Wrath
-tagGDX1ItemSkillD158Desc=Stomp the ground with Krieg's unquenchable wrath.
+tagGDX1ItemSkillD158Name=Kriegův hněv
+tagGDX1ItemSkillD158Desc=Dupni do země s Kriegovo neuhasitelným hněvem
 
-tagGDX1ItemSkillD159Name=Briar Wave
-tagGDX1ItemSkillD159Desc=A wave of briars erupts from the ground to pierce your foes.
+tagGDX1ItemSkillD159Name=Vlna vřesu
+tagGDX1ItemSkillD159Desc=Vlna vřesů vyráží ze země a proráží tvé nepřátele.
 
-tagGDX1ItemSkillD160Name=Avenger's Might
-tagGDX1ItemSkillD160Desc=Unparalleled physical resilience and strength. ^oThis is a meele and ranged two-handed weapon passive bonus.
+tagGDX1ItemSkillD160Name=Mstitelova moc
+tagGDX1ItemSkillD160Desc=Jedinečná fyzická odolnost a síla. ^oToto je pasivní bonus k obouručním chladným a střelným zbraním.
 
-tagGDX1ItemSkillD161Name=Nature's Avenger
-tagGDX1ItemSkillD161Desc=The avenger's spirit swells within you.
+tagGDX1ItemSkillD161Name=Mstitel přírody
+tagGDX1ItemSkillD161Desc=Duch mstitele se v tobě rozrůstá.
 
-tagGDX1ItemSkillD162Name=Arcane Cataclysm
-tagGDX1ItemSkillD162Desc=A burst of arcane energies erupts at your command.
+tagGDX1ItemSkillD162Name=Arkanická potopa
+tagGDX1ItemSkillD162Desc=Dávka arkanické energie je vypuštěna na tvůj příkaz.
 
-tagGDX1ItemSkillD163Name=Stone Ward
-tagGDX1ItemSkillD163Desc=A physical barrier shields you from harm.
+tagGDX1ItemSkillD163Name=Kamenná ochrana
+tagGDX1ItemSkillD163Desc=Fyzická bariéra tě chrání před zraněním.
 
-tagGDX1ItemSkillD164Name=Stoneguard
-tagGDX1ItemSkillD164Desc=The stoneguard hardens your skin against physical blows and lashes out against those who would harm you.
+tagGDX1ItemSkillD164Name=Kamenná obrana
+tagGDX1ItemSkillD164Desc=Kamenná obrana posílí tvoji kůži proti fyzickým úderům a odplácíš těm, kteří se tě pokoušejí zranit.
 
-tagGDX1ItemSkillD165Name=Gunner's Aegis
-tagGDX1ItemSkillD165Desc=The best offense and defense at the tip of the barrel. ^oToto je pasivní bonus pro jednoruční palné zbraně.
+tagGDX1ItemSkillD165Name=Střelcova ochrana
+tagGDX1ItemSkillD165Desc=Nejlepší obrana a útok leží na konci bubínku. ^oToto je pasivní bonus pro jednoruční palné zbraně.
 
-tagGDX1ItemSkillD166Name=Concussive Round
-tagGDX1ItemSkillD166Desc=Fire a high-velocity round that penetrates all targets.
+tagGDX1ItemSkillD166Name=Konsistentní střela
+tagGDX1ItemSkillD166Desc=Vypal vysokorychlostní střelu, která projde skrze veškeré cíle.
 
-tagGDX1ItemSkillD167Name=Stun Blast
-tagGDX1ItemSkillD167Desc=Fire a spread across the room that leaves foes perforated and stunned. ^oToto je technika pro střelné zbraně a je aktivována běžným útokem.
+tagGDX1ItemSkillD167Name=Ohromující vlna
+tagGDX1ItemSkillD167Desc=Vypal salvu přes daný prostor a zanech nepřátele omráčené a dělavé jako cedník.
 
-tagGDX1ItemSkillD168Name=Korba's Bite
-tagGDX1ItemSkillD168Desc=Korba's axe bites into your foes with its chilling edge.
+tagGDX1ItemSkillD168Name=Korbovo kousnutí
+tagGDX1ItemSkillD168Desc=Korbova sekera se zatíná do tvých nepřátel svým ledovým ostřím.
 
-tagGDX1ItemSkillD169Name=Unleash Chaos
-tagGDX1ItemSkillD169Desc=Unleash the darkness you harness upon unsuspecting foes in a devastating blastwave around you.
+tagGDX1ItemSkillD169Name=Rozpoutání chaosu
+tagGDX1ItemSkillD169Desc=Odpoutej temnotu a zasáhni jí své nic netušící nepřátele, kteří navíc zůstávají zdevastovaní tlakovou vlnou.
 
-tagGDX1ItemSkillD170Name=Spellscourge
-tagGDX1ItemSkillD170Desc=Through sheer mental will, you turn the powers of magic itself into a physical force. ^oTato schopnost musí být aktivní, aby účinkovala.
+tagGDX1ItemSkillD170Name=Kouzelná pohroma
+tagGDX1ItemSkillD170Desc=Skrze svou čistou psychickou vůli přeměňuješ síly magie do fyzické síly. ^oTato schopnost musí být aktivní, aby účinkovala.
 
-tagGDX1ItemSkillD171Name=Lifedrinker
-tagGDX1ItemSkillD171Desc=Your thirst for life is insatiable. Even when you draw upon a foe's life essence, nearby victims suffer the same fate.
+tagGDX1ItemSkillD171Name=Životasaj
+tagGDX1ItemSkillD171Desc=Tvá žízeň po životě je neuhasitelná. Ikdyž vysáváš životní sílu ze svého nepřítele, oběti v blízkosti trpí stejným osudem.
 
-tagGDX1ItemSkillD172Name=Belgothian's Strikes
-tagGDX1ItemSkillD172Desc=Lash out at your foes with Belgothian's fury. When used as your default weapon attack, Belgothian's Strikes increase the intensity of your attacks with every strike. ^oBuilding up charges increases the potency of the bonuses.
+tagGDX1ItemSkillD172Name=Belgothianovy údery
+tagGDX1ItemSkillD172Desc=Ožeň se Belgothianskou zuřivostí vůči svým nepřátelům. Pokud je tato schopnost použita jako výchozí typ útoku, Belgothianovy údery mají větší intenzitu s každým dalším úderem. ^oVětší počet nabití zvyěuje potenciál bonusů.
 
-tagGDX1ItemSkillD173Name=Runic Bolts
-tagGDX1ItemSkillD173Desc=A clever combination of martial weapons and arcane properties makes for a particularly deadly combination. ^oWhen used as your default weapon attack, Runic Bolts inflict additional damage.
+tagGDX1ItemSkillD173Name=Runové šipky
+tagGDX1ItemSkillD173Desc=Mazaná kompinace válečných zpraní a arkanických vlastností je obvzláště smrtící kombinací. ^oPokud jsou použity jako výchozí typ útoku, Runové šipky působí další zranění.
 
-tagGDX1ItemSkillD174Name=Rune Trap
-tagGDX1ItemSkillD174Desc=Mark your foe with a runic trap that cripples their movement.
+tagGDX1ItemSkillD174Name=Runová past
+tagGDX1ItemSkillD174Desc=Označ svého nepřítele runovou pastí, která zničí jejich schopnost se pohybovat.
 
-tagGDX1ItemSkillD175Name=Dark One's Gift
-tagGDX1ItemSkillD175Desc=The vestments, anointed with the dead god's blood, offer a gift to the bearer in time of need.
+tagGDX1ItemSkillD175Name=Dar Temného
+tagGDX1ItemSkillD175Desc=Roucho potřené krví mrtvého boha nabídne nositeli dar v době, kdy je to nejvíce potřeba.
 
-tagGDX1ItemSkillD176Name=Galgabor's Corruption
-tagGDX1ItemSkillD176Desc=The corrupted core of Galgabor singes your foes once, then returns to renew the suffering.
+tagGDX1ItemSkillD176Name=Galgaborova zkaženost
+tagGDX1ItemSkillD176Desc=Zkažené jádro Galgabora jjednou ožehne tvé nepřátele a pak se vrátí obnovit utrpení.
 
-tagGDX1ItemSkillD177Name=Aetherblaze
-tagGDX1ItemSkillD177Desc=A blaze of pure arcane fire erupts beneath your foes.
+tagGDX1ItemSkillD177Name=Aetherický požár
+tagGDX1ItemSkillD177Desc=Oheň z čiré arkanické energie se objevuje pod nohama tvých nepřátel.
 
 tagGDX1ItemSkillD178Name=
 tagGDX1ItemSkillD178Desc=
