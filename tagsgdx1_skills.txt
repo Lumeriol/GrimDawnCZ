@@ -501,302 +501,302 @@ tagGDX1w=GrimDawn/images/evil
 
 #Component Skills
 
-tagGDX1CompSkillA101Name=Presence of Might
-tagGDX1CompSkillA101Desc=You shrug off the blows of your opponents with ease. ^oTato schopnost musí být aktivní, aby účinkovala.
+tagGDX1CompSkillA101Name=Přítomnost moci
+tagGDX1CompSkillA101Desc=Nad údery svých protivníků jen pokrčuješ rameny. ^oTato schopnost musí být aktivní, aby účinkovala.
 
-tagGDX1CompSkillA102Name=Whirling Blades
-tagGDX1CompSkillA102Desc=At your command, whirling blades spin around you, shredding all foes who come too near. ^oTato schopnost musí být aktivní, aby účinkovala.
+tagGDX1CompSkillA102Name=Vířící se meče
+tagGDX1CompSkillA102Desc=Na tcvůj příkaz se okolo tebe začne točit vír s meči, trhající všechny nepřátele, které se přiblíží příliš blízko. ^oTato schopnost musí být aktivní, aby účinkovala.
 
-tagGDX1CompSkillA103Name=Chain Lightning
-tagGDX1CompSkillA103Desc=Lightning crackles at your fingertips and cascades off of your foes to demolish their ranks.
+tagGDX1CompSkillA103Name=Řetězový blesk
+tagGDX1CompSkillA103Desc=Blesky jiskří v konečcích tvých prstů a vycházejí směrem k nepřátelům, aby jejich řady prořídly.
 
-tagGDX1CompSkillA104Name=Acid Purge
-tagGDX1CompSkillA104Desc=Unleash a continuous spray of vile acid from your hand to melt your foes, so long as you maintain focus.
+tagGDX1CompSkillA104Name=Jedová čistka
+tagGDX1CompSkillA104Desc=Vypusť nekonečný proud odporného jedu z tvé ruky a rozpouštěj své nepřátele tak dlouho, jak dlouho se dokážeš koncentrovat.
 
-tagGDX1CompSkillA105Name=Aether Corruption
-tagGDX1CompSkillA105Desc=Corrupting Aether energy rips through your foes, rapidly spreading corruption among your enemies.
+tagGDX1CompSkillA105Name=Aetherické poškození
+tagGDX1CompSkillA105Desc=Devastující Aetherická energie se drásá skrze tvé nepřátele a velmi rychle se šíří.
 
-tagGDX1CompSkillA106Name=Burning Void
-tagGDX1CompSkillA106Desc=Unleash an attack infused with the destructive forces of the Void upon nearby foes. When used with a ranged weapon, the projectile will explode upon contact.
+tagGDX1CompSkillA106Name=Spalující Prázdnota
+tagGDX1CompSkillA106Desc=Udeř na nepřátele v blízkosti útokem obohaceným o sílu Prázdnoty. Pokud je tato schopnost použita v kombinaci se střelnou zbraní, projektil v době kontaktu s nepřítelem exploduje.
 
-tagGDX1CompSkillA107Name=Chillspikes
-tagGDX1CompSkillA107Desc=Hurl conjured spikes of pure ice to pierce your foes.
+tagGDX1CompSkillA107Name=Letové trny
+tagGDX1CompSkillA107Desc=Vrhni vyčarované ostny čistého ledu a probodni své nepřátele.
 
-tagGDX1CompSkillA108Name=Stormfire
-tagGDX1CompSkillA108Desc=Unleash a blast of electrified flame that shatters upon contact to wreak havoc upon the battlefield.
+tagGDX1CompSkillA108Name=Ohnivá bouře
+tagGDX1CompSkillA108Desc=Vypusť vlnu elektrizovaných plamenů, které při kontaktu působí šok a šíří zkázu na bojišti.
 
-tagGDX1CompSkillA109Name=Biting Blades
-tagGDX1CompSkillA109Desc=Hurl a blade coated in caustic acid that spirals outward away from your position, piercing through all enemies along the way.
+tagGDX1CompSkillA109Name=Hryzající čepele
+tagGDX1CompSkillA109Desc=Vypusť čepel potaženou žíravým jedem, který se ve spirále šíří směrem od tvé pozice, a po cestě probodává všechny nepřátele.
 
-tagGDX1CompSkillA110Name=Arcane Resonance
-tagGDX1CompSkillA110Desc=Your mastery over the arcane shields you from debilitating effects. ^oTato schopnost musí být aktivní, aby účinkovala.
+tagGDX1CompSkillA110Name=Arkanická rezonance
+tagGDX1CompSkillA110Desc=Tvé mistrovství ovládat podivno tě chrání před efekty, které by tě jinak oslabily. ^oTato schopnost musí být aktivní, aby účinkovala.
 
-tagGDX1CompSkillB101Name=Annihilation
-tagGDX1CompSkillB101Desc=The power within the seal annihilates your foe.
+tagGDX1CompSkillB101Name=Anihilace
+tagGDX1CompSkillB101Desc=Síla uvnitř znamení zničí tvého nepřítele.
 
-tagGDX1CompSkillB102Name=Ancestral Ward
-tagGDX1CompSkillB102Desc=The power within the seal shields you from the powers beyond.
+tagGDX1CompSkillB102Name=Znamení předků
+tagGDX1CompSkillB102Desc=Síla uvnitř znamení tě chrání před silami pocházejících z neznáma.
 
-tagGDX1CompSkillB103Name=Eldritch Binding
-tagGDX1CompSkillB103Desc=Bind your minions to your will. ^o(Passive bonus)
+tagGDX1CompSkillB103Name=Podivná vazba
+tagGDX1CompSkillB103Desc=Podvol si nohsledy své vůli. ^o(Pasivní bonus)
 
 
 
 #Relic Skills
 
-tagGDX1RelicSkillB101Name=Breath of Death
-tagGDX1RelicSkillB101Desc=A wave of vampiric energy erupts from you.
+tagGDX1RelicSkillB101Name=Dech smrti
+tagGDX1RelicSkillB101Desc=Vzejde z tebe vlna vampirické energie.
 
-tagGDX1RelicSkillB102Name=Spectral Bolt
-tagGDX1RelicSkillB102Desc=Unleash an orb of spectral energy that saps the strength from your foes.
+tagGDX1RelicSkillB102Name=Spektrální šipka
+tagGDX1RelicSkillB102Desc=Vypustí valoun spektrální energie, která vysaje sílu z tvých nepřátel.
 
-tagGDX1RelicSkillB103Name=Fervor
-tagGDX1RelicSkillB103Desc=Enter a fervored state of eagerness to tear your foes to shreds.
+tagGDX1RelicSkillB103Name=Zápal
+tagGDX1RelicSkillB103Desc=Uvrhne tě do stavu naprosté touhy roztrhat tvé nepřátele na kusy.
 
-tagGDX1RelicSkillB104Name=Shield Bash
-tagGDX1RelicSkillB104Desc=Bash your foe with your shield, sending them into a daze. ^oRequires a melee weapon and shield.
+tagGDX1RelicSkillB104Name=Úder štítem
+tagGDX1RelicSkillB104Desc=Udeř svého nepřítele štítem a pošli je do mrákot. ^oVyžaduje chladnou zbraň a štít.
 
-tagGDX1RelicSkillB105Name=Summon Crab Spirit
-tagGDX1RelicSkillB105Desc=Bind a spirit of a swamp creature to serve you. The spirit chills foes with its icy attacks. ^oOnly one Crab Spirit can be summoned at any one time. The crab scales with Pet Bonuses.
-tagGDX1RelicSkillB105Name_PetSkill=Crab Claws
+tagGDX1RelicSkillB105Name=Vyvolání krabího ducha
+tagGDX1RelicSkillB105Desc=Připoutej k sobě ducha bažinaté příšery, aby ti sloužila. Duch mrazí nepřátele díky svým ledovým útokům. ^oPouze jeden krabí duch může existovat v ten daný okamžik. Krab sílí spolu s bonusy pro mazlíčky.
+tagGDX1RelicSkillB105Name_PetSkill=Krabí klepeta
 
-tagGDX1RelicSkillC101Name=Mortality
-tagGDX1RelicSkillC101Desc=You strike a balance between life and death, embracing the strengths of both and imbuing them within your attacks and minions.
+tagGDX1RelicSkillC101Name=Smrtelnost
+tagGDX1RelicSkillC101Desc=Udeříš přesně mezi život a smrt a sílu obojího využiješ při útoku. Ovlivníš tak i své posluhovače.
 
-tagGDX1RelicSkillC102Name=Cleansing Blade
-tagGDX1RelicSkillC102Desc=Unleash an arcane blade to cleave through your foes. The blade magically returns to its origin after traveling a fixed distance.
+tagGDX1RelicSkillC102Name=Očišťující čepel
+tagGDX1RelicSkillC102Desc=Vrhni arkanický meč a prosekej se skrze své nepřátele. Meč se vrací na své původní místo poté, co urazí určitou vzdálenost.
 
-tagGDX1RelicSkillD101Name=Impure Blast
-tagGDX1RelicSkillD101Desc=Unleash a blast of tainted arcane energies to sap the life from your foes.
+tagGDX1RelicSkillD101Name=Nečistá exploze
+tagGDX1RelicSkillD101Desc=Vypusť vlnu prokletých arkanických energií a vysaj život ze svých nepřátel.
 
-tagGDX1RelicSkillD102Name=Chilling Vengeance
-tagGDX1RelicSkillD102Desc=Unleash a surge of chilling force upon those that dare strike you.
+tagGDX1RelicSkillD102Name=Mrazivá msta
+tagGDX1RelicSkillD102Desc=Vypusť dávku ledové síly na ty, kteří se tě opovažují napadnout.
 
-tagGDX1RelicSkillD103Name=Summon Skeletal Servant
-tagGDX1RelicSkillD103Desc=Bind the remains of a hundred tormented souls to serve you. This terrifying being cleaves through foes and traps them within cages of bone. ^oOnly one Skeletal Servant can be summoned at any one time. The servant scales with Pet Bonuses.
-tagGDX1RelicSkillD103Name_PetSkill=Skeletal Claws
+tagGDX1RelicSkillD103Name=Vyvolání kostěného sluhy
+tagGDX1RelicSkillD103Desc=Připoutej k sobě ostatky stovek umučených diší, aby ti sloužily. Tato hrůzostrašná bytost se prokává skrze tvé nepřátele a zajímá je do kostěných klecí. ^oPouze jeden kostěný sluha může existovat v ten daný okamžik. Sluha sílí spolu s bonusy pro mazlíčky.
+tagGDX1RelicSkillD103Name_PetSkill=Kostěné pařáty
 
-tagGDX1RelicSkillD104Name=Elemental Bane
-tagGDX1RelicSkillD104Desc=Unleash a bolt of pure elemental energies to knock back any advancing foes.
+tagGDX1RelicSkillD104Name=Elementální prokletí
+tagGDX1RelicSkillD104Desc=Vypusť bodec čistých živelných energií a odraž tak postupující nepřátele.
 
-tagGDX1RelicSkillD105Name=Doomforce
-tagGDX1RelicSkillD105Desc=Unleash a physical shockwave so powerful that it knocks down and draws in nearby foes.
+tagGDX1RelicSkillD105Name=Moc odsouzení
+tagGDX1RelicSkillD105Desc=Vypusť fyzickou tlakovou vlnu tak silnou, že povalí a vtahne nepřátele v blízkosti.
 
-tagGDX1RelicSkillD106Name=Blazing Charge
-tagGDX1RelicSkillD106Desc=Charge forth into battle in the name of Empyrion and incinerate foes with the divine flame. ^oVyžaduje chladou zbraň. When used with a shield, the shield's damage is added.
+tagGDX1RelicSkillD106Name=Spalující náboj
+tagGDX1RelicSkillD106Desc=Vtrhni do boje ve jménu Empyriona a spal své nepřátele svatým ohněm. ^oVyžaduje chladou zbraň. Pokud je použit i štít, poškození štítem je přičteno ke zranění.
 
-tagGDX1RelicSkillD107Name=Chaos Surge
-tagGDX1RelicSkillD107Desc=Hurl a blast of destructive energy that pierces through foes before returning to you.
+tagGDX1RelicSkillD107Name=Nával chaosu
+tagGDX1RelicSkillD107Desc=Vypusť vlnu destruktivní energie, která projde skrze tvé nepřátele, pak se k tobě vlna vrátí.
 
-tagGDX1RelicSkillD108Name=Nidalla's Final Strike
-tagGDX1RelicSkillD108Desc=A favorite technique of the Nightblade master Nidalla, hurl a fan of blades at your foes that pierces through them and leaves their gaping wounds blistering with venom. The enchanted blades then return to the point of origin.
+tagGDX1RelicSkillD108Name=Nidallin poslední úder
+tagGDX1RelicSkillD108Desc=Favorizovaná technika Noční lovkyně Nidally. Vrhni točící se meče na své nepřátele; tyto meče se skrze ně prosekají a zanechají nepřátele s otevřenými, hnisajícími ranami. Tyto meče se pak vrací na své původní místo.
 
-tagGDX1RelicSkillD109Name=Time Loop
-tagGDX1RelicSkillD109Desc=Your actions ripple through time. ^oRequires a Caster Off-Hand.
+tagGDX1RelicSkillD109Name=Časová smyčka
+tagGDX1RelicSkillD109Desc=Tvé činy se mihotají v čase. ^oVyžaduje příruční magický předmět.
 
-tagGDX1RelicSkillD110Name=Blood Orb
-tagGDX1RelicSkillD110Desc=Launch an orb of volatile blood at your foes.
+tagGDX1RelicSkillD110Name=Krvavá koule
+tagGDX1RelicSkillD110Desc=Vrhni kouli odporné krve na své nepřátele.
 
-tagGDX1RelicSkillD111Name=Reaping Arc
-tagGDX1RelicSkillD111Desc=Swing with your weapon in an arc, cleaving through foes and reaping their souls. ^oVyžaduje chladou zbraň.
+tagGDX1RelicSkillD111Name=Trhající oblouk
+tagGDX1RelicSkillD111Desc=Švihni svou zbraní do oblouku, prosekej se nepřáteli a roztrhej jim duše. ^oVyžaduje chladou zbraň.
 
-tagGDX1RelicSkillD112Name=Ignaffar's Combustion
-tagGDX1RelicSkillD112Desc=The ancient relic erupts with destructive flame that is harmless to you and your allies, but devastating to anyone standing too close.
+tagGDX1RelicSkillD112Name=Ignaffarovo hoření
+tagGDX1RelicSkillD112Desc=Starověká relikvie vybuchne a vyjdou z ní ničivé plameny neškodné pro tebe a tvé blízké, ale destruktivní pro kohokoliv stojícího moc blízko.
 
-tagGDX1RelicSkillD113Name=Mogdrogen's Ardor
-tagGDX1RelicSkillD113Desc=The beast god's blessing surrounds you and your minions, shielding you from harm. ^oTato schopnost musí být aktivní, aby účinkovala.
+tagGDX1RelicSkillD113Name=Mogdrogenův elán
+tagGDX1RelicSkillD113Desc=Požehnání boha bestií obklopuje tebe a tvé nohsledy, čímž tě chrání před újmou. ^oTato schopnost musí být aktivní, aby účinkovala.
 
 
 #ConsumableSkills
-tagGDX1ConsumableSkill_B101=Ugdenjuice
-tagGDX1ConsumableSkill_B101Desc=Fills you with a soothing warmth.
+tagGDX1ConsumableSkill_B101=Ugdenská šťáva
+tagGDX1ConsumableSkill_B101Desc=Naplní tě uklidňujícím teplem.
 
-tagGDX1ConsumableSkill_B102=Ugdensalve
-tagGDX1ConsumableSkill_B102Desc=Revitalizes and strengthens bones.
+tagGDX1ConsumableSkill_B102=Ugdenský balzám
+tagGDX1ConsumableSkill_B102Desc=Revitalizuje a posílí kosti.
 
-tagGDX1ConsumableSkill_B103=Vilescar Ointment
-tagGDX1ConsumableSkill_B103Desc=Drastically accelerates coagulation.
+tagGDX1ConsumableSkill_B103=Mast na odporné jizvy
+tagGDX1ConsumableSkill_B103Desc=Drasticky urychluje koagulaci.
 
-tagGDX1ConsumableSkill_B104=Elixir of the Dranghoul
-tagGDX1ConsumableSkill_B104Desc=Fills you with the rage of a Dranghoul.
+tagGDX1ConsumableSkill_B104=Dranghoulův elixír
+tagGDX1ConsumableSkill_B104Desc=Naplní tě Dranghoulův vztek.
 
-tagGDX1ConsumableSkill_B105=Elixir of Mogdrogen
-tagGDX1ConsumableSkill_B105Desc=Fills you with a deeper connection to your minions.
+tagGDX1ConsumableSkill_B105=Mogdrogenův elixír
+tagGDX1ConsumableSkill_B105Desc=Způsobí, že tvé propojení s nohsledy je pevnější.
 
-tagGDX1ConsumableSkill_F101=Hex Oil
-tagGDX1ConsumableSkill_F101Desc=Coats your weapon with the Hex concoction.
+tagGDX1ConsumableSkill_F101=Čarovný olej
+tagGDX1ConsumableSkill_F101Desc=Pomaže tvé zbraně čarovnou směsí.
 
-tagGDX1ConsumableSkill_F102=Cursed Tincture
-tagGDX1ConsumableSkill_F102Desc=Unleash a cruel curse upon nearby foes.
+tagGDX1ConsumableSkill_F102=Prokletá tinktura
+tagGDX1ConsumableSkill_F102Desc=Vypustí krutou kletbu na nepřátele v blízkosti.
 
-tagGDX1ConsumableSkill_F103=Aetherward Oil
-tagGDX1ConsumableSkill_F103Desc=Coats your weapon with the Aetherward concoction.
+tagGDX1ConsumableSkill_F103=Olej aetherické ochrany
+tagGDX1ConsumableSkill_F103Desc=Pomaže tvé zbraně směsí aetherické ochrany.
 
-tagGDX1ConsumableSkill_F104=Stormflame Tincture
-tagGDX1ConsumableSkill_F104Desc=Unleash an explosion of electrified flame upon nearby foes.
+tagGDX1ConsumableSkill_F104=Tinktura ohnivé bouře
+tagGDX1ConsumableSkill_F104Desc=Vyvolá explozi ohnivé bouře, která zasáhne nepřátele v blízkosti.
 
-tagGDX1ConsumableSkill_F105=Hungerer Oil
-tagGDX1ConsumableSkill_F105Desc=Coats your weapon with the Hungerer concoction.
+tagGDX1ConsumableSkill_F105=Tužebníkův olej
+tagGDX1ConsumableSkill_F105Desc=Pokreje tvé zbraně směsí tužebníka.
 
-tagGDX1ConsumableSkill_F106=Vile Tincture
-tagGDX1ConsumableSkill_F106Desc=A vile spirit haunts your foes.
-tagGDX1ConsumableSkill_F106PetSkill=Wraith's Touch
+tagGDX1ConsumableSkill_F106=Odporná tinktura
+tagGDX1ConsumableSkill_F106Desc=Odporný duch straší tvé nepřátele.
+tagGDX1ConsumableSkill_F106PetSkill=Dotek přízraku
 
-tagGDX1ConsumableSkill_F107=Potion of Clarity
-tagGDX1ConsumableSkill_F107Desc=The potion fills you with a clarity of purpose.
+tagGDX1ConsumableSkill_F107=Nápoj čirosti
+tagGDX1ConsumableSkill_F107Desc=Nápoj tě naplní čirostí účelu.
 
 
 #SkillsQuest
 
-tagQuestSkill_A101=Malostria's Ward
-tagQuestSkill_A101Desc=You have been warded by Matron Malostria, protecting you from vile spirits.
+tagQuestSkill_A101=Malostriina obrana
+tagQuestSkill_A101Desc=[[ms]Byl[fs]Byla] jsi obdarována ochranou Matronky Malostrie, která tě bude chránit před odpornými duchy.
 
-tagQuestSkill_A102=Coven Ward
-tagQuestSkill_A102Desc=Created by the Coven of Ugdenbog to ward off evil spirits.
+tagQuestSkill_A102=Ochrana sněmu
+tagQuestSkill_A102Desc=Vytvořená Ugdenbogským sněmem, aby tě chránila před duchy.
 
-tagQuestSkill_A103=Wendigo Ward
-tagQuestSkill_A103Desc=Created by the denizens of Barrowholm to ward off the evils of Ugdenbog.
+tagQuestSkill_A103=Ochrana Wendiga
+tagQuestSkill_A103Desc=Vytvořená obyvateli Barrowholmu, aby zahnala Ugdenbogská zla.
 
 
 #SkillDevotion
 
-tagGDX1Devotion_A101=Stag
-tagGDX1Devotion_A101Desc=The stag is the gentle yet stalwart guardian of nature's domain.
-tagGDX1Devotion_A102=Wretch
-tagGDX1Devotion_A102Desc=The wretch writhes in the night sky, the taint of the Dying God having taken hold within its flesh.
-tagGDX1Devotion_A103=Quill
-tagGDX1Devotion_A103Desc=The quill is said to have been used by the gods to bestow their decrees upon mankind. Its ink is the endless night sky. 
-tagGDX1Devotion_A104=Toad
-tagGDX1Devotion_A104Desc=The Toad represents disorder, a favored symbol of witches and warlocks.
+tagGDX1Devotion_A101=Jelen
+tagGDX1Devotion_A101Desc=Jelen je laskavý, přesto oddaný strážce domény přírody.
+tagGDX1Devotion_A102=Ubožák
+tagGDX1Devotion_A102Desc=Ubožák se svíjí na noční obloze, poskvrněný Umírajícím bohem, který se usídlil v jeho těle.
+tagGDX1Devotion_A103=Pero
+tagGDX1Devotion_A103Desc=Pero, o němž se říká, že bylo použito při usnesení sepisovaném nad lidstvem samotnými bohy. Jeho inkoust je nekonečná noční obloha.
+tagGDX1Devotion_A104=Ropucha
+tagGDX1Devotion_A104Desc=Ropucha je zjevením nepořádku, oblíbený to symbol čarodějek a čarodějů.
 
-tagGDX1Devotion_B101=Murmur, Mistress of Rumors
-tagGDX1Devotion_B101Desc=Few truly respect the power of words. But none know the devastating effect rumors can impart as well as Murmur. It is said that her vile tongue has triggered countless bloody conflicts. Some even say that the gods themselves battled across the starry skies because of her scheming.
-tagGDX1Devotion_B102=Staff of Rattosh
-tagGDX1Devotion_B102Desc=The winged staff of Rattosh is said to be the key to the veil separating the physical and spirit realms. When it is visible in the sky, it is believed that the barrier between the living and the dead is at its thinnest.
-tagGDX1Devotion_B103=Alladrah's Phoenix
-tagGDX1Devotion_B103Desc=A faithful pet of the gods, the Phoenix of Alladrah blazes a trail across the starry sky.
-tagGDX1Devotion_B104=Typhos, the Jailor of Souls
-tagGDX1Devotion_B104Desc=Typhos is the loyal servant of Rattosh, a vigilant hunter of rogue souls that refuse passage by the chariot of the dead.
-tagGDX1Devotion_B105=Bard's Harp
-tagGDX1Devotion_B105Desc=Gallia the Bard's music was deemed so enthralling that the gods lifted her up into the skies so that she could entertain them for all eternity.
+tagGDX1Devotion_B101=Murmur, paní pověstí
+tagGDX1Devotion_B101Desc=Jen někteří skutečně respektují sílu slova. Nikdo ale nezná tak dobře devastující účinek vyřčených fám tak jako Murmur. Říká se, že její hanebný jazyk započal nespočet krvavých konfliktů. Někteří říkají, že dokonce samotní bozi bojovali na hvězdné obloze mezi sebou jen díky jejím intrikám.
+tagGDX1Devotion_B102=Rattoshova hůl
+tagGDX1Devotion_B102Desc=Okřídlená Rattoshova hůl, jak se říká, je klíčem k hranici mezi světem smrtelníků a světem duchů. Pokud je vidět na obloze, lidé věří že bariéra mezi živými a mrtvími je v tu chvíli nejtenčí.
+tagGDX1Devotion_B103=Alladrahův Fénix
+tagGDX1Devotion_B103Desc=Věrný mazlíček bohů, Fénix Alladrahův, zažehne cestu na hvězdné obloze.
+tagGDX1Devotion_B104=Typhos, věznitel duší
+tagGDX1Devotion_B104Desc=Typhos je Rattoshův loajální sluha, bdělý lovec darebných duší, které odmítly odvoz dvoukolákem mrtvých.
+tagGDX1Devotion_B105=Harfa básnířky
+tagGDX1Devotion_B105Desc=Galliaina hudba byla považována za tak okouzlující, že jí bohové pozvedli na oblohu, aby je mohla bavit celou věčnost.
 
-tagGDX1Devotion_C101=Ultos, Shepherd of Storms
-tagGDX1Devotion_C101Desc=Ultos was the lesser of his celestial brethren in Arkovian lore, but nevertheless remained a powerful symbol, for it was his rains that allowed the harvest to grow and his lightning that caused unspeakable destruction. Somewhat ironically given his status, Ultos is the only Arkovian god whose worship endured beyond the fall of the empire.
-tagGDX1Devotion_C102=Ishtak, the Spring Maiden
-tagGDX1Devotion_C102Desc=Many in the era of Arkovia would turn to Ishtak in times of need or healing. For all living beings are the children of the Spring Maiden, and all shall find comfort within her gentle embrace.
-tagGDX1Devotion_C103=Vire, the Stone Matron
-tagGDX1Devotion_C103Desc=Commonly depicted in Arkovian lore as the matron of the gods, and thus the mightiest, the Stone Matron represented Cairn itself, the fortitude and strength of stone, unmoving against even the greatest odds.
-tagGDX1Devotion_C104=Attak Seru, the Mirage
-tagGDX1Devotion_C104Desc=Attak Seru was the matron of spellweaving, the protector of those daring enough to wield magic. All Arkovian rituals had the symbol of Attak Seru inscribed within the runic circle for precaution; but not even her wards were enough to stave off the effects of the necromancer's curse.
-tagGDX1Devotion_C105=Rattosh, the Veilwarden
-tagGDX1Devotion_C105Desc=Concealed in shadows, the great guardian of Arkovia watched over the veil between realities, ensuring that no evil would ever escape the spirit realm and wreak havoc upon the living. When the Arkovian Curse spread across the land, it was Rattosh that the people begged for a merciful end, but none ever came.
+tagGDX1Devotion_C101=Ultos, pasáček bouří
+tagGDX1Devotion_C101Desc=Ultos byl tím menším z hvězdných bratrů, zmiňovaných v Arkoviánských pověstích, ale přesto zůstal zmiňován jako silný symbol, a to pro jeho déšť, díky kterému se může sklízet úroda, a také díky blesku, který je neskutečně ničivý. Tak nějak ironicky díky tomuto statusu zůstal úctíván i poté, co padla říše.
+tagGDX1Devotion_C102=Ishtak, jarní panna
+tagGDX1Devotion_C102Desc=Mnoho by se za doby Arkovie obracelo k panně Ishtak, pokud by potřebovali vyléčit. A proto jsou všechny živé bytosti jejími dětmi a všichni najdou pohodlí v jejím náručí.
+tagGDX1Devotion_C103=Vire, kamenná matronka
+tagGDX1Devotion_C103Desc=Běžně vyobrazena v Arkovianských pověstích jako matronka bohů, a tím pádem i jako nejsilnější, kamenná matronka reprezentuje Cairn jako takový, statečnost a sílu kamene, jež neuhne ani při těch největších sporech.
+tagGDX1Devotion_C104=Attak Seru, fata morgána
+tagGDX1Devotion_C104Desc=Attak Seru byl matronkou spřádání kouzel, ochránkyně těch, kteří si troufali dostatečně na to, aby používali magii. Všechny Arkovianské rituály měly symbol Attak Seru vyryt ve svém rituálním kruhu jako preventivní opatření; nicméně ani její symboly nebyly dost na to, aby smazali účinky nekromancerovy kletby.
+tagGDX1Devotion_C105=Rattosh, strážce roušky
+tagGDX1Devotion_C105Desc=Skrytý ve stínu tento velký strážce Arkovie nahlížel přes roušku světů a hlídal, aby žádné zlo neuniklo ze světa duchů do světa živých a působilo tam zkázu. Když se zemí šířila Arkovianská kletba, byl to právě Rattosh, jehož lidé prosili o milosrdný konec, ale ten nikdy nepřišel.
 
-tagGDX1DevotionEffectB101=Rumor
-tagGDX1DevotionEffectB101Desc=The chilling truths of Murmur's words spread amongst your foes, like a rumor that refuses to die, and shatter their minds.
-tagGDX1DevotionEffectB102=Phoenix Fire
-tagGDX1DevotionEffectB102Desc=The blazing feathers of the phoenix swirl around you, encasing you in a protective barrier while incinerating all that come too near.
-tagGDX1DevotionEffectB103=Inspiration
-tagGDX1DevotionEffectB103Desc=Gallia's melody inspires you and your allies to push onward against impossible odds.
+tagGDX1DevotionEffectB101=Pověst
+tagGDX1DevotionEffectB101Desc=Mrazivé pravdy Murmuriných slov se šíří mezi nepřáteli, stejně jako fáma, která nechce zemřít, a ničí jejich mysl.
+tagGDX1DevotionEffectB102=Fénixův oheň
+tagGDX1DevotionEffectB102Desc=Hořící peří fénize krouží kolem tebe, čímž okolo tebe vytvoří ochrannou bariéru, zatímco pálí vše, co se příliš přiblíží.
+tagGDX1DevotionEffectB103=Insiprace
+tagGDX1DevotionEffectB103Desc=Galliainy metody insirují tebe a tvé spojence a postrkávají tě vpřed v době, kdy jsou šance na úspěch mizivé.
 
-tagGDX1DevotionEffectC101=Hand of Ultos
-tagGDX1DevotionEffectC101Desc=The Storm Shepherd's fury emits from your fingertips, cascading through entire armies with devastating electrical force.
-tagGDX1DevotionEffectC102=Nature's Guardians
-tagGDX1DevotionEffectC102Desc=The soothing winds of spring envelop you in a protective barrier while your minions rise up to defend the natural order.
-tagGDX1DevotionEffectC103=Fist of Vire
-tagGDX1DevotionEffectC103Desc=The crushing fist of Vire rises up from the earth to subdue your foes with the strength of the earth.
-tagGDX1DevotionEffectC104=Arcane Currents
-tagGDX1DevotionEffectC104Desc=Carve an eldritch symbol into the ground that rapidly emits currents of arcane energy at nearby foes. ^oArcane Currents scale with player damage bonuses.
-tagGDX1DevotionEffectC104PetSkill=Surge
-tagGDX1DevotionEffectC105=Will of Rattosh
-tagGDX1DevotionEffectC105Desc=Mark the souls of your foes with the symbol of Rattosh. Their lives and fates sealed, left at the mercy of Rattosh's servant, Typhos.
+tagGDX1DevotionEffectC101=Ultosova ruka
+tagGDX1DevotionEffectC101Desc=Z tvých konečků prstů vyzařuje zuřivost pasáčka bouří, kaskádovitě se šířící skrze celé zástupy nepřátel devastující všechny elektrickou silou.
+tagGDX1DevotionEffectC102=Strážci přírody
+tagGDX1DevotionEffectC102Desc=Uklidňující poryvy jara tě obklopí ochrannou bariérou, zatímco tví nohsledi povstávají a přirozeně tě chrání.
+tagGDX1DevotionEffectC103=Virova pěst
+tagGDX1DevotionEffectC103Desc=Drtící Virova pěst vyvstane ze země, aby si podmanila tvé nepřátele silou samotné země.
+tagGDX1DevotionEffectC104=Proudy podivna
+tagGDX1DevotionEffectC104Desc=Vyryj do země podivný symbol, který rychle emituje toky arkanických energií směrem k nepřátelům v okolí.^oProudy podivna rostou spolu s bonusy hráče.
+tagGDX1DevotionEffectC104PetSkill=Vlna
+tagGDX1DevotionEffectC105=Rattoshova vůle
+tagGDX1DevotionEffectC105Desc=Označ duše svých nepřátel Rattoshovým symbolem. Jejich život a osud je tak zpečetěn a jsou ponecháni napospas Rattoshova sluhy, Typhose.
 
 
 #SkillsReallocator
-tagReclaimMastery=You need to remove all points from skills furthest in the mastery before you can remove more points from the mastery bar.
-tagDecreaseMasteryError=You cannot reset a mastery selection.
+tagReclaimMastery=Je potřeba odebrat všechny body z dovedností umístěných dále v povolání před tím, než můžeš odebrat více bodů z hlavní lišty dovednosti.
+tagDecreaseMasteryError=Nelze vyresetovat volbu povolání.
 
 
 #EnemySkills
 
-tagGDX1EnemySkillA01=Siphon Souls
-tagGDX1EnemySkillA01_Desc=The wraith is harvesting your soul, draining your very essence and exposing you to Aether and Vitality damage.
+tagGDX1EnemySkillA01=Nasávání duší
+tagGDX1EnemySkillA01_Desc=Přízrak sklízí tvou duši, čímž odčerpává tvou samotnou podstatu a vystavuje tě účinkům poškození Aetherem a poškozením Ztrátou životní energie.
 
-tagGDX1EnemySkillA02=Ill Omen
-tagGDX1EnemySkillA02_Desc=The mere presence of a Necromancer is often enough to inspire terror within their enemies. You unleash a ghostly wail upon your target that shatters the confidence of lesser foes and rapidly spreads confusion and fear amongst your enemies.
+tagGDX1EnemySkillA02=Předzvěst nemoci
+tagGDX1EnemySkillA02_Desc=Samotná nekromantova přítomnost je často dostačující, aby vyvolala hrůzu v jeho nepřátelích. Vydáváš zvuk v podobě kvílení duchů na svůj cíl, čímž otřeseš důvěrou slabších nepřátel a tak se mezi nimi začne rychle šířit zmatek a strach.
 
-tagGDX1EnemySkillA03=Wendigo Howl
-tagGDX1EnemySkillA03_Desc=The Wendigo's Howl unnerves you, reducing all resistances.
+tagGDX1EnemySkillA03=Kvílení Wendiga
+tagGDX1EnemySkillA03_Desc=Kvílení Wendiga tě zneklidňuje, což znižuje všechny odolnosti.
 
-tagGDX1EnemySkillA04=Anguish Aura
-tagGDX1EnemySkillA04_Desc=The wraith's anguish weakens you.
+tagGDX1EnemySkillA04=Aura trýzně
+tagGDX1EnemySkillA04_Desc=Trýzeň přízraku tě oslabuje.
 
-tagGDX1EnemySkillA05=Dread Aura
-tagGDX1EnemySkillA05_Desc=The wraith's stirs dread within you, exposing you to Aether, Vitality and Elemental damage as well as slowing your movements.
+tagGDX1EnemySkillA05=Aura hrůzy
+tagGDX1EnemySkillA05_Desc=Přízrak v tobě rozdmýchá děs, čímž tě vystavuje účinkům Aetheru, Ztrátě životní energie a poškození živly a zároveň snižuje tvoje schopnosti se pohybovat.
 
-tagGDX1EnemySkillA06=Eruption of Anguish
-tagGDX1EnemySkillA06_Desc=The wraith's violent end weakens you and exposes your Physical defenses.
+tagGDX1EnemySkillA06=Erupce úzkosti
+tagGDX1EnemySkillA06_Desc=Hrůzný konec bytí přízraku tě oslabuje a vystavuje tě fyzickým útokům.
 
-tagGDX1EnemySkillA07=Eruption of Dread
-tagGDX1EnemySkillA07_Desc=The wraith's violent end fills you with dread, exposing you to Aether, Vitality and Elemental damage as well as slowing your movements.
+tagGDX1EnemySkillA07=Erupce strachu
+tagGDX1EnemySkillA07_Desc=Hrůzný konec bytí přízraku tě oslabuje, čímž tě vystavuje účinkům Aetheru, Ztrátě životní energie a poškození živly a zároveň snižuje tvoje schopnosti se pohybovat.
 
-tagGDX1EnemySkillA08=Wicker Prison
-tagGDX1EnemySkillA08_Desc=The cannibal trapped you within a wicker prison, making you easy prey for the others.
+tagGDX1EnemySkillA08=Proutěné vězení
+tagGDX1EnemySkillA08_Desc=Kanibal tě uvěznil uvnitř proutěného vězení, čímž z tebe udelal snadnou kořist pro ostatní.
 
-tagGDX1EnemySkillA09=Blood Link
-tagGDX1EnemySkillA09_Desc=You are connected to a nearby cannibal through a vampiric link. Distancing yourself from them will sever it.
+tagGDX1EnemySkillA09=Propojení krví
+tagGDX1EnemySkillA09_Desc=Jsi [[ms]spojen[fs]spojena] s kanibalem, který je blízko, vampirickým spojením. Tím, že se vzdálíš, toto spojení přerušíš.
 
-tagGDX1EnemySkillA10=Choking Presence
-tagGDX1EnemySkillA10_Desc=The Bloater's miasma threatens to choke the life out of you, reducing Max Health, Health Regeneration and Energy Regeneration.
+tagGDX1EnemySkillA10=Dávení
+tagGDX1EnemySkillA10_Desc=Bloater's miazma téměř způsobuje, že se udávíš k smrti, což snižuje tvojí maximální hodnotu zdraví, obnovu zdraví a obnovu energie.
 
-tagGDX1EnemySkillA11=Aura of Oppression
-tagGDX1EnemySkillA11_Desc=A Void Oppressor's presence overwhelms you with darkness, reducing Max Health and slowing your actions.
+tagGDX1EnemySkillA11=Aura útisku
+tagGDX1EnemySkillA11_Desc=Přítomnost Oppressor's z Prázdnoty tě zaplaví temnotou, což snižuje tvojí maximální hodnotu zdraví a zpomaluje tvé činnosti.
 
 
-tagGDX1EnemySkillB01=Time Stop Aura
-tagGDX1EnemySkillB01_Desc=You are within the presence of a timewarped entity, slowing your actions.
+tagGDX1EnemySkillB01=Aura zastavení času
+tagGDX1EnemySkillB01_Desc=Jsi uvnitř subjektu s pokrouceným časem, což zpomaluje tvé činnosti.
 
-tagGDX1EnemySkillB02=Blood Link
-tagGDX1EnemySkillB02_Desc=You are connected to a nearby foe through a vampiric link. Distancing yourself from them will sever it.
+tagGDX1EnemySkillB02=Propojení krví
+tagGDX1EnemySkillB02_Desc=Jsi [[ms]spojen[fs]spojena] s nepřítelem, který je blízko, vampirickým spojením. Tím, že se vzdálíš, toto spojení přerušíš.
 
-tagGDX1EnemySkillD01=Ugdenbog Fever
-tagGDX1EnemySkillD01_Desc=A deadly disease that cripples the mind and exposes weaknesses.
+tagGDX1EnemySkillD01=Ugdenbogská horečka
+tagGDX1EnemySkillD01_Desc=Smrtelná nemoc, která ochromuje mysl a odhaluje slabiny.
 
-tagGDX1EnemySkillD02=Siphoning Link
-tagGDX1EnemySkillD02_Desc=You are connected to a nearby foe through a vampiric link that exposes your weaknesses. Distancing yourself from them will sever it.
+tagGDX1EnemySkillD02=Odčerpávající propojení
+tagGDX1EnemySkillD02_Desc=Jsi [[ms]spojen[fs]spojena] s nepřítelem, který je blízko, vampirickým spojením, které odhaluje tvé slabiny. Tím, že se vzdálíš, toto spojení přerušíš.
 
-tagGDX1EnemySkillD03=Siphon Souls
-tagGDX1EnemySkillD03_Desc=Your soul is being harvested, sapping your defenses and vitality.
+tagGDX1EnemySkillD03=Nasávání duší
+tagGDX1EnemySkillD03_Desc=Přízrak sklízí tvou duši, čímž odčerpává tvou obranu a vitalitu.
 
-tagGDX1EnemySkillD04=Chthonic Aura
-tagGDX1EnemySkillD04_Desc=Raw void energies surround this shard, empowering chthonic beings and harming natural life.
+tagGDX1EnemySkillD04=Chthonická aura
+tagGDX1EnemySkillD04_Desc=Surové energie Prázdnoty obklopují tento střep a posilují tak chtonické bytosti, zatímco zraňují běžné živé.
 
-tagGDX1EnemySkillD05=Aura of Death
-tagGDX1EnemySkillD05_Desc=Gabbal'Thunn's presence drains of the will to live, reducing Defensive Ability and Speed.
+tagGDX1EnemySkillD05=Aura smrti
+tagGDX1EnemySkillD05_Desc=Gabbal'Thunn'ova přítomnost z tebe odčerpává vůli žít, čímž snižuje ochranné schopnosti a rychlost.
 
-tagGDX1EnemySkillD06=Greater Mark of Aetherfire
-tagGDX1EnemySkillD06_Desc=Aetherfire singes your soul, exposing you to the elements and the Aether itself.
+tagGDX1EnemySkillD06=Větší znamení Aetherického ohně
+tagGDX1EnemySkillD06_Desc=Aetherický oheň spaluje tvou duši, čímž tě vystavuje živlům a samotnému Aetheru.
 
-tagGDX1EnemySkillD07=Ravager's Presence
-tagGDX1EnemySkillD07_Desc=You've been shaken by the very presence of Ravager, the Wendigo Spirit, shattering your Defenses and reducing Health and Health Regeneration.
+tagGDX1EnemySkillD07=Ravagerova přítomnost
+tagGDX1EnemySkillD07_Desc=[[ms]Otřásl[fs]Otřásla] si se ze samotné Ravagerovy přítomnosti, ducha Wendiga, čímž ochromí tvé obrany, sníží zdraví a také regeneraci zdraví.
 
-tagGDX1EnemySkillD08=Overwhelming Aether
-tagGDX1EnemySkillD08_Desc=Theoden's presence threatens to unravel your physical form, inflicting Aether damage and reducing Defensive Ability.
+tagGDX1EnemySkillD08=Zaplavení Aetherem
+tagGDX1EnemySkillD08_Desc=Theodenova přítomnost ohrožuje odhalení tvé fyzické formy, čímž způsobuje poškození Aetherem a redukuje obranyschopnost.
 
-tagGDX1EnemySkillD09=Larria's Wards
-tagGDX1EnemySkillD09_Desc=Larria's den is heavily warded, harming nearby strangers and empowering her.
+tagGDX1EnemySkillD09=Larrianiny ochrany
+tagGDX1EnemySkillD09_Desc=Larrianino doupě je velmi silně chráněno a tak dochází ke zraňování cizinců, zatímco ona je posilována.
 
-tagGDX1EnemySkillD10=Aether Singe
-tagGDX1EnemySkillD10_Desc=You have been singed by a nearby Aether Crystal, linking you to it with devastating Aether damage until you break the connection.
+tagGDX1EnemySkillD10=Sežehnutí Aetherem
+tagGDX1EnemySkillD10_Desc=[[ms]Byl[fs]Byla] jsi sežehnuta blízkým Aetherickým krystalem, čímž se tento krystal s tebou propojil a způsobuje ti devastující poškození Aetherem do té doby, než spojení přerušíš.
 
-tagGDX1EnemySkillD11=Overwhelming Aether
-tagGDX1EnemySkillD11_Desc=A nearby Aether Crystal hums with the Aether, harming those not attuned to its presence.
+tagGDX1EnemySkillD11=Zaplavení Aetherem
+tagGDX1EnemySkillD11_Desc=Aetherický krystal nedaleko bzučí díky množství Aetheru a poškozuje tak ty, kteří si nevšimnou jeho přítomnosti.
 
-tagGDX1EnemySkillD12=Crimson Pool
-tagGDX1EnemySkillD12_Desc=The volatile blood simmers beneath your feet, harming you. Kubacabra seems to thrive when standing within it however.
+tagGDX1EnemySkillD12=Rudá tůňka
+tagGDX1EnemySkillD12_Desc=Prchavá krev probublává pod tvými nohami, zraňuje tě, nicméně Kubacabra si v tom vysloveně libuje.
 
-tagGDX1EnemySkillD13=Aura of Agony
-tagGDX1EnemySkillD13_Desc=Darkness emanates from Grava'Thul, sometimes coalescing in a volatile pool of void energies.
+tagGDX1EnemySkillD13=Aura agónie
+tagGDX1EnemySkillD13_Desc=Temnota vychází z Grava'Thula, někdy se sloučí v prchavé jezírko energií z Prázdnoty.
 
-tagGDX1EnemySkillD14=Celestial Presence
-tagGDX1EnemySkillD14_Desc=A divine presence threatens to unravel your very existence.
+tagGDX1EnemySkillD14=Hvězdný duch
+tagGDX1EnemySkillD14_Desc=Svatý duch ohrožuje tajemství tvé samotné existence.
 
