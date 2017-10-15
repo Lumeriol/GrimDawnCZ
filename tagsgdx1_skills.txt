@@ -106,7 +106,7 @@ tagGDX1Class07SkillName14A=Šíření bouře
 tagGDX1Class07SkillDescription14A=Nemilosrdná technika pro případ, že je nepřátel příliš mnoho. Použití v místnosti může rychle vyrovnat nevyrovnané. ^oToto je technika pro střelné zbraně a je aktivována běžným útokem.
 
 tagGDX1Class07SkillName15A=Přesná muška
-tagGDX1Class07SkillDescription15A=Pro [[ms]inkvizitora[fs]inkvizitorku], jež čelí některému z úhlavních nepřátel lidstva, znamená jedna dobře mířená střela či kritický zásah to jediné, co mají, a leckdy také to jediné, co potřebují.
+tagGDX1Class07SkillDescription15A=Pro [[ms]inkvizitora[fs]inkvizitorku], jež čelí některému z úhlavních nepřátel lidstva, znamená jedna dobře mířená střela či ^okritický zásah^w to jediné, co mají, a leckdy také to jediné, co potřebují.
 
 tagGDX1Class07SkillName16A=Zručné zacházení s artefakty
 tagGDX1Class07SkillDescription16A=Opatrné zacházení s nebezpečnými relikviemi napodobených v Úkrytu Luminářů je středobodem pro trénink inkvizitorů a inkvizitorek. V nezkušených rukách i ty nejlepší úmysly mohou skončit pro majitele a ty kolem něj nešťastně. ^o[Ovlivňuje Hagarradovu runu, Kalastorovu runu a alespoň jedna z nich je potřeba pro odemčení tété schopnosti.]

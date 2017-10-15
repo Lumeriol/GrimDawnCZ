@@ -2,85 +2,85 @@
 #Weapons
 
 
-tagGDX1WeaponSwordB101=Wendigo Claw
-tagGDX1WeaponSwordB101Desc="The claw reeks of decay."
-tagGDX1WeaponSwordB102=Wendigo Barb
-tagGDX1WeaponSwordB102Desc="The claw drips with filth."
+tagGDX1WeaponSwordB101=Wendigův dráp
+tagGDX1WeaponSwordB101Desc="Dráp páchne hnilobou."
+tagGDX1WeaponSwordB102=Wendigův bodák
+tagGDX1WeaponSwordB102Desc="Z drápu odpadává špína."
 
-tagGDX1WeaponSwordC101=Cleansed Blade of Elgoloth
-tagGDX1WeaponSwordC101_Desc="Once tainted by the corrupting touch of Chthonians, this blade was restored to its former glory by the Luminari."
-tagGDX1WeaponSwordC104=Legionnaire's Pride
+tagGDX1WeaponSwordC101=Elgothova čistá ocel
+tagGDX1WeaponSwordC101_Desc="Poté, co byl meč poskvrnšný zkaženým dotykem členů Chthonského kultu, obnovili jeho zašlou slávu Lumináři."
+tagGDX1WeaponSwordC104=Legionářova chlouba
 
-tagGDX1WeaponSwordD101=Edge of Death
-tagGDX1WeaponSwordD102=Pagar's Betrayal
-tagGDX1WeaponSwordD102_Desc="No betrayal was felt more deeply than the day Inquisitor Pagar revealed himself to be in league with the powers of the void at a Luminari training facility."
-tagGDX1WeaponSwordD105=Misery
-tagGDX1WeaponSwordD106=Blazeheart
-tagGDX1WeaponSwordD106_Desc="A letter D is etched onto the hilt in blood."
-tagGDX1WeaponSwordD107=Belgothian's Slicer
+tagGDX1WeaponSwordD101=Břitva smrti
+tagGDX1WeaponSwordD102=Pagarova zrada
+tagGDX1WeaponSwordD102_Desc="Žádná zrada nikdy nezasáhla nikoho tak hluboko jako v den, kdy se Inkvizitor Pagar odhalil při použití moci Prázdnoty během výcviku Luminářů."
+tagGDX1WeaponSwordD105=Nouze
+tagGDX1WeaponSwordD106=Ohnivé srdce
+tagGDX1WeaponSwordD106_Desc="Na paži je krví vyleptáno písmeno D."
+tagGDX1WeaponSwordD107=Belgothianův kráječ
 
-tagGDX1WeaponSwordF101=Malmouth Slicer
-tagGDX1WeaponSwordF102=Malmouth Blade
-tagGDX1WeaponSwordF103=Wendigo Claw
-tagGDX1WeaponSwordF104=Redeemer of Malmouth
-
-
-tagGDX1WeaponBluntB101=Bargoll's Heart
-tagGDX1WeaponBluntB101Desc="The stone heart of Bargoll emanates a deadly chill."
-tagGDX1WeaponBluntB102=Bargoll's Core
-tagGDX1WeaponBluntB102Desc="The once living core of Bargoll thirsts for life essence so that the creature can be reborn once more."
-
-tagGDX1WeaponBluntC101=Deadbeater
-
-tagGDX1WeaponBluntD101=Malakor's Infusion
-tagGDX1WeaponBluntD101_Desc="Arcanist Malakor, a close ally of the Luminari, forged this weapon in elemental flames to combat Eldritch beings on their own terms."
-tagGDX1WeaponBluntD103=Amarastan Crusher
-tagGDX1WeaponBluntD104=The Pummeler
-tagGDX1WeaponBluntD105=Stoneguard Pummeler
-
-tagGDX1WeaponBluntF101=Malmouth Warhammer
-tagGDX1WeaponBluntF102=Malmouth Mace
-tagGDX1WeaponBluntF103=Wendigo Mace
-tagGDX1WeaponBluntF104=Howl of the Wendigo
-
-tagGDX1WeaponAxeB101=Servitor's Slicer
-tagGDX1WeaponAxeB102=Servitor's Corruptor
-tagGDX1WeaponAxeB103=Bloodspill Cleaver
-
-tagGDX1WeaponAxeC101=Halvor's Skinner
-
-tagGDX1WeaponAxeD101=Ravager's Bite
-tagGDX1WeaponAxeD101_Desc="Formed from the claw of a past manifestation of the great Ravager."
-tagGDX1WeaponAxeD103=Nightclaw
-tagGDX1WeaponAxeD104=Edge of Sanity
-tagGDX1WeaponAxeD104_Desc="It is uncertain whether this weapon ultimately drives the victims mad...or the bearer."
-tagGDX1WeaponAxeD105=Korba's Decapitator
-tagGDX1WeaponAxeD106=Korba's Frenzy
-
-tagGDX1WeaponAxeF101=Coven Cleaver
-tagGDX1WeaponAxeF102=Coven Axe
-tagGDX1WeaponAxeF103=Wendigo Cleaver
-tagGDX1WeaponAxeF104=Witch Moon
+tagGDX1WeaponSwordF101=Malmouthský kráječ
+tagGDX1WeaponSwordF102=Malmouthská čepel
+tagGDX1WeaponSwordF103=Wendigův dráp
+tagGDX1WeaponSwordF104=Spasitel Malmouthu
 
 
-tagGDX1WeaponGun1hB101=Ugdenbog Howler
-tagGDX1WeaponGun1hB101Desc="Infused with the spirit of the Wendigo."
-tagGDX1WeaponGun1hB102=Ugdenbog Venom Launcher
-tagGDX1WeaponGun1hB102Desc="Each bullet is dipped into a unique concoction crafted from the various beasts inhabiting Ugdenbog."
-tagGDX1WeaponGun1hB103=Stormsurge Pistol
+tagGDX1WeaponBluntB101=Bargollovo srdce
+tagGDX1WeaponBluntB101Desc="Bargollovo kamenné srdce vyzařuje chladnou smrt."
+tagGDX1WeaponBluntB102=Bargollova duše
+tagGDX1WeaponBluntB102Desc="Jamile žijící Bargollova duše začne prahnout po esenci života, jeho majitel opět ožije."
 
-tagWeaponGun1hC013B=Mediator
-tagGDX1WeaponGun1hC101=The Dissenter
-tagGDX1WeaponGun1hC101B=Dissenter
-tagGDX1WeaponGun1hC102=Aldur's Inquisition
-tagGDX1WeaponGun1hC102_Desc=Sidearm of Inquisitor Aldur, reknown hunter of heretics and slayer of Galbar'Thuul."
-tagGDX1WeaponGun1hC103=Core of Galgabor
-tagGDX1WeaponGun1hC103_Desc="The tainted core of Galgabor burns hotter than any flame."
-tagGDX1WeaponGun1hC108=Stormlauncher of Ultos
-tagGDX1WeaponGun1hC110=Luminari Sidearm
+tagGDX1WeaponBluntC101=Pokořitel smrti
 
-tagGDX1WeaponGun1hD101=Morguul's Mortality
-tagGDX1WeaponGun1hD101_Desc="Master Morguul perfected the ammunition for this pistol, combining necrotic powers with deadly toxins to create an agent that greatly accelerates rot and decay."
+tagGDX1WeaponBluntD101=Malakorova infúze
+tagGDX1WeaponBluntD101_Desc="Alchymista Malakor, blízký spojenec Luminářů, skul tuto zbraň v živelném plameni, aby mohl bojovat s Eldritchovými duchy podle svých vlastních podmínek."
+tagGDX1WeaponBluntD103=Amarastin drtič
+tagGDX1WeaponBluntD104=Drtipěst
+tagGDX1WeaponBluntD105=Kamenný drtipěst
+
+tagGDX1WeaponBluntF101=Malmouthské válečné kladivo
+tagGDX1WeaponBluntF102=Malmouthský palcát
+tagGDX1WeaponBluntF103=Wendigův palcát
+tagGDX1WeaponBluntF104=Wendigův řev
+
+tagGDX1WeaponAxeB101=Sluhův plátkovač
+tagGDX1WeaponAxeB102=Sluhův narušovač
+tagGDX1WeaponAxeB103=Sekáček krveprolití
+
+tagGDX1WeaponAxeC101=Halvorův loupač kůže
+
+tagGDX1WeaponAxeD101=Pustošitelův kousanec
+tagGDX1WeaponAxeD101_Desc="Složen z drápů jednotlivých vzezření velkého Pustošitele."
+tagGDX1WeaponAxeD103=Noční pařát
+tagGDX1WeaponAxeD104=Ostří příčetnosti
+tagGDX1WeaponAxeD104_Desc="Není úplně jisté, zda k nepříčetnosti přivádí své oběti... nebo majitele."
+tagGDX1WeaponAxeD105=Korbův stínač
+tagGDX1WeaponAxeD106=Korbova posedlost
+
+tagGDX1WeaponAxeF101=Sekáček ježibaby
+tagGDX1WeaponAxeF102=Sekyrka ježibaby
+tagGDX1WeaponAxeF103=Wendigo sekáček
+tagGDX1WeaponAxeF104=Měsíc čarodějnic
+
+
+tagGDX1WeaponGun1hB101=Ugdenský řev
+tagGDX1WeaponGun1hB101Desc="Naplněný duchem Wendiga."
+tagGDX1WeaponGun1hB102=Ugdenský metač jedu
+tagGDX1WeaponGun1hB102Desc="Každá střela je máčena ve speciální směsi z divokých zvířat žijících v Ugdenských močálech."
+tagGDX1WeaponGun1hB103=Hromobijka
+
+tagWeaponGun1hC013B=Vyjednavač
+tagGDX1WeaponGun1hC101=Hlasitý odpor
+tagGDX1WeaponGun1hC101B=Odpor
+tagGDX1WeaponGun1hC102=Aldurův výslech
+tagGDX1WeaponGun1hC102_Desc="Třetí ruka Inkvizitora Aldura, známého lovce kacířů a zabijáka Galbar'Thuula."
+tagGDX1WeaponGun1hC103=Galgaborova duše
+tagGDX1WeaponGun1hC103_Desc="Zkažená Galgaborova duše splaluje vyšším žárem než jakýkoliv oheň."
+tagGDX1WeaponGun1hC108=Ultosův metač bouří
+tagGDX1WeaponGun1hC110=Luminářská skrytá zbraň
+
+tagGDX1WeaponGun1hD101=Morguulova smrtelnost
+tagGDX1WeaponGun1hD101_Desc="Mistr Morguul zdokonalil náboje pro tuto střelnou zbraň sloučením nekrotických sil a smrtících toxinů, aby vytvořil tajnou zbraň, která urychluje hnilobu a roklad."
 tagGDX1WeaponGun1hD102=Anderos' Amplifier
 tagGDX1WeaponGun1hD102_Desc="Sidearm specifically devised by Inquisitor Anderos to amplify his already formidable mastery over arcane runes."
 tagGDX1WeaponGun1hD103=Arcanum Electrollis
@@ -89,6 +89,7 @@ tagGDX1WeaponGun1hD107=Cindercore
 tagGDX1WeaponGun1hD108=Aegis Revolver
 tagGDX1WeaponGun1hD109=Darkblaze Incinerator
 tagGDX1WeaponGun1hD110=Dagallon's Destroyer
+tagGDX1WeaponGun1hD110_Desc="The barrels are runed on the inside to propel the bullets with supernatural force."
 tagGDX1WeaponGun1hD111=Dagallon's Annihilator
 tagGDX1WeaponGun1hD112=Hagarradian Enforcer
 tagGDX1WeaponGun1hD112_Desc="The cylinder is loaded with a fragment of the original Rune of Hagarrad, infusing every shot with a bonechilling cold."
@@ -721,7 +722,7 @@ tagGDX1NecklaceD102=Flames of Wrath
 tagGDX1NecklaceD103=Vigar's Hunger
 tagGDX1NecklaceD103_Desc="The phial is filled with blood from the wendigo Ravager itself."
 tagGDX1NecklaceD104=Tainted Ruby of Gar'dal
-tagGDX1NecklaceD105=Exeuctioner's Judgement
+tagGDX1NecklaceD105=Executioner's Judgement
 tagGDX1NecklaceD106=Stormseer Sapphire
 tagGDX1NecklaceD113A=Conduit of Warring Whispers
 tagGDX1NecklaceD113B=Conduit of Destructive Whispers
@@ -1677,73 +1678,73 @@ tagItemSetD027BName=Dread Sigils of Alkamos
 
 
 #Prefixes
-tagGDX1PrefixAA101=Enlightening
+tagGDX1PrefixAA101=[ms]osvícený[fs]osvícená[ns]osvícené[mp]osvícené[fp]osvícené[np]osvícené
 
-tagGDX1PrefixAA022=Inquisitor's
-tagGDX1PrefixAA023=Necromancer's
+tagGDX1PrefixAA022=[ms]inkvizitorův[fs]inkvizitora[ns]inkvizitoro[mp]inkvizitory[fp]inkvizitory[np]inkvizitory
+tagGDX1PrefixAA023=[ms]nekromantův[fs]nekromantova[ns]nekromantovo[mp]nekromantovy[fp]nekromantovy[np]nekromantovy
 
-tagGDX1PrefixAD101=Impenetrable
+tagGDX1PrefixAD101=[ms]dokonalý[fs]dokonalá[ns]dokonalé[mp]dokonalé[fp]dokonalé[np]dokonalé
 
 tagGDX1PrefixAO101=Superior
 
-tagGDX1PrefixB101_WpnMelee1h_A=Essence Drinker's
-tagGDX1PrefixB102_WpnMelee1h_A=Stonefaced
-tagGDX1PrefixB103_WpnMelee1h_A=Runecarved
-tagGDX1PrefixB104_WpnMelee1h_A=Wraithbound
-tagGDX1PrefixB105_WpnMelee1h_A=Magestorm
+tagGDX1PrefixB101_WpnMelee1h_A=|9polykače duší
+tagGDX1PrefixB102_WpnMelee1h_A=|9kamenné tváře
+tagGDX1PrefixB103_WpnMelee1h_A=|9runotepce
+tagGDX1PrefixB104_WpnMelee1h_A=|9věčného hněvu
+tagGDX1PrefixB105_WpnMelee1h_A=|9bouřného čaroděje
 
-tagGDX1PrefixB101_Ar_A=Stonefaced
-tagGDX1PrefixB102_Ar_A=Runecarved
-tagGDX1PrefixB103_Ar_A=Wraithbound
-tagGDX1PrefixB104_Ar_A=Magestorm
+tagGDX1PrefixB101_Ar_A=|9kamenné tváře
+tagGDX1PrefixB102_Ar_A=|9runotepce
+tagGDX1PrefixB103_Ar_A=|9věčného hněvu
+tagGDX1PrefixB104_Ar_A=|9bouřného čaroděje
 
-tagPrefixB022_Class_A=Tactician's
-tagPrefixB023_Class_A=Purifier's
-tagPrefixB024_Class_A=Deceiver's
-tagPrefixB025_Class_A=Infiltrator's
-tagPrefixB026_Class_A=Mage Hunter's
-tagPrefixB027_Class_A=Vindicator's
-tagPrefixB028_Class_A=Apostate's
-tagPrefixB029_Class_A=Death Knight's
-tagPrefixB030_Class_A=Defiler's
-tagPrefixB031_Class_A=Cabalist's
-tagPrefixB032_Class_A=Reaper's
-tagPrefixB033_Class_A=Spellbinder's
-tagPrefixB034_Class_A=Ritualist's
-tagPrefixB035_Class_A=Interrogator's
-tagPrefixB036_Class_A=Theurgist's
+tagPrefixB022_Class_A=[ms]taktikův[fs]taktikova[ns]taktikovo[mp]taktikovy[fp]taktikovy[np]taktikovy
+tagPrefixB023_Class_A=[ms]čističův[fs]čističova[ns]čističovo[mp]čističovy[fp]čističovy[np]čističovy
+tagPrefixB024_Class_A=[ms]podvodníkův[fs]podvodníkova[ns]podvodníkovo[mp]podvodníkovy[fp]podvodníkovy[np]podvodníkovy
+tagPrefixB025_Class_A=[ms]infiltrátorův[fs]infiltrátorova[ns]infiltrátorovo[mp]infiltrátorovy[fp]infiltrátorovy[np]infiltrátorovy
+tagPrefixB026_Class_A=|9lovce čarodějů
+tagPrefixB027_Class_A=[ms]obhájcův[fs]obhájcova[ns]obhájcovo[mp]obhájcovy[fp]obhájcovy[np]obhájcovy
+tagPrefixB028_Class_A=[ms]odpadlíkův[fs]odpadlíkova[ns]odpadlíkovo[mp]odpadlíkovy[fp]odpadlíkovy[np]odpadlíkovy
+tagPrefixB029_Class_A=|9rytíře smrti
+tagPrefixB030_Class_A=[ms]poskvrnitelův[fs]poskvrnitelova[ns]poskvrnitelovo[mp]poskvrnitelovy[fp]poskvrnitelovy[np]poskvrnitelovy
+tagPrefixB031_Class_A=[ms]kabalistův[fs]kabalistova[ns]kabalistovo[mp]kabalistovy[fp]kabalistovy[np]kabalistovy
+tagPrefixB032_Class_A=[ms]rozparovačův[fs]rozparovačova[ns]rozparovačovo[mp]rozparovačovy[fp]rozparovačovy[np]rozparovačovy
+tagPrefixB033_Class_A=|9vazače kouzel
+tagPrefixB034_Class_A=[ms]ritualistův[fs]ritualistova[ns]ritualistovo[mp]ritualistovy[fp]ritualistovy[np]ritualistovy
+tagPrefixB035_Class_A=[ms]vyšetřovatelův[fs]vyšetřovatelova[ns]vyšetřovatelovo[mp]vyšetřovatelovy[fp]vyšetřovatelovy[np]vyšetřovatelovy
+tagPrefixB036_Class_A=[ms]teurgův[fs]teurgova[ns]teurgovo[mp]teurgovy[fp]teurgovy[np]teurgovy
 
-tagGDX1PrefixB101_Sh_A=Essence Drinker's
-tagGDX1PrefixB102_Sh_A=Bileridden
-tagGDX1PrefixB103_Sh_A=Runecarved
-tagGDX1PrefixB104_Sh_A=Magestorm
-tagGDX1PrefixB105_Sh_A=Wraithbound
-tagGDX1PrefixB106_Sh_A=Wraithwarded
-tagGDX1PrefixB107_Sh_A=Stonefaced
+tagGDX1PrefixB101_Sh_A=|9polykače duší
+tagGDX1PrefixB102_Sh_A=|9zloděje orgánů
+tagGDX1PrefixB103_Sh_A=|9runotepce
+tagGDX1PrefixB104_Sh_A=|9bouřného čaroděje
+tagGDX1PrefixB105_Sh_A=|9věčného hněvu
+tagGDX1PrefixB106_Sh_A=|9věčného trestu
+tagGDX1PrefixB107_Sh_A=|9kamenné tváře
 
 
 #Suffixes
 tagGDX1SuffixA101=of 
 
-tagGDX1SuffixB101_Wpn_A=of Tormented Souls
-tagGDX1SuffixB102_Wpn_A=of Soulwarding
-tagGDX1SuffixB103_Wpn_A=of Scorched Runes
-tagGDX1SuffixB104_Wpn_A=of Caged Souls
-tagGDX1SuffixB105_Wpn_A=of Celestial Wrath
+tagGDX1SuffixB101_Wpn_A=[ms]mučených duší[fs]mučených duší[ns]mučených duší[mp]mučených duší[fp]mučených duší[np]mučených duší
+tagGDX1SuffixB102_Wpn_A=[ms]lidské podstaty[fs]lidské podstaty[ns]lidské podstaty[mp]lidské podstaty[fp]lidské podstaty[np]lidské podstaty
+tagGDX1SuffixB103_Wpn_A=[ms]spálených run[fs]spálených run[ns]spálených run[mp]spálených run[fp]spálených run[np]spálených run
+tagGDX1SuffixB104_Wpn_A=[ms]uvězněné duše[fs]uvězněné duše[ns]uvězněné duše[mp]uvězněné duše[fp]uvězněné duše[np]uvězněné duše
+tagGDX1SuffixB105_Wpn_A=[ms]nebeského trestu[fs]nebeského trestu[ns]nebeského trestu[mp]nebeského trestu[fp]nebeského trestu[np]nebeského trestu
 
-tagGDX1SuffixB101_Ar_A=of Tormented Souls
-tagGDX1SuffixB102_Ar_A=of Tormented Souls
-tagGDX1SuffixB103_Ar_A=of Soulwarding
-tagGDX1SuffixB104_Ar_A=of Scorched Runes
-tagGDX1SuffixB105_Ar_A=of Caged Souls
-tagGDX1SuffixB106_Ar_A=of Caged Souls
+tagGDX1SuffixB101_Ar_A=[ms]trýzněných duší[fs]trýzněných duší[ns]trýzněných duší[mp]trýzněných duší[fp]trýzněných duší[np]trýzněných duší
+tagGDX1SuffixB102_Ar_A=[ms]mučených duší[fs]mučených duší[ns]mučených duší[mp]mučených duší[fp]mučených duší[np]mučených duší
+tagGDX1SuffixB103_Ar_A=[ms]lidské podstaty[fs]lidské podstaty[ns]lidské podstaty[mp]lidské podstaty[fp]lidské podstaty[np]lidské podstaty
+tagGDX1SuffixB104_Ar_A=[ms]spálených run[fs]spálených run[ns]spálených run[mp]spálených run[fp]spálených run[np]spálených run
+tagGDX1SuffixB105_Ar_A=[ms]trpících duší[fs]trpících duší[ns]trpících duší[mp]trpících duší[fp]trpících duší[np]trpících duší
+tagGDX1SuffixB106_Ar_A=[ms]uvězněné duše[fs]uvězněné duše[ns]uvězněné duše[mp]uvězněné duše[fp]uvězněné duše[np]uvězněné duše
 
-tagGDX1SuffixB101_Sh_A=of Tormented Souls
-tagGDX1SuffixB102_Sh_A=of Scorched Runes
-tagGDX1SuffixB103_Sh_A=of Caged Souls
-tagGDX1SuffixB104_Sh_A=of Celestial Wrath
-tagGDX1SuffixB105_Sh_A=of Arcane Barriers
-tagGDX1SuffixB106_Sh_A=of Imposing Presence
+tagGDX1SuffixB101_Sh_A=[ms]mučených duší[fs]mučených duší[ns]mučených duší[mp]mučených duší[fp]mučených duší[np]mučených duší
+tagGDX1SuffixB102_Sh_A=[ms]spálených run[fs]spálených run[ns]spálených run[mp]spálených run[fp]spálených run[np]spálených run
+tagGDX1SuffixB103_Sh_A=[ms]uvězněné duše[fs]uvězněné duše[ns]uvězněné duše[mp]uvězněné duše[fp]uvězněné duše[np]uvězněné duše
+tagGDX1SuffixB104_Sh_A=[ms]nebeského trestu[fs]nebeského trestu[ns]nebeského trestu[mp]nebeského trestu[fp]nebeského trestu[np]nebeského trestu
+tagGDX1SuffixB105_Sh_A=[ms]tajemné bariéry[fs]tajemné bariéry[ns]tajemné bariéry[mp]tajemné bariéry[fp]tajemné bariéry[np]tajemné bariéry
+tagGDX1SuffixB106_Sh_A=[ms]impozantního vzezření[fs]impozantního vzezření[ns]impozantního vzezření[mp]impozantního vzezření[fp]impozantního vzezření[np]impozantního vzezření
 
 
 #ItemSkills
@@ -1751,76 +1752,76 @@ tagGDX1SuffixB106_Sh_A=of Imposing Presence
 
 #LootChests
 
-tagGDX1ChestWoodA01=Weathered Chest
-tagGDX1ChestAltarD01=Wendigo Altar
-tagGDX1ChestMalmouthC01=Steel Chest
-tagGDX1ChestMalmouthD01=Ornate Chest
-tagGDX1ChestFleshC01=Fleshformed Chest
-tagGDX1ChestFleshD01=Fleshwarped Chest
+tagGDX1ChestWoodA01=Větrem ošlehaná truhla
+tagGDX1ChestAltarD01=Wendigův oltář
+tagGDX1ChestMalmouthC01=Železná truhlička
+tagGDX1ChestMalmouthD01=Zdobná truhla
+tagGDX1ChestFleshC01=Masem obalená truhla
+tagGDX1ChestFleshD01=Masová truhla
 
-tagGDX1ChestSpecial01=Distinguished Chest
-tagGDX1ChestBucket01=Unfortunate Corpse
+tagGDX1ChestSpecial01=Elegantní truhla
+tagGDX1ChestBucket01=Mrtvola nešťastníka
 
-tagGDX1ChestFleshshaper=The Master's Trove
-tagGDX1ChestNemesis03=Gladiator's Trove
+tagGDX1ChestFleshshaper=Mistrův poklad
+tagGDX1ChestNemesis03=Gladiátorův poklad
 
-tagGDX1ChestSecret01=Hidden Fleshwarped Spoils
+tagGDX1ChestSecret01=Ukrytá masová bedýnka
 
-tagGDX1BreakableA01=Rotting Stump
-tagGDX1BreakableA02=Coven Cache
-tagGDX1Breakable_UgdenbogA01=Ugdenbog Mushroom
-tagGDX1Breakable_WendigoDoor=Wendigo Cage
+tagGDX1BreakableA01=Shnilý pařez
+tagGDX1BreakableA02=Skrýš ježibab
+tagGDX1Breakable_UgdenbogA01=Ugdenská houba
+tagGDX1Breakable_WendigoDoor=Wendigova klec
 
-tagGDX1ChestBoss_Kraken=Water-Logged Chest
-tagGDX1Chest_Barrowholm=Scorv's Personal Items
-tagGDX1Chest_DravisClue=Old Lectern
+tagGDX1ChestBoss_Kraken=Truhlice z vydlabaného kmenu
+tagGDX1Chest_Barrowholm=Scorvovy osobní věci
+tagGDX1Chest_DravisClue=Starý řečnický pult
 
-tagGDX1ChestBossOneShot_Fleshshaper=The Master's Collection
-tagGDX1ChestOneShot_Flesh=Fleshwarped Stash
-tagGDX1ChestOneShot_GloomwaldHidden=Nane's Stash
-tagGDX1ChestOneShot_MalmouthHidden=Rictor's Stash
+tagGDX1ChestBossOneShot_Fleshshaper=Mistrova sbírka
+tagGDX1ChestOneShot_Flesh=Masová skrýš
+tagGDX1ChestOneShot_GloomwaldHidden=Nanova skrýš
+tagGDX1ChestOneShot_MalmouthHidden=Rictorova skrýš
 
-tagGDX1Chest_MadRamblingsReward=Ivonda's Gift
-tagGDX1Chest_MadRamblingsLoot=Ivonda's Stash
-tagGDX1Chest_MadRamblingsNote=Ivonda's Chest
+tagGDX1Chest_MadRamblingsReward=Ivondin dar
+tagGDX1Chest_MadRamblingsLoot=Ivondina skrýš
+tagGDX1Chest_MadRamblingsNote=Ivondina truhlice
 
-tagGDX1Chest_KatrineCorpse=Katrine's Remains
+tagGDX1Chest_KatrineCorpse=Katrininy ostatky
 
 #Interactive Objects
 
-tagGDX1DoorWendigoLocked= {^R} ~ Locked by Scorv Egdenor
-tagGDX1DoorPuppetmasterLocked= {^R} ~ Locked by the Aetherials
-tagGDX1DoorSlumsLocked= {^R} ~ Locked by the Resistance
-tagGDX1DoorDocksLocked= {^R} ~ Locked by the Aetherials
-tagGDX1DoorEnclaveLocked= {^R} ~ Locked by the Aetherials
+tagGDX1DoorWendigoLocked= {^R} ~ uzamčeno Scorvem Egdenorem
+tagGDX1DoorPuppetmasterLocked= {^R} ~ uzamčeno Aetheriany
+tagGDX1DoorSlumsLocked= {^R} ~ uzamčeno Obránci
+tagGDX1DoorDocksLocked= {^R} ~ uzamčeno Aetheriany
+tagGDX1DoorEnclaveLocked= {^R} ~ uzamčeno Aetheriany
 
-tagGDX1LeverFleshFactory=Aether Crystal
-tagGDX1AetherialRift=Aetherial Rift
+tagGDX1LeverFleshFactory=Aetherický krystal
+tagGDX1AetherialRift=Aetherianská Brána
 
 
 #Quest Items
 
 
 #Breakables
-tagGDX1Quest_CorpseWagon_01=Aetherial Corpse Wagon
-tagGDX1Quest_FactoryVent=Fleshbound Vent
-tagGDX1Quest_ObsidianCrystal=Runed Obsidian
+tagGDX1Quest_CorpseWagon_01=Povoz s Aetherickými mrtvolami
+tagGDX1Quest_FactoryVent=Masem zarostlý průduch
+tagGDX1Quest_ObsidianCrystal=Runový obsidián
 
 #Dungeon Doors
-tagGDX1UGDoorFactoryEntrance=Fleshbound Entrance
-tagGDX1UGDoorSlums=Candle District
-tagGDX1UGDoorIndust=Steelcap District
-tagGDX1UGDoorHideout=Resistance Refuge
-tagGDX1UGDoorFactoryGeneric=Fleshbound Door
+tagGDX1UGDoorFactoryEntrance=Vstup do továrny
+tagGDX1UGDoorSlums=Svíčková čtvrť
+tagGDX1UGDoorIndust=Železný bodec
+tagGDX1UGDoorHideout=Útočiště Obránců
+tagGDX1UGDoorFactoryGeneric=Masorvoucí dveře
 tagGDX1UGDoorFactoryHeart=Srdce
-tagGDX1UGDoorSewerGeneric=Sewer Pipe
+tagGDX1UGDoorSewerGeneric=Kanalizační roura
 tagGDX1RiftVoidExit=Východ z Prázdnoty
 tagGDX1WendioDoor=Vstup do sklepa
-tagGDX1WitchDoor=Dwelling Entrance
-tagGDX1FleshFactoryDoor=Fleshy Entrance
-tagGDX1DoorMapleStump01=Hollowed Entrance
-tagGDX1DoorOvergrownCave=Overgrown Cave Entrance
-tagGDX1DoorLighthouse=Lighthouse Entrance
+tagGDX1WitchDoor=Vstup do doupěte čarodějnic
+tagGDX1FleshFactoryDoor=Masité dveře
+tagGDX1DoorMapleStump01=Vstup do dutiny
+tagGDX1DoorOvergrownCave=Vstup do jeskyně v Podrostu
+tagGDX1DoorLighthouse=Vstup do majáku
 tagGDX1CarraxusDoor=Carraxovo doupě
 
 #Doors

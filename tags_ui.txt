@@ -953,7 +953,7 @@ tagCharStatsBleedPercentRetInfo=Procentuální bonus ke všem efektům pomocí o
 
 tagCharStatsInternalTraumaRet=Vnitřní krvácení
 tagCharStatsInternalTraumaRetInfo=Zranění vnitřním krvácením udělené každou sekundu po dobu 5 sekund, způsobené útočníkovi kdykoliv tě zasáhne.
-tagCharStatsInternalTraumaPercentRet=Bonus k vnitřnímu krvácení
+tagCharStatsInternalTraumaPercentRet=Bonus k vnitř. krvácení
 tagCharStatsInternalTraumaPercentRetInfo=Procentuální bonus ke všem efektům pomocí odplaty, které způsobuje vnitřní krvácení. % bonus k celkovému zranění neovlivňuje oplácení.
 
 tagCharStatsFireRet=Oheň
