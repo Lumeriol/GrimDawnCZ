@@ -1,19 +1,19 @@
-tagSkillClassName07=[[ms]Inkvizitor[fs]Inkvizitorka]
-tagSkillClassName08=[[ms]Nekromant[fs]Nekromantka]
+tagSkillClassName07=[ms]Inkvizitor[fs]Inkvizitorka
+tagSkillClassName08=[ms]Nekromant[fs]Nekromantka
 
-tagSkillClassName0107=[[ms]Taktik[fs]Taktička]
-tagSkillClassName0108=[[ms]Rytíř smrti[fs]Rytířka smrti]
-tagSkillClassName0207=[[ms]Čistič[fs]Čistička]
-tagSkillClassName0208=[[ms]Poskvrnitel[fs]Poskvrnitelka]
-tagSkillClassName0307=[[ms]Podvodník[fs]Podvodnice]
-tagSkillClassName0308=[[ms]Kabalista[fs]Kabalistka]
-tagSkillClassName0407=[[ms]Infiltrátor[fs]Infiltrátorka]
-tagSkillClassName0408=[[ms]Rozparovač[fs]Rozparovačka]
-tagSkillClassName0507=[[ms]Lovec čarodějů[fs]Lovkyně čarodějů]
-tagSkillClassName0508=[[ms]Vazač kouzel[fs]Vazačka kouzel]
-tagSkillClassName0607=[[ms]Obhájce[fs]Obhájkyně]
-tagSkillClassName0608=[[ms]Ritualista[fs]Ritualistka]
-tagSkillClassName0708=[[ms]Odpadlík[fs]Odpadlice]
+tagSkillClassName0107=[ms]Taktik[fs]Taktička
+tagSkillClassName0108=[ms]Rytíř smrti[fs]Rytířka smrti
+tagSkillClassName0207=[ms]Čistič[fs]Čistička
+tagSkillClassName0208=[ms]Poskvrnitel[fs]Poskvrnitelka
+tagSkillClassName0307=[ms]Podvodník[fs]Podvodnice
+tagSkillClassName0308=[ms]Kabalista[fs]Kabalistka
+tagSkillClassName0407=[ms]Infiltrátor[fs]Infiltrátorka
+tagSkillClassName0408=[ms]Rozparovač[fs]Rozparovačka
+tagSkillClassName0507=[ms]Lovec čarodějů[fs]Lovkyně čarodějů
+tagSkillClassName0508=[ms]Vazač kouzel[fs]Vazačka kouzel
+tagSkillClassName0607=[ms]Obhájce[fs]Obhájkyně
+tagSkillClassName0608=[ms]Ritualista[fs]Ritualistka
+tagSkillClassName0708=[ms]Odpadlík[fs]Odpadlice
 
 
 tagSkillClassDescription07=Jakožto [[ms]členové[fs]členky] váženého spolku Luminářů [[ms]byli inkvizitoři zodpovědní[fs]byly inkvizitorky zodpovědné] za ochranu Erulanské říše před nebezpečími podivna a okultismu. Za ta staletí ikvizitoři a inkvizitorky posbírali nepřeberné množství relikvií nepředstavitelné síly, ale povinnost má leckdy přednost před bezpečností a tak některé z těchto relikvií byly studovány a kopírovány, aby je mohla používat inkvizice. Byť excelují se střelnými zbraněmi, jsou dále [[ms]inkvizitoři vybavení[fs]inkvizitorky vybavené] podivnými runami, které jim umožňují být dost nebezpečnými i v boji na blízko.
@@ -114,7 +114,7 @@ tagGDX1Class07SkillDescription16A=Opatrné zacházení s nebezpečnými relikvie
 
 #Class08
 
-tagGDX1Class08SkillName00A=Necromancer
+tagGDX1Class08SkillName00A=Nekromant
 tagGDX1Class08SkillDescription00A=Mistrovství v ovládání krutého osudu, který čeká na všechny živé.
 
 tagGDX1Class08SkillName01A=Sání života

@@ -59,7 +59,7 @@ tagGDX1WeaponAxeD106=Korbova posedlost
 
 tagGDX1WeaponAxeF101=Sekáček ježibaby
 tagGDX1WeaponAxeF102=Sekyrka ježibaby
-tagGDX1WeaponAxeF103=Wendigo sekáček
+tagGDX1WeaponAxeF103=Wendigův sekáček
 tagGDX1WeaponAxeF104=Měsíc čarodějnic
 
 
