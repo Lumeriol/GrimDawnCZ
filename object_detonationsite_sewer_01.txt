@@ -1,7 +1,7 @@
-Detonation Site
-A collapsed tunnel has blocked off this portion of the sewers. You can clear it out with some heavy explosives.{^n}{^n}It will take 3 Dynamite to clear a path.
-Requires 3 Dynamite
-Destroy the Barricade.
-Leave it.
-You have already cleared this barricade.
+Místo výbuchu
+Tuto část kanalizace zavalil zborcený tunel. Pomocí silných výbušnin je možné jej odstranit.{^n}{^n}Aby byl zával odstraněn, budeš potřebovat 3 dynamity.
+Potřebuješ 3 dynamity
+Odstranit zával.
+Nech to být.
+Zával byl odstraněn.
 Ok.
