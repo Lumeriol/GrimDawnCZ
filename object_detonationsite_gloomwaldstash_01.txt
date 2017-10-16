@@ -1,7 +1,7 @@
-Detonation Site
-These rocks look like someone placed them here deliberately. This might be Nane's secret stash. You can clear it out with some heavy explosives.{^n}{^n}It will take 1 Dynamite to clear it out.
-Requires 1 Dynamite
-Destroy the Barricade.
-Leave it.
-You have already cleared this barricade.
+Místo výbuchu
+Tyto kameny sem někdo zřejmě naházel záměrně. Soudě podle indícií by se mohlo jednat o Naninu tajnou skrýš. Co ji zkusit odtajnit pomocí nějakých výbušnin?{^n}{^n}Pravděpodobně bude stačit 1 dynamit.
+Potřebuješ 1 dynamit
+Odstranit kamení.
+Nechat to být.
+Kameny z tohoto místa už byly odstraněny.
 Ok.

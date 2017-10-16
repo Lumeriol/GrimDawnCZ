@@ -72,7 +72,7 @@ tagGDX1UGUgdenbogVoidRift04=Mezní příčetnost
 tagGDX1UGMalmouthSewer01=Malmouthské stoky
 tagGDX1UGMalmouthSewer02=Vyvýšené hlubiny
 tagGDX1UGMalmouthHideout01=Skrýš ve stokách
-tagGDX1UGMalmouthHideout02=Skrýš obránců Malmouthu
+tagGDX1UGMalmouthHideout02=Skrýš Obránců Malmouthu
 tagGDX1UGMalmouthOutskirtsCellar01=Hořící sklep
 tagGDX1UGMalmouthAetherialFactory01=Zamořená továrna
 tagGDX1UGMalmouthAetherialFactory02=Jatka
@@ -339,10 +339,10 @@ tagGDX1QuestItemDravisClue_02_Desc="Poznámka je připíchnuta ke květině: Trn
 tagGDX1QuestItemMadRamblings_01=Ivondina vzpomínka
 tagGDX1QuestItemMadRamblings_01_Desc="Psaní je povětšinou plné šílených překlepů a nesmyslů, ale některé pasáže jsou poměrně zajímavé. Teda pokud by dávaly aspoň trochu smysl."
 
-tagQuestItemRebelBomb=Bomba obránců
+tagQuestItemRebelBomb=Bomba Obránců
 tagQuestItemRebelBombDesc="Improvizovaná výbušnina. Nepůsobí, že by způsobila nějaké velké škody."
 tagQuestItemCreedsAdditive=Creedova přísada
-tagQuestItemCreedsAdditiveDesc="Pastovitý odvar zatuchlého zápachu. Inkvizitor Creed se dušuje, že Bomba obránců bude s tímto mnohem působivější."
+tagQuestItemCreedsAdditiveDesc="Pastovitý odvar zatuchlého zápachu. Inkvizitor Creed se dušuje, že Bomba Obránců bude s touto příměsí mnohem působivější."
 
 
 #Journals
