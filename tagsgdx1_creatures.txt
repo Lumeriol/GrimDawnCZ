@@ -455,7 +455,7 @@ tagGDX1DevotionWraith_H04=Endearon ~ krvesaj
 tagGDX1BountyCU04=Vanoxxis Žluva
 tagGDX1BountyCU05=Crognoth, Hořící předvoj
 tagGDX1BountyCU06=Habnor, Vyvolený Prázdnoty
-tagGDX1BountyCU07=Sllancar Nakažený
+tagGDX1BountyCU07=Silancar Nakažený
 tagGDX1BountyCU08=Mrazoklep
 tagGDX1BountyCU09=Nenasytný Vagarroth
 

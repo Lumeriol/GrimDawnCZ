@@ -1,21 +1,19 @@
-Coven of Ugdenbog Bounties
-You return with the materials in hand, a Bounty fulfilled.
-Report in.
+Vývěska na Shromaždišti v Ugdenských močálech
+Vracíš se s rukama plnýma surovin, úkol byl splněn.
+Ohlas se.
 
-Step away from the Bounty Table.
-You return triumphantly, a Bounty fulfilled.
-Report in.
+Odstup od vývěsky.
+Úkol byl splněn a ty se vítězoslavně vracíš zpět.
+Ohlas se.
 
-Step away from the Bounty Table.
-You are already on a Bounty for the Coven of Ugdenbog.
-Step away from the Bounty Table.
-The Coven of Ugdenbog sees you as an ally.{^n}{^n}If you wish to remain on good terms, then there is always more that could be done.
-Take a look at the bounty.
-You have fulfilled all of the posted Bounties for this session.
-Step away from the Bounty Table.
-Take a look at the bounty.
-
-
+Odstup od vývěsky.
+Úkol pro Shromaždiště už byl přijat.
+Odstup od vývěsky.
+Obyvatelé Ugdenských močálů tě považují za přítele.{^n}{^n}Pokud si chceš udržet dobré vztahy, je vždycky způsob, jak tomu napomoci.
+Prohlédni si úkoly.
+V této herní relaci jsou už všechny vyvěšené úkoly splněny.
+Odstup od vývěsky.
+Prohlédni si úkoly.
 
 
 
@@ -28,79 +26,81 @@ Take a look at the bounty.
 
 
 
-Step away from the Bounty Table.
-The Wendigo cult has plagued the Coven for far too long.{^n}{^n}Eliminating Wendigo Ancients in Ugdenbog may slow their attacks for a time.{^n}{^n}Your efforts will be rewarded with iron bits.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
 
-The Coven needs assistance maintaining balance in the Ugdenbog.{^n}{^n}The population of Basilisks has grown out of control. The most dangerous among them must be removed. It's time for a hunt.{^n}{^n}Eliminate Venomgaze Basilisks in Ugdenbog.{^n}{^n}The Coven has set aside some of their ritual supplies as compensation for this task.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
 
-The ravenous living plants of Ugdenbog are growing out of control.{^n}{^n}Help the Coven restore balance by destroying their Poisonous Blooms.{^n}{^n}The Coven has set aside some of their ritual supplies as compensation for this task.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Odstup od vývěsky.
+Shromaždiště je od nepaměti sužování kultem Wendiga.{^n}{^n}Zlikvidování Wendigových Stařešinů v Ugdenských močálech by mohlo jejich útoky na čas zastavit.{^n}{^n}Tvé úsilí bude odměněno železnými mincemi.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-Matron Malostria has had visions of a horrific Aetherial creation rampaging through the outskirts of Malmouth.{^n}{^n}The creature has already killed several new recruits trying to leave the city.{^n}{^n}Destroy the beast called Vanoxxis Bile in the Malmouth Outskirts, for the future of the Coven.{^n}{^n}The Coven has set aside some of their ritual supplies as compensation for this task.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Shromaždiště potřebuje pomoc s udržením rovnováhy v Ugdenských močálech.{^n}{^n}Populace bazilišků se vymkla kontrole a ti nejnebezpečnější je potřeba vyhubit. Je čas na loveckou sezónu.{^n}{^n}Vydej se do Ugdenských močálů a zlikviduj tam několik Jed plivající bazilišků.{^n}{^n}Shromaždiště si vyhradilo nějaké rituální předměty jako odměnu za snahu.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-The Aetherial called Crognoth is hindering the Coven's recruitment efforts in Malmouth.{^n}{^n}Find Crognoth in the Malmouth Candle District and destroy it.{^n}{^n}The Coven has set aside some of their ritual supplies as compensation for this task.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Obrovské masožravé rostliny se v Ugdenských močálech přemnožily.{^n}{^n}Pomoz Shromaždišti zredukovat jejich počet zničením jejich Otrávených květů.{^n}{^n}Shromaždiště si vyhradilo nějaké rituální předměty jako odměnu za snahu.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-The imbalance has spread far beyond the reaches of Ugdenbog.{^n}{^n}There have been reports of a massive creature attacking members of the coven in Gloomwald.{^n}{^n}Eliminate it for the good of the coven.{^n}{^n}The death of this fiend will be rewarded with iron bits.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Matróna Malostria měla vize o děsivém Aetherickém stvoření, které si volně pobíhá na předměstí Malmouthu.{^n}{^n}Netvor nedávno zmasakroval několik nových rekrutů, kteří si vyrazili z města.{^n}{^n}Zlikviduj netvora zvaného Vanoxxis Žluva na předměstí Malmouthu pro blaho obyvatel Ugdenských močálů.{^n}{^n}Shromaždiště si vyhradilo nějaké rituální předměty jako odměnu za snahu.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-The Coven needs assistance maintaining balance in the Ugdenbog.{^n}{^n}Despite our efforts the Basilisk threat continues to grow.{^n}{^n}Perhaps it's time we dealt a more precise blow.{^n}{^n}Find the beast called Silancar, at the heart of Ugdenbog, and destroy it.{^n}{^n}The death of this fiend will be rewarded with iron bits.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Aetherian zvaný Crognoth ztěžuje nábor nových rekrutů v Malmouthu.{^n}{^n}Najdi Crognotha ve městě Malmouth, pravděpodobně ve Svíčkové čtvrti a ukonči jeho život.{^n}{^n}Shromaždiště si vyhradilo nějaké rituální předměty jako odměnu za snahu.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-Chillpincer has been growing a brood within Barrowholm Mine to the North. {^n}{^n}If left unchecked, this could have grave consequences for the ecosystem, and our safety. Chillpincer must be slain...{^n}{^n}The death of this fiend will be rewarded with iron bits.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Nerovnováha se rozšířila daleko za hranice Ugdenských močálů.{^n}{^n}Vyskytly se zvěsti o obrovském netvorovi, který napadá členy Shromaždiště v Gloomwaldu.{^n}{^n}Zlikviduj ho pro dobro Shromaždiště.{^n}{^n}Smrt tohoto netvora bude vykompenzována železnými mincemi.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-The Wendigo are as a blight upon Ugdenbog.{^n}{^n}To defend the land we must continue to fight this plague. {^n}{^n}Find the Wendigo called Vagarroth, in the cult camps around Ugdenbog, and destroy it.{^n}{^n}The death of this fiend will be rewarded with iron bits.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Shromaždiště potřebuje pomoc s napravením rovnováhy v Ugdenských močálech.{^n}{^n}Navzdory našim snahám se neustále rozrůstá populace bazilišků.{^n}{^n}Možná je na čase, abychom je zredukovali více, než by se jim mohlo líbit.{^n}{^n}Najdi netvora zvaného Silancar v srdci Ugdenských močálů a vypořádej se s ním jednou pro vždy.{^n}{^n}Smrt tohoto netvora bude vykompenzována železnými mincemi.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-The Coven seeks an unusual relic to aid them in their rituals.{^n}{^n}The Mistborn trolls of the Broken Hills have learned the art of crafting what is known as a Mistborn Talisman, which their shamans use to crudely wield magic.{^n}{^n}The Coven wishes to study its magic for their own purposes. As compensation, the Coven will relinquish some Blood of Ch'thon they've gathered.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+V Barrowholmských dolech na severu se rozhodl zahnízdit Mrazoklep.{^n}{^n}Pokud ho necháme rodit další mláďata, mohlo by to mít fatální vliv na celý ekosystém a zároveň na naši bezpečnost. Mrazoklep by měl zaklepat bačkorama...{^n}{^n}Smrt tohoto netvora bude vykompenzována železnými mincemi.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-The beast Carraxus Foul has long plagued the Coven of Ugdenbog. {^n}{^n}Find the creatures lair in the Northeast of Gloomwald and slay Carraxus Foul for the safety of the Coven.{^n}{^n}The Coven has set aside some of their ritual supplies as compensation for slaying this beast.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Wendigo je rakovina Ugdenských močálů.{^n}{^n}Abychom ubránili naši zemi, je třeba s tímto morem bojovat. {^n}{^n}Najdi Wendiga, který si říká Vagarroth, bude někde v tábořištích kultu kolem Ugdenských močálů. Je třeba mu zakroutit krkem.{^n}{^n}Smrt tohoto netvora bude vykompenzována železnými mincemi.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-The witch Janaxia has betrayed the Coven and turned to the ways of the Wendigo.{^n}{^n}She must not be permitted to continue down this foul path.{^n}{^n}Find her hut in the Southern end of Ugdenbog and kill Janaxia, the Betrayer.{^n}{^n}The Coven has set aside some of their ritual supplies as compensation for eliminating this traitor.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Shromaždiště pátrá po neobvyklé relikvii, která by pomohla s jejich rituály.{^n}{^n}Blátiví trolové ze Sesutých kopců se naučili umění kovářství, čímž vznikl Blátivý talisman, jež užívají jejich šamané pro surové magické energie.{^n}{^n}Shromaždiště by rádo prostudovalo jejich magii, aby ji mohlo využít ke svým účelům. Za odměnu ti může Shromaždiště slíbit Krev Ch'thona.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-The ancient plant Sylvarria has grown too wide and too deep. Her roots and tendrils now infest all of Ugdenbog.{^n}{^n}Find Sylvarria, in the Undergrowth, and remove her so others may grow in her place.{^n}{^n}Your efforts will be rewarded with iron bits.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Potvora, která si říká Falešný Carraxus, už nějakou dobu sužuje Ugdenské močály.{^n}{^n}Najdi jeho hnízdo severovýchodně od Gloomwald a zlikviduj ho pro bezpečnost obyvatel Shromaždiště.{^n}{^n}Shromaždiště si vyhradilo nějaké rituální předměty jako odměnu za zabití té potvory.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-It seems nothing is safe from the Chthonic corruption.{^n}{^n}An ancient Ugdenbog Crab called Connivius Earthshell is its most recent victim and a great threat to the balance in Ugdenbog.{^n}{^n}Find the the creature within the Ancient Grove and return it to the land.{^n}{^n}The Coven has set aside some of their most valuable ritual supplies as compensation for dealing with this threat to nature.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Čarodějka Janaxia zradila Shromaždiště a našla nové spojence mezi Wendigy.{^n}{^n}Nemůžeme jí dovolit, aby pokračovala v téhle falešné cestě.{^n}{^n}Najdi její chýši severně od Ugdenských močálů a pak naši milou Zrádkyni Janaxii chladnokrevně poprav.{^n}{^n}Shromaždiště si vyhradilo nějaké rituální předměty jako odměnu za napravení zrady.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-The Coven of Ugdenbog sees you as an ally.{^n}{^n}If you wish to remain on good terms, then there is always more that could be done.
+Starodávná rostlina zvaná Sylvarria narostla příliš do šířky i do hloubky. Její kořeny a úponky nyní orhožují všechny obyvatele Ugdenských močálů.{^n}{^n}Najdi Sylvarria v Podrostu a zkrať její údy natolik, aby mohli dýchat kolem i ostatní.{^n}{^n}Tvá snaha bude odměněna železnými mincemi.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-Step away from the Bounty Table.
-The Coven of Ugdenbog does not yet trust you to handle their most secretive tasks.{^n}{^n}A Respected reputation is required to access the Bounty Table.
-Step away from the Bounty Table.
+Zdá se, že před Chthonickou nákazou není úniku.{^n}{^n}Pradávný Ugdenský krab nazývaný Connivius Zemichraň je její poslední oběť a obrovská hrozba pro rovnováhu v Ugdenských močálech.{^n}{^n}Najdi tohoto netvora někde ve Starodávném háji a zadupej ho do země.{^n}{^n}Shromaždiště jako kompenzaci za vypořádání se s touto hříčkou přírody nabízí ty nejvzácnější rituální přísady.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
+
+Obyvatelé Ugdenských močálů tě považují za přítele.{^n}{^n}Pokud si chceš udržet dobré vztahy, je vždycky způsob, jak tomu napomoci.
+
+Odstup od vývěsky.
+Obyvatelé Ugenských močálů zrovna v tebe neoplývají důvěrou natolik, aby ti svěřili své nejtajnější úkoly.{^n}{^n}Trochu zlepši svou pověst a pak se vrať zpět k vývěsce.
+Odstup od vývěsky.
