@@ -1,13 +1,13 @@
-Bounties
-Bounty: Poisoned Garden
-Bounty
-The ravenous living plants of Ugdenbog are growing out of control.{^n}{^n}Help the Coven restore balance by destroying their Poisonous Blooms.{^n}{^n}The Coven has set aside some of their ritual supplies as compensation for this task.
+Úkoly za odměny
+Hledá se: Otrávená zahrada
+Popis
+Obrovské masožravé rostliny se v Ugdenských močálech přemnožily.{^n}{^n}Pomoz Shromaždišti zredukovat jejich počet zničením jejich Otrávených květů.{^n}{^n}Shromaždiště si vyhradilo nějaké rituální předměty jako odměnu za snahu.
 
-Destroy Poisonous Blooms
+Znič Otrávené květy
 
-Turn In
-You have completed the task for the Coven of Ugdenbog and should return to the Bounty Table for your reward.
-Return to the Coven of Ugdenbog Bounty Table
+Hotovo, vrať se
+Úkol pro Shromaždiště byl dokončen a teď se můžeš vrátit k vývěsce pro svou odměnu.
+Vrať se k vývěsce v Ugdenských močálech
 
 
 
