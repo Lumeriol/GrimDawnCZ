@@ -1,197 +1,198 @@
 Scorv Egdenor
-A glorious age will soon begin.
-I'm out of here.
-Farewell.
-It is a pity we could not find agreement, but as you can see, it is far too late for hostilities now.
-So you say.
-You have pleased Ravager with your actions, outsider.{^n}{^n}When this world is scoured of unbelievers and fiends, perhaps you too shall be among the chosen few who will rise up from the ashes.
-I have some questions.
-There are no secrets between us.{^n}{^n}*Scorv smiles widely*
-What is Ravager exactly?
-Ravager is as old as Cairn, the primal embodiment of hunger, of life and death; the vicious cycle of predator and prey.{^n}{^n}Wrongfully scorned by the beast god, Ravager was forced to hide within the shadows, but he has returned to us and with our worship he rivals even the gods.
-I have another question.
-I see.
-What is Ravager's plan?
-With his body remade, Ravager will rid this world of the Chthonic taint that threatens to steal the precious blood that is rightfully his.{^n}{^n}Then, all show bow before their god, or be extinguished.
-I have another question.
-That sounds horrific.
-As they should.
-What is next for Barrowholm?
-With our god manifested, we shall thrive unchallenged.{^n}{^n}None can hope to stand against us now. But we only shall go where Ravager commands.
-I have another question.
-I see.
-Forget it.
-How did you come to serve the Wendigo?
-Oh, that old tale.{^n}{^n}I was a traveler, much like yourself, but unlike you I was not one for battle. I had a partner back then, her name was Jessa. Together, we foolishly wandered into Ugdenbog and got lost. We roamed for days, sometimes circling back to where we were days before. The water was poison, the only food was more likely to eat me back than offer any sustenance. In short, we were doomed.{^n}{^n}I'm not sure who got the idea first, but we both eyed each other with a ravenous hunger fueled by desperation. I overpowered Jessa and plunged my knife into her heart. As her blood oozed out of the wound and she choked on her last words, I drank deep of the crimson. I ate well that day as tears poured down my face.{^n}{^n}The next night, my dreams were plagued by feverish visions. I was visited by a spirit. It smiled at me with a wide grin and offered solace in my misery. It said that my soul was forfeit for what I had done, but that need not be the end. It offered me an anguished tale of its banishment and how it desired only to return to the mortal realm. With my help, its aspirations could become reality. In return, it offered salvation from my cursed fate. I willingly agreed.{^n}{^n}On that day, I became the herald of Ravager.
-What about Barrowholm?
-Barrowholm was merely the start. Empowered by the Wendigo and guided by a new destiny, I set out to grow Ravager's following.{^n}{^n}He pointed me towards the nearby village, which had been struck by famine and was growing increasingly desperate. Separated from other towns by Ugdenbog, ts people made an easy target.
-So you tricked them?
-That is such a strong word.{^n}{^n}*Scorv smiles*{^n}{^n}I merely offered them a way out of their very difficult predicament. Barrowholm had never been more prosperous.
-I have another question.
-You disgust me.
-Sure, I guess.
-I have another question.
-Disturbing.
-I need to go.
-I have another question.
-Think I've heard enough.
-I need to go.
-Is that...Larria's body?
-Mmm, yes. We would not want to waste a perfectly good corpse, now would we? You must have chased her far!{^n}{^n}*Scorv grins*{^n}{^n}Ravager will enjoy her heart.
-Er, great!
-Rather disgusting.
-Charming.
-I'll be leaving now.
-Farewell.
-A glorious age will soon begin.
-I'm out of here.
-Farewell.
-A massive burden and honor has been placed upon you, outsider.{^n}{^n}Think about this carefully.
-I think I've decided.
-Who shall serve as the Ravager's flesh?
-I choose Tyvald Hallows.
-He is brash and prone to anger, but those emotions can serve Ravager well.{^n}{^n}I will proceed with the ceremony then?
-Wait, I've changed my mind.
-Who will it be then?
-Yes, bring forth the Ravager!
-Let me think about this.
-I choose Aurin Evelline.
-Yes, young Aurin is ambitious and her mind has already served Ravager well. May it continue to serve him in her death.{^n}{^n}I will proceed with the ceremony then?
+Věk slávy brzy započne.
+Padám odsud.
+Sbohem.
+Je škoda, že jsme nedokázali najít kompromis, ale jak vidíš, teď už je na nepřátelství příliš pozdě.
+To říkáš ty.
+[[ms]Potěšil[fs]Potěšila] jsi Ravagera svými činy, [[ms]cizinče[fs]cizinko].{^n}{^n}Když už je svět protkaný nevěřícími a nestvůrami, možná i ty budeš mezi těmi málo vyvolenými, kteří povstanou z prachu.
+[[ms]Měl[fs]Měla] bych nějaké otázky.
+Mezi námi nejsou tajemství.{^n}{^n}*Scorv se mohutně zasměje*
+Co nebo kdo je Ravager?
+Ravager je starý jako sám Cairn, prvotní ztělesnění hladu, života a smrti; krutý cyklus lovce a oběti.{^n}{^n}Nesprávně zavrhován bohem bestií byl Ravager nucen ukrývat se ve stínech, ale teď se k nám vrátil a díky naší víře se nyní vzpírá i bohům.
+Mám další otázku.
+Chápu.
+Jaký je Ravagerův plán?
+S jeho znovustvořeným tělem se Ravager zbaví všech Ch'thonických nečistých, kteří hrozí krádeží cenné krve, která je právoplatně jeho.{^n}{^n}Pak se všichni skloní před jejich bohem a nebo budou vyhlazeni.
+Mám další otázku.
+To zní strašně.
+To by měli.
+Co dalšího čeká Barrowholm?
+S vzezřením našeho boha budeme prospívat bez jakýchkoliv starostí.{^n}{^n}Nikdo nyní nemůže doufat, že by se nám mohl postavit. My ale půjdeme jen tam, kam Ravager rozkáže.
+Mám další otázku.
+Chápu.
+Zapomeneme na to.
+Jak se stalo, že jsi začal sloužit Wendigu?
+Oh, to je ta stará povídka.{^n}{^n}Byl jsem cestovatel, tak jako ty, ale tak jako ty jsem určitě nebyl schopný bojovník. Tehdy jsem měl partnerku, její jméno bylo Jessa. Společně jsme spolu neuvážlivě vyrazili do Ugdenbogu a ztratili se. Bloudili jsme dny, někdy jsme se vrátili v kruhu tam, odkud jsme vyšli. Voda byla jedovatá, jediné jídlo k dispozici by mě spíše kus snědlo než abych měl nějakou výživu. Ve zkratce, byli jsme odsouzeni zemřít.{^n}{^n}Nejsem si jistý, koho to napadlo jako prvního, ale jeden na druhého jsme se vzájemně podívali hladovým pohledem, posilněným zoufalstvím. Jessu jsem přemohl a vrazil jí nůž do srdce. Jak vytékala krev z její rány a ona se dávila s posledním výdechem, hodně krve jsem vypil. Ten den jsem se dobře najedl a zároveň my slzy proudily po tváři.{^n}{^n}Další noc byly mé sny zaplavené horečnými halucinacemi. Navštívil mě duch. Zasmál se na mě, široce se ušklíbl a nabídl mi útěchu v mém zoufalství. Řekl mi, že jsem ztratil duši díky tomu, co se poslední noc stalo, ale že to nutně neznamená konec. Nabídl mi vyprávění staré děsivé povídky o svém vyhnanství a jak jediným jeho přáním bylo vrátit se do světa živých. S mojí pomocí se jeho touhy mohly stát skutečností. Na oplátku mi nabídl spásu mého vlastního prokletého osudu. S radostí jsem souhlasil.{^n}{^n}Toho dne jsem se stal zvěstovatelem Ravagera.
+A co Barrowholm?
+Barrowholm byl sotva začátek. Posílen Wendigem a řízený novým osudem jsem vyrazil rozšířit řady Ravagerových následovníků. {^n}{^n}Nasměroval mě k vesnici nedaleko, která byla zasažená hladomorem, v níž zoufalost neustále rostla. Protože je oddělená od ostatních měst v Ugdenbogu, byli lidé v ní snadným cílem.
+Takže jsi je podvedl?
+To je příliš silný výraz.{^n}{^n}*Scorv se usměje*{^n}{^n}Pouze jsem jim nabídl cestu, jak se zbavit jejich velkého problému. Barrowholm nikdy víc neprosperoval.
+Mám další otázku.
+Znechutil si mě.
+Urcitě, tedy alespoň myslím.
+Mám další otázku.
+Znepokojující.
+Musím jít.
+Mám další otázku.
+Myslím, že už jsem [[ms]slyšel[fs]slyšela] dost.
+Potřebuju už jít.
+Je to...Larriino tělo?
+Hm, ano. Nechtěli bychom přijít o tak perfektní mrtvolu, nebo snad ano? [[ms]Musel[fs]Musela] si jí honit po všech čertech! {^n}{^n}*Scorv se ušklíbne*{^n}{^n}Ravager si vychutná její srdce.
+Eh, skvělý!
+Spíš je to nechutný.
+Okouzlující.
+Já teďka půjdu.
+Sbohem.
+Slavný věk brzy pozačne.
+Padám odsud.
+Sbohem.
+Těžké břemeno a sláva byly uvaleny na tebe, [[ms]cizinče[fs]cizinko]. {^n}{^n}Pečlivě o tom přemýšlej.
+Myslím, že jsem se [[ms]rozhodl[fs]rozhodla].
+Kdo tedy poslouží jako Ravagerova tkáň?
+[[ms]Zvolil[fs]Zvolila] jsem Tyvalda Hallowse.
+Je drzý a náchylný k agresivitě, ale tyto emoce mohou Ravagerovi dobře posloužit. {^n}{^n}Budu tedy pokračovat v ceremoniálu?
+Počkej, [[ms]rozmyslel[fs]rozmyslela] jsem si to.
+Kdo to teda bude?
+Ano, přiveďte Ravagera!
+Nech mě si to rozmyslet.
+[[ms]Zvolil[fs]Zvolila] jsem Aurin Evelline.
+Ano, mladá Aurin je ambiciózní a její mysl už Ravagerovi dobře posloužila. Nechť mu slouží dál svou smrtí.{^n}{^n}Budu tedy pokračovat v ceremoniálu?
 
-Yes, bring forth the Ravager!
-Let me think about this.
-I choose Jordyth Evelline.
-Ever devoted, Jordyth is Ravager's perhaps most zealous follower. A fitting conclusion to his prayers.{^n}{^n}I will proceed with the ceremony then?
+Ano, přiveďte Ravagera!
+Nech mě si to rozmyslet.
+[[ms]Zvolil[fs]Zvolila] jsem Jordyth Evelline.
+Oddanou a možná nejhorlivější stoupenkyní je Jordyth. Příhodný závěr jeho modlitebníků.{^n}{^n}Budu tedy pokračovat v ceremoniálu?
 
-Yes, bring forth the Ravager!
-Let me think about this.
-Actualy, let me think about this more.
-Is that...Larria's body?
-Mmm, yes. We would not want to waste a perfectly good corpse, now would we? You must have chased her far!{^n}{^n}*Scorv grins*{^n}{^n}Ravager will enjoy her heart.
+Ano, přiveďte Ravagera!
+Nech mě si to rozmyslet.
+Nech mě si to pořádně rozmyslet.
+Je to...Larriino tělo?
+Hm, ano. Nechtěli bychom přijít o tak perfektní mrtvolu, nebo snad ano? [[ms]Musel[fs]Musela] si jí honit po všech čertech! {^n}{^n}*Scorv se ušklíbne*{^n}{^n}Ravager si vychutná její srdce.
 
-Er, great!
-Rather disgusting.
-Not yet. 
-Oh, it's you.{^n}{^n}I was hoping you would never return so that I may resist the urge to gut you with my blade.
-Why? What happened?
-It is Ravager! I do not know what I had done to scorn the Great One, but here, on the hour of his imminent return, the spirit demanded that the honor of selecting a chosen to serve as his flesh and blood go to you.{^n}{^n}To you! An outsider!{^n}{^n}The three have already come forward. The blood of one of them shall serve as the catalyst and the flesh will feed the wendigo.{^n}{^n}*Scorv sighs*{^n}{^n}It falls to you: will it be Aurin who performs the final rite? Or her brother Jordyth? Or perhaps Tyvald? Speak to the chosen and decide!
-I will carry out this honor.
-I am not comfortable with this.
-Does the chosen have to die?
-Though it pains me to lose an acolyte, it truly does, it is ultimately the will of Ravager that we all must serve.{^n}{^n}The Great One shall feast upon their flesh and through it he shall be born anew!
-I'll do it.
-I am not comfortable with this.
-Is that...Larria's body?
-Mmm, yes. We would not want to waste a perfectly good corpse, now would we? You must have chased her far!{^n}{^n}*Scorv grins*{^n}{^n}Ravager will enjoy her heart.
-So why do you want to gut me?
-Er, great!
-Rather disgusting.
-Don't try anything foolish.
-I'll just leave you alone then.
-Leave me now. I must tend to the wishes of my master.{^n}{^n}Come back when you're worthy.
-And what would that entail?
-To serve us is to serve Ravager. See to the bounty table, or slaughter the blood-thieving Chthonians.
-Very well.
+Eh, skvělý!
+Spíš je to nechutný.
+Ještě ne.
+Ah, to jsi ty.{^n}{^n}Doufal jsem, že už se nikdy nevrátíš a tak bych mohl odolat mému chtíči tě vykuchat svým mečem.
+Proč? Co se stalo?
+To Ravager! Nevím, co jsem udělal, že jsem popudil Velikého, ale teď, v době jeho bezprostředního návratu duch vyžaduje, aby pocta vybrání jednoho vyvoleného, který bude sloužit jako potrava, připadla právě tobě.{^n}{^n}Tobě! [[ms]cizinci[fs]cizince]!{^n}{^n}Tři již předstoupili. Krev jednoho z nich poslouží jako katalyzátor a jeho mase pak nakrmí wendiga.{^n}{^n}*Scorv si povzdechne*{^n}{^n}Takže na tobě nyní je, zda: to bude Aurin, který podstoupí konečný obřad? Jebo snad jeho bratr Jordyth? A nebo možná Tyvald? Promluv k vyvoleným a rozhodni!
+Vykonám tuto čestnou událost.
+Není mi to příliš příjemné.
+Musí ten, koho zvolím, zemřít?
+Ikdyž mne bude bolet, že přijdu o přívržence, skutečně zemřít musí, je to nakonec Ravagerova vůle, které musíme všichni sloužit.{^n}{^n}Veliký bude hodovat na jejich mase a jen tak se znovu zrodí!
+Udělám to.
+Není mi to příliš příjemné.
+Je to...Larriino tělo?
+Hm, ano. Nechtěli bychom přijít o tak perfektní mrtvolu, nebo snad ano? [[ms]Musel[fs]Musela] si jí honit po všech čertech! {^n}{^n}*Scorv se ušklíbne*{^n}{^n}Ravager si vychutná její srdce.
+Tak proč mě chceš vykuchat?
+Eh, skvělý!
+Spíš je to nechutný.
+Nezkoušej žádné hlouposti.
+Nechám vás tedy raději o samotě.
+Teď mě nech. Musím sloužit vůli mého pána.{^n}{^n}Přijď, až toho budeš [[ms]hodný[fs]hodná].
+A to znamená co?
+Sloužit nám znamená sloužit Ravagerovi. Podívej se na vývěsku nebo zabij pár Chthonianů, těch zlodějů krve.
+Tak dobrá.
 
-Very well.
-Mmm, the stench of rotting hearts follows you, outsider.{^n}{^n}Come, bring them to me.
-Here they are.
-Yes, these should satisfy Ravager's hunger for a time once he is reborn.{^n}{^n}Now begone, outsider, before I give in to my urges to gut you with my knife.
-Wait, what?
+Tak dobrá.
+Hmm, pach hnijících srdcí se za tebou táhne, [[ms]cizinče[fs]cizinko].{^n}{^n}Pojď, přines mi je.
+Tady jsou.
+Ano, ty by měly uspokojit Ravagerův hlad na část doby, než se znovu zrodí. {^n}{^n}Nyní se ztrať, [[ms]cizinče[fs]cizinko], nebo uspokojím svou touhu tě teď a tady vykuchat.
+Počkat, cože?
 
-Don't try anything foolish.
-Um, alright, I'm leaving.
-Yes, these should satisfy Ravager's hunger for a time once he is reborn.{^n}{^n}Now begone, outsider. There are matters I must attend to that are too delicate for your uninitiated eyes.
-You're welcome...
-Very well.
-Is that...Larria's body?
-Mmm, yes. We would not want to waste a perfectly good corpse, now would we? You must have chased her far!{^n}{^n}*Scorv grins*{^n}{^n}Ravager will enjoy her heart.
-Here are the hearts.
-Er, great!
-Rather disgusting.
-Have you done as Ravager asked?
-Where should I look for the Ancients?
-You will find Handarroth roaming the wilds of Gloomwald. Ollivioth and Yuvolloth will likely be found among the poisonous fumes of Ugdenbog itself.{^n}{^n}Bring me their hearts. Do not keep Ravager waiting.
-Alright.
-Is that...Larria's body?
-Mmm, yes. We would not want to waste a perfectly good corpse, now would we? You must have chased her far!{^n}{^n}*Scorv grins*{^n}{^n}Ravager will enjoy her heart.
-Er, great!
-Rather disgusting.
-Not yet.
-Ravager is pleased by your service to the cause, outsider.{^n}{^n}He wishes to reward you with a special hunt.
-Is that so?
-The eve of Ravager's return will soon be upon us and the wendigo's hunger shall be unquenchable. We cannot truly fulfill his ravenous needs, but we can at least appease them for a time.{^n}{^n}But not just any meal will do. We must have the hearts of three Wendigo Ancients known as Handarroth, Ollivioth and Yuvolloth. These creatures have long ago outlived their purpose and must now perform one final duty for Ravager.{^n}{^n}The Great Wendigo Spirit has called to them and drawn them out of hiding amidst Ugdenbog and Gloomwald so that you can perform the necessary rites. Bring me their hearts. Appease the Great Spirit!
-I will gather the hearts.
-I don't want to get involved.
-I've already gathered these hearts.
-Incredible, Ravager chose wisely.{^n}{^n}Yes, these should satisfy Ravager's hunger for a time once he is reborn.{^n}{^n}Now begone, outsider, before I give in to my urges to gut you with my knife.
-Wait, what?
+Nezkoušej žádné hlouposti.
+Hm, dobrá, jsem na odchodu.
+Ano, ty by měly uspokojit Ravagerův hlad na část doby, než se znovu zrodí. {^n}{^n}Nyní se ztrať, [[ms]cizinče[fs]cizinko]. Mám tu záležitosti, kterým se musím věnovat a nejsou hodné tvých nezasvěcených očí.
+Nemáš zač...
+Tak dobrá.
+Je to...Larriino tělo?
+Hm, ano. Nechtěli bychom přijít o tak perfektní mrtvolu, nebo snad ano? [[ms]Musel[fs]Musela] si jí honit po všech čertech! {^n}{^n}*Scorv se ušklíbne*{^n}{^n}Ravager si vychutná její srdce.
+Tady jsou ta srdce.
+Eh, skvělý!
+Spíš je to nechutný.
+[[ms]Udělals[fs]Udělalas], jak Ravager žádal?
+Kdeže bych se [[ms]měl[fs]měla] porozhlédnout po Ancients?
+Handarrotha najdeš toulajícího se divočinou Gloomwaldu. Ollivioth a Yuvolloth bude nejspíš v okolí jedovatých plynů v samotném Ugdenbogu.{^n}{^n}Přines mi jejich srdce. Nenech Ravagera čekat.
+Dobrá.
+Je to...Larriino tělo?
+Hm, ano. Nechtěli bychom přijít o tak perfektní mrtvolu, nebo snad ano? [[ms]Musel[fs]Musela] si jí honit po všech čertech! {^n}{^n}*Scorv se ušklíbne*{^n}{^n}Ravager si vychutná její srdce.
+Eh, skvělý!
+Spíš je to nechutný.
+Ještě ne.
+Ravager je potěšen tvým plněním účelu, [[ms]cizinče[fs]cizinko]. {^n}{^n}Přeje si tě nyní odměnit touto speciální příležitostí odlovu.
+Vážně?
+Předvečer Ravagerova návratu bude brzy před námi a wendigův hlad bude neuhasitelný. Ve skutečnosti nemůžeme uspokojit jeho potřebu žrát, ale aspoň ho můžeme na nějakou dobu uklidnit.{^n}{^n}To nejde ale jen s ledajakým jídlem. Musíme mít tři srdce Wendigo Ancients známých jako Handarroth, Ollivioth a Yuvolloth. Tyto kreatury už dávno překonaly dobu svého účelu a musí nyní Ravagerovi splnit svou poslední službu.{^n}{^n}Velký duch Wendigo je zavolal a přivedl je z úkrytu v Ugdenbogu a Gloomwaldu, takže můžeš učinit poslední obřad. Přines mi jejich srdce. Utiš Velkého ducha!
+Ta srdce seženu.
+Nechci se do toho plést.
+Už ta srdce mám.
+Neuvěřitelné, Ravager si zvolil moudře.{^n}{^n}Ano, ty by měly uspokojit Ravagerův hlad na část doby, než se znovu zrodí. {^n}{^n}Nyní se ztrať, [[ms]cizinče[fs]cizinko], nebo uspokojím svou touhu tě teď a tady vykuchat.
+Počkat, cože?
 
-Don't try anything foolish.
-Um, alright, I'm leaving.
-Incredible, Ravager chose wisely.{^n}{^n}Yes, these should satisfy Ravager's hunger for a time once he is reborn.{^n}{^n}Now begone, outsider. There are matters I must attend to that are too delicate for your uninitiated eyes.
-You're welcome...
-Very well.
-Is that...Larria's body?
-Mmm, yes. We would not want to waste a perfectly good corpse, now would we? You must have chased her far!{^n}{^n}*Scorv grins*{^n}{^n}Ravager will enjoy her heart.
-What was this about a hunt?
+Nezkoušej žádné hlouposti.
+Hm, dobrá, jsem na odchodu.
+Neuvěřitelné, Ravager si zvolil moudře.{^n}{^n}Ano, ty by měly uspokojit Ravagerův hlad na část doby, než se znovu zrodí. {^n}{^n}Nyní se ztrať, [[ms]cizinče[fs]cizinko]. Mám tu záležitosti, kterým se musím věnovat a nejsou hodné tvých nezasvěcených očí.
+Nemáš zač...
+Velmi dobře.
+Je to...Larriino tělo?
+Hm, ano. Nechtěli bychom přijít o tak perfektní mrtvolu, nebo snad ano? [[ms]Musel[fs]Musela] si jí honit po všech čertech! {^n}{^n}*Scorv se ušklíbne*{^n}{^n}Ravager si vychutná její srdce.
+Co má být s tím lovem?
 
-Er, great!
-Rather disgusting.
-We'll speak of this later.
-Ravager will be pleased with all of your assistance, outsider, but there is always more you could do.
-What can I do to earn your trust?
-While the Aetherials and Chthonians are both our enemies, none disgust the Great One as the Chthonians do. Slaughter them by the hundreds and you shall earn the favor of Ravager.
+Eh, skvělý!
+Spíš je to nechutný.
+Promluvíme si o tom později.
+Ravager bude potěšen tou vší tvou výpomocí, [[ms]cizinče[fs]cizinko], ale vždy je víc, co můžeš udělat.
+Co můžu udělat pro to, abych si [[ms]získal[fs]získala] vaší důvěru?
+Zatímco jsou Aetheriané a Chthoniané našimi nepřáteli, Nikdo víc není Velikému odporný tak jako právě Chthoniané. Zabíjej je po stovkách a získáš tak Ravagerovu přízeň.
 
-Very well.
-What's with the new outfits?
-The time for deceptions is over. Today we gather to honor the Great Wendigo Spirit and prepare for his glorious return.
+Velmi dobře.
+Co ty nový hadry?
+Doba klamů je u konce. Dnes se shromáždíme, abychom uctili Velkého Wendiga a připravili se na jeho slavný návrat.
 
-I see.
+Chápu.
 
-I suppose so.
-Think I've already done too much.
-Have you dealt with that pest yet?
-Yes, she will never trouble anyone else again.
-Good, very good!{^n}{^n}Ravager is pleased by your service to the cause. He wishes to reward you with a special hunt.
-Tell me more about this.
-Perhaps another time.
-Good, very good!{^n}{^n}Ravager will be pleased to hear of your service to the cause.
+Předpokládám.
+Myslím si, že už jsem [[ms]udělal[fs]udělala] až dost.
+Už jsi se [[ms]vypořádal[fs]vypořádala] s tím hmyzem?
+Ano, už nikdy nebude nikomu dělat žádné problémy.
+Dobře, velmi dobře.{^n}{^n}Ravager je potěšen tím, jak jsi [[ms]posloužil[fs]posloužila] účelu. Přeje si tě nyní odměnit touto speciální příležitostí odlovu.
+Řekni mi o tom víc.
 
-Very good.
-Yes...I took care of her for good. (Lie)
-Hm...so you did then.{^n}{^n}*Scorv's smile widens*{^n}{^n}Ravager is pleased by your service to the cause. He wishes to reward you with a special hunt.
-Tell me more about this.
+Možná někdy jindy.
+Dobře, vemi dobře!{^n}{^n}Ravager bude potěšen, až uslyší to, jak jsi [[ms]posloužil[fs]posloužila] účelu.
 
-Perhaps another time.
-Hm...so you did then.{^n}{^n}*Scorv's smile widens*{^n}{^n}Ravager will be interested to hear of this.
-Is there anything else you need?
+Velmi dobře.
+Ano...Nadobro jsem se jí [[ms]zbavil[fs]zbavila]. (Lži)
+Hm...takže je to hotovo.{^n}{^n}*Scorvův úsměv se zvětší*{^n}{^n}Ravager je potěšen tím, jak jsi [[ms]posloužil[fs]posloužila] účelu. Přeje si tě nyní odměnit touto speciální příležitostí odlovu.
+Řekni mi o tom víc.
 
-Very good.
-I'll be off then.
-What's with the new outfits?
-The time for deceptions is over. Today we gather to honor the Great Wendigo Spirit and prepare for his glorious return.
+Možná někdy jindy.
+Hm...takže je to hotovo.{^n}{^n}*Scorvův úsměv se zvětší*{^n}{^n}Až tohle Ravager uslyší, jistě to zaujme jeho pozornost.
+Potřebuješ ještě něco?
+
+Velmi dobře.
+Tak já tedy půjdu.
+Co ty nový hadry?
+Doba klamů je u konce. Dnes se shromáždíme, abychom uctili Velkého Wendiga a připravili se na jeho slavný návrat.
 
 
-This isn't what I signed up for.
-I see.
-Have you dealt with that pest yet?
-Where is the witch hiding again?
-Unlike her sisters who remain mostly secluded in their little refuge, Larria is actively working against us.{^n}{^n}Seek out her den, somewhere among the great trees of Ugdenbog.
+To není to, k čemu jsem se [[ms]upsal[fs]upsala].
+Chápu.
+Už jsi se [[ms]vypořádal[fs]vypořádala] s tím hmyzem?
+Kdeže se to skrývá?
+Místo toho, aby byla stejná jako její sestry a byla s nimi odloučená v jejich útočišti, Larria aktivně pracuje proti nám.{^n}{^n}Najdi její brloh někde u obrovských stromů v Ugdenbogu.
 
-I will deal with her.
-What's with the new outfits?
-The time for deceptions is over. Today we gather to honor the Great Wendigo Spirit and prepare for his glorious return.
+Vyřídím to s ní.
+Co ty nový hadry?
+Doba klamů je u konce. Dnes se shromáždíme, abychom uctili Velkého Wendiga a připravili se na jeho slavný návrat.
 
-This isn't what I signed up for.
-I see.
-Not yet.
-What you see may come as a shock, but do not fear us.{^n}{^n}You have already proven loyal.
-What's with the new outfits?
-The time for deceptions is over. Today we gather to honor the Great Wendigo Spirit and prepare for his glorious return.
-This isn't what I signed up for.
-I see.
+To není to, k čemu jsem se [[ms]upsal[fs]upsala].
+Chápu.
+Ještě ne.
+To co vidíš pro tebe může být šok, ale neboj se nás. {^n}{^n} Už jsi [[ms]dokázal[fs]dokázala], že jsi loajální.
+Co ty nový hadry?
+Doba klamů je u konce. Dnes se shromáždíme, abychom uctili Velkého Wendiga a připravili se na jeho slavný návrat.
+To není to, k čemu jsem se [[ms]upsal[fs]upsala].
+Chápu.
 
-A glorious age will soon begin.
-I'm out of here.
-Farewell.
+Slavný věk brzy pozačne.
+Půjdu odsud.
+Sbohem.
