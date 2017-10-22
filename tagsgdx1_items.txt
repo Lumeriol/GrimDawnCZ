@@ -77,73 +77,73 @@ tagGDX1WeaponGun1hC102_Desc="Třetí ruka Inkvizitora Aldura, známého lovce ka
 tagGDX1WeaponGun1hC103=Galgaborova duše
 tagGDX1WeaponGun1hC103_Desc="Zkažená Galgaborova duše splaluje vyšším žárem než jakýkoliv oheň."
 tagGDX1WeaponGun1hC108=Ultosův metač bouří
-tagGDX1WeaponGun1hC110=Luminářská skrytá zbraň
+tagGDX1WeaponGun1hC110=Luminářská tajná zbraň
 
 tagGDX1WeaponGun1hD101=Morguulova smrtelnost
 tagGDX1WeaponGun1hD101_Desc="Mistr Morguul zdokonalil náboje pro tuto střelnou zbraň sloučením nekrotických sil a smrtících toxinů, aby vytvořil tajnou zbraň, která urychluje hnilobu a roklad."
-tagGDX1WeaponGun1hD102=Anderos' Amplifier
-tagGDX1WeaponGun1hD102_Desc="Sidearm specifically devised by Inquisitor Anderos to amplify his already formidable mastery over arcane runes."
-tagGDX1WeaponGun1hD103=Arcanum Electrollis
-tagGDX1WeaponGun1hD103_Desc="Crafted to the exact specifications of Master Agrivix, Grand Arcanist of the Silver Tower."
-tagGDX1WeaponGun1hD107=Cindercore
-tagGDX1WeaponGun1hD108=Aegis Revolver
-tagGDX1WeaponGun1hD109=Darkblaze Incinerator
-tagGDX1WeaponGun1hD110=Dagallon's Destroyer
-tagGDX1WeaponGun1hD110_Desc="The barrels are runed on the inside to propel the bullets with supernatural force."
-tagGDX1WeaponGun1hD111=Dagallon's Annihilator
-tagGDX1WeaponGun1hD112=Hagarradian Enforcer
-tagGDX1WeaponGun1hD112_Desc="The cylinder is loaded with a fragment of the original Rune of Hagarrad, infusing every shot with a bonechilling cold."
-tagGDX1WeaponGun1hD114=Corruption of Galgabor
-tagGDX1WeaponGun1hD114_Desc="The once proud guardian of nature, forever marred by the corrupting touch of the Void."
+tagGDX1WeaponGun1hD102=Anderosův zesilovač
+tagGDX1WeaponGun1hD102_Desc="Příruční zbraň speciálně navržená inkvizitorem Anderosem, aby zvýšil účonnost již tak hrozivého mistrovství s alchymistickými runami."
+tagGDX1WeaponGun1hD103=Arkánum Elektrolýzum
+tagGDX1WeaponGun1hD103_Desc="Zbraň vyrobená přesně podle zadání mistra Agravix, Pána Temnot ze Stříbrné věže."
+tagGDX1WeaponGun1hD107=Oharek
+tagGDX1WeaponGun1hD108=Revolver záštity
+tagGDX1WeaponGun1hD109=Temnoplamenná spalovna
+tagGDX1WeaponGun1hD110=Dagallonův ničitel
+tagGDX1WeaponGun1hD110_Desc="Hlaveň je pokreslena runami, aby nábojnice získaly nadpřirozenou sílu."
+tagGDX1WeaponGun1hD111=Dagallonův vybíječ
+tagGDX1WeaponGun1hD112=Hagarradianův vymahač
+tagGDX1WeaponGun1hD112_Desc="Zásobník má vystýlku z originální Hagarradovy runy, a tak nese každá vystřelená nábojnice smrtící chlad."
+tagGDX1WeaponGun1hD114=Galgaborova zkaženost
+tagGDX1WeaponGun1hD114_Desc="Kdysi to býval hrdý strážce přírody. Nyní navždy zmařený život zkažený dotykem Prázdnoty."
 
-tagGDX1WeaponGun1hF101=Coven Handcannon
-tagGDX1WeaponGun1hF101_Desc="Though crude in design, Coven secrets imbue this weapon."
-tagGDX1WeaponGun1hF102=Coven Venomlauncher
-tagGDX1WeaponGun1hF102_Desc="Though crude in design, Coven secrets imbue this weapon."
-tagGDX1WeaponGun1hF103=Wendigo Repeater
-tagGDX1WeaponGun1hF104=Hex Launcher
-
-
-tagGDX1WeaponGun2hB101=Ugdenbog Sparkthrower
-tagGDX1WeaponGun2hB101Desc="The stone core of a swamp golem has proven to be surprisingly malleable when exposed to arcane energies, allowing it to be forged into armor, tools or even guns."
-tagGDX1WeaponGun2hB102=Ugdenbog Bilelauncher
-tagGDX1WeaponGun2hB103=Ugdenbog Boltthrower
-tagGDX1WeaponGun2hB104=Ugdenbog Arcaneweaver
-tagGDX1WeaponGun2hB105=Flamewarder Rifle
-
-tagGDX1WeaponGun2hC101=The Interrogator
-tagGDX1WeaponGun2hC101B=Interrogator
-tagGDX1WeaponGun2hC102=Spirit Cannon
-tagGDX1WeaponGun2hC102_Desc="Forged in the essence of tormented souls."
-tagGDX1WeaponGun2hC103=Burning Purifier
-tagGDX1WeaponGun2hC106=Amarastan Bladethrower
-tagGDX1WeaponGun2hC106_Desc="An unconventional design created by the nightblade master, Amarasta."
-tagGDX1WeaponGun2hC110=Cosmic Torrent
-
-tagWeaponGun2hD001B=Adversary
-tagWeaponCrossbow2hD003B=Northern Wyrm
-tagGDX1WeaponGun2hD101=Evoker of Elgoloth
-tagGDX1WeaponGun2hD102=Dreadscorcher
-tagGDX1WeaponGun2hD102_Desc="The intense blaze emitted by this weapon is nearly as dangerous to the user as the intended target."
-tagGDX1WeaponGun2hD104=Gildor's Pulverizer
-tagGDX1WeaponGun2hD104_Desc="Infused with Luminari secrets, this weapon unloads an unfathomable amount of force with every shot."
-tagGDX1WeaponGun2hD106=Venomlance
-tagGDX1WeaponGun2hD107=Runebinder's Spellthrower
-
-tagGDX1WeaponGun2hF101=Malmouth Carbine
-tagGDX1WeaponGun2hF102=Malmouth Rifle
-tagGDX1WeaponGun2hF103=Wendigo Stakethrower
-tagGDX1WeaponGun2hF104=The Desolator
+tagGDX1WeaponGun1hF101=Ježibabí dělo
+tagGDX1WeaponGun1hF101_Desc="Ježibaby tuhle zbraň sice napodobily, ale vzhledově se jim příliš nepovedla."
+tagGDX1WeaponGun1hF102=Ježibabí jedomet
+tagGDX1WeaponGun1hF102_Desc="Do této zbraně byla vedchnuta zvláštní tajemství, i když vzhledově vypadá dost divně."
+tagGDX1WeaponGun1hF103=Wendigova opakovačka
+tagGDX1WeaponGun1hF104=Šestipal
 
 
-tagGDX1WeaponMelee2hB101=Fleshwarped Core
-tagGDX1WeaponMelee2hB102=Fleshwarped Shard
-tagGDX1WeaponMelee2hB103=Gutcrush Warmaul
+tagGDX1WeaponGun2hB101=Ugdenská jiskra
+tagGDX1WeaponGun2hB101Desc="Kamenné srdce bažinného golema se překvapivě ukázalo jako snadno tvarovatelné, když bylo vystaveno tajemným energiím. To umožnilo vetknout jej do zbrojí, nástrojů či dokonce do zbraní."
+tagGDX1WeaponGun2hB102=Ugdenský žlučomet
+tagGDX1WeaponGun2hB103=Ugdenský vrhač šipek
+tagGDX1WeaponGun2hB104=Ugdenský navíječ tajemna
+tagGDX1WeaponGun2hB105=Puška ohnivého dozorce
 
-tagGDX1WeaponMelee2hC101=Soulsplitter
-tagGDX1WeaponMelee2hC101_Desc="The blade of this scythe is said to cleave more than just flesh."
-tagGDX1WeaponMelee2hC102=Cesarin's Conviction
-tagGDX1WeaponMelee2hC107=Fist of Ultos
+tagGDX1WeaponGun2hC101=Vyšetřovatel
+tagGDX1WeaponGun2hC101B=Vyšetřovatel
+tagGDX1WeaponGun2hC102=Přízračné dělo
+tagGDX1WeaponGun2hC102_Desc="Ukováno z energií trýzněných duší."
+tagGDX1WeaponGun2hC103=Spalující čistič
+tagGDX1WeaponGun2hC106=Amarastin vrhač dýk
+tagGDX1WeaponGun2hC106_Desc="netradiční vzhled, který vytvořila Amarasta, mistryně Nočních lovců."
+tagGDX1WeaponGun2hC110=Hvěždný proud
+
+tagWeaponGun2hD001B=Odpůrce
+tagWeaponCrossbow2hD003B=Severský červ
+tagGDX1WeaponGun2hD101=Elgolothův vyvolavač
+tagGDX1WeaponGun2hD102=Strašidelný žahour
+tagGDX1WeaponGun2hD102_Desc="Prudký požár chrlený touto zbraní je stejně nebezpečný jak pro majitele, tak pro jeho nepřátele."
+tagGDX1WeaponGun2hD104=Gildorova drtička
+tagGDX1WeaponGun2hD104_Desc="Zbraň, jež je plná Luminářských tajemství, uvolňuje s každým výstřelem nevyzpytatelnou sílu."
+tagGDX1WeaponGun2hD106=Otrávená harpuna
+tagGDX1WeaponGun2hD107=Runotepcův metač kouzel
+
+tagGDX1WeaponGun2hF101=Malmouthská karabina
+tagGDX1WeaponGun2hF102=Malmouthská puška
+tagGDX1WeaponGun2hF103=Wendigův metač odštěpků
+tagGDX1WeaponGun2hF104=Beznaděj
+
+
+tagGDX1WeaponMelee2hB101=Duše masového rváče
+tagGDX1WeaponMelee2hB102=Úlomek masového rváče
+tagGDX1WeaponMelee2hB103=Střevodrtič
+
+tagGDX1WeaponMelee2hC101=Půlč duší
+tagGDX1WeaponMelee2hC101_Desc="O ostří této kosy se říká, že kosí víc než jen maso."
+tagGDX1WeaponMelee2hC102=Cesarinův rozsudek
+tagGDX1WeaponMelee2hC107=Ultosova pěst
 
 tagWeaponMelee2hD002B=Guillotine
 tagGDX1WeaponMelee2hD101=Death's Reach
