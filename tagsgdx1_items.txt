@@ -145,26 +145,26 @@ tagGDX1WeaponMelee2hC101_Desc="O ostří této kosy se říká, že kosí víc n
 tagGDX1WeaponMelee2hC102=Cesarinův rozsudek
 tagGDX1WeaponMelee2hC107=Ultosova pěst
 
-tagWeaponMelee2hD002B=Guillotine
-tagGDX1WeaponMelee2hD101=Death's Reach
-tagGDX1WeaponMelee2hD102=Guardian of Death's Gates
-tagGDX1WeaponMelee2hD102_Desc="Rumored to have once been wielded by Uroboruuk himself, this weapon's edge traps souls with the slightest touch."
-tagGDX1WeaponMelee2hD103=Arcanor, Blade of the Luminari
-tagGDX1WeaponMelee2hD103_Desc="Ceremonial blade of the Luminari order that has passed from Headmaster to Headmaster for centuries."
-tagGDX1WeaponMelee2hD107=Gutsmasher
-tagGDX1WeaponMelee2hD107_Desc="Eternally dripping wet with the innards of past victims."
-tagGDX1WeaponMelee2hD108=Avenger's Crusher
+tagWeaponMelee2hD002B=Gilotina
+tagGDX1WeaponMelee2hD101=Dotek smrti
+tagGDX1WeaponMelee2hD102=Strážce Brány mrtvých
+tagGDX1WeaponMelee2hD102_Desc="Říká se, že zbraň kdysi nosil samotný Uroboruuk, i ten nejmenší dotek ostří zachytí duši nepřítele."
+tagGDX1WeaponMelee2hD103=Arcanor, nůž Luminářů
+tagGDX1WeaponMelee2hD103_Desc="Obřadní nůž řádu Luminářů, který byl po celá staletí předáván z vůdce na vůdce."
+tagGDX1WeaponMelee2hD107=Odšťavňovač
+tagGDX1WeaponMelee2hD107_Desc="Z nože donekonečna odkapávají tekutiny z vnitřností dávných obětí."
+tagGDX1WeaponMelee2hD108=Mstitelův drtič
 
-tagGDX1WeaponMelee2hF101=Coven Headcrusher
-tagGDX1WeaponMelee2hF102=Malmouth Greatsword
-tagGDX1WeaponMelee2hF103=Wendigo Decapitator
-tagGDX1WeaponMelee2hF104=Blazerush
+tagGDX1WeaponMelee2hF101=Ježibabí drtič hlav
+tagGDX1WeaponMelee2hF102=Malmouthský velký meč
+tagGDX1WeaponMelee2hF103=Wendigův stínač
+tagGDX1WeaponMelee2hF104=Rychlý plamen
 
 
-tagGDX1WeaponCaster1hA101=Preserver Scepter
-tagGDX1WeaponCaster1hA102=Redeemer Scepter
-tagGDX1WeaponCaster1hA103=Preserver Dagger
-tagGDX1WeaponCaster1hA104=Redeemer Dagger
+tagGDX1WeaponCaster1hA101=Žezlo ochranáře
+tagGDX1WeaponCaster1hA102=Spasitelovo žezlo
+tagGDX1WeaponCaster1hA103=Dýka ochranáře
+tagGDX1WeaponCaster1hA104=Spasitelova dýka
 
 tagGDX1WeaponCaster1hB101=Ugdenbog Flamestrife
 tagGDX1WeaponCaster1hB102=Ugdenbog Chillstrife

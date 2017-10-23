@@ -1,13 +1,13 @@
-Bounties
-Bounty: Mossflingers
-Bounty
-Ravager's hunger must be sated.{^n}{^n}Cleanse Ugdenbog of the beasts call Mossflingers.{^n}{^n}Anyone that accomplishes this goal will be compensated with iron bits.
+Úkoly za odměny
+Hledá se: Vrhači mechů
+Popis
+Pustošitel musí zahnat svůj hlad.{^n}{^n}Zlikviduj bytosti zvané Vrhači mechů v Ugdenských močálech.{^n}{^n}Každý, kdo tento úkol splní, dostane několik železných mincí.
 
-Slay Ugdenbog Mossflingers
+Zabij Ugdenské vrhače mechů
 
-Turn In
-You have completed the task for Barrowholm and should return to the Bounty Table for your reward.
-Return to the Barrowholm Bounty Table
+Hotovo, vrať se
+Úkol pro Barrowholm byl dokončen a teď se můžeš vrátit k vývěsce pro svou odměnu.
+Vrať se k vývěsce v Barrowholmu
 
 
 
