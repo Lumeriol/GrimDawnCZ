@@ -1,30 +1,30 @@
 Hagarond
-Thank you, human.{^n}{^n}If only your friends shared your compassion.
-We shall see.
-Come to watch my misery once more?{^n}{^n}Leave me be, human.
-You're somebody else's problem.
-What a bizarre sight. A free human, here?{^n}{^n}Then perhaps we can come to an understanding. You must know that I no longer carry favor with the Aetherial masters.{^n}{^n}For my actions against the Master of Flesh, I have been imprisoned here until my final judgment.{^n}{^n}Spare me my fate and I shall continue to fight for the survival of the humans. I promise you this.
-Why are you imprisoned?
-As I lived within this host, I learned more of your passions, your joys and sorrows. I learned what it was to be...human, and I found it fascinating.{^n}{^n}Others insisted that I quell what you call emotions, but they offered a euphoria that I had never experienced before.{^n}{^n}This led me to question the methods of my Aetherial brethren. While I had the fortune to possess a human of noble and uplifting spirit, it is clear that many of our kind have possessed less virtuous humans and I see a corruption spreading among many who have led this campaign to conquer your physical realm.{^n}{^n}Unaccustomed to moderating human emotion and sensations, the vices and flaws inherent in some of your kind have become amplified and driven my brethren beyond ruthless efficiency to depravity and deliberate cruelty. I feel that if I could return to the Aetherhold and convey my experiences, higher powers might intervene and cease this invasion. However, the Master of Flesh and other leaders of the invasion do not want the greater Aetherials to know what is happening here and will never let me return.{^n}{^n}Although, even if I could return, I do not know if any intervention would come in time to help you. Time and thought seems to pass much more slowly in the Aetherhold...
-Why can't you simply leave?
-I've been bound here by the Master of Flesh. The crystal barrier between us keeps me trapped.{^n}{^n}Open it, and I shall be free to escape this place, but know that your mercy will not be forgotten.
-You are free, don't make me regret this. (Let him go)
-I take no chances with Aetherials. Die! (Attack)
-I need to think about all this.
-Impending doom?
-Yes. The dead god stirs within the infinite nothingness.{^n}{^n}Should he awaken, we are all undone.
+Děkuji ti, člověče.{^n}{^n}Jen kdyby i tví přátelé měli tolik soucitu.
+To ještě uvidíme.
+[[ms]Přišel[fs]Přišla] jsi se podívat ještě jednou na to, jak trpím?{^n}{^n}Nech mě být, člověče.
+Jsi problémem někoho jinýho.
+Jaký to bizarní pohled. Svobodný člověk, a tady?{^n}{^n}Pak si možná můžeme i porozumět. Musíš vědět, že už dále nejsem po vůli Aetherianských vládců.{^n}{^n}Za mé činy proti Master of Flesh jsem zde byl uvězněn až do mého posledního soudu. {^n}{^n}Ušetři mě toho a já budu pokračovat v boji za přežití lidí. To ti slibuji.
+Proč jsi uvězněný?
+Když jsem žil uvnitř hostitele, naučil jsem se mnoho o vašich tužbách, radostech a smutku. Naučil jsem se, jaké to je být...člověkem, a zjistil jsem, že je to fascinující.{^n}{^n}Ostatní trvali na tom, abych potlačil to, čemu říkáte emoce, ale právě ty mi nabídly euforii, kterou jsem nikdy předtím nezažil.{^n}{^n}To mě vedlo k tomu pochybovat o metodách, které používají mí Aetherianští bratři. Zatímco já jsem měl to štěstí být v těle člověka vznešeného s povznášejícím duchem, je více než jasné, že mnozí z nás ovládli osoby ne tak šťastné a vidím tu zkaženost šířící se mezi mnohými z těch, kteří vedou toto tažení, aby dobyli váš existující svět.{^n}{^n}protože jsme nebyli příliš zvyklí na to ovládat lidské emoce a pocity, byly některé ze zlozvyků a chyb umocněny a předány; tak se mí bratři stali znechucenými a vědomě krutými. Domnívám se, že bych se mohl vrátit do Aetherhold a sdělit jim i své pocity, vyšší moc by mohla zasáhnout a zastavit tuto invazi. Nicméně Master of Flesh a další velitelé této invaze nechtějí starší Aetheriany seznamovat s tím co se tady děje a tak mě nikdy nenechají se vrátit.{^n}{^n}Nicméně ikdybych se mohl vrátit, nevím, jestli by mé zakročení něco zavčasu změnilo. Čas a myšlení se, jak se zdá, vlečou mnohem pomaleji v Aetherhold...
+Tak proč prostě neodejdeš?
+Byl jsem zde zvázán Master of Flesh. Kristalická bariéra mezi námi mne zde drží uvězněného.{^n}{^n}Otevři ji a já budu svobodně moci opustit toto místo. Měj ale na paměti, že tvá milosrdnost nebude zapomenuta. 
+Můžeš jít, nenech mě toho litovat. (Nech ho jít)
+S Aetherianama nic neriskuju. Chcípni! (Zaútoč)
+Musím si to všechno promyslet.
+Hrozící zkáza?
+Ano. Mrtvý bůh dřímá v nekonečné nicotě. {^n}{^n}Pokud se probudí, jsme všichni zničeni.
 
 
-I take no chances with Aetherials. Die! (Attack)
-I'll deal with you later.
+S Aetherianama nic neriskuju. Chcípni! (Zaútoč)
+Vypořádám se s tebou později.
 
-I take no chances with Aetherials. Die! (Attack)
-I'll deal with you later.
-Why should I believe anything you say?
-The Master of Flesh thinks of humans as little more than braindead accidents. He would never imagine a human coming here willingly, much less prepare a trap for one.{^n}{^n}I am what you see before you, a traitor to my people who has been found. It won't be long before they come for me and return me to the Aether, where my true judgment awaits.
-A traitor?
-You are free, don't make me regret this. (Let him go)
-I take no chances with Aetherials. Die! (Attack)
-I'll deal with you later.
-I take no chances with Aetherials. Die! (Attack)
-I'll deal with you later.
+S Aetherianama nic neriskuju. Chcípni! (Zaútoč)
+Vypořádám se s tebou později.
+Proč bych [[ms]měl[fs]měla] věřit něčemu z toho, co říkáš?
+Master of Flesh smýšlí nad lidmi jako by byli o málo víc než bezmozké výtvory co vznikly náhodou. Nikdy by ho nenapadlo, že by se nějaký člověk svobodně rozhodl a přišel sem, ještě méně pravděpodobné je, že by zde na vás nachystal nějakou past. {^n}{^n}Jsem to, co před sebou vidíš, zrádce svého lidu, který byl nalezen. Nebude to trvat dlouho než si pro mě přijdou a vrátí mne do Aetheru, kde bude vyřčen můj osud.
+Zrádce?
+Můžeš jít, nenech mě toho litovat. (Nech ho jít)
+S Aetherianama nic neriskuju. Chcípni! (Zaútoč)
+Vypořádám se s tebou později.
+S Aetherianama nic neriskuju. Chcípni! (Zaútoč)
+Vypořádám se s tebou později.
