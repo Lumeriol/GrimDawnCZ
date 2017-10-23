@@ -1,21 +1,21 @@
-Barrowholm Bounties
-The people of Barrowholm want nothing to do with you.
-Step away from the Bounty Table.
-You return with the materials in hand, a Bounty fulfilled.
-Report in.
+Vývěska v Barrowholmu
+Obyvatelé z Barrowholmu s tebou nechtějí mít nic společného.
+Odstup od vývěsky.
+Vracíš se s rukama plnýma surovin, úkol byl splněn.
+Ohlas se.
 
-Step away from the Bounty Table.
-You return triumphantly, a Bounty fulfilled.
-Report in.
+Odstup od vývěsky.
+Úkol byl splněn a ty se vítězoslavně vracíš zpět.
+Ohlas se.
 
-Step away from the Bounty Table.
-You are already on a Bounty for Barrowholm
-Step away from the Bounty Table.
-You have earned the cult's trust and as such can gaze upon their more secretive works.
+Odstup od vývěsky.
+Úkol pro Barrowholm už byl přijat.
+Odstup od vývěsky.
+Tvá důvěra kultu je už dostatečná a můžeš tak znát veškerá tajemství.
 Take a look at the bounty.
-You have fulfilled all of the posted Bounties for this session.
-Step away from the Bounty Table.
-Take a look at the bounty.
+V této herní relaci jsou už všechny vyvěšené úkoly splněny.
+Odstup od vývěsky.
+Prohlédni si úkoly.
 
 
 
@@ -30,79 +30,79 @@ Take a look at the bounty.
 
 
 
-Step away from the Bounty Table.
-Ravager demands death in his name.{^n}{^n}Strike deep within the Void's Edge and the Fringes of Sanity, seek out and slay the beasts called Oppressors. {^n}{^n}Anyone that accomplishes this goal will be compensated with iron bits.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Odstup od vývěsky.
+Pustošitel žádá smrt svým jménem.{^n}{^n}Udeř hluboko na Konci Prázdnoty v oblasti zvané Mezní příčetnost, kde najdeš netvory zvané Utlačovatelé.{^n}{^n}Každý, kdo tento úkol splní, dostane několik železných mincí.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-Ravager demands death in his name.{^n}{^n}Scour the Void's Edge and Fringest of Sanity, cleans it of those called Bloodkeepers.{^n}{^n}Anyone that accomplishes this goal will be compensated with materials from our stores.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Pustošitel žádá smrt svým jménem.{^n}{^n}Proklesti si cestu na Konci Prázdnoty do oblasti zvané Mezní příčetnost, kde najdeš ty, jež se nazývají Strážci krve.{^n}{^n}Každý, kdo tento úkol splní, dostane několik železných mincí.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-Ravager's hunger must be sated.{^n}{^n}Cleanse Ugdenbog of the beasts call Mossflingers.{^n}{^n}Anyone that accomplishes this goal will be compensated with iron bits.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Pustošitel musí zahnat svůj hlad.{^n}{^n}Zlikviduj bytosti zvané Vrhači mechů v Ugdenských močálech.{^n}{^n}Každý, kdo tento úkol splní, dostane několik železných mincí.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-Ravager calls for death in his name.{^n}{^n}Scour the Void's Edge, the Chthonian called Dar'Vagol must be destroyed.{^n}{^n}Anyone that destroys this foe will be compensated with materials from our stores.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Pustošitel žádá smrt svým jménem.{^n}{^n}Proklesti si cestu na Konec Prázdnoty, kde se nachází chtonická bytost zvaná Dar'Vagol, která musíš zprovodit z našeho světa.{^n}{^n}Každý, kdo zničí tohoto nepřítele, dostane několik materiálů z našich obchodů.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-Ravager's hunger must be sated.{^n}{^n}Slay Rhidal'Gulvor in the Cinder Wastes.{^n}{^n}Anyone that destroys this foe will be compensated with materials from our stores.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Pustošitel musí zahnat svůj hlad.{^n}{^n}Zabij Rhidal'Gulvora v Seškvařené pustině.{^n}{^n}Každý, kdo zničí tohoto nepřítele, dostane několik materiálů z našich obchodů.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-Cleanse The Undergrowth.{^n}{^n}Find the one called Swillius, in The Undergrowth, and claim his life in honor of the Ravager.{^n}{^n}Anyone that destroys this foe will be compensated with materials from our stores.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Nastal čas úklidu v Podrostu.{^n}{^n}Najdeš tam toho, jež se nazývá Swillius. Tam také ve jménu Pustošitele ukončit jeho plytký život.{^n}{^n}Každý, kdo zničí tohoto nepřítele, dostane několik materiálů z našich obchodů.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-Ravager calls for death in his name.{^n}{^n}Search Gloomwald for the one called Polterrios and end his life.{^n}{^n}Anyone that destroys this foe will be compensated with materials from our stores.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Pustošitel žádá smrt svým jménem.{^n}{^n}Prohledej Gloomwald, najdi tam toho, kdo si říká Polterrios a skonči s jeho životem.{^n}{^n}Každý, kdo zničí tohoto nepřítele, dostane několik materiálů z našich obchodů.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-His hunger must be sated.{^n}{^n}Find Vladris, in the camps East of Barrowholm, and end his life in honor of Ravager.{^n}{^n}Anyone that destroys this foe will be compensated with iron bits.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Jeho hlad musí být utišen.{^n}{^n}Najdi Vladrise v tábořišti západně od Barrowholmu a ukončit jeho život ve jménu Pustošitele.{^n}{^n}Každý úspěch bude odměněn železnými mincemi.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-Ravager's hunger must be sated{^n}{^n}Seek out the one called Yoknar, in the bogs south of Barrowholm, and take his life in honor of Ravager.{^n}{^n}Anyone that destroys this foe will be compensated with iron bits.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Pustošitel musí zahnat svůj hlad.{^n}{^n}Vyhledej v močálech toho, jež si říká Yoknar. Bude se nacházet jižně od Barrowholmu, kde by měl jeho život vyhasnou se vší počestností.{^n}{^n}Kdokoliv navždy zničí tohoto nepřítele bude odměněn nemalým množstvím železných mincí.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-Ravager demands a powerful relic to feast upon. Only one tainted enough will do.{^n}{^n}The relic known as Corruption should appease our master, if but for a fleeting moment.{^n}{^n}Anyone that brings a Corruption Relic as an offering to the Great One will be rewarded with a Manticore Eye.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Pustošitel požaduje ke svému dni jména velmi mocnou relikvii. Potěší ho jen ta nejzkaženější cennost.{^n}{^n}Relikvie zvaná Zkaženost by mohla uspokojit našeho pána, ačkoliv to bude jen na zlomek sekundy.{^n}{^n}Kdokoliv donese Zkaženost jako poctu Nejvyššímu bude odměněn Mantikořím okem.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-Packla, the once human chosen who has begun her transition, has grown violent in her hunger, lashing out even against her greater wendigos.{^n}{^n}This displeases Ravager. Packla must be brought down immediately. Seek her out in the cannibal camps scattered across Ugdenbog.{^n}{^n}Anyone that swiftly delivers Ravager's will shall be rewarded with materials from our stores.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Packla, jediná žena, jež si zvolila svou proměnu, se poslední dobou tak strašně rozežrala, že i její největší wendigové stojí pouze v jejím stínu.{^n}{^n}Pustošitelovi tohle výslovně vadí. Packla musí padnout hubou k zemi. Vypátrej jí v táborech kanibalů, které jsou rozptýlené po celých Ugdenských močálech.{^n}{^n}Kdokoliv rychle vykoná vůli Pustošitele bude odměněn několika materiály z našich obchodů.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-Find Bargoll, the Mouldering Mound, in Ugdenbog and destory it in the name of the Ravager.{^n}{^n}Anyone that destroys this threat to our hideout will be compensated with iron bits.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Najdi Bargolla, Hromadu hnoje v Ugdenských močálech a znič ho ve jménu Pustošitele.{^n}{^n}Kdokoliv mu podřízne krk a ochrání tak před ním naši skrýš, dostane pěknou sumičku železných mincí.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-Ravager demands death in his name. {^n}{^n}Pay respect to the dead god and slay the one called Lunal'Valgoth in the Fringes of Sanity.{^n}{^n}Anyone that disposes of this challenger to Ravager's domain will be rewarded with materials from our stores.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Pustošitel žádá smrt svým jménem.{^n}{^n}Vyvaruj se mrtvému bohu a zabij toho, kdo se nazývá Lunal'Valgoth a pobývá v Mezní příčetnosti.{^n}{^n}Kdokoliv přinese jeho hlavu, bude odměněn materiály z našich obchodů.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-Ravager will not be challenged.{^n}{^n}Enter the Void's Edge and slay the one called Ekket'Zul. {^n}{^n}Anyone that disposes of this usurper to Ravager's domain will be rewarded with rare materials from our stores.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Pustošitel nechce čelit výzvám.{^n}{^n}Vstup na Konec Prázdnoty a zabij netvora zvaného Ekket'Zul. {^n}{^n}Každý, kdo ve jménu Pustošitele zlikviduje uchvatitele, získá několik vzácných materiálů z našich sbírek.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-You have earned the cult's trust and as such can gaze upon their more secretive works.
+Tvá důvěra kultu je už dostatečná a můžeš tak znát veškerá tajemství.
 
-Step away from the Bounty Table.
-Barrowholm does not yet count you among its allies.{^n}{^n}A Respected reputation is required to access the Bounty Table.
-Step away from the Bounty Table.
+Odstup od vývěsky.
+Obyvatelé Barrowholmu tě nepovažují za svého spojence.{^n}{^n}Trochu zlepši svou pověst a pak se vrať zpátky k vývěsce.
+Odstup od vývěsky.

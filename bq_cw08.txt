@@ -1,15 +1,15 @@
-Bounties
-Bounty: Vladris
-Bounty
-His hunger must be sated.{^n}{^n}Find Vladris, in the camps East of Barrowholm, and end his life in honor of Ravager.{^n}{^n}Anyone that destroys this foe will be compensated with iron bits.
+Úkoly za odměny
+Hledá se: Vladris
+Popis
+Jeho hlad musí být utišen.{^n}{^n}Najdi Vladrise v tábořišti západně od Barrowholmu a ukončit jeho život ve jménu Pustošitele.{^n}{^n}Každý úspěch bude odměněn železnými mincemi.
 
 
 
-Slay Vladris
+Zabij Vladrise
 
-Turn In
-You have completed the task for Barrowholm and should return to the Bounty Table for your reward.
-Return to the Barrowholm Bounty Table
+Hotovo, vrať se
+Úkol pro Barrowholm byl dokončen a teď se můžeš vrátit k vývěsce pro svou odměnu.
+Vrať se k vývěsce v Barrowholmu
 
 
 
