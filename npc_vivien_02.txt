@@ -1,20 +1,20 @@
 Vivien
-I wish Rictor could be with us...
-I'm sorry for your loss.
-Take care.
-Leave me alone.
-Suit yourself.
-Where's Rictor?{^n}{^n}You said he could travel back here in your riftgate or whatever you called it.
-He didn't make it.
-What do you mean he didn't make it?{^n}{^n}Did he go somewhere else?
-No, he's...dead. I'm sorry. (Lie)
-What?{^n}{^n}I thought we made it. I thought we were going to get out of there together.{^n}{^n}I barely even knew him. I mean we've been together since the night of the attacks but I didn't know him before.{^n}{^n}He just seemed so nice, and I thought...{^n}{^n}I guess it doesn't matter now.{^n}{^n}Thank you for helping us anyway.
-It was the least I could do.
-I'm sorry we couldn't help him.
-He was too injured, I could not bring him through.
-You just left him there to die?{^n}{^n}You had the means to bring him to this...this sanctuary and you just left him to die.{^n}{^n}You're a monster...
-It wasn't an easy choice...
-I'm sorry...
+Kéž by s námi mohl být Rictor...
+Je mi líto tvé ztráty.
+Opatruj se.
+Nech mě na pokoji.
+Posluž si.
+Kde je Rictor?{^n}{^n}[[ms]Říkal[fs]Říkala] jsi, že s námi může jít zpátky tou Bránou, nebo jak tomu říkáte.
+Nezvládnul to.
+Jak to myslíš, že to nezvládl?{^n}{^n}Šel tedy někam jinam?
+Ne, on je...mrtvý. Je mi to líto (Lži)
+Cože?{^n}{^n}Myslela jsem si, že to dokážeme. Myslela jsem si, že sem půjdeme společně.{^n}{^n}Stejně jsem ho sotva znala. Myslím to tak, že jsme spolu byli od první noci, co začaly ty útoky, ale před tím jsem ho neznala.{^n}{^n}Vypadal tak mile, a já si myslela, že...{^n}{^n}To už je asi teď jedno.{^n}{^n}I tak ti děkujeme za to, že jsi nám [[ms]pomohl[fs]pomohla].
+Alespoň to jsem pro vás [[ms]mohl[fs]mohla] udělat.
+Je mi líto, že jsme mu nemohli pomoci.
+Byl těžce raněný, [[ms]nemohl[fs]nemohla] jsem ho sem vzít.
+Tys ho tam [[ms]nechal[fs]nechala] umřít?{^n}{^n}[[ms]Měl[fs]Měla] si v úmyslu ho dovést sem do toho...toho útočiště a prostě si ho tam [[ms]nechal[fs]nechala] umřít.{^n}{^n}Jsi monstrum...
+Nebyla to lehká volba...
+Je mi to líto...
 
-*Vivien seems deep in thought and doesn't notice you.*
-(Leave her be)
+*Vivien vypadá hluboce zamyšlená a nevšímá si tě.*
+(Nech ji být)

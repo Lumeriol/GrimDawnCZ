@@ -1,15 +1,15 @@
 Hyram
-Please, you have have to help us. We won't make it out here.
-Don't worry, help is on the way. 
-Oh, thank the gods you're here.{^n}{^n}You have to get us out. We're in big trouble.
-Calm down, I've been looking for you. Captain Wilfor sent me.
-He must have told you then, we volunteered, we just wanted to help. {^n}{^n}The resistance needed supplies. I led a group to go scrounging for them. {^n}{^n}I thought I could do it. I thought I could keep them safe, but when we got attacked I panicked and told everyone to run. {^n}{^n}Some of us hid in here but we were split up. I don't know where the other group is.
-They're safe. Now you need to get out of here.
-Oh, thank the gods.{^n}{^n}I'm ready. Whatever you need to do, just get us out of here.
-Off you go. (Open Riftgate)
-I'll find them, but for now you need to get out of here.
-Alright, alright.{^n}{^n}Whatever you need to do, just get us out of here.
-Off you go. (Open Riftgate)
-I'll be back for you.
-Help us please.{^n}{^n}We're stranded out here, we need help.
-I'll send someone for you.
+Prosím, musíš nám pomoct. Nezvládneme to tady.
+Neboj se, pomoc už je na cestě.
+Oh, díky bohu že jsi tady.{^n}{^n}Musíš nás odtud dostat. Jsme v dost velkých potížích.
+Uklidni se, [[ms]hledal[fs]hledala] jsem vás. Kapitán Wilfor mě poslal.
+Pak ti musel taky říct, že jsme šli dobrovolně, že jsme se jen snažili pomoct. {^n}{^n}Hnutí odporu potřebuje zásoby. Vedl jsem skupinku lidí, kteří si je šli vyžebračit. {^n}{^n}Myslel jsem si, že to zvládnu. Myslel jsem si, že je udržím v bezpečí, ale když na nás zaútočili, zpanikařil jsem a na všechny řval, ať utíkají. {^n}{^n}Někteří se ukryli zde, ale byli jsme rozděleni. Nevím, kde je další skupinka.
+Jsou v bezpečí. Teď odtud potřebujeme dostat ještě vás.
+Oh, díky bohu.{^n}{^n}Jsem připravený. Pojďme kamkoliv, ale hlavně pryč odsud.
+Můžem jít. (Otevři Bránu)
+Najdu je, ale teď odtud potřebujeme dostat vás.
+Dobrá, dobrá.{^n}{^n}Cokoliv je potřeba, ale hlavně už pojďme.
+Můžem jít. (Otevři Bránu)
+Vrátím se pro vás.
+Pomoz nám prosím.{^n}{^n}Jsme tu uvěznění, potřebujeme pomoct.
+Někoho pro vás pošlu.

@@ -1,35 +1,35 @@
 Ivok
-I am unsettled by your presence, inquisitor. 
-Why is that? 
-We have suffered too much at the hands of your kind. Leave me. 
-I mean you no harm.
-Your reassurance brings me no comfort. {^n}{^n}A Luminari has no business here but to bring pain and suffering to the coven.{^n}{^n}I will have my eye on you.
-I'll be going then.
-I'll be going then.
-I'll be on my way.
-Ah, one who toys with the dead, your reputation precedes you. 
+Jsem nervózní z tvé přítomnosti, [[ms]inkvizitore[fs]inkvizitorko]. 
+Cože to?
+Utrpěli jsme tak moc rukama těch, jako jsi ty. Nech mě na pokoji.
+[[ms]Nechtěl[fs]Nechtěla] jsem nikoho ranit.
+Tvé znovuobjevení se mi nedělá moc dobře. {^n}{^n}Lumináři nemají na práci nic jiného než vnést bolest a utrpení těm ze sněmu.{^n}{^n}Budu tě pozorovat.
+Tak já tedy půjdu.
+Tak já tedy půjdu.
+Půjdu si svou cestou.
+Ah, další co si hraje s mrtvými. Tvá reputace tě předchází. 
 
 
-I'm sorry, but I must go.
-Ah, welcome [[ms]brother[fs]sister], your reputation precedes you.
+Je mi to líto, ale musím jít.
+Ah, vítej [[ms]bratře[fs]sestro], tvá reputace tě předchází.
 
 
-I'm sorry, but I must go.
-Ah, the traveler. Your reputation precedes you. 
-My reputation?
-Yes, the threads bring word of your deeds in Devil's Crossing and beyond... but be careful that you are not caught in the spider's grasp.
-What does that mean?
-Fair warning, all that is done here is seen and heard. You would be wise to tread carefully.
+Je mi to líto, ale musím jít.
+Ah, [[ms]pocestný[fs]pocestná]. Tvá reputace tě předchází.
+Moje reputace?
+Ano, zprávy o tvých skutcích v Ďáblově průsmyku a dál se šíří...ale buď [[ms]opatrný[fs]opatrná], ať nejsi obětí pavouka.
+Co to znamená?
+Malé varování, vše co je zde vykonáno je viděno a slyšeno. Bylo by moudré chovat se zodpovědně.
 
-Thank you for the warning, I think.
-Uh, ok. I'll be going then. 
-What is this place?
-This was once a place of gathering for beings of unfathomable power.{^n}{^n}Now it serves as a lowly refuge for what remains of this coven. 
-Isn't it dangerous out here? 
-Indeed, a great deal of effort is spent protecting this place.{^n}{^n}You may see signs of our labor in the wards and traps that surround the coven.
-What was that about my reputation?
-I'll be going now.
-I'll be going now.
-Find somebody else to bother and don't try anything foolish. We are watching you.
-I'll be on my way then.
-That's creepy.
+Tak asi díky za varování.
+Uh, ok. Tak já tedy půjdu. 
+Co je tohle za místo?
+Toto místo bývalo jednou shromaždištěm pro bytosti nezměrné moci. {^n}{^n}Teď působí jako skromné útočiště pro ty, kteří zůstávají ve sněmu. 
+Není to tam venku nebezpečné?
+To je, je vynaloženo veliké úsilí toto místo ochránit. {^n}{^n}naší práci můžeš vidět v pastech a totemech, které obklopují sněm.
+Cože to bylo s tou mou reputací?
+Už půjdu.
+Už půjdu.
+Najdi si někoho jiného, koho budeš otravovat a nezkoušej žádné hlouposti. Sledujeme tě.
+Tak já si teda půjdu po svých.
+To je děsivý.

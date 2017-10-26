@@ -1,28 +1,28 @@
 Aurin Evelline
-Welcome to Barrowholm, traveler.
-Farewell.
-Begone from this place.
-Alright.
-You look a bit skinny, have you been eating enough?{^n}{^n}Doesn't hurt to be a little tender.
-I found this recipe written by you.
-Ah, that old thing. I love coming up with new ways to prepare meat.{^n}{^n}Lately I've been experimenting with serving it more raw, more...off the bone.{^n}{^n}If you'll stay with us, I'd love to serve you some time.
-Perhaps another time.
-Um, right.
-Goodbye.
-Hello, traveler.
-I found this recipe written by you.
-Ah, that old thing. I love coming up with new ways to prepare meat.{^n}{^n}Lately I've been experimenting with serving it more raw, more...off the bone.{^n}{^n}If you'll stay with us, I'd love to serve you some time.
+Vítej v Barrowholmu, [[ms]pocestný[fs]pocestná].
+Tak zatím.
+Táhni z tohohle místa.
+Dobrá.
+Vypadáš trošku vychrtle, [[ms]jedl[fs]jedla] jsi dost? {^n}{^n}Neuškodí se trošku o sebe starat.
+[[ms]Našel[fs]Našla] jsem recept, který jsi napsala ty.
+Aj, tahle stará záležitost. Ráda nacházím nové metody jak připravovat maso. {^n}{^n}Poslední dobou jsem více experimentovala s více krvavým, více...od kosti. {^n}{^n}Pokud s námi zůstaneš, někdy bych ti ráda nabídla.
+Možná někdy jindy.
+Hm, dobrá.
+Sbohem.
+Vítej, [[ms]pocestný[fs]pocestná].
+[[ms]Našel[fs]Našla] jsem recept, který jsi napsala ty.
+Aj, tahle stará záležitost. Ráda nacházím nové metody jak připravovat maso. {^n}{^n}Poslední dobou jsem více experimentovala s více krvavým, více...od kosti. {^n}{^n}Pokud s námi zůstaneš, někdy bych ti ráda nabídla.
 
-Perhaps another time.
-What a beautiful village.
-Why, thank you.{^n}{^n}We try to keep some normalcy in our lives despite all the tragedy.{^n}{^n}We don't see as many visitors here as we used to, but you are welcome to stay as long as you'd like.
+Možná někdy jindy.
+Jaká to nádherná vesnice.
+Oh, díky.{^n}{^n}Snažíme se v našich životech zachovat kousek normálnosti i přes tu všechnu tragédii.{^n}{^n}Nevídáme tu tolik návštěvníků jako dřív, můžeš tu ale zůstat tak dlouho, jak jen budeš chtít.
 
-Thank you.
-Actually, I was just passing through.
-Farewell.
-Welcome to Barrowholm, traveler.
-What a beautiful village.
-Why, thank you.{^n}{^n}We try to keep some normalcy in our lives despite all the tragedy.{^n}{^n}We don't see as many visitors here as we used to, but you are welcome to stay as long as you'd like.
-Thank you.
-Actually, I was just passing through.
-Farewell.
+Díky.
+Vlastně jenom procházím.
+Tak zatím.
+Vítej v Barrowholmu, [[ms]pocestný[fs]pocestná].
+Jaká to nádherná vesnice.
+Oh, díky.{^n}{^n}Snažíme se v našich životech zachovat kousek normálnosti i přes tu všechnu tragédii.{^n}{^n}Nevídáme tu tolik návštěvníků jako dřív, můžeš tu ale zůstat tak dlouho, jak jen budeš chtít.
+Díky.
+Vlastně jenom procházím.
+Tak zatím.
