@@ -497,7 +497,7 @@ tagGDX1LoreObj_AreaF_Special01Text=Vnímám tvé smysly, dobrodruhu, tu neochvě
 tagGDX1LoreObj_AreaF_Special02Name=Tvá poslední šance!
 tagGDX1LoreObj_AreaF_Special02Text=Cesta vpřed je dlážděna kostmi vyzyvatelů, a ty jsi jen další z nich. Všichni procitli do reality, která nemá co dočinění s porozuměním.{^n}{^n}Vrať se, dokud můžeš, smrtelníku, aby má říše nepromluvila i k tobě.
 
-tagGDX1LoreObj_AreaF_Special03Name=Nejsi vítán!
+tagGDX1LoreObj_AreaF_Special03Name=Vypadni!
 tagGDX1LoreObj_AreaF_Special03Text=Tvá vytrvalost mě baví, smrtelníku. Chováš se jako gladiátor v aréně života, který se snaží neurvale prorvat davem průměrnosti.{^n}{^n}Ale tady, v mé říši, seš pouze další blázen hledající cenu, která by z tebe udělala hrdinu. Nakonec je přeci jen chamtivost Zárodkem všeho zla, která je vykoupena krví.
 
 
