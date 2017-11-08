@@ -166,26 +166,26 @@ tagGDX1WeaponCaster1hA102=Spasitelovo žezlo
 tagGDX1WeaponCaster1hA103=Dýka ochranáře
 tagGDX1WeaponCaster1hA104=Spasitelova dýka
 
-tagGDX1WeaponCaster1hB101=Ugdenbog Flamestrife
-tagGDX1WeaponCaster1hB102=Ugdenbog Chillstrife
-tagGDX1WeaponCaster1hB103=Ugdenbog Stormstrife
-tagGDX1WeaponCaster1hB104=Ascendant Conduit
-tagGDX1WeaponCaster1hB105=Ascendant Source
-tagGDX1WeaponCaster1hB106=Rime-Rotten Wand
-tagGDX1WeaponCaster1hB107=Deathborne Scepter
+tagGDX1WeaponCaster1hB101=Ugdenský ohnivý rozbroj
+tagGDX1WeaponCaster1hB102=Ugdenský mrazivý rozbroj
+tagGDX1WeaponCaster1hB103=Ugdenský bouřný rozbroj
+tagGDX1WeaponCaster1hB104=Hůlka nadvlády
+tagGDX1WeaponCaster1hB105=Prapředek
+tagGDX1WeaponCaster1hB106=Hůlka mrazivé hniloby
+tagGDX1WeaponCaster1hB107=Žezlo mrtvých dětí
 
-tagGDX1WeaponCaster1hC101=Ravager's Barb
-tagGDX1WeaponCaster1hC102=Jaravuuk's Bite
-tagGDX1WeaponCaster1hC102_Desc="Master Jaravuuk's ritual blade is said to cleave through the veil itself."
-tagGDX1WeaponCaster1hC103=Ulzaad's Channeler
-tagGDX1WeaponCaster1hC104=Arcane Storm Evoker
-tagGDX1WeaponCaster1hC105=Finger of Gar'Dalvur
-tagGDX1WeaponCaster1hC105_Desc="The fallen Gar'Dalvur had only one thing to say to his executioners."
-tagGDX1WeaponCaster1hC113=Rageflame Spellblade
-tagGDX1WeaponCaster1hC114=Cyclonic Invoker
-tagGDX1WeaponCaster1hC115=Dreadwalker Carver
-tagGDX1WeaponCaster1hC116=Scepter of Malmouth
-tagGDX1WeaponCaster1hC116_Desc="Visions of the fallen city of Port Valbury flood your mind."
+tagGDX1WeaponCaster1hC101=Pustošitelův bodec
+tagGDX1WeaponCaster1hC102=Jaravuukův štípanec
+tagGDX1WeaponCaster1hC102_Desc="Rituální čepel mistra Jaravuuka, o které se říká, že se prolíná se samotným životem."
+tagGDX1WeaponCaster1hC103=Ulzaadův průbojník
+tagGDX1WeaponCaster1hC104=Vyvolavač magických bouří
+tagGDX1WeaponCaster1hC105=Gar'Dalvurův prst
+tagGDX1WeaponCaster1hC105_Desc="Padlý Gar'Dalvur směl říci svým popravcům pouze jednu jedinou věc."
+tagGDX1WeaponCaster1hC113=Magická čepel zuřivého plamene
+tagGDX1WeaponCaster1hC114=Vyvolavač tornád
+tagGDX1WeaponCaster1hC115=Kráječ nemrtvého chodce
+tagGDX1WeaponCaster1hC116=Malmouthské žezlo
+tagGDX1WeaponCaster1hC116_Desc="Tvou mysl zaplavují vidiny padlého Valburského přístavu."
 
 tagGDX1WeaponCaster1hD101=Dreadfire
 tagGDX1WeaponCaster1hD102=Valepiercer
@@ -229,9 +229,9 @@ tagGDX1ShieldC102=Legionnaire's Rebuke
 tagGDX1ShieldC102_Desc="This shield's history is almost as long as the Black Legion's own."
 tagGDX1ShieldC107=Stormscourge Bulwark
 
-tagShieldD002B=Final Stop
-tagShieldD003B=Untouchable
-tagGDX1ShieldD101=Maw of the Damned
+tagShieldD002B=Poslední hradba
+tagShieldD003B=Nedotknutelnost
+tagGDX1ShieldD101=Chřtán zatracenců
 tagGDX1ShieldD101_Desc="Forever damned are those that partake of the Wendigo's gift."
 tagGDX1ShieldD102=Watcher of Erulan
 tagGDX1ShieldD102_Desc="The stone face is said to only open its eyes when the empire is in dire need."
@@ -243,10 +243,10 @@ tagGDX1ShieldD109=Aegis Defender
 tagGDX1ShieldD110=Spellscourge Bulwark
 tagGDX1ShieldD110_Desc="The shield channels through it devastating power."
 
-tagGDX1ShieldF101=Coven Protector
-tagGDX1ShieldF102=Malmouth Defender
-tagGDX1ShieldF103=Wendigo Spiritguard
-tagGDX1ShieldF104=Wrathguard
+tagGDX1ShieldF101=Chránič ježibaby
+tagGDX1ShieldF102=Malmouthský obránce
+tagGDX1ShieldF103=Wendigův přízračný strážce
+tagGDX1ShieldF104=Strážce trestance
 
 
 #Focus
@@ -1529,17 +1529,17 @@ tagGDX1CompB106Desc="The arcane seal evokes memories of your ancestors, even one
 
 
 #ItemFactionBoosters
-tagGDX1BoosterCU_A01=Writ of the Coven of Ugdenbog
-tagGDX1BoosterCU_B01=Mandate of the Coven of Ugdenbog
-tagGDX1BoosterCW_A01=Writ of Barrowholm
-tagGDX1BoosterCW_B01=Mandate of Barrowholm
-tagGDX1BoosterPM_A01=Writ of the People of Malmouth
-tagGDX1BoosterPM_B01=Mandate of the People of Malmouth
+tagGDX1BoosterCU_A01=Výnos obyvatel Ugdenských močálů
+tagGDX1BoosterCU_B01=Mandát obyvatel Ugdenských močálů
+tagGDX1BoosterCW_A01=Výnos obyvatel Barrowholmu
+tagGDX1BoosterCW_B01=Mandát obyvatel Barrowholmu
+tagGDX1BoosterPM_A01=Výnos obyvatel Malmouthu
+tagGDX1BoosterPM_B01=Mandát obyvatel Malmouthu
 
-tagGDX1BoosterAetherialVanguard_C01=Aetherial Vanguard Warrant
-tagGDX1BoosterWendigo_C01=Barrowholm Warrant
-tagGDX1BoosterBeast_C01=Beast "Warrant"
-tagGDX1BoosterBeastDesc=It's clearly "written" by a groble, but it looks angry and you're pretty sure the scribbled picture is of you.
+tagGDX1BoosterAetherialVanguard_C01=Rozkaz Aetherianského předvoje
+tagGDX1BoosterWendigo_C01=Oprávnění z Barrowholmu
+tagGDX1BoosterBeast_C01=Oprávnění na "odstřel zvěře"
+tagGDX1BoosterBeastDesc=Na první pohled je jasné, že to "psal" nějaký grobl, ale asi vypadal hodně naštvaně a uvědomuješ si, že ta podobizna je ti velmi podobná.
 
 #Misc
 
@@ -1549,132 +1549,132 @@ tagGDX1BoosterBeastDesc=It's clearly "written" by a groble, but it looks angry a
 #Devotion
 
 #Attributes
-tagAttributeReset={^E}Use to Reset your Attributes
-tagAttributeNoPointsUsed={^r}[No Attribute Points to Reset]
-tagAttributeResetConfirmation=Reset all your Attributes?
+tagAttributeReset={^E}Použitím vynuluješ své atributy
+tagAttributeNoPointsUsed={^r}[žádný atribut k vynulování]
+tagAttributeResetConfirmation=Vynulovat všechny atributy?
 
 #ItemSets
-tagGDX1ItemSetC018CName=Misery of Alkamos
+tagGDX1ItemSetC018CName=Alkamosova nouze
 
-tagGDX1ItemSetC101Name=Corruptor of Spirits
-tagGDX1ItemSetC101BName=Corruptor of Souls
-tagGDX1ItemSetC101Desc="The spirits bend to your will."
+tagGDX1ItemSetC101Name=Narušitel duchů
+tagGDX1ItemSetC101BName=Narušitel duší
+tagGDX1ItemSetC101Desc="Duchové se podvolí tvé vůli."
 
-tagGDX1ItemSetC102Name=The Silver Guardian
-tagGDX1ItemSetC102BName=The Silver Sentinel
-tagGDX1ItemSetC102Desc="Warded against magic, the silver guardians of the imperial throne stood ever vigilant to occult threats."
+tagGDX1ItemSetC102Name=Stříbrný strážce
+tagGDX1ItemSetC102BName=Stříbrná hlídka
+tagGDX1ItemSetC102Desc="Stříbrní srážci, sami chráněni vůči magii, neustále dohlíželi na císařský trůn a měli se na pozoru před okultními hrozbami."
 
-tagGDX1ItemSetC103Name=Blazeseer
-tagGDX1ItemSetC103Desc="Your heart is a blazing ember, unquenchable and hungry for destruction."
+tagGDX1ItemSetC103Name=Požárník
+tagGDX1ItemSetC103Desc="Tvé srdce je jak žhavý popel, neuhasitelné a stále lačnící po ničení."
 
-tagGDX1ItemSetC104Name=The Magelord
-tagGDX1ItemSetC104Desc="Regalia once worn by Holgus Evellion, esteemed member of the imperial court, and an arcanist."
+tagGDX1ItemSetC104Name=Velký kouzelník
+tagGDX1ItemSetC104Desc="Klenoty nošené Holgusem Evellionem, váženým členem císařského dvora a alchymistou."
 
-tagGDX1ItemSetC105Name=Dreadwalker
-tagGDX1ItemSetC105Desc="The very presence of a Dreadwalker causes nearby life to fall seemingly and unexplainably ill."
+tagGDX1ItemSetC105Name=Hrůzný chodec
+tagGDX1ItemSetC105Desc="Samotná přítomnost Hrůzného chodce způsobuje, že živé znenadání začnou sužovat zdánlivě neškodné nemoci."
 
-tagGDX1ItemSetC106Name=Luminari Regalia
-tagGDX1ItemSetC106Desc="Special issue Luminari equipment, gifted upon high ranking members for dangerous assignments."
+tagGDX1ItemSetC106Name=Luminářské klenoty
+tagGDX1ItemSetC106Desc="Klenoty vyrobené ke zvláštní příležitosti Luminářů a darované jejich nejvyšším členům za splněné nejnebezpečnější úkoly."
 
-tagItemSetC009BName=The Unseeing Gaze
-tagItemSetC010BName=Sharpshooter's Duty
-tagItemSetC011BName=Desecrator Covenant
-tagItemSetC017BName=Dawnshield
-tagItemSetC024BName=Keeper of the Blaze
-tagItemSetC025BName=Callidor's Defense
-tagItemSetC026BName=Myrmidon Bastion
-tagItemSetC027BName=Mogdrogen's Peace
-tagItemSetC028BName=The Arcane Tempest
-tagItemSetC029BName=Elemental Harmony
+tagItemSetC009BName=Pohled neviditelného
+tagItemSetC010BName=Ostrostřelcova služba
+tagItemSetC011BName=Závazek znesvětitele
+tagItemSetC017BName=Štít úsvitu
+tagItemSetC024BName=Strážce požárů
+tagItemSetC025BName=Callidorova obrana
+tagItemSetC026BName=Myrmidonská bašta
+tagItemSetC027BName=Mogdrogenův mír
+tagItemSetC028BName=Chemická bouře
+tagItemSetC029BName=Harmonie živlů
 
 
-tagGDX1ItemSetD101Name=Krieg's Armament
-tagGDX1ItemSetD101Desc="The armor of the old Burrwitch Warden is permanently warped by the Aetherial's tainted essence."
+tagGDX1ItemSetD101Name=Kriegova výzbroj
+tagGDX1ItemSetD101Desc="Zbroj starého Wardena z vesnice Burrwitch je trvale znesvěcena Aetherianskou zkázonosnou esencí."
 
-tagGDX1ItemSetD102Name=Nature's Avenger
-tagGDX1ItemSetD102Desc="Armor blessed by Mogdrogen, to be worn by his champions in the defense of the natural order."
+tagGDX1ItemSetD102Name=Natuřin mstitel
+tagGDX1ItemSetD102Desc="Zbroj požehnaná samotným Mogdrogenem, aby ji nosili šampióni k obraně ve jménu přírodních zákonů."
 
-tagGDX1ItemSetD103Name=Shepherd of Lost Souls
-tagGDX1ItemSetD103Desc="Great power lies beyond the veil. Learn to harness it, and death itself will be but a distraction. - Uroboruuk"
+tagGDX1ItemSetD103Name=Pastýř ztracených duší
+tagGDX1ItemSetD103Desc="Ta největší moc se skrývá za rouškou temnoty. Nauč se ji využívat a samotná smrt bude jen mírným rozptýlením. - Uroboruuk"
 
-tagGDX1ItemSetD104Name=Ardor of Octavius
-tagGDX1ItemSetD104Desc="Octavius Gallador was one of the Luminari's most decorated hunters, even serving as the Citadel's Headmaster until his final breath."
+tagGDX1ItemSetD104Name=Octavianovo zanícení
+tagGDX1ItemSetD104Desc="Octavius Gallador byl jeden z nejvíce vyznamenávaných Luminářských lovců a dokonce sloužil jako ředitel Citadely až do posledního výdechu."
 
-tagGDX1ItemSetD105Name=The Cataclysm
-tagGDX1ItemSetD105Desc="For the safety of all, these artifacts were scattered and hidden by the Luminari, lest someone gather them once more and unleash their cataclysmic power."
+tagGDX1ItemSetD105Name=Zkáza
+tagGDX1ItemSetD105Desc="Pro bezpečnost každého jedince byly tyto artefakty rozptýleny a ukryty Lumináři po celém světě, aby je už nikdy nikdo nezískal a neuvolnil z nich zkázonosnou moc."
 
-tagGDX1ItemSetD106Name=Stoneguard
-tagGDX1ItemSetD106Desc="Implements of the Stoneguard, a staunch defender of the Faith of Menhir."
+tagGDX1ItemSetD106Name=Kamenná stráž
+tagGDX1ItemSetD106Desc="Výstroj kamenné stráže, spolehlivých obránců víry v Menhiru."
 
-tagGDX1ItemSetD107Name=Aegis of the Legion
-tagGDX1ItemSetD107Desc="Implements of Palliona Dar, shieldmaiden of the Black Legion."
+tagGDX1ItemSetD107Name=Legionářská záštita
+tagGDX1ItemSetD107Desc="Výstroj Palliona Dara, štítonoše Černé legie."
 
-tagGDX1ItemSetD108Name=Korba's Fury
-tagGDX1ItemSetD108Desc="Armor of Korba, the untamed daughter of Hrothnar who earned herself the moniker Fang of the Great White Wolf."
+tagGDX1ItemSetD108Name=Korbina zuřivost
+tagGDX1ItemSetD108Desc="Zbroj Korby, nezkrotné dcery Hrothnara, jež si vydobyla přezdívku Velká bílá vlčice."
 
-tagGDX1ItemSetD109Name=Darkblaze Garb
-tagGDX1ItemSetD109Desc="Implements marked by the Witch God Solael, bestowed upon his servants during the bitter wars between the Three."
+tagGDX1ItemSetD109Name=Oděv spálený na uhel
+tagGDX1ItemSetD109Desc="Výstroj čarodějného boha Solaela, jež mu byly udělena za jeho služby v dobách trpkých válek mezi Trojicí."
 
-tagGDX1ItemSetD110Name=The Spellscourge
-tagGDX1ItemSetD110Desc="The unlikely marriage between martial and arcane prowess, emblazoned upon this warplate."
+tagGDX1ItemSetD110Name=Magická bouře
+tagGDX1ItemSetD110Desc="Nepravděpodobný svazek mezi bitevním hrdinstvím a alchymistickou statečností vyobrazenou na této části válečné zbroje."
 
-tagGDX1ItemSetD111Name=The Mageslayer
-tagGDX1ItemSetD111Desc="Armor of the Mageslayers, a subgroup of the Luminari trained by nightblades to exterminate rogue spellcasters within the empire."
+tagGDX1ItemSetD111Name=Zabiják kouzelníků
+tagGDX1ItemSetD111Desc="Zbroj zabijáků kouzelníků, malou skupinkou spadající pod Luminářské Noční čepele, kteří měli vyvraždit veškeré kouzelníky v říši."
 
-tagGDX1ItemSetD112Name=Valguur's Hunger
-tagGDX1ItemSetD112Desc="Valguur was cursed with insatiable hunger for the life of others, but in becoming so he became blessed by Ravager, the wendigo spirit."
+tagGDX1ItemSetD112Name=Valguurova nenasytnost
+tagGDX1ItemSetD112Desc="Valguur byl proklet neukojitelnou touhou sežrat něco živého, ale než se tak skutečně stalo, byla z něj kletba sejmuta Pustošitelem, duchem Wendiga."
 
-tagGDX1ItemSetD113Name=The Runebinder
-tagGDX1ItemSetD113Desc="The warded armor of Tallios the Runebinder, the original caretaker of the Vault of the Luminari."
+tagGDX1ItemSetD113Name=Vazač run
+tagGDX1ItemSetD113Desc="Ochranná zbroj vazače run Talliose, prvního správce Luminářské pokladnice."
 
-tagGDX1ItemSetD114Name=Uroboruuk's Guise
-tagGDX1ItemSetD114Desc="Vestments of the immortal necromancer, Uroboruuk, during his time in Arkovia; thought lost to history but still teeming with hidden potential."
+tagGDX1ItemSetD114Name=Uroboruukova pravá tvář
+tagGDX1ItemSetD114Desc="Roucho nesmtelného nekromanta Uroboruuk z doby, kdy pobýval v Arkovii; je to sice hodně stará historie, ale stále plné skrytého potenciálu."
 
-tagGDX1ItemSetD115Name=Allagast's Masterpiece
-tagGDX1ItemSetD115Desc="Master Allagast was a close ally of the Luminari, having contributed much in the interest of studying and unlocking the potential of their artifacts."
+tagGDX1ItemSetD115Name=Allagastův mistrovský kousek
+tagGDX1ItemSetD115Desc="Mistr Allagast byl velmi blízký spojenec Luminářů, který přispěl velkým zájmem o studium a odhalení tajemství jejich artefaktů."
 
-tagGDX1ItemSetD116Name=Dagallon's Destruction
-tagGDX1ItemSetD116Desc="Dagallon was an unorthodox inquisitor whose methods earned many reprimands, but few Luminari truly cared about how heretics were brought to justice."
+tagGDX1ItemSetD116Name=Dagallonova záhuba
+tagGDX1ItemSetD116Desc="Dagallon byl neortodoxní inkvizitor, jehož metody byly často zamítány, ale jen několika Luminářům opravdu záleželo na tom, aby tito kacíři byli skutečně předvedeni k soudu."
 
-tagGDX1ItemSetD117Name=Deathguard
-tagGDX1ItemSetD117Desc="Keeper of the vale, guardian of the final gate."
+tagGDX1ItemSetD117Name=Strážce smrti
+tagGDX1ItemSetD117Desc="Strážce údolí, hlídač poslední brány."
 
-tagGDX1ItemSetD118Name=Diviner's Vision
-tagGDX1ItemSetD118Desc="The stars hold many secrets, whispered only to those daring enough to listen."
+tagGDX1ItemSetD118Name=Prorokova vize
+tagGDX1ItemSetD118Desc="Hvězdy ukrývají mnohá tajemství, ale vyzrazují je jen těm, kdo mají odvahu naslouchat."
 
-tagGDX1ItemSetD119Name=Dark One's Gift
-tagGDX1ItemSetD119Desc="A gift from Ch'thon upon those mortals embracing his return."
+tagGDX1ItemSetD119Name=Dar Pána temnot
+tagGDX1ItemSetD119Desc="Dar od Ch'thon smrtelníkům, jež obdivujíjeho návrat."
 
-tagGDX1ItemSetD120Name=Belgothian's Slaughter
-tagGDX1ItemSetD120Desc="Armor once worn by the infamous master Nightblade, Belgothian, who's reckless carnage and thirst for blood made even his employers uneasy."
+tagGDX1ItemSetD120Name=Belgothianovo krveprolití
+tagGDX1ItemSetD120Desc="Zbroj, kterou kdysi dávno nosíval mistr Nočních čepelí Belgothian, jež bezohledně masakroval každého jen aby viděl krev, což znepokojovalo i jeho podřízené."
 
-tagItemSetD001BName=Justicar Guard
-tagItemSetD002BName=The Sacred Harmony
-tagItemSetD003BName=Nature's Call Regalia
-tagItemSetD004BName=Dawnseeker's Light
-tagItemSetD005BName=The Harbinger's Message
-tagItemSetD006BName=Judicator's Seals
-tagItemSetD007BName=Demonslayer's Armament
-tagItemSetD008BName=Barrelsmith's Destroyers
-tagItemSetD009BName=Wildheart Vanguard
-tagItemSetD010BName=The Clairvoyant's Focus
-tagItemSetD011BName=Invoker's Will
-tagItemSetD012BName=Markovian's Bastion
-tagItemSetD013BName=Ulzuin's Infernal Avatar
-tagItemSetD014BName=Deception of Dreeg
-tagItemSetD015BName=Deathmark's Shadow
-tagItemSetD016BName=Iskandra's Unification
-tagItemSetD017BName=Ultos' Tempest
-tagItemSetD018BName=Trozan's Skybreach
-tagItemSetD019BName=Valdun's Betrayal
-tagItemSetD020BName=The Vileblade Pact
-tagItemSetD021BName=Black Scorch Covenant
-tagItemSetD022BName=Light's Guardian
-tagItemSetD023BName=The Infernal Champion
-tagItemSetD024BName=Rage of Agrivix
-tagItemSetD025BName=Warborn Bastion
-tagItemSetD026BName=Bloodrager's Endless Frenzy
-tagItemSetD027BName=Dread Sigils of Alkamos
+tagItemSetD001BName=Ochránce spravedlivých
+tagItemSetD002BName=Posvátná harmonie
+tagItemSetD003BName=Natuřiny vyzývavé klenoty
+tagItemSetD004BName=Světlo hledače úsvitu
+tagItemSetD005BName=Poslova zpráva
+tagItemSetD006BName=Soudcovy pečeti
+tagItemSetD007BName=Výstroj zabijáka démonů
+tagItemSetD008BName=Likvidátoři ostříleného kováře
+tagItemSetD009BName=Divoké srdce předvoje
+tagItemSetD010BName=Jasnovidcova vidina
+tagItemSetD011BName=Vyvolávačova vůle
+tagItemSetD012BName=Markovianská bašta
+tagItemSetD013BName=Ulzuinův pekelné ztělesnění
+tagItemSetD014BName=Dreegův podvod
+tagItemSetD015BName=Střelmistrův stín
+tagItemSetD016BName=Iskandřino sjednocení
+tagItemSetD017BName=Ultosova vřava
+tagItemSetD018BName=Trozanův nebeský dech
+tagItemSetD019BName=Valdunova zrada
+tagItemSetD020BName=Smlouva s ďáblem
+tagItemSetD021BName=Závazek na celý život
+tagItemSetD022BName=Strážce Světla
+tagItemSetD023BName=Pekelný šampión
+tagItemSetD024BName=Agrivixův vztek
+tagItemSetD025BName=Bašta ze starých válek
+tagItemSetD026BName=Nekonečná posedlost vzteklého krvesaje
+tagItemSetD027BName=Alkamosovy hrůzné pečeti
 
 
 #Prefixes
