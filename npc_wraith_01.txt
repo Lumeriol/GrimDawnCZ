@@ -1,37 +1,37 @@
 Ugdall
-I seek only a peaceful end. I hope your allies can offer it.
-We shall see.
-Leave me be...
-Someone else will have to deal with you.
-Leave me be...
-Someone else will have to deal with you.
-Have you done as I asked?
-Here is the spirit you seek.
-In all the centuries, I never thought I would leave this place. Forever bound to these stones, the seclusion was driving me to madness.{^n}{^n}I thank you, human, for seeing through the madness and giving me a chance at peace.{^n}{^n}I offer you this strange text as thanks. I know not the words, but they seem bound to the enemies with which you battle.{^n}{^n}Farewell, human...
-Rest in peace, Ugdall.
-Good riddance.
-We'll speak of this later.
-Have you done as I asked?
-Where can I capture a Wendigo Spirit?
-Slay the twisted beasts roaming this bog in the name of their vile master.{^n}{^n}Only the most powerful will contain a soul potent enough for me to use.
-I see.
-Not yet.
-Madness, it cannot be.{^n}{^n}A living thing I sense and yet...been so long, so long...{^n}{^n}How can I know what is real and what is not if I cannot feel...Leave me lest I grow tired of this torture.
-Are you trapped here?
-Were I to be set free? What a forlorn dream.{^n}{^n}Bound to these stones for eternity, I will find no rest in the great dark beyond the veil.{^n}{^n}But you, if you are real, you are not as I am. You can leave. You can touch. You can fight.{^n}{^n}Please, mortal. With a powerful enough soul as a vector, I may be able to pierce through the veil and pass on from this torment. No need to slaughter the innocent. Bring me the twisted spirit of a most ancient and powerful Wendigo.
-I will help you, spirit.
-I want no part in this.
-I actually have a Wendigo Spirit already.
+Čekám jen na to až v klidu spočinu. Doufám, že toto mohou tví spojenci nabídnout.
+To ještě uvidíme.
+Nech mě být...
+Bude se s tebou muset vypoořádat někdo jiný.
+Nech mě být...
+Bude se s tebou muset vypoořádat někdo jiný.
+[[ms]Udělal[fs]Udělala] jsi, jak sem žádal?
+Tady je duch, kterého hledáš.
+Po ta všechna staletí jsem si nikdy nepomyslel, že toto místo opustím. Jakožto navždy připoutaného k těmto kamenům mne samota doháněla k šílenství.{^n}{^n}Já ti děkuji, že jsi [[ms]viděl[fs]viděla] skrze toto šílenství a [[ms]dal[fs]dala] mi nakonec šanci.{^n}{^n}Nabízím ti tyto podivné texty jako důkaz díků. Neznám ta slova, ale vypadá to, že jsou svázána s nepřáteli, se kterými vedeš bitvu. {^n}{^n}Sbohem, člověče...
+Odpočívej v pokoji, Ugdalle.
+Dobře že je už pryč.
+Promluvíme si o tom později.
+[[ms]Udělal[fs]Udělala] jsi, jak sem žádal?
+Kde můžu chytit ducha Wendigo?
+Zabij pohnuté bestie, které na rozkaz svého zlého vládce brázdí tímto močálem. {^n}{^n}Pouze ty nejsilnější budou obsahovat duši dostatečně silnou na to, abych ji mohl použít.
+Chápu.
+Ještě ne.
+Blázním snad, to nemůže být.{^n}{^n}Živoucí věc, kterou cítím a přesto...už je to tak dlouho, tak dlouho...{^n}{^n}Jak můžu vědět co skutečné je a co není, když nejsem schopen cítit...Leave me lest I grow tired of this torture.
+Ty jsi tady uvězněný?
+Měl bych snad být propuštěn? Jaký to zoufalý sen. {^n}{^n}Připoután k těmto kamenům na věčnost nenajdu klidu ve velké temnotě za závojem.{^n}{^n}Ale ty, pokud jsi, nejsi, jako já jsem. Můžeš odejít. Můžeš se dotknout. Můžeš bojovat.{^n}{^n}Prosím, [[ms]smrtelníku[fs]smrtelnice]. S dostatečně mocnou duší jakožto vektorem můžu prorazit skrze závoj a utéci těmto mukám. Není potřeba zabíjet nevinné. Dones mi pohnutého ducha z toho nejmocnějšího a nejstaršího Wendiga.
+Pomůžu ti, duchu.
+Nechci se toho zúčastnit.
+Vlastně už jednoho ducha Wendigo mám.
 
-Actually, I think you're a threat.
-How were you trapped here?
-Many moons...Arkovia...necromancer...{^n}{^n}Rage! Revenge!
-I will help you, spirit.
-I want no part in this.
+Vlastně si myslím, že jsi hrozba.
+Jak jsi tady byl uvězněn?
+Mnoho měsíců...Arkovia...Nekromancer...{^n}{^n}Zloba! Msta!
+Pomůžu ti, duchu.
+Nechci se toho zúčastnit.
 
-Actually, I think you're a threat.
-Another vile spirit for me to purge.
-A mockery. A thing that does not exist, a voice within the empty halls, threatens me?{^n}{^n}There's nought here but I and the stones.
-Wait, are you trapped here?
-I will banish you! (Attack)
-I'm backing off.
+Vlastně si myslím, že jsi hrozba.
+Další zlý duch, kterého odstraním.
+Výsměch. Věc, která neexistuje, hlas uvnitř prázdných hal, mi vyhrožuje?{^n}{^n}Není tu nic než já a kamení.
+Počkej, ty jsi tu uvězněný?
+Zabiju tě! (Zaútoč)
+Radši se stáhnu.

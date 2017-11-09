@@ -1,60 +1,60 @@
 Eraline
-Did you talk to the other kids for me?
-You're right, they are monsters.
-So you did talk to them.{^n}{^n}Did you say something mean? Did you scare them? 
-I don't think they'll be bothering you for a while. 
-Oh, thank you so much [[ms]mr[fs]ma'am].
-Don't worry about it. 
-I told you we're all in this together.
-I told them you're a necromancer. 
-You did what?{^n}{^n}Oh no, what am I gonna do now?
-Don't worry they'll never know.
-But I can't do any necromancer spells.
-It'll be our little secret.
-Keep practicing.
-I'll be back.
-Whoah, hey!{^n}{^n}Are you one of those necromancers?
-That's none of your business, kid.
-You're really mean... That's so great!{^n}{^n}I mean it makes sense, you're a necromancer and all.{^n}{^n}You probably spend a lot of time with dead things. Well, I mean undead things.
-I certainly do.
-Oh man, that must be so much fun,{^n}{^n}I'm gonna be a necromancer some day too. Then I can bring dead stuff back to life.{^n} {^n}Like rats, and those nastly little grobble things, and like a huge slimy monster made of horse bones.{^n} {^n}You can do that right?
-Look, I don't have time for this.
-I am, but let's keep that between you and I.
-Oh, ok. Like our little secret, I get it.{^n}{^n}People probably think you’re really scary. I won't tell anybody.{^n}{^n}I'm gonna be a necromancer some day too. Then I can bring dead stuff back to life.{^n}{^n}Like rats, and those nasty little grobble things, and like a huge slimy monster made of horse bones.{^n}{^n}You can do that, right?
-Uh, not exactly.
-Oh, come on. I know you can do it.{^n}{^n}You can probably make all kinds of nasty stuff.
+Vy jste kvůli mně [[ms]mluvil[fs]mluvila] s ostatními dětmi?
+Mělas pravdu, jsou to zrůdy.
+Takže jste s nima [[ms]mluvil[fs]mluvila].{^n}{^n}[[ms]Řekl[fs]Řekla] jste jim něco děsivého? [[ms]Vystrašil[fs]Vystrašila] jste je? 
+Myslím si, že ti na chvíli dají pokoj.
+Oh, děkuji mnohokrát, [[ms]pane[fs]paní].
+Nedělej si s tím starosti.
+[[ms]Říkal[fs]Říkala] jsem ti, že v tom jedeme spolu.
+[[ms]Řekl[fs]Řekla] jsem jim, že jsi nekromancer.
+Co jste jim to [[ms]řekl[fs]řekla]?{^n}{^n}Ale ne, co teď budu dělat?
+Neboj se, nikdy se to nedozví.
+Já ale neumím žádná kouzla, co děkají nekromanceři.
+Bude to naše malé tajemství.
+Trénuj.
+Hned se vrátím.
+Vau, hej!{^n}{^n}Jste jedním z těch nekromancerů?
+To není tvoje starost, prcku.
+Jste opravdu [[ms]zlý[fs]zlá].. To je tak super!{^n}{^n}Myslím tím, že to dává smysl, že nakonec jste nekromancer.{^n}{^n}Pravděpodobně trávíte hodně času s těma mrtvýma věcma. Teda, myslím nemrtvýma věcma.
+To je pravda.
+Oh páni, to musí být strašná zábava.{^n}{^n}Jednou bud utaky nekromancerem. Pak budu moci přivést mrtvé zpátky k životu.{^n} {^n}Jako třeba krysy, ty mrňavý groblí věcičky a třeba obrovskou hromadu slizu z koňských kostí.{^n} {^n}Můžete tohle dělat, je to tak?
+Podívej, na tohle nemám čas.
+Ano, ale nechme si to jen pro sebe.
+Oh, ok. Je to vaše malé tajemství, chápu.{^n}{^n}Lidé vás pravděpodobně považují za velmi [[ms]strašidelného[fs]strašidelnou]. Nikomu to nepovím.{^n}{^n}Jednou bud utaky nekromancerem. Pak budu moci přivést mrtvé zpátky k životu.{^n} {^n}Jako třeba krysy, ty mrňavý groblí věcičky a třeba obrovskou hromadu slizu z koňských kostí.{^n} {^n}Můžete tohle dělat, je to tak?
+No, ne tak úplně.
+Ale, no tak. Já vím že to dovedete.{^n}{^n}Pravděpodobně můžete dělat celou hromadu odporných věcí.
 
-Yeah...Sure.
-I knew it.{^n}{^n}Oh man, I can't wait.{^n}{^n}I'm gonna bring back all kinds of stuff.
-Shouldn't you be with your parents or something?
-*Eraline hesitates*{^n}{^n}They're all dead, ok?{^n}{^n}My brothers my sisters, mommy and daddy.{^n}{^n}The monsters came and took mommy first, then daddy went looking for her and never came back.
-Is that why you want to be a Necromancer?
-Um...Maybe...{^n}{^n}I just wanna see mommy again.{^n}{^n}I can't stand it down here. It stinks and all the other kids are mean. They just make fun of me all the time. I'm...I'm all by myself.{^n}{^n}I just thought if I was a necromancer maybe I could bring them back and I wouldn't be lonely anymore.
-I'm sorry kid, that's just not how it works.
-You're probably right.{^n}{^n}I just...I don't want to be alone anymore.
-What's wrong with the other kids?
-You're not alone, kid. We're all in this together.
-I'll avenge your family.
-I'm sorry about your family, kid.
-What happend to your brothers and sisters?
-*Eraline shakes her head*{^n}{^n}I don't want to talk about it ok?
+Jo...jasně.
+Já to věděla.{^n}{^n}Páni, nemůžu se dočkat.{^n}{^n}Přivedu zpátky celou řadu věcí.
+Neměla bys být s rodiči, nebo tak něco?
+*Eraline zaváhá*{^n}{^n}Jsou všichni mrtví, víte?{^n}{^n}Mí bratři a sestry, máma a táda.{^n}{^n}Monstra přišly a vzali mi nejdřív mamku, pak se po ní šel táta podívat a už se nikdy nevrátil.
+To je důvod, proč chceš být nekromancerem?
+No...Možná...{^n}{^n}Jen bych chtěla zase vidět mamku.{^n}{^n}Nemůžu tady dole zůstat. Smrdí to tu a ostatní děti jsou zlé. Dělají si ze mě pořád jenom srandu. Já...Já jsem osamělá.{^n}{^n}Myslela jsem, že když budu nekromancerem, můžu je přivést zpátky a už nebudu tak osamělá.
+Je mi líto špunte, ale tak to prostě nefunguje.
+Asi máte pravdu.{^n}{^n}Já jen...už nechci být dál sama.
+A co je špatného na těch ostatních dětech?
+Nejsi o samotě, špunte. Jsme v tom všichni za jedno.
+Pomstím tvou rodinu.
+Je mi líto tvé rodiny, holčičko.
+Co se stalo s tvými bratry a sestrami?
+*Eraline zatřese hlavou*{^n}{^n}Nechci o tom mluvit, dobře?
 
-I'm sorry about your family, kid.
-Keep practicing, kid.
-I'm afraid not.
-I don't have time to talk.
-Did you come over here to make me go back and play with the other kids?
-No. What's wrong with the other kids?
-They're evil. They just keep making fun of me because my parents are dead.{^n}{^n}Thad says my mommy is a monster now and she's gonna come get me when I sleep.
-That's pretty terrible, but you're safe down here.
-What do you mean, is mommy really a monster?{^n}{^n}Is she really coming to get me?
-No. The other kids are lying to you.
-You really think so?{^n}{^n}It doesn't matter anyway. They're never going to stop making fun of me.
-I'll talk to them.
-You would do that?
-Sure kid.
-No one likes a bully.
-No, probably not.
-Yeah, probably not.
-Yeah, probably.
-Nope.
+Je mi líto tvé rodiny, holčičko.
+Trénuj, špunte.
+Obávám se, že to nepůjde.
+Nemám čas si povídat.
+[[ms]Přišel[fs]Přišla] jste za mnou zpátky mě přesvědčit, abych si hrála s ostatními dětmi?
+Ne. Co je špatného na těch ostatních dětech?
+Jsou zlé. Dělají si ze mě srandu, protože mí rodiče jsou mrtví.{^n}{^n}Říkají, že maminka je teďka zrůda, která si mě najde, až budu spát.
+To je dost hrozné, ale tady dole si v bezpečí.
+Co tím myslíte? Je maminka skutečně zrůda?{^n}{^n}Opravdu si pro mě dojde?
+Ne. Ostatní děti ti jen lžou.
+Opravdu si to myslíte?{^n}{^n}Stejně na tom nezáleží. Nikdy si ze mě nepřestanou dělat srandu.
+Promluvím si s nimi.
+To byste [[ms]udělal[fs]udělala]?
+Jasně, prcku.
+Nikdo nemá rád uplakánky.
+Ne, asi ne.
+Pravda, asi ne.
+Pravda, asi ano. 
+Ne.

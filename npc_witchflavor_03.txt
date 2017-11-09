@@ -1,83 +1,83 @@
 Andros
-Sister Garradia has instructed me to aid you in return for your efforts. {^n}{^n}I have used the heart of Caraxxus to prepare a restorative salve.
-Sounds good to me.
-This alone should be sufficient payment, but I've been instructed to offer my help if you should need it in the future. {^n}{^n}However, the salve takes some time to prepare. Now leave me, I must return to my work.
-Thank you.
-I suppose I owe you an apology, inquisitor.{^n}{^n}Thanks to you the circle has been restored and our little refuge is afforded some security once again.
-No apology necessary.
+Sestra Garradia mě pověřila tím, abych ti pomohl za tvé dosavadní úsilí. {^n}{^n}Použil jsem Caraxxovo srdce na přípravu obnovovacího balzámu.
+To zní dobře.
+Už jen to by mohla být dostatečná odměna, ale zároveň jsem byl pověřen, abych ti nabídl pomoc i v budoucnu, pokud ji budeš potřebovat. {^n}{^n}Nicméně příprava tohoto balzámu zabere nějaký čas. Teď mě nech, musím se vrátit ke své práci.
+Děkuji ti.
+Hádám, že ti dlužím omluvu, inkvizitore.{^n}{^n}Díky tobě byly kruhy obnoveny a naše malé útočiště má zase pro jednou nějakou tu míru bezpečí.
+není nutné se omlouvat.
 
-And never forget it.
-You're welcome.
-You are indeed a [[ms]brother[fs]sister] of this coven. {^n}{^n}Thanks to you the circles are restored and our little refuge is afforded some security once again.
-Anything to help the coven.
+A nikdy na to nezapomeň.
+Nemáš zač.
+Skutečně jsi [[ms]bratrem[fs]sestrou] tohoto sněmu. {^n}{^n}Díky tobě byly kruhy obnoveny a naše malé útočiště má zase pro jednou nějakou tu míru bezpečí.
+Cokoliv pro sněm.
 
-Farewell.
-Thanks to you the circles are restored and our refuge is afforded some security once again. 
-I did what I could.
-It was some spectacle watching you battle those manifestations during the ritual.
-Glad you stepped in to help.
-When a ritual needs researching or a salve preparing, you can call for Andros.{^n}{^n}When you need something hit with the sharp end of a stick, I suppose we've got you.
-Snarky as ever.
-You're welcome, Andros.
-I'm glad you enjoyed yourself. 
+Tak zatím.
+Díky tobě byly kruhy obnoveny a naše malé útočiště má zase pro jednou nějakou tu míru bezpečí.
+Dělám, co můžu.
+Byl to vskutku výjimečný pohled vidět tě bojovat s těmi zjeveními během rituálu.
+Jsem [[ms]rád[fs]ráda], že ses přidal a pomohl mi.
+Pokud je potřeba prozkoumat nějaký obřad nebo připravit balzám, dej vědět Androsovi.{^n}{^n}Pokud potřebuješ zasáhnout něco ostrým koncem klacku, myslím, že na to tu máme tebe.
+Pichlavej, jako vždycky.
+Nemáš zač, Androsi.
+Jsem [[ms]rád[fs]ráda], že ses bavil. 
 
-I need to be going now.
-Excuse me but I must stay focused on my work.
-What are you working on? 
-The wards that defend this place have been damaged. Matron Malostria demanded that I recover an ancient ritual to aid in repairing them.{^n}{^n}Which, of course, is buried in one of these tomes. 
-How were they damaged? 
-When the Ugdenbog Fetish was stolen, the circle was broken along with the spell that protects this place.{^n}{^n}We must perform the ritual to restore the circle.
+Potřebuju už jít.
+Promiň, ale musím se soustředit na svou práci.
+Na čem pracuješ? 
+Totemy, které chrání toto místo, byly poškozeny. Matronka Malostria žádala, abych obnovil pradávný rituál, který by měl pomoci je opravit. {^n}{^n}A samozřejmě je zahrabanej někde v těchle bichlích. 
+Jak byly poškozeny?
+Když byla ukradená Ugdenbogská fetiš, byl zničen kruh spolu s kouzlem, které chrání toto místo.{^n}{^n}Musíme provést tento rituál a obnovit kruh.
 
-Good luck finding it.
-Is there anything I can do to help.
-You'll need to speak with Matron Malostria.{^n}{^n}Now I must return to my work.
+Hodně štěstí při hledání.
+Je něco, s čím bych [[ms]mohl[fs]mohla] pomoct?
+Bude potřeba, aby sis [[ms]promluvil[fs]promluvila] s matronkou Malostrií.{^n}{^n}Teď se musím vrátit ke své práci.
 
-I'll speak with her.
+Promluvím si s ní.
 
-I'll leave you to your work.
-Thank you [[ms]brother[fs]sister] for returning our lost recruits.
-I am glad to help.
+nechám tě tedy pracovat.
+Děkuji ti, [[ms]bratře[fs]sestro], žes nám [[ms]navrátil[fs]navrátila] ztracené nováčky.
+[[ms]Rád[fs]Ráda] jsem pomohla.
 
-You're welcome.
-Despite my misgivings, you have proven yourself an ally to our coven.{^n}{^n}I suppose I should thank you for returning our lost recruits.
+Nemáš zač.
+I přes moje pochyby jsi se [[ms]ukázal[fs]ukázala] být spojencem sněmu.{^n}{^n}Myslím, že bych ti měl poděkovat za to, žes nám [[ms]navrátil[fs]navrátila] ztracené nováčky.
 I did what was right.
 
-I suppose you should.
-Felt I could help out.
-I suppose I should thank you for returning our lost recruits. 
-It was the least I could do.
-Don't be too please with yourself.{^n}{^n}Garradia has now saddled me with this new recruit. She is certain to slow my work. 
-I'm sure you'll figure it out.
-Ha, with any luck she'll prove to be at least as useful as you have been.
-I'll take that as a compliment, I think.
-Good, you could use it.
-Maybe she'll make you smile for a change.
+To bys asi měl.
+[[ms]Měl[fs]Měla] jsem pocit, že můžu vypomoci.
+Myslím, že bych ti měl poděkovat za to, žes nám [[ms]navrátil[fs]navrátila] ztracené nováčky.
+Bylo to to nejmenší, co jsem [[ms]mohl[fs]mohla] udělat.       
+Moc se nenaparuj.{^n}{^n}Garradia mi přidělila tohohle nováčka. Při spolupráci se mnou je pomalá. 
+Jsem si [[ms]jistý[fs]jistá], že na něco přijdeš.
+Ha, s trochou štěstí se ukáže být alespoň tak užitečná, jako jsi [[ms]byl[fs]byla] ty.
+Budu to brát jako kompliment.
+Dobře, mohla by se ti hodit.
+Možná ti pro změnu vykouzlí úsměv na rtech.
 
-I suppose you should.
-Felt I could help out.
-What do you need now? 
-How about another restorative salve?
-Here you are, now please leave me to my work.
-Thanks
-I've explained to you, the salve takes time to prepare.{^n}{^n}Now, if you would kindly leave me to my work.
-Very well. 
-What are you working on?
-It is my charge to prepare all materials and rituals used by the coven. As you might imagine this takes a great deal of concentration.{^n}{^n}Now, may I return to my work?
+To bys asi měl.
+[[ms]Měl[fs]Měla] jsem pocit, že můžu vypomoci.
+Co potřebuješ vědět?
+Nemáš ještě další obnovovací balzám?
+Tady máš a teď mě nech prosím pracovat.
+Díky.
+Jak už jsem ti vysvětloval, příprava trvá nějaký čas.{^n}{^n}A teď, pokud bys mě mohla nechat pracovat...
+Dobře.
+Na čem to pracuješ?
+Mým úkolem je připravovat materiály a rituály, které používá sněm. Jak si asi dovedeš představit, vyžaduje to velkou míru koncentrace.{^n}{^n}Můžu se už teďka vrátit k práci?
 
-I'll be on my way.
-Nothing, I'll be on my way.
-Leave me to my work, inquisitor.
-What are you working on? 
-As if I would explain myself to a Luminari.{^n}{^n}Do not try my patience.
-I'll be leaving then.
-I'll be on my way. 
-Excuse me but I am quite busy.
-Are you in charge around here?
-Certainly not. You'll should speak to Sister Garradia before somebody mistakes you for a ghoul.{^n}{^n}Now, leave me to my work.
+Půjdu si svou cestou.
+Nothing, Půjdu si svou cestou.
+Nech mě pracovat, ikvizitore.
+Na čem to pracuješ?
+Jakobych se zrovna já měl zpovídat Luminářům. {^n}{^n}Nezkoušej mou trpělivost.
+Pak tedy půjdu.
+Půjdu si svou cestou. 
+Promiň, ale jsem opravdu zaneprázdněný.
+Ty to tady kolem řídíš?
+Určitě ne. [[ms]Měl[fs]Měla] by sis promluvit se sestrou Garradií, než si tě někdo splete s [[ms]nemrtvým[fs]nemrtvou].{^n}{^n}A teď už mě nech pracovat.
 
-I'll be on my way.
-What are you working on?
-I'm sorry, is this sharing hour?{^n}{^n}Leave me to my work.
+Půjdu si svou cestou.
+Na čem to pracuješ?
+Omlouvám se, ale vypadá tohle snad jako kurz?{^n}{^n}Nech mě pracovat.
 
-I'll be on my way.
-Very well.
+Půjdu si teď svou cestou.
+Dobrá tedy.
