@@ -140,7 +140,7 @@ tagGDX1WeaponMelee2hB101=Duše masového rváče
 tagGDX1WeaponMelee2hB102=Úlomek masového rváče
 tagGDX1WeaponMelee2hB103=Střevodrtič
 
-tagGDX1WeaponMelee2hC101=Půlč duší
+tagGDX1WeaponMelee2hC101=Půlič duší
 tagGDX1WeaponMelee2hC101_Desc="O ostří této kosy se říká, že kosí víc než jen maso."
 tagGDX1WeaponMelee2hC102=Cesarinův rozsudek
 tagGDX1WeaponMelee2hC107=Ultosova pěst
