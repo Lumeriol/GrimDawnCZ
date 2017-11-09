@@ -1,29 +1,29 @@
 Vivien
-Please, you have have to help us. We won't survive out here alone.
-Don't worry, help is on the way. 
-Please, we must get going. Rictor requires aid.
-Sure, lets get you two to safety. (Lie)
-But how will we get Rictor there? Can we carry him?{^n}{^n}I don't want to leave him out here all alone.
-I can send you both there via rift. (Lie)
-Truly, you can do that?{^n}{^n}You hear that, Rictor? We're going to make it out of this mess. You're going to be ok!
-I'll see you at the hideout. (Open Riftgate)
-I need a moment.
-Oh, thank the gods you found us.{^n}{^n}Please, you have to help us.{^n}{^n}I don't think we'll survive out here much longer. Rictor is hurt pretty bad. I'm not sure he can even stand.
-The resistance has a stronghold nearby.
-But how will we get Rictor there? Can we carry him?{^n}{^n}I don't want to leave him out here all alone.
-Hm, he doesn't look too good.
-I know...if you hadn't arrived, I'm not sure how much time he'd have left.{^n}{^n}So let's not waste it. Please help me get him to safety.
+Prosím, musíš nám pomoct. Tady venku sami nepřežijeme.
+Neboj se, pomoc je už na cestě.
+Prosím, musíme už jít. Ricoh potřebuje pomoc.
+Jistě, teď vás odvedu oba do bezpečí (Lži)
+Ale jak tam dostaneme Rictora? Můžeme ho nést?{^n}{^n}Nechci ho nechat tady venku úplně o samotě.
+Můžu vás oba poslat skrze Bránu (Lži)
+To skutečně můžeš?{^n}{^n}Slyšels to, Rictore? Dostaneme se z tohohle srabu. Budeš zase v pořádku!
+Uvidíme se v úkrytu (Otevři Bránu)
+Potřebuju ještě chvilku.
+Oh, díky bohu že jsi nás [[ms]našel[fs]našla].{^n}{^n}Prosím, musíš nám pomoct. {^n}{^n}Nemyslím si, že tady přežijeme nějak dlouho. Rictor je těžce raněný. Nejsem si jistá, jestli může vůbec stát.
+Odboj má pevnost nedaleko.
+Ale jak tam dostaneme Rictora? Můžeme ho nést?{^n}{^n}Nechci ho nechat tady venku úplně o samotě.
+Hm, nevypadá moc dobře.
+Já vím...pokud bys [[ms]nedorazil[fs]nedorazila], nejsem si jistá, kolik času by mu ještě zbývalo.{^n}{^n}Tak ho dál nemarněme. Prosím, pomoz mi ho dostat do bezpečí.
 
-Let me talk to him first.
-Let me talk to him first.
-He doesn't look too good.
-I know...if you hadn't arrived, I'm not sure how much time he'd have left.{^n}{^n}So let's not waste it. Please help me get him to safety.
-The resistance has a stronghold nearby.
-But how will we get Rictor there?{^n}{^n}Can we carry him through the city?
-I can send you both there via rift. (Lie)
-Truly, you can do that?{^n}{^n}You hear that, Rictor? We're going to make it out of this mess. You're going to be ok!
-I'll see you at the hideout. (Open Riftgate)
-Let me talk to him first.
-I'll be back for you.
-Help us please.
-I'll send someone for you.
+Nech mě si s ním nejdřív promluvit.
+Nech mě si s ním nejdřív promluvit.
+Nevypadá moc dobře.
+Já vím...pokud bys [[ms]nedorazil[fs]nedorazila], nejsem si jistá, kolik času by mu ještě zbývalo.{^n}{^n}Tak ho dál nemarněme. Prosím, pomoz mi ho dostat do bezpečí.
+Odboj má pevnost nedaleko.
+Ale jak tam dostaneme Rictora?{^n}{^n}Můžeme ho nést skrze město?
+Můžu vás oba poslat skrze Bránu (Lži)
+To skutečně můžeš?{^n}{^n}Slyšels to, Rictore? Dostaneme se z tohohle srabu. Budeš zase v pořádku!
+Uvidíme se v úkrytu (Otevři Bránu)
+Nech mě si s ním nejdřív promluvit.
+Vrátím se pro vás.
+Pomoz nám prosím.
+Někoho pro vás pošlu.

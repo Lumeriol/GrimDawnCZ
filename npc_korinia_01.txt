@@ -1,56 +1,56 @@
 Korinia
-I know you can't stand to be apart from me, but I'm sure there's somebody who could use your assistance right about now.
+Chápu, že beze mě nemůžeš být, ale jsem si jistá že existuje někdo, kdo by tvou pomoc právě teďka uvítal.
 
-Goodbye.
-I know you can't stand to be apart from me, but isn't there an incursion happening on the surface as we speak?{^n}{^n}Aren't you...maybe supposed to be up there too?
-What about you?
-Believe me, I'd go, but I've got people that need looking after almost as much as you do.{^n}{^n}You'll make it without me. Go on now.
+Sbohem.
+Chápu, že beze mě nemůžeš být, ale nejsme na povrchu pod útokem, zatímco se tady vykecáváme?{^n}{^n}[[ms]Neměl[fs]Neměla] bys být...tam nahoře taky?
+A co ty?
+Věř mi, šla bych, ale mám na starosti hromadu lidí, kteří potřebují stejnou pozornost jako ty. {^n}{^n}Zvádneš to beze mě. Teď už utíkej.
 
-Alright, I'm going.
+Dobrá. Už jdu.
 
-Alright, I'm going.
-Goodbye.
-Welcome to Malmouth, for what it's worth.{^n}{^n}Inquisitor Creed and I have been talking. While I may have taken the lead here, I admit I do not have the military experience he does.{^n}{^n}He will defer to me for smaller operations, but commanding our troops in taking back the city will fall to him.
-I have some questions.
+Dobrá. Už jdu.
+Sbohem.
+Vítej v Malmouthu, teda v tom co z něj zbylo.{^n}{^n}Inkvizitor Creed a já jsme měli debatu. Ikdyž bych to tu mohla vést, přiznávám, že nemám takové vojenské zkušenosti, jako má on.{^n}{^n}Bude mi nechávat menší operace, ale velení našim jednotkám a převzetí města zpět spadá pod něj.
+[[ms]Měl[fs]Měla] bych nějaké otázky.
 What would you like to know?
-What's your role here?
-I'm the one who barks commands and everybody else listens for some reason.{^n}{^n}The inquisitor clearly has more experience than I do in war. I do not plan to stand in his way, but looking after our people is my responsibility.
-Can I ask something else?
-I see.
-What's the situation here?
-Everyone's either dead, a horribly disfigured mess or alive and hiding down here.{^n}{^n}We're quickly running out of alive, so it's a good thing you're here.{^n}{^n}Our contact with the outside world collapsed quickly after the Aetherials attacked. We've lost hope of ever taking back our city.{^n}{^n}Crown Hill, once the home to the Malmouth government and the piles of lard that grew rich off the industry here, is now the throne of Theodin Marcell, the Master of Flesh. A sickening growth is spreading outward from there that we've called the Fleshworks.
-The Fleshworks?
-It's where our people, both living and dead, are being taken. The Aetherials use human bodies as a raw material, fashioning flesh into living nightmares, transforming us into the implements of our own destruction.{^n}{^n}I have no doubts that what they are growing here is only the beginning of a grand effort. Whether Malmouth is a unique experiment or whether the horrors here are being mirrored in other once-great cities across the Erulan Empire, I can only guess. {^n}{^n}All that is happening here in Malmouth though is zealously orchestrated by Theodin Marcell, the Master of Flesh. 
+Jaká je tady tvoje role?
+Jsem ta, která vydává rozkazy a ostatní tak nějak poslouchaj.{^n}{^n}Ten inkvizitor má určitě víc zkušeností ve válce, než mám já. Neplánuju mu stát v cestě, ale dohlížet na naše lidi je mou zodpovědností.
+Můžu se zeptat na něco jiného?
+Chápu.
+Jaká je tady situace?
+Všichni jsou buď mrtví, odporně pokroucený hromady masa nebo živí a schovávaj se tady dole.{^n}{^n}Rychle nám docházeli živí, takže je dobře, že si tady.{^n}{^n}Náš kontakt s okolním světem skončil záhy po tom, co Aetheriané zaútočili. Ztratili jsme naději, že bychom si kdy mohli vzít město zpátky. {^n}{^n}Crown Hill, kdysi domov vlády a hromady obtloustlejch, který zbohatli na svym místním průmyslu je teďka trůnem Theodina Marcella, Master of Flesh. Nějakej rostoucí sajrajt se šíří ven z místa, kterýmu jsme začali říkat Fleshworks.
+Fleshworks?
+To je místo kam jsou naši lidé, živí i mrtví, odváženi. Aetheriané používaj těla jako surovej materiál, upravujou tkáň do oživlejch nočních můr, transformujou nás do nástrojů naší vlastní destrukce. {^n}{^n}Nepochybuju o tom že to, co tady roste, je jen začátek mnohem většího plánu. Jestli je Malmouth jen unikátní experiment nebo jestli je to místo, kde jsou ty hrůzy dělaný stejně jako v dalších kdysi-velkejch městech napříč Erulanskou říší, to můžu jenom hádat. {^n}{^n}Všechno co se tady v Malmouthu děje je ale horlivě řízený Theodinem Marcellem, Master of Flesh. 
 
-Can I ask something else?
-It will have to fall.
-Thanks for the info.
-Who is Theodin Marcell?
-He was an imperial surgeon from Erulan who arrived shortly before the attacks began; but in truth he was an agent of the Aetherials sent here to sow chaos in the region.{^n}{^n}Malmouth fell due to his machinations.
+Můžu se zeptat na něco jiného?
+Pak bude muset padnout.
+Díky za info.
+Kdo je Theodin Marcell?
+Byl říšským chirurgem s Erulanu, kterej dorazil těsně před tím, než začly útoky; ve skutečnosti byl ale agentem Aetherianů, kteří ho sem poslali, aby v tomhle regionu zasel chaos.{^n}{^n}Malmouth padnul právě díky jeho machinacím.
 
-Can I ask something else?
-We'll have to deal with him.
-Thanks for the info.
-Can I ask something else?
-Sounds awful.
-How did you survive this long?
-Me personally? My charming good looks of course. That or the arcane training. I haven't decided which one.{^n}{^n}As a group, we survived with guerilla tactics and scavenging for supplies wherever the Aetherials were thinnest. Unfortunately that's become much more difficult of late.
-Can I ask something else?
-I see.
-Forget it.
-Makes sense.
-Looking forward to working together.
-I'm sorry about the cold welcome.{^n}{^n}I had no reason to believe help was actually coming after all this time, and yet here you all are.
-Understandable.
+Můžu se zeptat na něco jiného?
+Budeme se s nim muset vypořádat.
+Díky za info.
+Můžu se zeptat na něco jiného?
+To zní odporně.
+Jakto, že jsi přežila tak dlouho?
+Myslíš já osobně? Můj okouzlující vzhled, samozřejmě. To, nebo arkanickej výcvik. Ještě jsem se nerozhodla, co z toho mi pomohlo. {^n}{^n}Jako skupina jsme přežili díky partyzánský taktice a honbou za surovinama kdekoliv bylo Aetherianů míň než obvykle. To se stalo ale poslední dobou mnohem těžším.
+Můžu se zeptat na něco jiného?
+Chápu.
+Zapomeň na to.
+To dává smysl.
+Už se těším, až spolu začnem pracovat.
+Omlouvám se za tak nevlídný uvítání.{^n}{^n}Neměla jsem důvod věřit tomu, že nějaká pomoc po takový době vůbec přijde, a najednou si tady.
+Pochopitelné.
 
-Whatever.
-We'll speak later.
-And you are?
-I'm with the Black Legion, here to help.
-The Black Legion? Where were they when the city burned?{^n}{^n}Where were they when our people were forced to flee into the sewers?{^n}{^n}Where were they when we watched our children get turned into monsters?!
-I'm sorry. The attacks happened everywhere.
-That may be true, but do not expect me to leap for joy because of empty gestures.{^n}{^n}If you are here to help, then act.
-Farewell.
-Well, we're here now.
-I'm sorry.
-Just leaving.
+Cokoliv.
+Promluvíme si později.
+A ty si?
+Jsem s Černou legií, [[ms]připravený[fs]připravená] pomoct.
+Černou legií? Kde byli, když město shořelo do základů? {^n}{^n}Kde byli, když naši lidi museli utíkat a schovat se v kanálech?{^n}{^n}Kde byli, když sme se dívali na to, jak se naše děti mění v monstra?
+Je mi to líto. Útoky byly všude.
+To je možná pravda, ale nečekej že začnu skotačit kolem díky prázdným gestům. {^n}{^n}Pokud si tu abys [[ms]pomoh[fs]pomohla], tak se pusť do práce.
+Tak zatím.
+Aha, tak takhle to je.
+Je mi to líto.
+Jdu pryč.

@@ -1,32 +1,32 @@
 Hastria
-A word of caution stranger. A deceptive spirit has tainted these lands. {^n}{^n}It seeks only to corrupt and consume.
-A spirit?
-The Wendigo corrupts those who fall prey to its trickery and consumes those too weakened to defend themselves.{^n}{^n}Take care in who you trust out there.
+Varování, [[ms]cizinče[fs]cizinko]. Ošidný duch poskvrnil tento kraj. {^n}{^n}Vyhledává pouze konzumaci a korupci.
+Duch?
+The Wendigo poskvrní ty, jež padnou za oběť jeho trikům a pozře ty, kteří jsou příliš slabí, aby se sami bránili.{^n}{^n}Dávej si pozor, komu tam venku věříš.
 
-I will, thank you.
-What's it like living out here?
-It is as you'd expect, lonely and dangerous.{^n}{^n}The others trouble themselves with threats here in the bog but I try to cast my gaze beyond.
-Cast your gaze beyond?
-So secluded from the rest of the world, it is too easy for us to focus on what happens here in our little refuge and forget what is happening in the rest of Cairn.{^n}{^n}When I stand here at the circle of sight, I see a darkness gathering strength in the north. Our enemies are preparing. We should too.
-What do you see?
-I see a vast expanse of aetherfire blanketing the land as far as the eye can see. {^n}{^n}I see a city in ruins, its people shattered, clinging to a meager existence. {^n}{^n}Mere moments of this destruction is more than I can bear to witness.
-What was that about a deceptive spirit?
-Be easy, I'm sorry to have disturbed you. 
-I'm sorry, I have to go.
-Thank you. I need to go. 
-Have you come to answer the call?
-The call?
-Yes, many recent arrivals have come here because of Malostria's call.{^n}{^n}It is thanks to her gift that our numbers have grown and suffering sisters find safety.
-I have not heard the call, no.
-Not all have the gift, so it is understandable.{^n}{^n}You are always welcome here, but be cautious outside the protection of this refuge.{^n}{^n}Ugdenbog is a treacherous and unforgiving place, though that is precisely why we hide here.
-You're hiding?
-The coven has served as a safe haven for our kinds for decades, free from the persecutions and prying eyes of the empire.{^n}{^n}Here, we are far from the reach of those who would harm us and our eldritch wards protect us from the horrors of the bog.
-I'm sad that I must go.
-I'll be leaving now.
-No, I'm just passing through.
-I'm sorry, I must be going. 
-I hope you're not planning to stay here, stranger.
-And what if I am?
-No harm will come to you here, so long as you do not seek it.{^n}{^n}But the coven has no place for you, stranger.
-Fair enough.
-I'll be on my way.
+Budu, díky.
+Jaké je to žít tady venku?
+Je to takové, jaké bys [[ms]očekával[fs]očekávala], osamělé a nebezpečné.{^n}{^n}Ostatní se trápí hrozbani zde v močálech, já se ale snažím vyčarovat nepřetržitý dohled tam venku.
+Vyčarovat nepřetržitý dohled tam venku?
+Takhle oddělení od zbytku světa je pro nás příliš snadné se přestat soustředit na to, co se děje tady v našem malém útočišti a zapomenout, co se děje ve zbytku Cairnu.{^n}{^n}Když si stoupnu sem do kruhu pohledu, vidím temnotu shromažďující sílu na severu. Naši nepřátelé se připravují. My bychom měli také.
+Co vidíš?
+Vidím mohutné rozšíření Aetherického ohně zahalující kraj tak daleko, kam jen oko dohlédne. {^n}{^n}Vidím město v ruinách, lid roztříštěný, život jim visí na vlásku. {^n}{^n}Pouze okamžiky této destrukce je více, než jsem schopna snést.
+Cože to bylo s tím ošidným duchem?
+V klidu, [[ms]nechtěl[fs]nechtěla] jsem tě rušit. 
+Je mi líto ale musím jít.
+Děkuji ti. Už musím jít.
+[[ms]Přišel[fs]Přišla] jsi, abys [[ms]odpověděl[fs]odpověděla] na zvolání?
+Zvolání?
+Ano, mnoho z nedávných příchozích přišlo právě proto, že slyšeli Malostriin hlas.{^n}{^n}To díky jejímu daru se naše řady rozrůstají a trpící sestry našly bezpečí.
+Ne, [[ms]neslyšel[fs]neslyšela] jsem její volání.
+Ne všichni mají ten dar, takže je to pochopitelné.{^n}{^n}Jsi zde vždy [[ms]vítán[fs]vítána], ale buď [[ms]opatrný[fs]opatrná], až budeš mimo ochranu tohoto města. {^n}{^n}Ugdenbog je zrádné a nelítostné místo, a to je přesně důvod, proč se schováváme právě zde.
+Vy se schováváte?
+Sněm nám po dlouhá desetiletí sloužil jako útočiště pro náš druh, osvobozeni od persekuce a slídících očí říše.{^n}{^n}Tady jsme mimo dosah, daleko od těch, kteří by se nám snažili ublížit. Podivné pečetě nás chrání zase před horory z močálů.
+Je mi líto že už musím jít.
+Už půjdu.
+Ne, jenom procházím.
+Je mi líto, ale musím jít.
+Doufám, že se tu neplánuješ nějak zdržovat, [[ms]cizinče[fs]cizinko].
+A co když plánuju?
+S žádnou újmou se zde nesetkáš, dokud ji nezačneš vyhledávat.{^n}{^n}Sněm pro tebe ale místo nemá, [[ms]cizinče[fs]cizinko].
+To stačí.
+Půjdu si svou cestou.

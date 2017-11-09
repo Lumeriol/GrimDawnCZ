@@ -1,53 +1,53 @@
 Inquisitor Creed
-Malmouth is a great victory for mankind, a symbol that we will not simply lie down and be conquered.
-What's our next move?
-We can't afford to underestimate our enemies. There is a real possibility that the Aetherials will retaliate in some way for this loss.{^n}{^n}We must be prepared. The first step will be to exterminate the remaining Aetherial presence and secure Malmouth against a possible attack.{^n}{^n}Between Fort Ikon and Malmouth, we now have major fortifications on both fronts, with access to the coastline and shipbuilding facilities.{^n}{^n}But every victory costs us lives, while the Aetherials are nigh limitless. Every move we make must be carefully planned.
-Agreed.
-The longer we wait, the more lives are lost.
-Korinia appears to be an Aetherial.
-Yes, Anasteria informed me of this. This development confounds me as I cannot possibly know its long-term implications.{^n}{^n}Are they truly our allies? Or is this an alliance of convenience? Or perhaps something else entirely.
+Malmouth bylo obrovským vítězstvím pro lidsvo, symbol, že si prostě nelehneme a nenecháme se dobýt.
+Jaký je náš další krok?
+Nemůžeme si dovolit podceňovat naše nepřátele. Je reálná možnost, že Aetheriané nějak udeří zpět kvůli takovéto ztrátě. {^n}{^n}Musíme být připraveni. Prvním krokem je zničit zbývající Aetheriany a zabezpečit Malmouth proti dalšímu možnému útoku.{^n}{^n}Pevnost Ikon a Malmouth máme jako dvě hlavní opevnění, kde máme přístup k pobřežní stezce a zařízením na stavbu lodí. {^n}{^n}Ale každé vítězství nás stojí životy, zatímco Aetherianů je téměř nekonečno. Každý krok, který podnikneme, musí být pečlivě naplánován.
+Souhlasím.
+Čím déle čekáme, tím více životů je zmařeno.
+Vypadá to, že Korinia je Aetherian.
+Ano, Anasteria mě o tom informovala.  Vývoj těchto událostí mě mate, protože pak nemohu předvídat dlouhodobé dopady. {^n}{^n} Jsou pak skutečně naši spojenci? Nebo je to spolčení z pohodlnosti? Nebo se také jedná o úplně něco jiného.
 
-They've been helpful so far.
-I don't trust them.
-Farewell.
-The fighting ahead will be brutal, but we have to persevere.
-Onwards then.
-Tell me, what happened in the Fleshworks?
-The Master of Flesh is no more.
-*Creed nods his head*{^n}{^n}So it is finished then. With the demise of this fiend, a major pedestal in the Aetherial hierarchy crumbles. Their forces here will become rudderless, their collective will be scattered.{^n}{^n}Malmouth is a great victory for mankind. It will become a symbol of our resilience, that we are not done fighting for our right to exist.{^n}{^n}And we must keep on fighting, in the name of those who sacrificed their lives, for humanity itself. We will never submit!
+Zatím byly užitečné.
+Nevěřím jim.
+Tak zatím.
+Nadcházející boje budou brutální, my ale musíme vytrvat.
+Pak tedy kupředu.
+Pověz mi, co se stalo ve Fleshworks?
+Master of Flesh už není.
+*Creed přikývne*{^n}{^n}Pak je to tedy dokončeno. S jeho smrtí se otřásá další důležitý podstavec Aetherianské hiararchie. Jejich jednotky zde se stanou neřízenými, jejich kolektiv rozdrobený. {^n}{^n}Malmouth je velké vítězství lidí. Stane se symbolem naší odolnosti, symbolem, že jsme ještě nevzdali boj za naše právo existovat.{^n}{^n}A my musíme dál bojovat vejménu těch, kteří obětovali své životy za samo lidstvo. Nikdy se nepodvolíme!
 
-Hear, hear!
-Steel yourself.{^n}{^n}We do not know what to expect within that living nightmare.
-Farewell.
-Ulgrim needs you at Crown Hill.{^n}{^n}Get back out there!
-I'll head there now.
-Is there anything you need?
-What do I need to do again?
-The gates to Crown Hill are on the northwestern end of the Steelcap District, just past the harbor. You will need to recover the explosives left behind by the resistance and combine them with my additive at the Crown Hill gates.{^n}{^n}Be careful with that stuff, it's very potent and unstable. Once you mix it in, get ready to run.
-I'm on it.
-I've misplaced your additive.
-Misplaced a highly unstable arcane powder? What could possibly go wrong?{^n}{^n}Here. Be careful with this stuff.
-Thank you.
-Farewell.
-It is nearly time to begin the assault on Crown Hill, while the Aetherials are still reeling from our recent attack.{^n}{^n}We need to discuss our next move.
-What is the plan?
-The resistance had attempted to breach the gates of Crown Hill before, but they were not adequately prepared. The remains of their fallen still litter the streets, along with the explosives they had crafted for the task.{^n}{^n}I've prepared a powder that should magnify the properties of their makeshift bomb dramatically, enough to pierce those steel gates and give us an opening.{^n}{^n}I need you to take this powder and recover the explosives from the failed mission. Combine them at the Crown Hill gates and blast the damned things open. Only then will we have any hope of breaching the Fleshworks and destroying the Master of Flesh.{^n}{^n}Once through, secure a foothold and report to Ulgrim, who will join you in the field.
-I will breach the gates.
-This will take some preparations.
-I've breached the gates already.
-Good work. Push forward into Crown Hill and secure a foothold.{^n}{^n}Ulgrim will join you once there.
-I'm on it.
-The way to Crown Hill is clear.
-Good work.{^n}{^n}Return to Crown Hill and assess the situation with Ulgrim.
-I'm on it.
+Slyšte, slyšte!
+Zocelte se.{^n}{^n}Nevíme, co nás uvnitř té oživlé hrůzy očekává.
+Tak zatím.
+Ulgrim tě potřebuje v Crown Hill.{^n}{^n}Hned se tam vydej zpátky!
+Půjdu tam hned teď.
+Je ještě něco, co je potřeba?
+Cože je potřeba, abych [[ms]udělal[fs]udělala]?
+Brány do Crown Hill jsou na severovýchodním konci Steelcap District, hned za přístavem. Bude potřeba získat výbušniny, které tam nechalo hnutí odporu a zkombinovat je s mými přísadami u bran Crown Hill. {^n}{^n}Dávej při tom pozor, je to hodně účinné a nestabilní. Jakmile to smícháš, utíkej.
+Jdu na to.
+[[ms]Zašantročil[fs]Zašantročila] jsem tvé aditivum.
+[[ms]Zašantročil[fs]Zašantročila] si vysoce nestabilní arkanický prach? Co by se vlastně asi mohlo stát?{^n}{^n}Tady. Dávej na to pozor.
+Děkuji ti.
+Tak zatím.
+Už je téměř čas začít s útokem na Crown Hill, dokud jsou Aetheriané ještě pořád ochromeni z našeho nedávného útoku. {^n}{^n}Potřebujeme probrat náš další krok.
+Jaký je plán?
+Hnutí odporu se už předtím snažilo zničit brány do Crown Hill, ale nebyli adekvátně připraveni. Zbytky padlých ještě pořád znečištují ulice, spolu s výbušninami, které pro tento účel vyrobili. {^n}{^n}Připravil jsem prášek, který by měl zásadně umocnit vlastnosti jimi vytvořené bomby, dost na to, abychom prorazili ocelové brány a vytvořili v bráně díru.{^n}{^n}Potřebuju, abys [[ms]vzal[fs]vzala] tenhle prášek a [[ms]sebral[fs]sebrala] výbušninu z předchozí neúspěšné mise. Zkombinuj je u bral do Crown Hill a už tu zatracenou věc otevři. Až potom budeme mít nějakou naději na to se dostat do Fleshworks a zničit Master of Flesh.{^n}{^n}Jakmile tam budeš, zabezpeči základnu a ohlas se Ungrimovi, přidá se k tobě na bojišti.
+Prorazím ty brány.
+Tohle bude chtít nějakou součinnost.
+Už jsem ty brány [[ms]prorazil[fs]prorazila].
+Dobrá práce. Tlačte se skrz nepřítele směrem do Crown Hill a zabezpečete základnu.{^n}{^n}Ulgrim se k tobě připojí, jakmile tam budete.
+Jdu na to.
+Cesta do Crown Hill je čistá.
+Dobrá práce.{^n}{^n}Vrať se do Crown Hill a prober situaci s Ungrimem.
+Jdu na to.
 
-What can we expect in Crown Hill?
-We know that it is the stronghold of Aetherial operations in the region. Within its walls is the center of the fleshy growth known as the Fleshworks, within which hides Theodin Marcell, the Master of Flesh.{^n}{^n}He is the mastermind behind the tragedies that befell Malmouth, Port Valbury and who knows where else. His destruction will surely disrupt Aetherial activities in the region and put a stop to whatever horrors he is preparing for humanity next.{^n}{^n}We cannot afford to fail to here.
-What was the plan again?
-I need some time to prepare.
-We'll speak of this soon.
-The outpost is ours, though it came with a cost.{^n}{^n}Those who lost their lives in the defense of mankind must never be forgotten.{^n}{^n}But we cannot let their sacrifices be in vain. We must push forward.
-What's our next move?
+Co můžu v Crown Hill očekávat?
+Víme, že je tam tvrz, ze které jsou řízený Aetherianské operace v této oblasti. Uvnitř jejích zdí je centrum rostoucí tkáně známé jako Fleshworks a uvnitř se skrývá Theodin Marcell, Master of Flesh.{^n}{^n}On je velitelem stojícím za neštěstími, které postihly Malmouth, přístav Valbury a kdoví co ještě dalšího. Jeho zničení určitě naruší Aetherianské aktivity v regionu a zastaví následující hrůzu čekající lidstvo, ať už to, co připravují, je cokoliv. {^n}{^n}Nemůžeme si v tomhle dovolit selhat.
+Jaký že byl ten plán?
+Potřebuji nějaký čas na přípravu.
+Brzy si o tom promluvíme.
+Základna je naše, ikdyž ji máme za určitou cenu.{^n}{^n}Ti, kteří obětovali život za obranu lidstva nebudou nikdy zapomenuti.{^n}{^n}Nemůžeme ale nechat jejich oběť nadarmo. Musíme jít vpřed.
+Jaký je náš další krok?
 
-The fighting ahead will be brutal, but we have to persevere.
-Onwards then.
+Nadcházející boje budou brutální, my ale musíme vytrvat.
+Pak tedy kupředu.

@@ -1,120 +1,120 @@
 Ulgrim
-Who are you who marches in here like they own the place.{^n}{^n}Do you have any idea who I am?
-Hang in there, Ulgrim. Help is on the way.
-Who are you who marches in here like they own the place.{^n}{^n}Do you have any idea who I am?
-Hang in there, Ulgrim. Help is on the way.
-I had lost all hope of ever seeing the sun again.{^n}{^n}Your arrival changed all that.{^n}{^n}Let's see if we can make it out of here together.
-Where should I go?
-Wherever we go in this pit of despair, you must take the lead. I do not know if we'll reach Malmouth as you hope, but we can try.{^n}{^n}Clear us a path and I shall join you through the shadows. Gods know there's plenty of those here.
-I'll go clear us a path.
-Can I ask you something?
-Oh, sure. We're only in the void.{^n}{^n}Perfect time to chat.
-What happened while you were in here?
-After you defeated the Loghorrean, it was forced back into the pit it spawned from, right where it had sent me.{^n}{^n}I was not about to lie down and die, so the Loghorrean and I had ourselves a final duel.{^n}{^n}It took all I had in me, and my arm's seen better days, but I dare say the fiend is finally gone for good, unless perhaps there's a worse hell than this awaiting it.
+Kdo jsi, že si sem nakráčíš, jako by ti to tu patřilo.{^n}{^n}Víš ty vůbec, kdo já jsem?
+Vydrž tady, Ulgrime. Pomoc už je na cestě.
+Kdo jsi, že si sem nakráčíš, jako by ti to tu patřilo.{^n}{^n}Víš ty vůbec, kdo já jsem?
+Vydrž tady, Ulgrime. Pomoc už je na cestě.
+Už jsem ztratil naději, že kdy znovu uvidím slunce.{^n}{^n}Tvůj příchod to všechno změnil.{^n}{^n}Pojďme se přesvědčit, jestli to odtud společně zvládneme.
+Kam bych [[ms]měl[fs]měla] jít?
+Kamkoliv půjdeme v této díře zoufalosti, musíš jít jako první. Nevím, jestli se dostaneme do Malmouthu, v což ty doufáš, ale můžeme to zkusit. {^n}{^n}Vyčisti nám cestu a já se k tobě přidám na cestě skrze stíny. Bůh ví že je tu takových spousta.
+Půjdu a vyčistím nám cestu.
+Mohu se tě na něco zeptat?
+Oh, jasně, vždyť jsme jen v Prázdnotě.{^n}{^n}Perfektně načasované pro rozhovor.
+Co se stalo, zatímco tu jsi?
+Potom, co jsi [[ms]porazil[fs]porazila] Loghorreana, byl donucen vrátit se do jámy, ze které vylezl, právě sem, kam mě to monstrum vtáhlo.{^n}{^n}Nechtěl jsem si prostě lehnout a zemřít, tak jsme se já a Loghorrean pustili do posledního boje.{^n}{^n}Vydal jsem se úplně ze všeho, moje ruce už byly i v lepším stavu, ale snad je ta příšera na dobro zahnána, teda pokud neexistuje ještě horší peklo než tohle, ve kterém čeká.
 
-I'll go clear us a path.
-What happened in the Necropolis?
-As we planned, I made my way through the Tomb of the Watchers to disrupt whatever ritual the Cult of Ch'thon had begun.{^n}{^n}But I was too late, the Loghorrean had already been awakened.{^n}{^n}You arrived just in time, but the beast had it in for me. It took advantage of all the chaos to pull me into its own realm.{^n}{^n}After you apparently defeated it in the physical realm, the Loghorrean was forced back into the void, where I was waiting.
+Půjdu a vyčistím nám cestu.
+Co se stalo v Nekropoli?
+Tak jak jsme měli v plánu jsme se vydali skrze Tomb of the Watchers, abychom přerušili rituál, který prováděli Ch'thoniané, ať už byl jakýkoliv.{^n}{^n}Přišel jsem ale příliš pozdě, Loghorrean už byl probuzený. {^n}{^n}Tys [[ms]přišel[fs]přišla] právě v čas, ale ta příšera mě dostala. Využila veškerého toho chaosu kolem a vtáhla mě do svého vlastního světa.{^n}{^n}Zatímco tys ho očividně [[ms]porazil[fs]porazila] ve fyzickém světě, Loghorrrean byl donucen stáhnout se do Prázdnoty, kde sem čekal já.
 
-I'll go clear us a path.
-Are you going to be alright?
-Let's save such morbid questions for when we get out of here.{^n}{^n}I'm not dead yet, and that's what matters right now.
+Půjdu a vyčistím nám cestu.
+Budeš v pořádku?
+Pojďme si nechat tyto morbidní otázky na později, až nebudeme tady. {^n}{^n}Ještě nejsem po smrti a to je to, na čem teďka záleží.
 
-I'll go clear us a path.
-Nevermind.
-I'll clear us a path.
-Yes...yes, I think I remember now.{^n}{^n}The void, it...clouds my mind. Fills my every waking thought with horrors beyond imagination.{^n}{^n}But, if you're here too, how will we get out?
-We'll take the void to Malmouth.
-To Malmouth? Last I passed through there, it had fallen to the Aetherials, and it wasn't a pretty sight.{^n}{^n}But if you need to get there, then there must be a good reason. Though I can't say I understand why you risked coming for me if that's the priority, not that I don't appreciate it.
-We're cut off by Aetherfire. The only way is through the void.
-I see. Then the only way forward is deeper.{^n}{^n}I'm afraid I'm thoroughly spent and won't be much use to you in a fight. If we're going to get out of here, you will need to clear a path.{^n}{^n}Don't worry about me, I will join you through the shadows. Gods know there's plenty of those here.
-I will find us a way out.
-I need some time to think.
-I've already cleared a path forward.
-I would hate to have you for an enemy.{^n}{^n}I'll move ahead then. See you outside the void.
-I'll meet you there.
-Let's talk about what happened.
-Seeing as we're stuck here, I suppose we've got nowhere to be.{^n}{^n}What do you want to discuss?
+Půjdu a vyčistím nám cestu.
+Neřešme to.
+Vyčistím nám cestu.
+Ano...ano, myslím, že už si vzpomínám.{^n}{^n}Prázdnota...zastínila mou mysl. Naplňuje každé mé probuzení nepředstavitelnými hrůzami. {^n}{^n}Ale teďka když si tu taky, jak se dostaneme ven?
+Půjdeme skrze Prázdnotu do Malmouthu.
+Do Malmouthu? Když jsem tudy procházel naposledy, padlo do rukou Aetherianům a nebyl to moc hezký pohled.{^n}{^n}Pokud tam ale potřebuješ jít, pak pro to musí být docela dobrý důvod. Ikdyž nemůžu říct že chápu, proč si pro mě [[ms]přišel[fs]přišla] a proč to pro tebe bylo prioritou; to ale neznamená, že si toho nevážím.
+Jsme odříznutí Aetherickým ohněm. Jediná cesta vede skrze Prázdnotu.
+Chápu. Pak jediná cesta ven je jít hlouběji.{^n}{^n}Obávám se ale, že jsem úplně vyčerpaný a nebudu moc použitelný v boji. Pokud se odtud máme kdy dostat, budeš muset pročistit cestu. {^n}{^n}Nedělej si o mě starosti, přidám se k tobě na cestě skrze stíny. Bůh ví že je tu takových spousta.
+Najdu pro nás cestu ven.
+Potřebuji nějaký čas na promyšlení situace.
+Už jsem cestu před námi [[ms]vyčistil[fs]vyčistila].
+Nechtěl bych tě mít za nepřítele.{^n}{^n}Půjdu tedy kupředu. Uvidíme se mimo Prázdnotu.
+Setkáme se tam.
+Pojďme si promluvit o tom, co se stalo.
+Když vidím, že jsme tu uvěznění, hádám, že není kam jinam jít.{^n}{^n}O čem si chceš promluvit?
 
-What happened while you were in here?
-After you defeated the Loghorrean, it was forced back into the pit it spawned from, right where it had sent me.{^n}{^n}I was not about to lie down and die, so the Loghorrean and I had ourselves a final duel.{^n}{^n}It took all I had in me, and my arm's seen better days, but I dare say the fiend is finally gone for good, unless perhaps there's a worse hell than this awaiting it.
-We'll escape the void to Malmouth.
+Co se stalo, zatímco si tu byl?
+Potom, co jsi [[ms]porazil[fs]porazila] Loghorreana, byl donucen vrátit se do jámy, ze které vylezl, právě sem, kam mě to monstrum vtáhlo.{^n}{^n}Nechtěl jsem si prostě lehnout a zemřít, tak jsme se já a Loghorrean pustili do posledního boje.{^n}{^n}Vydal jsem se úplně ze všeho, moje ruce už byly i v lepším stavu, ale snad je ta příšera na dobro zahnána, teda pokud neexistuje ještě horší peklo než tohle, ve kterém čeká.
+Půjdeme skrze Prázdnotu do Malmouthu.
 
-I'll be right back.
-What happened in the Necropolis?
-As we planned, I made my way through the Tomb of the Watchers to disrupt whatever ritual the Cult of Ch'thon had begun.{^n}{^n}But I was too late, the Loghorrean had already been awakened.{^n}{^n}You arrived just in time, but the beast had it in for me. It took advantage of all the chaos to pull me into its own realm.{^n}{^n}After you apparently defeated it in the physical realm, the Loghorrean was forced back into the void, where I was waiting.
-We'll escape the void to Malmouth.
+Hned se vrátím.
+Co se stalo v Nekropoli?
+Tak jak jsme měli v plánu jsme se vydali skrze Tomb of the Watchers, abychom přerušili rituál, který prováděli Ch'thoniané, ať už byl jakýkoliv.{^n}{^n}Přišel jsem ale příliš pozdě, Loghorrean už byl probuzený. {^n}{^n}Tys [[ms]přišel[fs]přišla] právě v čas, ale ta příšera mě dostala. Využila veškerého toho chaosu kolem a vtáhla mě do svého vlastního světa.{^n}{^n}Zatímco tys ho očividně [[ms]porazil[fs]porazila] ve fyzickém světě, Loghorrrean byl donucen stáhnout se do Prázdnoty, kde sem čekal já.
+Půjdeme skrze Prázdnotu do Malmouthu.
 
-I'll be right back.
-Are you going to be alright?
-Let's save such morbid questions for when we get out of here.{^n}{^n}I'm not dead yet, and that's what matters right now.
-We'll escape the void to Malmouth.
+Hned se vrátím.
+Budeš v pořádku?
+Pojďme si nechat tyto morbidní otázky na později, až nebudeme tady. {^n}{^n}Ještě nejsem po smrti a to je to, na čem teďka záleží.
+Půjdeme skrze Prázdnotu do Malmouthu.
 
-I'll be right back.
-I'll be right back.
-Hang in there, Ulgrim. I'm coming right back.
-Ugh, my head. I yield, friend. I yield.{^n}{^n}I remember you now. We were together at the Necropolis when...{^n}{^n}The void, it...clouds my mind. Fills my every waking thought with horrors beyond imagination.{^n}{^n}But, if you're here too, how will we get out?
-
-
-Hang in there, Ulgrim. I'm coming right back.
-Is that you, mother?{^n}{^n}I'm sorry, but I'm afraid I won't make it to dinner.{^n}{^n}I'm just so tired...too...tired...
-Ulgrim, what happened to you?
-An unfortunate accident, my emperor. I'm afraid my left arm will take some time to heal, but it should not impede my duties.{^n}{^n}It is not a concern that should rise above the threats to the empire, however.
+Hned se vrátím.
+Hned se vrátím.
+Vydrž tady, Ulgrime. Hned se vrátím.
+Uff, moje hlava. Vzdávám se, [[ms]příteli[fs]přítelkyně], já se vzdávám.{^n}{^n}Už si na tebe vzpomínám. Byli jsme společně v Nekropoli, když...{^n}{^n}Prázdnota...zastínila mou mysl. Naplňuje každé mé probuzení nepředstavitelnými hrůzami. {^n}{^n}Ale teďka když si tu taky, jak se dostaneme ven?
 
 
-The Loghorrean did that to you?
+Vydrž tady, Ulgrime. Hned se vrátím.
+Jsi to ty, matko?{^n}{^n}Omlouvám se, ale myslím, že to na večeři nestihnu.{^n}{^n}Jsem tak strašně unavený...příliš...unavený...
+Ulgrime, co se to s tebou stalo?
+Nešťastná událost, můj císaři. Obávám se, že má levá ruka bude potřebovat nějaký čas, aby se zhojila, to by ale nemělo ohrozit mé povinnosti.{^n}{^n}Není to ale starost, která by převyšovala hrozby naší říši.
 
 
-Hang in there, Ulgrim. I'm coming right back.
-What happened here?
-The Loghorrean and I had ourselves our final dance.{^n}{^n}I mostly took the lead, but he proved to be a handful of a partner. Together we made a royal mess of this place.{^n}{^n}I'm sorry for the trouble. I'll happily pay the cleaning fees.
-So it's dead for good?
-Why, I certainly hope so.{^n}{^n}How many times do you have to kill a bastard before he stays down?
+To ti udělal Loghorrean?
 
 
-
-Hang in there, Ulgrim. I'm coming right back.
+Vydrž tady, Ulgrime. Hned se vrátím.
+Co se tady stalo?
+Já a Loghorrean jsme si dali poslední tanec.{^n}{^n}Skoro jsem ho dokázal vést, ukázal se být ale velmi schopným partnerem. Společně jsme na tomto místě dokázali udělat opravdový nepořádek. {^n}{^n}Omlouvám se za ty potíže. Rád zaplatím poplatky za úklid.
+Takže je to nadobro mrtvé?
+Tak v to skutečně doufám.{^n}{^n}Kolikrát musíš jednoho bastarda zabít, než konečně přestane vstávat?
 
 
 
-Hang in there, Ulgrim. I'm coming right back.
-Snap out of it, Ulgrim.
-As you command.{^n}{^n}My emperor, your son lives, I made certain of it.{^n}{^n}He is safe in a secure location of which only I know.{^n}{^n}Your line will live on beyond this tragedy. I swear it.
-You have to listen to me, you're in trouble.
-Ah, trouble. She and I go way back. Waaay back.{^n}{^n}Did you know I slept with the Grand Inquisitor's wife once? She was a plump one, but feisty.
-Ulgrim, you're in the void.
-The void? That's ridiculous.{^n}{^n}Nothing living survives in the void.{^n}{^n}Are you an agent of Ch'thon here to lure me into a trap? I'll have you know I am well experienced in the art of murder.
+Vydrž tady, Ulgrime. Hned se vrátím.
 
 
-I hate to do this, maybe I can beat some sense into you. (Attack)
-Hang in there, Ulgrim. I'm coming right back.
+
+Vydrž tady, Ulgrime. Hned se vrátím.
+Prober se z toho, Ulgrime.
+jak poroučíš.{^n}{^n}Můj vládce, váš syn žije, v tom jsem se ujistil.{^n}{^n}Je v bezpečí na zajištěném území, o kterém vím jen já. {^n}{^n}Tvá pokrevní linie bude pokračovat dál i přes tuto tragédii. To přísahám.
+Musíš mě poslouchat, máš potíže.
+Ah, potíž. Ona a já se známe dlouho. Opravdu dlooooouho.{^n}{^n}[[ms]Věděls[fs]Vědělas], že jsem kdysi spal se ženou Velkého inkvizitora? Byla to baculka, ale měla kuráž.
+Ulgrime, jsi v Prázdnotě.
+V Prázdnotě? Směšné.{^n}{^n}Nic živého nepřežije v Prázdnotě.{^n}{^n}Jsi [[ms]Ch'thonský agent, který[fs]Ch'thonská agentka, která] se mě snaží vlákat do pasti? Pak bys [[ms]měl[fs]měla vědět], že jsem velmi zkušený v oblasti zabíjení.
 
 
-Hang in there, Ulgrim. I'm coming right back.
-I'm not the emperor, Ulgrim.
-Ulgrim, I haven't gone by that name in so many years...{^n}{^n}How do you know this name?
-I'm your friend, I'm here to help you.
-
-It was the name you gave me back in Burrwitch.
-Burrwitch? There's nobody living left in Burrwitch.{^n}{^n}You must be another memory, haunting me in my nightmares.{^n}{^n}Begone!
-You have to listen to me!
-The only one who would dare to command me was the emperor, and he lies dead in the capital. His blood remains on my hands to this day.{^n}{^n}I would not take this tone with me if I were you.
-I hate to do this, maybe I can beat some sense into you. (Attack)
-Hang in there, Ulgrim. I'm coming right back.
+Nechci to udělat, ale možná do tebe vtluču rozum. (Zaútoč)
+Vydrž tady, Ulgrime. Hned se vrátím.
 
 
-I hate to do this, maybe I can beat some sense into you. (Attack)
-Hang in there, Ulgrim. I'm coming right back.
-Your emperor commands you to stand.
-Wait...my mind is clearing of some haze. You're not the emperor!{^n}{^n}You are an impostor. Why are you lying to me?{^n}{^n}Speak or meet my blade!
+Vydrž tady, Ulgrime. Hned se vrátím.
+Nejsem císař, Ulgrime.
+Ulgrim, tak dlouho mi nikdo neřekl celé roky...{^n}{^n}Jakto, že znáš tohle jméno?
+Jsem [[ms]tvůj přítel, přišel[fs]tvá přítelkyně, přišla] jsem ti pomoct.
 
-I'm sorry, Ulgrim, it's just me.
+To ej jméno, které si mi řekl v Burrwitchi.
+Burrwitchi? Není nikdo, kdo by v Burrwitchi přežil.{^n}{^n}Musíš být nějaká jiná vspomínka, která mě straší v nočních můrách.{^n}{^n}Ztrať se!
+Musíš mě poslouchat!
+Jediný, kdo se mi kdy opovažoval rozkazovat byl císař a ten leží mrtvý v kapitolu. Jeho krev je na mých rukách ještě dnes.{^n}{^n}Být tebou, tímhle tónem bych se se mnou nebavil.
+Nechci to udělat, ale možná do tebe vtluču rozum. (Zaútoč)
+Vydrž tady, Ulgrime. Hned se vrátím.
 
-I hate to do this, maybe I can beat some sense into you. (Attack)
-Hang in there, Ulgrim. I'm coming right back.
+
+Nechci to udělat, ale možná do tebe vtluču rozum. (Zaútoč)
+Vydrž tady, Ulgrime. Hned se vrátím.
+Tvůj císař ti přikazuje vstát.
+Moment...má mysl přestává být zastřená. Ty nejsi císař!{^n}{^n}Jsi [[ms]podvodník[fs]podvodnice]. Proč mi lžeš?{^n}{^n}Mluv a nebo potkej můj meč!
+
+Je mi to líto Ulgrime. To jsem jenom já.
+
+Nechci to udělat, ale možná do tebe vtluču rozum. (Zaútoč)
+Vydrž tady, Ulgrime. Hned se vrátím.
 
 
-Hang in there, Ulgrim. I'm coming right back.
-Hang in there, Ulgrim. I'm coming right back.
-Who are you who marches in here like they own the place.{^n}{^n}Do you have any idea who I am?
-Hang in there, Ulgrim. Help is on the way.
+Vydrž tady, Ulgrime. Hned se vrátím.
+Vydrž tady, Ulgrime. Hned se vrátím.
+Kdo jsi, že si sem nakráčíš, jako by ti to tu patřilo.{^n}{^n}Víš ty vůbec, kdo já jsem?
+Vydrž tady, Ulgrime. Pomoc už je na cestě.

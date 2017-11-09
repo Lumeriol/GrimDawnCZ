@@ -1,39 +1,39 @@
 Arina
-You shouldn't be here.
-I go wherever I want.
-I'm leaving.
-Welcome back. Seems you're not such a stranger anymore.{^n}{^n}Perhaps the hunger drives you to keep returning to us?
-Perhaps.
-I don't think so.
-I sense a hunger in you. You must be the shaman I've heard wisper of. {^n}{^n}Welcome to our humble village. I do hope you find it satisfactory.{^n}{^n}Tell me, do the spirits offer solace? Or have they been silent?
-What's going on with this place?
-Whatever do you mean?
+[[ms]Neměl[fs]Neměla] bys tu být.
+Jdu tam kam chci.
+Jsem na odchodu.
+Vítej zpátky. Vypadá to, že už tak cizí úplně nejsi. {^n}{^n}Možná že díky hladu máš nutkání se k nám pořád vracet?
+Možná.
+To si nemyslím.
+Cítím v tobě hlad. musíš být [[ms]ten šaman, o kterém[fs]ta šamanka, o které] jsem slyšela. {^n}{^n}Vítej v naší skronmé vesničce. Doufám, že jí shledáš jako vyhovující. {^n}{^n}Pověz mi, nabízí duchové útěchu, nebo zůstávají beze slov?
+Co se tady na tom místě děje?
+Co máš na mysli?
 
-Nevermind, what did you mean about the spirits?
-You know what, never mind.
-What spirits?
-Oh, I've just heard that shamans sometimes commune with spirits through totemic rituals.{^n}{^n}I thought that perhaps you had experienced such a ritual for yourself and had insight.
-Can't say I have.
-Oh, then you should try it for yourself.{^n}{^n}I hear it can be quite...enlightening.
+Nechme to být, co to mělo být s těmi duchy?
+Víš ty co, neřeš to.
+Jací duchové?
+Oh, nedávno jsem slyšela, že [[ms]šamané[fs]šamanky] někdy komunikují s duchy během rituálů s totemy.{^n}{^n}Myslela jsem, že ty [[ms]sám[fs]sama] jsi možná tohle [[ms]zažil[fs]zažila] na vlastní kůži a [[ms]měl[fs]měla] vidění.
+Nemůžu říct, že ano.
+Oh, pak bys to tedy [[ms]měl[fs]měla] zkusit.{^n}{^n}Slyšela jsem že to může být skutečně...povznášející.
 
-I'll consider it.
-Not really my thing.
+Zvážím to.
+To není skutečně moje starost.
 
-None of your business.
-I'm sorry, I need to go.
-I need to go.
-You must be the strange new visitor. I've heard whispers of your arrival. {^n}{^n}What can I do for you?
-What's going on with this place?
-Whatever do you mean?
-This village, how is it in such good shape?
-Well stranger, we are very devoted.{^n}{^n}We work hard and our caring leader provides us with everything we need.
-You mean Scorv Egdenor?
-Yes...of course. We have, all of us, devoted ourselves to him.{^n}{^n}In return he gives us safety and satiates our hunger.{^n}{^n}You should eat before your leave. I'd hate to see you starve to death out there in the bog.{^n}{^n}Or worse, you could end up as someone's dinner.
-That sounded like a threat.
-Certainly not. Hunger is a powerful thing.{^n}{^n}You must feed it or it may drive you mad. It's a lesson the fleshcrazed of the bog certainly take to heart.
-I'll keep that in mind.
-Sounds like crazy talk to me.
-Thank you for the warning.
-I have to get going.
-You know what, never mind.
-Nothing, I need to go.
+Do toho ti nic není.
+Promiň ale musím jít.
+Potřebuju už jít.
+Ty musíš být [[ms]ten nový zvláštní návštěvník[fs]ta nová zvláštní návštěvnice]. Slyšela jsem zvěsti o tvém příchodu.{^n}{^n}Co pro tebe můžu udělat?
+Co se tady na tom místě děje?
+Co máš na mysli?
+Jakto že je tahle vesnice v tak dobrém stavu?
+No, [[ms]cizinče[fs]cizinko], jsme velmi oddaní.{^n}{^n}Tvrdě pracujeme a náš pečující vůdce nám poskytuje vše, co potřebujeme.
+Myslíš Scorva Egdenora?
+Ano...samozřejmě. Všichni jsme se mu oddali. {^n}{^n}Na oplátku nám dává bezpečí a tiší náš hlad. {^n}{^n}[[ms]|Měl[fs]Měla] by ses najíst než odejdeš. Nechtěla bych tě vidět tam venku v močálech zemřít hlady.{^n}{^n}Nebo ještě hůře, [[ms]stal[fs]stala] by ses něčí večeří.
+Zní to nebezpečně.
+Tak to není. Hlad je mocná věc. {^n}{^n}Musíš ho krmit, jinak tě dovede k šílenství. Je to lekce, kterou si ty kusy masa v močálech určitě kladou k srdci.
+Budu na to myslet.
+Mě to zní jako řeči blázna.
+Díky za varování.
+Musím už jít.
+Víš ty co, neřeš to.
+Nic, už potřebuju jít.

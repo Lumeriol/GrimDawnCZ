@@ -1,61 +1,61 @@
 Terise
-You have no business here stranger.{^n}{^n}Leave this place before I cook you into one of my stews.
-Ok, I'll be leaving then.
-That's quite rude.
-The Great Spirit is very pleased with you stranger.{^n}{^n}All you have done for us will certainly not be forgotten.
-I'd rather just forget any of this ever happened.
-I do what I can to help.
-Ah, you're back. It's great to see you again.{^n}{^n}I must thank you.
-Thank me for what?
-Well, thanks to you we have fresh meat once again. It's been some time since I cooked with such wonderfully fresh cuts.{^n}{^n}Though Aurin always seems to get the best parts before the rest of us can get our hands on them. I think old Scorv favors her.{^n}{^n}No harm done, I'm quite happy with fresh meat whenever I can get it.
-How did I help?
-I heard it was you who went out and checked the camps. Is that not true?
-Um, It was me.
-Well then, thank you. I'm sure the Great Spirit is quite pleased with you.
-I certainly hope so.
-I'll be going now.
-No, I think you're mistaken.
-I'm glad I could help.
-I'm sorry, I need to go.
-Welcome back. I've just finished making a fesh batch of stew.{^n}{^n}Are you sure I can't interest you in trying some?
-No I'm all set.
-Suit your self.{^n}{^n}This batch is made with fresh meat, thanks to you.
-Fesh meat?
-Indeed, it seems our traps were full this time around. I heard it was you who went out to check them.{^n}{^n}Those poor creatures were horrified when you sent them back here. They had no idea what they were in for.{^n}{^n}All the better. The fear lingers in the meat leaving a truly unique flavor. It's delectable really.
-I think I'm going to be sick.
-Enjoy your stew, I'm glad I could help.
-Sure, I think I'll try some this time.
-I knew you had it in you. I could sense it.{^n}{^n}Here you are, a freshly prepared batch.
-This is delicious.
-It ought to be. It was made with fresh meat, thanks to you.
-Thanks to me?
-Indeed, those poor souls you sent back here from the traps. They had no idea what was in store for them.{^n}{^n}You should have seen the terror in their eyes. It was perfect.{^n}{^n}Fear makes the meat taste better you know.
-I think I'm going to be sick.
-I'll be going now. Thanks for the stew.
-Thank you.
-No thank you, I need to go.
-I love a [[ms]man[fs]woman] with a solid appetite.
-Any chance I could get more of that stew?
-Oh, I'm sorry.{^n}{^n}I'm afraid we're all out for now. Perhaps another time when we've acquired some fresh meat.
-Alright.
-I think I'll be on my way.
-Are you quite sure you're not hungry?
-On second thought, a bowl of stew sounds good.
-I knew you had it in you. I could sense it.{^n}{^n}Here you are, a freshly prepared batch.
+Nemáš tu co dělat, [[ms]cizinče[fs]cizinko].{^n}{^n}Opusť toto místo, než tě dám jako přísadu do jednoho z mých gulášů.
+Dobrá, tak já tedy půjdu.
+To je dost hrubé.
+Velký duch je tebou potěšen, [[ms]cizinče[fs]cizinko].{^n}{^n}To, co jsi pro nás [[ms]udělal[fs]udělala] nebude jistě zapomenuto.
+Radši bych [[ms]zapomněl[fs]zapomněla] na to, že se to kdy stalo.
+Dělám, co můžu, abych [[ms]pomohl[fs]pomohla].
+Ah, jsi zpátky. Je dobré tě zase vidět. {^n}{^n}Musím ti poděkovat.
+Poděkovat mi za co?
+No, díky tobě zase máme čerstvé maso. Už je to nějaká doba, co jsem mohla vařit s tak šťavnatými a čerstvými kusy masa.{^n}{^n}Ikdyž jak se zdá, Aurin vždycky dostane ty nejlepší části ještě před tím, než to stihnou ostatní z nás. Vypadá to, že jí Scorv prokazuje laskavost.{^n}{^n}Nevadí, jakmile můžu mít čerstvé maso, jsem šťastná.
+Jak jsem [[ms]pomohl[fs]pomohla]?
+Slyšela jsem, žes to [[ms]byl[fs]byla] ty, kdo šel a prohledával tábořiště. Nebo to není pravda?
+Hm, to jsem [[ms]byl[fs]byla] já.
+Dobrá tedy, děkuji ti. Jsem si jistá, že je tebou Velký Duch velmi potěšen.
+V to doufám.
+Už půjdu.
+Ne, myslím, že se mýlíš.
+Jsem [[ms]rád[fs]ráda], že jsem [[ms]mohl[fs]mohla] pomoci.
+Je mi líto, ale už potřebuju jít.
+Vítej zpátky. Zrovna jsem dovařila čerstvou várku guláše. {^n}{^n}Jsi si [[ms]jistý[fs]jistá], že tě nepřemluvím, abys [[ms]ochutnal[fs]ochutnala]?
+Ne, jsem v pohodě.
+Posluž si.{^n}{^n}Tahle várka je s čerstvým masem, a to díky tobě.
+Čerstvým masem?
+Vskutku, naše pasti byly tentokrát plné. Slyšela jsem, žes to [[ms]byl[fs]byla] ty, kdo šel a zkontroloval je. {^n}{^n}Ty ubohé příšerky byly úplně vyděšené, když jsi je [[ms]poslal[fs]poslala] zpátky sem. Neměli ani tušení, jaký je jejich účel.{^n}{^n}O to lepší. Přetrvávající strach zanechává v mase skutečně unikátní chuť. Je to doopravdy lahodné.
+Myslím, že se mi udělá blbě.
+Užij si svůj guláš, jsem [[ms]rád[fs]ráda], že jsem [[ms]mohl[fs]mohla] pomoci.
+Jasně, myslím, že teďka už ochutnám.
+Věděla jsem, že to máš v sobě. Cítím to. {^n}{^n}Tady máš, právě uvařená várka.
+Je to delikátní.
+Mělo by. Bylo to uvařené s čerstvým masem, a to díky tobě.
+Díky mně?
+Vskutku, ty ubohé duše, které jsi [[ms]poslal[fs]poslala] z pastí zpátky přímo sem. Neměli vůbec tušení, co na ně ve skladu čeká. {^n}{^n}[[ms]Měl[fs]Mělas] vidět tu hrůzu v jejich očích. Bylo to perfektní.{^n}{^n}Strach dodává masu ještě lahodnější chuť, víš.
+Myslím, že se mi udělá blbě.
+Už půjdu. Díky za guláš.
+Díky.
+Ne, díky. Už musím jít.
+Miluju [[ms]chlapa[fs]ženskou] s vytříbeným apetitem.
+Je nějaká šance, že můžu dostat víc guláše?
+Oh, je mi líto.{^n}{^n}Obávám se, že už došel. Možná někdy příště, až seženeme další čerstvé maso.
+Dobrá.
+Myslím, že vyrazím zase na cestu.
+Jsi si [[ms]jistý[fs]jistá], že nemáš hlad?
+Na druhou stranu, miska guláše zní docela dobře.
+Věděla jsem, že to máš v sobě. Cítím to. {^n}{^n}Tady máš, právě uvařená várka.
 
-Thanks, I'll be going now.
-I'm alright, thanks.
-Well hello there, stranger. Welcome to our humble village.{^n}{^n}You look famished. Might I offer you a bowl of stew? I made it myself right from one of Aurin's best recipes.{^n}{^n}Sure to put some meat back on those bones of yours.
-A bowl of stew sounds good.
-Excellent. I thought you might enjoy it.{^n}{^n}You have a ravenous look about you.
-It was a little gamey.
-Ah well, we haven't had much fresh meat around here recently.{^n}{^n}Though it seems that may be about to change.
-Well, thank you anyway.
-I'll be going now.
-Thanks, I'll be going now.
-No, I don't think so. 
-Well then, I must say I'm quite disappointed.{^n}{^n}I thought I sensed a hunger in you. But I was clearly mistaken.
-No harm done.
-I need to go now.
-There's no way I'm eating your stew.
-I think I'll be on my way.
+Díky, už půjdu.
+Jsem v pohodě, díky.
+Oh vítej zde, [[ms]cizinče[fs]cizinko]. Vítej v naší malé skromné vesničce. {^n}{^n}Vypadáš hladově. Mohu ti nabídnout misku guláše? Udělala jsem ji přesně podle jednoho z Aurininých nejlepších receptů.{^n}{^n}Ujistíme se tak, že ti na kosti dodáme zase nějaké ty svaly.
+Miska guláše zní docela dobře.
+Výborně. Myslela jsem si, že by ti mohl chutnat.{^n}{^n}Máš hladový pohled.
+Nemělo to výraznou chuť.
+Ah víš, nemáme poslední dobou příliš čerstvého masa. {^n}{^n}Ikdyž to vypadá, že se to brzy změní.
+Ale i tak díky.
+Už půjdu.
+Díky, už půjdu.
+Ne, nemyslím si.
+Dobrá, pak tedy musím říct, že jsem docela zklamaná.{^n}{^n}Myslela jsem, že je z tebe cítit hlad. Očividně jsem se ale pletla.
+Bez urážky.
+Potřebuju jít.
+Není šance, že si dám tvůj guláš.
+Myslím, že si půjdu svou cestou.
