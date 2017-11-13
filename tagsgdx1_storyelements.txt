@@ -1,9 +1,9 @@
 #Region Names
 
 tagGDX1MapDarkWood=Gloomwald
-tagGDX1MapUgdenbog=Ugdenské močály
+tagGDX1MapUgdenbog=Ugdenbog
 tagGDX1MapUgdenbogVillage=Barrowholm
-tagGDX1MapUgdenbogCoven=Skryté shromaždiště
+tagGDX1MapUgdenbogCoven=Skrytá lóže čarodějek
 tagGDX1MapUgdenbogAltar=Rattoshův oltář
 
 tagGDX1MapMalmouthEntry=Osamělá hlídka
@@ -21,8 +21,8 @@ tagGDX1MapMalmouthDocks=Malmouthský přístav
 
 tagGDX1RiftGloomwaldEntrance=Gloomwaldská brána
 tagGDX1RiftGloomwaldRiverCrossing=Gloomwaldská křížová brána
-tagGDX1RiftUgdenbogCoven=Brána ve Skrytém shromaždišti
-tagGDX1RiftUgdenbogCenter=Brána v Ugdenských močálech
+tagGDX1RiftUgdenbogCoven=Brána ve Skryté lóži čarodějek
+tagGDX1RiftUgdenbogCenter=Brána v Ugdenbogu
 tagGDX1RiftUgdenbogVillage=Brána v Barrowholm
 tagGDX1RiftMalmouthAetherfire=Brána u Osamělé hlídky
 tagGDX1RiftMalmouthOutskirts=Brána na Malmouthském předměstí
@@ -33,9 +33,9 @@ tagGDX1RiftMalmouthSewers=Brána v Malmouthských stokách
 #World Map Labels
 
 tagGDX1WorldMapGloomwald=Gloomwald
-tagGDX1WorldMapUgdenbog=Ugdenské močály
+tagGDX1WorldMapUgdenbog=Ugdenbog
 tagGDX1WorldMapUgdenbogVillage=Barrowholm
-tagGDX1WorldMapUgdenbogCoven=Skryté{^n}shromaždiště
+tagGDX1WorldMapUgdenbogCoven=Skrytá lóže{^n}čarodějek
 
 tagGDX1WorldMapMalmouthOutskirts=Mourndale
 tagGDX1WorldMapMalmouthOutskirtsRuins=Malmouthské{^n}předměstí
@@ -159,8 +159,8 @@ tagGDX1POI_FactoryExit=Východ z Továrny
 tagGDX1POI_FactoryHeartEntrance=Vstup do Svatyně masa
 tagGDX1POI_FactoryHeartExit=Východ ze Svatyně masa
 tagGDX1POI_GatesOfMalmouth=Malmouthské brány
-tagGDX1POI_MalmouthDocks=Černoželezné loděnice
-tagGDX1POI_MalmouthDocksEntrance=Vstup do Černoželezných loděnic
+tagGDX1POI_MalmouthDocks=Černoželezné doky
+tagGDX1POI_MalmouthDocksEntrance=Vstup do Černoželezných doků
 tagGDX1POI_MalmouthDoor=Černoželezné dveře
 tagGDX1POI_MQSewersEntrance=Vstup do Malmouthských stok
 tagGDX1POI_MQSewersExit=Východ z Malmouthských stok
@@ -193,8 +193,8 @@ tagNotification_AreaF_EmberCragsPodařilo se ti uprchnout z Prázdnoty a dostat 
 tagNotification_AreaF_MadRamblingsDoorOpened=Slyšíš poblíž sebe rachot padajícího kamení...
 tagNotification_AreaF_CantLeaveThem=Bohužel na záchranu těchto lidí je příliš pozdě...
 tagNotification_AreaF_CantLeaveThemNoQuest=To co udělali těmto lidem je... zneklidňující...
-tagNotification_AreaF_DocksRiftgateEvent=Černoželezné loděnice jsou zamořené nepřáteli.
-tagNotification_AreaF_DocksEventFinished=Aetheriané v Černoželezných loděnicích byli poraženi!
+tagNotification_AreaF_DocksRiftgateEvent=Černoželezné doky jsou zamořené nepřáteli.
+tagNotification_AreaF_DocksEventFinished=Aetheriané v Černoželezných docích byli poraženi!
 
 tagNotification_WarningAncientGroveGates=Cesta do Starodávného háje je otevřena. Ale pospěš, chodba nebude přístupná dlouho...
 tagNotification_WarningAncientGroveGatesLocked=Starodávný háj je zapečetěn a v této herní relaci se ti jej už nepodaří otevřít.
@@ -263,7 +263,7 @@ tagGDX1NPC_AreaF_25=Timor
 tagGDX1NPC_AreaF_26=Rictor Clarke
 tagGDX1NPC_AreaF_27=Vivian Neven
 
-tagNPC_UgdenbogBridge=Staveniště mostu do Ugdenských močálů
+tagNPC_UgdenbogBridge=Staveniště mostu do Ugdenbogu
 
 tagGDX1_NPC_S=Lokarr
 tagGDX1_NPC_S_H=Lokarrovo hledí
@@ -302,7 +302,7 @@ tagGDX1NPC_Flavor_AreaF_06=
 tagQuestItemCovenTribute=Carraxovo srdce
 tagQuestItemCovenTributeDesc="Zvláštně tvarované srdce obrovského korýše. Páchne mořskými řasami."
 
-tagQuestItemCovenRitual=Fetiš z Ugdenských močálů
+tagQuestItemCovenRitual=Fetiš z Ugdenbogu
 tagQuestItemCovenRitualDesc="Fetiš se zdá být poškozená, pravděpodobně neopatrným zacházením, ale je to přesně ta, co chtěla Garradia."
 
 tagQuestItemInquisitorsRune=Creedův přívěsek
@@ -591,14 +591,14 @@ tagGDX1StoreTitle_FactionQuartermaster_04=Forman
 
 
 #Faction Bounty Tables
-tagGDX1NPC_FactionTable_01=Vývěska ve Shromaždišti v Ugdenských močálech
+tagGDX1NPC_FactionTable_01=Vývěska u Lóže čarodějek v Ugdenbogu
 tagGDX1NPC_FactionTable_02=Vývěska v Barrowholmu
 tagGDX1NPC_FactionTable_03=Vývěska v Malmouthu
 
 
 #Devotion Shrines
 tagGDX1DevotionShrineE01=Gloomwald
-tagGDX1DevotionShrineE02=Ugdenské močály
+tagGDX1DevotionShrineE02=Ugdenbog
 
 tagGDX1DevotionShrineF01=Malmouth
 tagGDX1DevotionShrineF02=Korunní kopec
