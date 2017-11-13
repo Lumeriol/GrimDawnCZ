@@ -80,7 +80,7 @@ achGDX1025Title=Klenot mezi špínou
 achGDX1025Desc=Dosáhni uctívané přízně v Barrowholm.
 
 achGDX1026Title=Rituály z Ugdenbogu
-achGDX1026Desc=Dosáhni uctívané přízně ve Shromaždišti v Ugdenských močálech.
+achGDX1026Desc=Dosáhni uctívané přízně u Lóže čarodějek v Ugdenbogu.
 
 achGDX1027Title=Hrdina z lidu
 achGDX1027Desc=Dosáhni uctívané přízně od Obránců Malmouthu.
@@ -136,7 +136,7 @@ achGDX1043Desc=Zlikviduj Gargabola, Srdce divočiny ve Starodávném háji na ul
 achGDX1044Title=Nesmrtelný divočák
 achGDX1044Desc=Zlikviduj Gargabola, Srdce divočiny ve Starodávném háji ve Výzvě.
 
-achGDX1045Title=Starožitost v Ugdenských močálech
+achGDX1045Title=Starožitost z Ugdenbogu
 achGDX1045Desc=Zlikviduj Kra'valla, Starověkého vodnáře.
 
 achGDX1046Title=Zabiják mýtů

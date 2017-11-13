@@ -9,8 +9,8 @@ tagFactionBeastsRewards5=-
 tagFactionBeastsRewards6=-
 tagFactionBeastsRewards7=-
 tagFactionBeastsRewards8=-
-tagFactionUser9=Shromaždiště v Ugdenských močálech
-tagFactionUser9Info=Stanoviště: Ugdenské močály{^n}{^n}O tajemném Shromaždišti v Ugdenských močálech toho není mnoho známo. V kongregaci čarodějnic a černokněžníků se shromaždiště snaží chránit své pronásledované bratry a sestry před společností, která jim nerozumí, a (mnohdy oprávněně) se obává jejich moci.{^n}{^n}Po celá desetiletí se úspěšně vyhýbali pronásledování ze strany Luminářů tím, že čarodějnice využily odlehlé místo uvnitř zrádných Ugdenských močálů, tedy místa, kam se ani ti nejzarputilejší pronásledovatelé neodvažovali vkročit. Což samozřejmě přinášelo i nebezpečí v rámci samotného místa.{^n}{^n}Ti, kteří zde našli útočiště, museli neustále zůstat ostražití, neboť se stále objevovaly nové hrozby, ať už v podobě ztracených a utopených dobrodruhů, nebo ze smrtících bažin rozrůstající se divočiny.{^n}{^n}Nejhorší ovšem zůstává, že v bažinách jsou tajemství, kterým se i samotní obyvatelé shromaždiště vyhýbají, aby neopakovali chyby z minulosti a Lumináři tak nemohli vysledovat jejich stopy.
+tagFactionUser9=Lóže čarodějek v Ugdenbogu
+tagFactionUser9Info=Stanoviště: Ugdenbog{^n}{^n}O tajemném Lóži čarodějek v Ugdenbogu toho není mnoho známo. V kongregaci čarodějnic a černokněžníků se lóže snaží chránit své pronásledované bratry a sestry před společností, která jim nerozumí, a (mnohdy oprávněně) se obává jejich moci.{^n}{^n}Po celá desetiletí se úspěšně vyhýbali pronásledování ze strany Luminářů tím, že čarodějnice využily odlehlé místo uvnitř zrádného Ugdenbogu, tedy místa, kam se ani ti nejzarputilejší pronásledovatelé neodvažovali vkročit. Což samozřejmě přinášelo i nebezpečí v rámci samotného místa.{^n}{^n}Ti, kteří zde našli útočiště, museli neustále zůstat ostražití, neboť se stále objevovaly nové hrozby, ať už v podobě ztracených a utopených dobrodruhů, nebo ze smrtících bažin rozrůstající se divočiny.{^n}{^n}Nejhorší ovšem zůstává, že v bažinách jsou tajemství, kterým se i samotní obyvatelé Lóže vyhýbají, aby neopakovali chyby z minulosti a Lumináři tak nemohli vysledovat jejich stopy.
 tagFactionUser9Rewards1=-
 tagFactionUser9Rewards2=-
 tagFactionUser9Rewards3=-
@@ -20,7 +20,7 @@ tagFactionUser9Rewards6=Nový úkol {^n}Přístup k frakční vývěsce {^n}Frak
 tagFactionUser9Rewards7=Nový úkol {^n}Frakční vylepšení {^n}Frakční doplňky {^n}Frakční dokumenty {^n}Frakční plánky
 tagFactionUser9Rewards8=Vzácná vylepšení {^n}Frakční udělení {^n}Elitní frakční výstroj {^n}Legendární frakční plánky
 tagFactionUser10=Barrowholm
-tagFactionUser10Info=Stanoviště: Ugdenské močály{^n}{^n} Barrowholm, opravdový klenot v bažinách, je silným kontrastem mezi nebezpečími okolních močálů a téměř nepoškozenými stavbami a poklidnou existencí. Jeho obyvatelé jsou především ochránci svých domovů a každého nového návštěvníka vítají s velkou opatrností při teplé večeři na stole.{^n}{^n}Konec konců, ve světě zničeném Aetheriany a Chthonskými přisluhovači musí být něco tak dokonalého chráněno za každou cenu.
+tagFactionUser10Info=Stanoviště: Ugdenbog{^n}{^n} Barrowholm, opravdový klenot v bažinách, je silným kontrastem mezi nebezpečími okolních močálů a téměř nepoškozenými stavbami a poklidnou existencí. Jeho obyvatelé jsou především ochránci svých domovů a každého nového návštěvníka vítají s velkou opatrností při teplé večeři na stole.{^n}{^n}Konec konců, ve světě zničeném Aetheriany a Chthonskými přisluhovači musí být něco tak dokonalého chráněno za každou cenu.
 tagFactionUser10Rewards1=Tábořiště mstitele
 tagFactionUser10Rewards2=Přídavná tábořiště hrdinů
 tagFactionUser10Rewards3=Dodatečná tábořiště
@@ -51,7 +51,7 @@ tagFactionUser12Rewards7=-
 tagFactionUser12Rewards8=-
 
 #Quest
-tagCodexJournalSubHeadingUgdenbog=Přeživší - Ugdenské močály
+tagCodexJournalSubHeadingUgdenbog=Přeživší - Ugdenbog
 tagCodexJournalSubHeadingBarrowholm=Přeživší - Barrowholm
 tagCodexJournalSubHeadingMalmouth=Přeživší - Malmouth
 
