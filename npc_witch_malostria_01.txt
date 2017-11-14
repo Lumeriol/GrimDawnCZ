@@ -3,7 +3,7 @@ Vítej zpátky.{^n}{^n}Doufám, že vlákna osudu jsou k tobě milá.
 Mám nějaké otázky.
 Co bys [[ms]rád[fs]ráda] věděla?
 Jak jsi se stala Matronkou?
-Dobrá otázka. Nejsem tady nejstarší, a určitě ne nejchytřejší. {^n}{^n}Matronka Agallia byla mou předchůdkyní, chytrá čarodějka, která tady byla téměř stejně dlouho jako Rugia. Dohlížela na náš přechod z těch, jež chtěli mít spolek plný nejmocnějších čarodějek, do bezpečného útočiště pro všechny, jako jsme my. Agallia byla také architektkou rituálů, které nyní chrání toto místo. Všichni tady jí za její moudrost dlužíme životem.{^n}{^n}Byla jsem její žačkou a také tou, přes kterou komunikovala s těmi mimo útočiště. Moje schopnost se dostat až za Aether a předat zprávu našim budoucím sestrám se ukázala jako nástroj, díky kterému se naše řady rozrůstají. Často se na mě nově příchozí dívali jako na spasitelku, a ikdyž to nebyla úplně pravda, poskytlo jim to trochu pohodlí.{^n}{^n}Když byla Agallia na smrtelné posteli, zvolila si mě za svoji následovnici. Nebyly žádné námitky.
+Dobrá otázka. Nejsem tady nejstarší, a určitě ne nejchytřejší. {^n}{^n}Matronka Agallia byla mou předchůdkyní, chytrá čarodějka, která tady byla téměř stejně dlouho jako Rugia. Dohlížela na náš přechod z těch, jež chtěli mít spolek plný nejmocnějších čarodějek, do bezpečného útočiště pro všechny, jako jsme my. Agallia byla také architektkou rituálů, které nyní chrání toto místo. Všichni tady jí za její moudrost dlužíme životem.{^n}{^n}Byla jsem její žačkou a také tou, přes kterou komunikovala s těmi mimo útočiště. Moje schopnost se dostat až za Aether a předat zprávu našim budoucím sestrám se ukázala jako nástroj, díky kterému se naše řady rozrůstají. Často se na mě nově příchozí dívali jako na spasitelku, a i když to nebyla úplně pravda, poskytlo jim to trochu pohodlí.{^n}{^n}Když byla Agallia na smrtelné posteli, zvolila si mě za svoji následovnici. Nebyly žádné námitky.
 Mám ještě další otázku.
 Zajímavé.
 Co dalšího bude Sněm dělat?
@@ -52,7 +52,7 @@ Vše je už na místě a můžeme uskutečnit rituál, který reaktivuje naše t
 Ochráním tě.
 Najdi si na ochranku někoho jinýho.
 Musím se nejdřív postarat o jiné záležitosti.
-Finální úpravy pro rituál jsou dokončovány právě teď. Ale ikdyž jsi tady [[ms]udělal[fs]udělala] opravdu hodně, nejsem si jistá, že ti můžu svěřit dohlížení posledních částí rituálu. {^n}{^n}Toto je záležitost pouze pro nejdůvěryhodnější [[ms]členy[fs]členky]{^n}{^n}Neber to osobně.
+Poslední úpravy pro rituál jsou právě dokončovány. Ale i když jsi tady [[ms]udělal[fs]udělala] opravdu hodně, nejsem si jistá, že ti můžu svěřit dohlížení posledních částí rituálu. {^n}{^n}Toto je záležitost pouze pro nejdůvěryhodnější [[ms]členy[fs]členky]{^n}{^n}Neber to osobně.
 Dobrá.
 [[ms]Vyčistil[fs]Vyčistila] jsi kruhy moci?
 Je hotovo.
@@ -62,7 +62,7 @@ Jak můžu pomoct?
 Musím se nejdřív postarat o jiné záležitosti.
 Dobrá, už cítím, jak se síla shromažďuje uvnitř obřadního kruhu.{^n}{^n}Brzy znovu provedeme rituál na tomto místě.
 Jak můžu pomoct?
-Ikdyž jsi tady [[ms]udělal[fs]udělala] opravdu hodně, nejsem si jistá, že ti můžu svěřit dohlížení posledních částí rituálu. {^n}{^n}Toto je záležitost pouze pro nejdůvěryhodnější [[ms]členy[fs]členky]{^n}{^n}Neber to osobně.
+I když jsi tady [[ms]udělal[fs]udělala] opravdu hodně, nejsem si jistá, že ti můžu svěřit dohled na poslední části rituálu. {^n}{^n}Toto je záležitost pouze pro nejdůvěryhodnější [[ms]členy[fs]členky]{^n}{^n}Neber to osobně.
 Tak dobrá.
 Tak zatím.
 [[ms]Vyčistil[fs]Vyčistila] jsi kruhy moci?
