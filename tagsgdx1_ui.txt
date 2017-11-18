@@ -80,34 +80,6 @@ tagMapSymbolTransmuteNpcDesc=Iluzionistické iluze.
 #Skills
 tagItemSkillModified= {^E}na {^Z}{%s0}
 
-#Skill Wheel
-tagSkillConfig01=1. nastavení
-tagSkillConfig02=2. nastavení
-
-#Gamepad HUD
-tagGamePadSelect=Vybrat
-tagGamePadBack=Zpět
-tagGamePadEquip=Nasadit předmět
-tagGamePadDrop=Zahodit předmět
-tagGamePadUseItem=Použít předmět
-tagGamePadSellItem=Prodat předmět
-tagGamePadMoveItem=Přesunout předmět
-tagGamePadScroll=Posun
-tagGamePadAssignSkills=Přiřadit dovednost
-tagGamePadSwapConfig=Změna nastavení
-tagGamePadMove=Posun
-tagGamePadZoomIn=Přiblížit
-tagGamePadZoomOut=Oddálit
-tagGamePadExit=Odejít
-tagGamePadRevert=Zrušit
-tagGamePadSplitStack=Rozdělit
-
-tagGamePadCharacter=Postava
-tagGamePadSkills=Dovednosti
-tagGamePadMap=Mapa
-tagGamePadFactions=Frakce
-tagGamePadAchieve=Úspěchy
-
 #Char Stats Tab 2
 tagCharStatsInquisitorSkillsBonus=Dovednosti Inkvizitora
 tagCharStatsInquisitorSkillsBonusInfo=Bonus ke všem naučeným dovednostem v povolání Inkvizitora.

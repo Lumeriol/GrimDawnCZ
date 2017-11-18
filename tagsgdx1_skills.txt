@@ -40,7 +40,7 @@ tagGDX1Class07SkillDescription01C=Jediným vyslovením trhají elementální ene
 tagGDX1Class07SkillName02A=Elgolothova Krabička s bouří
 tagGDX1Class07SkillDescription02A=Otevři kameny osazenou Krabičku s bouří - bouře obklopí tvého nepřítele a elektrifikuje vzduch kolem, čímž elektřinou zasahuje cíl a všechny nešťastníky, kteří stojí příliš blízko.
 tagGDX1Class07SkillName02B=Opratě z blesků
-tagGDX1Class07SkillDescription02B=Cíl je k tobě přichycen pomocí blesků, které zasáhnou všechny nepřátele, které přes ně projdou. Síla uvnitř propojení je ale omezena a přeruší se, pokud je vzdálenost mezi tebou a cílem přiliš velká.^oAž tři nepřátelé mohou být zachyceni ve stejnou dobu.
+tagGDX1Class07SkillDescription02B=Cíl je k tobě přichycen pomocí blesků, které rychle zasáhnou původní cíl a všechny nepřátele, které přes ně projdou. Síla uvnitř propojení je ale omezena a přeruší se, pokud je vzdálenost mezi tebou a cílem přiliš velká.^oAž tři nepřátelé mohou být zachyceni ve stejnou dobu.
 tagGDX1Class07SkillName02C=Allagastova Síť z podivna
 tagGDX1Class07SkillDescription02C=I když je známo, že Lumináři vyšetřovali aktivity spolku Gildam Arcanum, je také známo, že za spolupráci techto dvou řádů byly uděleny jisté sankce. S dobře propočítanými úpravami Krabičky s bouří je oblast obohacena o podivnou energii, v níž jiskří Aether. ^oOprať zůstává zelektrizovaná.
 
@@ -484,14 +484,14 @@ tagGDX1ItemSkillD174Desc=Označ svého nepřítele runovou pastí, která znič�
 tagGDX1ItemSkillD175Name=Dar Temného
 tagGDX1ItemSkillD175Desc=Roucho potřené krví mrtvého boha nabídne nositeli dar v době, kdy je to nejvíce potřeba.
 
-tagGDX1ItemSkillD176Name=Galgaborova zkaženost
-tagGDX1ItemSkillD176Desc=Zkažené jádro Galgabora jjednou ožehne tvé nepřátele a pak se vrátí obnovit utrpení.
+tagGDX1ItemSkillD176Name=Gargabolova zkaženost
+tagGDX1ItemSkillD176Desc=Zkažené jádro Gargabola jjednou ožehne tvé nepřátele a pak se vrátí obnovit utrpení.
 
 tagGDX1ItemSkillD177Name=Aetherický požár
 tagGDX1ItemSkillD177Desc=Oheň z čiré arkanické energie se objevuje pod nohama tvých nepřátel.
 
-tagGDX1ItemSkillD178Name=
-tagGDX1ItemSkillD178Desc=
+tagGDX1ItemSkillD178Name=Void Rounds
+tagGDX1ItemSkillD178Desc=A barrage infused with void energies passes through your foes and unmakes them from within. ^oThis is a ranged technique that activates off of default weapon attacks. Also enables the ability to dual wield ranged weapons.
 
 tagGDX1ItemSkillD179Name=
 tagGDX1ItemSkillD179Desc=
@@ -517,7 +517,7 @@ tagGDX1CompSkillA105Name=Aetherické poškození
 tagGDX1CompSkillA105Desc=Devastující Aetherická energie se drásá skrze tvé nepřátele a velmi rychle se šíří.
 
 tagGDX1CompSkillA106Name=Spalující Prázdnota
-tagGDX1CompSkillA106Desc=Udeř na nepřátele v blízkosti útokem obohaceným o sílu Prázdnoty. Pokud je tato schopnost použita v kombinaci se střelnou zbraní, projektil v době kontaktu s nepřítelem exploduje.
+tagGDX1CompSkillA106Desc=By enveloping your weapon within the destructive forces of the Void, you can unleash its power upon unsuspecting foes with a calculated blow. When used with a ranged weapon, the projectile will explode upon contact. ^oCan activate with all default weapon attacks.
 
 tagGDX1CompSkillA107Name=Letové trny
 tagGDX1CompSkillA107Desc=Vrhni vyčarované ostny čistého ledu a probodni své nepřátele.
@@ -580,7 +580,7 @@ tagGDX1RelicSkillD104Name=Elementální prokletí
 tagGDX1RelicSkillD104Desc=Vypusť bodec čistých živelných energií a odraž tak postupující nepřátele.
 
 tagGDX1RelicSkillD105Name=Moc odsouzení
-tagGDX1RelicSkillD105Desc=Vypusť fyzickou tlakovou vlnu tak silnou, že povalí a vtahne nepřátele v blízkosti.
+tagGDX1RelicSkillD105Desc=Unleash a physical shockwave so powerful that it shatters the defenses of your foes.
 
 tagGDX1RelicSkillD106Name=Spalující náboj
 tagGDX1RelicSkillD106Desc=Vtrhni do boje ve jménu Empyriona a spal své nepřátele svatým ohněm. ^oVyžaduje chladou zbraň. Pokud je použit i štít, poškození štítem je přičteno ke zranění.
@@ -594,8 +594,8 @@ tagGDX1RelicSkillD108Desc=Favorizovaná technika Noční lovkyně Nidally. Vrhni
 tagGDX1RelicSkillD109Name=Časová smyčka
 tagGDX1RelicSkillD109Desc=Tvé činy se mihotají v čase. ^oVyžaduje příruční magický předmět.
 
-tagGDX1RelicSkillD110Name=Krvavá koule
-tagGDX1RelicSkillD110Desc=Vrhni kouli odporné krve na své nepřátele.
+tagGDX1RelicSkillD110Name=Blood Spine
+tagGDX1RelicSkillD110Desc=Unleash a blood-coated spine of bone at your foes.
 
 tagGDX1RelicSkillD111Name=Trhající oblouk
 tagGDX1RelicSkillD111Desc=Švihni svou zbraní do oblouku, prosekej se nepřáteli a roztrhej jim duše. ^oVyžaduje chladou zbraň.

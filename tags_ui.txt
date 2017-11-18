@@ -1636,9 +1636,39 @@ ProjectileFragmentsLaunchNumber={%d0} {^E}střepin
 ProjectilePiercingChance={%.1f0}% {^E}šance na projití skrz nepřítele
 ProjectilePiercingChanceMod=+{%.1f0}% {^E}šance na projití skrz nepřítele
 
-
 tagTooltipPetsHeader=Spojenci
 tagTooltipSkillsHeader=Přidělené dovednosti
+
+#Skill Wheel
+tagSkillConfig01=1. nastavení
+tagSkillConfig02=2. nastavení
+
+#Gamepad HUD
+tagGamePadSelect=Vybrat
+tagGamePadBack=Zpět
+tagGamePadEquip=Nasadit předmět
+tagGamePadDrop=Zahodit předmět
+tagGamePadUseItem=Použít předmět
+tagGamePadSellItem=Prodat předmět
+tagGamePadMoveItem=Přesunout předmět
+tagGamePadScroll=Posun
+tagGamePadAssignSkills=Přiřadit dovednost
+tagGamePadSwapConfig=Změna nastavení
+tagGamePadMove=Posun
+tagGamePadZoomIn=Přiblížit
+tagGamePadZoomOut=Oddálit
+tagGamePadExit=Odejít
+tagGamePadRevert=Zrušit
+tagGamePadSplitStack=Frakce
+tagGamePadNone=nic
+
+tagGamePadCharacter=Postava
+tagGamePadSkills=Dovednosti
+tagGamePadMap=Mapa
+tagGamePadFactions=Frakce
+tagGamePadAchieve=Úspěchy
+
+tagControllerUIWarning=Současné nastavení monitoru neumožňuje použít rozhraní ovladače.
 
 tagShieldBlockInfo={%.0f0}% šance na vykrytí {^W}{%.0f1} zranění
 
@@ -1724,8 +1754,8 @@ tagSecond={^E}sekund
 tagSeconds={^E}sekundy
 DamagePerSecond={%.0f0} {^S}zranění za sekundu (pokud máš na sobě)
 DamagePerSecondOffHand={%.0f0} {^S}zranění za sekundu (příruční předmět)
-DamagePhysicalChance= {^E}fyzického zranění
-DamageBasePhysical= {^S}fyzického zranění
+DamagePhysicalChance={%t0} {^E}fyzického zranění
+DamageBasePhysical={%t0} {^S}fyzického zranění
 DamageBasePierceRatio={%.0f0}% {^S}proražení zbroje
 DamageBasePierceRatioR={%.0f0}-{%.0f1}% {^S}proražení zbroje
 DamageBonusPhysical={%t0} {^E}fyzického zranění

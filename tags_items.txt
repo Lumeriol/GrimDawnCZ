@@ -760,7 +760,7 @@ tagFocusF007=Ruiny Smrti
 tagFocusF008=Sevření Smrti
 tagFocusF009=Pokrok Smrti
 tagFocusF010=Tulákův kouzlem psaný Kodex
-tagFocusF011=Pohled Smrti
+tagFocusF011=Hledí Smrti
 
 #WEAPON_QUALITY
 
@@ -950,7 +950,7 @@ tagHeadC002=Zběsilcova kápě
 tagHeadC003=Podsvětní koruna
 tagHeadC003Desc="Kdysi nošena prvním a jediným králem temnot z Cairnu, králem Samuelem Drakem, před tím, než byl zbaven titulu a církví popraven za kacířství."
 tagHeadC004=Velitelská koruna
-tagHeadC005=Templářův kryt hlavy
+tagHeadC005=Templářův chránič hlavy
 tagheadC005Desc="Prvotní helma Strážců Menhiru."
 tagHeadC006=Gardistova helma
 tagHeadC007=Cestovatelova pokrývka hlavy
@@ -2019,7 +2019,7 @@ tagBlueprint_WeaponF008=Plánek: Mocný šipkomet
 tagBlueprint_WeaponF009=Plánek: Legionářský plátkovač
 tagBlueprint_WeaponF010=Plánek: Mocný erb Černé legie
 tagBlueprint_WeaponF011=Plánek: Šestiranná pistole Smrti
-tagBlueprint_WeaponF012=Plánek: Pohled Smrti
+tagBlueprint_WeaponF012=Plánek: Hledí Smrti
 tagBlueprint_WeaponF013=Plánek: Mocný dotek žence
 tagBlueprint_WeaponF014=Plánek: Purpurová stráž Vyvoleného
 tagBlueprint_WeaponF015=Plánek: Drtič Vyvoleného
@@ -2288,7 +2288,7 @@ tagCraftComponentRareDesc=Mimořádná kovářská technika se nejspíš na věk
 tagCraftShardBeronathDesc=Přemění ocel v úlomek svatého Beronatha.
 tagCraftRelicDesc=Starodávná kovářská technika ztracená dávno před Ponurým úsvitem.
 tagCraftTransmuteDesc=Pomocí žáru výhně a trochy alchymie mohou být vzácné materiály přeměněny na jiné, stejně vzácné výtvory.
-tagCraftRandomLegendaryDesc=Kovář dává dohromady surovou alchymistickou sílu s těmito předměty, aby vytvořil předmět s legendárními vlastnostmi až do úrovně 75. Ovšem ti, jež nemají úroveň 50, získají pouze epický předmět.
+tagCraftRandomLegendaryDesc=Kovář dává dohromady surovou alchymistickou sílu s těmito předměty, aby vytvořil předmět s legendárními vlastnostmi až do úrovně 75. Ovšem ti, jež nemají úroveň 58, mohou získat pouze epický předmět.
 tagCraftRandomLegendaryAccessoryDesc=Kovář dává dohromady surovou alchymistickou sílu s těmito předměty, aby vytvořil předmět s legendárními vlastnostmi až do úrovně 75. Ovšem ti, jež nemají úroveň 50, získají pouze epický předmět.
 
 tagCraftRandomAxe=Očarovaná sekyra
@@ -4267,6 +4267,7 @@ tagLocked_BlackLegion= {^R} ~ zapečetěno Černou legií
 tagLocked_Cult= {^R} ~ zapečetěno kultem Ch'thona
 tagUGDoorDermapteranQueen=Vstup do vosího hnízda
 tagUGDoorDermapteranQueenLocked= {^R} ~ střeženo Velkými vezíry
+tagUGDoorDermapteranQueenShortcut=Zkratka ke vstupu do úlu
 tagDoorRampart=Zabarikádované dveře
 tagDoorWarden=Železné dveře
 tagDoorFarmland=Dřevěná brána

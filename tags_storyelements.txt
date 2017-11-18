@@ -1333,6 +1333,9 @@ tagStoreTitle_MerchantC02=Proklaté předměty
 tagNPC_MerchantC03=Agarrad
 tagStoreTitle_MerchantC03=Zmučená duše
 
+tagNPC_MerchantC04=Fascia
+tagStoreTitle_MerchantC04=Běžně vypadající předměty
+
 tagNPC_MerchantT01=Kárník
 tagStoreTitle_MerchantT01=Obchodník se šrotem
 

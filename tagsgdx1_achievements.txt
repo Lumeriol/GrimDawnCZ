@@ -97,11 +97,11 @@ achGDX1030Desc=Dokonči rozšíření Prach a popel Malmouthu na elitní obtíž
 achGDX1031Title=Savior of Malmouth
 achGDX1031Desc=Dokonči rozšíření Prach a popel Malmouthu na ultimátní obtížnosti.
 
-achGDX1032Title=Nepřekonatelný zabiják
-achGDX1032Desc=Zlikviduj 2.000 hrdinů (jsou označeni hvězdou).
+achGDX1032Title=Hromadná likvidace
+achGDX1032Desc=Zbav Cairn 750.000 příšer.
 
-achGDX1033Title=Hromadná likvidace
-achGDX1033Desc=Zbav Cairn 750.000 příšer.
+achGDX1033Title=Nepřekonatelný zabiják
+achGDX1033Desc=Zlikviduj 2.000 hrdinů (jsou označeni hvězdou).
 
 achGDX1034Title=Šílený vykradač
 achGDX1034Desc=Vyrabuj Ivondinu tajnou skrýš.

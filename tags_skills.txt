@@ -129,7 +129,7 @@ tagClass01SkillName06B=Zolhanova technika
 tagClass01SkillDescription06B=Po známém bojovém mistrovi pojmenovaný útok využívá nízké těžiště a silný úder, aby rozhodil tvé protivníky. ^oTato schopnost může být aktivována výchozím útokem jakékoliv zbraně. Pokud je použita chladná zbraň, útok zasáhne více cílů v blízkosti.
 
 tagClass01SkillName07A=Bojový duch
-tagClass01SkillDescription07A=Místo toho, aby tě nepřátelské zásahy donutily k rezignaci, tak umocňují tvůj hněv, což dodává tvým útokům dodatečnou sílu.
+tagClass01SkillDescription07A=Místo toho, aby tě nepřátelské zásahy donutily k rezignaci, tak umocňují tvůj hněv, což dodává tvým útokům dodatečnou sílu. ^oAktivuje se, když dostaneš zásah.
 tagClass01SkillName08A=Menhirova vůle
 tagClass01SkillDescription08A=Když se blíží tvá smrt, nepoddajná Menhirova vůle tě naplní a obnoví tvé síly. ^oVyžaduje štít nebo obouruční chladnou zbraň.
 
@@ -1606,7 +1606,7 @@ tagItemSkillD087Name=Hojnost duší
 tagItemSkillD087Desc=Budeš hodovat na duších blízkých nepřátel a posílíš tak svou vlastní.
 
 tagItemSkillD088Name=Maso z nestvůry
-tagItemSkillD088Desc=Maso z nestvůry ochrání tebe a tvé nohsledy před újmou.
+tagItemSkillD088Desc=Maso z nestvůry tě ochrání před újmou.
 
 tagItemSkillD089Name=Pán nestvůr
 tagItemSkillD089Desc=Uzákoníš svou vůli nad všemi svými nohsledy a těmi, jež jsou tvými přáteli. ^oAby tato schopnost účinkovala, musí být aktivní.
@@ -1663,10 +1663,10 @@ tagItemSkillD106Name=Poslovo znamení
 tagItemSkillD106Desc=Označíš svého nepřítele znamením Posla, křivolakým kouzlem, které se bude šířit mezi blízkými nepřáteli.
 
 tagItemSkillD107Name=Poslova muška
-tagItemSkillD107Desc=Posel byl expertem v boji na delší vzdálenost, preferoval používání pušky k odstranění svých vzdálených nepřátel. ^oToto je pasivní bonus k obouruční střelné zbrani.
+tagItemSkillD107Desc=Posel byl expertem v boji na delší vzdálenost, preferoval používání kuše k odstranění svých vzdálených nepřátel. ^oToto je pasivní bonus k obouruční střelné zbrani.
 
 tagItemSkillD108Name=Poslův úchop
-tagItemSkillD108Desc=Posel získal svoji reputaci kombinací smrtící síly jeho zbraní a okultní magie. ^oToto je pasivní bonus k obouruční střelné zbrani.
+tagItemSkillD108Desc=Posel získal svoji reputaci kombinací smrtící síly jeho střelných zbraní a okultní magie. ^oToto je pasivní bonus k obouruční střelné zbrani.
 
 tagItemSkillD109Name=Spoušť
 tagItemSkillD109Desc=Způsobíš paseku v řadách svých nepřátel tím, že je zasypeš obrovským množstvím kulek.
@@ -1684,7 +1684,7 @@ tagItemSkillD113Name=Hladový roj
 tagItemSkillD113Desc=Vypustíš roj hladového hmyzu a roztrháš tak své nepřátele.
 
 tagItemSkillD114Name=Ledová nova
-tagItemSkillD114Desc=Uvolníš dávku mrazivé energie, která zcela zmrazí tvé nepřátele.
+tagItemSkillD114Desc=Uvolníš dávku mrazivé energie proti nedalekým, nepřátelům.
 
 tagItemSkillD115Name=Ledová chladnokrevnost
 tagItemSkillD115Desc=Díky velké koncentraci vysaješ všechno teplo ze vzduchu kolem sebe, což zchladí a zmrazí tvé nepřátele.

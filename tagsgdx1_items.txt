@@ -210,7 +210,7 @@ tagGDX1WeaponCaster1hF102=Tahač vnitřností Ježibaby
 tagGDX1WeaponCaster1hF103=Snovač kouzel Ježibaby
 tagGDX1WeaponCaster1hF104=Malmouthský vrhač plamene
 tagGDX1WeaponCaster1hF105=Malmouthský vrhač bouří
-tagGDX1WeaponCaster1hF106=Malmouthská vrhač mrazu
+tagGDX1WeaponCaster1hF106=Malmouthský vrhač mrazu
 tagGDX1WeaponCaster1hF107=Wendigův chlemtač krve
 tagGDX1WeaponCaster1hF108=Wendiův spřadač chaosu
 tagGDX1WeaponCaster1hF109=Wendigův spřadač Aetheru
@@ -238,7 +238,7 @@ tagGDX1ShieldD102_Desc="Říká se, že jeho kamenná tvář otevře své oči a
 tagGDX1ShieldD103=Turrionova odveta
 tagGDX1ShieldD107=Šedý rytíř
 tagGDX1ShieldD107_Desc="Menhirský štít obránce bez tváře, který se sám utkal proti skupině kacířů a vyšel z této potyčky jako vítěz."
-tagGDX1ShieldD108=Octavianova hradba
+tagGDX1ShieldD108=Octaviova hradba
 tagGDX1ShieldD109=Chrabrý obránce
 tagGDX1ShieldD110=Hradba metající kouzla
 tagGDX1ShieldD110_Desc="Štít vyzařuje svou zničující sílu."
@@ -283,32 +283,32 @@ tagGDX1FocusC114=Sféra mnoha čepelí
 tagGDX1FocusC114_Desc="Skutečným uměním je udržet kouli, aniž by se člověk zranil."
 tagGDX1FocusC115=Bible Hrůzného chodce
 
-tagGDX1FocusD101=Reaper of the Accursed
-tagGDX1FocusD101_Desc="The scythe subtly vibrates when lingering spirits are near."
-tagGDX1FocusD102=Contagion
-tagGDX1FocusD103=Fiendgaze bible
+tagGDX1FocusD101=Srp zatracení
+tagGDX1FocusD101_Desc="Předmět ve tvaru kosy jemně zavibruje pokaždé, kdy se přiblíží dychtiví duchové."
+tagGDX1FocusD102=Nákaza
+tagGDX1FocusD103=Bible ďábelských očí
 tagGDX1FocusD104=Kodex pravdy
-tagGDX1FocusD104_Desc="Sacred truths of Empyrion, catalogued by Agathia Haggar, the first Archon."
-tagGDX1FocusD105=Ixillor's Rageflame
-tagGDX1FocusD105_Desc="The arcane flame is fickle and difficult to control. A single lapse in concentration and the flame could pass on to a new master."
-tagGDX1FocusD111=Farath's Cube
-tagGDX1FocusD111_Desc="Farath's puzzle cube has only been solved once before, but the bearer was said to have gone blind upon witnessing the arcane splendors contained within."
-tagGDX1FocusD112=Hellscourge
-tagGDX1FocusD113=Cataclysm's Eye
+tagGDX1FocusD104_Desc="Empyrionovy posvátné výroky katalogizované Agathiou Agathia Haggar, první Archónkou."
+tagGDX1FocusD105=Ixillořin plamen vášně
+tagGDX1FocusD105_Desc="Nestálý a obtížně ovladatelný chemický plamen. Stačí jediná chyba a plamen se může přenést na nového mistra."
+tagGDX1FocusD111=Farathova kostka
+tagGDX1FocusD111_Desc="Farathova logická kostka byla vyřešena pouze jednou, ale řešitel poté, co uvnitř spatřil ohromnou krásu, zcela oslepl."
+tagGDX1FocusD112=Bič pekelný
+tagGDX1FocusD113=Oko kataklyzmatu
 tagGDX1FocusD114=Valguurova čočka
 tagGDX1FocusD115=Uroboruukova figurka
 tagGDX1FocusD116=Knězův kodex
 
-tagGDX1FocusF101=Coven Vile figurka
-tagGDX1FocusF102=Coven Arcane figurka
-tagGDX1FocusF103=Coven Venom figurka
-tagGDX1FocusF104=Malmouth Void bible
-tagGDX1FocusF105=Malmouth Corrupted bible
-tagGDX1FocusF106=Malmouth Infernal bible
-tagGDX1FocusF107=Wendigo Life figurka
-tagGDX1FocusF108=Wendigo Chilling figurka
-tagGDX1FocusF109=Wendigo Caustic figurka
-tagGDX1FocusF110=Stormbringer of Malmouth
+tagGDX1FocusF101=Odporná figurka ježibaby
+tagGDX1FocusF102=Tajemná figurka ježibaby figurka
+tagGDX1FocusF103=Otrávená figurka ježibaby
+tagGDX1FocusF104=Malmouthská bible Prázdnoty
+tagGDX1FocusF105=Malmouthská bible zkaženosti
+tagGDX1FocusF106=Malmouthská bible o pekle
+tagGDX1FocusF107=Wendigova figurka života
+tagGDX1FocusF108=Wendigova figurka mrazu
+tagGDX1FocusF109=Wendigova žíravá figurka
+tagGDX1FocusF110=Malmoutský vyvolavač bouří
 
 
 #ItemStyles
@@ -318,78 +318,78 @@ tagGDX1WeaponQuality001=[ms]vznešený[fs]vznešená[ns]vznešené[mp]vznešené
 tagGDX1WeaponQuality002=[ms]ochranný[fs]ochranná[ns]ochranné[mp]ochranné[fp]ochranné[np]ochranné
 
 #ArmorHead
-tagGDX1HeadB101=Ascendant Hood
-tagGDX1HeadB102=Ascendant Cowl
-tagGDX1HeadB103=Packla's Skins
-tagGDX1HeadB103_Desc="You have no idea how many victims this mask consists of."
-tagGDX1HeadB104=Packla's Visage
-tagGDX1HeadB104_Desc="The stench coming off this mask is unbearable."
+tagGDX1HeadB101=Stoupencova kapuce
+tagGDX1HeadB102=Stoupencova kápě
+tagGDX1HeadB103=Packlina kůže
+tagGDX1HeadB103_Desc="Vůbec nemáš představu, z kolika obětí se tato maska skládá."
+tagGDX1HeadB104=Packlin kryt
+tagGDX1HeadB104_Desc="Zápach z této masky je naprosto nesnesitelný."
 
 
-tagGDX1HeadC101=Wreath of Souls
+tagGDX1HeadC101=Věnec z duší
 tagGDX1HeadC101_Desc="The spirits trapped within the circlet sometimes whisper secrets to the bearer, though perhaps not always with the bearer's best interests in mind."
-tagGDX1HeadC102=Rotmender's Hat
-tagGDX1HeadC103=Purging Gaze
+tagGDX1HeadC102=Rotmender's kapalec
+tagGDX1HeadC103=Purging hledí
 tagGDX1HeadC103_Desc="The world is filled with heathens and heretics and so, by the grace of the Luminari, it shall be purged of this damnation."
-tagGDX1HeadC104=Bounty Hunter's Hat
+tagGDX1HeadC104=Bounty Hunter's kapalec
 tagGDX1HeadC105=Horns of Ekket'Zul
 tagGDX1HeadC105_Desc="The horns are still teeming with a palpable darkness."
-tagGDX1HeadC106=Soulless Gaze
-tagGDX1HeadC107=Tainted Gaze
-tagGDX1HeadC108=Ravager's Gaze
+tagGDX1HeadC106=Soulless hledí
+tagGDX1HeadC107=Tainted hledí
+tagGDX1HeadC108=Ravager's hledí
 tagGDX1HeadC108_Desc="Though vanquished from the physical realm, some part of the Ravager spirit remains within the twisted mask."
-tagGDX1HeadC109=Corruptor's Mask
-tagGDX1HeadC110=Silver Sentinel's Mask
-tagGDX1HeadC115=Stormherald's Visage
-tagGDX1HeadC122=Dreadwalker Cowl
-tagGDX1HeadC123=Luminari Hat
+tagGDX1HeadC109=Corruptor's maska
+tagGDX1HeadC110=Silver Sentinel's maska
+tagGDX1HeadC115=Stormherald's kryt
+tagGDX1HeadC122=Dreadwalker kápě
+tagGDX1HeadC123=Luminari kapalec
 tagGDX1HeadC124=Cauldron of Excitement
 tagGDX1HeadC124_Desc="Too much excitement, one could say."
 
-tagGDX1HeadD101=Necrolord's Gaze
-tagGDX1HeadD102=Venomancer's Guile
-tagGDX1HeadD103=Spellgaze
-tagGDX1HeadD104=Wyrmbone Mask
-tagGDX1HeadD109=Voice of Dreeg
-tagGDX1HeadD109_Desc="A blessing, and a curse, bestowed upon the bearer of Dreeg's word, the one voice through which the Witch God echoes his cryptic messages."
-tagGDX1HeadD110=Gaze of Empyrion
-tagGDX1HeadD110_Desc="The divine light of Empyrion shines down upon the bearer of this crown."
-tagGDX1HeadD111=Ravager's Dreadgaze
-tagGDX1HeadD111_Desc="Though vanquished from the physical realm, some part of the Ravager spirit remains within the twisted mask."
-tagGDX1HeadD112=Krieg's Mask
-tagGDX1HeadD113=Mask of Lost Souls
-tagGDX1HeadD114=Visor of Octavius
-tagGDX1HeadD115=Korba's Hood
-tagGDX1HeadD116=Darkblaze Headguard
-tagGDX1HeadD117=Spellscourge Visor
-tagGDX1HeadD118=Mageslayer's Hood
-tagGDX1HeadD119=Valguur's Gems
-tagGDX1HeadD120=Runebinder's Hat
-tagGDX1HeadD121=Uroboruuk's Visage
-tagGDX1HeadD122=Dagallon's Faceguard
-tagGDX1HeadD123=Deathguard Hood
-tagGDX1HeadD124=Diviner's Mask
-tagGDX1HeadD125=Dark One's Hood
-tagGDX1HeadD126=Belgothian's Mask
+tagGDX1HeadD101=Hledí Pána oživlých mrtvol
+tagGDX1HeadD102=Travičova záludnost
+tagGDX1HeadD103=Kouzelné hledí
+tagGDX1HeadD104=Maska zkostnatělého červa
+tagGDX1HeadD109=Dreegův hlas
+tagGDX1HeadD109_Desc="Požehnání a zároveň prokletí, jež bylo sneseno na ty, jež šířili záhadné poselství Dreegových slov vyslovených na jeden nádech samotným čarodějného boha."
+tagGDX1HeadD110=Empyrionovo hledí
+tagGDX1HeadD110_Desc="Pod nohy svého majitele svítí z této koruny božské světlo Empyrionovo."
+tagGDX1HeadD111=Pustošitelovo hledí děsu
+tagGDX1HeadD111_Desc="Ačkoliv byl z našeho světa Pustošitel navždy vyhoštěn, nějaká část jeho ducha přežívá v této masce plné krutosti."
+tagGDX1HeadD112=Kriegova maska
+tagGDX1HeadD113=Maska ztracených duší
+tagGDX1HeadD114=Octaviovo hledí
+tagGDX1HeadD115=Korbova kapuce
+tagGDX1HeadD116=Chránič hlavy temného požáru
+tagGDX1HeadD117=Hledí metače kouzel
+tagGDX1HeadD118=Kapuce zabijáka čarodějů
+tagGDX1HeadD119=Valguurův klenot
+tagGDX1HeadD120=Kapalec vazače run
+tagGDX1HeadD121=Uroboruukův kryt
+tagGDX1HeadD122=Dagallonův chránič obličeje
+tagGDX1HeadD123=Kapuce mrtvého strážce
+tagGDX1HeadD124=Prorokova maska
+tagGDX1HeadD125=Kapuce Pána tmy
+tagGDX1HeadD126=Belgothianova maska
 
-tagGDX1HeadF101=Coven Mindbender Hood
-tagGDX1HeadF102=Coven Tamer's Hood
-tagGDX1HeadF103=Coven Arcane Hood
-tagGDX1HeadF104=Coven Combatant Casque
-tagGDX1HeadF105=Coven Flameweaver Casque
-tagGDX1HeadF106=Coven Defender Casque
-tagGDX1HeadF107=Malmouth Enforcer Headguard
-tagGDX1HeadF108=Malmouth Destroyer Headguard
-tagGDX1HeadF109=Malmouth Chilling Headguard
-tagGDX1HeadF110=Malmouth Flamewarder Casque
-tagGDX1HeadF111=Malmouth Dread Casque
-tagGDX1HeadF112=Malmouth Defender Casque
-tagGDX1HeadF113=Wendigo Dread Mask
-tagGDX1HeadF114=Wendigo Vile Mask
-tagGDX1HeadF115=Wendigo Spellweaver Mask
-tagGDX1HeadF116=Wendigo Bladed Headguard
-tagGDX1HeadF117=Wendigo Vile Headguard
-tagGDX1HeadF118=Wendigo Tempered Headguard
+tagGDX1HeadF101=Coven Mindbender kapuce
+tagGDX1HeadF102=Coven Tamer's kapuce
+tagGDX1HeadF103=Coven Arcane kapuce
+tagGDX1HeadF104=Coven Combatant přilbice
+tagGDX1HeadF105=Coven Flameweaver přilbice
+tagGDX1HeadF106=Coven Defender přilbice
+tagGDX1HeadF107=Malmouth Enforcer chránič hlavy
+tagGDX1HeadF108=Malmouth Destroyer chránič hlavy
+tagGDX1HeadF109=Malmouth Chilling chránič hlavy
+tagGDX1HeadF110=Malmouth Flamewarder přilbice
+tagGDX1HeadF111=Malmouth Dread přilbice
+tagGDX1HeadF112=Malmouth Defender přilbice
+tagGDX1HeadF113=Wendigo Dread maska
+tagGDX1HeadF114=Wendigo Vile maska
+tagGDX1HeadF115=Wendigo Spellweaver maska
+tagGDX1HeadF116=Wendigo Bladed chránič hlavy
+tagGDX1HeadF117=Wendigo Vile chránič hlavy
+tagGDX1HeadF118=Wendigo Tempered chránič hlavy
 
 
 #ArmorShoulders
@@ -471,7 +471,7 @@ tagGDX1TorsoC111=Infector's Shade
 tagGDX1TorsoC114=Dreadwalker Raiment
 tagGDX1TorsoC115=Luminari Jacket
 
-tagGDX1TorsoD101=Venomancer's Raiment
+tagGDX1TorsoD101=Travičovo Raiment
 tagGDX1TorsoD102=Necrolord's Shroud
 tagGDX1TorsoD103=Rune Armor of Ignaffar
 tagGDX1TorsoD103_Desc="Though the original bearer of this armor perished in a devastating blaze invoked by a rogue arcanist, the armor miraculously emerged from the inferno unscathed."
@@ -602,7 +602,7 @@ tagGDX1WaistB107=Stoneplate Waistguard
 
 tagGDX1WaistC101=Spitewraith Girdle
 tagGDX1WaistC102=Soulweave Girdle
-tagGDX1WaistC102_Desc="Bound spirits were woven into the threads of this belt.
+tagGDX1WaistC102_Desc="Bound spirits were woven into the threads of this belt."
 tagGDX1WaistC103=Shadowfiend's Cord
 tagGDX1WaistC104=Star Seer's Cord
 tagGDX1WaistC105=Chains of the Hungering Void
@@ -771,7 +771,7 @@ tagGDX1MedalB104=Rylok Mark
 tagGDX1MedalB104_Desc="The Chthonian scale is teeming with the darkness of the void."
 tagGDX1MedalB105=Wendigo Eye
 tagGDX1MedalB105_Desc="The bloodshot eye still moves when blood is nearby."
-tagGDX1MedalB106=Wendigo Gaze
+tagGDX1MedalB106=Wendigo hledí
 tagGDX1MedalB106_Desc="The bloodshot eye bewilders any lesser creature that gazes upon it."
 tagGDX1MedalB107=Nimble Crest
 tagGDX1MedalB108=Watcher Crest
@@ -890,37 +890,37 @@ tagGDX1Blueprint_WeaponB108=Plánek: Rime-Rotten Wand
 tagGDX1Blueprint_WeaponB109=Plánek: Deathborne Scepter
 
 tagGDX1Blueprint_WeaponC101=Plánek: The Dissenter
-tagGDX1Blueprint_WeaponC102=Plánek: Empowered Aldur's Inquisition
+tagGDX1Blueprint_WeaponC102=Plánek: Vynikající Aldur's Inquisition
 tagGDX1Blueprint_WeaponC103=Plánek: Cosmic Torrent
 tagGDX1Blueprint_WeaponC104=Plánek: Rageflame Spellblade
-tagGDX1Blueprint_WeaponC105=Plánek: Mythical Burrwitch Peacekeeper
-tagGDX1Blueprint_WeaponC106=Plánek: Mythical Hellmaw Shotgun
-tagGDX1Blueprint_WeaponC107=Plánek: Mythical Doomsaw of Gluttony
-tagGDX1Blueprint_WeaponC108=Plánek: Mythical Blessed Torch
-tagGDX1Blueprint_WeaponC109=Plánek: Mythical Duelist's Sabre
-tagGDX1Blueprint_WeaponC110=Plánek: Mythical Wrathmourne
-tagGDX1Blueprint_WeaponC111=Plánek: Mythical Hellrune Carver
-tagGDX1Blueprint_WeaponC112=Plánek: Mythical Tainted Blade of Nera'Val
-tagGDX1Blueprint_WeaponC113=Plánek: Mythical Lichguard
-tagGDX1Blueprint_WeaponC114=Plánek: Mythical Banshee's Misery
+tagGDX1Blueprint_WeaponC105=Plánek: Vynikající Burrwitch Peacekeeper
+tagGDX1Blueprint_WeaponC106=Plánek: Vynikající Hellmaw Shotgun
+tagGDX1Blueprint_WeaponC107=Plánek: Vynikající Doomsaw of Gluttony
+tagGDX1Blueprint_WeaponC108=Plánek: Vynikající Blessed Torch
+tagGDX1Blueprint_WeaponC109=Plánek: Vynikající Duelist's Sabre
+tagGDX1Blueprint_WeaponC110=Plánek: Vynikající Wrathmourne
+tagGDX1Blueprint_WeaponC111=Plánek: Vynikající Hellrune Carver
+tagGDX1Blueprint_WeaponC112=Plánek: Vynikající Tainted Blade of Nera'Val
+tagGDX1Blueprint_WeaponC113=Plánek: Vynikající Lichguard
+tagGDX1Blueprint_WeaponC114=Plánek: Vynikající Banshee's Misery
 
 tagGDX1Blueprint_WeaponD101=Plánek: Cindercore
 tagGDX1Blueprint_WeaponD102=Plánek: Venomlance
-tagGDX1Blueprint_WeaponD103=Plánek: Mythical Edge of Death
-tagGDX1Blueprint_WeaponD104=Plánek: Mythical Chillflame Evoker
-tagGDX1Blueprint_WeaponD105=Plánek: Mythical Deathdealer's Sidearm
-tagGDX1Blueprint_WeaponD106=Plánek: Mythical Northern Wyrm
-tagGDX1Blueprint_WeaponD107=Plánek: Mythical Vortex of Souls
-tagGDX1Blueprint_WeaponD108=Plánek: Mythical Crescent Moon
-tagGDX1Blueprint_WeaponD109=Plánek: Mythical Plaguebearer of Dreeg
-tagGDX1Blueprint_WeaponD110=Plánek: Mythical Beronath, Reforged
-tagGDX1Blueprint_WeaponD111=Plánek: Mythical Stormreaver
-tagGDX1Blueprint_WeaponD112=Plánek: Mythical Temporal Arcblade
-tagGDX1Blueprint_WeaponD113=Plánek: Mythical Shard of Asterkarn
-tagGDX1Blueprint_WeaponD114=Plánek: Mythical Fang of Ch'thon
-tagGDX1Blueprint_WeaponD115=Plánek: Mythical Zolhan's Revenge
-tagGDX1Blueprint_WeaponD116=Plánek: Mythical Blood Orb of Ch'thon
-tagGDX1Blueprint_WeaponD117=Plánek: Mythical Wretched Tome of Nar'adin
+tagGDX1Blueprint_WeaponD103=Plánek: Vynikající Edge of Death
+tagGDX1Blueprint_WeaponD104=Plánek: Vynikající Chillflame Evoker
+tagGDX1Blueprint_WeaponD105=Plánek: Vynikající Deathdealer's Sidearm
+tagGDX1Blueprint_WeaponD106=Plánek: Vynikající severský červ
+tagGDX1Blueprint_WeaponD107=Plánek: Vynikající Vortex of Souls
+tagGDX1Blueprint_WeaponD108=Plánek: Vynikající Crescent Moon
+tagGDX1Blueprint_WeaponD109=Plánek: Vynikající Plaguebearer of Dreeg
+tagGDX1Blueprint_WeaponD110=Plánek: Vynikající Beronath, Reforged
+tagGDX1Blueprint_WeaponD111=Plánek: Vynikající Stormreaver
+tagGDX1Blueprint_WeaponD112=Plánek: Vynikající Temporal Arcblade
+tagGDX1Blueprint_WeaponD113=Plánek: Vynikající Shard of Asterkarn
+tagGDX1Blueprint_WeaponD114=Plánek: Vynikající Fang of Ch'thon
+tagGDX1Blueprint_WeaponD115=Plánek: Vynikající Zolhan's Revenge
+tagGDX1Blueprint_WeaponD116=Plánek: Vynikající Blood Orb of Ch'thon
+tagGDX1Blueprint_WeaponD117=Plánek: Vynikající Wretched Tome of Nar'adin
 
 tagGDX1Blueprint_WeaponF101=Plánek: Hex Launcher
 tagGDX1Blueprint_WeaponF102=Plánek: The Desolator
@@ -938,95 +938,96 @@ tagGDX1Blueprint_WeaponF110=Plánek: Stormbringer of Malmouth
 tagGDX1Blueprint_ArmorB101=Plánek: Intrepid Warboots
 tagGDX1Blueprint_ArmorB102=Plánek: Stoneplate Greaves
 
-tagGDX1Blueprint_ArmorC101=Plánek: Stormherald's Visage
-tagGDX1Blueprint_ArmorC102=Plánek: Mythical Bounty Hunter's Shoulderguard
-tagGDX1Blueprint_ArmorC103=Plánek: Dreadwalker Cowl
-tagGDX1Blueprint_ArmorC104=Plánek: Luminari Hat
-tagGDX1Blueprint_ArmorC105=Plánek: Mythical Magelord's Greaves
-tagGDX1Blueprint_ArmorC106=Plánek: Mythical Rifthound Leather Boots
-tagGDX1Blueprint_ArmorC107=Plánek: Mythical Soul's Touch
-tagGDX1Blueprint_ArmorC108=Plánek: Mythical Quickdraw Gloves
-tagGDX1Blueprint_ArmorC109=Plánek: Mythical Spellweave Legwraps
-tagGDX1Blueprint_ArmorC110=Plánek: Mythical Amarastan Pauldrons
-tagGDX1Blueprint_ArmorC111=Plánek: Mythical Nighthunter's Chestguard
-tagGDX1Blueprint_ArmorC112=Plánek: Mythical Doomforged Breastplate
-tagGDX1Blueprint_ArmorC113=Plánek: Mythical Cowl of the Blind Assassin
-tagGDX1Blueprint_ArmorC114=Plánek: Mythical Sharpshooter's Glass Eye
-tagGDX1Blueprint_ArmorC115=Plánek: Mythical Unholy Visage of the Covenant
-tagGDX1Blueprint_ArmorC116=Plánek: Mythical Dawnguard Helm
-tagGDX1Blueprint_ArmorC117=Plánek: Mythical Flame Keeper's Jacket
-tagGDX1Blueprint_ArmorC118=Plánek: Mythical Callidor's Vestments
-tagGDX1Blueprint_ArmorC119=Plánek: Mythical Myrmidon Visor
-tagGDX1Blueprint_ArmorC120=Plánek: Mythical Cowl of Mogdrogen
+tagGDX1Blueprint_ArmorC101=Plánek: Stormherald's kryt
+tagGDX1Blueprint_ArmorC102=Plánek: Vynikající Bounty Hunter's Shoulderguard
+tagGDX1Blueprint_ArmorC103=Plánek: Dreadwalker kápě
+tagGDX1Blueprint_ArmorC104=Plánek: Luminari kapalec
+tagGDX1Blueprint_ArmorC105=Plánek: Vynikající Magelord's Greaves
+tagGDX1Blueprint_ArmorC106=Plánek: Vynikající Rifthound Leather Boots
+tagGDX1Blueprint_ArmorC107=Plánek: Vynikající Soul's Touch
+tagGDX1Blueprint_ArmorC108=Plánek: Vynikající Quickdraw Gloves
+tagGDX1Blueprint_ArmorC109=Plánek: Vynikající Spellweave Legwraps
+tagGDX1Blueprint_ArmorC110=Plánek: Vynikající Amarastan Pauldrons
+tagGDX1Blueprint_ArmorC111=Plánek: Vynikající Nighthunter's Chestguard
+tagGDX1Blueprint_ArmorC112=Plánek: Vynikající Doomforged Breastplate
+tagGDX1Blueprint_ArmorC113=Plánek: Vynikající kápě of the Blind Assassin
+tagGDX1Blueprint_ArmorC114=Plánek: Vynikající Sharpshooter's Glass Eye
+tagGDX1Blueprint_ArmorC115=Plánek: Vynikající Unholy kryt of the Covenant
+tagGDX1Blueprint_ArmorC116=Plánek: Vynikající Dawnguard Helm
+tagGDX1Blueprint_ArmorC117=Plánek: Vynikající Flame Keeper's Jacket
+tagGDX1Blueprint_ArmorC118=Plánek: Vynikající Callidor's Vestments
+tagGDX1Blueprint_ArmorC119=Plánek: Vynikající Myrmidon Hledí
+tagGDX1Blueprint_ArmorC120=Plánek: Vynikající kápě of Mogdrogen
+tagGDX1Blueprint_ArmorC121=Plánek: Vynikající Cowl of the Paragon
 
-tagGDX1Blueprint_ArmorD101=Plánek: Necrolord's Gaze
-tagGDX1Blueprint_ArmorD102=Plánek: Venomancer's Guile
-tagGDX1Blueprint_ArmorD103=Plánek: Spellgaze
-tagGDX1Blueprint_ArmorD104=Plánek: Wyrmbone Mask
-tagGDX1Blueprint_ArmorD105=Plánek: Mythical Necrolord's Gaze
-tagGDX1Blueprint_ArmorD106=Plánek: Mythical Venomancer's Guile
-tagGDX1Blueprint_ArmorD107=Plánek: Mythical Spellgaze
-tagGDX1Blueprint_ArmorD108=Plánek: Mythical Wyrmbone Mask
-tagGDX1Blueprint_ArmorD109=Plánek: Voice of Dreeg
-tagGDX1Blueprint_ArmorD110=Plánek: Gaze of Empyrion
-tagGDX1Blueprint_ArmorD113=Plánek: Mask of Lost Souls
-tagGDX1Blueprint_ArmorD114=Plánek: Visor of Octavius
-tagGDX1Blueprint_ArmorD115=Plánek: Korba's Hood
-tagGDX1Blueprint_ArmorD116=Plánek: Darkblaze Headguard
-tagGDX1Blueprint_ArmorD117=Plánek: Spellscourge Visor
-tagGDX1Blueprint_ArmorD118=Plánek: Mageslayer's Hood
-tagGDX1Blueprint_ArmorD119=Plánek: Valguur's Gems
-tagGDX1Blueprint_ArmorD120=Plánek: Runebinder's Hat
-tagGDX1Blueprint_ArmorD121=Plánek: Uroboruuk's Visage
-tagGDX1Blueprint_ArmorD122=Plánek: Dagallon's Faceguard
-tagGDX1Blueprint_ArmorD123=Plánek: Deathguard Hood
-tagGDX1Blueprint_ArmorD124=Plánek: Diviner's Mask
+tagGDX1Blueprint_ArmorD101=Plánek: Hledí Pána oživlých mrtvol
+tagGDX1Blueprint_ArmorD102=Plánek: Travičova záludnost
+tagGDX1Blueprint_ArmorD103=Plánek: Kouzelné hledí
+tagGDX1Blueprint_ArmorD104=Plánek: Maska zkostnatělého červa
+tagGDX1Blueprint_ArmorD105=Plánek: Vynikající hledí Pána oživlých mrtvol
+tagGDX1Blueprint_ArmorD106=Plánek: Vynikající travičova záludnost
+tagGDX1Blueprint_ArmorD107=Plánek: Vynikající kouzelné hledí
+tagGDX1Blueprint_ArmorD108=Plánek: Vynikající maska zkostnatělého červa
+tagGDX1Blueprint_ArmorD109=Plánek: Dreegův hlas
+tagGDX1Blueprint_ArmorD110=Plánek: Empyrionovo hledí
+tagGDX1Blueprint_ArmorD113=Plánek: Maska ztracených duší
+tagGDX1Blueprint_ArmorD114=Plánek: Octaviovo hledí
+tagGDX1Blueprint_ArmorD115=Plánek: Korbova kapuce
+tagGDX1Blueprint_ArmorD116=Plánek: Chránič hlavy temného požáru
+tagGDX1Blueprint_ArmorD117=Plánek: Hledí metače kouzel
+tagGDX1Blueprint_ArmorD118=Plánek: Kapuce zabijáka čarodějů
+tagGDX1Blueprint_ArmorD119=Plánek: Valguurův klenot
+tagGDX1Blueprint_ArmorD120=Plánek: Kapalec vazače run
+tagGDX1Blueprint_ArmorD121=Plánek: Uroboruukův kryt
+tagGDX1Blueprint_ArmorD122=Plánek: Dagallonův chránič obličeje
+tagGDX1Blueprint_ArmorD123=Plánek: Kapuce mrtvého strážce
+tagGDX1Blueprint_ArmorD124=Plánek: Prorokova maska
 
-tagGDX1Blueprint_ArmorD125=Plánek: Mythical Maw of Despair
-tagGDX1Blueprint_ArmorD126=Plánek: Mythical Dread-Mask of Gurgoth
-tagGDX1Blueprint_ArmorD127=Plánek: Mythical Whisperer of Secrets
-tagGDX1Blueprint_ArmorD128=Plánek: Mythical Abyssal Mask
-tagGDX1Blueprint_ArmorD129=Plánek: Mythical Circlet of the Great Serpent
-tagGDX1Blueprint_ArmorD130=Plánek: Mythical Mask of Infernal Truth
-tagGDX1Blueprint_ArmorD131=Plánek: Mythical Faceguard of Justice
-tagGDX1Blueprint_ArmorD132=Plánek: Mythical Beastcaller Cowl
-tagGDX1Blueprint_ArmorD133=Plánek: Mythical Mask of the Harbinger
-tagGDX1Blueprint_ArmorD134=Plánek: Mythical Demonslayer's Hat
-tagGDX1Blueprint_ArmorD135=Plánek: Mythical Clairvoyant's Hat
-tagGDX1Blueprint_ArmorD136=Plánek: Mythical Markovian's Visor
-tagGDX1Blueprint_ArmorD137=Plánek: Mythical Ulzuin's Headguard
-tagGDX1Blueprint_ArmorD138=Plánek: Mythical Hood of Dreeg
-tagGDX1Blueprint_ArmorD139=Plánek: Mythical Deathmarked Hood
-tagGDX1Blueprint_ArmorD140=Plánek: Mythical Iskandra's Hood
-tagGDX1Blueprint_ArmorD141=Plánek: Mythical Ultos' Hood
-tagGDX1Blueprint_ArmorD142=Plánek: Mythical Crown of the Winter King
-tagGDX1Blueprint_ArmorD143=Plánek: Mythical Trozan's Hat
-tagGDX1Blueprint_ArmorD144=Plánek: Mythical Valdun's Hat
-tagGDX1Blueprint_ArmorD145=Plánek: Eldritch Gaze
+tagGDX1Blueprint_ArmorD125=Plánek: Vynikající Maw of Despair
+tagGDX1Blueprint_ArmorD126=Plánek: Vynikající Dread-maska of Gurgoth
+tagGDX1Blueprint_ArmorD127=Plánek: Vynikající Whisperer of Secrets
+tagGDX1Blueprint_ArmorD128=Plánek: Vynikající Abyssal maska
+tagGDX1Blueprint_ArmorD129=Plánek: Vynikající Circlet of the Great Serpent
+tagGDX1Blueprint_ArmorD130=Plánek: Vynikající maska of Infernal Truth
+tagGDX1Blueprint_ArmorD131=Plánek: Vynikající chránič obličeje of Justice
+tagGDX1Blueprint_ArmorD132=Plánek: Vynikající Beastcaller kápě
+tagGDX1Blueprint_ArmorD133=Plánek: Vynikající maska of the Harbinger
+tagGDX1Blueprint_ArmorD134=Plánek: Vynikající Demonslayer's kapalec
+tagGDX1Blueprint_ArmorD135=Plánek: Vynikající Clairvoyant's kapalec
+tagGDX1Blueprint_ArmorD136=Plánek: Vynikající Markovian's Hledí
+tagGDX1Blueprint_ArmorD137=Plánek: Vynikající Ulzuin's chránič hlavy
+tagGDX1Blueprint_ArmorD138=Plánek: Vynikající kapuce of Dreeg
+tagGDX1Blueprint_ArmorD139=Plánek: Vynikající Deathmarked kapuce
+tagGDX1Blueprint_ArmorD140=Plánek: Vynikající Iskandra's kapuce
+tagGDX1Blueprint_ArmorD141=Plánek: Vynikající Ultos' kapuce
+tagGDX1Blueprint_ArmorD142=Plánek: Vynikající Crown of the Winter King
+tagGDX1Blueprint_ArmorD143=Plánek: Vynikající Trozan's kapalec
+tagGDX1Blueprint_ArmorD144=Plánek: Vynikající Valdun's kapalec
+tagGDX1Blueprint_ArmorD145=Plánek: Eldritchovo hledí
 tagGDX1Blueprint_ArmorD146=Plánek: Covenant of the Three
-tagGDX1Blueprint_ArmorD147=Plánek: Mythical Cowl of the Venomblade
-tagGDX1Blueprint_ArmorD148=Plánek: Mythical Visage of the Black Flame
-tagGDX1Blueprint_ArmorD149=Plánek: Mythical Light's Defender Helm
-tagGDX1Blueprint_ArmorD150=Plánek: Mythical Infernal Knight's Faceguard
-tagGDX1Blueprint_ArmorD151=Plánek: Mythical Warborn Visor
-tagGDX1Blueprint_ArmorD152=Plánek: Mythical Bloodrager's Cowl
+tagGDX1Blueprint_ArmorD147=Plánek: Vynikající kápě of the Venomblade
+tagGDX1Blueprint_ArmorD148=Plánek: Vynikající kryt of the Black Flame
+tagGDX1Blueprint_ArmorD149=Plánek: Vynikající Light's Defender Helm
+tagGDX1Blueprint_ArmorD150=Plánek: Vynikající Infernal Knight's chránič obličeje
+tagGDX1Blueprint_ArmorD151=Plánek: Vynikající Warborn Hledí
+tagGDX1Blueprint_ArmorD152=Plánek: Vynikající Bloodrager's kápě
 
-tagGDX1Blueprint_ArmorD153=Plánek: Mythical Blazeborn Mantle
-tagGDX1Blueprint_ArmorD154=Plánek: Mythical Stormweave Armor
+tagGDX1Blueprint_ArmorD153=Plánek: Vynikající Blazeborn Mantle
+tagGDX1Blueprint_ArmorD154=Plánek: Vynikající Stormweave Armor
 tagGDX1Blueprint_ArmorD155=Plánek: Avenger's Armor
 tagGDX1Blueprint_ArmorD156=Plánek: Allagast's Robe
-tagGDX1Blueprint_ArmorD157=Plánek: Mythical Windshear Greaves
-tagGDX1Blueprint_ArmorD158=Plánek: Mythical Footpads of the Grey Magi
-tagGDX1Blueprint_ArmorD159=Plánek: Mythical Wyrmbone Handguards
-tagGDX1Blueprint_ArmorD160=Plánek: Mythical Iceskorn Talons
-tagGDX1Blueprint_ArmorD161=Plánek: Mythical Arcane Harmony Leggings
-tagGDX1Blueprint_ArmorD162=Plánek: Mythical Pretty Great Pants
-tagGDX1Blueprint_ArmorD163=Plánek: Mythical Titan Pauldrons
-tagGDX1Blueprint_ArmorD164=Plánek: Mythical Vileblood Mantle
-tagGDX1Blueprint_ArmorD165=Plánek: Mythical Dread Armor of Azragor
-tagGDX1Blueprint_ArmorD166=Plánek: Mythical Divinesteel Hauberk
+tagGDX1Blueprint_ArmorD157=Plánek: Vynikající Windshear Greaves
+tagGDX1Blueprint_ArmorD158=Plánek: Vynikající Footpads of the Grey Magi
+tagGDX1Blueprint_ArmorD159=Plánek: Vynikající Handguards zkostnatělého červa
+tagGDX1Blueprint_ArmorD160=Plánek: Vynikající Iceskorn Talons
+tagGDX1Blueprint_ArmorD161=Plánek: Vynikající Arcane Harmony Leggings
+tagGDX1Blueprint_ArmorD162=Plánek: Vynikající Pretty Great Pants
+tagGDX1Blueprint_ArmorD163=Plánek: Vynikající Titan Pauldrons
+tagGDX1Blueprint_ArmorD164=Plánek: Vynikající Vileblood Mantle
+tagGDX1Blueprint_ArmorD165=Plánek: Vynikající Dread Armor of Azragor
+tagGDX1Blueprint_ArmorD166=Plánek: Vynikající Divinesteel Hauberk
 
-tagGDX1Blueprint_ArmorD167=Plánek: Belgothian's Mask
+tagGDX1Blueprint_ArmorD167=Plánek: Belgothianova maska
 
 tagGDX1Blueprint_AccessoryB101=Plánek: Nimble Crest
 tagGDX1Blueprint_AccessoryB102=Plánek: Watcher Crest
@@ -1034,41 +1035,41 @@ tagGDX1Blueprint_AccessoryB103=Plánek: Trollheart Waistguard
 tagGDX1Blueprint_AccessoryB104=Plánek: Puppetmaster Links
 tagGDX1Blueprint_AccessoryB105=Plánek: Stoneplate Waistguard
 
-tagGDX1Blueprint_AccessoryC101=Plánek: Mythical Serenity Stone
+tagGDX1Blueprint_AccessoryC101=Plánek: Vynikající Serenity Stone
 tagGDX1Blueprint_AccessoryC102=Plánek: Runefather's Gem
 tagGDX1Blueprint_AccessoryC103=Plánek: Sanguinus
-tagGDX1Blueprint_AccessoryC104=Plánek: Mythical Sanctus Crest
-tagGDX1Blueprint_AccessoryC105=Plánek: Mythical Widow's Sting
-tagGDX1Blueprint_AccessoryC106=Plánek: Mythical Shard of Command
-tagGDX1Blueprint_AccessoryC107=Plánek: Mythical Amulet of Scorched Earth
-tagGDX1Blueprint_AccessoryC108=Plánek: Mythical Chains of Anguish
-tagGDX1Blueprint_AccessoryC109=Plánek: Mythical Alchemist's Belt
-tagGDX1Blueprint_AccessoryC110=Plánek: Mythical Volcanum
-tagGDX1Blueprint_AccessoryC111=Plánek: Mythical Combat Medic's Mark
-tagGDX1Blueprint_AccessoryC112=Plánek: Mythical Amarastan Sigil
-tagGDX1Blueprint_AccessoryC113=Plánek: Mythical Goliath Signet
-tagGDX1Blueprint_AccessoryC114=Plánek: Mythical Ruby of Elemental Balance
-tagGDX1Blueprint_AccessoryC115=Plánek: Mythical Sapphire of Elemental Balance
+tagGDX1Blueprint_AccessoryC104=Plánek: Vynikající Sanctus Crest
+tagGDX1Blueprint_AccessoryC105=Plánek: Vynikající Widow's Sting
+tagGDX1Blueprint_AccessoryC106=Plánek: Vynikající Shard of Command
+tagGDX1Blueprint_AccessoryC107=Plánek: Vynikající Amulet of Scorched Earth
+tagGDX1Blueprint_AccessoryC108=Plánek: Vynikající Chains of Anguish
+tagGDX1Blueprint_AccessoryC109=Plánek: Vynikající Alchemist's Belt
+tagGDX1Blueprint_AccessoryC110=Plánek: Vynikající Volcanum
+tagGDX1Blueprint_AccessoryC111=Plánek: Vynikající Combat Medic's Mark
+tagGDX1Blueprint_AccessoryC112=Plánek: Vynikající Amarastan Sigil
+tagGDX1Blueprint_AccessoryC113=Plánek: Vynikající Goliath Signet
+tagGDX1Blueprint_AccessoryC114=Plánek: Vynikající Ruby of Elemental Balance
+tagGDX1Blueprint_AccessoryC115=Plánek: Vynikající Sapphire of Elemental Balance
 
-tagGDX1Blueprint_AccessoryD101=Plánek: Mythical Stormseer Sapphire
-tagGDX1Blueprint_AccessoryD102=Plánek: Mythical Pack of Treacherous Means
+tagGDX1Blueprint_AccessoryD101=Plánek: Vynikající Stormseer Sapphire
+tagGDX1Blueprint_AccessoryD102=Plánek: Vynikající Pack of Treacherous Means
 tagGDX1Blueprint_AccessoryD103=Plánek: Cinderplate Girdle
 tagGDX1Blueprint_AccessoryD104=Plánek: Mark of Kalastor
 tagGDX1Blueprint_AccessoryD105=Plánek: Mark of Consumption
 tagGDX1Blueprint_AccessoryD106=Plánek: Reign of Ice and Fire
 tagGDX1Blueprint_AccessoryD107=Plánek: Stoneguard Waistguard
 tagGDX1Blueprint_AccessoryD108=Plánek: Aegis Waistguard
-tagGDX1Blueprint_AccessoryD109=Plánek: Mythical Avatar of Mercy
-tagGDX1Blueprint_AccessoryD110=Plánek: Mythical Pestilence of Dreeg
-tagGDX1Blueprint_AccessoryD111=Plánek: Mythical Avenger of Cairn
-tagGDX1Blueprint_AccessoryD112=Plánek: Mythical Tinker's Ingenuity
-tagGDX1Blueprint_AccessoryD113=Plánek: Mythical Hammerfall Girdle
-tagGDX1Blueprint_AccessoryD114=Plánek: Mythical Sash of the Immortal Sage
-tagGDX1Blueprint_AccessoryD115=Plánek: Mythical Mark of Dark Dreams
-tagGDX1Blueprint_AccessoryD116=Plánek: Mythical Mark of Anathema
-tagGDX1Blueprint_AccessoryD117=Plánek: Mythical Glyph of Kalphat'Zoth
-tagGDX1Blueprint_AccessoryD118=Plánek: Mythical Time-Flux Band
-tagGDX1Blueprint_AccessoryD119=Plánek: Mythical Band of the Eternal Haunt
+tagGDX1Blueprint_AccessoryD109=Plánek: Vynikající Avatar of Mercy
+tagGDX1Blueprint_AccessoryD110=Plánek: Vynikající Pestilence of Dreeg
+tagGDX1Blueprint_AccessoryD111=Plánek: Vynikající Avenger of Cairn
+tagGDX1Blueprint_AccessoryD112=Plánek: Vynikající Tinker's Ingenuity
+tagGDX1Blueprint_AccessoryD113=Plánek: Vynikající Hammerfall Girdle
+tagGDX1Blueprint_AccessoryD114=Plánek: Vynikající Sash of the Immortal Sage
+tagGDX1Blueprint_AccessoryD115=Plánek: Vynikající Mark of Dark Dreams
+tagGDX1Blueprint_AccessoryD116=Plánek: Vynikající Mark of Anathema
+tagGDX1Blueprint_AccessoryD117=Plánek: Vynikající Glyph of Kalphat'Zoth
+tagGDX1Blueprint_AccessoryD118=Plánek: Vynikající Time-Flux Band
+tagGDX1Blueprint_AccessoryD119=Plánek: Vynikající Band of the Eternal Haunt
 tagGDX1Blueprint_AccessoryD120=Plánek: Cataclysm's Pact
 tagGDX1Blueprint_AccessoryD121A=Plánek: Conduit of Warring Whispers
 tagGDX1Blueprint_AccessoryD121B=Plánek: Conduit of Destructive Whispers
@@ -1132,7 +1133,7 @@ tagGDX1RelicD113Desc="Jen když zemře samotářský vlk, tak smečka přežije.
 
 
 #Crafting
-tagGDX1CraftRandomLegendaryDesc2=Kovář kombinuje surové alchymistické energie do předmětů s legendárním potenciálem až do 94. úrovně. Postavy s úrovní nižší než 50 místo toho získají předmět epické kvality.
+tagGDX1CraftRandomLegendaryDesc2=Kovář kombinuje surové alchymistické energie do předmětů s legendárním potenciálem až do 94. úrovně. Postavy s úrovní nižší než 58 místo toho mohou získat předmět epické kvality.
 tagGDX1CraftRandomLegendaryAccessoryDesc2=Kovář kombinuje surové alchymistické energie do předmětů s legendárním potenciálem až do 94. úrovně. Postavy s úrovní nižší než 58 místo toho získají předmět epické kvality.
 tagGDX1CraftRandomLegendaryItemDesc2=Kovář vyrábí legendární prodchnuté předměty odpovídající tvé úrovni, nejvýše však do 94. úrovně.
 
@@ -1191,7 +1192,7 @@ tagGDX1ConsumableF105Desc="An oil that infuses your weapons with the hunger of a
 tagGDX1ConsumableF106=Vile Tincture
 tagGDX1ConsumableF106Desc="Shatter the vial, releasing a vile spirit to haunt your foes."
 tagGDX1ConsumableF107=Potion of Clarity
-tagGDX1ConsumableF107Desc="A viscous fluid teeming with potential.^oCan be placed in the Transfer Stash to use on other characters.
+tagGDX1ConsumableF107Desc="A viscous fluid teeming with potential."^oCan be placed in the Transfer Stash to use on other characters.
 
 tagGDX1Consumable_AttributeReset=Tonic of Reshaping
 tagGDX1Consumable_AttributeReset_Desc="Fills you with an uncomfortable warmth as your entire body seemingly reshapes itself."
@@ -1208,25 +1209,25 @@ tagGDX1DLCA01Desc="The definition of sophistication and style."
 tagGDX1EnchantA101A=Stardust
 tagGDX1EnchantA101Desc="Dust from a passing star, carefully collected so that its arcane properties would not wane."^w^n(Applied to all one-handed weapons, shields and caster off-hands)
 
-tagGDX1EnchantA102A=Potent Stardust
+tagGDX1EnchantA102A=Silný Stardust
 tagGDX1EnchantA102Desc="Dust from a passing star, carefully collected so that its arcane properties would not wane."^w^n(Applied to all two-handed weapons)
 
 tagGDX1EnchantA103A=Whipvine Powder
 tagGDX1EnchantA103Desc="Whipvine is difficult to harvest, and sometimes deadly, but its many uses for both medicine and magic make it worth the effort."^w^n(Applied to all one-handed weapons, shields and caster off-hands)
 
-tagGDX1EnchantA104A=Potent Whipvine Powder
+tagGDX1EnchantA104A=Silný Whipvine Powder
 tagGDX1EnchantA104Desc="Whipvine is difficult to harvest, and sometimes deadly, but its many uses for both medicine and magic make it worth the effort."^w^n(Applied to all two-handed weapons)
 
 tagGDX1EnchantA105A=Hexxer's Kiss
 tagGDX1EnchantA105Desc="A potent powder used by the Coven to dispose of particularly undesirable pests."^w^n(Applied to all one-handed weapons, shields and caster off-hands)
 
-tagGDX1EnchantA106A=Potent Hexxer's Kiss
+tagGDX1EnchantA106A=Silný Hexxer's Kiss
 tagGDX1EnchantA106Desc="A potent powder used by the Coven to dispose of particularly undesirable pests."^w^n(Applied to all two-handed weapons)
 
 tagGDX1EnchantA107A=Blight Beast Pustules
 tagGDX1EnchantA107Desc="Though necromancy is seldom used among the Coven, it has its uses. The pus from blight beasts in particular has arcane properties if extracted properly."^w^n(Applied to all one-handed weapons, shields and caster off-hands)
 
-tagGDX1EnchantA108A=Potent Blight Beast Pustules
+tagGDX1EnchantA108A=Silný Blight Beast Pustules
 tagGDX1EnchantA108Desc="Though necromancy is seldom used among the Coven, it has its uses. The pus from blight beasts in particular has arcane properties if extracted properly."^w^n(Applied to all two-handed weapons)
 
 tagGDX1EnchantA109A=Rotflesh Powder
@@ -1250,25 +1251,25 @@ tagGDX1EnchantA114Desc="Powder derived from a rare mushroom growing in Ugdenbog.
 tagGDX1EnchantA115A=Machinist Powder
 tagGDX1EnchantA115Desc="Made famous by Malmouth's once booming industry, the enchanting powder strengthens metal to withstand even greater punishment."^w^n(Applied to all one-handed weapons, shields and caster off-hands)
 
-tagGDX1EnchantA116A=Potent Machinist Powder
+tagGDX1EnchantA116A=Silný Machinist Powder
 tagGDX1EnchantA116Desc="Made famous by Malmouth's once booming industry, the enchanting powder strengthens metal to withstand even greater punishment."^w^n(Applied to all two-handed weapons)
 
 tagGDX1EnchantA117A=Void Tar
 tagGDX1EnchantA117Desc="Though difficult to work with and highly unstable, Malmouth's arcanists had discovered a use for this dense material in their enchantments."^w^n(Applied to all one-handed weapons, shields and caster off-hands)
 
-tagGDX1EnchantA118A=Potent Void Tar
+tagGDX1EnchantA118A=Silný Void Tar
 tagGDX1EnchantA118Desc="Though difficult to work with and highly unstable, Malmouth's arcanists had discovered a use for this dense material in their enchantments."^w^n(Applied to all two-handed weapons)
 
 tagGDX1EnchantA119A=Imp Eye Powder
 tagGDX1EnchantA119Desc="Powder extracted from the bloated eyes of Aetherial imps."^w^n(Applied to all one-handed weapons, shields and caster off-hands)
 
-tagGDX1EnchantA120A=Potent Imp Eye Powder
+tagGDX1EnchantA120A=Silný Imp Eye Powder
 tagGDX1EnchantA120Desc="Powder extracted from the bloated eyes of Aetherial imps."^w^n(Applied to all two-handed weapons)
 
 tagGDX1EnchantA121A=Sparkbloom Powder
 tagGDX1EnchantA121Desc="Powder from a vibrant flower found growing in the outskirts of Malmouth, known for its fire-tinted petals."^w^n(Applied to all one-handed weapons, shields and caster off-hands)
 
-tagGDX1EnchantA122A=Potent Sparkbloom Powder
+tagGDX1EnchantA122A=Silný Sparkbloom Powder
 tagGDX1EnchantA122Desc="Powder from a vibrant flower found growing in the outskirts of Malmouth, known for its fire-tinted petals."^w^n(Applied to all two-handed weapons)
 
 tagGDX1EnchantA123A=Blazecore Powder
@@ -1292,50 +1293,50 @@ tagGDX1EnchantA128Desc="Aetherial colossi are nothing to be trifled with, but ev
 tagGDX1EnchantA129A=Wendigo Fur
 tagGDX1EnchantA129Desc="Powder derived from tufts of wendigo fur, gift from the Ravager."^w^n(Applied to all one-handed weapons, shields and caster off-hands)
 
-tagGDX1EnchantA130A=Potent Wendigo Fur
+tagGDX1EnchantA130A=Silný Wendigo Fur
 tagGDX1EnchantA130Desc="Powder derived from tufts of wendigo fur, gift from the Ravager."^w^n(Applied to all two-handed weapons)
 
 tagGDX1EnchantA131A=Bloodscale Powder
 tagGDX1EnchantA131Desc="Powder derived from the scales of the Bloodscale Slith sometimes seen roaming parts of Ugdenbog."^w^n(Applied to all one-handed weapons, shields and caster off-hands)
 
-tagGDX1EnchantA132A=Potent Bloodscale Powder
+tagGDX1EnchantA132A=Silný Bloodscale Powder
 tagGDX1EnchantA132Desc="Powder derived from the scales of the Bloodscale Slith sometimes seen roaming parts of Ugdenbog."^w^n(Applied to all two-handed weapons)
 
 tagGDX1EnchantA133A=Spikeshell Powder
 tagGDX1EnchantA133Desc="Powder derived from the hard carapace of Ugdenbog spikeshell. It takes many hours and great strength to crush the shell into such a fine material."^w^n(Applied to all one-handed weapons, shields and caster off-hands)
 
-tagGDX1EnchantA134A=Potent Spikeshell Powder
+tagGDX1EnchantA134A=Silný Spikeshell Powder
 tagGDX1EnchantA134Desc="Powder derived from the hard carapace of Ugdenbog spikeshell. It takes many hours and great strength to crush the shell into such a fine material."^w^n(Applied to all two-handed weapons)
 
 tagGDX1EnchantA135A=Haunted Powder
 tagGDX1EnchantA135Desc="Powder left behind by the ghostly apparitions sometimes seen around Ugdenbog."^w^n(Applied to all one-handed weapons, shields and caster off-hands)
 
-tagGDX1EnchantA136A=Potent Haunted Powder
+tagGDX1EnchantA136A=Silný Haunted Powder
 tagGDX1EnchantA136Desc="Powder left behind by the ghostly apparitions sometimes seen around Ugdenbog."^w^n(Applied to all two-handed weapons)
 
 
 tagGDX1EnchantB101A=Coven's Wit
 tagGDX1EnchantB101Desc="A special enchanting powder crafted by the Coven to empower their dark arts."^w^n(Applied to all one-handed weapons, shields and caster off-hands)
 
-tagGDX1EnchantB102A=Potent Coven's Wit
+tagGDX1EnchantB102A=Silný Coven's Wit
 tagGDX1EnchantB102Desc="A special enchanting powder crafted by the Coven to empower their dark arts."^w^n(Applied to all two-handed weapons)
 
-tagGDX1EnchantB103A=Coven's Guile
+tagGDX1EnchantB103A=Záludnost čarodějek
 tagGDX1EnchantB103Desc="A special enchanting powder crafted by the Coven to sharpen the senses."^w^n(Applied to all one-handed weapons, shields and caster off-hands)
 
-tagGDX1EnchantB104A=Potent Coven's Guile
+tagGDX1EnchantB104A=Silná záludnost čarodějek
 tagGDX1EnchantB104Desc="A special enchanting powder crafted by the Coven to sharpen the senses."^w^n(Applied to all two-handed weapons)
 
 tagGDX1EnchantB105A=Coven's Terror
 tagGDX1EnchantB105Desc="A special poison imbued by Coven hexes to overwhelm the minds of their foes with terrifying visions."^w^n(Applied to all one-handed weapons, shields and caster off-hands)
 
-tagGDX1EnchantB106A=Potent Coven's Terror
+tagGDX1EnchantB106A=Silný Coven's Terror
 tagGDX1EnchantB106Desc="A special poison imbued by Coven hexes to overwhelm the minds of their foes with terrifying visions."^w^n(Applied to all two-handed weapons)
 
 tagGDX1EnchantB107A=Coven's Bane
 tagGDX1EnchantB107Desc="A vile toxin derived from various plants in Ugdenbog, combined with Coven magic to maximize its efficacy."^w^n(Applied to all one-handed weapons, shields and caster off-hands)
 
-tagGDX1EnchantB108A=Potent Coven's Bane
+tagGDX1EnchantB108A=Silný Coven's Bane
 tagGDX1EnchantB108Desc="A vile toxin derived from various plants in Ugdenbog, combined with Coven magic to maximize its efficacy."^w^n(Applied to all two-handed weapons)
 
 tagGDX1EnchantB109A=Witch's Black Flame
@@ -1347,10 +1348,10 @@ tagGDX1EnchantB110Desc="Through a terrifying binding ritual, a Coven hexxer is c
 tagGDX1EnchantB111A=Skyshard Powder
 tagGDX1EnchantB111Desc="Originally created by the Arcanist Master Trozan, the Coven has made great use of the arcane potential of sky borne objects."^w^n(Applied to rings and amulets)
 
-tagGDX1EnchantB112A=Basilisk's Bite
+tagGDX1EnchantB112A=Kousnutí baziliška
 tagGDX1EnchantB112Desc="A powerful toxin extracted from the venom glands of Ugdenbog basilisks."^w^n(Applied to rings and amulets)
 
-tagGDX1EnchantB113A=Basilisk's Gaze
+tagGDX1EnchantB113A=Pohled baziliška
 tagGDX1EnchantB113Desc="A powerful toxin extracted from the petrifying eyes of Ugdenbog basilisks."^w^n(Applied to rings and amulets)
 
 tagGDX1EnchantB114A=Sylvarria's Essence
@@ -1362,26 +1363,26 @@ tagGDX1EnchantB115Desc="A potent enchantment crafted from the stone hearts of Ug
 tagGDX1EnchantB116A=Malmouth's Aegis
 tagGDX1EnchantB116Desc="A potent enchantment crafted by the survivors of Malmouth to defend themselves from the Aetherials."^w^n(Applied to all one-handed weapons, shields and caster off-hands)
 
-tagGDX1EnchantB117A=Potent Malmouth's Aegis
+tagGDX1EnchantB117A=Silný Malmouth's Aegis
 tagGDX1EnchantB117Desc="A potent enchantment crafted by the survivors of Malmouth to defend themselves from the Aetherials."^w^n(Applied to all two-handed weapons)
 
 tagGDX1EnchantB118A=Malmouth's Will
 tagGDX1EnchantB118Desc="A potent enchantment created by Malmouth's smiths to strengthen their swing, but it serves equally well in battle."^w^n(Applied to all one-handed weapons, shields and caster off-hands)
 
-tagGDX1EnchantB119A=Potent Malmouth's Will
-tagGDX1EnchantB119Desc="A potent enchantment created by Malmouth's smiths to strengthen their swing, but it serves equally well in battle.."^w^n(Applied to all two-handed weapons)
+tagGDX1EnchantB119A=Silný Malmouth's Will
+tagGDX1EnchantB119Desc="A potent enchantment created by Malmouth's smiths to strengthen their swing, but it serves equally well in battle."^w^n(Applied to all two-handed weapons)
 
 tagGDX1EnchantB120A=Malmouth's Soul
 tagGDX1EnchantB120Desc="An empowering powder instilled with the iron will of the people."^w^n(Applied to all one-handed weapons, shields and caster off-hands)
 
-tagGDX1EnchantB121A=Potent Malmouth's Soul
+tagGDX1EnchantB121A=Silný Malmouth's Soul
 tagGDX1EnchantB121Desc="An empowering powder instilled with the iron will of the people."^w^n(Applied to all two-handed weapons)
 
 tagGDX1EnchantB122A=Malmouth's Heart
 tagGDX1EnchantB122Desc="A surprisingly potent powder created out of desperation during the initial assault on Malmouth. Though it borrows from the Aether and may ultimately prove to be mankind's undoing, for now it serves a valuable purpose."^w^n(Applied to all one-handed weapons, shields and caster off-hands)
 
-tagGDX1EnchantB123A=Potent Malmouth's Heart
-tagGDX1EnchantB123Desc="A surprisingly potent powder created out of desperation during the initial assault on Malmouth. Though it borrows from the Aether and may ultimately prove to be mankind's undoing, for now it serves a valuable purpose.."^w^n(Applied to all two-handed weapons)
+tagGDX1EnchantB123A=Silný Malmouth's Heart
+tagGDX1EnchantB123Desc="A surprisingly potent powder created out of desperation during the initial assault on Malmouth. Though it borrows from the Aether and may ultimately prove to be mankind's undoing, for now it serves a valuable purpose."^w^n(Applied to all two-handed weapons)
 
 tagGDX1EnchantB124A=Arcane Heart Powder
 tagGDX1EnchantB124Desc="An unstable sorcerous powder that burns so hot it can even damage armor, but its potency makes the risks worth it for many arcane practitioners."^w^n(Applied to rings and amulets)
@@ -1407,25 +1408,25 @@ tagGDX1EnchantB130Desc="Specially derived for the Gildam Arcanum, this enchantme
 tagGDX1EnchantB131A=Ravager's Harvest
 tagGDX1EnchantB131Desc="A gift bestowed by the Ravager upon his cursed worshippers. It instills an insatiable hunger."^w^n(Applied to all one-handed weapons, shields and caster off-hands)
 
-tagGDX1EnchantB132A=Potent Ravager's Harvest
+tagGDX1EnchantB132A=Silný Ravager's Harvest
 tagGDX1EnchantB132Desc="A gift bestowed by the Ravager upon his cursed worshippers. It instills an insatiable hunger."^w^n(Applied to all two-handed weapons)
 
 tagGDX1EnchantB133A=Ravager's Eye
 tagGDX1EnchantB133Desc="A gift bestowed by the Ravager upon his cursed worshippers. It inspires unmatched loyalty."^w^n(Applied to all one-handed weapons, shields and caster off-hands)
 
-tagGDX1EnchantB134A=Potent Ravager's Eye
+tagGDX1EnchantB134A=Silný Ravager's Eye
 tagGDX1EnchantB134Desc="A gift bestowed by the Ravager upon his cursed worshippers. It inspires unmatched loyalty."^w^n(Applied to all two-handed weapons)
 
 tagGDX1EnchantB135A=Ravager's Rage
 tagGDX1EnchantB135Desc="A gift bestowed by the Ravager upon his cursed worshippers. It evokes uncontrollable rage."^w^n(Applied to all one-handed weapons, shields and caster off-hands)
 
-tagGDX1EnchantB136A=Potent Ravager's Rage
-tagGDX1EnchantB136Desc="A gift bestowed by the Ravager upon his cursed worshippers. It evokes uncontrollable rage.."^w^n(Applied to all two-handed weapons)
+tagGDX1EnchantB136A=Silný Ravager's Rage
+tagGDX1EnchantB136Desc="A gift bestowed by the Ravager upon his cursed worshippers. It evokes uncontrollable rage."^w^n(Applied to all two-handed weapons)
 
 tagGDX1EnchantB137A=Ravager's Breath
 tagGDX1EnchantB137Desc="A gift bestowed by the Ravager upon his cursed worshippers. Its touch inflicts grievous wounds and blisters upon flesh."^w^n(Applied to all one-handed weapons, shields and caster off-hands)
 
-tagGDX1EnchantB138A=Potent Ravager's Breath
+tagGDX1EnchantB138A=Silný Ravager's Breath
 tagGDX1EnchantB138Desc="A gift bestowed by the Ravager upon his cursed worshippers. Its touch inflicts grievous wounds and blisters upon flesh."^w^n(Applied to all two-handed weapons)
 
 
@@ -1579,7 +1580,9 @@ tagGDX1ItemSetC106Desc="Klenoty vyrobené ke zvláštní příležitosti Luminá
 tagItemSetC009BName=Pohled neviditelného
 tagItemSetC010BName=Ostrostřelcova služba
 tagItemSetC011BName=Závazek znesvětitele
+tagItemSetC016BName=The Paragon of Panetti
 tagItemSetC017BName=Štít úsvitu
+tagItemSetC021BName=The Eastern Oath
 tagItemSetC024BName=Strážce požárů
 tagItemSetC025BName=Callidorova obrana
 tagItemSetC026BName=Myrmidonská bašta
@@ -1597,7 +1600,7 @@ tagGDX1ItemSetD102Desc="Zbroj požehnaná samotným Mogdrogenem, aby ji nosili �
 tagGDX1ItemSetD103Name=Pastýř ztracených duší
 tagGDX1ItemSetD103Desc="Ta největší moc se skrývá za rouškou temnoty. Nauč se ji využívat a samotná smrt bude jen mírným rozptýlením. - Uroboruuk"
 
-tagGDX1ItemSetD104Name=Octavianovo zanícení
+tagGDX1ItemSetD104Name=Octaviovo zanícení
 tagGDX1ItemSetD104Desc="Octavius Gallador byl jeden z nejvíce vyznamenávaných Luminářských lovců a dokonce sloužil jako ředitel Citadely až do posledního výdechu."
 
 tagGDX1ItemSetD105Name=Zkáza
@@ -1786,6 +1789,8 @@ tagGDX1Chest_MadRamblingsLoot=Ivondina skrýš
 tagGDX1Chest_MadRamblingsNote=Ivondina truhlice
 
 tagGDX1Chest_KatrineCorpse=Katrininy ostatky
+tagGDX1Chest_RenochCorpse=Renochovy ostatky
+tagGDX1Chest_UnknownCorpse=Hnijící mrtvola
 
 #Interactive Objects
 
