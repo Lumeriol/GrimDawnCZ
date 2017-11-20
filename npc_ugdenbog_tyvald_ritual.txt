@@ -1,13 +1,13 @@
 Tyvald Hallows
-So, has the mine been secured? Have you butchered the pests threatening our supplies?
-Yes, the infestation has been dealt with.
-That's good news. A pity I could not spill their blood myself.{^n}{^n}Here, these materials should prove useful to you. You should feel fortunate, it's not exactly easy to scrounge up that much scrap in a bog.
-Thank you.
-Farewell.
-I see that the warding aura surrounding Barrowholm appears to have been restored.{^n}{^n}That's your doing, I take it?
-Correct.
-Seems we won't be spilling your blood today.{^n}{^n}Well done.
-Farewell.
+Tak, byl ten důl zabezpečen? [[ms]Zabil[fs]Zabila] jsi ten hmyz, který ohrožoval naše zásoby?
+Ano, se zamořením jsem se [[ms]vypořádal[fs]vypořádala].  
+To jsou dobré zprávy. Je škoda, že jsem nemohl krev prolít vlastníma rukama. {^n}{^n}Tady, tyto materiály by ti měly být k užitku. [[ms]Měl[fs]Měla] by ses cítit [[ms]šťastný[fs]šťastná], není zrovna jednoduché sehnat tolik šrotu v močálech.
+Děkuji ti.
+Tak zatím.
+Vidím, že čarovná aura obklopující Barrowholm se zdá být obnovena. {^n}{^n}Chápu to dobře, že je to tvoje zásluha?
+Správně.
+Vypadá to, že tvou krev dneska neprolijeme. {^n}{^n}Dobrá práce.
+Tak zatím.
 Mám radost že se Ravager vrátil, nemůžu si ale pomoct. Cítím, že se můj osud nenaplnil.{^n}{^n}Přeju si prolít krev na jeho počest a hodovat na mase našich padlých nepřátel!
 Co teď budeš dělat?
 Popravdě, nevím.{^n}{^n}Připravoval jsem se na tento moment měsíce a teď, když ta chvíle přišla, cítím se tak...prázdný...{^n}{^n}Dokonce ani chuť masa mě neuklidňuje.

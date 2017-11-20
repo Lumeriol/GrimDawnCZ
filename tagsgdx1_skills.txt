@@ -490,8 +490,8 @@ tagGDX1ItemSkillD176Desc=Zkažené jádro Gargabola jjednou ožehne tvé nepřá
 tagGDX1ItemSkillD177Name=Aetherický požár
 tagGDX1ItemSkillD177Desc=Oheň z čiré arkanické energie se objevuje pod nohama tvých nepřátel.
 
-tagGDX1ItemSkillD178Name=Void Rounds
-tagGDX1ItemSkillD178Desc=A barrage infused with void energies passes through your foes and unmakes them from within. ^oThis is a ranged technique that activates off of default weapon attacks. Also enables the ability to dual wield ranged weapons.
+tagGDX1ItemSkillD178Name=Kulky Prázdnoty
+tagGDX1ItemSkillD178Desc=Salva obohacená energiemi Prázdnoty prochází tvými nepříteli a hubí je zevnitř. ^oToto je bonus ke střelným zbraním. Také umožňuje ovládat dvě střelné zbraně najednou.
 
 tagGDX1ItemSkillD179Name=
 tagGDX1ItemSkillD179Desc=
@@ -517,7 +517,7 @@ tagGDX1CompSkillA105Name=Aetherické poškození
 tagGDX1CompSkillA105Desc=Devastující Aetherická energie se drásá skrze tvé nepřátele a velmi rychle se šíří.
 
 tagGDX1CompSkillA106Name=Spalující Prázdnota
-tagGDX1CompSkillA106Desc=By enveloping your weapon within the destructive forces of the Void, you can unleash its power upon unsuspecting foes with a calculated blow. When used with a ranged weapon, the projectile will explode upon contact. ^oCan activate with all default weapon attacks.
+tagGDX1CompSkillA106Desc=Tím jak byla tvá zbraň ponořena v ničivých silách Prázdnoty můžeš uvolnit její sílu na nepřátele, kteří to neočekávají, dobře vypočítanou ranou. Pokud je použita střelná zbraň, projektil exploduje při kontaktu. ^oTato dovednost může být aktivována všemi typy útoku.
 
 tagGDX1CompSkillA107Name=Letové trny
 tagGDX1CompSkillA107Desc=Vrhni vyčarované ostny čistého ledu a probodni své nepřátele.
@@ -580,7 +580,7 @@ tagGDX1RelicSkillD104Name=Elementální prokletí
 tagGDX1RelicSkillD104Desc=Vypusť bodec čistých živelných energií a odraž tak postupující nepřátele.
 
 tagGDX1RelicSkillD105Name=Moc odsouzení
-tagGDX1RelicSkillD105Desc=Unleash a physical shockwave so powerful that it shatters the defenses of your foes.
+tagGDX1RelicSkillD105Desc=Vypusť fyzickou tlakovou vlnu tak silnou, že roztříští obranu tvých nepřátel.
 
 tagGDX1RelicSkillD106Name=Spalující náboj
 tagGDX1RelicSkillD106Desc=Vtrhni do boje ve jménu Empyriona a spal své nepřátele svatým ohněm. ^oVyžaduje chladou zbraň. Pokud je použit i štít, poškození štítem je přičteno ke zranění.
@@ -594,8 +594,8 @@ tagGDX1RelicSkillD108Desc=Favorizovaná technika Noční lovkyně Nidally. Vrhni
 tagGDX1RelicSkillD109Name=Časová smyčka
 tagGDX1RelicSkillD109Desc=Tvé činy se mihotají v čase. ^oVyžaduje příruční magický předmět.
 
-tagGDX1RelicSkillD110Name=Blood Spine
-tagGDX1RelicSkillD110Desc=Unleash a blood-coated spine of bone at your foes.
+tagGDX1RelicSkillD110Name=Krvavý trn
+tagGDX1RelicSkillD110Desc=Vrhne krví potřísněný trn na tvé nepřátele.
 
 tagGDX1RelicSkillD111Name=Trhající oblouk
 tagGDX1RelicSkillD111Desc=Švihni svou zbraní do oblouku, prosekej se nepřáteli a roztrhej jim duše. ^oVyžaduje chladou zbraň.
