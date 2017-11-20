@@ -13,15 +13,15 @@ Najdu je, ale teďka odtud musíme dostat vás.
 Cokoliv potřebuješ udělat, jsem připravená.{^n}{^n}Cokoliv, hlavně ať už jsme pryč.
 Dobrá, tak jdeme. (otevři Bránu)
 Vydrž chvilku.
-What? Another survivor?{^n}{^n}Welcome to hell. We're trapped out here, cut off from the resistance by the Aetherials.
-Calm down, I can get you to safety.
-You can get us back to the Resistance?{^n}{^n}There were others though, another scavenge team. Have you seen them?
-They're safe, now you need to get out of here.
-That's good news.{^n}{^n}After we split up, I couldn't find them again. I assumed they were dead.{^n}{^n}Whatever you need to do to get us out of here, I'm ready.
-Ok, here you go. (Open Riftgate)
-I'll find them, but you need to get out of here first.
-Whatever you need to do, I'm ready.{^n}{^n}Anything to be out of here.
-Here you go. (Open Riftgate)
-Hold on a moment.
+Cože? Další přeživší?{^n}{^n}Vítej v pekle. Jsme tu uvěznění, odříznutí Aetherijskýma od záchrany.
+Uklidni se, můžu vás dostat do bezpečí.
+Můžeš nás vzít zpět k hnutí odporu?{^n}{^n}Byli tu ještě další, další tým sběračů. [[ms]neviděl[fs]neviděla] jsi je?
+Jsou v bezpečí, teď odtud ale musíme dostat vás.
+To jsou dobré zprávy.{^n}{^n}Potom, co jsme se rozdělili jsem je nemohla už najít. Předpokládala jsem, že jsou mrtví. {^n}{^n}Cokoliv potřebuješ udělat, abychom se odtud dostali, můžeš začít. Jsem připravená.
+Dobrá, tak jdeme. (otevři Bránu)
+Najdu je, ale teďka odtud musíme dostat vás.
+Cokoliv potřebuješ udělat, jsem připravená.{^n}{^n}Cokoliv, hlavně ať už jsme pryč.
+Dobrá, tak jdeme. (otevři Bránu)
+Vydrž chvilku.
 Cože? Další přeživší?{^n}{^n}Vítej v pekle. Jsme tu uvěznění, odříznutí Aetherijskýma.
 Pošlu někoho, aby vám pomohl.
