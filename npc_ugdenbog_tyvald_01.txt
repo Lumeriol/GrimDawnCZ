@@ -5,7 +5,7 @@ Dávej si pozor, [[ms]pocestný[fs]pocestná]. Mám prostě chuť prolít krev. 
 Dobrá, vycouvám.
 Všechna naše snaha, všechny naše oběti byly prováděny kvůli tomuto okamžiku. {^n}{^n}Bude prolita krev a my se budeme krmit masem!
 Dobře, nechme krev téct.
-You have helped us in these meager tasks, but know that soon the time shall come when your loyalties will be tested.{^n}{^n}Neváhej, nebo to bude tvá krev, kterou ten den proleju.
+[[ms]Pomáhal[fs]Pomáhala] jsi nám v těchto malých záležitostech, ale věz, že brzy nadejde čas, kdy bude tvá oddanost prověřena.{^n}{^n}Neváhej, nebo to bude tvá krev, kterou ten den proleju.
 Uh, dobrá.
 Sbohem.
 Dávej si pozor, [[ms]pocestný[fs]pocestná]. Mám prostě chuť prolít krev. Dej mi záminku.
@@ -17,12 +17,12 @@ Děkuji ti.
 Tak zatím.
 Tak co, je důl zabezpečený? [[ms]Zmasakroval[fs]Zmasakrovala] si ten hmyz ohrožující naše zásoby?
 Kdeže je ten důl?
-Vstup do Barrowholmského dolu leží na východ odtud, nahoře v kopcích.{^n}{^n}Zabij ten hmyz zamožující doly a já zařídím, ať dostaneš vhodnou kompenzaci.
+Vstup do Barrowholmského dolu leží na východ odtud, nahoře v kopcích.{^n}{^n}Zabij ten hmyz zamořující doly a já zařídím vhodnou kompenzaci.
 Dobrá.
 Ještě pořád na tom dělám.
 Takže když už nevypadáš zcela nepoužitelně, můžeš nám pomoct ještě jednou?
 Jasně, o co jde?
-Je to záležitost ve věci krve a jatek, které nás čekají, ale Scorv mě nenechá opustit vesnici, protože by byla nechráněná, a tak to padá na tvou hlavu. {^n}{^n}Na východ odtud je starý důl, který dával práci lidem z Barrowholmu po celé generace. Jeho zdroje jsou již téměř vyčerpané, od té doby ale používáme jeho opuštěné tunely jako skladiště pro nouzové zásoby. Vypadá to, že se něco dostalo dovnitř smrze zapečetěný vstup a rozpoutává peklo kvůli našim zásobám s jídlem. To nemůžeme nechat jen tak být. Vydej se do dolu na východ od Baroowholmu a znič cokoliv, co si našlo cestu dovnitř a já zajistím, že něco z našich zásob připadne i tobě.
+Je to záležitost ve věci krve a jatek, které nás čekají, ale Scorv mě nenechá opustit vesnici, protože by byla nechráněná, a tak to padá na tvou hlavu. {^n}{^n}Na východ odtud je starý důl, který dával práci lidem z Barrowholmu po celé generace. Jeho zdroje jsou již téměř vyčerpané, od té doby ale používáme jeho opuštěné tunely jako skladiště pro nouzové zásoby. Vypadá to, že se něco dostalo dovnitř skrze zapečetěný vstup a rozpoutává peklo kvůli našim zásobám s jídlem. To nemůžeme nechat jen tak být. Vydej se do dolu na východ od Barrowholmu a znič cokoliv, co si našlo cestu dovnitř a já zajistím, že něco z našich zásob připadne i tobě.
 Vyčistím ten důl.
 To není můj problém.
 Už jsem se s tím hmyzem [[ms]vypořádal[fs]vypořádala].
@@ -45,7 +45,7 @@ Je škoda že Scorv prohlásil, že tě máme nechat naživu. {^n}{^n}Vypadáš 
 Scorv Egdenor řekl, že bych vám [[ms]měl[fs]měla] pomoct.
 Scorv v tobě musí vidět něco, co já nevidím, ale tak dobře. {^n}{^n}Je to neškodný úkol, který pro tebe mám, nicméně ti nemůžu zcela zaručit bezpečí.
 Co potřebuješ?
-V okolí vesnice je šest totemů, které byly vytvořeny šamanem před mnoha lety. To, že Barrowholm přežil a jak krásný je je důsledek právě těchto totemů. Nicméně tři z nich byly nedávno poškozené a riskujeme tak, že močál si vezme zbytek našeho domova. {^n}{^n}Pokud nám chceš pomoct, pak vkroč do Ugdenbogu v okolí Barrowholmu a obnov totemy, které nefungují. Udělej to a já jsem si jistý, že ti Scorv dá na oplátku cokoliv, co budeš chtít.
+Cwlkem existuje šest totemů, které byly vytvořeny šamanem před mnoha lety. To, že Barrowholm přežil a jak krásný je, je důsledek právě těchto totemů. Nicméně tři z nich byly nedávno poškozené a riskujeme tak, že močál si vezme zbytek našeho domova. {^n}{^n}Pokud nám chceš pomoct, pak vkroč do Ugdenbogu v okolí Barrowholmu a obnov totemy, které nefungují. Udělej to a já jsem si jistý, že ti Scorv dá na oplátku cokoliv, co budeš chtít.
 Zařídím to.
 Teď ne.
 Určitě bys to chtěl zkusit.

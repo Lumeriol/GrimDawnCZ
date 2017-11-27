@@ -405,8 +405,8 @@ tagMultiButtonRefresh=Obnovit
 tagMultiNameFormat={%t0} (úroveň {%d0})
 
 tagBaseGame=Grim Dawn
-tagGDX1Game=Prach a popel Malmouthu
-tagSurvivalGDX1=Aréna - Prach a popel Malmouthu
+tagGDX1Game=Malmouth: Prach a popel
+tagSurvivalGDX1=Aréna - Malmouth: Prach a popel
 tagDefaultMap=Hlavní kampaň
 tagSurvivalMap=Aréna
 tagSurvivalMapInProgress=Aréna - obsazená

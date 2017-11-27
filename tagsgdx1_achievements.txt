@@ -1,6 +1,6 @@
 # Achievement Groups
 
-achGDX1Group1=Prach a popel Malmouthu
+achGDX1Group1=Malmouth: Prach a popel
 
 # Achievements
 
@@ -89,13 +89,13 @@ achGDX1028Title=Uctívaný šampión
 achGDX1028Desc=Získej si přízeň devíti frakcí.
 
 achGDX1029Title=Obránce Malmouth
-achGDX1029Desc=Dokonči rozšíření Prach a popel Malmouthu.
+achGDX1029Desc=Dokonči rozšíření Malmouth: Prach a popel.
 
 achGDX1030Title=Šampión Malmouthu
-achGDX1030Desc=Dokonči rozšíření Prach a popel Malmouthu na elitní obtížnosti.
+achGDX1030Desc=Dokonči rozšíření Malmouth: Prach a popel na elitní obtížnosti.
 
 achGDX1031Title=Savior of Malmouth
-achGDX1031Desc=Dokonči rozšíření Prach a popel Malmouthu na ultimátní obtížnosti.
+achGDX1031Desc=Dokonči rozšíření Malmouth: Prach a popel na ultimátní obtížnosti.
 
 achGDX1032Title=Hromadná likvidace
 achGDX1032Desc=Zbav Cairn 750.000 příšer.
@@ -122,7 +122,7 @@ achGDX1039Title=Knihomol
 achGDX1039Desc=Posbírej 70 zápisků.
 
 achGDX1040Title=Nesmrtelný zachránce Malmouthu
-achGDX1040Desc=Dokonči rozšíření Prach a popel Malmouthu na ultimátní obtížnosti ve Výzvě.
+achGDX1040Desc=Dokonči rozšíření Malmouth: Prach a popel na ultimátní obtížnosti ve Výzvě.
 
 achGDX1041Title=Krvavé zkoušky
 achGDX1041Desc=Přežij krvavé zkoušky ve Starodávném háji.
