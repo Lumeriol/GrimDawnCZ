@@ -12,7 +12,7 @@
 59=Creed: Uvázli jsme tady...
 61=Creed: ...a ztráta Ulgrima někde v prázdnotě může být vážnější, než se v tuto chvíli zdá.
 65=Bourbon: Ulgrim je tuhej, Creede. To přece sám víš.
-69=Bourbon: Moji lidi potřebujou pomoc právě teď a tady! Nepřežijem další útok.
+69=Bourbon: Mý lidi potřebujou pomoc právě teď a tady! Další útok nepřežijeme.
 72=Creed: Johne, já -
 73=Amala: Přišlo to z Malmouthu...
 76=Amala: ...ta věc, co napadla Ďáblův průsmyk.
@@ -27,13 +27,13 @@
 109=Amala: Potřebovali naše těla, aby je pak proměnili, hluboko pod městem.
 113=Amala: Myslíš si, že jsi tady, za tvými kamennými zdmi, v bezpečí,
 117=Amala: ale tyhle věci z Malmouthu si pro tebe přijdou, najdou si tě...
-122=Amala: ...a žádná pevnost tě fakt nezachrání.
+122=Amala: ...a žádná pevnost tě ve skutečnosti nezachrání.
 125=Creed: Vskutku mrazivá budoucnost.
 128=Creed: V našem boji proti Chthonským bojovníkům,
 130=Creed: jsme úplně přehlédli rostoucí hrozbu ze strany Aetherianů.
 133=Creed: Musíme najít Ulgrima...
 136=Creed: ...a možná i zároveň pomoci Malmouthu.
-140=Creed: Už jsi udělal opravdu hodně,
+140=Creed: Už jsi [[ms]udělal[fs]udělala] opravdu hodně,
 142=Creed: Ale znovu tě musíme požádat o pomoc.
 145=Creed: Musíme udeřit přímo do srdce Aetherianské invaze...
 148=Creed: ...daleko na východě,

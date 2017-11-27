@@ -12,7 +12,7 @@ Odstup od vývěsky.
 Úkol pro Barrowholm už byl přijat.
 Odstup od vývěsky.
 Tvá důvěra kultu je už dostatečná a můžeš tak znát veškerá tajemství.
-Take a look at the bounty.
+Prohlédni si úkoly.
 V této herní relaci jsou už všechny vyvěšené úkoly splněny.
 Odstup od vývěsky.
 Prohlédni si úkoly.
@@ -46,7 +46,7 @@ Přijmout úkol.
 Odstup od vývěsky.
 Další úkol.
 
-Pustošitel žádá smrt svým jménem.{^n}{^n}Proklesti si cestu na Konec Prázdnoty, kde se nachází chtonická bytost zvaná Dar'Vagol, která musíš zprovodit z našeho světa.{^n}{^n}Každý, kdo zničí tohoto nepřítele, dostane několik materiálů z našich obchodů.
+Pustošitel žádá smrt svým jménem.{^n}{^n}Proklesti si cestu na Konec Prázdnoty, kde se nachází chtonická bytost zvaná Dar'Vagol, kterou musíš zprovodit z našeho světa.{^n}{^n}Každý, kdo zničí tohoto nepřítele, dostane několik materiálů z našich obchodů.
 Přijmout úkol.
 Odstup od vývěsky.
 Další úkol.
@@ -56,12 +56,12 @@ Přijmout úkol.
 Odstup od vývěsky.
 Další úkol.
 
-Nastal čas úklidu v Podrostu.{^n}{^n}Najdeš tam toho, jež se nazývá Swillius. Tam také ve jménu Pustošitele ukončit jeho plytký život.{^n}{^n}Každý, kdo zničí tohoto nepřítele, dostane několik materiálů z našich obchodů.
+Nastal čas úklidu v Podrostu.{^n}{^n}Najdeš tam toho, jež se nazývá Swillius. Tam také ve jménu Pustošitele ukonči jeho plytký život.{^n}{^n}Každý, kdo zničí tohoto nepřítele, dostane několik materiálů z našich obchodů.
 Přijmout úkol.
 Odstup od vývěsky.
 Další úkol.
 
-Pustošitel žádá smrt svým jménem.{^n}{^n}Prohledej Gloomwald, najdi tam toho, kdo si říká Polterrios a skonči s jeho životem.{^n}{^n}Každý, kdo zničí tohoto nepřítele, dostane několik materiálů z našich obchodů.
+Pustošitel žádá smrt svým jménem.{^n}{^n}Prohledej Gloomwald, najdi tam toho, kdo si říká Polterrios a ukonči jeho život.{^n}{^n}Každý, kdo zničí tohoto nepřítele, dostane několik materiálů z našich obchodů.
 Přijmout úkol.
 Odstup od vývěsky.
 Další úkol.
@@ -71,17 +71,17 @@ Přijmout úkol.
 Odstup od vývěsky.
 Další úkol.
 
-Pustošitel musí zahnat svůj hlad.{^n}{^n}Vyhledej v močálech toho, jež si říká Yoknar. Bude se nacházet jižně od Barrowholmu, kde by měl jeho život vyhasnou se vší počestností.{^n}{^n}Kdokoliv navždy zničí tohoto nepřítele bude odměněn nemalým množstvím železných mincí.
+Pustošitel musí zahnat svůj hlad.{^n}{^n}Vyhledej v močálech toho, jež si říká Yoknar. Bude se nacházet jižně od Barrowholmu, kde by měl jeho život vyhasnout se vší počestností.{^n}{^n}Kdokoliv navždy zničí tohoto nepřítele bude odměněn nemalým množstvím železných mincí.
 Přijmout úkol.
 Odstup od vývěsky.
 Další úkol.
 
-Pustošitel požaduje ke svému dni jména velmi mocnou relikvii. Potěší ho jen ta nejzkaženější cennost.{^n}{^n}Relikvie zvaná Zkaženost by mohla uspokojit našeho pána, ačkoliv to bude jen na zlomek sekundy.{^n}{^n}Kdokoliv donese Zkaženost jako poctu Nejvyššímu bude odměněn Mantikořím okem.
+Pustošitel požaduje ke svému sv8tku velmi mocnou relikvii. Potěší ho jen ta nejzkaženější cennost.{^n}{^n}Relikvie zvaná Zkaženost by mohla uspokojit našeho pána, ačkoliv to bude jen na zlomek sekundy.{^n}{^n}Kdokoliv donese Zkaženost jako poctu Nejvyššímu bude odměněn Mantikořím okem.
 Přijmout úkol.
 Odstup od vývěsky.
 Další úkol.
 
-Packla, jediná žena, jež si zvolila svou proměnu, se poslední dobou tak strašně rozežrala, že i její největší wendigové stojí pouze v jejím stínu.{^n}{^n}Pustošitelovi tohle výslovně vadí. Packla musí padnout hubou k zemi. Vypátrej jí v táborech kanibalů, které jsou rozptýlené po celém Gloomwaldu.{^n}{^n}Kdokoliv rychle vykoná vůli Pustošitele bude odměněn několika materiály z našich obchodů.
+Packla, jediná žena, jež si zvolila svou proměnu, se poslední dobou tak strašně rozežrala, že i její největší wendigové stojí pouze v jejím stínu.{^n}{^n}Pustošitelovi tohle výslovně vadí. Packla musí padnout obličejem k zemi. Vypátrej jí v táborech kanibalů, které jsou rozptýlené po celém Gloomwaldu.{^n}{^n}Kdokoliv rychle vykoná vůli Pustošitele bude odměněn několika materiály z našich obchodů.
 Přijmout úkol.
 Odstup od vývěsky.
 Další úkol.
@@ -91,7 +91,7 @@ Přijmout úkol.
 Odstup od vývěsky.
 Další úkol.
 
-Pustošitel žádá smrt svým jménem.{^n}{^n}Vyvaruj se mrtvému bohu a zabij toho, kdo se nazývá Lunal'Valgoth a pobývá v Mezní příčetnosti.{^n}{^n}Kdokoliv přinese jeho hlavu, bude odměněn materiály z našich obchodů.
+Pustošitel žádá smrt svým jménem.{^n}{^n}Vyvaruj se mrtvého boha a zabij toho, kdo se nazývá Lunal'Valgoth a pobývá v Mezní příčetnosti.{^n}{^n}Kdokoliv přinese jeho hlavu, bude odměněn materiály z našich obchodů.
 Přijmout úkol.
 Odstup od vývěsky.
 Další úkol.
@@ -104,5 +104,5 @@ Další úkol.
 Tvá důvěra kultu je už dostatečná a můžeš tak znát veškerá tajemství.
 
 Odstup od vývěsky.
-Obyvatelé Barrowholmu tě nepovažují za svého spojence.{^n}{^n}Trochu zlepši svou pověst a pak se vrať zpátky k vývěsce.
+Obyvatelé Barrowholmu tě ještě nepovažují za svého spojence.{^n}{^n}Trochu zlepši svou pověst a pak se vrať zpátky k vývěsce.
 Odstup od vývěsky.
