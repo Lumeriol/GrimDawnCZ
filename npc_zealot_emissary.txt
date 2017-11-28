@@ -20,12 +20,12 @@ Vaši enklávu vyhledám.
 Možná někdy jindy.
 Tvé spojení se zlým uměním tě vede na stezku temna, ze které pak není návratu.
 Máš pravdu, byla to chyba. Přidám se k vám.
-Nepředstírej ignorování toho, co jsi zač, [[ms]nekromancere[fs]nekromancerko].{^n}{^n}Ti tobě podobní jsou urážkou přírody, zrůdy, které překrucují posvátná vlákna života ke své vůli, jako by to byly hračky.{^n}{^n}Vidím, že byla chyba sem přijít, když se Černá legie dobrovolně spřáhla s neznabohy. Nech mě na pokoji.
+Nepředstírej ignorování toho, co jsi zač, [[ms]nekromante[fs]nekromantko].{^n}{^n}Ti tobě podobní jsou urážkou přírody, zrůdy, které překrucují posvátná vlákna života ke své vůli, jako by to byly hračky.{^n}{^n}Vidím, že byla chyba sem přijít, když se Černá legie dobrovolně spřáhla s neznabohy. Nech mě na pokoji.
 Ehm, dobrá.
 Dobře mi slouží.
-Tvé spojenectví s prohnilými nekromancery tě zavede dolů na cestu temna, ze které již není návratu.
+Tvé spojenectví s prohnilými nekromanty tě zavede dolů na cestu temna, ze které již není návratu.
 Máš pravdu, byla to chyba. [[ms]Chtěl[fs]Chtěla] bych se k vám přidat.
-Jsi si tím [[ms]jistý[fs]jistá]? Vyvolení se stanou tvým spojencem, ale vše, co si doteď [[ms]udělal[fs]udělala] do tohoto okamžiku bude zapomenuto.{^n}{^n}(varování: Zvolením Vyvolených bude anulována reputace u frakcí Řád hlídky smrti a Kymonovi Vyvolení)
+Jsi si tím [[ms]jistý[fs]jistá]? Vyvolení se stanou tvým spojencem, ale vše, co si doteď [[ms]udělal[fs]udělala] do tohoto okamžiku bude zapomenuto.{^n}{^n}(varování: Zvolením Vyvolených bude anulována reputace u frakcí Řád strážců smrti a Kymonovi Vyvolení)
 Černá legie s vámi bude spolupracovat. (zvol Kymonovy Vyvolené)
 Kymon to rád uslyší. Toto spojenectví bude prospěšné oběma skupinám. Nechť porazíme naše nepřátele jako jeden!{^n}{^n}Musím tě poprosit, abys [[ms]navštívil[fs]navštívila] naši enklávu na severu. Převzali jsme část Bašty zármutku a udělali z ní náš nový domov.{^n}{^n}Vyhledej nás tak, že půjdeš po severní cestě přes Neobdělaná pole. Až narazíš na ruiny, podívej se po věži.{^n}{^n}Jakmile tam budeš, promluv si s bratrem Elluviem. Připraví tě na naši cestu osvícení.
 Vyhledám vaši enklávu.
@@ -50,7 +50,7 @@ Možná někdy jindy.
 Promluvíme si o tom později.
 Neopovažuj se stát přede mnou, špíno.{^n}{^n}Kdybychom nebyli na neutrální půdě, zapálil bych tě na místě, kde právě stojíš.
 Proč to nepřátelství?
-Nepředstírej ignorování toho, co jsi zač, [[ms]nekromancere[fs]nekromancerko].{^n}{^n}Ti tobě podobní jsou urážkou přírody, zrůdy, které překrucují posvátná vlákna života ke své vůli, jako by to byly hračky.{^n}{^n}Vidím, že byla chyba sem přijít, když se Černá legie dobrovolně spřáhla s neznabohy. Nech mě na pokoji.
+Nepředstírej ignorování toho, co jsi zač, [[ms]nekromante[fs]nekromantko].{^n}{^n}Ti tobě podobní jsou urážkou přírody, zrůdy, které překrucují posvátná vlákna života ke své vůli, jako by to byly hračky.{^n}{^n}Vidím, že byla chyba sem přijít, když se Černá legie dobrovolně spřáhla s neznabohy. Nech mě na pokoji.
 Ehm, dobrá.
 Ehm, dobrá.
 Bratr Molltair, z Kymonových Vyvolených, k tvým službám, požehnaný inkvizitore.{^n}{^n}I když se sám sebe ptám, proč jsi s sebou [[ms]přivedl[fs]přivedla] tu nekromantskou špínu.
@@ -115,7 +115,7 @@ Budu potřebovat nějaký čas na rozmyšlenou.
 Sbohem.
 eopovažuj se stát přede mnou, špíno.{^n}{^n}Kdybychom nebyli na neutrální půdě, zapálil bych tě na místě, kde právě stojíš.
 Proč to nepřátelství?
-Nepředstírej ignorování toho, co jsi zač, [[ms]nekromancere[fs]nekromancerko].{^n}{^n}Ti tobě podobní jsou urážkou přírody, zrůdy, které překrucují posvátná vlákna života ke své vůli, jako by to byly hračky.{^n}{^n}Vidím, že byla chyba sem přijít, když se Černá legie dobrovolně spřáhla s neznabohy. Nech mě na pokoji.
+Nepředstírej ignorování toho, co jsi zač, [[ms]nekromante[fs]nekromantko].{^n}{^n}Ti tobě podobní jsou urážkou přírody, zrůdy, které překrucují posvátná vlákna života ke své vůli, jako by to byly hračky.{^n}{^n}Vidím, že byla chyba sem přijít, když se Černá legie dobrovolně spřáhla s neznabohy. Nech mě na pokoji.
 Ehm, dobrá.
 Ehm, dobrá.
 Přišel jsem jako zástupce Kymonových Vyvolených, jelikož mne ten, jehož nazýváš Ulgrim, o to požádal.{^n}{^n}Rádi bychom se učili od někoho, jako jsi ty, protože naše cíle jsou totožné.

@@ -3090,7 +3090,7 @@ tagEnchantC011Desc="Čarodějný prach vytvořený knezi Vyvolených, aby chrán
 tagEnchantC012A=Dotek přízraku
 tagEnchantC012Desc="Čarodějný prach nasáklý esencemi zajatých přízraků."^w^n(použitelné na všechny zbroje)
 tagEnchantC013A=Strážce duchů
-tagEnchantC013Desc="Čarodějný prach vytažený z popela padlého nekromancera."^w^n(použitelné na všechny zbroje)
+tagEnchantC013Desc="Čarodějný prach vytažený z popela padlého nekromanta."^w^n(použitelné na všechny zbroje)
 tagEnchantC014A=Kouzlo ochrany
 tagEnchantC014Desc="Zkušení alchymisté Řádu vytvořili tento prach k ochraně svých spojenců před temnými rituály."^w^n(použitelné na všechny zbroje)
 
