@@ -1631,7 +1631,7 @@ tagGDX1ItemSetD113Name=Vazač run
 tagGDX1ItemSetD113Desc="Ochranná zbroj vazače run Talliose, prvního správce Luminářské pokladnice."
 
 tagGDX1ItemSetD114Name=Uroboruukova pravá tvář
-tagGDX1ItemSetD114Desc="Roucho nesmtelného nekromanta Uroboruuk z doby, kdy pobýval v Arkovii; je to sice hodně stará historie, ale stále plné skrytého potenciálu."
+tagGDX1ItemSetD114Desc="Roucho nesmtelného nekromanta Uroboruuka z doby, kdy pobýval v Arkovii; je to sice hodně stará historie, ale stále plné skrytého potenciálu."
 
 tagGDX1ItemSetD115Name=Allagastův mistrovský kousek
 tagGDX1ItemSetD115Desc="Mistr Allagast byl velmi blízký spojenec Luminářů, který přispěl velkým zájmem o studium a odhalení tajemství jejich artefaktů."
@@ -1684,7 +1684,7 @@ tagItemSetD027BName=Alkamosovy hrůzné pečeti
 tagGDX1PrefixAA101=[ms]osvícený[fs]osvícená[ns]osvícené[mp]osvícené[fp]osvícené[np]osvícené
 
 tagGDX1PrefixAA022=[ms]inkvizitorův[fs]inkvizitora[ns]inkvizitoro[mp]inkvizitory[fp]inkvizitory[np]inkvizitory
-tagGDX1PrefixAA023=[ms]nekromantův[fs]nekromantova[ns]nekromantovo[mp]nekromantovy[fp]nekromantovy[np]nekromantovy
+tagGDX1PrefixAA023=[ms]nekromantův[fs]nekromantina[ns]nekromantovo[mp]nekromantovy[fp]nekromantiny[np]nekromantovy
 
 tagGDX1PrefixAD101=[ms]dokonalý[fs]dokonalá[ns]dokonalé[mp]dokonalé[fp]dokonalé[np]dokonalé
 

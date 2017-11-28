@@ -716,7 +716,7 @@ tagQuestItemNecromancerRemains=Malkadarrovy ostatky
 tagQuestItemNecromancerRemains_Desc="Stále hnijící ostatky kdysi mocného nekromanta."
 
 tagQuestItemUroboruukInfo=Uroboruukovy poznámky
-tagQuestItemUroboruukInfo_Desc="Poznámky tady nejspíš nechal Uroboruuk, mistr nekromancerů."
+tagQuestItemUroboruukInfo_Desc="Poznámky tady nejspíš nechal Uroboruuk, mistr nekromantů."
 
 tagQuestItemKymonRelic=Korvaakovo oko
 tagQuestItemKymonRelic_Desc="Svraštělé oko překypující tajemnými energiemi. Nemůžeš si pomoct, ale cítíš, jako by zíralo na tebe."
