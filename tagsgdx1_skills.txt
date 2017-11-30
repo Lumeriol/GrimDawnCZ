@@ -580,7 +580,7 @@ tagGDX1RelicSkillD104Name=Elementální prokletí
 tagGDX1RelicSkillD104Desc=Vypusť bodec čistých živelných energií a odraž tak postupující nepřátele.
 
 tagGDX1RelicSkillD105Name=Moc odsouzení
-tagGDX1RelicSkillD105Desc=Vypusť fyzickou tlakovou vlnu tak silnou, že roztříští obranu tvých nepřátel.
+tagGDX1RelicSkillD105Desc=Vypusť fyzickou tlakovou vlnu tak silnou, že porazí nepřátele v blízkosti a přitáhne je k tobě.
 
 tagGDX1RelicSkillD106Name=Spalující náboj
 tagGDX1RelicSkillD106Desc=Vtrhni do boje ve jménu Empyriona a spal své nepřátele svatým ohněm. ^oVyžaduje chladou zbraň. Pokud je použit i štít, poškození štítem je přičteno ke zranění.
@@ -595,7 +595,7 @@ tagGDX1RelicSkillD109Name=Časová smyčka
 tagGDX1RelicSkillD109Desc=Tvé činy se mihotají v čase. ^oVyžaduje příruční magický předmět.
 
 tagGDX1RelicSkillD110Name=Krvavý trn
-tagGDX1RelicSkillD110Desc=Vrhne krví potřísněný trn na tvé nepřátele.
+tagGDX1RelicSkillD110Desc=Vrhne spirálu krví potřísněných trnů na tvé nepřátele.
 
 tagGDX1RelicSkillD111Name=Trhající oblouk
 tagGDX1RelicSkillD111Desc=Švihni svou zbraní do oblouku, prosekej se nepřáteli a roztrhej jim duše. ^oVyžaduje chladou zbraň.
