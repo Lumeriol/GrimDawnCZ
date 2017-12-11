@@ -1,13 +1,13 @@
-Bounties
-Bounty: Imps
-Bounty
-The most foul Aetherial creation can not be permitted to roam the streets of our city. {^n}{^n}The taken children must be laid to rest.{^n}{^n}Find Aetherial Imps roaming Malmouth and eliminate them.{^n}{^n}Success on this mission will be suitably rewarded with iron bits.
+Úkoly za odměny
+Hledá se: Rarachové
+Popis
+Nejodpornější Aetherianské stvoření se přeci nemůže procházet ulicemi našeho města jen tak.{^n}{^n}Lapené děti musí být uloženy k poslednímu odpočinku.{^n}{^n}Najdi Aetherianské rarachy potulující se v Malmouthu a ukonči jejich život.{^n}{^n}Úspěch na této expedici bude štědře odměněn železnými mincemi.
 
-Slay Aetherial Imps
+Zabij Aetherianské rarachy
 
-Turn In
-You have completed the task for the Malmouth Resistance and should return to the Bounty Table for your reward.
-Return to the Malmouth Bounty Table
+Hotovo, vrať se
+Úkol pro Malmouthské obránce byl dokončen, teď se můžeš vrátit k vývěsce pro svou odměnu.
+Vrať se k vývěsce do Malmouthu
 
 
 
