@@ -1,25 +1,23 @@
-Malmouth Bounties
-You return with the materials in hand, a Bounty fulfilled.
-Report in.
+Vývěska v Malmouthu
+Vracíš se s rukama plnýma surovin, úkol byl splněn.
+Ohlas se.
 
-Step away from the Bounty Table.
-You return with the materials in hand, a Bounty fulfilled.
-Report in.
+Odstup od vývěsky.
+Vracíš se s rukama plnýma surovin, úkol byl splněn.
+Ohlas se.
 
-Step away from the Bounty Table.
-You return triumphantly, a Bounty fulfilled.
-Report in.
+Odstup od vývěsky.
+Úkol byl splněn a ty se vítězoslavně vracíš zpět.
+Ohlas se.
 
-Step away from the Bounty Table.
-You are already on a Bounty for the Malmouth Resistance.
-Step away from the Bounty Table.
-The resistance in Malmouth appreciates all assistance.{^n}{^n}But only tireless effort will see humanity through to victory.
-Take a look at the bounty.
-You have fulfilled all of the posted Bounties for this session.
-Step away from the Bounty Table.
-Take a look at the bounty.
-
-
+Odstup od vývěsky.
+Úkol pro Obránce Malmouthu již byl přijat.
+Odstup od vývěsky.
+Obránci Malmouthu oceňují každou pomoc.{^n}{^n}Ale jen neúnavná snaha dovede lidstvo k vítězství.
+Prohlédni si úkoly.
+V této herní relaci jsou už všechny vyvěšené úkoly splněny.
+Odstup od vývěsky.
+Prohlédni si úkoly.
 
 
 
@@ -32,79 +30,81 @@ Take a look at the bounty.
 
 
 
-Step away from the Bounty Table.
-The most foul Aetherial creation can not be permitted to roam the streets of our city. {^n}{^n}The taken children must be laid to rest.{^n}{^n}Find Aetherial Imps roaming Malmouth and eliminate them.{^n}{^n}Success on this mission will be suitably rewarded with iron bits.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
 
-We must seek vengeance for the atrocities committed in Malmouth.{^n}{^n}Find and eliminate the monstrosities called Architects of Flesh.{^n}{^n}The resistance has scavenged materials as reward for the successful completion of this task.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
 
-We must continue our efforts to reclaim the city and its infrastructure.{^n}{^n}Scour the city streets and the sewers beneath, seek out and eliminate Aetherial Regurgitators. {^n}{^n}Success on this mission will be suitably rewarded with iron bits.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Odstup od vývěsky.
+Nejodpornější Aetherianské stvoření se přeci nemůže procházet ulicemi našeho města jen tak.{^n}{^n}Lapené děti musí být uloženy k poslednímu odpočinku.{^n}{^n}Najdi Aetherianské rarachy potulující se v Malmouthu a ukonči jejich život.{^n}{^n}Úspěch na této expedici bude štědře odměněn železnými mincemi.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-The gilded streets of Crown Hill are overrun by Aetherial monstrosities.{^n}{^n}Seek out those called Spellbreakers and eliminate them in the name of the fallen.{^n}{^n}The resistance has scavenged materials as reward for the successful completion of this task.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Musíme oplatit zvěrstva spáchaná v Malmouthu.{^n}{^n}Najdi a zlikviduj ta stvoření, jež se nazývají Architekti těl.{^n}{^n}Obránci ti věnují nějaké materiály jako odměnu za úspěsné dokončení tohoto úkolu.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-Strike a precision blow against the enemies of the resistance.{^n}{^n}Eliminate the Aetherial named Bluggraag Blazebarf in the city sewers.{^n}{^n}The resistance has scavenged materials as reward for slaying this abomination.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Musíme pokračovat v našem úsilí získat zpátky město a jeho infrastrukturu.{^n}{^n}Projdi jednotlivé ulice a zákoutí, prohledej městské kanály a zlikviduj každého Aetherianského chrliče.{^n}{^n}Pokud bude tvá mise úspěšná, dostaneš za odměnu železné mince.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-The Malmouth resistance requires aid. {^n}{^n}A massive Aetherial called Stormtitan is wreaking havoc in the Steelcap District. {^n}{^n}Find the creature and eliminate it.{^n}{^n}The resistance has scavenged materials as reward for slaying this abomination.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Pozlacené uličky Korunního kopce jsou obklopeny Aetherianskými zrůdami.{^n}{^n}Najdi ty, jež se nazývají Lamači kouzel zlikviduj je ve jménu padlých.{^n}{^n}Obránci ti poté věnují nějaké materiály jako odměnu za dokončený úkol.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-The resistance is occupied in its efforts to retake the city but the threat surrounding Malmouth must not be forgotten.{^n}{^n}In the Malmouth Outskirts, find and destroy the one called Blazragarus.{^n}{^n}The resistance has scavenged materials as reward for slaying this abomination.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Je třeba zasadit kritický úder nepřátelskému odporu.{^n}{^n}Zlikviduj Aetheriana jménem Bluggraag, Spálený výblitek v městských stokách.{^n}{^n}Obránci ti na oplátku za zabití této ohavnosti věnují některé ze svých materiálů.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-The liberation of Crown Hill will not be easy.{^n}{^n}An Aetherial ascendant by the name Torraxsteria has been spotted atop the ruins of the Crown Hill row houses, rallying the enemy into battle.{^n}{^n}She must be eliminated.{^n}{^n}The resistance has scavenged materials as reward for slaying this abomination.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Malmouthští obránci potřebují pomoc.{^n}{^n}Obrovský Aetherian zvaný Bouřný titán pustoší čtvrť zvanou Železný bodec.{^n}{^n}Najdi tu zrůdu a odstraň ji na dobro z našeho světa.{^n}{^n}Obránci ti za jeho zabití věnují část svých materiálů.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-The resistance is seeking the creation of a forgotten relic known as Sanctuary.{^n}{^n}While its protective properties are limited, having this object in their possession will be good for morale.{^n}{^n}Anyone who delivers this relic to the resistance will be compensated with Tainted Brain Matter.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Obráncům je znemožňováno úsilí o znovuzískání města, ale nesmí se zapomínat ani na hrozby okupující okraj Malmouthu.{^n}{^n}Na Malmouthském předměstí najdi a pošli do hrobu nestvůru zvanou Blazragarus.{^n}{^n}Odpor ti za jeho zabití věnuje nějaké ze svých materiálů.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-The resistance requires more Aetherial Missives in order to study the language of the enemy.{^n}{^n}If their messages can be cracked, then the resistance can better plan its movements around Aetherial activity hot spots.{^n}{^n}Anyone that delivers an Aetherial Missive will be rewarded with iron bits.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Osvobození Korunního kopce nebude zcela snadné.{^n}{^n}Stoupenkyně Aetherianů zvaná Torraxsteria byla spatřena ve zřícených řadových domcích na Korunním kopci, jak nabádá naše nepřátele k dalším bojům.{^n}{^n}Samozřejmě, že musí zemřít, takže pro to udělej cokoliv.{^n}{^n}Obránci ti za tuto cennou službu věnují nějaké ze svých materiálů.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-The Malmouth resistance requires aid.{^n}{^n}A massive Aetherial is hindering the transport of supplies in and out of the city through the Candle District.{^n}{^n}Go to there and destroy Bollag, Keeper of the Gates.{^n}{^n}The resistance has scavenged materials as compensation for bringing down this brute.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Obránci hledají unikátní kousek zapomenuté relikvie známé jako Útočiště.{^n}{^n}Zatímco její ochranné vlastnosti jsou velmi omezené, už jen držení tohoto předmětu obrovsky zvýší morálku.{^n}{^n}Kdokoliv nám donese tuto relikvii, dostane za odměnu Zkaženou mozkovou hmotu.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-The portlight must be lit for the Legion's ships to use the Blackiron Docks.{^n}{^n}The resistance requests aid in the removal of an Aetherial called Hinissius in the city's lighthouse.{^n}{^n}Successfully destroying this monstrosity will be compensated with iron bits.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Obránci shánějí další a další Aetherianské dopisy, aby mohli studovat jazyk nepřítele.{^n}{^n}Jakmile budou jejich šifrované zprávy prolomeny, budou moci Obránci lépe plánovat své přesuny v oblastech, kde Aetheriané působí.{^n}{^n}Každému, kdo přinese jakoukoliv Aetherianskou zprávu, bude naděleno dostatek železných mincí.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-The Malmouth resistance requires aid. {^n}{^n}A powerful Aetherial fleshshaper known as Haraxis is roaming the Malmouth Harbor in search of new victims for its gruesome task.{^n}{^n}Find it and destroy it.{^n}{^n}Successfully destroying this monstrosity will be compensated with scavenged materials.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Obránci Malmouthu potřebují tvou pomoc.{^n}{^n}Obrovitánský Aetherian brání v oblasti Svíčkové čtvrti přepravě zásob do města a z města ven.{^n}{^n}Běž do této čtvrti a zlikviduj Bollaga, strážce bran.{^n}{^n}Obránci ti přidělí nějaké ze svých materiálů jako odměnu za jeho smrt.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-The resitance requires aid in a particularly dire opperation.{^n}{^n}The bowels of the city must be cleansed. {^n}{^n}Deep in the the Aetherial factory two massive Aetherials guard its core. {^n}{^n}Eliminate Agalvar, the Bone Monger and Rodalgar, the Flesh Collector so resistance operations can continue.{^n}{^n}Anyone brave enough to take on these abominations will be given their share of the most rare scavenged materials.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+V přístavu musí být opět rozsvícena světla pro lodě Legie, aby mohly kotvit v Černoželezných docích.{^n}{^n}Obránci potřebují tvou pomoc s odstraněním Aetheriana zvaného Hinissius, který se pohybuje u městského majáku.{^n}{^n}Úspěšná likvidace této zrůdy bude bohatě odměněna železnými mincemi.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-The resistance in Malmouth appreciates all assistance.{^n}{^n}But only tireless effort will see humanity through to victory.
+Obránci Malmouthu potřebují tvou pomoc.{^n}{^n}Velmi silný Aetherian, známý také jako Haraxis, se potuluje po Malmoutském přístavu a hledá nové oběti pro své neřestné úkoly.{^n}{^n}Najdi jej a sprav ho ze světa.{^n}{^n}V případě úspěchu, kdy bude veta po této zrůdnosti, získáš odměnu v podobě nějakých materiálů.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-Step away from the Bounty Table.
-The resistance in Malmouth is not yet sure if they can trust you with their most critical missions.{^n}{^n}A Respected reputation is required to access the Bounty Table.
-Step away from the Bounty Table.
+Obránci potřebují pomoci se zvláště naléhavým úkolem.{^n}{^n}Centrální část města musí být zcela bez známek hrozby.{^n}{^n}Hluboko v nitru Aetherianské továrny hlídají dva obrovští strážci samotné jádro.{^n}{^n}Zlikviduj Agalvara, obchodníka s kostmi, a Rodalgar, sběratele kostí, aby mohly pokračovat klíčové operace Obránců.{^n}{^n}Každý statečný jedinec, který setne hlavu těmto zrůdám, bude odměněn těmi nejvzácnějšími materiály.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
+
+Obránci Malmouthu oceňují každou pomoc.{^n}{^n}Ale jen neúnavná snaha dovede lidstvo k vítězství.
+
+Odstup od vývěsky.
+Obránci Malmouthu si nejsou úplně jisti, že by ti mohli svěřit své nejdůležitější záležitosti.{^n}{^n}Trochu zlepši svou pověst a pak se vrať zpátky k vývěsce.
+Odstup od vývěsky.
