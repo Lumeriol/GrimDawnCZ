@@ -190,7 +190,7 @@ tagGDX1Class08SkillName08A=Znamení nemoci
 tagGDX1Class08SkillDescription08A=Samotná [[ms]nekromantova[fs]nekromantina] přítomnost je často dostačující, aby vyvolala hrůzu v řadách nepřátel. Vydáváš zvuk v podobě kvílení duchů na svůj cíl, čímž otřeseš důvěrou slabších nepřátel a tak se mezi nimi začne rychle šířit zmatek a strach.
 
 tagGDX1Class08SkillName09A=Odtržení ducha
-tagGDX1Class08SkillDescription09A=Jedna z nejmocnějších technik věnovaná nasledníkům Uroboruuka. Tím, že odtrhneš bytost od těla svého nepřítele můžeš způsobit nejen zdrcující zranění, ale dokonce vyvolat část jejich ducha, aby bojoval po tvém boku. Výsledkem je vysoce nestabilní, agresivní přízrak, což je ještě více užitečné v boji. ^oDuch sílí spolu s bonusy pro mazlíčky.
+tagGDX1Class08SkillDescription09A=Jedna z nejmocnějších technik věnovaná nasledníkům Uroboruuka. Tím, že odtrhneš bytost od těla nepřítele můžeš způsobit nejen zdrcující zranění, ale dokonce vyvolat část jejich ducha, aby bojoval po tvém boku. Výsledkem je vysoce nestabilní, agresivní přízrak, což je ještě více užitečné v boji. ^oDuchové sílí spolu s bonusy pro mazlíčky.
 tagGDX1Class08SkillName09A_PetSkill=Dotek ducha
 tagGDX1Class08SkillName09A_PetSkill02=Nova vitality
 
@@ -217,6 +217,9 @@ tagGDX1RelicSkillTracker01A=Momentální počet ovládaných příšerek
 
 tagGDX1ItemSkillB101Name=Tlaková vlna
 tagGDX1ItemSkillB101Desc=Ohnivá vlna vycházející s každým tvým útokem.
+
+tagGDX1ItemSkillB102Name=Fleshwarped Strikes
+tagGDX1ItemSkillB102Desc=The corrupting touch of the Master of Flesh scars your foes with every blow. ^oWhen used as your default weapon attack, Fleshwarped Strikes empowers your blows.
 
 
 tagGDX1ItemSkillC101Name=Rozdělení duše
@@ -341,7 +344,7 @@ tagGDX1ItemSkillD127Name=Ostří popravčího
 tagGDX1ItemSkillD127Desc=Vypusť smrtící rotující čepel a setni hlavy svých nepřátel.
 
 tagGDX1ItemSkillD128Name=Výdrž gladiátora
-tagGDX1ItemSkillD128Desc=Výdrž díky slavným bitvám. ^oToto je pasivní bonus pro obouruční jak chladné, tak střelné zbraně.
+tagGDX1ItemSkillD128Desc=Výdrž díky slavným bitvám. ^oToto je pasivní bonus pro obouruční chladné a obouruční střelné zbraně.
 
 tagGDX1ItemSkillD129Name=Zrádné úmysly
 tagGDX1ItemSkillD129Desc=Vítězství za každou cenu. ^oToto je pasivní bonus pro střelné zbraně.
@@ -353,7 +356,7 @@ tagGDX1ItemSkillD131Name=Řezbář
 tagGDX1ItemSkillD131Desc=Vyřež si cestu skrze své nepřátele a ty, jejichž osud je již zpečetěn, nech vykrvácet.
 
 tagGDX1ItemSkillD132Name=Hrůzné ostří
-tagGDX1ItemSkillD132Desc=Prosekej se skrze své nepřátele otráveným ostřím, které dokáže tkáň proměnit v kámen.
+tagGDX1ItemSkillD132Desc=Zasáhneš své nepřátele otráveným úderem, který dokáže tkáň proměnit v kámen.
 
 tagGDX1ItemSkillD133Name=Vysilující hniloba
 tagGDX1ItemSkillD133Desc=Nakaž své nepřátele chorobou, díky které začnou z nepřátel odpadávat kusy masa do doby, než nezůstane vůbec nic.
@@ -437,7 +440,7 @@ tagGDX1ItemSkillD159Name=Vlna vřesu
 tagGDX1ItemSkillD159Desc=Vlna vřesů vyráží ze země a proráží tvé nepřátele.
 
 tagGDX1ItemSkillD160Name=Mstitelova moc
-tagGDX1ItemSkillD160Desc=Jedinečná fyzická odolnost a síla. ^oToto je pasivní bonus k obouručním chladným a střelným zbraním.
+tagGDX1ItemSkillD160Desc=Jedinečná fyzická odolnost a síla. ^oToto je pasivní bonus k obouručním chladným a obouručním střelným zbraním.
 
 tagGDX1ItemSkillD161Name=Mstitel přírody
 tagGDX1ItemSkillD161Desc=Duch mstitele se v tobě rozrůstá.
@@ -580,7 +583,7 @@ tagGDX1RelicSkillD104Name=Elementální prokletí
 tagGDX1RelicSkillD104Desc=Vypusť bodec čistých živelných energií a odraž tak postupující nepřátele.
 
 tagGDX1RelicSkillD105Name=Moc odsouzení
-tagGDX1RelicSkillD105Desc=Vypusť fyzickou tlakovou vlnu tak silnou, že porazí nepřátele v blízkosti a přitáhne je k tobě.
+tagGDX1RelicSkillD105Desc=Vypustíš fyzickou tlakovou vlnu tak silnou, že porazí blízké nepřátele a přitáhne je k tobě.
 
 tagGDX1RelicSkillD106Name=Spalující náboj
 tagGDX1RelicSkillD106Desc=Vtrhni do boje ve jménu Empyriona a spal své nepřátele svatým ohněm. ^oVyžaduje chladou zbraň. Pokud je použit i štít, poškození štítem je přičteno ke zranění.
@@ -799,4 +802,11 @@ tagGDX1EnemySkillD13_Desc=Temnota vychází z Grava'Thula, někdy se sloučí v 
 
 tagGDX1EnemySkillD14=Hvězdný duch
 tagGDX1EnemySkillD14_Desc=Svatý duch ohrožuje tajemství tvé samotné existence.
+
+tagGDX1EnemySkillD15=Aether Essence
+tagGDX1EnemySkillD15_Desc=The Aether is potent in this area, harming you and sapping your resistances.
+
+tagGDX1EnemySkillD16=Terrifying Presence
+tagGDX1EnemySkillD16_Desc=A great beast roams nearby, filling you with dread and emboldening nearby creatures.
+
 

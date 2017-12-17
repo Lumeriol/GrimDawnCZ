@@ -1727,6 +1727,7 @@ tagDotPoison=Otrávení
 tagDotLightning=Elektrický šok
 tagDotChaos=Chaos
 tagDotAether=Aether
+tagDotVitality=Rozklad životní energie
 tagDotLifeLeech=Vysátí života
 tagDotManaLeech=Vysátí energie
 tagDotPhysical=Vnitřní krvácení

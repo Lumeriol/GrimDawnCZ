@@ -584,14 +584,14 @@ tagClass06SkillDescription01B=Přijmeš vzezření divokého kance a staneš se 
 tagClass06SkillName01C=Dotek bouře
 tagClass06SkillDescription01C=Zvoláním na nebesa posílíš své útoky zuřivostí bouře.
 tagClass06SkillName01D=Síla medvěda
-tagClass06SkillDescription01D=Šamané oddaní duchovi medvěda si osvojí schopnost používat brutální obouruční zbraně, pokud zaujmou postoj divošského boje. Jejich nespoutaná zuřivost je mezi severskými kmeny nepřekonatelná. ^oTato technika vyžaduje obouruční, chladnou nebo střelnou zbraň.
+tagClass06SkillDescription01D=Šamané oddaní duchovi medvěda si osvojí schopnost používat brutální obouruční zbraně, pokud zaujmou postoj divošského boje. Jejich nespoutaná zuřivost je mezi severskými kmeny nepřekonatelná. ^oTato technika vyžaduje obouruční chladnou nebo obouruční střelnou zbraň.
 
 tagClass06SkillName02A=Prvotní útok
 tagClass06SkillDescription02A=Prvni rituál, který nováčci podstupují, je zaměřen na vylepšení jejich oblíbené zbraně pomocí hrubé síly bouře. Ti, kteří přežijí tento kritický krok, se stanou potomky Mogdrogenovy vůle a strážci svého lidu. ^oVyžaduje obouruční chladnou nebo obouruční střelnou zbraň.
 tagClass06SkillName02B=Poryv bouře
 tagClass06SkillDescription02B=Hrubá síla Prvotního útoku se převalí přes cíl a způsobí cévní krvácení.
 tagClass06SkillName02C=Záplava
-tagClass06SkillDescription02C=Přílivová síla kaskádovitě vychází z tvé zbraně, způsobuje nejbližšímu cíli šok a přeskakuje na další nepřátele.
+tagClass06SkillDescription02C=Přílivová síla kaskádovitě vychází z tvé zbraně, způsobuje tvému cíli šok a přeskakuje na další nepřátele.
 tagClass06SkillName02D=Burácející útok
 tagClass06SkillDescription02D=Vyvolávači bouří, členové sekty šamanismu oddané nebesům, jsou známi vyvoláváním Ultose, boha nebe, jež přivolává hněv přírody na své protivníky. ^oBurácející útok nevylepšuje výchozí typ útoku a nemůže způsobit efekt jako třeba Divoký hlad.
 
@@ -631,7 +631,7 @@ tagClass06SkillName06E=Ostnaté pařáty
 tagClass06SkillDescription06E=Vrozený útok.
 
 tagClass06SkillName07A=Divoký hlad
-tagClass06SkillDescription07A=Přijmeš svoji nejzákladnější stránku, rozřežeš své nepřátele a nenasytně budeš hodovat na rozlité krvi. ^oVyžaduje obouruční chladnou nebo střelnou zbraň. Pokud je schopnost použita s chladnou zbraní, útok zasáhne několik nepřátel v okolí najednou. Tato technika je aktivována výchozím útokem zbraně.
+tagClass06SkillDescription07A=Přijmeš svoji nejzákladnější stránku, rozřežeš své nepřátele a nenasytně budeš hodovat na rozlité krvi. ^oVyžaduje obouruční chladnou nebo obouruční střelnou zbraň. Pokud je schopnost použita s chladnou zbraní, útok zasáhne několik nepřátel v okolí najednou. Tato technika je aktivována výchozím útokem zbraně.
 
 tagClass06SkillName08A=Dohoda Vyvolávače bouří
 tagClass06SkillDescription08A=Sjednotíš se spolu s Ultosem, bohem nebes, a proměníš svoji smrtelnou formu ve vodič destruktivní síly bouře. ^oAby tato schopnost účinkovala, musí být aktivní.
@@ -644,7 +644,7 @@ tagClass06SkillName009C=Útok pařáty a drápy
 tagClass06SkillDescription09C=Vrozený útok.
 
 tagClass06SkillName10A=Hrubá síla
-tagClass06SkillDescription10A=Mnoha šamanům slouží jejich brutální obouruční zbraň jako vodič pro jejich bouřkové síly. Tito praktici upřednostňují bližší propojení s divočinou skrze zvířecí zuřivost, než-li skrze křehké hůlky a knihy, které jsou považovány za hračky těch, kteří preferují trávit čas jejich čtením než trénováním toho, co umí. ^oVyžaduje obouruční chladnou nebo střelnou zbraň.
+tagClass06SkillDescription10A=Mnoha šamanům slouží jejich brutální obouruční zbraň jako vodič pro jejich bouřkové síly. Tito praktici upřednostňují bližší propojení s divočinou skrze zvířecí zuřivost, než-li skrze křehké hůlky a knihy, které jsou považovány za hračky těch, kteří preferují trávit čas jejich čtením než trénováním toho, co umí. ^oVyžaduje obouruční chladnou nebo obouruční střelnou zbraň.
 tagClass06SkillName11A=Šamanismus
 tagClass06SkillDescription11A=Pečlivý trénink v nezkrocené divočině vypiloval tvou mysl a tělo do kruté zbraně.
 tagClass06SkillName12A=Hněv přírody
@@ -653,7 +653,7 @@ tagClass06SkillName13A=Prvotní pouto
 tagClass06SkillDescription13A=Přijmeš svoji stránku krutosti tak, že dokončíš spojení s Mogdrogenem. Příšery z útočiště boha zvířat ochotně odpoví na tvé zvolání. ^oAby tato schopnost účinkovala, musí být aktivní.
 
 tagClass06SkillName14A=Otřesy
-tagClass06SkillDescription14A=Udeříš silou země. Kamkoliv zasadíš svůj kritický útok svou základní zbraní, tam se země silou úderu otřese a vyvolá v okolí úderu v rázovou vlnu. ^oVyžaduje obouruční chladnou nebo střelnou zbraň. Tato technika je aktivována výchozím útokem zbraně.
+tagClass06SkillDescription14A=Udeříš silou země. Kamkoliv zasadíš svůj kritický útok svou základní zbraní, tam se země silou úderu otřese a vyvolá v okolí úderu v rázovou vlnu. ^oVyžaduje obouruční chladnou nebo obouruční střelnou zbraň. Tato technika je aktivována výchozím útokem zbraně.
 
 tagClass06SkillName15A=Pohlcující roj
 tagClass06SkillDescription15A=Tam venku v divočině musí člověk udělat cokoliv, aby přežil. Někteří šamanští kejklíři si berou tuto lekci k srdci tak, že vyvolají pohlcující roj, který na kusy trhá cokoliv, s čím přijde do kontaktu, způsobuje bolestná zranění a činí cíl zranitelným.
@@ -2298,7 +2298,7 @@ tagRelicSkillB013Name=Salva
 tagRelicSkillB013Desc=Vypustí vypočítanou dávku kulek na tvůj cíl. ^oToto je technika dvou střelných nebo obouručních zbraní a je aktivována výchozím útokem těchto zbraní. Také aplikuje schopnost ovládat dvě střelné zbraně.
 
 tagRelicSkillC001Name=Palice spravedlnosti
-tagRelicSkillC001Desc=Vynese spravedlivý rozsudek nad bezbožnými. ^oVyžaduje obouruční chladnou nebo střelnou zbraň.
+tagRelicSkillC001Desc=Vynese spravedlivý rozsudek nad bezbožnými. ^oVyžaduje obouruční chladnou nebo obouruční střelnou zbraň.
 
 tagRelicSkillC002Name=Živoucí pevnost
 tagRelicSkillC002Desc=Získáš kůži tvrdou jako kámen, díky které se staneš téměř nedotknutelným cílem, pokud na tebe nepřítel zaútočí mečem, magií nebo něčím podobným. ^oVyžaduje štít.
@@ -2790,7 +2790,7 @@ tagDevotionEffectC03Desc=V žilách se ti rozproudí chaotické síly Prázdnoty
 tagDevotionEffectC04=Empyrionovo světlo
 tagDevotionEffectC04Desc=Posvátné světlo Empyriona zapudí temnotu a sežehne tvé nepřátele.
 tagDevotionEffectC05=Slepá zuřivost
-tagDevotionEffectC05Desc=Nadšením z krve a způsobených jatek budeš dál krvelačně napadat všechny blízké nepřátele za přívalu brutálních úderů. ^oVyžaduje chladnou zbraň.
+tagDevotionEffectC05Desc=Nadšením z krve a způsobených jatek budeš dál krvelačně napadat všechny blízké nepřátele za přívalu brutálních úderů.
 tagDevotionEffectC06=Kamenná forma
 tagDevotionEffectC06Desc=Tvé maso se stane kamenem, skoro neproniknutelným až na ty nejtvrdší údery.
 tagDevotionEffectC07=Nebeské kopí

@@ -9,13 +9,13 @@ tagSurvivalLastDeath=Tvá skupina padla.
 achGroupSurvival=Aréna
 
 achS001Title=Šampión arény
-achS001Desc=Přežij arénu.
+achS001Desc=Přežij arénu do 150. vlny.
 
 achS002Title=Dobyvatel arény
-achS002Desc=Přežij arénu na obtížnost vyzyvatele.
+achS002Desc=Přežij arénu do 150. vlny na obtížnost vyzyvatele.
 
 achS003Title=Pán arény
-achS003Desc=Přežij arénu na obtížnost gladiátora.
+achS003Desc=Přežij arénu do 150. vlny na obtížnost gladiátora.
 
 achS004Title=Je jich přes 900.000!
 achS004Desc=Získej v aréně alespoň 900.000 bodů.

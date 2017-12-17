@@ -24,38 +24,38 @@ Nedostatek materiálu.
 
 Odstup
 Postavit pekelnou střílnu
-Pekelné střílny rychle šlehají ohnivé plameny na blízké nepřátele v širém okolí, ale jejich dosah je značně omezen.{^n}{^n}(vyžaduje 5 bodů cti a 2.500 železných mincí)
+Pekelné střílny rychle šlehají ohnivé plameny na blízké nepřátele v širém okolí a snižuje jejich zbroj, ale jejich dosah je značně omezen.{^n}{^n}(vyžaduje 5 bodů cti a 2.500 železných mincí)
 Postavit tuto stavbu (použít 5 bodů cti a 2.500 železných mincí)
 Nedostatek materiálu.
 
 
 Odstup
-Pekelné střílny rychle šlehají ohnivé plameny na blízké nepřátele v širém okolí, ale jejich dosah je značně omezen.{^n}{^n}(vyžaduje 5 bodů cti a 7.000 železných mincí)
+Pekelné střílny rychle šlehají ohnivé plameny na blízké nepřátele v širém okolí a snižuje jejich zbroj, ale jejich dosah je značně omezen.{^n}{^n}(vyžaduje 5 bodů cti a 7.000 železných mincí)
 Postavit tuto stavbu (použít 5 bodů cti a 7.000 železných mincí)
 Nedostatek materiálu.
 
 
 Odstup
-Pekelné střílny rychle šlehají ohnivé plameny na blízké nepřátele v širém okolí, ale jejich dosah je značně omezen.{^n}{^n}(vyžaduje 5 bodů cti a 10.000 železných mincí)
+Pekelné střílny rychle šlehají ohnivé plameny na blízké nepřátele v širém okolí a snižuje jejich zbroj, ale jejich dosah je značně omezen.{^n}{^n}(vyžaduje 5 bodů cti a 10.000 železných mincí)
 Postavit tuto stavbu (použít 5 bodů cti a 10.000 železných mincí)
 Nedostatek materiálu.
 
 
 Odstup
 Postavit Střílnu vyvolavače bouří
-Střílny vyvolavače bouří občasně vypustí retězec kulových blesků na vzdálené nepřátele a může jim způsobit snížení  odolností. Blesky mají šanci zasáhnout pouze menší množství nepřátel a jsou velmi pomalé.{^n}{^n}(vyžaduje 5 bodů cti a 2.500 železných mincí)
+Střílny vyvolavače bouří občasně vypustí retězec kulových blesků na vzdálené nepřátele a snižuje jim odolnosti. Blesky mají šanci zasáhnout pouze menší množství nepřátel a jsou velmi pomalé.{^n}{^n}(vyžaduje 5 bodů cti a 2.500 železných mincí)
 Postavit tuto stavbu (použít 5 bodů cti a 2.500 železných mincí)
 Nedostatek materiálu.
 
 
 Odstup
-Střílny vyvolavače bouří občasně vypustí retězec kulových blesků na vzdálené nepřátele a může jim způsobit snížení  odolností. Blesky mají šanci zasáhnout pouze menší množství nepřátel a jsou velmi pomalé.{^n}{^n}(vyžaduje 5 bodů cti a 7.000 železných mincí)
+Střílny vyvolavače bouří občasně vypustí retězec kulových blesků na vzdálené nepřátele a snižuje jim odolnosti. Blesky mají šanci zasáhnout pouze menší množství nepřátel a jsou velmi pomalé.{^n}{^n}(vyžaduje 5 bodů cti a 7.000 železných mincí)
 Postavit tuto stavbu (použít 5 bodů cti a 7.000 železných mincí)
 Nedostatek materiálu.
 
 
 Odstup
-Střílny vyvolavače bouří občasně vypustí retězec kulových blesků na vzdálené nepřátele a může jim způsobit snížení  odolností. Blesky mají šanci zasáhnout pouze menší množství nepřátel a jsou velmi pomalé.{^n}{^n}(vyžaduje 5 bodů cti a 10.000 železných mincí)
+Střílny vyvolavače bouří občasně vypustí retězec kulových blesků na vzdálené nepřátele a snižuje jim odolnosti. Blesky mají šanci zasáhnout pouze menší množství nepřátel a jsou velmi pomalé.{^n}{^n}(vyžaduje 5 bodů cti a 10.000 železných mincí)
 Postavit tuto stavbu (použít 5 bodů cti a 10.000 železných mincí)
 Nedostatek materiálu.
 
