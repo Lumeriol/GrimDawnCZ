@@ -415,6 +415,7 @@ tagSurvivalArena_02=Aréna hlubin
 tagSurvivalArena_03=Aréna písků
 tagSurvivalArena_04=Aréna hrobů
 tagSurvivalArena_05=Aréna Prázdnoty
+tagSurvivalArena_06=Aréna legionářů
 tagSurvivalDifficultyUnlock01=Vyzyvatelovy zásluhy
 tagSurvivalDifficultyUnlock01_Desc=Důkaz o dobytí Arény a získání titulu Vyzyvatel. ^oMůžeš jej umístit do bedny a použít s jinou postavou.
 tagSurvivalDifficultyUnlock02=Gladiátorovy zásluhy

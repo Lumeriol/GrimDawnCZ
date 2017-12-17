@@ -98,7 +98,7 @@ achGDX1031Title=Savior of Malmouth
 achGDX1031Desc=Dokonči rozšíření Malmouth: Prach a popel na ultimátní obtížnosti.
 
 achGDX1032Title=Hromadná likvidace
-achGDX1032Desc=Zbav Cairn 750.000 příšer.
+achGDX1032Desc=Zbav Cairn 200.000 příšer.
 
 achGDX1033Title=Nepřekonatelný zabiják
 achGDX1033Desc=Zlikviduj 2.000 hrdinů (jsou označeni hvězdou).

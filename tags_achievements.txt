@@ -30,10 +30,10 @@ ach006Title=Očista světa
 ach006Desc=Zbav Cairn 25.000 příšer.
 
 ach007Title=Krvavé povstání
-ach007Desc=Zbav Cairn 100.000 příšer.
+ach007Desc=Zbav Cairn 50.000 příšer.
 
 ach008Title=Oceán krve
-ach008Desc=Zbav Cairn 500.000 příšer.
+ach008Desc=Zbav Cairn 100.000 příšer.
 
 ach009Title=Přátelé v apokalypse
 ach009Desc=Získej si přízeň některé frakce.

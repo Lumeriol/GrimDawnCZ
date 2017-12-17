@@ -107,6 +107,7 @@ tagGDX1Sign_MalmouthDocks=Malmouthský přístav
 tagGDX1Gravestone_DC01=Zde leží: Sahdina
 tagGDX1Gravestone_DC02=Zde leží: Harmond
 tagGDX1Gravestone_DC03=Zde leží: Rook
+tagGDX1Gravestone_DC04=Zde leží: Kerrick
 
 
 #Points of Interest

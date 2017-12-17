@@ -392,8 +392,10 @@ tagGDX1MiniBoss_Wendigo03=Yuvolloth
 tagGDX1MiniBoss_Wendigo04=Packla zvaná Točna
 
 tagGDX1Boss_Roguelike01=Slathsarr, Oko Aetheru
-tagGDX1Boss_Roguelike02=Connivius Zemichraň
+tagGDX1Boss_Roguelike02=Ragarroth Otloukánek
 tagGDX1Boss_Roguelike03=Gargabol, Srdce divočiny
+tagGDX1Boss_Roguelike04=Gulgazor
+tagGDX1Boss_Roguelike05=Vilgazor
 
 tagGDX1EnclaveBoss01=Dreven Cole
 tagGDX1EnclaveBoss02=Alberran Rein
