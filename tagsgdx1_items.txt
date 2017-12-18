@@ -152,7 +152,7 @@ tagGDX1WeaponMelee2hD102_Desc="Říká se, že zbraň kdysi nosil samotný Urobo
 tagGDX1WeaponMelee2hD103=Arcanor, nůž Luminářů
 tagGDX1WeaponMelee2hD103_Desc="Obřadní nůž řádu Luminářů, který byl po celá staletí předáván z vůdce na vůdce."
 tagGDX1WeaponMelee2hD107=Odšťavňovač
-tagGDX1WeaponMelee2hD107_Desc="Z nože donekonečna odkapávají tekutiny z vnitřností dávných obětí."
+tagGDX1WeaponMelee2hD107_Desc="Z ostnů donekonečna odkapávají tekutiny z vnitřností dávných obětí."
 tagGDX1WeaponMelee2hD108=Mstitelův drtič
 
 tagGDX1WeaponMelee2hF101=Drtič hlav čarodějnic
@@ -516,133 +516,133 @@ tagGDX1TorsoF118=Wendigův ochranný kyrys
 
 
 #ArmorHands
-tagGDX1HandsC101=Haruud's Frigid Grip
-tagGDX1HandsC101_Desc="Haruud's grasp was said to carry the chill of death itself with it."
-tagGDX1HandsC102=Touch of Command
-tagGDX1HandsC103=Runesinged Handguards
-tagGDX1HandsC104=Purging Touch
-tagGDX1HandsC104_Desc="With a mere touch, evil recedes in fear."
-tagGDX1HandsC111=Bloodrite Gauntlets
+tagGDX1HandsC101=Haruudovy mrazivé pěstnice
+tagGDX1HandsC101_Desc="O Haruudových rukavicích se říkalo, že samy o sobě dotykem způsobují smrtící umrznutí."
+tagGDX1HandsC102=Dotek velitele
+tagGDX1HandsC103=Runami pokryté chrániče rukou
+tagGDX1HandsC104=Dotyk očistce
+tagGDX1HandsC104_Desc="Stačí letmý dotyk a zlo strachem ustoupí."
+tagGDX1HandsC111=Rytířské rukavice krvavých obřadů
 
-tagGDX1HandsD101=Riftwarped Grasp
-tagGDX1HandsD101_Desc="Having reached into the void itself, these gloves are forever changed by the encounter."
-tagGDX1HandsD102=Overlord's Iron Grip
-tagGDX1HandsD103=Gauntlets of Ignaffar
-tagGDX1HandsD104=Chilling Grip of Hagarrad
-tagGDX1HandsD109=The Crimson Claws
-tagGDX1HandsD109_Desc="Dripping with gore and thirsting for more, the claws eagerly seek out fresh victims."
-tagGDX1HandsD110=Cindertouch
-tagGDX1HandsD111=Mageslayer's Armguard
-tagGDX1HandsD112=Valguur's Touch
-tagGDX1HandsD113=Krieg's Grip
-tagGDX1HandsD114=Dark One's Grasp
+tagGDX1HandsD101=Chňapky rvoucí prostor
+tagGDX1HandsD101_Desc="Jakmile dosáhnou Prázdnoty, navždy s ní splynou."
+tagGDX1HandsD102=Železné pěstnice lenního pána
+tagGDX1HandsD103=Ignaffarovy rytířské rukavice
+tagGDX1HandsD104=Hagarradovy mrazivé pěstnice
+tagGDX1HandsD109=Karmínové drápy
+tagGDX1HandsD109_Desc="Kapání krve a žíznivost po další - tyhle drápy dychtivě touží po další čerstvé oběti."
+tagGDX1HandsD110=Dotek popela
+tagGDX1HandsD111=Chránič rukou zabijáka kouzelníků
+tagGDX1HandsD112=Valguurův dotyk
+tagGDX1HandsD113=Kriegovy pěstnice
+tagGDX1HandsD114=Chňapky Temného pána
 
 
 #ArmorLegs
-tagGDX1LegsB101=*Aleksander's Legguards*
-tagGDX1LegsB102=*Aleksander's Chausses*
-tagGDX1LegsB103=*Grava'Thul's Leggings*
-tagGDX1LegsB104=*Grava'Thul's Legguards*
-tagGDX1LegsB105=*Kubacabra's Legguards*
-tagGDX1LegsB106=*Kubacabra's Chausses*
-tagGDX1LegsB107=*Reaper's Leggings*
-tagGDX1LegsB108=*Reaper's Legguards*
+tagGDX1LegsB101=*Aleksanderovy náholeníky*
+tagGDX1LegsB102=*Aleksanderovy nohavice*
+tagGDX1LegsB103=*Grava'Thulovy kamaše*
+tagGDX1LegsB104=*Grava'Thulovy náholeníky*
+tagGDX1LegsB105=*Kubacabrovy náholeníky*
+tagGDX1LegsB106=*Kubacabrovy nohavice*
+tagGDX1LegsB107=*Žencovy kamaše*
+tagGDX1LegsB108=*Žencovy náholeníky*
 
-tagGDX1LegsC101=Scorchrune Legwraps
-tagGDX1LegsC102=Dreadrune Legguards
-tagGDX1LegsC103=Shadoweave Leggings
-tagGDX1LegsC103_Desc="Somehow the shadows themselves have been woven into the fabric of this armor."
-tagGDX1LegsC104=Runeward Legguards
-tagGDX1LegsC111=Spellstalker's Legwraps
+tagGDX1LegsC101=Sežehnuté runové hnátnice
+tagGDX1LegsC102=Děsivé runové náholeníky
+tagGDX1LegsC103=Kamaše neviditelného stínu
+tagGDX1LegsC103_Desc="Některé stíny byly do vetkány do látky tohoto kusu zbroje."
+tagGDX1LegsC104=Náholeníky s ochrannou runou
+tagGDX1LegsC111=Hnátnice opisovače kouzel
 
-tagLegsD013B=Opravdu velké kalhotyReally Great Pants
+tagLegsD013B=Opravdu velké kalhoty
 tagLegsD013BDesc="Vždycky dobře padnou."
 
-tagGDX1LegsD101=Wendigomane Leggings
-tagGDX1LegsD101_Desc="The fur stinks of old blood, uncertain whether it is from the wendigo itself or from its past victims."
-tagGDX1LegsD102=Dread Knight's Legplates
-tagGDX1LegsD103=Runeplates of Ignaffar
-tagGDX1LegsD104=Mageguard Legguards
-tagGDX1LegsD109=Venomskin Legwraps
-tagGDX1LegsD110=Feralmane Legplates
-tagGDX1LegsD110_Desc="The beast which gave up its fur for the creation of this armor does not appear to be local to Erulan."
+tagGDX1LegsD101=Wendigovy zateplené kamaše
+tagGDX1LegsD101_Desc="Kožešina smrdí starou krví; těžko říci, zda patřila samotnému Wendigovi nebo některé z jeho obětí."
+tagGDX1LegsD102=Nožní pláty děsivého rytíře
+tagGDX1LegsD103=Ignaffarovy runové pláty
+tagGDX1LegsD104=Náholeníky ochránce čarodějů
+tagGDX1LegsD109=Jedem polité hnátnice
+tagGDX1LegsD110=Nožní pláty z nezkrotné hřívy
+tagGDX1LegsD110_Desc="Nestvůra, ze které je tato kůže, pravděpodobně nepatřila do oblasti Erulanu."
 
 
 #ArmorFeet
-tagGDX1FeetB101=Intrepid Warboots
-tagGDX1FeetB102=Stoneplate Greaves
+tagGDX1FeetB101=Válečné boty neohroženosti
+tagGDX1FeetB102=Kameninové pohorky
 
-tagGDX1FeetC101=Grim Harvest Boots
-tagGDX1FeetC102=Deadwalker Footpads
-tagGDX1FeetC102_Desc="It is uncertain whether the bones attached to these boots belong to beast...or man."
-tagGDX1FeetC103=Sellecor's March
-tagGDX1FeetC104=Emberstone Treads
-tagGDX1FeetC111=Stormstep Footguards
+tagGDX1FeetC101=Boty ponurého pasáka
+tagGDX1FeetC102=Krpce mrtvého chodce
+tagGDX1FeetC102_Desc="Není jisté, zda kosti trčící z boty patřily zvířeti... a nebo člověku."
+tagGDX1FeetC103=Sellecorovo tažení
+tagGDX1FeetC104=Jantarové válenky
+tagGDX1FeetC111=Hromové chrániče nohou
 
-tagGDX1FeetD101=Fiendflesh Greaves
-tagGDX1FeetD102=Greaves of Ill Omens
-tagGDX1FeetD103=Timewarped Walkers
-tagGDX1FeetD103_Desc="Legend goes that these boots can transcend the infinite timelines, but nobody has yet figured out how to harness this power."
-tagGDX1FeetD104=Runeguard Greaves
-tagGDX1FeetD109=Galewind Treads
-tagGDX1FeetD110=Stormbearers
-tagGDX1FeetD110_Desc="The boots bore the full brunt of a lightning storm, and yet do not discharge completely into the earth beneath them."
-tagGDX1FeetD111=Krieg's Boots
+tagGDX1FeetD101=Pohorky z ďáblova masa
+tagGDX1FeetD102=Ill Omenovy pohorky
+tagGDX1FeetD103=Časoprostorová chodítka
+tagGDX1FeetD103_Desc="Podle legendy lze s těmito botami chodit v čase a prostoru. Žel bohu, zatím nikdo nepřišel na to, jak tuto vlastnost použít."
+tagGDX1FeetD104=Pohorky runového strážce
+tagGDX1FeetD109=Válenky prudkého větru
+tagGDX1FeetD110=Hromobijky
+tagGDX1FeetD110_Desc="S každým krokem srší z bot jiskry bouřky a přesto se nevybíjejí chozením po zemi."
+tagGDX1FeetD111=Kriegovy boty
 
 
 #ArmorWaist
-tagGDX1WaistA101=Preserver Belt
-tagGDX1WaistA102=Redeemer Waistguard
+tagGDX1WaistA101=Preserver opasek
+tagGDX1WaistA102=Redeemer ochranný pás
 
-tagGDX1WaistB101=*Ugdenbog Girdle*
-tagGDX1WaistB102=*Ugdenbog Waistguard*
-tagGDX1WaistB103=*Lunal'Valgoth's Girdle*
-tagGDX1WaistB104=*Lunal'Valgoth's Waistguard*
-tagGDX1WaistB105=Trollheart Waistguard
-tagGDX1WaistB106=Puppetmaster Links
-tagGDX1WaistB107=Stoneplate Waistguard
+tagGDX1WaistB101=*Ugdenský pás*
+tagGDX1WaistB102=*Ugdenský ochranný pás*
+tagGDX1WaistB103=*Lunal'Valgothin pás*
+tagGDX1WaistB104=*Lunal'Valgothin ochranný pás*
+tagGDX1WaistB105=Ochranný pás ze srdce zlobra
+tagGDX1WaistB106=Loutkařovy kroužky
+tagGDX1WaistB107=Kameninový ochranný pás
 
-tagGDX1WaistC101=Spitewraith Girdle
-tagGDX1WaistC102=Soulweave Girdle
-tagGDX1WaistC102_Desc="Bound spirits were woven into the threads of this belt."
-tagGDX1WaistC103=Shadowfiend's Cord
-tagGDX1WaistC104=Star Seer's Cord
-tagGDX1WaistC105=Chains of the Hungering Void
-tagGDX1WaistC106=Arcanoweave Cord
-tagGDX1WaistC115=Scorchbearer Sash
+tagGDX1WaistC101=Pás nevraživého přízraku
+tagGDX1WaistC102=Pás tkaný z duší
+tagGDX1WaistC102_Desc="Jednotlivá vlákna tohoto opasku jsou vlastně uvězněné duše."
+tagGDX1WaistC103=Šňůra stínového ďábla
+tagGDX1WaistC104=Šňůra Proroka Hvězdy
+tagGDX1WaistC105=Řetězy nenasytné Prázdnoty
+tagGDX1WaistC106=Tajemnem spletená šňůra
+tagGDX1WaistC115=Zuhelnatělá pelerína
 tagGDX1WaistC116=Sanguinus
-tagGDX1WaistC116_Desc="Each plate drenched in the blood spilled upon the battlefield."
-tagGDX1WaistC117=Blazeseer Girdle
+tagGDX1WaistC116_Desc="Každý plátek tohoto opasku je zmáčený krví obětí nedávné bitvy."
+tagGDX1WaistC117=Pás předvídače ohňů
 
-tagGDX1WaistD101=Cord of Violent Decay
-tagGDX1WaistD102=Gladiator's Distinction
-tagGDX1WaistD103=Spiritseeker Cord
-tagGDX1WaistD103_Desc="Wandering spirits are drawn to the weave of this belt."
-tagGDX1WaistD104=Pack of Treacherous Means
-tagGDX1WaistD104_Desc="Rumored to have once belonged to the nightblade Nidalla, each vial is filled with a unique toxin. Some can even be combined to create entirely different results."
-tagGDX1WaistD105=Cord of Deception
-tagGDX1WaistD106=Scales of Beronath
-tagGDX1WaistD106_Desc="The scales from the great beast Beronath have not faded after centuries, and likely never will."
-tagGDX1WaistD113=Cinderplate Girdle
-tagGDX1WaistD114=Lacerator Girdle
-tagGDX1WaistD115=Avenger's Girdle
-tagGDX1WaistD116=Cataclysm's Pact
-tagGDX1WaistD117=Stoneguard Girdle
-tagGDX1WaistD118=Aegis Waistguard
-tagGDX1WaistD119=Darkblaze Ammo Belt
+tagGDX1WaistD101=Šňůra násilného úpadku
+tagGDX1WaistD102=Gladiátorova zvláštnost
+tagGDX1WaistD103=Šňůra vyvolavače duchů
+tagGDX1WaistD103_Desc="Každý zbloudilý duch skončí jako vlákno tohoto opasku."
+tagGDX1WaistD104=Sada zrádných prostředků
+tagGDX1WaistD104_Desc="Šeptá se mezi lidmi, že kdysi tento pás patřil noční lovkyni Nidalle, která mšla každou lahvičku naplněnou speciálním toxinem. Některé z nich je dokonce možné sloučit a vytvářet tak úplně nové kombinace."
+tagGDX1WaistD105=Šňůra obelhání
+tagGDX1WaistD106Beronathovy šupiny
+tagGDX1WaistD106_Desc="Šupiny z velkého netvora Beronathaani ani po mnoha staletích neshnily a evidentně se tak ani dlouze nestane."
+tagGDX1WaistD113=Zuhelnatělý pás
+tagGDX1WaistD114=Potrhaný pás
+tagGDX1WaistD115=Mstitelův pás
+tagGDX1WaistD116=Kataklyzmatický Pact
+tagGDX1WaistD117=Pás kamenného strážce
+tagGDX1WaistD118=Ochranný pás záštity
+tagGDX1WaistD119=Opasek s náboji temného plamene
 
-tagGDX1WaistF101A=Coven Vile Waistguard
-tagGDX1WaistF101B=Coven Vile Girdle
-tagGDX1WaistF102A=Coven Lethal Waistguard
-tagGDX1WaistF102B=Coven Lethal Girdle
-tagGDX1WaistF103A=Malmouth Bladed Waistguard
-tagGDX1WaistF103B=Malmouth Bladed Girdle
-tagGDX1WaistF104A=Malmouth Arcane Waistguard
-tagGDX1WaistF104B=Malmouth Arcane Girdle
-tagGDX1WaistF105A=Wendigo Tainted Waistguard
-tagGDX1WaistF105B=Wendigo Tainted Girdle
-tagGDX1WaistF106A=Wendigo Warder Waistguard
-tagGDX1WaistF106B=Wendigo Warder Girdle
+tagGDX1WaistF101A=Čarodějčin hanebný ochranný pás
+tagGDX1WaistF101B=Čarodějčin hanebný pás
+tagGDX1WaistF102A=Čarodějčin smrtící ochranný pás
+tagGDX1WaistF102B=Čarodějčin smrtící pás
+tagGDX1WaistF103A=Malmouthský bodavý ochranný pás
+tagGDX1WaistF103B=Malmouthský bodavý pás
+tagGDX1WaistF104A=Malmouthský tajemný ochranný pás
+tagGDX1WaistF104B=Malmouthský tajemný pás
+tagGDX1WaistF105A=Wendigův poskvrněný ochranný pás
+tagGDX1WaistF105B=Wendigův poskvrněný pás
+tagGDX1WaistF106A=Wendigův dozorčí ochranný pás
+tagGDX1WaistF106B=Wendigův dozorčí pás
 
 
 #Rings
@@ -869,18 +869,18 @@ tagGDX1Blueprint_ComponentC105=Plánek: Seal of Annihilation
 tagGDX1Blueprint_ComponentC106=Plánek: Seal of Ancestry
 
 
-tagGDX1Blueprint_WaistF101A=Plánek: Coven Vile Waistguard
-tagGDX1Blueprint_WaistF101B=Plánek: Coven Vile Girdle
-tagGDX1Blueprint_WaistF102A=Plánek: Coven Lethal Waistguard
-tagGDX1Blueprint_WaistF102B=Plánek: Coven Lethal Girdle
-tagGDX1Blueprint_WaistF103A=Plánek: Malmouth Bladed Waistguard
-tagGDX1Blueprint_WaistF103B=Plánek: Malmouth Bladed Girdle
-tagGDX1Blueprint_WaistF104A=Plánek: Malmouth Arcane Waistguard
-tagGDX1Blueprint_WaistF104B=Plánek: Malmouth Arcane Girdle
-tagGDX1Blueprint_WaistF105A=Plánek: Wendigo Tainted Waistguard
-tagGDX1Blueprint_WaistF105B=Plánek: Wendigo Tainted Girdle
-tagGDX1Blueprint_WaistF106A=Plánek: Wendigo Warder Waistguard
-tagGDX1Blueprint_WaistF106B=Plánek: Wendigo Warder Girdle
+tagGDX1Blueprint_WaistF101A=Plánek: Čarodějčin hanebný ochranný pás
+tagGDX1Blueprint_WaistF101B=Plánek: Čarodějčin hanebný pás
+tagGDX1Blueprint_WaistF102A=Plánek: Čarodějčin smrtící ochranný pás
+tagGDX1Blueprint_WaistF102B=Plánek: Čarodějčin smrtící pás
+tagGDX1Blueprint_WaistF103A=Plánek: Malmouthský bodavý ochranný pás
+tagGDX1Blueprint_WaistF103B=Plánek: Malmouthský bodavý pás
+tagGDX1Blueprint_WaistF104A=Plánek: Malmouthský tajemný ochranný pás
+tagGDX1Blueprint_WaistF104B=Plánek: Malmouthský tajemný pás
+tagGDX1Blueprint_WaistF105A=Plánek: Wendigův poskvrněný ochranný pás
+tagGDX1Blueprint_WaistF105B=Plánek: Wendigův poskvrněný pás
+tagGDX1Blueprint_WaistF106A=Plánek: Wendigův dozorčí ochranný pás
+tagGDX1Blueprint_WaistF106B=Plánek: Wendigův dozorčí pás
 
 
 tagGDX1Blueprint_WeaponB101=Plánek: Stormsurge Pistol
@@ -939,18 +939,18 @@ tagGDX1Blueprint_WeaponF110=Plánek: Stormbringer of Malmouth
 
 
 
-tagGDX1Blueprint_ArmorB101=Plánek: Intrepid Warboots
-tagGDX1Blueprint_ArmorB102=Plánek: Stoneplate Greaves
+tagGDX1Blueprint_ArmorB101=Plánek: Válečné boty neohroženosti
+tagGDX1Blueprint_ArmorB102=Plánek: Kameninové pohorky
 
 tagGDX1Blueprint_ArmorC101=Plánek: Kryt zvěstovatele bouří
 tagGDX1Blueprint_ArmorC102=Plánek: Vynikající chránič ramen lovce odměn
 tagGDX1Blueprint_ArmorC103=Plánek: Kápě Hrůzného chodce
 tagGDX1Blueprint_ArmorC104=Plánek: Luminářský kapalec
-tagGDX1Blueprint_ArmorC105=Plánek: Vynikající Magelord's Greaves
-tagGDX1Blueprint_ArmorC106=Plánek: Vynikající Rifthound Leather Boots
+tagGDX1Blueprint_ArmorC105=Plánek: Vynikající pohorky Velikého čaroděje
+tagGDX1Blueprint_ArmorC106=Plánek: Vynikající Rifthound Leather boty
 tagGDX1Blueprint_ArmorC107=Plánek: Vynikající Soul's Touch
 tagGDX1Blueprint_ArmorC108=Plánek: Vynikající Quickdraw Gloves
-tagGDX1Blueprint_ArmorC109=Plánek: Vynikající Spellweave Legwraps
+tagGDX1Blueprint_ArmorC109=Plánek: Vynikající kouzlem kované hnátnice
 tagGDX1Blueprint_ArmorC110=Plánek: Vynikající Amarastiny skládané nárameníky
 tagGDX1Blueprint_ArmorC111=Plánek: Vynikající Nighthunter's hrudní chránič
 tagGDX1Blueprint_ArmorC112=Plánek: Vynikající Doomforged Breastplate
@@ -1020,11 +1020,11 @@ tagGDX1Blueprint_ArmorD153=Plánek: Vynikající Blazeborn tkané nárameníky
 tagGDX1Blueprint_ArmorD154=Plánek: Vynikající Stormweave Armor
 tagGDX1Blueprint_ArmorD155=Plánek: Avenger's Armor
 tagGDX1Blueprint_ArmorD156=Plánek: Allagast's róba
-tagGDX1Blueprint_ArmorD157=Plánek: Vynikající Windshear Greaves
-tagGDX1Blueprint_ArmorD158=Plánek: Vynikající Footpads of the Grey Magi
-tagGDX1Blueprint_ArmorD159=Plánek: Vynikající Handguards zkostnatělého červa
+tagGDX1Blueprint_ArmorD157=Plánek: Vynikající bláznivě střižené pohorky
+tagGDX1Blueprint_ArmorD158=Plánek: Vynikající krpce Šedého kouzelníka
+tagGDX1Blueprint_ArmorD159=Plánek: Vynikající chrániče rukou zkostnatělého červa
 tagGDX1Blueprint_ArmorD160=Plánek: Vynikající Iceskorn Talons
-tagGDX1Blueprint_ArmorD161=Plánek: Vynikající Arcane Harmony Leggings
+tagGDX1Blueprint_ArmorD161=Plánek: Vynikající Arcane Harmony kamaše
 tagGDX1Blueprint_ArmorD162=Plánek: Opravdu velké kalhoty
 tagGDX1Blueprint_ArmorD163=Plánek: Vynikající obří skládané nárameníky
 tagGDX1Blueprint_ArmorD164=Plánek: Vynikající Vileblood tkané nárameníky
@@ -1035,9 +1035,9 @@ tagGDX1Blueprint_ArmorD167=Plánek: Belgothianova maska
 
 tagGDX1Blueprint_AccessoryB101=Plánek: Nimble Crest
 tagGDX1Blueprint_AccessoryB102=Plánek: Watcher Crest
-tagGDX1Blueprint_AccessoryB103=Plánek: Trollheart Waistguard
-tagGDX1Blueprint_AccessoryB104=Plánek: Puppetmaster Links
-tagGDX1Blueprint_AccessoryB105=Plánek: Stoneplate Waistguard
+tagGDX1Blueprint_AccessoryB103=Plánek: Ochranný pás ze srdce zlobra
+tagGDX1Blueprint_AccessoryB104=Plánek: Loutkařovy kroužky
+tagGDX1Blueprint_AccessoryB105=Plánek: Kameninový ochranný pás
 
 tagGDX1Blueprint_AccessoryC101=Plánek: Vynikající Serenity Stone
 tagGDX1Blueprint_AccessoryC102=Plánek: Runefather's Gem
@@ -1047,7 +1047,7 @@ tagGDX1Blueprint_AccessoryC105=Plánek: Vynikající Widow's Sting
 tagGDX1Blueprint_AccessoryC106=Plánek: Vynikající Shard of Command
 tagGDX1Blueprint_AccessoryC107=Plánek: Vynikající Amulet of Scorched Earth
 tagGDX1Blueprint_AccessoryC108=Plánek: Vynikající Chains of Anguish
-tagGDX1Blueprint_AccessoryC109=Plánek: Vynikající Alchemist's Belt
+tagGDX1Blueprint_AccessoryC109=Plánek: Vynikající alchymistův opasek
 tagGDX1Blueprint_AccessoryC110=Plánek: Vynikající Volcanum
 tagGDX1Blueprint_AccessoryC111=Plánek: Vynikající Combat Medic's Mark
 tagGDX1Blueprint_AccessoryC112=Plánek: Vynikající Amarastan Sigil
@@ -1057,18 +1057,18 @@ tagGDX1Blueprint_AccessoryC115=Plánek: Vynikající Sapphire of Elemental Balan
 
 tagGDX1Blueprint_AccessoryD101=Plánek: Vynikající Stormseer Sapphire
 tagGDX1Blueprint_AccessoryD102=Plánek: Vynikající Pack of Treacherous Means
-tagGDX1Blueprint_AccessoryD103=Plánek: Cinderplate Girdle
+tagGDX1Blueprint_AccessoryD103=Plánek: Cinderplate pás
 tagGDX1Blueprint_AccessoryD104=Plánek: Mark of Kalastor
 tagGDX1Blueprint_AccessoryD105=Plánek: Mark of Consumption
 tagGDX1Blueprint_AccessoryD106=Plánek: Reign of Ice and Fire
-tagGDX1Blueprint_AccessoryD107=Plánek: Stoneguard Girdle
-tagGDX1Blueprint_AccessoryD108=Plánek: Aegis Waistguard
+tagGDX1Blueprint_AccessoryD107=Plánek: Pás kamenného strážce
+tagGDX1Blueprint_AccessoryD108=Plánek: Ochranný pás záštity
 tagGDX1Blueprint_AccessoryD109=Plánek: Vynikající Avatar of Mercy
 tagGDX1Blueprint_AccessoryD110=Plánek: Vynikající Pestilence of Dreeg
 tagGDX1Blueprint_AccessoryD111=Plánek: Vynikající Avenger of Cairn
 tagGDX1Blueprint_AccessoryD112=Plánek: Vynikající Tinker's Ingenuity
-tagGDX1Blueprint_AccessoryD113=Plánek: Vynikající Hammerfall Girdle
-tagGDX1Blueprint_AccessoryD114=Plánek: Vynikající Sash of the Immortal Sage
+tagGDX1Blueprint_AccessoryD113=Plánek: Vynikající Hammerfall pás
+tagGDX1Blueprint_AccessoryD114=Plánek: Vynikající pelerína nesmrtelného mudrce
 tagGDX1Blueprint_AccessoryD115=Plánek: Vynikající Mark of Dark Dreams
 tagGDX1Blueprint_AccessoryD116=Plánek: Vynikající Mark of Anathema
 tagGDX1Blueprint_AccessoryD117=Plánek: Vynikající Glyph of Kelphat'Zoth
