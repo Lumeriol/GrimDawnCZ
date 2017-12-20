@@ -18,7 +18,7 @@ tagSkillClassName0708=[ms]Odpadlík[fs]Odpadlice
 
 tagSkillClassDescription07=Jakožto [[ms]členové[fs]členky] váženého spolku Luminářů [[ms]byli inkvizitoři zodpovědní[fs]byly inkvizitorky zodpovědné] za ochranu Erulanské říše před nebezpečími podivna a okultismu. Za ta staletí ikvizitoři a inkvizitorky posbírali nepřeberné množství relikvií nepředstavitelné síly, ale povinnost má leckdy přednost před bezpečností a tak některé z těchto relikvií byly studovány a kopírovány, aby je mohla používat inkvizice. Byť excelují se střelnými zbraněmi, jsou dále [[ms]inkvizitoři vybavení[fs]inkvizitorky vybavené] podivnými runami, které jim umožňují být dost nebezpečnými i v boji na blízko.
 
-tagSkillClassDescription08=Ikdyž mnoho [[ms]nekromantů[fs]nekromantek] moderní doby pochází z Řádu Strážců smrti studující o záhadném Uroboruukovi, ne [[ms]všichni si zvolili[fs]všechny si zvolily] život v odloučení. Byť už jejich profese sama o sobě vyvolává strach a odpor, [[ms]nekromanté[fs]nekromantky] z Cairnu hledají rovnováhu studováním jakéhokoliv umění spojeného s tím, co jednou postihne každého živého: se smrtí. [[ms]Nekromanté[fs]Nekromantky] hojně využívají vyvolané kostlivce a vysávají samotný život z jejich neopatrných nepřátel, nicméně je známo, že se vyzbrojují i vojenským arzenálem.
+tagSkillClassDescription08=Ikdyž mnoho [[ms]nekromantů[fs]nekromantek] moderní doby pochází z Řádu Strážců smrti studující o záhadném Uroboruukovi, ne [[ms]všichni si zvolili[fs]všechny si zvolily] život v odloučení. Byť už jejich profese sama o sobě vyvolává strach a odpor, [[ms]nekromanté[fs]nekromantky] z Cairnu hledají rovnováhu studováním jakéhokoliv umění spojeného s tím, co jednou postihne každého živého: se smrtí. Nekromanté[fs]Nekromantky] hojně využívají vyvolané kostlivce a vysávají samotný život z jejich neopatrných nepřátel, nicméně je známo, že se vyzbrojují i vojenským arzenálem.
 
 
 #Class02
@@ -27,11 +27,11 @@ tagGDX1Class02SkillTracker02A=Momentální počet rozmístěných hmoždířů
 
 #Class07
 
-tagGDX1Class07SkillName00A=[[ms]Inkvizitor[fs]Inkvizitorka]
+tagGDX1Class07SkillName00A=Inkvizitor
 tagGDX1Class07SkillDescription00A=Pečlivý trénink v boji proti podivnu a okultismu.
 
 tagGDX1Class07SkillName01A=Slovo bolesti
-tagGDX1Class07SkillDescription01A=Záhadnými runami zašitými ve své výbavě se dokonce i hlas [[ms]inkvizitora[fs]inkvizitorky] stává dostatečným pro to, aby nepřátelé lidstva trpěli. Jediným slovem se tví přátelé budou svíjet v bolestech a podivné energie napadnou jejich samotnou podstatu.
+tagGDX1Class07SkillDescription01A=Záhadnými runami zašitými ve své výbavě se dokonce i hlasinkvizitora stává dostatečným pro to, aby nepřátelé lidstva trpěli. Jediným slovem se tví přátelé budou svíjet v bolestech a podivné energie napadnou jejich samotnou podstatu.
 tagGDX1Class07SkillName01B=Slovo agónie
 tagGDX1Class07SkillDescription01B=Slovo bolesti je posíleno plným potenciálem elementů, což rozšiřuje plochu působnosti a uštědřuje nesnesitelnou bolest, která rozostří vidění.
 tagGDX1Class07SkillName01C=Věta smrti
@@ -47,11 +47,11 @@ tagGDX1Class07SkillDescription02C=I když je známo, že Lumináři vyšetřoval
 tagGDX1Class07SkillName03A=Obnovující slovo
 tagGDX1Class07SkillDescription03A=Se silou ničit své nepřátele a léčit své spojence bez potřeby použít více než jednu frázi se Slovo Moci rychle stalo součástí základního arzenálu inkvizice. Obnovující slovo se stalo nenahraditelnou součástí v době válečného konfliktu. Toto slovo zoceluje inkvizitory, inkvizitorky a jejich spojence pro boj proti nepřátelům, jež vyznávají okultismus.
 tagGDX1Class07SkillName03B=Nasazení
-tagGDX1Class07SkillDescription03B=[[ms]Zkušený inkvizitor[fs]Zkušená inkvizitorka] se nenechá vyrušit na cestě za jimi odsouzenou obětí.
+tagGDX1Class07SkillDescription03B=Zkušený inkvizitor se nenechá vyrušit na cestě za jím odsouzenou obětí.
 tagGDX1Class07SkillName03C=Zásadovost
 tagGDX1Class07SkillDescription03C=Obnovující slovo zostřuje smysly a zoceluje srdce vůči korupci.
 tagGDX1Class07SkillName03D=Slovo vyzbrojení
-tagGDX1Class07SkillDescription03D=Díky šíření své vůle skrze masivní obouruční zbraně mohou [[ms]inkvizitoři[fs]inkvizitorky] zasadit další runy do jejich výbavy a tak používat Obnovující slovo s větší kadencí. ^oVyžaduje obouruční chladnou nebo obouruční střelnou zbraň.
+tagGDX1Class07SkillDescription03D=Díky šíření své vůle skrze masivní obouruční zbraně mohou inkvizitoři zasadit další runy do jejich výbavy a tak používat Obnovující slovo s větší kadencí. ^oVyžaduje obouruční chladnou nebo obouruční střelnou zbraň.
 
 tagGDX1Class07SkillName04A=Ignaffarovy plameny
 tagGDX1Class07SkillDescription04A=Podrž Ignaffarův kámen před sebou a můžeš tak chrlit plameny ze své dlaně po celou dobu, kdy bude tvá mysl propojená s relikvií.
@@ -60,9 +60,9 @@ tagGDX1Class07SkillDescription04B=Ignaffarovy plameny sílí, propalují brněn�
 tagGDX1Class07SkillName04C=Pekelná čistka
 tagGDX1Class07SkillDescription04C=Tvá vůle proudí skrze Ignaffarův kámen a očišťuje svět od slabých pomocí rozohněného pekla.
 tagGDX1Class07SkillName04D=Nekonečný plamen
-tagGDX1Class07SkillDescription04D=Díky dostatečnému tréninku může [[ms]ikvizitor[fs]inkvizitorka] udržet energii uvnitř Ignaffarova kamene po delší dobu a se zvyšující se ničivostí.
+tagGDX1Class07SkillDescription04D=Díky dostatečnému tréninku může ikvizitor udržet energii uvnitř Ignaffarova kamene po delší dobu a se zvyšující se ničivostí.
 tagGDX1Class07SkillName04E=Poskvrněný plamen
-tagGDX1Class07SkillDescription04E=I když se jedná o vzácnost, je známo, že někteří z inkvizitorů a inkvizitorek neodolali a přijali za své síly, proti kterým měli bojovat. Díky propojení Ignaffarova kamene a samotné Prázdnoty jsou vypouštěny poskvrněné plameny.
+tagGDX1Class07SkillDescription04E=I když se jedná o vzácnost, je známo, že někteří z inkvizitorů neodolali a přijali za své síly, proti kterým měli bojovat. Díky propojení Ignaffarova kamene a samotné Prázdnoty jsou vypouštěny poskvrněné plameny.
 
 tagGDX1Class07SkillName05A=Hagarradova runa
 tagGDX1Class07SkillDescription05A=Hagarradova runa byla jedním z prvních předmětů umístěných ve skladišti Luminářů, ale po značném nátlaku ze strany císařského soudu odstranit okultní aktivity uvnitř hlavního města to byl také první předmět, jehož studie a napodobování bylo povoleno v rámci odříznutí únikových cest prchajících cílů. ^oHagarradova runa vyžaduje 1.5 vteřiny na nabití a účinek roste s bonusy postavy.
@@ -88,16 +88,16 @@ tagGDX1Class07SkillDescription07B=Kalastorova runa se stává ještě více nest
 tagGDX1Class07SkillName07A_PetSkill=Konsistentní výbuch
 
 tagGDX1Class07SkillName08A=Aura smýšlení
-tagGDX1Class07SkillDescription08A=Ochranné vlastnosti run, kterými je vyzdobeno oblečení [[ms]inkvizitora[fs]inkvizitorky], mohou účinkovat i na spojence v blízkosti a nabídnout tak bdělost v bitvě a dovednost bojových umění.
+tagGDX1Class07SkillDescription08A=Ochranné vlastnosti run, kterými je vyzdobeno oblečení inkvizitorů, mohou účinkovat i na spojence v blízkosti a nabídnout tak bdělost v bitvě a dovednost bojových umění.
 
 tagGDX1Class07SkillName09A=Aura zavržení
-tagGDX1Class07SkillDescription09A=Už jen přítomnost [[ms]inkvizitora[fs]inkvizitorky] je dost na to, aby se nepřátelé lidstva třásli. Díky runám napsaným na oblečení se [[ms]inkvizitoři[fs]inkvizitorky] vrhají do boje s ohněm v srdci. ^oTato schopnost musí být aktivní, aby účinkovala.
+tagGDX1Class07SkillDescription09A=Už jen přítomnost inkvizitora je dost na to, aby se nepřátelé lidstva třásli. Díky runám napsaným na oblečení se inkvizitoři vrhají do boje s ohněm v srdci. ^oTato schopnost musí být aktivní, aby účinkovala.
 
 tagGDX1Class07SkillName10A=Gandarrův roh
 tagGDX1Class07SkillDescription10A=Studování Gandarrova rohu bylo zakázáno po staletí díky jeho zdrcujícím účinkům mysli, ale zoufalost dohnala velkého Inkvizitora Serenira k jeho účinnému užití, když pak jednou rukou rozdrtil sněm okultistů. Kultisté se zmatení obraceli jeden proti druhému, což umožnilo Serenirovi dorazit ty zbývající s lehkostí. To inkvizitorovi přineslo chválu a Roh mohl být poté studován a napodobován učni Luminářů pro účel boje, nicméně se sníženým účinkem.
 
 tagGDX1Class07SkillName11A=Specializace ve střelbě
-tagGDX1Class07SkillDescription11A=I když jsou [[ms]inkvizitoři vyzbrojeni[fs]inkvizitorky vyzbrojené] celou škálou relikvií a artefaktů, všichni musí být připraveni někdy čelit nepřátelům a spoléhat se jen na své schopnosti a arzenál. Zkušené používání palných zbraní umožňuje [[ms]inkvizitorům[fs]inkvizitorkám] složit oběť z bezpečné vzdálenosti. ^oToto je bonus ke střelným zbraním. Také umožňuje ovládat dvě střelné zbraně najednou.
+tagGDX1Class07SkillDescription11A=I když jsou inkvizitoři vyzbrojeni celou škálou relikvií a artefaktů, všichni musí být připraveni někdy čelit nepřátelům a spoléhat se jen na své schopnosti a arzenál. Zkušené používání palných zbraní umožňuje inkvizitorům složit oběť z bezpečné vzdálenosti. ^oToto je bonus ke střelným zbraním. Také umožňuje ovládat dvě střelné zbraně najednou.
 tagGDX1Class07SkillName12A=Spalující kulka
 tagGDX1Class07SkillDescription12A=Dobře zkalibrovaná kulka, která exploduje při zásahu, pohltí díky plamenům jak cíl tak nepřátele v blízkosti. ^oToto je technika pro střelné zbraně a je aktivována běžným útokem.
 tagGDX1Class07SkillName13A=Ledová kulka
@@ -106,30 +106,30 @@ tagGDX1Class07SkillName14A=Šíření bouře
 tagGDX1Class07SkillDescription14A=Nemilosrdná technika pro případ, že je nepřátel příliš mnoho. Použití v místnosti může rychle vyrovnat nevyrovnané. ^oToto je technika pro střelné zbraně a je aktivována běžným útokem.
 
 tagGDX1Class07SkillName15A=Přesná muška
-tagGDX1Class07SkillDescription15A=Pro [[ms]inkvizitora[fs]inkvizitorku], jež čelí některému z úhlavních nepřátel lidstva, znamená jedna dobře mířená střela či ^okritický zásah^w to jediné, co mají, a leckdy také to jediné, co potřebují.
+tagGDX1Class07SkillDescription15A=Pro inkvizitora, jež čelí některému z úhlavních nepřátel lidstva, znamená jedna dobře mířená střela či ^okritický zásah^w to jediné, co mají, a leckdy také to jediné, co potřebují.
 
 tagGDX1Class07SkillName16A=Zručné zacházení s artefakty
-tagGDX1Class07SkillDescription16A=Opatrné zacházení s nebezpečnými relikviemi napodobených v Úkrytu Luminářů je středobodem pro trénink inkvizitorů a inkvizitorek. V nezkušených rukách i ty nejlepší úmysly mohou skončit pro majitele a ty kolem něj nešťastně. ^o[Ovlivňuje Hagarradovu runu, Kalastorovu runu a alespoň jedna z nich je potřeba pro odemčení tété schopnosti.]
+tagGDX1Class07SkillDescription16A=Opatrné zacházení s nebezpečnými relikviemi napodobených v Úkrytu Luminářů je středobodem pro trénink inkvizitorů a inkvizitorek. V nezkušených rukách i ty nejlepší úmysly mohou skončit pro majitele a ty kolem něj nešťastně. ^oOvlivňuje Hagarradovu runu a Kalastorovu runu a alespoň jedna z nich je potřeba pro odemčení tété schopnosti.
 
 
 #Class08
 
-tagGDX1Class08SkillName00A=[[ms]Nekromant[fs]Nekromantka]
+tagGDX1Class08SkillName00A=Nekromant
 tagGDX1Class08SkillDescription00A=Mistrovství v ovládání krutého osudu, který čeká na všechny živé.
 
 tagGDX1Class08SkillName01A=Sání života
-tagGDX1Class08SkillDescription01A=[[ms]Nekromanté[fs]Nekromantky] obecně věří ve vyšší dobro a někdy vyšší dobro znamená to, že život jednoho musí být obětován pro to, aby druhý mohl žít. I když se na tuto schopnost nekromanté a nekromantky dívají se svraštělým čelem, někteří její uživatelé mají problém odolat lákavosti surové životní energie.
+tagGDX1Class08SkillDescription01A=Nekromanti obecně věří ve vyšší dobro a někdy vyšší dobro znamená to, že život jednoho musí být obětován pro to, aby druhý mohl žít. I když se na tuto schopnost nekromanté a nekromantky dívají se svraštělým čelem, někteří její uživatelé mají problém odolat lákavosti surové životní energie.
 tagGDX1Class08SkillName01B=Hlad
-tagGDX1Class08SkillDescription01B=Hlad po životní esenci nemusí být jednoduché uspokojit, pokud si již jednou [[ms]okusil[fs]okusila]. S tím, jak promítáš svůj hlad do kouzla toto kouzlo ovlivňuješ a tak jsou kromě hlavního cíle občas zasaženi i nepřátelé v blízkosti.
+tagGDX1Class08SkillDescription01B=Hlad po životní esenci nemusí být jednoduché uspokojit, pokud jej jednou okusíš. S tím, jak promítáš svůj hlad do kouzla toto kouzlo ovlivňuješ a tak jsou kromě hlavního cíle občas zasaženi i nepřátelé v blízkosti.
 tagGDX1Class08SkillName01C=Rozklad
 tagGDX1Class08SkillDescription01C=Ještě před tím, než vyhasne život v jejich očích, se tví přátelé začnou rozkládat tam, kde stojí.
 tagGDX1Class08SkillName01D=Smrtonosný chlad
-tagGDX1Class08SkillDescription01D=[[ms]Nekromanté[fs]Nekromantky], jež dobře využívají verše smrti, mohou donutit smrtící chlad padnout na nepohodlné nepřátele, čímž je zpomalí, nicméně za cenu menšího množství vysáté životní energie.
+tagGDX1Class08SkillDescription01D=Nekromanti, jež dobře využívají verše smrti, mohou donutit smrtící chlad padnout na nepohodlné nepřátele, čímž je zpomalí, nicméně za cenu menšího množství vysáté životní energie.
 xxtagGDX1Class08SkillName01D=Nekonečná žízeň
 xxtagGDX1Class08SkillDescription01D=Přenos životní energie je obecně schopnost vyhrazená pro kritické situace, ale někteří její uživatelé mají problém s odoláváním vůči této čisté životní energii a plně se tomuto kouzlu poddají, avšak na úkor těch, co stojí kolem.
 
 tagGDX1Class08SkillName02A=Vyvolání kostlivců
-tagGDX1Class08SkillDescription02A=Umění oživování koster patří mezi první kroky aspirujících nekromantů či nekromantek, ale také mezi ty nejzákladnější. Skrze jejich čirou mysl mohou [[ms]nekromanté[fs]nekromantky] zavolat duchy spoza závoje reality a umístit je do kostí padlých. Pokud je rituál úspěšný, kosterní poskoci, loajální pouze tomu, kdo je vyvolal, povstanou. ^oKostlivci sílí s polu s bonusy pro mazlíčky. Silnější nohsledi mohou být vyvoláni na vyšší úrovni kouzla.
+tagGDX1Class08SkillDescription02A=Umění oživování koster patří mezi první kroky aspirujících nekromantů či nekromantek, ale také mezi ty nejzákladnější. Skrze jejich čirou mysl mohou nekromanti zavolat duchy spoza závoje reality a umístit je do kostí padlých. Pokud je rituál úspěšný, kosterní poskoci, loajální pouze tomu, kdo je vyvolal, povstanou. ^oKostlivci sílí s polu s bonusy pro mazlíčky. Silnější nohsledi mohou být vyvoláni na vyšší úrovni kouzla.
 tagGDX1Class08SkillTracker02A=Momentální počet vyvolaných kostlivců
 tagGDX1Class08SkillName02A_PetSkill=Starodávné zbraně
 tagGDX1Class08SkillName02A_PetSkill02=Úlomek ohně
@@ -145,16 +145,16 @@ tagGDX1Class08SkillDescription02C=Posilní kosterní přívržence nekrotickými
 tagGDX1Class08SkillName02D=Náhradní kosti
 tagGDX1Class08SkillDescription02D=Zkušený nekromant či nekromantka využije jakékoliv prostředky, které jsou k dispozici. Je tak možnost, že z každého zabitého nepřítele povstane další poslušný nohsled. ^oTato možnost se aktivuje ve chvíli, kdy hráč zabije nepřítele.
 tagGDX1Class08SkillName02E=Rituál s kostmi
-tagGDX1Class08SkillDescription02E=Díky intenzivnímu psychickému tréninku může [[ms]nekromant[fs]nekromantka] vštípit prokletí nemrtvých do kostí mrtvých, a to po neurčitou dobu, čímž si umožňuje vytvořit si malou legii nemrtvých. Tito bojovníci, kteří nechřadnou časem, jsou nicméně více zranitelní díky tomu, jak moc touží být milosrdně propuštěni ze spárů smrti.
+tagGDX1Class08SkillDescription02E=Díky intenzivnímu psychickému tréninku může nekromant vštípit prokletí nemrtvých do kostí mrtvých, a to po neurčitou dobu, čímž si umožňuje vytvořit si malou legii nemrtvých. Tito bojovníci, kteří nechřadnou časem, jsou nicméně více zranitelní díky tomu, jak moc touží být milosrdně propuštěni ze spárů smrti.
 
 tagGDX1Class08SkillName03A=Sběr kostí
-tagGDX1Class08SkillDescription03A=Skrze sílu nekrotických energií může [[ms]nekromant[fs]nekromantka] donutit kosti dávno padlých, aby prorazily zem a jako zubatá ostří nabodávaly nicnetušící nepřátele.
+tagGDX1Class08SkillDescription03A=Skrze sílu nekrotických energií může nekromant donutit kosti dávno padlých, aby prorazily zem a jako zubatá ostří nabodávaly nicnetušící nepřátele.
 tagGDX1Class08SkillName03B=Děs
 tagGDX1Class08SkillDescription03B=Nekrotické hroty kostí probodávají samotnou esenci tvých nepořátel, čímž odrhává život z jejich těl a slabší nepřátelé v hrůze prchají, pokud tedy jejich život neprchnul už předtím.
 tagGDX1Class08SkillName03C=Sklízení duší
 tagGDX1Class08SkillDescription03C=Kosti mrtvých lámou a absorbují duši tvých nepřátel, což tobě a tvým nohsledům dodává sílu právě zabitých. ^oSklízení duší ovlivňuje všechny útoky a všechny mazlíčky, pokud je aktivní.
 tagGDX1Class08SkillName03D=Žnec mrtvých
-tagGDX1Class08SkillDescription03D=[[ms]Nekromanté trénovaní[fs]Nekromantky trénované] v boji na blízko nejsou ničím neobvyklým, ale [[ms]ti[fs]ty], jež používají masivní obouruční sbraně, aby [[ms]nakrájeli[fs]nakrájely] nepřátele na bojištích, se právoplatně nazývají [[ms]"sběratelé kostí"[fs]"sběratelky kostí"]. Kolují historky, že Černá legie tyto jedince raději najímala, než aby je popravovala za porušení nařízení říše. ^oVyžaduje obouruční chladnou zbraň.
+tagGDX1Class08SkillDescription03D=Nekromanti trénovaní v boji na blízko nejsou ničím neobvyklým, ale ti, jež používají masivní obouruční sbraně, aby nakrájeli nepřátele na bojištích, se právoplatně nazývají "sběratelé kostí". Kolují historky, že Černá legie tyto jedince raději najímala, než aby je popravovala za porušení nařízení říše. ^oVyžaduje obouruční chladnou zbraň.
 
 tagGDX1Class08SkillName04A=Hladová Země
 tagGDX1Class08SkillDescription04A=Na tvůj příkaz se nákaza a hniloba valí z pekelných trhlin v zemi a infikuje všechny nešťastníky, kteří stojí příliš blízko.
@@ -175,7 +175,7 @@ tagGDX1Class08SkillName05D=Nestálá anomálie
 tagGDX1Class08SkillDescription05D=Zatímco Odporná stvůra může sloužit jako postačující strážce, pozměněný nekromantský rituál jej může také proměnit ve vysoce nestálého přenašeče hniloby a rozkladu na bojišti. Tyto nestálé ohavnosti se zuřivě proženou přes tvé nepřátele ještě před tím, než poměrně rychle explodují.
 
 tagGDX1Class08SkillName06A=Vázání ducha
-tagGDX1Class08SkillDescription06A=Svázání ducha je velmi nebezpečná technika, ale také tě může obohatit zapomenutými znalostmi či dokonce ochranou. Tím, že donutíš ducha, aby ti sloužil, stáváš se [[ms]obohacený[fs]obohacená] o jejich esenci, což ti dodává zdraví a další kontrolu nad tvými nekrotickými silami. ^oTato schopnost musí být aktivní, aby účinkovala.
+tagGDX1Class08SkillDescription06A=Svázání ducha je velmi nebezpečná technika, ale také tě může obohatit zapomenutými znalostmi či dokonce ochranou. Tím, že donutíš ducha, aby ti sloužil, obohatíš se o jeho esenci, což ti dodává zdraví a další kontrolu nad tvými nekrotickými silami. ^oTato schopnost musí být aktivní, aby účinkovala.
 tagGDX1Class08SkillName06B=Zloba ducha
 tagGDX1Class08SkillDescription06B=Duchové ti umožňují ohnat se po čemkoliv, co se tě snaží napadnout, čímž je prokleješ vysilujícím kouzlem ze záhrobí.
 
@@ -184,10 +184,10 @@ tagGDX1Class08SkillDescription07A=Vypuštěním nekrotických energií se pokou�
 tagGDX1Class08SkillName07B=Vařící se krev
 tagGDX1Class08SkillDescription07B=Tato kletba zahřeje krev v tvých nepřátelích a ta začne vařit, což způsobí během jejich posledních výdechů také rychlý rozklad.
 tagGDX1Class08SkillName07C=Spálení duše
-tagGDX1Class08SkillDescription07C=Vedením surové energie Aetheru do schopnosti Přečerpání duše může [[ms]nekromant[fs]nekromantka] pálit samotné duše svých nepřátel po delší dobu, ale esence přenášená tímto způsobem není až tak stabilní.
+tagGDX1Class08SkillDescription07C=Vedením surové energie Aetheru do schopnosti Přečerpání duše může nekromanta pálit samotné duše svých nepřátel po delší dobu, ale esence přenášená tímto způsobem není až tak stabilní.
 
 tagGDX1Class08SkillName08A=Znamení nemoci
-tagGDX1Class08SkillDescription08A=Samotná [[ms]nekromantova[fs]nekromantina] přítomnost je často dostačující, aby vyvolala hrůzu v řadách nepřátel. Vydáváš zvuk v podobě kvílení duchů na svůj cíl, čímž otřeseš důvěrou slabších nepřátel a tak se mezi nimi začne rychle šířit zmatek a strach.
+tagGDX1Class08SkillDescription08A=Samotná nekromantova přítomnost je často dostačující, aby vyvolala hrůzu v řadách nepřátel. Vydáváš zvuk v podobě kvílení duchů na svůj cíl, čímž otřeseš důvěrou slabších nepřátel a tak se mezi nimi začne rychle šířit zmatek a strach.
 
 tagGDX1Class08SkillName09A=Odtržení ducha
 tagGDX1Class08SkillDescription09A=Jedna z nejmocnějších technik věnovaná nasledníkům Uroboruuka. Tím, že odtrhneš bytost od těla nepřítele můžeš způsobit nejen zdrcující zranění, ale dokonce vyvolat část jejich ducha, aby bojoval po tvém boku. Výsledkem je vysoce nestabilní, agresivní přízrak, což je ještě více užitečné v boji. ^oDuchové sílí spolu s bonusy pro mazlíčky.
@@ -195,13 +195,13 @@ tagGDX1Class08SkillName09A_PetSkill=Dotek ducha
 tagGDX1Class08SkillName09A_PetSkill02=Nova vitality
 
 tagGDX1Class08SkillName10A=Posel duší
-tagGDX1Class08SkillDescription10A=Tím jak mistrně ovládáš smrt ses [[ms]stal[fs]stala] živoucím poslem tohoto poslednmího soudu, vysáváš z nepřátel životní energii a chceš tak svévolně manipulovat cílem. ^oTato schopnost musí být aktivní, aby účinkovala.
+tagGDX1Class08SkillDescription10A=Tím jak mistrně ovládáš smrt, se stáváš živoucím poslem tohoto posledního soudu, vysáváš z nepřátel životní energii a chceš tak svévolně manipulovat cílem. ^oTato schopnost musí být aktivní, aby účinkovala.
 
 tagGDX1Class08SkillName11A=Ovládnutí smrti
-tagGDX1Class08SkillDescription11A=Plně [[ms]vytrénovaný nekromant[fs]vytrénovaná nekromantka] je hrůzostrašná postava, jejíž příchod je provázen nekonečnými zástupy nemrtvých, navždy podřízených vůli jejich [[ms]pána[fs]paní]. ^oTato schopnost musí být aktivní, aby účinkovala.
+tagGDX1Class08SkillDescription11A=Plně vytrénovaný nekromant je hrůzostrašná postava, jejíž příchod je provázen nekonečnými zástupy nemrtvých, navždy podřízených vůli jejich pána. ^oTato schopnost musí být aktivní, aby účinkovala.
 
 tagGDX1Class08SkillName12A=Odtrhávající úder
-tagGDX1Class08SkillDescription12A=Posílením zbraní smrtícími nekrotickými energiemi mohou [[ms]nekromanté[fs]nekromantky] způsobovat hluboká fyzická zranění. ^oLze aktivovat všemi běžnými typy útoků zbraně.
+tagGDX1Class08SkillDescription12A=Posílením zbraní smrtícími nekrotickými energiemi mohou nekromanti způsobovat hluboká fyzická zranění. ^oLze aktivovat všemi běžnými typy útoků zbraně.
 tagGDX1Class08SkillName13A=Nekrotické ostří
 tagGDX1Class08SkillDescription13A=Díky účinku hrobového chladu tvé útoky způsobují okamžitou nekrózu v ráně, pohled díky kterému i ti nejodhodlanější nepřátelé zeslábnou. ^oLze aktivovat všemi běžnými typy útoků zbraně. Pokud je použita chladná zbraň, útok zasáhne vícero cílů v blízkosti.
 
@@ -209,7 +209,7 @@ tagGDX1Class08SkillName14A=Znamení trýzně
 tagGDX1Class08SkillDescription14A=Ikdyž se všichni musí podvolit nakonec svému osudu, tvá schopnost manipulovat se smrtí ti umožňuje oddálit nevyhnutelné. Tím, že propojíš svojí duši s nepřítelem v blízkosti, přesuneš některá ze zranění vedených proti tobě právě na něj. ^oPouze jeden nepřítel může být označen v ten daný okamžik.
 
 tagGDX1Class08SkillName15A=Volání z hrobu
-tagGDX1Class08SkillDescription15A=Na příkaz jejich [[ms]vládce[fs]vládkyně] mohou nohsledi uvolnit energii z hrobu, která je pohání, což z nich udělá brutální a šílené jedince.
+tagGDX1Class08SkillDescription15A=Na příkaz svého vládce mohou nohsledi uvolnit energii z hrobu, která je pohání, což z nich udělá brutální a šílené jedince.
 
 #ItemSkills
 
@@ -247,7 +247,7 @@ tagGDX1ItemSkillC108Name=Dreadwalkerova elegance
 tagGDX1ItemSkillC108Desc=Inhaluj energie vycházející z čerstvě padlých nepřátel, obnov tak část své síly a posilni své odporné schopnosti.
 
 tagGDX1ItemSkillC109Name=Přítomnost Luminářů
-tagGDX1ItemSkillC109Desc=Už jen samotná přítomnost [[ms]trénovaného inkvizitora[fs] trénované inkvizitorky] Luminářů je dost na to, aby byly stvůry a kacíři uvrženi v obavy. ^oTato schopnost musí být aktivní, aby účinkovala.
+tagGDX1ItemSkillC109Desc=Už jen samotná přítomnost trénovaného inkvizitora Luminářů je dost na to, aby byly stvůry a kacíři uvrženi v obavy. ^oTato schopnost musí být aktivní, aby účinkovala.
 
 tagGDX1ItemSkillC110Name=Dávka jedovatých projektilů
 tagGDX1ItemSkillC110Desc=Je z tebe uvolněna dávka jedovatých projektilů.
@@ -338,10 +338,10 @@ tagGDX1ItemSkillD125Name=Rozzuřený oheň
 tagGDX1ItemSkillD125Desc=Salva poskvrněných plamenů šlehá ze země.
 
 tagGDX1ItemSkillD126Name=Gar'dalův oheň
-tagGDX1ItemSkillD126Desc=Zaplav [[ms]sám[fs]sama] sebe v Gar'dalových zkažených plamenech, které tobě a těm, které považuješ za spojence, nepůsobí žádnou újmu, zatímco tví nepřátelé, kteří jsou dost blízko, se snadno opálí.
+tagGDX1ItemSkillD126Desc=Zaplavíš sebe v Gar'dalových zkažených plamenech, které tobě a těm, které považuješ za spojence, nepůsobí žádnou újmu, zatímco tví nepřátelé, kteří jsou dost blízko, se snadno opálí.
 
 tagGDX1ItemSkillD127Name=Ostří popravčího
-tagGDX1ItemSkillD127Desc=Vypusť smrtící rotující čepel a setni hlavy svých nepřátel.
+tagGDX1ItemSkillD127Desc=Vypustíš smrtící rotující čepel a setneš hlavy svých nepřátel.
 
 tagGDX1ItemSkillD128Name=Výdrž gladiátora
 tagGDX1ItemSkillD128Desc=Výdrž díky slavným bitvám. ^oToto je pasivní bonus pro obouruční chladné a obouruční střelné zbraně.
@@ -373,7 +373,7 @@ tagGDX1ItemSkillD136Desc=Louže odporné krve se vytvoří pod nohami tvých nep
 tagGDX1ItemSkillD137Name=Elementální síla
 tagGDX1ItemSkillD137Desc=Točící se vír arkanické energie vychází z tvé postavy.
 
-tagGDX1ItemSkillD138Name=[[ms]Vládce[fs]Vládkyně] duchů
+tagGDX1ItemSkillD138Name=Vládce duchů
 tagGDX1ItemSkillD138Desc=Tvá nadvláda nad svými nemrtvými sluhy je insipiruje nepřekonatelnou měrou.
 
 tagGDX1ItemSkillD139Name=Šepot Prázdnoty
@@ -652,7 +652,7 @@ tagGDX1ConsumableSkill_F107Desc=Nápoj tě naplní čirostí účelu.
 #SkillsQuest
 
 tagQuestSkill_A101=Malostriina obrana
-tagQuestSkill_A101Desc=[[ms]Byl[fs]Byla] jsi obdarována ochranou matróny Malostrie, která tě bude chránit před odpornými duchy.
+tagQuestSkill_A101Desc=Získáš ochranu matróny Malostrie, která tě bude chránit před odpornými duchy.
 
 tagQuestSkill_A102=Ochrana Sněmu
 tagQuestSkill_A102Desc=Vytvořená Ugdenbogským sněmem, aby tě chránila před duchy.
@@ -746,7 +746,7 @@ tagGDX1EnemySkillA08=Proutěné vězení
 tagGDX1EnemySkillA08_Desc=Kanibal tě uvěznil uvnitř proutěného vězení, čímž z tebe udělal snadnou kořist pro ostatní.
 
 tagGDX1EnemySkillA09=Propojení krví
-tagGDX1EnemySkillA09_Desc=Jsi [[ms]spojen[fs]spojena] s kanibalem, který je blízko, vampirickým spojením. Tím, že se vzdálíš, toto spojení přerušíš.
+tagGDX1EnemySkillA09_Desc=S nedalekým kanibalem získáš upíří propojení. Pokud se vzdálíš, toto spojení přerušíš.
 
 tagGDX1EnemySkillA10=Dávení
 tagGDX1EnemySkillA10_Desc=Miazma Napuchliny je tak odporná, že se jen tak tak neudávíš, to ale snižuje tvou maximální hodnotu zdraví, obnovu zdraví a obnovu energie.
@@ -759,13 +759,13 @@ tagGDX1EnemySkillB01=Aura zastavení času
 tagGDX1EnemySkillB01_Desc=Jsi uvnitř subjektu s pokrouceným časem, což zpomaluje tvé činnosti.
 
 tagGDX1EnemySkillB02=Propojení krví
-tagGDX1EnemySkillB02_Desc=Jsi [[ms]spojen[fs]spojena] s nepřítelem, který je blízko, vampirickým spojením. Tím, že se vzdálíš, toto spojení přerušíš.
+tagGDX1EnemySkillB02_Desc=S nedalekým nepřítelem získáš upíří propojení. Pokud se vzdálíš, toto spojení přerušíš.
 
 tagGDX1EnemySkillD01=Ugdenbogská horečka
 tagGDX1EnemySkillD01_Desc=Smrtelná nemoc, která ochromuje mysl a odhaluje slabiny.
 
 tagGDX1EnemySkillD02=Odčerpávající propojení
-tagGDX1EnemySkillD02_Desc=Jsi [[ms]spojen[fs]spojena] s nepřítelem, který je blízko, vampirickým spojením, které odhaluje tvé slabiny. Tím, že se vzdálíš, toto spojení přerušíš.
+tagGDX1EnemySkillD02_Desc=S nedalekým nepřítelem získáš upíří propojení, které odhaluje tvé slabiny. Pokud se vzdálíš, toto spojení přerušíš.
 
 tagGDX1EnemySkillD03=Nasávání duší
 tagGDX1EnemySkillD03_Desc=Přízrak sklízí tvou duši, čímž odčerpává tvou obranu a vitalitu.
@@ -780,7 +780,7 @@ tagGDX1EnemySkillD06=Větší znamení Aetherického ohně
 tagGDX1EnemySkillD06_Desc=Aetherický oheň spaluje tvou duši, čímž tě vystavuje živlům a samotnému Aetheru.
 
 tagGDX1EnemySkillD07=Pustošitelova přítomnost
-tagGDX1EnemySkillD07_Desc=[[ms]Otřásl[fs]Otřásla] ses ze samotné Pustošitelovy přítomnosti, ducha Wendiga, čímž ochromí tvou obranu, sníží zdraví a také regeneraci zdraví.
+tagGDX1EnemySkillD07_Desc=Otřeseš se ze samotné Pustošitelovy přítomnosti, ducha Wendiga, čímž ochromí tvou obranu, sníží zdraví a také regeneraci zdraví.
 
 tagGDX1EnemySkillD08=Zaplavení Aetherem
 tagGDX1EnemySkillD08_Desc=Theodenova přítomnost ohrožuje odhalení tvé fyzické formy, čímž způsobuje poškození Aetherem a redukuje obranyschopnost.
@@ -789,7 +789,7 @@ tagGDX1EnemySkillD09=Larrianiny ochrany
 tagGDX1EnemySkillD09_Desc=Larrianino doupě je velmi silně chráněno a tak dochází ke zraňování cizinců, zatímco ona je posilována.
 
 tagGDX1EnemySkillD10=Sežehnutí Aetherem
-tagGDX1EnemySkillD10_Desc=[[ms]Byl[fs]Byla] jsi sežehnuta blízkým Aetherickým krystalem, čímž se tento krystal s tebou propojil a způsobuje ti devastující poškození Aetherem do té doby, než spojení přerušíš.
+tagGDX1EnemySkillD10_Desc=Sežehně tě nedaleký Aetherickým krystal, čímž se tento krystal s tebou propojí a bude ti způsobovat devastující zranění Aetherem do doby, než spojení přerušíš.
 
 tagGDX1EnemySkillD11=Zaplavení Aetherem
 tagGDX1EnemySkillD11_Desc=Aetherický krystal nedaleko bzučí díky množství Aetheru a poškozuje tak ty, kteří si nevšimnou jeho přítomnosti.
