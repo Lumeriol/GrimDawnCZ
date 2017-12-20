@@ -2492,7 +2492,7 @@ tagQuestSkill_A01Desc=Tvé zbraně jsou požehnány svatým plamenem Empyriona.
 tagQuestSkill_A02=Očarování Strážců smrti
 tagQuestSkill_A02Desc=Tvé zbraně jsou očarovány Řádem.
 tagQuestSkill_A03=Anasteřino znamení
-tagQuestSkill_A03Desc=Jsi [[ms]označen[fs]označena] značkou Vyvrhelů.
+tagQuestSkill_A03Desc=Vyvrhelové si tě označili svou značkou.
 
 
 #SkillsGeneral
