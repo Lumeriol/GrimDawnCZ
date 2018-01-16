@@ -611,14 +611,14 @@ tagGDX1RelicSkillD113Desc=Požehnání boha bestií obklopuje tebe a tvé nohsle
 
 
 #ConsumableSkills
-tagGDX1ConsumableSkill_B101=Ugdenská šťáva
+tagGDX1ConsumableSkill_B101=Ugdenský dryák
 tagGDX1ConsumableSkill_B101Desc=Naplní tě uklidňujícím teplem.
 
-tagGDX1ConsumableSkill_B102=Ugdenský balzám
-tagGDX1ConsumableSkill_B102Desc=Revitalizuje a posílí kosti.
+tagGDX1ConsumableSkill_B102=Ugdenská mastička
+tagGDX1ConsumableSkill_B102Desc=Oživuje a posíluje kosti.
 
-tagGDX1ConsumableSkill_B103=Mast na odporné jizvy
-tagGDX1ConsumableSkill_B103Desc=Drasticky urychluje koagulaci.
+tagGDX1ConsumableSkill_B103=Mast na ošklivé jizvy
+tagGDX1ConsumableSkill_B103Desc=Drasticky urychluje srážlivost krve.
 
 tagGDX1ConsumableSkill_B104=Dranghoulův elixír
 tagGDX1ConsumableSkill_B104Desc=Naplní tě Dranghoulův vztek.
@@ -626,27 +626,27 @@ tagGDX1ConsumableSkill_B104Desc=Naplní tě Dranghoulův vztek.
 tagGDX1ConsumableSkill_B105=Mogdrogenův elixír
 tagGDX1ConsumableSkill_B105Desc=Způsobí, že tvé propojení s nohsledy je pevnější.
 
-tagGDX1ConsumableSkill_F101=Čarovný olej
-tagGDX1ConsumableSkill_F101Desc=Pomaže tvé zbraně čarovnou směsí.
+tagGDX1ConsumableSkill_F101=Zaklínací olej
+tagGDX1ConsumableSkill_F101Desc=Pomaže tvou zbraň očarovaným olejem.
 
-tagGDX1ConsumableSkill_F102=Prokletá tinktura
-tagGDX1ConsumableSkill_F102Desc=Vypustí krutou kletbu na nepřátele v blízkosti.
+tagGDX1ConsumableSkill_F102=Prokletý výtažek
+tagGDX1ConsumableSkill_F102Desc=Vypustí krvavou kletbu na nedaleké nepřátele.
 
 tagGDX1ConsumableSkill_F103=Olej aetherické ochrany
-tagGDX1ConsumableSkill_F103Desc=Pomaže tvé zbraně směsí aetherické ochrany.
+tagGDX1ConsumableSkill_F103Desc=Pomaže tvou zbraň ochrannou směsí proti Aetheru.
 
-tagGDX1ConsumableSkill_F104=Tinktura ohnivé bouře
-tagGDX1ConsumableSkill_F104Desc=Vyvolá explozi ohnivé bouře, která zasáhne nepřátele v blízkosti.
+tagGDX1ConsumableSkill_F104=Mast ohnivé bouře
+tagGDX1ConsumableSkill_F104Desc=Vyvolá explozi ohnivé bouře, která zasáhne nedaleké nepřátele.
 
-tagGDX1ConsumableSkill_F105=Tužebníkův olej
-tagGDX1ConsumableSkill_F105Desc=Pokreje tvé zbraně směsí tužebníka.
+tagGDX1ConsumableSkill_F105=Sžíravý olej
+tagGDX1ConsumableSkill_F105Desc=Do tvé zbraně bude vetknuta nenasytná lačnost.
 
-tagGDX1ConsumableSkill_F106=Odporná tinktura
-tagGDX1ConsumableSkill_F106Desc=Odporný duch straší tvé nepřátele.
+tagGDX1ConsumableSkill_F106=Smrdutý výtažek
+tagGDX1ConsumableSkill_F106Desc=Ničemný přízrak bude děsit tvé nepřátele.
 tagGDX1ConsumableSkill_F106PetSkill=Dotek přízraku
 
-tagGDX1ConsumableSkill_F107=Nápoj čirosti
-tagGDX1ConsumableSkill_F107Desc=Nápoj tě naplní čirostí účelu.
+tagGDX1ConsumableSkill_F107=Čirý lektvar
+tagGDX1ConsumableSkill_F107Desc=Nápoj tě naplní čistým svědomím.
 
 
 #SkillsQuest
