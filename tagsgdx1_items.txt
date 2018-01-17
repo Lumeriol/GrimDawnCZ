@@ -1210,113 +1210,113 @@ tagGDX1DLCA01Desc="Definice kultivovanosti a stylu."
 
 #ItemEnchantment
 
-tagGDX1EnchantA101A=Stardust
-tagGDX1EnchantA101Desc="Dust from a passing star, carefully collected so that its arcane properties would not wane."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
+tagGDX1EnchantA101A=Hvězdný prach
+tagGDX1EnchantA101Desc="Prach z prolétající komety, pečlivě sesbíraný tak, aby nevyprchaly jeho tajemné vlastnosti."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
 
-tagGDX1EnchantA102A=Silný Stardust
-tagGDX1EnchantA102Desc="Dust from a passing star, carefully collected so that its arcane properties would not wane."^w^n(použitelné na všechny obouruční zbraně)
+tagGDX1EnchantA102A=Silný hvězdný prach
+tagGDX1EnchantA102Desc="Prach z prolétající komety, pečlivě sesbíraný tak, aby nevyprchaly jeho tajemné vlastnosti."^w^n(použitelné na všechny obouruční zbraně)
 
-tagGDX1EnchantA103A=Whipvine Powder
-tagGDX1EnchantA103Desc="Whipvine is difficult to harvest, and sometimes deadly, but its many uses for both medicine and magic make it worth the effort."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
+tagGDX1EnchantA103A=Prach z vinné révy
+tagGDX1EnchantA103Desc="Vinnou révu je obtížné sklízet, jelikož často rostlina uschne, ale její využití v lékařství a magii za to riziko stojí."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
 
-tagGDX1EnchantA104A=Silný Whipvine Powder
-tagGDX1EnchantA104Desc="Whipvine is difficult to harvest, and sometimes deadly, but its many uses for both medicine and magic make it worth the effort."^w^n(použitelné na všechny obouruční zbraně)
+tagGDX1EnchantA104A=Silný prach z vinné révy
+tagGDX1EnchantA104Desc="Vinnou révu je obtížné sklízet, jelikož často rostlina uschne, ale její využití v lékařství a magii za to riziko stojí."^w^n(použitelné na všechny obouruční zbraně)
 
-tagGDX1EnchantA105A=Hexxer's Kiss
-tagGDX1EnchantA105Desc="A potent powder used by the Coven to dispose of particularly undesirable pests."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
+tagGDX1EnchantA105A=Polibek čaroděje
+tagGDX1EnchantA105Desc="Silný prášek používaný především Lóží čarodějek k hubení obzvláště nežádoucích škůdců."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
 
-tagGDX1EnchantA106A=Silný Hexxer's Kiss
-tagGDX1EnchantA106Desc="A potent powder used by the Coven to dispose of particularly undesirable pests."^w^n(použitelné na všechny obouruční zbraně)
+tagGDX1EnchantA106A=Silný polibek čaroděje
+tagGDX1EnchantA106Desc="Silný prášek používaný především Lóží čarodějek k hubení obzvláště nežádoucích škůdců."^w^n(použitelné na všechny obouruční zbraně)
 
-tagGDX1EnchantA107A=Blight Beast Pustules
-tagGDX1EnchantA107Desc="Though necromancy is seldom used among the Coven, it has its uses. The pus from blight beasts in particular has arcane properties if extracted properly."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
+tagGDX1EnchantA107A=Hnis ze zkázonosné nestvůry
+tagGDX1EnchantA107Desc="Ačkoliv je nekromancie v Lóži čarodějek využívána jen zřídka, má své využití. Hnis ze zkázonosných nestvůr má zajímavé vlastnosti, pokud víš, jak jej vyextrahovat."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
 
-tagGDX1EnchantA108A=Silný Blight Beast Pustules
-tagGDX1EnchantA108Desc="Though necromancy is seldom used among the Coven, it has its uses. The pus from blight beasts in particular has arcane properties if extracted properly."^w^n(použitelné na všechny obouruční zbraně)
+tagGDX1EnchantA108A=Silný hnis ze zkázonosné nestvůry
+tagGDX1EnchantA108Desc="Ačkoliv je nekromancie v Lóži čarodějek využívána jen zřídka, má své využití. Hnis ze zkázonosných nestvůr má zajímavé vlastnosti, pokud víš, jak jej vyextrahovat."^w^n(použitelné na všechny obouruční zbraně)
 
-tagGDX1EnchantA109A=Rotflesh Powder
-tagGDX1EnchantA109Desc="The creator insisted that it is simply powdered flesh from the bloated human corpses floating about Ugdenbog. Nobody really wants to know for certain."^w^n(použitelné na prsten nebo amulet)
+tagGDX1EnchantA109A=Prach ze shnilého masa
+tagGDX1EnchantA109Desc="Stvořitel trval na tom, aby se použilo rozpadlé tělo z nafouklé lidské mrtvoly povalující se v Ugdenbogu. Nikdo po pravém původu raději nikdy nepátral."^w^n(použitelné na prsten nebo amulet)
 
-tagGDX1EnchantA110A=Void Tongue
-tagGDX1EnchantA110Desc="Powdered tongue from a Chthonian fiend."^w^n(použitelné na prsten nebo amulet)
+tagGDX1EnchantA110A=Jazyk Prázdnoty
+tagGDX1EnchantA110Desc="Zuhelnatělý jazyk z chthonské nestvůry."^w^n(použitelné na prsten nebo amulet)
 
-tagGDX1EnchantA111A=Magecap Powder
-tagGDX1EnchantA111Desc="Magecaps thrive in the damp earth of Ugdenbog, providing the Coven both with sustenance and materials for their craft."^w^n(použitelné na prsten nebo amulet)
+tagGDX1EnchantA111A=Prach ze zpeřenky
+tagGDX1EnchantA111Desc="Zpeřenky rostou ve vlhkém prostředí Ugdenbogu a poskytují tak pro Lóži čarodějek vhodnou obživu i materiál pro jejich nástroje."^w^n(použitelné na prsten nebo amulet)
 
-tagGDX1EnchantA112A=Hexxer's Bloom
-tagGDX1EnchantA112Desc="This plant appears to be new to Cairn, likely having traveled through the weakening barrier between realities as the rifthounds and other beasts had, but its arcane properties quickly earned it a place in the Coven's stockpiles."^w^n(použitelné na prsten nebo amulet)
+tagGDX1EnchantA112A=Čarodějův kvítek
+tagGDX1EnchantA112Desc="Zdá se, že tato rostlina se v Cairnu objevila zcela nově, pravděpodobně se sem dostala skrze oslabenou bariéru mezi světy, kterými sem proudí i další nestvůry a zvířata. V Lóži čarodějek si však rychle vydobily oblibu pro své zvláštní vlastnosti."^w^n(použitelné na prsten nebo amulet)
 
-tagGDX1EnchantA113A=Bloodrose Thorn
-tagGDX1EnchantA113Desc="So named for its incredibly sharp thorns and vibrant red color, the bloodrose thorn makes a potent hemorrhaging poison when concentrated."^w^n(použitelné na prsten nebo amulet)
+tagGDX1EnchantA113A=Trn z krvavé růže
+tagGDX1EnchantA113Desc="Rostlina pojmenovaná po sytě červené barvě s mohutnými trny. Drobné píchnutí o tento trn způsobuje silné krvácení a otravu koncentrovaným jedem."^w^n(použitelné na prsten nebo amulet)
 
-tagGDX1EnchantA114A=Hexxer's Delight
-tagGDX1EnchantA114Desc="Powder derived from a rare mushroom growing in Ugdenbog. It is considered a delicacy by the common folk, and a powerful ingredient by the Coven."^w^n(použitelné na prsten nebo amulet)
+tagGDX1EnchantA114A=Čarodějova rozkoš
+tagGDX1EnchantA114Desc="Prach derivovaný ze vzácných hub rostoucích v Ugdenbogu. Obyčejní lidé ji sbírají jako pochoutku, kdežto v Lóži čarodějek se používá pro zcela jiné účely."^w^n(použitelné na prsten nebo amulet)
 
-tagGDX1EnchantA115A=Machinist Powder
-tagGDX1EnchantA115Desc="Made famous by Malmouth's once booming industry, the enchanting powder strengthens metal to withstand even greater punishment."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
+tagGDX1EnchantA115A=Strojníkův prach
+tagGDX1EnchantA115Desc="Speciální prach vyhlášený po celém Malmouthu a využívaný především v průmyslu, jelikož zpevňuje kovy, aby odolávaly mnohem větší zátěži."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
 
-tagGDX1EnchantA116A=Silný Machinist Powder
-tagGDX1EnchantA116Desc="Made famous by Malmouth's once booming industry, the enchanting powder strengthens metal to withstand even greater punishment."^w^n(použitelné na všechny obouruční zbraně)
+tagGDX1EnchantA116A=Silný strojníkův prach
+tagGDX1EnchantA116Desc="Speciální prach vyhlášený po celém Malmouthu a využívaný především v průmyslu, jelikož zpevňuje kovy, aby odolávaly mnohem větší zátěži."^w^n(použitelné na všechny obouruční zbraně)
 
-tagGDX1EnchantA117A=Void Tar
-tagGDX1EnchantA117Desc="Though difficult to work with and highly unstable, Malmouth's arcanists had discovered a use for this dense material in their enchantments."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
+tagGDX1EnchantA117A=Kolomaz Prázdnoty
+tagGDX1EnchantA117Desc="Těžko zpracovatelný a velmi nestabilní materiál. Malmouthští alchymisté dokázali využít tento hutný materiál pro kouzelnické účely."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
 
-tagGDX1EnchantA118A=Silný Void Tar
-tagGDX1EnchantA118Desc="Though difficult to work with and highly unstable, Malmouth's arcanists had discovered a use for this dense material in their enchantments."^w^n(použitelné na všechny obouruční zbraně)
+tagGDX1EnchantA118A=Silný kolomaz Prázdnoty
+tagGDX1EnchantA118Desc="Těžko zpracovatelný a velmi nestabilní materiál. Malmouthští alchymisté dokázali využít tento hutný materiál pro kouzelnické účely."^w^n(použitelné na všechny obouruční zbraně)
 
-tagGDX1EnchantA119A=Imp Eye Powder
-tagGDX1EnchantA119Desc="Powder extracted from the bloated eyes of Aetherial imps."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
+tagGDX1EnchantA119A=Prach z rarachova oka
+tagGDX1EnchantA119Desc="Prach extrahovaný z nafouklých očí Aetherianských rarachů."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
 
-tagGDX1EnchantA120A=Silný Imp Eye Powder
-tagGDX1EnchantA120Desc="Powder extracted from the bloated eyes of Aetherial imps."^w^n(použitelné na všechny obouruční zbraně)
+tagGDX1EnchantA120A=Silný prach z rarachova oka
+tagGDX1EnchantA120Desc="Prach extrahovaný z nafouklých očí Aetherianských rarachů."^w^n(použitelné na všechny obouruční zbraně)
 
-tagGDX1EnchantA121A=Sparkbloom Powder
-tagGDX1EnchantA121Desc="Powder from a vibrant flower found growing in the outskirts of Malmouth, known for its fire-tinted petals."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
+tagGDX1EnchantA121A=Prach z jiskřícího květu
+tagGDX1EnchantA121Desc="Prášek z rozechvělé květiny, která roste na předměstí Malmouthu. Rostlina je známa pro své ohnivě zbarvené okvětní lístky."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
 
-tagGDX1EnchantA122A=Silný Sparkbloom Powder
-tagGDX1EnchantA122Desc="Powder from a vibrant flower found growing in the outskirts of Malmouth, known for its fire-tinted petals."^w^n(použitelné na všechny obouruční zbraně)
+tagGDX1EnchantA122A=Silný prach z jiskřícího květu
+tagGDX1EnchantA122Desc="Prášek z rozechvělé květiny, která roste na předměstí Malmouthu. Rostlina je známa pro své ohnivě zbarvené okvětní lístky."^w^n(použitelné na všechny obouruční zbraně)
 
-tagGDX1EnchantA123A=Blazecore Powder
-tagGDX1EnchantA123Desc="Powder extracted from the blazing hearts of fiery beasts."^w^n(použitelné na prsten nebo amulet)
+tagGDX1EnchantA123A=Popel z ohniska požáru
+tagGDX1EnchantA123Desc="Prach vyextrahovaný z hořícího srdce ohnivého zvířete."^w^n(použitelné na prsten nebo amulet)
 
-tagGDX1EnchantA124A=Fleshwarp Powder
-tagGDX1EnchantA124Desc="This enchanting powder must be carefully handled such that it never touches human flesh, but acquiring the materials from Aetherial corruptions is perhaps the most difficult part."^w^n(použitelné na prsten nebo amulet)
+tagGDX1EnchantA124A=Masorvoucí prášek
+tagGDX1EnchantA124Desc="Tento čarodějný prášek musí být opatrně používán tak, aby se nikdy nedotkl lidské kůže. Ovšem jeho získání ze zkažených částí Aetherianského těla je mnohem obtížnější."^w^n(použitelné na prsten nebo amulet)
 
-tagGDX1EnchantA125A=Void Ash
-tagGDX1EnchantA125Desc="Ashes from the Chthonian realm, sometimes found on the bodies of slain Chthonians. You would not find anyone foolish enough to actually enter a Chthonian rift."^w^n(použitelné na prsten nebo amulet)
+tagGDX1EnchantA125A=Popel Prázdnoty
+tagGDX1EnchantA125Desc="Popel z Chthonského světa, který se občas nalézá na tělech zemřelých Chthonianů. Pravděpodobně nenajdeš žádného pitomce, který by se kdy dobrovolně vydal skrze Chthonskou bránu."^w^n(použitelné na prsten nebo amulet)
 
-tagGDX1EnchantA126A=Nightsteel Polish
-tagGDX1EnchantA126Desc="A Malmouth specialty, highly coveted by the nightblades of Erulan."^w^n(použitelné na prsten nebo amulet)
+tagGDX1EnchantA126A=Leštidlo na ocel noci
+tagGDX1EnchantA126Desc="Malmouthská specialitka, velmi často využívaná Erulanskými Nočními čepelemi."^w^n(použitelné na prsten nebo amulet)
 
-tagGDX1EnchantA127A=Mender's Powder
-tagGDX1EnchantA127Desc="Concocted by the survivors of Malmouth to quickly mend wounds on the fields of battle."^w^n(použitelné na prsten nebo amulet)
+tagGDX1EnchantA127A=Menderův prášek
+tagGDX1EnchantA127Desc="Prášek namíchaný přeživšími v Malmouthu, aby se jim rychle zacelily rány z bitev."^w^n(použitelné na prsten nebo amulet)
 
-tagGDX1EnchantA128A=Colossus Spine
-tagGDX1EnchantA128Desc="Aetherial colossi are nothing to be trifled with, but even bringing one down provides enough material to create several month's supply."^w^n(použitelné na prsten nebo amulet)
+tagGDX1EnchantA128A=Osten z kolosa
+tagGDX1EnchantA128Desc="Aetherianští kolosové nejsou nic, z čeho bychom si sedli na zadek, ale i zabití jednoho z nich představuje dostatek materiálu na vytvoření si zásob na několik měsíců."^w^n(použitelné na prsten nebo amulet)
 
-tagGDX1EnchantA129A=Wendigo Fur
-tagGDX1EnchantA129Desc="Powder derived from tufts of wendigo fur, gift from the Ravager."^w^n(použitelné na všechny jednoduční zbraně, štít nebo kouzelnický příruční předmět)
+tagGDX1EnchantA129A=Prach z wendigovy srsti
+tagGDX1EnchantA129Desc="Prach je vyextrahovaný z chlupů wendigovy srsti jako dar od Pustošitele."^w^n(použitelné na všechny jednoduční zbraně, štít nebo kouzelnický příruční předmět)
 
-tagGDX1EnchantA130A=Silný Wendigo Fur
-tagGDX1EnchantA130Desc="Powder derived from tufts of wendigo fur, gift from the Ravager."^w^n(použitelné na všechny obouruční zbraně)
+tagGDX1EnchantA130A=Silný prach z wendigovy srsti
+tagGDX1EnchantA130Desc="Prach je vyextrahovaný z chlupů wendigovy srsti jako dar od Pustošitele."^w^n(použitelné na všechny obouruční zbraně)
 
-tagGDX1EnchantA131A=Bloodscale Powder
-tagGDX1EnchantA131Desc="Powder derived from the scales of the Bloodscale Slith sometimes seen roaming parts of Ugdenbog."^w^n(použitelné na všechny jednoduční zbraně, štít nebo kouzelnický příruční předmět)
+tagGDX1EnchantA131A=Prach z krvošupinatce
+tagGDX1EnchantA131Desc="Prach vyextrahovaný z šupin krvošupinatců, jež se občas ukážou na území Ugdenbogu."^w^n(použitelné na všechny jednoduční zbraně, štít nebo kouzelnický příruční předmět)
 
-tagGDX1EnchantA132A=Silný Bloodscale Powder
-tagGDX1EnchantA132Desc="Powder derived from the scales of the Bloodscale Slith sometimes seen roaming parts of Ugdenbog."^w^n(použitelné na všechny obouruční zbraně)
+tagGDX1EnchantA132A=Silný prach z krvošupinatce
+tagGDX1EnchantA132Desc="Prach vyextrahovaný z šupin krvošupinatců, jež se občas ukážou na území Ugdenbogu."^w^n(použitelné na všechny obouruční zbraně)
 
-tagGDX1EnchantA133A=Spikeshell Powder
-tagGDX1EnchantA133Desc="Powder derived from the hard carapace of Ugdenbog spikeshell. It takes many hours and great strength to crush the shell into such a fine material."^w^n(použitelné na všechny jednoduční zbraně, štít nebo kouzelnický příruční předmět)
+tagGDX1EnchantA133A=Prach z ostnaté lastury
+tagGDX1EnchantA133Desc="Prach je vyextrahovaný z tvrdého krunýře ugdenských korýšů. Abychom získali takto jemný prášek, tak rozbití krunýře zabere mnoho hodin a chce to obrovskou sílu."^w^n(použitelné na všechny jednoduční zbraně, štít nebo kouzelnický příruční předmět)
 
-tagGDX1EnchantA134A=Silný Spikeshell Powder
-tagGDX1EnchantA134Desc="Powder derived from the hard carapace of Ugdenbog spikeshell. It takes many hours and great strength to crush the shell into such a fine material."^w^n(použitelné na všechny obouruční zbraně)
+tagGDX1EnchantA134A=Silný prach z ostnaté lastury
+tagGDX1EnchantA134Desc="Prach je vyextrahovaný z tvrdého krunýře ugdenských korýšů. Abychom získali takto jemný prášek, tak rozbití krunýře zabere mnoho hodin a chce to obrovskou sílu."^w^n(použitelné na všechny obouruční zbraně)
 
-tagGDX1EnchantA135A=Haunted Powder
-tagGDX1EnchantA135Desc="Powder left behind by the ghostly apparitions sometimes seen around Ugdenbog."^w^n(použitelné na všechny jednoduční zbraně, štít nebo kouzelnický příruční předmět)
+tagGDX1EnchantA135A=Strašidelný prach
+tagGDX1EnchantA135Desc="Prášek trousí strašidelná zjevení, která jsou sem tam spatřena v okolí Ugdenbogu."^w^n(použitelné na všechny jednoduční zbraně, štít nebo kouzelnický příruční předmět)
 
-tagGDX1EnchantA136A=Silný Haunted Powder
-tagGDX1EnchantA136Desc="Powder left behind by the ghostly apparitions sometimes seen around Ugdenbog."^w^n(použitelné na všechny obouruční zbraně)
+tagGDX1EnchantA136A=Silný strašidelný prach
+tagGDX1EnchantA136Desc="Prášek trousí strašidelná zjevení, která jsou sem tam spatřena v okolí Ugdenbogu."^w^n(použitelné na všechny obouruční zbraně)
 
 
 tagGDX1EnchantB101A=Důvtip čarodějky
