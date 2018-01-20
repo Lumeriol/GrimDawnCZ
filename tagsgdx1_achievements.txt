@@ -35,7 +35,7 @@ achGDX1010Title=Dýky ve tmě
 achGDX1010Desc=Zlikviduj Ekket'Zula, tvůrce temnoty na konci Prázdnoty.
 
 achGDX1011Title=Nakonec do Temnoty
-achGDX1011Desc=SlZlikvidujay Ekket'Zul, tvůrce temnoty na konci Prázdnoty na ultimátní obtížnosti.
+achGDX1011Desc=Zlikviduj Ekket'Zula, tvůrce temnoty na konci Prázdnoty na ultimátní obtížnosti.
 
 achGDX1012Title=Ťuky ťuk
 achGDX1012Desc=Zlikviduj Bollaga, strážce brány na Malmouthském mostě.
@@ -44,10 +44,10 @@ achGDX1013Title=Lamač bran
 achGDX1013Desc=Zlikviduj Bollaga, strážce brány na Malmouthském mostě na ultimátní obtížnosti.
 
 achGDX1014Title=Ostatní mohou růst
-achGDX1014Desc=Zlividuj Sylvarrii v Podrostu.
+achGDX1014Desc=Zlikviduj Sylvarrii v Podrostu.
 
 achGDX1015Title=Zabiják nedochůdčat
-achGDX1015Desc=Zlividuj Sylvarrii v Podrostu na ultimátní obtížnosti.
+achGDX1015Desc=Zlikviduj Sylvarrii v Podrostu na ultimátní obtížnosti.
 
 achGDX1016Title=Zase TY?!
 achGDX1016Desc=Zlikviduj Masorvoucího Kriega na Jatkách.
@@ -68,10 +68,10 @@ achGDX1021Title=Horský zabiják
 achGDX1021Desc=Zlikviduj Galakrose, Horu v Malmouthských stokách na ultimátní obtížnosti.
 
 achGDX1022Title=Metla z Malmouthu
-achGDX1022Desc=Zlikviduj Theodina Marcella, porcovače ve Svatyni masa.
+achGDX1022Desc=Zlikviduj Theodina Marcella, Mistrovského řezníka, ve Svatyni masa.
 
 achGDX1023Title=Pomsta za padlé
-achGDX1023Desc=Zlikviduj Theodina Marcella, porcovače ve Svatyni masa na ultimátní obtížnosti.
+achGDX1023Desc=Zlikviduj Theodina Marcella, Mistrovského řezníka, ve Svatyni masa na ultimátní obtížnosti.
 
 achGDX1024Title=Zpustošení
 achGDX1024Desc=Poraž jedno ze zjevení Pustošitele, Přízraku Wendiga.
