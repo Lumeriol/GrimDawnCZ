@@ -426,8 +426,8 @@ tagPOIQuest_NecropolisRift=Zabezpeč Bránu v Pohřebišti
 
 #Notifications
 
-tagNotification_WightmireBurialCaveFound=Zdroj nemrtvých je poblíž...
-tagNotification_WightmireReanimatorFound=Stvoření je znovuoživená mrtvola!
+tagNotification_WightmireBurialCaveFound=Poblíž se nachází zdroj nemrtvých...
+tagNotification_WightmireReanimatorFound=Ta zrůda je znovuoživená mrtvola!
 tagNotification_WightmireCaravanFound=Tenhle masakr se stal nedávno...
 tagNotification_WightmireCaravanDriverFound=Vězeň prosí o pomoc!
 tagNotification_InventoryBagAcquired=Získán pytel na věci!
@@ -436,15 +436,15 @@ tagNotification_BurrwitchRiftgateSecured=Nepřátelé v okolí Burrwitchské Br�
 tagNotification_WardenCellarFound=Tohle musí být Wardenovo sklepení...
 tagNotification_WardenLabFound=Laboratoř. Warden musí být někde poblíž...
 tagNotification_LostApprenticeCellar=Někdo tady nedávno byl...
-tagNotification_LostApprenticeFound=Někde tady bude Kasparova učednice!
+tagNotification_LostApprenticeFound=Někde by tady měla být Kasparova učednice!
 tagNotification_WightmireRiftgate=Z Brány vylézají Aetheriané!
 
 tagNotification_HS_RemoveTheHead_ElsaFound=Zdá se, že Cronley nemá Elsu...
-tagNotification_HS_SpoilsOfTheGrimDawn=Prohledal jsi starou zříceninu.
+tagNotification_HS_SpoilsOfTheGrimDawn=Stará zřícenina byla prohledána do posledního kamínku.
 tagNotification_HS_WeNeedFood_HomesteadBridgeFound=Starý pobřežní most je zničený. Budeš muset najít cestu přes Pašerácký průsmyk.
-tagNotification_HS_WeNeedFood_HomesteadSmugglerPassCrossed=[[ms]Prošel[fs]Prošla jsi Pašeráckým průsmykem. Teď se podívej po cestě do Homesteadu.
-tagNotification_HS_OldArkoviaPassagesCompleted=Prošel jsi Arkovianskou chodbou a prozkoumal její obsah.
-tagNotification_HS_OldArkoviaPassagesBossKilled=Získal jsi kousek roztříštěné duše Poskvrněného!
+tagNotification_HS_WeNeedFood_HomesteadSmugglerPassCrossed=Pašerácký průsmyk máš za sebou. Teď se podívej po cestě do Homesteadu.
+tagNotification_HS_OldArkoviaPassagesCompleted=Arkovianská chodba je zvládnuta, a zcela prozkoumána.
+tagNotification_HS_OldArkoviaPassagesBossKilled=Získáváš kousek roztříštěné duše Poskvrněného!
 tagNotification_HS_RoverLegacy_Chthonians=Svatyně Mogdrogena je zamořená chthonickými bytostmi!
 tagNotification_HS_RoverLegacy_Cleansed=Chthonické bytosti byly vypuzeny!
 
@@ -454,13 +454,13 @@ tagNotification_AreaC_BloodHarvestFound=Někteří z uvězněných volají o pom
 tagNotification_AreaC_TrappedAndAloneReturn=V táboře Tuláků řádí chthonické příšery!
 
 tagNotification_AreaD_KymonSecret=Slyšíš z nedaleka přicházející skřípot otevíraných kamenných dveří.
-tagNotification_AreaD_NecropolisRiftgate=Ďáblové Prázdnoty vylézají z Brány!
+tagNotification_AreaD_NecropolisRiftgate=Z Brány vylézají Ďáblové Prázdnoty!
 tagNotification_AreaD_FortIkonRiftgate=Brána se hemží aetherijskými bojovníky.
 tagNotification_AreaD_FinalCryptLocked=Krypta je zapečetěna kultistickými pečetěmi, které jsou ještě umocněny nedalekými vozy krve.
-tagNotification_AreaD_FinalBossUlgrim=Brány Prázdnoty se rozevřeny kolem podél celého sálu a požraly Ulgrima!
+tagNotification_AreaD_FinalBossUlgrim=Brány Prázdnoty se rozevřeny podél celého sálu a požraly Ulgrima!
 
 tagNotification_WitchGods_Shrine02=Cesta před tebou se otevřela....
-tagNotification_WitchGods_Shrine03=Utajená stezka se ti otevřela...
+tagNotification_WitchGods_Shrine03=Otevřela se ti utajená stezka...
 tagNotification_WitchGods_3Markers=Tvé spojení s čarodějnými bohy tě posiluje.
 tagNotification_WitchGods_Secret=Někde poblíž se posunula kamenná zeď.
 
@@ -509,7 +509,7 @@ tagNPC_DevilsCrossing_03=Isaac
 tagNPC_DevilsCrossing_04=Torven
 tagNPC_DevilsCrossing_05=Kuldo
 tagNPC_DevilsCrossing_06=Edwin
-tagNPC_DevilsCrossing_07=Rose - strážkyně
+tagNPC_DevilsCrossing_07=Růženka - strážkyně
 tagNPC_DevilsCrossing_08=Chester
 
 tagNPC_WitchGodAttendant=Hlídač
