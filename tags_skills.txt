@@ -373,7 +373,7 @@ tagClass04SkillDescription00=Umění iluze a vířících se nožů v praxi.
 tagClass04SkillName01A=Přízračné čepele
 tagClass04SkillDescription01A=Legendární technika Nočních lovců. Vychrlí vyčarované čepele naplněné kouzlem stínu, který protne maso stejně lehce jako papír.
 tagClass04SkillName01B=Hledač srdce
-tagClass04SkillDescription01B=S touto vylepšenou technikou jsou vyčarované Přízračné čepele tak ostré, že mohou protnout vícero cílů a neviditelná přízračná vlákna odčerpají životní energii z obětí.
+tagClass04SkillDescription01B=S touto vylepšenou technikou jsou vyčarované Přízračné čepele tak ostré, že mohou protnout i několik cílů a neviditelná přízračná vlákna odčerpají životní energii z obětí.
 tagClass04SkillName01C=Spodní hranice
 tagClass04SkillDescription01C=Posilní Přízračnou čepel temnou magií, odpornou technikou používanou pouze za těch nejzoufalejších podmínek.
 tagClass04SkillName01X=Soustředěný vrh
@@ -405,7 +405,7 @@ tagClass04SkillDescription05B=Svalnatý Belgothian byl anomálií mezi pružným
 tagClass04SkillName05C=Amarastin rychlý řez
 tagClass04SkillDescription05C=Amarasta je legendou díky své rychlosti a říkalo se, že zvuk jejích mečů byl jako svist vzduchu, zanechávající pouze paprsky světla, protože byly tak rychlé, že je okem nebylo možné sledovat. Mistři v této technice mohou zaútočit třikrát za dobu jediného klasického útoku. ^oToto je technika dvou chladných zbraní a je aktivována výchozím útokem těchto zbraní.
 tagClass04SkillName05D=Vířivá smrt
-tagClass04SkillDescription05D=Devastující technika zaměřená na boj s vícero cíli. Ti, kteří přežijí, budou krvácet jako z tisíce řezných ran. ^oToto je technika dvou zbraní a aby tato schopnost účinkovala, musí být aktivní.
+tagClass04SkillDescription05D=Devastující technika zaměřená na boj s několika cíli. Ti, kteří přežijí, budou krvácet jako z tisíce řezných ran. ^oToto je technika dvou zbraní a aby tato schopnost účinkovala, musí být aktivní.
 tagClass04SkillName05E=Nidallina skrytá dlaň
 tagClass04SkillDescription05E=Kontroverzní mistryně Nočních lovců Nidalla předváděla krutou účinnost jedů během Věku nerozumu, kdy kombinovala odporné toxiny s dalšími technikami Nočních lovců, díky čemuž dokázala přetrvat v boji proti obrovské převaze. ^oTato technika ovlivňuje Belgothianovy nůžky, Amarastin rychlý řez a Vířivou smrt.
 tagClass04SkillName05F=Poprava
@@ -463,7 +463,7 @@ tagClass04SkillName13D=Nemilosrdný repertoár
 tagClass04SkillDescription13D=Efektivní využívání jedů a činidel proti srážlivosti krve mohou být někdy ty nejúčinnější zbraně.
 
 tagClass04SkillName14A=Amarastina záplava mečů
-tagClass04SkillDescription14A=Mystryně zabijáků, Amarasta, která byla legendou mezi Nočními čepelemi pro její horlivost, vyvinula techniku, kterou vypustí množství smrtících přízračných čepelí, které se rozletí do okolí z místa útoku a probodne všechny přilehlé nepřátele. ^oVyžaduje chladnou nebo obouruční střelnou zbraň.
+tagClass04SkillDescription14A=Mistryně zabijáků, Amarasta, která byla legendou mezi Nočními čepelemi pro svou horlivost, vyvinula techniku, která vypustí množství smrtících přízračných čepelí, jež se rozletí do okolí z místa útoku a probodne všechny přilehlé nepřátele. ^oVyžaduje chladnou nebo obouruční střelnou zbraň.
 tagClass04SkillName14B=Smrtící útok
 tagClass04SkillDescription14B=Oddaná útoku pokračuje Amarasta ve svém neúnavném napadání a vystřelí množsví mečů aby rychle a rázně dorazila zbylé přeživší nepřátele svými vylepšenými zbraněmi.^oSmrtící útok ovlivňuje všechny druhy útoku, pokud je aktivní.
 

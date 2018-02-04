@@ -666,7 +666,7 @@ tagFocusA006=[ms]tajemný kodex
 tagFocusA013=[ms]vznešený kodex
 
 tagFocusA007=[fs]runová kost
-tagFocusA008=[fs]ďáblova figurka
+tagFocusA008=[fs]ďábelská figurka
 tagFocusA009=[ms]vyleptaný roh
 tagFocusA010=[fs]zdobená lebka
 tagFocusA011=[fs]barbarská figurka
