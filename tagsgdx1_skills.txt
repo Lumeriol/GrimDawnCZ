@@ -203,7 +203,7 @@ tagGDX1Class08SkillDescription11A=Plně vytrénovaný nekromant je hrůzostrašn
 tagGDX1Class08SkillName12A=Odtrhávající úder
 tagGDX1Class08SkillDescription12A=Posílením zbraní smrtícími nekrotickými energiemi mohou nekromanti způsobovat hluboká fyzická zranění. ^oLze aktivovat všemi běžnými typy útoků zbraně.
 tagGDX1Class08SkillName13A=Nekrotické ostří
-tagGDX1Class08SkillDescription13A=Díky účinku hrobového chladu tvé útoky způsobují okamžitou nekrózu v ráně, pohled díky kterému i ti nejodhodlanější nepřátelé zeslábnou. ^oLze aktivovat všemi běžnými typy útoků zbraně. Pokud je použita chladná zbraň, útok zasáhne vícero cílů v blízkosti.
+tagGDX1Class08SkillDescription13A=Díky účinku hrobového chladu tvé útoky způsobují okamžitou nekrózu v ráně, pohled díky kterému i ti nejodhodlanější nepřátelé zeslábnou. ^oLze aktivovat všemi běžnými typy útoků zbraně. Pokud je použita chladná zbraň, útok zasáhne několik nejbližších cílů.
 
 tagGDX1Class08SkillName14A=Znamení trýzně
 tagGDX1Class08SkillDescription14A=I když se všichni musí podvolit nakonec svému osudu, tvá schopnost manipulovat se smrtí ti umožňuje oddálit nevyhnutelné. Tím, že propojíš svojí duši s nepřítelem v blízkosti, přesuneš některá ze zranění vedených proti tobě právě na něj. ^oPouze jeden nepřítel může být označen v ten daný okamžik.

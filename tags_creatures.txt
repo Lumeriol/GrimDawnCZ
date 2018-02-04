@@ -624,8 +624,8 @@ tagRaptorHeroH06=Balra ~ dotčená Prázdnotou
 #CreatureRiftHound
 
 tagEnemyRiftHoundA01=Trhající fena
-tagEnemyRiftHoundB01=Trhající fena ~ perlička
-tagEnemyRiftHoundC01=Trhající fena ~ blankytná matriarcha
+tagEnemyRiftHoundB01=Trhající fena ~ perlice
+tagEnemyRiftHoundC01=Trhající fena ~ modrooká matriarcha
 tagEnemyRiftHoundA02=Morový pes
 tagEnemyRiftHoundB02=Morový pes ~ mrchožrout
 tagEnemyRiftHoundC02=Morový pes ~ alfa samec
@@ -713,26 +713,26 @@ tagGravestone_Skeleton03=Ryan
 
 #CreatureSlith
 
-tagEnemyDeepMire_SlithWarriorA01=Válečník Hlubokých močálů
-tagEnemyDeepMire_SlithWarriorB01=Předsunutá hlídka Hlubokých močálů
-tagEnemyDeepMire_SlithWarriorC01=Šampión Hlubokých močálů
-tagEnemyDeepMire_SlithWarriorC02=Lovec času Hlubokých močálů
-tagEnemyDeepMire_SlithShamanB01=Šaman Hlubokých močálů
-tagEnemyDeepMire_SlithShamanB02=Krotitel pohrom Hlubokých močálů
-tagEnemyDeepMire_SlithShamanC01=Zaříkávač Hlubokých močálů
-tagEnemyDeepMire_SlithShamanC02=Čistokrevný lovec Hlubokých močálů
+tagEnemyDeepMire_SlithWarriorA01=Válečník kmene Hlubokých močálů
+tagEnemyDeepMire_SlithWarriorB01=Předsunutá hlídka kmene Hlubokých močálů
+tagEnemyDeepMire_SlithWarriorC01=Šampión kmene Hlubokých močálů
+tagEnemyDeepMire_SlithWarriorC02=Lovec času kmene Hlubokých močálů
+tagEnemyDeepMire_SlithShamanB01=Šaman kmene Hlubokých močálů
+tagEnemyDeepMire_SlithShamanB02=Krotitel pohrom kmene Hlubokých močálů
+tagEnemyDeepMire_SlithShamanC01=Zaříkávač kmene Hlubokých močálů
+tagEnemyDeepMire_SlithShamanC02=Čistokrevný lovec kmene Hlubokých močálů
 
-tagEnemyVenomtongue_SlithWarriorA01=Válečník Jedovatých jazyků
-tagEnemyVenomtongue_SlithWarriorB01=Předsunutá hlídka Jedovatých jazyků
-tagEnemyVenomtongue_SlithWarriorC01=Šampión Jedovatých jazyků
-tagEnemyVenomtongue_SlithShamanB01=Šaman Jedovatých jazyků
-tagEnemyVenomtongue_SlithShamanC01=Zaříkávač Jedovatých jazyků
+tagEnemyVenomtongue_SlithWarriorA01=Válečník kmene Jedovatých jazyků
+tagEnemyVenomtongue_SlithWarriorB01=Předsunutá hlídka kmene Jedovatých jazyků
+tagEnemyVenomtongue_SlithWarriorC01=Šampión kmene Jedovatých jazyků
+tagEnemyVenomtongue_SlithShamanB01=Šaman kmene Jedovatých jazyků
+tagEnemyVenomtongue_SlithShamanC01=Zaříkávač kmene Jedovatých jazyků
 
-tagEnemyBloodscale_SlithWarriorA01=Válečník Krvavých šupin
-tagEnemyBloodscale_SlithWarriorB01=Předsunutá hlídka Krvavých šupin
-tagEnemyBloodscale_SlithWarriorC01=Šampión Krvavých šupin
-tagEnemyBloodscale_SlithShamanB01=Šaman Krvavých šupin
-tagEnemyBloodscale_SlithShamanC01=Zaříkávač Krvavých šupin
+tagEnemyBloodscale_SlithWarriorA01=Válečník kmene Krvavých šupin
+tagEnemyBloodscale_SlithWarriorB01=Předsunutá hlídka kmene Krvavých šupin
+tagEnemyBloodscale_SlithWarriorC01=Šampión kmene Krvavých šupin
+tagEnemyBloodscale_SlithShamanB01=Šaman kmene Krvavých šupin
+tagEnemyBloodscale_SlithShamanC01=Zaříkávač kmene Krvavých šupin
 
 tagSlithHeroH01=Igrixx "Zjihlé srdce"
 tagSlithHeroH02=Pán bouře Jaron

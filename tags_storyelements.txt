@@ -429,7 +429,7 @@ tagPOIQuest_NecropolisRift=Zabezpeč Bránu v Pohřebišti
 tagNotification_WightmireBurialCaveFound=Poblíž se nachází zdroj nemrtvých...
 tagNotification_WightmireReanimatorFound=Ta zrůda je znovuoživená mrtvola!
 tagNotification_WightmireCaravanFound=Tenhle masakr se stal nedávno...
-tagNotification_WightmireCaravanDriverFound=Vězeň prosí o pomoc!
+tagNotification_WightmireCaravanDriverFound=Vězeň volá o pomoc!
 tagNotification_InventoryBagAcquired=Získán pytel na věci!
 tagNotification_BurrwitchRiftgateEvent=Brána a její okolí se hemží nepřáteli!
 tagNotification_BurrwitchRiftgateSecured=Nepřátelé v okolí Burrwitchské Brány byli zlikvidováni!
@@ -686,7 +686,7 @@ tagQuestItemDirections_Text=Dohoda je dohoda: kultisté si pohodlně sedí na za
 
 tagQuestChestLostJournal=Zaprášený řečnický pult
 tagQuestItemLostJournal_Name=Řád kultistů
-tagQuestItemLostJournal_Text="Bratři krve,{^n}{^n}přítomnost aetherických stvoření v Burrwitchi sílí s každým dalším dnem. Své aktivity přesouváme za hranice města, kde můžeme nerušeně pokračovat v našich plánech. Nyní se zaměřujeme na Ďáblův průsmyk, kde náš nejnovější zástupce Direni úspěšně sabotoval jejich vodní čerpadlo. Brzy bude tahle protivná skupinka nucena opustit své útočiště a hned poté je vezmeme na milost. Připravte se, bratři. Brzy budeme pít jejich krev!{^n}{^n}Salazar, Čepel Ch'thona"
+tagQuestItemLostJournal_Text=Bratři krve,{^n}{^n}přítomnost aetherických stvoření v Burrwitchi sílí s každým dalším dnem. Své aktivity přesouváme za hranice města, kde můžeme nerušeně pokračovat v našich plánech. Nyní se zaměřujeme na Ďáblův průsmyk, kde náš nejnovější zástupce Direni úspěšně sabotoval jejich vodní čerpadlo. Brzy bude tahle protivná skupinka nucena opustit své útočiště a hned poté je vezmeme na milost. Připravte se, bratři. Brzy budeme pít jejich krev!{^n}{^n}Salazar, Čepel Ch'thona
 
 tagQuestItemDynamite=Dynamit
 tagQuestItemDynamiteDesc="Surová výbušnina kdysi používaná ničiteli, aby čelili ničivým silám uživatelů magie."
@@ -880,7 +880,7 @@ tagLoreObj_WardensLabC01Text=Wardene Kriegu,{^n}{^n}omluvte tuto primitivní for
 
 tagLoreObj_VilagerNoteB01Name=Alisteřin diář
 tagLoreObj_VilagerNoteB01codexTitle=Alisteřin diář
-tagLoreObj_VillagerNoteB01Text=Alisteřin diář - první záznam{^n}Máma mi řekla, že sem mám začít psát, a protože je jedno kdy začnu, začnu teď, protože mám zase domácí vězení! A to za to, že jsem zatahala Abigail za vlasy. Ona si začala! Proč ona nemusí sedět ve svém pokoji a psát si do toho jejího pitomýho deníčku?{^n}{^n}Zítra půjdu chytit tu největší žábu, kterou najdu v močálech a nechám jí sestře v pokoji. Uvidíme, jak se jí to bude líbit.{^n}{^n}Alisteřin diář - druhý záznam{^n}Tak máma četla můj deník a znovu mám domácí vězení. Žába zdrhla dřív, než ji sestra vůbec viděla! Proč ještě není doma taťka? Měl mě dnes vzít s sebou do Burrwitche, ale stále není doma z práce.{^n}{^n}Alisteřin diář - třetí záznam{^n}Máma říká, že si už nesmím chodit hrát ven. Perkins mi říkal, že se v bažinách potulují příšery, ale máma tvrdí, že žádný takový věci neexistujou a nařezala mi vařečkou, protože zase mluvím o drbech. Přála bych si, aby se taťka už vrátil domů. Chtěla bych jít do Burrwitche!{^n}{^n}Alisteřin diář - čtvrtý záznam{^n}Bojím se. Opravdu se děsně bojím. Máma mě a sestru zamkla v mém pokoji a šla se podívat ven, protože slyšela za domem nějaké zvuky. Už je to věčnost a teď slyším ty zvuky také v našem domě. Tati, prosím tě přijď domů a zažeň ty zvuky pryč. Už mě nebude víckrát zajímat Burrwitch. Jen prosím tě přijď domů, tati.
+tagLoreObj_VillagerNoteB01Text=Alisteřin diář - první záznam{^n}Máma mi řekla, že sem mám začít psát, a protože je jedno kdy začnu, začnu teď, protože mám zase domácí vězení! A to za to, že jsem zatahala Abigail za vlasy. Ona si začala! Proč ona nemusí sedět ve svém pokoji a psát si do toho jejího pitomýho deníčku?{^n}{^n}Zítra půjdu chytit tu největší žábu, kterou najdu v močálech a nechám jí sestře v pokoji. Uvidíme, jak se jí to bude líbit.{^n}{^n}Alisteřin diář - druhý záznam{^n}Tak máma četla můj deník a znovu mám domácí vězení. Žába zdrhla dřív, než ji sestra vůbec viděla! Proč ještě není doma taťka? Měl mě dnes vzít s sebou do Burrwitche, ale stále není doma z práce.{^n}{^n}Alisteřin diář - třetí záznam{^n}Máma říká, že si už nesmím chodit hrát ven. Pan Perkins mi říkal, že se v bažinách potulují příšery, ale máma tvrdí, že žádný takový věci neexistujou a nařezala mi vařečkou, protože zase mluvím o drbech. Přála bych si, aby se taťka už vrátil domů. Chtěla bych jít do Burrwitche!{^n}{^n}Alisteřin diář - čtvrtý záznam{^n}Bojím se. Opravdu se děsně bojím. Máma mě a sestru zamkla v mém pokoji a šla se podívat ven, protože slyšela za domem nějaké zvuky. Už je to věčnost a teď slyším ty zvuky také v našem domě. Tati, prosím tě přijď domů a zažeň ty zvuky pryč. Už mě nebude víckrát zajímat Burrwitch. Jen prosím tě přijď domů, tati.
 
 TagLoreObj_VillagerNoteH01Name=Abbyho poznámka
 TagLoreObj_VillagerNoteH01codexTitle=Abbyho poznámka
