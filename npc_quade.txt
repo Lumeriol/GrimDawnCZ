@@ -3,14 +3,14 @@ Slyšel jsem, že Darius je mrtev. Jsem rád, že jsme na stejné straně tohoto
 Sbohem.
 V našem tábořišti jsi vždy [[ms]vítán[fs]vítána].
 Sbohem.
-Vítej v našem tábořišti. Nevytahuj zbraně, a my zase nebudeme tasit ty své. Náš boj je namířen proti Cronleyovu gangu.
+Vítej v našem tábořišti. Nevytahuj zbraně, a my zase nebudeme tasit ty své. Náš boj je namířen proti Cronleyově bandě.
 Sbohem.
 Jak pokračuje lov?
 "Zazobanec" Martin je mrtev.
 Jsi až nemilosrdně efektivní. Doufám, že jeho bědování o pomoc zůstalo ve starých důlních tunelech bez odpovědi. Děkuji ti, [[ms]ulevil[fs]ulevila] jsi mé mysli.
 Nemáš zač.
 Jak pokračuje lov?
-Kdeže bych [[ms]měl[fs]měla] hledat?
+Kde že bych [[ms]měl[fs]měla] hledat?
 [[ms]Měl[fs]Měla] bys najít "Zazobance" Martina v Cronleyově úkrytu pod Čtvero vršky.
 Hned tam vyrážím.
 Stále hledám.
@@ -31,20 +31,20 @@ Copak jsi měl na mysli?
 Nemám zájem.
 Brzy se vrátím.
 Jak pokračuje tvoje mise?
-Kdeže jsou ty kovárny?
-Cronleyův gang má několik kováren okolo Čtvero vršků, odtud přímo na východ. Pokud jich zničíš dost, zmaříš jejich schopnost se znovu vyzbrojit.
+Kde že najdu ty kovárny?
+Cronleyova banda má několik kováren okolo Čtvero vršků, odtud přímo na východ. Pokud jich zničíš dost, zmaříš jejich schopnost se znovu vyzbrojit.
 Jdu na to.
 Pořád na tom dělám.
 [[ms]Vrátil[fs]Vrátila] ses. Máš na to, abys nám [[ms]vypomohl[fs]vypomohla]?
 Co potřebuješ?
-Cronleyův gang je dobře vyzbrojen a zkušený. My... nejsme. Tohle není boj, který vyhrajeme, když do toho půjdeme po hlavě. Musíme je oslabit.{^n}{^n}A tady přicházíš na řadu ty. Psanci disponují množstvím kováren s podobnou konstrukcí, jako je ta za mnou, a které jsou rozeseté po Čtvero vršcích. Pokud je zničíš, Dariovi muži se nebudou moci znovu vyzbrojit. Chápu, že toto nemusí být tvůj problém, ale jsem ochotný ti dát nějaké mince, abych z toho tvůj problém udělal. Co na to říkáš?
+Cronleyova banda je dobře vyzbrojena a zkušená. My... nejsme. Tohle není boj, který vyhrajeme, když do toho půjdeme po hlavě. Musíme je oslabit.{^n}{^n}A tady přicházíš na řadu ty. Psanci disponují množstvím kováren s podobnou konstrukcí, jako je ta za mnou, a které jsou rozeseté po Čtvero vršcích. Pokud je zničíš, Dariovi muži se nebudou moci znovu vyzbrojit. Chápu, že toto nemusí být tvůj problém, ale jsem ochotný ti dát nějaké mince, abych z toho tvůj problém udělal. Co na to říkáš?
 Máme dohodu.
 Máš pravdu, není to můj problém.
 Vítej v našem tábořišti. Co tě sem přivádí?
 Mornay mě poslal.
 Ach, takže to přes řeku nakonec zvládl. Byl to drsnej slith. Ještě pořád v sobě nosí kulku, která to dokazuje.{^n}{^n}Pokud tě poslal Mornay, tak si musí myslet, že si můžeme navzájem vypomoct. Máš zájem využít své zbraně?
 Co potřebuješ?
-Cronleyův gang je dobře vyzbrojen a zkušený. My... nejsme. Tohle není boj, který vyhrajeme, když do toho půjdeme po hlavě. Musíme je oslabit.{^n}{^n}A tady přicházíš na řadu ty. Psanci disponují množstvím kováren, s podobnou konstrukcí jako je ta za mnou, které jsou rozeseté po Čtvero vršcích. Pokud je zničíš, Dariovi muži se nebudou moci znovu vyzbrojit. Chápu, že toto nemusí být tvůj problém, ale jsem ochotný ti dát nějaké mince, abych z toho tvůj problém udělal. Co na to říkáš?
+Cronleyova banda je dobře vyzbrojena a zkušená. My... nejsme. Tohle není boj, který vyhrajeme, když do toho půjdeme po hlavě. Musíme je oslabit.{^n}{^n}A tady přicházíš na řadu ty. Psanci disponují množstvím kováren, s podobnou konstrukcí jako je ta za mnou, které jsou rozeseté po Čtvero vršcích. Pokud je zničíš, Dariovi muži se nebudou moci znovu vyzbrojit. Chápu, že toto nemusí být tvůj problém, ale jsem ochotný ti dát nějaké mince, abych z toho tvůj problém udělal. Co na to říkáš?
 Máme dohodu.
 Máš pravdu, není to můj problém.
 Jejich kovárny jsem už [[ms]zničil[fs]zničila].
@@ -52,5 +52,5 @@ Mornay ví jak si vybrat. Dobrá práce a tady je tvůj plat, jak bylo přislíb
 
 Nemám zájem.
 Jen procházím.
-Vítej v našem tábořišti. Nevytahuj zbraně, a my zase nebudeme tasit ty své. Náš boj je namířen proti Cronleyovu gangu.
+Vítej v našem tábořišti. Nevytahuj zbraně, a my zase nebudeme tasit ty své. Náš boj je namířen proti Cronleyově bandě.
 Jen procházím.

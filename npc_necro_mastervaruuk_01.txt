@@ -27,13 +27,13 @@ Chápu.
 Promluvím si s ním.
 Udělám to.
 [[ms]Vypořádal[fs]Vypořádala] si se s Noveriou?
-Kdeže bych se [[ms]měl[fs]měla] podívat?
+Kde že bych se [[ms]měl[fs]měla] podívat?
 Vydej se na sever do blízkosti pevnosti Haron a podívej se po kamenolomu; je to oblast zasažená aetherickým ohněm. Vystopuj Aetheriana jménem Noveria Stormfire. Kdysi to bývala skvělá kouzelnice, teď už není ničím jiným než pěšákem Aetherianů. {^n}{^n}Znič Noverii a získej její esenci.
 Udělám to.
 Ještě ne.
 Ceremoniál znovuzrození vyžaduje mocná zaklínadla a stejně tak silný energetický zdroj.{^n}{^n}Bez něčeho z čeho se dá čerpat energie by rituál zcela vysál účastníky a nezbylo by z nich nic víc než seschlé slupky.
 Jak tomu můžeme předejít?
-Aetheriané jsou ztělesněním samotného Aetheru, zdroje čisté arkanické energie. Čím silnější Aetherian, tím tepleji bude hořet duch během rituálu.{^n}{^n}Na severou v blízkosti pevnosti Haron je kamenolom, který byl zasažen aetherickým ohněm, kamufláž pro Aetheriany v této oblasti. Vydej se tam a vyhledej Aetheriana jménem Noveria Stormfire. Kdysi to bývala skvělá kouzelnice, teď už není ničím jiným než pěšákem Aetherianů. Propůjčím ti výhodu Řádu čelit jejím mimořádným arkanickým dovednostem a abys [[ms]ovládl[fs]ovládla] její esenci. Znič Noverii ve jménu Řádu!
+Aetheriané jsou ztělesněním samotného Aetheru, zdroje čisté arkanické energie. Čím silnější Aetherian, tím tepleji bude hořet duch během rituálu.{^n}{^n}Na severu, v blízkosti pevnosti Haron je kamenolom, který byl zasažen aetherickým ohněm, kamufláž pro Aetheriany v této oblasti. Vydej se tam a vyhledej Aetheriana jménem Noveria Stormfire. Kdysi to bývala skvělá kouzelnice, teď už není ničím jiným než pěšákem Aetherianů. Propůjčím ti výhodu Řádu čelit jejím mimořádným arkanickým dovednostem a abys [[ms]ovládl[fs]ovládla] její esenci. Znič Noverii ve jménu Řádu!
 Získám tu esenci.
 Nejdu do tý pekelný díry.
 Už jsem tak [[ms]učinil[fs]učinila] za pomoci dalších.
@@ -46,7 +46,7 @@ Co dalšího je na řadě?
 
 Jsou tu jiné věci, které vyžadují mou pozornost.
 Už jsi [[ms]sehnal[fs]sehnala] Chthonické pečetě?
-Kdeže bych se [[ms]měl[fs]měla] porozhlédnout?
+Kde že bych se [[ms]měl[fs]měla] porozhlédnout?
 Kult Ch'thona používá pečetě pro své vyvolávací rituály. Čím mocnější členové, tím pravděpodobněji u sebe nějakou mají. {^n}{^n}Ulov nějaké kultisty v Krvavém háji a za ním, pak se ke mě vrať s pečetěmi.
 Bude tak učiněno.
 Ještě ne.
@@ -64,8 +64,8 @@ Ano, mám ty ostatky.
 Co je to?
 
 Možná někdy jindy.
-Udělal jsi co jsem žádal, nováčku?
-Kdeže bych se [[ms]měl[fs]měla] porozhlédnout?
+[[ms]Udělal[fs]Udělala] jsi, o co jsem žádal?
+Kde že bych se [[ms]měl[fs]měla] porozhlédnout?
 Kult má vícero tábořišť rozesetých různě po Krvavém háji. {^n}{^n}Kterékoliv z nich by mohlo být místem, kam byl Malkadarr vzat.
 Najdu ho.
 Ještě ne.
