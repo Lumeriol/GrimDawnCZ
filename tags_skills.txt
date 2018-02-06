@@ -89,7 +89,7 @@ tagClass01SkillDescription00A=Velká fyzická kondice je nutná, aby voják dok�
 tagClass01SkillName01A=Rychlý útok
 tagClass01SkillDescription01A=Využití vlastností zbraně v boji dodá tvému útoku přirozený spád se všemi jeho klady i zápory, a ačkoliv jsou údery předvídatelné, jsou neméně účinné a těžce se jim čelí. ^oPokud jej využiješ jako výchozí typ útoku, zvýší sílu každého třetího úderu jedné zbraně.
 tagClass01SkillName01B=Bojová formace
-tagClass01SkillDescription01B=Běsnění tvé zbraně rozechvěje protivníka, způsobí mu těžké krvácení a zároveň zasahuje nepřátele v blízkosti. ^oSe střelnými zbraněmi má Rychlý útok šanci projít skrze nepřátele.
+tagClass01SkillDescription01B=Běsnění tvé zbraně rozechvěje protivníka, způsobí mu těžké krvácení a zároveň zasahuje nepřátele ve tvém okolí. ^oSe střelnými zbraněmi má Rychlý útok šanci projít skrze nepřátele.
 tagClass01SkillName01C=Smrtící pohyb
 tagClass01SkillDescription01C=Využíváš výhodu Rychlého útoku, což na krátkou dobu způsobí, že všechny tvé údery mají větší smrtící účinek. ^oSmrtící pohyb ovlivňuje všechny útoky, pokud je aktivní.
 tagClass01SkillName01D=Disharmonie
@@ -126,7 +126,7 @@ tagClass01SkillDescription05C=Silnější forma Obloukového útoku, ve kterém 
 tagClass01SkillName06A=Markovianova výhoda
 tagClass01SkillDescription06A=Věhlasný taktik Markovian vždy útočil z vyšších poloh. Tento klasický útok, inspirovaný Markovianovými bitevními taktikami, představuje velmi silný, dolů směřující úder, což rozhodí tvé nepřátele a oslabí jejich obranu. ^oTato schopnost může být aktivována výchozím útokem jakékoliv zbraně.
 tagClass01SkillName06B=Zolhanova technika
-tagClass01SkillDescription06B=Po známém bojovém mistrovi pojmenovaný útok využívá nízké těžiště a silný úder, aby rozhodil tvé protivníky. ^oTato schopnost může být aktivována výchozím útokem jakékoliv zbraně. Pokud je použita chladná zbraň, útok zasáhne více cílů v blízkosti.
+tagClass01SkillDescription06B=Po známém bojovém mistrovi pojmenovaný útok využívá nízké těžiště a silný úder, aby rozhodil tvé protivníky. ^oTato schopnost může být aktivována výchozím útokem jakékoliv zbraně. Pokud je použita chladná zbraň, útok zasáhne více nepřátel ve tvém okolí.
 
 tagClass01SkillName07A=Bojový duch
 tagClass01SkillDescription07A=Místo toho, aby tě nepřátelské zásahy donutily k rezignaci, tak umocňují tvůj hněv, což dodává tvým útokům dodatečnou sílu. ^oAktivuje se, když dostaneš zásah.
@@ -247,14 +247,14 @@ tagClass02SkillName09C=Rychlé částice
 tagClass02SkillDescription09C=Postrádají schopnost Omračujících částic zastavit nepřítele, ale mohou být vrhány s ohromnou přesností a šířit tak devastující zranění elektřinou mezi velkými skupinami nepřátel.
 
 tagClass02SkillName12A=Dotek ohně
-tagClass02SkillDescription12A=Zaměření na kouzelnická umění zacházení s ohněm tak, jak to dělá mnoho Ničitelů, ti umožňuje pokrýt sebe a spojence v blízkosti živými plameny, které posilují útoky a vrací zranění útočícím nepřátelům. ^oAby tato schopnost účinkovala, musí být aktivní.
+tagClass02SkillDescription12A=Zaměření na kouzelnická umění zacházení s ohněm tak, jak to dělá mnoho Ničitelů, ti umožňuje pokrýt sebe a spojence ve tvém okolí živými plameny, které posilují útoky a vrací zranění útočícím nepřátelům. ^oAby tato schopnost účinkovala, musí být aktivní.
 tagClass02SkillName12B=Vztek
 tagClass02SkillDescription12B=Ponoření se hlouběji do tajů zacházení s ohněm nad ním garantuje tak rafinovanou kontrolu, že může být použit na posilnění zbraní a zbroje spojenců za hranicí běžných možností a navíc je pokrývá živými plameny.
 
 tagClass02SkillName13A=Mstivý plamen
 tagClass02SkillDescription13A=Ulzuinův věčný plamen kdysi přinesl život a zdraví na tento svět, ale zrada a muka jej přeměnily ve zbraň pomsty. Ti, kteří jsou oddaní Ulzuinovi, získají na bojišti proti svým nepřátelům sílu a odvetný ohnivý úder. ^oAby tato schopnost účinkovala, musí být aktivní.
 tagClass02SkillName13B=Ulzuinův hněv
-tagClass02SkillDescription13B=Když Ulzuinův plamen pálí nepřátele v blízkosti, střely magických plamenů a elektřiny jsou vypuštěny do všech směrů, aby zasáhly vzdálenější nepřátele.
+tagClass02SkillDescription13B=Když Ulzuinův plamen pálí nepřátele ve tvém okolí, střely magických plamenů a elektřiny jsou vypuštěny do všech směrů, aby zasáhly vzdálenější nepřátele.
 
 tagClass02SkillName10A=Elektrický výboj
 tagClass02SkillDescription10A=Vrhne na nepřátele silnou bombu nabitou elektřinou. Účinné proti samostatným silným nepřátelům.
@@ -281,7 +281,7 @@ tagClass03SkillDescription01C=Havran usměrňuje tajemné energie, které zacelu
 tagClass03SkillName01D=Bouřný přízrak
 tagClass03SkillDescription01D=Havran přesouvá svou podivnou energii do vybraných spojenců, čímž je činí silnějšími, než jsou běžní smrtelníci.
 tagClass03SkillName01E=Úder blesku
-tagClass03SkillDescription01E=Útočný havran přivolá mocný výboj blesku, který zasáhne nepřátele v blízkosti.
+tagClass03SkillDescription01E=Útočný havran přivolá silný výboj blesku, který zasáhne nepřátele ve tvém okolí.
 
 tagClass03SkillName02A=Vyvolání pekelného psa
 tagClass03SkillDescription02A=Přivolá pekelného psa z podivných oblastí, aby se vrhnul na Okultistovy nepřátele. Tato krutá bestie bude bojovat po tvém boku do doby, než její život vyhasne v žáru pekla. ^oV jednu chvíli může být vyvolán pouze jeden pekelný pes. Pekelný pes sílí spolu se zvyšujícími se bonusy pro spojence.
@@ -294,7 +294,7 @@ tagClass03SkillDescription02D=Pekelný pes chrlí před sebe zuřivé pekelné p
 tagClass03SkillName02E=Útok pomocí drápů a tesáků
 tagClass03SkillDescription02E=Vrozený útok.
 tagClass03SkillName02F=Planoucí smrt
-tagClass03SkillDescription02F=Tělo pekelného psa vybuchne ve chvíli, kdy se navrací do své přirozené sféry a zapálí nepřátele v blízkosti.
+tagClass03SkillDescription02F=Tělo pekelného psa vybuchne ve chvíli, kdy se navrací do své přirozené sféry a zapálí nepřátele ve svém okolí.
 
 tagClass03SkillName03A=Smlouva s Bysmiel
 tagClass03SkillDescription03A=Posiluje pouta, kterými ovládáš své nohsledy, díky čemuž bojují s větším důrazem a odhodláním. ^oAby tato schopnost účinkovala, musí být aktivní.
@@ -302,7 +302,7 @@ tagClass03SkillName03B=Manipulace
 tagClass03SkillDescription03B=Jemná manipulace s pouty, kterými ovládáš své nohsledy, je okouzlí a získají pocit ohromující oddanosti vůči tobě, což způsobí, že budou bojovat s až fanatickou silou a rychlostí.
 
 tagClass03SkillName04A=Dreegova krev
-tagClass03SkillDescription04A=Souznění s velkým ochráncem ti uděluje některé Dreegovy regenerační schopnosti a ze zranění uštědřených nepřáteli bude rozprašována žíravá krev, jakoby se jednalo o zranění samotného Dreega. ^oTento efekt je aplikován i na spojence v blízkosti.
+tagClass03SkillDescription04A=Souznění s velkým ochráncem ti uděluje některé Dreegovy regenerační schopnosti a ze zranění uštědřených nepřáteli bude rozprašována žíravá krev, jakoby se jednalo o zranění samotného Dreega. ^oTento efekt je aplikován i na spojence ve tvém okolí.
 tagClass03SkillName04B=Aspekt ochránce
 tagClass03SkillDescription04B=Jak upevňuješ spojení s Dreegem, jsou útoky proti okultistovi ve výsledku stejné, jako by byly vedeny proti ostnatým šupinám samotného strážce.
 tagClass03SkillName04C=Strážcovy bodliny
@@ -328,11 +328,11 @@ tagClass03SkillDescription10B=Dodává pečeti destruktivní sílu samotného ch
 tagClass03SkillName11A=Dreegovo ďábelské oko
 tagClass03SkillDescription11A=Vytvoří jedno z nekonečného množství očí Dreega, velkého vládce skryté sféry. Oko prudce vyrazí směrem k nepříteli a pak odpálí samo sebe.
 tagClass03SkillName11B=Krvavý výbuch
-tagClass03SkillDescription11B=Mystické oko při nárazu praskne a zmáčí blízké nepřátele sžíravou krví.
+tagClass03SkillDescription11B=Mystické oko při nárazu praskne a zmáčí nepřátele ve tvém okolí sžíravou krví.
 tagClass03SkillName11C=Děsivý pohled
 tagClass03SkillDescription11C=Děsivý pohled podivného a nesmrtelného Dreega může způsobit, že nepřátelé strnou strachy nebo se ve strachu rozutečou.
 tagClass03SkillName11D=Odporný výbuch
-tagClass03SkillDescription11D=Při nárazu vychrstnou z oka hnisající části, což tvým nepřátelům stojícím v blízkosti způsobí v době výbuchu další bolest.
+tagClass03SkillDescription11D=Při nárazu vychrstnou z oka hnisající části, což nepřátelům ve tvém okolí způsobí v době výbuchu další bolest.
 tagClass03SkillName11E=Upřený pohled
 tagClass03SkillDescription11E=Propoj Dreegovy odporné síly s každým okem a ty pak budou praskat s mnohem větší intenzitou a způsobovat větší bolest, ale také bude potřeba delší prodlevy na vyvolání.
 
@@ -392,7 +392,7 @@ tagClass04SkillName03A=Bariéra z čepelí
 tagClass04SkillDescription03A=Proslýchá se, že pán Nočních čepelí, Belgothian, postrádal kvalitní ovládání svých kouzel; měl ale vždy dostatečně silnou vůli vyčarovat tak velké množství čepelí, že kolem něj vytvořily neprorazitelný štít, což mu dopřálo čas na oddech od svých nepřátel. ^oTato schopnost tě po dobu svého trvání znehybní.
 
 tagClass04SkillName04A=Prstenec z oceli
-tagClass04SkillDescription04A=Během mrknutí oka tě obklopí stovky přízračných čepelí rotujících smrtící rychlostí, jež setnou protivníky v blízkosti.
+tagClass04SkillDescription04A=Během mrknutí oka tě obklopí stovky přízračných čepelí rotujících smrtící rychlostí, jež setnou protivníky ve tvém okolí.
 tagClass04SkillName04B=Vražedný kruh
 tagClass04SkillDescription04B=Brutální přízračné čepele rozřežou protivníky zachycené v kruhu, z nichž začnou prýštit proudy krve.
 tagClass04SkillName04C=Kruh z ledu
@@ -468,9 +468,9 @@ tagClass04SkillName14B=Smrtící útok
 tagClass04SkillDescription14B=Oddaná útoku pokračuje Amarasta ve svém neúnavném napadání a vystřelí množsví mečů aby rychle a rázně dorazila zbylé přeživší nepřátele svými vylepšenými zbraněmi.^oSmrtící útok ovlivňuje všechny druhy útoku, pokud je aktivní.
 
 xtagClass04SkillName14A=Smrtelný manévr
-xtagClass04SkillDescription14A=Odvážná technika oblíbená Amarastou, vražednou mistryní. Smrtelný manévr má potenciál způsobit devastující zranění, pokud se perfektně zdaří, ale s riskem, že se nemusí povést. ^oVyžaduje chladnou zbraň nebo obouruční střelnou zbraň. Pokud je použita chladná zbraň, udeříš i další blízké nepřátele.
+xtagClass04SkillDescription14A=Odvážná technika oblíbená Amarastou, vražednou mistryní. Smrtelný manévr má potenciál způsobit devastující zranění, pokud se perfektně zdaří, ale s riskem, že se nemusí povést. ^oVyžaduje chladnou zbraň nebo obouruční střelnou zbraň. Pokud použiješ chladnou zbraň, udeříš i další nepřátele ve tvém okolí.
 xtagClass04SkillName14B=Amarastino vypuštění mečů
-xtagClass04SkillDescription14B=Mistrovství v technice Smrtelného manévru jej vylepšuje tím, že vypustí tucty smrtících mečů, které se rozletí z místa útoku a zraní všechny blízké nepřátele. ^oPro palné zbraně spustí tento efekt byť jediný projektil.
+xtagClass04SkillDescription14B=Mistrovství v technice Smrtelného manévru jej vylepšuje tím, že vypustí tucty smrtících mečů, které se rozletí z místa útoku a zraní všechny nepřátele ve tvém okolí. ^oPro palné zbraně spustí tento efekt byť jediný projektil.
 
 
 xtagClass04SkillName15A=Vyvržení
@@ -478,7 +478,7 @@ xtagClass04SkillDescription15A=Rychlé říznutí do vnitřností zajistí, že 
 xtagClass04SkillName15B=Amarastin manévr
 xtagClass04SkillDescription15B=Mistrovská technika, která vylepšuje Vyvržení a má potenciál způsobit devastující zranění, pokud se perfektně zdaří, ale s riskem že se nemusí povést a může tak způsobit malé nebo žádné zranění.
 xtagClass04SkillName14C=Tříštivý gambit
-xtagClass04SkillDescription14C=Obklíčený střelec může rychle zvýšit svůj kurz chytrým použitím tříštivé střely. Ale i jako zoufalý způsob se tato rána může stát smrtící, pokud je uštědřena z bezprostřední blízkosti. ^oPro vystřelení dalších projektilů je vyžadována obouruční palnou zbraň.
+xtagClass04SkillDescription14C=Obklíčený střelec může rychle zvýšit svůj kurz chytrým použitím tříštivé střely. Ale i jako zoufalý způsob se tato rána může stát smrtící, pokud je uštědřena z bezprostřední blízkosti. ^oPro vystřelení dalších projektilů je vyžadována obouruční střelná zbraň.
 
 
 
@@ -554,7 +554,7 @@ tagClass05SkillDescription12A=Poodhal roušku samotného stavebního kamene real
 tagClass05SkillName13A=Olexrařina bariéra
 tagClass05SkillDescription13A=Olexra se proslavila využíváním ledu v kouzlech. Jeden z jejích taktiků vynalezl postavení zdi s nestabilními ledovými hroty, které na jedné straně udržely nepřátele, zatímco ona zaútočila na město z druhé strany.
 tagClass05SkillName13B=Ledová aura
-tagClass05SkillDescription13B=Ledová Bariéra mrazí tvé blízké nepřátele.
+tagClass05SkillDescription13B=Ledová Bariéra mrazí nepřátele ve tvém okolí.
 tagClass05SkillName13C=Ledový konec
 tagClass05SkillDescription13C=Ledová Bariéra se zhroutí a způsobí výbuch.
 
@@ -607,11 +607,11 @@ tagClass06SkillDescription04A=Šamané byli často přivoláni, aby přinesli d�
 tagClass06SkillName04B=Zuřící bouře
 tagClass06SkillDescription04B=Vířící vír roste bouřlivou silou. Mrazivý vítr lomcuje s nepřáteli a ustrne je, což zvyšuje jejich zranitelnost, pokud jsou vystaveni dalšímu vlivu živlů.
 tagClass06SkillName04C=Vír
-tagClass06SkillDescription04C=Rozpoutej mohutnou zlobu nebes a vštěp Větrnému duchu statickou energii, která srazí výbojem blesku k zemi blízké nepřátele.
+tagClass06SkillDescription04C=Rozpoutá mohutnou zlobu nebes a vštěpí Větrnému duchu statickou energii, která srazí výbojem blesku k zemi nepřátele ve tvém okolí.
 tagClass06SkillName04_Pet=Kvílející vítr
 
 tagClass06SkillName05A=Mogdrogenova dohoda
-tagClass06SkillDescription05A=Přivolej boha zvířat, Mogdrogena, aby dal požehnání přírody tobě a tvým blízkým spojencům. ^oAby tato schopnost účinkovala, musí být aktivní.
+tagClass06SkillDescription05A=Přivoláš boha zvířat Mogdrogena, aby dal požehnání přírody tobě a spojencům ve tvém okolí. ^oAby tato schopnost účinkovala, musí být aktivní.
 tagClass06SkillName05B=Dubová kůže
 tagClass06SkillDescription05B=Převezmi si aspekt starodávných stromů, slavných nestárnoucích titánů, kteří přečkali civilizace a propůjčí další obranu těm, kteří jsou pod Mogdrogenovým požehnáním.
 tagClass06SkillName05C=Srdce divočiny
@@ -624,9 +624,9 @@ tagClass06SkillDescription06A=Trnošípci jsou houževnatá stvoření zrozená 
 tagClass06SkillName06B=Kamenná kůra
 tagClass06SkillDescription06B=Kůže Trnošípka tvrdne a jeho ostny vyrostou v silnější, což ho promění na bojišti v zastrašující stvoření, jež nemůže být ignorováno.
 tagClass06SkillName06C=Vozembouch
-tagClass06SkillDescription06C=Trnošípek udeří do země svými ostnatými pařáty a uvolní ve vlnách ostny, které nabodnou blízké nepřátele.
+tagClass06SkillDescription06C=Trnošípek udeří do země svými ostnatými pařáty a uvolní ve vlnách ostny, které nabodnou nepřátele ve tvém okolí.
 tagClass06SkillName06D=Dodání odvahy
-tagClass06SkillDescription06D=Trnošípek je fascinující bytostí a na bojišti tak povzbuzuje spojence, aby bojovali s větší vervou.
+tagClass06SkillDescription06D=Trnošípek je fascinující bytost a díky tomu na bojišti povzbuzuje spojence, aby bojovali s větší vervou.
 tagClass06SkillName06E=Ostnaté pařáty
 tagClass06SkillDescription06E=Vrozený útok.
 
@@ -665,7 +665,7 @@ tagClass06SkillName15D=Pohlcující roj
 tagClass06SkillDescription15D=Tam venku v divočině musí člověk udělat cokoliv, aby přežil. Někteří šamanští kejklíři si berou tuto lekci k srdci tak, že vyvolají pohlcující roj, který na kusy trhá cokoliv, s čím přijde do kontaktu, způsobuje bolestná zranění a předává ti mízu.
 
 tagClass06SkillName16A=Totem bouřky
-tagClass06SkillDescription16A=Usměrňování síly bouře je jeden z nejposvátnějších rituálů Vyvolávačů bouře. S dostatečnou praxí může Šaman doplnit totem destruktivní silou blesku, což způsobí, že z totemu budou vystřelovat ve velké rychlosti elektrické výboje směřované na blízké nepřátele. ^oÚčinnost Bouřlivého totemu se zvyšuje s bonusy ke zranění, která způsobuješ.
+tagClass06SkillDescription16A=Usměrňování síly bouře je jeden z nejposvátnějších rituálů Vyvolávačů bouře. S dostatečnou praxí může Šaman doplnit totem destruktivní silou blesku, což způsobí, že z totemu budou vystřelovat ve velké rychlosti elektrické výboje směřované na nepřátele ve tvém okolí. ^oÚčinnost Bouřlivého totemu se zvyšuje s bonusy ke zranění, která způsobuješ.
 tagClass06SkillName16B=Zraňující bouře
 tagClass06SkillDescription16B=Šamané posedlí silou wendiga mohou poškodit Bouřlivý totem a vypustit hladovějící výboje, které vysají život z tvých nepřátel.
 tagClass06SkillName16_Pet=Úder bouře
@@ -681,7 +681,7 @@ xtagClass06SkillDescription13A=Mogdrogen je často líčen jako benevolentní b�
 xtagClass06SkillName08A=Vyvolání větrného ďábla
 xtagClass06SkillDescription08A=Tornádo je jednou z nejdestruktivnějších sil přírody. Šamanští Vyvolávači bouří zhmotňují tuto hrubou sílu ve formě Větrných ďáblů, vířící destruktivní větrné smrště, které se v boji pohybují zjevně dle svého vlastního uvážení. ^oVětrní ďáblové jsou považováni za spojence a těží z bonusů pro spojence.
 xtagClass06SkillName08B_Pet=Kvílející vítr
-xtagClass06SkillDescription08B_Pet=Vířící a ničívá větrná smršť útočí na blízké nepřátele.
+xtagClass06SkillDescription08B_Pet=Vířící a ničívá větrná smršť útočí na všechny nepřátele ve tvém okolí.
 xtagClass06SkillDescription07A=Usměrňování síly bouře je jeden z nejposvátnějších rituálů Vyvolávačů bouře. S dostatečnou praxí může Šaman posílit totem destruktivní silou blesku.
 xtagClass06SkillName03A=Divoký hlad
 xtagClass06SkillDescription03A=Přijmeš svoji nejzákladnější stránku a budeš nenasytně hodovat na prolité krvi po útocích tvé zbraně v průběhu boje.
@@ -691,7 +691,7 @@ xtagClass06SkillDescription04C=Mistrovství ve vyvolávání bouří ti dovoluje
 xtagClass06SkillName04D=Smršť
 xtagClass06SkillDescription04D=Mistrovství ve vyvolávání bouří ti dovoluje soustředit své síly do jedné devastující bouře než do vícero malých.
 xxtagClass06SkillName03B=Totem bouřky
-xxtagClass06SkillDescription03B=Usměrňování síly bouře je jeden z nejposvátnějších rituálů Vyvolávačů bouře. S dostatečnou praxí může Šaman doplnit totem destruktivní silou blesku, což způsobí, že z totemu budou vystřelovat ve velké rychlosti elektrické výboje směřované na blízké nepřátele.
+xxtagClass06SkillDescription03B=Usměrňování síly bouře je jeden z nejposvátnějších rituálů Vyvolávačů bouře. S dostatečnou praxí může Šaman doplnit totem destruktivní silou blesku, což způsobí, že z totemu budou vystřelovat ve velké rychlosti elektrické výboje směřované na nepřátele ve tvém okolí.
 
 #Class07
 
@@ -751,10 +751,10 @@ tagItemSkillA003=Navrácení statické elektřiny
 tagItemSkillDescA003=Vypustí kouli elektřiny na ty nepřátele, jež tě zasáhli.
 
 tagItemSkillA004=Ohnivá koule
-tagItemSkillDescA004=Vypustí ohnivou kouli na blízké nepřátele.
+tagItemSkillDescA004=Vypustí ohnivou kouli na nepřátele ve tvém okolí.
 
 tagItemSkillA004B=Ohnivá koule
-tagItemSkillDescA004B=Vypustí několik ohnivých koulí na blízké nepřátele.
+tagItemSkillDescA004B=Vypustí několik ohnivých koulí na nepřátele ve tvém okolí.
 
 tagItemSkillA005A=Plamenný prstenec
 tagItemSkillDescA005A=Obklopí sesilatele prstencem z plamenů, které budou ve svém dosahu spalovat nepřátele.
@@ -772,10 +772,10 @@ tagItemSkillA008Name=Pud sebezáchovy
 tagItemSkillA008Desc=Zvedne adrenalin a dočasně zvýší rychlost běhu.
 
 tagItemSkillA009Name=Nova z blesků
-tagItemSkillA009Desc=Uvolní výbuch energie blesku, který zraní blízké nepřátele.
+tagItemSkillA009Desc=Uvolní výbuch energie blesku, který zraní nepřátele ve tvém okolí.
 
 tagItemSkillA010=Statický náboj
-tagItemSkillDescA010=Uvolní se z tebe vlna elektřiny, která zraní blízké nepřátele.
+tagItemSkillDescA010=Uvolní se z tebe vlna elektřiny, která zraní nepřátele ve tvém okolí.
 
 tagItemSkillA011=Kilrianův plamen
 tagItemSkillDescA011=Temný plamen pohltí tvé tělo a zapálí všechny, kteří se opováží přiblížit, a odčerpá jejich životní energii.
@@ -793,19 +793,19 @@ tagItemSkillB001Name=Výbušná vlna
 tagItemSkillB001Desc=Z tvých útoků vzniká ohnivá vlna.
 
 tagItemSkillB002Name=Mrazivá vlna
-tagItemSkillB002Desc=Jako odplata mrazivým dotekem smrti vymrští projektily na blízké nepřátele a zmrazí je.
+tagItemSkillB002Desc=Jako odplata mrazivým dotekem smrti vymrští projektily na nepřátele ve tvém okolí a zmrazí je.
 
 tagItemSkillB003Name=Písky Noxu
-tagItemSkillB003Desc=Pomstíš se silným kouzlem spánku, jež blízké nepřátele uspí.
+tagItemSkillB003Desc=Pomsta pomocí silného kouzla spánku, jež nepřátele ve tvém okolí uspí.
 
 tagItemSkillB004Name=Řetězový blesk
-tagItemSkillB004Desc=Cíl je zasažen bleskem, který pak může přeskočit na další nepřátele v okolí.
+tagItemSkillB004Desc=Cíl je zasažen bleskem, který pak může přeskočit na další nepřátele ve tvém okolí.
 
 tagItemSkillA006Name=Elektrický výboj
-tagItemSkillA006Desc=Vrací úder explozí elektrických výbojů, které zasáhnou všechny blízké nepřátele.
+tagItemSkillA006Desc=Vrací úder explozí elektrických výbojů, které zasáhnou všechny nepřátele ve tvém okolí.
 
 tagItemSkillB005Name=Exploze jedu
-tagItemSkillB005Desc=Vrací úder jedovatým kouřem a otráví tak všechny blízké nepřátele.
+tagItemSkillB005Desc=Vrací úder jedovatým kouřem a otráví tak všechny nepřátele ve tvém okolí.
 
 tagItemSkillB006Name=Krvácení
 tagItemSkillB006Desc=Zraní cíl, způsobí mu krvácení a navíc bude náchylnější na zranění krvácením.
@@ -814,7 +814,7 @@ tagItemSkillB007Name=Roztříštění
 tagItemSkillB007Desc=Vypustí na cíl proud ledových úlomků.
 
 tagItemSkillB008Name=Bojový pokřik
-tagItemSkillB008Desc=Mohutným řevem povzbudí spojence v okolí.
+tagItemSkillB008Desc=Mohutným řevem povzbudí spojence ve tvém okolí.
 
 tagItemSkillB009Name=Ledový hrot
 tagItemSkillB009Desc=Vypustí šipku tvrdou jako kámen, která dokáže probodnout tvé nepřátele.
@@ -829,7 +829,7 @@ tagItemSkillB012Name=Seizmický výbuch
 tagItemSkillB012Desc=Ve tvém okolí propukne seizmická aktivita, která zraní tvé protivníky a srazí je na zem.
 
 tagItemSkillB013Name=Tajemný výbuch
-tagItemSkillB013Desc=Vlna tajemných sil ve tvém okolí zraní všechny blízké nepřátele.
+tagItemSkillB013Desc=Vlna tajemných sil ve tvém okolí zraní všechny nepřátele ve tvém okolí.
 
 tagItemSkillB014Name=Pozemský hlídač
 tagItemSkillB014Desc=Obklopí tě ochranná síla Země, která vylepší tvou zbroj a regeneraci života.
@@ -900,10 +900,10 @@ tagItemSkillB035Name=Zběsilost nohsledů
 tagItemSkillB035Desc=Jak tvoji spojenci uvidí svého pána raněného, divoce se rozběsní.
 
 tagItemSkillB036Name=Příval ohně
-tagItemSkillB036Desc=Vytryskne z tebe vlna plamenů, která zraní všechny blízké nepřátele.
+tagItemSkillB036Desc=Vytryskne z tebe vlna plamenů, která zraní všechny nepřátele ve tvém okolí.
 
 tagItemSkillB037Name=Deformující výbuch 
-tagItemSkillB037Desc=Vytryskne z tebe vlna chaotické energie, která zraní všechny blízké nepřátele.
+tagItemSkillB037Desc=Vytryskne z tebe vlna chaotické energie, která zraní všechny nepřátele ve tvém okolí.
 
 tagItemSkillB038Name=Záplava blesků
 tagItemSkillB038Desc=Uvolní z tebe množství malých blesků a zraní všechny nepřátele, kteří s nimi přijdou do kontaktu.
@@ -978,13 +978,13 @@ tagItemSkillC014Name=Dominance
 tagItemSkillC014Desc=Ovládne mysl cíle, čímž ho donutí krátký čas bojovat po tvém boku. 
 
 tagItemSkillC015Name=Rozparovač vnitřností
-tagItemSkillC015Desc=Vrhne shluk zubatých úlomků na blízké nepřátele.
+tagItemSkillC015Desc=Vrhne shluk zubatých úlomků na nepřátele ve tvém okolí.
 
 tagItemSkillC016Name=Vulkanická exploze
-tagItemSkillC016Desc=Rozpoutá explozi roztavených fragmentů, která zraní blízké nepřátele.
+tagItemSkillC016Desc=Rozpoutá explozi roztavených fragmentů, která zraní nepřátele ve tvém okolí.
 
 tagItemSkillC017Name=Statická exploze
-tagItemSkillC017Desc=Rozpoutá explozi statických výbojů, které zraní blízké nepřátele.
+tagItemSkillC017Desc=Rozpoutá explozi statických výbojů, které zraní nepřátele ve tvém okolí.
 
 tagItemSkillC018Name=Zaháčkovaná síť
 tagItemSkillC018Desc=Chytne tvoji kořist do sítě, jež spoutá a sevře tvůj cíl.
@@ -1005,7 +1005,7 @@ tagItemSkillC023Name=Jedovaté kousnutí
 tagItemSkillC023Desc=Meč se zaryje do masa jako ohavné kousnutí trhající feny.
 
 tagItemSkillC024Name=Bohaté žně
-tagItemSkillC024Desc=Vysává samotný život z tvého cíle a nenasytně přeskakuje na blízké nepřátele.
+tagItemSkillC024Desc=Vysává samotný život z tvého cíle a nenasytně přeskakuje na další nepřátele ve tvém okolí.
 
 tagItemSkillC025Name=Dupnutí
 tagItemSkillC025Desc=Vylepšená podrážka těchto bot udeří do země a vypustí ochromující vlnu, která šokuje tvé protivníky.
@@ -1118,13 +1118,13 @@ tagItemSkillC059Name=Studna duší
 tagItemSkillC059Desc=Vytvoří trhlinu do věčnosti a vypustí množství neklidných duchů, kteří rozdrásají jakéhokoliv nepřítele, jež se rozhodne do ni vstoupit.
 
 tagItemSkillC060Name=Ohnivá bouře 
-tagItemSkillC060Desc=Vytvoří bouři pekelných plamenů kolem tvé postavy a zapálí blízké nepřátele.
+tagItemSkillC060Desc=Vytvoří kolem tebe bouři pekelných plamenů a zapálí nepřátele ve tvém okolí.
 
 tagItemSkillC061Name=Výpad hada
-tagItemSkillC061Desc=Oboříš se na svého nepřítele jako odporný had a vstříkneš mu do krve smrtící jed. ^oVyžaduje chladnou zbraň.
+tagItemSkillC061Desc=Vrhneš se na svého nepřítele jako odporný had a vstříkneš mu do krve smrtící jed. ^oVyžaduje chladnou zbraň.
 
 tagItemSkillC062Name=Sražení
-tagItemSkillC062Desc=Vyřaď protivníka z boje rychlým a přesným úderem. ^oTato technika je aktivována výchozím útokem zbraně.
+tagItemSkillC062Desc=Vyřadí protivníka z boje rychlým a přesným úderem. ^oTato technika je aktivována výchozím útokem zbraně.
 
 tagItemSkillC063Name=Prismatický štít
 tagItemSkillC063Desc=Aktivuje runy vryté do této zbroje, čímž kolem tebe vytvoří ochranný štít.
@@ -1201,10 +1201,10 @@ tagItemSkillC086Name=Mor
 tagItemSkillC086Desc=Budeš šířit mor a nákazu každým krokem.
 
 tagItemSkillC087Name=Odplata
-tagItemSkillC087Desc=Vyprovokuješ své blízké nepřátele tlakovou vlnou, jež se uvolní z tvého štítu. ^oVyžaduje štít.
+tagItemSkillC087Desc=Vyprovokuješ nepřátele ve svém okolí tlakovou vlnou, jež se uvolní z tvého štítu. ^oVyžaduje štít.
 
 tagItemSkillC088Name=Tajemná zuřivost
-tagItemSkillC088Desc=Odmítajíc se pokořit, uvolňuješ nespoutaný potenciál své mysli.
+tagItemSkillC088Desc=Odmítajíc se pokořit, uvolníš nespoutaný potenciál své mysli.
 
 tagItemSkillC089Name=Ohnivá bouře
 tagItemSkillC089Desc=Vytváří kruh nesnesitelného ohně, který zapaluje tvé nepřátele.
@@ -1213,7 +1213,7 @@ tagItemSkillC090Name=Krvavé neštovice
 tagItemSkillC090Desc=Odporné prokletí, jež přivolá zhoubnou nákazu do řad tvých nepřátel.
 
 tagItemSkillC091Name=Replikující se střela
-tagItemSkillC091Desc=Replikující kouzlo, které při zásahu nepřítele kopíruje samo sebe.
+tagItemSkillC091Desc=Replikující se kouzlo, které při zásahu nepřítele kopíruje samo sebe.
 
 tagItemSkillC092Name=Nárůst bouře
 tagItemSkillC092Desc=V naléhavé potřebě zvoláš na nebesa, která tě nabijí devastující elektrickou energií.
@@ -1222,7 +1222,7 @@ tagItemSkillC093Name=Pavučina
 tagItemSkillC093Desc=Zachytíš tvé nepřátele do lepkavé síťoviny, která úplně znemožňuje pohyb a dělá z nich snadnou kořist. ^oToto kouzlo znehybní nepřátele po dobu svého trvání. Nepřátelé odolní vůči efektům pastí budou polapeni kratší dobu.
 
 tagItemSkillC094Name=Záblesk mrazu
-tagItemSkillC094Desc=Záblesk ryzího chladu zmrazí blízké nepřátele. ^oToto kouzlo zmrazí nepřátele po dobu svého trvání. Nepřátelé odolní vůči zmražení budou trpět kratší dobu.
+tagItemSkillC094Desc=Záblesk ryzího chladu zmrazí nepřátele ve tvém okolí. ^oToto kouzlo zmrazí nepřátele po dobu svého trvání. Nepřátelé odolní vůči zmražení budou trpět kratší dobu.
 
 tagItemSkillC095Name=Imitace pekla
 tagItemSkillC095Desc=Ze země kolem tebe vzejde oheň, který nezanechá nic než popel.
@@ -1231,7 +1231,7 @@ tagItemSkillC096Name=Sluneční záře
 tagItemSkillC096Desc=Vyjde z tebe oslepující světlo, které zmate tvé nepřátele.
 
 tagItemSkillC097Name=Šíp z Aetheru
-tagItemSkillC097Desc=Zasáhne cíl bleskem posilněným Aetherem. Nespoutaná magie pak přeskakuje na blízké nepřátele.
+tagItemSkillC097Desc=Zasáhne cíl bleskem posilněným Aetherem. Nespoutaná magie pak přeskakuje na nepřátele ve tvém okolí.
 
 tagItemSkillC098Name=Síly živlů
 tagItemSkillC098Desc=Umocní tvůj útok neslučitelnými silami ohně a ledu.
@@ -1255,7 +1255,7 @@ tagItemSkillC104Name=Spirituální obrana
 tagItemSkillC104Desc=Vstoupíš částečně do říše duchovna a obrníš se proti životaberoucím kouzlům a fyzickým útokům.
 
 tagItemSkillC105Name=Ledový kruh
-tagItemSkillC105Desc=Obklopí tě vířivý vítr s ledovými úlomky a zchladí blízké nepřátele.
+tagItemSkillC105Desc=Obklopí tě vířivý vítr s ledovými úlomky a zchladí nepřátele ve tvém okolí.
 
 tagItemSkillC106Name=Kousnutí mantikory
 tagItemSkillC106Desc=Oženeš se směrem ke svým nepřátelům a způsobíš jim bolestivá zranění.
@@ -1270,7 +1270,7 @@ tagItemSkillC109Name=Mrazící nova
 tagItemSkillC109Desc=Poryv mrazivého vzduchu kolem tebe úplně zmrazí tvé nepřátele.
 
 tagItemSkillC110Name=Živelný výbuch
-tagItemSkillC110Desc=Vytryskne z tebe poryv živelných energií a odstrčí tak blízké nepřátele.
+tagItemSkillC110Desc=Vytryskne z tebe poryv živelných energií a odstrčí nepřátele ve tvém okolí.
 
 tagItemSkillC111Name=Burrwitchské prokletí
 tagItemSkillC111Desc=Tví nepřátelé jsou označeni omezující kletbou, která je stejně silná jako utrpení Burrwitche.
@@ -1300,7 +1300,7 @@ tagItemSkillC120Name=Spáleniště
 tagItemSkillC120Desc=Intenzivní horko, které se z tebe uvolňuje, spálí zemi před tebou.
 
 tagItemSkillC121Name=Krvavá lázeň
-tagItemSkillC121Desc=Rozpářeš blízké nepřátele a potřísníš okolí jejich krví.
+tagItemSkillC121Desc=Nepřátelé ve tvém okolí budou rozpáráni a jejich krev bude rozeseta všude kolem.
 
 tagItemSkillC122Name=Skleněné oko
 tagItemSkillC122Desc=Vytrénované oko, smrtelná rána. ^oToto je pasivní bonus k obouručním střelným zbraním.
@@ -1311,13 +1311,13 @@ tagItemSkillC123Name=Ohnivá skvrna
 tagItemSkillC123Desc=Budeš pálit samotnou zemi, po níž kráčíš.
 
 tagItemSkillC124Name=Nova z ostnů
-tagItemSkillC124Desc=Vyjde z tebe salva trnů, která probodne blízké nepřátele.
+tagItemSkillC124Desc=Vyjde z tebe salva trnů, která probodne nepřátele ve tvém okolí.
 
 tagItemSkillC125Name=Vlna chaosu
 tagItemSkillC125Desc=Vyjde z tebe vlna entropických energií.
 
 tagItemSkillC126Name=Lékárníkův dotek
-tagItemSkillC126Desc=Trénink v oblasti medicíny ti umožňuje hojit rány blízkých spojenců.
+tagItemSkillC126Desc=Trénink v oblasti medicíny ti umožňuje hojit rány spojenců ve tvém okolí.
 
 tagItemSkillC127Name=Aetherický blesk
 tagItemSkillC127Desc=Vyjde z tebe blesk obohacený o čistý Aether a přeskakuje mezi tvými nepřáteli.
@@ -1344,7 +1344,7 @@ tagItemSkillC134Name=Úder Myrmidona
 tagItemSkillC134Desc=Udeříš svého nepřítele štítem a způsobíš tak smrtelná vnitřní poranění. ^oVyžaduje chladnou zbraň.
 
 tagItemSkillC135Name=Mogdrogenova poklidnost
-tagItemSkillC135Desc=Naplní tebe a tvé přátele v blízkosti Mogdrogenovou poklidností, čímž povzbudí jak tebe, tak i je a jejich zvířecí mazlíčky. ^oAby tato schopnost účinkovala, musí být aktivní.
+tagItemSkillC135Desc=Naplní tebe a spojence ve tvém okolí Mogdrogenovou poklidností, čímž všechny povzbudí. ^oAby tato schopnost účinkovala, musí být aktivní.
 
 tagItemSkillC136Name=Aetherický blesk
 tagItemSkillC136Desc=Vypustí blesk posilněný čistým Aetherem, který přeskakuje mezi tvými nepřáteli.
@@ -1407,7 +1407,7 @@ tagItemSkillD023Name=Příval Aetheru
 tagItemSkillD023Desc=Vytryskne z tebe čistá tajemná energie a zaplaví tvé nepřátele.
 
 tagItemSkillD024Name=Aetherické vedení 
-tagItemSkillD024Desc=Staneš se vodičem samotného Aetheru, zaplavujíc blízké nepřátele čistou tajemnou energií.
+tagItemSkillD024Desc=Staneš se vodičem samotného Aetheru, zaplavujíc nepřátele ve tvém okolí čistou tajemnou energií.
 
 tagItemSkillD025Name=Agónie
 tagItemSkillD025Desc=Prokleješ své protivníky utrpením a způzobíš jim nevyslovitelnou bolest, čímž je vystavíš dalšímu zranění.
@@ -1458,7 +1458,7 @@ tagItemSkillD040Name=Krvavý obřad
 tagItemSkillD040Desc=Tmavá Ch'thonova krev nakazí vše, čeho se dotkne, dokonce i ty zasvěcené.
 
 tagItemSkillD041Name=Krvavá píseň
-tagItemSkillD041Desc=Budeš máchat mečem v perfektním souznění, což způsobuje hlubší zranění a zároveň protne i blízké nepřátele.
+tagItemSkillD041Desc=Budeš máchat mečem v perfektním souznění, což způsobuje hlubší zranění nepřátelům ve tvém okolí.
 
 tagItemSkillD042Name=Krvavé neštovice
 tagItemSkillD042Desc=Odporné prokletí, jež přivolá zhoubnou nákazu do řad tvých nepřátel.
@@ -1540,7 +1540,7 @@ tagItemSkillD065Name=Štípací sekyra
 tagItemSkillD065Desc=Udeříš rozeklanou sekyrou a protneš zbroj až na maso.
 
 tagItemSkillD066Name=Chladivý pařát
-tagItemSkillD066Desc=Udeříš chladivým pařátem a protneš blízké nepřátele.
+tagItemSkillD066Desc=Udeříš chladivým pařátem a protneš nepřátele ve svém okolí.
 
 tagItemSkillD067Name=Strážce zabijáka démonů
 tagItemSkillD067Desc=Zocelíš svou obranu proti stvůrám z Prázdnoty.
@@ -1579,7 +1579,7 @@ tagItemSkillD078Name=Vyzyvatel
 tagItemSkillD078Desc=Mistrovství boje se dvěmi zbraněmi z tebe udělá smrtící zbraň. Nyní můžeš pálit z obou zbraní najednou tak neuvěřitelně snadně, a ještě k tomu se smrtícím účinkem.
 
 tagItemSkillD079Name=Výbuch živlů
-tagItemSkillD079Desc=Vytryskne z tebe poryv energií živlů a odstrčí tak blízké nepřátele.
+tagItemSkillD079Desc=Vytryskne z tebe poryv energií živlů a odstrčí nepřátele ve tvém okolí.
 
 tagItemSkillD080Name=Pečeť živlů
 tagItemSkillD080Desc=Na zemi vytvoří magickou pečeť destruktivní síly.
@@ -1630,7 +1630,7 @@ tagItemSkillD095Name=Ohnivý dech
 tagItemSkillD095Desc=Maska ti umožní dýchat oheň.
 
 tagItemSkillD096Name=Nebeský soud
-tagItemSkillD096Desc=Tvé blízké nepřátele rychle zasáhne blesk a spálí je elektřina.
+tagItemSkillD096Desc=Nepřátele ve tvém okolí rychle zasáhne blesk a spálí je elektrický proud.
 
 tagItemSkillD097Name=Oblak jedovatého plynu
 tagItemSkillD097Desc=Vyvolá jedovatý oblak, který začne dusit všechny, které polapí.
@@ -1840,13 +1840,13 @@ tagItemSkillD165Name=Kruh ohně
 tagItemSkillD165Desc=Obklopíš se kruhem z uhlíků, které jsou pro tebe neškodné, ale nepřátelé se přiblížit nemohou.
 
 tagItemSkillD166Name=Kruh z oceli
-tagItemSkillD166Desc=Mrknutím oka tě obklopí stovky přízračných čepelí rotujících smrtící rychlostí, které setnou blízké nepřátele.
+tagItemSkillD166Desc=Mrknutím oka tě obklopí stovky přízračných čepelí rotujících smrtící rychlostí, které setnou nepřátele ve tvém okolí.
 
 tagItemSkillD167Name=Posvátná vyváženost
-tagItemSkillD167Desc=Rozvrátíš rovnováhu mezi odporujícími si silami světla a temnoty dříve, než jejich energii vyšleš na blízké nepřátele.
+tagItemSkillD167Desc=Rozvrátíš rovnováhu mezi odporujícími si silami světla a temnoty dříve, než jejich energii vyšleš na nepřátele ve svém okolí.
 
 tagItemSkillD168Name=Vřískot Aetheru
-tagItemSkillD168Desc=Vychází z tebe nářek Aetheru, který děsí nepřátele v blízkosti.
+tagItemSkillD168Desc=Vychází z tebe nářek Aetheru, který děsí nepřátele ve tvém okolí.
 
 tagItemSkillD169Name=Zpečetění osudu
 tagItemSkillD169Desc=Zpečetíš osud svých nepřátel, sebejistý ve vyneseném rozsudku.
@@ -1921,7 +1921,7 @@ tagItemSkillD192Name=Ultosova zloba
 tagItemSkillD192Desc=Uvolníš na bojišti Ultosovu zlobu ve formě masivní bouře.
 
 tagItemSkillD193Name=Ulzuinův plamen
-tagItemSkillD193Desc=Pokryješ svůj cíl divokými plameny samotného Ulzuina, jež se budou divoce šířit na další blízké nepřátele, protože budou chtít nechat svět shořet v plamenech.
+tagItemSkillD193Desc=Pokryješ svůj cíl divokými plameny samotného Ulzuina, jež se budou divoce šířit na další nepřátele ve tvém okolí, protože budou chtít nechat svět shořet v plamenech.
 
 tagItemSkillD194Name=Nespoutaná zuřivost
 tagItemSkillD194Desc=Rozzuříš se a vyměníš svou obranu za nezastavitelný útok.
@@ -1945,7 +1945,7 @@ tagItemSkillD200Name=Jed Černé matriarchy
 tagItemSkillD200Desc=Vstříkneš do své oběti smrtící jed z Černé matriarchy.
 
 tagItemSkillD201Name=Jedovaté ostny
-tagItemSkillD201Desc=Vyrostou z tebe jedovaté ostny a nabodnou blízké nepřátele.
+tagItemSkillD201Desc=Vyrostou z tebe jedovaté ostny a nabodnou nepřátele ve tvém okolí.
 
 tagItemSkillD202Name=Odporná krev
 tagItemSkillD202Desc=Necháš zkazit krev svého nepřítele, čímž mu vzniknou otevřené boláky, které začkou hojně krvácet. Náhlá ztráta krve se může ukázat devastující.
@@ -1983,8 +1983,8 @@ tagItemSkillD212Desc=Kolem tebe se bude točit koule s kousavým ledem ve formě
 tagItemSkillD213Name=Čarovné plameny
 tagItemSkillD213Desc=Z tvého nitra vychází plameny entropické energie.
 
-tagItemSkillD214Name=Hodina čarodejnic
-tagItemSkillD214Desc=Nastane hodina čarodejnic a posílí tvé spojence okultní magií.
+tagItemSkillD214Name=Hodina čarodějnic
+tagItemSkillD214Desc=Nastane hodina čarodějnic a posílí tvé spojence okultní magií.
 
 tagItemSkillD215Name=Chůze ducha
 tagItemSkillD215Desc=Projdeš skrze závoj reality jako neživá duše a budeš tak sotva vnímat fyzický svět kolem sebe.
@@ -2062,7 +2062,7 @@ tagItemSkillD239Name=Černý plamen
 tagItemSkillD239Desc=Pod tvými nepřáteli je zažeháváno větší množství podivných plamenů.
 
 tagItemSkillD240Name=Kousance Šílené královny
-tagItemSkillD240Desc=Oboříš se ze zoufalství na blízké nepřátele a hluboko zabodneš svůj meč.
+tagItemSkillD240Desc=Ze zoufalství se vrhneš na nepřátele ve svém okolí a zabodneš svůj meč hluboko do jejich těl.
 
 tagItemSkillD241Name=Zemětřesení
 tagItemSkillD241Desc=Rozerveš zemi v oblasti svých nepřátel a zpomalíš a omráčíš všechny, kteří budou v trhlině zachyceni.
@@ -2076,7 +2076,7 @@ tagItemSkillD243NamePetSkill=Umocněné rituály
 tagItemSkillD243DescPetSkill=Setrvání uvnitř Rituálního kruhu umocňuje tvá kouzla a chrání tě od fyzické újmy.
 
 tagItemSkillD244Name=Úlomek bouře
-tagItemSkillD244Desc=Vyčaruješ bouří obohacený krystal v požadovaném místě a elektřinou zasáhneš blízké nepřátele. ^oÚlomky bouře sílí spolu se zvyšujícími se bonusy pro spojence.
+tagItemSkillD244Desc=Vyčaruješ bouří obohacený krystal v určeném místě a elektrickým proudem zasáhneš nepřátele ve svém okolí. ^oÚlomky bouře sílí spolu se zvyšujícími se bonusy pro spojence.
 
 tagItemSkillD245Name=Vyvolání pekla
 tagItemSkillD245Desc=Pekelné plameny se šíří ze země pod tvými nepřáteli.
@@ -2095,7 +2095,7 @@ tagItemSkillD249Name=Tajemná destrukce
 tagItemSkillD249Desc=Otevřeš malou trhlinu v realitě, skrze kterou propadne rozžhavený tajemný uhlík.
 
 tagItemSkillD250Name=Krveprolití
-tagItemSkillD250Desc=Prořežeš se skrze blízké nepřátele k hrůznému obrazu.
+tagItemSkillD250Desc=Prořežeš se skrze nepřátele ve svém okolí k hrůznému obrazu.
 
 tagItemSkillD251Name=Temné znamení
 tagItemSkillD251Desc=Znamení Bledého zaplaví tvé nepřátele nesnesitelnou bolestí.
@@ -2182,10 +2182,10 @@ tagCompSkillA021Name=Otrávené zbraně
 tagCompSkillA021Desc=Tvým útokům dodá otravu jedem. ^oAby tato schopnost účinkovala, musí být aktivní.
 
 tagCompSkillA022Name=Jedovatá bomba
-tagCompSkillA022Desc=Vypustí jedovatou pumu, která exploduje v blízkosti cíle a pokryje tvé nepřátele jedem.
+tagCompSkillA022Desc=Vypustí jedovatou pumu, která exploduje v určeném místě a pokryje tvé nepřátele jedem.
 
 tagCompSkillA023Name=Škodlivá jedovatá bomba
-tagCompSkillA023Desc=Vypustí jedovatou pumu, která exploduje v blízkosti cíle a pokryje tvé nepřátele jedem.
+tagCompSkillA023Desc=Vypustí jedovatou pumu, která exploduje v určeném místě a pokryje tvé nepřátele jedem.
 
 tagCompSkillA024Name=Oslňující štít
 tagCompSkillA024Desc=Prodchne tvůj štít proti živlům.
@@ -2227,10 +2227,10 @@ tagCompSkillA036Name=Ochrana proti Prázdnotě
 tagCompSkillA036Desc=Ochraní tě před chaotickou Prázdnotou. ^oAby tato schopnost účinkovala, musí být aktivní.
 
 tagCompSkillA037Name=Nova z blesků
-tagCompSkillA037Desc=Uvolní výbuch energie blesku, což zraní blízké nepřátele.
+tagCompSkillA037Desc=Uvolní výbuch energie blesku, což zraní nepřátele ve tvém okolí.
 
 tagCompSkillA038Name=Mocná nova z blesků
-tagCompSkillA038Desc=Uvolní výbuch energie blesku, což zraní blízké nepřátele.
+tagCompSkillA038Desc=Uvolní výbuch energie blesku, což zraní nepřátele ve tvém okolí.
 
 tagCompSkillB001Name=Démonický dech
 tagCompSkillB001Desc=Vypustí vlnu nadpřirozených plamenů směrem k tvému nepříteli.
@@ -2265,7 +2265,7 @@ tagRelicSkillB002Name=Prudký útok
 tagRelicSkillB002Desc=Začneš prudce útočit s vírou, že uštědříš pár zatoulaných ran.
 
 tagRelicSkillB003Name=Klid
-tagRelicSkillB003Desc=Zaplavíš blízké nepřátele svou myslí.
+tagRelicSkillB003Desc=Zaplavíš nepřátele ve tvém okolí vlastní myslí.
 
 tagRelicSkillB004Name=Ledový příval
 tagRelicSkillB004Desc=Necháš prostoupit mrazivou energii skrze své nitro a příležitostně spustíš příval ledu na ty, jež na tebe zaútočí. ^oAby tato schopnost účinkovala, musí být aktivní.
@@ -2706,7 +2706,7 @@ tagDevotionEffectA01Desc=Život vysávající pařáty zaútočí na tvé nepř�
 tagDevotionEffectA02=Bodnutí škorpióna
 tagDevotionEffectA02Desc=Vyjdou z tebe ostny pokryté smrtícím toxinem.
 tagDevotionEffectA05=Targovo kladivo
-tagDevotionEffectA05Desc=Kolem tebe bude kroužit Targovo kladivo a srážet na zem blízké nepřátele.
+tagDevotionEffectA05Desc=Kolem tebe bude kroužit Targovo kladivo a srážet na zem okolní nepřátele.
 tagDevotionEffectA06=Zvolání pasáčka
 tagDevotionEffectA06Desc=Zvoláš na své spojence, aby se k tobě připojili v boji.
 tagDevotionEffectA08=Značka vraha
@@ -2722,7 +2722,7 @@ tagDevotionEffectA19Desc=Malé množství Aetherického ohně se začně uvolňo
 tagDevotionEffectA20=Záplava ohněm
 tagDevotionEffectA20Desc=Okolo tebe se rozvlní pekelné plameny, které zapálí vše, čeho se dotknou.
 tagDevotionEffectA21=Zuřivost býka
-tagDevotionEffectA21Desc=Udeříš na blízké nepřátele fyzickou silou jako býk, který zrovna napadá svou oběť.
+tagDevotionEffectA21Desc=Udeříš na nepřátele ve svém okolí fyzickou silou jako býk, který zrovna napadá svou oběť.
 tagDevotionEffectA25=Morbidní hlad
 tagDevotionEffectA25Desc=V případě uvěznění v rohu se ponoříš do stavu morbidního zápalu a zatoužíš po soustu masa.
 tagDevotionEffectA26=Požehnání Dryády
@@ -2739,7 +2739,7 @@ tagDevotionEffectB03Desc=Označíš své nepřátele znamením Wendigo, vysaješ
 tagDevotionEffectB04=Rozervání
 tagDevotionEffectB04Desc=Roztrháš své nepřátele, odkryješ choulostivé tepny a způsobíš tak intenzivní krvácení.
 tagDevotionEffectB05=Kyj
-tagDevotionEffectB05Desc=Udeříš na své blízké nepřátele silou divokého medvěda. ^oVyžaduje chladou zbraň.
+tagDevotionEffectB05Desc=Udeříš na nepřátele ve svém okolí silou divokého medvěda. ^oVyžaduje chladnou zbraň.
 tagDevotionEffectB06=Rozhněvané čepele
 tagDevotionEffectB06Desc=Získáš další výhodu tím, že vypustíš množství přízračných čepelí, které s lehkostí projdou skrze tvé nepřátele.
 tagDevotionEffectB07=Prasklina
@@ -2790,7 +2790,7 @@ tagDevotionEffectC03Desc=V žilách se ti rozproudí chaotické síly Prázdnoty
 tagDevotionEffectC04=Empyrionovo světlo
 tagDevotionEffectC04Desc=Posvátné světlo Empyriona zapudí temnotu a sežehne tvé nepřátele.
 tagDevotionEffectC05=Slepá zuřivost
-tagDevotionEffectC05Desc=Nadšením z krve a způsobených jatek budeš dál krvelačně napadat všechny blízké nepřátele za přívalu brutálních úderů.
+tagDevotionEffectC05Desc=Nadšením z krve a způsobených jatek budeš dál krvelačně napadat všechny nepřátele ve svém okolí za přívalu brutálních úderů.
 tagDevotionEffectC06=Kamenná forma
 tagDevotionEffectC06Desc=Tvé maso se stane kamenem, skoro neproniknutelným až na ty nejtvrdší údery.
 tagDevotionEffectC07=Nebeské kopí
@@ -2806,7 +2806,7 @@ tagDevotionEffectC10Desc=Z tvého těla začne vycházet uzdravující mlha, kte
 tagDevotionEffectC11=Mogdrogenův řev
 tagDevotionEffectC11Desc=V zápalu právě způsobené smrti vstoupíš ty i se svými nohsledy do horlivé zuřivosti.
 tagDevotionEffectC12=Živelný stopař
-tagDevotionEffectC12Desc=Vyvoláš podivnou příšeru z čisté energie, která vyhledává a pálí blízké nepřátele jen svou samotnou přítomností před tím, než se navrátí do Aetheru za doprovodu exploze vlastní energie. ^oŽivelní hledači sílí spolu se zvyšujícími se bonusy pro spojence.
+tagDevotionEffectC12Desc=Vyvoláš podivnou příšeru z čisté energie, která vyhledává a pálí nepřátele ve svém okolí samotnou přítomností před tím, než se navrátí do Aetheru za doprovodu exploze vlastní energie. ^oŽivelní hledači sílí spolu se zvyšujícími se bonusy pro spojence.
 tagDevotionEffectC12_Pet01=Hořící podoba
 tagDevotionEffectC12_Pet02=Výbuch
 tagDevotionEffectC13=Vodní vír
@@ -2900,8 +2900,8 @@ tagEnemySkillD04=Podivná aura
 tagEnemySkillD04_Desc=Surová podivná energie obklopuje tento krystal, čímž posiluje podivné bytosti a poškozuje živé bytosti.
 
 tagEnemySkillD05=Aldritchovo žezlo
-tagEnemySkillD05_Desc=Aldritchovo žezlo vysílá oblouky energie, která zraňuje nepřátele v blízkosti.
+tagEnemySkillD05_Desc=Aldritchovo žezlo vysílá oblouky energie, která zraňuje nepřátele ve tvém okolí.
 
 tagEnemySkillD06=Kletba Krvepřísežníka
-tagEnemySkillD06_Desc=Krvepřísežníkova kletba vysává tvou vůli bojovat proti devastujícím silám Prázdnoty a tak máš snížené odolnosti, regeneraci a útočnou schopnost.
+tagEnemySkillD06_Desc=Krvepřísežníkova kletba vysaje tvou vůli bojovat proti devastujícím silám Prázdnoty a sníží tak tvé odolnosti, regeneraci a útočnou schopnost.
 

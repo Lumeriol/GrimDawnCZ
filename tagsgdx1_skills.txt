@@ -88,7 +88,7 @@ tagGDX1Class07SkillDescription07B=Kalastorova runa se stává ještě více nest
 tagGDX1Class07SkillName07A_PetSkill=Konsistentní výbuch
 
 tagGDX1Class07SkillName08A=Aura smýšlení
-tagGDX1Class07SkillDescription08A=Ochranné vlastnosti run, kterými je vyzdobeno oblečení inkvizitorů, mohou účinkovat i na spojence v blízkosti a nabídnout tak bdělost v bitvě a dovednost bojových umění.
+tagGDX1Class07SkillDescription08A=Ochranné vlastnosti run, kterými je vyzdobeno oblečení inkvizitorů, mohou účinkovat i na spojence ve tvém okolí a nabídnout tak bdělost v bitvě a dovednost bojových umění.
 
 tagGDX1Class07SkillName09A=Aura zavržení
 tagGDX1Class07SkillDescription09A=Už jen přítomnost inkvizitora je dost na to, aby se nepřátelé lidstva třásli. Díky runám napsaným na oblečení se inkvizitoři vrhají do boje s ohněm v srdci. ^oTato schopnost musí být aktivní, aby účinkovala.
@@ -99,7 +99,7 @@ tagGDX1Class07SkillDescription10A=Studování Gandarrova rohu bylo zakázáno po
 tagGDX1Class07SkillName11A=Specializace ve střelbě
 tagGDX1Class07SkillDescription11A=I když jsou inkvizitoři vyzbrojeni celou škálou relikvií a artefaktů, všichni musí být připraveni někdy čelit nepřátelům a spoléhat se jen na své schopnosti a arzenál. Zkušené používání palných zbraní umožňuje inkvizitorům složit oběť z bezpečné vzdálenosti. ^oToto je bonus ke střelným zbraním. Také umožňuje ovládat dvě střelné zbraně najednou.
 tagGDX1Class07SkillName12A=Spalující kulka
-tagGDX1Class07SkillDescription12A=Dobře zkalibrovaná kulka, která exploduje při zásahu, pohltí díky plamenům jak cíl tak nepřátele v blízkosti. ^oToto je technika pro střelné zbraně a je aktivována běžným útokem.
+tagGDX1Class07SkillDescription12A=Dobře zkalibrovaná kulka, která exploduje při zásahu, pohltí díky plamenům jak cíl tak i nepřátele v okolí. ^oToto je technika pro střelné zbraně a je aktivována běžným útokem.
 tagGDX1Class07SkillName13A=Ledová kulka
 tagGDX1Class07SkillDescription13A=Střelba obohacená ledovými arkanickými energiemi úplně zmrazí cíl, což zajišťuje snadný zářez. ^oToto je technika pro střelné zbraně a je aktivována běžným útokem.
 tagGDX1Class07SkillName14A=Šíření bouře
@@ -120,7 +120,7 @@ tagGDX1Class08SkillDescription00A=Mistrovství v ovládání krutého osudu, kte
 tagGDX1Class08SkillName01A=Sání života
 tagGDX1Class08SkillDescription01A=Nekromanti obecně věří ve vyšší dobro a někdy vyšší dobro znamená to, že život jednoho musí být obětován pro to, aby druhý mohl žít. I když se na tuto schopnost nekromanté a nekromantky dívají se svraštělým čelem, někteří její uživatelé mají problém odolat lákavosti surové životní energie.
 tagGDX1Class08SkillName01B=Hlad
-tagGDX1Class08SkillDescription01B=Hlad po životní esenci nemusí být jednoduché uspokojit, pokud jej jednou okusíš. S tím, jak promítáš svůj hlad do kouzla toto kouzlo ovlivňuješ a tak jsou kromě hlavního cíle občas zasaženi i nepřátelé v blízkosti.
+tagGDX1Class08SkillDescription01B=Hlad po životní esenci nemusí být jednoduché uspokojit, pokud jej jednou okusíš. S tím, jak promítáš svůj hlad do kouzla, toto kouzlo ovlivňuješ a tak jsou kromě hlavního cíle občas zasaženi i okolní nepřátelé.
 tagGDX1Class08SkillName01C=Rozklad
 tagGDX1Class08SkillDescription01C=Ještě před tím, než vyhasne život v jejich očích, se tví přátelé začnou rozkládat tam, kde stojí.
 tagGDX1Class08SkillName01D=Smrtonosný chlad
@@ -159,9 +159,9 @@ tagGDX1Class08SkillDescription03D=Nekromanti trénovaní v boji na blízko nejso
 tagGDX1Class08SkillName04A=Hladová Země
 tagGDX1Class08SkillDescription04A=Na tvůj příkaz se nákaza a hniloba valí z pekelných trhlin v zemi a infikuje všechny nešťastníky, kteří stojí příliš blízko.
 tagGDX1Class08SkillName04B=Rozklad
-tagGDX1Class08SkillDescription04B=Jedovaté plyny stoupají ze země a oslabují nepřátele v blízkosti.
+tagGDX1Class08SkillDescription04B=Jedovaté plyny stoupají ze země a oslabují nepřátele ve tvém okolí.
 tagGDX1Class08SkillName04C=Odporná erupce
-tagGDX1Class08SkillDescription04C=Odporné nekrotické energie zalijí tkáň, což u padlých nepřátel leckdy způsobí krvavou explozi a šíří tak nemoc. Navíc způsobuje výtok z ran nepřátel v blízkosti.
+tagGDX1Class08SkillDescription04C=Odporné nekrotické energie zalijí tkáň, což u padlých nepřátel leckdy způsobí krvavou explozi a šíří tak nemoc. Navíc způsobuje výtok z ran okolních nepřátel.
 
 tagGDX1Class08SkillName05A=Vyvolání Odporné stvůry
 tagGDX1Class08SkillDescription05A=Z mrtvol a hniloby, netknutých díky škodlivým výparům z hnijících tkání, můžeš vyvolat zrůdu, a tak si podmanit své nepřátele. ^oPouze jedna Odporná stvůra může být vyvolána v jeden okamžik. Odporná stvůra sílí spolu s bonusy pro mazlíčky.
@@ -180,7 +180,7 @@ tagGDX1Class08SkillName06B=Zloba ducha
 tagGDX1Class08SkillDescription06B=Duchové ti umožňují ohnat se po čemkoliv, co se tě snaží napadnout, čímž je prokleješ vysilujícím kouzlem ze záhrobí.
 
 tagGDX1Class08SkillName07A=Přečerpání duše
-tagGDX1Class08SkillDescription07A=Vypuštěním nekrotických energií se pokoušíš sklidit duchy nepřátel v blízkosti touto děsivou kletbou, čímž vysaješ jejich život a přeneseš jej k sobě.
+tagGDX1Class08SkillDescription07A=Vypuštěním nekrotických energií se pokoušíš sklidit touto děsivou kletbou duchy nepřátel ve svém okolí, čímž vysaješ jejich život a přeneseš jej na sebe.
 tagGDX1Class08SkillName07B=Vařící se krev
 tagGDX1Class08SkillDescription07B=Tato kletba zahřeje krev v tvých nepřátelích a ta začne vařit, což způsobí během jejich posledních výdechů také rychlý rozklad.
 tagGDX1Class08SkillName07C=Spálení duše
@@ -206,7 +206,7 @@ tagGDX1Class08SkillName13A=Nekrotické ostří
 tagGDX1Class08SkillDescription13A=Díky účinku hrobového chladu tvé útoky způsobují okamžitou nekrózu v ráně, pohled díky kterému i ti nejodhodlanější nepřátelé zeslábnou. ^oLze aktivovat všemi běžnými typy útoků zbraně. Pokud je použita chladná zbraň, útok zasáhne několik nejbližších cílů.
 
 tagGDX1Class08SkillName14A=Znamení trýzně
-tagGDX1Class08SkillDescription14A=I když se všichni musí podvolit nakonec svému osudu, tvá schopnost manipulovat se smrtí ti umožňuje oddálit nevyhnutelné. Tím, že propojíš svojí duši s nepřítelem v blízkosti, přesuneš některá ze zranění vedených proti tobě právě na něj. ^oPouze jeden nepřítel může být označen v ten daný okamžik.
+tagGDX1Class08SkillDescription14A=I když se všichni musí podvolit nakonec svému osudu, tvá schopnost manipulovat se smrtí ti umožňuje oddálit nevyhnutelné. Tím, že propojíš svojí duši s nepřítelem ve svém okolí, přesuneš některá ze zranění vedených proti tobě právě na něj. ^oPouze jeden nepřítel může být označen v ten daný okamžik.
 
 tagGDX1Class08SkillName15A=Volání z hrobu
 tagGDX1Class08SkillDescription15A=Na příkaz svého vládce mohou nohsledi uvolnit energii z hrobu, která je pohání, což z nich udělá brutální a šílené jedince.
@@ -308,10 +308,10 @@ tagGDX1ItemSkillD115Name=Klec z blesků
 tagGDX1ItemSkillD115Desc=Vyčarované blesky připoutá nohy tvých nepřátel k zemi, kde zůstanou nehybní.
 
 tagGDX1ItemSkillD116Name=Noční pařát
-tagGDX1ItemSkillD116Desc=Rozřež nepřátele v blízkosti pomocí ostří ze stínu a zanech je chromé s otevřenými ranami.
+tagGDX1ItemSkillD116Desc=Rozřežeš nepřátele ve svém okolí pomocí ostří ze stínu a zanecháš je chromé s otevřenými ranami.
 
 tagGDX1ItemSkillD117Name=Malakorova infuze
-tagGDX1ItemSkillD117Desc=Malakorovy runy do tebe vštěpí rovnováhu, rány se začnou léčit a posílí tvé zbraně elementárním účinkem.
+tagGDX1ItemSkillD117Desc=Malakorovy runy do tebe vštěpí rovnováhu, rány se začnou léčit a posílí tvé zbraně silou živlů.
 
 tagGDX1ItemSkillD118Name=Arkanická devastace
 tagGDX1ItemSkillD118Desc=Na tvůj příkaz se arkanická energie prodere skrze oblohu a zasáhne tvé nepřátele.
@@ -326,7 +326,7 @@ tagGDX1ItemSkillD121Name=Elgolothova runa
 tagGDX1ItemSkillD121Desc=Označ své nepřátele Luminářskou runou Elgolotha, čímž jim budeš způsobovat poškození elektřinou a vystavíš je navíc vlivu elementů.
 
 tagGDX1ItemSkillD122Name=Hladový chřtán
-tagGDX1ItemSkillD122Desc=Proveď výpad svým štítem a hladově vysaj život ze svých nepřátel. ^oVyžaduje chladou zbraň.
+tagGDX1ItemSkillD122Desc=Proveď výpad svým štítem a hladově vysaj život ze svých nepřátel. ^oVyžaduje chladnou zbraň.
 
 tagGDX1ItemSkillD123Name=Pozorovatelova muška
 tagGDX1ItemSkillD123Desc=Díky váze svého štítu je pozorovatelova muška pevná. ^oToto je pasivní bonus pro jednoruční palné zbraně.
@@ -398,10 +398,10 @@ tagGDX1ItemSkillD145Name=Vítr s oharky
 tagGDX1ItemSkillD145Desc=Vyvolej požár s živoucím ohněm a zapal tak své nepřátele. ^oVítr s oharky roste spolu s bonusy poškození pro hráče.
 
 tagGDX1ItemSkillD146Name=Pustošitelův smrtící pohled
-tagGDX1ItemSkillD146Desc=Pohled Pustošitele doléhá na tvé nepřátele v blízkosti a oslabuje tak jejich obranyschopnost.
+tagGDX1ItemSkillD146Desc=Pohled Pustošitele doléhá na nepřátele ve tvém okolí a oslabuje tak jejich obranyschopnost.
 
 tagGDX1ItemSkillD147Name=Pustošitelův smrtící pohled
-tagGDX1ItemSkillD147Desc=Pohled Pustošitele doléhá na tvé nepřátele v blízkosti a ničí tak jejich obranyschopnost.
+tagGDX1ItemSkillD147Desc=Pohled Pustošitele doléhá na nepřátele ve tvém okolí a ničí tak jejich obranyschopnost.
 
 tagGDX1ItemSkillD148Name=Zuřivý úder bičem
 tagGDX1ItemSkillD148Desc=Prvotní energie bičuje tvého nepřítele.
@@ -473,10 +473,10 @@ tagGDX1ItemSkillD170Name=Kouzelná pohroma
 tagGDX1ItemSkillD170Desc=Skrze svou čistou psychickou vůli přeměňuješ síly magie do fyzické síly. ^oTato schopnost musí být aktivní, aby účinkovala.
 
 tagGDX1ItemSkillD171Name=Životasaj
-tagGDX1ItemSkillD171Desc=Tvá žízeň po životě je neuhasitelná. A když vysáváš životní sílu ze svého nepřítele, oběti v blízkosti trpí stejným osudem.
+tagGDX1ItemSkillD171Desc=Tvá žízeň po životě je neuhasitelná. A když vysáváš životní sílu ze svého nepřítele, okolní oběti trpí stejným osudem.
 
 tagGDX1ItemSkillD172Name=Belgothianovy údery
-tagGDX1ItemSkillD172Desc=Ožeň se Belgothianovou zuřivostí vůči svým nepřátelům. Pokud je tato schopnost použita jako výchozí typ útoku, Belgothianovy údery mají větší intenzitu s každým dalším úderem. ^oVětší počet nabití zvyšuje potenciál bonusů.
+tagGDX1ItemSkillD172Desc=Oženeš se s Belgothianovou zuřivostí proti svým nepřátelům. Pokud je tato schopnost použita jako výchozí typ útoku, Belgothianovy údery mají větší intenzitu s každým dalším úderem. ^oVětší počet nabití zvyšuje potenciál bonusů.
 
 tagGDX1ItemSkillD173Name=Runové šipky
 tagGDX1ItemSkillD173Desc=Mazaná kompinace válečných zbraní a arkanických vlastností je obvzláště smrtící kombinací. ^oPokud jsou použity jako výchozí typ útoku, Runové šipky působí další zranění.
@@ -583,10 +583,10 @@ tagGDX1RelicSkillD104Name=Elementální prokletí
 tagGDX1RelicSkillD104Desc=Vypusť bodec čistých živelných energií a odraž tak postupující nepřátele.
 
 tagGDX1RelicSkillD105Name=Moc odsouzení
-tagGDX1RelicSkillD105Desc=Vypustíš fyzickou tlakovou vlnu tak silnou, že porazí blízké nepřátele a přitáhne je k tobě.
+tagGDX1RelicSkillD105Desc=Vypustíš fyzickou tlakovou vlnu tak silnou, že porazí nepřátele v okolí a přitáhne je k tobě.
 
 tagGDX1RelicSkillD106Name=Spalující náboj
-tagGDX1RelicSkillD106Desc=Vtrhni do boje ve jménu Empyriona a spal své nepřátele svatým ohněm. ^oVyžaduje chladou zbraň. Pokud je použit i štít, poškození štítem je přičteno ke zranění.
+tagGDX1RelicSkillD106Desc=Vtrhni do boje ve jménu Empyriona a spal své nepřátele svatým ohněm. ^oVyžaduje chladnou zbraň. Pokud je použit i štít, poškození štítem je přičteno ke zranění.
 
 tagGDX1RelicSkillD107Name=Nával chaosu
 tagGDX1RelicSkillD107Desc=Vypusť vlnu destruktivní energie, která projde skrze tvé nepřátele, pak se k tobě vlna vrátí.
@@ -601,7 +601,7 @@ tagGDX1RelicSkillD110Name=Krvavý trn
 tagGDX1RelicSkillD110Desc=Vrhne spirálu krví potřísněných trnů na tvé nepřátele.
 
 tagGDX1RelicSkillD111Name=Trhající oblouk
-tagGDX1RelicSkillD111Desc=Švihni svou zbraní do oblouku, prosekej se nepřáteli a roztrhej jim duše. ^oVyžaduje chladou zbraň.
+tagGDX1RelicSkillD111Desc=Švihni svou zbraní do oblouku, prosekej se nepřáteli a roztrhej jim duše. ^oVyžaduje chladnou zbraň.
 
 tagGDX1RelicSkillD112Name=Ignaffarovo hoření
 tagGDX1RelicSkillD112Desc=Starověká relikvie vybuchne a vyjdou z ní ničivé plameny neškodné pro tebe a tvé blízké, ale destruktivní pro kohokoliv stojícího moc blízko.

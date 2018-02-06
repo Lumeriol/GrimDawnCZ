@@ -159,7 +159,7 @@ Co tady ještě pořád děláš? Ulgrim tě potřebuje na Pohřebišti!
 
 Hned tam vyrazím.
 [[ms]Zabezpečil[fs]Zabezpečila] jsi Bránu?
-Kdeže je Pohřebiště?
+Kde že najdu Pohřebiště?
 Jdi předními branami z pevnosti Ikon a vydej se skrze Pláně sváru. Brány Pohřebiště jsou pak nedaleko.{^n}{^n}Jakmile tam budeš, najdi Bránu a zabezpeči ji, aby naše jednotky mohly udeřit na Kult.
 Děkuji ti.
 [[ms]Měl[fs]Měla] bych nějaké otázky.
@@ -190,7 +190,7 @@ Mám další otázku.
 Neřeš to.
 Postarám se o to.
 Dobrá práce s Luciem, ale Pohřebiště stále čeká.
-Kdeže mě potřebuješ?
+Kde že mě to potřebuješ?
 Nemůžeme jen tak vyslat naše jednotky přímo do Pohřebiště. Následovníci Kultu se na nás sesypou a rozdrtí nás dřív, než se vůbec přiblížíme k Hrobce Strážců.{^n}{^n}Místo toho využijeme tvých unikátních schopností. Vydej se do Pohřebiště, za oblastí Plání sváru, a zajisti nejbližší Bránu.{^n}{^n}Jakmile tak učiníš, Ulgrim projde skrz s regimentem svých mužů. S momentem překvapení na naší straně udeříme na nepřítele zevnitř.
 Tak já se do Pohřebiště tedy vydám.
 Potřebuji nějaký čas na přípravu.
@@ -236,10 +236,10 @@ Cože jsi chtěl, abych [[ms]udělal[fs]udělala]?
 Mám další otázku.
 Brzy se vrátím.
 Dobrá práce tam dole.{^n}{^n}Nyní potřebujeme zabezpečit přední pozice na Pohřebišti.
-Kdeže mě potřebuješ?
+Kde že mě to potřebuješ?
 
 Už jsi [[ms]získal[fs]získala] ty výbušniny?
-Kdeže je ta zbrojnice?
+Kde že je ta zbrojnice?
 Zbrojnice je v severní části pevnosti Ikon. Neotálej!
 Vydám se tam hned teď.
 Ještě ne.
@@ -250,7 +250,7 @@ Tak bude učiněno.
 Bude to muset počkat.
 S Luciusem jsem se [[ms]vypořádal[fs]vypořádala] a [[ms]uvolnil[fs]uvolnila] brány.
 Dobrá práce tam dole.{^n}{^n}Nyní potřebujeme zabezpečit přední pozice na Pohřebišti.
-Kdeže mě potřebuješ?
+Kde že mě to potřebuješ?
 
 S Luciem už jsem se [[ms]vypořádal[fs]vypořádala].
 Potom není času nazbyt. Přines výbušninyk předním branám a vyčisti zával, aby mohla Legie postupovat k Pohřebišti.

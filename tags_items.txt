@@ -20,8 +20,8 @@ tagWeaponSwordA011=[ms]lamač kostí
 tagWeaponSwordA012=[ms]dobyvatelský meč
 tagWeaponSwordA013=[fs]šavle
 
-tagWeaponSwordB001=[fs]Salazarova suverénní čepel
-tagWeaponSwordB001Desc="Udělena Čepeli Ch'thona za jeho neochvějnou službu."
+tagWeaponSwordB001=[fs]Salazarova čepel suverénosti
+tagWeaponSwordB001Desc="Udělena Čepeli Ch'thona za věrnost a vytrvalost."
 tagWeaponSwordB002=[ms]přízračný široký meč
 tagWeaponSwordB003=[ms]přízračný dlouhý meč
 tagWeaponSwordB004=[ms]nabroušený dlouhý meč
@@ -612,7 +612,7 @@ tagShieldC008=Lichova stráž
 tagShieldC009=Záštita úlomku světla
 tagShieldC009Desc="Kovaná z nejčistšího úlomku soladrinského křišťálu."
 tagShieldC010=Templářova důvěra
-tagShieldC011=Štít záhuby
+tagShieldC011=Zhoubný štít
 tagShieldC012=Zrádcův chránič
 tagShieldC013=Elementum
 tagShieldC013Desc="Ukovaný tajemnými kováři k usměrnění surových živlů."
@@ -3483,7 +3483,7 @@ tagPotionConstitutionB01Desc=Přetrvávající životní energie, která může 
 
 tagPotionDirections=[použít pravým tlačítkem myši]
 tagCombineStacks=[přidržením klávesy Ctrl a kliknutím rozdělíš štosovaný předmět]
-tagHideTooltip=[přidržením klávesy Ctrl skryješ nápovědu]
+tagHideTooltip=[přidržením klávesy Ctrl skryješ popisek]
 
 # Bonuses
 tagBonusLifePercentAbsPercent={^E}Obnovuje {^H}{%.0f0}%+{%.0f1} {^E}zdraví {^H}+{%.0f2}% {^E}v průběhu času
@@ -3760,7 +3760,7 @@ tagPrefixAO007=[ms]nabitý[fs]nabitá[ns]nabité[mp]nabité[fp]nabité[np]nabit�
 tagPrefixAO008=[ms]upírský[fs]upírská[ns]upírské[mp]upírské[fp]upírské[np]upírské
 tagPrefixAO009=[ms]vyčerpávající[fs]vyčerpávající[ns]vyčerpávající[mp]vyčerpávající[fp]vyčerpávající[np]vyčerpávající
 tagPrefixAO010=[ms]oslabující[fs]oslabující[ns]oslabující[mp]oslabující[fp]oslabující[np]oslabující
-tagPrefixAO011=[ms]korozivní[fs]korozivní[ns]korozivní[mp]korozivní[fp]korozivní[np]korozivní
+tagPrefixAO011=[ms]korodující[fs]korodující[ns]korodující[mp]korodující[fp]korodující[np]korodující
 tagPrefixAO012=[ms]pokroucený[fs]pokroucená[ns]pokroucené[mp]pokroucené[fp]pokroucené[np]pokroucené
 tagPrefixAO013=[ms]Prázdnotou dotčený[fs]Prázdnotou dotčená[ns]Prázdnotou dotčené[mp]Prázdnotou dotčené[fp]Prázdnotou dotčené[np]Prázdnotou dotčené
 tagPrefixAO014=[ms]hnijící[fs]hnijící[ns]hnijící[mp]hnijící[fp]hnijící[np]hnijící
