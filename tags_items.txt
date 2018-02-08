@@ -1614,7 +1614,7 @@ tagRingC024=Prsten věčné hniloby
 tagRingC025=Pečetní prsten z planoucího pekla
 tagRingC026=Pečetní prsten hlídky
 tagRingC027=Drahokam zrychlení
-tagRingC028=Trnošípkový kroužek
+tagRingC028=Trnošípkův kroužek
 tagRingC029=Kroužek lepšího života
 tagRingC030=Goliášova pečeť
 tagRingC031=Pečetní kroužek zvrácenosti
@@ -3230,7 +3230,7 @@ tagCompA036Desc="Ostatky umučených, kterým je odepřeno právo na klid."^w^n(
 tagCompA037Name=Hustá srst
 tagCompA037Desc="Hustá pokrývka srsti, ideální v náročných zimních podmínkách."^w^n(může vylepšit všechny druhy zbroje)
 
-tagCompA038Name=Zoubkovaný hrot
+tagCompA038Name=Vroubkovaný hrot
 tagCompA038Desc="Tenký, ale velmi ostrý hrot ze zvířete."^w^n(může vylepšit všechny druhy zbraní, štít nebo kouzelnický příruční předmět)
 
 tagCompA039Name=Žhavý popel
@@ -3302,8 +3302,8 @@ tagCompA060Desc="Skořepina, která přečkala zdánlivě nemožné zásahy."^w^
 tagCompA061Name=Mast s protijedem
 tagCompA061Desc="Neutralizovaná žluč z obzvláště jedovatých tvorů."^w^n(může vylepšit všechny druhy zbroje)
 
-tagCompA062Name=Zoubkovaná skořepina
-tagCompA062Desc="Tuhá skořepina vyrobená z řady hrozivých ostrých trnů."^w^n(může vylepšit štít)
+tagCompA062Name=Vroubkovaný skořepina
+tagCompA062Desc="Tuhá skořepina složená z mnoha hrozivě vypadajících ostrých trnů."^w^n(může vylepšit štít)
 
 
 tagCompB001Name=^kBysmielina vazba
@@ -3639,8 +3639,8 @@ tagItemSetD009Desc="Sbírka z méně civilizované doby."
 tagItemSetD010Name=Jasnovidec
 tagItemSetD010Desc="Roucho kdysi dávno nosil arcimág Stříbrné věže, hlavní pevnosti Gildam Arcanum."
 
-tagItemSetD011Name=Vyvolavač elementů
-tagItemSetD011Desc="Zuřivou sílu sopky vyvažuje chladem severních větrů."
+tagItemSetD011Name=Vyvolavač živlů
+tagItemSetD011Desc="Zuřivou sílu sopky vyvažuje chlad severských větrů."
 
 tagItemSetD012Name=Markovianova pevnost
 tagItemSetD012Desc="Zbroj slavného taktika, generála Markoviana, který se statečně připojoval v každé bitvě ke svým mužům do předních linií."
@@ -3970,7 +3970,7 @@ tagSuffixB020_Wpn_A=plísně
 tagSuffixB021_Wpn_A=jedovatého drápu
 tagSuffixB022_Wpn_A=ohavnosti
 tagSuffixB023_Wpn_A=vyhlazení
-tagSuffixB024_Wpn_A=elementů
+tagSuffixB024_Wpn_A=živlů
 tagSuffixB025_Wpn_A=vazby
 tagSuffixB026_Wpn_A=utrpení
 tagSuffixB027_Wpn_A=pronikavé temnoty
