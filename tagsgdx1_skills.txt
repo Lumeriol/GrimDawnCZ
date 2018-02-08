@@ -33,9 +33,9 @@ tagGDX1Class07SkillDescription00A=Pečlivý trénink v boji proti podivnu a okul
 tagGDX1Class07SkillName01A=Slovo bolesti
 tagGDX1Class07SkillDescription01A=Záhadnými runami zašitými ve své výbavě se dokonce i hlasinkvizitora stává dostatečným pro to, aby nepřátelé lidstva trpěli. Jediným slovem se tví přátelé budou svíjet v bolestech a podivné energie napadnou jejich samotnou podstatu.
 tagGDX1Class07SkillName01B=Slovo agónie
-tagGDX1Class07SkillDescription01B=Slovo bolesti je posíleno plným potenciálem elementů, což rozšiřuje plochu působnosti a uštědřuje nesnesitelnou bolest, která rozostří vidění.
+tagGDX1Class07SkillDescription01B=Slovo bolesti je posíleno plným potenciálem živlů, což rozšiřuje plochu působnosti a uštědřuje nesnesitelnou bolest, která rozostří vidění.
 tagGDX1Class07SkillName01C=Věta smrti
-tagGDX1Class07SkillDescription01C=Jediným vyslovením trhají elementální energie vnitřnosti tvých nepřátel, čímž zpečetíš jejich osud.
+tagGDX1Class07SkillDescription01C=Jediným vyslovením trhají živelné energie vnitřnosti tvých nepřátel, čímž zpečetíš jejich osud.
 
 tagGDX1Class07SkillName02A=Elgolothova Krabička s bouří
 tagGDX1Class07SkillDescription02A=Otevři kameny osazenou Krabičku s bouří - bouře obklopí tvého nepřítele a elektrifikuje vzduch kolem, čímž elektřinou zasahuje cíl a všechny nešťastníky, kteří stojí příliš blízko.
@@ -323,7 +323,7 @@ tagGDX1ItemSkillD120Name=Obávaný oheň
 tagGDX1ItemSkillD120Desc=Aetherický oheň obklopuje a pálí tvé nepřátele, zatímco se šíří v jejich řadách.
 
 tagGDX1ItemSkillD121Name=Elgolothova runa
-tagGDX1ItemSkillD121Desc=Označ své nepřátele Luminářskou runou Elgolotha, čímž jim budeš způsobovat poškození elektřinou a vystavíš je navíc vlivu elementů.
+tagGDX1ItemSkillD121Desc=Označí tvé nepřátele Luminářskou runou Elgolotha, čímž jim budeš způsobovat zranění elektrickým proudem a vystavíš je navíc vlivu živlů.
 
 tagGDX1ItemSkillD122Name=Hladový chřtán
 tagGDX1ItemSkillD122Desc=Proveď výpad svým štítem a hladově vysaj život ze svých nepřátel. ^oVyžaduje chladnou zbraň.
@@ -370,8 +370,8 @@ tagGDX1ItemSkillD135Desc=Vypal salvu střel na své nepřátele. S tolika projek
 tagGDX1ItemSkillD136Name=Louže krve
 tagGDX1ItemSkillD136Desc=Louže odporné krve se vytvoří pod nohami tvých nepřátel.
 
-tagGDX1ItemSkillD137Name=Elementální síla
-tagGDX1ItemSkillD137Desc=Točící se vír arkanické energie vychází z tvé postavy.
+tagGDX1ItemSkillD137Name=Síla živlů
+tagGDX1ItemSkillD137Desc=Vyletí z tebe točící se vír tajemné energie.
 
 tagGDX1ItemSkillD138Name=Vládce duchů
 tagGDX1ItemSkillD138Desc=Tvá nadvláda nad svými nemrtvými sluhy je insipiruje nepřekonatelnou měrou.
@@ -395,7 +395,7 @@ tagGDX1ItemSkillD144Name=Ochranné runy
 tagGDX1ItemSkillD144Desc=Runy vyryté na tvých nánožnících tě chrání před arkanickými zraněními.
 
 tagGDX1ItemSkillD145Name=Vítr s oharky
-tagGDX1ItemSkillD145Desc=Vyvolej požár s živoucím ohněm a zapal tak své nepřátele. ^oVítr s oharky roste spolu s bonusy poškození pro hráče.
+tagGDX1ItemSkillD145Desc=Vyvolej požár s živoucím ohněm a zapal tak své nepřátele. ^oVítr s oharky roste spolu s bonusy zranění postavy.
 
 tagGDX1ItemSkillD146Name=Pustošitelův smrtící pohled
 tagGDX1ItemSkillD146Desc=Pohled Pustošitele doléhá na nepřátele ve tvém okolí a oslabuje tak jejich obranyschopnost.
@@ -516,7 +516,7 @@ tagGDX1CompSkillA103Desc=Blesky jiskří v konečcích tvých prstů a vycházej
 tagGDX1CompSkillA104Name=Jedová čistka
 tagGDX1CompSkillA104Desc=Vypusť nekonečný proud odporného jedu z tvé ruky a rozpouštěj své nepřátele tak dlouho, jak dlouho se dokážeš koncentrovat.
 
-tagGDX1CompSkillA105Name=Aetherické poškození
+tagGDX1CompSkillA105Name=Aetherické zranění
 tagGDX1CompSkillA105Desc=Devastující Aetherická energie se drásá skrze tvé nepřátele a velmi rychle se šíří.
 
 tagGDX1CompSkillA106Name=Spalující Prázdnota
@@ -579,14 +579,14 @@ tagGDX1RelicSkillD103Name=Vyvolání kostěného sluhy
 tagGDX1RelicSkillD103Desc=Připoutej k sobě ostatky stovek umučených duší, aby ti sloužily. Tato hrůzostrašná bytost se prosekává skrze tvé nepřátele a zajímá je do kostěných klecí. ^oPouze jeden kostěný sluha může existovat v ten daný okamžik. Sluha sílí spolu s bonusy pro mazlíčky.
 tagGDX1RelicSkillD103Name_PetSkill=Kostěné pařáty
 
-tagGDX1RelicSkillD104Name=Elementální prokletí
-tagGDX1RelicSkillD104Desc=Vypusť bodec čistých živelných energií a odraž tak postupující nepřátele.
+tagGDX1RelicSkillD104Name=Prokletí živly
+tagGDX1RelicSkillD104Desc=Vypustíš bodec čistých živelných energií a odrazíš tak postupující nepřátele.
 
 tagGDX1RelicSkillD105Name=Moc odsouzení
-tagGDX1RelicSkillD105Desc=Vypustíš fyzickou tlakovou vlnu tak silnou, že porazí nepřátele v okolí a přitáhne je k tobě.
+tagGDX1RelicSkillD105Desc=Vypustíš fyzickou tlakovou vlnu tak silnou, že porazí okolní nepřátele a přitáhne je k tobě.
 
 tagGDX1RelicSkillD106Name=Spalující náboj
-tagGDX1RelicSkillD106Desc=Vtrhni do boje ve jménu Empyriona a spal své nepřátele svatým ohněm. ^oVyžaduje chladnou zbraň. Pokud je použit i štít, poškození štítem je přičteno ke zranění.
+tagGDX1RelicSkillD106Desc=Vtrhneš do boje ve jménu Empyriona a spálíš své nepřátele svatým ohněm. ^oVyžaduje chladnou zbraň. Pokud je použit i štít, úder štítem je přičten ke zranění.
 
 tagGDX1RelicSkillD107Name=Nával chaosu
 tagGDX1RelicSkillD107Desc=Vypusť vlnu destruktivní energie, která projde skrze tvé nepřátele, pak se k tobě vlna vrátí.
@@ -722,7 +722,7 @@ tagDecreaseMasteryError=Nelze vyresetovat volbu povolání.
 #EnemySkills
 
 tagGDX1EnemySkillA01=Nasávání duší
-tagGDX1EnemySkillA01_Desc=Přízrak sklízí tvou duši, čímž odčerpává tvou samotnou podstatu a vystavuje tě účinkům poškození Aetherem a poškozením Ztrátou životní energie.
+tagGDX1EnemySkillA01_Desc=Přízrak sklízí tvou duši, čímž odčerpává tvou samotnou podstatu a vystavuje tě účinkům zranění Aetherem a zranění ztrátou životní energie.
 
 tagGDX1EnemySkillA02=Předzvěst nemoci
 tagGDX1EnemySkillA02_Desc=Samotná nekromantova přítomnost je často dostačující, aby vyvolala hrůzu v jeho nepřátelích. Vydáváš zvuk v podobě kvílení duchů na svůj cíl, čímž otřeseš důvěrou slabších nepřátel a tak se mezi nimi začne rychle šířit zmatek a strach.
@@ -734,13 +734,13 @@ tagGDX1EnemySkillA04=Aura trýzně
 tagGDX1EnemySkillA04_Desc=Trýzeň přízraku tě oslabuje.
 
 tagGDX1EnemySkillA05=Aura hrůzy
-tagGDX1EnemySkillA05_Desc=Přízrak v tobě rozdmíchá děs, čímž tě vystavuje účinkům Aetheru, Ztrátě životní energie a poškození živly a zároveň snižuje tvoje schopnosti se pohybovat.
+tagGDX1EnemySkillA05_Desc=Přízrak v tobě rozdmíchá děs, čímž tě vystavuje účinkům Aetheru, Ztrátě životní energie a zranění živly a zároveň snižuje tvoje schopnosti se pohybovat.
 
 tagGDX1EnemySkillA06=Erupce úzkosti
 tagGDX1EnemySkillA06_Desc=Hrůzný konec bytí přízraku tě oslabuje a vystavuje tě fyzickým útokům.
 
 tagGDX1EnemySkillA07=Erupce strachu
-tagGDX1EnemySkillA07_Desc=Hrůzný konec bytí přízraku tě oslabuje, čímž tě vystavuje účinkům Aetheru, Ztrátě životní energie a poškození živly a zároveň snižuje tvoje schopnosti se pohybovat.
+tagGDX1EnemySkillA07_Desc=Hrůzný konec bytí přízraku tě oslabuje, čímž tě vystavuje účinkům Aetheru, Ztrátě životní energie a zranění živly a zároveň snižuje tvoje schopnosti se pohybovat.
 
 tagGDX1EnemySkillA08=Proutěné vězení
 tagGDX1EnemySkillA08_Desc=Kanibal tě uvěznil uvnitř proutěného vězení, čímž z tebe udělal snadnou kořist pro ostatní.
@@ -783,7 +783,7 @@ tagGDX1EnemySkillD07=Pustošitelova přítomnost
 tagGDX1EnemySkillD07_Desc=Otřeseš se ze samotné Pustošitelovy přítomnosti, ducha Wendiga, čímž ochromí tvou obranu, sníží zdraví a také regeneraci zdraví.
 
 tagGDX1EnemySkillD08=Zaplavení Aetherem
-tagGDX1EnemySkillD08_Desc=Theodenova přítomnost ohrožuje odhalení tvé fyzické formy, čímž způsobuje poškození Aetherem a redukuje obranyschopnost.
+tagGDX1EnemySkillD08_Desc=Theodenova přítomnost ohrožuje odhalení tvé fyzické formy, čímž způsobuje zranění Aetherem a snižuje obranyschopnost.
 
 tagGDX1EnemySkillD09=Larrianiny ochrany
 tagGDX1EnemySkillD09_Desc=Larrianino doupě je velmi silně chráněno a tak dochází ke zraňování cizinců, zatímco ona je posilována.

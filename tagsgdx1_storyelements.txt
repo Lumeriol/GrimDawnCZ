@@ -304,7 +304,7 @@ tagQuestItemCovenTribute=Carraxovo srdce
 tagQuestItemCovenTributeDesc="Zvláštně tvarované srdce obrovského korýše. Páchne mořskými řasami."
 
 tagQuestItemCovenRitual=Fetiš z Ugdenbogu
-tagQuestItemCovenRitualDesc="Fetiš se zdá být poškozená, pravděpodobně neopatrným zacházením, ale je to přesně ta, co chtěla Garradia."
+tagQuestItemCovenRitualDesc="Fetiš se zdá být poškozená, pravděpodobně neopatrným zacházením, ale je to přesně ta, kterou chtěla Garradia."
 
 tagQuestItemInquisitorsRune=Creedův přívěsek
 tagQuestItemInquisitorsRuneDesc="Na první pohled se zdá, že se jedná o obyčejný přívěsek s ozdobnou runou uprostřed. Přesto z něj vychází moc."
