@@ -215,7 +215,7 @@ tagClass02SkillDescription05C=Naláduje Hmoždířovou past devastující bombou
 tagClass02SkillName05D=Ohnivý minomet
 tagClass02SkillDescription05D=Odpálí na nepřátele explozivní střelu.
 tagClass02SkillName05E=Bleskový minomet
-tagClass02SkillDescription05E=Odpálí na nepřátele elektřinou nabitou střelu.
+tagClass02SkillDescription05E=Odpálí na nepřátele střelu nabitou elektrickým proudem.
 
 tagClass02SkillName06A=Termitová mina
 tagClass02SkillDescription06A=Spustí trio malých, ale smrtících, pyrotechnických náloží, které spálí tvé nepřátele intenzivním plamenem. ^oÚčinnost min se zvyšuje s bonusy ke zranění, která uděluješ.
@@ -244,7 +244,7 @@ tagClass02SkillDescription09A=Vypustí množství drobných, elektricky nabitýc
 tagClass02SkillName09B=Celoplošnost
 tagClass02SkillDescription09B=Umocňuje elektrickou kapacitu každé omračující částice a zvyšuje množství částic, které můžeš naráz vypustit.
 tagClass02SkillName09C=Rychlé částice
-tagClass02SkillDescription09C=Postrádají schopnost Omračujících částic zastavit nepřítele, ale mohou být vrhány s ohromnou přesností a šířit tak devastující zranění elektřinou mezi velkými skupinami nepřátel.
+tagClass02SkillDescription09C=Postrádají schopnost Omračujících částic zastavit nepřítele, ale mohou být vrhány s ohromnou přesností a šířit tak devastující zranění elektrickým proudem mezi velkými skupinami nepřátel.
 
 tagClass02SkillName12A=Dotek ohně
 tagClass02SkillDescription12A=Zaměření na kouzelnická umění zacházení s ohněm tak, jak to dělá mnoho Ničitelů, ti umožňuje pokrýt sebe a spojence ve tvém okolí živými plameny, které posilují útoky a vrací zranění útočícím nepřátelům. ^oAby tato schopnost účinkovala, musí být aktivní.
@@ -254,12 +254,12 @@ tagClass02SkillDescription12B=Ponoření se hlouběji do tajů zacházení s ohn
 tagClass02SkillName13A=Mstivý plamen
 tagClass02SkillDescription13A=Ulzuinův věčný plamen kdysi přinesl život a zdraví na tento svět, ale zrada a muka jej přeměnily ve zbraň pomsty. Ti, kteří jsou oddaní Ulzuinovi, získají na bojišti proti svým nepřátelům sílu a odvetný ohnivý úder. ^oAby tato schopnost účinkovala, musí být aktivní.
 tagClass02SkillName13B=Ulzuinův hněv
-tagClass02SkillDescription13B=Když Ulzuinův plamen pálí nepřátele ve tvém okolí, střely magických plamenů a elektřiny jsou vypuštěny do všech směrů, aby zasáhly vzdálenější nepřátele.
+tagClass02SkillDescription13B=Když Ulzuinův plamen pálí nepřátele ve tvém okolí, střely magických plamenů a elektrického proudu jsou vypuštěny do všech směrů, aby zasáhly vzdálenější nepřátele.
 
 tagClass02SkillName10A=Elektrický výboj
-tagClass02SkillDescription10A=Vrhne na nepřátele silnou bombu nabitou elektřinou. Účinné proti samostatným silným nepřátelům.
+tagClass02SkillDescription10A=Vrhne na nepřátele silnou bombu nabitou elektrickým proudem. Účinné proti samostatným silným nepřátelům.
 tagClass02SkillName10B=Přetížení
-tagClass02SkillDescription10B=Elektrickému výboji je zvýšeno zranění elektřinou.
+tagClass02SkillDescription10B=Elektrickému výboji je zvýšeno zranění elektrickým proudem.
 tagClass02SkillName11A=Těžký arzenál
 tagClass02SkillDescription11A=Zvyšuje účinek Granátu a Tříštivé bomby.
 tagClass02SkillName14A=Vysoký účinek
@@ -503,7 +503,7 @@ tagClass05SkillDescription02A=Iskandra učila své studenty, že nejúčinnějš
 tagClass05SkillName02B=Přetížení
 tagClass05SkillDescription02B=Zaklínadlo se stává přetíženým tajemnými silami, což způsobuje, že tvé zbraně doslova praskají pod hrubou silou živlů.
 tagClass05SkillName02C=Živelná rovnováha
-tagClass05SkillDescription02C=Zaklínadlem vyvolaný a velmi dobře vybalancovaný úder, jež harmonizuje oheň a led spolu s nespoutanou elektřinou.
+tagClass05SkillDescription02C=Zaklínadlem vyvolaný a velmi dobře vybalancovaný úder, jež harmonizuje oheň a led spolu s nespoutaným elektrickým proudem.
 tagClass05SkillName02D=Zjevení
 tagClass05SkillDescription02D=Tajemné energie se zjevují v mnoha formách. Vládci temnot, kteří se odevzdali umění vyvolávání, často převádějí některá ze svých umění s tajemnými energiemi na své přisluhovače a ti pak mohou lépe posloužit vůli svých pánů. ^oTento efekt se týká i tvých spojenců.
 
@@ -717,7 +717,7 @@ XXXtagClass04SkillName03B=Nekrotická miazma
 XXXtagClass04SkillDescription03B=Přidáním nestálého činitele do Toxické bomby způsobí, že oslabení pocítí bolestivé křeče.
 
 XXXtagClass03SkillName06A=Živelná koule
-XXXtagClass03SkillDescription06A=Hodíš pulsující kouli plnou kombinace živelných sil na nepřátele, která vybuchne s účinky žáru, chladu a elektřiny.
+XXXtagClass03SkillDescription06A=Hodíš pulsující kouli plnou kombinace živelných sil na nepřátele, která vybuchne s účinky žáru, chladu a elektrického proudu.
 
 
 
@@ -747,8 +747,8 @@ tagItemSkillDescA001=Výbuch negativní energie zmrazí vše, co mu stojí v ces
 tagItemSkillA002=Spektrální vír
 tagItemSkillDescA002=Vysaje životní energii z tvých nepřátel.
 
-tagItemSkillA003=Navrácení statické elektřiny
-tagItemSkillDescA003=Vypustí kouli elektřiny na ty nepřátele, jež tě zasáhli.
+tagItemSkillA003=Statický elektrický proud
+tagItemSkillDescA003=Vypustí kouli elektrického proudu na ty nepřátele, jež tě zasáhli.
 
 tagItemSkillA004=Ohnivá koule
 tagItemSkillDescA004=Vypustí ohnivou kouli na nepřátele ve tvém okolí.
@@ -775,7 +775,7 @@ tagItemSkillA009Name=Nova z blesků
 tagItemSkillA009Desc=Uvolní výbuch energie blesku, který zraní nepřátele ve tvém okolí.
 
 tagItemSkillA010=Statický náboj
-tagItemSkillDescA010=Uvolní se z tebe vlna elektřiny, která zraní nepřátele ve tvém okolí.
+tagItemSkillDescA010=Uvolní se z tebe vlna elektrické energie, která zraní nepřátele ve tvém okolí.
 
 tagItemSkillA011=Kilrianův plamen
 tagItemSkillDescA011=Temný plamen pohltí tvé tělo a zapálí všechny, kteří se opováží přiblížit, a odčerpá jejich životní energii.
@@ -1240,7 +1240,7 @@ tagItemSkillC099Name=Ohnivý déšť
 tagItemSkillC099Desc=Na tvůj příkaz bude pršet z nebe oheň.
 
 tagItemSkillC100Name=Devastace
-tagItemSkillC100Desc=Tato technika, oslavována jako ultimátní síla známá Vládcům temnot, rozevře trhlinu v realitě a skrze ní padají rozžhavené části samotné arkanické energie.
+tagItemSkillC100Desc=Tato technika, oslavována jako ultimátní síla známá Vládcům temnot, rozevře trhlinu v realitě a skrze ní padají rozžhavené části samotné tajemné energie.
 
 tagItemSkillC101Name=Dech Ledohřívnatce
 tagItemSkillC101Desc=Zmrazíš své nepřátele do morku kostí dechem Ledohřívnatého yetiho.
@@ -2047,7 +2047,7 @@ tagItemSkillD234Name=Valdunova zrada
 tagItemSkillD234Desc=Valdun nebyl znám zrovna proto, že by bojoval fér. Jednou ukončil šlechetný duel tím, že použil explozivní nábojnici. ^oVyžaduje obouruční zbraň. Je aktivní při používání výchozího útoku zbraně.
 
 tagItemSkillD235Name=Anasteřina devastace
-tagItemSkillD235Desc=Tato technika roztrhne roušku reality a skrze trhlinu začnou padat žhavé kusy surové arkanické energie. ^oVyžaduje kouzelnický předmět v druhé ruce. Žhavé úlomky budou padat po dobu trvání kouzla.
+tagItemSkillD235Desc=Tato technika roztrhne roušku reality a skrze trhlinu začnou padat žhavé kusy surové tajemné energie. ^oVyžaduje kouzelnický předmět v druhé ruce. Žhavé úlomky budou padat po dobu trvání kouzla.
 
 tagItemSkillD236Name=Justikarova stráž
 tagItemSkillD236Desc=Velký arbitr pevně odolává všem úderům. ^oToto je pasivní bonus vyžadující chladnou zbraň nebo štít.
@@ -2271,7 +2271,7 @@ tagRelicSkillB004Name=Ledový příval
 tagRelicSkillB004Desc=Necháš prostoupit mrazivou energii skrze své nitro a příležitostně spustíš příval ledu na ty, jež na tebe zaútočí. ^oAby tato schopnost účinkovala, musí být aktivní.
 
 tagRelicSkillB005Name=Bouře
-tagRelicSkillB005Desc=Vyvolá bouřkový mrak nad zvolenou oblastí a pravidelně bude elektřinou zasahovat ty nepřátele, kteří se ocitnou pod ním.
+tagRelicSkillB005Desc=Vyvolá bouřkový mrak nad zvolenou oblastí a pravidelně bude zasahovat elektrickým proudem ty nepřátele, kteří se ocitnou pod ním.
 
 tagRelicSkillB006Name=Sopečná zuřivost
 tagRelicSkillB006Desc=Naplní tě ohnivou zlobou a způsobí, že tvé útoky zapálí nepřítele.

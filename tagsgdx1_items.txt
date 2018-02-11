@@ -1688,7 +1688,7 @@ tagItemSetD027BName=Alkamosovy hrůzné pečeti
 tagGDX1PrefixAA101=[ms]osvícený[fs]osvícená[ns]osvícené[mp]osvícené[fp]osvícené[np]osvícené
 
 tagGDX1PrefixAA022=[ms]inkvizitorův[fs]inkvizitora[ns]inkvizitoro[mp]inkvizitory[fp]inkvizitory[np]inkvizitory
-tagGDX1PrefixAA023=[ms]nekromantův[fs]nekromantina[ns]nekromantovo[mp]nekromantovy[fp]nekromantiny[np]nekromantovy
+tagGDX1PrefixAA023=[ms]nekromantův[fs]nekromantova[ns]nekromantovo[mp]nekromantovy[fp]nekromantovy[np]nekromantovy
 
 tagGDX1PrefixAD101=[ms]dokonalý[fs]dokonalá[ns]dokonalé[mp]dokonalé[fp]dokonalé[np]dokonalé
 
