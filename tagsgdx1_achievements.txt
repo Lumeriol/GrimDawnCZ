@@ -124,8 +124,8 @@ achGDX1039Desc=Posbírej 70 zápisků.
 achGDX1040Title=Nesmrtelný zachránce Malmouthu
 achGDX1040Desc=Dokonči rozšíření Malmouth: Prach a popel na ultimátní obtížnosti ve Výzvě.
 
-achGDX1041Title=Krvavé zkoušky
-achGDX1041Desc=Přežij krvavé zkoušky ve Starodávném háji.
+achGDX1041Title=Zkouška zkaženosti
+achGDX1041Desc=Přetrp Zkoušku zkaženosti ve Starodávném háji.
 
 achGDX1042Title=Z divokých vajec
 achGDX1042Desc=Zlikviduj Gargabola, Srdce divočiny ve Starodávném háji.

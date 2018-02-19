@@ -151,6 +151,7 @@ tagGDX1HeroAscended_H04=Ullana Věčný mráz ~ zmrzlá
 #CreatureLivingPlant
 tagGDX1EnemyLivingPlant_A00=Jedovaté úponky
 tagGDX1EnemyLivingPlant_A01=Masožravá rostlina
+tagGDX1EnemyLivingPlant_A02=Žahavá rostlina
 tagGDX1EnemyLivingPlant_B00=Otrávený květ
 tagGDX1EnemyLivingPlant_B01=Žravý podrost
 
@@ -175,12 +176,12 @@ tagGDX1HeroSlith_H04=Nezastavitelný Slixiss
 
 #CreatureSwampCrab
 tagGDX1EnemySwampCrab_A01=Ugdenský krab
-tagGDX1EnemySwampCrab_B01=Ugdenská píchavá lastura
+tagGDX1EnemySwampCrab_B01=Ugdenská pichlavá lastura
 tagGDX1EnemySwampCrab_C01=Ugdenská kamenná lastura
 tagGDX1EnemySwampCrab_A00Summon=Ugdenský korýšovec
 
 tagGDX1EnemyGhostCrab_A01=Strašidelný krab
-tagGDX1EnemyGhostCrab_B01=Strašidelná píchavá lastura
+tagGDX1EnemyGhostCrab_B01=Strašidelná pichlavá lastura
 tagGDX1EnemyGhostCrab_C01=Strašidelná kamenná lastura
 
 tagGDX1HeroSwampCrab_H01=Ledňáček
@@ -248,7 +249,7 @@ tagGDX1EnemyWraith_C01=Pradávné zjevení
 tagGDX1HeroWraith_H01=Arcanom, zloděj duší
 tagGDX1HeroWraith_H02=Obliterus
 tagGDX1HeroWraith_H03=Tildoom ~ hybač času
-tagGDX1HeroWraith_H04=Hladověcící Sulvar ~ krvesaj
+tagGDX1HeroWraith_H04=Hladovějící Sulvar ~ krvesaj
 
 
 #CreatureYetiSwamp
@@ -256,7 +257,7 @@ tagGDX1HeroWraith_H04=Hladověcící Sulvar ~ krvesaj
 tagGDX1EnemyYetiSwampA01=Listohřívný surovec
 tagGDX1EnemyYetiSwampB01=Listohřívný vztekloun
 tagGDX1EnemyYetiSwampB02=Listohřívný hnilodech
-tagGDX1EnemyYetiSwampC01=Listohřívný afa samec
+tagGDX1EnemyYetiSwampC01=Listohřívný alfa samec
 
 tagGDX1YetiSwampHeroH01=Chrlič hniloby
 tagGDX1YetiSwampHeroH02=Kostěný skřipec
@@ -264,32 +265,34 @@ tagGDX1YetiSwampHeroH03=Shnilá krev ~ krvesaj
 tagGDX1YetiSwampHeroH04=Aetherický hřívnatec ~ zkažený
 
 #CreatureBeastRoguelike
-tagGDX1EnemyBasiliskAetherA01=Aethertongue Basilisk
-tagGDX1EnemyBasiliskAetherB01=Aethergaze Basilisk
-tagGDX1EnemyBasiliskAetherC01=Aetherblood Basilisk
+tagGDX1EnemyBasiliskAetherA01=Aetherický bazilišek s rozeklaným jazykem
+tagGDX1EnemyBasiliskAetherB01=Aetherický zírající bazilišek
+tagGDX1EnemyBasiliskAetherC01=Aetherický krvavý bazilišek
 
-tagGDX1EnemyBasiliskChthonicA01=Voidtongue Basilisk
-tagGDX1EnemyBasiliskChthonicB01=Voidgaze Basilisk
-tagGDX1EnemyBasiliskChthonicC01=Voidblood Basilisk
+tagGDX1EnemyBasiliskChthonicA01=Bazilišek s rozeklaným jazykem dotčený Prázdnotou
+tagGDX1EnemyBasiliskChthonicB01=Zírající bazilišek dotčený Prázdnotou
+tagGDX1EnemyBasiliskChthonicC01=Krvavý bazilišek dotčený Prázdnotou
 
-tagGDX1EnemyBoarChthonicB01=Voidtusk
-tagGDX1EnemyBoarChthonicC01=Gargantuan Voidtusk
+tagGDX1EnemyBoarChthonicB01=Prasák
+tagGDX1EnemyBoarChthonicC01=Gigantický prasák
 
-tagGDX1EnemyManticoreChthonicA01=Void-Tainted Manticore
-tagGDX1EnemyManticoreChthonicB01=Void-Tainted Wastestalker
-tagGDX1EnemyManticoreChthonicC01=Void-Tainted Alpha
+tagGDX1EnemyManticoreChthonicA01=Mantikora dotčená Prázdnotou
+tagGDX1EnemyManticoreChthonicB01=Odpadkář dotčený Prázdnotou
+tagGDX1EnemyManticoreChthonicC01=Alfa samec dotčený Prázdnotou
 
-tagGDX1EnemySwampCrabAetherA01=Fleshwarped Crab
-tagGDX1EnemySwampCrabAetherB01=Fleshwarped SpikeShell
-tagGDX1EnemySwampCrabAetherC01=Fleshwarped Stoneshell
+tagGDX1EnemyManticoreD01=Mantikoří smrtihlav
 
-tagGDX1EnemyThornedHorrorAetherA01=Aetherthorn Horror
-tagGDX1EnemyThornedHorrorAetherB01=Aetherthorn Terror
-tagGDX1EnemyThornedHorrorAetherC01=Aetherthorn Monstrosity
+tagGDX1EnemySwampCrabAetherA01=Masorvoucí krab
+tagGDX1EnemySwampCrabAetherB01=Masorvoucí pichlavá lastura
+tagGDX1EnemySwampCrabAetherC01=Masorvoucí kamenná lastura
 
-tagGDX1EnemyYetiChthonicB01=Voidmane Rager
-tagGDX1EnemyYetiChthonicB02=Voidmane Bloodbreather
-tagGDX1EnemyYetiChthonicC01=Voidmane Alpha
+tagGDX1EnemyThornedHorrorAetherA01=Aetherem proklatá zděšení
+tagGDX1EnemyThornedHorrorAetherB01=Aetherem proklatá postrach
+tagGDX1EnemyThornedHorrorAetherC01=Aetherem proklatá zrůdnost
+
+tagGDX1EnemyYetiChthonicB01=Prázdnohřívný zuřivec
+tagGDX1EnemyYetiChthonicB02=Prázdnohřívný krvodech
+tagGDX1EnemyYetiChthonicC01=Prázdnohřívný alfa samec
 
 
 #CreatureTraps
@@ -303,6 +306,7 @@ tagGDX1EnemyTrapA02=Ugdenská houba
 tagGDX1PetArcaneSeal=Tajemná pečeť
 tagGDX1PetConcussiveRune=Roztřesená runa
 tagGDX1PetIceRune=Mrazotvorná runa
+tagGDX1PetManticore02=Smrtihlav
 
 tagGDX1PetBlightBeast=Marnivá potvora
 tagGDX1PetBlightBeastB=Nestabilní anomálie
@@ -328,6 +332,7 @@ tagGDX1ItemPetFireDevil_Skill=Živoucí plamen
 
 tagGDX1EnemySummon_ObsidianBeacon=Obsidiánový sloup
 tagGDX1EnemySummon_AetherialSpirit=Aetherianský duch
+tagGDX1EnemySummon_BurningBlood=Spalující krev
 
 
 #Boss&Quest

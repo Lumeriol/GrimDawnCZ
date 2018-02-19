@@ -73,9 +73,9 @@ tagWeaponGun1hC013B=Vyjednavač
 tagGDX1WeaponGun1hC101=Hlasitý odpor
 tagGDX1WeaponGun1hC101B=Odpor
 tagGDX1WeaponGun1hC102=Aldurův výslech
-tagGDX1WeaponGun1hC102_Desc="Třetí ruka Inkvizitora Aldura, známého lovce kacířů a zabijáka Galbar'Thuula."
+tagGDX1WeaponGun1hC102_Desc=Třetí ruka Inkvizitora Aldura, proslulého lovce kacířů a zabijáka Galbar'Thuula.
 tagGDX1WeaponGun1hC103=Gargabolova duše
-tagGDX1WeaponGun1hC103_Desc="Zkažená Gargabolova duše splaluje vyšším žárem než jakýkoliv oheň."
+tagGDX1WeaponGun1hC103_Desc="Záblesk plamene kdysi mocného strážce stále vyzařuje ze svého nitra."
 tagGDX1WeaponGun1hC108=Ultosův metač bouří
 tagGDX1WeaponGun1hC110=Luminářská tajná zbraň
 
@@ -779,6 +779,8 @@ tagGDX1MedalB106=Wendigovo hledí
 tagGDX1MedalB106_Desc="Zakrvácené oko rozzuří každé malé stvoření, které se na něj dívá."
 tagGDX1MedalB107=Erb mrštnosti
 tagGDX1MedalB108=Erb pozorovatele
+tagGDX1MedalB109=Slathsarrův erb
+tagGDX1MedalB109_Desc="Z tesáků odkapává aetherický jed."
 
 tagGDX1MedalC101=Obřadný znak
 tagGDX1MedalC102=Znak poskvrny
@@ -840,6 +842,7 @@ tagGDX1Blueprint_RelicD110=Plánek: Relikvie - Masakr
 tagGDX1Blueprint_RelicD111=Plánek: Relikvie - Uroboruukova sklizeň
 tagGDX1Blueprint_RelicD112=Plánek: Relikvie - Ignaffarský spalovač
 tagGDX1Blueprint_RelicD113=Plánek: Relikvie - Mogdrogenovo zanícení
+tagGDX1Blueprint_RelicD114=Plánek: Relikvie - Smrtihlav
 
 
 tagGDX1Blueprint_ComponentA101=Plánek: Pečeť moci
@@ -1134,6 +1137,8 @@ tagGDX1RelicD112=Ignaffarský spalovač
 tagGDX1RelicD112Desc="Kámen z Ignaffaru nebyl jediným artefaktem, který Lumináři získali ze starodávného hrobu a později vybroušen."
 tagGDX1RelicD113=Mogdrogenovo zanícení
 tagGDX1RelicD113Desc="Jen když zemře samotářský vlk, tak smečka přežije."
+tagGDX1RelicD114=Smrtihlav
+tagGDX1RelicD114Desc="Zlomyslný duch toužící se osvobodit."
 
 
 #Crafting

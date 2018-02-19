@@ -529,7 +529,7 @@ tagGDX1CompSkillA108Name=Ohnivá bouře
 tagGDX1CompSkillA108Desc=Vypustíš vlnu elektrizovaných plamenů, které při kontaktu způsobí šok a rozšíří zkázu na bojišti.
 
 tagGDX1CompSkillA109Name=Hryzající čepele
-tagGDX1CompSkillA109Desc=Vypustíš čepel potaženou žíravým jedem, která se ve spirále rozšíří směrem od tebe, a po cestě probodává všechny nepřátele.
+tagGDX1CompSkillA109Desc=Vypustíš čepel potaženou žíravým jedem, která krouží směrem od tebe, a po cestě probodává všechny nepřátele, než se opět navrátí k tobě.
 
 tagGDX1CompSkillA110Name=Arkanická rezonance
 tagGDX1CompSkillA110Desc=Tvé mistrovství ovládat podivno tě ochrání před efekty, které by tě jinak oslabily. ^oTato schopnost musí být aktivní, aby účinkovala.
@@ -609,6 +609,10 @@ tagGDX1RelicSkillD112Desc=Starověká relikvie vybuchne a vyjdou z ní ničivé 
 tagGDX1RelicSkillD113Name=Mogdrogenův elán
 tagGDX1RelicSkillD113Desc=Požehnání boha zvířat obklopí tebe a tvé nohsledy, čímž tě ochrání před újmou. ^oTato schopnost musí být aktivní, aby účinkovala.
 
+tagGDX1RelicSkillD114Name=Summon Deathstalker
+tagGDX1RelicSkillD114Desc=Call forth Deathstalker, a fearsome embodiment of Mogdrogen's fury that shreds the Physical, Poison and Bleed Resistance of nearby enemies. ^oYou can only summon one manifestation of Deathstalker at any one time. Deathstalker scales with player damage bonuses.
+tagGDX1RelicSkillD114_Skill=Aura of Darkness
+tagGDX1RelicSkillD114_Desc=A creature of darkness stalks your foes, shredding their Physical, Poison and Bleed Resistances.
 
 #ConsumableSkills
 tagGDX1ConsumableSkill_B101=Ugdenský dryák
@@ -754,6 +758,9 @@ tagGDX1EnemySkillA10_Desc=Miazma Napuchliny je tak odporná, že se jen tak tak 
 tagGDX1EnemySkillA11=Aura útisku
 tagGDX1EnemySkillA11_Desc=Přítomnost Utlačovatele Prázdnoty tě zaplaví temnotou, což snižuje tvojí maximální hodnotu zdraví a zpomaluje tvé činnosti.
 
+tagGDX1EnemySkillA12=Aura of Darkness
+tagGDX1EnemySkillA12_Desc=A creature of darkness is hunting you, shredding your resistances.
+
 
 tagGDX1EnemySkillB01=Aura zastavení času
 tagGDX1EnemySkillB01_Desc=Jsi uvnitř subjektu s pokrouceným časem, což zpomaluje tvé činnosti.
@@ -809,4 +816,6 @@ tagGDX1EnemySkillD15_Desc=Aether v této oblasti má sílu, zraňuje tě a vysá
 tagGDX1EnemySkillD16=Přítomnost hrůzy
 tagGDX1EnemySkillD16_Desc=Kolem se potlouká obrovská nestvůra, naplňuje tě hrůzou a povzbuzuje další příšery v okolí.
 
+tagGDX1EnemySkillD17=Burning Blood
+tagGDX1EnemySkillD17_Desc=Gargabol's Burning Blood singes your resistances.
 

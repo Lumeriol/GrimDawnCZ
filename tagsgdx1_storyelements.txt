@@ -88,7 +88,7 @@ tagGDX1UGAncientGrove01=Starodávný háj
 tagGDX1UGAncientGrove01A=Divoká houština
 tagGDX1UGAncientGrove01B=Otrávený les
 tagGDX1UGAncientGrove01C=Srdce lesa
-tagGDX1UGAncientGrove01D=Krvavé zkoušky
+tagGDX1UGAncientGrove01D=Zkouška zkaženosti
 
 tagGDX1UGSecret01=Svatyně Vyvoleného
 tagGDX1UGSecret02=Aréna smrti
@@ -148,8 +148,6 @@ tagGDX1POI_BeastRoguelike02A=Vstup do Divoké houštiny
 tagGDX1POI_BeastRoguelike02B=Východ z Divoké houštiny
 tagGDX1POI_BeastRoguelike03A=Vstup do Otráveného lesa
 tagGDX1POI_BeastRoguelike03B=Východ z Otráveného lesa
-tagGDX1POI_BeastRoguelike04A=Vstup do Srdce lesa
-tagGDX1POI_BeastRoguelike04B=Východ ze Srdce lesa
 tagGDX1POI_VoidExit=Východ z Prázdnoty
 
 tagGDX1POI_CandleDistrictEntrance=Svíčková čtvrť
@@ -199,7 +197,7 @@ tagNotification_AreaF_DocksEventFinished=Aetheriané v Černoželezných docích
 
 tagNotification_WarningAncientGroveGates=Cesta do Starodávného háje je otevřena. Ale pospěš, chodba nebude přístupná dlouho...
 tagNotification_WarningAncientGroveGatesLocked=Starodávný háj je zapečetěn a v této herní relaci se ti jej už nepodaří otevřít.
-tagNotification_WarningAncientGroveChallenge=Krvavé zkoušky právě skončily!
+tagNotification_WarningAncientGroveChallenge=Zkaženost odezněla!
 
 tagNotification_WarningAreaFSecret01=Malá vzpomínka na Sahdinu, která zůstala v tom masakru...
 
@@ -335,7 +333,7 @@ tagGDX1QuestItemDravisClue_01=Dravisův dopis
 tagGDX1QuestItemDravisClue_01_Desc=Drahá sestro,{^n}opět jsem se načapal při tom, že ti vlastně nemám co říct. Proč pořád bráníš svou vlastní krev? Proč se ke mně nechceš znát, když jsem tak blízko pravdě?{^n}{^n}Ale ať už tak či onak, brečet nad posledním vydechnutím našeho otce budu s tebou nebo bez tebe. Pokud tohle čteš, tak je to samozřejmě zase pozdě, protože jsem se odvážil tam, kam mrtví nechodí, tam, kde se krev žijících spojuje s mistrem. Čas k tomu, aby ses ke mně přidala, dávno minul, drahá Dailo. Takže se vrať zpátky, protože tam, kam mířím, nemůžeš jít se mnou...{^n}Dravis
 
 tagGDX1QuestItemDravisClue_02=Dravisova nabídka
-tagGDX1QuestItemDravisClue_02_Desc="Poznámka je připíchnuta ke květině: Trnitá kytka pro vostrou ženskou. -D"
+tagGDX1QuestItemDravisClue_02_Desc="Ke květině je připíchnuta poznámka: Pichlavá kytka pro pichlavou ženskou. -D"
 
 tagGDX1QuestItemMadRamblings_01=Ivondina vzpomínka
 tagGDX1QuestItemMadRamblings_01_Desc="Psaní je povětšinou plné šílených překlepů a nesmyslů, ale některé pasáže jsou poměrně zajímavé. Teda pokud by dávaly aspoň trochu smysl."
@@ -399,6 +397,11 @@ tagGDX1LoreObj_AreaE_NoteA06Text=Mysleli jsme si, jak jsme moudří, mistři sv�
 
 tagGDX1LoreObj_AreaE_NoteA07Name=Nanova skrýš
 tagGDX1LoreObj_AreaE_NoteA07Text=Fakt netuším, vo co mu de, ale už dvakrát jsem viděl Nana, jak jede se svym plně naloženym povozem po severní cestě kolem starýho mlejnu. A pak se zas vrátil, ale už komplet vyloženej. Musí tam něco skrejvat a já mu na to přijdu, né že ne. Estli vono to má bejt jako významný, tak chci taky bejt prospěšnej, ať mi z toho něco kápne.
+
+#AncientGrove
+tagGDX1LoreObj_AreaE_AncientGrove_NoteA01Name=Mogdrogenovo zamyšlení
+tagGDX1LoreObj_AreaE_AncientGrove_NoteA01Text=Nedávné události přináší do mého srdce útrapy.{^n}{^n}Smrtelníče. Jeden z Erulanských inkvizitorů, kterého nazývají Kymon, na něco narazil. Na něco... velmi starého a zapomenutého. A stejně jako každý nerozvážný smrtelník nepřestal bádat nad tím, co mělo zůstat skryto a navždy zapomenuto. Hluboko pod Korvanskou plošinou se v tuto chvílí rozdmýchává přímo děsivý žár. Zvířata z celého Cairnu jsou neklidná, cítí to také.{^n}{^n}Je složité rozlousknout toto tajemství, protože běžně rozmarní falešní bohové jsou neobvykle tiší. Mám podezření, že se stáhli do svých vlastních světů. To načasování nemůže být úplně náhodné. Čarodějní bohové se bojí. Jejich pozornost je teď přitahována ke stejné síle, která užírá duše Kymona a jeho Vyvolených. To fanatické uctívání smrtelníků ho živí, dácá mu sílu a formuje ho.{^n}{^n}Klevetění mezi lidmi naznačuje velikánský návrat Empyriona, ale já vím, že to jsou pouze falešné naděje bezmocných ubožáků. Pravá identita této zapomenuté moci mi uniká, ale přesto mi přijde tak... povědomá.{^n}{^n}Jediné, čím jsem si jist, je to, že se na nás valí kataklyzmatická proměna. Cítím to v zemi. Pocítil jsem to ve větru. Síly, o kterých jsem neslyšel po tisíce let, touží po pomstě a krvi.{^n}{^n}Musím shromáždit své Rhowari. Blíží se doba, kdy bude jejich oddanost těžce zkoušena.
+
 
 
 #AreaF Notes
@@ -604,6 +607,6 @@ tagGDX1DevotionShrineE02=Ugdenbog
 
 tagGDX1DevotionShrineF01=Malmouth
 tagGDX1DevotionShrineF02=Korunní kopec
-tagGDX1DevotionShrineF03=Podrost
+tagGDX1DevotionShrineF03=Starodávný háj
 
 tagGDX1DevotionShrineS03=???

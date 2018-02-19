@@ -1798,7 +1798,6 @@ tagMedalA007=[fs]císařská hvězda
 tagMedalB001=[fs]lovcova stuha
 tagMedalB002=[ms]lovcův odznak
 tagMedalB003=[fs]Ikrixina šupina
-tagMedalB003=[fs]Ikrixina šupina
 tagMedalB004=[ms]Kymonův odznak
 tagMedalB005=[fs]krvepřísežníkova pečeť
 
