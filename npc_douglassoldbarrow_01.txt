@@ -58,12 +58,12 @@ Omlouvám se, ale nemůžeme postrádat nic do doby, než se nám podaří více
 
 Dobrá.
 Kde že je to hnízdo?
-Víme, že hnízdo královny je někde za Hnijícími poli, na západ od Homesteadu. Královna je vždy chráněna dvěma z jejích Velkovezírů, takže budeš muset získat jejich feromonové žlázy, abys vůbec [[ms]mohl[fs]mohla] do komnat vstoupit.{^n}{^n}Buď [[ms]opatrný[fs]opatrná]. Vezíři nejsou královninou poslední obranou linií. Nedají se zadarmo.
+Víme, že hnízdo královny je někde za Hnijícími poli, na západ od Homesteadu. Královna je vždy chráněna dvěma svými Velkovezíry, takže budeš muset získat jejich feromonové žlázy, abys vůbec [[ms]mohl[fs]mohla] do komnat vstoupit.{^n}{^n}Buď [[ms]opatrný[fs]opatrná]. Vezíři nejsou královninou poslední obranou linií. Nedají se zadarmo.
 Budu [[ms]opatrný[fs]opatrná].
 Ještě ne.
-Je úžasné, co jsi s napadenými poli [[ms]dokázal[fs]dokázala]. [[ms]Pomohl[fs]Pomohla] jsi nám, když Černá Legie odmítla. To je chválihodné.{^n}{^n}Přemýšlel jsem, jestli bys byl [[ms]ochotný[fs]ochotná] nám pomoci s mnohem nebezpečnějším úkolem.
+Je úžasné, co jsi s napadenými poli [[ms]dokázal[fs]dokázala]. [[ms]Pomohl[fs]Pomohla] jsi nám, když Černá legie odmítla. To je chválihodné.{^n}{^n}Přemýšlel jsem, jestli bys byl [[ms]ochotný[fs]ochotná] nám pomoci s mnohem nebezpečnějším úkolem.
 Co je to?
-Škvoří hnízda jsou cyklické povahy. Každých 7 let, nebo tak nějak, se zrodí nová královna, která rapidně zvýší množství škvorů a způsobí tak jejich expanzi do okolního kraje.{^n}{^n}V minulosti bychom se společně sebrali a zabili královnu, když by byla ještě mladá. Ale potom, co přišel Ponurý úsvit, se škvorům začalo dařit, a jejich královna dorostla do obří stvůry, která plodí další a další škvory po tuctech denně. Musí být zničena, jinak by jim mohla dojít potrava a pak můžou napadnout nás. Královna je vždy chráněna dvěma z jejích Velkovezírů, takže budeš muset získat jejich feromonové žlázy, abys vůbec [[ms]mohl[fs]mohla] do komnat vstoupit. Víme, že hnízdo královny je někde za Hnijícími poli, na západ od Homesteadu.{^n}{^n}Potom, jak sis [[ms]poradil[fs]poradila] se zamořenými poli, jsem přesvědčen o tvých schopnostech. Pomůžeš nám zvrátit reprodukční cyklus škvorů? Rád dám dohromady všechny naše zbylé železné mince, pokud tohle zvládneš.
+Škvoří hnízda jsou cyklické povahy. Každých 7 let, nebo tak nějak, se zrodí nová královna, která rapidně zvýší množství škvorů a způsobí tak jejich expanzi do okolního kraje.{^n}{^n}V minulosti bychom se společně sebrali a zabili královnu, když by byla ještě mladá. Ale potom, co přišel Ponurý úsvit, se škvorům začalo dařit, a jejich královna dorostla do obří stvůry, která plodí další a další škvory po tuctech denně. Musí být zničena, jinak by jim mohla dojít potrava a pak můžou napadnout nás. Královna je vždy chráněna dvěma svými Velkovezíry, takže budeš muset získat jejich feromonové žlázy, abys vůbec [[ms]mohl[fs]mohla] do komnat vstoupit. Víme, že hnízdo královny je někde za Hnijícími poli, na západ od Homesteadu.{^n}{^n}Potom, jak sis [[ms]poradil[fs]poradila] se zamořenými poli, jsem přesvědčen o tvých schopnostech. Pomůžeš nám zvrátit reprodukční cyklus škvorů? Rád dám dohromady všechny naše zbylé železné mince, pokud tohle zvládneš.
 Zabiju tu škvoří královnu.
 Není způsob, jak bych to [[ms]dokázal[fs]dokázala].
 S královnou jsem se již [[ms]vypořádal[fs]vypořádala].
@@ -79,7 +79,7 @@ To [[ms]rád[fs]ráda] slyším.
 Omlouvám se, ale myslím že už jsem toho [[ms]udělal[fs]udělala] dost.
 Nějaký pokrok s těmi škvory?
 [[ms]Vyčistil[fs]Vyčistila] jsem pole, jak jsi žádal.
-Tak to se mi ulevilo, a také ses [[ms]vrátil[fs]vrátila] v jednom kuse. Se škvory by se nemělo zahrávat, hlavně když je jich tolik.{^n}{^n}Promluvím si s kapitánem Somerovou o poslání pár strážných společně s některými farmáři. Pak to pole bude prázdné cobydup.{^n}{^n}Doufal jsem, že bys mě mezitím [[ms]mohl[fs]mohla] vyslyšet a dozvědět se o více nebezpečném úkolu.
+Tak to se mi ulevilo, a také ses [[ms]vrátil[fs]vrátila] v jednom kuse. Se škvory by se nemělo zahrávat, hlavně když je jich tolik.{^n}{^n}Promluvím si s kapitánem Somerovou o poslání pár strážných společně s některými farmáři. Pak to pole bude prázdné cobydup.{^n}{^n}Doufal jsem, že bys mě mezitím [[ms]mohl[fs]mohla] vyslyšet a dozvědět se o nebezpečnějším úkolu.
 Co je to?
 
 Omlouvám se, ale myslím že už jsem toho [[ms]udělal[fs]udělala] dost.
@@ -100,21 +100,21 @@ To zní jako práce pro Legii.
 
 
 Sbohem.
-Vítej v Homesteadu, cestovateli. Co tě přivádí do našeho útočiště?
+Vítej v Homesteadu, [[ms]cestovateli[fs]cestovatelko]. Co tě přivádí do našeho útočiště?
 Jsem na cestě z Ďáblova průsmyku. [[ms]Přemýšlel[fs]Přemýšlela] jsem, jestli bychom mohli obchodovat s jídlem.
-Chápu vaši složitou situaci, opravdu ano; obávám se ale, že nyní nejsme v pozici, kdy bychom vám mohli pomoci.{^n}{^n}A co víc, sami bychom potřebovali pomoct. Černá Legie, umíněně odhodlaná zničit jakéhokoliv Aetheriana či Chthoniana, kterého vidí, ztratila pojem o problémech trápících všechny lidi, které se snaží chránit.
+Chápu vaši složitou situaci, opravdu ano; obávám se ale, že nyní nejsme v pozici, kdy bychom vám mohli pomoci.{^n}{^n}A co víc, sami bychom potřebovali pomoct. Černá legie, umíněně odhodlaná zničit jakéhokoliv Aetheriana či Chthoniana, kterého vidí, ztratila pojem o problémech trápících všechny lidi, které se snaží chránit.
 
 
 
 Chápu.
 Jenom procházím.
-Vítej v Homesteadu, cestovateli. Dopřál bych ti pořádného přivítání, ale máme tady problém, který vyžaduje mou pozornost.{^n}{^n}Černá Legie, umíněně odhodlaná zničit jakéhokoliv Aetheriana či Chthoniana, kterého vidí, ztratili pojem o problémech trápících všechny lidi, které se snaží chránit.
+Vítej v Homesteadu, [[ms]cestovateli[fs]cestovatelko]. Dopřál bych ti pořádného přivítání, ale máme tady problém, který vyžaduje mou pozornost.{^n}{^n}Černá legie, umíněně odhodlaná zničit jakéhokoliv Aetheriana či Chthoniana, kterého vidí, ztratili pojem o problémech trápících všechny lidi, které se snaží chránit.
 Jaký máte problém?
 Po Ponurém úsvitu muselo mnoho našich sousedů opustit svůj domov a uprchnout sem. Společně jsme vybudovali Homestead do útočiště, to vše ale za ztrátu nepřeberného množství jiných statků.{^n}{^n}Když přišla Černá legie, byli jsme schopni dostat zpět pár polí, ale ani náhodou ne dost, abychom nakrmili všechny. Kapitán Somerová považuje dostupné zásoby za dostačující pro její misi a snahu získat zpět jakákoliv další pole považuje za druhotnou záležitost, vzhledem k misi Legie. Škvoři, odporně zamořující tento kraj každých pár let, jsou přebujelí a požírají v našem kraji všechno co spatří a všude kladou svá vajíčka. Pokud brzy nezakročíme, naše úroda bude zničená a krajina zůstane neúrodná.{^n}{^n}Jsou tu dvě farmy, které patří Elmsworthovým a Thornsburyovým, které by byly ideálním krokem ke zvýšení naší potravinové produkce. Pokud můžeš odstranit shluky škvořích vajíček, které tam jsou spolu se škvory, kteří je brání, možná bych pak mohl přesvědčit kapitána, aby přidělil pár strážných na farmy a naši muži tak mohli v klidu pracovat na polích. Zajistím, že budeš po právu [[ms]odměněn[fs]odměněna]. Co na to říkáš?
 Odstraním to zamoření.
 To zní jako práce pro Legii.
-Proč nepomáhá Černá Legie?
-Kapitána Somerovou zajímají pouze Aetheriané a Kult Ch'thona. V čem ale selhává je to, že nevidí že potřebujeme obnovit více polí do dobrého stavu, jestliže máme dodávat jídlo pro sebe a pro její jednotky. Protože je svět v chaosu, škvoři se šíří jako kobylky, napadají naše farmy a požírají naše hospodářská zvířata.{^n}{^n}Byli jsme u Černé Legie již mnohokrát pro pomoc, ale kapitán našim požadavkům nenaslouchá.
+Proč nepomáhá Černá legie?
+Kapitána Somerovou zajímají pouze Aetheriané a Kult Ch'thona. V čem ale selhává je to, že nevidí že potřebujeme obnovit více polí do dobrého stavu, jestliže máme dodávat jídlo pro sebe a pro její jednotky. Protože je svět v chaosu, škvoři se šíří jako kobylky, napadají naše farmy a požírají naše hospodářská zvířata.{^n}{^n}Byli jsme u Černé legie již mnohokrát pro pomoc, ale kapitán našim požadavkům nenaslouchá.
 Tak jaký je problém?
 
 Tak zatím.

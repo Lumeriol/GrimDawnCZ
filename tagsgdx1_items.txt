@@ -997,7 +997,7 @@ tagGDX1Blueprint_ArmorD128=Plánek: Vynikající hlubinná maska
 tagGDX1Blueprint_ArmorD129=Plánek: Vynikající čelenka obřího hada
 tagGDX1Blueprint_ArmorD130=Plánek: Vynikající maska pekelné pravdy
 tagGDX1Blueprint_ArmorD131=Plánek: Vynikající chránič obličeje spravedlnosti
-tagGDX1Blueprint_ArmorD132=Plánek: Vynikající kutna vyvolavače bestií
+tagGDX1Blueprint_ArmorD132=Plánek: Vynikající kutna vyvolavače zvířat
 tagGDX1Blueprint_ArmorD133=Plánek: Vynikající zvěstovatelova maska
 tagGDX1Blueprint_ArmorD134=Plánek: Vynikající kapalec zabijáka démonů
 tagGDX1Blueprint_ArmorD135=Plánek: Vynikající jasnovidcův kapalec
@@ -1692,7 +1692,7 @@ tagItemSetD027BName=Alkamosovy hrůzné pečeti
 #Prefixes
 tagGDX1PrefixAA101=[ms]osvícený[fs]osvícená[ns]osvícené[mp]osvícené[fp]osvícené[np]osvícené
 
-tagGDX1PrefixAA022=[ms]inkvizitorův[fs]inkvizitora[ns]inkvizitoro[mp]inkvizitory[fp]inkvizitory[np]inkvizitory
+tagGDX1PrefixAA022=[ms]inkvizitorův[fs]inkvizitorova[ns]inkvizitorovo[mp]inkvizitorovy[fp]inkvizitorovy[np]inkvizitorovy
 tagGDX1PrefixAA023=[ms]nekromantův[fs]nekromantova[ns]nekromantovo[mp]nekromantovy[fp]nekromantovy[np]nekromantovy
 
 tagGDX1PrefixAD101=[ms]dokonalý[fs]dokonalá[ns]dokonalé[mp]dokonalé[fp]dokonalé[np]dokonalé

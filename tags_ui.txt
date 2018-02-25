@@ -721,11 +721,11 @@ tagCharStatsBleedPercentDmgInfo=Procentuální bonus ke každému zranění krv�
 tagCharStatsBleedDuration=Trvání krvácení
 tagCharStatsInternalTraumaDurationInfo=Procentuální bonus k době trvání vnitřního krvácení. Zranění za sekundu není ovlivněno.
 
-tagCharStatsInternalTraumaAbsDmg=Zranění vnitřním krvácením
+tagCharStatsInternalTraumaAbsDmg=Zranění vnitř. krvácením
 tagCharStatsInternalTraumaAbsDmgInfo=Zranění způsobující vnitřní krvácení za jednu sekundu, trvající po dobu 5 sekund, způsobené jedním zásahem a odvozeným od síly zbraně včetně bonusů.
-tagCharStatsInternalTraumaPercentDmg=Bonus k vnitřnímu krvácení
+tagCharStatsInternalTraumaPercentDmg=Bonus k vnitř. krvácení
 tagCharStatsInternalTraumaPercentDmgInfo=Procentuální bonus ke každému zranění vnitřním krvácením způsobeným útokem a kouzly, bez bonusů za rafinovanost. Včetně % ke všem zraněním.
-tagCharStatsInternalTraumaDuration=Trvání vnitřního krvácení
+tagCharStatsInternalTraumaDuration=Trvání vnitř. krvácení
 tagCharStatsInternalTraumaDurationInfo=Procentuální bonus k době trvání vnitřního krvácení. Zranění za sekundu není ovlivněno.
 
 tagCharStatsDamageToHealth=Sání života
