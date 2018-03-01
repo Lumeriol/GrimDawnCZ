@@ -4148,7 +4148,7 @@ tagChestCorpse_Mornay=Mornayova mrtvola
 tagChestCorpse_RoverElder=Mrtvola Mathiase staršího
 tagChestCorpse_Jacob=Jacobova mrtvola
 tagChestCorpse_Refugee=Mrtvola Dahliy Taverin
-tagChestCorpse_BlackLegion=Ostatky Černého legionáře
+tagChestCorpse_BlackLegion=Ostatky vojáka Černé legie
 tagChestCorpse_Malkadarr=Malkadarrovy ostatky
 tagChestCorpse_BurrwitchScout=Thalnovy ostatky
 

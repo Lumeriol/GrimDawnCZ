@@ -13,7 +13,7 @@ Nechci s tebou nic začínat do doby dokud se budeš spolupracovat s lidmi, kte�
 Sbohem.
 Nechť přízrak smrti střeží tvou cestu.
 Sbohem.
-[[ms]Vypořádal[fs]Vypořádala] si se s Noveriou?
+[[ms]Vypořádal[fs]Vypořádala] ses s Noveriou?
 [[ms]Získal[fs]Získala] jsem její esenci.
 Skvělá práce. Obával jsem se že to na tebe bude moc, ale [[ms]ukázal[fs]ukázala] ses být docela [[ms]užitečným[fs]užitečnou].{^n}{^n}Je tu pouze poslední kousek který potřebujeme, abychom zpět přivedli Malkadarra, ale není na mě to s tebou probírat. Promluv si se Strážkyní jakmile budeš moci. Bude mít podrobnosti.
 Strážkyně?
@@ -24,16 +24,16 @@ Hledal ho někdo?
 Ano, poměrně hodně jedinců. Někteří se nikdy nevrátili, zemřeli nebo stále pátrají. {^n}{^n}Před Ponurým úsvitem byli naši vynikající ministranti rozmístěni po světě, aby pána hledali. Byla to v podstatě ceremonie jedné zásadní změny.
 Třeba se jednoho dne vrátí.
 Chápu.
-Promluvím si s ním.
+Promluvím si s ní.
 Udělám to.
-[[ms]Vypořádal[fs]Vypořádala] si se s Noveriou?
+[[ms]Vypořádal[fs]Vypořádala] ses s Noveriou?
 Kde že bych se [[ms]měl[fs]měla] podívat?
-Vydej se na sever do blízkosti pevnosti Haron a podívej se po kamenolomu; je to oblast zasažená aetherickým ohněm. Vystopuj Aetheriana jménem Noveria Stormfire. Kdysi to bývala skvělá kouzelnice, teď už není ničím jiným než pěšákem Aetherianů. {^n}{^n}Znič Noverii a získej její esenci.
+Vydej se na sever do blízkosti pevnosti Haron a podívej se po kamenolomu; je to oblast zasažená aetherickým ohněm. Vystopuj Aetherianku jménem Noveria "Bouřný oheň". Kdysi to bývala skvělá kouzelnice, teď už není ničím jiným než pěšákem Aetherianů. {^n}{^n}Znič Noverii a získej její esenci.
 Udělám to.
 Ještě ne.
 Ceremoniál znovuzrození vyžaduje mocná zaklínadla a stejně tak silný energetický zdroj.{^n}{^n}Bez něčeho z čeho se dá čerpat energie by rituál zcela vysál účastníky a nezbylo by z nich nic víc než seschlé slupky.
 Jak tomu můžeme předejít?
-Aetheriané jsou ztělesněním samotného Aetheru, zdroje čisté tajemné energie. Čím silnější Aetherian, tím tepleji bude hořet duch během rituálu.{^n}{^n}Na severu, poblíž pevnosti Haron je kamenolom, který byl zasažen aetherickým ohněm, kamufláž pro Aetheriany v této oblasti. Vydej se tam a vyhledej Aetheriana jménem Noveria Stormfire. Kdysi to bývala skvělá kouzelnice, ale teď už není ničím jiným, než pouhým pěšákem Aetherianů. Propůjčím ti výhodu Řádu čelit jejím mimořádným rituálním dovednostem a abys [[ms]ovládl[fs]ovládla] její esenci. Znič Noverii ve jménu Řádu!
+Aetheriané jsou ztělesněním samotného Aetheru, zdroje čisté tajemné energie. Čím silnější Aetherian, tím tepleji bude hořet duch během rituálu.{^n}{^n}Na severu, poblíž pevnosti Haron je kamenolom, který byl zasažen aetherickým ohněm, kamufláž pro Aetheriany v této oblasti. Vydej se tam a vyhledej Aetherianku jménem Noveria "Bouřný oheň". Kdysi to bývala skvělá kouzelnice, ale teď už není ničím jiným, než pouhým pěšákem Aetherianů. Propůjčím ti výhodu Řádu čelit jejím mimořádným rituálním dovednostem a abys [[ms]ovládl[fs]ovládla] její esenci. Znič Noverii ve jménu Řádu!
 Získám tu esenci.
 Nejdu do tý pekelný díry.
 Už jsem tak [[ms]učinil[fs]učinila] za pomoci dalších.
@@ -58,9 +58,9 @@ Najdi si někoho jiného.
 Jsou tohle ty pečetě, které sháníš?
 
 Možná někdy jindy.
-Udělal jsi co jsem žádal, nováčku?
+[[ms]Udělal[fs]Udělala] jsi co jsem žádal, [[ms]nováčku[fs]novicko]?
 Ano, mám ty ostatky.
-[[ms]Vstoupil[fs]Vstoupila] jsi do jámy beznaděje a [[ms]vyvázl[fs]vyvázla] bez zranění. Pozoruhodné.{^n}{^n}Možná jsi skutečně [[ms]hoden[fs]hodna] Řádu. Pokud máš nadále zájem, další úkol je příležitostí jak udeřit na nepřátele Legie tak pomoci naší věci.
+[[ms]Vstoupil[fs]Vstoupila] jsi do jámy beznaděje a [[ms]vyvázl[fs]vyvázla] bez zranění. Pozoruhodné.{^n}{^n}Možná jsi skutečně [[ms]hoden[fs]hodna] Řádu. Pokud máš nadále zájem, další úkol je příležitostí, jak udeřit na nepřátele Legie a pomoci tak naší věci.
 Co je to?
 
 Možná někdy jindy.
@@ -75,17 +75,17 @@ Jeden z našich prominentních členů, Malkadarr, po Strážkyni druhý nejvyš
 Získám ty ostatky.
 Zapomeň na to. Zní to jako sebevražda.
 Už jsem ty ostatky [[ms]získal[fs]získala].
-[[ms]Vstoupil[fs]Vstoupila] jsi do jámy beznaděje beze smyslu či podsdtaty? Pozoruhodné.{^n}{^n}Možná jsi skutečně [[ms]hoden[fs]hodna] Řádu. Pokud máš nadále zájem, další úkol je příležitostí jak udeřit na nepřátele Legie tak pomoci naší věci.
+[[ms]Vstoupil[fs]Vstoupila] jsi do jámy beznaděje beze smyslu či podsdtaty? Pozoruhodné.{^n}{^n}Možná jsi skutečně [[ms]hoden[fs]hodna] Řádu. Pokud máš nadále zájem, další úkol je příležitostí, jak udeřit na nepřátele Legie a pomoci tak naší věci.
 Co je to?
 
 Možná později.
 Co je obřad oživení?
-Je to posvátný rituál prováděný v těžkých časech, aby byl přiveden padlý člen Řádu. Není to znovuoživení v pravém slova smyslu, Malkadarr nebude navrácen do jeho živé formy. Místo toho bude dále sloužit Řádu jako oživlý mrtvý. {^n}{^n}Mohu se spolehnout, že získáš zpět to co z něj zbylo?
-Ty ostatky přinesu.
+Je to posvátný rituál prováděný v těžkých časech, aby byl přiveden padlý člen Řádu. Není to znovuoživení v pravém slova smyslu, Malkadarr nebude navrácen do jeho živé formy. Místo toho bude dále sloužit Řádu jako oživlý mrtvý. {^n}{^n}Mohu se spolehnout, že získáš zpět to, co z něj zbylo?
+Přinesu ty ostatky.
 Zapomeň na to. Zní to jako sebevražda.
 
 Vrátím se později a probereme to.
-Neměl jsem tušení, že Černá legie pracovala s někým, jako jsme my. {^n}{^n}Pojď, pojď, je toho hodně, co je potřeba udělat.
+Neměl jsem tušení, že by Černá legie spolupracovala s někým takovým, jako jsme my.{^n}{^n}Pojď, pojď, je toho hodně, co je potřeba udělat.
 
 Když mi bylo řečeno, že mám očekávat někoho z Černé legie, vůbec mne nenapadlo, že by Haruuv poslal [[ms]inkvizitora[fs]inkvizitorku].{^n}{^n}Řekni mi, proč bychom ti měli věřit?
 Všichni bojujeme za lidstvo.

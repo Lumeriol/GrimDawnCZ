@@ -1111,7 +1111,7 @@ tagCraftingCombine=Zkombinovat
 tagCraftingDisplayBoxHelp=Aby vytvoření předmětu mohlo začít, polož plánek na pracovní desku.
 tagCraftingBlueprintInfo=Kovář může použít plánky k vynalezení vylepšení předmětů z různých zachráněných materiálů.
 tagCraftingDeviceCost=Cena: {%t0} železných mincí
-tagCraftingCreate=Vytvořeno:
+tagCraftingCreate=Umožní vyrobit:
 tagCraftingLearn=[pravým tlačítkem myši se naučíš]
 tagCraftingRandom={^E}+ náhodné vlastnosti
 tagCraftingQuantity={%d0}/{%d1}
@@ -1124,12 +1124,12 @@ tagCraftingItemType02= ~ kompletní doplňky
 tagCraftingItemType03= ~ svitek
 tagCraftingItemType04= ~ výstroj
 
-tagCraftingButtonInfo=Sloučí předměty umístěné v přehledu výroby. Toto tlačítko bude zvýrazněno jakmile budou přidány všechny požadované materiály.
+tagCraftingButtonInfo=Sloučí předměty umístěné v přehledu výroby. Toto tlačítko bude zvýrazněné, jakmile budou přidány všechny požadované materiály.
 tagCraftingConfirmation=Opravdu chceš sloučit tyto předměty?
 
 tagCraftingDetatchmentInfo=
 
-tagCraftingProductBoxInfo=Složený předmět se objeví zde, jakmile budou umístěné veškeré součástky.
+tagCraftingProductBoxInfo=Zde se objeví složený předmět, jakmile budou umístěny veškeré součástky.
 tagCraftingProductBoxCompletion=Vezmi si nově složený předmět ze stolu.
 
 tagCraftingInsterComponent=Přidat komponenety zobrazené v plánku do těchto slotů.
