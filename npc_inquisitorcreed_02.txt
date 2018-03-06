@@ -167,11 +167,11 @@ Ano?
 Kdo je Anasteria?
 Anasteria? Proč se ptáš...
 Kapitán Reave se o ní zmínil.
-Aha, už tomu rozumím.{^n}{^n}Vše, co potřebuješ vědět, je to, nehledě na to, co kapitán Reave může tvrdit, že Anasteria byla cenným spojencem. Její znalost Aetheru pomohla zachránit mnoho životů.{^n}{^n}Anasterii se nestane nic nehledě na to, co ti kapitán Reaves řekl.
+Aha, už tomu rozumím.{^n}{^n}Vše, co potřebuješ vědět, je to, nehledě na to, co kapitán Reave může tvrdit, že Anasteria byla cenným spojencem. Její znalost Aetheru pomohla zachránit mnoho životů.{^n}{^n}Anasterii se nestane nic nehledě na to, co ti kapitán Reave řekl.
 Mám další otázku.
 Dobrá.
-Zaslechl jsem její jméno.
-Anasteria nám poskytla cenný pohled do záležitosti Aetheru.{^n}{^n}Ať už jsi slyšel od jednotek cokoliv, je to spojenec a nikdo jí neublíží.
+[[ms]Zaslechl[fs]Zaslechla] jsem její jméno.
+Anasteria nám poskytla cenný pohled do záležitosti Aetheru.{^n}{^n}Ať už jsi [[ms]slyšel[fs]slyšela] od jednotek cokoliv, je to spojenec a nikdo jí neublíží.
 Mám další otázku.
 Chápu.
 Mám další otázku.
@@ -202,13 +202,13 @@ Ať je to rychle.
 Kdo je Anasteria?
 Anasteria? Proč se ptáš...
 Kapitán Reave se o ní zmínil.
-Aha, už tomu rozumím.{^n}{^n}Vše, co potřebuješ vědět, je to, nehledě na to, co kapitán Reave může tvrdit, že Anasteria byla cenným spojencem. Její znalost Aetheru pomohla zachránit mnoho životů.{^n}{^n}Anasterii se nestane nic nehledě na to, co ti kapitán Reaves řekl.
+Aha, už tomu rozumím.{^n}{^n}Vše, co potřebuješ vědět, je to, nehledě na to, co kapitán Reave může tvrdit, že Anasteria byla cenným spojencem. Její znalost Aetheru pomohla zachránit mnoho životů.{^n}{^n}Anasterii se nestane nic nehledě na to, co ti kapitán Reave řekl.
 Dobrá. Cože jsi chtěl, abych [[ms]udělal[fs]udělala]?
 
 Mám další otázku.
 Dobrá.
-Zaslechl jsem její jméno.
-Anasteria nám poskytla cenný pohled do záležitosti Aetheru.{^n}{^n}Ať už jsi slyšel od jednotek cokoliv, je to spojenec a nikdo jí neublíží.
+[[ms]Zaslechl[fs]Zaslechla] jsem její jméno.
+Anasteria nám poskytla cenný pohled do záležitosti Aetheru.{^n}{^n}Ať už jsi [[ms]slyšel[fs]slyšela] od jednotek cokoliv, je to spojenec a nikdo jí neublíží.
 Dobrá. Cože jsi chtěl, abych [[ms]udělal[fs]udělala]?
 
 Mám další otázku.
@@ -238,14 +238,14 @@ Brzy se vrátím.
 Dobrá práce tam dole.{^n}{^n}Nyní potřebujeme zabezpečit přední pozice na Pohřebišti.
 Kde že mě to potřebuješ?
 
-Už jsi [[ms]získal[fs]získala] ty výbušniny?
+Už jsi [[ms]získal[fs]získala] tu trhavinu?
 Kde že je ta zbrojnice?
 Zbrojnice je v severní části pevnosti Ikon. Neotálej!
 Vydám se tam hned teď.
 Ještě ne.
 Zrada, sabotáž, říkej tomu, jak chceš. Byli jsme napadeni zevnitř.{^n}{^n}Aetheriané si získali kapitána.
 Byl ovládnut?
-Přesně tak. Na základě zpráv velitel Lucius posílal naše muže na zbytečné mise, aby tak oslabil naši obranu. Potom, když byla obrana dostatečně slabá, otevřel brány a nechal Aetheriany valit se dovnitř.{^n}{^n}Ale nepočítal s lidskou vynalézavostí. Zbrojmistr Edric zavalil přední brány pomocí výbušnin a tak odřízl nepřátelské posily. Když jsme dorazili z jihu s posilami, ten zbabělec Lucius utekl do zbrojnice. Dokud nebudou ty brány zase průchozí, zůstaneme tu trčet. Potřebuji, abys [[ms]vstoupil[fs]vstoupila] do zbrojnice a získala zpět to, co zbylo ze Silných výbušnin; použij je k odstranění trosek. Dávej si pozor na Lucia. Zbavil se lidského převleku, aby z něj vznikla monstrózní bytost, kterou ani nevím jak bych začal popisovat. Pravděpodobně se s ním budeš muset vypořádat, pokud chceš ty výbušniny získat.
+Přesně tak. Na základě zpráv velitel Lucius posílal naše muže na zbytečné mise, aby tak oslabil naši obranu. Potom, když byla obrana dostatečně slabá, otevřel brány a nechal Aetheriany valit se dovnitř.{^n}{^n}Ale nepočítal s lidskou vynalézavostí. Zbrojmistr Edric zavalil přední brány pomocí výbušnin a tak odřízl nepřátelské posily. Když jsme dorazili z jihu s posilami, ten zbabělec Lucius utekl do zbrojnice. Dokud nebudou ty brány zase průchozí, zůstaneme tu trčet. Potřebuji, abys [[ms]vstoupil[fs]vstoupila] do zbrojnice a získala zpět to, co zbylo z Legionářských trhavin; použij je k odstranění trosek. Dávej si pozor na Lucia. Zbavil se lidského převleku, aby z něj vznikla monstrózní bytost, kterou ani nevím jak bych začal popisovat. Pravděpodobně se s ním budeš muset vypořádat, pokud chceš tu trhavinu získat.
 Tak bude učiněno.
 Bude to muset počkat.
 S Luciem jsem se [[ms]vypořádal[fs]vypořádala] a [[ms]uvolnil[fs]uvolnila] brány.
@@ -253,7 +253,7 @@ Dobrá práce tam dole.{^n}{^n}Nyní potřebujeme zabezpečit přední pozice na
 Kde že mě to potřebuješ?
 
 S Luciem už jsem se [[ms]vypořádal[fs]vypořádala].
-Potom není času nazbyt. Přines výbušninyk předním branám a vyčisti zával, aby mohla Legie postupovat k Pohřebišti.
+Potom není času nazbyt. Dones trhavinu k předním branám a odstraň zával, aby mohla Legie postupovat k Pohřebišti.
 Jdu na to.
 Dobře, že jsi [[ms]dorazil[fs]dorazila]. {^n}{^n}Věci jsou zde v horším stavu, než jsem si myslel.
 Co se stalo?
