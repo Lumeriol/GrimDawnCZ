@@ -83,10 +83,10 @@ Mám další otázku.
 Potřebuji nějaký čas na rozmyšlenou.
 Vlastně na to zapomeň.
 Brzy se vrátím.
-Ukaž mi znovu, co že se to tady vlastně stalo. (Přehraj Intro)
+Ukaž mi znovu, co že se to tady vlastně stalo. (přehraj Intro)
 Brzy se vrátím.
-Ukaž mi znovu, co že se to tady vlastně stalo. (Přehraj Intro)
-A tak moment velkého vítězství zhořknul díky tragédii. {^n}{^n}Porážka kultu v Nekropoli značí první velké důležité vítězství ze strany lidstva v tomto konfliktu, dokazujíc, že si prostě jen tak nelehneme na zem a nenecháme se vyhladit monstry a duchy. Slova o tomto vítězství se budou šířit a dají lidem naději, že tato noční můra skutečně jednou nadobro skončí.{^n}{^n}Nesmíme ale zapomenout na ty, kdož obětovali život, aby nás dostali až sem. Stateční muži a ženy z Černé legie, jež pozvedli zbraně na obranu Erulanu, národ, který byl považován za kriminálníky, vyvržence a dokonce zrádce. Když umírali, nic z toho nebyli. Zemřeli jako hrdinové. {^n}{^n}Zatím ale odmítám započítat mezi mrtvé Ulgrima. Tolik mu toho dlužím.{^n}{^n}Hodila by se mi tvá pomoc. Jdeš do toho se mnou?
+Ukaž mi znovu, co že se to tady vlastně stalo. (přehraj Intro)
+A tak moment velkého vítězství zhořknul díky tragédii. {^n}{^n}Porážka kultu na Pohřebišti značí první velké důležité vítězství ze strany lidstva v tomto konfliktu, dokazujíc, že si prostě jen tak nelehneme na zem a nenecháme se vyhladit monstry a duchy. Slova o tomto vítězství se budou šířit a dají lidem naději, že tato noční můra skutečně jednou nadobro skončí.{^n}{^n}Nesmíme ale zapomenout na ty, kdož obětovali život, aby nás dostali až sem. Stateční muži a ženy z Černé legie, jež pozvedli zbraně na obranu Erulanu, národ, který byl považován za kriminálníky, vyvržence a dokonce zrádce. Když umírali, nic z toho nebyli. Zemřeli jako hrdinové. {^n}{^n}Zatím ale odmítám započítat mezi mrtvé Ulgrima. Tolik mu toho dlužím.{^n}{^n}Hodila by se mi tvá pomoc. Jdeš do toho se mnou?
 Jasně, co můžu udělat?
 Mám nějaké otázky.
 Ano?
@@ -96,7 +96,7 @@ A co Ulgrim?
 Mám další otázku.
 Tak zatím.
 Kult je stále tam venku. neměli bychom ho zastavit nadobro?
-Tvé činy v Nekropoli výrazně ochromily jejich aktivity. {^n}{^n}Pravděpodobně to bude nějakou dobu trvat, než se jimi budeme muset zase zajímat.{^n}{^n}Pro teď se musíme soustředit na posílení naší obrany.
+Tvé činy na Pohřebišti výrazně ochromily jejich aktivity. {^n}{^n}Pravděpodobně to bude nějakou dobu trvat, než se jimi budeme muset zase zajímat.{^n}{^n}Pro teď se musíme soustředit na posílení naší obrany.
 A co Ulgrim?
 Mám další otázku.
 Tak zatím.
@@ -114,7 +114,7 @@ Jdu na to.
 Teďka nemůžu.
 [[ms]Vrátil[fs]Vrátila] ses. Je to tedy dokončeno?
 Ta bestie byla zahnána, ale Ulgrim byl vtažen do Prázdnoty zároveň s ní.
-A tak moment velkého vítězství zhořknul díky tragédii. {^n}{^n}Porážka kultu v Nekropoli značí první velké důležité vítězství ze strany lidstva v tomto konfliktu, dokazujíc, že si prostě jen tak nelehneme na zem a nenecháme se vyhladit monstry a duchy. Slova o tomto vítězství se budou šířit a dají lidem naději, že tato noční můra skutečně jednou nadobro skončí.{^n}{^n}Nesmíme ale zapomenout na ty, kdož obětovali život, aby nás dostali až sem. Stateční muži a ženy z Černé legie, jež pozvedli zbraně na obranu Erulanu, národ, který byl považován za kriminálníky, vyvržence a dokonce zrádce. Když umírali, nic z toho nebyli. Zemřeli jako hrdinové. {^n}{^n}Zatím ale odmítám započítat mezi mrtvé Ulgrima. Tolik mu toho dlužím.{^n}{^n}Hodila by se mi tvá pomoc. Jdeš do toho se mnou?
+A tak moment velkého vítězství zhořknul díky tragédii.{^n}{^n}Porážka kultu na Pohřebišti značí první velké důležité vítězství ze strany lidstva v tomto konfliktu, dokazujíc, že si prostě jen tak nelehneme na zem a nenecháme se vyhladit monstry a duchy. Slova o tomto vítězství se budou šířit a dají lidem naději, že tato noční můra skutečně jednou nadobro skončí.{^n}{^n}Nesmíme ale zapomenout na ty, kdož obětovali život, aby nás dostali až sem. Stateční muži a ženy z Černé legie, jež pozvedli zbraně na obranu Erulanu, národ, který byl považován za kriminálníky, vyvržence a dokonce zrádce. Když umírali, nic z toho nebyli. Zemřeli jako hrdinové. {^n}{^n}Zatím ale odmítám započítat mezi mrtvé Ulgrima. Tolik mu toho dlužím.{^n}{^n}Hodila by se mi tvá pomoc. Jdeš do toho se mnou?
 Jak můžu pomoci?
 Co můžeme dělat?
 [[ms]Měl[fs]Měla] bych nějaké otázky.
@@ -140,9 +140,9 @@ To dává smysl.
 Neřeš to.
 Já...potřebuji nějaký čas.
 Akorát se tak necháš zabít.
-Dozvěděl jsem se, co jsi [[ms]provedl[fs]provedla] Anasterii. {^n}{^n}Tvé neomalené činy nás stály cenné zdroje.
+Dozvěděl jsem se, co jsi [[ms]provedl[fs]provedla] Anasterii.{^n}{^n}Tvé neomalené činy nás stály cenné zdroje.
 Byla to aetherická čarodějka!
-Ale i když byla, pomáhala nám.{^n}{^n}Její informace nám pomáhaly vyvarovat se smrtícím útokům od Aetherianů. Nepříteli zabralo měsíce, než zjistil, že mu unikají informace.{^n}{^n} Anasteria zachránila nespočet životů, možná i celý samotný odpor. A my se ji odvděčili vraždou.
+Ale i když byla, pomáhala nám.{^n}{^n}Její informace nám pomáhaly vyvarovat se smrtícím útokům od Aetherianů. Nepříteli zabralo měsíce, než zjistil, že mu unikají informace.{^n}{^n}Anasteria zachránila nespočet životů, možná i celý samotný odpor. A my se ji odvděčili vraždou.
 O tom jsem [[ms]neměl[fs]neměla] tušení.
 Možná jsi to [[ms]měl[fs]měla] zvážit před svým jednáním.
 Je mi to líto.
@@ -245,10 +245,10 @@ Vydám se tam hned teď.
 Ještě ne.
 Zrada, sabotáž, říkej tomu, jak chceš. Byli jsme napadeni zevnitř.{^n}{^n}Aetheriané si získali kapitána.
 Byl ovládnut?
-Přesně tak. Na základě zpráv velitel Lucius posílal naše muže na zbytečné mise, aby tak oslabil naši obranu. Potom, když byla obrana dostatečně slabá, otevřel brány a nechal Aetheriany valit se dovnitř.{^n}{^n}Ale nepočítal s lidskou vynalézavostí. Zbrojmistr Edric zavalil přední brány pomocí výbušnin a tak odřízl nepřátelské posily. Když jsme dorazili z jihu s posilami, ten zbabělec Lucius utekl do zbrojnice. Dokud nebudou ty brány zase průchozí, zůstaneme tu trčet. Potřebuji, abys [[ms]vstoupil[fs]vstoupila] do zbrojnice a získala zpět to, co zbylo ze Silných výbušnin; použij je k odstranění trosek. Dávej si pozor na Luciuse. Zbavil se lidského převleku, aby z něj vznikla monstrózní bytost, kterou ani nevím jak bych začal popisovat. Pravděpodobně se s ním budeš muset vypořádat, pokud chceš ty výbušniny získat.
+Přesně tak. Na základě zpráv velitel Lucius posílal naše muže na zbytečné mise, aby tak oslabil naši obranu. Potom, když byla obrana dostatečně slabá, otevřel brány a nechal Aetheriany valit se dovnitř.{^n}{^n}Ale nepočítal s lidskou vynalézavostí. Zbrojmistr Edric zavalil přední brány pomocí výbušnin a tak odřízl nepřátelské posily. Když jsme dorazili z jihu s posilami, ten zbabělec Lucius utekl do zbrojnice. Dokud nebudou ty brány zase průchozí, zůstaneme tu trčet. Potřebuji, abys [[ms]vstoupil[fs]vstoupila] do zbrojnice a získala zpět to, co zbylo ze Silných výbušnin; použij je k odstranění trosek. Dávej si pozor na Lucia. Zbavil se lidského převleku, aby z něj vznikla monstrózní bytost, kterou ani nevím jak bych začal popisovat. Pravděpodobně se s ním budeš muset vypořádat, pokud chceš ty výbušniny získat.
 Tak bude učiněno.
 Bude to muset počkat.
-S Luciusem jsem se [[ms]vypořádal[fs]vypořádala] a [[ms]uvolnil[fs]uvolnila] brány.
+S Luciem jsem se [[ms]vypořádal[fs]vypořádala] a [[ms]uvolnil[fs]uvolnila] brány.
 Dobrá práce tam dole.{^n}{^n}Nyní potřebujeme zabezpečit přední pozice na Pohřebišti.
 Kde že mě to potřebuješ?
 

@@ -1575,7 +1575,7 @@ tagRingB003=[ms]Skinnerův rodinný pečetní prsten
 tagRingB003Desc="Pravděpodobně nejcennější předmět, který rodinka může vůbec vlastnit."
 tagRingB004=[ms]Gollův prsten
 tagRingB004Desc="Tenhle prsten měl opravdu rád."
-tagRingB005=[fs]Krvepřísežníkova pečeť
+tagRingB005=[fs]krvepřísežníkova pečeť
 tagRingB005Desc="Drahokam zářící během vyvolávacích rituálů."
 tagRingB006=[ms]Vilothin prsten
 tagRingB006Desc="Uměle vytvořený módní doplněk. Je trochu s podivem, že takovou věc u sebe nosí slith."
@@ -1688,9 +1688,9 @@ tagNecklaceA016=[ms]císařský přívěsek
 
 tagNecklaceB001=[ms]hnilobný náhrdelník
 tagNecklaceB001Desc="Lebka je potažena páchnoucím slizem."
-tagNecklaceB002=[ms]Přívěsek pozorovatele smrti
+tagNecklaceB002=[ms]přívěsek pozorovatele smrti
 tagNecklaceB003=[ms]Ellenin náhrdelník
-tagNecklaceB003Desc="Trofej kdysi patřící Elleně, prvního Slitha."
+tagNecklaceB003Desc="Trofej kdysi patřila Elleně, prvnímu Slithovi."
 
 tagNecklaceC001=Amulet Oka
 tagNecklaceC001Desc="Jedinečné oko uvnitř drahokamu pohybující se z jedné strany na druhou."
