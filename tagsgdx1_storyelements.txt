@@ -516,7 +516,7 @@ tagGDX1StoreTitle_MerchantC101=Harampádí
 
 #Area E
 tagGDX1NPC_ReallocatorA01=Novi
-tagGDX1StoreTitle_ReallocatorA01=Kaplan
+tagGDX1StoreTitle_ReallocatorA01=Kaplanka
 
 tagGDX1NPC_MerchantA01=Igallia
 tagGDX1StoreTitle_MerchantA01=Čarodějné předměty

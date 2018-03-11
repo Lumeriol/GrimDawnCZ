@@ -157,7 +157,7 @@ tagClass01SkillName15B=Markovianova obrana
 tagClass01SkillDescription15B=Markovian se stal legendou na bojišti díky jeho znalosti taktiky, ale bylo to právě umění zacházet se štítem, které mu dovolilo přečkat nespočet soubojů a zvítězit. S dostatkem soustředění a tréninku byl Markovian schopný zaujmout obranný postoj na téměř jakkoli dlouho za cenu své schopnosti útočit, což vedlo k vyčerpání jeho nepřátel, aby pak uštědřil poslední úder.
 
 tagClass01SkillName16=Jizvy z bitvy
-tagClass01SkillDescription16=Přes nespočet násilných střetů jsi viděl tu nejhorší bitvu, která mohla kdy být. Hrůzy války už nezabrání tvým akcím a ani ti nebude vadit trocha prolité krve.
+tagClass01SkillDescription16=Přes nespočet násilných střetů spatřuješ tu nejhorší bitvu, která by mohla kdy být. Hrůzy války už nezabrání tvým akcím a ani ti nebude vadit trocha prolité krve.
 
 tagClass01SkillName17=Protiúder
 tagClass01SkillDescription17=Vstoupíš do stavu intenzivní připravenosti, ve které uvolníš množství bleskově rychlých protiútoků vůči svému nepříteli. ^oAby tato schopnost účinkovala, musí být aktivní.
@@ -2539,7 +2539,7 @@ tagDevotion_A01Desc=Upíří netopýr si snadno najde cestu noční oblohou a la
 tagDevotion_A02=Akeronův štír
 tagDevotion_A02Desc=Akeron byl odsouzen k chůzi pouští, dokud neskoná, ale zasáhl osud v podobě štíra a dovedl sluncem ochromeného smrtelníka k vodě. Akeron přežil své odsouzení a vrátil se, aby se pomstil za použití jedu ze štíra těm, jež ho zanechali napospas smrti.
 tagDevotion_A03=Havran
-tagDevotion_A03Desc=Havran symbolizuje záludnost. Z toho důvodu je měli v oblibě čaredějní bozi, kteří je využívali jako poslíčky či pomocníky.
+tagDevotion_A03Desc=Havran symbolizuje záludnost. Z toho důvodu je měli v oblibě čaredějní bohové, kteří je využívali jako poslíčky či pomocníky.
 tagDevotion_A04=Kladivo
 tagDevotion_A04Desc=Kladivo udeří do kovadliny božskou silou a pro bohy ukove zbraně za pomoci Targova pevného úchopu.
 tagDevotion_A05=Kovadlina
@@ -2551,7 +2551,7 @@ tagDevotion_A07Desc=Námořníkova příručka slouží jako nebeské znamení p
 tagDevotion_A08=Meč nájemného vraha
 tagDevotion_A08Desc=Vrahova dýka, oblíbená zbraň postiženého zabijáka.
 tagDevotion_A09=Oko strážce
-tagDevotion_A09Desc=O Dreegovi, čarodějném bohu, se říká, že nahlédl za roušku reality a viděl skutečnost všeho. Za to ho ostatní bozi potrestali a zakleli jeho smrtelnou schránku do zrůdnosti z trnů s tisíci neustále otevřených očí. Nyní slouží jako nesmrtelný strážce za rouškou reality se svým nenapodobitelným uhrančivým pohledem pro případ, že by kdokoliv chtěl učinit to, co učinil on.
+tagDevotion_A09Desc=O Dreegovi, čarodějném bohu, se říká, že nahlédl za roušku reality a viděl skutečnost všeho. Za to ho ostatní bohové potrestali a zakleli jeho smrtelnou schránku do zrůdnosti z trnů s tisíci neustále otevřených očí. Nyní slouží jako nesmrtelný strážce za rouškou reality se svým nenapodobitelným uhrančivým pohledem pro případ, že by kdokoliv chtěl učinit to, co učinil on.
 tagDevotion_A10=Sokol
 tagDevotion_A10Desc=Sokolí ostrý zrak kontroluje oblohu a hledá snadnou kořist.
 tagDevotion_A11=Úhoř

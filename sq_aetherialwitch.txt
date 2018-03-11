@@ -1,7 +1,7 @@
 Vyvrhelové
 Aetherická čarodějka
-Promluv si s Vyvrhelem
-Kapitán Reave z Černé legie usoudil, že všechny stávající problémy pramení z příchodu aetherianské čarodějky, která je mezi nimi. Má přísný zákaz Anasterii jakkoliv ublížit, na tebe se ale takový zákaz nevztahuje. Vydej se do vězení v pevnosti Ikon a vyřiď to s tou aetherickou zmijí.
+Promluv si s Vyvrhelkou
+Kapitán Reave z Černé legie usoudil, že všechny stávající problémy pramení z příchodu aetherianské čarodějky, která je mezi nimi. Má přísný zákaz Anasterii jakkoliv ublížit, na tebe se ale takový zákaz nevztahuje. Vydej se do vězení v pevnosti Ikon a vyřiď to s tou aetheriankou zmijí.
 
 
 Promluv si s Anasterií ve vězení pevnosti Ikon
@@ -13,7 +13,7 @@ Promluv si s Anasterií ve vězení pevnosti Ikon
 
 
 Zabij Vyvolené
-[[ms]Promluvil[fs]Promluvila] sis s Anasterií a [[ms]souhlasil[fs]souhlasila] s názorem Reavea. Anasteria musí zemřít.
+[[ms]Promluvil[fs]Promluvila] sis s Anasterií a [[ms]souhlasil[fs]souhlasila] s názorem Reava. Anasteria musí zemřít.
 
 
 Zabij Anasteriu
@@ -21,8 +21,8 @@ Zabij Anasteriu
 
 
 Promluv si s kapitánem
-[[ms]Zabil[fs]Zabila] jsi Aetherianskou čarodějku Anasterii. Vrať se zpátky ke kapitánovi Reaveovi do pevnosti Ikon a informuj ho o svém úspěchu.
-Ohlaš se kapitánovi Reaveem  v pevnosti Ikon
+[[ms]Zabil[fs]Zabila] si Aetherianskou čarodějku Anasterii. Vrať se zpátky ke kapitánovi Reavovi do pevnosti Ikon a informuj ho o svém úspěchu.
+Ohlaš se kapitánovi Reavovi v pevnosti Ikon
 
 
 

@@ -758,12 +758,12 @@ tagGDX1EnemySkillA10_Desc=Miazma Napuchliny je tak odporná, že se jen tak tak 
 tagGDX1EnemySkillA11=Aura útisku
 tagGDX1EnemySkillA11_Desc=Přítomnost Utlačovatele Prázdnoty tě zaplaví temnotou, což snižuje tvojí maximální hodnotu zdraví a zpomaluje tvé činnosti.
 
-tagGDX1EnemySkillA12=Aura of Darkness
-tagGDX1EnemySkillA12_Desc=A creature of darkness is hunting you, shredding your resistances.
+tagGDX1EnemySkillA12=Aura temnoty
+tagGDX1EnemySkillA12_Desc=Netvor z temnot se tě snaží ulovit a likviduje tvé odolnosti.
 
 
 tagGDX1EnemySkillB01=Aura zastavení času
-tagGDX1EnemySkillB01_Desc=Jsi uvnitř subjektu s pokrouceným časem, což zpomaluje tvé činnosti.
+tagGDX1EnemySkillB01_Desc=Zůstáváš ve věznění s pokrouceným časem, což zpomaluje tvé činnosti.
 
 tagGDX1EnemySkillB02=Propojení krví
 tagGDX1EnemySkillB02_Desc=S nedalekým nepřítelem získáš upíří propojení. Pokud se vzdálíš, toto spojení přerušíš.

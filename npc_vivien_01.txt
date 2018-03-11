@@ -6,9 +6,9 @@ Jistě, teď vás odvedu oba do bezpečí (Lži)
 Ale jak tam dostaneme Rictora? Můžeme ho nést?{^n}{^n}Nechci ho nechat tady venku úplně o samotě.
 Můžu vás oba poslat skrze Bránu. (Lži)
 To skutečně můžeš?{^n}{^n}Slyšels to, Rictore? Dostaneme se z tohohle srabu. Budeš zase v pořádku!
-Uvidíme se v úkrytu. (Otevři Bránu)
+Uvidíme se v úkrytu. (otevři Bránu)
 Potřebuju ještě chvilku.
-Oh, díky bohu že jsi nás [[ms]našel[fs]našla].{^n}{^n}Prosím, musíš nám pomoct. {^n}{^n}Nemyslím si, že tady přežijeme nějak dlouho. Rictor je těžce raněný. Nejsem si jistá, jestli může vůbec stát.
+Oh, díky bohu že si nás [[ms]našel[fs]našla].{^n}{^n}Prosím, musíš nám pomoct. {^n}{^n}Nemyslím si, že tady přežijeme nějak dlouho. Rictor je těžce raněný. Nejsem si jistá, jestli může vůbec stát.
 Odboj má pevnost nedaleko.
 Ale jak tam dostaneme Rictora? Můžeme ho nést?{^n}{^n}Nechci ho nechat tady venku úplně o samotě.
 Hm, nevypadá moc dobře.
@@ -22,7 +22,7 @@ Odboj má pevnost nedaleko.
 Ale jak tam dostaneme Rictora?{^n}{^n}Můžeme ho nést skrze město?
 Můžu vás oba poslat skrze Bránu. (Lži)
 To skutečně můžeš?{^n}{^n}Slyšels to, Rictore? Dostaneme se z tohohle srabu. Budeš zase v pořádku!
-Uvidíme se v úkrytu. (Otevři Bránu)
+Uvidíme se v úkrytu. (otevři Bránu)
 Nech mě si s ním nejdřív promluvit.
 Vrátím se pro vás.
 Pomoz nám, prosím.

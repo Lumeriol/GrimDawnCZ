@@ -10,7 +10,7 @@ Samozřejmě že ti pomůžu. (otevři Bránu)
 Hned se vrátím.
 Proč se nevydali tě hledat?
 Já... já nevím. Proč na tom záleží? Možná že tohle místo nemohou pod tou hromadou kamenů prostě najít.{^n}{^n}*Kalista už skoro brečí*{^n}{^n}Děsíš mě všemi těmi otázkami. Potřebuji se prostě dostat z tohoto vězení!
-Dobrá, uklidni se. Dostanu tě domů (Otevři Bránu)
+Dobrá, uklidni se. Dostanu tě domů (otevři Bránu)
 Hned se vrátím.
 
 
@@ -20,15 +20,15 @@ Dostanu tě domů. (otevři Bránu)
 Hned se vrátím.
 Proč tě tví rodiče nehledali?
 
-Jak dlouho jsi tady byla?
+Jak dlouho si tady byla?
 Já... já nevím. Mnoho dní.{^n}{^n}Je to tu tmavé a strašidelné. A... a někdy slyším nějaké věci chodit kolem, ale nevidím je.{^n}{^n}Teďka už bych ráda šla domů. Mám hlad... tak strašný hlad...
 Dostanu tě domů. (otevři Bránu)
 Hned se vrátím.
 Neměl by tě někdo hledat?
 
 
-Připadá mi divné, že jsi tady přežila sama.
-Připadá mi divné, že jsi tak [[ms]podezíravý[fs]podezíravá]. Tvá nedůvěra musí být odrazem tvého vlastního ubohého charakteru!{^n}{^n}Je tvé srdce tak zahořklé, že nepomůžeš ztracenému dítěti najít cestu domů?{^n}{^n}Prosím pomoz mi!
+Připadá mi divné, že si tady přežila sama.
+Připadá mi divné, že si tak [[ms]podezíravý[fs]podezíravá]. Tvá nedůvěra musí být odrazem tvého vlastního ubohého charakteru!{^n}{^n}Je tvé srdce tak zahořklé, že nepomůžeš ztracenému dítěti najít cestu domů?{^n}{^n}Prosím pomoz mi!
 Dostanu tě domů. (otevři Bránu)
 Hned se vrátím.
 Proč tě nikdo nehledal?
@@ -56,15 +56,15 @@ Je na tom něco podezřelého.
 *V Kalistiných očích zajiskří oheň*{^n}{^n}Odveď mě ihned z tohoto místa!
 Jsi podvodník, démone. (zaútoč)
 Ušetřím tě, prozatím.
-Jak dlouho jsi tady byla?
+Jak dlouho si tady byla?
 Já... já nevím. Mnoho dní.{^n}{^n}Je to tu tmavé a strašidelné. A... a někdy slyším nějaké věci chodit kolem, ale nevidím je.{^n}{^n}Teďka už bych ráda šla domů. Mám hlad... tak strašný hlad...
 Dostanu tě domů. (otevři Bránu)
 Hned se vrátím.
 
 Neměl by tě někdo hledat?
 
-Připadá mi divné, že jsi tady přežila sama.
-Připadá mi divné, že jsi tak [[ms]podezíravý[fs]podezíravá]. Tvá nedůvěra musí být odrazem tvého vlastního ubohého charakteru!{^n}{^n}Je tvé srdce tak zahořklé, že nepomůžeš ztracenému dítěti najít cestu domů?{^n}{^n}Prosím pomoz mi!
+Připadá mi divné, že si tady přežila sama.
+Připadá mi divné, že si tak [[ms]podezíravý[fs]podezíravá]. Tvá nedůvěra musí být odrazem tvého vlastního ubohého charakteru!{^n}{^n}Je tvé srdce tak zahořklé, že nepomůžeš ztracenému dítěti najít cestu domů?{^n}{^n}Prosím pomoz mi!
 Dostanu tě domů. (otevři Bránu)
 Hned se vrátím.
 
@@ -75,7 +75,7 @@ Malá dívka a úplně sama, tady?
 *Kalista náhle zvážní*{^n}{^n}Nejsem malá holka. Jsem skoro tolik let stará.{^n}{^n}*Kalista zdvihne ruku s rozevřenými všemi prsty*{^n}{^n}Máma to říká.
 
 
-Jak dlouho jsi tady byla?
+Jak dlouho si tady byla?
 Já... já nevím. Mnoho dní.{^n}{^n}Je to tu tmavé a strašidelné. A... a někdy slyším nějaké věci chodit kolem, ale nevidím je.{^n}{^n}Teďka už bych ráda šla domů. Mám hlad... tak strašný hlad...
 Dostanu tě domů. (otevři Bránu)
 Hned se vrátím.
@@ -86,8 +86,8 @@ Já... já nevím. Proč na tom záleží? Možná že tohle místo nemohou pod 
 Dobrá, uklidni se. Dostanu tě domů (otevři Bránu)
 Hned se vrátím.
 
-Připadá mi divné, že jsi tady přežila sama.
-Připadá mi divné, že jsi tak [[ms]podezíravý[fs]podezíravá]. Tvá nedůvěra musí být odrazem tvého vlastního ubohého charakteru!{^n}{^n}Je tvé srdce tak zahořklé, že nepomůžeš ztracenému dítěti najít cestu domů?{^n}{^n}Prosím pomoz mi!
+Připadá mi divné, že si tady přežila sama.
+Připadá mi divné, že si tak [[ms]podezíravý[fs]podezíravá]. Tvá nedůvěra musí být odrazem tvého vlastního ubohého charakteru!{^n}{^n}Je tvé srdce tak zahořklé, že nepomůžeš ztracenému dítěti najít cestu domů?{^n}{^n}Prosím pomoz mi!
 Dostanu tě domů. (otevři Bránu)
 Hned se vrátím.
 

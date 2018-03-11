@@ -1,7 +1,7 @@
 Maurene
 Slituj se. Nech nás utéct!
 Jste v tom sami.
-Promiň, nemůžu ti teď moc pomoct.
+Promiň, nemůžu ti teď pomoci.
 Slituj se. Nech nás utéct!
 Budete v pořádku, pocházím z Barrowholmu, který je nedaleko.
 Naše motlitby byly vyslyšeny!{^n}{^n}Díky ti, [[ms]cizinče[fs]cizinko].
@@ -9,8 +9,8 @@ Můžu vás tam dostat skrze Bránu.
 Skrze co?{^n}{^n}Ne, to nepůjde. Nebudeme cestovat z jednoho pekla, jen abychom skočili do jinýho.
 Přísahám ti, je to o mnoho bezpečnější než cestovat skrze močály.
 *Maurene zaváhá*{^n}{^n}Dobrá, vlastně cokoliv, jen ať už jsme odtud pryč.
-Uvidíme se v Barrowholmu. (Otevři Bránu)
-Neni čas váhat. (Otevři Bránu)
+Uvidíme se v Barrowholmu. (otevři Bránu)
+Neni čas váhat. (otevři Bránu)
 Poraďte si.
 Budu hned zpátky.
 Budu hned zpátky.

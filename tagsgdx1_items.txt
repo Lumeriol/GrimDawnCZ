@@ -2,9 +2,9 @@
 #Weapons
 
 
-tagGDX1WeaponSwordB101=Wendigův dráp
+tagGDX1WeaponSwordB101=[ms]Wendigův dráp
 tagGDX1WeaponSwordB101Desc="Dráp páchne hnilobou."
-tagGDX1WeaponSwordB102=Wendigův bodák
+tagGDX1WeaponSwordB102=[ms]Wendigův bodák
 tagGDX1WeaponSwordB102Desc="Z drápu odpadává špína."
 
 tagGDX1WeaponSwordC101=Elgothova čistá ocel
@@ -25,9 +25,9 @@ tagGDX1WeaponSwordF103=Wendigův dráp
 tagGDX1WeaponSwordF104=Spasitel Malmouthu
 
 
-tagGDX1WeaponBluntB101=Bargollovo srdce
+tagGDX1WeaponBluntB101=[ns]Bargollovo srdce
 tagGDX1WeaponBluntB101Desc="Bargollovo kamenné srdce vyzařuje chladnou smrt."
-tagGDX1WeaponBluntB102=Bargollova duše
+tagGDX1WeaponBluntB102=[fs]Bargollova duše
 tagGDX1WeaponBluntB102Desc="Jamile žijící Bargollova duše začne prahnout po esenci života, jeho majitel opět ožije."
 
 tagGDX1WeaponBluntC101=Pokořitel smrti
@@ -43,9 +43,9 @@ tagGDX1WeaponBluntF102=Malmouthský palcát
 tagGDX1WeaponBluntF103=Wendigův palcát
 tagGDX1WeaponBluntF104=Wendigův řev
 
-tagGDX1WeaponAxeB101=Sluhův plátkovač
-tagGDX1WeaponAxeB102=Sluhův narušovač
-tagGDX1WeaponAxeB103=Sekáček krveprolití
+tagGDX1WeaponAxeB101=[ms]sluhův plátkovač
+tagGDX1WeaponAxeB102=[ms]Sluhův narušovač
+tagGDX1WeaponAxeB103=[ms]sekáček krveprolití
 
 tagGDX1WeaponAxeC101=Halvorův loupač kůže
 
@@ -63,11 +63,11 @@ tagGDX1WeaponAxeF103=Wendigův sekáček
 tagGDX1WeaponAxeF104=Měsíc čarodějnic
 
 
-tagGDX1WeaponGun1hB101=Ugdenský řev
+tagGDX1WeaponGun1hB101=[ms]ugdenský řev
 tagGDX1WeaponGun1hB101Desc="Naplněný duchem Wendiga."
-tagGDX1WeaponGun1hB102=Ugdenský metač jedu
+tagGDX1WeaponGun1hB102=[ms]ugdenský metač jedu
 tagGDX1WeaponGun1hB102Desc="Každá střela je máčena ve speciální směsi z divokých zvířat žijících v Ugdenbogu."
-tagGDX1WeaponGun1hB103=Hromobijka
+tagGDX1WeaponGun1hB103=[fs]Hromobijka
 
 tagWeaponGun1hC013B=Vyjednavač
 tagGDX1WeaponGun1hC101=Hlasitý odpor
@@ -104,12 +104,12 @@ tagGDX1WeaponGun1hF103=Wendigova opakovačka
 tagGDX1WeaponGun1hF104=Šestipal
 
 
-tagGDX1WeaponGun2hB101=Ugdenská jiskra
+tagGDX1WeaponGun2hB101=[fs]ugdenská jiskra
 tagGDX1WeaponGun2hB101Desc="Kamenné srdce bažinného golema se překvapivě ukázalo jako snadno tvarovatelné, když bylo vystaveno tajemným energiím. To umožnilo vetknout jej do zbrojí, nástrojů či dokonce do zbraní."
-tagGDX1WeaponGun2hB102=Ugdenský žlučomet
-tagGDX1WeaponGun2hB103=Ugdenský vrhač šipek
-tagGDX1WeaponGun2hB104=Ugdenský navíječ tajemna
-tagGDX1WeaponGun2hB105=Puška ohnivého dozorce
+tagGDX1WeaponGun2hB102=[ms]ugdenský žlučomet
+tagGDX1WeaponGun2hB103=[ms]ugdenský vrhač šipek
+tagGDX1WeaponGun2hB104=[ms]ugdenský navíječ tajemna
+tagGDX1WeaponGun2hB105=[fs]Puška ohnivého dozorce
 
 tagGDX1WeaponGun2hC101=Vyšetřovatel
 tagGDX1WeaponGun2hC101B=Vyšetřovatel
@@ -136,9 +136,9 @@ tagGDX1WeaponGun2hF103=Wendigův metač odštěpků
 tagGDX1WeaponGun2hF104=Beznaděj
 
 
-tagGDX1WeaponMelee2hB101=Duše masového rváče
-tagGDX1WeaponMelee2hB102=Úlomek masového rváče
-tagGDX1WeaponMelee2hB103=Střevodrtič
+tagGDX1WeaponMelee2hB101=[fs]duše masového rváče
+tagGDX1WeaponMelee2hB102=[ms]úlomek masového rváče
+tagGDX1WeaponMelee2hB103=[ms]Střevodrtič
 
 tagGDX1WeaponMelee2hC101=Půlič duší
 tagGDX1WeaponMelee2hC101_Desc="O ostří této kosy se říká, že kosí víc než jen maso."
@@ -161,19 +161,19 @@ tagGDX1WeaponMelee2hF103=Wendigův stínač
 tagGDX1WeaponMelee2hF104=Rychlý plamen
 
 
-tagGDX1WeaponCaster1hA101=Žezlo ochranáře
-tagGDX1WeaponCaster1hA102=Spasitelovo žezlo
-tagGDX1WeaponCaster1hA103=Dýka ochranáře
-tagGDX1WeaponCaster1hA104=Spasitelova dýka
+tagGDX1WeaponCaster1hA101=[ns]žezlo ochranáře
+tagGDX1WeaponCaster1hA102=[ns]spasitelovo žezlo
+tagGDX1WeaponCaster1hA103=[fs]dýka ochranáře
+tagGDX1WeaponCaster1hA104=[fs]spasitelova dýka
 
-tagGDX1WeaponCaster1hB101=Ugdenský ohnivý rozbroj
-tagGDX1WeaponCaster1hB102=Ugdenský mrazivý rozbroj
-tagGDX1WeaponCaster1hB103=Ugdenský bouřný rozbroj
-tagGDX1WeaponCaster1hB104=Hůlka nadvlády
-tagGDX1WeaponCaster1hB105=Prapředek
-tagGDX1WeaponCaster1hB106=Hůlka mrazivé hniloby
-tagGDX1WeaponCaster1hB107=Žezlo mrtvých dětí
-tagGDX1WeaponCaster1hB108=Srdce Theodina Marcella
+tagGDX1WeaponCaster1hB101=[ms]ugdenský ohnivý rozbroj
+tagGDX1WeaponCaster1hB102=[ms]ugdenský mrazivý rozbroj
+tagGDX1WeaponCaster1hB103=[ms]ugdenský bouřný rozbroj
+tagGDX1WeaponCaster1hB104=[fs]hůlka nadvlády
+tagGDX1WeaponCaster1hB105=[ms]prapředek
+tagGDX1WeaponCaster1hB106=[ms]hůlka mrazivé hniloby
+tagGDX1WeaponCaster1hB107=[ns]žezlo mrtvých dětí
+tagGDX1WeaponCaster1hB108=[ns]srdce Theodina Marcella
 tagGDX1WeaponCaster1hB108_Desc="Kousek moci stále koluje v srdci svého pána."
 
 tagGDX1WeaponCaster1hC101=Pustošitelův bodec
@@ -221,10 +221,10 @@ tagGDX1WeaponCaster1hF111=Hagarazův spár
 
 
 #Shields
-tagGDX1ShieldB101=Obrovitá pevnost
+tagGDX1ShieldB101=[fs]obrovitá pevnost
 tagGDX1ShieldB101Desc="Rozměry štítu vyžadují stejně obrovitou sílu."
-tagGDX1ShieldB102=Obrovitá hradba
-tagGDX1ShieldB103=Kamenná zeď
+tagGDX1ShieldB102=[fs]obrovitá hradba
+tagGDX1ShieldB103=[fs]kamenná zeď
 
 tagGDX1ShieldC101=Hrůzný strážce
 tagGDX1ShieldC102=Legionářovo pokárání
@@ -252,25 +252,25 @@ tagGDX1ShieldF104=Strážce trestanců
 
 
 #Focus
-tagGDX1FocusA101=Svatá kniha
-tagGDX1FocusA102=Svatá podobizna
-tagGDX1FocusA103=Ochranný archiv
-tagGDX1FocusA104=Ochranná sféra
+tagGDX1FocusA101=[fs]svatá kniha
+tagGDX1FocusA102=[fs]svatá podobizna
+tagGDX1FocusA103=[ms]ochranný archiv
+tagGDX1FocusA104=[fs]ochranná sféra
 
-tagGDX1FocusB101=Terrnoxova Aetherická bible
+tagGDX1FocusB101=[fs]Terrnoxova Aetherická bible
 tagGDX1FocusB101Desc="Kniha je plná znalostí Aetheru, z čehož většinu nelze rozluštit."
-tagGDX1FocusB102=Terrnoxova bible alchymie
+tagGDX1FocusB102=[fs]Terrnoxova bible alchymie
 tagGDX1FocusB102Desc="Kniha je plná znalostí alchymie a tajemna, o kterých věděl pouze Terrnox."
-tagGDX1FocusB103=Svázaný přízrak
-tagGDX1FocusB104=Zotročený přízrak
-tagGDX1FocusB105=Masorvoucí bible
+tagGDX1FocusB103=[ms]svázaný přízrak
+tagGDX1FocusB104=[ms]zotročený přízrak
+tagGDX1FocusB105=[fs]masorvoucí bible
 tagGDX1FocusB105Desc="Bible se ve tvých rukách kroutí."
-tagGDX1FocusB106=Masorvoucí kodex
-tagGDX1FocusB107=Masorvoucí archiv
-tagGDX1FocusB108=Bible nepovedených kouzel
-tagGDX1FocusB109=Čadící figurka
-tagGDX1FocusB110=Listohřívnatcův roh
-tagGDX1FocusB111=Listohřívnatcova trofej
+tagGDX1FocusB106=[ms]masorvoucí kodex
+tagGDX1FocusB107=[ms]masorvoucí archiv
+tagGDX1FocusB108=[fs]bible nepovedených kouzel
+tagGDX1FocusB109=[fs]čadící figurka
+tagGDX1FocusB110=[ms]listohřívnatcův roh
+tagGDX1FocusB111=[fs]listohřívnatcova trofej
 
 tagGDX1FocusC101=Padalina vůle
 tagGDX1FocusC102=Prudce jedovatý jícen
@@ -320,11 +320,11 @@ tagGDX1WeaponQuality001=[ms]vznešený[fs]vznešená[ns]vznešené[mp]vznešené
 tagGDX1WeaponQuality002=[ms]ochranný[fs]ochranná[ns]ochranné[mp]ochranné[fp]ochranné[np]ochranné
 
 #ArmorHead
-tagGDX1HeadB101=Stoupencova kapuce
-tagGDX1HeadB102=Stoupencova kápě
-tagGDX1HeadB103=Packlina kůže
+tagGDX1HeadB101=[fs]stoupencova kapuce
+tagGDX1HeadB102=[fs]stoupencova kápě
+tagGDX1HeadB103=[fs]Packlina kůže
 tagGDX1HeadB103_Desc="Vůbec nemáš představu, z kolika obětí se tato maska skládá."
-tagGDX1HeadB104=Packlin kryt
+tagGDX1HeadB104=[fs]Packlin kryt
 tagGDX1HeadB104_Desc="Zápach z této masky je naprosto nesnesitelný."
 
 
@@ -395,11 +395,11 @@ tagGDX1HeadF118=Wendigův kalený chránič hlavy
 
 
 #ArmorShoulders
-tagGDX1ShoulderB101=Předkovy skládané nárameníky
-tagGDX1ShoulderB102=Prapředkovy chrániče ramen
-tagGDX1ShoulderB103=Kra'vallovy chrániče ramen
+tagGDX1ShoulderB101=[mp]předkovy skládané nárameníky
+tagGDX1ShoulderB102=[mp]prapředkovy chrániče ramen
+tagGDX1ShoulderB103=[mp]Kra'vallovy chrániče ramen
 tagGDX1ShoulderB103_Desc="Tuhá kůže Ugdenského krakena může být obtížně zpracovatelná, ale kováři si ji velmi cení pro její vlastnosti."
-tagGDX1ShoulderB104=Kra'vallovy vycpávky
+tagGDX1ShoulderB104=[fp]Kra'vallovy vycpávky
 
 tagGDX1ShoulderC101=Tkané nárameníky vyvolavače duchů
 tagGDX1ShoulderC102=Skládané nárameníky přízračného rytíře
@@ -455,11 +455,11 @@ tagGDX1ShoulderF118=Wendigovy skládané nárameníky strážce
 
 
 #ArmorTorso
-tagGDX1TorsoB101=Galakrosovo sežehnuté plátování
-tagGDX1TorsoB102=Galakrosovo děsivé plátování
-tagGDX1TorsoB103=Valaxterina tajemnáA róba
+tagGDX1TorsoB101=[ms]Galakrosovo sežehnuté plátování
+tagGDX1TorsoB102=[ms]Galakrosovo děsivé plátování
+tagGDX1TorsoB103=[fs]Valaxteřina tajemná róba
 tagGDX1TorsoB103_Desc="Róba se třpytí jemnými vetkanými tajemnými runami."
-tagGDX1TorsoB104=Valaxterina róba rozervaných nebes
+tagGDX1TorsoB104=[fs]Valaxteřina róba rozervaných nebes
 
 tagGDX1TorsoC101=Hrobníkovo roucho
 tagGDX1TorsoC102=Hrudní chránič temných plamenů
@@ -539,14 +539,14 @@ tagGDX1HandsD114=Chňapky Temného pána
 
 
 #ArmorLegs
-tagGDX1LegsB101=Aleksanderovy náholeníky
-tagGDX1LegsB102=Aleksanderovy nohavice
-tagGDX1LegsB103=Grava'Thulovy kamaše
-tagGDX1LegsB104=Grava'Thulovy náholeníky
-tagGDX1LegsB105=Kubacabrovy náholeníky
-tagGDX1LegsB106=Kubacabrovy nohavice
-tagGDX1LegsB107=Žencovy kamaše
-tagGDX1LegsB108=Žencovy náholeníky
+tagGDX1LegsB101=[mp]Aleksanderovy náholeníky
+tagGDX1LegsB102=[fp]Aleksanderovy nohavice
+tagGDX1LegsB103=[fp]Grava'Thulovy kamaše
+tagGDX1LegsB104=[mp]Grava'Thulovy náholeníky
+tagGDX1LegsB105=[mp]Kubacabrovy náholeníky
+tagGDX1LegsB106=[fp]Kubacabrovy nohavice
+tagGDX1LegsB107=[fp]žencovy kamaše
+tagGDX1LegsB108=[mp]žencovy náholeníky
 
 tagGDX1LegsC101=Sežehnuté runové hnátnice
 tagGDX1LegsC102=Děsivé runové náholeníky
@@ -569,8 +569,8 @@ tagGDX1LegsD110_Desc="Nestvůra, ze které je tato kůže, pravděpodobně nepat
 
 
 #ArmorFeet
-tagGDX1FeetB101=Válečné boty neohroženosti
-tagGDX1FeetB102=Kameninové pohorky
+tagGDX1FeetB101=[ms]válečné boty neohroženosti
+tagGDX1FeetB102=[ms]kameninové pohorky
 
 tagGDX1FeetC101=Boty ponurého pasáka
 tagGDX1FeetC102=Krpce mrtvého chodce
@@ -591,16 +591,16 @@ tagGDX1FeetD111=Kriegovy boty
 
 
 #ArmorWaist
-tagGDX1WaistA101=Zachovalý opasek
-tagGDX1WaistA102=Spasitelův ochranný pás
+tagGDX1WaistA101=[ms]zachovalý opasek
+tagGDX1WaistA102=[ms]spasitelův ochranný pás
 
-tagGDX1WaistB101=Ugdenský pás
-tagGDX1WaistB102=Ugdenský ochranný pás
-tagGDX1WaistB103=Lunal'Valgothin pás
-tagGDX1WaistB104=Lunal'Valgothin ochranný pás
-tagGDX1WaistB105=Ochranný pás ze srdce zlobra
-tagGDX1WaistB106=Loutkařovy nitky
-tagGDX1WaistB107=Kameninový ochranný pás
+tagGDX1WaistB101=[ms]ugdenský pás
+tagGDX1WaistB102=[ms]ugdenský ochranný pás
+tagGDX1WaistB103=[ms]Lunal'Valgothin pás
+tagGDX1WaistB104=[ms]Lunal'Valgothin ochranný pás
+tagGDX1WaistB105=[ms]ochranný pás ze srdce zlobra
+tagGDX1WaistB106=[fp]loutkařovy nitky
+tagGDX1WaistB107=[ms]kameninový ochranný pás
 
 tagGDX1WaistC101=Pás nevraživého přízraku
 tagGDX1WaistC102=Pás tkaný z duší
@@ -646,15 +646,15 @@ tagGDX1WaistF106B=Wendigův dozorčí pás
 
 
 #Rings
-tagGDX1RingA101=Vznešený prsten
-tagGDX1RingA102=Vznešený kroužek
-tagGDX1RingA103=Zachovalý prsten
-tagGDX1RingA104=Zachovalý kroužek
+tagGDX1RingA101=[ms]vznešený prsten
+tagGDX1RingA102=[ms]vznešený kroužek
+tagGDX1RingA103=[ms]zachovalý prsten
+tagGDX1RingA104=[ms]zachovalý kroužek
 
-tagGDX1RingB101=Živoucí prsten
+tagGDX1RingB101=[ms]živoucí prsten
 tagGDX1RingB101_Desc="Ostny kolem prstenu vysávají krev, ale zdá se, že má hojivé účinky."
-tagGDX1RingB102=Vinný prsten
-tagGDX1RingB103=Gargabolův prsten
+tagGDX1RingB102=[ms]vinný prsten
+tagGDX1RingB103=[ms]Gargabolův prsten
 tagGDX1RingB103_Desc="Spalující kroužek je na dotyk bolestivý, ale přesto nevede k nějakému fyzickému poranění."
 
 tagGDX1RingC101=Proklínač
@@ -697,15 +697,15 @@ tagGDX1RingF108=Wendigův pečetní prsten utlačovatele
 
 
 #Necklaces
-tagGDX1NecklaceA101=Vznešený amulet
-tagGDX1NecklaceA102=Vznešený přívěsek
-tagGDX1NecklaceA103=Zachovalý amulet
-tagGDX1NecklaceA104=Zachovalý přívěsek
+tagGDX1NecklaceA101=[ms]vznešený amulet
+tagGDX1NecklaceA102=[ms]vznešený přívěsek
+tagGDX1NecklaceA103=[ms]zachovalý amulet
+tagGDX1NecklaceA104=[ms]zachovalý přívěsek
 
-tagGDX1NecklaceB100=Sahdinina vzpomínka
+tagGDX1NecklaceB100=[fs]Sahdinina vzpomínka
 tagGDX1NecklaceB100_Desc="Jednoduchý přívěsek, který má chránit před zlem. Je do něj vyrytý nápis: S každým dobrým úmyslem je někde v koutku ukryto Zlo, které lze zneužít. - Jay Peggins"
-tagGDX1NecklaceB101=Gulgazorovo srdce
-tagGDX1NecklaceB102=Vilgazorovo srdce
+tagGDX1NecklaceB101=[ns]Gulgazorovo srdce
+tagGDX1NecklaceB102=[ns]Vilgazorovo srdce
 
 tagGDX1NecklaceC101=Šeptání smrti
 tagGDX1NecklaceC102=Puklý kámen
@@ -762,24 +762,24 @@ tagGDX1NecklaceF111=Plenitelův hlad
 
 
 #Medals
-tagGDX1MedalA101=Vznešená hvězda
-tagGDX1MedalA102=Zachovalý erb
+tagGDX1MedalA101=[fs]vznešená hvězda
+tagGDX1MedalA102=[ms]zachovalý erb
 
-tagGDX1MedalB101=Erb baziliška
+tagGDX1MedalB101=[ms]erb baziliška
 tagGDX1MedalB101_Desc="Z tesáků stále odkapává rychle tuhnoucí jed."
-tagGDX1MedalB102=Znak baziliška
+tagGDX1MedalB102=[ms]znak baziliška
 tagGDX1MedalB102_Desc="Z tesáků stále odkapává otrávená krev."
-tagGDX1MedalB103=Rylokův erb
+tagGDX1MedalB103=[ms]Rylokův erb
 tagGDX1MedalB103_Desc="Na erbu je vyražena Chthonská stupnice lačnosti po krvi."
-tagGDX1MedalB104=Rylokův znak
+tagGDX1MedalB104=[ms]Rylokův znak
 tagGDX1MedalB104_Desc="Ve znaku je pohyblivá stupnice temnoty a Prázdnoty."
-tagGDX1MedalB105=Wendigovo oko
+tagGDX1MedalB105=[ns]Wendigovo oko
 tagGDX1MedalB105_Desc="S krví všude kolem se krvavé oko začíná pohybovat."
-tagGDX1MedalB106=Wendigovo hledí
+tagGDX1MedalB106=[fs]Wendigova duhovka
 tagGDX1MedalB106_Desc="Zakrvácené oko rozzuří každé malé stvoření, které se na něj dívá."
-tagGDX1MedalB107=Erb mrštnosti
-tagGDX1MedalB108=Erb pozorovatele
-tagGDX1MedalB109=Slathsarrův erb
+tagGDX1MedalB107=[ms]erb mrštnosti
+tagGDX1MedalB108=[ms]erb pozorovatele
+tagGDX1MedalB109=[ms]Slathsarrův erb
 tagGDX1MedalB109_Desc="Z tesáků odkapává aetherický jed."
 
 tagGDX1MedalC101=Obřadný znak

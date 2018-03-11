@@ -9,8 +9,8 @@ Kamkoliv půjdeme v této díře zoufalosti, musíš jít jako první. Nevím, j
 Půjdu a vyčistím nám cestu.
 Mohu se tě na něco zeptat?
 Oh, jasně, vždyť jsme jen v Prázdnotě.{^n}{^n}Perfektně načasované pro rozhovor.
-Co se stalo, zatímco tu jsi?
-Potom, co jsi [[ms]porazil[fs]porazila] Loghorreana, byl donucen vrátit se do jámy, ze které vylezl, právě sem, kam mě to monstrum vtáhlo.{^n}{^n}Nechtěl jsem si prostě lehnout a zemřít, tak jsme se já a Loghorrean pustili do posledního boje.{^n}{^n}Vydal jsem se úplně ze všeho, moje ruce už byly i v lepším stavu, ale snad je ta příšera na dobro zahnána, teda pokud neexistuje ještě horší peklo než tohle, ve kterém by čekala.
+Co se stalo, zatím co tu jsi?
+Potom, co si [[ms]porazil[fs]porazila] Loghorreana, byl donucen vrátit se do jámy, ze které vylezl, právě sem, kam mě to monstrum vtáhlo.{^n}{^n}Nechtěl jsem si prostě lehnout a zemřít, tak jsme se já a Loghorrean pustili do posledního boje.{^n}{^n}Vydal jsem se úplně ze všeho, moje ruce už byly i v lepším stavu, ale snad je ta příšera na dobro zahnána, teda pokud neexistuje ještě horší peklo než tohle, ve kterém by čekala.
 
 Půjdu a vyčistím nám cestu.
 Co se stalo na Pohřebišti?
@@ -37,7 +37,7 @@ Pojďme si promluvit o tom, co se stalo.
 Když vidím, že jsme tu uvěznění, hádám, že není kam jinam jít.{^n}{^n}O čem si chceš promluvit?
 
 Co se stalo, zatímco si tu byl?
-Potom, co jsi [[ms]porazil[fs]porazila] Loghorreana, byl donucen vrátit se do jámy, ze které vylezl, právě sem, kam mě to monstrum vtáhlo.{^n}{^n}Nechtěl jsem si prostě lehnout a zemřít, tak jsme se já a Loghorrean pustili do posledního boje.{^n}{^n}Vydal jsem se úplně ze všeho, moje ruce už byly i v lepším stavu, ale snad je ta příšera na dobro zahnána, teda pokud neexistuje ještě horší peklo než tohle, ve kterém by čekala.
+Potom, co si [[ms]porazil[fs]porazila] Loghorreana, byl donucen vrátit se do jámy, ze které vylezl, právě sem, kam mě to monstrum vtáhlo.{^n}{^n}Nechtěl jsem si prostě lehnout a zemřít, tak jsme se já a Loghorrean pustili do posledního boje.{^n}{^n}Vydal jsem se úplně ze všeho, moje ruce už byly i v lepším stavu, ale snad je ta příšera na dobro zahnána, teda pokud neexistuje ještě horší peklo než tohle, ve kterém by čekala.
 Půjdeme skrze Prázdnotu do Malmouthu.
 
 Hned se vrátím.
@@ -86,7 +86,7 @@ Ulgrime, jsi v Prázdnotě.
 V Prázdnotě? Směšné.{^n}{^n}Nic živého nepřežije v Prázdnotě.{^n}{^n}Jsi [[ms]Ch'thonský agent, který[fs]Ch'thonská agentka, která] se mě snaží vlákat do pasti? Pak bys [[ms]měl[fs]měla] vědět, že jsem velmi zkušený v oblasti zabíjení.
 
 
-Nechci to udělat, ale možná do tebe vtluču rozum. (Zaútoč)
+Nechci to udělat, ale možná do tebe vtluču rozum. (zaútoč)
 Vydrž tady, Ulgrime. Hned se vrátím.
 
 
@@ -99,18 +99,18 @@ To je jméno, které si mi řekl v Burrwitchi.
 Burrwitchi? Není nikdo, kdo by v Burrwitchi přežil.{^n}{^n}Musíš být nějaká jiná vzpomínka, která mě straší v nočních můrách.{^n}{^n}Ztrať se!
 Musíš mě poslouchat!
 Jediný, kdo se mi kdy opovažoval rozkazovat byl císař a ten leží mrtvý v kapitolu. Jeho krev je na mých rukách ještě dnes.{^n}{^n}Být tebou, tímhle tónem bych se se mnou nebavil.
-Nechci to udělat, ale možná do tebe vtluču rozum. (Zaútoč)
+Nechci to udělat, ale možná do tebe vtluču rozum. (zaútoč)
 Vydrž tady, Ulgrime. Hned se vrátím.
 
 
-Nechci to udělat, ale možná do tebe vtluču rozum. (Zaútoč)
+Nechci to udělat, ale možná do tebe vtluču rozum. (zaútoč)
 Vydrž tady, Ulgrime. Hned se vrátím.
 Tvůj císař ti přikazuje vstát.
-Moment...má mysl přestává být zastřená. Ty nejsi císař!{^n}{^n}Jsi [[ms]podvodník[fs]podvodnice]. Proč mi lžeš?{^n}{^n}Mluv a nebo potkej můj meč!
+Moment... má mysl přestává být zastřená. Ty nejsi císař!{^n}{^n}Jsi [[ms]podvodník[fs]podvodnice]. Proč mi lžeš?{^n}{^n}Mluv a nebo potkej můj meč!
 
 Je mi to líto Ulgrime. To jsem jenom já.
 
-Nechci to udělat, ale možná do tebe vtluču rozum. (Zaútoč)
+Nechci to udělat, ale možná do tebe vtluču rozum. (zaútoč)
 Vydrž tady, Ulgrime. Hned se vrátím.
 
 

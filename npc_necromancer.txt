@@ -24,13 +24,13 @@ Děkuji ti.
 Sbohem.
 Buď pozdraven.
 Sbohem.
-[[ms]Udělal[fs]Udělala] jsi, oč jsem žádal?
+[[ms]Udělal[fs]Udělala] si, oč jsem žádal?
 Oligarchové již nejsou.
 Skvělé. Má důvěra v tebe nebyla nesmyslná. Promluv si s Kalderosem ve Stupních bolesti v oblasti Sesutých kopců. Povede tě.
 Dobře.
 
 Sbohem.
-[[ms]Udělal[fs]Udělala] jsi, oč jsem žádal?
+[[ms]Udělal[fs]Udělala] si, oč jsem žádal?
 Kam že to mám znovu jít?
 Musíš putovat do Arkovianského Podzemního města. Jeho vchod leží na západ odtud. Tam najdeš duchy oligarchů. Vypuď jejich duše z tohoto světa!
 Půjdu tam hned teď.
@@ -38,7 +38,7 @@ Půjdu tam hned teď.
 Sbohem.
 Buď [[ms]pozdraven[fs]pozdravena], [[ms]vyznavači[fs]vyznavačko] posvátného umění. Neznáš mne, ale já jsem o tobě slyšel. Já jsem Balvoruuk, z Řádu Strážců smrti. Tvé hrdinské činy mne přesvědčily, že bys [[ms]mohl[fs]mohla] být osobou, kterou potřebuji pro svůj... úkol.
 Úkol?
-Ano. Jsem zde od toho, abych tento kraj očistil od mnoha zlovolných duchů. Jejich poskvrněná přítomnost poškozovala Arkovii už dost dlouho.{^n}{^n}Nicméně mí páni podcenili úroveň toho, jak tito starodávní oligarchové sami sebe obklopili dalšími. Arkovianské Podzemní město se hemží mrtvými; musím přiznat, že je jich mnohem více, než jsem schopný zvládnout bez pomoci mých bratrů. Ale ty, ty jsi rychle [[ms]dokázal[fs]dokázala], že jsi tak mocnou odplatou, jakou tento svět ještě nikdy nespatřil. Jdi dolů do Podzemního města a znič duchy Nomose Reda, Laudose Vagra a Rhovenaa Kura. Až budeš [[ms]hotov[fs]hotova], vyhledej mého společníka, Kalderose, u vstupu do Stupňů bolesti. Povede tě směrem k tvému poslednímu cíli.
+Ano. Jsem zde od toho, abych tento kraj očistil od mnoha zlovolných duchů. Jejich poskvrněná přítomnost poškozovala Arkovii už dost dlouho.{^n}{^n}Nicméně mí páni podcenili úroveň toho, jak tito starodávní oligarchové sami sebe obklopili dalšími. Arkovianské Podzemní město se hemží mrtvými; musím přiznat, že je jich mnohem více, než jsem schopný zvládnout bez pomoci mých bratrů. Ale ty, ty si rychle [[ms]dokázal[fs]dokázala], že jsi tak mocnou odplatou, jakou tento svět ještě nikdy nespatřil. Jdi dolů do Podzemního města a znič duchy Nomose Reda, Laudose Vagra a Rhovenaa Kura. Až budeš [[ms]hotov[fs]hotova], vyhledej mého společníka, Kalderose, u vstupu do Stupňů bolesti. Povede tě směrem k tvému poslednímu cíli.
 Splním ten úkol.
 To nemohu udělat.
 Oligarchy jsem již [[ms]vypudil[fs]vypudila].
@@ -52,7 +52,7 @@ Nechci být jakoukoliv součástí tvých záměrů.
 Ani to nechci vědět.
 Buď [[ms]pozdraven[fs]pozdravena]. Neznáš mne, ale já jsem o tobě slyšel. Já jsem Balvoruuk, z Řádu Strážců smrti. Tvé hrdinské činy mne přesvědčily, že bys [[ms]mohl[fs]mohla] být osobou, kterou potřebuji pro svůj... úkol.
 Úkol?
-Ano. Jsem zde od toho, abych tento kraj očistil od mnoha zlovolných duchů. Jejich poskvrněná přítomnost poškozovala Arkovii už dost dlouho.{^n}{^n}Nicméně mí páni podcenili úroveň toho, jak tito starodávní oligarchové sami sebe obklopili dalšími. Arkovianské Podzemní město se hemží mrtvými; musím přiznat, že je jich mnohem více, než jsem schopný zvládnout bez pomoci mých bratrů. Ale ty, ty jsi rychle [[ms]dokázal[fs]dokázala], že jsi tak mocnou odplatou, jakou tento svět ještě nikdy nespatřil. Jdi dolů do Podzemního města a znič duchy Nomose Reda, Laudose Vagra a Rhovenaa Kura. Až budeš [[ms]hotov[fs]hotova], vyhledej mého společníka, Kalderose, u vstupu do Stupňů bolesti. Povede tě směrem k tvému poslednímu cíli.
+Ano. Jsem zde od toho, abych tento kraj očistil od mnoha zlovolných duchů. Jejich poskvrněná přítomnost poškozovala Arkovii už dost dlouho.{^n}{^n}Nicméně mí páni podcenili úroveň toho, jak tito starodávní oligarchové sami sebe obklopili dalšími. Arkovianské Podzemní město se hemží mrtvými; musím přiznat, že je jich mnohem více, než jsem schopný zvládnout bez pomoci mých bratrů. Ale ty, ty si rychle [[ms]dokázal[fs]dokázala], že jsi tak mocnou odplatou, jakou tento svět ještě nikdy nespatřil. Jdi dolů do Podzemního města a znič duchy Nomose Reda, Laudose Vagra a Rhovenaa Kura. Až budeš [[ms]hotov[fs]hotova], vyhledej mého společníka, Kalderose, u vstupu do Stupňů bolesti. Povede tě směrem k tvému poslednímu cíli.
 Splním ten úkol.
 To nemohu udělat.
 Oligarchy jsem již [[ms]vypudil[fs]vypudila].
@@ -60,7 +60,7 @@ Skvělé. Má důvěra v tebe nebyla nesmyslná. Promluv si s Kalderosem ve Stup
 Dobrá.
 Nechci se tohohle zúčastnit.
 Ten duch, ty jsi snad nekromant?
-Vyděsil tě Kalderos? Ano, já jsem z Řádu. Býval bych doufal, že vyvrhel jako jsi ty bude více schopný porozumět lidem jako já... zde se střetáváme s realitou.{^n}{^n}Budeš nyní naslouchat mým problémům a nebo budeš dál civět do nemrtvých očí mého společníka?
+Vyděsil tě Kalderos? Ano, já jsem z Řádu. Býval bych doufal, že vyvrhel, jako jsi ty, bude více schopný porozumět lidem jako já... zde se střetáváme s realitou.{^n}{^n}Budeš nyní naslouchat mým problémům a nebo budeš dál civět do nemrtvých očí mého společníka?
 Co chceš, abych [[ms]udělal[fs]udělala]?
 [[ms]Měl[fs]Měla] bych tě zabít teď a tady.
 Ujišťuji tě, že jakákoliv forma nepřátelství vůči mně by byla marná snaha. Mimochodem, nejsem zde, abych se s tebou přel. Pokud nesplníš můj úkol, je pak naše shledání u konce.

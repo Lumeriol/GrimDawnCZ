@@ -1,5 +1,5 @@
 Lokarr, mistr Arény
-[[ms]Překonal[fs]Překonala] jsi vše, co mohla Aréna nabídnout.{^n}{^n}Kde ostatní padli, tys [[ms]vytrval[fs]vytrvala].{^n}{^n}Mé bohatsví je ti k dispozici, [[ms]šampióne[fs]šampiónko].
+[[ms]Překonal[fs]Překonala] si vše, co mohla Aréna nabídnout.{^n}{^n}Kde ostatní padli, tys [[ms]vytrval[fs]vytrvala].{^n}{^n}Mé bohatsví je ti k dispozici, [[ms]šampióne[fs]šampiónko].
 Přeji si znovu vstoupit do Arény.
 Výtečně! Těším se na tu podívanou.{^n}{^n}Mám připravit Arénu?{^n}{^n}(Aktivace Arény znovu vyresetuje všechny tvé odměny. Všichni hráči budou vráceni zpět na místo zrodu. Pokračuj pouze tehdy, pokud sis svou odměnu již [[ms]vyzvedl[fs]vyzvedla].)
 Ano, pokračuj (začni od začátku)
@@ -25,7 +25,7 @@ Nemáš žádnou další možnost začít znovu od záchytného bodu
 Není dostupný žádný záchytný bod
 Neřešme to.
 Tak dobrá.
-Aréna pohltila dalšího. [[ms]Dostal[fs]Dostala] ses daleko, ale nakonec jsi [[ms]byl krátký[fs]byla krátká] na ultimátní výzvu.{^n}{^n}Jdi, vezmi si svou směšnou odměnu a mazej mi z očí.
+Aréna pohltila dalšího. [[ms]Dostal[fs]Dostala] ses daleko, ale nakonec si [[ms]byl krátký[fs]byla krátká] na ultimátní výzvu.{^n}{^n}Jdi, vezmi si svou směšnou odměnu a mazej mi z očí.
 
 Tak dobrá.
 [[ms]Zvolil[fs]Zvolila] sis konec svému utrpení. Pochopitelně.{^n}{^n}Ne všichni jsou zrozeni pro to dobýt to, co jsem stvořil.{^n}{^n}Vezmi si odměnu a odejdi.

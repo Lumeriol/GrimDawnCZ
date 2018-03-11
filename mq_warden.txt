@@ -9,7 +9,7 @@ John Bourbon věří, že Aetheriané způsobující zvěrstva v Burrwitchi omá
 Najdi Wardenovu laboratoř
 
 Zabij Wardena
-[[ms]Vstoupil[fs]Vstoupila] jsi do nitra Wardenových přetvořených prostor. Všechna ta zvěrstva jsou právě odtud.{^n}{^n}Najdi Wardena Kriega v jeho laboratoři a ukonči jeho život.
+[[ms]Vstoupil[fs]Vstoupila] si do nitra Wardenových přetvořených prostor. Všechna ta zvěrstva jsou právě odtud.{^n}{^n}Najdi Wardena Kriega v jeho laboratoři a ukonči jeho život.
 Zabij Wardena Kriega
 
 Ohlaš se Bourbonovi
@@ -21,8 +21,8 @@ Ohlaš se kapitánu Johnu Bourbonovi
 
 
 Warden byl zabit
-Řekni kapitánovi Johnu Bourbonovi, že jsi [[ms]zabil[fs]zabila] Wardena.
-Řekni kapitánovi Bourbonovi, že jsi [[ms]zabil[fs]zabila] Wardena
+Řekni kapitánovi Johnu Bourbonovi, že si [[ms]zabil[fs]zabila] Wardena.
+Řekni kapitánovi Bourbonovi, že si [[ms]zabil[fs]zabila] Wardena
 
 
 

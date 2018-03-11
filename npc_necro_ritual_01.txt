@@ -1,14 +1,14 @@
 Strážce duší Kaandris
 Doveď nás k velikému, [[ms]bratře[fs]sestro].
 Sbohem.
-[[ms]Prokázal[fs]Prokázala] jsi Řádu velkou službu.
+[[ms]Prokázal[fs]Prokázala] si Řádu velkou službu.
 Co Malkadarr?
 Znovu začne se svými povinnostmi ve službách Knihovnice, aby byly jeho znalosti zachovány pro nastávající generace.
 Sbohem.
 Vítej.
 [[ms]Neměl[fs]Neměla] bys tady být.
 Dobrá, odcházím.
-Vše je na svém místě.{^n}{^n}Rituál bude vyžadovat mé úplné soustředění, takže zbývá na tobě udržet nemrtvé zatímco budu hledat Malkadarra. Budu před jejich přítomností ochráněn, ale pokud zde nějaký duch přetrvá po dokončení rituálu, výsledky by mohly být katastrofické.{^n}{^n}Jsi [[ms]připraven[fs]připravena] začít?
+Vše je na svém místě.{^n}{^n}Rituál bude vyžadovat mé úplné soustředění, takže zbývá na tobě udržet nemrtvé zatímco budu hledat Malkadarra. Budu před jejich přítomností ochráněn, ale pokud zde nějaký duch přetrvá po dokončení rituálu, výsledky by mohly být katastrofické.{^n}{^n}Seš [[ms]připraven[fs]připravena] začít?
 Co musím udělat?
 Tento rituál k sobě přitáhne duchy jako světlo v temnotě. Ujisti se že cokoliv projde skrze závoj zde nezůstane na dlouho. {^n}{^n}Musíš udržet místnost čistou, aby se vrátil Malkadarr a ne nějaká vzpurná duše.
 Jsem [[ms]připravený[fs]připravená]. (zahaj rituál)

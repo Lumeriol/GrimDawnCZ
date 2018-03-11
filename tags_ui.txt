@@ -355,7 +355,7 @@ tagFactionStateRevered=Uctívaný
 #Faction Window
 
 tagFactionUpdated=Změna stavu přízně
-tagFactionStatusChange={^w}Dosáhl jsi přízně "{^b}{%s0} {^w}" vůči frakci {^b}{%s1} {^w}.
+tagFactionStatusChange={^w}Získáváš si přízeň "{^b}{%s0} {^w}" vůči frakci {^b}{%s1} {^w}.
 tagFactionNegativeStatusChange={^w}Frakce {^b}{%s1} {^w} vůči tobě změnila svou přízeň. Nový stav přízně: "{%s0}" {^w}.
 tagFactionDoorLocked={^r}Tvá úroveň přízně vůči frakci {^b}{%s0} {^r}ti neumožňuje vstoupit na toto území.
 tagFactionWindowName=Frakce
@@ -891,7 +891,7 @@ tagCharStatsBlockChance=Šance na vykrytí
 tagCharStatsBlockChanceDescription=Procentuální šance na vykrytí příchozího útoku.
 
 tagCharStatsBlockAmount=Vykrytí zranění
-tagCharStatsBlockAmountDescription=Množství zranění, které jsi odvrátil úspěšným vykrytím.
+tagCharStatsBlockAmountDescription=Množství zranění, které bylo odvráceno úspěšným vykrytím.
 
 tagCharStatsBlockRecovery=Obnovení vykrytí
 tagCharStatsBlockRecoveryInfo=Udává počet procent, o které se sníží tvé obnovení vykrytí.

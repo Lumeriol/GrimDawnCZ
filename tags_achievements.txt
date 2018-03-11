@@ -83,7 +83,7 @@ ach023Desc=Zlikviduj Plamenného posla v Požářišti na Ultimátní obtížnos
 ach024Title=Vykuchání Střevního červa
 ach024Desc=Zlikviduj Střevního červa v Pašerácké kotlině.
 
-ach025Title=Měl jsi střeva
+ach025Title=Měl si střeva
 ach025Desc=Zlikviduj Střevního červa v Pašerácké kotlině na Ultimátní obtížnosti.
 
 ach026Title=Drátenictví je její specialita

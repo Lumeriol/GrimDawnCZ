@@ -495,7 +495,7 @@ tagGameSummary={%d0} her / {%d1} hráčů
 
 tagCharCreatePVP=PvP
 tagCharCreateAutoParty=Automatické sdružování
-tagCharCreatePVPwarning=Právě jsi povolil režim PvP (souboj hráče proti hráči). V tomto režimu můžeš zaútočit na jiné hráče, ale i oni mohou útočit na tebe. Poznámka: Hra může být v režimu PvP nebo Automatické sdružování, ale ne v obojím najednou.
+tagCharCreatePVPwarning=Právě si povolil režim PvP (souboj hráče proti hráči). V tomto režimu můžeš zaútočit na jiné hráče, ale i oni mohou útočit na tebe. Poznámka: Hra může být v režimu PvP nebo Automatické sdružování, ale ne v obojím najednou.
 tagCharCreateNeverShow=Toto varování už nezobrazovat.
 tagCharImportProgress=Importování postav z Grim Dawn. Tato operace může trvat několik minut.
 tagCharImportTQCampaign=Postavy z kampaně Grim Dawn

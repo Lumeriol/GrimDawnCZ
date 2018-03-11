@@ -13,7 +13,7 @@ Omlouvám se, děkuji.
 Co teď budeš dělat?
 Tak jako u tebe je moje cesta stále přede mnou. Najdu si cestu kolem téhle laviny a pak vyhledám Černou legii.
 Co je Černá legie?
-Černá legie? Určitě jsi [[ms]slyšel[fs]slyšela] o Císařské elitě? Nebo jsi [[ms]žil[fs]žila] před Ponurým úsvitem v jeskyni?
+Černá legie? Určitě si [[ms]slyšel[fs]slyšela] o Císařské elitě? Nebo si [[ms]žil[fs]žila] před Ponurým úsvitem v jeskyni?
 Proč je hledáš?
 Slyšel jsem důvěryhodné zvěsti, že někteří z Legie uprchli před chaosem, který vypukl v hlavním městě. Chci je vypátrat a pomoci jim v boji proti útočníkům.
 Hodně štěstí s hledáním.
@@ -44,7 +44,7 @@ Nezkoušej se mnou o něj bojovat.
 Nevyrábím jenom zbraně, víš. Také vím, jak je používat.{^n}{^n}Pokud chceš Malleum Menhir, budeš ho muset získat přes mojí mrtvolu.
 Omlouvám se, jen se snažím pomoci Duncanovi.
 Nenuť mě se ptát znovu. (spolči se s Duncanem)
-Koukám, že jsi [[ms]nezmoudřel[fs]nezmoudřela]. Tak budiž. Vezmi si ode mne tu pýchu vlastnit život.{^n}{^n}Jsi výsměchem toho, co znamená být člověkem v těchto těžkých časech.
+Koukám, že si [[ms]nezmoudřel[fs]nezmoudřela]. Tak budiž. Vezmi si ode mne tu pýchu vlastnit život.{^n}{^n}Jsi výsměchem toho, co znamená být člověkem v těchto těžkých časech.
 Jsem [[ms]rád[fs]ráda], že jsme si začali rozumět.
 Budiž. (spolči se s Duncanem a zaútoč)
 Omlouvám se, jen se snažím pomoci Duncanovi.
@@ -52,7 +52,7 @@ Tak potom hádám že musíš zemřít. (spolči se s Duncanem a zaútoč)
 Co tady venku děláš?
 To samé co ty, předpokládám. Hledám svůj smysl v boji za záchranu Cairnu. Černá legie je stále tam venku a určitě by využili kováře.
 Černá legie?
-Černá legie? Určitě jsi [[ms]slyšel[fs]slyšela] o Císařské elitě? Nebo jsi [[ms]žil[fs]žila] před Ponurým úsvitem v jeskyni?
+Černá legie? Určitě si [[ms]slyšel[fs]slyšela] o Císařské elitě? Nebo si [[ms]žil[fs]žila] před Ponurým úsvitem v jeskyni?
 Proč je hledáš?
 Slyšel jsem důvěryhodné zvěsti, že někteří z Legie uprchli před chaosem, který vypukl v hlavním městě. Chci je vypátrat a pomoci jim v boji proti útočníkům.
 
