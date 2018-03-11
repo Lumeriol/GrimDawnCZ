@@ -112,9 +112,9 @@ tagGDX1HeroBasilisk_H04=Ranaxus ~ dotčený Prázdnotou
 #CreatureChthonian
 tagGDX1EnemyChthonicCultistSpecial_A01=Stoupenec ochránců bran
 
-tagGDX1EnemyChthonianWretch_A01=Voidlurker
-tagGDX1EnemyChthonianWretch_B01=Voidlurker Blightbearer
-tagGDX1EnemyChthonianWretch_C01=Voidlurker Pestilence
+tagGDX1EnemyChthonianWretch_A01=Slídil Prázdnoty
+tagGDX1EnemyChthonianWretch_B01=Moronosný slídil Prázdnoty
+tagGDX1EnemyChthonianWretch_C01=Nakažený slídil Prázdnoty
 
 tagGDX1EnemyChthonianRylok_A01=Zadavatel Prázdnoty
 tagGDX1EnemyChthonianRylok_B01=Kaprál Prázdnoty

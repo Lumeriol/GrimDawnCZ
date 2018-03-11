@@ -44,7 +44,7 @@ tagGDX1WeaponBluntF103=Wendigův palcát
 tagGDX1WeaponBluntF104=Wendigův řev
 
 tagGDX1WeaponAxeB101=[ms]sluhův plátkovač
-tagGDX1WeaponAxeB102=[ms]Sluhův narušovač
+tagGDX1WeaponAxeB102=[ms]sluhův narušovač
 tagGDX1WeaponAxeB103=[ms]sekáček krveprolití
 
 tagGDX1WeaponAxeC101=Halvorův loupač kůže
