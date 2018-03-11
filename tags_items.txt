@@ -891,13 +891,13 @@ tagStyleUniqueTier2=mocnější
 tagStyleUniqueTier3=vynikající
 tagStyleFactionTier2=elitní
 
-tagSoulbound=- předmět svázaný s duší
+tagSoulbound=~ předmět svázaný s duší
 tagDestroySoulbound=Zničit předmět svázaný s tvou duší?
 
-tagUntradeable=Neprodejné
+tagUntradeable=~ neprodejné
 tagDestroyUntradeable=Zničit neprodejný předmět?
 
-tagTransmuted=Iluze:
+tagTransmuted=Iluze: {^P}
 tagTransmuteCapture=[pravým kliknutím sloučíš]
 tagTransmuteApply=[pravým kliknutím použij]
 tagTransmuteApplyRemove=[pravým kliknutím odstraň iluzi]
@@ -1731,7 +1731,7 @@ tagNecklaceC029=Amulet z ostružiníku
 tagNecklaceC030=Drahokam sarančete
 tagNecklaceC031=Rodová ochrana
 tagNecklaceC032=Střep znalosti
-tagNecklaceC033=Přívěšek duše
+tagNecklaceC033=Přívěsek duše
 tagNecklaceC034=Amulet otráveného ostří
 tagNecklaceC035=Tajemné zatmění
 tagNecklaceC036=Plamen spravedlnosti
@@ -1781,8 +1781,8 @@ tagNecklaceF004=Usměrňující kámen Slunce
 tagNecklaceF005=Polní kámen
 tagNecklaceF006=Hromový drahokam
 tagNecklaceF007=Žencův dotyk
-tagNecklaceF008=Přívěšek všudypřítomného hněvu
-tagNecklaceF009=Přívěšek netvora Prázdnoty
+tagNecklaceF008=Přívěsek všudypřítomného hněvu
+tagNecklaceF009=Přívěsek netvora Prázdnoty
 
 
 #Medals
