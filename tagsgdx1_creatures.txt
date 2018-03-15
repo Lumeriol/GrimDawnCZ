@@ -82,7 +82,7 @@ tagGDX1HeroAetherialColossus_H04=Archanis ~ alchymista
 
 tagGDX1HeroAetherialCorruption_H01=Challdrus, Ledové srdce
 tagGDX1HeroAetherialCorruption_H02=Nenasytný Vanallius
-tagGDX1HeroAetherialCorruption_H03=nemocný Disallus
+tagGDX1HeroAetherialCorruption_H03=Nemocný Disallus
 tagGDX1HeroAetherialCorruption_H04=Chromallus ~ časová smyčka
 
 tagGDX1HeroAetherialFleshshaper_H01=Frenazad ~ spalující
@@ -343,7 +343,7 @@ tagGDX1Boss_Final01=Mistrovský řezník ~ Theodin Marcell
 
 tagGDX1Boss_Aetherial01=Masorvoucí Krieg
 tagGDX1Boss_Aetherial02=Allostria, zlodějka myšlenek
-tagGDX1Boss_Aetherial03=Bollag, strážce bran
+tagGDX1Boss_Aetherial03=Bollag, strážce brány
 tagGDX1Boss_Aetherial04=Haraxis, trhač masa
 
 tagGDX1MiniBoss_Aetherial01=Hinissius, půlič

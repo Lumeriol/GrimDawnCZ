@@ -1391,7 +1391,7 @@ tagStoreDesc_SmithA05_3=
 tagStoreDesc_SmithA05_4=Vyrobené zbraně, zbroj a příslušenství jsou prodchnuty jednou z následujících vlastností:
 
 tagNPC_SmithA06=Hallena
-tagStoreTitle_SmithA06=Kovářka Legionářů
+tagStoreTitle_SmithA06=Kovářka Černé legie
 tagStoreDesc_SmithA06_1={}Poznání nepřítele
 tagStoreDesc_SmithA06_2=Hallena sledovala a studovala nepřátele lidstva a naučila se vkládat jejich moc do kovářského řemesla.
 tagStoreDesc_SmithA06_3=
