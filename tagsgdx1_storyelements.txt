@@ -488,7 +488,7 @@ tagGDX1LoreObj_AreaF_NoteA17Text=Dorazil jsem do rodiště svého podřízeného
 
 
 tagGDX1LoreObj_AreaF_MadRamblingsName=Vzpomínka z Ivondiny paměti
-tagGDX1LoreObj_AreaF_MadRamblingsText=Pod točitou všží,{^n} pod podlahou, tam kde posel leží,{^n}tam sejdeš po schodech, a do skrytých dveří{^n}klíč, kde hořící uhlí...
+tagGDX1LoreObj_AreaF_MadRamblingsText=Pod točitou věží,{^n} pod podlahou, tam kde posel leží,{^n}tam sejdeš po schodech, a do skrytých dveří{^n}klíč, kde hořící uhlí...
 
 tagLoreObj_AreaF_KatrineNote_Name=Katrinin dopis Alici
 tagLoreObj_AreaF_KatrineNote_Text=Má nejdražší Alice, zklamala jsem tě.{^n}{^n}Hledala jsem tě tak dlouho, dokud mé choré nohy mne dokázaly nést a teď jsem na pokraji smrti.{^n}{^n}Tím jak je má cesta téměř na konci, je mé srdce naplněno hrůzou. Přeji si jediné, naposledy tě chytit za ruku a slyšet bít tvé srdce, vidět tvůj úsměv na tváři... vím, že se mi tohle už nepoštěstí.{^n}{^n}Svět není nakloněn přáním a naděje mě dávno opustila. Ale modlím se, aby tys přežila všechny ty hrůzy, které nás vyhnaly z domova.{^n}{^n}Kamkoliv půjdu, ať se děje cokoliv, vždycky tě budu hledat, mé milované děťátko. S láskou, máma.
