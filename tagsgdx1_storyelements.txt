@@ -167,8 +167,8 @@ tagGDX1POI_ResistanceBase=Tvrz Obránců
 tagGDX1POI_ResistanceHideout=Skrýš Obránců
 tagGDX1POI_SteelcapDistrictEntrance=Železný bodec
 tagGDX1POI_SteelcapDistrictExit==Utočiště Obránců
-tagGDX1POI_FleshwrappedEnclaveEntrance=Vstup do Balírny těl
-tagGDX1POI_FleshwrappedEnclaveExit=Východ z Balírny těl
+tagGDX1POI_FleshwrappedEnclaveEntrance=Vstup do Komnaty Nejvyšší rady
+tagGDX1POI_FleshwrappedEnclaveExit=Východ z Komnaty Nejvyšší rady
 tagGDX1POI_TheWomb=Lůno
 tagGDX1POI_BridgeLever=Ovládání Malmouthského mostu
 
