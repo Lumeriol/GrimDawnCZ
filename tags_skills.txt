@@ -1335,16 +1335,16 @@ tagItemSkillC131Name=Bodec z blesku
 tagItemSkillC131Desc=Bodec stvořený z blesku z tebe vystřelí směrem k tomu, jež se tě opovážil napadnout.
 
 tagItemSkillC132Name=Šíření ohně
-tagItemSkillC132Desc=Vystřelíš explozivní kulku, která se při kontaktu roztrhne a promění se v ohromný plamen. ^oTato technika je aktivována výchozím útokem zbraně.
+tagItemSkillC132Desc=Vystřelí explozivní kulku, která se při kontaktu roztrhne a promění se v ohromný plamen. ^oTato technika je aktivována výchozím útokem zbraně.
 
 tagItemSkillC133Name=Callidorův hněv
-tagItemSkillC133Desc=Rozpoutáš masivní výbuch tajemných energií.
+tagItemSkillC133Desc=Rozpoutá masivní výbuch tajemných energií.
 
 tagItemSkillC134Name=Úder Myrmidona
 tagItemSkillC134Desc=Udeříš svého nepřítele štítem a způsobíš tak smrtelná vnitřní poranění. ^oVyžaduje chladnou zbraň.
 
 tagItemSkillC135Name=Mogdrogenova poklidnost
-tagItemSkillC135Desc=Naplní tebe a spojence ve tvém okolí Mogdrogenovou poklidností, čímž všechny povzbudí. ^oAby tato schopnost účinkovala, musí být aktivní.
+tagItemSkillC135Desc=Naplní tebe a tvé spojence Mogdrogenovou poklidností, čímž všechny povzbudí. ^oAby tato schopnost účinkovala, musí být aktivní.
 
 tagItemSkillC136Name=Aetherický blesk
 tagItemSkillC136Desc=Vypustí blesk posilněný čistým Aetherem, který přeskakuje mezi tvými nepřáteli.
