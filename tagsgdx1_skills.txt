@@ -609,10 +609,10 @@ tagGDX1RelicSkillD112Desc=Starověká relikvie vybuchne a vyjdou z ní ničivé 
 tagGDX1RelicSkillD113Name=Mogdrogenův elán
 tagGDX1RelicSkillD113Desc=Požehnání boha zvířat obklopí tebe a tvé nohsledy, čímž tě ochrání před újmou. ^oTato schopnost musí být aktivní, aby účinkovala.
 
-tagGDX1RelicSkillD114Name=Summon Deathstalker
-tagGDX1RelicSkillD114Desc=Call forth Deathstalker, a fearsome embodiment of Mogdrogen's fury that shreds the Physical, Poison and Bleed Resistance of nearby enemies. ^oYou can only summon one manifestation of Deathstalker at any one time. Deathstalker scales with player damage bonuses.
-tagGDX1RelicSkillD114_Skill=Aura of Darkness
-tagGDX1RelicSkillD114_Desc=A creature of darkness stalks your foes, shredding their Physical, Poison and Bleed Resistances.
+tagGDX1RelicSkillD114Name=Vyvolání smrtihlava
+tagGDX1RelicSkillD114Desc=Vyvoláš smrtihlava, hrozivé ztělesnění Mogdrogenovy vzteklosti, který rozmělní odolnosti vůči fyzickým výpadům, jedům a kyselinám a odolnost vůči krvácení okolních nepřátel. ^oMůžeš mít v jednu chvíli vyvolaného pouze jednoho smrtihlava. Smrtihlav sílí společně s tvými rostoucími bonusy ke zranění.
+tagGDX1RelicSkillD114_Skill=Aura temnoty
+tagGDX1RelicSkillD114_Desc=Netvor z temnoty prostoupí tvými nepřáteli a rozmělní jim odolnosti vůči fyzickým výpadům, jedům a kyselinám a odolnost vůči krvácení.
 
 #ConsumableSkills
 tagGDX1ConsumableSkill_B101=Ugdenský dryák
