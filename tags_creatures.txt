@@ -17,8 +17,8 @@ tagBlackLegion_CasterB01=Bojový čaroděj Černé legie
 tagBlackLegion_CasterB02=Bojový zdravotník Černé legie
 tagBlackLegion_ChampionC01=Kapitán Černé legie
 
-tagNecromancer_CasterA01=Zelenáč kouzelník Řádu Strážců smrti
-tagNecromancer_MeleeA01=Zelenáč bojovník Řádu Strážců smrti
+tagNecromancer_CasterA01=Nezkušený kouzelník Řádu Strážců smrti
+tagNecromancer_MeleeA01=Nezkušený bojovník Řádu Strážců smrti
 tagNecromancer_CasterB01=Pomocník Řádu Strážců smrti
 tagNecromancer_ChampionC01=Pán děsu Řádu Strážců smrti
 tagNecromancerH01=Urokoraa, mluvčí mrtvých
@@ -1181,11 +1181,11 @@ tagDevotion_CaveSpiderH01=Shalloth
 tagDevotion_CaveSpiderH02=Troaxna ~ obnovitelka
 tagDevotion_CaveSpiderH03=Waviix ~ rychlý
 
-tagDevotion_SkeletalGolemH01=Grubwrath ~ nakažený
-tagDevotion_SkeletalGolemH02=Icesharn ~ mrazivý
-tagDevotion_SkeletalGolemH03=Flamegore ~ spalující
-tagDevotion_SkeletalGolemH04=Aethergore ~ zkažený
-tagDevotion_SkeletalGolemH05=Voidreach ~ dotčený Prázdnotou
+tagDevotion_SkeletalGolemH01=Vzteklá larva ~ nakažená
+tagDevotion_SkeletalGolemH02=Ledový plkal ~ mrazivý
+tagDevotion_SkeletalGolemH03=Plamenný zabiják ~ spalující
+tagDevotion_SkeletalGolemH04=Aetherický zabiják ~ zkažený
+tagDevotion_SkeletalGolemH05=Koneček Prázdnoty ~ dotčený Prázdnotou
 
 tagDevotion_SkeletonH01=Krvežíznivý Elledar
 tagDevotion_SkeletonH02=Kněz Dagoll

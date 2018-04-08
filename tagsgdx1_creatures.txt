@@ -379,8 +379,8 @@ tagGDX1MiniBoss_Bog14=Neak Dugald
 tagGDX1WitchBoss_Basilisk=Kamenný bazilišek
 tagGDX1WitchBoss_Spirit=Zhýralá duše
 
-tagGDX1Boss_Chthonian01=Lunal'Valgoth, Správce Temnot
-tagGDX1Boss_Chthonian02=Ekket'Zul, Tvůrce Temnot
+tagGDX1Boss_Chthonian01=Lunal'Valgoth, správce Temnot
+tagGDX1Boss_Chthonian02=Ekket'Zul, tvůrce Temnot
 
 tagGDX1MiniBoss_Chthonian01=Gabal'Thunn, Šílená tvář
 
@@ -437,7 +437,7 @@ tagGDX1DevotionAetherialColossus_H02=Infernox ~ spalující
 tagGDX1DevotionAetherialColossus_H03=Oblaigon ~ krvesaj
 tagGDX1DevotionAetherialColossus_H04=Speldrakus ~ alchymista
 
-tagGDX1DevotionAetherialCorruption_H01=Chillian
+tagGDX1DevotionAetherialCorruption_H01=Palivec
 tagGDX1DevotionAetherialCorruption_H02=Naragon, Lovec lidí
 tagGDX1DevotionAetherialCorruption_H03=Nemocný Peuglis
 tagGDX1DevotionAetherialCorruption_H04=Tirendal, Chodec v čase
@@ -474,10 +474,10 @@ tagGDX1DevotionSwampGolem_H04=Rawk ~ dotčený Prázdnotou
 
 tagGDX1DevotionWendigo_H01=Hegamon ~ alchymista
 tagGDX1DevotionWendigo_H02=Zkažený Colporrus
-tagGDX1DevotionWendigo_H03=Spiritbane ~ chodec v čase
+tagGDX1DevotionWendigo_H03=Prokletý přízrak ~ chodec v čase
 tagGDX1DevotionWendigo_H04=Reapressad ~ nezastavitelný
 
-tagGDX1DevotionWraith_H01=Soulshreak
+tagGDX1DevotionWraith_H01=Nadávající duše
 tagGDX1DevotionWraith_H02=Oblegon
 tagGDX1DevotionWraith_H03=Dolsarr ~ chodec v čase
 tagGDX1DevotionWraith_H04=Endearon ~ krvesaj
