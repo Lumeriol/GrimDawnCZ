@@ -176,13 +176,13 @@ tagGDX1HeroSlith_H04=Nezastavitelný Slixiss
 
 #CreatureSwampCrab
 tagGDX1EnemySwampCrab_A01=Ugdenský krab
-tagGDX1EnemySwampCrab_B01=Ugdenská pichlavá lastura
-tagGDX1EnemySwampCrab_C01=Ugdenská kamenná lastura
+tagGDX1EnemySwampCrab_B01=Ugdenský ostnatý korýš
+tagGDX1EnemySwampCrab_C01=Ugdenský kamenný korýš
 tagGDX1EnemySwampCrab_A00Summon=Ugdenský korýšovec
 
 tagGDX1EnemyGhostCrab_A01=Strašidelný krab
-tagGDX1EnemyGhostCrab_B01=Strašidelná pichlavá lastura
-tagGDX1EnemyGhostCrab_C01=Strašidelná kamenná lastura
+tagGDX1EnemyGhostCrab_B01=Strašidelný ostnatý korýš
+tagGDX1EnemyGhostCrab_C01=Strašidelný kamenný korýš
 
 tagGDX1HeroSwampCrab_H01=Ledňáček
 tagGDX1HeroSwampCrab_H02=Špinavý dráp
@@ -283,8 +283,8 @@ tagGDX1EnemyManticoreChthonicC01=Alfa samec dotčený Prázdnotou
 tagGDX1EnemyManticoreD01=Mantikoří smrtihlav
 
 tagGDX1EnemySwampCrabAetherA01=Masorvoucí krab
-tagGDX1EnemySwampCrabAetherB01=Masorvoucí pichlavá lastura
-tagGDX1EnemySwampCrabAetherC01=Masorvoucí kamenná lastura
+tagGDX1EnemySwampCrabAetherB01=Masorvoucí ostnatý korýš
+tagGDX1EnemySwampCrabAetherC01=Masorvoucí kamenný korýš
 
 tagGDX1EnemyThornedHorrorAetherA01=Aetherem proklatá zděšení
 tagGDX1EnemyThornedHorrorAetherB01=Aetherem proklatá postrach
