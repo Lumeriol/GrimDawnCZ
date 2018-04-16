@@ -15,7 +15,7 @@ Dobrá, tak jdeme. (otevři Bránu)
 Vydrž chvilku.
 Cože? Další přeživší?{^n}{^n}Vítej v pekle. Jsme tu uvěznění, odříznutí Aetherijskýma od záchrany.
 Uklidni se, můžu vás dostat do bezpečí.
-Můžeš nás vzít zpět k hnutí odporu?{^n}{^n}Byli tu ještě další, další tým sběračů. [[ms]neviděl[fs]neviděla] si je?
+Můžeš nás vzít zpět k Obráncům Malmouthu?{^n}{^n}Byli tu ještě další, další tým sběračů. [[ms]Neviděl[fs]Neviděla] si je?
 Jsou v bezpečí, teď odtud ale musíme dostat vás.
 To jsou dobré zprávy.{^n}{^n}Potom, co jsme se rozdělili jsem je nemohla už najít. Předpokládala jsem, že jsou mrtví. {^n}{^n}Cokoliv potřebuješ udělat, abychom se odtud dostali, můžeš začít. Jsem připravená.
 Dobrá, tak jdeme. (otevři Bránu)

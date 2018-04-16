@@ -658,8 +658,8 @@ tagGDX1ConsumableSkill_F107Desc=Nápoj tě naplní čistým svědomím.
 tagQuestSkill_A101=Malostriina obrana
 tagQuestSkill_A101Desc=Získáš ochranu matróny Malostrie, která tě bude chránit před odpornými duchy.
 
-tagQuestSkill_A102=Ochrana Sněmu
-tagQuestSkill_A102Desc=Vytvořená Ugdenbogským sněmem, aby tě chránila před duchy.
+tagQuestSkill_A102=Ochrana Lóže
+tagQuestSkill_A102Desc=Vytvořená Lóží čarodějek z Ugdenbogu, aby tě chránila před duchy.
 
 tagQuestSkill_A103=Ochrana Wendiga
 tagQuestSkill_A103Desc=Vytvořená obyvateli Barrowholmu, aby zahnala Ugdenská zla.

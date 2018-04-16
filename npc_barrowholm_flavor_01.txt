@@ -36,7 +36,7 @@ Díky.
 Ne, díky. Už musím jít.
 Miluju [[ms]chlapa[fs]ženskou] s vytříbeným apetitem.
 Je nějaká šance, že můžu dostat víc guláše?
-Oh, je mi líto.{^n}{^n}Obávám se, že už došel. Možná někdy příště, až seženeme další čerstvé maso.
+Ne, je mi líto.{^n}{^n}Obávám se, že už došel. Možná někdy příště, až seženeme další čerstvé maso.
 Dobrá.
 Myslím, že vyrazím zase na cestu.
 Jsi si [[ms]jistý[fs]jistá], že nemáš hlad?
@@ -45,11 +45,11 @@ Věděla jsem, že to máš v sobě. Cítím to. {^n}{^n}Tady máš, právě uva
 
 Díky, už půjdu.
 Jsem v pohodě, díky.
-Oh vítej zde, [[ms]cizinče[fs]cizinko]. Vítej v naší malé skromné vesničce. {^n}{^n}Vypadáš hladově. Mohu ti nabídnout misku guláše? Udělala jsem ji přesně podle jednoho z Aurininých nejlepších receptů.{^n}{^n}Ujistíme se tak, že ti na kosti dodáme zase nějaké ty svaly.
+Vítej, [[ms]cizinče[fs]cizinko]. Vítej v naší malé skromné vesničce. {^n}{^n}Vypadáš hladově. Mohu ti nabídnout misku guláše? Udělala jsem ji přesně podle jednoho z Aurininých nejlepších receptů.{^n}{^n}Ujistíme se tak, že ti na kosti dodáme zase nějaké ty svaly.
 Miska guláše zní docela dobře.
 Výborně. Myslela jsem si, že by ti mohl chutnat.{^n}{^n}Máš hladový pohled.
 Nemělo to výraznou chuť.
-Ah víš, nemáme poslední dobou příliš čerstvého masa. {^n}{^n}I když to vypadá, že se to brzy změní.
+No, víš, nemáme poslední dobou tolik čerstvého masa. {^n}{^n}I když to vypadá, že se to brzy změní.
 Ale i tak díky.
 Už půjdu.
 Díky, už půjdu.
@@ -57,5 +57,5 @@ Ne, nemyslím si.
 Dobrá, pak tedy musím říct, že jsem docela zklamaná.{^n}{^n}Myslela jsem, že je z tebe cítit hlad. Očividně jsem se ale pletla.
 Bez urážky.
 Potřebuju jít.
-Není šance, že si dám tvůj guláš.
+Rozhodně si nemysli, že si dám tvůj guláš.
 Myslím, že si půjdu svou cestou.

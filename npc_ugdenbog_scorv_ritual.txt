@@ -1,5 +1,5 @@
 Scorv Egdenor
-Věk slávy brzy započne.
+Brzy nastane Slavný věk.
 Padám odsud.
 Sbohem.
 Je škoda, že jsme nedokázali najít kompromis, ale jak vidíš, teď už je na nepřátelství příliš pozdě.
@@ -21,8 +21,8 @@ S vzezřením našeho boha budeme prospívat bez jakýchkoliv starostí.{^n}{^n}
 Mám další otázku.
 Chápu.
 Zapomeneme na to.
-Jak se stalo, že si začal sloužit Wendigu?
-Oh, to je ta stará povídka.{^n}{^n}Byl jsem cestovatel, tak jako ty, ale určitě jsem nebyl tak schopný bojovník jako jsi ty. Tehdy jsem měl partnerku, její jméno bylo Jessa. Společně jsme spolu neuvážlivě vyrazili do Ugdenbogu a ztratili se. Bloudili jsme dny, někdy jsme se vrátili v kruhu tam, odkud jsme vyšli. Voda byla otrávená, jediné jídlo k dispozici by mě spíše kus snědlo než abych z něj měl nějakou výživu. Ve zkratce, byli jsme odsouzeni zemřít.{^n}{^n}Nejsem si jistý, koho to napadlo jako prvního, ale jeden na druhého jsme se vzájemně podívali hladovým pohledem, posilněným zoufalstvím. Jessu jsem přemohl a vrazil jí nůž do srdce. Jak vytékala krev z její rány, pil jsem, zatímco se ona dávila s posledními výdechy. Ten den jsem se dobře najedl a zároveň my slzy proudily po tváři.{^n}{^n}Další noc byly mé sny zaplavené horečnými halucinacemi. Navštívil mě duch. Zasmál se na mě, široce se ušklíbl a nabídl mi útěchu v mém zoufalství. Řekl mi, že jsem ztratil duši díky tomu, co se poslední noc stalo, ale že to nutně neznamená konec. Nabídl mi vyprávění staré děsivé povídky o svém vyhnanství a jak jediným jeho přáním bylo vrátit se do světa živých. S mojí pomocí se jeho touhy mohly stát skutečností. Na oplátku mi nabídl spásu mého vlastního prokletého osudu. S radostí jsem souhlasil.{^n}{^n}Toho dne jsem se stal zvěstovatelem Pustošitele.
+Jak se stalo, že si začal sloužit Wendigovi?
+To je dlouhý příběh.{^n}{^n}Byl jsem cestovatel, tak jako ty, ale určitě jsem nebyl tak schopný bojovník jako jsi ty. Tehdy jsem měl partnerku, její jméno bylo Jessa. Společně jsme spolu neuvážlivě vyrazili do Ugdenbogu a ztratili se. Bloudili jsme dny, někdy jsme se vrátili v kruhu tam, odkud jsme vyšli. Voda byla otrávená, jediné jídlo k dispozici by mě spíše kus snědlo než abych z něj měl nějakou výživu. Ve zkratce, byli jsme odsouzeni zemřít.{^n}{^n}Nejsem si jistý, koho to napadlo jako prvního, ale jeden na druhého jsme se vzájemně podívali hladovým pohledem, posilněným zoufalstvím. Jessu jsem přemohl a vrazil jí nůž do srdce. Jak vytékala krev z její rány, pil jsem, zatímco se ona dávila posledními výdechy. Ten den jsem se dobře najedl a zároveň mi slzy proudily po tváři.{^n}{^n}Další noc byly mé sny zaplavené horečnými halucinacemi. Navštívil mě duch. Zasmál se na mě, široce se ušklíbl a nabídl mi útěchu v mém zoufalství. Řekl mi, že jsem ztratil duši díky tomu, co se poslední noc stalo, ale že to nutně neznamená konec. Nabídl mi vyprávění staré děsivé povídky o svém vyhnanství a jak jediným jeho přáním bylo vrátit se do světa živých. S mojí pomocí se jeho touhy mohly stát skutečností. Na oplátku mi nabídl spásu mého vlastního prokletého osudu. S radostí jsem souhlasil.{^n}{^n}Toho dne jsem se stal zvěstovatelem Pustošitele.
 A co Barrowholm?
 Barrowholm byl sotva začátek. Posílen Wendigem a řízený novým osudem jsem vyrazil rozšířit řady Pustošitelových následovníků. {^n}{^n}Nasměroval mě k vesnici nedaleko, která byla zasažená hladomorem, v níž zoufalost neustále rostla. Protože je oddělená od ostatních měst v Ugdenbogu, byli lidé v ní snadným cílem.
 Takže si je podvedl?
@@ -36,12 +36,12 @@ Musím jít.
 Mám další otázku.
 Myslím, že už jsem [[ms]slyšel[fs]slyšela] dost.
 Potřebuju už jít.
-Je to...Larriino tělo?
-Hm, ano. Nechtěli bychom přijít o tak perfektní mrtvolu, nebo snad ano? [[ms]Musel[fs]Musela] si jí nahánět po všech čertech! {^n}{^n}*Scorv se ušklíbne*{^n}{^n}Pustošitel si vychutná její srdce.
-Eh, skvělý!
+Je to... Larriino tělo?
+Hm, ano. Nechtěli bychom přijít o tak perfektní mrtvolu, to snad chápeš. [[ms]Musel[fs]Musela] si jí nahánět po všech čertech! {^n}{^n}*Scorv se ušklíbne*{^n}{^n}Pustošitel si vychutná její srdce.
+No skvělý!
 Spíš je to nechutný.
 Okouzlující.
-Já teďka půjdu.
+Já raději půjdu.
 Sbohem.
 Brzy nastane Slavný věk.
 Padám odsud.
@@ -66,13 +66,13 @@ Oddaným a možná nejhorlivějším stoupencem je Jordyth. Příhodný závěr 
 Ano, přiveďte Pustošitele!
 Nech mě si to rozmyslet.
 Nech mě si to pořádně rozmyslet.
-Je to...Larriino tělo?
-Hm, ano. Nechtěli bychom přijít o tak perfektní mrtvolu, nebo snad ano? [[ms]Musel[fs]Musela] si jí nahánět po všech čertech! {^n}{^n}*Scorv se ušklíbne*{^n}{^n}Pustošitel si vychutná její srdce.
+Je to... Larriino tělo?
+Hm, ano. Nechtěli bychom přijít o tak perfektní mrtvolu, to snad chápeš. [[ms]Musel[fs]Musela] si jí nahánět po všech čertech! {^n}{^n}*Scorv se ušklíbne*{^n}{^n}Pustošitel si vychutná její srdce.
 
-Eh, skvělý!
+No skvělý!
 Spíš je to nechutný.
 Ještě ne.
-Ah, to jsi ty.{^n}{^n}Doufal jsem, že už se nikdy nevrátíš a tak bych mohl odolat mému chtíči tě vykuchat svým mečem.
+No ne, to seš zase ty?{^n}{^n}Doufal jsem, že už se nikdy nevrátíš a tak bych mohl odolat svému chtíči vykuchat tě svým mečem.
 Proč? Co se stalo?
 To Pustošitel! Nevím, co jsem udělal, že jsem popudil Velikého, ale teď, v době jeho bezprostředního návratu duch vyžaduje, aby pocta vybrání jednoho vyvoleného, který bude sloužit jako potrava, připadla právě tobě.{^n}{^n}Tobě! [[ms]Cizinci[fs]Cizince]!{^n}{^n}Tři již předstoupili. Krev jednoho z nich poslouží jako katalyzátor a jeho maso pak nakrmí Wendiga.{^n}{^n}*Scorv si povzdechne*{^n}{^n}Takže na tobě nyní je, zda to bude Aurin, která podstoupí konečný obřad? Nebo snad její bratr Jordyth? A nebo možná Tyvald? Promluv k vyvoleným a rozhodni!
 Vykonám tuto čestnou událost.
@@ -82,9 +82,9 @@ I když mne bude bolet, že přijdu o přívržence, skutečně zemřít musí. 
 Udělám to.
 Není mi to příliš příjemné.
 Je to... Larriino tělo?
-Hm, ano. Nechtěli bychom přijít o tak perfektní mrtvolu, nebo snad ano? [[ms]Musel[fs]Musela] si jí nahánět po všech čertech! {^n}{^n}*Scorv se ušklíbne*{^n}{^n}Pustošitel si vychutná její srdce.
+Hm, ano. Nechtěli bychom přijít o tak perfektní mrtvolu, to snad chápeš. [[ms]Musel[fs]Musela] si jí nahánět po všech čertech! {^n}{^n}*Scorv se ušklíbne*{^n}{^n}Pustošitel si vychutná její srdce.
 Tak proč mě chceš vykuchat?
-Eh, skvělý!
+No skvělý!
 Spíš je to nechutný.
 Nezkoušej žádné hlouposti.
 Nechám vás tedy raději o samotě.
@@ -105,18 +105,17 @@ Ano, ty by měly uspokojit Pustošitelův hlad na část doby, než se znovu zro
 Nemáš zač...
 Tak dobrá.
 Je to... Larriino tělo?
-Hm, ano. Nechtěli bychom přijít o tak perfektní mrtvolu, nebo snad ano? [[ms]Musel[fs]Musela] si jí nahánět po všech čertech! {^n}{^n}*Scorv se ušklíbne*{^n}{^n}Pustošitel si vychutná její srdce.
+Hm, ano. Nechtěli bychom přijít o tak perfektní mrtvolu, to snad chápeš. [[ms]Musel[fs]Musela] si jí nahánět po všech čertech! {^n}{^n}*Scorv se ušklíbne*{^n}{^n}Pustošitel si vychutná její srdce.
 Tady jsou ta srdce.
-
 No... skvělý!
 Spíš je to nechutný.
 [[ms]Udělals[fs]Udělalas], jak Pustošitel žádal?
 Kde že bych se [[ms]měl[fs]měla] porozhlédnout po Stařešinách?
 Handarrotha najdeš toulajícího se divočinou Gloomwaldu. Ollivioth a Yuvolloth bude nejspíš v okolí jedovatých plynů v samotném Ugdenbogu.{^n}{^n}Přines mi jejich srdce. Nenech Pustošitele čekat.
 Dobrá.
-Je to...Larriino tělo?
-Hm, ano. Nechtěli bychom přijít o tak perfektní mrtvolu, nebo snad ano? [[ms]Musel[fs]Musela] si jí nahánět po všech čertech! {^n}{^n}*Scorv se ušklíbne*{^n}{^n}Pustošitel si vychutná její srdce.
-Eh, skvělý!
+Je to... Larriino tělo?
+Hm, ano. Nechtěli bychom přijít o tak perfektní mrtvolu, to snad chápeš. [[ms]Musel[fs]Musela] si jí nahánět po všech čertech! {^n}{^n}*Scorv se ušklíbne*{^n}{^n}Pustošitel si vychutná její srdce.
+No skvělý!
 Spíš je to nechutný.
 Ještě ne.
 Pustošitel je potěšen tvým plněním účelu, [[ms]cizinče[fs]cizinko]. {^n}{^n}Přeje si tě nyní odměnit touto speciální příležitostí odlovu.
@@ -133,11 +132,11 @@ Hm, dobrá, jsem na odchodu.
 Neuvěřitelné, Pustošitel si zvolil moudře.{^n}{^n}Ano, ty by měly uspokojit Pustošitelův hlad na část doby, než se znovu zrodí. {^n}{^n}Nyní se ztrať, [[ms]cizinče[fs]cizinko]. Mám tu záležitosti, kterým se musím věnovat a nejsou hodné tvých nezasvěcených očí.
 Nemáš zač...
 Velmi dobře.
-Je to...Larriino tělo?
-Hm, ano. Nechtěli bychom přijít o tak perfektní mrtvolu, nebo snad ano? [[ms]Musel[fs]Musela] si jí nahánět po všech čertech! {^n}{^n}*Scorv se ušklíbne*{^n}{^n}Pustošitel si vychutná její srdce.
+Je to... Larriino tělo?
+Hm, ano. Nechtěli bychom přijít o tak perfektní mrtvolu, to snad chápeš. [[ms]Musel[fs]Musela] si jí nahánět po všech čertech! {^n}{^n}*Scorv se ušklíbne*{^n}{^n}Pustošitel si vychutná její srdce.
 Co má být s tím lovem?
 
-Eh, skvělý!
+No skvělý!
 Spíš je to nechutný.
 Promluvíme si o tom později.
 Pustošitel bude potěšen tou vší výpomocí, [[ms]cizinče[fs]cizinko], ale vždy je víc, co můžeš udělat.
@@ -161,12 +160,12 @@ Možná někdy jindy.
 Dobře, velmi dobře!{^n}{^n}Pustošitel bude potěšen až uslyší to, jak si [[ms]posloužil[fs]posloužila] účelu.
 
 Velmi dobře.
-Ano...Nadobro jsem se jí [[ms]zbavil[fs]zbavila]. (Lži)
-Hm...takže je to hotovo.{^n}{^n}*Scorvův úsměv se zvětší*{^n}{^n}Pustošitel je potěšen tím, jak si [[ms]posloužil[fs]posloužila] účelu. Přeje si tě nyní odměnit touto speciální příležitostí odlovu.
+Ano... Nadobro jsem se jí [[ms]zbavil[fs]zbavila]. (lži)
+Hm... takže je to hotovo.{^n}{^n}*Scorvův úsměv se zvětší*{^n}{^n}Pustošitel je potěšen tím, jak si [[ms]posloužil[fs]posloužila] účelu. Přeje si tě nyní odměnit touto speciální příležitostí odlovu.
 Řekni mi o tom víc.
 
 Možná někdy jindy.
-Hm...takže je to hotovo.{^n}{^n}*Scorvův úsměv se zvětší*{^n}{^n}Až tohle Pustošitel uslyší, jistě to zaujme jeho pozornost.
+Hm... takže je to hotovo.{^n}{^n}*Scorvův úsměv se zvětší*{^n}{^n}Až tohle Pustošitel uslyší, jistě to zaujme jeho pozornost.
 Potřebuješ ještě něco?
 
 Velmi dobře.

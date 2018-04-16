@@ -74,7 +74,7 @@ Ať ti dobře slouží.
 Prosím, vydej se do Síně duší.{^n}{^n}Je potřeba tvé asistence.
 Kam mám jít?
 Síň duší je přímo zde v našem útočišti. Připoj se k rituálu a zabezpeč Malkadarrovu duši z onoho světa!
-Půjdu tam hned teď.
+Hned tam jdu.
 Půjdu.
 Nyní máme vše, co potřebujeme k provedení obřadu znovuoživení. Tvá oddanost a výpomoc ti dala právo vidět návrat Malkadarra na tento svět.{^n}{^n}Chceš se k nám přidat?
 Co ten rituál obnáší?
@@ -100,7 +100,7 @@ Fanaticky bojovali, aby je ochránili.
 [[ms]Rozdrtil[fs]Rozdrtila] si naše nepřátele a [[ms]získal[fs]získala] ostatky?
 Kde že jsou ty ostatky?
 Pod pevností Ikon na severu je krypta věnovaná pradávné víře. Tam uvnitř se nachází Hrobka Archóna Barthollema, kdysi mocného kazatele. Archón byl po smrti zpopelněn a jeho ostatky umístěny do posvátné urny. Abychom mohli přivést zpět Malkadarra, musíme ty ostatky získat.
-Jdu je získat hned teď.
+Hned se vydám je získat.
 Ještě ne.
 Mistr Varuuk vyzdvihuje tvou spolupráci. Řád si přístupu, jako je ten tvůj, velmi váží a také si díky tobě cení přístupu Černé legie. {^n}{^n}Nyní jsem si ale jistá, že bys [[ms]chtěl[fs]chtěla] vidět výsledek tvé snahy. Nicméně, jedna poslední věc musí být vykonána před tím, než se k nám Malkadarr vrátí.
 Co je to?
@@ -134,7 +134,7 @@ Co mi můžeš říct o historii Řádu?
 Kdo byl Uroboruuk?
 Povídky o Uroboruukovi existovaly po staletí. Nikdo s jistotou neví jak je to dlouho a kde se narodil či dokonce zda je Uroboruuk jeho pravé jméno. Co víme je, že Uroboruuk byl středem povídek o pádu Arkovie před mnoha staletími.{^n}{^n}Pod dekretem Arkovianských oligarchů byli všichni podezřelí provozovatelé nekromantského umění vzati do Stupňů bolesti, odporného vězení kde odsouzení muži byli ponecháni hnít v temnotě v hlubinách země. Uroboruuk, ten jež měl v Arkovii silné přívržence, byl zrazen a předán Arkovianským mučitelům. Nicméně on byl mužem, jakého nikdy nepotkali. Zdálo se, že Uroboruuk nemůže zemřít. Jeho kůže se nespálila a jeho zranění nekrvácela.{^n}{^n}Toto bez překvapení přitáhlo pozornost oligarchů, kteří toužili mít takovou moc sami pro sebe. Pod jejich vedením byl Uroboruuk vystaven těm nejbrutálnějším a nápaditým formám mučení, jaké si lze jen představit. Jeho nesmrtelnost se obrátila proti němu.{^n}{^n} Nakonec náš pán souhlasil s jejich požadavky a nabídl jim provedení rituálu, který by učinil oligarchy nesmrtelnými. Oligarchové předpokládali, že jeho vůle byla zlomena a hamižně souhlasili. Vskutku jim Uroboruuk nadělil nesmrtelnost tak jak toužili, ale ta přišla ve formě záludného prokletí. {^n}{^n}Stále trpěli vlivem času, ale milosrdné vysvobození smrtí ne a ne přijít. Zůstali uvězněni v jejich fyzických formách, i když se jejich těla rozložila a proměnila v prach. Nemrtví kdysi mocné Arkovianské říše stále chodí po světě jako bezmyšlenkovité zombie a mučení duchové. {^n}{^n}O staletí později založil Uroboruuk Řád Strážců smrti, takže naše vědění už nikdy nebude ohrožováno ignoranty. Učil naše lidi po mnoho generací do doby, než nás záhadně opustil uprostřed noci, pár let před tím, než udeřil Ponurý úsvit.
 Váš mistr vás opustil?
-Ano, ale nevíme proč a kam šel. Možná se povznesl, jeho čas v Cairnu vypršel. Nicméně si myslím, že je pořád tam venku, cestuje světem a hledá osvícení.
+Ano, ale nevíme proč a kam šel. Možná se povznesl, jeho čas v Cairnu vypršel. Nicméně si myslím, že pořád někde cestuje světem a hledá osvícení.
 Vydal se ho někdo hledat?
 Ano, samozřejmě. Mnoho jedinců odešlo hledat našeho mistra, ale nikdo se nevrátil s ani sebemenší stopou o jeho přítomnosti. {^n}{^n}Stalo se tradicí, že mladí přisluhovači jsou posíláni ven a pátrají po Uroboruukovi jeden rok. Vracejí se s vráskami z cest, ale ne blíže k dopátrání se mistrova zmizení.
 Mám ještě otázku.
@@ -183,7 +183,7 @@ Co mi můžeš říct o historii Řádu?
 Kdo byl Uroboruuk?
 Povídky o Uroboruukovi existovaly po staletí. Nikdo s jistotou neví jak je to dlouho a kde se narodil či dokonce zda je Uroboruuk jeho pravé jméno. Co víme je, že Uroboruuk byl středem povídek o pádu Arkovie před mnoha staletími.{^n}{^n}Pod dekretem Arkovianských oligarchů byli všichni podezřelí provozovatelé nekromantského umění vzati do Stupňů bolesti, odporného vězení kde odsouzení muži byli ponecháni hnít v temnotě v hlubinách země. Uroboruuk, ten jež měl v Arkovii silné přívržence, byl zrazen a předán Arkovianským mučitelům. Nicméně on byl mužem, jakého nikdy nepotkali. Zdálo se, že Uroboruuk nemůže zemřít. Jeho kůže se nespálila a jeho zranění nekrvácela.{^n}{^n}Toto bez překvapení přitáhlo pozornost oligarchů, kteří toužili mít takovou moc sami pro sebe. Pod jejich vedením byl Uroboruuk vystaven těm nejbrutálnějším a nápaditým formám mučení, jaké si lze jen představit. Jeho nesmrtelnost se obrátila proti němu.{^n}{^n} Nakonec náš pán souhlasil s jejich požadavky a nabídl jim provedení rituálu, který by učinil oligarchy nesmrtelnými. Oligarchové předpokládali, že jeho vůle byla zlomena a hamižně souhlasili. Vskutku jim Uroboruuk nadělil nesmrtelnost tak jak toužili, ale ta přišla ve formě záludného prokletí. {^n}{^n}Stále trpěli vlivem času, ale milosrdné vysvobození smrtí ne a ne přijít. Zůstali uvězněni v jejich fyzických formách, i když se jejich těla rozložila a proměnila v prach. Nemrtví kdysi mocné Arkovianské říše stále chodí po světě jako bezmyšlenkovité zombie a mučení duchové. {^n}{^n}O staletí později založil Uroboruuk Řád Strážců smrti, takže naše vědění už nikdy nebude ohrožováno ignoranty. Učil naše lidi po mnoho generací do doby, než nás záhadně opustil uprostřed noci, pár let před tím, než udeřil Ponurý úsvit.
 Váš mistr vás opustil?
-Ano, ale nevíme proč a kam šel. Možná se povznesl, jeho čas v Cairnu vypršel. Nicméně si myslím, že je pořád tam venku, cestuje světem a hledá osvícení.
+Ano, ale nevíme proč a kam šel. Možná se povznesl, jeho čas v Cairnu vypršel. Nicméně si myslím, že pořád někde cestuje světem a hledá osvícení.
 Vydal se ho někdo hledat?
 Ano, samozřejmě. Mnoho jedinců odešlo hledat našeho mistra, ale nikdo se nevrátil s ani sebemenší stopou o jeho přítomnosti. {^n}{^n}Stalo se tradicí, že mladí přisluhovači jsou posíláni ven a pátrají po Uroboruukovi jeden rok. Vracejí se s vráskami z cest, ale ne blíže k dopátrání se mistrova zmizení.
 Mám ještě otázku.

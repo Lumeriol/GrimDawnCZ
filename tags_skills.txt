@@ -508,7 +508,7 @@ tagClass05SkillName02D=Zjevení
 tagClass05SkillDescription02D=Tajemné energie se zjevují v mnoha formách. Vládci temnot, kteří se odevzdali umění vyvolávání, často převádějí některá ze svých umění s tajemnými energiemi na své přisluhovače a ti pak mohou lépe posloužit vůli svých pánů. ^oTento efekt se týká i tvých spojenců.
 
 tagClass05SkillName03A=Trozanův úlomek nebe
-tagClass05SkillDescription03A=O mýtickém Trozanovi se říkávalo, že byl přirozený; divoký a nechtějící se přizpůsobit doktrínám Imperiálních Vládců temnot. Když Imperialisté nakonec obklíčili jeho úkryt na vrcholu hory, Trozan je pokořil za použití neznámé techniky, která na ně snesla samotná nebesa. ^oDo cílené oblasti dopadnou 3 úlomky.
+tagClass05SkillDescription03A=O mýtickém Trozanovi se říkávalo, že byl přirozený; divoký a nechtějící se přizpůsobit doktrínám císařských Vládců temnot. Když Imperialisté nakonec obklíčili jeho úkryt na vrcholu hory, Trozan je pokořil za použití neznámé techniky, která na ně snesla samotná nebesa. ^oDo cílené oblasti dopadnou 3 úlomky.
 tagClass05SkillName03B=Zmrzlé jádro
 tagClass05SkillDescription03B=Led zachycený v Úlomcích nebe se uvolní v okamžiku dopadu a zaplaví mrazivým chladem všechny, kteří jsou v blízkém okolí.
 tagClass05SkillName03C=Roztříštěná hvězda
@@ -656,13 +656,13 @@ tagClass06SkillName14A=Otřesy
 tagClass06SkillDescription14A=Udeříš silou země. Kamkoliv zasadíš svůj kritický útok svou základní zbraní, tam se země silou úderu otřese a vyvolá v okolí úderu v rázovou vlnu. ^oVyžaduje obouruční chladnou nebo obouruční střelnou zbraň. Tato technika je aktivována výchozím útokem zbraně.
 
 tagClass06SkillName15A=Pohlcující roj
-tagClass06SkillDescription15A=Tam venku v divočině musí člověk udělat cokoliv, aby přežil. Někteří šamanští kejklíři si berou tuto lekci k srdci tak, že vyvolají pohlcující roj, který na kusy trhá cokoliv, s čím přijde do kontaktu, způsobuje bolestná zranění a činí cíl zranitelným.
+tagClass06SkillDescription15A=V divočině musí člověk udělat cokoliv, aby přežil. Někteří šamanští kejklíři si berou tuto lekci k srdci tak, že vyvolají pohlcující roj, který na kusy trhá cokoliv, s čím přijde do kontaktu, způsobuje bolestná zranění a činí cíl zranitelným.
 tagClass06SkillName15B=Paralyzující roj
 tagClass06SkillDescription15B=Roj napadá citlivé oblasti, drásá oči, klouby a vazy a efektivně mrzačí tvé nepřátele.
 tagClass06SkillName15C=Nenasytný roj
 tagClass06SkillDescription15C=Roj začne být nenasytný a bude způsobovat dokonce ještě větší zranění, jež činí cíl ještě více zranitelný.
 tagClass06SkillName15D=Pohlcující roj
-tagClass06SkillDescription15D=Tam venku v divočině musí člověk udělat cokoliv, aby přežil. Někteří šamanští kejklíři si berou tuto lekci k srdci tak, že vyvolají pohlcující roj, který na kusy trhá cokoliv, s čím přijde do kontaktu, způsobuje bolestná zranění a předává ti mízu.
+tagClass06SkillDescription15D=V divočině musí člověk udělat cokoliv, aby přežil. Někteří šamanští kejklíři si berou tuto lekci k srdci tak, že vyvolají pohlcující roj, který na kusy trhá cokoliv, s čím přijde do kontaktu, způsobuje bolestná zranění a předává ti mízu.
 
 tagClass06SkillName16A=Totem bouřky
 tagClass06SkillDescription16A=Usměrňování síly bouře je jeden z nejposvátnějších rituálů Vyvolávačů bouře. S dostatečnou praxí může Šaman doplnit totem destruktivní silou blesku, což způsobí, že z totemu budou vystřelovat ve velké rychlosti elektrické výboje směřované na nepřátele ve tvém okolí. ^oÚčinnost Bouřlivého totemu se zvyšuje s bonusy ke zranění, která způsobuješ.

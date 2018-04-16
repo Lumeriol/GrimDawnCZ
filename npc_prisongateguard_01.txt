@@ -1,5 +1,5 @@
 Rook
-Jen jdi dovnitř, [[ms]příteli[fs]přítelkyně]. Díky tobě mám dnes večer co jíst. 
+Jen pojď dovnitř, [[ms]příteli[fs]přítelkyně]. Díky tobě mám dnes večer co jíst.
 Opatruj se.
 Vítej zpět, [[ms]příteli[fs]přítelkyně].
 Díky.
@@ -7,7 +7,7 @@ Vítej zpět v Ďáblově průsmyku. Můžeš vstoupit.
 Díky.
 Kapitán říká, že můžeš vstoupit. Vyhýbej se potížím.
 Díky.
-Slyšel jsem o tom, co pro nás děláš, riskujíc život tam venku.{^n}{^n}Víc než dobře sis [[ms]vysloužil[fs]vysloužila] své místo. Prosím, pojď dovnitř a trochu si odpočiň.
+Slyšel jsem o tom, co pro nás děláš, riskujíc svůj život.{^n}{^n}Víc než dobře sis [[ms]vysloužil[fs]vysloužila] své místo. Prosím, pojď dovnitř a trochu si odpočiň.
 Díky.
 Promiň, ale nemohu tě nechat vstoupit. Budeš potřebovat povolení od Kapitána, abych tě nechal projít.
 Pak si promluvím s Kapitánem.
