@@ -778,7 +778,7 @@ tagGDX1EnemySkillD03=Nasávání duší
 tagGDX1EnemySkillD03_Desc=Přízrak sklízí tvou duši, čímž odčerpává tvou obranu a životní energii.
 
 tagGDX1EnemySkillD04=Chthonická aura
-tagGDX1EnemySkillD04_Desc=Surové energie Prázdnoty obklopují tento střep a posilují tak chtonické bytosti, zatímco zraňují běžné živé.
+tagGDX1EnemySkillD04_Desc=Surové energie Prázdnoty obklopují tento střep a posilují tak chthonické bytosti, zatímco zraňují běžné živé.
 
 tagGDX1EnemySkillD05=Aura smrti
 tagGDX1EnemySkillD05_Desc=Gabbal'Thunn'ova přítomnost z tebe odčerpává vůli žít, čímž snižuje ochranné schopnosti a rychlost.
@@ -792,8 +792,8 @@ tagGDX1EnemySkillD07_Desc=Otřeseš se ze samotné Pustošitelovy přítomnosti,
 tagGDX1EnemySkillD08=Zaplavení Aetherem
 tagGDX1EnemySkillD08_Desc=Theodenova přítomnost ohrožuje odhalení tvé fyzické formy, což způsobuje zranění Aetherem a snižuje obranyschopnost.
 
-tagGDX1EnemySkillD09=Larrianiny ochrany
-tagGDX1EnemySkillD09_Desc=Larrianino doupě je velmi silně chráněno a tak dochází ke zraňování cizinců, zatímco ona je posilována.
+tagGDX1EnemySkillD09=Larriina ochrana
+tagGDX1EnemySkillD09_Desc=Larriino doupě je velmi silně chráněno a tak dochází ke zraňování cizinců, zatímco ona je posilňována.
 
 tagGDX1EnemySkillD10=Sežehnutí Aetherem
 tagGDX1EnemySkillD10_Desc=Sežehne tě nedaleký Aetherický krystal, čímž se tento krystal s tebou propojí a bude ti způsobovat zničující zranění Aetherem do doby, než spojení přerušíš.
@@ -816,6 +816,6 @@ tagGDX1EnemySkillD15_Desc=Aether v této oblasti má sílu, zraňuje tě a vysá
 tagGDX1EnemySkillD16=Přítomnost hrůzy
 tagGDX1EnemySkillD16_Desc=Kolem se potlouká obrovská nestvůra, naplňuje tě hrůzou a povzbuzuje další příšery v okolí.
 
-tagGDX1EnemySkillD17=Burning Blood
-tagGDX1EnemySkillD17_Desc=Gargabol's Burning Blood singes your resistances.
+tagGDX1EnemySkillD17=Žhavá krev
+tagGDX1EnemySkillD17_Desc=Gargabolova žhavá krev spaluje tvé odolnosti.
 
