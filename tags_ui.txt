@@ -1179,7 +1179,7 @@ tagDividingButtonKeepComponent=Přídavek
 tagDividingButtonRemoveAugment=Odstranit vylepšení
 tagDividingKeepItemWarning=Vybráním zachování předmětu zničíš připojenou komponentu a jakékoliv vylepšení.
 tagDividingKeepComponentWarning=Vybráním zachování komponenty zničíš předmět a jakékoliv vylepšení.
-tagDividingRemoveAugmentWarning=Odstraněním vylepšení jej zničíš, společně s případnou vazbou vylepšení s tvou duší.
+tagDividingRemoveAugmentWarning=Odstraněním vylepšení jej trvale zničíš a odebereš vazbu se svou duší.
 tagDividingCost=Cena rozkladu:
 
 tagDismantleDynamiteTotal=Počet dynamitů:
