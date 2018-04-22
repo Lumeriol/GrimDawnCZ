@@ -3,11 +3,11 @@
 tagGDX1MapDarkWood=Gloomwald
 tagGDX1MapUgdenbog=Ugdenbog
 tagGDX1MapUgdenbogVillage=Barrowholm
-tagGDX1MapUgdenbogCoven=Skrytá lóže čarodějek
+tagGDX1MapUgdenbogCoven=Skrytá Lóže čarodějek
 tagGDX1MapUgdenbogAltar=Rattoshův oltář
 
 tagGDX1MapMalmouthEntry=Osamělá hlídka
-tagGDX1MapMalmouthOutskirts=Mourndale
+tagGDX1MapMalmouthOutskirts=Údolí nářků
 tagGDX1MapMalmouthOutskirtsRuins=Malmouthské předměstí
 tagGDX1MapMalmouthOutskirtsMine=Jerrethonův důl
 tagGDX1MapMalmouth=Malmouth
@@ -37,7 +37,7 @@ tagGDX1WorldMapUgdenbog=Ugdenbog
 tagGDX1WorldMapUgdenbogVillage=Barrowholm
 tagGDX1WorldMapUgdenbogCoven=Skrytá Lóže{^n}čarodějek
 
-tagGDX1WorldMapMalmouthOutskirts=Mourndale
+tagGDX1WorldMapMalmouthOutskirts=Údolí{^n}nářků
 tagGDX1WorldMapMalmouthOutskirtsRuins=Malmouthské{^n}předměstí
 tagGDX1WorldMapMalmouthMine=Jerrethonův{^n}důl
 tagGDX1WorldMapMalmouthEntry=Osamělá{^n}hlídka
@@ -410,8 +410,8 @@ tagGDX1LoreObj_AreaF_NoteA01Name=Věrnost až za hrob
 tagGDX1LoreObj_AreaF_NoteA01Text=Nové zprávy náš zastihly v nočních hodinách o tom, že rituál na západě selhal a Thalonis, Pán krve, žel bohu padl.{^n}{^n}Pod tíhou těchto neštěstí jsou mezi vámi někteří, jež se chtějí vzdát své víry, zříci se své oddanosti a opustit naši velkou věc. Toto nebude nikdy a za žádnou cenu tolerováno! Musíte zachovat svou loajálnost, nebo se sami odsoudíte a vyčerpáte svou mysl do stavu bezbožného chaosu.{^n}{^n}Jde pouze o jedno z dalších selhání v této nekonečné sérii útrap, které nás ovšem vedou po té naší cestě k tomu být velikány. Ch'thon nás vyzývá, zkouší naši víru a my nesmíme zaváhat. Vy, nepoddajné děti krve, musíte nalézt ty nejslabší z vás mezi sebou, a potrestat je za jejich slabou vůli.{^n}{^n}Thalonis je pryč, ale jiný z vás povstane a zaujme jeho místo a pouze věřící budou odměněni za svou píli.{^n}{^n}Pouze skrze oddanost ve Ch'thona a obětavost za naši věc znovu nalezneme cestu.{^n}{^n}- Velekněz Ulto Treig
 
 #CultOfChthon_02
-tagGDX1LoreObj_AreaF_NoteA02Name=Úřední dopis Mourndaleskému krvepřísežníkovi
-tagGDX1LoreObj_AreaF_NoteA02Name_Codex=Dopis do Mourndale
+tagGDX1LoreObj_AreaF_NoteA02Name=Úřední dopis krvepřísežníkovi z Údolí nářků
+tagGDX1LoreObj_AreaF_NoteA02Name_Codex=Dopis do Údolí nářků
 tagGDX1LoreObj_AreaF_NoteA02Text=Bratři a sestry krve,{^n}{^n}k mým uším se donesly znepokojivé zprávy. Zvěstuje se, že někteří z vás začali pochybovat o naší věci, a zpochybňují ty, jež slyší volání Prázdnoty. Věříte, že jste byli podvedeni falešnými proroky, ale dovolte mi pár slov, abych vás uklidnil.{^n}{^n}Vyslal jsem své věrné pokrevní bratry, aby mi přivedli tři tucty těch, kdo si odvážil zpochybňovat naše odhodlání v těchto krušných časech. Pomocí jejich falešných vizí bude vaše vůle odměněna. Jejich krev bude sloužit tam, kde jejich mysl selhala. Sklízejte ovoce jejich obětí, nové problémy, které zaplaví samotné srdce říše Mrtvého boha. Skrze ně povstanou zástupci mučitelů, bytosti stvořené z čiré temnoty, jež budou prolévat krev patřící Ch'thonovi.{^n}{^n}Nebojte se, moji bratři a sestry, vaše víra ve Ch'thona není mylná. Nedopustíme selhání jednoho, aby zhatil celou naši věc. Budeme vzývat temnotu a temnota nám přinese sílu, která otřese samotnými základy Cairnu. Nastane nový soudný den; den, kdy věřící vytlačí falešné bohy a obnoví slávu Ch'thona.{^n}{^n}-Ulto Treig, Velekněz
 
 #CultOfChthon_03
@@ -493,7 +493,7 @@ tagGDX1LoreObj_AreaF_MadRamblingsText=Pod točitou věží,{^n} pod podlahou, ta
 tagLoreObj_AreaF_KatrineNote_Name=Katrinin dopis Alici
 tagLoreObj_AreaF_KatrineNote_Text=Má nejdražší Alice, zklamala jsem tě.{^n}{^n}Hledala jsem tě tak dlouho, dokud mé choré nohy mne dokázaly nést a teď jsem na pokraji smrti.{^n}{^n}Tím jak je má cesta téměř na konci, je mé srdce naplněno hrůzou. Přeji si jediné, naposledy tě chytit za ruku a slyšet bít tvé srdce, vidět tvůj úsměv na tváři... vím, že se mi tohle už nepoštěstí.{^n}{^n}Svět není nakloněn přáním a naděje mě dávno opustila. Ale modlím se, aby tys přežila všechny ty hrůzy, které nás vyhnaly z domova.{^n}{^n}Kamkoliv půjdu, ať se děje cokoliv, vždycky tě budu hledat, mé milované děťátko. S láskou, máma.
 
-tagGDX1LoreObj_AreaF_Puppetmaster01Name=Allostriřiny příkazy
+tagGDX1LoreObj_AreaF_Puppetmaster01Name=Allostriiny příkazy
 tagGDX1LoreObj_AreaF_Puppetmaster01Text=Dle našeho nařízení se musíte neprodleně odebrat do Malmouthu. Využijte veškeré zdroje, aby tato výprava proběhla co nejrychleji a neztráceli jste čas. Jakmile dorazíte, zjistěte, jaký je posun vlády Mistrovského řezníka. Máme určité důvody se domnívat, že jeho nedávné aktivity byly v rozporu s původním posláním a naše společné vize jsou ohroženy.{^n}{^n}Pokud se potvrdí naše obavy, pak jej okamžitě dopravte zpět do Erulanu a zaujměte jeho pozici v srdci našich operací v Malmouthu. Pokud se ovšem naše domněnky nepotvrdí, ihned odešlete hlášení a zajistěte, aby naše společné plány systematicky pokračovaly.{^n}{^n}Musíme být v našich akcích rychlí, Jejich oko nás neustále sleduje. Žádný kousek skládačky nesmí vypadnout a rozmary jednoho nesmí převýšit celý plán. Nechceme být v ohrožení, když je vítězství tak blízko.{^n}{^n}-Orin Vostra, Čtvrtý z Kruhu pěti
 
 tagGDX1LoreObj_AreaF_Special01Name=Otoč to!

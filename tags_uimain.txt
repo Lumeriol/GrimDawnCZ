@@ -591,7 +591,7 @@ tagTritanopia=Tritanopia
 
 tagOverwriteKeymap=Funkce ^y{%t0}^w už je přiřazena na klávesu ^y{%t1}^w. Chceš ji přepsat?
 tagHardDiskError=Tvému počítači dochází místo na pevném disku. Grim Dawn tak může mít problémy s ukládáním hry. Pro předejití tomuto problému zkus uvolnit nějaké místo na disku.
-tagMenuError10=Nepodařilo se připojit k serveru. Herní režim nebo verze mapy neodpovídá hostitelské verzi.
+tagMenuError10=Nepodařilo se připojit k serveru. Herní režim nebo verze mapy neodpovídá hostitelské verzi.
 
 tagReportUsageStats=Pomoz nám vylepšit Grim Dawn tím, že budeš pravidelně posílat anonymní systémové a herní statistiky.
 tagImportToSteamCloud=Máš povolené ukládání do Steam cloudu. Chceš stáhnout existující postavy?

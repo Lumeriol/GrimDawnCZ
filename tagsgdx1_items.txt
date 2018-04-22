@@ -1801,7 +1801,7 @@ tagGDX1Chest_KatrineCorpse=Katrininy ostatky
 tagGDX1Chest_RenochCorpse=Renochovy ostatky
 tagGDX1Chest_UnknownCorpse=Hnijící mrtvola
 
-tagGDX1ChestGauntletChestD01=Ztracenž relikviář
+tagGDX1ChestGauntletChestD01=Ztracený relikviář
 
 
 #Interactive Objects
