@@ -25,6 +25,18 @@ tagSkillClassDescription08=I když mnoho [[ms]nekromantů[fs]nekromantek] modern
 
 tagGDX1Class02SkillTracker02A=Současný počet rozmístěných hmoždířů
 
+
+#Class04
+
+tagGDX1Class04SkillTracker01A=Současný počet vyčarovaných přízračných čepelí
+
+
+#Class06
+
+tagGDX1Class06SkillTracker01A=Současný počet vyčarovaných větrných ďáblů
+tagGDX1Class06SkillTracker02A=Současný počet rozmístěných bouřných totemů
+
+
 #Class07
 
 tagGDX1Class07SkillName00A=Inkvizitor
@@ -496,8 +508,18 @@ tagGDX1ItemSkillD177Desc=Oheň z čiré rituální energie se začne objevovat p
 tagGDX1ItemSkillD178Name=Kulky Prázdnoty
 tagGDX1ItemSkillD178Desc=Salva obohacená energiemi Prázdnoty projde tvými nepřáteli a bude je hubit zevnitř. ^oToto je bonus ke střelným zbraním. Také umožňuje ovládat dvě střelné zbraně najednou.
 
-tagGDX1ItemSkillD179Name=
-tagGDX1ItemSkillD179Desc=
+tagGDX1ItemSkillD179Name=Chlemtač kouzel
+tagGDX1ItemSkillD179Desc=Posílí tvou zbraň, aby rezonovala tajemnými energiemi, absorbovala část nepřátelských kouzele a odrazila část z nich zpět na sesílatele. ^oTato vlastnost musí být aktivní, aby se její účinek fungoval.
+
+tagGDX1ItemSkillD180Name=Volání krvavých lázní
+tagGDX1ItemSkillD180Desc=Vyvoláš Nazaranovy krvavé služebníky, aby vysávali životní energii z tvých protivníků než budou opět zavoláni zpět do svých hrobů. ^oSlužebníci krvavých lázní sílí společně s tvými bonusy ke zranění.
+tagGDX1ItemSkillD180SkillTracker=Současný počet přivolaných služebníků
+
+tagGDX1ItemSkillD181Name=Nazaranova duše
+tagGDX1ItemSkillD181Desc=Vyvoláš mučenou duši lorda Nazarana, aby vtrhla mezi tvé nepřátele a způsobila jim muka, která budou přenášet životní esenci zpět k tobě. ^oV jednu chvíli může být vyvolána pouze jedna duše lorda Nazarana. Lord Nazaran sílí společně s tvými bonusy ke zranění.
+
+tagGDX1ItemSkillD182Name=Mrazíkova značka
+tagGDX1ItemSkillD182Desc=Mrazíkovou značkou se rozumí rozdmýchání nesvárů a zmatků mezi politickými špičkami. Pokud ji použiješ na své nepřátele, naplní je obdobnými pocity a způsobí jim pocit chycení do pasti.
 
 tagGDX1w=GrimDawn/images/evil
 

@@ -218,7 +218,7 @@ tagClass02SkillName05E=Bleskový minomet
 tagClass02SkillDescription05E=Odpálí na nepřátele střelu nabitou elektrickým proudem.
 
 tagClass02SkillName06A=Termitová mina
-tagClass02SkillDescription06A=Spustí trio malých, ale smrtících, pyrotechnických náloží, které spálí tvé nepřátele intenzivním plamenem. ^oÚčinnost min se zvyšuje s bonusy ke zranění, která uděluješ.
+tagClass02SkillDescription06A=Spustí trojici malých, ale smrtících, pyrotechnických náloží, které spálí tvé nepřátele intenzivním plamenem. ^oÚčinnost min se zvyšuje s bonusy ke zranění, která uděluješ a trvá 12 sekund od spuštění nepřítelem.
 tagClass02SkillName06B=Pekelná mina
 tagClass02SkillDescription06B=Napůl pyrotechnika, napůl chemie - toto smrtící vylepšení Termitové miny má schopnost zasáhnout tvé nepřátele tak intenzivním plamenem, že spálí samotnou podstatu zasažené bytosti.
 tagClass02SkillName06C=Proud plamenů
@@ -644,7 +644,7 @@ tagClass06SkillName009C=Útok pařáty a drápy
 tagClass06SkillDescription09C=Vrozený útok.
 
 tagClass06SkillName10A=Hrubá síla
-tagClass06SkillDescription10A=Mnoha šamanům slouží jejich brutální obouruční zbraň jako vodič pro jejich bouřkové síly. Tito praktici upřednostňují bližší propojení s divočinou skrze zvířecí zuřivost, než-li skrze křehké hůlky a knihy, které jsou považovány za hračky těch, kteří preferují trávit čas jejich čtením než trénováním toho, co umí. ^oVyžaduje obouruční chladnou nebo obouruční střelnou zbraň.
+tagClass06SkillDescription10A=Mnoha šamanům slouží jejich brutální obouruční zbraň jako vodič pro jejich bouřkové síly. Tito praktici upřednostňují bližší propojení s divočinou skrze zvířecí zuřivost, než-li skrze křehké hůlky a knihy, které jsou považovány za hračky těch, kteří preferují trávit čas jejich čtením než trénováním toho, co umí. ^oBonus se vztahuje k obouruční chladné nebo obouruční střelné zbrani.
 tagClass06SkillName11A=Šamanismus
 tagClass06SkillDescription11A=Pečlivý trénink v nezkrocené divočině vypiloval tvou mysl a tělo do kruté zbraně.
 tagClass06SkillName12A=Hněv přírody
@@ -653,7 +653,7 @@ tagClass06SkillName13A=Prvotní pouto
 tagClass06SkillDescription13A=Přijmeš svoji stránku krutosti tak, že dokončíš spojení s Mogdrogenem. Příšery z útočiště boha zvířat ochotně odpoví na tvé zvolání. ^oAby tato schopnost účinkovala, musí být aktivní.
 
 tagClass06SkillName14A=Otřesy
-tagClass06SkillDescription14A=Udeříš silou země. Kamkoliv zasadíš svůj kritický útok svou základní zbraní, tam se země silou úderu otřese a vyvolá v okolí úderu v rázovou vlnu. ^oVyžaduje obouruční chladnou nebo obouruční střelnou zbraň. Tato technika je aktivována výchozím útokem zbraně.
+tagClass06SkillDescription14A=Udeříš silou země. Kamkoliv zasadíš svůj kritický útok svou základní zbraní, tam se země silou úderu otřese a vyvolá rázovou vlnu, která zasáhne zamýšleného nepřítele a všechny kolem něj. ^oVyžaduje obouruční chladnou nebo obouruční střelnou zbraň. Tato technika je aktivována výchozím útokem zbraně.
 
 tagClass06SkillName15A=Pohlcující roj
 tagClass06SkillDescription15A=V divočině musí člověk udělat cokoliv, aby přežil. Někteří šamanští kejklíři si berou tuto lekci k srdci tak, že vyvolají pohlcující roj, který na kusy trhá cokoliv, s čím přijde do kontaktu, způsobuje bolestná zranění a činí cíl zranitelným.
@@ -1629,7 +1629,7 @@ tagItemSkillD094Desc=Uvolní se z tebe vlna spalujícího ohně s cílem ničit.
 tagItemSkillD095Name=Ohnivý dech
 tagItemSkillD095Desc=Maska ti umožní dýchat oheň.
 
-tagItemSkillD096Name=Nebeský soud
+tagItemSkillD096Name=Nebeský rozsudek
 tagItemSkillD096Desc=Nepřátele ve tvém okolí rychle zasáhne blesk a spálí je elektrický proud.
 
 tagItemSkillD097Name=Oblak jedovatého plynu
@@ -1846,7 +1846,7 @@ tagItemSkillD167Name=Posvátná vyváženost
 tagItemSkillD167Desc=Rozvrátíš rovnováhu mezi odporujícími si silami světla a temnoty dříve, než jejich energii vyšleš na nepřátele ve svém okolí.
 
 tagItemSkillD168Name=Vřískot Aetheru
-tagItemSkillD168Desc=Vychází z tebe nářek Aetheru, který děsí nepřátele ve tvém okolí.
+tagItemSkillD168Desc=Vyjde z tebe nářek Aetheru, který vyděsí nepřátele ve tvém okolí.
 
 tagItemSkillD169Name=Zpečetění osudu
 tagItemSkillD169Desc=Zpečetíš osud svých nepřátel, sebejistý ve vyneseném rozsudku.

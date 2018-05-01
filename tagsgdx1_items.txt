@@ -86,7 +86,7 @@ tagGDX1WeaponGun1hD102_Desc="Příruční zbraň speciálně navržená inkvizit
 tagGDX1WeaponGun1hD103=Arkánum Elektrolýzum
 tagGDX1WeaponGun1hD103_Desc="Zbraň vyrobená přesně podle zadání mistra Agravixe, Pána Temnot ze Stříbrné věže."
 tagGDX1WeaponGun1hD107=Oharek
-tagGDX1WeaponGun1hD108=Revolver záštity
+tagGDX1WeaponGun1hD108=Pevnostní revolver
 tagGDX1WeaponGun1hD109=Vystřelovač temného plamene
 tagGDX1WeaponGun1hD110=Dagallonův ničitel
 tagGDX1WeaponGun1hD110_Desc="Hlaveň je pokreslena runami, aby nábojnice získaly nadpřirozenou sílu."
@@ -241,7 +241,7 @@ tagGDX1ShieldD103=Turrionova odveta
 tagGDX1ShieldD107=Šedý rytíř
 tagGDX1ShieldD107_Desc="Menhirský štít obránce bez tváře, který se sám utkal proti skupině kacířů a vyšel z této potyčky jako vítěz."
 tagGDX1ShieldD108=Octaviova hradba
-tagGDX1ShieldD109=Chrabrý obránce
+tagGDX1ShieldD109=Obránce pevnosti
 tagGDX1ShieldD110=Hradba metače kouzel
 tagGDX1ShieldD110_Desc="Štít vyzařuje svou zničující sílu."
 
@@ -373,11 +373,14 @@ tagGDX1HeadD123=Kapuce strážce smrti
 tagGDX1HeadD124=Prorokova maska
 tagGDX1HeadD125=Kapuce Pána temnot
 tagGDX1HeadD126=Belgothianova maska
+tagGDX1HeadD127=Radagganova maska
+tagGDX1HeadD128=Mrazíkova maska
+tagGDX1HeadD129=Chránič hlavy krvavého rytíře
 
 tagGDX1HeadF101=Čarodějčina kapuce ohýbání myšlenek
 tagGDX1HeadF102=Čarodějčina kapuce zkrocení
 tagGDX1HeadF103=Čarodějčina tajemná kapuce
-tagGDX1HeadF104=Čarodějčina přilbice konflikt§
+tagGDX1HeadF104=Čarodějčina přilbice konfliktů
 tagGDX1HeadF105=Čarodějčina rozžhavená přilbice
 tagGDX1HeadF106=Čarodějčina ochranná přilbice
 tagGDX1HeadF107=Malmouthský šalíř vymahačů
@@ -432,7 +435,9 @@ tagGDX1ShoulderD120=Prorokovy tkané nárameníky
 tagGDX1ShoulderD121=Tkané nárameníky Pána temnot
 tagGDX1ShoulderD122=Belgothianův chránič ramen
 tagGDX1ShoulderD123=Tkané nárameníky strážce smrti
-
+tagGDX1ShoulderD124=Radagganovy tkané nárameníky
+tagGDX1ShoulderD125=Mrazíkův chránič ramen
+tagGDX1ShoulderD126=Závitnice krvavého rytíře
 
 tagGDX1ShoulderF101=Čarodějčiny tkané nárameníky trestu
 tagGDX1ShoulderF102=Čarodějčiny tkané nárameníky vazače krve
@@ -494,6 +499,9 @@ tagGDX1TorsoD120=Rubáš strážce smrti
 tagGDX1TorsoD121=Prorokovo roucho
 tagGDX1TorsoD122=Roucho Pána temnot
 tagGDX1TorsoD123=Belgothianova zbroj
+tagGDX1TorsoD124=Radagganův rubáš
+tagGDX1TorsoD125=Mrazíkův hrudní chránič
+tagGDX1TorsoD126=Zbroj krvavého rytíře
 
 tagGDX1TorsoF101=Čarodějčin háv hněvu
 tagGDX1TorsoF102=Čarodějčin háv vazače života
@@ -628,7 +636,7 @@ tagGDX1WaistD114=Potrhaný pás
 tagGDX1WaistD115=Mstitelův pás
 tagGDX1WaistD116=Kataklyzmatická dohoda
 tagGDX1WaistD117=Pás kamenného strážce
-tagGDX1WaistD118=Ochranný pás záštity
+tagGDX1WaistD118=Pevnostní ochranný pás
 tagGDX1WaistD119=Opasek s náboji temného plamene
 
 tagGDX1WaistF101A=Čarodějčin hanebný ochranný pás
@@ -692,7 +700,7 @@ tagGDX1RingF104=Malmouthský tajemný pečetní prsten
 tagGDX1RingF105=Malmouthský pečetní prsten ostří
 tagGDX1RingF106=Malmouthský pečetní prsten Aetherického plamene
 tagGDX1RingF107=Wendigův zkroucený pečetní prsten
-tagGDX1RingF108=Wendigův pečetní prsten utlačovatele
+tagGDX1RingF108=Wendigův kouzelnický pečetní prsten
 
 
 
@@ -747,6 +755,9 @@ tagGDX1NecklaceD119=Odražeč metače kouzel
 tagGDX1NecklaceD120=Ochránce zabijáka čarodějů
 tagGDX1NecklaceD121=Runotepcův drahokam
 tagGDX1NecklaceD122=Uroboruukovo oko
+tagGDX1NecklaceD123=Radagganův drahokam
+tagGDX1NecklaceD124=Mrazíkův přívěsek
+tagGDX1NecklaceD125=Přívěsek krvavého rytíře
 
 tagGDX1NecklaceF101=Čarodějčin zatemňující přívěsek
 tagGDX1NecklaceF102=Čarodějčin manipulační přívěsek
@@ -1036,6 +1047,10 @@ tagGDX1Blueprint_ArmorD166=Plánek: Vynikající drátěná košile z božské o
 
 tagGDX1Blueprint_ArmorD167=Plánek: Belgothianova maska
 
+tagGDX1Blueprint_ArmorD168=Plánek: Radagganova maska
+tagGDX1Blueprint_ArmorD169=Plánek: Mrazíkova maska
+tagGDX1Blueprint_ArmorD170=Plánek: Chránič hlavy krvavého rytíře
+
 tagGDX1Blueprint_AccessoryB101=Plánek: Erb mrštnosti
 tagGDX1Blueprint_AccessoryB102=Plánek: Erb pozorovatele
 tagGDX1Blueprint_AccessoryB103=Plánek: Ochranný pás ze srdce zlobra
@@ -1065,7 +1080,7 @@ tagGDX1Blueprint_AccessoryD104=Plánek: Vynikající Kalastorův znak
 tagGDX1Blueprint_AccessoryD105=Plánek: Znak záhuby
 tagGDX1Blueprint_AccessoryD106=Plánek: Vynikající vláda Ohně a Ledu
 tagGDX1Blueprint_AccessoryD107=Plánek: Pás kamenného strážce
-tagGDX1Blueprint_AccessoryD108=Plánek: Ochranný pás záštity
+tagGDX1Blueprint_AccessoryD108=Plánek: Pevnostní ochranný pás
 tagGDX1Blueprint_AccessoryD109=Plánek: Vynikající ztělesnění soucitu
 tagGDX1Blueprint_AccessoryD110=Plánek: Vynikající Dreegova nákaza
 tagGDX1Blueprint_AccessoryD111=Plánek: Vynikající mstitel z Cairnu
@@ -1618,7 +1633,7 @@ tagGDX1ItemSetD105Desc="Pro bezpečnost každého jedince byly tyto artefakty ro
 tagGDX1ItemSetD106Name=Kamenná stráž
 tagGDX1ItemSetD106Desc="Výstroj kamenné stráže, spolehlivých obránců víry v Menhiru."
 
-tagGDX1ItemSetD107Name=Legionářská záštita
+tagGDX1ItemSetD107Name=Legionářská pevnost
 tagGDX1ItemSetD107Desc="Výstroj Palliona Dara, štítonoše Černé legie."
 
 tagGDX1ItemSetD108Name=Korbina zuřivost
@@ -1659,6 +1674,16 @@ tagGDX1ItemSetD119Desc="Dar od Ch'thona smrtelníkům, jež obdivují jeho návr
 
 tagGDX1ItemSetD120Name=Belgothianovo krveprolití
 tagGDX1ItemSetD120Desc="Zbroj, kterou kdysi dávno nosíval mistr Nočních čepelí Belgothian, jež bezohledně masakroval každého jen aby viděl krev, což znepokojovalo i jeho podřízené."
+
+tagGDX1ItemSetD121Name=Radagganova pošetilost
+tagGDX1ItemSetD121Desc="Armor of Astor Radaggan, heretic and betrayer to the Luminari, turned loyal servant of the Great Guardian."
+
+tagGDX1ItemSetD122Name=Mrazík
+tagGDX1ItemSetD122Desc="Armor of the Rimetongue, elusive member of the emperor's court, master of infiltration and political sabotage."
+
+tagGDX1ItemSetD123Name=Krvavý rytíř
+tagGDX1ItemSetD123Desc="Krvavá zbroj lorda Nazarana, Krále v karmínu, více známého jako Krvavý rytíř."
+
 
 tagItemSetD001BName=Ochránce spravedlivých
 tagItemSetD002BName=Posvátná harmonie

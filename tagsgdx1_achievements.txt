@@ -137,10 +137,10 @@ achGDX1044Title=Nesmrtelný divočák
 achGDX1044Desc=Zlikviduj Gargabola, Srdce divočiny ve Starodávném háji ve Výzvě.
 
 achGDX1045Title=Starožitost z Ugdenbogu
-achGDX1045Desc=Zlikviduj Kra'valla, Starověkého vodnáře.
+achGDX1045Desc=Zlikviduj Kra'valla, starověkého vodnáře.
 
 achGDX1046Title=Zabiják mýtů
-achGDX1046Desc=Zlikviduj Kra'valla, Starověkého vodnáře na ultimátní obtížnosti.
+achGDX1046Desc=Zlikviduj Kra'valla, starověkého vodnáře na ultimátní obtížnosti.
 
 achGDX1047Title=
 achGDX1047Desc=

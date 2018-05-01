@@ -327,6 +327,11 @@ tagGDX1ItemPetHargate=Aetherický krystal
 tagGDX1ItemPetKasparovSkill=Krystalizace
 tagGDX1ItemPetFireDevil=Oharek
 tagGDX1ItemPetFireDevil_Skill=Živoucí plamen
+tagGDX1ItemPetBloodWraith=Duše lorda Nazarana
+tagGDX1ItemPetBloodWraith_Skill=Upíří dotyk
+tagGDX1ItemPetBloodWraith_Skill02=Upíří přítomnost
+tagGDX1ItemPetBloodSkeleton=Služebník z krvavých lázní
+tagGDX1ItemPetBloodSkeleton_Skill=Krvavý obřad
 
 #EnemySummons
 
@@ -355,7 +360,7 @@ tagGDX1MiniBoss_Aetherial06=Agalgaraz
 tagGDX1MiniBoss_Aetherial07=Igilvur, půlič
 tagGDX1MiniBoss_Aetherial08=Dralgar, strážce Burrwitche
 
-tagGDX1MiniBoss_Bog01=Kra'vall, Starověký vodnář
+tagGDX1MiniBoss_Bog01=Kra'vall, starověký vodnář
 tagGDX1MiniBoss_Bog01_Tentacle01=Kra'vallovo chapadlo
 tagGDX1MiniBoss_Bog01_Tentacle02=Kra'vallovo chapadlo
 tagGDX1MiniBoss_Bog02=Sylvarria, Královna Podrostu
