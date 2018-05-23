@@ -460,8 +460,8 @@ tagGDX1ShoulderF118=Wendigovy skládané nárameníky strážce
 
 
 #ArmorTorso
-tagGDX1TorsoB101=[ms]Galakrosovo sežehnuté plátování
-tagGDX1TorsoB102=[ms]Galakrosovo děsivé plátování
+tagGDX1TorsoB101=[ns]Galakrosovo sežehnuté plátování
+tagGDX1TorsoB102=[ns]Galakrosovo děsivé plátování
 tagGDX1TorsoB103=[fs]Valaxteřina tajemná róba
 tagGDX1TorsoB103_Desc="Róba se třpytí jemnými vetkanými tajemnými runami."
 tagGDX1TorsoB104=[fs]Valaxteřina róba rozervaných nebes
@@ -1761,7 +1761,7 @@ tagGDX1PrefixB107_Sh_A=|9kamenné tváře
 
 
 #Suffixes
-tagGDX1SuffixA101=of 
+tagGDX1SuffixA101=of
 
 tagGDX1SuffixB101_Wpn_A=[ms]mučených duší[fs]mučených duší[ns]mučených duší[mp]mučených duší[fp]mučených duší[np]mučených duší
 tagGDX1SuffixB102_Wpn_A=[ms]lidské podstaty[fs]lidské podstaty[ns]lidské podstaty[mp]lidské podstaty[fp]lidské podstaty[np]lidské podstaty

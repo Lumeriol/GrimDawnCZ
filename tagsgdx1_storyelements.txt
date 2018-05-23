@@ -401,11 +401,11 @@ tagGDX1LoreObj_AreaE_NoteA07Text=Fakt netuším, vo co mu de, ale už dvakrát j
 
 #AncientGrove
 tagGDX1LoreObj_AreaE_AncientGrove_NoteA01Name=Mogdrogenovo zamyšlení
-tagGDX1LoreObj_AreaE_AncientGrove_NoteA01Text=Nedávné události přináší do mého srdce útrapy.{^n}{^n}Smrtelníče. Jeden z Erulanských inkvizitorů, kterého nazývají Kymon, na něco narazil. Na něco... velmi starého a zapomenutého. A stejně jako každý nerozvážný smrtelník nepřestal bádat nad tím, co mělo zůstat skryto a navždy zapomenuto. Hluboko pod Korvanskou plošinou se v tuto chvílí rozdmýchává přímo děsivý žár. Zvířata z celého Cairnu jsou neklidná, cítí to také.{^n}{^n}Je složité rozlousknout toto tajemství, protože běžně rozmarní falešní bohové jsou neobvykle tiší. Mám podezření, že se stáhli do svých vlastních světů. To načasování nemůže být úplně náhodné. Čarodějní bohové se bojí. Jejich pozornost je teď přitahována ke stejné síle, která užírá duše Kymona a jeho Vyvolených. To fanatické uctívání smrtelníků ho živí, dácá mu sílu a formuje ho.{^n}{^n}Klevetění mezi lidmi naznačuje velikánský návrat Empyriona, ale já vím, že to jsou pouze falešné naděje bezmocných ubožáků. Pravá identita této zapomenuté moci mi uniká, ale přesto mi přijde tak... povědomá.{^n}{^n}Jediné, čím jsem si jist, je to, že se na nás valí kataklyzmatická proměna. Cítím to v zemi. Pocítil jsem to ve větru. Síly, o kterých jsem neslyšel po tisíce let, touží po pomstě a krvi.{^n}{^n}Musím shromáždit své Rhowari. Blíží se doba, kdy bude jejich oddanost těžce zkoušena.
+tagGDX1LoreObj_AreaE_AncientGrove_NoteA01Text=Nedávné události přináší do mého srdce útrapy.{^n}{^n}Smrtelníče. Jeden z Erulanských inkvizitorů, kterého nazývají Kymon, na něco narazil. Na něco... velmi starého a zapomenutého. A stejně jako každý nerozvážný smrtelník nepřestal bádat nad tím, co mělo zůstat skryto a navždy zapomenuto. Hluboko pod Korvanskou plošinou se v tuto chvíli rozdmýchává přímo děsivý žár. Zvířata z celého Cairnu jsou neklidná, cítí to také.{^n}{^n}Je složité rozlousknout toto tajemství, protože běžně rozmarní falešní bohové jsou neobvykle tiší. Mám podezření, že se stáhli do svých vlastních světů. To načasování nemůže být úplně náhodné. Čarodějní bohové se bojí. Jejich pozornost je teď přitahována ke stejné síle, která užírá duše Kymona a jeho Vyvolených. To fanatické uctívání smrtelníků ho živí, dává mu sílu a formuje ho.{^n}{^n}Klevetění mezi lidmi naznačuje velikánský návrat Empyriona, ale já vím, že to jsou pouze falešné naděje bezmocných ubožáků. Pravá identita této zapomenuté moci mi uniká, ale přesto mi přijde tak... povědomá.{^n}{^n}Jediné, čím jsem si jist, je to, že se na nás valí kataklyzmatická proměna. Cítím to v zemi. Pocítil jsem to ve větru. Síly, o kterých jsem neslyšel po tisíce let, touží po pomstě a krvi.{^n}{^n}Musím shromáždit své Rhowari. Blíží se doba, kdy bude jejich oddanost těžce zkoušena.
 
 #Kraken
 tagGDX1LoreObj_AreaE_Kraken_NoteA01Name=Tajemství Ugdenbogu
-tagGDX1LoreObj_AreaE_Kraken_NoteA01Text=Podle výnosu samotného Erulanského císaře jsem se vydal se svými váženými kolegy prozkoumat širší okolí říše, abychom popsali a zařadili nové druhy z fauny a flóry v dané oblasti. Málokdy jsem o tom přemýšlel, ale ne všechny úkoly mají vždycky stejný záměr... tím myslím to, že teď píšu zpoza zatuchlého místa plného temné mlhy nazývajícího se Ugdenbog, který se nachází daleko za Burrwitchem.{^n}{^n}Po třech týdnech, co jsme dorazili, jsme ztratili už dva členy naší výpravy a je opravdu důvod k obavám ze smrti díky zdejším rostlinám. Empyrionem zatraceným rostlinám. Snad mohu zmínit, že jsem se vždy zaměřoval na kritické účinky tajemných energií na živočišnou říši, ale nikdy jsem nezkoumal, jak může obyčejný úponek rostliny rozpůlit chlapa od hlavy až k patě, zatímco obrovský květ požírá druhého!{^n}{^n}Kdybych nebyl týdny vzdálený od Erulanu, okamžitě bych požádal o přeložení. Cesta nebyla úplně neúspěšná, protože jsem mohl pozorovat některé pozoruhodné jevy a stvoření, které se sice zdály přirozené, ale nedokázal jsem je zařadit do standardního rozmezí známých fenotypů, které jsem v této oblasti očekával. Zdálo se, jako by byli vyhnáni z jiných míst a všichni najednou se přesunuli do těchto močálů.{^n}{^n}Nejvíce fascinující ovšem byl rozhovor s tuláky před několika dny, kteří zmínili místní nestvůru známou jako Kra'vall, starodávného obyvatele vodních hlubin. Zatím jsme pouze na chvilku zahlédli jedno z jeho obrovských chapadel. Můžu jen hádat skutečnou velikost téhle příšery, ale bude to skutečně obrovské a zcela nepodobné čemukoliv, co se nachází ve vodách Ugdenbogu.{^n}{^n}Naše cesta nás dovedla až k místu, o kterém se domnívám, že je to podvodní doupě. Moje společnice inkvizitorka si okamžitě začala stěžovat na bolesti hlavy podobné těm, které zažila při zkoumání vysoké koncentrace starodávné magie. Bolesti hlavy spojené s jeho neobvyklý vzhled mne přivedlo k závěru, že toto stvoření a jiné jemu podobné jsou pravděpodobně hrátkou matky přírody. Ale jsou tyhle projevy dočasnou hříčkou Čarodějných bohů nebo se jedná úplně o něco jiného?{^n}{^n}-Gallad Nico, císařský archivář
+tagGDX1LoreObj_AreaE_Kraken_NoteA01Text=Podle výnosu samotného Erulanského císaře jsem se vydal se svými váženými kolegy prozkoumat širší okolí říše, abychom popsali a zařadili nové druhy z fauny a flóry v dané oblasti. Málokdy jsem o tom přemýšlel, ale ne všechny úkoly mají vždycky stejný záměr... tím myslím to, že teď píšu zpoza zatuchlého místa plného temné mlhy nazývajícího se Ugdenbog, který se nachází daleko za Burrwitchem.{^n}{^n}Po třech týdnech, co jsme dorazili, jsme ztratili už dva členy naší výpravy a je opravdu důvod k obavám ze smrti díky zdejším rostlinám. Empyrionem zatraceným rostlinám. Snad mohu zmínit, že jsem se vždy zaměřoval na kritické účinky tajemných energií na živočišnou říši, ale nikdy jsem nezkoumal, jak může obyčejný úponek rostliny rozpůlit chlapa od hlavy až k patě, zatímco obrovský květ požírá druhého!{^n}{^n}Kdybych nebyl týdny vzdálený od Erulanu, okamžitě bych požádal o přeložení. Cesta nebyla úplně neúspěšná, protože jsem mohl pozorovat některé pozoruhodné jevy a stvoření, které se sice zdály přirozené, ale nedokázal jsem je zařadit do standardního rozmezí známých fenotypů, které jsem v této oblasti očekával. Zdálo se, jako by byli vyhnáni z jiných míst a všichni najednou se přesunuli do těchto močálů.{^n}{^n}Nejvíce fascinující ovšem byl rozhovor s tuláky před několika dny, kteří zmínili místní nestvůru známou jako Kra'vall, starodávného obyvatele vodních hlubin. Zatím jsme pouze na chvilku zahlédli jedno z jeho obrovských chapadel. Můžu jen hádat skutečnou velikost téhle příšery, ale bude to skutečně obrovské a zcela nepodobné čemukoliv, co se nachází ve vodách Ugdenbogu.{^n}{^n}Naše cesta nás dovedla až k místu, o kterém se domnívám, že je to podvodní doupě. Moje společnice inkvizitorka si okamžitě začala stěžovat na bolesti hlavy podobné těm, které zažila při zkoumání vysoké koncentrace starodávné magie. Bolesti hlavy spojené s jeho neobvyklý vzhledem mne přivedlo k závěru, že toto stvoření a jiné jemu podobné jsou pravděpodobně hříčkou matky přírody. Ale jsou tyhle projevy dočasnou hříčkou Čarodějných bohů nebo se jedná úplně o něco jiného?{^n}{^n}-Gallad Nico, císařský archivář
 
 
 #AreaF Notes
@@ -551,28 +551,28 @@ tagGDX1NPC_SmithA01=Kaylon
 tagGDX1StoreTitle_SmithA01=Mistrovský kovář
 tagGDX1StoreDesc_SmithA01_1={}Skuté v Malmouthu
 tagGDX1StoreDesc_SmithA01_2=Kaylon je mistr vyučený v Malmouthských kovárnách. Jeho zbraně a výstroje nemají v širokém okolí konkurenci.
-tagGDX1StoreDesc_SmithA01_3= 
+tagGDX1StoreDesc_SmithA01_3=
 tagGDX1StoreDesc_SmithA01_4=Vyrobené zbraně, zbroj a příslušenství jsou prodchnuty jednou z následujících vlastností:
 
 tagGDX1NPC_SmithA02=Gaius Ember
 tagGDX1StoreTitle_SmithA02=Kovář ohně
 tagGDX1StoreDesc_SmithA02_1={}Trýznivý oheň
 tagGDX1StoreDesc_SmithA02_2=Gaius je prokletý věčným utrpěním, trýzněním, které převedl do své práce.
-tagGDX1StoreDesc_SmithA02_3= 
+tagGDX1StoreDesc_SmithA02_3=
 tagGDX1StoreDesc_SmithA02_4=Vyrobené zbraně, zbroj a příslušenství jsou prodchnuty jednou z následujících vlastností:
 
 tagGDX1NPC_SmithA03=Bella Fald
 tagGDX1StoreTitle_SmithA03=Nebeská kovářka
 tagGDX1StoreDesc_SmithA03_1={}Celestial Forge
 tagGDX1StoreDesc_SmithA03_2=Povídá se, že kladivo Belly Fald bylo skuto přímo ze samotných hvězd, jelikož je schopné vytvořit legendární předmět až do 94. úrovně.
-tagGDX1StoreDesc_SmithA03_3= 
+tagGDX1StoreDesc_SmithA03_3=
 tagGDX1StoreDesc_SmithA03_4=Vyrobené zbraně, zbroj a příslušenství jsou prodchnuty jednou z následujících vlastností:
 
 tagGDX1NPC_SmithA04=Arcturus
 tagGDX1StoreTitle_SmithA04=Prokletý kovář
 tagGDX1StoreDesc_SmithA04_1={}Temná výheň
 tagGDX1StoreDesc_SmithA04_2=Arcturovo kladivo bylo zdeformováno temnou magií, což bylo sice zbytečné, ale stále schopné plnit vůli svého pána.
-tagGDX1StoreDesc_SmithA04_3= 
+tagGDX1StoreDesc_SmithA04_3=
 tagGDX1StoreDesc_SmithA04_4=Vyrobené zbraně, zbroj a příslušenství jsou prodchnuty jednou z následujících vlastností:
 
 tagGDX1NPC_IllusionistA01=Wevala
