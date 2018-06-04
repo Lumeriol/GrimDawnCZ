@@ -693,8 +693,8 @@ tagGDX1Devotion_A101=Jelen
 tagGDX1Devotion_A101Desc=Jelen je laskavý, přesto oddaný strážce přírody.
 tagGDX1Devotion_A102=Ubožák
 tagGDX1Devotion_A102Desc=Ubožák se svíjí na noční obloze, poskvrněný Umírajícím bohem, který se usídlil v jeho těle.
-tagGDX1Devotion_A103=Pero
-tagGDX1Devotion_A103Desc=Pero, o němž se říká, že bylo použito při usnesení sepisovaném nad lidstvem samotnými bohy. Jeho inkoust je nekonečná noční obloha.
+tagGDX1Devotion_A103=Brk
+tagGDX1Devotion_A103Desc=Brk, o němž se říká, že byl použit při usnesení sepisovaném nad lidstvem samotnými bohy. Jeho inkoust je nekonečná noční obloha.
 tagGDX1Devotion_A104=Ropucha
 tagGDX1Devotion_A104Desc=Ropucha je zjevením nepořádku, oblíbený to symbol čarodějek a čarodějů.
 

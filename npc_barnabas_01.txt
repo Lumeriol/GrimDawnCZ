@@ -80,14 +80,14 @@ Seženu ten šrot, který potřebuješ.
 Promiň, nemám čas.
 
 Ehm, proč prostě nedáš vědro do řeky?
-[[ms]Viděl[fs]Viděla] si tam ta plovoucí těla?{^n}{^n}Povrchová voda tady všude kolem je znehodnocená nemocemi a hnilobou. Jedinou naší nadějí je ta studna.{^n}{^n}Seženeš teďka už nějakej ten šrot, nebo se mám spokojit s řečma?
+[[ms]Viděl[fs]Viděla] jsi tam ta plovoucí těla?{^n}{^n}Okolní povrchová voda je znehodnocená nemocemi a hnilobou. Jedinou naší nadějí je ta studna.{^n}{^n}Seženeš teďka už nějakej ten šrot, nebo se mám spokojit jenom s řečma?
 
 Je toho šrotu dost?
-Úchvatné! Díky mrtvým toulajícím se po Dolním rozcestí jsme neměli moc štěstí s hledáním zásob. Ale vypadá to, že ty sis prozatím [[ms]vedl[fs]vedla] dobře. Nakopnu větrnou pumpu a budeme fungovat hned. Ďáblův průsmyk bude mít znovu pitnou vodu právě díky tobě. {^n}{^n}První runda je na mě.
-[[ms]Rád[fs]Ráda] jsem [[ms]vypomohl[fs]vypomohla].
+Úchvatné! Díky mrtvým toulajícím se po Dolním rozcestí jsme neměli moc štěstí s hledáním zásob. Ale vypadá to, že ty sis prozatím [[ms]vedl[fs]vedla] dobře. Nakopnu větrnou pumpu a začneme hned fungovat. Ďáblův průsmyk bude mít znovu pitnou vodu právě díky tobě.{^n}{^n}První runda je na mě.
+[[ms]Rád[fs]Ráda] jsem [[ms]pomohl[fs]pomohla].
 
-Doručili moji spojenci ten šrot?
-Ano, ovšem! Neměli bychom jistě takové štěstí v hledání zásob, a to právě díky nemrtvým brouzdajícím po Dolním rozcestí. Nicméně to vypadá, že ty si je hravě [[ms]zvládl[fs]zvládla]. Ďáblův průsmyk bude mít znovu pitnou vodu právě díky tobě. {^n}{^n}První runda je na mě.
+Byl ti doručen ten šrot?
+Ano, ovšem! Neměli bychom jistě takové štěstí v hledání zásob, a to právě díky nemrtvým brouzdajícím po Dolním rozcestí. Nicméně to vypadá, že tys je hravě [[ms]zvládl[fs]zvládla]. Ďáblův průsmyk má znovu pitnou vodu právě díky tobě. {^n}{^n}První runda je na mě.
 Jsem [[ms]rád[fs]ráda], že jsme mohli vypomoci.
 
 Takže ty jsi [[ms]ten[fs]ta], co jsme [[ms]ho[fs]ji] málem oběsili! Tak nějak jsem v tom neviděl smysl, ale na druhou stranu, nikoho nezajímá, co si starej Barnabas myslí. {^n}{^n}Vážně by sis [[ms]měl[fs]měla] promluvit s kapitánem. To on rozhodne, jestli se tady pro tebe v Ďáblově průsmyku najde místo.

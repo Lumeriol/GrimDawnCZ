@@ -1515,10 +1515,10 @@ tagGDX1CompA112Name=Planoucí rubín
 tagGDX1CompA112Desc="Na vyleštěných ploškách drahokamu tančí oslnivý plamen."^w^n(může vylepšit amulet nebo medaili)
 
 tagGDX1CompA113Name=Runami svázaný topas
-tagGDX1CompA113Desc="Runa zdobící strany totoho drahokamu umocňuje tak jeho ochranné vlastnosti."^w^n(může vylepšit rings, amulet nebo medaili)
+tagGDX1CompA113Desc="Runa zdobící strany totoho drahokamu umocňuje tak jeho ochranné vlastnosti."^w^n(může vylepšit prsten, amulet nebo medaili)
 
 tagGDX1CompA114Name=Krvavý krystal
-tagGDX1CompA114Desc="Kdysi perleťově bílý krystal pohltil nevyslovitelné krveprolití."^w^n(může vylepšit rings, amulet nebo medaili)
+tagGDX1CompA114Desc="Kdysi perleťově bílý krystal pohltil nevyslovitelné krveprolití."^w^n(může vylepšit prsten, amulet nebo medaili)
 
 tagGDX1CompA115Name=Očarovaná hlína
 tagGDX1CompA115Desc="Půda byla obohacena esencí života ke stimulaci růstu a nerostného bohatství."^w^n(může vylepšit všechny druhy zbroje)

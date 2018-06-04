@@ -2894,7 +2894,7 @@ tagEnemySkillD02=Ohnivý démon
 tagEnemySkillD02_Desc=Spalují tě vířící se plameny.
 
 tagEnemySkillD03=Odčerpávající duch
-tagEnemySkillD03_Desc=Zlý duch tě straší, vysává z tebe vitalitu a přerušuje schopnost regenerace.
+tagEnemySkillD03_Desc=Zlý duch tě straší, vysává z tebe životní energii a přerušuje schopnost regenerace.
 
 tagEnemySkillD04=Podivná aura
 tagEnemySkillD04_Desc=Surová podivná energie obklopuje tento krystal, čímž posiluje podivné bytosti a poškozuje živé bytosti.
