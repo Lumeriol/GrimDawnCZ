@@ -3301,7 +3301,7 @@ tagCompA060Desc="Skořepina, která přečkala zdánlivě nemožné zásahy."^w^
 tagCompA061Name=Mast s protijedem
 tagCompA061Desc="Neutralizovaná žluč z obzvláště jedovatých tvorů."^w^n(může vylepšit všechny druhy zbroje)
 
-tagCompA062Name=Vroubkovaný skořepina
+tagCompA062Name=Vroubkovaná skořepina
 tagCompA062Desc="Tuhá skořepina složená z mnoha hrozivě vypadajících ostrých trnů."^w^n(může vylepšit štít)
 
 

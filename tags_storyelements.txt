@@ -211,7 +211,7 @@ tagWorldMapTombofArchon=Archónova{^n}hrobka
 tagWorldMapNecropolisGates=Brány{^n}Pohřebiště
 tagWorldMapHiddenPath=Utajená stezka
 tagWorldMapWitchGodTemple=Chrám Tří
-tagWorldMapWitchGodBoss=Svatyně{^n}čarodějných bohů
+tagWorldMapWitchGodBoss=Svatyně {^n}čarodějných bohů
 tagWorldMapCorpseCave=Zřídlo{^n}mrtvých
 
 tagWorldMapPortValbury=Valburský{^n}přístav
@@ -725,7 +725,7 @@ tagQuestItemExileBossDrop_01=Archív nevyřčených osudů
 tagQuestItemExileBossDrop_01Desc="Tato tlustá kniha se zdá být zapečetěna temnými silami. Její desky odmítají ustoupit od listů."
 
 tagQuestItemExileBossDrop_02=Hlava archiváře Thelona
-tagQuestItemExileBossDrop_02Desc="Stále žhnoucí aetherické oči na tebe upřeně civějí prázdným pohledem."
+tagQuestItemExileBossDrop_02Desc="Stále žhnoucí aetherické oči na tebe upřeně civí prázdným pohledem."
 
 tagQuestItemExileBossDrop_03=Pulzující obsidiánový úlomek
 tagQuestItemExileBossDrop_03Desc="Úlomek obsidiánu pulzuje temnou silou."
@@ -745,7 +745,7 @@ tagQuestItemAnnalsOfArkovia_Desc="Záznamy posledních dnů arkovianského král
 tagQuestItemThornsburyDiary=Dailin diář
 tagQuestItemThornsburyDiary_Desc="Majetek Daily Thornsbury."
 
-tagQuestItemSlithLab=Hargatův vzorec
+tagQuestItemSlithLab=Hargatova formule
 tagQuestItemSlithLab_Desc="Rozluštit čmáranice šíleného alchymisty Oswalda Hargata je nemožné."
 
 tagQuestItemAetherialEssence=Aetherický výtažek
