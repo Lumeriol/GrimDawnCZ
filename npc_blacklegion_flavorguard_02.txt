@@ -3,7 +3,7 @@ Pokračuj.
 Tak zatím.
 Ulgrim si vyžádal tvou přítomnost. Prosím, navštiv ho ihned.
 Kde je Ulgrim?
-Ulgrim momentálně mluví s Inkvizitorem Creedem na balkóně, pozorují pole. {^n}{^n}Schody nahoru najdeš poblíž místnosti pro plánování, tam, kde je Kapitán Somerová.
+Ulgrim momentálně mluví s inkvizitorem Creedem na balkóně, pozorují pole. {^n}{^n}Schody nahoru najdeš poblíž místnosti pro plánování, tam, kde je kapitán Somerová.
 Děkuji ti.
 Promluvím s ním.
 Ulgrim si vyžádal tvou přítomnost. Prosím, navštiv ho ihned.
@@ -15,6 +15,6 @@ Promluvím s ním.
 Na to teď nemám čas.
 Měj se na pozoru. Nepřátelé lidstva jsou všude kolem nás.
 Můžeš otevřít brány?
-Je mi líto. Máme přísný zákaz otevírat brány, dokud přetrvává Aetherianská hrozna na západě.
+Je mi líto. Máme přísný zákaz otevírat brány, dokud přetrvává Aetherianská hrozba na západě.
 Chápu.
 Budu [[ms]opatrný[fs]opatrná].

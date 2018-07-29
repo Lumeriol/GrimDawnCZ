@@ -219,7 +219,7 @@ tagGDX1EnemyWendigo_C01=Wendigo ~ stařešina
 
 tagGDX1EnemyWendigoCannibal_A01=Ugdenský nešťastník
 tagGDX1EnemyWendigoCannibal_A02=Ugdenský mizera
-tagGDX1EnemyWendigoCannibal_B01=Ugdenská zkroucenina
+tagGDX1EnemyWendigoCannibal_B01=Ugdenský umrlec
 tagGDX1EnemyWendigoCannibal_C01=Ugdenský značkovač
 
 tagGDX1EnemyWendigoCannibal_Special01=Silvie

@@ -85,13 +85,13 @@ tagGDX1Class07SkillName05C=Příval chladu
 tagGDX1Class07SkillDescription05C=Využiješ plný potenciál Hagarradovy runy, díky čemuž může dojít k úplnému zmrazení slabšího nepřítele.
 
 tagGDX1Class07SkillName06A=Inkvizitorská pečeť
-tagGDX1Class07SkillDescription06A=Nakreslíš do země ochrannou pečeť, která ochrání tvé spojence a potrestá nepřátele, kteří překročí její okraj. Pečeť ale nemá nekonečnou účinnost a po čase zmizí. ^oÚčinky Inkvizitorské pečetě rostou spolu s bonusy postavy.
+tagGDX1Class07SkillDescription06A=Nakreslíš do země ochrannou pečeť, která ochrání tvé spojence a potrestá nepřátele, kteří překročí její okraj. Pečeť ale nemá nekonečnou účinnost a po čase zmizí. ^oÚčinky Inkvizitorské pečeti rostou spolu s bonusy postavy.
 tagGDX1Class07SkillName06A_PetSkill01=Bariéra
 tagGDX1Class07SkillName06A_PetSkill02=Potrestání
 tagGDX1Class07SkillName06B=Zvýšení rituálních účinků
 tagGDX1Class07SkillDescription06B=Spojenci stojící uvnitř pečetě jsou posilováni rituálními energiemi, které se vštěpí do jejich kouzel a zbraní a dá jim větší sílu.
 tagGDX1Class07SkillName06C=Nulová oblast
-tagGDX1Class07SkillDescription06C=Kresba Inkvizitorské pečetě může být pozměněna, pokud je to skutečně potřeba, a její okraj se tak stane neproniknutelným vůči blížícím se projektilům, ale pouze za cenu zvýšeného psychického vyčerpání.
+tagGDX1Class07SkillDescription06C=Kresba Inkvizitorské pečeti může být pozměněna, pokud je to skutečně potřeba, a její okraj se tak stane neproniknutelným vůči blížícím se projektilům, ale pouze za cenu zvýšeného psychického vyčerpání.
 
 tagGDX1Class07SkillName07A=Kalastorova runa
 tagGDX1Class07SkillDescription07A=Umístíš Kalastorovu runu na zem. Tento nestálý artefakt exploduje při kontaktu s nepřítelem a metá na bojiště další vybuchující šrapnely, které se dál tříští a trhají, aby napáchaly co největší škody. ^oKalastorova runa vyžaduje 1.5 vteřiny na nabití a účinek roste s bonusy postavy.
@@ -106,7 +106,7 @@ tagGDX1Class07SkillName09A=Aura zavržení
 tagGDX1Class07SkillDescription09A=Už jen přítomnost inkvizitora je dost na to, aby se nepřátelé lidstva třásli. Díky runám vetknutým do oblečení se inkvizitoři vrhají do boje s ohněm v srdci. ^oTato schopnost musí být aktivní, aby účinkovala.
 
 tagGDX1Class07SkillName10A=Gandarrův roh
-tagGDX1Class07SkillDescription10A=Studování Gandarrova rohu bylo po staletí zakázáno díky jeho zdrcujícím účinkům mysli, ale zoufalost dohnala velkého Inkvizitora Serenira k jeho účinnému užití, když pak jednou rukou rozdrtil sněm okultistů. Kultisté se zmatení obraceli jeden proti druhému, což umožnilo Serenirovi s lehkostí dorazit ty zbývající. To inkvizitorovi přineslo chválu a Roh mohl být poté studován a napodobován učni Luminářů pro účel boje, nicméně se sníženým účinkem.
+tagGDX1Class07SkillDescription10A=Studování Gandarrova rohu bylo po staletí zakázáno díky jeho zdrcujícím účinkům mysli, ale zoufalost dohnala velkého inkvizitora Serenira k jeho účinnému užití, když pak jednou rukou rozdrtil sněm okultistů. Kultisté se zmatení obraceli jeden proti druhému, což umožnilo Serenirovi s lehkostí dorazit ty zbývající. To inkvizitorovi přineslo chválu a Roh mohl být poté studován a napodobován učni Luminářů pro účel boje, nicméně se sníženým účinkem.
 
 tagGDX1Class07SkillName11A=Specializace ve střelbě
 tagGDX1Class07SkillDescription11A=I když jsou inkvizitoři vyzbrojeni celou škálou relikvií a artefaktů, všichni musí být někdy připraveni čelit nepřátelům a spoléhat se jen na své schopnosti a výzbroj. Zkušené používání střelných zbraní umožňuje inkvizitorům složit oběť z bezpečné vzdálenosti. ^oToto je bonus ke střelným zbraním. Také umožňuje ovládat dvě střelné zbraně najednou.

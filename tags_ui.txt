@@ -122,7 +122,7 @@ tagQuestRewardXP=Zkušenosti: {%d0}
 tagQuestRewardReputationPositive={%s1}: +{%d0} přízně
 tagQuestRewardReputationNegative={%s1}: -{%d0} přízně
 tagQuestRewardAcceptButton=Zavřít
-tagQuestBlockedDescription=Úkol je prozatím zablokován, hostující hráč jej ještě nedokončil.
+tagQuestBlockedDescription=Úkol je dočasně zablokován, hostující hráč jej ještě nedokončil.
 
 tagObjectives=Cíle
 

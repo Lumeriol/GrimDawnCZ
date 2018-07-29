@@ -513,7 +513,7 @@ tagWeaponCaster1hC017=Vyvolavač kamenných pohrom
 tagWeaponCaster1hC018=Kosmický vyvolavač
 tagWeaponCaster1hC019=Lapač bouří
 tagWeaponCaster1hC020=Kráječ s pekelnými runami
-tagWeaponCaster1hC021=Z ledu stvořená kouzelná čepel
+tagWeaponCaster1hC021=Z ledu skutá kouzelná čepel
 tagWeaponCaster1hC022=Zkrvavená dýka závazku
 tagWeaponCaster1hC023=Aldritchovo žezlo
 tagWeaponCaster1hC023_Desc="Z žezla vychází pochybný šepot v jazyce, kterému se nedá porozumět."
@@ -3666,7 +3666,7 @@ tagItemSetD019Name=Valdunova zrada
 tagItemSetD019Desc="Valdun byl jedním z nejlepších střelců v celém Cairnu, dokud neobrátil hlaveň proti erulanské šlechtě, čímž se stal vpravdě nechvalně známým."
 
 tagItemSetD020Name=Smlouva s pomalou smrtí
-tagItemSetD020Desc="Zbroj nošená skupinou nočních lovců, kteří se specializovali na co nejodpornější využití kyselin ve svých zbraních."
+tagItemSetD020Desc="Zbroj nošená skupinou nočních lovců, kteří se specializovali na co nejodpornější využití jedů na svých zbraních."
 
 tagItemSetD021Name=Dohoda s černým plamenem
 tagItemSetD021Desc="Roucho Bledého, mistra v užívání Solaelova černého plamene."
@@ -3675,7 +3675,7 @@ tagItemSetD022Name=Obránce Světla
 tagItemSetD022Desc="Ochránce víry, obránce Empyrionova Světla."
 
 tagItemSetD023Name=Pekelný rytíř
-tagItemSetD023Desc="Zbroj Gallrose Vala, známého spíše jako Pekelný rytíř Černé legie."
+tagItemSetD023Desc="Zbroj Gallrose Vala, jež je známý spíše jako Pekelný rytíř Černé legie."
 
 tagItemSetD024Name=Agrivixův hněv
 tagItemSetD024Desc="Agrivix byl uznávaným mistrem tajemných energií, leč jeho žízeň po moci mu nakonec přinesla jen zkázu."
