@@ -1,4 +1,4 @@
-ItemDB_tagItemDB=Grim Dawn Item Database
+ItemDB_tagItemDB=Grim Dawn - databáze předmětů
 
 # Menu
 ItemDB_tagMenuLanguage=Jazyk

@@ -1,4 +1,4 @@
-Calc_tagCalc=Grim Dawn kalkulačka postavy
+Calc_tagCalc=Grim Dawn - kalkulačka postavy
 
 Calc_tagConfirmUndoClassSelection=Opravdu chceš zrušit výběr povolání?
 Calc_tagConfirmUndoClassPoints=Opravdu chceš vrátit všechny body dovednosti?
