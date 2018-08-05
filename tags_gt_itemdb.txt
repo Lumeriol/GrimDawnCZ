@@ -1,15 +1,15 @@
-ItemDB_tagItemDB=Grim Dawn - databáze předmětů
+ItemDB_tagItemDB=Grim Dawn Item Database
 
 # Menu
 ItemDB_tagMenuLanguage=Jazyk
 ItemDB_tagMenuSettings=Nastavení
-ItemDB_tagMenuItemAttributes=Vlastnosti předmětů
+ItemDB_tagMenuItemAttributes=Vlastnosti předmětu
 ItemDB_tagMenuItemAttributesAverage=Zobrazit průměrné hodnoty
 ItemDB_tagMenuItemAttributesMinMax=Zobrazit min/max hodnoty
 ItemDB_tagMenuItemAttributesRaw=Zobrazit základní hodnoty
 ItemDB_tagMenuItemShowAllPetAttributesAndSkills=Zobrazit vlastnosti a dovednosti spojenců
 ItemDB_tagMenuItemHighlightMI=Zvýraznit osobní předměty příšer
-ItemDB_tagMenuItemShowAllMonsters=Rozšířit seznamy o "Lze získat z"
+ItemDB_tagMenuItemShowAllMonsters=Rozšířit seznam o "Lze získat z"
 
 # Misc
 ItemDB_tagOverlayBuildingDB=Sestavuji databázi…
@@ -71,7 +71,7 @@ ItemDB_tagOther=Ostatní
 
 # Left panel: category titles
 ItemDB_tagCategoryHelms=Helmy
-ItemDB_tagCategoryShoulders=Ramena
+ItemDB_tagCategoryShoulders=Nárameníky
 ItemDB_tagCategoryChestArmor=Ochrana hrudi
 ItemDB_tagCategoryGloves=Ochrana rukou
 ItemDB_tagCategoryBelts=Opasky
@@ -95,7 +95,7 @@ ItemDB_tagCategoryMedals=Medaile
 ItemDB_tagCategoryRelics=Relikvie
 ItemDB_tagCategoryAugments=Vylepšení
 ItemDB_tagCategoryComponents=Komponenty
-ItemDB_tagCategoryConsumables=Spotřební materiál
+ItemDB_tagCategoryConsumables=Spotřební předměty
 ItemDB_tagCategoryQuestItems=Úkolové předměty
 ItemDB_tagCategoryBlueprints=Plánky
 
@@ -122,3 +122,7 @@ ItemDB_tagHiddenStat={^S}(tajné)
 # Monster db integration
 ItemDB_tagDroppedFromMonsters=Lze získat z:
 ItemDB_tagAnyMonster=(kdokoliv)
+
+# Map integration
+# Link to monster location on the map, shown next to the monster name
+ItemDB_tagMonsterMapLink=Mapa

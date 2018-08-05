@@ -14,7 +14,7 @@ Děkuji ti.
 Aréna pohltila dalšího. Běž, vezmi si svou směšnou odměnu a mazej mi z očí.
 Přeji si znovu vstoupit do Arény.
 Vidět tě se svíjet bylo vskutku zábavné, to musím přiznat.{^n}{^n}Mám připravit Arénu?{^n}{^n}(Aktivace Arény znovu vyresetuje všechny tvé odměny. Všichni hráči budou vráceni zpět na místo zrodu. Pokračuj pouze tehdy, pokud sis svou odměnu již [[ms]vyzvedl[fs]vyzvedla].)
-Ano, pokračuj (Začni od začátku)
+Ano, pokračuj (začni od začátku)
 Začni znovu v záchytném bodě (vzdej se 5 Bodů cti)
 Začni znovu v záchytném bodě (vzdej se 15 Bodů cti)
 Začni znovu v záchytném bodě (vzdej se 30 Bodů cti)
@@ -28,7 +28,7 @@ Tak dobrá.
 Aréna pohltila dalšího. [[ms]Dostal[fs]Dostala] ses daleko, ale nakonec si [[ms]byl krátký[fs]byla krátká] na ultimátní výzvu.{^n}{^n}Jdi, vezmi si svou směšnou odměnu a mazej mi z očí.
 
 Tak dobrá.
-[[ms]Zvolil[fs]Zvolila] sis konec svému utrpení. Pochopitelně.{^n}{^n}Ne všichni jsou zrozeni pro to dobýt to, co jsem stvořil.{^n}{^n}Vezmi si odměnu a odejdi.
+[[ms]Zvolil[fs]Zvolila] sis konec svému utrpení. Pochopitelně.{^n}{^n}Ne všichni jsou zrozeni k tomu, aby dobyli to, co jsem stvořil.{^n}{^n}Vezmi si odměnu a odejdi.
 Přeji si znovu vstoupit do Arény.
 Možná se ti tentokrát povede lépe.{^n}{^n}Mám připravit Arénu?{^n}{^n}(Připravení nové Arény odstraní všechny tvé odměny. Všichni hráči budou vráceni zpět na místo zrodu. Pokračuj pouze tehdy, pokud sis svou odměnu již [[ms]vyzvedl[fs]vyzvedla].)
 Ano, pokračuj (začni od začátku)
