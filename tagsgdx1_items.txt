@@ -629,7 +629,7 @@ tagGDX1WaistD103_Desc="Každý zbloudilý duch skončí jako vlákno tohoto opas
 tagGDX1WaistD104=Sada zrádných prostředků
 tagGDX1WaistD104_Desc="Šeptá se mezi lidmi, že kdysi tento pás patřil noční lovkyni Nidalle, která mšla každou lahvičku naplněnou speciálním toxinem. Některé z nich je dokonce možné sloučit a vytvářet tak úplně nové kombinace."
 tagGDX1WaistD105=Šňůra obelhání
-tagGDX1WaistD106Beronathovy šupiny
+tagGDX1WaistD106=Beronathovy šupiny
 tagGDX1WaistD106_Desc="Šupiny z velkého netvora Beronathaani ani po mnoha staletích neshnily a evidentně se tak ani dlouze nestane."
 tagGDX1WaistD113=Zuhelnatělý pás
 tagGDX1WaistD114=Potrhaný pás
@@ -1676,10 +1676,10 @@ tagGDX1ItemSetD120Name=Belgothianovo krveprolití
 tagGDX1ItemSetD120Desc="Zbroj, kterou kdysi dávno nosíval mistr Nočních čepelí Belgothian, jež bezohledně masakroval každého jen aby viděl krev, což znepokojovalo i jeho podřízené."
 
 tagGDX1ItemSetD121Name=Radagganova pošetilost
-tagGDX1ItemSetD121Desc="Armor of Astor Radaggan, heretic and betrayer to the Luminari, turned loyal servant of the Great Guardian."
+tagGDX1ItemSetD121Desc="Zbroj Astora Radaggana, kacíře a zrádce Luminářů, jež se stal věrným služebníkem Velkého strážce."
 
 tagGDX1ItemSetD122Name=Mrazík
-tagGDX1ItemSetD122Desc="Armor of the Rimetongue, elusive member of the emperor's court, master of infiltration and political sabotage."
+tagGDX1ItemSetD122Desc="Mrazíkova zbroj, nedostižitelného člena císařského dvora, mistra v infiltraci a politické sabotáže."
 
 tagGDX1ItemSetD123Name=Krvavý rytíř
 tagGDX1ItemSetD123Desc="Krvavá zbroj lorda Nazarana, Krále v karmínu, více známého jako Krvavý rytíř."

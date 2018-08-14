@@ -12,11 +12,11 @@ MonsterDB_tagGameVersion=Verze hry:
 MonsterDB_tagBuildVersion=Verze sestavení:
 MonsterDB_tagDifficulty=Obtížnost:
 
-MonsterDB_tagMonsterLevel=Úroveň nepřátel
+MonsterDB_tagMonsterLevel=Úroveň
 
 # skills tab
 MonsterDB_tagTabSkills=Dovednosti
-MonsterDB_tagSkillInitialTimeout={^E}Časový limit pro počáteční použití:{^H} {%s0}
+MonsterDB_tagSkillInitialTimeout={^E}Doba před prvním použitím:{^H} {%s0}
 MonsterDB_tagSkillUseDelay={^E}Prodleva před dalším použitím:{^H} {%s0}
 MonsterDB_tagSkillChanceToUse={^E}Šance na použití po prodlevě:{^H} {%d0}%
 MonsterDB_tagSkillRange={^E}Dosah:{^H} {%s0}
@@ -42,7 +42,7 @@ MonsterDB_tagSkillSpawnInterval={^E}Interval znovuzrození:{^H} {%s0}
 MonsterDB_tagSkillNumberOfSpawns={^E}Počet v tlupě:{^H} {%s0}
 
 # spawn locations tab
-MonsterDB_tagTabSpawnLocations=Výskyt nepřítele
+MonsterDB_tagTabSpawnLocations=Výskyt
 MonsterDB_tagShowOnTheMap=Zobrazit na mapě
 # shown if monster can't appear on its own, but instead spawned by someone else (as a pet, n-th phase etc.)
 # Usage: "Spawned by: Avatar of Mogdrogen" 

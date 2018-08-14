@@ -400,7 +400,7 @@ tagGDX1ItemSkillD141Desc=Nepřítel bude označen znamením meče, čímž se je
 tagGDX1ItemSkillD142Name=Prokletí Prázdnotou
 tagGDX1ItemSkillD142Desc=Nepřítel bude označen Prázdnotou, jejíž šeptání jej psychicky zničí zevnitř.
 
-tagGDX1ItemSkillD143Name=Oblast z blesky
+tagGDX1ItemSkillD143Name=Aréna blesků
 tagGDX1ItemSkillD143Desc=Na tvůj pokyn bude vytvořena oblast elektrických výbojů a zasáhne jakéhokoliv nepřítele, který se pokusí projít skrz, elektrickým proudem.
 
 tagGDX1ItemSkillD144Name=Ochranné runy

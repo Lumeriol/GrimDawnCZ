@@ -117,7 +117,7 @@ tagGDX1EnemyChthonianWretch_B01=Moronosný slídil Prázdnoty
 tagGDX1EnemyChthonianWretch_C01=Nakažený slídil Prázdnoty
 
 tagGDX1EnemyChthonianRylok_A01=Zadavatel Prázdnoty
-tagGDX1EnemyChthonianRylok_B01=Kaprál Prázdnoty
+tagGDX1EnemyChthonianRylok_B01=Korporál Prázdnoty
 tagGDX1EnemyChthonianRylok_C01=Utlačovatel Prázdnoty
 
 tagGDX1EnemyChthonianServitor_A01=Chthonský trubec

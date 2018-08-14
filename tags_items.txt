@@ -3042,9 +3042,9 @@ tagEnchantB059B=Mogdrogenovo požehnání II
 tagEnchantB059C=Mogdrogenovo požehnání III
 tagEnchantB059Desc="Prach byl údajně požehnán samotným zvířecím bohem k posílení vztahu mezi člověkem a zvířetem."^w^n(použitelné na prsten nebo amulet)
 
-tagEnchantB060A=Dotek Empyrionu
-tagEnchantB060B=Dotek Empyrionu II
-tagEnchantB060C=Dotek Empyrionu III
+tagEnchantB060A=Dotek Empyriona
+tagEnchantB060B=Dotek Empyriona II
+tagEnchantB060C=Dotek Empyriona III
 tagEnchantB060Desc="Jiskřící prach, kterého se prý dotkl samotný Světlonoš."^w^n(použitelné na prsten nebo amulet)
 
 tagEnchantB061A=Pekelný prach
@@ -3823,7 +3823,7 @@ tagPrefixB030_Ar_A=[ms]ledový[fs]ledová[ns]ledové[mp]ledové[fp]ledové[np]le
 tagPrefixB031_Ar_A=[ms]bleskem zasažený[fs]bleskem zasažená[ns]bleskem zasažené[mp]bleskem zasažené[fp]bleskem zasažené[np]bleskem zasažené
 tagPrefixB032_Ar_A=[ms]démonický[fs]démonická[ns]démonické[mp]démonické[fp]démonické[np]démonické
 tagPrefixB033_Ar_A=|9Aetherického ohně
-tagPrefixB034_Ar_A=[ms]kaprálův[fs]kaprálova[ns]kaprálovo[mp]kaprálovi[fp]kaprálovy[np]kaprálovy
+tagPrefixB034_Ar_A=[ms]korporálův[fs]korporálova[ns]korporálovo[mp]korporálovi[fp]korporálovy[np]korporálovy
 tagPrefixB035_Ar_A=|9dominance
 
 tagPrefixB001_Class_A=[ms]úderníkův[fs]úderníkova[ns]úderníkovo[mp]úderníkovi[fp]úderníkovy[np]úderníkovy

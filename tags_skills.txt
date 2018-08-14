@@ -488,7 +488,7 @@ tagClass05SkillName00=Vládce temnot
 tagClass05SkillDescription00=Trénování těla a mysli pomáhá snést zničující síly prvotní magie.
 
 tagClass05SkillName01A=Panettiho replikující se střela
-tagClass05SkillDescription01A=Největší s Cortosianských Vládců temnot, Panetti, se zabýval vývojem vylepšené tajuplné střely. Jeho triumfem je změna, která očividně popírá zákony zachování energie, protože střela při nárazu vytvoří vícero vlastních kopií.
+tagClass05SkillDescription01A=Největší z Cortosianských Vládců temnot, Panetti, se zabýval vývojem vylepšené tajuplné střely. Jeho triumfem je změna, která očividně popírá zákony zachování energie, protože střela při nárazu vytvoří vícero vlastních kopií.
 tagClass05SkillName01B=Zkomolení
 tagClass05SkillDescription01B=Replikující se střela zkomolí samotnou podstatu tvého nepřítele, což zvýší šance na to, že projektil projde skrze tvůj cíl.
 tagClass05SkillName01C=Přeplňování
