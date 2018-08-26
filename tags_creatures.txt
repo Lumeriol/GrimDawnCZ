@@ -561,8 +561,8 @@ tagEnemyObsidianDefilerB01=Obsidiánový znečišťovatel
 tagEnemyObsidianDefilerC01=Obsidiánový vyhlazovač
 tagEnemyObsidianDefilerC02=Obsidiánový likvidátor
 
-tagObsidianDefilerHeroH01=Obsidius, titán
-tagObsidianDefilerHeroH02=Ch'thallis, uchvatitel
+tagObsidianDefilerHeroH01=Titán Obsidius
+tagObsidianDefilerHeroH02=Uchvatitel Ch'thallis
 tagObsidianDefilerHeroH03=Kelphat'Idoth ~ elektrizující
 tagObsidianDefilerHeroH04=Orudin'Idoth ~ zmrzlý
 tagObsidianDefilerHeroH05=Drygol'Ukog ~ neurvalec

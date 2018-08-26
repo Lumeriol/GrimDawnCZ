@@ -2080,8 +2080,8 @@ DefenseAllMaxResistR={%+.0f0}-{%.0f1} % {^E}k maximu všech odolností
 DefenseReflectResist={%+.0f0} % {^E}snížené odražení zranění
 DefenseReflectResistR={%+.0f0}-{%.0f1} % {^E}snížené odražení zranění
 
-RacialBonusPercentDamage={%+.0f0}% {^E}zranění vůči frakci {^H}{%s1}
-RacialBonusAbsoluteDamage={%+.0f0} {^E}zranění vůči frakci {^H}{%s1}
+RacialBonusPercentDamage={%+.0f0} % {^E}zranění frakci {^H}{%s1}
+RacialBonusAbsoluteDamage={%+.0f0} {^E}zranění frakci {^H}{%s1}
 RacialBonusPercentDefense={^E}{%s1} ti udělí o {^H}{%.0f0} % {^E}menší zranění
 RacialBonusAbsoluteDefense={^E}{%s1} ti udělí o {^H}{%.0f0} % {^E}menší zranění
 RacialBonusRaceName={%s0}

@@ -37,7 +37,7 @@ Vskutku, ale zatímco je jedna záležitost uzavřená, jiná začíná. Nemáme
 Jak můžu pomoci?
 Vrátím se.
 Jak pokračuje tvá snaha v Ďáblově průsmyku?{^n}{^n}S tak malým počtem, jaký nás zbývá, se počítá každá osada.
-Cože mám udělat?
+Co že mám udělat?
 Vydej se zpátky do Ďáblova průsmyku a pomoz Kapitánu Bourbonovi s čímkoliv bude potřeba. {^n}{^n}Jednoduše si nemůžeme dovolit nechat šířit vliv Aetherianů v této oblasti bez odporu.
 Pak vyrazím.
 Ještě hodně toho chybí.
@@ -160,14 +160,14 @@ Co tady ještě pořád děláš? Ulgrim tě potřebuje na Pohřebišti!
 Hned tam vyrazím.
 [[ms]Zabezpečil[fs]Zabezpečila] si Bránu?
 Kde že najdu Pohřebiště?
-Jdi předními branami z pevnosti Ikon a vydej se skrze Pláně sváru. Brány Pohřebiště jsou pak nedaleko.{^n}{^n}Jakmile tam budeš, najdi Bránu a zabezpeči ji, aby naše jednotky mohly udeřit na Kult.
+Jdi předními branami z pevnosti Ikon a vydej se skrze Pláně sváru. Brány Pohřebiště jsou pak nedaleko.{^n}{^n}Jakmile tam budeš, najdi Bránu a zabezpeč ji, aby naše jednotky mohly udeřit na Kult.
 Děkuji ti.
 [[ms]Měl[fs]Měla] bych nějaké otázky.
 Ano?
 Kdo je Anasteria?
-Anasteria? Proč se ptáš...
+Anasteria? Proč se ptáš...?
 Kapitán Reave se o ní zmínil.
-Aha, už tomu rozumím.{^n}{^n}Vše, co potřebuješ vědět, je to, nehledě na to, co kapitán Reave může tvrdit, že Anasteria byla cenným spojencem. Její znalost Aetheru pomohla zachránit mnoho životů.{^n}{^n}Anasterii se nestane nic nehledě na to, co ti kapitán Reave řekl.
+Aha, už tomu rozumím.{^n}{^n}Vše, co potřebuješ vědět, je to, nehledě na to, co kapitán Reave může tvrdit, že Anasteria byla cenným spojencem. Její znalost Aetheru pomohla zachránit mnoho životů.{^n}{^n}Anasterii se nestane nic, ať už ti kapitán Reave napovídal cokoliv.
 Mám další otázku.
 Dobrá.
 [[ms]Zaslechl[fs]Zaslechla] jsem její jméno.

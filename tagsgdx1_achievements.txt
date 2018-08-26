@@ -88,14 +88,14 @@ achGDX1027Desc=Dosáhni uctívané přízně od Obránců Malmouthu.
 achGDX1028Title=Uctívaný šampión
 achGDX1028Desc=Získej si přízeň devíti frakcí.
 
-achGDX1029Title=Obránce Malmouth
-achGDX1029Desc=Dokonči rozšíření Malmouth: Prach a popel.
+achGDX1029Title=Obránce Malmouthu
+achGDX1029Desc=Dohraj rozšíření Malmouth: Prach a popel.
 
 achGDX1030Title=Šampión Malmouthu
-achGDX1030Desc=Dokonči rozšíření Malmouth: Prach a popel na elitní obtížnosti.
+achGDX1030Desc=Dohraj rozšíření Malmouth: Prach a popel na elitní obtížnosti.
 
-achGDX1031Title=Savior of Malmouth
-achGDX1031Desc=Dokonči rozšíření Malmouth: Prach a popel na ultimátní obtížnosti.
+achGDX1031Title=Zachránce Malmouthu
+achGDX1031Desc=Dohraj rozšíření Malmouth: Prach a popel na ultimátní obtížnosti.
 
 achGDX1032Title=Hromadná likvidace
 achGDX1032Desc=Zbav Cairn 200.000 příšer.
@@ -122,7 +122,7 @@ achGDX1039Title=Knihomol
 achGDX1039Desc=Posbírej 70 zápisků.
 
 achGDX1040Title=Nesmrtelný zachránce Malmouthu
-achGDX1040Desc=Dokonči rozšíření Malmouth: Prach a popel na ultimátní obtížnosti ve Výzvě.
+achGDX1040Desc=Dohraj rozšíření Malmouth: Prach a popel na ultimátní obtížnosti ve Výzvě.
 
 achGDX1041Title=Zkouška zkaženosti
 achGDX1041Desc=Přetrp Zkoušku zkaženosti ve Starodávném háji.
