@@ -124,5 +124,8 @@ ItemDB_tagDroppedFromMonsters=Lze získat z:
 ItemDB_tagAnyMonster=(kdokoliv)
 
 # Map integration
-# Link to monster location on the map, shown next to the monster name
+# Link to monster location on the map
+ItemDB_tagDroppedFromContainers=Lze získat z:
+# Link to merchant location on the map
+ItemDB_tagSoldByMerchant=Lze koupit u:
 ItemDB_tagMonsterMapLink=Mapa

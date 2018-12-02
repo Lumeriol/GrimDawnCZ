@@ -11,7 +11,6 @@ Calc_tagBuffsOn={^G}ZAPNUTO{^E}
 Calc_tagBuffsOff={^R}VYPNUTO{^E}
 Calc_tagBuffsNone=Žádná
 
-Calc_tagLoadFromSaveFile=Načíst postavu ze souboru
 Calc_tagLinkToThisBuild=Odkaz na tuto postavu:
 Calc_tagBuildBBCode=Popis postavy (BB kódy pro fóra):
 
@@ -26,6 +25,12 @@ Calc_tagMenuItemIgnoreMasterySkillLimits=Ignorovat limity dovedností
 Calc_tagDevotionSearch=Hledat…
 Calc_tagDevotionSearchConstellations=Souhvězdí
 Calc_tagDevotionSearchStars=Hvězdy
+
+# save upload form
+Calc_tagLoadFromSaveFile=Načíst postavu ze souboru
+Calc_tagCharacterFilesLocation1=Pokud máš postavy uložené v Cloudu (výchozí nastavení), pak jsou soubory postav zde:
+Calc_tagCharacterFilesLocation2=V opačném případně je najdeš zde:
+Calc_tagCharacterSaveFileLocation=Soubory postav jsou umístěné ve složce:
 
 # offline calc
 Calc_tagMenuFile=Soubor

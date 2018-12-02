@@ -114,10 +114,10 @@ ach034Title=Bájná síla
 ach034Desc=Vytvoř bájnou relikvii.
 
 ach035Title=Mladičký průzkumník
-ach035Desc=Otevři 10 jednorázových truhliček.
+ach035Desc=Otevři 10 jednorázových truhel.
 
 ach036Title=Od průzkumu ke kořisti
-ach036Desc=Otevři 20 jednorázových truhliček.
+ach036Desc=Otevři 20 jednorázových truhel.
 
 ach037Title=Hledět ke hvězdám
 ach037Desc=Obnov 10 svatyň oddanosti.

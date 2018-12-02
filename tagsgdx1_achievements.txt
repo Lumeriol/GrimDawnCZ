@@ -116,7 +116,7 @@ achGDX1037Title=Oddanost až za hrob
 achGDX1037Desc=Obnov 55 svatyň oddanosti.
 
 achGDX1038Title=Výjimečný průzkumník
-achGDX1038Desc=Otevři 25 jednorázových truhliček.
+achGDX1038Desc=Otevři 25 jednorázových truhel.
 
 achGDX1039Title=Knihomol
 achGDX1039Desc=Posbírej 70 zápisků.
