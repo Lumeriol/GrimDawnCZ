@@ -857,6 +857,9 @@ tagCharStatsPetOAInfo=Procentuální bonus k útočné schopnosti tvých spojenc
 tagCharStatsPetDA=Obranná schopnost
 tagCharStatsPetDAInfo=Procentuální bonus k obranné schopnosti tvých spojenců a vyvolaných příšer.
 
+tagCharStatsPetPhysicalResist=Fyzická odolnost
+tagCharStatsPetPhysicalResistInfo=Procentuální bonus k fyzické odolnosti tvých spojenců a vyvolaných příšer.
+
 tagCharStatsPetFireResist=Odolnost vůči ohni
 tagCharStatsPetFireResistInfo=Procentuální bonus tvých spojenců a vyvolaných příšer k odolnosti vůči ohni.
 
@@ -1802,7 +1805,7 @@ DamageDurationCold= {^E}zranění omrzlinami
 DamageDurationReduced= {^E}snížení obrany
 DamageDurationFire= {^E}zranění popáleninami
 DamageDurationLife= {^E}zranění chřadnutím
-DamageDurationLifeLeach= {^E}vysátím života
+DamageDurationLifeLeach= {^E}zranění vysátím života
 DamageDurationLightning= {^E}zranění elektrickým šokem
 DamageDurationManaLeach= {^E}vysátím magické energie
 DamageDurationOffensiveAbility= {^E}snížení nepřátelské útočné schopnosti
@@ -2077,7 +2080,7 @@ DefenseSleepMaxResist={%+.0f0} % {^E}k maximu odolnosti vůči uspání
 DefenseSleepMaxResistR={%+.0f0}-{%.0f1} % {^E}k maximu odolnosti vůči uspání
 DefenseAllMaxResist={%+.0f0} % {^E}k maximum všech odolností
 DefenseAllMaxResistR={%+.0f0}-{%.0f1} % {^E}k maximu všech odolností
-DefenseReflectResist={%+.0f0} % {^E}snížené odražení zranění
+DefenseReflectResist={%.0f0} % {^E}snížené odražení zranění
 DefenseReflectResistR={%+.0f0}-{%.0f1} % {^E}snížené odražení zranění
 
 RacialBonusPercentDamage={%+.0f0} % {^E}zranění frakci {^H}{%s1}
@@ -2096,6 +2099,7 @@ tagDamageModifierCritDamage={%+.0f0}% {^E}kritického zranění
 tagDamageModifierCritDamageR={%+.0f0}-{%.0f1}% {^E}kritického zranění
 tagDamageModifierDamageMult={^H}{%.0f0}% {^E}celkového zranění
 tagRetaliationModifierTotalDamage={%+.0f0}% {^E}ke všem zraněním odplatou
+tagRetaliationModifierTotalDamageR={%+.0f0}-{%.0f1}% {^E}ke všem zraněním odplatou
 tagTotalSpeedResistance={%.0f0}% {^E}odolnost vůči zpomalení
 tagMindcontrolledMonster=Ovládaný myšlenkami
 tagSparkMaxNumberChanceSingle={^H}{%.0f0}% {^E}šance ovlivnit {^H}{%d1} {^E}nepřítele

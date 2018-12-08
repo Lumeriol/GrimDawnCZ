@@ -93,7 +93,7 @@ tagClass01SkillDescription01B=Běsnění tvé zbraně rozechvěje protivníka, z
 tagClass01SkillName01C=Smrtící pohyb
 tagClass01SkillDescription01C=Využíváš výhodu Rychlého útoku, což na krátkou dobu způsobí, že všechny tvé údery mají větší smrtící účinek. ^oSmrtící pohyb ovlivňuje všechny útoky, pokud je aktivní.
 tagClass01SkillName01D=Disharmonie
-tagClass01SkillDescription01D=Nesoulad rozhněvané duše proudí do vojákova útoku a naplní jej živelnou energií.
+tagClass01SkillDescription01D=Nesoulad rozhněvané duše proudí do vojákova útoku a naplní jej elektrickou energií.
 
 tagClass01SkillName02A=Tlaková vlna
 tagClass01SkillDescription02A=Do útoku je dána taková síla, že stlačí samotný vzduch a vyvolá vlnu energie, která omráčí a zraní protivníka. ^oTento druh útoku vyžaduje štít nebo obouruční chladnou zbraň.
@@ -112,7 +112,7 @@ tagClass01SkillDescription03B=Neočekávanost a zuřivost tvého útoku rozhodí
 tagClass01SkillName04A=Válečný pokřik
 tagClass01SkillDescription04A=Válečný pokřik, po kterém tuhne krev v žilách, oslabí odhodlání tvých nepřátel a naruší jejich soustředění.
 tagClass01SkillName04C=Vyděšení
-tagClass01SkillDescription04C=Méně rozhodní nepřátelé uprchnou za zvuků tvé výzvy nahánějící hrůzu.
+tagClass01SkillDescription04C=Méně rozhodní nepřátelé uprchnou před zvuky tvé výzvy nahánějící hrůzu, a odhalí své slabiny, kam je můžeš zasáhnout.
 tagClass01SkillName04B=Zlomení morálky
 tagClass01SkillDescription04B=Válečný pokřik ochromí morálku nepřítele, což způsobí jejich bezmocnost vůči tvé osobě.
 
@@ -204,7 +204,7 @@ tagClass02SkillDescription04A=Výbušnina obalená dalšími výbušninami; tent
 tagClass02SkillName04B=Vylepšené pouzdro
 tagClass02SkillDescription04B=Vylepšení Tříštivé bomby má za následek zvýšení její zraňující síly, což nepřátelům v rozsáhlém okolí způsobí enormní šok.
 tagClass02SkillName04C=Sonická puma
-tagClass02SkillDescription04C=Sonická puma vyrobená pro větší účinek výbuchu způsobuje o něco menší zranění, ale zanechá nepřátele otřesené.
+tagClass02SkillDescription04C=Sonická puma vyrobená pro větší účinek výbuchu způsobuje úraz elektrickým proudem a zanechá nepřátele otřesené šokem.
 
 tagClass02SkillName05A=Hmoždířová past
 tagClass02SkillDescription05A=Umístí minomet, který bude nepřetržitě vystřelovat výbušniny do vzduchu, dokud nebude vyčerpán. ^oÚčinnost pasti se zvyšuje s bonusy ke zranění, které uděluješ.
@@ -426,7 +426,7 @@ tagClass04SkillName07B=Chlad noci
 tagClass04SkillDescription07B=Způsobí, že protivníci zasaženi Závojem stínu pocítí temné mrazení, jak je tma obklopuje, což ovlivní jejich životy a oslabí obranu.
 
 tagClass04SkillName08A=Duch meče
-tagClass04SkillDescription08A=Vyvolá vířící mrak smrtících mečů, který bude brázdit bojiště a krájet tvé nepřátele na kousky do té doby, než se nakonec promění ve spršku zubatých úlomků. ^oÚčinnost schopnosti Duch meče se zvyšuje s bonusy ke zranění, které uděluješ.
+tagClass04SkillDescription08A=Vyvolá vířící mrak smrtících mečů, který bude brázdit bojiště a krájet tvé nepřátele na kousky pomocí vroubkovaných úlomků. ^oÚčinnost schopnosti Duch meče se zvyšuje s bonusy ke zranění, které uděluješ.
 tagClass04SkillName08PetA=Vířící meče
 tagClass04SkillName08PetB=Erupce mečů
 tagClass04SkillDescription08PetB=Duch meče vystřeluje vrhací meče do všech směrů.
@@ -1200,7 +1200,7 @@ tagItemSkillC085PetSkillName02=Exploze jedu
 tagItemSkillC086Name=Mor
 tagItemSkillC086Desc=Budeš šířit mor a nákazu každým krokem.
 
-tagItemSkillC087Name=Odplata
+tagItemSkillC087Name=Provokace
 tagItemSkillC087Desc=Vyprovokuješ nepřátele ve svém okolí tlakovou vlnou, jež se uvolní z tvého štítu. ^oVyžaduje štít.
 
 tagItemSkillC088Name=Tajemná zuřivost
@@ -1827,7 +1827,7 @@ tagItemSkillD160Desc=Rozdrtíš svého nepřítele devastujícím úderem, kter�
 tagItemSkillD161Name=Replikace
 tagItemSkillD161Desc=Panettiho talent pro replikaci tajemných kouzel se stal ještě úchvatnějším, když tak udělal pod obrovským tlakem. ^oVyžaduje příruční předmět.
 
-tagItemSkillD162Name=Odplata
+tagItemSkillD162Name=Protiúder
 tagItemSkillD162Desc=Vyprovokuješ své nejbližší nepřátele rázovou vlnou, která vychází z tvého štítu. ^oVyžaduje štít.
 
 tagItemSkillD163Name=Smrtící hostina
@@ -1957,7 +1957,7 @@ tagItemSkillD204Name=Poutník Prázdnoty
 tagItemSkillD204Desc=Budeš odolávat vůči ničivým efektům Prázdnoty; pokaždé, když na tebe udeří odporný nepřítel nějakým kouzlem, pozdvihneš magickou bariéru.
 
 tagItemSkillD205Name=Gul'Amashovo znamení
-tagItemSkillD205Desc=Gul'Amashovo znamení tě ochrání před fyzickou újmou, když tě zasáhne fyzický výpad.
+tagItemSkillD205Desc=Gul'Amashovo znamení tě ochrání před újmou, když tě zasáhne fyzický výpad.
 
 tagItemSkillD206Name=Znamení iluze
 tagItemSkillD206Desc=Vytvoříš blyštivé pole kolem sebe a svých spojenců a zmateš tak své nepřátele. ^oAby tato schopnost účinkovala, musí být aktivní.
@@ -2343,7 +2343,7 @@ tagRelicSkillC014Desc=Obklopíš se oblakem plísně, jež je nespočetným mno�
 tagRelicSkillC015Name=Pouto s předky
 tagRelicSkillC015Desc=Pouto k předkům tvým spojencům odkryje síly, které pro ně předtím byly nepředstavitelné. ^oAby tato schopnost účinkovala, musí být aktivní.
 
-tagRelicSkillD001Name=Záštita
+tagRelicSkillD001Name=Vykoupení
 tagRelicSkillD001Desc=Prodchne tvé tělo božským světlem a ochrání tě od dalších zranění díky tomu, že pohlcuje rány na tebe vedené.
 
 tagRelicSkillD002Name=Prokletí
@@ -2404,7 +2404,7 @@ tagRelicSkillD020Name=Menhirova bašta
 tagRelicSkillD020Desc=Zesílíš ochraňujícím duchem Menhira a ochráníš tak sebe a své spojence před újmou.
 
 tagRelicSkillD021Name=Nevyváženost živlů
-tagRelicSkillD021Desc=Tvůj zuřivý útok může občas narušit tvou pečlivou vyváženost mezi živly, což uvolní dávku energie, která donutí tvé nepřátele litovat toho, že se k tobě byť jen přiblížili. ^oVyžaduje kouzelnický příruční předmět.
+tagRelicSkillD021Desc=Tvůj zuřivý útok může občas narušit tvou pečlivou vyváženost mezi živly, což uvolní dávku energie, která donutí tvé nepřátele litovat toho, že se k tobě byť jen přiblížili.
 
 
 
@@ -2887,6 +2887,28 @@ tagEnemySkillA12_Desc=Benn'Jahr tě uvěznil v obsidiánové kleci a drtí tě s
 tagEnemySkillA13=Znamení Aetherického ohně
 tagEnemySkillA13_Desc=Aetherický oheň sužuje tvou duši a vystavuje tě tak napospas samotnému Aetheru.
 
+tagEnemySkillA14=Injekce proti sraženinám
+tagEnemySkillA14_Desc=Otrava zhoršuje schopnost zastavit krvácení. Jakékoliv zranění způsobující krvácení se tak stane mnohem nebezpečnější.
+
+tagEnemySkillA15=Znak utrpení
+tagEnemySkillA15_Desc=Jsi označen oslabujícím prokletím, které ti způsobuje větší zranění elektrickým výbojem a sáním životní energie a zároveň oslabuje tvou schopnost mířit.
+
+tagEnemySkillA16=Oči smrti
+tagEnemySkillA16_Desc=Jsi označen jako cíl určený k likvidaci lovcem. Tvá schopnost obrany vůči fyzickým útokům je oslabena.
+
+tagEnemySkillA17=Chaotické vyčerpání
+tagEnemySkillA17_Desc=Prokletí chthonickou bytostí rychle odčerpává tvou životní energii.
+
+tagEnemySkillA18=Obnažená duše
+tagEnemySkillA18_Desc=Tvá duše byla odhalena, tvé odolnosti jsou mnohem slabší.
+
+tagEnemySkillA19=Zlomená síla
+tagEnemySkillA19_Desc=Tvá síla byla prokleta, tvá rychlost a způsobené zranění jsou ochromeny.
+
+tagEnemySkillA20=Mor
+tagEnemySkillA20_Desc=Paralyzuje tě na nějakou dobu otrava krve, tvé útočné a obranné schopnosti jsou zcela ochromeny.
+
+
 tagEnemySkillD01=Entropická Prázdnota
 tagEnemySkillD01_Desc=Prázdnota tě pomalu trhá na kousky vlivem chaotické energie.
 
@@ -2904,4 +2926,35 @@ tagEnemySkillD05_Desc=Aldritchovo žezlo vysílá oblouky energie, která zraňu
 
 tagEnemySkillD06=Kletba Krvepřísežníka
 tagEnemySkillD06_Desc=Krvepřísežníkova kletba vysaje tvou vůli bojovat proti devastujícím silám Prázdnoty a sníží tak tvé odolnosti, regeneraci a útočnou schopnost.
+
+tagEnemySkillD07=Háčkovaná síť
+tagEnemySkillD07_Desc=Síť, která tě uvěznila, ochromuje tvou obrannou schopnost a způsobuje ti krvácení.
+
+tagEnemySkillD08=Prokletí Prázdnotou
+tagEnemySkillD08_Desc=Prokletí nestvůrou z Prázdnoty, které ti brání v pohybu, regeneraci a schopnosti zasáhnout nepřítele.
+
+tagEnemySkillD09=Oslepující šipka
+tagEnemySkillD09_Desc=Zasáhlo tě oslepující kouzlo, které ti brání v pohybu a zaměření nepřítele.
+
+tagEnemySkillD10=Zlobrův řev
+tagEnemySkillD10_Desc=Tvá rychlost a schopnost zaměřit nepřítele střelnou zbraní je zcela ochromena díky uši rvoucímu řevu zlobra.
+
+tagEnemySkillD11=Zvláštní prokletí
+tagEnemySkillD11_Desc=Prokletí starodávným stvořením, které ti brání v pohybu, regeneraci a schopnosti zasáhnout nepřítele.
+
+tagEnemySkillD12=Sání života
+tagEnemySkillD12_Desc=Upíří prokletí, které vysává tvůj život oslabuje tvou fyzickou odolnost.
+
+tagEnemySkillD13=Sání duše
+tagEnemySkillD13_Desc=Upíří prokletí, které vysává tvůj život oslabuje tvou fyzickou odolnost.
+
+tagEnemySkillD14=Soužení otravou
+tagEnemySkillD10_Desc=Ghúl, který tě otrávil, zároveň ochromil tvé útočné a obranné schopnosti.
+
+tagEnemySkillD15=Žravý přízrak
+tagEnemySkillD15_Desc=Přízrak vysává tvou duši a přečerpává tvůj život ve svůj prospěch.
+
+tagEnemySkillD16=
+tagEnemySkillD16_Desc=
+
 

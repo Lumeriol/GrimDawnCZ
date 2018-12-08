@@ -173,7 +173,7 @@ tagGDX1Class08SkillDescription04A=Na tvůj příkaz se nákaza a hniloba vyvalí
 tagGDX1Class08SkillName04B=Rozklad
 tagGDX1Class08SkillDescription04B=Ze země začnou stoupat jedovaté plyny a oslabí nepřátele ve tvém okolí.
 tagGDX1Class08SkillName04C=Odporná erupce
-tagGDX1Class08SkillDescription04C=Odporné nekrotické energie zalijí tkáň, což u padlých nepřátel leckdy způsobí krvavý výbuch, který rozšíří nemoci. Navíc způsobí výtok z ran okolních nepřátel.
+tagGDX1Class08SkillDescription04C=Odporné nekrotické energie zalijí tkáň, což u padlých nepřátel způsobí krvavý výbuch, který rozšíří nemoci. Navíc způsobí výtok z ran okolních nepřátel.
 
 tagGDX1Class08SkillName05A=Vyvolání odporné stvůry
 tagGDX1Class08SkillDescription05A=Z mrtvol a hniloby, netknutých díky škodlivým výparům z hnijících tkání, můžeš vyvolat zrůdu, a podmanit si tak své nepřátele. ^oV jednu chvíli může být vyvolána pouze jedna Odporná stvůra. Odporná stvůra sílí spolu s bonusy pro mazlíčky.
@@ -202,9 +202,10 @@ tagGDX1Class08SkillName08A=Znamení nemoci
 tagGDX1Class08SkillDescription08A=Samotná nekromantova přítomnost je často dostačující, aby vyvolala hrůzu v řadách nepřátel. Na svého nepřítele začneš vydávat zvuk v podobě kvílení duchů, čímž otřeseš důvěrou slabších nepřátel a tak se mezi nimi začne rychle šířit zmatek a strach.
 
 tagGDX1Class08SkillName09A=Odtržení ducha
-tagGDX1Class08SkillDescription09A=Jedna z nejmocnějších technik věnovaná nasledníkům Uroboruuka. Tím, že odtrhneš duši od těla nepřítele, můžeš způsobit nejen zdrcující zranění, ale dokonce vyvolat část jejich ducha, aby bojoval po tvém boku. Výsledkem je vysoce nestabilní, agresivní přízrak, což je užitečné zejména v boji. ^oDuchové sílí spolu s bonusy pro mazlíčky.
+tagGDX1Class08SkillDescription09A=Jedna z nejmocnějších technik věnovaná nasledníkům Uroboruuka. Tím, že odtrhneš duši od těla nepřítele, můžeš způsobit nejen zdrcující zranění, ale dokonce vyvolat část jejich ducha, aby bojoval po tvém boku. Výsledkem je vysoce nestabilní, agresivní přízrak, což je užitečné zejména v boji. ^oDuchové sílí spolu s bonusy pro spojence.
 tagGDX1Class08SkillName09A_PetSkill=Dotek ducha
 tagGDX1Class08SkillName09A_PetSkill02=Nova životní energie
+tagGDX1Class08SkillTracker09A=Maximální počet vyvolaných duchů
 
 tagGDX1Class08SkillName10A=Posel duší
 tagGDX1Class08SkillDescription10A=Tím, jak mistrně ovládáš smrt, se stáváš živoucím poslem tohoto posledního soudu, vysaješ z nepřátel životní energii a budeš tak svévolně manipulovat nepřítelem. ^oTato schopnost musí být aktivní, aby účinkovala.
@@ -316,8 +317,8 @@ tagGDX1ItemSkillD113Desc=Světlo posvátné pravdy zaplaví tvé nepřátele a d
 tagGDX1ItemSkillD114Name=Hagarradovy bodce
 tagGDX1ItemSkillD114Desc=Vrhneš na nepřítele ledové bodce uvolněné z luminářské Hagarradovy runy.
 
-tagGDX1ItemSkillD115Name=Bleskové řetězy
-tagGDX1ItemSkillD115Desc=Vyčarované blesky připoutají nohy tvých nepřátel k zemi, kde zůstanou nehybní.
+tagGDX1ItemSkillD115Name=Připoutání blesky
+tagGDX1ItemSkillD115Desc=Vyčarované blesky připoutají nohy tvých nepřátel k zemi a zpomalí jejich pohyb.
 
 tagGDX1ItemSkillD116Name=Noční pařát
 tagGDX1ItemSkillD116Desc=Rozřežeš nepřátele ve svém okolí pomocí stínového ostří a zanecháš je chromé s otevřenými ranami.
@@ -416,7 +417,7 @@ tagGDX1ItemSkillD147Name=Pustošitelův smrtící pohled
 tagGDX1ItemSkillD147Desc=Pohled Pustošitele dolehne na nepřátele ve tvém okolí a zničí tak jejich obranyschopnost.
 
 tagGDX1ItemSkillD148Name=Zuřivý úder bičem
-tagGDX1ItemSkillD148Desc=Prvotní energie budou bičovat tvého nepřítele.
+tagGDX1ItemSkillD148Desc=Prvotní energie zbičují tvého nepřítele.
 
 tagGDX1ItemSkillD149Name=Jedovatý úder bičem
 tagGDX1ItemSkillD149Desc=Tvůj cíl zasáhne úder jedovaté energie.
@@ -509,7 +510,7 @@ tagGDX1ItemSkillD178Name=Kulky Prázdnoty
 tagGDX1ItemSkillD178Desc=Salva obohacená energiemi Prázdnoty projde tvými nepřáteli a bude je hubit zevnitř. ^oToto je bonus ke střelným zbraním. Také umožňuje ovládat dvě střelné zbraně najednou.
 
 tagGDX1ItemSkillD179Name=Chlemtač kouzel
-tagGDX1ItemSkillD179Desc=Posílí tvou zbraň, aby rezonovala tajemnými energiemi, absorbovala část nepřátelských kouzele a odrazila část z nich zpět na sesílatele. ^oTato vlastnost musí být aktivní, aby se její účinek fungoval.
+tagGDX1ItemSkillD179Desc=Posílí tvou zbraň, aby rezonovala tajemnými energiemi, absorbovala část nepřátelských kouzele a přesměrovala energii na sesílatele. ^oTato vlastnost musí být aktivní, aby se její účinek fungoval.
 
 tagGDX1ItemSkillD180Name=Volání krvavých lázní
 tagGDX1ItemSkillD180Desc=Vyvoláš Nazaranovy krvavé služebníky, aby vysávali životní energii z tvých protivníků než budou opět zavoláni zpět do svých hrobů. ^oSlužebníci krvavých lázní sílí společně s tvými bonusy ke zranění.

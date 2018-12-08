@@ -313,7 +313,7 @@ tagGDX1QuestItemUlgrimHeirloom_Desc="Poměrně světský předmět s ohledem na 
 tagGDX1QuestItemUlgrimHeirloom02=Ulgrimova památka
 tagGDX1QuestItemUlgrimHeirloom02_Desc="Označen magií Čarodějnic, což by mohlo, alespoň doufejme, otevřít cestu k Ulgrimovi."
 
-tagGDX1QuestItemCellarKey_Name=Klíček od sklepa z Barrowholm.
+tagGDX1QuestItemCellarKey_Name=Klíček od sklepa z Barrowholm
 tagGDX1QuestItemCellarKey_Desc="Obyčejný kovaný klíček. Vypadá mnohem starší a opotřebovanější než cokoliv jiného v celém Barrowholmu."
 
 

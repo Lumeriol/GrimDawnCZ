@@ -180,6 +180,7 @@ tagGDX1WeaponCaster1hC101=Pustošitelův bodec
 tagGDX1WeaponCaster1hC102=Jaravuukův štípanec
 tagGDX1WeaponCaster1hC102_Desc="Rituální čepel mistra Jaravuuka, o které se říká, že se prolíná se samotným životem."
 tagGDX1WeaponCaster1hC103=Ulzaadův průbojník
+tagGDX1WeaponCaster1hC103_Desc="Nebeský dech uvězněný v tomto žezle na věčné časy."
 tagGDX1WeaponCaster1hC104=Vyvolavač magických bouří
 tagGDX1WeaponCaster1hC105=Gar'Dalvurův prst
 tagGDX1WeaponCaster1hC105_Desc="Padlý Gar'Dalvur směl říci svým popravcům pouze jednu jedinou věc."
@@ -1384,11 +1385,11 @@ tagGDX1EnchantB114Desc="Legendy se zmiňují o mýtické entitě, která bují v
 tagGDX1EnchantB115A=Srdce Ugdenbogu
 tagGDX1EnchantB115Desc="Silné očarování vyrobené z kamenného srdce nejsilnějšího Ugdenského golema."^w^n(použitelné na prsten nebo amulet)
 
-tagGDX1EnchantB116A=Malmouthská záštita
-tagGDX1EnchantB116Desc="Silné očarování vyrobení přeživšími v Malmouthu ke své obraně proti Aetherianům."^w^n(použitelné na všechny jednoduční zbraně, štít nebo kouzelnický příruční předmět)
+tagGDX1EnchantB116A=Malmouthské vykoupení
+tagGDX1EnchantB116Desc="Silné očarování vyrobené přeživšími v Malmouthu ke své obraně proti Aetherianům."^w^n(použitelné na všechny jednoduční zbraně, štít nebo kouzelnický příruční předmět)
 
-tagGDX1EnchantB117A=Silná malmouthská záštita
-tagGDX1EnchantB117Desc="Silné očarování vyrobení přeživšími v Malmouthu ke své obraně proti Aetherianům."^w^n(použitelné na všechny obouruční zbraně)
+tagGDX1EnchantB117A=Silné malmouthské vykoupení
+tagGDX1EnchantB117Desc="Silné očarování vyrobené přeživšími v Malmouthu ke své obraně proti Aetherianům."^w^n(použitelné na všechny obouruční zbraně)
 
 tagGDX1EnchantB118A=Malmouthská vůle
 tagGDX1EnchantB118Desc="Silné očarování vytvořené Malmouthskými kováři k posílení jejich švihu ruky, ale stejně dobře poslouží i v bitvě."^w^n(použitelné na všechny jednoduční zbraně, štít nebo kouzelnický příruční předmět)
