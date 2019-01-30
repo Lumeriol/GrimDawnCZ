@@ -1,5 +1,5 @@
 #Loading Tips
-tagLoadingTip01={^g}Tip: {^w}Svou kořist můžeš filtrovat podle kvality (magická a lepší, vzácná a lepší, atd.) použitím tlačítka Filtru kořisti vlevo od lišty dovedností.
+tagLoadingTip01={^g}Tip: {^w}Svou kořist můžeš filtrovat pomocí mnoha parametrů použitím tlačítka Filtru kořisti vlevo od lišty dovedností.
 tagLoadingTip02={^g}Tip: {^w}Pokud najdeš Svatyni oddanosti, která ještě není obnovena, bude její umístění označeno na mapě světa.
 tagLoadingTip03={^g}Tip: {^w}Nápovědu si můžeš kdykoliv zobrazit znovu v Přehledu kodexů, nebo pomocí klávesové zkratky (výchozí je H).
 tagLoadingTip04={^g}Tip: {^w}Za nepřátele, jejichž úroveň je o poznání menší než tvá, nezískáš žádné body zkušeností ani frakční přízeň.
@@ -238,6 +238,16 @@ tagTutorialTip61TextA=Nebeské síly jsou automaticky aktivované schopnosti, kt
 tagTutorialTip61SubtitleA=Přiřazení primární dovednosti.
 tagTutorialTip61TextB=Pro přiřazení Nebeské moci musíš nejprve nějakou odemknout v Přehledu oddanosti a poté zvolíš vhodnou primární dovednost ze seznamu. Samozřejmě můžeš nebeskou moc kdykoliv přeřadit k jiné dovednosti bez jakéhokoliv postihu. Pokud odejmeš nebeskou moc nebo ji vyměníš za jinou, veškeré zkušenosti a úrovně jí zůstanou zachovány.
 
+tagTutorialTip69Title=Loot Filter
+tagTutorialTip69TextA=The Loot Filter window allows you to control what items are displayed on the ground. This powerful tool simplifies the vast variety of loot in Grim Dawn by focusing your attention on the loot your character needs most.
+tagTutorialTip69SubtitleA=Quality Filters
+tagTutorialTip69TextB=You can show or hide items based on their Quality. If a box us unchecked here, items of that quality will not appear on the ground regardless of what is checked under the other Categories. The exceptions to this rule are Monster Infrequents and Sets, as they are a subset of Rare and Epic/Legendary items, respectively, and are used only if you wish to fine-tune your filter further.{^n}{^n}By default, all options are checked in this section.
+tagTutorialTip69SubtitleB=Type Filters
+tagTutorialTip69TextC=You can show or hide items based on their Equipment Slot. If a box is unchecked here, items of that type will not appear on the ground regardless of what is checked in the Damage and Character Categories.{^n}{^n}By default, all options are checked in this section.
+tagTutorialTip69SubtitleC=Damage and Character Filters
+tagTutorialTip69TextD=You can show or hide items based on their attributes. If any boxes are checked under these Categories, only items that meet at least one of these filters will appear on the ground.{^n}{^n}By default, all options are unchecked in this section.
+
+
 #Quick Tips
 
 tagQuickTipMainMenu={^z}Vítej ve hře Grim Dawn!{^-}{^n}{^n}{^w}Herní nápověda{^-} je momentálně zapnuta. Vypnout ji můžeš v nastavení hry.{^n}{^n}{^w}Normální obtížnost{^-} je navržena pro nezkušené hráče akčních RPG.{^n}{^n}Pokud jsi již zkušenější, zvol si obtížnost {^w}Veterán{^-}.
@@ -284,3 +294,4 @@ tagQuickTip58={^z}Obnovení svatyně{^-}{^n}{^n}Svatyně mohou být obnoveny bu�
 tagQuickTip59={^z}Body oddanosti{^-}{^n}{^n}Body oddanosti získané za obnovení svatyní můžeš rozdělit na Hvězdné obloze, kterou najdeš v Přehledu dovedností {^x}[%t0]{^-}.
 tagQuickTip60={^z}Hvězdná obloha{^-}{^n}{^n}Na hvězdné obloze můžeš rozdělit své body oddanosti získané za obnovení svatyní. Každý utracený bod ti umožňuje odemknout nové bonusy a dovednosti.
 tagQuickTip61={^z}Nebeská moc{^-}{^n}{^n}Přiřaď svou nebeskou moc k některé dovednosti kliknutím na ikonku na Hvězdné obloze a vyber dovednost ze seznamu.
+tagQuickTip69={^z}Loot Filter{^-}{^n}{^n}Use the Loot Filter to control what loot drops are displayed on the ground.

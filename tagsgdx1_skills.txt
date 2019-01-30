@@ -77,7 +77,7 @@ tagGDX1Class07SkillName04E=Poskvrněný plamen
 tagGDX1Class07SkillDescription04E=I když se jedná o vzácnost, je známo, že někteří z inkvizitorů neodolali a přijali za své síly, proti kterým měli bojovat. Díky propojení Ignaffarova kamene a samotné Prázdnoty jsou vypouštěny poskvrněné plameny.
 
 tagGDX1Class07SkillName05A=Hagarradova runa
-tagGDX1Class07SkillDescription05A=Hagarradova runa byla jedním z prvních předmětů umístěných ve skladišti Luminářů, ale po značném nátlaku ze strany císařského soudu odstranit okultní aktivity uvnitř hlavního města to byl také první předmět, jehož studie a napodobování bylo povoleno v rámci odříznutí únikových cest prchajících nepřátel. ^oHagarradova runa vyžaduje 1.5 vteřiny na nabití a účinek roste s bonusy postavy.
+tagGDX1Class07SkillDescription05A=Hagarradova runa byla jedním z prvních předmětů umístěných ve skladišti Luminářů, ale po značném nátlaku ze strany císařského soudu odstranit okultní aktivity uvnitř hlavního města to byl také první předmět, jehož studie a napodobování bylo povoleno v rámci odříznutí únikových cest prchajících nepřátel. ^oHagarradova runa vyžaduje 1.5 vteřiny na nabití a účinek roste s bonusy postavy. Icicles initially deal 25% reduced damage before reaching their full strength as they expand outward.
 tagGDX1Class07SkillName05A_PetSkill=Salva mrazu
 tagGDX1Class07SkillName05B=Ledové kousnutí
 tagGDX1Class07SkillDescription05B=Mrazivá energie vypuštěná z Hagarradovy runy otupí schopnosti nepřítele, což z něj dělá snadnou oběť během dalšího útoku.
@@ -619,6 +619,7 @@ tagGDX1RelicSkillD108Desc=Upřednostňovaná technika Noční lovkyně Nidally. 
 
 tagGDX1RelicSkillD109Name=Časová smyčka
 tagGDX1RelicSkillD109Desc=Tvé činy se budou opakovat v čase. ^oVyžaduje příruční magický předmět.
+
 
 tagGDX1RelicSkillD110Name=Krvavý trn
 tagGDX1RelicSkillD110Desc=Vrhne spirálu krví potřísněných trnů na tvé nepřátele.

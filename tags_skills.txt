@@ -93,7 +93,7 @@ tagClass01SkillDescription01B=Běsnění tvé zbraně rozechvěje protivníka, z
 tagClass01SkillName01C=Smrtící pohyb
 tagClass01SkillDescription01C=Využíváš výhodu Rychlého útoku, což na krátkou dobu způsobí, že všechny tvé údery mají větší smrtící účinek. ^oSmrtící pohyb ovlivňuje všechny útoky, pokud je aktivní.
 tagClass01SkillName01D=Disharmonie
-tagClass01SkillDescription01D=Nesoulad rozhněvané duše proudí do vojákova útoku a naplní jej elektrickou energií.
+tagClass01SkillDescription01D=Nesoulad rozhněvané duše proudí do vojákova útoku a naplní jej živelnou energií.
 
 tagClass01SkillName02A=Tlaková vlna
 tagClass01SkillDescription02A=Do útoku je dána taková síla, že stlačí samotný vzduch a vyvolá vlnu energie, která omráčí a zraní protivníka. ^oTento druh útoku vyžaduje štít nebo obouruční chladnou zbraň.
@@ -254,7 +254,7 @@ tagClass02SkillDescription12B=Ponoření se hlouběji do tajů zacházení s ohn
 tagClass02SkillName13A=Mstivý plamen
 tagClass02SkillDescription13A=Ulzuinův věčný plamen kdysi přinesl život a zdraví na tento svět, ale zrada a muka jej přeměnily ve zbraň pomsty. Ti, kteří jsou oddaní Ulzuinovi, získají na bojišti proti svým nepřátelům sílu a odvetný ohnivý úder. ^oAby tato schopnost účinkovala, musí být aktivní.
 tagClass02SkillName13B=Ulzuinův hněv
-tagClass02SkillDescription13B=Když Ulzuinův plamen pálí nepřátele ve tvém okolí, střely magických plamenů a elektrického proudu jsou vypuštěny do všech směrů, aby zasáhly vzdálenější nepřátele.
+tagClass02SkillDescription13B=Když Ulzuinův plamen pálí nepřátele ve tvém okolí, střely magických plamenů a elektrického proudu jsou vypuštěny do všech směrů, aby zasáhly vzdálenější nepřátele a oslabily jejich sílu.
 
 tagClass02SkillName10A=Elektrický výboj
 tagClass02SkillDescription10A=Vrhne na nepřátele silnou bombu nabitou elektrickým proudem. Účinné proti samostatným silným nepřátelům.
@@ -349,7 +349,7 @@ tagClass03SkillName13D=Horečnatý vztek
 tagClass03SkillDescription13D=Tato mutace neštovic může být stejně nebezpečná jak nepřátelům, tak Okultistovi. Choroba se bude velmi rychle šířit s více než dvojnásobnými zraněními, ale tím, že jsou zasažení postiženi horečkou, tak zešílí a začnou se pohybovat extrémní rychlostí a zuřivě útočit, což je učiní jak více smrtícími, tak více zranitelnými.
 
 tagClass03SkillName14A=Zhoubná šipka
-tagClass03SkillDescription14A=Šipka podivné energie pronikne skrze závoj reality, aby uštědřila masivní zranění zasaženým nepřátelům.
+tagClass03SkillDescription14A=Šipka podivné energie pronikne skrze závoj reality, aby uštědřila masivní zranění zasaženým nepřátelům. ^oStriking a target directly with the bolt inflicts double damage.
 
 
 tagClass03SkillName07A=Zrušení zaklínadla
@@ -1401,7 +1401,7 @@ tagItemSkillD021Name=Vlna Aetheru
 tagItemSkillD021Desc=Výbuch Aetherické energie odstrčí tvé nepřátele dál od tebe.
 
 tagItemSkillD022Name=Zážeh Aetheru
-tagItemSkillD022Desc=Pod tvými nepřáteli vytryskne ze země zážeh čistého tajemného plamene. ^oVyžaduje kouzelnický předmět v druhé ruce.
+tagItemSkillD022Desc=Pod tvými nepřáteli vytryskne ze země zážeh čistého tajemného plamene.
 
 tagItemSkillD023Name=Příval Aetheru
 tagItemSkillD023Desc=Vytryskne z tebe čistá tajemná energie a zaplaví tvé nepřátele.

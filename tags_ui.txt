@@ -421,6 +421,8 @@ tagHUD_RightMouse_R=Akce na pravém tlačítku myši
 tagHUD_RightMouse_R1=Toto je tvůj sekundární útok. Pravým kliknutím myši přiřaď jinou dovednost.
 tagHUD_CompassToggleName=Přepínač kompasové mapy
 tagHUD_CompassToggleDescription=Kliknutím změníš velikost nebo pozici kompasové mapy.
+tagHUD_LootMode=Loot Filter
+tagHUD_LootModeDescription=Adjust the options for what loot should be shown.
 tagHUD_LootModeToggleOff=Automatické zobrazování předmětů ^D(vypnuto)
 tagHUD_LootModeToggleCommon=Automatické zobrazování předmětů (běžné a lepší)
 tagHUD_LootModeToggleMagic=Automatické zobrazování předmětů ^Y(magické a lepší)
@@ -468,6 +470,98 @@ tagHUDButtonRollChat=Odesílání zpráv hráčům ve tvé hře.
 tagHUDButtonRollFaction=Podrobnosti o různých frakcích obývajících Cairn.
 tagHUDButtonRollAchievements=Dokončené úspěchy ve hře.
 tagHUDButtonRollOptions=Uložení hry, ukončení hry a herní nastavení.
+
+#LootFilterUI
+tagLootFilterWindowTitle=Loot Filter
+tagLootFilterTitle01=Quality
+tagLootFilterTitle02=Type
+tagLootFilterTitle03=Damage
+tagLootFilterTitle04=Character
+
+tagLootFilterReset=Defaults
+tagLootFilterResetInfo=Reset the filter settings to their defaults.
+tagLootFilterResetConfirm=Reset filter settings to their defaults?
+
+tagLootFilter01=Common
+tagLootFilter01Info=Show/Hide items of Common (White) Quality.
+tagLootFilter02=Magic
+tagLootFilter02Info=Show/Hide items of Magic (Yellow) Quality.
+tagLootFilter03=Rare
+tagLootFilter03Info=Show/Hide items of Rare (Green) Quality. This includes items that drop from specific enemies, also known as Monster Infrequents.
+tagLootFilter04=Monster Infrequent
+tagLootFilter04Info=Show/Hide items that drop from specific enemies, also known as Monster Infrequents.{^N}{^N}Use this filter if you wish to only see Rare items that are classified as Monster Infrequents by also unchecking the Rare filter.
+tagLootFilter05=Epic
+tagLootFilter05Info=Show/Hide Unique items of Epic (Blue) Quality. This includes items that are a part of Sets.
+tagLootFilter06=Legendary
+tagLootFilter06Info=Show/Hide Unique items of Legendary (Purple) Quality. This includes items that are a part of Sets.
+tagLootFilter07=Sets
+tagLootFilter07Info=Show/Hide items that are a part of Sets. Use this filter if you wish to only see Epic and Legendary items that are parts of sets by also unchecking the Epic and Legendary filters.
+tagLootFilter08=Always Show Uniques
+tagLootFilter08Info=Toggle this checkbox to always show Unique items (Epic and Legendary Quality) regardless of your Filter Settings.{^N}{^N}Use this setting when you wish to search for particular Magic, Rare or Monster Infrequent items but still wish to collect every Unique that drops.
+
+tagLootFilter09=1h Melee
+tagLootFilter09Info=Show/Hide One-handed Axes, Maces and Swords.
+tagLootFilter10=2h Melee
+tagLootFilter10Info=Show/Hide Two-handed Axes, Maces and Swords.
+tagLootFilter11=1h Ranged
+tagLootFilter11Info=Show/Hide One-handed Guns.
+tagLootFilter12=2h Ranged
+tagLootFilter12Info=Show/Hide Two-handed Guns and Crossbows.
+tagLootFilter13=Dagger/Scepter
+tagLootFilter13Info=Show/Hide Daggers and Scepters.
+tagLootFilter14=Caster Off-Hand
+tagLootFilter14Info=Show/Hide Caster Off-hands.
+tagLootFilter15=Shield
+tagLootFilter15Info=Show/Hide Shields.
+tagLootFilter16=Armor
+tagLootFilter16Info=Show/Hide Helms, Shoulders, Chest Armor, Pants, Boots and Gloves.
+tagLootFilter17=Accessories
+tagLootFilter17Info=Show/Hide Amulets, Rings, Medals and Belts.
+tagLootFilter38=Components
+tagLootFilter38Info=Show/Hide Components.
+
+tagLootFilter18=Physical
+tagLootFilter18Info=Show items that increase Physical or Internal Trauma damage.
+tagLootFilter19=Pierce
+tagLootFilter19Info=Show items that increase Pierce damage.
+tagLootFilter20=Fire
+tagLootFilter20Info=Show items that increase Fire or Burn damage.
+tagLootFilter21=Cold
+tagLootFilter21Info=Show items that increase Cold or Frostburn damage.
+tagLootFilter22=Lightning
+tagLootFilter22Info=Show items that increase Lightning or Electrocute damage.
+tagLootFilter23=Acid
+tagLootFilter23Info=Show items that increase Acid or Poison damage.
+tagLootFilter24=Vitality
+tagLootFilter24Info=Show items that increase Vitality or Vitality Decay damage.
+tagLootFilter25=Aether
+tagLootFilter25Info=Show items that increase Aether damage.
+tagLootFilter26=Chaos
+tagLootFilter26Info=Show items that increase Chaos damage.
+tagLootFilter27=Bleed
+tagLootFilter27Info=Show items that increase Bleeding damage.
+tagLootFilter28=Pet Bonuses
+tagLootFilter28Info=Show items that provide bonuses to Pets.
+
+tagLootFilter29=My Masteries
+tagLootFilter29Info=Show items that increase the ranks of Skills in your selected Masteries.
+tagLootFilter30=Other Masteries
+tagLootFilter30Info=Show items that increase the ranks of Skills in Masteries your character does not have selected.
+tagLootFilter31=Speed
+tagLootFilter31Info=Show items that increase Attack, Cast or Run Speed.
+tagLootFilter32=Cooldown Reduction
+tagLootFilter32Info=Show items that reduce the Cooldown of Skills.
+tagLootFilter33=Crit Damage
+tagLootFilter33Info=Show items that increase Critical Damage.
+tagLootFilter34=Offensive Ability
+tagLootFilter34Info=Show items that increase Offensive Ability.
+tagLootFilter35=Defensive Ability
+tagLootFilter35Info=Show items that increase Defensive Ability.
+tagLootFilter36=Resistances
+tagLootFilter36Info=Show items that increase Resistances to Damage, Crowd Control or exotic effects such as Reflected Damage or Reduced Damage over Time Duration.
+tagLootFilter37=Retaliation
+tagLootFilter37Info=Show items that increase Retaliation damage.
+
 
 #SkillUI
 
@@ -528,11 +622,11 @@ tagCharAttributeName03=Duchovno
 tagCharAttributeName04=Zdraví
 tagCharAttributeName05=Magická energie
 
-tagCharAttributeDescription01=Rafinovanost zlepšuje tvůj způsob boje, zvyšuje fyzické a bodné zranění, krvácení a vnitřní poranění. Rafinovanost také zvyšuje šanci uštědřit ránu, ať již v souboji zblízka nebo na dálku. Dále zvyšuje šanci na kritický zásah nepřítele.
+tagCharAttributeDescription01=Rafinovanost zlepšuje tvůj způsob boje, zvyšuje fyzické a bodné zranění, krvácení a vnitřní poranění. Rafinovanost také zvyšuje práh bolesti, a šanci uštědřit ránu, ať již v souboji zblízka nebo na dálku. Dále zvyšuje šanci na kritický zásah nepřítele.
 
-tagCharAttributeDescription02=Fyzická kondice ti dodává sílu bojovat s těžším vybavením a hbitost ve vyhnutí se nepřátelskému útoku. Fyzická kondice ti také zvyšuje práh bolesti, schopnost léčit tvá zranění a dodává schopnost vyhnout se kritickému útoku.
+tagCharAttributeDescription02=Fyzická kondice ti dodává sílu bojovat s těžším vybavením a hbitost ve vyhnutí se nepřátelskému útoku. Fyzická kondice ti také rapidně zvyšuje práh bolesti, schopnost léčit tvá zranění a dodává schopnost vyhnout se kritickému útoku.
 
-tagCharAttributeDescription03=Silný duch zvyšuje tok energie tvého bytí a umožňuje ti odolávat duševnímu břemenu při používání silnějších očarovaných předmětů. Duchovno také zvětšuje zranění magickými útoky.
+tagCharAttributeDescription03=Silný duch zvyšuje tok energie tvého bytí a umožňuje ti odolávat duševnímu břemenu při používání silnějších očarovaných předmětů. Duchovno také zvyšuje práh bolesti a zvětšuje zranění magickými útoky.
 
 tagCharAttributeDescription04=Zdraví je měřítkem tvého prahu bolesti a zranění, která ustojíš dříve než zkolabuješ nebo zemřeš.
 
@@ -1671,6 +1765,7 @@ tagGamePadSkills=Dovednosti
 tagGamePadMap=Mapa
 tagGamePadFactions=Frakce
 tagGamePadAchieve=Úspěchy
+tagGamePadLootFilter=Filtr kořisti
 
 tagControllerUIWarning=Současné nastavení monitoru neumožňuje použít rozhraní ovladače.
 
@@ -2101,6 +2196,7 @@ tagDamageModifierDamageMult={^H}{%.0f0}% {^E}celkového zranění
 tagRetaliationModifierTotalDamage={%+.0f0}% {^E}ke všem zraněním odplatou
 tagRetaliationModifierTotalDamageR={%+.0f0}-{%.0f1}% {^E}ke všem zraněním odplatou
 tagTotalSpeedResistance={%.0f0}% {^E}odolnost vůči zpomalení
+tagTotalSpeedResistanceR={%+.0f0}-{%.0f1}% {^E}odolnost vůči zpomalení
 tagMindcontrolledMonster=Ovládaný myšlenkami
 tagSparkMaxNumberChanceSingle={^H}{%.0f0}% {^E}šance ovlivnit {^H}{%d1} {^E}nepřítele
 tagSparkMaxNumberChanceSingleMod={^H}+{%.0f0}% {^E}šance ovlivnit {^H}{%d1} {^E}nepřítele

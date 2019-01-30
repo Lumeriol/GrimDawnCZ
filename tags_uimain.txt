@@ -1,4 +1,4 @@
-tagTitleScreenText=Grim Dawn{^n}©2018 Crate Entertainment, LLC{^n}{^n}Vážíme si tvé zpětné vazby.{^n}{^n}Navštiv prosím naše webové stránky www.grimdawn.com pro podílení se{^n}na pokračujícím vývoji hry Grim Dawn!{^n}{^n}Youtube kanál: Actionexpress50{^n}{^n}Facebook fansite - GrimDawnCZ{^n}{^n}Skupina hráčů na Steamu - GrimDawnCZ
+tagTitleScreenText=Grim Dawn{^n}©2019 Crate Entertainment, LLC{^n}{^n}Vážíme si tvé zpětné vazby.{^n}{^n}Navštiv prosím naše webové stránky www.grimdawn.com pro podílení se{^n}na pokračujícím vývoji hry Grim Dawn!{^n}{^n}Youtube kanál: Actionexpress50{^n}{^n}Facebook fansite - GrimDawnCZ{^n}{^n}Skupina hráčů na Steamu - GrimDawnCZ
 tagDemoScreenText=Děkujeme za hraní!{^n}{^n}Grim Dawn je nyní dostupný na Steamu, nebo skrze naší webovou stránku www.grimdawn.com
 tagMenu01=Hrát Grim Dawn
 tagMenu02=Hrát vlastní hru
@@ -251,6 +251,7 @@ tagKeybind45=Otáčet kamerou doprava
 tagKeybind46=Otáčení kamery
 tagKeybind47=Okno frakcí
 tagKeybind48=Okno úspěchů
+tagKeybind49=Okno filtru kořisti
 tagKeybindTitle01=Obecné klávesové zkratky
 tagKeybindTitle02=Klávesové zkratky chatu
 tagAudioTitle=Zvuk

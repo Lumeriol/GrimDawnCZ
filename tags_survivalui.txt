@@ -27,7 +27,7 @@ achS006Title=Vysoká hra
 achS006Desc=Získej v aréně alespoň 10.000.000 bodů.
 
 achS007Title=Neporazitelný pán arény
-achS007Desc=Přežij arénu na obtížnost gladiátora se šesti aktivními zřídly nepřátel.
+achS007Desc=Přežij v aréně 150 vln na obtížnost gladiátora se šesti aktivními zřídly nepřátel.
 
 achS008Title=Obranné postavení
 achS008Desc=Vybuduj obranou stavbu.

@@ -3386,6 +3386,7 @@ tagCompAScrapDesc="Kusy železa, zlámané šipky, kožené šňůry nebo nekval
 tagDifficultyUnlock={^E}Odemknuta obtížnost {%s0}
 tagDifficultyAlreadyUnlocked=Tato obtížnost už byla odemčena
 tagDifficultyUnlockDLC=Tento předmět je spojený s DLC, které nevlastníš
+tagDifficultyIncorrectMode=Pro použití tohoto předmětu musíš být ve správném herním režimu
 
 #ItemFactionBoosters
 
@@ -4223,8 +4224,8 @@ tagShrineMogdrogenLocked= {^R} ~ střeženo chthonickými energiemi
 
 tagWoodenDoor=Dřevěné dveře
 tagBarnDoor=Vrata
-tagCageDoor=Vrata cely
-tagTrollDoor=Zlobří brána
+tagCageDoor=Vrata
+tagTrollDoor=Brána
 
 tagBreakableStoneWall=Drolící se zeď
 tagBreakableNaturalWall=Kyprá zemina
