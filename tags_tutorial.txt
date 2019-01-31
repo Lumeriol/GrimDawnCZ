@@ -238,14 +238,14 @@ tagTutorialTip61TextA=Nebeské síly jsou automaticky aktivované schopnosti, kt
 tagTutorialTip61SubtitleA=Přiřazení primární dovednosti.
 tagTutorialTip61TextB=Pro přiřazení Nebeské moci musíš nejprve nějakou odemknout v Přehledu oddanosti a poté zvolíš vhodnou primární dovednost ze seznamu. Samozřejmě můžeš nebeskou moc kdykoliv přeřadit k jiné dovednosti bez jakéhokoliv postihu. Pokud odejmeš nebeskou moc nebo ji vyměníš za jinou, veškeré zkušenosti a úrovně jí zůstanou zachovány.
 
-tagTutorialTip69Title=Loot Filter
-tagTutorialTip69TextA=The Loot Filter window allows you to control what items are displayed on the ground. This powerful tool simplifies the vast variety of loot in Grim Dawn by focusing your attention on the loot your character needs most.
-tagTutorialTip69SubtitleA=Quality Filters
-tagTutorialTip69TextB=You can show or hide items based on their Quality. If a box us unchecked here, items of that quality will not appear on the ground regardless of what is checked under the other Categories. The exceptions to this rule are Monster Infrequents and Sets, as they are a subset of Rare and Epic/Legendary items, respectively, and are used only if you wish to fine-tune your filter further.{^n}{^n}By default, all options are checked in this section.
-tagTutorialTip69SubtitleB=Type Filters
-tagTutorialTip69TextC=You can show or hide items based on their Equipment Slot. If a box is unchecked here, items of that type will not appear on the ground regardless of what is checked in the Damage and Character Categories.{^n}{^n}By default, all options are checked in this section.
-tagTutorialTip69SubtitleC=Damage and Character Filters
-tagTutorialTip69TextD=You can show or hide items based on their attributes. If any boxes are checked under these Categories, only items that meet at least one of these filters will appear on the ground.{^n}{^n}By default, all options are unchecked in this section.
+tagTutorialTip69Title=Filtr kořisti
+tagTutorialTip69TextA=Okno filtru kořisti ti umožní zobrazit předměty na zemi dle vybraných parametrů. Tento nástroj zjednodušuje obrovskou rozmanitost předmětů, které můžeš ve hře najít a umožní ti zaměřit se pouze na předměty, které tvá postava skutečně potřebuje.
+tagTutorialTip69SubtitleA=Filtr kvality
+tagTutorialTip69TextB=Zobrazí nebo skryje předměty podle jejich kvality. Pokud je políčko nezaškrtnuté, předmět se nebude ukazovat, i když vyhovuje jiným požadavkům v ostatních kategoriích. Výjimkou z tohoto pravidla jsou setové a osobní předměty, které spadají do podmnožiny vzácných a epických/legendárních předmětů a tento filtr slouží pouze k doladění dalších filtrů.{^n}{^n}Ve výchozím nastavení jsou všechny možnosti zaškrtnuté.
+tagTutorialTip69SubtitleB=Filtr druhu
+tagTutorialTip69TextC=Zobrazí nebo skryje předměty v závislosti na jejich výbavě. Pokud je políčko nezaškrtnuté, předmět se nebude ukazovat, i když vyhovuje parametrům v kategorii Zranění a postavy.{^n}{^n}Ve výchozím nastavení jsou všechny možnosti zaškrtnuté.
+tagTutorialTip69SubtitleC=Filtr zranění a postavy
+tagTutorialTip69TextD=Zobrazí nebo skryje předměty v závislosti na jejich atributech. Budou se ukazovat předměty, které mají alespoň jednu vlastnost ze zaškrtnutých možností.{^n}{^n}Ve výchozím nastavení není žádná možnost zaškrtnuta.
 
 
 #Quick Tips
@@ -294,4 +294,4 @@ tagQuickTip58={^z}Obnovení svatyně{^-}{^n}{^n}Svatyně mohou být obnoveny bu�
 tagQuickTip59={^z}Body oddanosti{^-}{^n}{^n}Body oddanosti získané za obnovení svatyní můžeš rozdělit na Hvězdné obloze, kterou najdeš v Přehledu dovedností {^x}[%t0]{^-}.
 tagQuickTip60={^z}Hvězdná obloha{^-}{^n}{^n}Na hvězdné obloze můžeš rozdělit své body oddanosti získané za obnovení svatyní. Každý utracený bod ti umožňuje odemknout nové bonusy a dovednosti.
 tagQuickTip61={^z}Nebeská moc{^-}{^n}{^n}Přiřaď svou nebeskou moc k některé dovednosti kliknutím na ikonku na Hvězdné obloze a vyber dovednost ze seznamu.
-tagQuickTip69={^z}Loot Filter{^-}{^n}{^n}Use the Loot Filter to control what loot drops are displayed on the ground.
+tagQuickTip69={^z}Loot Filter{^-}{^n}{^n}Použitím filtru kořisti si vytřídíš předměty na zemi.

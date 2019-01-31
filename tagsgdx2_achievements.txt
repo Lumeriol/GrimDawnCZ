@@ -1,38 +1,38 @@
 # Achievement Groups
 
-achGDX2Group1=Forgotten Gods
+achGDX2Group1=Zapomenutí bohové
 
 # Achievements
 
-achGDX201Title=Faraway Lands
-achGDX201Desc=Enter the Emissary's portal to the land of the Korvan people.
+achGDX201Title=Vzdálené končiny
+achGDX201Desc=Projdi vyslancovým portálem do země Korvanských obyvatel.
 
-achGDX202Title=Pledging Loyalty
-achGDX202Desc=Side with one of the Witch God Cults.
+achGDX202Title=Závazek věrnosti
+achGDX202Desc=Spoj se s kultem jednoho z Čarodějných bohů.
 
-achGDX203Title=The Master of Necromancy
-achGDX203Desc=Learn Uroboruuk's Fate.
+achGDX203Title=Mistr nekromancie
+achGDX203Desc=Pochop Uroboruukův osud.
 
-achGDX204Title=Rahn's Secrets
-achGDX204Desc=Discover the secrets of Rahn.
+achGDX204Title=Rahnova tajemství
+achGDX204Desc=Objev Rahnova tajemství.
 
-achGDX205Title=Byscilla's Schemes
-achGDX205Desc=Bind the Hound of Ateph to Byscilla's will.
+achGDX205Title=Byscillin plán
+achGDX205Desc=Svaž Atephova pejska s Byscillinou vůlí.
 
-achGDX206Title=A Select Future
-achGDX206Desc=Deal with the Mind Reaper.
+achGDX206Title=Vybraná budoucnost
+achGDX206Desc=Vypořádej se se Zabijákem myšlenek.
 
-achGDX207Title=A Heart for Solael
-achGDX207Desc=Offer the Heart of Onarix to Solael.
+achGDX207Title=Srdce pro Solaela
+achGDX207Desc=Nabídni Onarixovo srdce Solaelovi.
 
-achGDX208Title=Juggernaut
-achGDX208Desc=Charge through 15 foes in a row using a Rush-type skill (ex. Vire's Might).
+achGDX208Title=Běs
+achGDX208Desc=Probij se skrze 15 nepřátel pomocí některé z rychlých schopností (např. Virova síla).
 
-achGDX209Title=The Gryphon Sovereign
-achGDX209Desc=Slay Azaleon, the Gryphon Sovereign at the Sunward Spire.
+achGDX209Title=Gryfí vládce
+achGDX209Desc=Zlikviduj Azaleona, Gryfího vládce ve Sluneční věži.
 
-achGDX210Title=Sovereign Skies
-achGDX210Desc=Slay Azaleon, the Gryphon Sovereign at the Sunward Spire on Ultimate Difficulty.
+achGDX210Title=Vládce nebes
+achGDX210Desc=Zlikviduj Azaleona, Gryfího vládce ve Sluneční věži na ultimátní obtížnosti.
 
 achGDX211Title=Crag Hunter
 achGDX211Desc=Slay Grimmaw, the Packhound Alpha in the Basalt Crags.
