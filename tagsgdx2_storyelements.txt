@@ -1,193 +1,193 @@
 #Region Names
-tagGDX2MapWitchGodBase=Conclave of the Three
-tagGDX2MapArea01=Korvan Plateau
-tagGDX2MapRuinedTempleCity=Temple City of Osyr
-tagGDX2MapRuinedTemple01=Temple of Osyr
-tagGDX2MapHiddenOasis=Hidden Refuge
-tagGDX2MapArea02=Korvan Sands
-tagGDX2MapRuinedCity01=Cairan Docks
-tagGDX2MapOasis=Sunbane Oasis
-tagGDX2MapDeadLake=Bonebleach Basin
-tagGDX2MapArea03=Basalt Crags
-tagGDX2MapRuinedCity02=Ruins of Abyd
-tagGDX2MapBurningSpire=Burning Spire 
-tagGDX2MapArea04=Infernal Wastes
-tagGDX2MapVolcano01=Eye of Ulzuin
-tagGDX2MapVolcano02=Maw of Apesh
-tagGDX2MapTombValley=Valley of the Chosen
-tagGDX2MapArea05=Remnants of Korvan City
-tagGDX2MapRaisedTemple=Sunward Spire
-tagGDX2MapMessengersVolcano=Pit of Atonement
-tagGDX2MapRoadToKorvaakTemple=Path of Ascension
-tagGDX2MapVanguardBase=Vanguard of the Three
-tagGDX2MapSecretDesertShrine=Shrine of Azaleon
-tagGDX2MapSecretBaseShrine=Shrine of Horran
+tagGDX2MapWitchGodBase=Konkláve Tří
+tagGDX2MapArea01=Korvanská náhorní plošina
+tagGDX2MapRuinedTempleCity=Osyrovo chrámové město
+tagGDX2MapRuinedTemple01=Osyrův chrám
+tagGDX2MapHiddenOasis=Skryté útočiště
+tagGDX2MapArea02=Korvanská poušť
+tagGDX2MapRuinedCity01=Cairanské doky
+tagGDX2MapOasis=Oáza prokletého slunce
+tagGDX2MapDeadLake=Zátoka vybledlých kostí
+tagGDX2MapArea03=Čedičové útesy
+tagGDX2MapRuinedCity02=Rozvaliny města Abyd
+tagGDX2MapBurningSpire=Spalující věž
+tagGDX2MapArea04=Pekelná skládka
+tagGDX2MapVolcano01=Ulzuinovo oko
+tagGDX2MapVolcano02=Apeshova tlama
+tagGDX2MapTombValley=Údolí Vyvoleného
+tagGDX2MapArea05=Zbytky korvanského města
+tagGDX2MapRaisedTemple=Sluneční věž
+tagGDX2MapMessengersVolcano=Jáma vykoupení
+tagGDX2MapRoadToKorvaakTemple=Cesta nanebevzetí
+tagGDX2MapVanguardBase=Předvoj Tří
+tagGDX2MapSecretDesertShrine=Azaleonova svatyně
+tagGDX2MapSecretBaseShrine=Horranova svatyně
 
 
 
 #Riftgate Names
-tagGDX2RiftWitchGodBase=Conclave of the Three Rift
-tagGDX2RiftKorvanPlateau=Korvan Plateau Rift
-tagGDX2RiftTempleOfOsyr=Temple of Osyr Rift
-tagGDX2RiftKorvanSands=Korvan Sands Rift
-tagGDX2RiftCairanDocks=Cairan Docks Rift
-tagGDX2RiftOasis=Sunbane Oasis Rift
-tagGDX2RiftVanguard=Vanguard of the Three Rift
-tagGDX2RiftAbyd=Ruins of Abyd Rift
-tagGDX2RiftInfernalWastes=Infernal Wastes Rift
-tagGDX2RiftKorvanCity=Korvan City Rift
-tagGDX2RiftTemple=Tomb of the Eldritch Sun Rift
-tagGDX2RiftEldritch=Astral Fields Rift
+tagGDX2RiftWitchGodBase=Brána u Konkláve Tří
+tagGDX2RiftKorvanPlateau=Brána na Korvanské náhorní plošině
+tagGDX2RiftTempleOfOsyr=Brána u Osyrova chrámu
+tagGDX2RiftKorvanSands=Brána v Korvanské poušti
+tagGDX2RiftCairanDocks=Brána v Cairanských docích
+tagGDX2RiftOasis=Brána v oáze prokletého slunce
+tagGDX2RiftVanguard=Brána u Předvoje Tří
+tagGDX2RiftAbyd=Brána v rozvalinách města Abyd
+tagGDX2RiftInfernalWastes=Brána na Pekelné skládce
+tagGDX2RiftKorvanCity=Brána v korvanském městě
+tagGDX2RiftTemple=Brána v hrobce Tajemného slunce
+tagGDX2RiftEldritch=Brána ve Hvězdných polích
 
 #World Map Labels
-tagGDX2WorldMapWitchGodBase=Conclave{^n}Of the Three
-tagGDX2WorldMapArea01=Korvan{^n}Plateau
-tagGDX2WorldMapRuinedTemple01=Temple{^n}Of Osyr
-tagGDX2WorldMapArea02=Korvan{^n}Sands
-tagGDX2WorldMapRuinedCity01=Cairan{^n}Docks
-tagGDX2WorldMapOasis=Sunbane{^n}Oasis
-tagGDX2WorldMapDeadLake=Bonebleach{^n}Basin
-tagGDX2WorldMapArea03=Basalt{^n}Crags
-tagGDX2WorldMapRuinedCity02=Ruins{^n}Of Abyd
-tagGDX2WorldMapArea04=Infernal{^n}Wastes
-tagGDX2WorldMapVolcano01=Eye{^n}Of Ulzuin
-tagGDX2WorldMapVolcano02=Maw{^n}Of Apesh
-tagGDX2WorldMapTombValley=Valley Of{^n}The Chosen
-tagGDX2WorldMapArea05=Remnants Of{^n}Korvan City
-tagGDX2WorldMapRaisedTemple=Sunward{^n}Spire
-tagGDX2WorldMapMessengersVolcano=Pit Of{^n}Atonement
-tagGDX2WorldMapRoadToKorvaakTemple=Path Of{^n}Ascension
-tagGDX2WorldMapKorvaakTomb=Tomb Of The{^n}Eldritch Sun
-tagGDX2WorldMapVanguard=Vanguard{^n}Of the Three
+tagGDX2WorldMapWitchGodBase=Konkláve{^n}Tří
+tagGDX2WorldMapArea01=Korvanská{^n}náhorní plošina
+tagGDX2WorldMapRuinedTemple01=Osyrův{^n}chrám
+tagGDX2WorldMapArea02=Korvanská{^n}poušť
+tagGDX2WorldMapRuinedCity01=Cairanské{^n}doky
+tagGDX2WorldMapOasis=Oáza{^n}prokletého slunce
+tagGDX2WorldMapDeadLake=Zátoka{^n}vybledlých kostí
+tagGDX2WorldMapArea03=Čedičové{^n}útesy
+tagGDX2WorldMapRuinedCity02=Rozvaliny{^n}města Abyd
+tagGDX2WorldMapArea04=Pekelná{^n}skládka
+tagGDX2WorldMapVolcano01=Ulzuinovo{^n}oko
+tagGDX2WorldMapVolcano02=Apeshova{^n}tlama
+tagGDX2WorldMapTombValley=Údolí{^n}Vyvoleného
+tagGDX2WorldMapArea05=Zbytky{^n}korvanského města
+tagGDX2WorldMapRaisedTemple=Sluneční{^n}věž
+tagGDX2WorldMapMessengersVolcano=Jáma{^n}vykoupení
+tagGDX2WorldMapRoadToKorvaakTemple=Cesta{^n}nanebevzetí
+tagGDX2WorldMapKorvaakTomb=Hrobka{^n}Tajemného slunce
+tagGDX2WorldMapVanguard=Předvoj{^n}Tří
 
 #Underground Names
-tagGDX2RuinedTemple01=Temple of Osyr
-tagGDX2CairanRuins01=Sandblown Ruins
+tagGDX2RuinedTemple01=Osyrův chrám
+tagGDX2CairanRuins01=Pískem zaváté ruiny
 
-tagGDX2Beetle01=Crawling Nest
-tagGDX2Beetle02=Durg's Den
+tagGDX2Beetle01=Hnízdo plazivců
+tagGDX2Beetle02=Durgův brloh
 
-tagGDX2SanctuaryOfHorran=Sanctuary of Horran
+tagGDX2SanctuaryOfHorran=Horranovo útočiště
 
-tagGDX2HowlingChasm=Howling Chasm
+tagGDX2HowlingChasm=Kvílející průrva
 
-tagGDX2RuinedTemple02=Temple of Ateph
+tagGDX2RuinedTemple02=Atephův chrám
 
-tagGDX2VOTC01=Tomb of Sethan
-tagGDX2VOTC02=Tomb of Nephos
-tagGDX2VOTC03=Tomb of Ariath
+tagGDX2VOTC01=Sethanova hrobka
+tagGDX2VOTC02=Nephosova hrobka
+tagGDX2VOTC03=Ariathina hrobka
 
-tagGDX2MapRoom=Map Room of Rahn
+tagGDX2MapRoom=Rahnova místnost s mapami
 
-tagGDX2MessengerVolcano=Pit of Atonement
+tagGDX2MessengerVolcano=Jáma vykoupení
 
-tagGDX2KorvaakTomb01=Tomb of the Eldritch Sun
-tagGDX2EldritchRealm01=Astral Fields
-tagGDX2EldritchRealm02=Throne of the Three
+tagGDX2KorvaakTomb01=Hrobka Tajemného slunce
+tagGDX2EldritchRealm01=Hvězdná pole
+tagGDX2EldritchRealm02=Trůn Tří
 
-tagGDX2RuinedDC=Edge of Reality
-tagGDX2BysmielEldritch=Veiled Den
-tagGDX2SolaelVoid=Bloodied Wastes
+tagGDX2RuinedDC=Konec reality
+tagGDX2BysmielEldritch=Zahalené doupě
+tagGDX2SolaelVoid=Krvavé pustiny
 
-tagGDX2Cellar=Forgotten Cellar
+tagGDX2Cellar=Zapomenutý sklep
 
-tagGDX2DesertUG01=Sunken Pit
-tagGDX2CairanRuins02=Cairan Bathhouse
-tagGDX2RuinedTemple04=Temple of Rahn
-tagGDX2RuinedTemple04A=Map Room of Rahn 
-tagGDX2RuinedPass01=Foundations of Abyd
-tagGDX2VOTC04=Tomb of Irrah
+tagGDX2DesertUG01=Zapadlá šachta
+tagGDX2CairanRuins02=Cairanské lázně
+tagGDX2RuinedTemple04=Rahnův chrám
+tagGDX2RuinedTemple04A=Rahnova místnost s mapami
+tagGDX2RuinedPass01=Základy města Abyd
+tagGDX2VOTC04=Irrahova hrobka
 
 
 #Signs
 
 
 #Points of Interest
-tagGDX2POI_AREAG_CovenBase=Conclave of the Three
-tagGDX2POI_AREAG_CovenBaseBysmiel=Bysmiel Encampment
-tagGDX2POI_AREAG_CovenBaseDreeg=Dreeg Encampment
-tagGDX2POI_AREAG_CovenBaseSolael=Solael Encampment
-tagGDX2POI_AREAG_TombKorvaak=Tomb of the Eldritch Sun Entrance
-tagGDX2POI_AREAG_TheEmissarysPortal=The Emissary's Portal
+tagGDX2POI_AREAG_CovenBase=Konkláve Tří
+tagGDX2POI_AREAG_CovenBaseBysmiel=Bysmielino tábořiště
+tagGDX2POI_AREAG_CovenBaseDreeg=Dreegovo tábořiště
+tagGDX2POI_AREAG_CovenBaseSolael=Solaelovo tábořiště
+tagGDX2POI_AREAG_TombKorvaak=Vstup do hrobky Tajemného slunce
+tagGDX2POI_AREAG_TheEmissarysPortal=Vyslancův portál
 
-tagGDX2POI_AREAG_TombKorvaakA=Stairs Down
-tagGDX2POI_AREAG_TombKorvaakB=Stairs Up
+tagGDX2POI_AREAG_TombKorvaakA=Schodiště dolů
+tagGDX2POI_AREAG_TombKorvaakB=Schodiště nahoru
 
-tagGDX2POI_AREAG_BloodiedWastesA=Bloodied Wastes Entrance
-tagGDX2POI_AREAG_BloodiedWastesB=Bloodied Wastes Exit
+tagGDX2POI_AREAG_BloodiedWastesA=Vstup na Krvavé pustiny
+tagGDX2POI_AREAG_BloodiedWastesB=Východ z Krvavých pustin
 
-tagGDX2POI_AREAG_EdgeOfRealityA=Edge of Reality Entrance
-tagGDX2POI_AREAG_EdgeOfRealityB=Edge of Reality Exit
+tagGDX2POI_AREAG_EdgeOfRealityA=Vstup na Konec reality
+tagGDX2POI_AREAG_EdgeOfRealityB=Východ z Konce reality
 
-tagGDX2POI_AREAG_SandblownRuinsA=Sandblown Ruins Entrance
-tagGDX2POI_AREAG_SandblownRuinsB=Sandblown Ruins Exit
+tagGDX2POI_AREAG_SandblownRuinsA=Vchod do pískem zavátých ruin
+tagGDX2POI_AREAG_SandblownRuinsB=Východ z pískem zavátých ruin
 
-tagGDX2POI_AREAG_TempleOfRahnA=Temple of Rahn Entrance
-tagGDX2POI_AREAG_TempleOfRahnB=Temple of Rahn Exit
+tagGDX2POI_AREAG_TempleOfRahnA=Vstup do Rahnova chrámu
+tagGDX2POI_AREAG_TempleOfRahnB=Východ z Rahnova chrámu
 
-tagGDX2POI_AREAG_TempleOfAtephA=Temple of Ateph Entrance
-tagGDX2POI_AREAG_TempleOfAtephB=Temple of Ateph Exit
+tagGDX2POI_AREAG_TempleOfAtephA=Vchod do Atephova chrámu
+tagGDX2POI_AREAG_TempleOfAtephB=Východ z Atephova chrámu
 
-tagGDX2POI_AREAG_TempleOfOsyrA=Temple of Osyr Entrance
-tagGDX2POI_AREAG_TempleOfOsyrB=Temple of Osyr Exit
+tagGDX2POI_AREAG_TempleOfOsyrA=Vchod do Osyrova chrámu
+tagGDX2POI_AREAG_TempleOfOsyrB=Východ z Osyrova chrámu
 
-tagGDX2POI_AREAG_TombOfAriathA=Tomb of Ariath Entrance
-tagGDX2POI_AREAG_TombOfAriathB=Tomb of Ariath Exit
+tagGDX2POI_AREAG_TombOfAriathA=Vchod do Ariathiny hrobky
+tagGDX2POI_AREAG_TombOfAriathB=Východ z Ariathiny hrobky
 
-tagGDX2POI_AREAG_TombOfIrrahA=Tomb of Irrah Entrance
-tagGDX2POI_AREAG_TombOfIrrahB=Tomb of Irrah Exit
+tagGDX2POI_AREAG_TombOfIrrahA=Vchod do Irrathovy hrobky
+tagGDX2POI_AREAG_TombOfIrrahB=Východ z Irrathovy hrobky
 
-tagGDX2POI_AREAG_TombofNephosA=Tomb of Nephos Entrance
-tagGDX2POI_AREAG_TombofNephosB=Tomb of Nephos Exit
+tagGDX2POI_AREAG_TombofNephosA=Vchod do Nephosovy hrobky
+tagGDX2POI_AREAG_TombofNephosB=Východ z Nephosovy hrobky
 
-tagGDX2POI_AREAG_TombofSethanA=Tomb of Sethan Entrance
-tagGDX2POI_AREAG_TombofSethanB=Tomb of Sethan Exit
+tagGDX2POI_AREAG_TombofSethanA=Vchod do Sethanovy hrobky
+tagGDX2POI_AREAG_TombofSethanB=Východ ze Sethanovy hrobky
 
-tagGDX2POI_AREAG_VeiledDenA=Veiled Den Entrance
-tagGDX2POI_AREAG_VeiledDenB=Veiled Den Exit
+tagGDX2POI_AREAG_VeiledDenA=Vchod do Zahaleného doupěte
+tagGDX2POI_AREAG_VeiledDenB=Východ ze Zahaleného doupěte
 
-tagGDX2POI_AREAG_TheEdritchGateA=The Eldritch Gate
-tagGDX2POI_AREAG_TheEdritchGateB=The Eldritch Gate Exit
+tagGDX2POI_AREAG_TheEdritchGateA=Tajemná brána
+tagGDX2POI_AREAG_TheEdritchGateB=Jednosměrná tajemná brána
 
-tagGDX2POI_AREAG_EldritchThrone=Descend to the Eldritch Throne
+tagGDX2POI_AREAG_EldritchThrone=Sestup k Tajemnému trůnu
 
-tagGDX2POI_AREAG_SanctuaryHorranA=Sanctuary of Horran Entrance
-tagGDX2POI_AREAG_SanctuaryHorranB=Sanctuary of Horran Exit
+tagGDX2POI_AREAG_SanctuaryHorranA=Vchod do Horranova útočiště
+tagGDX2POI_AREAG_SanctuaryHorranB=Východ z Horranova útočiště
 
-tagGDX2POI_AREAG_BasaltCragsA=Howling Chasm
-tagGDX2POI_AREAG_BasaltCragsB=Howling Chasm
+tagGDX2POI_AREAG_BasaltCragsA=Zapadlá šachta
+tagGDX2POI_AREAG_BasaltCragsB=Zapadlá šachta
 
-tagGDX2POI_AREAG_BeetleA=Beetle Den
-tagGDX2POI_AREAG_BeetleB=Beetle Den Exit
+tagGDX2POI_AREAG_BeetleA=Doupě brouků
+tagGDX2POI_AREAG_BeetleB=Východ z Doupěte brouků
 
-tagGDX2POI_AREAG_MessengerA=Pit of Atonement Entrance
-tagGDX2POI_AREAG_MessengerB=Pit of Atonement Exit
+tagGDX2POI_AREAG_MessengerA=Vchod do Jámy vykoupení
+tagGDX2POI_AREAG_MessengerB=Východ z Jámy vykoupení
 
 
 #Notifications
-tagNotification_AreaG_WitchGodTestWaveEvent=The Eldritch Trials have begun!
-tagNotification_AreaG_WitchGodTestWaveEventFinished=You have survived the Eldritch Trials...
-tagNotification_AreaG_DailaPendant=This pendant is all that remains of Uroboruuk...
+tagNotification_AreaG_WitchGodTestWaveEvent=Tajemné zkoušky právě začaly!
+tagNotification_AreaG_WitchGodTestWaveEventFinished=Přežil jsi Tajemné zkoušky...
+tagNotification_AreaG_DailaPendant=Tento přívěsek je vše, co zbylo z Uroboruuka...
 
-tagNotification_AreaG_SolaelStatueUnlocked=The guardian's death opens nearby Sarcophagi ...
-tagNotification_AreaG_SolaelStatueCorrect=The tomb is at peace...
-tagNotification_AreaG_SolaelStatueWrong=A guardian stirs to protect the desecrated tomb...
+tagNotification_AreaG_SolaelStatueUnlocked=Smrt strážců otevřela nedaleký sarkofág...
+tagNotification_AreaG_SolaelStatueCorrect=Hrobka je klidná...
+tagNotification_AreaG_SolaelStatueWrong=Strážce se pohnul, aby chránil znesvěcenou hrobku...
 
-tagNotification_AreaG_VanguardRitual=Something falls through the rift...
+tagNotification_AreaG_VanguardRitual=Něco vypadlo z brány...
 
 
 #NPC Names
-tagGDX2NPC_AreaG_01=The Emissary
-tagGDX2NPC_AreaG_02=Inarah, the Afflicted
-tagGDX2NPC_AreaG_03=Byscilla, Matron of Rifts
-tagGDX2NPC_AreaG_04=Draellus, Oracle of Dreeg
-tagGDX2NPC_AreaG_05=Sagon, Vicar of Solael
+tagGDX2NPC_AreaG_01=Vyslanec
+tagGDX2NPC_AreaG_02=Postižený Inarah
+tagGDX2NPC_AreaG_03=Byscilla, dozorkyně Bran
+tagGDX2NPC_AreaG_04=Draellus, Dreegův věštec
+tagGDX2NPC_AreaG_05=Sagon, Solaelův vikář
 
 tagGDX2NPC_AreaG_06=Anorak
 tagGDX2NPC_AreaG_07=Aaral
 tagGDX2NPC_AreaG_08=Anderan
 
-tagGDX2NPC_AreaG_09=Seer Laurna
+tagGDX2NPC_AreaG_09=Prorokyně Laurna
 tagGDX2NPC_AreaG_10=Vorak
 tagGDX2NPC_AreaG_11=Keisen
 tagGDX2NPC_AreaG_12=Elita
@@ -197,13 +197,13 @@ tagGDX2NPC_AreaG_14=Alain
 tagGDX2NPC_AreaG_15=Kira 
 tagGDX2NPC_AreaG_16=Raiken
 
-tagGDX2NPC_AreaG_17=Master Harken of Death's Vigil
+tagGDX2NPC_AreaG_17=Mistr Harken od Strážců Smrti
 
-tagGDX2NPC_AreaG_18=The Eldritch Gate
-tagGDX2NPC_AreaG_19=Sorcerous Barrier
-tagGDX2NPC_AreaG_20=Altar of Ateph
-tagGDX2NPC_AreaG_21=Altar of Abyd
-tagGDX2NPC_AreaG_22=Mysterious Statue
+tagGDX2NPC_AreaG_18=Tajemná brána
+tagGDX2NPC_AreaG_19=Čarodějná bariéra
+tagGDX2NPC_AreaG_20=Atephův oltář
+tagGDX2NPC_AreaG_21=Abydův oltář
+tagGDX2NPC_AreaG_22=Záhadná socha
 
 tagGDX2NPC_AreaG_23=Atrin
 tagGDX2NPC_AreaG_24=Rikket
@@ -211,46 +211,46 @@ tagGDX2NPC_AreaG_25=Niran
 
 tagGDX2NPC_AreaG_26=Uroboruuk
 
-tagGDX2NPC_AreaG_27=Kanatha, Mistress of the Sentinels
+tagGDX2NPC_AreaG_27=Kanatha, vládkyně stráží
 
-tagGDX2NPC_AreaG_28=Brother Haggan
-tagGDX2NPC_AreaG_29=Sister Vaira
-tagGDX2NPC_AreaG_30=Brother Parrin
-tagGDX2NPC_AreaG_31=Brother Miranok
+tagGDX2NPC_AreaG_28=Bratr Haggan
+tagGDX2NPC_AreaG_29=Sestra Vaira
+tagGDX2NPC_AreaG_30=Bratr Parrin
+tagGDX2NPC_AreaG_31=Bratr Miranok
 
-tagGDX2NPC_AreaG_32=Sacrifical Altar
+tagGDX2NPC_AreaG_32=Obětní oltář
 
 #Flavor NPC Names
 #Solael Camp
 tagGDX2NPC_Flavor_AreaG_01=Alica
 tagGDX2NPC_Flavor_AreaG_02=Merise 
-tagGDX2NPC_Flavor_AreaG_03=Vikon ~ Oathkeeper of Solael
+tagGDX2NPC_Flavor_AreaG_03=Vikon ~ Solaeův strážce přísahy
 tagGDX2NPC_Flavor_AreaG_04=Harrold 
 tagGDX2NPC_Flavor_AreaG_05=Ricard
 
 #Dreeg Camp
-tagGDX2NPC_Flavor_AreaG_06=Lura, Seer of Dreeg
+tagGDX2NPC_Flavor_AreaG_06=Lura, Dreegova prorokyně
 tagGDX2NPC_Flavor_AreaG_07=Riggs
 tagGDX2NPC_Flavor_AreaG_08=Darrion
-tagGDX2NPC_Flavor_AreaG_13=Nailene, Seer of Dreeg
+tagGDX2NPC_Flavor_AreaG_13=Nailene, Dreegova prorokyně
 
 #Bysmiel Camp
 tagGDX2NPC_Flavor_AreaG_09=Nika
 tagGDX2NPC_Flavor_AreaG_10=Carmac
-tagGDX2NPC_Flavor_AreaG_11=Sentinel Thorgil
+tagGDX2NPC_Flavor_AreaG_11=Strážný Thorgil
 tagGDX2NPC_Flavor_AreaG_12=Sigvald
 
 tagGDX2NPC_Flavor_AreaG_14=Indalla
-tagGDX2NPC_Flavor_AreaG_15=Vanguard Ritualist
+tagGDX2NPC_Flavor_AreaG_15=Rituální předvoj
 
 
 #Rift Names
-tagGDX2_RiftTheEmissary=The Emissary's Rift
-tagGDX2_RiftEldritchGate=The Eldritch Gate
-tagGDX2_RiftBysmiel=Rift to the Veiled Den
-tagGDX2_RiftDreeg=Rift to the Edge of Reality
-tagGDX2_RiftSolael=Rift to the Bloodied Wastes
-tagGDX2_ShortcutEldritchRift=Rift back to the Korvan Lands
+tagGDX2_RiftTheEmissary=Vyslancova Brána
+tagGDX2_RiftEldritchGate=Tajemná brána
+tagGDX2_RiftBysmiel=Brána do Zahaleného doupěte
+tagGDX2_RiftDreeg=Brána na Konec reality
+tagGDX2_RiftSolael=Brána do Krvavých pustin
+tagGDX2_ShortcutEldritchRift=Brána zpět do Korvanských zemí
 
 
 #Quest Items
@@ -470,78 +470,78 @@ tagGDX2LoreObj_AreaG_EndlessDungeonNoteA03Text=The earth beneath my feet tremble
 #Merchants and Other Services
 tagGDX2NPC_MerchantA01=Asgra
 tagGDX2NPC_MerchantA02=Muldin
-tagGDX2StoreTitle_MerchantA01=Cult Supplier
+tagGDX2StoreTitle_MerchantA01=Zásobovač kultu
 
 tagGDX2NPC_InventorA01=Kargon
-tagGDX2StoreTitle_InventorA01=Inventor
+tagGDX2StoreTitle_InventorA01=Vynálezce
 
 tagGDX2NPC_SmugglerA01=Sangral
-tagGDX2StoreTitle_SmugglerA01=Smuggler of Secrets
+tagGDX2StoreTitle_SmugglerA01=Pašerák tajemství
 
 tagGDX2NPC_IllusionistA01=Julliana
-tagGDX2StoreTitle_IllusionistA01=Illusionist
+tagGDX2StoreTitle_IllusionistA01=Iluzionistka
 
 tagGDX2NPC_ReallocatorA01=Bagalla
-tagGDX2StoreTitle_ReallocatorA01=Spirit Guide
+tagGDX2StoreTitle_ReallocatorA01=Kaplanka
 
-tagGDX1StoreDesc_SmithA03_2=Bella Fald's hammer is said to have been forged from the stars themselves, capable of creating Legendary items up to level 94, not including objects forged by the Forgotten Gods.
+tagGDX1StoreDesc_SmithA03_2=Říká se, že kladivo Belly Fald bylo skuto ze samotných hvězd, a je schopné vyrábět legendární předměty až do 94. úrovně, kromě předmětů skutých samotnými Čarodějnými bohy.
 
 tagGDX2NPC_SmithA01=Ignus
-tagGDX2StoreTitle_SmithA01=Bewitched Smith
-tagGDX2StoreDesc_SmithA01_1={}Marked by the Witch Gods
-tagGDX2StoreDesc_SmithA01_2=The work of Ignus has been marked by the Witch Gods. His creations carry unusual properties bestowed by their blessing.
+tagGDX2StoreTitle_SmithA01=Očarovaný kovář
+tagGDX2StoreDesc_SmithA01_1={}Ovlivněn Čarodějnými bohy
+tagGDX2StoreDesc_SmithA01_2=Ignusova práce je poznamenána Čarodějnými bohy. Jeho výrobky přinášejí neobvyklé vlastnosti, které jsou přiděleny požehnáním Bohů.
 tagGDX2StoreDesc_SmithA01_3= 
-tagGDX2StoreDesc_SmithA01_4=Crafted Weapons, Armor and Accessories are imbued with one of the following properties:
+tagGDX2StoreDesc_SmithA01_4=Vyrobené zbraně, zbroj a příslušenství jsou prodchnuty jednou z následujících vlastností:
 
 tagGDX2NPC_SmithA02=Algosia Fald
-tagGDX2StoreTitle_SmithA02=Celestial Smith
-tagGDX2StoreDesc_SmithA02_1={}Celestial Forge
-tagGDX2StoreDesc_SmithA02_2=Algosia Fald's hammer is said to have been forged from the stars themselves, capable of creating Legendary items up to level 94, even including objects forged by the Forgotten Gods themselves.
+tagGDX2StoreTitle_SmithA02=Nebeská kovářka
+tagGDX2StoreDesc_SmithA02_1={}Nebeská kovárna
+tagGDX2StoreDesc_SmithA02_2=Říká se, že kladivo Algosie Fald bylo skuto ze samotných hvězd, a je schopné vyrábět legendární předměty až do 94. úrovně, a to včetně předmětů skutých samotnými Čarodějnými bohy.
 tagGDX2StoreDesc_SmithA02_3= 
-tagGDX2StoreDesc_SmithA02_4=Crafted Weapons, Armor and Accessories are imbued with one of the following properties:
+tagGDX2StoreDesc_SmithA02_4=Vyrobené zbraně, zbroj a příslušenství jsou prodchnuty jednou z následujících vlastností:
 
 tagGDX2NPC_SmithA03=Egellon
-tagGDX2StoreTitle_SmithA03=Forgotten Smith
-tagGDX2StoreDesc_SmithA03_1={}Desert Forge
-tagGDX2StoreDesc_SmithA03_2=Egellon's flesh may have been scoured by the sands, but his skill with the hammer is no less diminished.
+tagGDX2StoreTitle_SmithA03=Zapomenutý kovář
+tagGDX2StoreDesc_SmithA03_1={}Pouštní kovárna
+tagGDX2StoreDesc_SmithA03_2=Egellonovo tělo je sice znetvořeno pískem, ale jeho dovednosti s kladivem se nezměnily.
 tagGDX2StoreDesc_SmithA03_3= 
-tagGDX2StoreDesc_SmithA03_4=Crafted Weapons, Armor and Accessories are imbued with one of the following properties:
+tagGDX2StoreDesc_SmithA03_4=Vyrobené zbraně, zbroj a příslušenství jsou prodchnuty jednou z následujících vlastností:
 
 #Faction Quartermasters
 tagGDX2NPC_FactionQuartermaster_01=Falonestra
-tagGDX2StoreTitle_FactionQuartermaster_01=Wares of Bysmiel
+tagGDX2StoreTitle_FactionQuartermaster_01=Bysmieliny výrobky
 tagGDX2NPC_FactionQuartermaster_02=Reida
-tagGDX2StoreTitle_FactionQuartermaster_02=Wares of Dreeg
+tagGDX2StoreTitle_FactionQuartermaster_02=Dreegovy výrobky
 tagGDX2NPC_FactionQuartermaster_03=Jugal
-tagGDX2StoreTitle_FactionQuartermaster_03=Wares of Solael
+tagGDX2StoreTitle_FactionQuartermaster_03=Solaelovy výrobky
 
 
 #Faction Bounty Tables
-tagGDX2NPC_FactionTable_01=Witch God Bounty Table
+tagGDX2NPC_FactionTable_01=Vývěska Čarodějných bohů
 
 
 #Devotion Shrines
-tagGDX2DevotionShrineG01=Temple of Osyr
-tagGDX2DevotionShrineG02=Cairan Docks
-tagGDX2DevotionShrineG03=Ruins of Abyd
-tagGDX2DevotionShrineG04=Valley of the Chosen
-tagGDX2DevotionShrineG05=Tomb of the Eldritch Sun
-tagGDX2DevotionShrineG06=Sunward Spire
-tagGDX2DevotionShrineG07=Sanctuary of Horran
-tagGDX2DevotionShrineG08=Korvan Oasis
-tagGDX2DevotionShrineG09=Splendors of the Shattered Realm
+tagGDX2DevotionShrineG01=Osyrův chrám
+tagGDX2DevotionShrineG02=Cairanské doky
+tagGDX2DevotionShrineG03=Rozvaliny Abydu
+tagGDX2DevotionShrineG04=Údolí Vyvoleného
+tagGDX2DevotionShrineG05=Hrobka Tajemného slunce
+tagGDX2DevotionShrineG06=Sluneční věž
+tagGDX2DevotionShrineG07=Horranovo útočiště
+tagGDX2DevotionShrineG08=Korvanská oáza
+tagGDX2DevotionShrineG09=Velkolepost roztříštěné říše
 
-tagGDX2DevotionShrineN01=Port Valbury
-tagGDX2DevotionShrineN02=Ransacked Lighthouse
-tagGDX2DevotionShrineN03=Temple of the Three
-tagGDX2DevotionShrineN04=Hallowed Hill
-tagGDX2DevotionShrineN05=Stonerend Quarry
-tagGDX2DevotionShrineN06=Void's Edge
-tagGDX2DevotionShrineN07=Tomb of the Watchers
-tagGDX2DevotionShrineN08=Barrowholm Mine
-tagGDX2DevotionShrineN09=Den of the Ancient
-tagGDX2DevotionShrineN10=The Hidden Path
-tagGDX2DevotionShrineN11=The Infestation
-tagGDX2DevotionShrineN12=The Conflagration
+tagGDX2DevotionShrineN01=Valburský přístav
+tagGDX2DevotionShrineN02=Vypleněný maják
+tagGDX2DevotionShrineN03=Chrám Tří
+tagGDX2DevotionShrineN04=Posvátný kopec
+tagGDX2DevotionShrineN05=Kamenolom
+tagGDX2DevotionShrineN06=Konec Prázdnoty
+tagGDX2DevotionShrineN07=Hrobka Pozorovatelů
+tagGDX2DevotionShrineN08=Barrowholmský důl
+tagGDX2DevotionShrineN09=Brloh Starodávných
+tagGDX2DevotionShrineN10=Skrytá stezka
+tagGDX2DevotionShrineN11=Zamořená továrna
+tagGDX2DevotionShrineN12=Požářiště
 
 tagGDX2DevotionShrineS04=???
