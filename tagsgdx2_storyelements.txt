@@ -83,7 +83,7 @@ tagGDX2MessengerVolcano=Jáma vykoupení
 
 tagGDX2KorvaakTomb01=Hrobka Tajemného slunce
 tagGDX2EldritchRealm01=Hvězdná pole
-tagGDX2EldritchRealm02=Trůn Tří
+tagGDX2EldritchRealm02=Trůnní sál Tří
 
 tagGDX2RuinedDC=Konec reality
 tagGDX2BysmielEldritch=Zahalené doupě
@@ -149,7 +149,7 @@ tagGDX2POI_AREAG_VeiledDenB=Východ ze Zahaleného doupěte
 tagGDX2POI_AREAG_TheEdritchGateA=Tajemná brána
 tagGDX2POI_AREAG_TheEdritchGateB=Jednosměrná tajemná brána
 
-tagGDX2POI_AREAG_EldritchThrone=Sestup k Tajemnému trůnu
+tagGDX2POI_AREAG_EldritchThrone=Sestup k Tajemnému trůnnímu sálu
 
 tagGDX2POI_AREAG_SanctuaryHorranA=Vchod do Horranova útočiště
 tagGDX2POI_AREAG_SanctuaryHorranB=Východ z Horranova útočiště
@@ -529,7 +529,7 @@ tagGDX2DevotionShrineG05=Hrobka Tajemného slunce
 tagGDX2DevotionShrineG06=Sluneční věž
 tagGDX2DevotionShrineG07=Horranovo útočiště
 tagGDX2DevotionShrineG08=Korvanská oáza
-tagGDX2DevotionShrineG09=Velkolepost roztříštěné říše
+tagGDX2DevotionShrineG09=Velkolepost pokřiveného světa
 
 tagGDX2DevotionShrineN01=Valburský přístav
 tagGDX2DevotionShrineN02=Vypleněný maják
