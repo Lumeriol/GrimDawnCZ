@@ -1,23 +1,13 @@
-The Eldritch Sun
-The Eldritch Trials
-The Test
-The Emissary's portal has taken you to the Conclave of the Three, a gathering of the Witch God cults within the Korvan Basin.{^n}{^n}The air hangs heavy with anticipation of cosmic events waiting to unfold. But before you can be a part of them, you must first prove yourself.{^n}{^n}The Emissary refused to tell you any more about this place or why you are even here until you've passed the Eldritch Trials.{^n}{^n}Go to the center of camp and speak with Kanatha to begin the test.
+Tajemné Slunce
+Tajemné zkoušky
+Zkouška
+Vyslancův portál tě přenesl do Konkláve Tří, shromaždiště kultů Čarodějných bohů v oblasti Korvanovo povodí.{^n}{^n}Cítíš tíhu ve vzduchu...to jest očekávání vesmírných událostí, které zde budou odhaleny. Ale před tím, než se můžeš stát jejich součástí, musíš dokázat, že jsi jich [[ms]hoden[fs]hodna].{^n}{^n}Vyslanec ti odmítl zdělit cokoliv dalšího o tomto místě a dokonce i to, proč jsi tady, dokud úspěšně neabsolvuješ Tajemné zkoušky.{^n}{^n}Jdi do středu tábora a promluv si s Kanathou, abys [[ms]mohl[fs]mohla] začít zkoušku.
 
-Speak with Kanatha to begin the Eldritch Trials
-Survive the Eldritch Trials
-
-
-
-Return to the Emissary
-You survived the Eldritch Trials. The Emissary will have to tell you his secrets now.{^n}{^n}Speak to him again at the Conclave of the Three.
-Speak to the Emissary at the Conclave of the Three
+Promluv si s Kanathou a zúčastni se Tajemných zkoušek
+Přežij Tajemné zkoušky
 
 
 
-
-
-
-
-
-
-
+Vrať se k Vyslanci
+[[ms]Přežil[fs]Přežila] jsi Tajemné zkoušky. Vyslanec nyní bude muset odhalit svá tajemství.{^n}{^n}Znovu si s ním promluv v Konklávě Tří.
+Promluv si s Vyslancem v Konklávě Tří

@@ -1,29 +1,20 @@
-The Eldritch Sun
-Tomb of the Eldritch Sun
-The Tomb of Korvaak
-The Witch God cults stand united. The preparations are complete. The time has come to march upon Korvaak's forces and eliminate the threat that has even the Witch Gods disturbed.{^n}{^n}You are to travel north, beyond the Infernal Wastes and into the remains of Korvan City. There you must ascend the steps of the Tomb of the Eldritch Sun and make your way inside.{^n}{^n}You have been given a Sigil crafted by the Witch Gods themselves to breach the veil itself and find the hiding place of the forgotten god.
+Tajemné Slunce
+Hrobka Tajemného Slunce
+Korvaakova hrobka
+Kulty Čarodějných bohů jsou věrni jeden druhému. Přípravy jsou kompletní. Nastal čas se postavit Korvaakovým jednotkám a eliminovat hrozbu, která zaujala dokonce samotné Čarodějné bohy.{^n}{^n}Vydej se na sever, za Pekelné pustiny, do ruin Korvanova města. Zde musíš vystoupat k k Hrobce Tajemného Slunce a nějak se dostat dovnitř.{^n}{^n}[[ms]Byl[fs]Byla] jsi [[ms]obdařen[fs]obdařena] Pečetí vytvořenou samotnými Čarodějnými bohy, která by ti měla pomoci prorazit zamotnou roušku reality a najít tak ukryté místo zapomenutého boha.
 
 
 
 
 
 
-Collect the Sigil of the Three
-Find the Tomb of the Eldritch Sun
+Vezmi Pečeť Tří
+Najdi hrobku Tajemného Slunce
 
-Defeat Dravis
-You have reached the tomb, but an unusual sight awaited you.{^n}{^n}An ancient necromancer lies defeated before a twisted and broken man named Dravis. This figure seems intent on claiming the power of the tomb for himself.{^n}{^n}You came here to vanquish a foe, not allow another to simply take it place.{^n}{^n}Crush Dravis and proceed with your mission.
-Defeat Dravis
+Poraž Dravise
+[[ms]Dostal[fs]Dostala] jsi se do hrobky, ale [[ms]dočkal[fs]dočkala] ses nečekaného.{^n}{^n}Pradávný nekromancer leží poražen před zlomeným a pokřiveným mužem jménem Dravis. Tahle postava, jak se zdá, má úmysl si nechat moc hrobky sama pro sebe.{^n}{^n}[[ms]Přišel[fs]Přišla] jsi sem zničit nepřítele, ne dovolit někomu dalšímu jednoduše zaujmout to samé místo.{^n}{^n}Znič Dravise a pokračuj ve svém úkolu.
+Poraž Dravise
 
-Speak with Uroboruuk
-You have vanquished Dravis, but the way forward is sealed.{^n}{^n}Speak to the dying necromancer and decide what to do next.
-Speak with Uroboruuk
-
-
-
-
-
-
-
-
-
+Promluv si s Uroboruukem
+[[ms]Zničil[fs]Zničila] jsi Dravise, ale cesta vpřed je zapečetěna.{^n}{^n}Promluv si s umírajícím nekromancerem a rozhodni se, co budeš dělat dál.
+Promluv si s Uroboruukem

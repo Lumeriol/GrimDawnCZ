@@ -1,12 +1,7 @@
-The Eldritch Sun
-The Emissary
-The Emissary Beckons
-You have spoken with a mysterious entity who called himself the Emissary.{^n}{^n}He was scant on details, whispering only of great powers that gather in a far off land. He claims he was sent to Erulan to recruit you specifically, but would offer no further detail.{^n}{^n}Follow the Emissary through his portal and speak with him again on the other side.
+Tajemné Slunce
+Vyslanec
+Vyslancovo vábení
+[[ms]Mluvil[fs]Mluvila] jsi se záhadnou entitou, která sama sebe nazývala jako Vyslanec. {^n}{^n}Nelpěl moc na detailech, pouze potichu mluvil o velké síle, která je shromážděna ve vzdáleném světě. Tvrdí, že byl do Erulanu vyslán právě proto, aby rekrutoval tebe, nesdělil ti ale žádné dalsí detaily. {^n}{^n}Následuj Vyslance zkrze jeho portál a promluv si s ním znovu, až budete na druhé straně.
 
 
-Follow the Emissary through his portal
-
-
-
-
-
+Následuj Vyslance skrze jeho portál
