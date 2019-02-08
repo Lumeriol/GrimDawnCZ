@@ -113,25 +113,25 @@ achGDX236Title=Korvanský knihomol
 achGDX236Desc=Posbírej 85 zápisků.
 
 achGDX237Title=Vstup do Pokřiveného světa
-achGDX237Desc=Zdolej 5. Střep Pokřiveného světa.
+achGDX237Desc=Zdolej 5. oblastí Pokřiveného světa.
 
 achGDX238Title=Hrdinství v Pokřiveném světě
-achGDX238Desc=Zdolej 5. Střep Pokřiveného světa na ultimátní obtížnosti.
+achGDX238Desc=Zdolej 5. oblastí Pokřiveného světa na ultimátní obtížnosti.
 
 achGDX239Title=Pokřivený průzkumník
-achGDX239Desc=Zdolej 15. Střep Pokřiveného světa.
+achGDX239Desc=Zdolej 15. oblastí Pokřiveného světa.
 
 achGDX240Title=Pokřivený stopař
-achGDX240Desc=Zdolej 15. Střep Pokřiveného světa na ultimátní obtížnosti.
+achGDX240Desc=Zdolej 15. oblastí Pokřiveného světa na ultimátní obtížnosti.
 
 achGDX241Title=Pokřivený dobyvatel
-achGDX241Desc=Zdolej 25. Střep Pokřiveného světa.
+achGDX241Desc=Zdolej 25. oblastí Pokřiveného světa.
 
 achGDX242Title=Pokřivený přemožitel
-achGDX242Desc=Zdolej 25. Střep Pokřiveného světa na ultimátní obtížnosti.
+achGDX242Desc=Zdolej 25. oblastí Pokřiveného světa na ultimátní obtížnosti.
 
 achGDX243Title=Nesmrtelný pokřivený přemožitel
-achGDX243Desc=Zdolej 25. Střep Pokřiveného světa na ultimátní obtížnosti ve Výzvě.
+achGDX243Desc=Zdolej 25. oblastí Pokřiveného světa na ultimátní obtížnosti ve Výzvě.
 
 achGDX244Title=Duší krmě
 achGDX244Desc=Vstřebej 50 Pokřivených duší v Pokřiveném světě.

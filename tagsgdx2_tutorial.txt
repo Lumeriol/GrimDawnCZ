@@ -38,6 +38,6 @@ tagTutorialTip68TextC=To Transmute your Set Item into one from another Set, sele
 
 
 #Quick Tips
-tagQuickTip66={^z}The Shattered Realm awaits...{^-}{^n}{^n}You must slay the foes trapped within the Shattered Realm to gather Shattered Souls. Gather enough Shattered Souls, and a way forward will open.{^n}{^n}Click here for more information on the Shattered Realm.
-tagQuickTip67={^z}Conquering the Shattered Realm{^-}{^n}{^n}You have bested the guardian of this Shard.{^n}{^n}You may now speak to Mazaan to explore deeper or claim your rewards!
+tagQuickTip66={^z}Pokřivený svět čeká...{^-}{^n}{^n}Musíš zlikvidovat všechny nepřátele uvězněné v Pokřiveném světě a posbírat jejich Pokřivené duše. Jakmile jich budeš mít dostatek, otevře se ti cesta dál.{^n}{^n}Pro více informací o Pokřiveném světě klikni sem.
+tagQuickTip67={^z}Dobytí Pokřiveného světa{^-}{^n}{^n}Strážce této oblasti byl poražen.{^n}{^n}Nyní si můžeš promluvit s Mazaanem o dalším průzkumu nebo vyzvednutí své odměny!
 tagQuickTip68={^z}Set Transmutation{^-}{^n}{^n}The Transmute Window allows you to convert items that are parts of Sets into other Set Items.
