@@ -1,21 +1,19 @@
-Witch God Bounties
-You return with the materials in hand, a Bounty fulfilled.
-Report in.
+Vývěska Čarodějných bohů
+Vracíš se s rukama plnýma surovin, úkol byl splněn.
+Ohlas se.
 
-Step away from the Bounty Table.
-You return triumphantly, a Bounty fulfilled.
-Report in.
+Odstup od vývěsky.
+Úkol byl splněn a ty se vítězoslavně vracíš zpět.
+Ohlas se.
 
-Step away from the Bounty Table.
-You are already on a Bounty for the Witch God Cults.
-Step away from the Bounty Table.
-The Witch God Cults acknowledge your assistance.{^n}{^n}But only tireless dedication shall see reward from the Three themselves.
-Take a look at the bounty.
-You have fulfilled all of the posted Bounties for this session.
-Step away from the Bounty Table.
-Take a look at the bounty.
-
-
+Odstup od vývěsky.
+Úkol pro kulty Čarodějných bohů už byl přijat.
+Odstup od vývěsky.
+Kulty Čarodějných bohů oceňují tvou pomoc.{^n}{^n}Ale pouze vytrvalá obětavost bude odměněna Třemi.
+Prohlédni si úkoly.
+V této herní relaci jsou už všechny vyvěšené úkoly splněny.
+Odstup od vývěsky.
+Prohlédni si úkoly.
 
 
 
@@ -30,89 +28,91 @@ Take a look at the bounty.
 
 
 
-Step away from the Bounty Table.
-Due to recent conflict there has been a great deal more carrion for native predators to feed on. {^n}{^n}As a result there is a dramatic overpopulation of predatory animals in the basin.{^n}{^n}A hunt has begun, balance must be restored. Seek out the creatures called Sandclaws in the Korvan Sands and eliminate their Matriarchs.{^n}{^n}Completing this task will be rewarded with iron bits.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
 
-Recent activity around the temples and tombs of the Korvan Basin has awakened numerous ancient guardians. {^n}{^n}Their presences is hindering the work of Solael scholars. Explore the various temples dotting the Valley of the Chosen and eliminate the Animated Preservers so that our work may continue.{^n}{^n}Success in this task shall be justly rewarded with scavenged materials.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
 
-The vile minions of Korvaak must be eliminated to ensure total victory.{^n}{^n}Go to the Basalt Crags and hunt down Korvaak's Champions.{^n}{^n}Completing this task will be rewarded with iron bits.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Odstup od vývěsky.
+Kvůli nedávnému konfliktu se zde vyskytlo poměrně velké množství mršin pro predátory, kteří se jimi živí.{^n}{^n}Výsledkem je tak dramatické přemnožení dravých zvířat v zátoce.{^n}{^n}Lov právě začal, rovnováha musí být obnovena. Vyhledej písečné ještěrky v Korvanské poušti a zlikviduj jejich matriarchy.{^n}{^n}Dokončení tohoto úkolu bude odměněno železnými mincemi.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-A group of five Dreeg scouts were recently attacked by a particularly large gryphon. Three of them were killed in the attack and the remaining two were gravely wounded.{^n}{^n}We cannot allow these attacks to continue. The gryphon called Razorfeather was last spotted near the Cairan Docks. It must be eliminated.{^n}{^n}The destruction of this abomination shall be rewarded with scavenged materials.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Nedávná aktivita v okolí chrámů a hrobek v Korvanské zátoce probudilo řadu starodávných strážců.{^n}{^n}Jejich přítomnost ztěžuje práci Solaelových učenců. Prozkoumej různé chrámy ve vyznačené oblasti Údolí Vyvoleného a zlikviduj Oživené ochránce, aby mohli učenci pokračovat ve své práci.{^n}{^n}Pokud uspěješ, odměnou ti budiž nějaké ty materiály.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-A forgotten god has twisted and warped the Korvan Basin, setting it ablaze with rivers of molten stone.{^n}{^n}Its vile presence had also taken a heavy toll on the local wildlife, turning them into horrific monstrosities.{^n}{^n}These twisted creatures must be eliminated. Go to the the Eye of Ulzuin in the Infernal Wastes and destroy the creature called Varnox, the Molten.{^n}{^n}The destruction of this abomination shall be rewarded with scavenged materials.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Abychom docílili naprostého vítězství, musí být poraženi i ti Korvaakovi nejodpornější stoupenci.{^n}{^n}Vydej se do Čedičových útesů a odlov tam několik Korvaakových šampionů.{^n}{^n}Dokončením úkolu získáš několik železných mincí.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-The battle with Korvaak's minions has unleashed some peculiar beasts on the Korvan Basin.{^n}{^n}Eldritch hounds are of particular interest to the followers of Bysmiel. It seems they live in a pack structure similar to other doglike creatures of Cairn.{^n}{^n}The Bysmiel camp wishes to observe what happens to members of a pack when their alpha is eliminated. To aid in this research, travel to the Basalt Crags and kill the eldritch hound called Grimmaw.{^n}{^n}The destruction of this abomination shall be rewarded with rare scavenged materials.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Skupinka pěti Dreegových průzkumníků bylo nedávno napadeno obzvláště velkým gryfem. Tři z nich byli zabiti při útoku a zbylí dva byli vážně zraněni.{^n}{^n}Nemůžeme si dovolit, aby tyto výpady pokračovaly. Gryfí samice zvaná Ostropírko byla naposledy spatřena poblíž Cairanských doků. Musí být zlikvidována jako první.{^n}{^n}Odstranění této ohavnosti bude odměněno několika materiály.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-Several seers in the Dreeg camp have reported visions of one particular eldritch wraith.{^n}{^n}They believe this powerful minion of Korvaak is attempting to attack their minds from deep within the Eldritch Realm. This cannot continue.{^n}{^n}Travel to the Throne of the Three, accessible only through the Tomb of the Eldritch Sun and destroy the wraith called Avronath.{^n}{^n}The destruction of this abomination shall be rewarded with scavenged materials.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Jeden zapomenutý bůh zdeformoval Korvanskou zátoku, její říčky zapálil a nechal do nich napadat roztavené kamení.{^n}{^n}Jeho ohavná přítomnost zároveň učinila těžké ztráty v počtech místní divoké zvěře a mnohé druhy přetvořil v odporné netvory.{^n}{^n}Tato znetvořená zvířata musí být odstraněna. Běž do Ulzuinova oka skrze Pekelnou skládku a zlikviduj tvora zvaného Spalovač Varnox.{^n}{^n}Jako odměnu si vysloužíš několik materiálů, pokud tuto odpornost zprovodíš ze světa.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-The battle with Korvaak's minions continues. Perhaps eliminating one of their commanders will create chaos in their ranks.{^n}{^n}Go to the Infernal Wastes and slay the one called Reynar, the Loathed.{^n}{^n}The destruction of this abomination shall be rewarded with scavenged materials.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Bitvu s Korvaakovými přívrženci rozpoutalo vyvolání několika podivných druhů příšer v Korvanské zátoce.{^n}{^n}Tajemné druhy psů jsou v hledáčku Bysmieliných stoupenců. Zdá se, že žijí v určitém druhu smečky, která se příliš neodlišuje od ostatních smeček psovitých šelem v Cairnu.{^n}{^n}Členové Bysmielina tábořiště by rádi věděli, co se stane, pokud jejich alfa samec bude odstraněn z čela smečky. Pokud chceš pomoci s tímto poznatkem, vydej se do Čedičových útesů a zabij tam tajemného psa zvaného Placatý ksicht.{^n}{^n}Vysloužíš si za to nějaké vzácné materiály.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-Targeting the most powerful of Korvaak's minions has created chaos on the battlefield. It is a strategy we must continue to pursue.{^n}{^n}Seers in the Dreeg camp have identified a new target. Go to Korvan City and kill Keynen, Burntheart.{^n}{^n}The destruction of this abomination shall be rewarded with scavenged materials
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Několik proroků z Dreegova tábořiště oznámilo vidění jednoho konkrétního tajemného přízraku.{^n}{^n}Věří, že tento Korvaakův silný jedinec se pokouší napadnout jejich mysl z hlubin Tajemného světa. To si nemůžeme dovolit.{^n}{^n}Vydej se k Trůnnímu sálu Tří, který je dostupný pouze skrze Hrobku Tajemného slunce a odstraň tam přízrak zvaný Avronath.{^n}{^n}Likvidací této ohavnosti ti bude přiřknuto několik materiálů.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-The priesthood of Solael wishes to continue their research in the Tomb of Sethan. We believe there is an unusually strong connection to the spirit realm there.{^n}{^n}However, the tomb is protected by a particularly powerful guardian. This animated statue must be removed for our research to continue.{^n}{^n}Find the Tomb of Sethan in the Valley of the Chosen and destroy the animated statue called Yaharum.{^n}{^n}The destruction of this abomination shall be rewarded with scavenged materials.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Bitva s Korvaakovými stoupenci pokračuje. Možná, že když zlikviduješ jednoho z jeho velitelů, způsobí to chaos mezi jeho podřízenými.{^n}{^n}Vydej se na Pekelné skládky a zabij tam toho, kdo si říká Hnusák Reynar.{^n}{^n}Pakliže chceš za odměnu nějaký ten materiál, zprovoď ze světa tuto zrůdnost.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-A powerful guardian prowls the sands near the Valley of the Chosen.{^n}{^n}Our research on the valley's tombs cannot continue with such a threat nearby. Find the Stone Gryphon, Ulazor, and destroy it.{^n}{^n}The destruction of this abomination shall be rewarded with scavenged materials.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Cílením na ty nejsilnější z Korvaakových stoupenců jistě vyvolá na bitevním poli chaos. Jedná se o strategii, kterou musíme dále prosazovat.{^n}{^n}Proroci z Dreegova tábořiště identifikovali nový cíl. Vydej se do zbytků Korvanského města a zabij tam Keynena, Spálené srdce.{^n}{^n}Materiál z našich zásob ti bude odměnou za splnění tohoto úkolu.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-The priesthood of Solael wishes to delve deeper into the strong connection to the spirit realm in this region. To facilitate this, they require a relic known as Specter, forged by a trained blacksmith.{^n}{^n}Delivery of this valuable object shall be rewarded with rare scavenged materials.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Solaelovi kněží by chtěli pokračovat v ohledávání Sethanovy hrobky. Věříme, že se právě tam nachází neobvykle silné propojení s Přízračným světem.{^n}{^n}Nicméně hrobka je chráněna zvláště silným strážcem. Tato oživlá socha musí být odstraněna, aby naše výzkumy mohly pokračovat.{^n}{^n}Najdi Sethanovu hrobku v Údolí Vyvoleného a znič oživlou sochu zvanou Yaharum.{^n}{^n}Zničením této zrůdnosti ti bude věnováno několik materiálů z našich zásob.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-We must strike a devastating blow at the highest ranks of Korvaak's followers.{^n}{^n}None have faced this target and lived to tell the tale. But seers in the dreeg camp have reported recurring visions of his intense brutality.{^n}{^n}Travel to Korvan City, hunt down Brother Segarius, and end his life.{^n}{^n}This is a highly dangerous task, which we will gladly compensate with rare scavenged materials.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Pouští v okolí Údolí Vyvoleného se potuluje silný strážce.{^n}{^n}Naše výzkumy v údolních hrobkách nemůže pokračovat, pokud je poblíž tato hrozba. Najdi Ulazora, kamenného gryfa a znič ho.{^n}{^n}Jakmile bude strážce zničen, je možné tě odměnit nějakými materiály.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-We must strike a precise blow at the highest ranks of Korvaak's followers.{^n}{^n}The web brings word of a suitable target. Travel to the Tomb of Sethan in the Valley of the Chosen and end the life of Sister Crimson.{^n}{^n}This is a highly dangerous task, which we will gladly compensate with rare scavenged materials.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Solaelovi kněží chtějí hlouběji prozkoumat silné propojení s duchovnám světem, které se nachází v této oblasti. Pro usnadnění by potřebovali relikvii známou jako Zjevení, kterou může vyrobit zkušený kovář.{^n}{^n}Pokud jim tuto opravdovou vzácnost doneseš, štědře se ti odmění vzácnými materiály.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-During our research on the Korvan people, we uncovered tales of a massive, bloodthristy beast roaming the desert, consuming all in its path.{^n}{^n}These tales speak of the beast as if it were an ancient terror but there may be more truth to them than fiction. Recently, a group of scouts were attacked while exploring the outer reaches of the Korvan Sands. {^n}{^n}Only one of three survived and she described an attack much like those of Korvan folklore.{^n}{^n}If this beast is real it must be destroyed. Go to the Korvan Sands and hunt down the Korvan Titanovore.{^n}{^n}This is a highly dangerous task, which we will gladly compensate with rare scavenged materials.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Je na čase provést zásadní úder do nejvyšších míst Korvaakových stoupenců.{^n}{^n}Nikdo se s tímto cílem nesetkal, aniž by poté odešel po svých. Respektive, většinou šel nohama napřed a tak si každý vzal své poznatky do hrobu. Ale prorokové v Dreegově tábořišti oznámili opakované vize jeho nesmírné brutality.{^n}{^n}Vydej se do zbytků Korvanského města, vypátrej tam bratra Segaria a ukonči jeho život.{^n}{^n}Jelikož se jedná o velice nebezpečný úkol, tak pokud se vrátíš, získáš za odměnu opravdu cenné materiály.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-Our investigations have revealed that the Gryphons of the Korvan Basin live in rigid hierarchical packs.{^n}{^n}The actions of each pack are guided by a single dominant individual.  Without this leader, a pack would be thrown into turmoil as lesser individuals fight for the right to replace their missing alpha.{^n}{^n}Witnessing this event take place would aid our research into the lives of these creatures. Go to the Sunward Spire and end the rule of Gryphon Sovereign, Azaleon.{^n}{^n}This is a highly dangerous task, which we will gladly compensate with rare scavenged materials.{^n}
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Je na čase provést zásadní úder do nejvyšších míst Korvaakových stoupenců.{^n}{^n}Skrze sítě se donesly zvěsti o vhodném cíli. Vydej se do Sethanovy hrobky v Údolí Vyvoleného a tam ukonči život Sestry Zrzky.{^n}{^n}Jelikož se jedná o velice nebezpečný úkol, tak pokud se vrátíš, získáš za odměnu opravdu cenné materiály.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-The Witch God Cults acknowledge your assistance.{^n}{^n}But only tireless dedication shall see reward from the Three themselves.
+Během našeho výzkumu na Korvanských lidech jsme odhalili příběhy o ohromném a krvežíznivém netvorovi, který se potuluje v poušti a sežere všechno, co mu přijde do cesty.{^n}{^n}Tyto příběhy vypráví o netvorovi, který je starý jako lidstvo samo, ale zdá se, že víc než fikce se vyprávění zakládají na pravdě. Nedávná expedice průzkumníků byla přepadena při prohledávání vnějších okrajů Korvanské pouště.{^n}{^n}Přežil to pouze jeden z nich a jeho popis útoku se téměř shodoval s Korvanskými legendami.{^n}{^n}Pokud je tento netvor skutečný, musí být zlikvidován. Vyjde se do Korvanské pouště a vypátrej Korvanského zabijáka titánů.{^n}{^n}Jelikož se jedná o velice nebezpečný úkol, tak pokud se vrátíš, získáš za odměnu opravdu cenné materiály.
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
 
-Step away from the Bounty Table.
-The Witch Gods Cults do not yet trust you with their innermost secrets.{^n}{^n}A Respected reputation is required to access the Bounty Table.
-Step away from the Bounty Table.
+Naše pátrání odhalilo, že grygové v Korvanské zátoce žijí v pevných hierarchickcýh smečkách.{^n}{^n}Jednotlivé akce každé smečky jsou koordinovány dominantním jedincem. Bez tohoto vůdce by se smečka měla ocitnout ve zmatku, jakmile začnou mezi sebou bojovat o pozici alfa samce.{^n}{^n}Uskutečněním tohoto skutku by nám pomohlo s výzkumy o životě těchto tvorů. Vydej se do Sluneční věže a ukonči život Gryfího vládce, Azaleona.{^n}{^n}Jelikož se jedná o velice nebezpečný úkol, tak pokud se vrátíš, získáš za odměnu opravdu cenné materiály.{^n}{^n}{^n}
+Přijmout úkol.
+Odstup od vývěsky.
+Další úkol.
+
+Kulty Čarodějných bohů oceňují tvou pomoc.{^n}{^n}Ale pouze vytrvalá obětavost bude odměněna Třemi.
+
+Odstup od vývěsky.
+Kulty Čarodějných bohů nemají v tebe takovou důvěru, aby ti svěřovaly ty nejskrytější tajemství.{^n}{^n}Trochu zlepši svou pověst a pak se vrať sem zpátky k vývěsce.
+Odstup od vývěsky.
