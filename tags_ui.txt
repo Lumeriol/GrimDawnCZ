@@ -1014,8 +1014,8 @@ tagCharStatsEnergyLeechResistInfo=Odolnost vůči útokům vysávajícím tvou m
 tagCharStatsTrapResist=Odolnost vůči pastem
 tagCharStatsTrapResistInfo=Odolnost vůči efektům pastí, které tě znehybní.
 
-tagCharStatsPetrifyResist=Odolnost vůči ochromení
-tagCharStatsPetrifyResistInfo=Odolnost vůči kouzlům, které způsobují ztuhnutí masa a zpomalí tak tvé reakce.
+tagCharStatsPetrifyResist=Odolnost vůči ztuhnutí
+tagCharStatsPetrifyResistInfo=Odolnost vůči kouzlům, které způsobují ztuhnutí těla a zpomalí tak tvé reakce.
 
 tagCharStatsFreezeResist=Odolnost vůči zmrznutí
 tagCharStatsFreezeResistInfo=Odolnost vůči kouzlům, které tě pevně zmrazí a zpomalí tak tvé reakce.
