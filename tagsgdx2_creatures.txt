@@ -280,7 +280,7 @@ tagGDX2Boss_Special=Callagadra, následnice pouště
 tagGDX2Boss_Messenger=Okaloth ~ "Kurýr"
 
 tagGDX2Miniboss_Kymon_01=Bratr Segarius, Kymonův mstitel
-tagGDX2Miniboss_Kymon_02=Sestra Crimson, Kymonova mstitelka
+tagGDX2Miniboss_Kymon_02=Sestra Zrzka, Kymonova mstitelka
 tagGDX2Miniboss_Kymon_03=Ramzul, Osyrův velekněz
 
 tagGDX2Miniboss_Beast_01=Gannar'vakkar, král pouště
@@ -369,7 +369,7 @@ tagGDX2DevotionViper_H04=Cesaprin ~ alchymista
 
 #Bounties
 tagGDX2BountyWG04=Ostropírko, gryfí matriarcha
-tagGDX2BountyWG05=Varnox, spalovač
+tagGDX2BountyWG05=Spalovač Varnox
 tagGDX2BountyWG06=Gallanor
 tagGDX2BountyWG07=Avronath
 tagGDX2BountyWG08=Hnusák Reynar
