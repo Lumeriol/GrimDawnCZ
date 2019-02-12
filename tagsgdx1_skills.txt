@@ -43,7 +43,7 @@ tagGDX1Class07SkillName00A=Inkvizitor
 tagGDX1Class07SkillDescription00A=Pečlivý trénink v boji proti podivnu a okultismu.
 
 tagGDX1Class07SkillName01A=Slovo bolesti
-tagGDX1Class07SkillDescription01A=Záhadnými runami zašitými ve své výbavě se dokonce i hlas inkvizitora stává dostatečným pro to, aby nepřátelé lidstva trpěli. Jediným slovem se tví přátelé budou svíjet v bolestech a podivné energie napadnou jejich samotnou podstatu.
+tagGDX1Class07SkillDescription01A=Záhadnými runami zašitými ve své výbavě se dokonce i hlas inkvizitora stává dostatečným pro to, aby nepřátelé lidstva trpěli. Jediným slovem se tví nepřátelé budou svíjet v bolestech a podivné energie napadnou jejich samotnou podstatu.
 tagGDX1Class07SkillName01B=Slovo agónie
 tagGDX1Class07SkillDescription01B=Slovo bolesti je posíleno plným potenciálem živlů, což rozšiřuje plochu působnosti a uštědřuje nesnesitelnou bolest, která rozostří vidění.
 tagGDX1Class07SkillName01C=Věta smrti
