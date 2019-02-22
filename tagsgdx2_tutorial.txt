@@ -5,39 +5,39 @@
 
 
 #Tutorials
-tagTutorialTip66Title=Shattered Realm Exploration
-tagTutorialTip66TextA=You have entered the Shattered Realm, a treacherous plane of reality that connects countless shattered fragments of existence. Here, you will gather Shattered Souls from the realm's denizens to proceed deeper and deeper into its madness.
-tagTutorialTip66SubtitleA=Shattered Souls
-tagTutorialTip66TextB=Every enemy you slay in the Shattered Realm will progress you towards unlocking the rift to the next Chunk. Once the bar is full, all remaining foes will perish and the rift to the next Chunk will open somewhere nearby.
-tagTutorialTip66TextC=More powerful foes have a chance to drop a Shattered Soul. When you collect this item, you will gain a bonus to the Progress Bar and gain a temporary buff that increases your Damage and Survivability.{^n}{^n}Collecting another soul refreshes the duration of this effect and makes it stronger. The deeper you are in the Shattered Realm, the more stacks of this buff you can collect at once.
-tagTutorialTip66SubtitleB=The Clock is Ticking
-tagTutorialTip66TextD=The Shattered Realm is inherently unstable. If you spend too long gathering the souls of its damned denizens, then some of the wealth will destabilize and vanish forever into nothingness. Move quickly, the clock is ticking!
-tagTutorialTip66SubtitleC=Shattered Guardians
-tagTutorialTip66TextE=At the end of each Shard awaits a the Shattered Guardian's Domain. There you must defeat all of the powerful foes that await you in order to claim your prize!
-tagTutorialTip66SubtitleD=Sealing the Shattered Realm
-tagTutorialTip66TextF=Should you find the dangers within the Shattered Realm too risky, you may speak to Mazaan at the Conclave of the Three to seal the rift and begin anew.
+tagTutorialTip66Title=Průzkum Pokřiveného světa
+tagTutorialTip66TextA=Vstupuješ do Pokřiveného světa, zrádné roviny reality, která spojuje bezpočet fragmentů života. Zde musíš schraňovat Pokřivené duše obyvatel tohoto světa, aby mohla postupovat tvá cesta hlouběji skrze tyto šílené krajiny.
+tagTutorialTip66SubtitleA=Pokřivené duše
+tagTutorialTip66TextB=Každý nepřítel, který padne tvou rukou v Pokřiveném světě, tě posune blíž k portálu do další oblasti. Jakmile naplníš celý ukazatel, všichni zbývající nepřátelé zemřou a někde poblíž se otevře portál.
+tagTutorialTip66TextC=Silnější nepřátelé mají šanci vypustit Pokřivenou duši. Jakmile ji sebereš, získáš bonus k ukazateli a získáš dočasné posílené, které zvýší tvůj útok a schopnost přežití.{^n}{^n}Sbírání dalších duší obnovuje délku trvání tohoto efektu a posiluje jej. Čím hlouběji seš v Pokřiveném světě, tím více Pokřivených duší na tebe působí.
+tagTutorialTip66SubtitleB=Čas tiká
+tagTutorialTip66TextD=Pokřivený svět je nestabilní už ze své podstaty. Pokud strávíš mnoho času sbíráním duší zdejších proklatých obyvatel, mohou se některé poklady stát nestabilními a navždy zmizet do nicoty. Pohybuj se rychle, čas tiká!
+tagTutorialTip66SubtitleC=Pokřivení strážci
+tagTutorialTip66TextE=Na konci každé oblasti čeká velmi silný Pokřivený strážce. Pokud chceš projít dál, musíš jej porazit a poté už na tebe bude čekat odměna!
+tagTutorialTip66SubtitleD=Útěk z Pokřiveného světa
+tagTutorialTip66TextF=Pokud uznáš, že všechny nástrahy Pokřiveného světa jsou na tebe příliš, můžeš si promluvit s Mazaanem v Konkláve Tří, uzavřít současný portál a začít znovu od počátku.
 
-tagTutorialTip67Title=Shattered Realm Conquered
-tagTutorialTip67TextA=You have vanquished all of the dangers of this Shard. Mazaan awaits you nearby to make a decision.
-tagTutorialTip67SubtitleA=Splendors of the Shattered Realm 
-tagTutorialTip67TextB=You may now claim your rewards, if you wish. You will be transported to collect the treasures you've secured on your journey, but will not be able to proceed deeper into the Shattered Realm.
-tagTutorialTip67SubtitleB=Sealing the Shattered Realm
-tagTutorialTip67TextC=Once you are finished gathering your rewards, you may speak to Mazaan at the Conclave of the Three to seal the rift and begin anew. Note that any unclaimed chests will be lost.
-tagTutorialTip67SubtitleC=Delve Deeper...
-tagTutorialTip67TextD=Rather than claiming your rewards, you may instead proceed deeper into the Shattered Realm and tackle the foes in another of its Shards. Your foes will be stronger, but the rewards that await at the end will be equally more valuable.
-tagTutorialTip67SubtitleD=Waystones
-tagTutorialTip67TextE=As you delve deeper into the Shattered Realm, you will uncover the secret to creating Waystones at a Blacksmith. These Waystone allow you to start a Shattered Realm run at a more difficult shard
-tagTutorialTip67TextF=Each Waystone has a range of Shards it grants access to, based on how far your character has progressed. The Waystone is consumed upon use.
+tagTutorialTip67Title=Dobytí Pokřiveného světa
+tagTutorialTip67TextA=Všechny nástrahy této oblasti byly překonány. Kousek odsud na tebe čeká Mazaan a dá ti na vybranou, jak dále pokračovat.
+tagTutorialTip67SubtitleA=Krásy Pokřiveného světa
+tagTutorialTip67TextB=Můžeš si vybrat svou odměnu, pokud chceš. Sice už nebudeš moci pokračovat dále Pokřiveným světem, ale můžeš si vzít všechny cennosti nashromážděné po cestě.
+tagTutorialTip67SubtitleB=Zapečetí Pokřiveného světa
+tagTutorialTip67TextC=Jakmile posbíráš všechny odměny, promluv si s Mazaanem v Konkláve Tří, aby zapečetil současný portál. Budeš pak moci začít znovu od počátku. Jen tě musím upozornit, že všechny nevybrané truhlice budou navždy v nenávratnu.
+tagTutorialTip67SubtitleC=Jdeme dál a hlouběji...
+tagTutorialTip67TextD=Místo odměny si můžeš vybrat postup do dalších částí Pokřiveného světa a zdolávat tak další nepřátele. Ti budou o poznání silnější, ale odměna bude o poznání hodnotnější.
+tagTutorialTip67SubtitleD=Hraniční kameny
+tagTutorialTip67TextE=Pokud se vydáš hlouběji do Pokřiveného světa, rozluštíš tajemství výroby Hraničních kamenů u Kováře. Hraniční kameny ti umožní začít v Pokřiveném světě na obtížnějších lokacích.
+tagTutorialTip67TextF=Každý Hraniční kámen má omezení, kam až můžeš v Pokřiveném světě dojít na základě tvého předchozího postupu. Hraniční kámen se po použití rozpadne v prach.
 
-tagTutorialTip68Title=Set Transmutation
-tagTutorialTip68TextA=Visit the Inventor to Transmute items that are parts of Sets into other Set Items.
-tagTutorialTip68SubtitleA=Same-Set Transmutation
-tagTutorialTip68TextB=To Transmute your Set Item into one from the same Set, select the Same-Set option. Upon pressing the Transmute button, the required Materials and iron bits cost are deducted from your inventory and the item is transmuted into a Random one from a Same Set.{^N}{^N}You will never get the same item you put in back.
-tagTutorialTip68SubtitleB=Random Transmutation
-tagTutorialTip68TextC=To Transmute your Set Item into one from another Set, select the Random Set option. Upon pressing the Transmute button, the required Materials and iron bits cost are deducted from your inventory and the item is transmuted into a Random one from a Different Set.{^N}{^N}This will never result in an item from the same Set the original item was a part of.
+tagTutorialTip68Title=Proměna setů
+tagTutorialTip68TextA=Navštiv Vynálezce pro přeměnu některých částí setů na jiné setové předměty.
+tagTutorialTip68SubtitleA=Proměna stejného setu
+tagTutorialTip68TextB=Pokud chceš zaměnit setový předmět za jiný ze stejného setu, zvol možnost Stejný set. Jakmile zvolíš Proměnu, bude ti uzmut určitý obnos železných mincí a materiály z inventáře a předmět bude proměněn náhodně na jiný ze stejného setu.{^N}{^N}Nikdy však nezískáš ten stejný, který se má změnit.
+tagTutorialTip68SubtitleB=Náhodná proměna
+tagTutorialTip68TextC=Pokud chceš zaměnit setový předmět za jiný z náhodného setu, zvol možnost Náhodný set. Jakmile zvolíš Proměnu, bude ti uzmut určitý obnos železných mincí a materiály z inventáře a předmět bude proměněn náhodně na jiný předmět z náhodného setu.{^N}{^N}Nikdy však nezískáš předmět ze setu, z nějž předmět chceš proměnit.
 
 
 #Quick Tips
 tagQuickTip66={^z}Pokřivený svět čeká...{^-}{^n}{^n}Musíš zlikvidovat všechny nepřátele uvězněné v Pokřiveném světě a posbírat jejich Pokřivené duše. Jakmile jich budeš mít dostatek, otevře se ti cesta dál.{^n}{^n}Pro více informací o Pokřiveném světě klikni sem.
 tagQuickTip67={^z}Dobytí Pokřiveného světa{^-}{^n}{^n}Strážce této oblasti byl poražen.{^n}{^n}Nyní si můžeš promluvit s Mazaanem o dalším průzkumu nebo vyzvednutí své odměny!
-tagQuickTip68={^z}Set Transmutation{^-}{^n}{^n}The Transmute Window allows you to convert items that are parts of Sets into other Set Items.
+tagQuickTip68={^z}Proměna setu{^-}{^n}{^n}Okno proměny ti umožní vyměnit předměty, které jsou součástí setů za jiné setové předměty.
