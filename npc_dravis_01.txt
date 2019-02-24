@@ -1,36 +1,36 @@
 Dravis
-This is a family matter.{^n}{^n}Leave us be!
-Alright.
-Ah, you must be the pawn my sister's been sending around to do her sleuthing for her.{^n}{^n}And now here you are, and she's nowhere in sight. I must say I'm rather disappointed that she could not be bothered to show herself, especially at the moment of my victory!{^n}{^n}Unfortunately for you, you're standing in my way, and I simply cannot abide by that.{^n}{^n}I'm afraid you have to die.
+Tohle je rodinná záležitost.{^n}{^n}Nech nás napokoji!
+Dobrá.
+Ah, ty musíš být ten pěšák, kterého moje sestra posílá všude kolem, aby za ní pátral.{^n}{^n}A te%d tady stojíš a ona je v nedohlednu. Musím říct, že jsem docela zklamaný z toho, že se sama neobtěžuje se ani ukázat, hlavně ve chvíli mého triumfu!{^n}{^n}naneštěstí pro tebe mi stojíš v cestě a to jednoduše nemohu dovolit.{^n}{^n}Obávám se, že budeš muset zemřít.
 
 
-No time for talk! (Attack)
-I do not know who you are, and I suppose I do not care.{^n}{^n}But you are getting in the way of my delicious victory, and I simply cannot abide by that.{^n}{^n}I'm afraid you have to die.
-Who are you?
-The world may not know my name yet, but it will soon enough.{^n}{^n}I...am Dravis! Son of the immortal necromancer and successor to his mighty mantle!{^n}{^n}I am the future of Cairn, the vessel of a thousand tortured souls.{^n}{^n}You are as a gnat to me. Bow and perhaps I will show mercy!
-Vessel of a thousand souls?
-Indeed, I completed the ritual my father was too afraid of!{^n}{^n}The valiant souls buried within the Necropolis now fuel my own. I am nigh immortal, nigh unstoppable!{^n}{^n}Once the power within this tomb is mine, the world will learn the meaning of true might!{^n}{^n}Unfortunately you will not be around to see it.
+Není čas se vykecávat! (Zaútoč)
+Nevím kdo jsi a asi mě to ani nezajímá.{^n}{^n}[[ms]Dostal[fs]Dostala] ses ale do cesty mezi mnou a mým chutným vítězstvím a to jednoduše nemůžu připustit.{^n}{^n}Obávám se, že budeš muset zemřít.
+Kdo jsi?
+Svět mé jméno ještě nezná, ale to se brzy změní.{^n}{^n}Já...jsem Dravis! Syn nesmrtelného nekromancera a následovník jeho důležité úlohy!{^n}{^n}Já jsem budoucnost Cairnu, koráb tisíce umučených duší.{^n}{^n}Seš pro mě jako komár. Pokloň se a možná se slituju!
+Koráb tisíce umučených duší?
+Vskutku, dokončil jsem rituál, kterého se můj otec tolik obával!{^n}{^n}Udatné duše pohřbené uvnitř Pohřebiště nyní slouží jako palivo mé duše. Jsem téměř nesmrtelný, téměř nezastavitelný!{^n}{^n}Jakmile bude síla uvnitř této hrobky má, svět se naučí, co je to skutečná moc!{^n}{^n}Naneštěstí tu už nebudeš, abys to [[ms]viděl[fs]viděla].
 
 
-You're delusional. (Attack)
-My, aren't you full of yourself.
-Don't mock me.{^n}{^n}I stand on the precipice of true immortality and power beyond imagining.{^n}{^n}All will bow before me and despair.{^n}{^n}Your corpse will be just another stepping stone.
-You're delusional. (Attack)
-You spoke of victory? Here?
-I think I've heard enough. (Attack)
-Victory?
-Yes. With my father broken at my feet, there is nobody in this world that can stop me from achieving my goals.{^n}{^n}Not even my sister.{^n}{^n}Today marks the beginning of a new era for Cairn.{^n}{^n}The era of Dravis!{^n}{^n}It's a shame you will not live to see its glory.
-Your sister?
-I once hoped that she would join me, but it has become abundantly clear that she does not see things as I have.{^n}{^n}So she will burn, along with anyone else that stands in my way...like you.
-What about your father?
-I think I've heard enough. (Attack)
-Your father?
-The fool wandered the world for centuries, never thinking about what he left in his wake.{^n}{^n}My father squandered his power...his immortality!{^n}{^n}I will not make the same mistake.{^n}{^n}Now, as for you...I'm afraid your time is up.
-What about your sister?
-I think I've heard enough. (Attack)
+Klameš mě. (Zaútoč)
+Chlape, nemáš už sám sebe dost...
+Neprovokuj mě.{^n}{^n}Stojím na hraně skutečné nesmrtelnosti a moci, kterou si ani nelze představit.{^n}{^n}Všichni přede mnou pokleknou a budou zoufat.{^n}{^n}Tvoje smrt bude jen dalším krůčkem.
+Klameš mě. (Zaútoč)
+Ty mluvíš o vítězství? Tady?
+Myslím, že jsem [[ms]slyšel[fs]slyšela] dost. (Zaútoč)
+Vítězství?
+Ano. S otcem zlomeným u mých nohou není na tomto světě už nikdo, kdo by mi zabránil v dosažení svých cílů.{^n}{^n}Dokonce ani má sestra.{^n}{^n}Dnešek značí začátek nové éry Cairnu.{^n}{^n}Dravisova éra!{^n}{^n}Je škoda že už nebudeš naživu a neuvidíš tu slávu.
+Tvá sestra?
+Kdysi jsem doufal že by se ke mně přidala, ale začalo být zcela zřejmé, že nevidí věci tak jak je vidím já.{^n}{^n}A tak shoří stejně, jako všichni, kteří mi budou stát v cestě...třeba jako ty.
+A co tvůj otec?
+Myslím, že jsem [[ms]slyšel[fs]slyšela] dost. (Zaútoč)
+Tvůj otec?
+Ten hlupák kráčel po tomto světě po staletí a nikdy nemyslel na to, co po něm zůstane.{^n}{^n}Můj otec prohýřil svou moc...svou nesmrtelnost!{^n}{^n}Já tu samou chybu neudělám.{^n}{^n}A teď k tobě...Myslím, že tvůj čas vypršel.
+A co tvoje sestra?
+Myslím, že jsem [[ms]slyšel[fs]slyšela] dost. (Zaútoč)
 
 
-I don't have time for this. (Attack)
-No time for talk! (Attack)
-This is a family matter.{^n}{^n}Leave us be!
-Alright.
+Na tohle nemám čas. (Zaútoč)
+není čas se vykecávat! (Zaútoč)
+Tohle je rodinná záležitost.{^n}{^n}Nech nás napokoji!
+Dobrá.
