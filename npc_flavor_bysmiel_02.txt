@@ -1,120 +1,120 @@
 Carmac
-Thank you again travler. {^n}{^n}Now, if you would excuse me I must prepare for the journey. {^n}
-Be careful out there.
-Goodbye.
-What can I help you with?
-I found something you might be interested in.
-Oh, have you found the Maw of Enaht?{^n}{^n}Tell me!
-Yes, just east of the Korvan Sands.
-Praise the Three. This may be the discovery of a lifetime.{^n}{^n}The creature must be studied before it vanishes again beneath the sands.{^n}{^n}I will depart immediately.{^n}{^n}You have done me a great service. Perhaps I will mention your contribution in my writings on the beast.
-Glad I could help.
-Be careful out there.
-Nothing. Goodbye.
-What can I help you with?
-I found something you might be interested in.
-Oh? Was it a strange creature of some sort?{^n}{^n}Have you brought me a sample?{^n}{^n}I don't suppose you've spotted the the Maw of Enaht?
-I'm not sure.
-Was it a gaping hole full of teeth and tentacles?
-Yes, that's it.
-Truly?{^n}{^n}You wouldn't lie to me would you?
-No, that is what I saw.
-Praise the Three. This may be the discovery of a lifetime.{^n}{^n}The creature must be studied before it vanishes again beneath the sands.
-What is it?
-Honestly I'm not sure, no one is.{^n}{^n}This is why it must be studied.{^n}{^n}Until now I've only read about it in ancient folklore, sighting seem to be very rare. So rare that they border on myth.{^n}{^n}If it is real, it may be very old. An ancient relic of a primordial time.{^n}{^n}The stories describe it as a gargantuan beast living deep beneath the desert. It would appear during times of upheaval or great conflict, revealing only its mouth to feast on unsuspecting creatures or to consume bodies and carrion left behind.{^n}{^n}Whether it was simply attracted to conflict or somehow a herald of dark times is unclear.{^n}{^n}In light of what's been happening now, this may be the perfect opportunity to study such a beast.{^n}{^n}Tell me friend, where did you spot this anomaly?
-Just east of the Korvan Sands.
-Fantastic.{^n}{^n}I will depart immediately.{^n}{^n}You have done me a great service. Perhaps I will mention your contribution in my writings on the beast.
-Glad I could help.
-Be careful out there.
-Nothing. Goodbye.
-What is it, inquisitor?{^n}{^n}Have you found the Maw of Enaht?
+Díky ti, [[ms]pocestný[fs]pocestná]. {^n}{^n}Nyní, pokud mne omluvíš, se musím začít připravovat na cestu. {^n}
+Buď tam venku opatrný.
+Sbohem.
+S čím ti mohu pomoci?
+[[ms]Našel[fs]Našla] jsem něco, co by tě mohlo zajímat.
+Oh, tys [[ms]našel[fs]našla] Enahtův chřtán?{^n}{^n}Povídej!
+Ano, na východ od Korvanské pouště.
+Velebte Tři. Tohle může být životní objev.{^n}{^n}Ta příšera musí být prostudována předtím, než zase zmizí pod pískem.{^n}{^n}Vyrazím hned na cestu.{^n}{^n}Velmi jsi mi [[ms]pomohl[fs]pomohla]. Možná zmínít tvoji spolupráci v záznamech o bestii.
+Jsem [[ms]rád[fs]ráda], že jsem [[ms]mohl[fs]mohla] pomoci.
+Buď tam venku opatrný.
+S ničím. Sbohem.
+S čím ti mohu pomoci?
+[[ms]Našel[fs]Našla] jsem něco, co by tě mohlo zajímat.
+Oh? Byl to jakýsi druh neznámé příšery?{^n}{^n}[[ms]Přinesl[fs]Přinesla] jsi vzorek?{^n}{^n}Předpokládám, žes [[ms]nespatřil[fs]nespatřila] Enahtův chřtán?
+Nejsem si [[ms]jistý[fs]jistá].
+Byla to otevírající se díra plná zubů a chapadel?
+Ano, to byla.
+Doopravdy?{^n}{^n}[[ms]Nelhal[fs]Nelhala] bys mi, nebo snad ano?
+Ne, přesně to jsem [[ms]viděl[fs]viděla].
+Velebte Tři. Tohle může být životní objev.{^n}{^n}Ta příšera musí být prostudována předtím, než zase zmizí pod pískem.
+Co to je?
+Upřímmně si nejsem jistý, asi jako nikdo. {^n}{^n}To je důvod, proč musí být prostudována.{^n}{^n}Až do teď jsem o ní četl ve starých folklórech, vidět jí bylo, zdá se, velmi vzácné. Tak vzácné, že to byl spíše mýtus.{^n}{^n}Pokud je to pravda, může být velmi stará. Antická relikvie pradávných časů.{^n}{^n}Historky ji popisují jako obrovitou bestiižijící hluboko pod povrchem pouště. Objevila by se v případě otřesů nebo velkého konfliktu, odhalujíc pouze svůj chřtán, aby pozřela nic netušící stvoření či pozřela pozůstalá těla a mršiny.{^n}{^n}Ať už byla jednoduše přilákána ke konfliktu či je to předzvěst temných časů, to je nejisté.{^n}{^n}Ale při tom, co se děje nyní, by tohle mohla být ideální příležitost ke studování takové bestie.{^n}{^n}Řekni mi [[ms]příteli[fs]přítelkyně], kde jsi [[ms]spatřil[fs]spatřila] tuto anomálii?
+Kousek na východ od Korvanské pouště.
+Fantastické.{^n}{^n}Vyrazím hned na cestu.{^n}{^n}Velmi jsi mi [[ms]pomohl[fs]pomohla]. Možná zmínít tvoji spolupráci v záznamech o bestii.
+Jsem [[ms]rád[fs]ráda], že jsem [[ms]mohl[fs]mohla] pomoci.
+Buď tam venku opatrný.
+S ničím. Sbohem.
+Co je, [[ms]inkvizitore[fs]inkvizitorko]?{^n}{^n}[[ms]Našel[fs]Našla] jsi Enahtův chřtán?
 
-You're back.{^n}{^n}Does this mean you've found the Maw of Enaht?
-It's east of the Korvan Sands.
-It's real?{^n}{^n}Praise the Three. This may be the discovery of a lifetime.{^n}{^n}The creature must be studied before it vanished again beneath the sands.{^n}{^n}I will depart immediately.{^n}{^n}You have done me a great service. Perhaps I will mention your contribution in my writings on the beast.
-Glad I could help.
-Be careful out there.
-Have you brought me information about the Maw of Enaht?
-No, sorry. 
-Well then, I must return to my research.
-Goodbye.
-Not yet.
-Inquisitor, I find your presence here to be quite curious.{^n}{^n}What do you want?
-What are you doing here?
-I'm not certain why I've been called to this place.{^n}{^n}I just arrived, much like yourself. {^n}{^n}But I can tell you this is a gathering unlike any I've seen before.
-Why is that?
-Well, we are not generally known to be so open about our activities. Most of us live in seclusion, away from prying eyes. I hadn't seen another seeker of truth in months.{^n}{^n}But here we are, out in the open with an inquisitor wandering around our camp.{^n}{^n}It's an odd sight to behold.{^n}{^n}I suppose it speaks to the importance of what's happening here.
-What is happening here?
-Something big. I hear rumors, a group of zealots from the west following the sermons of a mad priest possessed by a primordial god; a dark prophecy regarding the ruins of Korvan City.{^n}{^n}Yesterday, when I arrived, I overheard some of the sentinels speaking of rivers of flame and desolation as far as they could see.{^n}{^n}I can't account for any of that though. I haven't been north to see it for myself.{^n}{^n}If that's where you're headed, you may be in over your head, inquisitor.{^n}{^n}Now, if you don't mind, I must get back to my work.
+Jsi zpátky.{^n}{^n}Znamená to, že jsi [[ms]našel[fs]našla] Does this mean you've found the Enahtův chřtán?
+Je to na východ od Korvanské pouště.
+Skutečně?{^n}{^n}Velebte Tři. Tohle může být životní objev.{^n}{^n}Ta příšera musí být prostudována předtím, než zase zmizí pod pískem.{^n}{^n}Vyrazím hned na cestu.{^n}{^n}Velmi jsi mi [[ms]pomohl[fs]pomohla]. Možná zmínít tvoji spolupráci v záznamech o bestii.
+Jsem [[ms]rád[fs]ráda], že jsem [[ms]mohl[fs]mohla] pomoci.
+Buď tam venku opatrný.
+[[ms]Přinesl[fs]Přinesla] jsi nějaké informace o Enahtově chřtánu?
+Ne, promiň.
+Dobrá, musím se vrátit ke svému výzkumu.
+Sbohem.
+Ještě ne.
+[[ms]Inkvizitore[fs]Inkvizitorko], tvou přítomnost zde shledávám přinejmenším zajímavou.{^n}{^n}Co chceš?
+Co tady děláš?
+Nejsem si jistý, proč jsem byl na toto místo povolán.{^n}{^n}Právě jsem dorazil, tak jako ty. {^n}{^n}Můžu ti ale říct, že toto shromáždění neni jako žádné z těch, které jsem kdy viděl.
+A to proč?
+No, jsme tak obecně známí nesdílením informací o našich záležitostech. Většina z nás žije v odloučení, dál od zvědavců. Neviděl jsem jiného hledače pravdy už měsíce.{^n}{^n}A přesto tady stojím, na otevřeném prostranství s [[ms]inkvizitorem[fs]inkvizitorkou].{^n}{^n}Je to zvláštní pohled.{^n}{^n}Myslím, že to hovoří o důležitosti toho, co se tu děje.
+Co se to tu děje?
+Something big. Slýchám drby o skupině fanatiků ze západu, kteří následují kázání šíleného kněze, posedlého pradávným bohem; temný odkaz svázaný s rozvalinami Korvanského města.{^n}{^n}Včera, když jsem dorazil, jsem zaslechl některé ze strážců, jak mluví o hořících řekách a spustošené zemi až kam mohli dohlédnout. {^n}{^n}Na nic z toho se ale nemůžu spoléhat. Nebyl jsem na severu, abych to viděl na vlastní oči.{^n}{^n}Pokud je to místo, kam jdeš, mohlo by to být nad tvoje síly, [[ms]inkvizitore[fs]inkvizitorko].{^n}{^n}A teď, pokud ti to nebude vadit, musím se vrátit ke své práci.
 
 
-Enjoy your work.
-Over my head? I think not.
-An inquisitor huh?
-Watch yourself witch.
-Interesting. 
-Nevermind.
-Watch yourself, witch.
-Welcome, fellow seeker.{^n}{^n}I see that you too have answered the call.
-The call?
-Yes,  the call. The Three have called to you and you've answered, as was your duty.{^n}{^n}They called me to this place as well. Though I'm not yet sure why.{^n}{^n}But I can tell you this is a gathering unlike any I've seen before.
-What's different?
-Well, as you probably know, we are not generally known to be so open about our activities. Most of us live in seclusion, away from prying eyes. I hadn't seen another seeker of truth in months.{^n}{^n}But here we are, out in the open, acting unhindered by the pursuits of the empire.{^n}{^n}It's an odd sight to behold.{^n}{^n}I suppose it speaks to the importance of what's happening here.
-What is happening here?
-You know, I'm not quite sure. The elder sisters speak amongst themselves in whispers but you can hear the gravity in their voices.{^n}{^n}I've heard rumors, a group of zealots from the west following the sermons of a mad priest possessed by a primordial god; a dark prophecy regarding the ruins of Korvan City.{^n}{^n}Yesterday, when I arrived, I overheard some of the sentinels speaking of rivers of flame and desolation as far as they could see.{^n}{^n}I can't account for any of that though. I haven't been north to see it for myself.{^n}{^n}Is that where you're headed?
-I believe so.
-Really?{^n}{^n}Good luck out there, it sounds like you're going to need it.{^n}{^n}Now, if you'll excuse me, I should be getting back to my work.
-What are you working on, brother?
-I study all manner of beasts in the interests of garnening new servants for Bysmiel's sacred web. There is a large number of unique specimens in this area.{^n}{^n}If given the opportunity I will spend my time here studying them.{^n}{^n}Though between you and me, most are not all that interesting. Massive, sharp, poisonous, twisted, and deadly. I've seen it all before.{^n}{^n}I'm far more interested in a particular creature that may prove to be more myth than reality.{^n}{^n}I intend to uncover the truth behind the legend.
-What is this creature?
-In local lore, they called it "The Maw of Enaht".{^n}{^n}If it is real, it may be very old. An ancient relic of a primordial time.{^n}{^n}The stories describe it as a gargantuan beast living deep beneath the desert. It would appear during times of upheaval or great conflict, revealing only its mouth to feast on unsuspecting creatures or to consume bodies and carrion left behind.{^n}{^n}In light of what's been happening now, this may be the perfect opportunity to study such a beast.{^n}{^n}Just thinking of such a discovery makes me giddy with excitement. Do me a favor while you're out there and keep an eye out for any signs of such a creature.
+Užij si práci.
+Mít problémy? Tak to si nemyslím.
+[[ms]Inkvizitor[fs]Inkvizitorka], heh?
+Dávej na sebe pozor, čarodějko.
+Zajímavé
+Neřeš to.
+Dávej na sebe pozor, čaroději.
+Vítej, [[ms]prostý hledači[fs]prostá hledačko].{^n}{^n}Vidím, že i ty jsi [[ms]odpověděl[fs]odpověděla] na zavolání.
+Zavolání?
+Ano, zavolání. Tři tě zavolali a tys [[ms]odpověděl[fs]odpověděla], což byla tvoje povinnost.{^n}{^n}Zavolali mne na toto místo také, ikdyž nevím proč.{^n}{^n}Můžu ti ale říct, že toto shromáždění neni jako žádné z těch, které jsem kdy viděl.
+V čem je rozdíl?
+No, jak asi pravděpodobně tušíš, jsme tak obecně známí nesdílením informací o našich záležitostech. Většina z nás žije v odloučení, dál od zvědavců. Neviděl jsem jiného hledače pravdy už měsíce.{^n}{^n}A přesto tady stojíme, na otevřeném prostranství s neznámým poutníkem procházejícím se po kempu.{^n}{^n}Bez urážky.{^n}{^n}Myslím, že to hovoří o důležitosti toho, co se tu děje.
+Co se to tu děje?
+Víš, nejsem si úplně jistý. Starší sestry mezi sebou potichu mluví, slyšíš ale důležitost v jejich hlasech.{^n}{^n}Slyšel jsem drby o skupině fanatiků ze západu, kteří následují kázání šíleného kněze, posedlého pradávným bohem; temný odkaz svázaný s rozvalinami Korvanského města.{^n}{^n}Včera, když jsem dorazil, jsem zaslechl některé ze strážců, jak mluví o hořících řekách a spustošené zemi až kam mohli dohlédnout. {^n}{^n}Na nic z toho se ale nemůžu spoléhat. Nebyl jsem na severu, abych to viděl na vlastní oči.{^n}{^n}Je to místo, kam jdeš?
+Věřím že ano.
+Opravdu?{^n}{^n}Hodně štěstí tam venku, zní to, že ho budeš potřebovat.{^n}{^n}Teď, když mne omluvíš, měl bych se vrátit zpátky k práci.
+Na čem pracuješ, bratře?
+Studuji všechny možné druhy bestií za účelem shromažďování nových slušebníků do Bysmieliny svaté pavučiny. V této oblasti je velké množství unikátních druhů.{^n}{^n}Když se mi naskytla příležitost, strávím tady svůj čas jejich studováním.{^n}{^n}Mezi náma, všechny nejsou tak zajímavé. Masivní, mazané, jedovaté, pokřivené a smrtící. To všechno už jsem předtím viděl.{^n}{^n}Mnohem více mě ale zajímá jedna specifická příšera, která by se mohla ukázat spíše mýtem než skutečnou obludou. Tak jako tak ale chci odkrýt tajemství, která předcházela této legendě.
+Co je to za příšeru?
+V místních pověstích ji popisují jako "Enahtův chřtán".{^n}{^n}Pokud je to pravda, může být velmi stará. Antická relikvie pradávných časů.{^n}{^n}Historky ji popisují jako obrovitou bestiižijící hluboko pod povrchem pouště. Objevila by se v případě otřesů nebo velkého konfliktu, odhalujíc pouze svůj chřtán, aby pozřela nic netušící stvoření či pozřela pozůstalá těla a mršiny.{^n}{^n}Ať už byla jednoduše přilákána ke konfliktu či je to předzvěst temných časů, to je nejisté.{^n}{^n}Ale při tom, co se děje nyní, by tohle mohla být ideální příležitost ke studování takové bestie.{^n}{^n} Udělej pro mě něco, až budeš tam venku; podívej se po jakékoliv stopě, která by byla spjata s tou příšerou.
 
-I'll let you know if I see anything.
-Sure.
-I will.
-Thank you, brother.
-I don't know.
-We'll find out.
-Sorry, I don't have time to talk.
-Sorry, I don't have time to talk.
-Sorry to disturb you.
-I have.
-What can I help you with?
-What are you doing here?
-I'm not certain why I've been called to this place.{^n}{^n}I just arrived, much like yourself. {^n}{^n}But I can tell you this is a gathering unlike any I've seen before.
-Why is that?
-Well, we are not generally known to be so open about our business. Most of us live in seclusion, away from prying eyes. I hadn't seen another seeker of truth in months.{^n}{^n}But here we are, out in the open with the unmarked wandering around our camp.{^n}{^n}No offense intended.{^n}{^n}I suppose it speaks to the importance of what's happening here.
-What is happening here?
-Something big. The elder sisters speak amongst themselves in whispers but you can hear the gravity in their voices.{^n}{^n}I've heard rumors, a group of zealots from the west following the sermons of a mad priest possessed by a primordial god; a dark prophecy regarding the ruins of Korvan City.{^n}{^n}Yesterday, when I arrived, I overheard some of the sentinels speaking of rivers of flame and desolation as far as they could see.{^n}{^n}I can't account for any of that though. I haven't been north to see it for myself.{^n}{^n}If that's where you're headed, I wish you luck.{^n}{^n}Now, if you don't mind, I must get back to my work.
-Your work?
-Yes, my work. I study all manner of beasts in the interests of garnering new servants for Bysmiel's sacred web. There is a large number of unique specimens in this area.{^n}{^n}If given the opportunity I will spend my time here studying them.{^n}{^n}Though between you and me, most are not all that interesting. Massive, sharp, poisonous, twisted, and deadly. I've seen it all before.{^n}{^n}I'm far more interested in a particular creature that may prove to be more myth than reality. In either case, I intend to uncover the truth behind the legend.
-What is it? 
-In local lore they called it "The Maw of Enaht".{^n}{^n}If it is real, it may be very old. An ancient relic of a primordial time.{^n}{^n}The stories describe it as a gargantuan beast living deep beneath the desert. It would appear during times of upheaval or great conflict, revealing only its mouth to feast on unsuspecting creatures or to consume bodies and carrion left behind.{^n}{^n}In light of what's been happening now, this may be the perfect opportunity to study such a beast. Do me a favor while you're out there and keep an eye out for any signs of such a creature.
-I've already found the Maw of Enaht.
-Truly, you've seen the beast? {^n}{^n}How big was it? What did it look like? Oh, this is very exciting indeed!{^n}{^n}Where is it? I must see the beast for myself.
-Just east of the Korvan Sands.
-Praise the Three. This may be the discovery of a lifetime.{^n}{^n}The creature must be studied before it vanishes again beneath the sands.{^n}{^n}I will depart immediately.{^n}{^n}You have done me a great service. Perhaps I will mention your contribution in my writings on the beast.
-That would be nice.
-I'm glad I could help.
+Dám ti vědět, když si něčeho všimnu.
+Jasně.
+Budu.
+Děkuji ti, bratře.
+Nevím.
+To zjistíme.
+Promiň, nemám čas se vybavovat.
+Promiň, nemám čas se vybavovat.
+Promiň, že ruším.
+[[ms]Odpověděl[fs]Odpověděla].
+S čím ti můžu pomoci?
+Co tady děláš?
+Nejsem si jistý, proč jsem byl povolán na toto místo.{^n}{^n}Prostě jsem přišel, tak jako většina ostatních.{^n}{^n}Můžu ti ale říct, že tohle je shromáždění, jaké jsem dosud neviděl.
+Jakto?
+No, jsme tak obecně známí nesdílením informací o našich záležitostech. Většina z nás žije v odloučení, dál od zvědavců. Neviděl jsem jiného hledače pravdy už měsíce.{^n}{^n}A přesto tady stojíme, na otevřeném prostranství s neznámým poutníkem procházejícím se po kempu.{^n}{^n}Bez urážky.{^n}{^n}Myslím, že to hovoří o důležitosti toho, co se tu děje.
+A co se to tu děje?
+Něco velkého. Starší sestry mezi sebou potichu mluví, slyšíš ale důležitost v jejich hlasech.{^n}{^n}Slyšel jsem drby o skupině fanatiků ze západu, kteří následují kázání šíleného kněze, posedlého pradávným bohem; temný odkaz svázaný s rozvalinami Korvanského města.{^n}{^n}Včera, když jsem dorazil, jsem zaslechl některé ze strážců, jak mluví o hořících řekách a spustošené zemi až kam mohli dohlédnout. {^n}{^n}Na nic z toho se ale nemůžu spoléhat. Nebyl jsem na severu, abych to viděl na vlastní oči.{^n}{^n}Pokud je to místo, kam jdeš, přeji ti hodně štěstí.{^n}{^n}A teď, pokud ti to nebude vadit, musím se vrátit ke své práci.
+Tvé práci?
+Ano, mé práci. Studuji všechny možné druhy bestií za účelem shromažďování nových slušebníků do Bysmieliny svaté pavučiny. V této oblasti je velké množství unikátních druhů.{^n}{^n}Když se mi naskytla příležitost, strávím tady svůj čas jejich studováním.{^n}{^n}Mezi náma, všechny nejsou tak zajímavé. Masivní, mazané, jedovaté, pokřivené a smrtící. To všechno už jsem předtím viděl.{^n}{^n}Mnohem více mě ale zajímá jedna specifická příšera, která by se mohla ukázat spíše mýtem než skutečnou obludou. Tak jako tak ale chci odkrýt tajemství, která předcházela této legendě.
+O co jde?
+V místních pověstích ji popisují jako "Enahtův chřtán".{^n}{^n}Pokud je to pravda, může být velmi stará. Antická relikvie pradávných časů.{^n}{^n}Historky ji popisují jako obrovitou bestiižijící hluboko pod povrchem pouště. Objevila by se v případě otřesů nebo velkého konfliktu, odhalujíc pouze svůj chřtán, aby pozřela nic netušící stvoření či pozřela pozůstalá těla a mršiny.{^n}{^n}Ať už byla jednoduše přilákána ke konfliktu či je to předzvěst temných časů, to je nejisté.{^n}{^n}Ale při tom, co se děje nyní, by tohle mohla být ideální příležitost ke studování takové bestie.{^n}{^n} Udělej pro mě něco, až budeš tam venku; podívej se po jakékoliv stopě, která by byla spjata s tou příšerou.
+I've already found the Enahtův chřtán.
+Skutečně jsi tu bestii [[ms]viděl[fs]viděla]? {^n}{^n}Jak velká byla? jak vypadala? Oh, to je vskutku velmi vzrušující! {^n}{^n}Kde je? Musím tu bestii vidět na vlastní oči.
+Kousek na východ od Korvanské pouště.
+Velebte Tři. Tohle může být životní objev.{^n}{^n}Ta příšera musí být prostudována předtím, než zase zmizí pod pískem.{^n}{^n}Vyrazím hned na cestu.{^n}{^n}Velmi jsi mi [[ms]pomohl[fs]pomohla]. Možná zmínít tvoji spolupráci v záznamech o bestii.
+To by bylo fajn.
+Jsem [[ms]rád[fs]ráda], že jsem [[ms]mohl[fs]mohla] pomoci.
 
-I'll let you know if I see anything.
-Sure.
-Good luck with your investigation.
-Interesting.
-How did you end up here?
-I was called here, just as you were.{^n}{^n}The Conclave is such an unusual gathering of the cults, I could not deny the summons. Besides, I've pledged my life in service of the Lady of Whispers.{^n}{^n}No doubt preparations are being made for something major.{^n}{^n}Speaking of preparations, it is time for me to get back to my work.
-What are you working on?
-I'll leave you to it.
-I don't need luck.
-Thank you.
-None taken.
-Interesting.
-Excuse me brother, I must be on my way.
-Nothing, I need to go.
-I have no desire to speak with you right now, inquisitor.
-Excuse me.
-Watch yourself, witch.
-Excuse me [[ms]brother[fs]sister] but I haven't got time to talk right now.{^n}{^n}Come back another time perhaps.
-Sorry to bother you.
-Another time.
-I'm sorry but I don't have time to talk right now.
-Sorry to bother you.
+Dám ti vědět, když si něčeho všimnu.
+Jasně,
+Hodně štěstí při pátrání.
+Zajímavé.
+Jak jsi skončil tady?
+Byl jsem sem povolám stejně tak jako ty.{^n}{^n}Konkláve je tak neobvyklé skromáždění kultů, nemohl jsem pozvání odmítnout. Kromě toho jsem zasvětil svůj život Šeptající dámě.{^n}{^n}Není pochyb, že tyto přípravy jsou kvůli něčemu velkému.{^n}{^n}Když už mluvíme o přípravách, je načase, abych se vrátil zpátky k práci.
+Na čem pracuješ?
+Nechám tě v tom.
+Nepotřebuju štěstí.
+Díky.
+V pohodě.
+Zajímavé.
+Odpusť mi, bratře, už musím vyrazit.
+Ale nic, už musím jít.
+Netoužím teď po tom s tebou mluvit, [[ms]inkvizitore[fs]inkvizitorko].
+Omluv mě.
+Dávej na sebe pozor, čaroději.
+Odpusť mi [[ms]bratře[fs]sestro], ale nám čas s tebou teďka mluvit.{^n}{^n}Zastav se třeba někdy jindy.
+Promiň, [[ms]nechtěl[fs]nechtěla] jsem tě obtěžovat.
+Někdy jindy.
+Je mi líto, nemám čas s tebou teďka mluvit.
+Promiň, [[ms]nechtěl[fs]nechtěla] jsem tě obtěžovat.

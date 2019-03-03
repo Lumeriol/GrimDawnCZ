@@ -1,62 +1,62 @@
 Alica
-I've no desire to speak with you again.
-Ok,
-Whatever, lady.
-I'm honored that you chose me as a sacrifice. I saw it as an opportunity to show the depth of my loyalty to Solael.{^n}{^n}But it seems it was not to be.
-Sorry about that.
-Thank you for sparing my life, friend.{^n}{^n}To be honest, It is a bit of a mixed blessing. I would gladly have given my life if that is what Solael demanded.{^n}{^n}But he must have spared me for a purpose. Now it is up to me to discover that purpose and live what remains of my life as he intends.{^n}{^n}Let me know if there's anything I can do for you.
-I will.
-Good luck.
-Hello, is there something I might help you with?
-Sagon has ordered a sacrifice.
-Indeed, he has. {^n}{^n}Am I to be chosen for this noble end?{^n}{^n}I would gladly give my life in service of Solael.{^n}{^n}Without the Three, I would have lived a life without purpose.{^n}{^n}The least I can do is give what remains of mine to honor the will of Solael.
-Prepare yourself. (Attack)
-No, not you.
+Nemám zájem s tebou znova mluvit.
+Ok.
+Cokoliv, dámo.
+Jsem poctěna tím, že jsi mě [[ms]vybral[fs]vybrala] jako oběť. Viděla jsem v tom možnost ukázat míru své oddanosti Solaelovi.{^n}{^n}Ale jak to tak vypadá, dopadlo to jinak.
+To je mi líto.
+Díky za to, že jsi [[ms]ušetřil[fs]ušetřila] můj život, [[ms]příteli[fs]přítelkyně].{^n}{^n}Upřímně je to dost rozporuplné požehnání.Ráda bych obětovala svůj život, pokud by to Solael požadoval.{^n}{^n}Musel mě ale ušetřit z nějakého důvodu. je te´d na mně zjistit jaký ten důvod byl a žít zbytek života tak, jak si on přeje.{^n}{^n}Řekni mi, pokud by bylo ještě něco, co bych pro tebe mohla udělat.
+Řeknu.
+Hodně štěstí.
+Zdravím, je něco, s čím bych mohla pomoci?
+Sagon nařídil oběť.
+Ano, to udělal. {^n}{^n}Budu vybrána k tomuto šlechetnému ukončení mého života?{^n}{^n}Ráda bych obětovala svůj život Solaelovi.{^n}{^n}Bez Třech by můj život neměl žádný význam.{^n}{^n}To nejmenší co můžu udělat je darovat jeho zbytek na uctění Solaelovi vůle.
+Připrav se. (Zaútoč)
+Ne, ty to nejsi.
 
 
-Another time, perhaps.
-Die in the name of Solael! (Attack)
-Are you lost, inquisitor?{^n}{^n}How is it that a member of the Luminari finds [[ms]himself[fs]herself] at the center of the worship they so desperately  sought to erase?{^n}{^n}{^n}
-The Emissary summoned me.
-Then this is where you belong, for reasons I'm sure we'll all discover.{^n}{^n}The emissary does not make mistakes, his actions speak for the Three.{^n}{^n}A word of caution though: there are many here who will not appreciate your presence.
-Why is that?
-For generations, the Luminari hunted our kind, stole our artifacts, and experimented on us for their own gain. All in the name of defending the empire.{^n}{^n}That time has long since passed and there are far greater threats to the empire than the few of us who remain.{^n}{^n}But there are many here who suffered at the hands of the Luminari and they are slow to forgive.{^n}{^n}Just tread lightly.{^n}{^n}Now, is there anything else I might help you with?
+Možná někdy jindy.
+Ve jménu Solaela, zemři! (Zaútoč)
+[[ms]Ztratil[fs]Ztratila] ses, [[ms]inkvizitore[fs]inkvizitorko]?{^n}{^n}Jak je možné, že se [[ms]člen[fs]členka] Luminářů objeví uprostřed uctívačů, které jste se snažili tak zoufale vyhubit?{^n}{^n}{^n}
+Vyslanec mě povolal.
+Pak je tohle místo kam patříš a na důvody jistě časem přijdu. {^n}{^n}Vyslanec nedělá chyby, jeho činy mluví za Tři.{^n}{^n}Nicméně si dovolím varovat tě: je zde mnoho takových, kteří neocení tvou přítomnost.
+A proč to?
+Po generace chytali Lumináři náš druh, kradli nám artefakty, experimentovali na nás pro jejich vlastní zisk. to všechno ve jménu ochrany říše.{^n}{^n}Ta doba už je dávno pryč a jsou tu mnohem větší hrozby pro říši než těch pár z nás co zbylo.{^n}{^n}Je zde ale mnoho z těch, co trpěli rukou Luminářů a jen velmi pozvolna odpouštějí.{^n}{^n}Chovej se jemně.{^n}{^n}A teď, je tu ještě něco, s čím ti mohu pomoci?
 
 
-No, thank you for the advice.
-Don't worry about me.
-I'll keep that in mind.
-Too bad for them.
-Sorry to bother you.
-None of your business.
-Hello there [[ms]brother[fs]sister]. {^n}{^n}You look lost. Is there something I can help you with?{^n}{^n}Perhaps you have some questions I might answer?
+Ne, díky za rady.
+Neboj se o mě.
+Budu si to pamatovat.
+Tak to maj smůlu.
+[[ms]nechtěl[fs]Nechtěla] jsem tě obtěžovat.
+Do toho ti nic není.
+Vítej zde, [[ms]bratře[fs]sestro]. {^n}{^n}Vypadáš ztraceně. Je něco, s čím bych ti mohla pomoci?{^n}{^n}Možná máš nějaké otázky, které bych mohla zodpovědět?
 
 
-No thank you.
-Hi there.{^n}{^n}You look lost. Is there something I can help you with?
-Who is the Emissary?
-Well now, that is a good question.{^n}{^n}The Emissary has been in service of the Three for a very long time. Some say since the beginning, which would make him hundreds of years old.{^n}{^n}I don't know how much truth there is to that, but there is no doubt he has been one of their most fervent servants.{^n}{^n}He goes where the Three will not, recruiting talented individuals in their name or scouring them from existence should their refusal be perceived as a threat to the gods. I suspect many here were once recruited by him, including yours truly.
-You were recruited by the Emissary?
-Yes, I certainly was. {^n}{^n}It's not the happiest of tales, but all worked out in the end, I suppose.{^n}{^n}I was 14 at the time. My parents had fallen ill to a pox that claimed countless lives across the countryside.{^n}{^n}Things...were not looking good and we were running out of money. The little bit of medicine I could afford was quickly running out. One day, while I was out in the market trying to scrounge some coin for the meager goods we had, I began hearing voices, but they did not originate from anyone nearby. Only I could hear them.{^n}{^n}They told me things, things I thought impossible. At first, I was rightfully scared and didn't know what to make of it. I thought I was going mad. But in them was wisdom, I just didn't know it at the time.{^n}{^n}It wasn't long before my mother succumbed to the pox. I had to bury her myself as father was still too weak. As tears streamed down my cheeks, I vowed to not let that happen again.{^n}{^n}I listened to the voices and through them learned tricks beyond mortal limits. I...hurt some people, but I was able to earn enough money for food and for father's medicine.{^n}{^n}The day father got out of bed for the first time in weeks, a stranger came to me on the road. A hood cloaked his features, and he introduced himself only as the Emissary. He told me that the voices I was hearing were not of my own failing sanity, but instead they were a gift.{^n}{^n}He told me that I was right to listen, but now the time had come to pay for my gifts. Father's life in exchange for my service. He said that I should keep listening to the voices, to follow them wherever they lead, but I will never see my father again. To deny them was to deny the call of a god.{^n}{^n}I felt that I had no choice. I wrote father a note and left in the middle of the night. The Emissary was not wrong. The voices led me to Stonereach, a coven of witches in the service of the Three. There I honed my powers and embraced my calling.{^n}{^n}I do not know what happened to father, but given what's happened across Cairn, I can only imagine; and I can only imagine I'd have shared his fate if I didn't leave.
+Ne, díky.
+Ahoj.{^n}{^n}Vypadáš ztraceně. Je něco, s čím ti mohu pomoci?
+Kdo je ten Vyslanec?
+No, to je dobrá otázka. {^n}{^n}Vyslanec už je ve službách Tří po velmi dlouhou dobu. Někteří říkají že od prvopočátku, což by znamenalo, že je starý několikset let.{^n}{^n} Nevím, co je na tom pravdy, ale bezpochyby je to jeden z nejhorlivějších služebníků. {^n}{^n}Jde tam kam Tři ne, rekrutuje talentované jedince jejich jménem nebo je vymaže z povrchu zemského, protože jsou pak bráni jako hrozba Třem, když jim odmítnou sloužit. Mám podezření, že mnoho z těch co jsou zde bylo rekrutováno právě jím, a to včetně tebe.
+Tys byla rekrutována Vyslancem?
+Ano, vskutku byla. {^n}{^n}Není to zrovna nejšťastnější povídka, ale nakonec myslím, že to všechno tak nějak dopadlo.{^n}{^n}Bylo mi v tu dobu 14. Moji rodiče onemocněli neštovicemi, které v té době v našem kraji usmrtili nespočet lidí.{^n}{^n}Věci nevypadaly...dobře, a docházely nám peníze. Ta trocha medicíny, kterou jsem si mohla dovolit, rychle docházela. Jednoho dne, když jsem byla venku na tržnici a snažila se vydělat nějaké mince za mizerné zboží, co jsme měli, jsem začala slyšet hlasy, nepocházely ale od nikoho z okolí. Pouze já jsem je slyšela, nikdo jiný.{^n}{^n}Říkali mi věci, věci, o kterých jsem si myslela, že jsou nemožné. Ze začátku jsem byla po právu vyděšená a nevěděla jsem, co s tím mám dělat. Myslela jsem, že šílím. V těch hlasech bylo ale moudro, jen jsem to v té době ještě nevěděla.{^n}{^n}Nebylo to tak moc dlouho předtím, že moje maminka podlehla neštovicím. Musela jsem jí sama pohřbít, protože otec byl ještě příliš slabý. jak mi tekly slzy dolů po tvářích, slíbila jsem, že to znovu nedopustím.{^n}{^n}Naslouchala jsem hlasům a díky nim jsem se naučila věci za hranicí možností, jež měli smrtelníci. Já...zranila jsem nějaké lidi, ale byla jsem schopna vydělat dost na to, abych mohla koupit jídlo a léky pro otce. {^n}{^n}Ten den, kdy otec po několika týdnech vstal poprvé z postele, přišel ke mně na ulici cizinec. Kapuce zakrývala jeho obličej, a on se představil jen jako Vyslanec. Řekl mi, že hlasy které jsem slyšela nebyl důsledek toho jak přestávám být příčetná, místo toho mi řekl že byly darem.{^n}{^n}Řekl mi, že jsem dobře udělala, když jsem naslouchala, nyní že je ale čas splatit dluhy za obdržené dary. Život otce za moji službu. Řekl mi, že mám dál naslouchat oněm hlasům, následovat je tam, kamkoliv mě povedou, nikdy už ale neuvidím svého otce. Nenaslouchat jim by bylo nenaslouchat volání bohů.{^n}{^n}Cítila jsem, že nemám na výběr. Napsala jsem otci dopis a odešla uprostřed noci. Vyslanec se nemýlil. Hlasy mne zavedli do Stonereache, sněmu čarodějek ve službách Tří. Tam jsem vypilovala svoji moc a přijala to, že jsem byla povolána.{^n}{^n}Nevím co se stalo mému otci, ale když vím co se stalo napříč celým Cairnem, mohu si to pouze představovat; a také si mohu jen představovat, jak bych sdílela stejný osud, kdybych neodešla.
 
-That's...quite a story.
-I'm sorry to hear that.
-Thanks for the information.
-Interesting.
-What is this place?
-This is a gathering of those faithful to the Three. A convergence of powers this world has not yet seen.{^n}{^n}All of us were called here, much like you were.
-The Three?
-Are you really that out of your element?{^n}{^n}The Three...the Witch Gods...Bysmiel, Dreeg and Solael.{^n}{^n}The very reasons why we stand here this day.{^n}{^n}We are, all of us, bound to their will. To serve them is to have purpose.{^n}{^n}And now you have been called into their service as well.
+To je...vskutku příběh.
+To je mi líto.
+Díky za informace.
+Zajímavé.
+Co je tohle za místo?
+Toto je shromáždění těch, kteří jsou oddaní Třem. Konvergence moci, kteoru tento svět ještě neviděl.{^n}{^n}Všichni jsme sem byli povoláni stejně tak jako ty.
+Třem?
+Jsi skutečně tak mimo dění?{^n}{^n}Tři...Čarodějní bohové...Bysmiel, Dreeg a Solael.{^n}{^n}Jediný důvod, proč tady dnes všichni jsme.{^n}{^n}Všichni tady jsme spojeni s jejich vůlí. Sloužit jim nám dává smysl.{^n}{^n}A tys teď [[ms]byl povolán[fs]byla povolána] do jejich služby stejně jako všichni ostatní.
 
 
-Thank you for your help.
-That's great. See you later.
-What are we doing here?
-Each of us has our role to play, but all of us are here because the Three demanded it.{^n}{^n}A forgotten threat rises to the north, one that may consume this land if we falter or delay.{^n}{^n}There are some in this camp who are skeptical of this, but they are fools to question the gods.{^n}{^n}The threat is real as we will all know it soon enough.
+Díky za pomoc.
+To je skvělé. Uvidíme se později.
+Co tady vlastně děláme?
+Každý z nás hraje nějakou roli, ale všichni tu jsme, protože si to Tři přáli.{^n}{^n}Zapomenutá hrozba bují na severu, taková, která pozře tuto zemi, pokud zaváháme nebo se opozdíme.{^n}{^n}Jsou zde v tábořišti tací, kteří jsou vůči tomuto skeptičtí, jsou to ale hlupáci, zpochybňovat bohy.{^n}{^n}Hrozba je skutečná a všichni se to brzy dozvíme.
 
-Who are the Three?
-Ok, I'll keep that in mind.
-Farewell.
-Thanks for the information.
-I'm fine, but thanks.
-I was just leaving.
+Kdo jsou Tři?
+Ok, budu to mít na paměti.
+Sbohem.
+Díky za informace.
+jsem v pohodě, ale díky.
+Zrovna jsem [[ms]byl[fs]byla] na odchodu.

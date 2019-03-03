@@ -1,63 +1,63 @@
-Vikon ~ Oathkeeper of Solael
-Please do not distract me from my task.
-Sorry, I'll be going.
-Excuse me.
-When you chose me as a sacrifice, I figured we'd end it with bloody battle.{^n}{^n}But here we are.
-Perhaps it was not meant to be.
-Stick to your duties.
-I regret that we did not have the opportunity to face each other in ritual combat.{^n}{^n}I would have enjoyed giving my life or taking yours in the name of Solael.{^n}{^n}It would have been a grand show, no matter the outcome.{^n}{^n}But if it is my fate to live in the service of Solael, so be it.
-We can still duel.
-Hah, do not tempt me!{^n}{^n}No, I must maintain my post.{^n}{^n}Partaking in ritual combat without command to do so would be an offense to Solael and a disgrace to my title.
-Very well.
-That's too bad.
-Farewell.
-So there is to be a ritual of sacrifice.{^n}{^n}If I am under consideration then truly I have failed Sagon in my duties. But if offering myself before Solael is to be my final act of service, so be it.{^n}{^n}Shall we begin?
-You want to die?
-I wish only to serve Solael, whatever it takes.{^n}{^n}But I also relish the thought of you and I fighting to the death. It will be quite a bloody show and I am eager for a good fight.{^n}{^n}You may be surprised who it is that ends up giving their life in honor of Solael.
-Let's find out. (Attack)
-No, I don't think so.
-No, it will not be you.
-Welcome, Oathkeeper. {^n}{^n}I am truly glad that you have joined us my [[ms]brother[fs]sister].{^n}{^n}Is there anything I can help you with?
-What are you doing here?
-I am guarding my post. I am, always, guarding my post.{^n}{^n}As an Oathkeeper of Solael, it is my life sworn duty to defend Sagon.{^n}{^n}Though, I can see that your calling is quite a bit different than my own.{^n}{^n}Yet the Three have called you here to aid in their endeavor. So they must have a great deal of faith in you.
-Who is Sagon?
-That, my friend, is a question I am ill-prepared to answer.{^n}{^n}I have served as a guardian to Sagon since I was old enough to hold a shield.{^n}{^n}But most of that time was not spent at his side. No, most of it was spent guarding ancient sites of worship or covens in service to Solael.{^n}{^n}I go where Sagon wills me to go and I don't ask questions. Such is my duty.{^n}{^n}Though, between you and I, I desperately crave a good fight.{^n}{^n}It has been far too long since I spilled the blood of a worthy foe.
+Vikon ~ Soalelův Přísežník
+Prosím, nevyrušuj mě v plnění mého úkolu.
+Promiň, už půjdu.
+Omlouvám se.
+Když jsi mě [[ms]určil[fs]určila] jako oběť, představoval jsem si, že skončíme v krvavém souboji.{^n}{^n}A takhle to dopadlo.
+Možná to tak nemělo skončit.
+Drž se svých povinností.
+Mrzí mě, že jsme neměli možnost utkat se spolu v rituálním souboji.{^n}{^n}Užil bych si to a buď bych obětoval pro Solaela svůj život nebo bych vzal ten tvůj.{^n}{^n}Byla by to vskutku velkolepá podívaná, nezáleží na výsledku.{^n}{^n}Pokud je ale mým osudem žít a sloužit ve jménu Solaela, budiž.
+Pořád můžeme bojovat.
+Hah, nepokoušej mě.{^n}{^n}Ne, musím držet svůj post.{^n}{^n}Být součástí rituálního souboje bez příkazu by bylo Solaelovi urážkou a zostuzení mého titulu.
+Dobře.
+Tak to je velká škoda.
+Sbohem.
+Takže bude proveden obětní rituál.{^n}{^n}Pokud jsem zvažován jako varianta, přemýšlím, zda jsem zklamal Sagona v plnění svých povinností. Ale pokud obětování se pro Solaela má být mým posledním úkolem ve službě pro něj, tak budiž.{^n}{^n}Můžeme začít?
+Chceš zemřít?
+Mám jediné přání a to je sloužit Solaelovi, ať to stojí co to stojí.{^n}{^n}Také si ale vychutnávám pomyšlení na tebe a mě bojující na smrt. Bylo by to vskutku krvavá podívaná a toužím po dobrém boji.{^n}{^n}Mohlo by tě překvapit, kdože z nás to vlastně padne pro uctění Solaela.
+Tak to pojďme zjistit. (Zaútoč)
+Ne, to si nemyslím.
+Ne, ty to nebudeš.
+Vítej, Přísežníku. {^n}{^n}Jsem skutečně rád, že ses k nám [[ms]přidal, bratře[fs]přidala, sestro].{^n}{^n}Je něco, s čím bych ti mohl pomoci?
+Co tady děláš?
+Strážím svůj post. Vždy strážím svůj post.{^n}{^n}A mou životní povinností, jakožto Solaelova Přísežníka, je bránit Sagona.{^n}{^n}Nicméně vidím, že tvé poslání se od toho mého dost liší.{^n}{^n}Ale Tři tě sem povolali, abys jim [[ms]pomohl[fs]pomohla]. Musí ti tedy ohromně důvěřovat.
+Kdo je Sagon?
+To je, [[ms]můj příteli[fs]má přítelkyně], otázka, kterou skutečně toužím zodpovědět.{^n}{^n}Sloužil jsem jako Sagonův ochránce od doby, kdy jsem byl dostatečně starý na to, abych udržel štít.{^n}{^n}Většinu toho času jsem ale nestrávil po jeho boku. Ne, většinu jsem strávil bráněním pradávných pobožných míst nebo nebo míst různých sněmů ve službách Solaela.{^n}{^n}Jdu tam, kam si Sagon přeje, abych šel a neptám se. To je moje povinnost.{^n}{^n}Ale mezi mnou a tebou, chybí mi skutečně dobrý boj. {^n}{^n}Už je to až příliš dlouho od doby, kdy jsem naposledy prolil krev úctyhodného nepřítele.
 
-Hope you find one a worthy one soon then.
-Too bad for you.
-Farewell.
-What is this place?
-You are standing in the Conclave of the Three, a sacred gathering of the servants of the Witch Gods.
-Why is everyone here?
-I only know what Sagon wishes me to know.{^n}{^n}It appears a mad zealot named Father Kymon is heralding the return of a mighty foe that has even the gods concerned.{^n}{^n}He's uncovered something terrible out there in the desert. It must be pretty bad as up til now we thought him as little more than a crazy fool; and now we are all gathered here in numbers never seen before.{^n}{^n}But it is not my place to question our purpose here. I live to serve Sagon.{^n}{^n}May the Three be with you, [[ms]brother[fs]sister].
+Doufám, že brzy jednoho z těch úctyhodných potkáš.
+To je pro tebe hodně zlé.
+Sbohem.
+Co je tohle za místo?
+Stojíš v Konkláve Tří, svatém shromáždění služebníků Čarodějných bohů.
+Proč jsou všichni tady?
+Vím jen to, co si Sagon přeje, abych věděl.{^n}{^n}Vypadá to, že šílený fanatik jménem Otec Kymon zvěstuje příchod mocného protivníka, který znepokojil i bohy. {^n}{^n}Odhalil něco strašlivého tam venku v poušti. Musí to být dost vážné, protože až do teď jsme ho nepovažovali za nic víc než šíleného blázna; a teď tu jsme shromážděni v množství, které nikdo předtím neviděl.{^n}{^n}Není ale na místě, abych se tázal na náš účel zde. Žiji, abych sloužil Sagonovi.{^n}{^n}Nechť jsou Tři s tebou, [[ms]bratře[fs]sestro].
 
-Thank you, brother.
-And with you.
-Ah, you're the one they've been talking about.{^n}{^n}Worked with Kymon and his band of merry fanatics, back in Homestead.{^n}{^n}I'll tell you what, if it weren't for what you've done since I'd end your life where you stand.
-Excuse me?
-You heard me. {^n}{^n}I don't know why they've allowed you into this camp, but I assure you, I'll be looking for a good reason to remove you from the land of the living.
-And why's that?
-You see all of this here? {^n}{^n}All of these people? They're gathered here because that foolish maniac Father Kymon has been meddling with powers he can't control.{^n}{^n}Something you helped him do, whether you realize or not.{^n}{^n}If it were up to me you'd be cut down just for setting foot in this camp.
-I'd love to see you try.
-Good thing it's not up to you.
-One step closer and I'll take your life, inquisitor.
-Excuse me?
-You heard me. {^n}{^n}I don't know why they've allowed you into this camp, but I assure you, I'll be looking for a good reason to remove you from the land of the living.
-Why such hostility?
-An inquisitor asks a servant of Solael why the hostility...this is precious.{^n}{^n}Did you hit your head on the way here, inquisitor?{^n}{^n}Just stay out of my way before things get ugly.
-Alright, I'm going.
-There's no need for that.
-Good luck.
-Please do not distract me from my task.
-What are you doing here?
-I am an Oathkeeper of Solael. I am the sword, and the shield, I am righteous wrath.{^n}{^n}It is my sworn duty to defend brother Sagon and I will do so with my life, and yours if need be.
-Wow, that's a mouthful.
-Watch yourself, stranger.{^n}{^n}I make no threats, keep your distance and we shall have no quarrel.
-And if I don't?
-Then I will strike you down where you stand.{^n}{^n}But now is not the time for such ignorance. I'm sure you know this.{^n}{^n}You are an ally of the Three, are you not?{^n}{^n}Now please leave me to my duty.
-Keep up the good work.
-Perhaps another time.
-Keep up the good work.
-Well, excuse me.
-Sorry, I'll be going.
-Excuse me.
+Děkuji ti, [[ms]bratře[fs]sestro].
+I s tebou.
+Ah, ty jsi [[ms]ten[fs]ta], o kom se tolik mluví.{^n}{^n}Práce s Otcem Kymonem a jeho rozjařených fanatiků, tam v Homesteadu.{^n}{^n}Já ti něco povím, kdyby nebylo toho, cos od té doby [[ms]učinil[fs]učinila], ukončil bych tvůj život tam, kde právě stojíš.
+Co prosím?
+[[ms]Slyšel[fs]Slyšela] jsi mě.{^n}{^n}Nevím, proč tě vůbec vpustili do tábořiště, ale ujišťuji tě, že budu hledat důvod, proč tě odstranit ze země žijících.
+A to jako proč?
+Vidíš to všechno tady?{^n}{^n}Všechny ty lidi? Jsou tady shromážděni, protože ten si pošahanej maniak Otec Kymon zahrával se silami, které nemůže ovládat.{^n}{^n}Něco s číms mu ty [[ms]pomohl[fs]pomohla], ať už si to uvědomuejš nebo ne.{^n}{^n}Pokud by záleželo na mně, setnul bych tě jen za to že jsi do tohoto tábora [[ms]vkročil[fs]vkročila].
+[[ms]Chtěl[fs]Chtěla] bych vidět, jak to zkusíš.
+Dobrý vědět, že to není na tvém rozhodnutí.
+Ještě jeden krok a vezmu si tvůj život, [[ms]inkvizitore[fs]inkvizitorko].
+Co prosím?
+[[ms]Slyšel[fs]Slyšela] jsi mě.{^n}{^n}Nevím, proč tě vůbec vpustili do tábořiště, ale ujišťuji tě, že budu hledat důvod, proč tě odstranit ze země žijících.
+Proč to nepřítelství?
+[[ms]Inkvizitor[fs]Inkvizitorka] se ptá Solaelova služebníka, proč to nepřátelství...tohle je vzácnost.{^n}{^n}[[ms]Praštil[fs]Praštila] ses snad do hlavy po cestě sem [[ms]inkvizitore[fs]inkvizitorko]?{^n}{^n}Prostě mi nestůj v cestě, než se to zvrtne.
+Dobrá, už půjdu.
+To není zapotřebí.
+Hodně štěstí.
+Prosím, nevyrušuj mě v plnění mého úkolu.
+Co tady děláš?
+Jsem Soalelův Přísežník. Jsem meč, jsem štít, jsem právoplatná zloba.{^n}{^n}je mojí místopřísežnou povinností bránit bratra Sagona a učiním tak svým životem, a klidně i tvým, pokud to bude zapotřebí.
+Vau, to byl ale proslov.
+Dávej si pozor, [[ms]cizinče[fs]cizinko].{^n}{^n}Nebudu ti vyhrožovat, ty si budeš držet odstup a nebudeme se muset přít.
+A co když nebudu?
+Pak tě skolím tam, kde právě stojíš.{^n}{^n}Teď ale není čas na takovou míru ignoranství. Jsem si jistý, že to víš.{^n}{^n}Jsi spojencem Tří, nebo snad ne?{^n}{^n}Teď mě prosím nech, ať mohu plnit svou povinnost.
+Odváděj dál dobrou práci.
+Možná někdy jindy.
+Odváděj dál dobrou práci.
+Dobrá, omluv mě.
+Promiň, už půjdu.
+Omlouvám se.

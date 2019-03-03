@@ -1,84 +1,84 @@
 Riggs
-Back again?{^n}{^n}You know I think you've had enough. I don't mind people being in my debt, as I'm sure you know. {^n}{^n}But you already owe me...twice!{^n}{^n}Don't forget I'm gonna come collecting on these debts some day. {^n}{^n}I do hope you're prepared.
-I will be.
-We'll see about that.
-Welcome back, my friend.
-Got anything new for me?
-Ya know, I think I do.{^n}{^n}You're really gonna be in my debt now.{^n}{^n}You ready to make another deal?{^n}
-Lets do it.
-That's what I like to hear.{^n}{^n}This is what I've got.{^n}{^n}Now remember I'm gonna be coming around to collect on this some day and I do hope you're ready to pay up.
-I will be.
-Yeah, we'll see.
-I don't think so.
-Maybe later.
-Sorry to bother you.
-Welcome back, my friend.
-Got anything new for me?
-Nothing you'd be interested in.{^n}{^n}Come back and see me again when ya got a little more...experience under your belt.{^n}{^n}I'm sure we can work something out then.
-I'll be back.
-That's just great.
-Back so soon?
-Got anything new for me?
-Hahah, you just can't get enough can you?{^n}{^n}Sadly, I don't have anything new for you just yet.{^n}{^n}Come back later and we'll see if we can work something out.
-I'll be back.
-Well look who it is. {^n}{^n}You having second thoughts?{^n}{^n}Ready to make a deal? {^n}
-Yes, I'm ready.
-That's what I like to hear.{^n}{^n}You remember how this works right? {^n}{^n}I give you the goods and then you owe me.
-Yup. 
-Well then, here you go.{^n}{^n}I'll tell ya what. If you come back sometime later I might even have something else for ya.{^n}{^n}At the right price of course.
-I'll be back.
-Of course.
-I've changed my mind.
-What kind of deal?
-Like I told you before. I trade goods for favors.{^n}{^n}I give you the goods and you're in my debt. At some point I come find you and you repay your debt by helping me.{^n}{^n}It's that simple.
+Zase zpátky?{^n}{^n}Víš, myslim že máš dost. Nevadí mi když mi lidi dlužej, to víš. {^n}{^n}Ty už mi ale dlužíš...dvakrát!{^n}{^n}Nezapomeň, že si pro svoje závazky jednou dojdu. {^n}{^n}Doufam že budeš [[ms]připravenej[fs]připravená].
+Budu.
+To ještě uvidíme.
+Vítej zpátky, [[ms]příteli[fs]přítelkyně].
+Máš pro mě něco novýho?
+Vždyť víš že jo.{^n}{^n}Teď mi budeš fakt viset.{^n}{^n}Seš [[ms]připravenej[fs]připravená] na další dohodu?{^n}
+Jdeme na to.
+To sem chtěl slyšet.{^n}{^n}Tohle je to co mam.{^n}{^n}Teď měj ale na paměti, že si za to přijdu pro odměnu někdy v budoucnu a doufam že budeš moct zaplatit.
+Budu.
+Jo, to ještě uvidíme.
+To si nemyslím.
+Možná později.
+[[ms]Nechtěl[fs]Nechtěla] jsem tě obtěžovat.
+Vítej zpátky, [[ms]příteli[fs]přítelkyně].
+Máš pro mě něco novýho?
+Nic co by tě zajímalo.{^n}{^n}Zastav se až budeš mít o něco víc zkušeností. {^n}{^n}Sem si jistej že pak vymyslíme něco na čem spolupracovat.
+Vrátím se.
+To je prostě super.
+Tak brzo zpátky?
+Máš pro mě něco novýho?
+Hahah, prostě nemůžeš přestat, viď?{^n}{^n}Bohužel pro tebe ještě nic novýho nemam.{^n}{^n}Vrať se pozdějš a uvidíme jestli pak vymyslíme něco na čem spolupracovat.
+Vrátím se.
+Podívejme kdopak to je. {^n}{^n}[[ms]Rozmyslel[fs]Rozmyslela] sis to?{^n}{^n}Můžem uzavřít dohodu? {^n}
+Jo, sem [[ms]připravený[fs]připravená].
+Přesně to jsem chtěl slyšet.{^n}{^n}Víš jak to funguje, že jo? {^n}{^n}Dam ti nějaký zboší a ty mi budeš viset.
+Jop.
+Well then, here you go.{^n}{^n}I'll tell ya what. If you come back sometime later I might even have something else for ya.{^n}{^n}At the right price Samozřejmě.
+Vrátím se.
+Samozřejmě.
+[[ms]Rozmyslel[fs]Rozmyslela] sem si to.
+Jakej druh dohody?
+Jak sem řek předtim. Mym obchodem je zboží za protislužbu. {^n}{^n}Dam ti zboží a ty mi budeš dlužit. V určitou chvíli mi splatíš tim, že mi pomůžeš. {^n}{^n}Takhle jednoduchý to je.
 
-Nope, I'm not interested.
-No, I'm not.
-Certainly not with you.
-Well, I see you've made your decision.{^n}{^n}Choosing to pledge your loyalty to the Witch Gods.{^n}{^n}I hear they take that kind of thing very seriously around here.
+Ne, nemám zájem.
+Ne, nemam.
+Určitě ale ne s tebou.
+No, vidim, že ses [[ms]rozhodl[fs]rozhodla].{^n}{^n}[[ms]Zavázals[fs]Zavázala] ses sloužit Čarodějmenjm bohům.{^n}{^n}Slyšel jsem, že takovou věc tady berou fakt vážně.
 
-I need to go.
-So I've heard.
-Decisions, decisions...{^n}{^n}Seems the Emissary has left you with a bit of a choice to make, friend.{^n}{^n}Which will it be?{^n}{^n}Bysmiel and her web of spies, Dreeg with his fancy visions, or maybe Solael with the ritual sacrifice?{^n}{^n}That last one sounds like a winner to me.
-Which do you serve?
-What, me?{^n}{^n}I certainly don't serve any of them.{^n}{^n}I serve the god of making Riggs a wealthy man.
-Then what are you doing here?
-Well, I'm what you might call a supplier...a purveyor of particular goods, if you will.{^n}{^n}I have a special talent for finding high-end and difficult to acquire objects.{^n}{^n}Things this crew here can't seem to get enough of. Particularly since they set out on their little crusade here.{^n}{^n}Something about a long forgotten god and the end of the world or some such. Sounds like business as usual to me.{^n}{^n}A wise man once said: "where there's a fight there's a fortune to be made."
-Who said that?
-Me, ya fool.{^n}{^n}I just said that.{^n}{^n}It was a joke you see?
-So, you're a merchant?
-OK, I'm leaving now.
-Great, I don't have time for this.
-You're a merchant?
-Well, that's an over-simplification.{^n}{^n}You see those other trash peddlers down there? They've got it all wrong.{^n}{^n}Selling goods for iron bits is a child's game. A man isn't going to get rich playing games.{^n}{^n}No, my friend, I trade only the finest goods...for favors.{^n}{^n}Favors from very powerful people. Favors that I'll be cashing in when I see fit.
-So you just give them things?
-No...I don't think you're listening to what I'm saying here.{^n}{^n}I give them things in exchange for favors. They're in my debt. They owe me, you see?{^n}{^n}There's people all across this land that owe me. From emperors to dung sifters. The living, the dead, it makes no difference. {^n}{^n}They're in my debt and when I need it most, I'm going to come calling.{^n}{^n}That's wealth right there.
-How do you make them pay you?
-Ah, that's the genius of it right there.{^n}{^n}So many people across this land are in my debt, you never know who they might be or what they might be capable of.{^n}{^n}Say I make a deal with a wealthy merchant. Then later on when I come to collect my debt, he doesn't feel like paying.{^n}{^n}I pleasantly remind him that there's a lot of other folks looking to make good on their debts. And then leave him to think about who else might owe me and what they might be willing to do to pay up.{^n}{^n}That usually works. If it doesn't, I just get one of my other debtors to come and tune him up a bit.{^n}{^n}Sometimes you need to send a message to anyone else who might be thinking about defaulting on their debt.{^n}{^n}But, most folks are glad to pay up when it comes time. It's a relief of a sort.
+Už musim jít.
+Taky jsem to [[ms]slyšel[fs]slyšela].
+Rozhodnutí, rozhodnutí...{^n}{^n}Vypadá to, že tě Vyslanec nechal jenom se špetkou možností, [[ms]přiteli[fs]přitelkyně].{^n}{^n}Kterej to bude?{^n}{^n}Bysmiel ja její pavučina špehů, Dreeg s jeho skvělejma vidinama nebo Solael s rituálníma oběťma?{^n}{^n}Ten poslední mi zní jako vítěz.
+Komu sloužíš ty?
+Kdo, já?{^n}{^n}Já nesoužim žádnýmu z nich.{^n}{^n}Věřim v boha co dělá Riggse bohatym.
+Tak co tady pak děláš?
+No, jsem někdo komu můžeš říkat jako zásobovatel...třeba mi říkej že sem dodavatel určitýho druhu zboží.{^n}{^n}Mám speciální talent na těžko sehnatelný věci tý nejvyšší kvality.{^n}{^n}Věci, kterejch se zdá, že ta parta kolem mě nemá nikdy dost. Hlavně v době, kdy odtud budou vyrážet na svou malou křížovou výpravu.{^n}{^n}Něco s dlouho zapomenutym bohem a koncem světa nebo něco takovýho. Zní to skoro jako každodenní záležitost.{^n}{^n}Jeden moudrý muž kdysi řek: "tam kde se bojuje tam se vytvoří jmění."
+Kdo to řek?
+Já, ty [[ms]vole[fs]trubko].{^n}{^n}Já to řek.{^n}{^n}Byl to vtip, chápeš?
+Takže seš obchodník?
+OK, teď odcházim.
+Skvělý, na tohle totiž nemam čas.
+Takže seš obchodník?
+No, zjednodušeně ano.{^n}{^n}Vidíš tam dole ty pouliční prodavače krámů? Vůbec nic nechápou.{^n}{^n}Prodávat zboží za železný mince je hra pro děti. Chlap nezbohatne tim že bude hrát hry.{^n}{^n}Ne, [[ms]příteli[fs]přítelkyně], já obchoduju s tim nejlepším zbožím...za protislužby.{^n}{^n}Protislužby od velmi mocnejch lidí. Protislužby, pro který si dojdu, až se mi to bude hodit.
+Takže jim ty věci prostě dáš?
+Ne...nevim jestli vůbec vnímáš to co ti tady vykládam.{^n}{^n}Dam jim věc za to že pro mě něco udělaj. Jsou mi dlužní. Dluží mi, chápeš?{^n}{^n}tady v tom kraji je hromada lidí co mi něco dluží. Od ccísařů po přehazovače hnoje. Mrtvej, živej, to neni rozdíl. {^n}{^n}Dluží mi a až to budu nejvíc potřebovat, tak se jim ozvu.{^n}{^n}Tam je to bohatství.
+Jak je donutíš ti zaplatit?
+Ah, tady máme génia asi.{^n}{^n}V tomhle kraji mi dluží tolik lidí, že nikdy nevíš kdo to je a čeho sou schopný. {^n}{^n}Řekněme, že uzavřu dohodu s bohatym obchodníkem. Pozdějš, když si přijdu vybrat to, co mi dluží, se tváří, že se mu nechce platit. {^n}{^n}Slušně mu připomenu, že kolem je hromada dalších týpků, co mi něco dluží. A pak ho necham chvilku přemejšlet o tom, kdo další by mi moh dlužit a čeho by asi byli schopní, aby ho donutili zaplatit.{^n}{^n}Obvykle to funguje. Pokud ne, prostě kontaktuju někoho z mejch dlužníků a necham ho trošku pocuchat.{^n}{^n}Někdy musíš vyslat zprávu někomu jinýmu, kdo bude chtít vyrovnat svůj dluh.{^n}{^n}Ale většina z mejch dlužníků chce zaplatit, když na to přijde čas. je to svym způsobem úleva.
 
-I don't want any part of this.
-Sounds like a racket to me.
-You have anything for me?
-See, now you're getting it.{^n}{^n}That's what I'm talking about, [[ms]he[fs]she] wants to make a deal.{^n}{^n}Let me think for a second...{^n}{^n}Yes, come to think of it I do have something for you.{^n}{^n}You know what this means of course? You're going owe me and some day I'm going to come to collect.{^n}{^n}Do we have a deal?
-Yes, lets do this. 
-Well, here you go.{^n}{^n}I'll tell you what. If you come back sometime later I might even have something else for you.{^n}{^n}At the right price, of course.
-Of course.
-I'll be back.
-On second thought. I'm out.
-Well, that's a shame, my friend. {^n}{^n}You come back and see me if you change your mind.
-I will.
-I don't think so.
-Nope, no deal.
-Enjoy your wealth.
-Yup, I've heard enough.
-I need to go. We'll talk again later.
-Good luck with that.
-Well, thanks for the wisdom.
-I've heard enough.
-Good for you.
-That's great.
-Sorry, I can't chat right now.
-It's really none of your business.
-Hey there traveler.{^n}{^n}Come back and chat with me when you're done with the Emissary. {^n}{^n}Wouldn't want him coming after me for meddling in his business.
-I will.
-Talk to you later.
+Nechci z toho ani ždibet.
+Zní mi to jako podvod.
+Máš pro mě něco?
+Vidíš, už to začínáš chápat.{^n}{^n}To je přesně to o čem mluvim, [[ms]on[fs]ona] chce udělat obchod.{^n}{^n}nech mě chvíli přemejšlet...{^n}{^n}Jo, když nad tim přemejšlim, asi pro tebe něco mam.{^n}{^n}Víš co to pro tebe znamená, že jo? Budeš mi dlužit a já si to jednou přijdu vybrat.{^n}{^n}Máme dohodu?
+Jasně, jen do toho.
+No konečně.{^n}{^n}Něco ti řeknu. Když se zastavíš o někdy v budoucnu, možná bych pro tebe moh mít ještě něco navíc.{^n}{^n}Ale za adekvátní cenu, samozřejmě.
+Samozřejmě.
+Vrátím se.
+[[ms]Rozmyslel[fs]Rozmyslela] jsem si to. Jdu od toho.
+No, to je škoda, [[ms]přiteli[fs]přitelkyně].{^n}{^n}Pokud si to rozmyslíš, vrať se a navštiv mě.
+Budu.
+To si nemyslím.
+Ne, žádná dohoda.
+Užij si to bohatství.
+Jop, [[ms]slyšel[fs]slyšela] sem dost.
+Potřebuju jít. Promluvíme si pozdějš.
+Tak s tim ti přeju hodně štěstí.
+No, díky za to moudro.
+[[ms]Slyšel[fs]Slyšela] sem dost.
+To je pro tebe dobře.
+To je skvělý.
+Promiň, nemůžu se teďka vykecávat.
+Do toho ti skutečně nic není.
+Hej, [[ms]pocestnej[fs]pocestná].{^n}{^n}Pojď sem a promluv si se mnou, až budeš [[ms]hotovej[fs]hotová] u Vyslance. {^n}{^n}Nechceš aby po mně šel kvůli tomu, že se mu pletu do jeho záležitostí.
+Budu.
+Promluvíme si pozdějš.
