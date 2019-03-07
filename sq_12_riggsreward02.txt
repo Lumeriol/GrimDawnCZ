@@ -1,14 +1,6 @@
-Korvan Basin
-Deeper in Debt
- Making Another Deal
-You spoke with Riggs again.{^n}{^n}Once more, he gave you another of his wares, asking only that you be in his debt.{^n}{^n}No doubt he will come to collect on this debt eventually.
+Korvanské povodí
+Ještě větší závazek
+Uzavři další dohodu
+Znovu jsi [[ms]mluvil[fs]mluvila] s Riggsem.{^n}{^n}Znovu ti dal něco ze svého zboží, žádající pouze to, že mu jednou dluh splatíš.{^n}{^n}Není pochyb, že si přijde pro to, co mu dlužíš, až se mu to bude hodit.
 
-Make another deal with Riggs
-
-
-
-
-
-
-
-
+Uzavři další dohodu s Riggsem

@@ -1,18 +1,18 @@
 Elita
-Help us, please.{^n}{^n}We need to get out of here.
-Don't worry, help is on the way.
-Oh, thank the Three, you got here just in time.{^n}{^n}Those things had us cornered.{^n}{^n}Listen, we're in no condition to continue but we need to get out of here.{^n}{^n}Do you think you could help us?
-I've been looking for you. Keisen sent me.
-I knew they wouldn't just leave us out here.{^n}{^n}We need to get back, but we can't just leave our supplies here. That would...be frowned upon.{^n}{^n}If we come back without these supplies, we might as well slit our own throats.
-I can open a rift and send you back with your supplies.
+Pomoz nám, prosím.{^n}{^n}Potřebujeme se odtud dostat.
+Neboj se, pomoc už je na cestě.
+Oh, díky Třem, [[ms]dostal[fs]dostala] ses sem právě včas.{^n}{^n}Ty věci nás tu uvěznily.{^n}{^n}Poslouchej, nejsme v kondici pokračovat dál, ale musíme se odtud dostat.{^n}{^n}Myslíš, že bys nám [[ms]mohl[fs]mohla] pomoci?
+[[ms]Hledal[fs]Hledala] jsem vás. Keisen mě poslal.
+Věděla jsem, že by nás tu jen tak nenechali.{^n}{^n}Potřebujeme se dostat zpátky, ale nemůžeme tu ty zásoby jen tak nechat. To by se nepotkalo s...pochopením.{^n}{^n}Pokud půjdeme zpátky bez zásob, můžeme si tu rovnou podřezat krky.
+Můžu otevřít Bránu a poslat vás zpátky se zásobami.
 
-I'll be back for you.
-I'll be back for you.
-Oh, thank the Three, you got here just in time.{^n}{^n}Those things had us cornered.{^n}{^n}Listen, we're in no condition to continue but we need to get out of here.{^n}{^n}Do you think you could help us?
-Where will you go?
-We need to get these supplies back to the Conclave.{^n}{^n}But there's no way we're going to make it out there.{^n}{^n}Do you have some way of getting us all out of here safely?
-I can open a rift and send you there.
-Is that any safer given what roams the Eldritch Realm?{^n}{^n}You know what, it doesn't matter. {^n}{^n}Do whatever you need to, whatever it takes to get us out of here..
-Here you go. (Open Riftgate)
-I'll be back for you.
-I'll be back for you.
+Vrátím se pro vás.
+Vrátím se pro vás.
+Oh, díky Třem, [[ms]dostal[fs]dostala] ses sem právě včas.{^n}{^n}Ty věci nás tu uvěznily.{^n}{^n}Poslouchej, nejsme v kondici pokračovat dál, ale musíme se odtud dostat.{^n}{^n}Myslíš, že bys nám [[ms]mohl[fs]mohla] pomoci?
+Kam půjdete?
+Potřebujeme dostat tyto zásoby zpět do Konkláve.{^n}{^n}Není ale cesta jak bychom se odtud dostali.{^n}{^n}Máš nějaký způsob, jak nás odtud všechny bezpečně dostat?
+Můžu otevřít Bránu a poslat vás tam.
+Je to alespoň bezpečnější než to, co se prochází Hvězdnými poli?{^n}{^n}Víš co, je to úplně jedno. {^n}{^n}Udělěj, co je potřeba, cokoliv co nás odtud dostane..
+Tady je. (Otevři Bránu)
+Vrátím se pro vás.
+Vrátím se pro vás.

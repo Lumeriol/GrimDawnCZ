@@ -1,35 +1,25 @@
-Witch Gods
-The Future Is Madness
-Enter the Tomb
-One of the honored seers of Dreeg had succumbed to the Mind Reaper you defeated and now serves as its vessel.{^n}{^n}Inarah was last seen headed to the Tomb of Nephos, within the Valley of the Chosen, in the Infernal Wastes. What the Mind Reaper seeks there is unknown, but it cannot be allowed to pass.{^n}{^n}Track down Inarah and do whatever is necessary. You have been issued a Hexstone of Dreeg to dispel any defenses she may have erected to thwart pursuers.
+Čarodějní bohové
+Budoucnost je šílenství
+Vstup do hrobky
+Jedna z vážených Dreegových věštkyň propadla Rozparovači mysli, kterého jsi [[ms]porazil[fs]porazila] a ona teď slouží jako jeho schránka.{^n}{^n}Inarah byla naposledy spatřena na cestě do Nephosovy hrobky, která se nachází v Údolí Vyvoleného v Pekelné skládce. Co zde Rozparovač mysli hledá, to není známo, ale nesmí dostat to, co chce.{^n}{^n}Vystopuj Inarah a udělej cokoliv, co bude nezbytné. [[ms]Dostal[fs]Dostala] jsi Dreegův šestihranný kámen, abys [[ms]mohl[fs]mohla] odčarovat jakoukoliv obranu, kterou by mohla vztyčit, aby zmařila zámery pronásledovatelů.
 
 
 
-Acquire the Hexstone of Dreeg
-Use the Hexstone to purge Inarah's defenses in the Tomb of Nephos
+Získej Dreegův šestihranný kámen
+Použij šestihranný kámen k odstranění Inahariny obrany v Nephosově hrobce
 
 
 
-Speak to Inarah
-You have dispelled Inarah's magic within the Tomb of Nephos in the Valley of the Chosen.{^n}{^n}Seek her out and speak to her in the depths of the tomb.
-Speak with Inarah at the Tomb of Nephos
+Promluv si s Inarah
+[[ms]Odčaroval[fs]Odčarovala] jsi Inarahinu magii uvnitř Nephosovy hrobky v Údolí Vyvoleného.{^n}{^n}Vyhledej ji v útrobách hrobky a promluv si s ní.
+Promluv si s Inarah v Nephosově hrobce
 
 
 
-Kill Inarah
-Inarah is beyond help. The Mind Reaper has complete control over her.{^n}{^n}You must slay her in her hideout within the Tomb of Nephos, in the Valley of the Chosen.
-Eliminate Inarah, the Afflicted
+Zabij Inarah
+Inarah už není pomoci. Rozparovač mysli nad ní zcela převzal kontrolu.{^n}{^n}Musíš jí zabít v jejím úkrytu v Nephosově hrobce, která se nachází v Údolí Vyvoleného.
+Eliminuj Inarah, Postiženou
 
-Return To Kira
-Inarah has been eliminated. Unfortunately this is another great loss for the Dreeg Cult, but the Mind Reaper could not have been allowed to endure.{^n}{^n}You did what had to be done.{^n}{^n}Report back to Kira at the Conclave of the Three.
-Return to Kira at the Conclave of the Three
-
-
-
-
-
-
-
-
-
-
+Vrať se ke Kiře
+Inarah byla eliminována. Naneštěstí se jedná o další velkou ztrátu pro Dreegův kult, Rozparovač mysli ale nesměl být ponechán naživu.{^n}{^n}[[ms]Udělal[fs]Udělala] jsi, co bylo nutné.{^n}{^n}Ohlaš se Kiře v Konkláve Tří.
+Vrať se ke Kiře v Konkláve Tří.

@@ -1,11 +1,6 @@
-Korvan Basin
-Now You Owe Me
-A deal is a deal
-You spoke with Riggs, an odd kind of merchant who's stationed himself at the Conclave of the Three.{^n}{^n}He agreed to give you some of his wares, but strangely charged you nothing for them.{^n}{^n}Riggs says you're in his debt now, which he may collect on some day at a time of his choosing.
+Korvanské povodí
+Teď mi dlužíš
+Dohoda je dohoda
+[[ms]Mluvil[fs]Mluvila] jsi s Riggsem, podivného obchodníka, který se utábořil v Konkláve Tří.{^n}{^n}Nabídl ti něco ze svého zboží, ale ačkoliv je to divné, nic za to nechtěl.{^n}{^n}Riggs říká, že jsi teď jeho dlužníkem a to co mu dlužíš si u tebe může kdykoliv vybrat.
 
-Make a deal with Riggs
-
-
-
-
-
+Uzavři dohodu s Riggsem
