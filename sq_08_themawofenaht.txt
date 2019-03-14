@@ -1,8 +1,8 @@
-Korvan Basin
-The Maw of Enaht
-Return to Carmac
-You found a gaping maw full of tentacles and teeth protruding from the desert east of the Korvan Sands.{^n}{^n}This could be of interest to Carmac, back at the Conclave of the Three.{^n}{^n}Let him know of your discovery.
-Return to Carmac at the Conclave of the Three
+Korvanské povodí
+Enahtův chřtán
+Vrať se ke Carmacovi
+Našel jsi rozevřenou tlamu plnou chapadel a zubů vyčnívající z pouště na východ od Korvanské pouště.{^n}{^n}Toto by mohlo Carmaca, který je v Konkláve Tří, zajímat.{^n}{^n}Dej mu vědět, co jsi [[ms]našel[fs]našla].
+Vrať se ke Carmacovi do Konkláve Tří
 
 
 
@@ -10,13 +10,6 @@ Return to Carmac at the Conclave of the Three
 
 
 
-Return to the Bysmiel Camp
-You found a gaping maw full of tentacles and teeth protruding from the desert east of the Korvan Sands.{^n}{^n}This could be of interest to someone back at the Conclave of the Three.{^n}{^n}Report back on your discovery.
-Notify the Conclave of the Three of your discovery
-
-
-
-
-
-
-
+Vrať se do Bysmielina kempu
+Našel jsi rozevřenou tlamu plnou chapadel a zubů vyčnívající z pouště na východ od Korvanské pouště.{^n}{^n}Toto by mohlo Carmaca, který je v Konkláve Tří, zajímat.{^n}{^n}Dej mu vědět, co jsi [[ms]našel[fs]našla].
+Zmiň se v Konkláve Tří o svém nálezu

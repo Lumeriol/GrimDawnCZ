@@ -1,32 +1,32 @@
 Indalla
-Victory is ours, and yet...{^n}{^n}Ill portents blow upon the winds of change.
-Farewell.
-Stay vigilant out there.{^n}{^n}The many eyes are watching.
-Farewell.
+Vítezství je naše, a přece...{^n}{^n}Vánek změny nese špatná znamení.
+Sbohem.
+Buď tam venku [[ms]ostražitý[fs]ostražitá].{^n}{^n}Mnoho očí se dívá.
+Sbohem.
 The fates are pleased in today's turn, and yet...blood...{^n}{^n}But I digress. The Emissary seeks your presence back at the Conclave.
-Where is Byscilla?
-The web's mistress is gone. To where, I cannot say.{^n}{^n}Perhaps the Emissary knows.
+Kde je Byscilla?
+Paní pavučiny je pryč. Kam se vydala, to nevím.{^n}{^n}Možná to ví Vyslanec.
 
-Very well.
-Where is Draellus?
-The oracle has seen a path he must follow. To where, I cannot say.{^n}{^n}Perhaps the Emissary knows.
+Dobrá.
+Kde je Draellus?
+Prorok spatřil cestu, kterou musel následovat. Kam se vydal, to nevím.{^n}{^n}Možná to ví Vyslanec.
 
-Very well.
-Where is Sagon?
-The blood vicar has left us in great haste. To where, I cannot say.{^n}{^n}Perhaps the Emissary knows.
+Dobrá.
+Kde je Sagon?
+Krvavý vikář nás opustil ve velkém spěchu. Kam se vydal, to nevím.{^n}{^n}Možná to ví Vyslanec.
 
-Very well.
-What does the Emissary want with me?
-The strings swirl in black smoke. The truth is unknown.{^n}{^n}Speak with him yourself and learn which path is yours.
+Dobrá.
+Co ode mě Vyslanec chce?
+Vlákna se točí v černém oblaku kouře. Pravda je neznáma.{^n}{^n}Promluv si s ním [[ms]sám[fs]sama] a zjisti, která cesta je ti předurčena.
 
 
 
-Very well.
-I'll speak with him then.
-Stay vigilant out there.{^n}{^n}The many eyes are watching.
-Farewell.
-Fascinating. You are a blank, an unknown.{^n}{^n}The winds of destiny wash over you with uncertainty.{^n}{^n}One with such dedication must be rewarded.
-Um, thanks?
-Whatever you've got, I don't want it.
-Stay vigilant out there.{^n}{^n}The many eyes are watching.
-Farewell.
+Dobrá.
+Pak si s ním promluvím.
+Buď tam venku [[ms]ostražitý[fs]ostražitá].{^n}{^n}Mnoho očí se dívá.
+Sbohem.
+Fascinující. Jsi jako prázdný list papíru, [[ms]neznámý[fs]neznámá].{^n}{^n}Větry osudu okolo tebe proplouvají s nejistotou.{^n}{^n}Někdo s takovým darem musí být odměněn.
+Eh, díky?
+Cokoliv to je, nechci to.
+Buď tam venku [[ms]ostražitý[fs]ostražitá].{^n}{^n}Mnoho očí se dívá.
+Sbohem.

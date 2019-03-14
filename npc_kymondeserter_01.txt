@@ -1,70 +1,70 @@
-Brother Haggan
-Please, have mercy.{^n}{^n}We've suffered enough.
-We'll see about that.
-Thank you for your mercy.
-Travel safe.
-Go on, before I change my mind.
-We don't want any trouble.
-Then stay out of it.
-Thank you for your mercy.
-I dropped the relic somewhere, don't suppose you...
-Found it?{^n}{^n}Yes, here. If this is the price for our lives, take it.
-Thank you.
-Travel safe.
-Go on, before I change my mind.
-Do not try to stop us, [[ms]brother[fs]sister].{^n}{^n}We have had enough of Kymon's lies and wish to leave in peace. If you have any sense left, you should join us.
-I do not wish to fight you, brother, but you have something I need.
-What could we possibly have that you require in this wasteland?{^n}{^n}We are fleeing the destruction that awaits us all if Kymon succeeds and have only some supplies and the clothes on our backs.
-You have an artifact. Give it to me and you can go.
-*Haggan reluctantly removes something from a pouch on his belt*{^n}{^n}I don't know what you want with this, [[ms]brother[fs]sister], but it is evil.{^n}{^n}Kymon promised us salvation from this hell through Empyrion. Instead, we got something far worse.{^n}{^n}You do not want this burden.
-I'll see that this thing never harms anyone again.
-Aligning ourselves with Kymon and his false promises has brought us nothing but misery.{^n}{^n}*Haggan sighs*{^n}{^n}Take it. Get it away from us. Perhaps then we will know peace.
-I'll be careful with it. (Spare the deserters)
-Forget it. (Attack)
-I'll be right back.
-I don't have time for this. (Attack)
-I'll be right back.
+Bratr Haggan
+Prosím, slituj se.{^n}{^n}Už jsme trpěli dost.
+To se ještě uvidí.
+Díky, že ses [[ms]slitoval[fs]slitovala].
+Cestuj bezpečně.
+Padejte, než si to rozmyslím.
+Nechceme žádné potíže.
+Tak se od nich držte dál.
+Díky, že ses [[ms]slitoval[fs]slitovala].
+Někde jsem [[ms]nechal[fs]nechala] relikvii, nepředpokládám, že...
+Že jsem ji našel?{^n}{^n}Ano, tady. Pokud je to cena za naše životy, tak si jí vem.
+Díky.
+Cestujte bezpečně.
+Padejte, než si to rozmyslím.
+Nepokoušej se nás zastavit, [[ms]bratře[fs]sestro].{^n}{^n}Už jsme slyšeli dost těch Kymonovo lží a přejeme si, abys nás [[ms]nechal[fs]nechala] napokoji. Pokud máš alespoň trošku pochopení, [[ms]měl[fs]měla] by ses k nám přidat.
+Nepřeju si s tebou bojovat, bratře, ale máte něco, co potřebuju.
+Co bychom asi mohli mít, že to tady v té pustině potřebuješ?{^n}{^n}Prcháme před zničením, které čeká nás všechny, pokud Kymon uspěje, a máme pouze nějaké zásoby a oblečení v batozích.
+Máte artefakt. Dejte mi ho a můžete jít.
+*Haggan neochotně něco vyndá z pytlíku na svém pásku*{^n}{^n}Nevím, c s tímhle chceš dělat, [[ms]bratře[fs]sestro], ale je to zlo.{^n}{^n}Kymon nám slíbil vykoupení z tohoto pekla skrze Empyriona. namísto toho jsme dostali něco o dost horšího.{^n}{^n}Tohle břémě nést nechceš.
+Dohlédnu na to, aby ta věc už nikoho dalšího nezranila.
+To že jsme se dali dohromady s Kymonem a uvěřili jeho falešným slibům nám nepřineslo nic víc než mizérii.{^n}{^n}*Haggan si povzdechne*{^n}{^n}Vezmi si to. Dostaň to od nás pryč. Možná potom najdeme smír.
+Budu s tím zacházet opatrně. (Ušetři dezertéry)
+Kašli na to. (Zaútoč)
+Hned se vrátím.
+Na tohle nemám čas. (Zaútoč)
+Hned se vrátím.
 
-I'm sorry, but you have to die. (Attack)
-I'll be right back.
-I do not fight for Kymon.
-Then we have no quarrel.{^n}{^n}We are leaving this forsaken land before Kymon's foolish plans come to fruition, and you should too.
-What has Kymon done?
-He is a false prophet. He deceived us with promises of Empyrion's return, but in truth he served another vile entity which he is working tirelessly to release into our world.{^n}{^n}Just another charlatan seeking to take advantage of the suffering of survivors. We were fools to follow him here.
+je mi líto, ale musíš zemřít. (Zaútoč)
+Hned se vrátím.
+Pro Kymona nebojuju.
+Pak mezi námi není rozepří.{^n}{^n}Opustíme tento kraj před tím, než Kymonovy pomatené plány přinesou výsledky a ty bys [[ms]měl[fs]měla] také.
+Co Kymon provedl?
+Je to falešný prorok. Oklamal nás sliby o návratu Empyriona, ale ve skutečnosti sloužil jiné zlé bytosti, se kterou neúnavně spolupracuje, aby ji vypustil na tento svět.{^n}{^n}Prostě další šarlatán, který hledá způsoby, jak získat něco z utrpení přeživších. Byli jsme hlupáci, že jsme ho sem následovali.
 
-And you will die for it. (Attack)
-I'll be right back.
+A ty kvůli tomu zemřeš. (Zaútoč)
+Hned se vrátím.
 
-You're not going anywhere. (Attack)
-I'll be right back.
-I'm afraid you're not leaving. (Attack)
-I'll be right back.
-Please leave us be.{^n}{^n}We have had enough of this forsaken land and Kymon's lies.{^n}{^n}We wish to leave peacefully. If you have any sense left, you should be leaving too.
-I do not wish to fight you, but you have something I need.
-What could we possibly have that you require in this wasteland?{^n}{^n}We are fleeing the destruction that awaits us all if Kymon succeeds and have only some supplies and the clothes on our backs.
-You have an artifact. Give it to me and you can go.
-*Haggan reluctantly removes something from a pouch on his belt*{^n}{^n}I don't know what you want with this, but it is evil.{^n}{^n}Kymon promised us salvation from this hell through Empyrion. Instead, we got something far worse.{^n}{^n}You do not want this burden.
-I'll see that this thing never harms anyone again.
-Aligning ourselves with Kymon and his false promises has brought us nothing but misery.{^n}{^n}*Haggan sighs*{^n}{^n}Take it. Get it away from us. Perhaps then we will know peace.
-I'll be careful with it. (Spare the deserters)
-Forget it. (Attack)
-I'll be right back.
-I don't have time for this. (Attack)
-I'll be right back.
+Nikam nejdeš. (Zaútoč)
+Hned se vrátím.
+Obávám se, že nikam nejdeš. (Zaútoč)
+Hned se vrátím.
+Prosím, nech nás napokoji.{^n}{^n}Už máme dost téhle proklaté země a Kymonovo lží.{^n}{^n}Přejeme si žít v míru. Pokud tomu alespoň trochu rozumíš, [[ms]měl[fs]měla] bys taky odejít.
+Nepřeju si s tebou bojovat, bratře, ale máte něco, co potřebuju.
+Co bychom asi mohli mít, že to tady v té pustině potřebuješ?{^n}{^n}Prcháme před zničením, které čeká nás všechny, pokud Kymon uspěje, a máme pouze nějaké zásoby a oblečení v batozích.
+Máte artefakt. Dejte mi ho a můžete jít.
+*Haggan neochotně něco vyndá z pytlíku na svém pásku*{^n}{^n}Nevím, c s tímhle chceš dělat, [[ms]bratře[fs]sestro], ale je to zlo.{^n}{^n}Kymon nám slíbil vykoupení z tohoto pekla skrze Empyriona. namísto toho jsme dostali něco o dost horšího.{^n}{^n}Tohle břémě nést nechceš.
+Dohlédnu na to, aby ta věc už nikoho dalšího nezranila.
+To že jsme se dali dohromady s Kymonem a uvěřili jeho falešným slibům nám nepřineslo nic víc než mizérii.{^n}{^n}*Haggan si povzdechne*{^n}{^n}Vezmi si to. Dostaň to od nás pryč. Možná potom najdeme smír.
+Budu s tím zacházet opatrně. (Ušetři dezertéry)
+Kašli na to. (Zaútoč)
+Hned se vrátím.
+Na tohle nemám čas. (Zaútoč)
+Hned se vrátím.
 
-I don't have time for this. (Attack)
-I'll be right back.
-I fight to stop Kymon.
-Then we have no quarrel.{^n}{^n}We are leaving this forsaken land before Kymon's foolish plans come to fruition, and you should too.
-What has Kymon done?
-He is a false prophet. He deceived us with promises of Empyrion's return, but in truth he served another vile entity which he is working tirelessly to release into our world.{^n}{^n}Just another charlatan seeking to take advantage of the suffering of survivors. We were fools to follow him here.
+Na tohle nemám čas. (Zaútoč)
+Hned se vrátím.
+Bojuju, abych Kymona [[ms]zastavil[fs]zastavila].
+Pak se nemusíme hádat.{^n}{^n}Opouštíme tuhle bohem zapomenutou zemi před tím, než Kymon začne uskutečňovat své plány, a ty bys [[ms]měl[fs]měla] taky.
+Co Kymon provedl?
+Je to falešný prorok. Oklamal nás sliby o návratu Empyriona, ale ve skutečnosti sloužil jiné zlé bytosti, se kterou neúnavně spolupracuje, aby ji vypustil na tento svět.{^n}{^n}Prostě další šarlatán, který hledá způsoby, jak získat něco z utrpení přeživších. Byli jsme hlupáci, že jsme ho sem následovali.
 
-And you will die for it. (Attack)
-I'll be right back.
+A ty kvůli tomu zemřeš. (Zaútoč)
+Hned se vrátím.
 
-And you will die for it. (Attack)
-I'll be right back.
-I'm afraid you're not leaving. (Attack)
-I'll be right back.
-We don't want any trouble.
-Then stay out of it.
+A ty kvůli tomu zemřeš. (Zaútoč)
+Hned se vrátím.
+Obávám se, že nikam nejdeš. (Zaútoč)
+Hned se vrátím.
+Nechceme žádné potíže.
+Tak se od nich držte dál.

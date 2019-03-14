@@ -1,40 +1,40 @@
-Kanatha, Mistress of the Sentinels
-The screams we heard from the temple were glorious, simply glorious!{^n}{^n}My sentinels will scour this land of the heretics until what was once forgotten is once more...forgotten.{^n}{^n}As the Three will it.
-Good luck with the hunt.
-Farewell.
-My sentinels are ready.{^n}{^n}Let the blood of our enemies flow and the fires in their heretic hearts be quenched upon our blades!
-Farewell.
-The Emissary was right, as usual.{^n}{^n}You have earned the right to stand among us in the real trials to come.
-Where is the Emissary now?
-You can find him just up the stairs to the south, overlooking the courtyard from the Solael camp.
-Thank you.
-What is your role here?
-By the blessing of the Covenant, I am the Mistress of the Sentinels.{^n}{^n}Those sworn to guard the interests of the Three and the survival of our people answer to me.{^n}{^n}They swear their oaths to the gods, and to me, just as you have made an unbreakable oath that guides your existence.
+Kanatha, Vládkyně stráží
+Křik, který jsme [[ms]slyšeli[fs]slyšely] v chrámu byl nádherný, prostě nádherný.{^n}{^n}Mí strážní pročešou tento kraj a vyčistí ho od kacířů, aby to co bylo zapomenuté bylo ještě více...zapomenuté.{^n}{^n}Tak jak si to Tři přejí.
+S tím lovem hodně štěstí.
+Tak zatím.
+Mé stráže jsou připravené.{^n}{^n}Nechť krev našich nepřátel teče proudem a plameny v jejich kacířských srdcích uhasnou našimi meči!
+Tak zatím.
+Vyslanec měl pravdu, jako obvykle.{^n}{^n}[[ms]Získal[fs]Získala] jsi právo zůstat mezi námi a zúčastnit se skutečných zkoušek.
+Kde je teď Vyslanec?
+Najdeš ho nad schody na jihu, vyhlíží dvůr v Solaelově tábořišti.
+Děkuji ti.
+Jaká je tvá role tady?
+Díky posvátnému závazku jsem Kanatha, Vládkyně stráží.{^n}{^n}Ti, kteří se zavázali chránit zájmy Tří a strážit přežití našeho lidu se zodpovídají mně.{^n}{^n}Slíbili věrnost bohům a mně., stejně tak jako i ty jsi [[ms]uzavřel[fs]uzavřela] nevypověditelnou dohodu, která určuje směr tvojí existence.
 
-Goodbye.
-By the blessing of the Covenant, I am the Mistress of the Sentinels.{^n}{^n}Those sworn to guard the interests of the Three and the survival of our people answer to me.{^n}{^n}They swear their oaths to the gods, and to me.
-What trials await us?
-Goodbye.
-And what trials are those?
-Our battle against the fiery fury boiling beneath the sands, of course.{^n}{^n}A forgotten god stirs, an ancient enemy of mankind threatens to destroy us all.{^n}{^n}We must rise to face this threat before all is lost.
+Sbohem.
+Díky posvátnému závazku jsem Kanatha, Vládkyně stráží.{^n}{^n}Ti, kteří se zavázali chránit zájmy Tří a strážit přežití našeho lidu se zodpovídají mně.{^n}{^n}Slíbili věrnost bohům a mně.
+Jaké zkoušky nás čekají?
+Sbohem.
+A jaké jsou to zkoušky?
+Náš boj proti planoucí zlobě vroucí pod písky, samozřejmě.{^n}{^n}Zapomenutý bůh se vrtí, starověký nepřítel lidstva je hrozbou, která nás může všechny zničit.{^n}{^n}Musíme povstat a čelit této hrozbě, než bude vše ztraceno.
 
-I see.
-Of course I did.
-Farewell.
-Don't stray too far now.{^n}{^n}Know your place or I'll have you get acquainted with my sentinels.
-Alright.
-The Emissary warned me of your coming.{^n}{^n}But whether you may remain here is not a matter of his choosing.{^n}{^n}I will decide who stays...and who dies.{^n}{^n}Are you prepared to face the trials?
-Let's get this over with. (Begin Eldritch Trials)
-I'm not ready yet.
-What are these trials?
-Save your questions for the scholars.{^n}{^n}If you are to survive out here, then you must be tested against the terrors of the Eldritch Realm.{^n}{^n}Are you prepared to begin or not?
-I'm ready. (Begin Eldritch Trials)
-I'm not ready yet.
+Chápu.
+Samozřejmě že ano.
+Tak zatím.
+Netoulej se už nikam daleko.{^n}{^n}Pamatuj, kde je tvoje místo, nebo tě s ním seznamí mí strážní.
+Dobrá.
+Vyslanec mě upozornil na tvůj příchod.{^n}{^n}Ale to, jestli tu můžeš zůstat není z jeho vůle.{^n}{^n}To my rozhodujeme kdo zůstane...a kdo zemře.{^n}{^n}Jsi [[ms]připraven[fs]připravena] čelit zkouškám?
+Tak ať už je to za námi (Započni Tajemné zkoušky)
+Ještě nejsem [[ms]připravený[fs]připravená].
+Čím jsou tyto zkoušky?
+Šetři si otázky na učně.{^n}{^n}Pokud tu máš přežít, musíš projít zkouškou kde budeš čelit hrůzám z Hvězdných polí.{^n}{^n}Jsi [[ms]připraven[fs]připravena] začít nebo ne?
+Jsem [[ms]připravený[fs]připravená]. (Započni Tajemné zkoušky)
+Ještě nejsem [[ms]připravený[fs]připravená].
 
-What is your role here?
-Right now, my role here is to determine whether you are worth the risks of bringing into our fold.{^n}{^n}Now are you ready to begin or not?
-I'm ready. (Begin Eldritch Trials)
-I'm not ready yet.
+Jaká je tvá role tady?
+Právě teď je mou rolí určit to, zda-li stojíš za rizika, která s sebou přinášíš.{^n}{^n}Jsi [[ms]připraven[fs]připravena] začít nebo ne?
+Jsem [[ms]připravený[fs]připravená]. (Započni Tajemné zkoušky)
+Ještě nejsem [[ms]připravený[fs]připravená].
 
-Don't stray too far now.{^n}{^n}Speak to the Emissary or I'll be certain you get acquainted with my sentinels.
-Alright.
+Netoulej se už nikam daleko.{^n}{^n}Promluv si s Vyslancem, nebo tě s ním seznamí mí strážní.
+Dobrá.
