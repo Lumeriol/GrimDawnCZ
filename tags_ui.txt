@@ -516,7 +516,7 @@ tagLootFilter15Info=Zobrazí/skryje štíty.
 tagLootFilter16=Zbroje
 tagLootFilter16Info=Zobrazí/skryje helmy, nárameníky, hrudní zbroje, chrániče nohou, obuv a rukavice.
 tagLootFilter17=Příslušenství
-tagLootFilter17Info=Zobrazí/skryje Amulets, Rings, Medals and Belts.
+tagLootFilter17Info=Zobrazí/skryje amulety, prsteny, medaile a opasky.
 tagLootFilter38=Komponenty
 tagLootFilter38Info=Zobrazí/skryje komponenty.
 
