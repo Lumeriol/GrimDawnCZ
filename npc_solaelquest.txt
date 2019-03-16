@@ -1,96 +1,96 @@
-Raiken, Guardian of Solael
-It is good you've found a place among the weaklings serving Bysmiel and Dreeg, we do not suffer the weak here.
-Farewell.
-We heard Korvaak's suffering even here.{^n}{^n}I hate to admit it, but your actions are truly worthy of praise.
-Another threat to humanity vanquished.
-The Korvan Basin has a wealth of treasures for the taking.{^n}{^n}We must merely be willing to risk it all to claim them for ourselves.
-Farewell.
-Stay out of my way and we'll get along just fine.
-I don't want any trouble.
-Uh, sure.
-Well? What have you uncovered?
-Are these the tablets?
-Ah yes, the Words of Rahn. Shattered and hidden so that none may utter the spell hidden within ever again.{^n}{^n}The fools feared the words of power. Well now they are ours.{^n}{^n}Here, bring this to a craftsman you trust and reap the power at our fingertips!
-Thank you.
-Farewell.
-I give you the find of a lifetime, and you're still here?
-What do I need to do again?
-Head out into the ruins of Korvan City to the northwest of the Infernal Wastes and seek out three silver statues.{^n}{^n}Find a way to activate them and recover the fragments of the Words of Rahn within.{^n}{^n}Bring those to me and I will decipher their meaning for our mutual gain.
-I'm on it.
-I'm working on it.
-You serve Sagon, that I know. But perhaps I can tempt you with another prize.{^n}{^n}You've proven to be capable so I'll be willing to share this secret knowledge with you in return for a fair share.
-What did you find?
-Korvan City was once a gem in the desert, a place of unimaginable wealth and arcane rituals devoted to Korvaak.{^n}{^n}That is all forgotten history now and what remains of its splendors had long ago been looted.{^n}{^n}But some fragments of knowledge are hidden such that your average tomb raider will not find them. I've learned of one such secret that I suspect still remains untouched.{^n}{^n}Head out into the ruins of Korvan City to the northwest of the Infernal Wastes and seek out three silver statues. They may seem dormant, but secrets are housed within.{^n}{^n}Find a way to activate them and recover the fragments of the Word of Rahn within. Bring them to me and I will decipher their meaning for our mutual gain.{^n}{^n}What do you say?
-I will unlock the secrets of these statues.
-Find someone else to do your dirty work.
-You mean these tablets?
+Raiken, Solaelův strážce
+Je dobře, že jsi [[ms]našel[fs]našla] místo mezi slabochy sloužícími Bysmiel a Dreegovi, slabochy tu nestrpíme.
+Tak zatím.
+Korvaakovo utrpení jsme slyšeli dokonce i tady.{^n}{^n}Nechce se mi to přiznat, ale tvé činy jsou skutečně hodné pocty.
+Další hrozba lidstvu byla zažehnána.
+V Korvanském povodí je spousta pokladů, jen si je vzít.{^n}{^n}Musíme být ochotni obětovat téměř vše, abychom je pro sebe získaly.
+Tak zatím.
+Drž se ode mě dál a bude to v pohodě.
+Nechci žádný potíže.
+Uh, jasně.
+Tak cos [[ms]odhalil[fs]odhalila]?
+Jsou to ty tabulky?
+Ach ano, Rahnova slova. Roztříštěná a skrytá, aby nikdo nemohl odříkat kouzlo v nich zapsané.{^n}{^n}Ti hlupáci se báli tak mocných slov. No, nyní jsou naše.{^n}{^n}Tady, dones to výrobci, kterému věříš a získej pro nás tak moc, kterou máme na dosah ruky!
+Díky.
+Tak zatím.
+Podělil jsem se s tebou o životní nález a ty tu pořád ještě jsi?
+Co že to mám udělat?
+Vydej se do rozvalin Korvanského města na severozápadě od Pekelné skládky a vyhledej tři stříbrné sochy.{^n}{^n}Najdi způsob, jak je aktivovat a získej fragmenty Rahnových slov, které jsou uvnitř.{^n}{^n}Ty mi pak přines a já pak v zájmu našeho prospěchu rozluštím jejich význam.
+Jdu na to.
+Dělám na tom.
+Vím to, že sloužíš Sagonovi. Možná tě ale mohu nalákat na jinou hodnotnou cenu.{^n}{^n}[[ms]Ukázal[fs]Ukázala] ses jako [[ms]schopný[fs]schopná], takže se s tebou budu ochoten podělit o tuto utajenou vědomost oplátkou za férový podíl.
+Co jsi našel?
+Korvanské město bylo kdysi klenotem v poušti, místo nepředstavitelného bohatství a podivných rituálů věnovaných Korvaakovi.{^n}{^n}To vše je teď už zapomenutá historie a to co z jeho lesku zůstalo už bylo dávno uloupeno.{^n}{^n}Ale některé fragmenty vědomostí jsou schované tak, že je průměrný vykradač hrobek nenajde. Dozvěděl jsem se o jednom z takových tajemství a mám podezření, že je stále netknuté.{^n}{^n}Vydej se do rozvalin Korvanského města na severozápadě od Pekelné skládky a vyhledej tři stříbrné sochy. Mohou vypadat nečinně, ale tajemství se ukrývá v nich. {^n}{^n}Najdi způsob, jak je aktivovat a získej fragmenty Rahnových slov, které jsou uvnitř. Ty mi pak přines a já pak v zájmu našeho prospěchu rozluštím jejich význam.{^n}{^n}Co ty na to?
+Rozluštím tajemství těch soch.
+Najdi si někoho jinýho na svou špinavou práci.
+Myslíš tyhle tabulky?
 
-If this is so powerful, why share it with me?
-Believe me, if I had any other choice, I would not.{^n}{^n}Unfortunately there are those whom even I fear to disobey and I cannot head into the desert.{^n}{^n}You, however, are not bound by such limitations.{^n}{^n}So, will we share this prize?
-I will unlock the secrets of these statues.
-Find someone else to do your dirty work.
-You mean these tablets?
+Pokud to má takovou moc, proč to sdílíš se mnou?
+Věř mi, pokud bych měl jinou možnost, nedělal bych to.{^n}{^n}Naneštěstí jsou zde tací, které se i já bojím neuposlechnout a do pouště se tak vydat nemůžu.{^n}{^n}Nicméně ty nejsi [[ms]vázán[fs]vázána] těmito omezeními.{^n}{^n}Tak co, rodělíme si tu kořist?
+Rozluštím tajemství těch soch.
+Najdi si někoho jinýho na svou špinavou práci.
+Myslíš tyhle tabulky?
 
-What is it you wanted again?
+Co že jsi to ještě jednou chtěl?
 
-If I do this, why would I share it with you?
-I respect your hunger for power. It is fitting of Solael's ranks.{^n}{^n}But while you may find wealth on this task, the real treasure lies in the texts, which I doubt you can translate without my help.
-I will unlock the secrets of these statues.
-Find someone else to do your dirty work.
-You mean these tablets?
+Pokud to udělám, podělíš se se mnou?
+Respektuji tvůj hlad po moci. Na Solaelovy jednotky to sedí.{^n}{^n}Ale zatímco můžeš najít během plnění tohoto úkolu bohatství, ten pravý poklad je ukryt v textech, o kterém pochybuji, že ho budeš moci bez mé pomoci rozluštit.
+Rozluštím tajemství těch soch.
+Najdi si někoho jinýho na svou špinavou práci.
+Myslíš tyhle tabulky?
 
-What is it you wanted again?
+Co že jsi to ještě jednou chtěl?
 
-I'm not interested.
-Sagon demands you speak with him. He expects you at the Vanguard of the Three, north of here, beyond the Sunbane Oasis and through the Howling Chasm.{^n}{^n}Don't make him wait.
-Very well.
-Well? Have you purged our ranks of the weak?
-Yes, the grisly task is finished.
-Good. You should never hesitate to exterminate weakness.{^n}{^n}They are like a festering wound. Given time, it can kill you if not treated properly.{^n}{^n}But I digress. Sagon demands you speak with him. He expects you at the Vanguard of the Three, north of here, beyond the Sunbane Oasis.{^n}{^n}Don't make him wait.
-Very well.
-Well? Have you purged our ranks of the weak?
-What must I do again?
-We must be resolute. Speak to the aspirants around the camp.{^n}{^n}Find the weakest among them and cut them down!
-This is all so wrong.
-I do not need a lecture on morals.{^n}{^n}Do what must be done or we will find someone else who can.
-Fine.
-If that's what it takes...
-I will get on it.
-This is barbaric.
-I'm not finished yet.
-I can only wonder what other powerful relics lay hidden within these ruins.{^n}{^n}But for now we must focus on other matters.
-What else needs doing?
-Korvaak and his minions cannot be underestimated. We must enter this fight united and without fault or we risk failure.{^n}{^n}Solael will not accept failure and you do not want to be here when Solael is displeased. We must show our patron that we are resolute in our commitment to his creed.{^n}{^n}Speak with the aspirants around our camp. Find the weak and cull them.{^n}{^n}Solael will find pleasure in their deaths and we will cleanse ourselves of the unworthy.
-I will cull your ranks.
-I'm not going to execute our allies.
-Why would you do such a thing?
-The chain is only as strong as its weakest link.{^n}{^n}Solael does not suffer weakness.{^n}{^n}You will do this or someone else will, and you will join the ranks of the weak.{^n}
-Alright, I will cull your ranks.
-I'm not going to execute our allies.
-We'll speak of this later.
-You're looking smug.{^n}{^n}Do you have the eye? Give it to me!
-Here it is.
-Can you sense its power? To think it was wasting away in these ruins all these centuries.{^n}{^n}Yes, this will serve Solael's needs well.{^n}{^n}Perhaps I was wrong to call you an aspirant. You are far more useful.
-Was that all?
+Nemám zájem.
+Sagon žádá, aby sis s ním [[ms]promluvil[fs]promluvila]. Očekává tě v Předvoji Tří na severu odtud za Oázou prokletého Slunce a pak za Kvílející průrvou.{^n}{^n}Nenech ho čekat.
+Dobrá.
+Ano? [[ms]Vyčistil[fs]Vyčistila] jsi naše řady od slabých?
+Ano, ten příšerný úkol je u konce.
+Dobře. Nikdy bys [[ms]neměl[fs]neměla] váhat vyhubit slabost.{^n}{^n}Jsou jako hnisající rána. Časem tě to může zabít, pokud o ně není postaráno.{^n}{^n}To ale odbočuju. Sagon si s tebou přeje mluvit. Očekává tě v Předvoji Tří na severu odtud za Oázou prokletého Slunce a pak za Kvílející průrvou.{^n}{^n}Nenech ho čekat.
+Dobrá.
+Ano? [[ms]Vyčistil[fs]Vyčistila] jsi naše řady od slabých?
+Co že to musím udělat?
+Musíme být odhodlaní. Promluv si s uchazeči v tábořišti.{^n}{^n}Najdi mezi nimi ty nejslabší a sejmi je!
+Tohle je vážně špatně.
+Nepotřebuju lekce morálky.{^n}{^n}Udělej to, co musí být uděláno, nebo si najdu někoho jiného, kdo to zvládne.
+Dobrá.
+Pokud to tak je...
+Pustím se do toho.
+Je to barbarství.
+Ještě jsem [[ms]neskončil[fs]neskončila].
+Můžu jen přemýtat nad tím, jaké další mocné relikvie jsou skryté v těch ruinách. {^n}{^n}Pro teď se ale musíme soustředit na jiné záležitosti.
+Co je ještě potřeba udělat?
+Korvaak a jeho nohsledi nesmí být podceňováni. Musíme do tohoto boje vstoupit sjednoceni a bezchybně, jinak budeme riskovat, že selžeme.{^n}{^n}Solael nepřijme selhání a ty tu určitě nechceš být, když je Solael zklamaný. Musíme našemu patronovi ukázat, že jsme mu oddaní a zcela věrní.{^n}{^n}Promluv si s uchazeči v našem tábořišti. Najdi slabé a utrať je. {^n}{^n}Solael najde v jejich smrti potěšení a my se očistíme od těch, kteří nejsou hodni.
+Protřídím vaše řady.
+Nebudu popravovat naše spojence.
+Proč bys takovou věc dělal?
+Řetěz je tak silný jako jeho nejslabší článek.{^n}{^n}Solael nestrpí slabost.{^n}{^n}Uděláš to ty a nebo někdo jiný a pak se připojíš k řadám slabých.{^n}
+Dobrá, protřídím vaše řady.
+Nebudu popravovat naše spojence.
+Promluvíme si o tom později.
+Tváříš se samolibě.{^n}{^n}Máš to oko? Dej mi ho!
+Tady je.
+Cítíš tu jeho sílu? Jen se zamysli nad tím, že se jen tak válelo v těch ruinách po celá staletí.{^n}{^n}Ano, tohle poslouží dobře Solaelovým potřebám.{^n}{^n}Možná jsem udělal chybu, když jsem tě nazval [[ms]uchazečem[fs]uchazečkou]. Jsi mnohem víc k užitku.
+Bylo to všechno?
 
-There is something I must attend to.
-I thought I told you what you must do?{^n}{^n}Bring me the Eye of Ekur!
-Where is this relic again?
-The Eye of Ekur lies forgotten in the Temple of Osyr, not far north of here.{^n}{^n}Now go, bring me the eye!
-Alright.
-I'm working on it.
-So, you're the latest blood to join our ranks?{^n}{^n}You've survived the trials, which is more than I can say for some of this lot, so I expect similarly impressive results.{^n}{^n}Are you ready to get started then?
-What is it we need to do?
-The servants of an ancient god they call Korvaak have infested the Korvan Basin and now stand in our way. Exterminating vermin, war, a massacre, call it what you want, we cannot proceed without preparations.{^n}{^n}There is a temple not far north from here dedicated to some long forgotten entity called Osyr. It houses a relic of great power known as the Eye of Ekur. The temple's attendants likely used it for rituals and dazzling the sheep with false displays of the divine. We will put it to better use.{^n}{^n}Recover this relic in the name of Solael and bring it to me.
-I'll get you your toy.
-Find someone else to run your errands.
-You mean this relic?
+Je něco, na co se ještě musím podívat.
+Myslel jsem, že už jsem ti řekl, co musíš udělat?{^n}{^n}Přines mi Ekurovo oko!
+Kde že je ještě jednou ta relikvie?
+Ekurovo oko se nachází v Osyrově chrámu, není to daleko na sever odtud.{^n}{^n}A teď už jdi a to oko mi přines!
+Dobrá.
+Dělám na tom.
+Takže ty jsi tou poslední krví, která doplní naše řady?{^n}{^n}[[ms]Přežil[fs]Přežila] jsi zkoušky, což je víc, než bych mohl říci o ostatních, takže takové budu očekávat i budoucí výsledky.{^n}{^n}Jsi tedy [[ms]připravený[fs]připravená] začít?
+Co že to potřebujeme?
+Služebníci pradávného boha, kterého nazývají jako Korvaak, zamořili Korvanské povodí a teď nám stojí v cestě. Ať už to nazveš válku, masakrem nebo hubením hmyzu, nemůžeme pokračovat bez příprav.{^n}{^n}Nedaleko na severu je chrám, který je vybudovaný nějaké dávno zapomenuté bytosti zvané Osyr. Uvnitř je relikvie velké moci. Ta relikvie je známá jako Ekurovo oko. Sluhové v chrámu ho pravděpodobně používali při rituálech a ohromovali další ovce falešným vyobrazením boha. Využijeme ho o něco lépe.{^n}{^n}Ve jménu Solaela tu relikvii získej a přines mi ji.
+Tu tvou hračku získám.
+Najdi si jinýho poslíčka.
+Myslíš tuhle relikvii?
 
-I'm not your aspirant.
-Hm, well you certainly mouth off like someone above your status, but until you show me something tangible, you're no better than just another aspirant here at the camp.
-So what was it we need to do?
-I don't have time for this.
-We'll speak later.
-Stay out of my way and we'll get along just fine.
-I don't want any trouble.
-Uh, sure.
+Nejsem [[ms]tvůj uchazeč[fs]tvá uchazečka].
+Hm, mluvíš jako někdo, kdo je výš než ty, ale dokud mi neukážeš něco hmatatelného, nejsi o nic lepší než ostatní uchazeči tady v tábořišti.
+Takže co že to potřebujeme?
+na tohle nemám čas.
+Promluvíme si později.
+Drž se ode mě dál a bude to v pohodě.
+Nechci žádný potíže.
+Uh, jasně.

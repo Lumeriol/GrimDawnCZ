@@ -1,37 +1,37 @@
 Atrin
-Now's not the time for our initiation.
-Alright.
-I appreciate you letting us stay.{^n}{^n}You won't be sorry. We will serve Solael in all things.
-What brought you here in the first place?
-Well, the short version is...my familiy was from this area.{^n}{^n}Though they haven't lived here for generations. I'm not sure anyone has lived here for generations.{^n}{^n}When I was just a child, my great grandmother used to tell me stories that her mother told her, stories about life in the Korvan Basin.{^n}{^n}About how beautiful Korvan City was, how its markets overflowed with goods brought in to the port of Cairan from all around world.{^n}{^n}But the stories always had a tragic ending. The Korvan people worshipped a primordial force.{^n}{^n}They designed monuments and created works of art in its honor.{^n}{^n}They built their city around a temple dedicated to this god.{^n}{^n}Then, at the peak of their civilization, the very god they worshipped seemingly turned upon them. The earth split, their homes crumbled and the people were consumed by volcanic fire in an instant.{^n}{^n}Rivers of flame enveloped the city. Horrible creatures from beyond our realm broke forth from the deep and consumed the innocent as they fled.
-So what does this have to do with you?
-The stories always stuck with me.{^n}{^n}When I was fourteen, my family took in those two, Niran and Rikket. I was to treat them like siblings.{^n}{^n}I told them the stories my great grandmother had told me. The three of us would reenact them, avenge our ancestors and slay the wicked god who turned on his people.{^n}{^n}That was all fantasy of course.{^n}{^n}But three weeks ago, Niran and Rikket show up at my door going on about a secret gathering; something Niran had heard from one of his merchant colleagues.{^n}There were rumors of a gathering of powerful people set upon preventing the return of an ancient god. The very one from grandma's stories.{^n}{^n}So we set out to find them. It appears that is the first step of joining the sacred cults of the Three.{^n}{^n}It was a difficult journey, but we made it here alive. Surprisingly, we were welcomed as if we had been expected, but Solael does not grant gifts to the uninitiated.{^n}{^n}Thanks to you, we now stand among his aspirants.
-Interesting story.
-You're lucky I let you stay.
-Fascinating, but I need to go.
-We're glad to have you.
-Do not waste any more time on us.{^n}{^n}We'll be gone before you return.
-Sorry about this.
-Make it quick.
-Now's not the time for our initiation.
-Alright.
-I yield...that's enough.{^n}{^n}Your skill is far beyond my own.{^n}{^n}I have no chance of besting you in fair combat.
-You fought well.
-You are too kind. I fought my hardest, but I must say it was a miserable defeat.{^n}{^n}I feel like a small child battling the ocean current; tossed about, dragged beneath and battered on the rocky depths.{^n}{^n}Your prowess in battle was eye-opening.{^n}{^n}I only hope our brutal defeat is enough was still enough to prove what lengths we are willing to go to earn a place in the service of Solael.
-You have proven your worth.
-I'm pleased to hear that.{^n}{^n}The three of us will serve dutifully and hopefully we will live up to your expectations.
-I'll tell Keisen you've passed the test. (Allow them to stay)
-I've changed my mind.
-I don't think so.
-I...understand.{^n}{^n}If I were in your position, I'd likely make the same decision.{^n}{^n}With allies like you fighting for them, the Three have no need of lowly weaklings like us.
-Actually, perhaps you are worthy.
-I'm sorry but you need to leave. (Deny them)
-That was a miserable effort.
-If this is what Solael expects of us then we have no business serving the Three.{^n}{^n}I humbly concede.
-On second thought, maybe that was decent.
-I'm sorry but you need to leave. (Deny them)
-Leave the camp or I'll attack again. (Deny them)
-*Atrin squints in pain*{^n}{^n}That was...rough.{^n}{^n}I yield, I yield.
-You are beaten.
-Now's not the time for our initiation.
-Alright.
+Teď není čas na to se seznamovat.
+Dobrá.
+Oceňuju, že nás tu necháš.{^n}{^n}nebudeš toho litovat. Budeme Solaelovi sloužit ve všem.
+Co vás sem v první řadě přivedlo?
+No, krátká verze je ta, že...moje rodina pocházena z této oblasti.{^n}{^n}Nicméně tu už po generace nežili. Nejsem si vlastně jistý, jestli tu vůbec někdo žil za několik posledních generací.{^n}{^n}Když jsem byl dítě, moje pra-prababička mi vyprávěla historky, které jí zase vyprávěla její maminka...historky o Korvanském povodí.{^n}{^n}O tom, jak překrásné bylo Korvanské město, jak jeho tržiště překypovala zbožím, které se sem vozilo z celého světa přes Cairan.{^n}{^n}Historky mají ale vždy tragický konec. Korvanští lidé uctívali pradávnou sílu.{^n}{^n}Stavěli monumenty a vytvářeli díla, aby ji uctili.{^n}{^n}Postavili město okolo chrámu, který byl oddaný tomuto bohu.{^n}{^n}Najednou, na vrcholu jejich evoluce, se jejich bůh obrátil proti nim. Země se rozdělila, jejich domovy se otřásaly a lid byl během mrknutí oka pozřen vulkanickým ohněm. {^n}{^n}Řeky plné ohně pokryly město. Strašlivá stvoření z jiného světa se dostaly do toho našeho a požíraly nevinné, když se snažili uprchnout.
+A co to má dočinění s tebou?
+Tyto historky mají vždycky co dočinění se mnou.{^n}{^n}Když mi bylo 14, moje rodina přijala tyhle dva, Niran a Rikketa. Měl jsem se o ně starat jako o sourozence.{^n}{^n}Vyprávěl jsem jim history, které mi vyprávěla pra-prababička. My tři jsme je jakoby hráli, šlo o pomstu našich předků a o zabití zkaženého boha, který se obrátil na svůj vlastní lid.{^n}{^n}To všechno byl samozřejmě výmysl, hra.{^n}{^n}Ale před třemi týdny se Niran a Rikket ukázali u mě přede dveřmi a rozpovídali se o utajeném shromáždění; něco, co Niran zaslechla od jednoho ze svých kolegů - obchodníků.{^n}Kolovaly řeči o shromáždění mocných lidí za účelem zabránit návratu pradávného boha. Přesně toho z historek, co jsem slyšel jako malý.{^n}{^n}Tak jsme se vydali je hledat. Vypadá to, že je to první krok k tomu přidat se k posvátným kultům Tří.{^n}{^n}Byla to náročná cesta, ale dorazili jsme sem živí. Překvapivě jsme byli přivítáni, jakoby nás snad očekávali, ale Solael nerozdává dary těm, kteří nejsou zasvěceni.{^n}{^n}Díky tobě stojíme zde mezi uchazeči.
+Zajímavá historka.
+Máš štěstí, že tě tu nechám.
+Fascinující, ale už potřebuju jít.
+Jsme rádi za to, že tě máme.
+Už na nás neplýtvej svým časem.{^n}{^n}Budeme pryč, než se vrátíš.
+Je mi to líto.
+Ať je to rychle.
+Teď není čas na to se seznamovat.
+Dobrá.
+Vzdávám se...to stačí.{^n}{^n}Tvé zkoušenosti jsou mnohem větší než ty moje.{^n}{^n}Nemám šanci porazit tě ve férovém boji.
+Bojovals dobře.
+Jsi až příliš [[ms]milý[fs]milá]. Bojoval jsem jak nejlíp sem mohl, musím ale říct, že jsme dostali strašně na frak.{^n}{^n}Cítím se jako malé dítě bojující s přílivem v oceánu; odhozený, potopený a vržený na skalnaté dno.{^n}{^n}Tvá statečnost mi otevřela oči.{^n}{^n}Jen doufám, že naše brutální porážka je pořád dost na to, abychom prokázali, jak moc stojíme o místo ve službách Solaelovi.
+Prokázals, že jste hodni.
+To rád slyším.{^n}{^n}My tři budeme poslušně sloužit a snad budeme žít tak, jak očekáváte.
+Řeknu Keisen, že jste prošli testem. (Dovol jim zůstat)
+[[ms]Rozmyslel[fs]Rozmyslela] jsem si to.
+To si nemyslím.
+Já...chápu.{^n}{^n}Pokud bych byl na tvém místě, pravděpodobně bych se rozhodl stejně.{^n}{^n}Se spojenci jako jsi ty nemají Tři potřebu bojovat po boku s tak podprůměrnými slabochy, jako jsme my.
+Možná vlastně jste hodni.
+Je mi líto, ale musíte odejít. (Odmítni je)
+To byla mizerná ukázka.
+Pokud to je to, co od nás Solael očekává, pak nemáme co pomáhat Třem.{^n}{^n}To s pokorou uznávám.
+na druhou stranu si myslím, že to docela šlo.
+Je mi líto, ale musíte odejít. (Odmítni je)
+Odejděte z tábořiště, nebo na vás znova zaútočím. (Odmítni je)
+*Atrin se svíjí bolestí*{^n}{^n}To bylo...brutální.{^n}{^n}Vzdávám se, vzdávám...
+Jste poraženi.
+Teď není čas na to se seznamovat.
+Dobrá.
