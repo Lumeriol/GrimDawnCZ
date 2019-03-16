@@ -527,7 +527,7 @@ tagClass05SkillName05B=Přeměna
 tagClass05SkillDescription05B=Sféra absorbuje zhoubné vysilující efekty a konvertuje je do tvých zásob energie.
 
 tagClass05SkillName06A=Albrechtův paprsek Aetheru
-tagClass05SkillDescription06A=Mocná tajuplná technika dovedená k dokonalosti mistrem Albrechtem v letech těsně před Ponurým úsvitem. Tato technika vysílá prvotní tajemné energie do koncentrovaného paprsku destrukce. ^oVyžaduje kouzelnický předmět v druhé ruce.
+tagClass05SkillDescription06A=Mocná tajuplná technika dovedená k dokonalosti mistrem Albrechtem v letech těsně před Ponurým úsvitem. Tato technika vysílá prvotní tajemné energie do koncentrovaného paprsku destrukce. ^oVyžaduje kouzelnický předmět v druhé ruce. Při 0% rychlosti kouzlení, způsobuje Albrechtův paprsek Aetheru zranění a čerpá energii každé 0.3 sekundy.
 tagClass05SkillName06B=Rozklad
 tagClass05SkillDescription06B=Vloží všechnu tvoji energii do Paprsku Aetheru a přemění jej do destruktivní síly, která rozloží vše, čeho se dotkne. ^oZvýšení zranění je za cenu navýšení energie.
 tagClass05SkillName06C=Zkažená síla
@@ -1780,7 +1780,7 @@ tagItemSkillD145Name=Jed nočního stínu
 tagItemSkillD145Desc=Vypustíš odporný toxin uchovaný v ostří, jež mění maso v kámen.
 
 tagItemSkillD146Name=Vyhlazení
-tagItemSkillD146Desc=Vypustíš paprsek tajuplné destruktivní energie, která zahubí vše, s čím přijde do styku, projde skrze tvé nepřátele a vymaže je ze zemského povrchu.
+tagItemSkillD146Desc=Vypustíš paprsek tajuplné destruktivní energie, která zahubí vše, s čím přijde do styku, projde skrze tvé nepřátele a vymaže je ze zemského povrchu. ^oJedná se o zřetězenou dovednost, která musí být stále aktivní. Při 0% rychlosti kouzlení způsobuje Vyhlazení zranění a odčerpání energie každé 0.3 sekundy.
 
 tagItemSkillD147Name=Obsidiánové zemetřesení
 tagItemSkillD147Desc=Rozbiješ bariéru mezi Prázdnotou a nám známým světem pomocí obsidiánových ostnů protínajících zemi.
@@ -2319,7 +2319,7 @@ tagRelicSkillC007Name=Strašení
 tagRelicSkillC007Desc=Vyvoláš umučené duchy, kteří budou strašit tvé nepřátele a zchladí jejich krev.
 
 tagRelicSkillC008Name=Požár
-tagRelicSkillC008Desc=Rozpoutá čirý plamen tak intenzivní, že mu neodolá ani ta nejsilnější zbroj. ^oToto je nestálá dovednost a musí se udržovat.
+tagRelicSkillC008Desc=Rozpoutá čirý plamen tak intenzivní, že mu neodolá ani ta nejsilnější zbroj. ^oToto je nestálá dovednost a musí se udržovat. Při 0% rychlosti kouzlení způsobí Požár zranění a odčerpání energie každé 0.3 sekundy.
 
 tagRelicSkillC009Name=Vyvolání bouřného psa
 tagRelicSkillC009Desc=Přivolá oddaného Bouřného psa, podivné zvíře zrozené z nebes. ^oV jednu chvíli může být vyvolán pouze jeden Bouřný pes. Bouřný pes sílí spolu se zvyšujícími se bonusy pro spojence.
@@ -2949,7 +2949,7 @@ tagEnemySkillD13=Sání duše
 tagEnemySkillD13_Desc=Upíří prokletí, které vysává tvůj život oslabuje tvou fyzickou odolnost.
 
 tagEnemySkillD14=Soužení otravou
-tagEnemySkillD10_Desc=Ghúl, který tě otrávil, zároveň ochromil tvé útočné a obranné schopnosti.
+tagEnemySkillD14_Desc=Ghúl, který tě otrávil, zároveň ochromil tvé útočné a obranné schopnosti.
 
 tagEnemySkillD15=Žravý přízrak
 tagEnemySkillD15_Desc=Přízrak vysává tvou duši a přečerpává tvůj život ve svůj prospěch.

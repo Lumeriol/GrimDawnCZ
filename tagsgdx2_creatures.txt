@@ -252,6 +252,8 @@ tagGDX2Pet_Item_EldritchLizard=Tajemný spár
 tagGDX2Pet_Item_EldritchShard=Tajemný střep
 tagGDX2Pet_Item_Mini=Korvanská potvůrka
 tagGDX2Pet_Item_Mini_Skill=Uplakánek
+tagGDX2Pet_Item_Maggot=Nebeská larva
+tagGDX2Pet_Item_Maggot_Skill=Zavíječ
 
 tagGDX2Pet_Devotion_BlackBlood=Yugolova černá krev
 
@@ -265,6 +267,9 @@ tagGDX2EnemySummon_EldritchRift=Tajemná Brána
 tagGDX2EnemySummon_EldritchThrone=Tajemný trůn
 tagGDX2EnemySummon_CelestialEffigy=Nebeská panenka
 tagGDX2EnemySummon_Dravis=Dravisův zajatec
+tagGDX2EnemySummon_FlameJet=Magmatický výbuch
+tagGDX2EnemySummon_Volcano=Sopka
+tagGDX2EnemySummon_LightningOrb=Kulová bouře
 
 
 #Boss&Quest
