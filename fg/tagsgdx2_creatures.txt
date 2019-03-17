@@ -1,0 +1,383 @@
+
+#CreatureFriendly
+
+tagGDX2FriendlyCultBysmiel_Guard01=Bysmielin kult ~ hlídkař
+tagGDX2FriendlyCultBysmiel_Guard02=Bysmielin kult ~ slídil
+
+tagGDX1FriendlyCultBysmiel_MeleeA01=Bysmielin kult ~ uchazeč
+tagGDX1FriendlyCultBysmiel_MeleeB01=Bysmielin kult ~ zabiják
+tagGDX1FriendlyCultBysmiel_RangeA01=Bysmielin kult ~ uchazeč, střelec
+tagGDX1FriendlyCultBysmiel_CasterB01=Bysmielin kult ~ okultista
+tagGDX1FriendlyCultBysmiel_CasterB02=Bysmielin kult ~ tkadlec
+tagGDX1FriendlyCultBysmiel_ChampionC01=Bysmielin kult ~ kněz
+
+tagGDX2FriendlyCultDreeg_Guard01=Dreegův kult ~ hlídkař
+tagGDX2FriendlyCultDreeg_Guard02=Dreegův kult ~ slídil
+
+tagGDX1FriendlyCultDreeg_MeleeA01=Dreegův kult ~ uchazeč
+tagGDX1FriendlyCultDreeg_MeleeB01=Dreegův kult ~ zabiják
+tagGDX1FriendlyCultDreeg_RangeA01=Dreegův kult ~ uchazeč, střelec
+tagGDX1FriendlyCultDreeg_CasterB01=Dreegův kult ~ okultista
+tagGDX1FriendlyCultDreeg_CasterB02=Dreegův kult ~ věštec
+tagGDX1FriendlyCultDreeg_ChampionC01=Dreegův kult ~ kněz
+
+tagGDX2FriendlyCultSolael_Guard01=Solaelův kult ~ hlídkař
+tagGDX2FriendlyCultSolael_Guard02=Solaelův kult ~ slídil
+
+tagGDX1FriendlyCultSolael_MeleeA01=Solaelův kult ~ uchazeč
+tagGDX1FriendlyCultSolael_MeleeB01=Solaelův kult ~ zabiják
+tagGDX1FriendlyCultSolael_RangeA01=Solaelův kult ~ uchazeč, střelec
+tagGDX1FriendlyCultSolael_CasterB01=Solaelův kult ~ okultista
+tagGDX1FriendlyCultSolael_CasterB02=Solaelův kult ~ ranhojič
+tagGDX1FriendlyCultSolael_ChampionC01=Solaelův kult ~ kněz
+
+
+#CreatureBeetle
+tagGDX2EnemyBeetleMaggot=Korvanská larva
+tagGDX2EnemyBeetleMaggot_Fire=Ohnivá larva
+tagGDX2EnemyBeetle_A00=Korvanský vruboun ~ nymfa
+tagGDX2EnemyBeetle_A01=Korvanský vruboun ~ mrchožrout
+tagGDX2EnemyBeetle_B01=Korvanský vruboun ~ polykač
+tagGDX2EnemyBeetle_B02=Korvanský vruboun ~ mládě
+tagGDX2EnemyBeetle_C01=Korvanský vruboun ~ obr
+
+tagGDX2HeroBeetle_H01=Riknix
+tagGDX2HeroBeetle_H02=Bargox
+tagGDX2HeroBeetle_H03=Sagrax ~ obránce
+tagGDX2HeroBeetle_H04=Mirg ~ odrážející
+
+
+#CreatureEldritchArmor
+tagGDX2EnemyArmor_A01=Posedlá zbroj
+tagGDX2EnemyArmor_B01=Tajemná zbroj
+tagGDX2EnemyArmor_C01=Starověká zbroj
+
+tagGDX2HeroArmor_H01=Arkinux
+tagGDX2HeroArmor_H02=Vlakinux
+tagGDX2HeroArmor_H03=Halganux ~ podporovatel
+tagGDX2HeroArmor_H04=Tilkinux ~ časová smyčka
+
+
+#CreatureEldritchHound
+tagGDX2EnemyEldritchHound_A01=Tajemný míšenec ~ zakrslík
+tagGDX2EnemyEldritchHound_B01=Tajemný míšenec ~ stopař
+tagGDX2EnemyEldritchHound_B02=Tajemný míšenec ~ strážce
+tagGDX2EnemyEldritchHound_C01=Tajemný míšenec ~ alfa samec
+
+tagGDX2HeroEldritchHound_H01=Vendrog
+tagGDX2HeroEldritchHound_H02=Železná tlama
+tagGDX2HeroEldritchHound_H03=Fervall ~ rychlý
+tagGDX2HeroEldritchHound_H04=Nosferantis ~ krvesaj
+
+
+#CreatureEldritchSpore
+tagGDX2EnemyEldritchSpore_A01=Jedovatý výtrus
+tagGDX2EnemyEldritchSpore_B01=Tajemný výtrus
+
+
+#CreatureEldritchWraith
+tagGDX2EnemyEldritchWraith_A01=Tajemný duch
+tagGDX2EnemyEldritchWraith_B01=Strašidelný tajemný duch
+tagGDX2EnemyEldritchWraith_C01=Pradávný tajemný duch
+
+tagGDX2HeroEldritchWraith_H01=Algandir
+tagGDX2HeroEldritchWraith_H02=Ulzaar
+tagGDX2HeroEldritchWraith_H03=Rygundir ~ odrážející
+tagGDX2HeroEldritchWraith_H04=Pazgadaar ~ obnovitel
+
+
+#CreatureGargoyle
+tagGDX2EnemyGargoyle_A01=Tajemný chrlič
+tagGDX2EnemyGargoyle_B01=Opuštěný chrlič
+tagGDX2EnemyGargoyle_C01=Starodávný chrlič
+
+tagGDX2HeroGargoyle_H01=Hudsar ~ zmrzlý
+tagGDX2HeroGargoyle_H02=Broagwan ~ nemocný
+tagGDX2HeroGargoyle_H03=Goliant ~ spalující
+tagGDX2HeroGargoyle_H04=Xanatan ~ elektrizující
+
+
+#CreatureGroble
+tagGDX2EnemyGroble_A01=Grobl ~ mrchožrout Korvanského klanu
+tagGDX2EnemyGroble_A02=Grobl ~ stopař Korvanského klanu
+tagGDX2EnemyGroble_B01=Grobl ~ válečník Korvanského klanu
+tagGDX2EnemyGroble_B02=Grobl ~ šaman Korvanského klanu
+tagGDX2EnemyGroble_C01=Grobl ~ šampión Korvanského klanu
+tagGDX2EnemyGroble_C02=Grobl ~ stařešina Korvanského klanu
+
+tagGDX2HeroGroble_H01=Galgar
+tagGDX2HeroGroble_H02=Nazbak
+tagGDX2HeroGroble_H03=Drollig ~ krvesaj
+tagGDX2HeroGroble_H04=Knol ~ rychlý
+
+
+#CreatureGryphon
+tagGDX2EnemyGryphon_A01=Gryf
+tagGDX2EnemyGryphon_B01=Gryf ~ písečný slídil
+tagGDX2EnemyGryphon_C01=Gryfí matriarcha
+
+tagGDX2HeroGryphon_H01=Dreadtalon
+tagGDX2HeroGryphon_H02=Rendtalon
+tagGDX2HeroGryphon_H03=Nezastavitelný vřískot
+tagGDX2HeroGryphon_H04=Houževnatý Juraz ~ obnovitel
+
+tagGDX2EnemyGryphonStone_A01=Kamenný gryf
+tagGDX2EnemyGryphonStone_B01=Kamenný gryf ~ strážce
+tagGDX2EnemyGryphonStone_C01=Kamenný gryf ~ ostražitý
+
+tagGDX2HeroGryphonStone_H01=Askazor ~ spalující
+tagGDX2HeroGryphonStone_H02=Isanzor ~ zmrzlý
+tagGDX2HeroGryphonStone_H03=Saprizor ~ elektrizující
+tagGDX2HeroGryphonStone_H04=Balganzor ~ nemocný
+
+
+#CreatureHumanKorvaak
+tagGDX2EnemyHumanKorvaak_A01=Korvaakův Vyvolený ~ zélóta
+tagGDX2EnemyHumanKorvaak_B01=Korvaakův Vyvolený ~ fanatik
+tagGDX2EnemyHumanKorvaak_C01=Korvaakův Vyvolený ~ plamenný posel
+
+tagGDX2HeroHumanKorvaak_H01=Everynn Plamenný jazyk
+tagGDX2HeroHumanKorvaak_H02=Havos Žhavá jiskra
+tagGDX2HeroHumanKorvaak_H03=Nivond Osvícený ~ podporovatel
+tagGDX2HeroHumanKorvaak_H04=Odvázaná Oolga ~ časová smyčka
+
+
+#CreatureKorvaakAscended
+tagGDX2EnemyKorvaakAscended_A01=Korvaakův stoupenec
+tagGDX2EnemyKorvaakAscended_B01=Korvaakův zuřivec
+tagGDX2EnemyKorvaakAscended_C01=Korvaakův šampión
+
+tagGDX2HeroKorvaakAscended_H01=Plagurius ~ nemocný
+tagGDX2HeroKorvaakAscended_H02=Špinavec Wauld ~ zmrzlý
+tagGDX2HeroKorvaakAscended_H03=Neuhasitelný Pandrith ~ nezastavitelný
+tagGDX2HeroKorvaakAscended_H04=Vengethor ~ odrážející
+
+
+#CreatureKorvaakServant
+tagGDX2EnemyKorvaakServant_A01=Korvaakův otrok
+tagGDX2EnemyKorvaakServant_B01=Korvaakův služebník
+tagGDX2EnemyKorvaakServant_C01=Korvaakův následník
+
+tagGDX2HeroKorvaakServant_H01=Nagalrok
+tagGDX2HeroKorvaakServant_H02=Garalrok
+tagGDX2HeroKorvaakServant_H03=Ordenrok ~ krvesaj
+tagGDX2HeroKorvaakServant_H04=Purganrok ~ alchymista
+
+
+#CreatureMummy
+tagGDX2EnemyMummy_A01=Vysušená mumie
+tagGDX2EnemyMummy_B01=Hnijící mumie
+tagGDX2EnemyMummy_C01=Mumie ~ darebák
+tagGDX2EnemyMummy_C02=Mumie ~ spalovač
+
+tagGDX2HeroMummy_H01=Annothar
+tagGDX2HeroMummy_H02=Tutenthon
+tagGDX2HeroMummy_H03=Imhonar ~ spalující
+tagGDX2HeroMummy_H04=Cassiana ~ časová smyčka
+
+
+#CreatureSandLizard
+tagGDX2EnemySandLizard_A00=Písečný ještěr ~ mládě
+tagGDX2EnemySandLizard_A01=Písečný ještěr
+tagGDX2EnemySandLizard_B01=Písečný ještěr ~ stahovač
+tagGDX2EnemySandLizard_B02=Písečný ještěr ~ strážce hnízda
+tagGDX2EnemySandLizard_C01=Písečná ještěrka ~ matriarcha
+
+tagGDX2HeroSandLizard_H01=Blazetalon
+tagGDX2HeroSandLizard_H02=Sanguirex
+tagGDX2HeroSandLizard_H03=Plagnius ~ nemocný
+tagGDX2HeroSandLizard_H04=Matriona ~ podporovatelka
+tagGDX2HeroSandLizard_H05=Velociir ~ rychlý
+tagGDX2HeroSandLizard_H06=Stromscale ~ elektrizující
+
+tagGDX2EnemySandLizardB_A01=Vypelichaný ještěr
+tagGDX2EnemySandLizardB_B01=Vypelichaný ještěr ~ stahovač
+tagGDX2EnemySandLizardB_B02=Vypelichaný ještěr ~ strážce hnízda
+tagGDX2EnemySandLizardB_C01=Vypelichaná ještěrka ~ matriarcha
+
+tagGDX2EnemySandLizardC_A01=Rozeklaný ještěr
+tagGDX2EnemySandLizardC_B01=Rozeklaný ještěr ~ stahovač
+tagGDX2EnemySandLizardC_B02=Rozeklaný ještěr ~ strážce hnízda
+tagGDX2EnemySandLizardC_C01=Rozeklaná ještěrka ~ matriarcha
+
+tagGDX2HeroSandLizardC_H01=Bizarris
+tagGDX2HeroSandLizardC_H02=Venillius
+tagGDX2HeroSandLizardC_H03=Nezastavitelný Wirgaun
+tagGDX2HeroSandLizardC_H04=Arcanex Štítonoš
+
+
+#CreatureScorpion
+tagGDX2EnemyScorpion_A01=Korvanský štír
+tagGDX2EnemyScorpion_B01=Korvanský štír ~ písečný plazivec
+tagGDX2EnemyScorpion_C01=Korvanský štír ~ smrtící bodač
+
+tagGDX2HeroScorpion_H01=Scarprinx, Požírač slunce
+tagGDX2HeroScorpion_H02=Garprinx, Požírač měsíce
+tagGDX2HeroScorpion_H03=Ragalprinx ~ rychlý
+tagGDX2HeroScorpion_H04=Eleprinx ~ elektrizující
+
+
+#CreatureStatue
+tagGDX2EnemyStatue_A01=Oživený strážce
+tagGDX2EnemyStatue_B01=Oživený pozorovatel
+tagGDX2EnemyStatue_B01B=Opařený oživený pozorovatel
+tagGDX2EnemyStatue_C01=Oživený ochránce
+
+tagGDX2HeroStatue_H01=Tyrox ~ časová smyčka
+tagGDX2HeroStatue_H02=Arcanis ~ alchymista
+tagGDX2HeroStatue_H03=Molteus ~ spalující
+tagGDX2HeroStatue_H04=Ezerog ~ zmrzlý
+
+
+#CreatureViper
+tagGDX2EnemyViper_A01=Korvanská zmije
+tagGDX2EnemyViper_B01=Korvanská zmije ~ písečný hlídkař
+tagGDX2EnemyViper_C01=Korvanská zmije ~ smrtící otrava
+
+tagGDX2HeroViper_H01=Zartox
+tagGDX2HeroViper_H02=Arashor
+tagGDX2HeroViper_H03=Serpentior ~ obnovitel
+tagGDX2HeroViper_H04=Cespal ~ alchymista
+
+
+
+
+#Pets
+tagGDX2Pet_CelestialGuardian01=Empyrionův služebník
+tagGDX2Pet_CelestialGuardian01B=Dreegův následovník
+
+tagGDX2Pet_Item_SandDevil01=Pouštní ďábel
+tagGDX2Pet_Item_EldritchSpider=Tajemný spřadač sítí
+tagGDX2Pet_Item_EldritchLizard=Tajemný spár
+tagGDX2Pet_Item_EldritchShard=Tajemný střep
+tagGDX2Pet_Item_Mini=Korvanská potvůrka
+tagGDX2Pet_Item_Mini_Skill=Uplakánek
+tagGDX2Pet_Item_Maggot=Nebeská larva
+tagGDX2Pet_Item_Maggot_Skill=Zavíječ
+
+tagGDX2Pet_Devotion_BlackBlood=Yugolova černá krev
+
+
+
+#EnemySummons
+tagGDX2EnemySummon_EldritchCrystal=Tajemný krystal
+tagGDX2EnemySummon_EldritchShard=Tajemný střep
+tagGDX2EnemySummon_SandTornado=Písečné tornádo
+tagGDX2EnemySummon_EldritchRift=Tajemná Brána
+tagGDX2EnemySummon_EldritchThrone=Tajemný trůn
+tagGDX2EnemySummon_CelestialEffigy=Nebeská panenka
+tagGDX2EnemySummon_Dravis=Dravisův zajatec
+tagGDX2EnemySummon_FlameJet=Magmatický výbuch
+tagGDX2EnemySummon_Volcano=Sopka
+tagGDX2EnemySummon_LightningOrb=Kulová bouře
+
+
+#Boss&Quest
+tagGDX2Quest_BysmielSummon_01=Atephův výplod
+tagGDX2Quest_WitchGodAlly=Svázaná příšera
+
+tagGDX2Boss_Dravis_01=Dravis, Uroboruukův syn
+tagGDX2Boss_TombGuardian_01=Správce hrobky
+tagGDX2Boss_Final01=Zjevení Korvaaka, Tajemného slunce
+tagGDX2Boss_FatherKymon=Otec Kymon, ztělesnění Korvaaka
+
+tagGDX2Boss_Special=Callagadra, následnice pouště
+tagGDX2Boss_Messenger=Okaloth ~ "Kurýr"
+
+tagGDX2Miniboss_Kymon_01=Bratr Segarius, Kymonův mstitel
+tagGDX2Miniboss_Kymon_02=Sestra Zrzka, Kymonova mstitelka
+tagGDX2Miniboss_Kymon_03=Ramzul, Osyrův velekněz
+
+tagGDX2Miniboss_Beast_01=Gannar'vakkar, král pouště
+tagGDX2Miniboss_Beast_02=Korvanský zabiják titánů
+tagGDX2Miniboss_Beast_03=Placatý ksicht, nejbrutálnější vůdce smečky
+tagGDX2Miniboss_Beast_04=Azaleon, Gryfí vládce
+tagGDX2Miniboss_Beast_05=Durg, za bouře zrozený
+tagGDX2Miniboss_Beast_06=Uhnívající Margul
+
+tagGDX2Quest_EldritchHound_01=Galfang, postrach noci
+tagGDX2Quest_EldritchHound_02=Galfangův ohař
+tagGDX2Quest_EldritchWraith_01=Okalothův odvážlivec
+tagGDX2Quest_EldritchLizard_01=Onarix, skrytý vrah
+tagGDX2Quest_EldritchArmor_01=Ishtal, zabiják myšlenek
+tagGDX2Quest_EldritchArmor_02=Ishtalův strážce
+tagGDX2Quest_EldritchScorpion=Šerý zabiják
+tagGDX2Quest_Human_BoundSpirts_01=Tirgan, šílený kněz
+tagGDX2Quest_Human_BoundSpirts_02=Nevázaný Tirgan
+tagGDX2Quest_Human_DreegUsurper_01=Uchvatitel Navan
+tagGDX2Quest_Human_MadWitch_01=Postižená Inarah
+tagGDX2Quest_Statue_TempleGuard_01=Otesasný kámen, chrámový strážce
+tagGDX2Quest_StoneGryphon_TempleGuard_02=Inashkor, chrámový strážce
+tagGDX2Quest_ChthonianRylock_01=Ketan'Thunn
+tagGDX2Quest_SolaelFaction=Bell'oq, Rahnův strážce
+tagGDX2Quest_SolaelFactionGuardian=Ochránce mapové místnosti
+
+#Nemesis
+tagGDX2Nemesis_Eldritch01=Kaisan, tajemný následovník
+
+#Devotion
+tagGDX2DevotionBeetle_H01=Riknithan
+tagGDX2DevotionBeetle_H02=Baroganx
+tagGDX2DevotionBeetle_H03=Sagaranx ~ obránce
+tagGDX2DevotionBeetle_H04=Mlargg ~ odrážející
+
+tagGDX2DevotionEldritchArmor_H01=Akanax
+tagGDX2DevotionEldritchArmor_H02=Volkanax
+tagGDX2DevotionEldritchArmor_H03=Hallanax ~ podporovatel
+tagGDX2DevotionEldritchArmor_H04=Tilkanax ~ časová smyčka
+
+tagGDX2DevotionEldritchHound_H01=Vengrall
+tagGDX2DevotionEldritchHound_H02=Titanjaw
+tagGDX2DevotionEldritchHound_H03=Ferantis ~ rychlý
+tagGDX2DevotionEldritchHound_H04=Noseferan ~ krvesaj
+
+tagGDX2DevotionEldritchWraith_H01=Alagandris
+tagGDX2DevotionEldritchWraith_H02=Ulzimaar
+tagGDX2DevotionEldritchWraith_H03=Rygonaunt ~ odrážející
+tagGDX2DevotionEldritchWraith_H04=Pazaguun ~ obnovitel
+
+tagGDX2DevotionGargoyle_H01=Hadsarin ~ zmrzlý
+tagGDX2DevotionGargoyle_H02=Bragwarr ~ nemocný
+tagGDX2DevotionGargoyle_H03=Golgant ~ spalující
+tagGDX2DevotionGargoyle_H04=Xanix ~ elektrizující
+
+tagGDX2DevotionGryphonStone_H01=Astranzor ~ spalující
+tagGDX2DevotionGryphonStone_H02=Isvanzor ~ zmrzlý
+tagGDX2DevotionGryphonStone_H03=Sarpanzor ~ elektrizující
+tagGDX2DevotionGryphonStone_H04=Bolvinzor ~ nemocný
+
+tagGDX2DevotionKorvaakAscended_H01=Bluguth ~ nemocný
+tagGDX2DevotionKorvaakAscended_H02=Skron ~ zmrzlý
+tagGDX2DevotionKorvaakAscended_H03=Nezastavitelný Pallondrin
+tagGDX2DevotionKorvaakAscended_H04=Reapnagal ~ odrážející
+
+tagGDX2DevotionKorvaakServant_H01=Nagnorok
+tagGDX2DevotionKorvaakServant_H02=Garunrok
+tagGDX2DevotionKorvaakServant_H03=Orgerok ~ krvesaj
+tagGDX2DevotionKorvaakServant_H04=Purigalrok ~ alchymista
+
+tagGDX2DevotionScorpion_H01=Scourpinx
+tagGDX2DevotionScorpion_H02=Karalinx
+tagGDX2DevotionScorpion_H03=Razgalinx ~ rychlý
+tagGDX2DevotionScorpion_H04=Elgandinx ~ elektrizující
+
+tagGDX2DevotionStatue_H01=Tyrgandor ~ časová smyčka
+tagGDX2DevotionStatue_H02=Arclossus ~ alchymista
+tagGDX2DevotionStatue_H03=Moltreax ~ spalující
+tagGDX2DevotionStatue_H04=Ezgannar ~ zmrzlý
+
+tagGDX2DevotionViper_H01=Zaranux
+tagGDX2DevotionViper_H02=Alrashar
+tagGDX2DevotionViper_H03=Serepin ~ oživovač
+tagGDX2DevotionViper_H04=Cesaprin ~ alchymista
+
+
+#Bounties
+tagGDX2BountyWG04=Ostropírko, gryfí matriarcha
+tagGDX2BountyWG05=Spalovač Varnox
+tagGDX2BountyWG06=Gallanor
+tagGDX2BountyWG07=Avronath
+tagGDX2BountyWG08=Hnusák Reynar
+tagGDX2BountyWG09=Keynen, Spálené srdce
+tagGDX2BountyWG10=Strážce Yaharum
+tagGDX2BountyWG11=Strážce Ulazor
