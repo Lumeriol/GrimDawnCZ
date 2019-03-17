@@ -1,0 +1,513 @@
+
+#CreatureFriendly
+
+tagGDX1FriendlyMalmouth_Guard01=Obránce Malmouthu ~ vyzyvatel
+tagGDX1FriendlyMalmouth_Guard02=Obránce Malmouthu ~ strážce
+
+tagGDX1FriendlyMalmouth_MeleeA01=Obránce Malmouthu ~ bojovník
+tagGDX1FriendlyMalmouth_MeleeB01=Obránce Malmouthu ~ ničitel
+tagGDX1FriendlyMalmouth_RangeA01=Obránce Malmouthu ~ střelec
+tagGDX1FriendlyMalmouth_CasterB01=Obránce Malmouthu ~ alchymista
+tagGDX1FriendlyMalmouth_CasterB02=Obránce Malmouthu ~ zdravotník
+tagGDX1FriendlyMalmouth_ChampionC01=Obránce Malmouthu ~ kapitán
+
+tagGDX1FriendlyCoven_Guard01=Tajný strážce
+tagGDX1FriendlyCoven_Guard02=Tajný zaklínač
+
+
+#CreatureFaction
+
+tagGDX1FactionCult_Guard_A01=Strážce z Barrowholm
+
+tagGDX1FactionCult_Melee_A01=Kult Wendigo ~ snaživec
+tagGDX1FactionCult_Ranged_A01=Kult Wendigo ~ uchazeč
+tagGDX1FactionCult_Caster_B01=Kult Wendigo ~ krvesaj
+tagGDX1FactionCult_Champion_C01=Kult Wendigo ~ vyvolený
+
+tagGDX1FactionCult_Hero_H01=Handaar, Krvavý spřadač
+tagGDX1FactionCult_Hero_H02=Jakala, Zpívající kost
+tagGDX1FactionCult_Hero_H03=Pokroucená Tridia
+tagGDX1FactionCult_Hero_H04=Verona, Krvavá malířka
+
+tagGDX1WendigoWard=Aktivní ochrana
+tagGDX1WendigoWard01=Zničená ochrana
+
+tagGDX1HumanFodder=Nepoddajný přeživší
+
+
+#CreatureAetherial
+tagGDX1EnemyAetherialBloater_A01=Aetherianská napuchlina
+tagGDX1EnemyAetherialBloater_B01=Aetherianský polykač žluči
+tagGDX1EnemyAetherialBloater_C01=Aetherianský chrlič
+
+tagGDX1EnemyAetherialColossus_A01=Aetherianský netvor
+tagGDX1EnemyAetherialColossus_B01=Aetherianský kolos
+tagGDX1EnemyAetherialColossus_C01=Aetherianský gigant
+tagGDX1EnemyAetherialColossus_C02=Aetherianský nosič bouří
+
+tagGDX1EnemyAetherialCorruption_A01=Masorvoucí zkaženec
+tagGDX1EnemyAetherialCorruption_B01=Masorvoucí chladič
+tagGDX1EnemyAetherialCorruption_B02=Masorvoucí buřichod
+tagGDX1EnemyAetherialCorruption_B03=Masorvoucí palič
+tagGDX1EnemyAetherialCorruption_C01=Masorvoucí blud
+
+tagGDX1EnemyAetherialFleshshaper_A01=Řezač těl
+tagGDX1EnemyAetherialFleshshaper_B01=Tělový tkáč
+tagGDX1EnemyAetherialFleshshaper_C01=Tělový architekt
+
+tagGDX1EnemyAetherialImp_A00=Aetherianský šplhoun
+tagGDX1EnemyAetherialImp_A01=Aetherianský uličník
+tagGDX1EnemyAetherialImp_B01=Aetherianský rarach
+
+tagGDX1EnemyAetherialSentry_A01=Aetherianský strážce
+tagGDX1EnemyAetherialSentry_B01=Aetherianská hlídka
+
+tagGDX1EnemyAetherialWorm_A00=Aetherianský střevník
+tagGDX1EnemyAetherialWorm_A01=Aetherianská přísavka
+tagGDX1EnemyAetherialWorm_B01=Aetherianský hnisožrout
+tagGDX1EnemyAetherialWorm_B02=Aetherianský požírač plamenů
+tagGDX1EnemyAetherialWorm_B03=Aetherianský ledožer
+tagGDX1EnemyAetherialWorm_B04=Aetherianský chlemtač deště
+
+tagGDX1HeroAetherialBloater_H01=Balgargol Moronosič
+tagGDX1HeroAetherialBloater_H02=Hauldros, Hořící žluč
+tagGDX1HeroAetherialBloater_H03=Fragh ~ zmrzlý
+tagGDX1HeroAetherialBloater_H04=Verkazol ~ krvesaj
+
+
+tagGDX1HeroAetherialColossus_H01=Bouřná pěst ~ elektrizující
+tagGDX1HeroAetherialColossus_H02=Embrallis ~ spalující
+tagGDX1HeroAetherialColossus_H03=Hungeron ~ krvesaj
+tagGDX1HeroAetherialColossus_H04=Archanis ~ alchymista
+
+tagGDX1HeroAetherialCorruption_H01=Challdrus, Ledové srdce
+tagGDX1HeroAetherialCorruption_H02=Nenasytný Vanallius
+tagGDX1HeroAetherialCorruption_H03=Nemocný Disallus
+tagGDX1HeroAetherialCorruption_H04=Chromallus ~ časová smyčka
+
+tagGDX1HeroAetherialFleshshaper_H01=Frenazad ~ spalující
+tagGDX1HeroAetherialFleshshaper_H02=Noxraderad ~ zmrzlý
+tagGDX1HeroAetherialFleshshaper_H03=Joxallus ~ elektrizující
+tagGDX1HeroAetherialFleshshaper_H04=Oppressius ~ nezastavitelný
+
+tagGDX1HeroAetherialImp_H01=Phigillius Rozbouřená žluč
+tagGDX1HeroAetherialImp_H02=Phanolg, Ledozraj
+tagGDX1HeroAetherialImp_H03=Wourble ~ odrážející
+tagGDX1HeroAetherialImp_H04=Ghalbar ~ obnovitel
+
+tagGDX1HeroAetherialTheodin=Theodinův tvůrce
+
+
+#CreatureBasilisk
+tagGDX1EnemyBasilisk_A01=Mládě baziliška
+tagGDX1EnemyBasilisk_B01=Jed plivající bazilišek
+tagGDX1EnemyBasilisk_C01=Zkameňující bazilišek
+
+tagGDX1HeroBasilisk_H01=Bouřlivý plazivec
+tagGDX1HeroBasilisk_H02=Hnijící tlama
+tagGDX1HeroBasilisk_H03=Aregos ~ zkažený
+tagGDX1HeroBasilisk_H04=Ranaxus ~ dotčený Prázdnotou
+
+
+#CreatureChthonian
+tagGDX1EnemyChthonicCultistSpecial_A01=Stoupenec ochránců bran
+
+tagGDX1EnemyChthonianWretch_A01=Slídil Prázdnoty
+tagGDX1EnemyChthonianWretch_B01=Moronosný slídil Prázdnoty
+tagGDX1EnemyChthonianWretch_C01=Nakažený slídil Prázdnoty
+
+tagGDX1EnemyChthonianRylok_A01=Zadavatel Prázdnoty
+tagGDX1EnemyChthonianRylok_B01=Korporál Prázdnoty
+tagGDX1EnemyChthonianRylok_C01=Utlačovatel Prázdnoty
+
+tagGDX1EnemyChthonianServitor_A01=Chthonský trubec
+tagGDX1EnemyChthonianServitor_B01=Chthonský sloužící
+tagGDX1EnemyChthonianServitor_B02=Chthonský sklizeč
+tagGDX1EnemyChthonianServitor_C01=Chthonský strážce krve
+
+tagGDX1HeroChthonianRylok_H01=Wallon'Aldos, Nositel Prázdnoty
+tagGDX1HeroChthonianRylok_H02=Odus'Aldos ~ rychlý
+tagGDX1HeroChthonianRylok_H03=Rydal'Aldos ~ krvesaj
+tagGDX1HeroChthonianRylok_H04=Haval'Aldos ~ alchymista
+
+tagGDX1HeroChthonianServitor_H01=Metasis'Mal, čarodějná krev
+tagGDX1HeroChthonianServitor_H02=Trýznitel Olithot'Mal
+tagGDX1HeroChthonianServitor_H03=Gawok'Mal ~ elektrizující
+tagGDX1HeroChthonianServitor_H04=Yakwa'Mal ~ alchymista
+
+
+#CreatureAscended
+tagGDX1EnemyAscended_A01=Lezec - hlídač
+tagGDX1EnemyAscended_A02=Lezec - dozorce
+tagGDX1EnemyAscended_B01=Lezec - lamač kouzel
+tagGDX1EnemyAscended_C01=Lezec - stoupenec
+
+tagGDX1HeroAscended_H01=Pavros Undylon, ohňohubec
+tagGDX1HeroAscended_H02=Hagras Aetherický plamen
+tagGDX1HeroAscended_H03=Ounasteria Dotek bouře ~ elektrizující
+tagGDX1HeroAscended_H04=Ullana Věčný mráz ~ zmrzlá
+
+
+#CreatureLivingPlant
+tagGDX1EnemyLivingPlant_A00=Jedovaté úponky
+tagGDX1EnemyLivingPlant_A01=Masožravá rostlina
+tagGDX1EnemyLivingPlant_A02=Žahavá rostlina
+tagGDX1EnemyLivingPlant_B00=Otrávený květ
+tagGDX1EnemyLivingPlant_B01=Žravý podrost
+
+tagGDX1HeroLivingPlant_H01=Krvežížnivý květ
+tagGDX1HeroLivingPlant_H02=Žahající květ
+tagGDX1HeroLivingPlant_H03=Světélkující kvítek ~ elektrizující
+tagGDX1HeroLivingPlant_H04=Prudce jedovatý podrost ~ nakažený
+
+
+#CreatureSlith
+tagGDX1Enemy_SlithWarriorA01=Krvošupinný válečník
+tagGDX1Enemy_SlithWarriorB01=Krvošupinný zběsilec
+tagGDX1Enemy_SlithWarriorC01=Krvošupinný dobyvatel
+tagGDX1Enemy_SlithShamanB01=Krvošupinný šaman
+tagGDX1Enemy_SlithShamanC01=Krvošupinný černokněžník
+
+tagGDX1HeroSlith_H01=Tuvalliss, Aetherická bouře
+tagGDX1HeroSlith_H02=Jarllass, hledač krve
+tagGDX1HeroSlith_H03=Phalaxna ~ přívrženkyně
+tagGDX1HeroSlith_H04=Nezastavitelný Slixiss
+
+
+#CreatureSwampCrab
+tagGDX1EnemySwampCrab_A01=Ugdenský krab
+tagGDX1EnemySwampCrab_B01=Ugdenský ostnatý korýš
+tagGDX1EnemySwampCrab_C01=Ugdenský kamenný korýš
+tagGDX1EnemySwampCrab_A00Summon=Ugdenský korýšovec
+
+tagGDX1EnemyGhostCrab_A01=Strašidelný krab
+tagGDX1EnemyGhostCrab_B01=Strašidelný ostnatý korýš
+tagGDX1EnemyGhostCrab_C01=Strašidelný kamenný korýš
+
+tagGDX1HeroSwampCrab_H01=Ledňáček
+tagGDX1HeroSwampCrab_H02=Špinavý dráp
+tagGDX1HeroSwampCrab_H03=Vrhač bláta ~ odrážející
+tagGDX1HeroSwampCrab_H04=Zmatený korýš ~ dotčený Prázdnotou
+
+tagGDX1HeroGhostCrab_H01=Foll Spálená ulita
+tagGDX1HeroGhostCrab_H02=Goll Sežehlá ulita
+tagGDX1HeroGhostCrab_H03=Mudrock ~ obránce
+tagGDX1HeroGhostCrab_H04=Rozbitá ulita ~ zkažený
+
+tagGDX1EnemyMineCrab=Ugdenský důlní červivec
+
+#CreatureSwampGolem
+tagGDX1EnemySwampGolem_A01=Ugdenský golem
+tagGDX1EnemySwampGolem_B01=Ugdenský vrhač mechů
+tagGDX1EnemySwampGolem_C01=Ugdenský obřík
+
+tagGDX1HeroSwampGolem_H01=Ferrosius ~ rychlý
+tagGDX1HeroSwampGolem_H02=Titanius Železná košile ~ obránce
+tagGDX1HeroSwampGolem_H03=Chorý Jormundur
+tagGDX1HeroSwampGolem_H04=Garrl ~ dotčený Prázdnotou
+
+
+#CreatureWendigo
+tagGDX1EnemyHumanWendigo_A01=Ugdenský lidožrout ~ posedlý masem
+tagGDX1EnemyHumanWendigo_B01=Ugdenský lidožrout ~ krvavý pěvec
+tagGDX1EnemyHumanWendigo_C01=Ugdenský lidožrout ~ vyvolavač duchů
+
+tagGDX1EnemyWendigo_A01=Wendigo
+tagGDX1EnemyWendigo_B01=Wendigo ~ stahovač
+tagGDX1EnemyWendigo_B02=Wendigo ~ vyžírač morku
+tagGDX1EnemyWendigo_C01=Wendigo ~ stařešina
+
+tagGDX1EnemyWendigoCannibal_A01=Ugdenský nešťastník
+tagGDX1EnemyWendigoCannibal_A02=Ugdenský mizera
+tagGDX1EnemyWendigoCannibal_B01=Ugdenský umrlec
+tagGDX1EnemyWendigoCannibal_C01=Ugdenský značkovač
+
+tagGDX1EnemyWendigoCannibal_Special01=Silvie
+tagGDX1EnemyWendigoCannibal_Special02=Nuana
+
+tagGDX1HeroHumanWendigo_H01=Javos, lamač kostí
+tagGDX1HeroHumanWendigo_H02=Tollia, rozeklaný jazyk
+tagGDX1HeroHumanWendigo_H03=Ignafius, vzývač krve ~ alchymista
+tagGDX1HeroHumanWendigo_H04=Žíznivá Bellia ~ krvesaj
+
+tagGDX1HeroWendigo_H01=Vollarius ~ alchymista
+tagGDX1HeroWendigo_H02=Nakažený Anaxius
+tagGDX1HeroWendigo_H03=Waraplius, hybač času
+tagGDX1HeroWendigo_H04=Nezastavitelný Ravagrad
+
+tagGDX1HeroWendigoCannibal_H01=Žhavá Ulda
+tagGDX1HeroWendigoCannibal_H02=Krvežíznivá Haldra
+tagGDX1HeroWendigoCannibal_H03=Palros, Ochránce smečky ~ obránce
+tagGDX1HeroWendigoCannibal_H04=Nepohřbený Allcadius ~ odrážející
+
+
+#CreatureWraith
+tagGDX1EnemyWraith_A01=Zjevení
+tagGDX1EnemyWraith_B01=Zlomyslné zjevení
+tagGDX1EnemyWraith_C01=Pradávné zjevení
+
+tagGDX1HeroWraith_H01=Arcanom, zloděj duší
+tagGDX1HeroWraith_H02=Obliterus
+tagGDX1HeroWraith_H03=Tildoom ~ hybač času
+tagGDX1HeroWraith_H04=Hladovějící Sulvar ~ krvesaj
+
+
+#CreatureYetiSwamp
+
+tagGDX1EnemyYetiSwampA01=Listohřívný surovec
+tagGDX1EnemyYetiSwampB01=Listohřívný vztekloun
+tagGDX1EnemyYetiSwampB02=Listohřívný hnilodech
+tagGDX1EnemyYetiSwampC01=Listohřívný alfa samec
+
+tagGDX1YetiSwampHeroH01=Chrlič hniloby
+tagGDX1YetiSwampHeroH02=Kostěný skřipec
+tagGDX1YetiSwampHeroH03=Shnilá krev ~ krvesaj
+tagGDX1YetiSwampHeroH04=Aetherický hřívnatec ~ zkažený
+
+#CreatureBeastRoguelike
+tagGDX1EnemyBasiliskAetherA01=Aetherický bazilišek s rozeklaným jazykem
+tagGDX1EnemyBasiliskAetherB01=Aetherický zírající bazilišek
+tagGDX1EnemyBasiliskAetherC01=Aetherický krvavý bazilišek
+
+tagGDX1EnemyBasiliskChthonicA01=Bazilišek s rozeklaným jazykem dotčený Prázdnotou
+tagGDX1EnemyBasiliskChthonicB01=Zírající bazilišek dotčený Prázdnotou
+tagGDX1EnemyBasiliskChthonicC01=Krvavý bazilišek dotčený Prázdnotou
+
+tagGDX1EnemyBoarChthonicB01=Prasák
+tagGDX1EnemyBoarChthonicC01=Gigantický prasák
+
+tagGDX1EnemyManticoreChthonicA01=Mantikora dotčená Prázdnotou
+tagGDX1EnemyManticoreChthonicB01=Odpadkář dotčený Prázdnotou
+tagGDX1EnemyManticoreChthonicC01=Alfa samec dotčený Prázdnotou
+
+tagGDX1EnemyManticoreD01=Mantikoří smrtihlav
+
+tagGDX1EnemySwampCrabAetherA01=Masorvoucí krab
+tagGDX1EnemySwampCrabAetherB01=Masorvoucí ostnatý korýš
+tagGDX1EnemySwampCrabAetherC01=Masorvoucí kamenný korýš
+
+tagGDX1EnemyThornedHorrorAetherA01=Aetherem proklatá zděšení
+tagGDX1EnemyThornedHorrorAetherB01=Aetherem proklatá postrach
+tagGDX1EnemyThornedHorrorAetherC01=Aetherem proklatá zrůdnost
+
+tagGDX1EnemyYetiChthonicB01=Prázdnohřívný zuřivec
+tagGDX1EnemyYetiChthonicB02=Prázdnohřívný krvodech
+tagGDX1EnemyYetiChthonicC01=Prázdnohřívný alfa samec
+
+
+#CreatureTraps
+
+tagGDX1EnemyTrapA01=Ugdenský mrak plynu
+tagGDX1EnemyTrapA02=Ugdenská houba
+
+
+#Pets
+
+tagGDX1PetArcaneSeal=Tajemná pečeť
+tagGDX1PetConcussiveRune=Roztřesená runa
+tagGDX1PetIceRune=Mrazotvorná runa
+tagGDX1PetManticore02=Smrtihlav
+
+tagGDX1PetBlightBeast=Marnivá potvora
+tagGDX1PetBlightBeastB=Nestabilní anomálie
+tagGDX1PetMaggot=Larva
+tagGDX1PetWraith=Rozeklané zjevení
+tagGDX1PetSkeleton01=Kosterní válečník
+tagGDX1PetSkeleton01b=Kosterní lukostřelec
+tagGDX1PetSkeleton01c=Kosterní alchymista
+tagGDX1PetSkeleton01d=Kosterní přízrak
+
+tagGDX1DevotionPet_ArcaneCurrent=Proud energie
+
+tagGDX1ItemPetGhostCrab=Duch kraba
+tagGDX1ItemPetSkeletalGolem=Kosterní služebník
+tagGDX1ItemPetWraith=Svázané zjevení
+tagGDX1ItemPetKasparov=Čistý křišťál
+tagGDX1ItemPetHargate=Aetherický krystal
+tagGDX1ItemPetKasparovSkill=Krystalizace
+tagGDX1ItemPetFireDevil=Oharek
+tagGDX1ItemPetFireDevil_Skill=Živoucí plamen
+tagGDX1ItemPetBloodWraith=Duše lorda Nazarana
+tagGDX1ItemPetBloodWraith_Skill=Upíří dotyk
+tagGDX1ItemPetBloodWraith_Skill02=Upíří přítomnost
+tagGDX1ItemPetBloodSkeleton=Služebník z krvavých lázní
+tagGDX1ItemPetBloodSkeleton_Skill=Krvavý obřad
+
+#EnemySummons
+
+tagGDX1EnemySummon_ObsidianBeacon=Obsidiánový sloup
+tagGDX1EnemySummon_AetherialSpirit=Aetherianský duch
+tagGDX1EnemySummon_BurningBlood=Spalující krev
+
+
+#Boss&Quest
+
+tagGDX1Boss_FactoryGuardian01=Hagalvar, obchodník s kostmi
+tagGDX1Boss_FactoryGuardian02=Rodalgar, sběratel mrtvol
+tagGDX1Boss_Final01=Mistrovský řezník ~ Theodin Marcell
+
+tagGDX1Boss_Aetherial01=Masorvoucí Krieg
+tagGDX1Boss_Aetherial02=Allostria, zlodějka myšlenek
+tagGDX1Boss_Aetherial03=Bollag, strážce brány
+tagGDX1Boss_Aetherial04=Haraxis, trhač masa
+
+tagGDX1MiniBoss_Aetherial01=Hinissius, půlič
+tagGDX1MiniBoss_Aetherial02=Galakros Hora
+tagGDX1MiniBoss_Aetherial03=Terrnox
+tagGDX1MiniBoss_Aetherial04=Valaxteria
+tagGDX1MiniBoss_Aetherial05=Hagarond
+tagGDX1MiniBoss_Aetherial06=Agalgaraz
+tagGDX1MiniBoss_Aetherial07=Igilvur, půlič
+tagGDX1MiniBoss_Aetherial08=Dralgar, strážce Burrwitche
+
+tagGDX1MiniBoss_Bog01=Kra'vall, starověký vodnář
+tagGDX1MiniBoss_Bog01_Tentacle01=Kra'vallovo chapadlo
+tagGDX1MiniBoss_Bog01_Tentacle02=Kra'vallovo chapadlo
+tagGDX1MiniBoss_Bog02=Sylvarria, Královna Podrostu
+tagGDX1MiniBoss_Bog02_Vine01=Sylvarriin úponek
+tagGDX1MiniBoss_Bog02_Vine02=Sylvarriin úponek
+tagGDX1MiniBoss_Bog02_VineCluster=Chomáč úponků
+tagGDX1MiniBoss_Bog03=Ugdall, Hněv Ugdenbogu
+tagGDX1MiniBoss_Bog04=Zrádkyně Janaxia
+tagGDX1MiniBoss_Bog05=Zaklínačka Larria
+tagGDX1MiniBoss_Bog06=Bargoll, Hromada hnoje
+tagGDX1MiniBoss_Bog07=Falešný Carraxus
+tagGDX1MiniBoss_Bog08=Lapené zjevení
+tagGDX1MiniBoss_Bog09=Avris Morkonosička
+tagGDX1MiniBoss_Bog10=Naxen Stínadlo
+tagGDX1MiniBoss_Bog11=Scorv, služebník Pustošitele
+
+tagGDX1MiniBoss_Bog12=Alya Dugald
+tagGDX1MiniBoss_Bog13=Phris Dugald
+tagGDX1MiniBoss_Bog14=Neak Dugald
+
+tagGDX1WitchBoss_Basilisk=Kamenný bazilišek
+tagGDX1WitchBoss_Spirit=Zhýralá duše
+
+tagGDX1Boss_Chthonian01=Lunal'Valgoth, správce Temnot
+tagGDX1Boss_Chthonian02=Ekket'Zul, tvůrce Temnot
+
+tagGDX1MiniBoss_Chthonian01=Gabal'Thunn, Šílená tvář
+
+tagGDX1MiniBoss_Chthonian02=Rakka'Valgoth, hltač tkáně
+
+tagGDX1Boss_Wendigo01=Likvidátor myšlenek
+tagGDX1Boss_Wendigo02=Likvidátor duší
+tagGDX1Boss_Wendigo03=Likvidátor těl
+tagGDX1Boss_Wendigo04=Namadea Píšťalka
+
+tagGDX1MiniBoss_Wendigo01=Handarroth
+tagGDX1MiniBoss_Wendigo02=Ollivioth
+tagGDX1MiniBoss_Wendigo03=Yuvolloth
+tagGDX1MiniBoss_Wendigo04=Packla zvaná Točna
+
+tagGDX1Boss_Roguelike01=Slathsarr, Oko Aetheru
+tagGDX1Boss_Roguelike02=Ragarroth Otloukánek
+tagGDX1Boss_Roguelike03=Gargabol, Srdce divočiny
+tagGDX1Boss_Roguelike04=Gulgazor
+tagGDX1Boss_Roguelike05=Vilgazor
+
+tagGDX1EnclaveBoss01=Dreven Cole
+tagGDX1EnclaveBoss02=Alberran Rein
+tagGDX1EnclaveBoss03=Cyrian Marcan
+
+tagGDX1DravisBoss01=Bandragos, Dravisův zajatec
+tagGDX1DravisThrall01=Dravisův přisluhovač
+tagGDX1DravisThrall02=Dravisův posluhovač
+
+
+#Nemesis
+tagGDX1Nemesis_Aetherial01=Arcimág Aleksander
+tagGDX1Nemesis_Aetherial01_Crystal=Aleksandrův střep
+tagGDX1Nemesis_Chthonian01=Grava'Thul, chlemtač Prázdnoty
+tagGDX1Nemesis_Beast01=Kubacabra, Nekonečná hrozba
+tagGDX1Nemesis_Beast01B=Trpělivá Kubacabra
+tagGDX1Nemesis_Beast01C=Houževnatá Kubacabra
+tagGDX1Nemesis_Wendigo01=Žnec Ztracených
+
+tagGDX1Nemesis_Plant=Zárodek všeho zla
+tagGDX1Nemesis_NotClone=Toto není klon Johna Bourbona
+tagGDX1Nemesis_Zombie=Plápolající modřina
+
+
+
+#Devotion
+tagGDX1DevotionAetherialBloater_H01=Barrthnas, Zárodek moru
+tagGDX1DevotionAetherialBloater_H02=Ignos
+tagGDX1DevotionAetherialBloater_H03=Frozdar ~ mrazivý
+tagGDX1DevotionAetherialBloater_H04=Draklon ~ krvesaj
+
+tagGDX1DevotionAetherialColossus_H01=Thunderfist ~ elektrizující
+tagGDX1DevotionAetherialColossus_H02=Infernox ~ spalující
+tagGDX1DevotionAetherialColossus_H03=Oblaigon ~ krvesaj
+tagGDX1DevotionAetherialColossus_H04=Speldrakus ~ alchymista
+
+tagGDX1DevotionAetherialCorruption_H01=Palivec
+tagGDX1DevotionAetherialCorruption_H02=Naragon, Lovec lidí
+tagGDX1DevotionAetherialCorruption_H03=Nemocný Peuglis
+tagGDX1DevotionAetherialCorruption_H04=Tirendal, Chodec v čase
+
+tagGDX1DevotionAetherialFleshshaper_H01=Filnaderzad ~ spalující
+tagGDX1DevotionAetherialFleshshaper_H02=Mrazivý Noxus
+tagGDX1DevotionAetherialFleshshaper_H03=Karthallas ~ rychlý
+tagGDX1DevotionAetherialFleshshaper_H04=Neporazitelný Porendallos
+
+tagGDX1DevotionBasilisk_H01=Lagarslin Bouřlivák
+tagGDX1DevotionBasilisk_H02=Jedovec
+tagGDX1DevotionBasilisk_H03=Colplur ~ zkažený
+tagGDX1DevotionBasilisk_H04=Volaxius ~ dotčený Prázdnotou
+
+tagGDX1DevotionChthonianRylok_H01=Balg'Gawtok, nositel Prázdnoty
+tagGDX1DevotionChthonianRylok_H02=Garu'Doth ~ rychlý
+tagGDX1DevotionChthonianRylok_H03=Zuuth'Aglathon ~ krvesaj
+tagGDX1DevotionChthonianRylok_H04=Nurdul'Siin ~ alchymista
+
+tagGDX1DevotionChthonianServitor_H01=Ishthu'Gal Ztuhlá krev
+tagGDX1DevotionChthonianServitor_H02=Lank'Zuul Mučitel
+tagGDX1DevotionChthonianServitor_H03=Ukog'Dal ~ elektrizující
+tagGDX1DevotionChthonianServitor_H04=Unatu'Ukog ~ alchymista
+
+tagGDX1DevotionSwampCrab_H01=Ledový dráp
+tagGDX1DevotionSwampCrab_H02=Hořký dráp
+tagGDX1DevotionSwampCrab_H03=Kameňák ~ odrážející
+tagGDX1DevotionSwampCrab_H04=Neulita ~ dotčený Prázdnotou
+
+tagGDX1DevotionSwampGolem_H01=Padavka ~ rychlý
+tagGDX1DevotionSwampGolem_H02=Phanatos ~ obránce
+tagGDX1DevotionSwampGolem_H03=Chorý Gigartus
+tagGDX1DevotionSwampGolem_H04=Rawk ~ dotčený Prázdnotou
+
+tagGDX1DevotionWendigo_H01=Hegamon ~ alchymista
+tagGDX1DevotionWendigo_H02=Zkažený Colporrus
+tagGDX1DevotionWendigo_H03=Prokletý přízrak ~ chodec v čase
+tagGDX1DevotionWendigo_H04=Reapressad ~ nezastavitelný
+
+tagGDX1DevotionWraith_H01=Nadávající duše
+tagGDX1DevotionWraith_H02=Oblegon
+tagGDX1DevotionWraith_H03=Dolsarr ~ chodec v čase
+tagGDX1DevotionWraith_H04=Endearon ~ krvesaj
+
+
+
+
+#Bounties
+tagGDX1BountyCU04=Vanoxxis Žluva
+tagGDX1BountyCU05=Crognoth, Hořící předvoj
+tagGDX1BountyCU06=Habnor, Vyvolený Prázdnoty
+tagGDX1BountyCU07=Silancar Nakažený
+tagGDX1BountyCU08=Mrazoklep
+tagGDX1BountyCU09=Nenasytný Vagarroth
+
+tagGDX1BountyCW04=Dar'Vagol - Magický dráp
+tagGDX1BountyCW05=Rhidal'Gulvor - Krev bouře
+tagGDX1BountyCW06=Swillius
+tagGDX1BountyCW07=Polterrios
+tagGDX1BountyCW08=Vladris
+tagGDX1BountyCW09=Yoknar
+
+tagGDX1BountyPM05=Bluggraag Spálený výblitek
+tagGDX1BountyPM06=Bouřný titán
+tagGDX1BountyPM07=Blazragarus
+tagGDX1BountyPM08=Torraxsteria
+
+

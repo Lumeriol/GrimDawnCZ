@@ -1,0 +1,73 @@
+Kory, strážce.
+Vítej, [[ms]můj příteli[fs]má přítelkyně]! Viděl jsem tě již někdy předtím? Možná jsme se potkali... někde na cestě? Kory je mé jméno. Jsem cestovatel... obchodník... strážce tajemna. Bývaly časy kdy... no... na tom nesejde. Cestoval jsem daleko, vždy ve stínu.
+To je zváštní kabát, který nosíš...
+Ach, vskutku... je na něm značka hulváta. Býval jsem dobrodruh tak jako ty, kdysi dávno...
+(získej iluzi Hulvátova kabátu)
+Ach, vskutku... je na něm značka hulváta. Býval jsem dobrodruh tak jako ty, kdysi dávno...{^n}{^n}Ale vždyť už máš tento úžasný předmět také.
+Pravda, tento kabát už mám.
+*Skrytě si potřásáte rukou*
+*Kory šeptá*{^n}{^n}Vítej, [[ms]bratře[fs]sestro]. Věčnou bdělost.
+(získej iluzi Prachové paruky)
+*Kory šeptá*{^n}{^n}Vítej, [[ms]bratře[fs]sestro]. Věčnou bdělost.{^n}{^n}Ale vždyť už máš tento úžasný předmět také.
+Pravda, tuhle paruku už mám.
+Máš zájem o drink?
+*Kory pozvedne lahev Burrwitchského dryáku*{^n}{^n}Na tvé zdraví!
+(získej Burrwitchský dryák)
+*Kory pozvedne lahev Burrwitchského dryáku*{^n}{^n}Na tvé zdraví!{^n}{^n}Doufám, že pijeme to samé.
+Samozřejmě, pijeme stejnou břečku.
+Co to září ve tvé kapse?
+Co, tohle?{^n}{^n}*Kory vyndá nádobu s vířící se modrou září*{^n}{^n}To, [[ms]můj příteli[fs]má přítelkyně], je Polapená bludička. Je užitečná na temných místech.
+(získej Polapenou bludičku)
+Co, tohle?{^n}{^n}*Kory vyndá nádobu s vířící se modrou září*{^n}{^n}To, [[ms]můj příteli[fs]má přítelkyně], je Polapená bludička. Ale vždyť už máš jednu takovou.
+Pravda, tuhle bludičku už mám.
+Máš nějaké válečné medaile?
+Troufám si říct, že jsem zasloužilý válečný veterán.{^n}{^n}Která z nich tě zajímá?
+Co tahle zlatá?
+Ale, ty seš veterán ze starých válek, jak tak pozoruju.{^n}{^n}Tumáš, za svou letitou podporu si ji zasloužíš.{^n}{^n}*Kory zasalutuje*
+(získej předmět Mecenášova sláva)
+Ale, ty seš veterán ze starých válek, jak tak pozoruju.{^n}{^n}*Kory zasalutuje*{^n}{^n}Tohle vyznamenání sis jistě [[ms]vysloužil[fs]vysloužila] za chrabrou službu.
+(zasalutovat)
+Co tahle oranžová?
+No ne, tys také [[ms]sloužil[fs]sloužila] ve velké Kickstarterské válce roku 2012?{^n}{^n}Tumáš, zasloužíš si ji.{^n}{^n}*Kory zasalutuje*
+(získej Medaili úslužnosti Kickstarteru)
+No ne, tys také [[ms]sloužil[fs]sloužila] ve velké Kickstarterské válce roku 2012?{^n}{^n}*Kory zasalutuje*{^n}{^n}Tuhle medaili sis jistě [[ms]vysloužil[fs]vysloužila].
+(zasalutovat)
+Co tahle zelená?
+Že ty seš veterán velké Kickstarterské války roku 2012?{^n}{^n}Ta medaile patří tobě.{^n}{^n}*Kory zasalutuje*
+(získej Veteránskou medaili Kickstarteru)
+Že ty seš veterán velké Kickstarterské války roku 2012?{^n}{^n}*Kory zasalutuje*{^n}{^n}Tuhle medaili sis jistě [[ms]vysloužil[fs]vysloužila].
+(zasalutovat)
+Co tahle s těmi drahokamy?
+Nejseš ty důstojník z velké Kickstarterské války roku 2012?{^n}{^n}Tak to si zasloužíš tuhle medaili.{^n}{^n}*Kory zasalutuje*
+(získej Důstojnickou medaili Kickstarteru)
+Nejseš ty důstojník z velké Kickstarterské války roku 2012?{^n}{^n}*Kory zasalutuje*{^n}{^n}Tuhle medaili sis jistě [[ms]vysloužil[fs]vysloužila].
+(zasalutovat)
+Jak skvělá pokrývka hlavy!
+Ano, mám skutečně dobrý výběr.{^n}{^n}Co se ti líbí nejvíc?
+Řekni, co je zač tahle fajnová čepice?
+Pro tebe je prostě perfektní!
+(získej iluzi Admirálské čapky)
+Pro tebe je prostě perfektní!
+Pravda, jednu takovou čapku už z pochopitelných důvodů mám.
+Ta helma vypadá dost draze.
+Kdysi byla nošena významným generálem.{^n}{^n}Jsem si ale jist, že by u tebe byla v dobrých rukách.
+(získej iluzi Helmy jižanského generála)
+Kdysi byla nošena významným generálem.{^n}{^n}Jsem si ale jist, že se o ní dobře postaráš.
+Pravda, takovou helmu už mám.
+Tohle vypadá dravě.
+Ano. Patřila mé babičce.{^n}{^n}Bůh dej klidu její duši.{^n}{^n}Dobře se o ni starej.
+(získej iluzi Nájezdníkovy strašidelné helmy)
+Ano. Patřila mé babičce.{^n}{^n}Bůh dej klidu její duši.{^n}{^n}Předpokládám, že se o ni dobře staráš.
+Pravda, takovou helmu už mám.
+Tahle helma inspiruje.
+Takových se tady v okolí moc nevidí. Patřila jednomu velmi zkušenému válečníkovi. {^n}{^n}Doufám, že máš vůbec právo ji nosit.
+(získej iluzi Helmy ctihodného válečníka)
+Takových se tady v okolí moc nevidí. Patřila jednomu velmi zkušenému válečníkovi. {^n}{^n}Doufám, že máš vůbec právo ji nosit.
+Pravda, takovou helmu už mám.
+Už mám těch iluzí po krk.
+Už dál nemluv. Prostě ti něco dám.
+(získej předmět Rozplývající se iluze)
+Pak vše kompletně vyčisti Rozplývající se iluzí!
+Vskutku, jeden takový předmět už mám.
+Ehm, dobře. Sbohem.
+[[ms]Přál[fs]Přála] bych si znovu vidět události ohledně pevnosti Ikon. (přehraj video)
