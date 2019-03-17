@@ -1,0 +1,134 @@
+ItemDB_tagItemDB=Grim Dawn - databáze předmětů
+
+# Menu
+ItemDB_tagMenuLanguage=Jazyk
+ItemDB_tagMenuSettings=Nastavení
+ItemDB_tagMenuItemAttributes=Vlastnosti předmětu
+ItemDB_tagMenuItemAttributesAverage=Zobrazit průměrné hodnoty
+ItemDB_tagMenuItemAttributesMinMax=Zobrazit min/max hodnoty
+ItemDB_tagMenuItemAttributesRaw=Zobrazit základní hodnoty
+ItemDB_tagMenuItemShowAllPetAttributesAndSkills=Zobrazit vlastnosti a dovednosti spojenců
+ItemDB_tagMenuItemHighlightMI=Zvýraznit osobní předměty příšer
+ItemDB_tagMenuItemShowAllMonsters=Rozšířit seznam o "Lze získat z"
+
+# Misc
+ItemDB_tagOverlayBuildingDB=Sestavuji databázi...
+ItemDB_tagItemLevel=Úroveň předmětu: {%d0}
+ItemDB_tagBlueprint=Plánek: {%s0}
+ItemDB_tagCommon=Běžné
+ItemDB_tagMagic=Magické
+ItemDB_tagRare=Vzácné
+ItemDB_tagEpic=Epické
+ItemDB_tagLegend=Legendární
+
+# Top bar / Search
+ItemDB_tagSearch=Hledat...
+ItemDB_tagSearchIncludeItemDescriptions=Včetně popisků předmětů
+ItemDB_tagNothingFound=Nic jsme nenašli
+# Search results: e.g. Search results for query "arcane" (105)
+ItemDB_tagSearchResults={^E} Výsledky hledání na dotaz {^H}{%s0}{^E} ({%d1})
+ItemDB_tagSearchInvalidRegularExpression=Chyba: špatný regulární výraz
+
+# Overview / General terms
+ItemDB_tagOverview=Přehled
+ItemDB_tagTotalNumberOfItems=Celkový počet předmětů
+ItemDB_tagItemPrefixes=Předpony předmětů
+ItemDB_tagItemSuffixes=Přívlastky předmětů
+ItemDB_tagItemSets=Setové předměty
+ItemDB_tagItems=Předměty
+ItemDB_tagMonsterInfrequents=Osobní předměty příšer
+ItemDB_tagUniqueRares=Vzácné předměty
+ItemDB_tagUniqueRaresDescription=Vzácné předměty (odměny z úkolů / pevně daný výskyt)
+ItemDB_tagFactionItems=Frakční předměty
+ItemDB_tagNewInVersion=Novinky ve verzi
+ItemDB_tagNewInVersionCategories=Předměty | Předpony | Přívlastky | Sety | Osobní | Vzácné || Změny
+ItemDB_tagVersionNewItems=Nové předměty
+ItemDB_tagVersionNewPrefixes=Nové předpony
+ItemDB_tagVersionNewSuffixes=Nové přívlastky
+ItemDB_tagVersionNewItemSets=Nové setové předměty
+ItemDB_tagVersionNewMIs=Nové osobní předměty příšer
+ItemDB_tagVersionNewUniqueRares=Nové vzácné předměty
+ItemDB_tagFaction=Frakce
+ItemDB_tagItemSkillModifiers=Modifikátory dovedností
+
+# Category tabs
+ItemDB_tagTabPrefixes=Předpony
+ItemDB_tagTabSuffixes=Přívlastky
+
+# Affixes: applies to
+ItemDB_tagAffixAppliesTo=Může vylepšit: {%s0}
+ItemDB_tagAffixAllArmor=Všechna zbroj
+ItemDB_tagAffixAllArmorExceptBelts=Všechna zbroj (kromě opasků)
+ItemDB_tagAffixAllOneHandedWeapons=Všechny jednoruční zbraně
+ItemDB_tagAffixAllTwoHandedWeapons=Všechny obouruční zbraně
+ItemDB_tagAffixAllJewelry=Všechny klenoty
+
+# Left panel
+ItemDB_tagArmor=Výstroj
+ItemDB_tagWeapons=Výzbroj
+ItemDB_tagJewelry=Klenoty
+ItemDB_tagOther=Ostatní
+
+# Left panel: category titles
+ItemDB_tagCategoryHelms=Helmy
+ItemDB_tagCategoryShoulders=Nárameníky
+ItemDB_tagCategoryChestArmor=Ochrana hrudi
+ItemDB_tagCategoryGloves=Ochrana rukou
+ItemDB_tagCategoryBelts=Opasky
+ItemDB_tagCategoryPants=Ochrana nohou
+ItemDB_tagCategoryBoots=Obuv
+ItemDB_tagCategorySwords=Meče
+ItemDB_tagCategoryAxes=Sekyry
+ItemDB_tagCategoryMaces=Palice
+ItemDB_tagCategoryDaggers=Dýky
+ItemDB_tagCategoryScepters=Žezla
+ItemDB_tagCategoryOneHandedRanged=Jednoruční střelné zbraně
+ItemDB_tagCategoryShields=Štíty
+ItemDB_tagCategoryOffHands=Příruční předměty
+ItemDB_tagCategoryTwoHandedSwords=Obouruční meče
+ItemDB_tagCategoryTwoHandedAxes=Obouruční sekyry
+ItemDB_tagCategoryTwoHandedMaces=Obouruční palice
+ItemDB_tagCategoryTwoHandedRanged=Obouruční střelné zbraně
+ItemDB_tagCategoryRings=Prsteny
+ItemDB_tagCategoryAmulets=Amulety
+ItemDB_tagCategoryMedals=Medaile
+ItemDB_tagCategoryRelics=Relikvie
+ItemDB_tagCategoryAugments=Vylepšení
+ItemDB_tagCategoryComponents=Komponenty
+ItemDB_tagCategoryConsumables=Spotřební předměty
+ItemDB_tagCategoryQuestItems=Úkolové předměty
+ItemDB_tagCategoryBlueprints=Plánky
+
+#Diff
+ItemDB_tagDiffChanges=Změny
+ItemDB_tagDiffPetStatsChanges=Změna statistik spojenců
+ItemDB_tagDiffItemSetBonusesChanges=Změna bonusů spojenců
+ItemDB_tagDiffItemAttributeScalingChanges=Změna hodnot vlastností
+
+# Unique affixes
+ItemDB_tagUniquePrefix=Unikátní předpony
+ItemDB_tagUniqueSuffix=Unikátní přívlastky
+ItemDB_tagViewUniqueAffixes=Zobrazit unikátní přípony
+
+# Extra stuff for pets
+ItemDB_tagPetSkillPassive=[pasivní]
+ItemDB_tagPetSkillSelfBuff=[vlastní posílení]
+ItemDB_tagPetSkillAttack=[útok]
+ItemDB_tagPetSpawnWeight={^E}Četnost výskytu:{^H} {%s0}%
+
+# Extra
+ItemDB_tagHiddenStat={^S}(tajné)
+
+ItemDB_tagPetInvincible={^E}Nepřekonatelné
+ItemDB_tagNonTransmutableSetItem=Tento setový předmět nelze přeměnit na jiný předmět.
+
+# Monster db integration
+ItemDB_tagDroppedFromMonsters=Lze získat z:
+ItemDB_tagAnyMonster=(kdokoliv)
+
+# Map integration
+# Link to monster location on the map
+ItemDB_tagDroppedFromContainers=Lze získat z:
+# Link to merchant location on the map
+ItemDB_tagSoldByMerchant=Lze koupit u:
+ItemDB_tagMonsterMapLink=Mapa
