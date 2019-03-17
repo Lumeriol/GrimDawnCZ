@@ -516,9 +516,7 @@ tagLootFilter15Info=Zobrazí/skryje štíty.
 tagLootFilter16=Zbroje
 tagLootFilter16Info=Zobrazí/skryje helmy, nárameníky, hrudní zbroje, chrániče nohou, obuv a rukavice.
 tagLootFilter17=Příslušenství
-tagLootFilter17Info=Zobrazí/skryje Amulets, Rings, Medals and Belts.
-tagLootFilter38=Komponenty
-tagLootFilter38Info=Zobrazí/skryje komponenty.
+tagLootFilter17Info=Zobrazí/skryje amulety, prsteny, medaile a opasky.
 
 tagLootFilter18=Fyzické
 tagLootFilter18Info=Zobrazí předměty, které zvyšují fyzické zranění a zranění vnitřním krvácením.
@@ -561,6 +559,12 @@ tagLootFilter36=Odolnosti
 tagLootFilter36Info=Zobrazí předměty, které zvyšují odolnosti vůči zranění, omezení útoku nebo speciálním efektům jako je odražené zranění nebo snížené zranění v průběhu času.
 tagLootFilter37=Odplácení
 tagLootFilter37Info=Zobrazí předměty, které zvyšují zranění odplatou.
+
+tagLootFilter38=Komponentz
+tagLootFilter38Info=Zobrazí/skryje komponenty.
+tagLootFilter39=Zobrazí pouze dvojitou vzácnost
+tagLootFilter39Info=Zaškrtnutím se zobrazí pouze předměty, které mají vzácnou předponu i vzácný přívlaste.{^N}{^N}Lze použít společně s filtrem Vzácných a Osobních předmětů nepřátel, pokud chceš najít ty nejkvalitnější předměty těchto typů.
+
 
 
 #SkillUI

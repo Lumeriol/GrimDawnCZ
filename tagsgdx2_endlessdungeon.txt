@@ -27,8 +27,12 @@ tagGDX2EndlessDungeon_Special03=Pátrač Zatracených
 tagGDX2EndlessDungeon_Special04=Bedýnka zábavy
 tagGDX2EndlessDungeon_Special05=Skromná bedýnka
 tagGDX2EndlessDungeon_Special06=POJMENUJ MĚ
-tagGDX2EndlessDungeon_Special07=Velbloud
+tagGDX2EndlessDungeon_Special07=Dokonalý běžně přerostlý červ
+tagGDX2EndlessDungeon_Special07B=Přerostlý červ
 tagGDX2EndlessDungeon_Special08=Duch vývojářů
+tagGDX2EndlessDungeon_Special09=Vybledlý dromedár
+tagGDX2EndlessDungeon_Special10=Vybledlý dromedár ~ šampión
+tagGDX2EndlessDungeon_Special11=Vybledlý dromedár ~ pozorovatel
 
 tagGDX2EndlessDungeon_Lever01=Červená páka
 tagGDX2EndlessDungeon_Lever02=Zelená páka
@@ -48,6 +52,9 @@ tagGDX2EndlessDungeon_Boss_Summon02=Hladová temnota
 tagGDX2EndlessDungeon_Boss_Summon02_Skill=Hladová temnota
 tagGDX2EndlessDungeon_Boss_Summon02_Skill_Desc=Hladová zima z nekonečné temnoty tě rozežírá... pomaloučku...
 
+tagGDX2EndlessDungeon_S201=Úplně normální štít
+tagGDX2EndlessDungeon_S201_Desc="Chmatáci z jihu jistě pochopí."
+tagGDX2EndlessDungeon_S202=Halapartna z vybledlé kosti
 
 #NPCs
 tagGDX2EndlessDungeon_NPC_Event01=Mazaan, strážce portálů
@@ -77,7 +84,7 @@ tagGDX2EndlessDungeon_NPC_PowerUps01=Callagadra, následovnice Pouště
 tagGDX2EndlessDungeon_Shrine01=Azrakaaova svatyně
 tagGDX2EndlessDungeon_Shrine01_Desc=Uzavření dohody s Azrakaaou ti umožní zvýšit odolnosti vůči zpomalení a ovládnutí mysli, ale tvé kritické zásahy budou oslabeny.
 tagGDX2EndlessDungeon_Shrine01Skill=Azrakaaova dohoda
-tagGDX2EndlessDungeon_Shrine01Skill_Desc=Byla učiněna dohoda s Azrakaaou, jež ti přinesla zvýšení odolností vůči zpomalení a ovládnutí mysli, ale tvé zdraví bylo sníženo.
+tagGDX2EndlessDungeon_Shrine01Skill_Desc=Byla učiněna dohoda s Azrakaaou, jež ti přinesla zvýšení odolností vůči zpomalení a ovládnutí mysli, ale tvé kritické zásahy jsou značně oslabeny.
 
 tagGDX2EndlessDungeon_Shrine02=Oleronova svatyně
 tagGDX2EndlessDungeon_Shrine02_Desc=Naplní tě Oleronova krvežíznivost, která zvýší způsobená zranění, ale tvá odolnost vůči fyzickým zraněním bude značně oslabena.
@@ -85,7 +92,7 @@ tagGDX2EndlessDungeon_Shrine02Skill=Oleronova krvežíznivost
 tagGDX2EndlessDungeon_Shrine02Skill_Desc=V žilách ti koluje Oleronova krvežíznivost, jež ti dodala vyšší způsobená zranění, ale tvá odolnost vůči fyzickým zraněním je značně oslabena.
 
 tagGDX2EndlessDungeon_Shrine03=Rattoshova svatyně
-tagGDX2EndlessDungeon_Shrine03_Desc=Rozděl svou duši mezi tuto realitu a mezi tu za roušku, a získáš vyšší odolnosti vůči všem zraněním, ale tvé kritické zásahy jsou značně oslabeny.
+tagGDX2EndlessDungeon_Shrine03_Desc=Rozděl svou duši mezi tuto realitu a mezi tu za roušku, a získáš vyšší odolnosti vůči všem zraněním, ale tvé zdraví bude sníženo.
 tagGDX2EndlessDungeon_Shrine03Skill=Rattoshova rouška
 tagGDX2EndlessDungeon_Shrine03Skill_Desc=Tvá duše byla rozdělena mezi tento svět a svět za rouškou za odolnosti vůči všem zraněním, ale tvé zdraví bylo sníženo.
 
@@ -95,9 +102,9 @@ tagGDX2EndlessDungeon_Shrine04Skill=Virův monolit
 tagGDX2EndlessDungeon_Shrine04Skill_Desc=Tvá kůže je jak z kamene, tvá zbroj je zvýšena, ale za cenu Útočné schopnosti.
 
 tagGDX2EndlessDungeon_Shrine05=Svatyně smrti
-tagGDX2EndlessDungeon_Shrine05_Desc=Uzavřeš smlouvu se smrtí, díky níž získáš neuvěřitelnou útočnou sílu a obnovu zdraví, ale za cenu tvých odolností.
+tagGDX2EndlessDungeon_Shrine05_Desc=Uzavřeš úmluvu se smrtí, díky níž získáš neuvěřitelnou útočnou sílu a obnovu zdraví, ale za cenu tvých odolností.
 tagGDX2EndlessDungeon_Shrine05Skill=Smrtelné přání
-tagGDX2EndlessDungeon_Shrine05Skill_Desc=Smlouva se smrtí byla uzavřena, v žilách ti koluje neuvěřitelná útočná síla, tvá obnova zdraví je zrychlena. Avšak odolnosti jsou spíš k pláči.
+tagGDX2EndlessDungeon_Shrine05Skill_Desc=Úmlouva se smrtí byla stvrzena, v žilách ti koluje neuvěřitelná útočná síla, tvá obnova zdraví je zrychlena. Avšak odolnosti jsou spíš k pláči.
 
 
 #Powerups
