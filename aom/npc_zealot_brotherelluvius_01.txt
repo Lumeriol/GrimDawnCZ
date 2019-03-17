@@ -13,7 +13,7 @@ Dobrá...
 Já... nech to být.
 Máš pravdu. Tak zatím.
 Tak zatím.
-I hear we were successful against the wretched Order of Death's Vigil.{^n}{^n}You have proven yourself a worthy servant to Empyrions will. Even I must learn to look past your training and instead judge you by your actions.
+Slyšel jsem, že jsme byli úspěšní proti tomu mizernému Řádu Strážců smrti.{^n}{^n}[[ms]Prokázal[fs]Prokázala] jsi, že jsi hodna stát se [[ms]slušebníkem[fs]služebnicí] Empyrionovy vůle. Dokonce i já se musím naučit dívat se dále, než na tvoji vytrénovanost a místo toho tě soudit podle činů.
 
 Tak zatím.
 Slyšel jsem, že jsme byli úspěšní proti tomu ubohému Řádu Strážců smrti, [[ms]bratře[fs]sestro]. {^n}{^n}Sloužíš Empyrionovi dobře.
@@ -39,9 +39,9 @@ Kde že bych se [[ms]měl[fs]měla] porozhlédnout?
 Mistryně Ravok je v pevnosti Haron, v severní části Krvavého háje.{^n}{^n}Nezklamej nás.
 Vydám se tam hned.
 Sotva jsem [[ms]začal[fs]začala].
-Father Kymon is impressed with your recent actions against the Cult of Ch'thon and is willing to overlook your past transgressions.{^n}{^n}He wishes to test your commitment to our cause. This next mission will determine whether you truly are one of us or if you are lying even to yourself.{^n}{^n}Do not fail the Father's trust.
+Otec Kymon je udiven tvými nedávnými činy proti Kultu Ch'thona a je ochoten přehlédnout tvé přestupky z minulosti.{^n}{^n}Přeje si otestovat tvoji angažovanost v naší věci. Další mise odhalí, zda-li jsi [[ms]jeden[fs]jedna] z nás nebo zda lžeš dokonce i [[ms]sám[fs]sama] sobě.{^n}{^n}Nezklam Otcovu důvěru.
 
-I cannot right now.
+Teď nemůžu.
 Otec Kymon je udiven tvými nedávnými činy proti kultu Ch'thona.{^n}{^n}Svěřím ti kritickou záležitost. Nezklamej Otcovu důvěru.
 Co je to za misi?
 V severní části Krvavého háje je tvrz známá jako pevnost Haron. Je to starý sklad zbraní, který by se mohl ukázat užitečným. Nepřekvapivě je však zamořen havětí Řádu. {^n}{^n}Vydej se do pevnosti a znič všechny, kdo se ti postaví. Najdi jejich velitele, Mistryni Ravoku a udělej z ní exemplární případ.{^n}{^n}Jdi vpřed s vírou že Empyrion je s tebou, protože ti propůjčím požehnání a to povede tvoji ruku v boji.
@@ -56,9 +56,9 @@ Otec Kymon bude potěšen, až se dozví o tom, že se učíme o jeho smrti.{^n}
 Co musí být vykonáno?
 
 Nemám zájem.
-Father Kymon will be pleased to learn of his demise.{^n}{^n}You are ever eager to act out his will. That's good, because what lies ahead will determine whether you truly are one of us or if you are lying even to yourself.
-What must be done?
-Not interested.
+Otec Kymon bude potěšen, až se dozví o jeho zániku.{^n}{^n}Jsi dokonce ještě dychtivější konat jeho vůli. To je dobře, protože to co je před námi odhalí, zda-li jsi [[ms]jeden[fs]jedna] z nás nebo zda lžeš dokonce i [[ms]sám[fs]sama] sobě.
+Co musí být vykonáno?
+Nemám zájem.
 Už ses [[ms]vypořádal[fs]vypořádala] s těmi kacíři?
 Kde se mám porozhlédnout?
 Bolvar, vazač krve byl spatřen na území Krvavého háje na severu. {^n}{^n}Z Kymonovy vůle ho ulov a vykonej Empyrionovu pomstu.
@@ -98,15 +98,15 @@ Ty pečetě seženu.
 Najdi si někoho jiného.
 
 Vrátím se později a probereme to.
-You are the one the Legion sent?{^n}{^n}This must be some sort of joke.
-I assure you, I am the one.
-Truly this must be a test of faith from Empyrion himself.{^n}{^n}I pray for strength in this trying hour.
-Shall we speak or not then?
+Ty jsi [[ms]ten, kterého[fs]ta, kterou] poslala Legie?{^n}{^n}To musí být nějaký vtip.
+Ujišťuji tě, jsem to já.
+Toto musí být vzkutku test víry od samotného Empyriona.{^n}{^n}Modlím se za sílu v této hodině plné nástrah.
+Budeme se tedy spolu bavit nebo ne?
 Ty jsi [[ms]ten[fs]ta], koho Legie poslala?{^n}{^n}Jdeš později, než jsem očekával.
 Chtěl si se mnou mluvit?
 
-A tainted soul has entered our ranks.{^n}{^n}We all pray for guidance, you should pray for forgiveness.
-Whatever you say.
-Goodbye.
+Nečistá duše vstoupila do našich řad.{^n}{^n}Všichni se modlíme za to, ať jsme vedeni po správné ztezce, ty by ses [[ms]měl[fs]měla] modlit za odpuštění.
+Cokoliv říkáš.
+Sbohem.
 Nechť Světlo Empyriona vede tvoji cestu.
 Sbohem.
