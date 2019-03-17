@@ -1,0 +1,107 @@
+MonsterDB_tagMonsterDB=Databáze nepřátel v Cairnu
+
+# buff types, e.g. "Permanent buffs: OFF"
+MonsterDB_tagBuffsPermanent=Trvalá posílení: {%s0}
+MonsterDB_tagBuffsTemporary=Dočasná posílení: {%s0}
+MonsterDB_tagBuffsProc=Náhodná posílení: {%s0}
+MonsterDB_tagBuffsOn={^G}ZAPNUTO{^E}
+MonsterDB_tagBuffsOff={^R}VYPNUTO{^E}
+MonsterDB_tagBuffsNone=Žádná
+
+MonsterDB_tagGameVersion=Verze hry:
+MonsterDB_tagBuildVersion=Verze sestavení:
+MonsterDB_tagDifficulty=Obtížnost:
+
+MonsterDB_tagMonsterLevel=Úroveň
+// Shattered Realm shard #
+MonsterDB_tagShardNumber=Oblast Pokřiveného světa
+
+# skills tab
+MonsterDB_tagTabSkills=Dovednosti
+MonsterDB_tagSkillInitialTimeout={^E}Doba před prvním použitím:{^H} {%s0}
+MonsterDB_tagSkillUseDelay={^E}Prodleva před dalším použitím:{^H} {%s0}
+MonsterDB_tagSkillChanceToUse={^E}Šance na použití po prodlevě:{^H} {%d0}%
+MonsterDB_tagSkillRange={^E}Dosah:{^H} {%s0}
+MonsterDB_tagSkillRangeShort=krátký
+MonsterDB_tagSkillRangeMedium=střední
+MonsterDB_tagSkillRangeLong=dlouhý
+MonsterDB_tagSkillNoData=nic
+MonsterDB_tagSkillNightBuff={^O}Aktivní pouze během noci
+MonsterDB_tagSkillAutoAttack={^O}Automatický útok
+MonsterDB_tagSkillCastOnSpawn={^O}Vyvolat při výskytu
+MonsterDB_tagSkillCastOnDeath={^O}Vyvolat při smrti
+MonsterDB_tagSkillGroupAttack=Útok
+MonsterDB_tagSkillGroupBuffs=Posílení
+MonsterDB_tagSkillGroupHealOthers=Léčení spojenců
+MonsterDB_tagSkillGroupOnSpawn=Při výskytu
+MonsterDB_tagSkillGroupOnDeath=Při smrti
+MonsterDB_tagSkillGroupPassive=Pasivní dovednosti
+# Usage: "Spawn: Wind Devil"
+MonsterDB_tagSkillSpawn={^E}Výskyt:{^H}
+# Usage: "10 Seconds Spawn interval"
+MonsterDB_tagSkillSpawnInterval={^E}Interval znovuzrození:{^H} {%s0}
+# Usage: "Number of spawns: 2-4"
+MonsterDB_tagSkillNumberOfSpawns={^E}Počet v tlupě:{^H} {%s0}
+
+# spawn locations tab
+MonsterDB_tagTabSpawnLocations=Výskyt
+MonsterDB_tagShowOnTheMap=Zobrazit na mapě
+# shown if monster can't appear on its own, but instead spawned by someone else (as a pet, n-th phase etc.)
+# Usage: "Spawned by: Avatar of Mogdrogen" 
+MonsterDB_tagSpawnedBy=Vyskytuje se jako:
+
+# loot tab
+MonsterDB_tagTabNotableLoot=Získatelná kořist
+MonsterDB_tagLootMonsterLevel=Úroveň nepřítele {%s}
+MonsterDB_tagLootItemLevel=Úroveň {%s}
+MonsterDB_tagLootNone=nic
+MonsterDB_tagLootHeader1=Kořist a šance na získání závisí na úrovni nepřítele.
+MonsterDB_tagLootHeader2=Tabulka kořisti se mění na následujících úrovních nepřítele:
+
+# monster list
+MonsterDB_tagListHeaderName=Jméno
+MonsterDB_tagListHeaderRace=Rasa
+MonsterDB_tagListHeaderType=Druh
+MonsterDB_tagMonsterTypeCommon=Běžný nepřítel
+MonsterDB_tagMonsterTypeChampion=Šampión
+MonsterDB_tagMonsterTypeHero=Hrdina
+MonsterDB_tagMonsterTypeBoss=Padouch
+MonsterDB_tagMonsterTypeNemesis=Mstitel
+MonsterDB_tagMonsterTypeSuperBoss=Super hrdina
+
+MonsterDB_tagMonsterExtraFirstPhase=první fáze
+MonsterDB_tagMonsterExtraSecondPhase=druhá fáze
+MonsterDB_tagMonsterExtraThirdPhase=třetí fáze
+MonsterDB_tagMonsterExtraFourthPhase=čtvrtá fáze
+MonsterDB_tagMonsterExtraNormalDifficulty=Normální
+MonsterDB_tagMonsterExtraEliteDifficulty=Elitní
+MonsterDB_tagMonsterExtraUltimateDifficulty=Ultimátní
+# used in conjunction with "MonsterDB_tagDifficulty" in the form of "Difficulty: Any"
+MonsterDB_tagMonsterExtraDifficulty=jakákoliv
+# Usage: "Player Level 75+"
+MonsterDB_tagMonsterExtraPlayerLevel=Úroveň hráče {%s}
+# Defense tier for crucible 
+MonsterDB_tagMonsterExtraTier=Úroveň {%d0}
+
+MonsterDB_tagMenuSettings=Nastavení
+MonsterDB_tagMenuLanguage=Jazyk
+MonsterDB_tagMenuShowInitialSkillChain=Zobrazit počáteční řetězec dovedností jako samostatnou skupínu
+
+MonsterDB_tagSearch=Hledat...
+MonsterDB_tagRaceAny=kdokoliv
+MonsterDB_tagTypeAny=cokoliv
+MonsterDB_tagNothingFound=Nic nenalezeno
+
+MonsterDB_tagMonsterInvincible={^E}Nepřekonatelné
+
+# offline
+MonsterDB_tagMenuFile=Soubor
+MonsterDB_tagMenuExit=Konec
+MonsterDB_tagMenuAbout=O aplikaci
+MonsterDB_tagMenuFeedback=Zpětná vazba
+MonsterDB_tagMenuHelp=Nápověda
+MonsterDB_tagMenuCheckForUpdates=Zkontrolovat verzi...
+
+MonsterDB_tagUpdateIsAvailableShort=K dispozici nová verze
+MonsterDB_tagUpdateIsAvailable=Je k dispozici nová verze! Odkaz ke stažení a přečíst si ponámky k verzi můžeš zde:
+MonsterDB_tagNoUpdates=Současná verze je aktuální.

@@ -1,0 +1,32 @@
+Checklist_tagChecklist=Grim Dawn - postup hrou
+
+Checklist_tagDevotionShrines=Svatyně oddanosti
+Checklist_tagOneShotChests=Jednorázové truhly
+Checklist_tagImportantQuests=Důležité úkoly
+Checklist_tagLoreNotes=Deníky a poznámky
+Checklist_tagPreviewNotAvailable=Náhled není k dispozici
+Checklist_tagDesecratedShrineGoal=Poražení nepřátel
+Checklist_tagViewOnWorldMap=Zobrazit na mapě
+Checklist_tagActNumber=Akt {%d0}
+Checklist_tagBaseGame=Základní hra
+Checklist_tagAoM=Malmouth: prach a popel
+Checklist_tagFG=Zapomenutí bohové
+Checklist_tagQuest=Úkol:
+Checklist_tagObjective=Zadání:
+Checklist_tagReward=Odměna:
+Checklist_tagAttributePoints={%d0} bodů atributů
+Checklist_tagSkillPoints={%d0} dovednostních bodů
+
+Checklist_tagLoadFromCharacterFiles=Načíst data ze souboru postavy
+Checklist_tagCharacterFilesLocation1=Pokud máš postavy uložené v Cloudu (výchozí nastavení), pak jsou soubory postav zde:
+Checklist_tagCharacterFilesLocation2=V opačném případně je najdeš zde:
+Checklist_tagDevotionShrineDataLocation=Data o svatyních oddanosti a denících jsou uložena v souboru postavy ve složce:
+Checklist_tagOneShotChestsAndQuestsDataLocation=Jednorázové truhly a úkoly jsou uložené v souboru úkolů ve složce:
+Checklist_tagApplyCharacterDataFromSave=Načíst do profilu {^w}{%s0}
+
+Checklist_tagProfile=Profil:
+Checklist_tagProfileAdd=Přidat profil
+Checklist_tagProfileEdit=Upravit profil
+Checklist_tagProfileNamePlaceholder=Název profilu
+Checklist_tagProfileSaveChanges=Uložit
+Checklist_tagProfileDelete=Smazat
