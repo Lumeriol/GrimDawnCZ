@@ -1,6 +1,0 @@
-Nav_tagItemDatabase=Databáze předmětů
-Nav_tagMonsterDatabase=Databáze nepřátel
-Nav_tagBuildCalculator=Kalkulačka postavy
-Nav_tagWorldMap=Mapa světa
-Nav_tagChecklist=Postup hrou
-Nav_tagNewIndicator=(Nové!)

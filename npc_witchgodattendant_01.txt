@@ -1,7 +1,4 @@
 Hlídač
-Welcome to the Sanctum, Sentinel.
-
-Farewell.
 Vítej na svatém místě, [[ms]ctihodný uchazeči[fs]ctihodná uchazečko].
 [[ms]Měl[fs]Měla] bych nějaké otázky.
 Tak jako všichni, kteří sem přišli.
@@ -52,15 +49,8 @@ Hloupé.
 Jen kdyby byl silnější.
 Neřešme to.
 Sbohem.
-Sentinel, you come in troubled times.{^n}{^n}What you seek here cannot be found, will not listen.{^n}{^n}Seek the gods beyond these walls, for their voices no longer reach us here.
-Farewell.
 Vetřelče... opusť toto místo!
 Jsem na odchodu.
-You carry the markings of the Three, seeker. Long has it been since a bearer of a Witch God oath has traveled these halls.{^n}{^n}May your vows be unbroken 'til your dying breath, sentinel.{^n}{^n}But where are my manners. Greetings! I am the Attendant to our gods.
-
-
-
-We will speak another time.
 Neseš znamení Tří, [[ms]uchazeči[fs]uchazečko]. Mnoho vody uplynulo od dob, kdy někdo jako ty zavítal do těchto komnat. {^n}{^n}Buď [[ms]pozdraven[fs]pozdravena]. Jsem strážce bohů.
 [[ms]Přišel[fs]Přišla] jsem se něco naučit o Čarodějných bozích.
 Jsi [[ms]moudrý[fs]moudrá], když po nich pátráš. Jen díky Třem můžeme nahlédnout do světa podivna a učit se jeho tajemství.{^n}{^n}Je to neuvěřitelně mocné místo, takové kde soupeří samotný Aether, jež alchymisté tak obdivují, ale nemůžeme tam jen tak vejít. Díky nesmírné oběti bohové prorazili bariéru mezi světy a povznesli se do světa podivna. Díky jejich učení můžeme ovládnout nicotnou část síly tohoto světa, vyvolat podivné bytosti, aby nám sloužily a můžeme tak nabývat moci ve lžích, které nám předkládá padlé imérium.
@@ -101,7 +91,5 @@ Je přirozené se při pohledu na mě zaleknout.{^n}{^n}Jsem to, čím mě bohov
 
 Promluvíme si jindy.
 Promluvíme si jindy.
-Sentinel, you come in troubled times.{^n}{^n}What you seek here cannot be found, will not listen.{^n}{^n}Seek the gods beyond these walls, for their voices no longer reach us here.
-Farewell.
 Vetřelče... opusť toto místo!
 Jsem na odchodu.

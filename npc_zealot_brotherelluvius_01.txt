@@ -1,9 +1,6 @@
 Bratr Elluvius
 Nechť Světlo Empyriona vede tvoji cestu.
 Sbohem.
-Brother Miranok speaks very highly of you, [[ms]brother[fs]sister].
-
-Farewell.
 Otec Kymon o tobě mluví velmi vznešeně, [[ms]bratře[fs]sestro].
 Je tu něco, co bys měl o Kymonovi vědět.
 Nenamáhej se, [[ms]bratře[fs]sestro]. Slyšel jsem všechnu tu chválu.
@@ -19,8 +16,6 @@ Tak zatím.
 Slyšel jsem, že jsme byli úspěšní proti tomu ubohému Řádu Strážců smrti, [[ms]bratře[fs]sestro]. {^n}{^n}Sloužíš Empyrionovi dobře.
 
 Tak zatím.
-Father Kymon has requested that you meet with Brother Miranok in his office. Do not make him wait.
-
 Otec Kymon si vyžádal tvou přítomnost. Nenech ho čekat.
 Co mi můžeš říci o Otci Kymonovi?
 Je to náš prorok, Empyrionův Hlas.{^n}{^n}Jeho vedení nám dodalo sílu, když jsme ji nejvíce potřebovali. Ztělesňuje naději ve světě, kde žádná není.
@@ -32,13 +27,6 @@ Nechť Světlo Empyriona vede tvoji cestu.
 Sbohem.
 [[ms]Vypořádal[fs]Vypořádala] ses s Ravokou?
 Tu nekromantku jsem [[ms]zabil[fs]zabila].
-You have exceeded even the Blessed Father's expectations.{^n}{^n}He has requested that you speak with Brother Miranok in his stead. Do not make him wait [[ms]brother[fs]sister].
-
-Brother Miranok? Where is Kymon?
-The Blessed Father has left us along with a select few of his champions to pursue a matter he deemed of utmost importance.{^n}{^n}It is not my place to question his actions. All I know is that are to remain here and carry on his mission.
-I will speak to Brother Miranok now.
-I will speak to him now.
-I must rest after the ordeal.
 [[ms]Překonal[fs]Překonala] jsi očekávání dokonce samotného Svatého Otce.{^n}{^n}Přeje si s tebou mluvit. Nenech ho čekat, [[ms]bratře[fs]sestro].
 
 Hned si s ním promluvím.

@@ -1,6 +1,0 @@
-Common_tagMenuCheckForUpdates=Zkontrolovat verzi...
-
-Common_tagUpdateIsAvailableShort=K dispozici nová verze
-Common_tagUpdateIsAvailable=Je k dispozici nová verze! Odkaz ke stažení a přečíst si ponámky k verzi můžeš zde:
-Common_tagNoUpdates=Současná verze je aktuální.
-Common_tagCheckUpdatesError=Nelze zkontrolovat informace o verzi.

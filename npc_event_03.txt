@@ -3,12 +3,12 @@ Lokarr, mistr Arény
 Přeji si znovu vstoupit do Arény.
 Výtečně! Těším se na tu podívanou.{^n}{^n}Mám připravit Arénu?{^n}{^n}(Aktivace Arény znovu vyresetuje všechny tvé odměny. Všichni hráči budou vráceni zpět na místo zrodu. Pokračuj pouze tehdy, pokud sis svou odměnu již [[ms]vyzvedl[fs]vyzvedla].)
 Ano, pokračuj (začni od začátku)
-Začni znovu od 150. vlny (vzdej se 10 Bodů cti)
-Začni znovu od 150. vlny (vzdej se 20 Bodů cti)
-Začni znovu od 150. vlny (vzdej se 40 Bodů cti)
+Začni znovu od 130. vlny (vzdej se 5 Bodů cti)
+Začni znovu od 130. vlny (vzdej se 15 Bodů cti)
+Začni znovu od 130. vlny (vzdej se 30 Bodů cti)
+Nedostatek Bodů cti pro nový začátek v záchytném bodě (potřebuješ 5 Bodů cti)
 Nedostatek Bodů cti pro nový začátek v záchytném bodě (potřebuješ 10 Bodů cti)
-Nedostatek Bodů cti pro nový začátek v záchytném bodě (potřebuješ 20 Bodů cti)
-Nedostatek Bodů cti pro nový začátek v záchytném bodě (potřebuješ 40 Bodů cti)
+Nedostatek Bodů cti pro nový začátek v záchytném bodě (potřebuješ 30 Bodů cti)
 Neřešme to.
 Děkuji ti.
 Aréna pohltila dalšího. Běž, vezmi si svou směšnou odměnu a mazej mi z očí.
