@@ -1,0 +1,1152 @@
+
+#Weapons
+tagGDX2WeaponSwordB201=[fs]Korvaakova spalující čepel
+tagGDX2WeaponSwordB201_Desc="Propůjčována Korvaakem za věrnost, aby sloužila k vedení nižších podžízených."
+tagGDX2WeaponSwordB202=[fs]Korvaakova bouřná čepel
+tagGDX2WeaponSwordB202_Desc="Propůjčována Korvaakem jeho věrným druhům, aby se snáze probojovali skrze nepřátelské linie."
+tagGDX2WeaponSwordB203=[ms]Kymonův obětní nůž
+tagGDX2WeaponSwordB203_Desc="Vysvěcen v Korvaakově krvi a propůjčován jeho šampiónovi."
+tagGDX2WeaponSwordB204=[fs]pomsta Pána krve
+
+tagGDX2WeaponSwordC201=Plamenná cudnost
+
+tagGDX2WeaponSwordD201=Následník ošklivých zranění
+tagGDX2WeaponSwordD201_Desc="Jed napuštěný v této čepeli zapáchá hnilobou a žlučí."
+tagGDX2WeaponSwordD202=Čepel duší
+tagGDX2WeaponSwordD205=Zmrzlé srdce
+tagGDX2WeaponSwordD205_Desc="Do rukojeti jsou ve spěchu vydrápaná slova 'Uvíznul jsem v jiný realitě, pošli pomoc prosím'."
+
+tagGDX2WeaponSwordF201=Bysmielina čepel
+tagGDX2WeaponSwordF202=Solaelův kráječ
+tagGDX2WeaponSwordF203=Otvírač ran
+
+
+tagGDX2WeaponBluntB201=[ms]štírův bušák
+tagGDX2WeaponBluntB202=[ms]štírův kyj
+tagGDX2WeaponBluntB203=[fs]Gannar'vakkarova větev
+tagGDX2WeaponBluntB204=[ms]Bargollův kořen
+tagGDX2WeaponBluntB204Desc="Bargollovy kořeny hladově pátrají po zdrojích magie."
+
+tagGDX2WeaponBluntC201=Kalastorianova palička
+
+tagGDX2WeaponBluntD201=Palička vyhladovělých duší
+tagGDX2WeaponBluntD202=Amatokův posel
+
+tagGDX2WeaponBluntF201=Bysmielino válečné kladivo
+tagGDX2WeaponBluntF202=Solaelovo válečné kladivo
+tagGDX2WeaponBluntF203=Bysmielin hlavodrtič
+
+
+tagGDX2WeaponAxeB201=[ms]kráječ písečného ještěra
+tagGDX2WeaponAxeB202=[ms]kráječ vypelichaného ještěra
+tagGDX2WeaponAxeB203=[ms]kráječ rozeklaného ještěra
+tagGDX2WeaponAxeB204=[ms]kráječ kostí
+tagGDX2WeaponAxeB205=[ms]sluhův sekáček
+
+tagGDX2WeaponAxeC201=Párač závojů
+
+tagGDX2WeaponAxeD201=Pohrabáč
+tagGDX2WeaponAxeD202=Krvavé probuzení
+tagGDX2WeaponAxeD202_Desc="Kolem ostří této zbraně se vzduch vlní intenzivním teplem."
+
+tagGDX2WeaponAxeF201=Bysmielin sekáček
+tagGDX2WeaponAxeF202=Dreegův sekáček
+tagGDX2WeaponAxeF203=Kazisvět
+
+
+tagGDX2WeaponGun1hB201=[fs]zmijí písečná zášť
+tagGDX2WeaponGun1hB202=[ms]zmijí vykrvovač
+tagGDX2WeaponGun1hB203=[fs]ugdenská opakovací puška
+tagGDX2WeaponGun1hB103Desc="Prodchnuta duchem Wendiga."
+
+tagGDX2WeaponGun1hC201=Pouštní osten
+tagGDX2WeaponGun1hC202=Stínový vymahač
+
+tagGDX2WeaponGun1hD201=Následník spalující msty
+tagGDX2WeaponGun1hD202=Proklatec
+tagGDX2WeaponGun1hD202_Desc="Nepodařená kletba, odsouzen k smrti."
+tagGDX2WeaponGun1hD203=Prokletý vyjebávač
+tagGDX2WeaponGun1hD204=Ludriganova příručnice
+
+tagGDX2WeaponGun1hF201=Bysmielino ruční dělo
+tagGDX2WeaponGun1hF202=Dreegovo ruční dělo
+tagGDX2WeaponGun1hF203=Krvavá vývrtka
+
+tagGDX2WeaponGun2hB201=[ms]Kurýrův opakovač
+tagGDX2WeaponGun2hB201_Desc="Každá rána zvěstuje Korvaakovu zničující pomstu."
+tagGDX2WeaponGun2hB202=[ns]Kurýrovo hořící dělo
+tagGDX2WeaponGun2hB202_Desc="Každá rána zvěstuje Korvaakovu spalující pomstu."
+tagGDX2WeaponGun2hB203=[ms]ugdenský plamenomet
+
+tagGDX2WeaponGun2hC201=Sangvinar
+
+tagGDX2WeaponGun2hD201=Korvanský červ
+tagGDX2WeaponGun2hD201_Desc="Obří červ promění v popel vše, čeho se dotkne."
+tagGDX2WeaponGun2hD202=Harpuna duší
+tagGDX2WeaponGun2hD202_Desc="Každá střela je prodchnuta nekonečným utrpením Korvaské duše."
+
+tagGDX2WeaponGun2hF201=Dreegův samostříl
+tagGDX2WeaponGun2hF202=Solaelův samostříl
+tagGDX2WeaponGun2hF203=Solaelův hltač
+
+
+tagGDX2WeaponMelee2hB201=[fs]korvanská hořící halapartna
+tagGDX2WeaponMelee2hB202=[fs]korvanská bouřná halapartna
+tagGDX2WeaponMelee2hB203=[fs]stevardská halapartna
+tagGDX2WeaponMelee2hB203_Desc="Oplývá nemožnou mocí samotných hvězd."
+tagGDX2WeaponMelee2hB204=[fs]Barthollemova palička
+tagGDX2WeaponMelee2hB205=[fs]korvanská tajemná halapartna
+tagGDX2WeaponMelee2hB206=[fs]korvanská polní halapartna
+
+tagGDX2WeaponMelee2hC201=Břitva navrátilce
+tagGDX2WeaponMelee2hC202=Čepel zběsilosti
+
+tagGDX2WeaponMelee2hD201=Dreegal'anore
+tagGDX2WeaponMelee2hD201_Desc="Nejcennější zbraň Athul Trapitele, druhého šampióna Velkého strážce."
+tagGDX2WeaponMelee2hD202=Nadaanův dosah
+tagGDX2WeaponMelee2hD202_Desc="Legendární čepel zkutá na počest patrona zlodějů a vrahů, používaná bezpočtem zabijáků po celá staletí, než se na dobro ztratila."
+tagGDX2WeaponMelee2hD203=Tenebrisův hněv
+tagGDX2WeaponMelee2hD203_Desc="Tenebrisův zloděj životů, chlemtač krve, vysvěcený v srdci Prázdnoty."
+
+tagGDX2WeaponMelee2hF201=Dreegův velký meč
+tagGDX2WeaponMelee2hF202=Solaelův stínač hlav
+tagGDX2WeaponMelee2hF203=Zahořklost
+tagGDX2WeaponMelee2hF203_Desc="Tuto zbraň údajně nosíval Dreeg po čas jeho smrtelného života."
+
+
+tagGDX2WeaponCaster1hB201=[ms]Segariův poskvrněný nůž
+tagGDX2WeaponCaster1hB201_Desc="Kdysi posvátný nůž poskvrněný dotekem Prázdnoty."
+tagGDX2WeaponCaster1hB202=[ms]Segariův obětní nůž
+tagGDX2WeaponCaster1hB202_Desc="Posvátný nůž, který používal samotný otec Kymon."
+tagGDX2WeaponCaster1hB203=[ns]Zrzčino odporné žezlo
+tagGDX2WeaponCaster1hB204=[ns]Zrzčino tajemné žezlo
+tagGDX2WeaponCaster1hB205=[fs]autorita předků
+
+tagGDX2WeaponCaster1hC201=Noční stmívání
+tagGDX2WeaponCaster1hC202=Alakrianův vyvolávač
+tagGDX2WeaponCaster1hC202_Desc="Alakrianův neortodoxní postup přeměny životní esence do surové tajemné energie nebyla na Gildam Arcanum přijata zrovna s kdovíjakým nadšením."
+
+tagGDX2WeaponCaster1hD201=Alladrahův kouzelná dýka
+tagGDX2WeaponCaster1hD201_Desc="Základ této zbraně tvoří jediné pero fénixe."
+tagGDX2WeaponCaster1hD202=Výnos Kruhu pěti
+tagGDX2WeaponCaster1hD202_Desc="Jejich vůle, hlas, příkazy, ..."
+tagGDX2WeaponCaster1hD203=Následník nemilosrdných větrů
+tagGDX2WeaponCaster1hD203_Desc="Žezlo má ozvěnu nemilosrdných větrů horských průsmyků."
+tagGDX2WeaponCaster1hD204=Empyrionovo milosrdenství
+tagGDX2WeaponCaster1hD205=Dýka mrazivého šepotu
+tagGDX2WeaponCaster1hD206=Rozsudek Tří
+tagGDX2WeaponCaster1hD207=Kráječ Pána kleteb
+
+tagGDX2WeaponCaster1hF201=Bysmielin lamač bouří
+tagGDX2WeaponCaster1hF202=Bysmielin lamač duší
+tagGDX2WeaponCaster1hF203=Dreegův tkáč závoje
+tagGDX2WeaponCaster1hF204=Dreegův tkáč zášti
+tagGDX2WeaponCaster1hF205=Solaelův posel plamenů
+tagGDX2WeaponCaster1hF206=Solaelův posel krve
+tagGDX2WeaponCaster1hF207=Bysmielina tkadlena myšlenek
+tagGDX2WeaponCaster1hF208=Vampirris
+
+
+
+#Shields
+tagGDX2ShieldB201=[fs]vrubounova ulita
+tagGDX2ShieldB202=[ms]vrubounův krunýř
+tagGDX2ShieldB203=[ms]obrovský obránce
+tagGDX2ShieldB204=[ms]masorvoucí obránce
+tagGDX2ShieldB205=[ms]obsidiánový obránce
+
+tagGDX2ShieldC201=Bouřný strážce
+tagGDX2ShieldC201_Desc="Prošpikovaný nastřádanou silou mohutné bouře."
+tagGDX2ShieldC202=Pozorovatel zmrzlého severu
+tagGDX2ShieldC203=Kameňákova hradba
+
+tagGDX2ShieldD201=Trní
+tagGDX2ShieldD202=Dotek ze záhrobí
+tagGDX2ShieldD203=Chránič ctnosti
+tagGDX2ShieldD204=Obránce Tří
+
+tagGDX2ShieldF201=Bysmielin obránce
+tagGDX2ShieldF202=Dreegův ochránce
+tagGDX2ShieldF203=Tajemník
+
+
+
+#Focus
+tagGDX2FocusB201=[fs]figurka písečného grobla
+tagGDX2FocusB202=[fs]figurka odporného grobla
+tagGDX2FocusB203=[ms]vynucený přízrak
+tagGDX2FocusB204=[ms]přinucený přízrak
+tagGDX2FocusB205=[ms]Zarthuzellanův archiv
+
+tagGDX2FocusC201=Kodex zůčtování
+tagGDX2FocusC202=Manifestarius
+tagGDX2FocusC203=Bible zničujícího požáru
+tagGDX2FocusC204=Poznatky z hledání příšery
+tagGDX2FocusC204_Desc="Zajisté spousta čtení... jak vzrušující."
+
+tagGDX2FocusD201=Empyrionův rozsudek
+tagGDX2FocusD201_Desc="Zdroj síly držený v Empyrionově věži, jejíž přesnou lokaci odvál čas."
+tagGDX2FocusD202=Dotek Mrtvého
+tagGDX2FocusD203=Kodex násilných činů
+tagGDX2FocusD204=Bible vykoupení
+tagGDX2FocusD204_Desc="Vykoupení za udatné činy."
+tagGDX2FocusD205=Inashkorova hlava
+tagGDX2FocusD205_Desc="Mocný strážce Korvanského lidu možná padl, ale jeho moc zůstává až strašidelně nedotčena."
+tagGDX2FocusD206=Figurka cyklóny
+
+tagGDX2FocusF201=Bysmielina figurka ohně
+tagGDX2FocusF202=Bysmielina poskvrněná figurka
+tagGDX2FocusF203=Dreegova bible posla duší
+tagGDX2FocusF204=Dreegova bible tkáče závoje
+tagGDX2FocusF205=Solaelova bible tkadleny nebes
+tagGDX2FocusF206=Solaelova bible Prázdnoty
+tagGDX2FocusF207=Solaelovo slovo
+tagGDX2FocusF207_Desc="Solaelova krutá slova, tak jak se předávala mezi kněžími."
+
+
+
+#ArmorHead
+tagGDX2HeadB201=[ms]chránič hlavy Vyvoleného
+tagGDX2HeadB202=[ms]maska Vyvoleného
+tagGDX2HeadB203=[fs]korvanská přilbice
+tagGDX2HeadB204=[fs]korvanská helma
+tagGDX2HeadB205=[ns]hledí Vyvoleného
+tagGDX2HeadB206=[ns]korvanské hledí
+tagGDX2HeadB207=[ms]chrličův chránič hlavy
+tagGDX2HeadB208=[ns]chrličovo hledí
+
+tagGDX2HeadC201=Kapalec protržených nebes
+tagGDX2HeadC202=Koruna pekelných drahokamů
+tagGDX2HeadC203=Zloduchova kapuce
+tagGDX2HeadC204=Fettanova maska
+tagGDX2HeadC204_Desc="Majitel této označené helmy byl pravděpodobně pomalu sežrán v průběhu několika tisíciletí."
+tagGDX2HeadC205=Baldirova maska
+tagGDX2HeadC206=Maska bouřného hada
+tagGDX2HeadC207=Maska zničujícího požáru
+tagGDX2HeadC208=Daegova kapuce
+tagGDX2HeadC209=Kameňákova helma
+tagGDX2HeadC210=Callagadrovo hledí
+tagGDX2HeadC210_Desc="Tvar představuje korvanského obyvatele utíkajícího před likvidací."
+
+tagGDX2HeadD201=Hledí odraženého světla
+tagGDX2HeadD201_Desc="Skuto z nejčistšího úlomku soladrinského krystalu."
+tagGDX2HeadD202=Koruna krále přízraků
+tagGDX2HeadD202_Desc="Smrt se klaní před svým králem."
+tagGDX2HeadD203=Soulařina helma
+tagGDX2HeadD203_Desc="Slunce tak najednou nesmírně pálí."
+tagGDX2HeadD204=Korvaakovy rohy
+tagGDX2HeadD204_Desc="Rohy Pána nebes Tajemné říše."
+tagGDX2HeadD205=Okalothův chránič hlavy
+tagGDX2HeadD206=Maska z Pokřiveného světa
+tagGDX2HeadD207=Přemožitelova helma
+tagGDX2HeadD208=Koruna mrazivých šepotů
+tagGDX2HeadD209=Ludriganův kapalec
+tagGDX2HeadD210=Kapuce obchodníka s kostmi
+tagGDX2HeadD211=Hledí ctnosti
+tagGDX2HeadD212=Harrova kapuce
+tagGDX2HeadD213=Maska cyklóny
+tagGDX2HeadD214=Kapuce Pána zmaru
+tagGDX2HeadD215=Callagadrův chránič hlavy
+tagGDX2HeadD215_Desc="Tvar představuje korvanského obyvatele utíkajícího před likvidací."
+
+tagGDX2HeadF201=Bysmielina noční přilbice
+tagGDX2HeadF202=Bysmielina hrůzná kapuce
+tagGDX2HeadF203=Bysmielin bouřný šalíř
+tagGDX2HeadF204=Bysmielin plamenný šalíř
+tagGDX2HeadF205=Dreegova hrůzná přilbice
+tagGDX2HeadF206=Dreegova bitevní přilbice
+tagGDX2HeadF207=Dreegova jedem napuštěná kapuce
+tagGDX2HeadF208=Dreegův ochranný šalíř
+tagGDX2HeadF209=Solaelova bitevní přilbice
+tagGDX2HeadF210=Solaelova kapuce Prázdnoty
+tagGDX2HeadF211=Solaelova kapuce černého plamene
+tagGDX2HeadF212=Solaelův odporný šalíř
+
+
+
+#ArmorShoulders
+tagGDX2ShoulderB201=[mp]rytířské nárameníky Vyvoleného
+tagGDX2ShoulderB202=[fp]epolety Vyvoleného
+tagGDX2ShoulderB203=[mp]korvanské skládané nárameníky
+tagGDX2ShoulderB204=[mp]korvanské rytířské nárameníky
+tagGDX2ShoulderB205=[mp]chrličovy ostny
+
+tagGDX2ShoulderC201=Ohořelé tkané nárameníky
+tagGDX2ShoulderC202=Chrániče ramen prašivého rváče
+tagGDX2ShoulderC203=Baldirovy tkané nárameníky
+tagGDX2ShoulderC204=Tkané nárameníky zničujícího požáru
+tagGDX2ShoulderC205=Daegovy tkané nárameníky
+
+tagGDX2ShoulderD201=Skládané nárameníky odraženého světla
+tagGDX2ShoulderD201_Desc="Skuty z nejčistšího úlomku soladrinského krystalu."
+tagGDX2ShoulderD202=Skládané nárameníky kostěného přízraku
+tagGDX2ShoulderD203=Mrazem skuté tkané nárameníky
+tagGDX2ShoulderD204=Tkané nárameníky z Pokřiveného světa
+tagGDX2ShoulderD205=Přemožitelovy tkané nárameníky
+tagGDX2ShoulderD206=Tkané nárameníky mrazivých šepotů
+tagGDX2ShoulderD207=Chrániče ramen obchodníka s kostmi
+tagGDX2ShoulderD208=Strážce ctnosti
+tagGDX2ShoulderD209=Chrániče ramen Tří
+tagGDX2ShoulderD210=Harrovy chrániče ramen
+tagGDX2ShoulderD211=Tkané nárameníky cyklóny
+tagGDX2ShoulderD212=Rah'Zinovy chrániče ramen
+tagGDX2ShoulderD213=Tkané nárameníky Pána zmaru
+tagGDX2ShoulderD214=Gholovy tkané nárameníky
+
+tagGDX2ShoulderF201=Bysmieliny tajemné rytířské nárameníky
+tagGDX2ShoulderF202=Bysmieliny bouřné tkané nárameníky
+tagGDX2ShoulderF203=Bysmieliny ochranné skládané nárameníky
+tagGDX2ShoulderF204=Bysmieliny plamenné skládané nárameníky
+tagGDX2ShoulderF205=Dreegovy hrůzné rytířské nárameníky
+tagGDX2ShoulderF206=Dreegovy bitevní rytířské nárameníky
+tagGDX2ShoulderF207=Dreegovy odporné tkané nárameníky
+tagGDX2ShoulderF208=Dreegovy jedem napuštěné skládané nárameníky
+tagGDX2ShoulderF209=Solaelovy bitevní rytířské nárameníky
+tagGDX2ShoulderF210=Solaelovy krvavé tkané nárameníky
+tagGDX2ShoulderF211=Solaelovy tkané nárameníky černého plamene
+tagGDX2ShoulderF212=Solaelovy odporné skládané nárameníky
+
+
+
+#ArmorTorso
+tagGDX2TorsoB201=[fs]róba Vyvoleného
+tagGDX2TorsoB201_Desc="Tento druh rób je ušit z ukradených sil Korvaakových nepřátel."
+tagGDX2TorsoB202=[ms]roucho Vyvoleného
+tagGDX2TorsoB203=[ns]korvanské plátování
+tagGDX2TorsoB204=[fs]korvanská zbroj
+
+tagGDX2TorsoC201=Cortosianský hrudní chránič
+tagGDX2TorsoC202=Runami pobitý hrudní chránič
+tagGDX2TorsoC203=Baldirova zbroj
+tagGDX2TorsoC204=Zbroj bouřného hada
+tagGDX2TorsoC205=Háv zničujícího požáru
+tagGDX2TorsoC206=Daegovo roucho
+tagGDX2TorsoC207=Kameňákova zbroj
+
+tagGDX2TorsoD201=Drátěná košile odraženého světla
+tagGDX2TorsoD201_Desc="Skuta z nejčistšího úlomku soladrinského krystalu."
+tagGDX2TorsoD202=Háv ztracené důvěry
+tagGDX2TorsoD202_Desc="Zklamaná nedodrženými sliby menhirských kněží si Thalia našla jiný hlas, které vyslyšely její modlitby."
+tagGDX2TorsoD203=Yugolovo srdce
+tagGDX2TorsoD203_Desc="Jakmile se objevila temnota, to odporné srdce začalo bít v rytmu nebeských melodií."
+tagGDX2TorsoD204=Zbroj z Pokřiveného světa
+tagGDX2TorsoD205=Přemožitelova zbroj
+tagGDX2TorsoD206=Háv mrazivých šepotů
+tagGDX2TorsoD207=Ludriganův kabátec
+tagGDX2TorsoD208=Hrudní chránič obchodníka s kostmi
+tagGDX2TorsoD209=Zbroj ctnosti
+tagGDX2TorsoD210=Zbroj Tří
+tagGDX2TorsoD211=Harrův hrudní chránič
+tagGDX2TorsoD212=Rah'Zinova zbroj
+tagGDX2TorsoD213=Gholovo roucho
+
+tagGDX2TorsoF201=Bysmielin noční hrudní chránič
+tagGDX2TorsoF202=Bysmielin odporný háv
+tagGDX2TorsoF203=Bysmielin bouřný kyrys
+tagGDX2TorsoF204=Bysmielin plamenný kyrys
+tagGDX2TorsoF205=Dreegův hrůzný hrudní chránič
+tagGDX2TorsoF206=Dreegův bitevní hrudní chránič
+tagGDX2TorsoF207=Dreegův tajemný háv
+tagGDX2TorsoF208=Dreegův ochranný kyrys
+tagGDX2TorsoF209=Solaelův bitevní hrudní chránič
+tagGDX2TorsoF210=Solaelův háv Prázdnoty
+tagGDX2TorsoF211=Solaelův háv černého plamene
+tagGDX2TorsoF212=Solaelův odporný kyrys
+
+
+
+#ArmorHands
+tagGDX2HandsB201=[fp]pěstnice morového strážce
+tagGDX2HandsB202=[fp]rytířské rukavice spáleného strážce
+
+tagGDX2HandsC201=Turinovy pěstnice
+tagGDX2HandsC201_Desc="Rytířské rukavice Turina, štítonoše z Ikonu, který zahynul ve službách Empyriona."
+tagGDX2HandsC202=Obřadní chrániče rukou
+tagGDX2HandsC203=Prsťákovy pěstnice
+tagGDX2HandsC203_Desc="Tyhle jsou jistě... efektivní při přetrvávajícím vzrušení."
+tagGDX2HandsC204=Nátepníky prohnilého následníka
+
+tagGDX2HandsD201=Pařáty Prázdnoty
+tagGDX2HandsD201_Desc="Namočené v krvácejícím srdci ryloka."
+tagGDX2HandsD202=Pěstnice odraženého světla
+tagGDX2HandsD202_Desc="Skuty z nejčistšího úlomku soladrinského krystalu."
+tagGDX2HandsD203=Nátepníky písečného plenitele
+tagGDX2HandsD203_Desc="Nositel těchto rukavic prolil krev v nekonečných pouštích tolikrát, že se to nedá ani spočítat."
+tagGDX2HandsD204=Gholův dotek
+
+
+
+#ArmorLegs
+tagGDX2LegsB201=[fp]kamaše bouřného strážce
+tagGDX2LegsB202=[fp]nohavice mrazivého strážce
+
+tagGDX2LegsC201=Opovrženíhodné nožní pláty
+tagGDX2LegsC202=Hvězdné hnátnice
+
+tagGDX2LegsD201=Náholeníky ze zmrzlého kamene
+tagGDX2LegsD202=Runami ocejchované hnátnice
+tagGDX2LegsD203=Kamaše z tajemných proudů
+
+
+
+#ArmorFeet
+tagGDX2FeetC201=Turinův krok
+tagGDX2FeetC201_Desc="Turin, ikonský lamač štítů, měl při svých posledních krvavých krocích ve službách Empyriona právě tyto boty."
+tagGDX2FeetC202=Rozdrbané pohorky
+tagGDX2FeetC203=Opovrženíhodné pohorky
+
+tagGDX2FeetD201=Boty prvního vzteku
+tagGDX2FeetD202=Kamenité válenky
+tagGDX2FeetD203=Amatokův krok
+tagGDX2FeetD203_Desc="Posvěcené na zamrzlém vrcholku, když byla Amatokova hvězda viditelná na noční obloze."
+tagGDX2FeetD204=Elegance smrtících chodců
+
+
+
+#ArmorWaist
+tagGDX2WaistB201=[ms]chrličův opasek
+tagGDX2WaistB202=[ms]chrličův strážný opasek
+
+tagGDX2WaistC201=Opasek z železného srdce
+tagGDX2WaistC202=Opasek z ďáblovy kůže
+tagGDX2WaistC203=Obroučka bouřného hada
+
+tagGDX2WaistD201=Pastýř bouří
+tagGDX2WaistD202=Karmínový leknín
+tagGDX2WaistD202_Desc="Značka Karmínového leknínu, těch, kteří by rádi viděli svět spálený ohněm."
+tagGDX2WaistD203=Řetězy nočního ohně
+tagGDX2WaistD204=Bílý leknín
+tagGDX2WaistD204_Desc="Značka Bílého leknínu, správců nebeské květiny, která kvete na Korvanských pláních."
+tagGDX2WaistD205=Nosferattis
+tagGDX2WaistD206=Rah'Zinův strážný opasek
+tagGDX2WaistD207=Murmurův polibek
+
+tagGDX2WaistF201A=Bysmielin smrtonosný opasek stráže
+tagGDX2WaistF201B=Bysmielin smrtonosný opasek
+tagGDX2WaistF202A=Dreegův jedem napuštěný opasek stráže
+tagGDX2WaistF202B=Dreegův jedem napuštěný opasek
+tagGDX2WaistF203A=Solaelův odporný opasek stráže
+tagGDX2WaistF203B=Solaelův odporný opasek
+
+
+
+#Rings
+tagGDX2RingB201=[ms]plíživý prsten
+
+tagGDX2RingC201=Rudošípkův kroužek
+tagGDX2RingC202=Kroužek strážce závoje
+
+tagGDX2RingD201=Menhirian
+tagGDX2RingD201_Desc="Pečeť Menhirského chrámu, která se přidělovala nejzanícenějším následníkům."
+tagGDX2RingD202=Kletba Světla
+tagGDX2RingD203=Yugolova božská krev
+tagGDX2RingD203_Desc="Kape do temnoty, která hrozí pohlcením tvého těla."
+tagGDX2RingD204=Kroužek nekonečné hranice
+tagGDX2RingD205=Glyf bouřné čarodějnice
+tagGDX2RingD206=Bysmielina autorita
+tagGDX2RingD207=Bysmielin vliv
+
+
+tagGDX2RingF201=Bysmielin odporný pečetní prsten
+tagGDX2RingF202=Bysmielin chladný pečetní prsten
+tagGDX2RingF203=Dreegův jedovatý pečetní prsten
+tagGDX2RingF204=Dreegův ostrý pečetní prsten
+tagGDX2RingF205=Solaelův pečetní prsten ohnivé bouře
+tagGDX2RingF206=Solaelův pokroucený pečetní prsten
+
+
+
+#Necklaces
+tagGDX2NecklaceB200=[ms]Wilhelmům úchvatný klenot z války
+tagGDX2NecklaceB200_Desc="Áááááááách."
+tagGDX2NecklaceB201=[ns]Kaisanovo hořící oko
+tagGDX2NecklaceB201_Desc="Kaisanovo smrtelné oko na tebe civí z tohoto přívěsku."
+tagGDX2NecklaceB202=[ns]Kaisanovo tajemné oko
+tagGDX2NecklaceB202_Desc="Kaisanovo smrtelné oko na tebe civí z tohoto přívěsku."
+
+tagGDX2NecklaceD113I=Řetízek božských šepotů
+
+tagGDX2NecklaceC201=Drahokamy tajemného chladu
+tagGDX2NecklaceC202=Chaotický pohled
+
+tagGDX2NecklaceD201=Ztělesnění Řádu
+tagGDX2NecklaceD201_Desc="Druhá ze sedmi posvátných ctností lidstva."
+tagGDX2NecklaceD202=Azrakaaova poušť
+tagGDX2NecklaceD203=Ztělesnění Chaosu
+tagGDX2NecklaceD203_Desc="Třetí ze sedmi posvátných ctností lidstva, pokřivená nad rámec míry Prázdnoty."
+tagGDX2NecklaceD204=Vůle zabít
+tagGDX2NecklaceD205=Srdce písečného krále
+tagGDX2NecklaceD205_Desc="Gannar'vakkarova srdce, krále Korvanské pouště."
+tagGDX2NecklaceD206=Ochrana Pokřiveného světa
+tagGDX2NecklaceD207=Drahokam přemožitele
+tagGDX2NecklaceD208=Drahokam obchodníka s kostmi
+tagGDX2NecklaceD209=Ochrana ctnosti
+tagGDX2NecklaceD210=Harrova ochrana
+tagGDX2NecklaceD211=Rah'Zinův drahokam
+tagGDX2NecklaceD212=Klenba Pána zmaru
+tagGDX2NecklaceD213=Bysmielina duhovka
+
+tagGDX2NecklaceF201=Bysmielin šampiónský přívěsek
+tagGDX2NecklaceF202=Bysmielin zahalený přívěsek
+tagGDX2NecklaceF203=Dreegův tajemný přívěsek
+tagGDX2NecklaceF204=Dreegův přívěsek s otrávenými trny
+tagGDX2NecklaceF205=Solaelův přívěsek ohnivé bouře
+tagGDX2NecklaceF206=Solaelův přívěsek Prázdnoty
+tagGDX2NecklaceF207=Přívěsek nočního stopaře
+tagGDX2NecklaceF208=Otrávený plamen
+tagGDX2NecklaceF209=Nával krve
+
+
+
+#Medals
+tagGDX2MedalA200=[ms]odznak úpornosti
+
+tagGDX2MedalB201=[ms]tesák baziliška
+tagGDX2MedalB201_Desc="Z tesáku stále odkapává toxický jed."
+tagGDX2MedalB202=[fs]Wendigova záře
+tagGDX2MedalB202_Desc="Krvavé vystřelené oko dychtivě zírá na svou oběť."
+
+tagGDX2MedalC201=Znak mučivých lží
+tagGDX2MedalC202=Znak nářků smrti
+tagGDX2MedalC203=Kameňákův znak
+
+tagGDX2MedalD201=Erb zimní statečnosti
+tagGDX2MedalD202=Korvaakův cejch
+tagGDX2MedalD202_Desc="Velmi horké označení věrných jedinců."
+tagGDX2MedalD203=Znak krvavých konců
+tagGDX2MedalD204=Znak nešťastných tužeb
+tagGDX2MedalD204_Desc="Stačil jeden příkaz shora."
+tagGDX2MedalD205=Znak neživého
+tagGDX2MedalD206=Ludriganův znak
+tagGDX2MedalD207=Znak Cyklóny
+tagGDX2MedalD208=Gholův znak
+tagGDX2MedalD209=Bysmielin znak
+
+tagGDX2MedalF201=Bysmielin znak manipulace
+tagGDX2MedalF202=Bysmielin znak bouří
+tagGDX2MedalF203=Dreegův znak chladu
+tagGDX2MedalF204=Dreegův znak černého plamene
+tagGDX2MedalF205=Solaelův znak krveprolití
+tagGDX2MedalF206=Solaelův znak krve
+tagGDX2MedalF207=Znak královny stínů
+tagGDX2MedalF208=Znak značných dálek
+tagGDX2MedalF209=Znak spalujících stínů
+
+
+
+#Blueprints
+tagGDX2Blueprint_RelicC201=Plánek: Relikvie - Vytrvalost
+
+tagGDX2Blueprint_RelicD201=Plánek: Relikvie - Rozjímání
+tagGDX2Blueprint_RelicD202=Plánek: Relikvie - Čest
+tagGDX2Blueprint_RelicD203=Plánek: Relikvie - Azrakkova epocha
+tagGDX2Blueprint_RelicD204=Plánek: Relikvie - Yugolovo hladovění
+tagGDX2Blueprint_RelicD205=Plánek: Relikvie - Vyrovnanost
+tagGDX2Blueprint_RelicD206=Plánek: Relikvie - Rozhřešení
+
+tagGDX2Blueprint_WaistF201A=Plánek: Bysmielin smrtonosný opasek stráže
+tagGDX2Blueprint_WaistF201B=Plánek: Bysmielin smrtonosný opasek
+tagGDX2Blueprint_WaistF202A=Plánek: Dreegův jedem napuštěný opasek stráže
+tagGDX2Blueprint_WaistF202B=Plánek: Dreegův jedem napuštěný opasek
+tagGDX2Blueprint_WaistF203A=Plánek: Solaelův odporný opasek stráže
+tagGDX2Blueprint_WaistF203B=Plánek: Solaelův odporný opasek
+
+tagGDX2Blueprint_WeaponD201=Plánek: Vynikající Následník nemilosrdných větrů
+tagGDX2Blueprint_WeaponD202=Plánek: Rozsudek Tří
+
+tagGDX2Blueprint_WeaponF201=Plánek: Krvavá vývrtka
+tagGDX2Blueprint_WeaponF202=Plánek: Bysmielin hlavodrtič
+tagGDX2Blueprint_WeaponF203=Plánek: Bysmielina tkadlena myšlenek
+tagGDX2Blueprint_WeaponF204=Plánek: Kazisvět
+tagGDX2Blueprint_WeaponF205=Plánek: Zahořklost
+tagGDX2Blueprint_WeaponF206=Plánek: Tajemník
+tagGDX2Blueprint_WeaponF207=Plánek: Otvírač ran
+tagGDX2Blueprint_WeaponF208=Plánek: Solaelův hltač
+tagGDX2Blueprint_WeaponF209=Plánek: Solaelovo slovo
+tagGDX2Blueprint_WeaponF210=Plánek: Vampirris
+
+tagGDX2Blueprint_ArmorB201=Plánek: Pěstnice morového strážce
+tagGDX2Blueprint_ArmorB202=Plánek: Rytířské rukavice spáleného strážce
+tagGDX2Blueprint_ArmorB203=Plánek: Kamaše bouřného strážce
+tagGDX2Blueprint_ArmorB204=Plánek: Nohavice mrazivého strážce
+
+tagGDX2Blueprint_ArmorC201=Plánek: Vynikající Zhoubný chránič obličeje
+tagGDX2Blueprint_ArmorC202=Plánek: Kameňákova helma
+
+tagGDX2Blueprint_ArmorD201=Plánek: Hledí odraženého světla
+tagGDX2Blueprint_ArmorD202=Plánek: Koruna krále přízraků
+tagGDX2Blueprint_ArmorD203=Plánek: Soulařina helma
+tagGDX2Blueprint_ArmorD204=Plánek: Vynikající Hledí odraženého světla
+tagGDX2Blueprint_ArmorD205=Plánek: Vynikající koruna krále přízraků
+tagGDX2Blueprint_ArmorD206=Plánek: Vynikající Soulařina helma
+tagGDX2Blueprint_ArmorD207=Plánek: Kapuce mrazivých šepotů
+tagGDX2Blueprint_ArmorD208=Plánek: Ludriganův kapalec
+tagGDX2Blueprint_ArmorD209=Plánek: Kapuce obchodníka s kostmi
+tagGDX2Blueprint_ArmorD210=Plánek: Hledí ctnosti
+tagGDX2Blueprint_ArmorD211=Plánek: Harrova helma
+tagGDX2Blueprint_ArmorD212=Plánek: Maska cyklóny
+tagGDX2Blueprint_ArmorD213=Plánek: Rah'Zinova zbroj
+tagGDX2Blueprint_ArmorD214=Plánek: Kapuce Pána zmaru
+tagGDX2Blueprint_ArmorD215=Plánek: Gholovo roucho
+
+tagGDX1Blueprint_AccessoryD121I=Plánek: Řetízek božských šepotů
+
+tagGDX2Blueprint_AccessoryD201=Plánek: Bílý leknín
+tagGDX2Blueprint_AccessoryD202=Plánek: Vynikající Karmínový leknín
+tagGDX2Blueprint_AccessoryD203=Plánek: Vynikající Znak nešťastných tužeb
+tagGDX2Blueprint_AccessoryD204=Plánek: Vynikající Yugolova božská krev
+
+tagGDX2Blueprint_AccessoryF201=Plánek: Přívěsek nočního stopaře
+tagGDX2Blueprint_AccessoryF202=Plánek: Otrávený plamen
+tagGDX2Blueprint_AccessoryF203=Plánek: Nával krve
+
+tagGDX2Blueprint_AccessoryF204=Plánek: Znak královny stínů
+tagGDX2Blueprint_AccessoryF205=Plánek: Znak značných dálek
+tagGDX2Blueprint_AccessoryF206=Plánek: Znak spalujících stínů
+
+
+tagGDX2Blueprint_RuneC201=Plánek: Symbol Korvanské rychlosti
+tagGDX2Blueprint_RuneC202=Plánek: Glyf Korvanské rychlosti
+tagGDX2Blueprint_RuneC203=Plánek: Runa Korvanské rychlosti
+tagGDX2Blueprint_RuneC204=Plánek: Symbol Dreegova přechýlení
+tagGDX2Blueprint_RuneC205=Plánek: Glyf Dreegova přechýlení
+tagGDX2Blueprint_RuneC206=Plánek: Runa Dreegova přechýlení
+tagGDX2Blueprint_RuneC207=Plánek: Symbol Rahnovi moci
+tagGDX2Blueprint_RuneC208=Plánek: Glyf Rahnovi moci
+tagGDX2Blueprint_RuneC209=Plánek: Runa Rahnovy moci
+
+tagGDX2Blueprint_RuneC210=Plánek: Glyf vyhladovělého Wendiga
+tagGDX2Blueprint_RuneC211=Plánek: Glyf severského berana
+tagGDX2Blueprint_RuneC212=Plánek: Glyf nehmotných větrů
+tagGDX2Blueprint_RuneC213=Plánek: Glyf seizmické síly
+tagGDX2Blueprint_RuneC214=Plánek: Glyf hlučné bouře
+tagGDX2Blueprint_RuneC215=Plánek: Glyf dravé mantikory
+tagGDX2Blueprint_RuneC216=Plánek: Glyf tajemných porozumění
+tagGDX2Blueprint_RuneC217=Plánek: Glyf hořících bran
+tagGDX2Blueprint_RuneC218=Plánek: Glyf nenucených čepelí
+tagGDX2Blueprint_RuneC219=Plánek: Glyf zmatku
+tagGDX2Blueprint_RuneC220=Plánek: Glyf zimní lišky
+tagGDX2Blueprint_RuneC221=Plánek: Glyf vycházejícího fénixe
+tagGDX2Blueprint_RuneC222=Plánek: Glyf děsivých ústupků
+tagGDX2Blueprint_RuneC223=Plánek: Glyf nepolapitelného zabijáka
+tagGDX2Blueprint_RuneC224=Plánek: Glyf sinalé marnosti
+tagGDX2Blueprint_RuneC225=Plánek: Glyf náhlých zásahů
+tagGDX2Blueprint_RuneC226=Plánek: Glyf ocasu štíra
+tagGDX2Blueprint_RuneC227=Plánek: Glyf nevypočitatelných duší
+
+tagGDX2Blueprint_RuneD201=Plánek: Runa Amatokova dechu
+tagGDX2Blueprint_RuneD202=Plánek: Runa padlých králů
+tagGDX2Blueprint_RuneD203=Plánek: Runa násilných rozkoší
+tagGDX2Blueprint_RuneD204=Plánek: Runa Ulzuinova pádu
+tagGDX2Blueprint_RuneD205=Plánek: Runa tajemné nestability
+tagGDX2Blueprint_RuneD206=Plánek: Runa tvůrce Temnoty
+tagGDX2Blueprint_RuneD207=Plánek: Runa neohroženosti
+tagGDX2Blueprint_RuneD208=Plánek: Runa Dreegových zranění
+tagGDX2Blueprint_RuneD209=Plánek: Runa Nadaanova výpadu
+tagGDX2Blueprint_RuneD210=Plánek: Runa Ultosova příchodu
+tagGDX2Blueprint_RuneD211=Plánek: Runa hvězdných bran
+tagGDX2Blueprint_RuneD212=Plánek: Runa vyvrácení
+tagGDX2Blueprint_RuneD213=Plánek: Runa tajfunu
+tagGDX2Blueprint_RuneD214=Plánek: Runa Ulzaadova šílenství
+tagGDX2Blueprint_RuneD215=Plánek: Runa bídných přání
+tagGDX2Blueprint_RuneD216=Plánek: Runa Murmuřina polibku
+tagGDX2Blueprint_RuneD217=Plánek: Runa Ishtakova milosrdenství
+tagGDX2Blueprint_RuneD218=Plánek: Runa upířích stínů
+tagGDX2Blueprint_RuneD219=Plánek: Runa temných tužeb
+tagGDX2Blueprint_RuneD220=Plánek: Runa bouřného titána
+tagGDX2Blueprint_RuneD221=Plánek: Runa spalujících konců
+
+
+#Relics
+tagGDX2RelicC201=Vytrvalost
+tagGDX2RelicC201Desc="Vůle pokračovat přes veškerou nepřízeň."
+
+tagGDX2RelicD201=Rozjímání
+tagGDX2RelicD201Desc="Přítomnost mysli umožňuje chápat více skutečností."
+
+tagGDX2RelicD202=Čest
+tagGDX2RelicD202Desc="Neustálá honba za spravedlností ve světě, kde je zcela vymýcena."
+
+tagGDX2RelicD203=Azrakaaova epocha
+tagGDX2RelicD203Desc="Vráska z přelomu doby."
+
+tagGDX2RelicD204=Yugolovo hladovění
+tagGDX2RelicD204Desc="Nenažranost, která se nedá srovnat se stvořením."
+
+tagGDX2RelicD205=Vyrovnanost
+tagGDX2RelicD205Desc="Mír v samotném těle."
+
+tagGDX2RelicD206=Rozhřešení
+tagGDX2RelicD206Desc="Síla vůle vykonávat spravedlnost."
+
+
+
+#Crafting
+tagCraftTabArtifactA=Relikvie a runy
+tagCraftTabArtifactB=Talismany, relikvie a artefakty velké síly. Runy ti umožní získat zcela nové schopnosti.
+
+tagGDX1CraftRandomLegendaryDesc2=Kovář spojuje surové tajemné síly společně s těmito předměty a vytváří nové předměty s legendárním potenciálem až do úrovně 94, kromě předmětů ukovaných Zapomenutými bohy. Postavy s úrovní nižší než 58 získají leda epický předmět.
+tagGDX1CraftRandomLegendaryAccessoryDesc2=Kovář spojuje surové tajemné síly společně s těmito předměty a vytváří nové předměty s legendárním potenciálem až do úrovně 94, kromě předmětů ukovaných Zapomenutými bohy. Postavy s úrovní nižší než 58 získají leda epický předmět.
+tagGDX1CraftRandomLegendaryItemDesc2=Kovář vyrábí očarované předměty legendární kvality na tvé úrovni, nejvýše však do 94. úrovně. Nelze vyrobit předměty skuté Zapomenutými bohy.
+
+tagGDX2CraftRandomCraftingMaterial=Kovářský materiál
+tagGDX2CraftRandomCraftingMaterialDesc=Z esence samotného stvoření světa kovář vyrábí silné materiály, které jsou použitelné k vyrobení mocných předmětů a relikvií.
+
+tagGDX2CraftRandomLegendaryDesc3=Kovář spojuje surové tajemné síly společně s těmito předměty a vytváří nové předměty s legendárním potenciálem až do úrovně 94, včetně předmětů ukovanými Zapomenutými bohy. Postavy s úrovní nižší než 58 získají leda epický předmět.
+tagGDX2CraftRandomLegendaryAccessoryDesc3=Kovář spojuje surové tajemné síly společně s těmito předměty a vytváří nové předměty s legendárním potenciálem až do úrovně 94, včetně předmětů ukovanými Zapomenutými bohy. Postavy s úrovní nižší než 58 získají leda epický předmět.
+tagGDX2CraftRandomLegendaryItemDesc3=Kovář vyrábí očarované předměty legendární kvality na tvé úrovni, nejvýše však do 94. úrovně. Samozřejmě včetně předmětů skutých Zapomenutými bohy.
+
+tagGDX2CraftMaterial_Eldritch=Tajemná esence
+tagGDX2CraftMaterial_Eldritch_Desc="Viskózní a tekutá se surovou kouzelnou silou, pocházející z Tajemné říše."
+
+tagGDX2CraftMaterial_Lotus=Nebeský leknín
+tagGDX2CraftMaterial_Lotus_Desc="Květy je možné najít pouze v okolí Korvanské náhorní plošiny a v záhadných zříceninách. Mnozí věří, že byly vypěstovány pomocí božského světla a hvězdného jasu a jsou považovány za předzvěst štěstí."
+
+tagGDX2CraftMaterial_Sacrifice=Nebeská esence
+tagGDX2CraftMaterial_Sacrifice_Desc="Esence reality, samotné existence. Může být použita v mocných rituálech, pokud je nalezeno vhodné místo pro tyto pochybné události."
+
+tagGDX2CraftMaterial_IronExchange_01=Železný prut
+tagGDX2CraftMaterial_IronExchange_01_Desc=Hodnotný zdroj ve světě zpustošeném smrtí.^w^n^nGarrus, strážce pokladny z Konkláve Tří, rád vymění tento předmět za 50.000 železných mincí.
+
+tagGDX2CraftMaterial_IronExchange_02=Štos železných prutů
+tagGDX2CraftMaterial_IronExchange_02_Desc=Hodnotný zdroj ve světě zpustošeném smrtí.^w^n^nGarrus, strážce pokladny z Konkláve Tří, rád vymění tento předmět za 500.000 železných mincí.
+
+#Consumables
+tagGDX2Consumable_01=Záhadná koule
+tagGDX2Consumable_01_Desc="Účel koule, respektive její původ, je zcela záhadný. Bylo by rozumné použít tuto věc..."
+
+tagGDX2Consumable_02=Nebeská koule
+tagGDX2Consumable_02_Desc="Zbytek Pokřivené říše. Ale k jakému účelu to slouží..."
+
+
+#ItemEnchantment
+tagGDX2EnchantA201A=Korvanský sluneční prach
+tagGDX2EnchantA201Desc="Krystaly jsou naplněny spalujícím sluncem Korvanské náhorní plošiny."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
+
+tagGDX2EnchantA202A=Silný korvanský sluneční prach
+tagGDX2EnchantA202Desc="Krystaly jsou naplněny spalujícím sluncem Korvanské náhorní plošiny."^w^n(použitelné na všechny obouruční zbraně)
+
+tagGDX2EnchantA203A=Zmijí jed
+tagGDX2EnchantA203Desc="Jed z korvanské zmije, opatrně extrahovaný a uchovaný v očarovaném váčku, který se nerozpustí silou jedu."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
+
+tagGDX2EnchantA204A=Silný zmijí jed
+tagGDX2EnchantA204Desc="Jed z korvanské zmije, opatrně extrahovaný a uchovaný v očarovaném váčku, který se nerozpustí silou jedu."^w^n(použitelné na všechny obouruční zbraně)
+
+tagGDX2EnchantA205A=Tesák písečného ještěra
+tagGDX2EnchantA205Desc="Jemně rozemletý tesák do kouzelného prášku, vytržený písečným ještěrům pohybujícím se v Korvanských dunách."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
+
+tagGDX2EnchantA206A=Silný tesák písečného ještěra
+tagGDX2EnchantA206Desc="Jemně rozemletý tesák do kouzelného prášku, vytržený písečným ještěrům pohybujícím se v Korvanských dunách."^w^n(použitelné na všechny obouruční zbraně)
+
+tagGDX2EnchantA207A=Šupina písečného ještěra
+tagGDX2EnchantA207Desc="Když matriarchy písečných ještěrů línají, některé z jejich šupin vstřebávají více okolních tajemných energií z celé oblasti. Z těch se pak dají vyrobit ty nejsilnější očarování."^w^n(použitelné na prsten nebo amulet)
+
+tagGDX2EnchantA208A=Zmijí šupina
+tagGDX2EnchantA208Desc="Šupiny posbírané z Korvanských zmijí, jejichž získání je stejně náročné jako vytrhnout jedovaté tesáky."^w^n(použitelné na prsten nebo amulet)
+
+tagGDX2EnchantA209A=Prach ze spálené kůry
+tagGDX2EnchantA209Desc="Popel ze stromů spálených hněvem zapomenutého boha."^w^n(použitelné na prsten nebo amulet)
+
+tagGDX2EnchantA210A=Prášek ze shnilého šlahounu
+tagGDX2EnchantA210Desc="Zápach z tohoto prášku je jen zlomek podivného smradu, který vydává samotná rostlina."^w^n(použitelné na prsten nebo amulet)
+
+tagGDX2EnchantA211A=Prach z korvanského kaktusu
+tagGDX2EnchantA211Desc="Korvanské kaktusy jsou přeplněné drahocenou vodou z Korvanské náhorní plošiny a absorbují tak tajemné energie, které v ní kolují."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
+
+tagGDX2EnchantA212A=Silný prach z korvanského kaktusu
+tagGDX2EnchantA212Desc="Korvanské kaktusy jsou přeplněné drahocenou vodou z Korvanské náhorní plošiny a absorbují tak tajemné energie, které v ní kolují."^w^n(použitelné na všechny obouruční zbraně)
+
+tagGDX2EnchantA213A=Prach z tajemného květu
+tagGDX2EnchantA213Desc="Prášek získaný ze vzácné rostliny nalezené pouze na Korvanské náhorní plošině. Její biologické vlastnosti jsou na první pohled odlišné od jiné flory nacházející se v této oblasti."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
+
+tagGDX2EnchantA214A=Silný prach z tajemného květu
+tagGDX2EnchantA214Desc="Prášek získaný ze vzácné rostliny nalezené pouze na Korvanské náhorní plošině. Její biologické vlastnosti jsou na první pohled odlišné od jiné flory nacházející se v této oblasti."^w^n(použitelné na všechny obouruční zbraně)
+
+tagGDX2EnchantA215A=Prášek z lastury vrubouna
+tagGDX2EnchantA215Desc="Lastury korvanských vrubounů vytváří jemný a okouzlující prášek, pokud se je podaří pořádně rozdrtit."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
+
+tagGDX2EnchantA216A=Silný prášek z lastury vrubouna
+tagGDX2EnchantA216Desc="Lastury korvanských vrubounů vytváří jemný a okouzlující prášek, pokud se je podaří pořádně rozdrtit."^w^n(použitelné na všechny obouruční zbraně)
+
+tagGDX2EnchantA217A=Tesák z chrliče
+tagGDX2EnchantA217Desc="Tesák z mýtického tajemného stvoření, zřídkakdy viděného mimo Tajemnou říši."^w^n(použitelné na prsten nebo amulet)
+
+tagGDX2EnchantA218A=Prášek z trnu šalvěje
+tagGDX2EnchantA218Desc="Trn šalvěje je mezi učenci považován za vzácnost pro jeho nachový inkoust. Tyto trny jsou však skryty za dalšími, a musí se k nim dostat opatrně, jinak způsobí poranění, které se nikdy nezahojí."^w^n(použitelné na prsten nebo amulet)
+
+tagGDX2EnchantA219A=Prach z roušky reality
+tagGDX2EnchantA219Desc="Prášek pochází z rušivých projevů Prázdnoty, které se patrně živí bariérou mezi realitami."^w^n(použitelné na prsten nebo amulet)
+
+tagGDX2EnchantA220A=Sůl Prázdnoty
+tagGDX2EnchantA220Desc="Očarovaný prášek získaný z popela samotné Prázdnoty. Ve směsi je cítit náznak lidských duší, ale nelze rozpoznat, zda se jedná o přídavek nebo další nepříjemný aspekt Prázdnoty."^w^n(použitelné na prsten nebo amulet)
+
+tagGDX2EnchantA221A=Šupina chrliče
+tagGDX2EnchantA221Desc="Hemží se tajemnými energiemi a je téměř nemožné přeměnit šupinu na prach bez alchymistických nástrojů."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
+
+tagGDX2EnchantA222A=Silná šupina chrliče
+tagGDX2EnchantA222Desc="Hemží se tajemnými energiemi a je téměř nemožné přeměnit šupinu na prach bez alchymistických nástrojů."^w^n(použitelné na všechny obouruční zbraně)
+
+tagGDX2EnchantA223A=Šerý květ
+tagGDX2EnchantA223Desc="Rozemleté okvětní lístky silné rostliny, která v současné době zřídkakdy kvete ve vodách Korvanské náhorní plošiny."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
+
+tagGDX2EnchantA224A=Silný šerý květ
+tagGDX2EnchantA224Desc="Rozemleté okvětní lístky silné rostliny, která v současné době zřídkakdy kvete ve vodách Korvanské náhorní plošiny."^w^n(použitelné na všechny obouruční zbraně)
+
+tagGDX2EnchantA225A=Gryfí pařát
+tagGDX2EnchantA225Desc="Prášek derivovaný z pařátů gryfů obývajících Korvanskou náhorní plošinu."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
+
+tagGDX2EnchantA226A=Silný gryfí pařát
+tagGDX2EnchantA226Desc="Prášek derivovaný z pařátů gryfů obývajících Korvanskou náhorní plošinu."^w^n(použitelné na všechny obouruční zbraně)
+
+tagGDX2EnchantA227A=Pouštní jazyk
+tagGDX2EnchantA227Desc="Prášek derivovaný z mohutné červené rostliny rostoucí na Korvanské náhorní plošině."^w^n(použitelné na prsten nebo amulet)
+
+tagGDX2EnchantA228A=Jed štíra
+tagGDX2EnchantA228Desc="Jed z ocasních žláz smrtících stvoření, které se nacházejí v pouštních píscích."^w^n(použitelné na prsten nebo amulet)
+
+tagGDX2EnchantA229A=Esence strážce
+tagGDX2EnchantA229Desc="Tajemná esence z různých strážců nacházejících se v chrámech na Korvanské náhorní plošině."^w^n(použitelné na prsten nebo amulet)
+
+tagGDX2EnchantA230A=Prach svedené duše
+tagGDX2EnchantA230Desc="Esence přízračného ducha, která má vazbu ke kostní moučce, aby sloužila k čarovným účelům."^w^n(použitelné na prsten nebo amulet)
+
+
+tagGDX2EnchantB201A=Bysmielina kontrola
+tagGDX2EnchantB201Desc="Dar čarodějné bohyně Bysmiel, dokonale přizpůsobený mysli noshledů."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
+
+tagGDX2EnchantB202A=Silná Bysmielina kontrola
+tagGDX2EnchantB202Desc="Dar čarodějné bohyně Bysmiel, dokonale přizpůsobený mysli noshledů."^w^n(použitelné na všechny obouruční zbraně)
+
+tagGDX2EnchantB203A=Bysmielina mazanost
+tagGDX2EnchantB203Desc="Dar od čarodějné bohyně Bysmiel svým služebníkům, aby ve fyzickém souboji šli na hranu svých možností tam, kde útěk do stínů nepřipadá v úvahu."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
+
+tagGDX2EnchantB204A=Silná Bysmielina mazanost
+tagGDX2EnchantB204Desc="Dar od čarodějné bohyně Bysmiel svým služebníkům, aby ve fyzickém souboji šli na hranu svých možností tam, kde útěk do stínů nepřipadá v úvahu."^w^n(použitelné na všechny obouruční zbraně)
+
+tagGDX2EnchantB205A=Bysmielina clona
+tagGDX2EnchantB205Desc="Dar čarodějné bohyně Bysmiel, který odděluje živé od mrtvých."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
+
+tagGDX2EnchantB206A=Silná Bysmielina clona
+tagGDX2EnchantB206Desc="Dar čarodějné bohyně Bysmiel, který odděluje živé od mrtvých."^w^n(použitelné na všechny obouruční zbraně)
+
+tagGDX2EnchantB207A=Atephova vůle
+tagGDX2EnchantB207Desc="Silný čarodějný prach, derivovaný z relikvií nalezených v Atephově chrámu, posiluje vazbu mezi mistrem a jeho noshledem."^w^n(použitelné na prsten nebo amulet)
+
+tagGDX2EnchantB208A=Atephova záře
+tagGDX2EnchantB208Desc="Silný čarodějný prach, derivovaný z relikvií nalezených v Atephově chrámu, který prodchne vybavení mrazivým dotykem."^w^n(použitelné na prsten nebo amulet)
+
+tagGDX2EnchantB209A=Atephův příkaz
+tagGDX2EnchantB209Desc="Silný čarodějný prach, derivovaný z relikvií nalezených v Atephově chrámu, který svého nositele povzbudí lačností po krvi."^w^n(použitelné na prsten nebo amulet)
+
+tagGDX2EnchantB210A=Atephův příslib
+tagGDX2EnchantB210Desc="Silný čarodějný prach, derivovaný z relikvií nalezených v Atephově chrámu, který chrání svého nositele před zraněním."^w^n(použitelné na prsten nebo amulet)
+
+tagGDX2EnchantB211A=Dreegova prozíravost
+tagGDX2EnchantB211Desc="Dar čarodějného boha Dreega, který svému nositeli dá okusit chuť vizí Velkého strážce Cairnu."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
+
+tagGDX2EnchantB212A=Silná Dreegova prozíravost
+tagGDX2EnchantB212Desc="Dar čarodějného boha Dreega, který svému nositeli dá okusit chuť vizí Velkého strážce Cairnu."^w^n(použitelné na všechny obouruční zbraně)
+
+tagGDX2EnchantB213A=Dreegův prach z trnu
+tagGDX2EnchantB213Desc="Dar čarodějného boha Dreega extrahovaná z jednoho z trnů Velkého strážce, z kterého odkapává kyselina."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
+
+tagGDX2EnchantB214A=Silný Dreegův prach z trnu
+tagGDX2EnchantB214Desc="Dar čarodějného boha Dreega extrahovaná z jednoho z trnů Velkého strážce, z kterého odkapává kyselina."^w^n(použitelné na všechny obouruční zbraně)
+
+tagGDX2EnchantB215A=Dreegova hrůza
+tagGDX2EnchantB215Desc="Dar, a nebo možná prokletí,čarodějného boha Dreega, který propůjčuje svému nositeli zlomek možné budoucnosti, kde Prázdnota vládne nad vším stvořeným."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
+
+tagGDX2EnchantB216A=Silná Dreegova hrůza
+tagGDX2EnchantB216Desc="Dar, a nebo možná prokletí,čarodějného boha Dreega, který propůjčuje svému nositeli zlomek možné budoucnosti, kde Prázdnota vládne nad vším stvořeným."^w^n(použitelné na všechny obouruční zbraně)
+
+tagGDX2EnchantB217A=Osyrova vznětlivost
+tagGDX2EnchantB217Desc="Hustý očarovaný prášek extrahovaný z vysušených ostatků Osyrových kněžích, pošpiněných bezejmennou teplotou."^w^n(použitelné na prsten nebo amulet)
+
+tagGDX2EnchantB218A=Osyrova statečnost
+tagGDX2EnchantB218Desc="Hustý očarovaný prášek extrahovaný z vysušených ostatků Osyrových kněžích, které jsou požehnány slovy ztraceného boha."^w^n(použitelné na prsten nebo amulet)
+
+tagGDX2EnchantB219A=Osyrovo poučení
+tagGDX2EnchantB219Desc="Hustý očarovaný prášek extrahovaný z vysušených ostatků Osyrových kněžích, s mistrovskými vlastnostmi vymyšlených stvoření."^w^n(použitelné na prsten nebo amulet)
+
+tagGDX2EnchantB220A=Osyrova moudrost
+tagGDX2EnchantB220Desc="Hustý očarovaný prášek extrahovaný z vysušených ostatků Osyrových kněžích, v nichž pulzují surové temné energie."^w^n(použitelné na prsten nebo amulet)
+
+tagGDX2EnchantB221A=Solaelova vidina
+tagGDX2EnchantB221Desc="Dar čarodějného boha Solaela slibující nevyřčenou likvidaci jeho nepřátel."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
+
+tagGDX2EnchantB222A=Silná Solaelova vidina
+tagGDX2EnchantB222Desc="Dar čarodějného boha Solaela slibující nevyřčenou likvidaci jeho nepřátel."^w^n(použitelné na všechny obouruční zbraně)
+
+tagGDX2EnchantB223A=Solaelova žravost
+tagGDX2EnchantB223Desc="Dar čarodějného boha Solaela udělující svému nositeli okusit neutuchají hlad Tajemného plamene."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
+
+tagGDX2EnchantB224A=Silná Solaelova žravost
+tagGDX2EnchantB224Desc="Dar čarodějného boha Solaela udělující svému nositeli okusit neutuchají hlad Tajemného plamene."^w^n(použitelné na všechny obouruční zbraně)
+
+tagGDX2EnchantB225A=Solaelova záře
+tagGDX2EnchantB225Desc="Dar čarodějného boha Solaela naplněný esencí vůle Tajemného plamene."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
+
+tagGDX2EnchantB226A=Silná Solaelova záře
+tagGDX2EnchantB226Desc="Dar čarodějného boha Solaela naplněný esencí vůle Tajemného plamene."^w^n(použitelné na všechny obouruční zbraně)
+
+tagGDX2EnchantB227A=Irrahovy sežehnuté duše
+tagGDX2EnchantB227Desc="Jemný očarovaný prach namletý z popela pohřební hranice uvnitř Irrahova chrámu, který je stále plný duší obětovaných chudáků."^w^n(použitelné na prsten nebo amulet)
+
+tagGDX2EnchantB228A=Irrahova trpělivost
+tagGDX2EnchantB228Desc="Jemný očarovaný prach namletý z popela pohřební hranice uvnitř Irrahova chrámu, který naplňuje nositele nepřirozeným klidem."^w^n(použitelné na prsten nebo amulet)
+
+tagGDX2EnchantB229A=Irrahův otrávený jazyk
+tagGDX2EnchantB229Desc="Jemný očarovaný prach namletý z popela pohřební hranice uvnitř Irrahova chrámu, napuštěný různými toxiny extrahovanými z fauny a flory nacházející se na Korvanské náhorní plošině."^w^n(použitelné na prsten nebo amulet)
+
+tagGDX2EnchantB230A=Irrahova krev
+tagGDX2EnchantB230Desc="Jemný očarovaný prach namletý z popela pohřební hranice uvnitř Irrahova chrámu, said to be infused with celestial blood."^w^n(použitelné na prsten nebo amulet)
+
+tagGDX2EnchantC201A=Bysmielin stříbrný písek
+tagGDX2EnchantC201Desc="Dar čarodějné bohyně Bysmiel, neuvěřitelně jemný stříbrný prášek, který se často používá v iluzích, ale je vhodný i k ochranným účelům."^w^n(může vylepšit všechny druhy zbroje)
+
+tagGDX2EnchantC202A=Bysmielin osten pouště
+tagGDX2EnchantC202Desc="Dar čarodějné bohyně Bysmiel, očarovaný prach napuštěný Schemerovým smrtícím polibkem."^w^n(může vylepšit všechny druhy zbroje)
+
+tagGDX2EnchantC203A=Bysmielin dotek závoje
+tagGDX2EnchantC203Desc="Dar čarodějné bohyně Bysmiel, prášek, který je magicky propojený se závojem, který odděluje živé od mrtvých."^w^n(může vylepšit všechny druhy zbroje)
+
+tagGDX2EnchantC204A=Dreegova věstba
+tagGDX2EnchantC204Desc="Dar čarodějného boha Dreega, který svému nositeli propůjčí krátký pohled do budoucnosti."^w^n(může vylepšit všechny druhy zbroje)
+
+tagGDX2EnchantC205A=Dreegův závoj
+tagGDX2EnchantC205Desc="Dar čarodějného boha Dreega, který má chránit mysl před ovlivňujícími vizemi Velkého strážce a jeho následníků."^w^n(může vylepšit všechny druhy zbroje)
+
+tagGDX2EnchantC206A=Dreegova ďábelská krev
+tagGDX2EnchantC206Desc="Dar čarodějného boha Dreega, extrahovaný z chthonických ďáblů, které Velký strážce rozdrtil před branami Tajemné říše."^w^n(může vylepšit všechny druhy zbroje)
+
+tagGDX2EnchantC207A=Solaelova vazba krví
+tagGDX2EnchantC207Desc="Dar čarodějného boha Solaela, falešného prášku používaného během rituálů, které svážou příjemce pomocí smlouvy se Solaelem."^w^n(může vylepšit všechny druhy zbroje)
+
+tagGDX2EnchantC208A=Solaelova ochrana Prázdnoty
+tagGDX2EnchantC208Desc="Dar čarodějného boha Solaela, aby chránil mysl před zpustošením Prázdnotou, jelikož poté by mohl Tajemný plamen studovat její tajemství zcela bez překážek."^w^n(může vylepšit všechny druhy zbroje)
+
+tagGDX2EnchantC209A=Solaelova vazba duší
+tagGDX2EnchantC209Desc="Dar čarodějného boha Solaela, odporný prach používaný během rituálů vázajících duše k sebezničení Tajemným plamenem."^w^n(může vylepšit všechny druhy zbroje)
+
+#Mobility Runes
+tagGDX2RuneBDesc="Běžný symbol síly, který používají kulty Čarodějných bohů."^w^n(použitelné na medaili)
+tagGDX2RuneCDesc="Impozantní symbol moci, který je možné najít i v nevzdálenějších zákoutích Cairnu."^w^n(použitelné na medaili)
+tagGDX2RuneDDesc="Pradávný symbol moci, který byl pravděpodobně ztracen v roztříštěné realitě."^w^n(použitelné na medaili)
+
+tagGDX2RuneB201=Symbol stinného zabijáka
+tagGDX2RuneB202=Symbol skákající kudlanky
+tagGDX2RuneB203=Symbol soustředěného vzteku
+tagGDX2RuneB204=Symbol slídila mezi světy
+tagGDX2RuneB205=Symbol nejsilnějšího býka
+tagGDX2RuneB206=Symbol čilé lovkyně
+
+tagGDX2RuneC201=Symbol Korvanské rychlosti
+tagGDX2RuneC202=Glyf Korvanské rychlosti
+tagGDX2RuneC203=Runa Korvanské rychlosti
+tagGDX2RuneC204=Symbol Dreegova přechýlení
+tagGDX2RuneC205=Glyf Dreegova přechýlení
+tagGDX2RuneC206=Runa Dreegova přechýlení
+tagGDX2RuneC207=Symbol Rahnovy moci
+tagGDX2RuneC208=Glyf Rahnovy moci
+tagGDX2RuneC209=Runa Rahnovy moci
+tagGDX2RuneC210=Glyf vyhladovělého Wendiga
+tagGDX2RuneC211=Glyf severského berana
+tagGDX2RuneC212=Glyf nehmotných větrů
+tagGDX2RuneC213=Glyf seizmické síly
+tagGDX2RuneC214=Glyf hlučné bouře
+tagGDX2RuneC215=Glyf dravé mantikory
+tagGDX2RuneC216=Glyf tajemných porozumění
+tagGDX2RuneC217=Glyf hořících bran
+tagGDX2RuneC218=Glyf nenucených čepelí
+tagGDX2RuneC219=Glyf zmatku
+tagGDX2RuneC220=Glyf zimní lišky
+tagGDX2RuneC221=Glyf vycházejícího fénixe
+tagGDX2RuneC222=Glyf děsivých ústupků
+tagGDX2RuneC223=Glyf nepolapitelného zabijáka
+tagGDX2RuneC224=Glyf sinalé marnosti
+tagGDX2RuneC225=Glyf náhlých zásahů
+tagGDX2RuneC226=Glyf ocasu štíra
+tagGDX2RuneC227=Glyf nevypočitatelných duší
+
+tagGDX2RuneD201=Runa Amatokova dechu
+tagGDX2RuneD202=Runa padlých králů
+tagGDX2RuneD203=Runa násilných rozkoší
+tagGDX2RuneD204=Runa Ulzuinova pádu
+tagGDX2RuneD205=Runa tajemné nestability
+tagGDX2RuneD206=Runa tvůrce Temnoty
+tagGDX2RuneD207=Runa neohroženosti
+tagGDX2RuneD208=Runa Dreegových zranění
+tagGDX2RuneD209=Runa Nadaanova výpadu
+tagGDX2RuneD210=Runa Ultosova příchodu
+tagGDX2RuneD211=Runa hvězdných bran
+tagGDX2RuneD212=Runa vyvrácení
+tagGDX2RuneD213=Runa tajfunu
+tagGDX2RuneD214=Runa Ulzaadova šílenství
+tagGDX2RuneD215=Runa bídných přání
+tagGDX2RuneD216=Runa Murmuřina polibku
+tagGDX2RuneD217=Runa Ishtakova milosrdenství
+tagGDX2RuneD218=Runa upířích stínů
+tagGDX2RuneD219=Runa temných tužeb
+tagGDX2RuneD220=Runa bouřného titána
+tagGDX2RuneD221=Runa spalujících konců
+
+
+#ItemComponents
+
+
+#ItemFactionBoosters
+tagGDX2BoosterWGB_A01=Bysmielin výnos
+tagGDX2BoosterWGB_B01=Bysmielin mandát
+tagGDX2BoosterWGD_A01=Dreegův výnos
+tagGDX2BoosterWGD_B01=Dreegův mandát
+tagGDX2BoosterWGS_A01=Solaelův výnos
+tagGDX2BoosterWGS_B01=Solaelův mandát
+
+tagGDX2BoosterEldritch_C01=Korvaakovo oprávnění
+
+
+#Misc
+
+
+
+#ItemSets
+tagItemSetC008CName=Milost
+
+tagGDX2ItemSetC201Name=Baldirův plát
+tagGDX2ItemSetC201BName=Baldirovy klenoty
+tagGDX2ItemSetC201Desc="Baldir byl zpodobněním Erulanské víry. Složil svou přísahu na schodech císařského paláce se slovy, že bude bránit bezmocné a slabé přes vším zlem světa. Tato přísaha nebude nikdy porušena."
+
+tagGDX2ItemSetC202Name=Bouřný had
+tagGDX2ItemSetC202Desc="Od pohanského uctívání nebeského hada sice Lumináři dávno upustili, ale nějaké pozůstatky tohoto zapomenutého náboženství lze přeci jen ještě najít."
+
+tagGDX2ItemSetC203Name=Zničující požár
+tagGDX2ItemSetC203Desc="Idriino srdce bylo tak zaníceno krutými tužbami, že nechala spálit celý svět."
+
+tagGDX2ItemSetC204Name=Daegaina kletba
+tagGDX2ItemSetC204Desc="Daega pátrala po odpovědích mezi Empyrionovými kněžími, kteří ji nemohli odpovědět, ale ve svém zoufalství poznala hlubší pravdu skrze Dreega."
+
+tagGDX2ItemSetC205Name=Kameňák
+tagGDX2ItemSetC205Desc="Kameňákova zbroj, neochvějného a nepohyblivého ochránce Menhirovy víry."
+
+tagGDX2ItemSetD201Name=Pokřivený strážce
+tagGDX2ItemSetD201Desc="Strážce světa pohlceného temnotou, zbaveného svého patrona a ochránce."
+
+tagGDX2ItemSetD202Name=Přemožitel
+tagGDX2ItemSetD202Desc="Dobyvatel zakázaného, triumfující nad všemi nepřáteli."
+
+tagGDX2ItemSetD203Name=Mrazivý šepot
+tagGDX2ItemSetD203Desc="Mrazivé šeptání těch, kteří odmítají zůstat mrtví, řinčí v celé této zbroji. Pokud si tuto zbroj oblečeš, staneš se šampiónem smrti."
+
+tagGDX2ItemSetD204Name=Ludriganova chlouba
+tagGDX2ItemSetD204Desc="Chlouba Luminářských legend, která byla součástí šamanských relikvií. aby přemáhala nepřátele Erulanské říše."
+
+tagGDX2ItemSetD205Name=Obchodník s kostmi
+tagGDX2ItemSetD205Desc="Zbroj Obchodníka s kostmi, zrádce víry a sběratele děsivých trofejí."
+
+tagGDX2ItemSetD206Name=Světlo ctnosti
+tagGDX2ItemSetD206Desc="Prý je to požehnání Empyriona, největšího mezi bohy; Světlo ctnosti je maják naděje a spravedlnosti ve světě plném zoufalství."
+
+tagGDX2ItemSetD207Name=Strážce Tří
+tagGDX2ItemSetD207Desc="Zbroj Strážce, věrného ochránce Tří a jejich zájmů mezi smrtelníky."
+
+tagGDX2ItemSetD208Name=Harraina rafinovanost
+tagGDX2ItemSetD208Desc="Harra se vyžívala v kombinaci chladných čepelí a magie, a tajně se vytrénovala jak mezi Nočními čepelemi, tak v Gildam Arcanum."
+
+tagGDX2ItemSetD209Name=Cyklóna
+tagGDX2ItemSetD209Desc="Galaron zvěstoval Cairnu kataklyzmatický konec, kdy vzduch bude hořet a oblohu budou bičovat nekončící bouře. Jeho poslední slova byla o návratu Zapomenutého."
+
+tagGDX2ItemSetD210Name=Rah'Zinova muka
+tagGDX2ItemSetD210Desc="Rah'Zinovy noční můry byly pohlceny Prázdnotou, která zdeformovala jeho myšlenky a přání, až se nakonec stal zmocněncem toho, kterého se bál nejvíc."
+
+tagGDX2ItemSetD211Name=Pán zmaru
+tagGDX2ItemSetD211Desc="Nikdo nezná pravou identitu Pána zmaru, jen jeho zločiny, které spáchal. Když ho nakonec chytili, jeho tvář byla znetvořená nemocí a hnilobou natolik, že ho nikdo nedokázal poznat."
+
+tagGDX2ItemSetD212Name=Gholova potměšilost
+tagGDX2ItemSetD212Desc="Ghol byl krutý, ale oslnivý - přesně takové vlastnosti přitahovaly Paní šepotů a získaly si její požehnání."
+
+tagGDX2ItemSetD213Name=Bysmieliny cetky
+tagGDX2ItemSetD213Desc="Během jejích smrtelných dnů byla Paní šepotů známá shromažďováním silních předmětů, které posilovaly její nadvládu nad slabšími tvory. Po usednutí na trůn už tyhle drobné cetky přestala potřebovat."
+
+
+#LootChests
+
+
+tagGDX2KorvanChestB01=Otřískaná truhla
+tagGDX2KorvanChestC01=Fascinující truhlice
+tagGDX2KorvanChestD01=Zámožná truhlice
+
+tagGDX2EldritchChestB01=Tajemná hromádka
+tagGDX2EldritchChestC01=Tajemná skrýš
+tagGDX2EldritchChestD01=Tajemný poklad
+tagGDX2EldritchChestD02=Korvanské tajemství
+tagGDX2EldritchChestD03=Autorská sbírka
+
+tagGDX2KorvanSarcophagusB01=Šlechtický sarkofág
+tagGDX2KorvanSarcophagusC01=Královský sarkofág
+tagGDX2KorvanSarcophagusD01=Nebeský sarkofág
+
+tagGDX2BloodSwornCorpse=Krvepřísežníkova mrtvola
+
+tagGDX2Breakable_Beetle=Hnízdo vrubounů
+tagGDX2Breakable_Eggs=Plazí vejce
+
+tagGDX2ChestKorvaak=Korvaakova truhlice
+
+tagGDX2ChestOneShot_=Korvanská skrýš
+tagGDX2ChestBossOneShot_Korvaak=Korvaakova esence
+
+tagGDX2InventorsApprenticeCorpse=Canenova mrtvola
+
+tagGDX2UroboruukRemains=Uroboruukův majetek
+
+
+#Interactive Objects
+
+tagGDX2DoorLocked_Korvaak= {^R} ~ uzamčeno velmi silným strážcem
+
+
+
+#Breakables
+tagGDX2Quest_BindingConduit_01=Svázané trubky
+tagGDX2Crate=Jednoduchá bedýnka
+
+#Dungeon Doors
+tagGDX2UGDoorBeetle=Vstup do hnízda brouků
+tagGDX2UGDoorEntrance= Vstup
+tagGDX2UGDoorSolaelFaction=Rahnova mapová místnost
+tagGDX2UGDoorBlocked= {^R} ~ zablokováno
+tagGDX2UGDoorTombEntrance=Vstup do hrobky
+tagGDX2UGDoorTombDoor=Brána hrobky
+tagGDX2UGDoorKorvaakTomb=Vstup do Hrobky Tajemného slunce
+tagGDX2UGDoorMessenger=Jáma vykoupení
+tagGDX2UGDoorKymonExit=Přístup k Tajemné bráně
+tagGDX2UGDoorKorvaakFinal=Sestup k Tajemnému trůnu
+
+#Doors
+tagGDX2Door_PortcullisGold=Zlatá padací mříž
+tagGDX2Door_Lava=Magmatická bariéra
+tagGDX2EldritchRift=Tajemná Brána
+
+
+tagPrefixB037_Class_A=[ms]válečníkův[fs]válečníkova[ns]válečníkovo[mp]válečníkovi[fp]válečníkovy[np]válečníkovy
+tagPrefixB038_Class_A=|9lamače štítů
+tagPrefixB039_Class_A=[ms]strážcův[fs]strážcova[ns]strážcovo[mp]strážcovi[fp]strážcovy[np]strážcovy
+tagPrefixB040_Class_A=[ms]dervišův[fs]dervišova[ns]dervišovo[mp]dervišovi[fp]dervišovy[np]dervišovy
+tagPrefixB041_Class_A=[ms]templářův[fs]templářova[ns]templářovo[mp]templářovi[fp]templářovy[np]templářovy
+tagPrefixB042_Class_A=[ms]archónův[fs]archónova[ns]archónovo[mp]archónovi[fp]archónovy[np]archónovy
+tagPrefixB043_Class_A=[ms]paladýnův[fs]paladýnova[ns]paladýnovo[mp]paladýnovi[fp]paladýnovy[np]paladýnovy
+tagPrefixB044_Class_A=[ms]utlačovatelův[fs]utlačovatelova[ns]utlačovatelovo[mp]utlačovatelovi[fp]utlačovatelovy[np]utlačovatelovy
+tagPrefixB045_Class_A=[ms]spasitelův[fs]spasitelova[ns]spasitelovo[mp]spasitelovi[fp]spasitelovy[np]spasitelovy
+
+
+#Affixes
+tagGDX2PrefixAA024=Strážce přísahy
+
+#Difficulty Unlocks
+tagGDX2DifficultyUnlock01=Zásluhy šampióna
+tagGDX2DifficultyUnlock01_Desc=Důkaz o porážce všech hrůz Cairnu a odemčení Elitní obtížnosti. Dej si však pozor. Předčasný vstup na vyšší obtížnost tě může brzy přivést do hrobu! ^oMůžeš jej umístit do bedny a použít s jinou postavou.
+tagGDX2DifficultyUnlock02=Zásluhy zachránce
+tagGDX2DifficultyUnlock02_Desc==Důkaz o porážce všech hrůz Cairnu a odemčení Ultimátní obtížnosti. Dej si však pozor. Předčasný vstup na vyšší obtížnost tě může brzy přivést do hrobu! ^oMůžeš jej umístit do bedny a použít s jinou postavou.
+tagGDX2DifficultyUnlockStats={^E}Odemkne body atributů a dovedností za úkoly na nižších obtížnostech
+tagGDX2DifficultyUnlockTeleporters={^E}Odemkne všechny Brány na nižších obtížnostech
+tagGDX2DifficultyUnlockBags={^E}Odemkne všechny pytle na věci
