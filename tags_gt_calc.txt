@@ -19,6 +19,8 @@ Calc_tagBuildVersion=Verze sestavení:
 Calc_tagDifficulty=Obtížnost:
 Calc_tagNoItemSelected=Nic nevybráno
 
+Calc_tagInvalidBuild=Chybné sestavení
+
 Calc_tagMenuItemIgnoreDevotionRequirements=Ignorovat požadavky na oddanost
 Calc_tagMenuItemIgnoreMasterySkillLimits=Ignorovat limity dovedností
 
