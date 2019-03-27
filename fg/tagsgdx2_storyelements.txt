@@ -10,8 +10,8 @@ tagGDX2MapOasis=Oáza prokletého slunce
 tagGDX2MapDeadLake=Zátoka vybledlých kostí
 tagGDX2MapArea03=Čedičové útesy
 tagGDX2MapRuinedCity02=Rozvaliny města Abyd
-tagGDX2MapBurningSpire=Spalující věž
-tagGDX2MapArea04=Pekelná skládka
+tagGDX2MapBurningSpire=Hořící věž
+tagGDX2MapArea04=Pekelná pustina
 tagGDX2MapVolcano01=Ulzuinovo oko
 tagGDX2MapVolcano02=Apeshova tlama
 tagGDX2MapTombValley=Údolí Vyvoleného
@@ -51,7 +51,7 @@ tagGDX2WorldMapChasm=Kvílející{^n}průrva
 tagGDX2WorldMapDeadLake=Zátoka{^n}vybledlých kostí
 tagGDX2WorldMapArea03=Čedičové{^n}útesy
 tagGDX2WorldMapRuinedCity02=Rozvaliny{^n}města Abyd
-tagGDX2WorldMapArea04=Pekelná{^n}skládka
+tagGDX2WorldMapArea04=Pekelná{^n}pustina
 tagGDX2WorldMapVolcano01=Ulzuinovo{^n}oko
 tagGDX2WorldMapVolcano02=Apeshova{^n}tlama
 tagGDX2WorldMapTombValley=Údolí{^n}Vyvoleného
@@ -204,7 +204,7 @@ tagGDX2NPC_AreaG_12=Elita
 tagGDX2NPC_AreaG_13=Kait
 
 tagGDX2NPC_AreaG_14=Alain
-tagGDX2NPC_AreaG_15=Kira 
+tagGDX2NPC_AreaG_15=Kira
 tagGDX2NPC_AreaG_16=Raiken
 
 tagGDX2NPC_AreaG_17=Mistr Harken od Strážců Smrti
@@ -234,9 +234,9 @@ tagGDX2NPC_AreaG_33=Pouštní oltář
 #Flavor NPC Names
 #Solael Camp
 tagGDX2NPC_Flavor_AreaG_01=Alica
-tagGDX2NPC_Flavor_AreaG_02=Merise 
+tagGDX2NPC_Flavor_AreaG_02=Merise
 tagGDX2NPC_Flavor_AreaG_03=Vikon ~ Solaeův strážce přísahy
-tagGDX2NPC_Flavor_AreaG_04=Harrold 
+tagGDX2NPC_Flavor_AreaG_04=Harrold
 tagGDX2NPC_Flavor_AreaG_05=Ricard
 
 #Dreeg Camp
@@ -533,21 +533,21 @@ tagGDX2NPC_SmithA01=Ignus
 tagGDX2StoreTitle_SmithA01=Očarovaný kovář
 tagGDX2StoreDesc_SmithA01_1={}Ovlivněn Čarodějnými bohy
 tagGDX2StoreDesc_SmithA01_2=Ignusova práce je poznamenána Čarodějnými bohy. Jeho výrobky přinášejí neobvyklé vlastnosti, které jsou přiděleny požehnáním Bohů.
-tagGDX2StoreDesc_SmithA01_3= 
+tagGDX2StoreDesc_SmithA01_3=
 tagGDX2StoreDesc_SmithA01_4=Vyrobené zbraně, zbroj a příslušenství jsou prodchnuty jednou z následujících vlastností:
 
 tagGDX2NPC_SmithA02=Algosia Fald
 tagGDX2StoreTitle_SmithA02=Nebeská kovářka
 tagGDX2StoreDesc_SmithA02_1={}Nebeská kovárna
 tagGDX2StoreDesc_SmithA02_2=Říká se, že kladivo Algosie Fald bylo skuto ze samotných hvězd, a je schopné vyrábět legendární předměty až do 94. úrovně, a to včetně předmětů skutých samotnými Čarodějnými bohy.
-tagGDX2StoreDesc_SmithA02_3= 
+tagGDX2StoreDesc_SmithA02_3=
 tagGDX2StoreDesc_SmithA02_4=Vyrobené zbraně, zbroj a příslušenství jsou prodchnuty jednou z následujících vlastností:
 
 tagGDX2NPC_SmithA03=Egellon
 tagGDX2StoreTitle_SmithA03=Zapomenutý kovář
 tagGDX2StoreDesc_SmithA03_1={}Pouštní kovárna
 tagGDX2StoreDesc_SmithA03_2=Egellonovo tělo je sice znetvořeno pískem, ale jeho dovednosti s kladivem se nezměnily.
-tagGDX2StoreDesc_SmithA03_3= 
+tagGDX2StoreDesc_SmithA03_3=
 tagGDX2StoreDesc_SmithA03_4=Vyrobené zbraně, zbroj a příslušenství jsou prodchnuty jednou z následujících vlastností:
 
 #Faction Quartermasters

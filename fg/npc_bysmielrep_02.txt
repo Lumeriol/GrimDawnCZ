@@ -8,7 +8,7 @@ Obtěžuješ.{^n}{^n}Jdi dál, špunte.
 Dobrá.
 Pavučina je spřádána. Vše se dalo do pohybu tak, jak jsem plánovala.{^n}{^n}Co tady ještě děláš?
 Cože to mám vlastně udělat?
-Náš odvěký nepřítel se vzpouzí v Hrobce Tajemného Slunce, za Pekelnou skládkou.{^n}{^n}Zpečeť jeho osud a ušetři Cairn další pohromy.
+Náš odvěký nepřítel se vzpouzí v Hrobce Tajemného Slunce, za Pekelnou pustinou.{^n}{^n}Zpečeť jeho osud a ušetři Cairn další pohromy.
 
 
 Dobrá.
@@ -29,7 +29,7 @@ Oh, jsem na cestě.
 Sbohem.
 Hodina našeho vítězství nastala.{^n}{^n}Naše práce ve stínu je hotová, nyní vystoupíme na světlo.
 Jaký je plán?
-Čarodějní bohové jsou v této záležitosti jednotní. Všechny naše jednotky jsou připraveny zaútočit na Hrobku Tajemného Slunce a prorazit její brány. {^n}{^n}Připoj se k nim na bojišti, zdecimuj všechny, co se nám postaví do cesty. {^n}{^n}Vydej se na sever, za Pekelnou skládku a pak do míst, kde kdysi stálo Korvanské město. Vystoupej po schodech až do hrobkya najdi si cestu dovnitř. Tam nalezneš komnatu s tam mocnou silou, že dokáže prorazit samotnou roušku našeho světa.{^n}{^n}Vezmi si tuto pečeť. Ta ti otevře cestu k pradávnému, který se na tam nachází. Vstup do trhliny a ukonči tuto smrtelnou hrozbu.
+Čarodějní bohové jsou v této záležitosti jednotní. Všechny naše jednotky jsou připraveny zaútočit na Hrobku Tajemného Slunce a prorazit její brány. {^n}{^n}Připoj se k nim na bojišti, zdecimuj všechny, co se nám postaví do cesty. {^n}{^n}Vydej se na sever, za Pekelnou pustinu a pak do míst, kde kdysi stálo Korvanské město. Vystoupej po schodech až do hrobkya najdi si cestu dovnitř. Tam nalezneš komnatu s tam mocnou silou, že dokáže prorazit samotnou roušku našeho světa.{^n}{^n}Vezmi si tuto pečeť. Ta ti otevře cestu k pradávnému, který se na tam nachází. Vstup do trhliny a ukonči tuto smrtelnou hrozbu.
 Jsem [[ms]připraven[fs]připravena] vést útok.
 Potřebuji nějaký čas na přípravu.
 A co ty?

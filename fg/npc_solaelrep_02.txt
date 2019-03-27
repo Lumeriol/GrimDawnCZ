@@ -7,7 +7,7 @@ Tvá přítomnost zde je jediným uvítáním a to ještě pochází z vynucení
 Uh, sbohem.
 Nepokoušej Solaela...nebo mě.{^n}{^n}Jdi do té hrobky!
 Uh, cože je potřeba, abych [[ms]udělal[fs]udělala]?
-Náš odvěký nepřítel nás očekává v Hrobce Tajemného Slunce, to je daleko na severu za Pekelnou skládkou.{^n}{^n}Dostaň se skrze obranu a zabij ho, než se dokáže plně projevit v Cairnu!
+Náš odvěký nepřítel nás očekává v Hrobce Tajemného Slunce, to je daleko na severu za Pekelnou pustinou.{^n}{^n}Dostaň se skrze obranu a zabij ho, než se dokáže plně projevit v Cairnu!
 
 
 Dobrá.
@@ -28,7 +28,7 @@ Jdu na to.
 Tak zatím.
 Solael je potěšen!{^n}{^n}Vše, co zbývá, je rozdrtit ty nestydaté hlupáky strážící Hrobku Tajemného Slunce a zničit jejich drahého boha.
 Jaký je plán?
-Čarodějní bohové jsou v tuto chvíli jednotní. Tři kupty se vydají směrem k Hrobce Tajemného Slunce a ty se k nim přidáš.{^n}{^n}Musíš se vydat na sever, za Pekelnou skládku a pak tam, kde jsou zbytky Korvanského města.{^n}{^n}Obarvi písek krví našich nepřátel, zdecimuj jejich opevnění a proraž brány hrobky.{^n}{^n}Uvnitř najdeš centrální komnatu se silou, která dokáže prorazit roušku mezi světy.{^n}{^n}Použij tuto pečeť. Aktivuje komnatu a otevře ti cestu k zapomenutému, který se probouzí. Vstup do té brány a ukonči tuto nadcházející katastrofu.
+Čarodějní bohové jsou v tuto chvíli jednotní. Tři kupty se vydají směrem k Hrobce Tajemného Slunce a ty se k nim přidáš.{^n}{^n}Musíš se vydat na sever, za Pekelnou pustinu a pak tam, kde jsou zbytky Korvanského města.{^n}{^n}Obarvi písek krví našich nepřátel, zdecimuj jejich opevnění a proraž brány hrobky.{^n}{^n}Uvnitř najdeš centrální komnatu se silou, která dokáže prorazit roušku mezi světy.{^n}{^n}Použij tuto pečeť. Aktivuje komnatu a otevře ti cestu k zapomenutému, který se probouzí. Vstup do té brány a ukonči tuto nadcházející katastrofu.
 Jsem [[ms]připravený[fs]připravená] vést útok.
 Potřebuji nějaký čas na přípravu.
 A co ty?
@@ -59,7 +59,7 @@ Solael je potěšen!{^n}{^n}Vše, co zbývá, je rozdrtit ty nestydaté hlupáky
 
 Ty bys [[ms]nechal[fs]nechala] Solaela čekat na jeho odměnu?{^n}{^n}Přines mi už konečně to srdce.
 Kam že to mám ještě jednou jít?
-Vezmi si Ekurovo oko a přines ho k oltáři ve Spalující věži, ta je v Abydských ruinách na severu.{^n}{^n}Otevře se trhlina mezi světy. Vstup do ní a vyhledem příšeru známou jako Onarix.{^n}{^n}Ve jménu Solaela ji zabij a přines mi její srdce. Pak může být hlad našeho patrona uhašen!
+Vezmi si Ekurovo oko a přines ho k oltáři v Hořící věži, ta je v Abydských ruinách na severu.{^n}{^n}Otevře se trhlina mezi světy. Vstup do ní a vyhledem příšeru známou jako Onarix.{^n}{^n}Ve jménu Solaela ji zabij a přines mi její srdce. Pak může být hlad našeho patrona uhašen!
 Dobrá.
 To oko jsem [[ms]ztratil[fs]ztratila].
 Zkoušíš moji trpělivost.{^n}{^n}Tohle srdce už neztrácej, jinak mou trpělivost vyzkoušíš znovu.
@@ -70,7 +70,7 @@ Dobrá, tady je.
 
 Čas udeřit je téměř zde, ale před tím, než nás Solael požehná a obdaruje nás, vyžaduje oběť.{^n}{^n}*Sagon se na tebe upřeně podívá*
 Ehm, jaký druh oběti?
-*Sagon se usměje a odhalí tak své ostré zuby*{^n}{^n}Neobávej se, Solael se tebou dnes sytit nebude.{^n}{^n}Má na mysli něco jiného. Vzpomínáš si na Ekurovo oko, které jsi pro nás [[ms]získal[fs]získala]? Nahlíží za roušku našeho světa a vidí tak do jiného. Dal jsem do něj runy, takže se jeho duhovka zaměří na jedno konkrétní místo.{^n}{^n}Dones ho do Spalující věže, která se nachází v Abydských ruinách, a umísti ho na optář. Trhlina v realitě se otevře. Neboj se jí. Vstup do ní a vyhledej příšeru známou jako Onarix.{^n}{^n}Ve jménu Solaela ji zabij a přines mi její srdce. Pak může být hlad našeho patrona uhašen!
+*Sagon se usměje a odhalí tak své ostré zuby*{^n}{^n}Neobávej se, Solael se tebou dnes sytit nebude.{^n}{^n}Má na mysli něco jiného. Vzpomínáš si na Ekurovo oko, které jsi pro nás [[ms]získal[fs]získala]? Nahlíží za roušku našeho světa a vidí tak do jiného. Dal jsem do něj runy, takže se jeho duhovka zaměří na jedno konkrétní místo.{^n}{^n}Dones ho do Hořící věže, která se nachází v Abydských ruinách, a umísti ho na optář. Trhlina v realitě se otevře. Neboj se jí. Vstup do ní a vyhledej příšeru známou jako Onarix.{^n}{^n}Ve jménu Solaela ji zabij a přines mi její srdce. Pak může být hlad našeho patrona uhašen!
 Tu oběť ti seženu.
 To neudělám.
 Eh, nikdo mě neobětovává.
