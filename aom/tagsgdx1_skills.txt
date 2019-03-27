@@ -66,7 +66,7 @@ tagGDX1Class07SkillName03D=Slovo vyzbrojení
 tagGDX1Class07SkillDescription03D=Díky šíření své vůle skrze masivní obouruční zbraně mohou inkvizitoři zasadit další runy do své výbavy a používat tak Obnovující slovo s větší kadencí. ^oVyžaduje obouruční chladnou nebo obouruční střelnou zbraň.
 
 tagGDX1Class07SkillName04A=Ignaffarovy plameny
-tagGDX1Class07SkillDescription04A=Podržíš Ignaffarův kámen před sebou a můžeš tak chrlit plameny ze své dlaně po celou dobu, kdy bude tvá mysl propojená s relikvií.^oThis is a channeled skill and must be held down to maintain. ^oAt 0% Cast Speed, Flames of Ignaffar deals damage and drains Energy every 0.3s.
+tagGDX1Class07SkillDescription04A=Podržíš Ignaffarův kámen před sebou a můžeš tak chrlit plameny ze své dlaně po celou dobu, kdy bude tvá mysl propojená s relikvií.^oToto je vedená dovednost a musí být stisknuta, aby byla aktivována. ^oPři nulové rychlosti kouzlení činí Ignaffarovy plameny poškození magie a vysává ji každých 0.3s.
 tagGDX1Class07SkillName04B=Zesílení
 tagGDX1Class07SkillDescription04B=Ignaffarovy plameny sílí, propalují zbroj a na popel spálí tkáně.
 tagGDX1Class07SkillName04C=Pekelná čistka
@@ -77,7 +77,7 @@ tagGDX1Class07SkillName04E=Poskvrněný plamen
 tagGDX1Class07SkillDescription04E=I když se jedná o vzácnost, je známo, že někteří z inkvizitorů neodolali a přijali za své síly, proti kterým měli bojovat. Díky propojení Ignaffarova kamene a samotné Prázdnoty jsou vypouštěny poskvrněné plameny.
 
 tagGDX1Class07SkillName05A=Hagarradova runa
-tagGDX1Class07SkillDescription05A=Hagarradova runa byla jedním z prvních předmětů umístěných ve skladišti Luminářů, ale po značném nátlaku ze strany císařského soudu odstranit okultní aktivity uvnitř hlavního města to byl také první předmět, jehož studie a napodobování bylo povoleno v rámci odříznutí únikových cest prchajících nepřátel. ^oHagarradova runa vyžaduje 1.5 vteřiny na nabití a účinek roste s bonusy postavy. Icicles initially deal 30% reduced damage before reaching their full strength as they expand outward.
+tagGDX1Class07SkillDescription05A=Hagarradova runa byla jedním z prvních předmětů umístěných ve skladišti Luminářů, ale po značném nátlaku ze strany císařského soudu odstranit okultní aktivity uvnitř hlavního města to byl také první předmět, jehož studie a napodobování bylo povoleno v rámci odříznutí únikových cest prchajících nepřátel. ^oHagarradova runa vyžaduje 1.5 vteřiny na nabití a účinek roste s bonusy postavy. Rampouchy ze začátku činí 30% poškození, dokud nedosáhnou plné síly s tím, jak prorážejí postupně ven.
 tagGDX1Class07SkillName05A_PetSkill=Salva mrazu
 tagGDX1Class07SkillName05B=Ledové kousnutí
 tagGDX1Class07SkillDescription05B=Mrazivá energie vypuštěná z Hagarradovy runy otupí schopnosti nepřítele, což z něj dělá snadnou oběť během dalšího útoku.
@@ -130,7 +130,7 @@ tagGDX1Class08SkillName00A=Nekromant
 tagGDX1Class08SkillDescription00A=Mistrovství v ovládání krutého osudu, který čeká na všechny živé.
 
 tagGDX1Class08SkillName01A=Sání života
-tagGDX1Class08SkillDescription01A=Nekromanti obecně věří ve vyšší dobro a někdy vyšší dobro znamená to, že život jednoho musí být obětován pro to, aby druhý mohl žít. I když se na tuto schopnost nekromanti dívají se svraštělým čelem, někteří její uživatelé mají problém odolat lákavosti surové životní energie. ^oAt 0% Cast Speed, Drain Essence deals damage and drains Energy every 0.3s.
+tagGDX1Class08SkillDescription01A=Nekromanti obecně věří ve vyšší dobro a někdy vyšší dobro znamená to, že život jednoho musí být obětován pro to, aby druhý mohl žít. I když se na tuto schopnost nekromanti dívají se svraštělým čelem, někteří její uživatelé mají problém odolat lákavosti surové životní energie. ^oPři nulové rychlosti kouzlení činí Sání života poškození magie a vysává ji každých 0.3s.
 tagGDX1Class08SkillName01B=Hlad
 tagGDX1Class08SkillDescription01B=Hlad po životní esenci nemusí být jednoduché uspokojit, pokud jej jednou okusíš. S tím, jak promítáš svůj hlad do kouzla, toto kouzlo ovlivňuješ a tak jsou kromě hlavního cíle občas zasaženi i okolní nepřátelé.
 tagGDX1Class08SkillName01C=Rozklad

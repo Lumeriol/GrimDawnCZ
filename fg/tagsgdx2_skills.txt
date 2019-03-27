@@ -1,285 +1,285 @@
-tagSkillClassName09=Oathkeeper
+tagSkillClassName09=[[ms]Přísežník[fs]Přísežnice]
 
-tagSkillClassName0109=Warlord
-tagSkillClassName0209=Shieldbreaker
-tagSkillClassName0309=Sentinel
-tagSkillClassName0409=Dervish
-tagSkillClassName0509=Templar
-tagSkillClassName0609=Archon
+tagSkillClassName0109=Válečník
+tagSkillClassName0209=Štítolam
+tagSkillClassName0309=[[ms]Ochránce[fs]Ochránkyně]
+tagSkillClassName0409=Derviš
+tagSkillClassName0509=Templář
+tagSkillClassName0609=[[ms]Vládce[fs]Vládkyně]
 tagSkillClassName0709=Paladin
-tagSkillClassName0809=Oppressor
+tagSkillClassName0809=[[ms]Utlačovatel[fs]Utlačovatelka]
 
-tagSkillClassDescription09=Whether they hail from the Temple of Menhir, or offer their souls to the Witch Gods, all Oathkeepers have two things in common: unflinching loyalty and zealous fury. Oathkeepers are the guardians of sacred tombs, keepers of the faithful and ardent enforcers of celestial will. They do not merely hide behind a shield or their divine powers; to Oathkeepers, these are weapons upon which they shall spill the blood of the unworthy and exact their righteous wrath.
+tagSkillClassDescription09=Ať už volají z Menhirova chrámu či nabízí svou duši Čarodějným bohům, všichni Přísežníci a Přísežnice jsou typyčtí dvěmi věcmi: neochvějná loajálnost a horlivý vztek. Přísežníci a Přísežnice jsou ochránci posvátných hrobek, strážci věrných a horliví vymahači nebeské vůle. Neschovávají se pouze za štíty a jejich posvátné síly; pro Přísežníky a Přísežnice jsou to zbraně, díky nimž budou prolívat krev nedůstojných a právoplatně šířit svoji zlobu.
 
 
 
 
 #Class09
-tagGDX2Class09SkillName00A=Oathkeeper
-tagGDX2Class09SkillDescription00A=Zealous embodiment of celestial will.
+tagGDX2Class09SkillName00A=[[ms]Přísežník[fs]Přísežnice]
+tagGDX2Class09SkillDescription00A=Horlivé ztělesnění nebeské vůle.
 
-tagGDX2Class09SkillName01A=Aegis of Menhir
-tagGDX2Class09SkillDescription01A=With the strength of the earth flowing through you by the blessings of Menhir, hurl a magical aegis that will home in upon your target and leave it staggered and dazed before returning to you. ^oRequires a shield.
-tagGDX2Class09SkillName01B=Avenging Shield
-tagGDX2Class09SkillDescription01B=The Aegis of Menhir reverberates with celestial might and echoes from your initial target to strike additional nearby foes before returning to you.
-tagGDX2Class09SkillName01C=Reprisal
-tagGDX2Class09SkillDescription01C=Tireless training with the Aegis of Menhir turns it into the vehicle of your vengeance, unhindered by your physical limitations.
-tagGDX2Class09SkillName01D=Aegis of Thorns
-tagGDX2Class09SkillDescription01D=Infused with the Great Guardian's suffering, the Aegis of Menhir becomes an extension of Dreeg's will, and of his thorns endlessly dripping with acid-blood.
+tagGDX2Class09SkillName01A=Menhirova záštita
+tagGDX2Class09SkillDescription01A=Se silou země, která skrze tebe proudí díky Menhirovu požehnání, vrhneš záštitu, která vyhledá tvůj cíl a nechá jej omráčený a vrávorající, zatímco se k tobě zase vrací. ^oVyžaduje štít.
+tagGDX2Class09SkillName01B=Pomstychtivý štít
+tagGDX2Class09SkillDescription01B=Menhirova záštita je dozvukem hvězdné moci, která se odrazí od tvého cíle a zasáhne další nepřátele, než se k tobě vrátí.
+tagGDX2Class09SkillName01C=Odveta
+tagGDX2Class09SkillDescription01C=Neunavný trénink s Menhirovou záštitou z ní činí nástroj pomsty, který nereflektuje tvé fyzické limity.
+tagGDX2Class09SkillName01D=Trnitá záštita
+tagGDX2Class09SkillDescription01D=Menhirova záštita napuštěná utrpením Velkého strážce se stala prodlouženou rukou Dreegovy vůle. Z jeho trnů neustále odkapává jedovatá krev.
 
-tagGDX2Class09SkillName02A=Righteous Fervor
-tagGDX2Class09SkillDescription02A=Oathkeepers charge into battle with prayers on their lips and righteousness in their hearts. When used as your default weapon attack, Righteous Fervor increases the intensity of your attacks with every strike. ^oBuilding up charges increases the potency of the bonuses.
-tagGDX2Class09SkillName02B=Consecration
-tagGDX2Class09SkillDescription02B=Your very essence becomes consecrated in celestial grace, filling you with unshakable determination.
-tagGDX2Class09SkillName02C=Retribution
-tagGDX2Class09SkillDescription02C=Your concentration is unflinching, every blow dealt to you returned a thousand-fold.
-tagGDX2Class09SkillName02D=Dreeg's Reproach
-tagGDX2Class09SkillDescription02D=Your prayers become twisted and dark, your fervor driven by the maddening whispers of Dreeg.
+tagGDX2Class09SkillName02A=Zápal právoplatnosti
+tagGDX2Class09SkillDescription02A=Přísežníci vyrážejí do boje s motlitbami na rtech a spravedlností v srdci. Pokud je nastavena tato schopnost jako výchozí útok, Zápal právoplatnosti sílí s každým dalším úderem. ^oŠkálování ran umocňuje bonusový potenciál.
+tagGDX2Class09SkillName02B=Zasvěcení
+tagGDX2Class09SkillDescription02B=Tvá duše se stala zasvěcenou do půvabu nebes, což tě naplňuje neotřesitelným odhodláním.
+tagGDX2Class09SkillName02C=Odplata
+tagGDX2Class09SkillDescription02C=Tvá koncentrace je neochvějná, každý úder vedený proti tobě se tisíckrát vrátí.
+tagGDX2Class09SkillName02D=Dreegova výtka
+tagGDX2Class09SkillDescription02D=Tvé motlitby se staly zvrácenými a temnými, tvůj zápal je poháněn mysl zbavujícím šepotem Dreega.
 
-tagGDX2Class09SkillName03A=Judgment
-tagGDX2Class09SkillDescription03A=Oathkeepers are the zealous enforcers of celestial judgment. By their will, heathenous foes are drawn in so that their final judgment may be rendered.
-tagGDX2Class09SkillName03B=Crushing Verdict
-tagGDX2Class09SkillDescription03B=Judged foes find their wills broken, their fates already sealed.
-tagGDX2Class09SkillName03C=Heart of Wrath
-tagGDX2Class09SkillDescription03C=Rendering judgment fills your heart with fiery purpose which burns nearby foes.
+tagGDX2Class09SkillName03A=Rozsudek
+tagGDX2Class09SkillDescription03A=Přísežníci jsou fanatičtí vymahači nebeského rozhodnutí. are the zealous enforcers of celestial judgment. Jejich vůlí jsou pohanští nepřátelé předvedeni, aby mohl být vynesen jejich konečný rozsudek.
+tagGDX2Class09SkillName03B=Drtící výrok
+tagGDX2Class09SkillDescription03B=Odsouzení nepřátelé si uvědomí, že je jejich vůle zlomená a osud zpečetěn.
+tagGDX2Class09SkillName03C=Rozzuřené srdce
+tagGDX2Class09SkillDescription03C=Smysl vynesení rozsudku naplní tvé srdce ohnivostí, která popálí nepřátele v blízkosti.
 
-tagGDX2Class09SkillName04A=Vire's Might
-tagGDX2Class09SkillDescription04A=First recorded in Arkovian texts when Agavold the Stalwart of the Temple of Vire selflessly charged through an entire legion of enemy forces, scattering their ranks and exposing them to an onslaught of arrows, all without taking a scratch. Vire's Might has since become a prime display of an Oathkeeper's strength, both physical and spiritual, in the face of seemingly impossible odds. ^oWhen used with a shield, the shield's damage is added.
-tagGDX2Class09SkillName04B=Volcanic Stride
-tagGDX2Class09SkillDescription04B=With fire in your heart and a prayer to Vire on your lips, your valiant charge leaves behind volcanic flames to incinerate your foes.
-tagGDX2Class09SkillName04C=Tectonic Shift
-tagGDX2Class09SkillDescription04C=You charge forth with the might of the earth, traveling further and inflicting even greater lasting harm.
-tagGDX2Class09SkillName04D=Volcanic Might
-tagGDX2Class09SkillDescription04D=When struck with an Oathkeeper's shield, the burning vengeance of Vire's Might knocks less resolute foes off their feet. ^oRequires a shield or two-handed melee weapon.
+tagGDX2Class09SkillName04A=Virova moc
+tagGDX2Class09SkillDescription04A=První zmínka se nachází v Arkovianských textech, kdy Statný Agavold z Virova chrámu o samotě prorazil řady celé legie nepřátel, rozptýlil je a vystavil je tak salvě šípů, zatímco on vyvázl bez škrábnutí. Virova moc se od té doby stala základním vyobrazením síly Uctívačů, a to jak fyzické tak duševní hlavně v dobách, kdy se zdá být šance na úspěch nulová. ^oPokud je používán štít, je jeho poškození přičteno.
+tagGDX2Class09SkillName04B=Vulkanická chůze
+tagGDX2Class09SkillDescription04B=S ohněm v srdci a motlitbami k Virovi na rtech za sebou necháváš při statečném útoku vulkanické plameny, které zapálí tvé nepřátele.
+tagGDX2Class09SkillName04C=Posun tektonických desek
+tagGDX2Class09SkillDescription04C=Vyrážíš kupředu se silou samotné země, dojdeš dál a uštědříš ještě mohutnější poškození.
+tagGDX2Class09SkillName04D=Moc vulkánu
+tagGDX2Class09SkillDescription04D=Když udeříš štítem Přísežníka, ohnivá msta Virovy moci srazí méně odolné nepřátele na zem. ^oVyžaduje štít nebo obouruční chladnou zbraň.
 
-tagGDX2Class09SkillName05A=Presence of Virtue
-tagGDX2Class09SkillDescription05A=Oathkeepers are paragons of virtue and faith, properties they inspire within nearby allies. Those that stand beside them cannot help but be inspired into feats of valor. ^oThis ability must be toggled to maintain its effect.
-tagGDX2Class09SkillName05B=Haven
-tagGDX2Class09SkillDescription05B=The Oathkeeper's presence becomes a haven on the battlefield, offering solace from relentless blows.
-tagGDX2Class09SkillName05C=Rebuke
-tagGDX2Class09SkillDescription05C=The hearts of the Oathkeeper and their allies are stoked with righteous fury. 
+tagGDX2Class09SkillName05A=Přítomnost mravnosti
+tagGDX2Class09SkillDescription05A=Přísežníci jsou vzorem ctnosti a víry, vlastností které inspirují jejich blízké spojence. Ti, co stojí vedle nich, neodolají inspiraci chvályhodnosti. ^oTato schopnost musí být aktivní, aby účinkovala.
+tagGDX2Class09SkillName05B=Nebesa
+tagGDX2Class09SkillDescription05B=Přísežníkova přítomnost se stává útočištěm na bojišti, jež nabízí útěchu před nekončící salvou úderů.
+tagGDX2Class09SkillName05C=Pokárání
+tagGDX2Class09SkillDescription05C=Srdce Přísežníků a jejich spojenců jsou zaplavena právoplatnou zlobou.
 
-tagGDX2Class09SkillName06A=Ascension
-tagGDX2Class09SkillDescription06A=Through deep contemplation and resolute faith, an Oathkeeper may experience, even if briefly, a fragment of their deity's presence within them. This guiding light offers solace in trying times, a taste of a god's true might.
-tagGDX2Class09SkillName06B=Clarity of Purpose
+tagGDX2Class09SkillName06A=Vzestup
+tagGDX2Class09SkillDescription06A=Skrze hluboké soustředění a neoblomnou víru mohou Přísežníci prožít, byť jen na krátký čas, část božství v nich. This guiding light offers solace in trying times, a taste of a god's true might.
+tagGDX2Class09SkillName06B=Jasný účel
 tagGDX2Class09SkillDescription06B=Driven to destroy their foes without hesitation, an Oathkeeper becomes the embodiment of celestial fury.
 
-tagGDX2Class09SkillName07A=Eye of Reckoning
-tagGDX2Class09SkillDescription07A=When the first Oathkeepers looked upon the celestial vale and witnessed the astounding power of Empyrion's light, they sought to replicate its brilliance and might. The culmination of their prayers and training was the Eye of Reckoning, a devastating display of martial combat that rapidly cleaves through all nearby foes in a whirlwind of fire and light for as long as the Oathkeeper channels their focus into the attack. ^oRequires a melee weapon. At 0% Attack Speed, Eye of Reckoning deals damage and drains Energy every 0.2s.
-tagGDX2Class09SkillName07B=Soulfire
+tagGDX2Class09SkillName07A=Oko zúčtování
+tagGDX2Class09SkillDescription07A=When the first Oathkeepers looked upon the celestial vale and witnessed the astounding power of Empyrion's light, they sought to replicate its brilliance and might. The culmination of their prayers and training was the Eye of Reckoning, a devastating display of martial combat that rapidly cleaves through all nearby foes in a whirlwind of fire and light for as long as the Oathkeeper channels their focus into the attack. ^oVyžaduje chladnou zbraň.
+tagGDX2Class09SkillName07B=Zapálená duše
 tagGDX2Class09SkillDescription07B=Through the righteous fire burning with the Oathkeeper's soul, the light becomes as if a physical force, spiraling outward and piercing through unwary foes during the Eye of Reckoning.
 
-tagGDX2Class09SkillName08A=Summon Guardian of Empyrion
-tagGDX1Class09SkillTracker08A=Current Number of Guardians Conjured
+tagGDX2Class09SkillName08A=Vyvolat Empyrionova Strážce
+tagGDX1Class09SkillTracker08A=Momentální počet vyvolaných Strážců
 tagGDX2Class09SkillDescription08A=Call forth a loyal servant of Empyrion to cleave through your foes and render celestial judgment. ^oThe Celestial Guardian scales with player bonuses.
-tagGDX2Class09SkillName08B=Celestial Presence
+tagGDX2Class09SkillName08B=Hvězdná přítomnost
 tagGDX2Class09SkillDescription08B=The guardian's very presence sears the souls of your heretical foes.
-tagGDX2Class09SkillName08C=Scion of Dreeg
+tagGDX2Class09SkillName08C=Dreegův potomek
 tagGDX2Class09SkillDescription08C=Tainted by the gaze of Dreeg, the Celestial Guardian becomes a scion of acid and decay, a mirror of the deity it now serves.
-tagGDX2Class09SkillName08A_PetSkillA=Empyrion's Cleave
-tagGDX2Class09SkillName08A_PetSkillB=Dreeg's Cleave
+tagGDX2Class09SkillName08A_PetSkillA=Empyrionovo rozštípnutí
+tagGDX2Class09SkillName08A_PetSkillB=Dreegovo rozštípnutí
 
-tagGDX2Class09SkillName09A=Path of the Three
-tagGDX2Class09SkillDescription09A=Not all Oathkeepers swear fealty to deities blessing the Erulan empire. Some offer themselves before the three Witch Gods in the hopes of harnessing even a fraction of their terrible powers. These Oathkeepers consider themselves to be upon the true path, not deceived by empty promises of a light that has forsaken humanity. ^oThis ability must be toggled to maintain its effect.
+tagGDX2Class09SkillName09A=Cesta Tří
+tagGDX2Class09SkillDescription09A=Not all Oathkeepers swear fealty to deities blessing the Erulan empire. Some offer themselves before the three Witch Gods in the hopes of harnessing even a fraction of their terrible powers. These Oathkeepers consider themselves to be upon the true path, not deceived by empty promises of a light that has forsaken humanity. ^oTato schopnost musí být aktivní, aby účinkovala.
 
-tagGDX2Class09SkillName10A=Divine Mandate
-tagGDX2Class09SkillDescription10A=Whether raising their shield in the name of Empyrion himself, or serving under the banners of a member of his celestial court, Oathkeepers that have risen in the ranks are considered to be an extension of divine will and heralds of celestial retribution. ^oThis ability must be toggled to maintain its effect.
+tagGDX2Class09SkillName10A=Svatý příkaz
+tagGDX2Class09SkillDescription10A=Whether raising their shield in the name of Empyrion himself, or serving under the banners of a member of his celestial court, Oathkeepers that have risen in the ranks are considered to be an extension of divine will and heralds of celestial retribution. ^oTato schopnost musí být aktivní, aby účinkovala.
 
-tagGDX2Class09SkillName11A=Safeguard
+tagGDX2Class09SkillName11A=Pojistka
 tagGDX2Class09SkillDescription11A=In the hands of a trained Oathkeeper, a shield is not just an unbreakable defense, but also a formidable weapon. ^oThis is a shield bonus.
-tagGDX2Class09SkillName12A=Smite
+tagGDX2Class09SkillName12A=Třísknutí
 tagGDX2Class09SkillDescription12A=A precise strike fueled by the Oathkeeper's righteous fury leaves enemies staggered and broken. With sufficient practice, this technique can even be extended to a shield. ^oCan activate with all default weapon attacks. When used with a melee weapon and shield, will also strike with the shield.
-tagGDX2Class09SkillName13A=Shattering Smash
+tagGDX2Class09SkillName13A=Drtivý úder
 tagGDX2Class09SkillDescription13A=Such is an Oathkeeper's prowess with a shield that the force of the blow resonates through the earth and sends an additional shockwave through your initial target. ^oThis is a shield combat technique that activates off of default weapon attacks. Requires a melee weapon and shield.
 
-tagGDX2Class09SkillName14A=Resilience
+tagGDX2Class09SkillName14A=Houževnatost
 tagGDX2Class09SkillDescription14A=For an Oathkeeper, resolute faith is the absolute defense. As life fades, so the spirit rises to oppose further harm.
 
 
 #ItemSkills
-tagGDX2ItemSkillB201Name=Blastwave
+tagGDX2ItemSkillB201Name=Rázová vlna
 tagGDX2ItemSkillB201Desc=A wave of fire erupts from your attack.
 
-tagGDX2ItemSkillC201Name=Poison Spine Nova
+tagGDX2ItemSkillC201Name=Nova z jedovatých trnů
 tagGDX2ItemSkillC201Desc=Poisonous spines erupt around you, impaling nearby foes.
 
 tagGDX2ItemSkillC202Name=Stormserpent Orb
 tagGDX2ItemSkillC202Desc=An electrified orb of ice pierces through your foes and chills their movement.
 
-tagGDX2ItemSkillC203Name=Daega's Oath
+tagGDX2ItemSkillC203Name=Daegova přísaha
 tagGDX2ItemSkillC203Desc=Daega's oath to Dreeg compels you.
 
-tagGDX2ItemSkillC204Name=Festerblaze
+tagGDX2ItemSkillC204Name=Rozpínající se plameny
 tagGDX2ItemSkillC204Desc=A sorcerous blaze festers within your foes, destroying them from within.
 
-tagGDX2ItemSkillC205Name=Spill their Blood
+tagGDX2ItemSkillC205Name=Prolít jejich krev
 tagGDX2ItemSkillC205Desc=Spill the blood of the heathens that dare stand in your way.
 
-tagGDX2ItemSkillD201Name=Blood Spout
+tagGDX2ItemSkillD201Name=Krvavé výhonky
 tagGDX2ItemSkillD201Desc=A crimson spout erupts beneath your foes, showering them with blood and gore.
 
-tagGDX2ItemSkillD202Name=Guardian's Guidance
+tagGDX2ItemSkillD202Name=Strážcova lekce
 tagGDX2ItemSkillD202Desc=Embrace the lessons of the Witch God Dreeg and turn your weapons into an extension of his will.
 
-tagGDX2ItemSkillD203Name=Shatterguard
+tagGDX2ItemSkillD203Name=Strážce ničitel
 tagGDX2ItemSkillD203Desc=Being brought low merely stokes your rage.
 
-tagGDX2ItemSkillD204Name=Wake of Souls
+tagGDX2ItemSkillD204Name=Procitnutí duší
 tagGDX2ItemSkillD204Desc=A wake of souls erupts from you, consuming all life before it.
 
-tagGDX2ItemSkillD205Name=Crimson Wake
+tagGDX2ItemSkillD205Name=Rudá záplava
 tagGDX2ItemSkillD205Desc=A wake of blood erupts from you, drowning your foes in crimson.
 
-tagGDX2ItemSkillD206Name=Noxious Wound
+tagGDX2ItemSkillD206Name=Škodlivé zranění
 tagGDX2ItemSkillD206Desc=Cleave your foe with a noxious edge, leaving a festering wound.
 
-tagGDX2ItemSkillD207Name=Phoenix Dive
+tagGDX2ItemSkillD207Name=Fénixovo ponoření
 tagGDX2ItemSkillD207Desc=A fiery eruption consumes your foes.
 
-tagGDX2ItemSkillD208Name=Bone Lance
+tagGDX2ItemSkillD208Name=Kopí z kosti
 tagGDX2ItemSkillD208Desc=Unleash a projectile of necromantic bone to pierce through your foes.
 
-tagGDX2ItemSkillD209Name=Celestial Presence
-tagGDX2ItemSkillD209Desc=You are filled with the graceful light of Empyrion. Your very presence sears your foes. ^oThis ability must be toggled to maintain its effect.
+tagGDX2ItemSkillD209Name=Nebeská přítomnost
+tagGDX2ItemSkillD209Desc=You are filled with the graceful light of Empyrion. Your very presence sears your foes. ^oTato schopnost musí být aktivní, aby účinkovala.
 
-tagGDX2ItemSkillD210Name=Sun Spot
+tagGDX2ItemSkillD210Name=Sluneční skvrna
 tagGDX2ItemSkillD210Desc=Blast your target with a heavenly ray of searing flames.
 
-tagGDX2ItemSkillD211Name=Spectral Guard
+tagGDX2ItemSkillD211Name=Spektrální strážce
 tagGDX2ItemSkillD211Desc=Being brought low fills you with spectral resilience and fury.
 
-tagGDX2ItemSkillD212Name=Rewind Fate
+tagGDX2ItemSkillD212Name=Změnit osud
 tagGDX2ItemSkillD212Desc=Rewind the strands of fate, undoing recent harm.
 
-tagGDX2ItemSkillD213Name=Entropic Presence
-tagGDX2ItemSkillD213Desc=Your very presence destabilizes your foes and shatters their reality. ^oThis ability must be toggled to maintain its effect.
+tagGDX2ItemSkillD213Name=Entropická přítomnost
+tagGDX2ItemSkillD213Desc=Your very presence destabilizes your foes and shatters their reality. ^oTato schopnost musí být aktivní, aby účinkovala.
 
-tagGDX2ItemSkillD214Name=Gift of the Lotus
+tagGDX2ItemSkillD214Name=Dar lotosu
 tagGDX2ItemSkillD214Desc=The lotus revitalizes your essence.
 
-tagGDX2ItemSkillD215Name=Korvaak's Brand
+tagGDX2ItemSkillD215Name=Korvaakova značka
 tagGDX2ItemSkillD215Desc=Brand your foes with Korvaak's fury, incinerating them with the elements. ^oThis is a melee dual-wielding and ranged dual-wielding technique that activates off of default weapon attacks. Also enables the ability to dual wield weapons.
 
-tagGDX2ItemSkillD216Name=Unlife
+tagGDX2ItemSkillD216Name=Neživot
 tagGDX2ItemSkillD216Desc=Being brought to the brink of death fills you with resilience of the undead.
 
-tagGDX2ItemSkillD217Name=Fire Lance
+tagGDX2ItemSkillD217Name=Ohnivé kopí
 tagGDX2ItemSkillD217Desc=A lance of pure flame pierces through your foes.
 
-tagGDX2ItemSkillD218Name=Stonetread
+tagGDX2ItemSkillD218Name=Kráčející skála
 tagGDX2ItemSkillD218Desc=The enchantment upon these boots shields you from physical harm.
 
-tagGDX2ItemSkillD219Name=Deathwalker
+tagGDX2ItemSkillD219Name=Pochůzkář smrti
 tagGDX2ItemSkillD219Desc=You are resistant to the call of death, putting up a barrier whenever struck by abilities that seek to drain you of life's essence.
 
-tagGDX2ItemSkillD220Name=Dawnshard
+tagGDX2ItemSkillD220Name=Úlomek úsvitu
 tagGDX2ItemSkillD220Desc=A shard of pure soladrin crystal erupts from you to sear your foes before returning to you.
 
-tagGDX2ItemSkillD221Name=Korvaak's Vengeance
+tagGDX2ItemSkillD221Name=Korvaakova pomsta
 tagGDX2ItemSkillD221Desc=Wild eldritch energies erupt from you, searing all nearby foes.
 
-tagGDX2ItemSkillD222Name=Spectral Nova
+tagGDX2ItemSkillD222Name=Spectrální nova
 tagGDX2ItemSkillD222Desc=Spectral energies erupt from you, sapping nearby foes of their strength.
 
-tagGDX2ItemSkillD223Name=Ice Spread
+tagGDX2ItemSkillD223Name=Rozpínání ledu
 tagGDX2ItemSkillD223Desc=A cone of jagged icicles erupts from you.
 
-tagGDX2ItemSkillD224Name=Severed Faith
-tagGDX2ItemSkillD224Desc=Embrace the whispers of the Witch Gods, and forsake your old beliefs, to empower yourself and nearby allies. ^oThis ability must be toggled to maintain its effect.
+tagGDX2ItemSkillD224Name=Oddtržená víra
+tagGDX2ItemSkillD224Desc=Embrace the whispers of the Witch Gods, and forsake your old beliefs, to empower yourself and nearby allies. ^oTato schopnost musí být aktivní, aby účinkovala.
 
-tagGDX2ItemSkillD225Name=Devouring Darkness
-tagGDX2ItemSkillD225Desc=The endless hunger of Yugol empowers you and nearby allies. ^oThis ability must be toggled to maintain its effect.
+tagGDX2ItemSkillD225Name=Pohlcující temnota
+tagGDX2ItemSkillD225Desc=The endless hunger of Yugol empowers you and nearby allies. ^oTato schopnost musí být aktivní, aby účinkovala.
 
-tagGDX2ItemSkillD226Name=Virtue's Guardian
+tagGDX2ItemSkillD226Name=Čestný strážce
 tagGDX2ItemSkillD226Desc=A burst of divine light erupts around you, blinding nearby foes.
 
-tagGDX2ItemSkillD227Name=Eldritch blast
+tagGDX2ItemSkillD227Name=Tajemná vlna
 tagGDX2ItemSkillD227Desc=A blast of eldritch energies erupts from you, staggering nearby foes.
 
-tagGDX2ItemSkillD228Name=Blightlord's Infection
+tagGDX2ItemSkillD228Name=Infekce pána Sněti
 tagGDX2ItemSkillD228Desc=Infect your foe with a debilitating disease that weakens their resolve.
 
-tagGDX2ItemSkillD229Name=Conjure Eldritch Webweaver
+tagGDX2ItemSkillD229Name=Vyvolat Tajemnou Přadlenu
 tagGDX2ItemSkillD229Desc=Warp ambient eldritch energies to conjure a webweaver from the Eldritch Realm. This creature's presence is unstable however and it will quickly seek to return to its home. ^oThe webweaver scales with Pet Bonuses.
-tagGDX2ItemSkillD229_Pet01=Spider Fangs
+tagGDX2ItemSkillD229_Pet01=Pavoučí drápy
 
-tagGDX2ItemSkillD230Name=Eldritch Shard
+tagGDX2ItemSkillD230Name=Úlomek Tajemna
 tagGDX2ItemSkillD230Desc=Conjure a shard bursting with eldritch energies to empower yourself and any allies that stand near its radiance while harming foes.
-tagGDX2ItemSkillD230_Pet01=Eldritch Radiance
+tagGDX2ItemSkillD230_Pet01=Tajemná záře
 tagGDX2ItemSkillD230_Pet01Desc=Fighting near the shard empower you with eldritch energies and harms nearby foes.
-tagGDX2ItemSkillD230_Pet02=Eldritch Sear
+tagGDX2ItemSkillD230_Pet02=Spálení Tajemnem
 tagGDX2ItemSkillD230_Pet02Desc=The eldritch shard radiates harmful energies.
 
-tagGDX2ItemSkillD231Name=Touch of Chaos
+tagGDX2ItemSkillD231Name=Dotek chaosu
 tagGDX2ItemSkillD231Desc=Infuse your weapons with the corrupting powers of the void, unleashing vile energies with every blow. ^oWhen used as your default weapon attack, Touch of Chaos inflicts additional damage.
 
-tagGDX2ItemSkillD232Name=Blightlord's Gift
+tagGDX2ItemSkillD232Name=Dar pána Sněti
 tagGDX2ItemSkillD232Desc=Mark your foes with the Gift of the Blightlord, a debilitating curse that makes your enemies ever more susceptible to the blights you carry.
 
-tagGDX2ItemSkillD233Name=Summon Eldritch Talon
+tagGDX2ItemSkillD233Name=Vyvolat Tajemný spár
 tagGDX2ItemSkillD233Desc=Call forth an eldritch fiend to fight alongside you. The eldritch talon unravels the existence of nearby foes. ^oOnly one eldritch talon can be summoned at any one time. The eldritch talon scales with Pet Bonuses.
-tagGDX2ItemSkillD233_Pet01=Eldritch Claws
-tagGDX2ItemSkillD233_Pet02=Eldritch Instability
+tagGDX2ItemSkillD233_Pet01=Tajemné pařáty
+tagGDX2ItemSkillD233_Pet02=Tajemmná neukojitelnost
 tagGDX2ItemSkillD233_Pet02Desc=A nearby Eldritch Talon is unraveling nearby foes, diminishing their resistances and attacks.
 
-tagGDX2ItemSkillD234Name=Wake of Bones
+tagGDX2ItemSkillD234Name=Probuzení kostí
 tagGDX2ItemSkillD234Desc=Unleash a wave of bones to impale your foes.
 
 tagGDX2ItemSkillD235Name=Wilhelm!
 tagGDX2ItemSkillD235Desc=Ahhhhhhh.
 
-tagGDX2ItemSkillD236Name=Aetherblaze
+tagGDX2ItemSkillD236Name=Plameny Aetheru
 tagGDX2ItemSkillD236Desc=A blaze of pure arcane fire erupts beneath your foes.
 
-tagGDX2ItemSkillD237Name=Murmur's Kiss
+tagGDX2ItemSkillD237Name=Murmuřin polibek
 tagGDX2ItemSkillD237Desc=Spew forth vile acid that penetrates your foes.
 
-tagGDX2ItemSkillD238Name=Blood of the Sands 
+tagGDX2ItemSkillD238Name=Krev z písku
 tagGDX2ItemSkillD238Desc=A pool of blood bubbles up from the earth beneath your foes.
 
-tagGDX2ItemSkillD239Name=Flame Patch
+tagGDX2ItemSkillD239Name=Ohnivá náplast
 tagGDX2ItemSkillD239Desc=You ignite the very ground beneath your foes.
 
-tagGDX2ItemSkillD240Name=Bysmiel's Command
+tagGDX2ItemSkillD240Name=Bysmielin příkaz
 tagGDX2ItemSkillD240Desc=Invoke your authority over your minions, invigorating and empowering yourself and your allies.
 
 
 #Component Skills
-tagGDX2CompSkillA033Name=Void Weapons
-tagGDX2CompSkillA033Desc=Empower your attacks with the corrupting void. ^oThis ability must be toggled to maintain its effect.
+tagGDX2CompSkillA033Name=Zbraně z Prázdnoty
+tagGDX2CompSkillA033Desc=Empower your attacks with the corrupting void. ^oTato schopnost musí být aktivní, aby účinkovala.
 
 
 #Relic Skills
-tagGDX1RelicSkillD106Name=Blazing Eruption
+tagGDX1RelicSkillD106Name=Ohnivá erupce
 tagGDX1RelicSkillD106Desc=Unleash a burst of Empyrion's divine fury upon your target, incinerating them and any foes foolish enough to stand too close.
 
-tagGDX2RelicSkillC201Name=Flame Burst
+tagGDX2RelicSkillC201Name=Dávka plamenů
 tagGDX2RelicSkillC201Desc=Flames burst from you in a wave when struck, incinerating those foolish enough to strike in the first place.
 
-tagGDX2RelicSkillD201Name=Eldritch Ruminations
-tagGDX2RelicSkillD201Desc=Meditate upon the secrets of the Eldritch Realm, empowering your attacks and those of your nearby allies with the gifts of the Three. ^oThis ability must be toggled to maintain its effect.
+tagGDX2RelicSkillD201Name=Tajemná Ruminace
+tagGDX2RelicSkillD201Desc=Meditate upon the secrets of the Eldritch Realm, empowering your attacks and those of your nearby allies with the gifts of the Three. ^oTato schopnost musí být aktivní, aby účinkovala.
 
-tagGDX2RelicSkillD202Name=Vire's Cascade
+tagGDX2RelicSkillD202Name=Virova kaskáda
 tagGDX2RelicSkillD202Desc=Smash the ground, causing the earth to crack and erupt in a fan away from you.
 
-tagGDX2RelicSkillD203Name=Sand Devil
+tagGDX2RelicSkillD203Name=Písečný ďábel
 tagGDX2RelicSkillD203Desc=Unleash a whirlwind of sand upon your foes. ^oSand Devils scale with player damage bonuses.
 
-tagGDX2RelicSkillD204Name=Hungering Reach
-tagGDX2RelicSkillD204Desc=Focus your fury into a whirlwind of voracious power that consumes the lifeblood of all near you for as long as you channel the effect. ^oRequires a melee weapon.
+tagGDX2RelicSkillD204Name=Dosah hladu
+tagGDX2RelicSkillD204Desc=Focus your fury into a whirlwind of voracious power that consumes the lifeblood of all near you for as long as you channel the effect. ^oVyžaduje chladnou zbraň.
 
-tagGDX2RelicSkillD205Name=Serenity
+tagGDX2RelicSkillD205Name=Klid
 tagGDX2RelicSkillD205Desc=Serenity fills you in time of need, offering respite from grievous wounds.
 
-tagGDX2RelicSkillD206Name=Absolution
-tagGDX2RelicSkillD206Desc=You prepare yourself to face every blow, all the while ready to absolve your enemies, by force if you must. ^oRequires a shield.
+tagGDX2RelicSkillD206Name=Rozhřešení
+tagGDX2RelicSkillD206Desc=You prepare yourself to face every blow, all the while ready to absolve your enemies, by force if you must. ^oVyžaduje štít.
 
 
 #ConsumableSkills
-tagGDX2_SummonMiniLizardName=Summon Minivore
+tagGDX2_SummonMiniLizardName=Vyvolat Malého polykače
 tagGDX2_SummonMiniLizardDesc=Call forth the mighty Korvan Minivore, a ferocious beast in a tiny package. ^oOnly one Korvan Minivore can be summoned at any one time. Minivores are strictly non-violent.
 
-tagGDX2_SummonMaggotName=Summon Celestial Maggot
+tagGDX2_SummonMaggotName=Vyvolat Hvězdnou larvu
 tagGDX2_SummonMaggotDesc=Conjure a writhing maggot from the Shattered Realm. ^oOnly one Celestial Maggot can be summoned at any one time. Maggots are strictly non-violent.
 
 
@@ -324,13 +324,13 @@ tagGDX2DevotionEffectC203_PetSkill=Black Blood
 
 #Mobility Runes
 tagGDX2RuneSkillB201=Vanish
-tagGDX2RuneSkillB201Desc=In an instant, you vanish into the shadows, reappearing to strike a target foe. ^oRequires a melee weapon.
+tagGDX2RuneSkillB201Desc=In an instant, you vanish into the shadows, reappearing to strike a target foe. ^oVyžaduje chladnou zbraň.
 
 tagGDX2RuneSkillB202=Leap
 tagGDX2RuneSkillB202Desc=Leap through the air to land towards the target point, sending a shockwave through the ground upon landing.
 
 tagGDX2RuneSkillB203=Charge
-tagGDX2RuneSkillB203Desc=Charge valiantly to strike a target foe. ^oRequires a melee weapon. When used with a shield, the shield's damage is added.
+tagGDX2RuneSkillB203Desc=Charge valiantly to strike a target foe. ^oVyžaduje chladnou zbraň. When used with a shield, the shield's damage is added.
 
 tagGDX2RuneSkillB204=Rift Tear
 tagGDX2RuneSkillB204Desc=Tear through reality to instantly transport yourself towards a nearby target location.
@@ -412,16 +412,16 @@ tagGDX2RuneSkillC223=Assassin's Evasion
 tagGDX2RuneSkillC223Desc=Dexterously disengage away from battle, but not before shredding your foes with vicious blades.
 
 tagGDX2RuneSkillC224=Chaos Strike
-tagGDX2RuneSkillC224Desc=Tear through the void to strike at a target foe with the destructive power of the chaos. ^oRequires a melee weapon.
+tagGDX2RuneSkillC224Desc=Tear through the void to strike at a target foe with the destructive power of the chaos. ^oVyžaduje chladnou zbraň.
 
 tagGDX2RuneSkillC225=Sudden Strike
-tagGDX2RuneSkillC225Desc=Strike a target foe with sudden crushing force. ^oRequires a melee weapon.
+tagGDX2RuneSkillC225Desc=Strike a target foe with sudden crushing force. ^oVyžaduje chladnou zbraň.
 
 tagGDX2RuneSkillC226=Scorpion Strike
-tagGDX2RuneSkillC226Desc=Charge a target and impale them like a vicious scorpion. ^oRequires a melee weapon. When used with a shield, the shield's damage is added.
+tagGDX2RuneSkillC226Desc=Charge a target and impale them like a vicious scorpion. ^oVyžaduje chladnou zbraň. When used with a shield, the shield's damage is added.
 
 tagGDX2RuneSkillC227=Soul Strike
-tagGDX2RuneSkillC227Desc=Charge a target foe and unmake them with the will of the ravenous dead. ^oRequires a melee weapon. When used with a shield, the shield's damage is added.
+tagGDX2RuneSkillC227Desc=Charge a target foe and unmake them with the will of the ravenous dead. ^oVyžaduje chladnou zbraň. When used with a shield, the shield's damage is added.
 
 
 tagGDX2RuneSkillD201=Amatok's Breath
@@ -476,16 +476,16 @@ tagGDX2RuneSkillD217=Ishtak's Mercy
 tagGDX2RuneSkillD217Desc=Instill the peace of Ishtak upon your foes as you disengage from battle.
 
 tagGDX2RuneSkillD218=Vampiric Shadows
-tagGDX2RuneSkillD218Desc=Tear through the shadows to strike a target foe with vampiric voracity. ^oRequires a melee weapon.
+tagGDX2RuneSkillD218Desc=Tear through the shadows to strike a target foe with vampiric voracity. ^oVyžaduje chladnou zbraň.
 
 tagGDX2RuneSkillD219=Dark Desires
-tagGDX2RuneSkillD219Desc=Tear through the veil to strike a foe with the destabilizing force of chaos. ^oRequires a melee weapon.
+tagGDX2RuneSkillD219Desc=Tear through the veil to strike a foe with the destabilizing force of chaos. ^oVyžaduje chladnou zbraň.
 
 tagGDX2RuneSkillD220=Stormtitan's Charge
-tagGDX2RuneSkillD220Desc=Charge a target foe with the crushing might of a stormtitan. ^oRequires a melee weapon. When used with a shield, the shield's damage is added.
+tagGDX2RuneSkillD220Desc=Charge a target foe with the crushing might of a stormtitan. ^oVyžaduje chladnou zbraň. When used with a shield, the shield's damage is added.
 
 tagGDX2RuneSkillD221=Blazing Charge
-tagGDX2RuneSkillD221Desc=Charge forth into battle and incinerate your foe with the flames of a dying god. ^oRequires a melee weapon. When used with a shield, the shield's damage is added.
+tagGDX2RuneSkillD221Desc=Charge forth into battle and incinerate your foe with the flames of a dying god. ^oVyžaduje chladnou zbraň. When used with a shield, the shield's damage is added.
 
 
 #FactionSkills
@@ -624,5 +624,3 @@ tagGDX2EnemySkillD14_Desc=You stand awe of a celestial being
 
 tagGDX2EnemySkillD15=Celestial Effigy
 tagGDX2EnemySkillD15_Desc=An nearby effigy empowers Korvaak and harms mortals.
-
-

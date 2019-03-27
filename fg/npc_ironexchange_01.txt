@@ -1,41 +1,41 @@
-Garrus ~ Keeper of Iron
-Greetings, friend.{^n}{^n}I sense that you've got something for me.{^n}{^n}Or perhaps you are here to buy?
-I wish to make an exchange.
-Splendid!{^n}{^n}What do you have for me?
-Exchange 1 bar for 50000 Iron Bits.
-Exchange 5 bars for 250000 Iron Bits.
-Exchange 1 stack for 500000 Iron Bits.
-Exchange 5 stacks for 2500000 Iron Bits.
-I've changed my mind.
-I had something else in mind.
-I sense that you've got something for me.{^n}{^n}Or perhaps you are here to buy?
+Garrus ~ Strážce železa
+Zdravím tě, [[ms]příteli[fs]přítelkyně].{^n}{^n}Cítím, že pro mě něco máš.{^n}{^n}Nebo chceš možná něco koupit?
+[[ms]Přál[fs]Přála] bych si něco směnit.
+Výtečně!{^n}{^n}Co pro mě máš?
+Směň 1 prut za 50000 Železných mincí.
+Směň 5 prutů za 250000 Železných mincí.
+Směň 1 štos za 500000 Železných mincí.
+Směň 5 štosů za 2500000 Železných mincí.
+[[ms]Rozmyslel[fs]Rozmyslela] jsem si to.
+[[ms]Měl[fs]Měla] jsem na mysli něco jiného.
+Cítím, že pro mě něco máš.{^n}{^n}Nebo chceš možná něco koupit?
 
 
-Perhaps another time.
-I wish to purchase.
-Splendid!{^n}{^n}Then what shall it be? I've got Iron Bars for 50000 Iron Bits each. Or perhaps that is too cheap for your blood?{^n}{^n}How about a Stack of Iron Bars then for 500000 Iron Bits?
-Purchase 1 Iron Bar for 50000 Iron Bits.
-Purchase 5 Iron Bar for 250000 Iron Bits.
-Purchase 1 Stack of Iron Bars for 500000 Iron Bits.
-Purchase 5 Stacks of Iron Bars for 2500000 Iron Bits.
-I've changed my mind.
-I had something else in mind.
+Možná někdy jindy.
+Chci nakupovat.
+Výtečně!{^n}{^n}Tak co to bude? Mám Ocelové pruty, kus za 50000 Železných mincí. Nebo je to na tebe možná moc málo?{^n}{^n}Co potom takhle štos Ocelových prutů za 500000 Železných mincí?
+Kup 1 Železný prut za 50000 Železných mincí.
+Kup 5 Železných prutů za 250000 Železných mincí.
+Kup 1 štos Železných prutů za 500000 Železných mincí.
+Kup 5 štosů Železných prutů za 2500000 Železných mincí.
+[[ms]Rozmyslel[fs]Rozmyslela] jsem si to.
+[[ms]Měl[fs]Měla] jsem na mysli něco jiného.
 
 
-Perhaps another time.
-Greetings, friend.{^n}{^n}I know when somebody's carrying coin, and you've got your share.{^n}{^n}Care to make an exchange for some Iron Bars?
-I wish to purchase.
-Splendid!{^n}{^n}Then what shall it be? I've got Iron Bars for 50000 Iron Bits each. Or perhaps that is too cheap for your blood?{^n}{^n}How about a Stack of Iron Bars then for 500000 Iron Bits?
-Purchase 1 Iron Bar for 50000 Iron Bits.
-Purchase 5 Iron Bar for 250000 Iron Bits.
-Purchase 1 Stack of Iron Bars for 500000 Iron Bits.
-Purchase 5 Stacks of Iron Bars for 2500000 Iron Bits.
-I've changed my mind.
+Možná někdy jindy.
+Zdravím tě, [[ms]příteli[fs]přítelkyně].{^n}{^n}Poznám, když někdo nese mince a ty máš u sebe úctyhodnou sumu. {^n}{^n}Chceš nějaké směnit za Železné pruty?
+Chci nakupovat.
+Výtečně!{^n}{^n}Tak co to bude? Mám Ocelové pruty, kus za 50000 Železných mincí. Nebo je to na tebe možná moc málo?{^n}{^n}Co potom takhle štos Ocelových prutů za 500000 Železných mincí?
+Kup 1 Železný prut za 50000 Železných mincí.
+Kup 5 Železných prutů za 250000 Železných mincí.
+Kup 1 štos Železných prutů za 500000 Železných mincí.
+Kup 5 štosů Železných prutů za 2500000 Železných mincí.
+[[ms]Rozmyslel[fs]Rozmyslela] jsem si to.
 
-What would I want these for?
-I offer a humble service, no string attached.{^n}{^n}Bring me Iron Bits and in exchange you will receive Iron Bars.{^n}{^n}Pass these on to your allies or perhaps your alter egos. If they bring them to me then I will happily take them off their hands for their original value.
+Na co bych je [[ms]chtěl[fs]chtěla]?
+Nabízím poctivou službu, žádné levárny.{^n}{^n}Přines mi Železné mince a výměnou za ně dostaneš Železné pruty.{^n}{^n}Předej je spojencům či tvému alternativnímu já. Pokud mi je donesou, rád je zase odkoupím za jejich původní hodnotu.
 
-Perhaps another time.
-Perhaps another time.
-If you've no money then move along.{^n}{^n}I only deal with those that carry serious coin.
-Goodbye.
+Možná někdy jindy.
+Možná někdy jindy.
+Pokud nemáš peníze, tak jdi raději dál.{^n}{^n}Obchoduju pouze s těmi, co mají sumu co za to stojí.
+Sbohem.
