@@ -48,9 +48,9 @@ tagGDX2HeroBeetle_H04=Mirg ~ odrážející
 
 
 #CreatureEldritchArmor
-tagGDX2EnemyArmor_A01=Posedlá zbroj
-tagGDX2EnemyArmor_B01=Tajemná zbroj
-tagGDX2EnemyArmor_C01=Starověká zbroj
+tagGDX2EnemyArmor_A01=Rytíř v posedlé zbroji
+tagGDX2EnemyArmor_B01=Rytíř v tajemné zbroji
+tagGDX2EnemyArmor_C01=Rytíř ve starověké zbroji
 
 tagGDX2HeroArmor_H01=Arkinux
 tagGDX2HeroArmor_H02=Vlakinux
