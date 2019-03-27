@@ -62,38 +62,38 @@ tagGDX2Class09SkillDescription05C=Srdce Přísežníků a jejich spojenců jsou 
 tagGDX2Class09SkillName06A=Vzestup
 tagGDX2Class09SkillDescription06A=Skrze hluboké soustředění a neoblomnou víru mohou Přísežníci prožít, byť jen na krátký čas, část božství v nich. This guiding light offers solace in trying times, a taste of a god's true might.
 tagGDX2Class09SkillName06B=Jasný účel
-tagGDX2Class09SkillDescription06B=Driven to destroy their foes without hesitation, an Oathkeeper becomes the embodiment of celestial fury.
+tagGDX2Class09SkillDescription06B=Jak je hnán chutí zničit své protivníky bez zaváhání, stává se Přísežník ztělesněním nebeské zloby.
 
 tagGDX2Class09SkillName07A=Oko zúčtování
-tagGDX2Class09SkillDescription07A=When the first Oathkeepers looked upon the celestial vale and witnessed the astounding power of Empyrion's light, they sought to replicate its brilliance and might. The culmination of their prayers and training was the Eye of Reckoning, a devastating display of martial combat that rapidly cleaves through all nearby foes in a whirlwind of fire and light for as long as the Oathkeeper channels their focus into the attack. ^oVyžaduje chladnou zbraň.
+tagGDX2Class09SkillDescription07A=Když se Přísežníci poprvé podívali na nebeské údolí a spatřili obrovskou moc Empyrionova světla, chtěli mít možnost napodobit tu dokonalost a sílu. Z umocnění jejich motliteb a tréninku vzešlo Oko zúčtování, devastující vyobrazení bojového umění, jež se proseká skrze hordy blízkých nepřátel v podobě kruhu z plamenů a světla, a to do doby, dokud se Přísežník na tento útok soustředí. ^oVyžaduje chladnou zbraň.
 tagGDX2Class09SkillName07B=Zapálená duše
-tagGDX2Class09SkillDescription07B=Through the righteous fire burning with the Oathkeeper's soul, the light becomes as if a physical force, spiraling outward and piercing through unwary foes during the Eye of Reckoning.
+tagGDX2Class09SkillDescription07B=Díky ohni spravedlnosti, který plane v Přísežníkově duši, se světlo chová jako fyzická síla vycházející ven, jež probodává neopatrné nepřátele po dobu trvání Oka zúčtování.
 
 tagGDX2Class09SkillName08A=Vyvolat Empyrionova Strážce
 tagGDX1Class09SkillTracker08A=Momentální počet vyvolaných Strážců
-tagGDX2Class09SkillDescription08A=Call forth a loyal servant of Empyrion to cleave through your foes and render celestial judgment. ^oThe Celestial Guardian scales with player bonuses.
+tagGDX2Class09SkillDescription08A=Přivolej Empyrionova věrného služebníka, aby se prosekal skrze tvé nepřátele a ukázal tak, jak vypadá nebeský rozsudek. ^oHvězdný strážce sílí spolu s bonusy hráče.
 tagGDX2Class09SkillName08B=Hvězdná přítomnost
-tagGDX2Class09SkillDescription08B=The guardian's very presence sears the souls of your heretical foes.
+tagGDX2Class09SkillDescription08B=Už jen přítomost Strářce spaluje duše pohanských nepřátel.
 tagGDX2Class09SkillName08C=Dreegův potomek
-tagGDX2Class09SkillDescription08C=Tainted by the gaze of Dreeg, the Celestial Guardian becomes a scion of acid and decay, a mirror of the deity it now serves.
+tagGDX2Class09SkillDescription08C=Hvězdný strážce, poskvrněný pohledem Dreega, se stal hnilobnou a jedovatou ratolestí, pravým opakem bohů, kterým slouží.
 tagGDX2Class09SkillName08A_PetSkillA=Empyrionovo rozštípnutí
 tagGDX2Class09SkillName08A_PetSkillB=Dreegovo rozštípnutí
 
 tagGDX2Class09SkillName09A=Cesta Tří
-tagGDX2Class09SkillDescription09A=Not all Oathkeepers swear fealty to deities blessing the Erulan empire. Some offer themselves before the three Witch Gods in the hopes of harnessing even a fraction of their terrible powers. These Oathkeepers consider themselves to be upon the true path, not deceived by empty promises of a light that has forsaken humanity. ^oTato schopnost musí být aktivní, aby účinkovala.
+tagGDX2Class09SkillDescription09A=Ne všichni Přísežníci přísahají oddanost bohům, kteří žehnají Erulanské říši. Někteří se podbízejí Třem - Čarodějným bohům a doufají, že získají byť jen zlomek jejich strašlivé moci. Tito Přísežníci se považují za ty, jež kráčí správnou cestou, za ty kteří nejsou oklamáni slibováním příchodu světla, které přitom lidstvo opustilo. ^oTato schopnost musí být aktivní, aby účinkovala.
 
 tagGDX2Class09SkillName10A=Svatý příkaz
-tagGDX2Class09SkillDescription10A=Whether raising their shield in the name of Empyrion himself, or serving under the banners of a member of his celestial court, Oathkeepers that have risen in the ranks are considered to be an extension of divine will and heralds of celestial retribution. ^oTato schopnost musí být aktivní, aby účinkovala.
+tagGDX2Class09SkillDescription10A=Kdykoliv pozvednou štít ve jménu samotného Empyriona nebo slouží pod standartou člena nebeského dvora, jsou Přísežníci, kteří povýšili ve své hodnosti, považováni za rozšířenou svatou vůli a heroldy nebeské odplaty. ^oTato schopnost musí být aktivní, aby účinkovala.
 
 tagGDX2Class09SkillName11A=Pojistka
-tagGDX2Class09SkillDescription11A=In the hands of a trained Oathkeeper, a shield is not just an unbreakable defense, but also a formidable weapon. ^oThis is a shield bonus.
+tagGDX2Class09SkillDescription11A=V rukou zkušeného Přísežníka není štít jen nerozbitnou obranou, ale také impozantní zbraní. ^oToto je bonus ke štítu.
 tagGDX2Class09SkillName12A=Třísknutí
-tagGDX2Class09SkillDescription12A=A precise strike fueled by the Oathkeeper's righteous fury leaves enemies staggered and broken. With sufficient practice, this technique can even be extended to a shield. ^oCan activate with all default weapon attacks. When used with a melee weapon and shield, will also strike with the shield.
+tagGDX2Class09SkillDescription12A=Precizně vedený úder umocněný o Přísežníkovu právoplatnou zlobu nechá nepřítele otřeseného a zlomeného. S dostatečným tréninkem se tato schopnost může rozšířit i na štít. ^oMůže být aktivováno všemi výchozími typy útoku. Pokud je používáno se zbraní a štítem, je tato schopnost rozšířena i na štít.
 tagGDX2Class09SkillName13A=Drtivý úder
-tagGDX2Class09SkillDescription13A=Such is an Oathkeeper's prowess with a shield that the force of the blow resonates through the earth and sends an additional shockwave through your initial target. ^oThis is a shield combat technique that activates off of default weapon attacks. Requires a melee weapon and shield.
+tagGDX2Class09SkillDescription13A=Tak mocná je statečnost Přísežníka se štítem, že síla úderu rezonuje skrze zemi a vyšle další rázovou vlnu skrze tvůj původní cíl. ^oToto je technika boje se štítem a je aktivována výchozím útokem zbraně. Vyžaduje chladnou zbraň a štít.
 
 tagGDX2Class09SkillName14A=Houževnatost
-tagGDX2Class09SkillDescription14A=For an Oathkeeper, resolute faith is the absolute defense. As life fades, so the spirit rises to oppose further harm.
+tagGDX2Class09SkillDescription14A=Pro Přísežníka je víra absolutní obranou. Tak jak vyprchává život, sílí duch, aby zabránil dalším poraněním.
 
 
 #ItemSkills
@@ -246,7 +246,7 @@ tagGDX2ItemSkillD240Desc=Invoke your authority over your minions, invigorating a
 
 #Component Skills
 tagGDX2CompSkillA033Name=Zbraně z Prázdnoty
-tagGDX2CompSkillA033Desc=Empower your attacks with the corrupting void. ^oTato schopnost musí být aktivní, aby účinkovala.
+tagGDX2CompSkillA033Desc=Posiluje tvé zbraně působením Prázdnoty. ^oTato schopnost musí být aktivní, aby účinkovala.
 
 
 #Relic Skills
@@ -287,39 +287,39 @@ tagGDX2_SummonMaggotDesc=Conjure a writhing maggot from the Shattered Realm. ^oO
 
 
 #SkillDevotion
-tagGDX2Devotion_A201=Nighttalon
-tagGDX2Devotion_A201Desc=The nighttalon is an elusive and agile hunter, stalking the night sky for easy prey.
-tagGDX2Devotion_A202=Mantis
-tagGDX2Devotion_A202Desc=The mantis hungrily tears at the celestial tapestry, eager for wallowing stars to devour.
-tagGDX2Devotion_A203=Scarab
-tagGDX2Devotion_A203Desc=The scarab scurries across the night sky, seeking Azrakaa's sands to burrow into.
-tagGDX2Devotion_A204=Lotus
-tagGDX2Devotion_A204Desc=A celestial omen of good fortune. Those born under its light are said to have lives of peace and happiness.
+tagGDX2Devotion_A201=Noční dráp
+tagGDX2Devotion_A201Desc=Noční dráp je nepolapitelný a hbitý lovec, který brázdí noční oblohu a hledá snadnou kořist.
+tagGDX2Devotion_A202=Kudlanka
+tagGDX2Devotion_A202Desc=Kudlanka hladově trhá závoj nebes a dychtivě hledá hvězdy, které by pozřela.
+tagGDX2Devotion_A203=Vruboun
+tagGDX2Devotion_A203Desc=Vruboun se mihotá po noční obloze a hledá Azrakaainy písky, do kterých by se ponořil.
+tagGDX2Devotion_A204=Leknín
+tagGDX2Devotion_A204Desc=Nebeské znamení štěstěny. Ti narození pod jeho světlem prý žijí v míru a štěstí.
 
-tagGDX2Devotion_B201=Ulzaad, Herald of Korvaak
-tagGDX2Devotion_B201Desc=A titan loyal only to Korvaak, Ulzaad heralded the arrival of his patron to all his subjects. Without his master's command, Ulzaad became disillusioned and lost, eventually driven to madness and despair.
-tagGDX2Devotion_B202=Hyrian, Guardian of the Celestial Gates
-tagGDX2Devotion_B202Desc=Hyrian is the immortal creation of Targo the Builder, created millennia ago to stand eternal vigil over the celestial tapestry the primordial gods inhabit.
+tagGDX2Devotion_B201=Ulzaad, Korvaakův herold
+tagGDX2Devotion_B201Desc=Ulzaak, titán loajální jen Korvaakovi, ohlašoval příchod svého pána všem. Bez vedení jeho pánem se stal Ulzaad  se stal rozčarovaným a zklamaným a následně propadl šílenství a zoufalství.
+tagGDX2Devotion_B202=Hyrian, Strážce nebeských bran
+tagGDX2Devotion_B202Desc=Hyrian je nesmrtelný výtvor Targa Stavitele, vytvořen před tisíciletími, aby navěky hlídal nebeské rouno, kde sídlí pradávní bozi.
 
-tagGDX2Devotion_C201=Korvaak, the Eldritch Sun
-tagGDX2Devotion_C201Desc=The Eldritch Sun rises once again to claim its celestial throne.
-tagGDX2Devotion_C202=Azrakaa, the Eternal Sands
-tagGDX2Devotion_C202Desc=Azrakaa, the eternal companion of Aeon, crafts the very sands with which the keeper of time decides the fates of mortals. She is his consort, and most trusted advisor, often tempering Aeon's harsh judgment and offering solace to the mortals she cherishes.
-tagGDX2Devotion_C203=Yugol, the Insatiable Night
-tagGDX2Devotion_C203Desc=When Empyrion's light first spread beyond creation, the gods discovered that a great darkness sweltered within the nothingness. It had but one name: Yugol. Yugol's insatiable hunger threatens to consume all that the primordials had painstakingly crafted, its advance thwarted only by the merciful light of a thousand-thousand stars.
+tagGDX2Devotion_C201=Korvaak, Tajemné Slunce
+tagGDX2Devotion_C201Desc=Tajemné Slunce znovu povstává, aby znovu získalo nebeský trůn.
+tagGDX2Devotion_C202=Azrakaa, Nekonečné písky
+tagGDX2Devotion_C202Desc=Azrakaa, věčná partnerka Aeona, vytváří písek, ve kterém strážce času rozhoduje o osudu smrtelníků. Je jeho ženou a nejdůvěrnější rádkyní, často zmírňující Aenovy ukvapené soudy a nabízí často uklidnění smrtelníkům, které opatruje.
+tagGDX2Devotion_C203=Yugol, Neukojitelná tma
+tagGDX2Devotion_C203Desc=Když se Empyrionovo světlo rozšířilo až za hranice hmoty, bohové objevili, že v prázdnotě se ukrývá velké temno. Mělo jen jedno jméno: Yugol. Yugolův neutišitelný hlad je hrozbou pro vše, co prvotní bozi vytvořili a jeho postup vpřed je zamezen pouze milosrdným světlem tisíce-tisíců hvězd.
 
-tagGDX2DevotionEffectB201=Ulzaad's Decree
-tagGDX2DevotionEffectB201Desc=The decree of Korvaak's Herald fills you with stone focus and determination.
-tagGDX2DevotionEffectB202=Hyrian's Glare
-tagGDX2DevotionEffectB202Desc=The blinding glare of the celestial guardian falls upon your foes, sowing confusion among their ranks.
+tagGDX2DevotionEffectB201=Ulzaadův dekret
+tagGDX2DevotionEffectB201Desc=Dekret Korvaakova herolda tě zaplní neoblomným soustředěním a odhodláním.
+tagGDX2DevotionEffectB202=Hyrianův zlostný pohled
+tagGDX2DevotionEffectB202Desc=Oslepující zlostný pohled hvězdného strážce je směřován na tvé nepřátele a ten tak způsobí zmatenost v jejich řadách.
 
-tagGDX2DevotionEffectC201=Eye of Korvaak
-tagGDX2DevotionEffectC201Desc=The eldritch gaze of Korvaak falls upon you in an expanding ring, piercing through any foes unfortunate enough to be in the way.
-tagGDX2DevotionEffectC202=Shifting Sands
-tagGDX2DevotionEffectC202Desc=The sands of Azrakaa ebb and flow across the battlefield, piercing through foes before returning to your position.
-tagGDX2DevotionEffectC203=Black Blood of Yugol
-tagGDX2DevotionEffectC203Desc=The black blood of Yugol spills from your wounds, festering upon the battlefield and seeking out foes to consume within its eternal darkness.
-tagGDX2DevotionEffectC203_PetSkill=Black Blood
+tagGDX2DevotionEffectC201=Korvaakovo oko
+tagGDX2DevotionEffectC201Desc=Tajemný Korvaakův upřený pohled na tebe dopadne v podobě rozšiřujícího se kruhu, který pronikne skrze jakéhokoliv nepřítele, který je naneštěstí v dosahu.
+tagGDX2DevotionEffectC202=Pohyblivé písky
+tagGDX2DevotionEffectC202Desc=Azrakaainy písky se přelévají přes bojiště a projdou skrze tvé nepřátele, než se k tobě zase vrátí.
+tagGDX2DevotionEffectC203=Yugolova černá krev
+tagGDX2DevotionEffectC203Desc=Yugolova černá krev ti teče ze zranění a na bojišti se snaží najít nepřítele, kterého by vtáhla do nekonečné temnoty.
+tagGDX2DevotionEffectC203_PetSkill=Černá krev
 
 
 #Mobility Runes
