@@ -65,11 +65,11 @@ tagGDX2Class09SkillName06B=Jasný účel
 tagGDX2Class09SkillDescription06B=Jak je hnán chutí zničit své protivníky bez zaváhání, stává se Přísežník ztělesněním nebeské zloby.
 
 tagGDX2Class09SkillName07A=Oko zúčtování
-tagGDX2Class09SkillDescription07A=Když se Přísežníci poprvé podívali na nebeské údolí a spatřili obrovskou moc Empyrionova světla, chtěli mít možnost napodobit tu dokonalost a sílu. Z umocnění jejich motliteb a tréninku vzešlo Oko zúčtování, devastující vyobrazení bojového umění, jež se proseká skrze hordy blízkých nepřátel v podobě kruhu z plamenů a světla, a to do doby, dokud se Přísežník na tento útok soustředí. ^oVyžaduje chladnou zbraň.
+tagGDX2Class09SkillDescription07A=Když se Přísežníci poprvé podívali na nebeské údolí a spatřili obrovskou moc Empyrionova světla, chtěli mít možnost napodobit tu dokonalost a sílu. Z umocnění jejich motliteb a tréninku vzešlo Oko zúčtování, devastující vyobrazení bojového umění, jež se proseká skrze hordy blízkých nepřátel v podobě kruhu z plamenů a světla, a to do doby, dokud se Přísežník na tento útok soustředí. ^oVyžaduje chladnou zbraň. Při 100% rychlosti útoku způsobuje Oko zúčtování zranění a spaluje magickou energii každé 0.2 sekundy.
 tagGDX2Class09SkillName07B=Zapálená duše
 tagGDX2Class09SkillDescription07B=Díky ohni spravedlnosti, který plane v Přísežníkově duši, se světlo chová jako fyzická síla vycházející ven, jež probodává neopatrné nepřátele po dobu trvání Oka zúčtování.
 
-tagGDX2Class09SkillName08A=Vyvolat Empyrionova Strážce
+tagGDX2Class09SkillName08A=Vyvolání Empyrionova Strážce
 tagGDX1Class09SkillTracker08A=Momentální počet vyvolaných Strážců
 tagGDX2Class09SkillDescription08A=Přivolej Empyrionova věrného služebníka, aby se prosekal skrze tvé nepřátele a ukázal tak, jak vypadá nebeský rozsudek. ^oHvězdný strážce sílí spolu s bonusy hráče.
 tagGDX2Class09SkillName08B=Hvězdná přítomnost
@@ -276,7 +276,7 @@ tagGDX2RelicSkillD206Desc=You prepare yourself to face every blow, all the while
 
 
 #ConsumableSkills
-tagGDX2_SummonMiniLizardName=Vyvolat Malého polykače
+tagGDX2_SummonMiniLizardName=Vyvolání Malého polykače
 tagGDX2_SummonMiniLizardDesc=Call forth the mighty Korvan Minivore, a ferocious beast in a tiny package. ^oOnly one Korvan Minivore can be summoned at any one time. Minivores are strictly non-violent.
 
 tagGDX2_SummonMaggotName=Vyvolat Hvězdnou larvu
@@ -624,3 +624,6 @@ tagGDX2EnemySkillD14_Desc=You stand awe of a celestial being
 
 tagGDX2EnemySkillD15=Celestial Effigy
 tagGDX2EnemySkillD15_Desc=An nearby effigy empowers Korvaak and harms mortals.
+
+tagGDX2EnemySkillD16=Howling Wind
+tagGDX2EnemySkillD16_Desc=A powerful wind chills you to the bone and causes some projectiles to miss their intended target.

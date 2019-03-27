@@ -66,7 +66,7 @@ tagGDX1Class07SkillName03D=Slovo vyzbrojení
 tagGDX1Class07SkillDescription03D=Díky šíření své vůle skrze masivní obouruční zbraně mohou inkvizitoři zasadit další runy do své výbavy a používat tak Obnovující slovo s větší kadencí. ^oVyžaduje obouruční chladnou nebo obouruční střelnou zbraň.
 
 tagGDX1Class07SkillName04A=Ignaffarovy plameny
-tagGDX1Class07SkillDescription04A=Podržíš Ignaffarův kámen před sebou a můžeš tak chrlit plameny ze své dlaně po celou dobu, kdy bude tvá mysl propojená s relikvií.^oToto je vedená dovednost a musí být stisknuta, aby byla aktivována. ^oPři nulové rychlosti kouzlení činí Ignaffarovy plameny poškození magie a vysává ji každých 0.3s.
+tagGDX1Class07SkillDescription04A=Podržíš Ignaffarův kámen před sebou a můžeš tak chrlit plameny ze své dlaně po celou dobu, kdy bude tvá mysl propojená s relikvií.^oToto je vedená dovednost a musí být stisknuta, aby byla aktivována. ^oPři 100% rychlosti kouzlení spalují Ignaffarovy plameny magickou energii a vysávají ji každých 0.3s.
 tagGDX1Class07SkillName04B=Zesílení
 tagGDX1Class07SkillDescription04B=Ignaffarovy plameny sílí, propalují zbroj a na popel spálí tkáně.
 tagGDX1Class07SkillName04C=Pekelná čistka
@@ -130,7 +130,7 @@ tagGDX1Class08SkillName00A=Nekromant
 tagGDX1Class08SkillDescription00A=Mistrovství v ovládání krutého osudu, který čeká na všechny živé.
 
 tagGDX1Class08SkillName01A=Sání života
-tagGDX1Class08SkillDescription01A=Nekromanti obecně věří ve vyšší dobro a někdy vyšší dobro znamená to, že život jednoho musí být obětován pro to, aby druhý mohl žít. I když se na tuto schopnost nekromanti dívají se svraštělým čelem, někteří její uživatelé mají problém odolat lákavosti surové životní energie. ^oPři nulové rychlosti kouzlení činí Sání života poškození magie a vysává ji každých 0.3s.
+tagGDX1Class08SkillDescription01A=Nekromanti obecně věří ve vyšší dobro a někdy vyšší dobro znamená to, že život jednoho musí být obětován pro to, aby druhý mohl žít. I když se na tuto schopnost nekromanti dívají se svraštělým čelem, někteří její uživatelé mají problém odolat lákavosti surové životní energie. ^oPři 100% rychlosti kouzlení spaluje Sání života magickou energii a vysává ji každých 0.3s.
 tagGDX1Class08SkillName01B=Hlad
 tagGDX1Class08SkillDescription01B=Hlad po životní esenci nemusí být jednoduché uspokojit, pokud jej jednou okusíš. S tím, jak promítáš svůj hlad do kouzla, toto kouzlo ovlivňuješ a tak jsou kromě hlavního cíle občas zasaženi i okolní nepřátelé.
 tagGDX1Class08SkillName01C=Rozklad
