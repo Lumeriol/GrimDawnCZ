@@ -150,7 +150,7 @@ ach046Title=Těžké rozhodnutí
 ach046Desc=Vyřeš situaci v Novém přístavu bez uchýlení se k násilí.
 
 ach047Title=Žádné výjimky
-ach047Desc=Zlikviduj Anastarii.
+ach047Desc=Zlikviduj Anasterii.
 
 ach048Title=Neočekával jsem tě, člověče
 ach048Desc=Zlikviduj Wardena Kriega ve Veteránském režimu než tvá postava dosáhne 11. úrovně.
@@ -186,7 +186,7 @@ ach058Title=Lány zoufalství
 ach058Desc=Přežij na Lánech zoufalství.
 
 ach059Title=Nebeské prokletí
-ach059Desc=Poraž Mogdrogenovu iluzi.
+ach059Desc=Poraz Mogdrogenovu iluzi.
 
 ach060Title=Vyhasnutí Shar'Zula
 ach060Desc=Zlikviduj Shar'Zula, posla Chaosu v Baště Chaosu.

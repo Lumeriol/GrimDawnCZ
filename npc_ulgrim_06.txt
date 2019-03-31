@@ -7,7 +7,7 @@ Nestůj tady jen tak a nekoukej na tu mojí hezkou tvář, je tady dost práce!
 Zatím.
 Setkám se s tebou v Hrobce Strážců, hned za Loghorreanovou kobkou.{^n}{^n}A teď už jdi!
 Kde že najdu Hrobku Strážců?
-Hrobka Strážců je v severovýchodní části Pohřebiště. Bude těžce bráněna jak Kultem Ch'thona, tak příšerami z Prázdnoty, takže buď [[ms]opatrný[fs]opatrná].{^n}{^n}Sestkám se s tebou v Loghorreanově kobce.
+Hrobka Strážců je v severovýchodní části Pohřebiště. Bude těžce bráněna jak Kultem Ch'thona, tak příšerami z Prázdnoty, takže buď [[ms]opatrný[fs]opatrná].{^n}{^n}Setkám se s tebou v Loghorreanově kobce.
 Setkáme se uvnitř.
 Dobrá.
 Kult Ch'thona je v příliš velkém počtu, abychom na ně zaútočili přímo, ale můžeme sabotovat jejich úsilí pár precizními útoky, zatímco naši přátelé z Černé legie udrží jejich pozornost jinde.
@@ -16,7 +16,7 @@ Vypadá to, že rituál je poháněn krví shromážděnou v tábořištích kul
 Kult zastavíme.
 Nemůže to vyřídit někdo jiný?
 Povozy už jsem [[ms]zničil[fs]zničila].
-Dobrá.{^n}{^n}Nyní jediné co zbývá je jednoduchá záležitost; probojovat se do nitra nepřátelských sil, vniknout do Hrobky Strážců a zabezpečit místo, kde se provádějí tiruály než kult napáchá nějaké další škody.{^n}{^n}Setkáme se v hrobce.
+Dobrá.{^n}{^n}Nyní jediné co zbývá je jednoduchá záležitost; probojovat se do nitra nepřátelských sil, vniknout do Hrobky Strážců a zabezpečit místo, kde se provádějí rituály než kult napáchá nějaké další škody.{^n}{^n}Setkáme se v hrobce.
 Dokončíme to.
 [[ms]Měl[fs]Měla] bych nějaké otázky.
 Nejsem si jistý, jestli je teď ten pravý čas.
@@ -28,7 +28,7 @@ Mám další otázku.
 Hned se vrátím.
 Říkáš, že už tahle věc jednou vyvolaná byla?
 Ano, před mnoha staletími, v Bitvě o Ikon. Nikdo s jistotou neví jestli to byli Carineňané, kdo udělal tenhle poslední zoufalý krok, a nebo byl Loghorrean přilákán tou veškerou prolitou krví, ale výsledek byl katastrofální. {^n}{^n}A teď už víme, jaký opravdový důvod stojí za stavbou Pohřebiště.
-What's our next step?
+Jaký je náš další krok?
 
 Mám další otázku.
 Hned se vrátím.

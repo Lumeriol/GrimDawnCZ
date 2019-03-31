@@ -65,7 +65,7 @@ tagGDX2Class09SkillName06B=Jasný účel
 tagGDX2Class09SkillDescription06B=Jak je hnán chutí zničit své protivníky bez zaváhání, stává se Přísežník ztělesněním nebeské zloby.
 
 tagGDX2Class09SkillName07A=Oko zúčtování
-tagGDX2Class09SkillDescription07A=Když se Přísežníci poprvé podívali na nebeské údolí a spatřili obrovskou moc Empyrionova světla, chtěli mít možnost napodobit tu dokonalost a sílu. Z umocnění jejich motliteb a tréninku vzešlo Oko zúčtování, devastující vyobrazení bojového umění, jež se proseká skrze hordy blízkých nepřátel v podobě kruhu z plamenů a světla, a to do doby, dokud se Přísežník na tento útok soustředí. ^oVyžaduje chladnou zbraň. Při 100% rychlosti útoku způsobuje Oko zúčtování zranění a spaluje magickou energii každé 0.2 sekundy.
+tagGDX2Class09SkillDescription07A=Když se Přísežníci poprvé podívali na nebeské údolí a spatřili obrovskou moc Empyrionova světla, chtěli mít možnost napodobit tu dokonalost a sílu. Z umocnění jejich motliteb a tréninku vzešlo Oko zúčtování, devastující vyobrazení bojového umění, jež se proseká skrze hordy blízkých nepřátel v podobě kruhu z plamenů a světla, a to do doby, dokud se Přísežník na tento útok soustředí. ^oVyžaduje chladnou zbraň.  Při 100% rychlosti útoku způsobuje Oko zúčtování zranění a spaluje magickou energii každé 0.2 sekundy.
 tagGDX2Class09SkillName07B=Zapálená duše
 tagGDX2Class09SkillDescription07B=Díky ohni spravedlnosti, který plane v Přísežníkově duši, se světlo chová jako fyzická síla vycházející ven, jež probodává neopatrné nepřátele po dobu trvání Oka zúčtování.
 
@@ -98,117 +98,117 @@ tagGDX2Class09SkillDescription14A=Pro Přísežníka je víra absolutní obranou
 
 #ItemSkills
 tagGDX2ItemSkillB201Name=Rázová vlna
-tagGDX2ItemSkillB201Desc=A wave of fire erupts from your attack.
+tagGDX2ItemSkillB201Desc=Spolu s tvým útokem se uvolňuje vlna ohně.
 
 tagGDX2ItemSkillC201Name=Nova z jedovatých trnů
-tagGDX2ItemSkillC201Desc=Poisonous spines erupt around you, impaling nearby foes.
+tagGDX2ItemSkillC201Desc=Jedové trny vyrážejí ze země kolem tebe a nabodávají nepřátele v blízkosti.
 
 tagGDX2ItemSkillC202Name=Stormserpent Orb
-tagGDX2ItemSkillC202Desc=An electrified orb of ice pierces through your foes and chills their movement.
+tagGDX2ItemSkillC202Desc=Zelektrizovaná ledová koule projde skrze tvé nepřátele a zpomalí jejich pohyb.
 
 tagGDX2ItemSkillC203Name=Daegova přísaha
-tagGDX2ItemSkillC203Desc=Daega's oath to Dreeg compels you.
+tagGDX2ItemSkillC203Desc=Daegova přísaha Dreegovi tě žene vpřed.
 
 tagGDX2ItemSkillC204Name=Rozpínající se plameny
-tagGDX2ItemSkillC204Desc=A sorcerous blaze festers within your foes, destroying them from within.
+tagGDX2ItemSkillC204Desc=Kouzelný žár se rozrůstá v nitru tvých nepřátel a ničí je tak zevnitř.
 
 tagGDX2ItemSkillC205Name=Prolít jejich krev
-tagGDX2ItemSkillC205Desc=Spill the blood of the heathens that dare stand in your way.
+tagGDX2ItemSkillC205Desc=Prolij krev bezvěrců, kteří se ti opováží vstoupit do cesty.
 
 tagGDX2ItemSkillD201Name=Krvavé výhonky
-tagGDX2ItemSkillD201Desc=A crimson spout erupts beneath your foes, showering them with blood and gore.
+tagGDX2ItemSkillD201Desc=Rudé výhonky vyráží se země pod nohami tvých nepřátel a vykoupou je v krvi a ostatcích.
 
 tagGDX2ItemSkillD202Name=Strážcova lekce
-tagGDX2ItemSkillD202Desc=Embrace the lessons of the Witch God Dreeg and turn your weapons into an extension of his will.
+tagGDX2ItemSkillD202Desc=Přijli lekci čarodějného boha Dreega a proměň své zbraně v nástroj jeho vůle.
 
 tagGDX2ItemSkillD203Name=Strážce ničitel
-tagGDX2ItemSkillD203Desc=Being brought low merely stokes your rage.
+tagGDX2ItemSkillD203Desc=Bytost ne příliš silné vůle sotva odolá tvému hněvu.
 
 tagGDX2ItemSkillD204Name=Procitnutí duší
-tagGDX2ItemSkillD204Desc=A wake of souls erupts from you, consuming all life before it.
+tagGDX2ItemSkillD204Desc=Proud duší, který z tebe pramení, pozře vše živé, co mu stojí v cestě.
 
 tagGDX2ItemSkillD205Name=Rudá záplava
-tagGDX2ItemSkillD205Desc=A wake of blood erupts from you, drowning your foes in crimson.
+tagGDX2ItemSkillD205Desc=Krvavá vlna se vyřítí směrem na nepřátele a do ruda je vykoupe.
 
 tagGDX2ItemSkillD206Name=Škodlivé zranění
-tagGDX2ItemSkillD206Desc=Cleave your foe with a noxious edge, leaving a festering wound.
+tagGDX2ItemSkillD206Desc=Sekni nepřítele infikovaným ostřím a zanech tak hnisavou ránu.
 
 tagGDX2ItemSkillD207Name=Fénixovo ponoření
-tagGDX2ItemSkillD207Desc=A fiery eruption consumes your foes.
+tagGDX2ItemSkillD207Desc=Erupce ohně požírá tvé nepřátele.
 
 tagGDX2ItemSkillD208Name=Kopí z kosti
-tagGDX2ItemSkillD208Desc=Unleash a projectile of necromantic bone to pierce through your foes.
+tagGDX2ItemSkillD208Desc=Vypusť projektil ve formě nekrotického bodce, který probodne tvé nepřátele.
 
 tagGDX2ItemSkillD209Name=Nebeská přítomnost
-tagGDX2ItemSkillD209Desc=You are filled with the graceful light of Empyrion. Your very presence sears your foes. ^oTato schopnost musí být aktivní, aby účinkovala.
+tagGDX2ItemSkillD209Desc=Jsi [[ms]naplněn[fs]naplněna] půvabným světlem Empyriona. Už jen tvá přítomnost popálí tvé nepřátele. ^oTato schopnost musí být aktivní, aby účinkovala.
 
 tagGDX2ItemSkillD210Name=Sluneční skvrna
-tagGDX2ItemSkillD210Desc=Blast your target with a heavenly ray of searing flames.
+tagGDX2ItemSkillD210Desc=Zaplav svůj cíl mohutným paprskem spalujícího ohně.
 
 tagGDX2ItemSkillD211Name=Spektrální strážce
-tagGDX2ItemSkillD211Desc=Being brought low fills you with spectral resilience and fury.
+tagGDX2ItemSkillD211Desc=Sražení na kolena tě naplňuje pružností a zuřivostí ducha.
 
 tagGDX2ItemSkillD212Name=Změnit osud
-tagGDX2ItemSkillD212Desc=Rewind the strands of fate, undoing recent harm.
+tagGDX2ItemSkillD212Desc=Znovu splést vlákna osudu znamená odčinit nedávná poranění.
 
 tagGDX2ItemSkillD213Name=Entropická přítomnost
-tagGDX2ItemSkillD213Desc=Your very presence destabilizes your foes and shatters their reality. ^oTato schopnost musí být aktivní, aby účinkovala.
+tagGDX2ItemSkillD213Desc=Tvá přítomnost destabilizuje tvé nepřátele a tříští jejich svět. ^oTato schopnost musí být aktivní, aby účinkovala.
 
 tagGDX2ItemSkillD214Name=Dar lotosu
-tagGDX2ItemSkillD214Desc=The lotus revitalizes your essence.
+tagGDX2ItemSkillD214Desc=Lotos revitalizuje tvého ducha.
 
 tagGDX2ItemSkillD215Name=Korvaakova značka
-tagGDX2ItemSkillD215Desc=Brand your foes with Korvaak's fury, incinerating them with the elements. ^oThis is a melee dual-wielding and ranged dual-wielding technique that activates off of default weapon attacks. Also enables the ability to dual wield weapons.
+tagGDX2ItemSkillD215Desc=Díky Korvaakově zuřivosti ocejchuješ a za pomoci elementů popálíš své nepřátele. ^oToto je technika dvou jednoručních střelných nebo dvou jednoručních palných palných zbraní, která je aktivována výchozím typem útoku. Také umožňuje ovládat dvě zbraně najednou.
 
 tagGDX2ItemSkillD216Name=Neživot
-tagGDX2ItemSkillD216Desc=Being brought to the brink of death fills you with resilience of the undead.
+tagGDX2ItemSkillD216Desc=Být na hranici smrti tě naplňuje odolností nemrtvých.
 
 tagGDX2ItemSkillD217Name=Ohnivé kopí
-tagGDX2ItemSkillD217Desc=A lance of pure flame pierces through your foes.
+tagGDX2ItemSkillD217Desc=Kopí z čirého plamene pronikne skrze tvé nepřátele.
 
 tagGDX2ItemSkillD218Name=Kráčející skála
-tagGDX2ItemSkillD218Desc=The enchantment upon these boots shields you from physical harm.
+tagGDX2ItemSkillD218Desc=Vylepšení těchto bot tě ochrání před fyzickým poraněním.
 
 tagGDX2ItemSkillD219Name=Pochůzkář smrti
-tagGDX2ItemSkillD219Desc=You are resistant to the call of death, putting up a barrier whenever struck by abilities that seek to drain you of life's essence.
+tagGDX2ItemSkillD219Desc=Proti volající smrti je tvá postava odolná - zvedne se bariéra vždy, když tě zasáhnou kouzla snazící se tě zbavit tvé životní esence.
 
 tagGDX2ItemSkillD220Name=Úlomek úsvitu
-tagGDX2ItemSkillD220Desc=A shard of pure soladrin crystal erupts from you to sear your foes before returning to you.
+tagGDX2ItemSkillD220Desc=Úlomek čistého soladrinského krystalu je z tebe vystřelen a než se k tobě vrátí zpět, popálí nepřátele v cestě.
 
 tagGDX2ItemSkillD221Name=Korvaakova pomsta
-tagGDX2ItemSkillD221Desc=Wild eldritch energies erupt from you, searing all nearby foes.
+tagGDX2ItemSkillD221Desc=Vzejdou z tebe tajemné divoké energie, které pálí tvé nepřátele v blízkosti.
 
 tagGDX2ItemSkillD222Name=Spectrální nova
-tagGDX2ItemSkillD222Desc=Spectral energies erupt from you, sapping nearby foes of their strength.
+tagGDX2ItemSkillD222Desc=Vzejdou z tebe spektrální energie, které odčerpají sílu z nepřátel v blízkosti.
 
 tagGDX2ItemSkillD223Name=Rozpínání ledu
-tagGDX2ItemSkillD223Desc=A cone of jagged icicles erupts from you.
+tagGDX2ItemSkillD223Desc=Směrem od tebe vystřelí kužel ostnatých rampouchů.
 
 tagGDX2ItemSkillD224Name=Oddtržená víra
-tagGDX2ItemSkillD224Desc=Embrace the whispers of the Witch Gods, and forsake your old beliefs, to empower yourself and nearby allies. ^oTato schopnost musí být aktivní, aby účinkovala.
+tagGDX2ItemSkillD224Desc=Přijmi šepotání Čarodějných bohů, zapomeň na svou starou víru a tak posil své spojence v blízkosti. ^oTato schopnost musí být aktivní, aby účinkovala.
 
 tagGDX2ItemSkillD225Name=Pohlcující temnota
-tagGDX2ItemSkillD225Desc=The endless hunger of Yugol empowers you and nearby allies. ^oTato schopnost musí být aktivní, aby účinkovala.
+tagGDX2ItemSkillD225Desc=Yugolův nekonečný hlad posiluje tvé spojence v blízkosti. ^oTato schopnost musí být aktivní, aby účinkovala.
 
 tagGDX2ItemSkillD226Name=Čestný strážce
-tagGDX2ItemSkillD226Desc=A burst of divine light erupts around you, blinding nearby foes.
+tagGDX2ItemSkillD226Desc=Vzejde z tebe paprsek svatého světla, který oslepí nepřátele v blízkosti.
 
 tagGDX2ItemSkillD227Name=Tajemná vlna
-tagGDX2ItemSkillD227Desc=A blast of eldritch energies erupts from you, staggering nearby foes.
+tagGDX2ItemSkillD227Desc=Odpoutá se od tebe vlna tajemných energií, která ohromí nepřátele v blízkosti.
 
 tagGDX2ItemSkillD228Name=Infekce pána Sněti
-tagGDX2ItemSkillD228Desc=Infect your foe with a debilitating disease that weakens their resolve.
+tagGDX2ItemSkillD228Desc=Infikuj svého nepřítele vysilující nemocí, která oslabí jejich odhodlání.
 
 tagGDX2ItemSkillD229Name=Vyvolat Tajemnou Přadlenu
-tagGDX2ItemSkillD229Desc=Warp ambient eldritch energies to conjure a webweaver from the Eldritch Realm. This creature's presence is unstable however and it will quickly seek to return to its home. ^oThe webweaver scales with Pet Bonuses.
+tagGDX2ItemSkillD229Desc=Odchyl okolní tajemné energie a přivolej tak Přadlenu z Hvězdných polí. Přítomnost této kreatury je nicméně nestabilní a brzy si bude chtít najít cestu domů. ^oPřadlena sílí spolu s bonusy spojenců.
 tagGDX2ItemSkillD229_Pet01=Pavoučí drápy
 
 tagGDX2ItemSkillD230Name=Úlomek Tajemna
-tagGDX2ItemSkillD230Desc=Conjure a shard bursting with eldritch energies to empower yourself and any allies that stand near its radiance while harming foes.
+tagGDX2ItemSkillD230Desc=Vyčaruj úlomek naplněný tajemnými energiemi a posil tak v dosahu sebe a své přátele, zatímco bude záře krystalu poškozovat tvé nepřátele.
 tagGDX2ItemSkillD230_Pet01=Tajemná záře
-tagGDX2ItemSkillD230_Pet01Desc=Fighting near the shard empower you with eldritch energies and harms nearby foes.
+tagGDX2ItemSkillD230_Pet01Desc=Bojování v blízkosti tohoto úlomku tě posílí tajemnými energiemi, zatímco nepřátelé v blízkosti budou zraňováni.
 tagGDX2ItemSkillD230_Pet02=Spálení Tajemnem
-tagGDX2ItemSkillD230_Pet02Desc=The eldritch shard radiates harmful energies.
+tagGDX2ItemSkillD230_Pet02Desc=Tajemný úlomek vyzařuje poškozující energie.
 
 tagGDX2ItemSkillD231Name=Dotek chaosu
 tagGDX2ItemSkillD231Desc=Infuse your weapons with the corrupting powers of the void, unleashing vile energies with every blow. ^oWhen used as your default weapon attack, Touch of Chaos inflicts additional damage.
@@ -229,16 +229,16 @@ tagGDX2ItemSkillD235Name=Wilhelm!
 tagGDX2ItemSkillD235Desc=Ahhhhhhh.
 
 tagGDX2ItemSkillD236Name=Plameny Aetheru
-tagGDX2ItemSkillD236Desc=A blaze of pure arcane fire erupts beneath your foes.
+tagGDX2ItemSkillD236Desc=Pod tvými nepřáteli propukne čistý arkanický oheň.
 
 tagGDX2ItemSkillD237Name=Murmuřin polibek
-tagGDX2ItemSkillD237Desc=Spew forth vile acid that penetrates your foes.
+tagGDX2ItemSkillD237Desc=Plivni směrem vpřed kyselinu, která prožere tvé nepřátele.
 
 tagGDX2ItemSkillD238Name=Krev z písku
-tagGDX2ItemSkillD238Desc=A pool of blood bubbles up from the earth beneath your foes.
+tagGDX2ItemSkillD238Desc=Kaluž bublající krve se objevuje pod nohami tvých nepřátel.
 
 tagGDX2ItemSkillD239Name=Ohnivá náplast
-tagGDX2ItemSkillD239Desc=You ignite the very ground beneath your foes.
+tagGDX2ItemSkillD239Desc=Pod svými nepřáteli zapálíš samotnou zem.
 
 tagGDX2ItemSkillD240Name=Bysmielin příkaz
 tagGDX2ItemSkillD240Desc=Invoke your authority over your minions, invigorating and empowering yourself and your allies.
