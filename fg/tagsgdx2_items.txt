@@ -133,9 +133,9 @@ tagGDX2WeaponCaster1hD202_Desc="Jejich vůle, hlas, příkazy, ..."
 tagGDX2WeaponCaster1hD203=Následník nemilosrdných větrů
 tagGDX2WeaponCaster1hD203_Desc="Žezlo má ozvěnu nemilosrdných větrů horských průsmyků."
 tagGDX2WeaponCaster1hD204=Empyrionovo milosrdenství
-tagGDX2WeaponCaster1hD205=Dýka mrazivého šepotu
+tagGDX2WeaponCaster1hD205=Dýka mrazivých šepotů
 tagGDX2WeaponCaster1hD206=Rozsudek Tří
-tagGDX2WeaponCaster1hD207=Kráječ Pána kleteb
+tagGDX2WeaponCaster1hD207=Kráječ Pána zmaru
 
 tagGDX2WeaponCaster1hF201=Bysmielin lamač bouří
 tagGDX2WeaponCaster1hF202=Bysmielin lamač duší
@@ -223,7 +223,7 @@ tagGDX2HeadC204_Desc="Majitel této označené helmy byl pravděpodobně pomalu 
 tagGDX2HeadC205=Baldirova maska
 tagGDX2HeadC206=Maska bouřného hada
 tagGDX2HeadC207=Maska zničujícího požáru
-tagGDX2HeadC208=Daegova kapuce
+tagGDX2HeadC208=Daegina kapuce
 tagGDX2HeadC209=Kameňákova helma
 tagGDX2HeadC210=Callagadrovo hledí
 tagGDX2HeadC210_Desc="Tvar představuje korvanského obyvatele utíkajícího před likvidací."
@@ -237,7 +237,7 @@ tagGDX2HeadD203_Desc="Slunce tak najednou nesmírně pálí."
 tagGDX2HeadD204=Korvaakovy rohy
 tagGDX2HeadD204_Desc="Rohy Pána nebes Tajemné říše."
 tagGDX2HeadD205=Okalothův chránič hlavy
-tagGDX2HeadD206=Maska z Pokřiveného světa
+tagGDX2HeadD206=Maska Pokřiveného světa
 tagGDX2HeadD207=Přemožitelova helma
 tagGDX2HeadD208=Koruna mrazivých šepotů
 tagGDX2HeadD209=Ludriganův kapalec
@@ -275,13 +275,13 @@ tagGDX2ShoulderC201=Ohořelé tkané nárameníky
 tagGDX2ShoulderC202=Chrániče ramen prašivého rváče
 tagGDX2ShoulderC203=Baldirovy tkané nárameníky
 tagGDX2ShoulderC204=Tkané nárameníky zničujícího požáru
-tagGDX2ShoulderC205=Daegovy tkané nárameníky
+tagGDX2ShoulderC205=Daeginy tkané nárameníky
 
 tagGDX2ShoulderD201=Skládané nárameníky odraženého světla
 tagGDX2ShoulderD201_Desc="Skuty z nejčistšího úlomku soladrinského krystalu."
 tagGDX2ShoulderD202=Skládané nárameníky kostěného přízraku
 tagGDX2ShoulderD203=Mrazem skuté tkané nárameníky
-tagGDX2ShoulderD204=Tkané nárameníky z Pokřiveného světa
+tagGDX2ShoulderD204=Tkané nárameníky Pokřiveného světa
 tagGDX2ShoulderD205=Přemožitelovy tkané nárameníky
 tagGDX2ShoulderD206=Tkané nárameníky mrazivých šepotů
 tagGDX2ShoulderD207=Chrániče ramen obchodníka s kostmi
@@ -320,7 +320,7 @@ tagGDX2TorsoC202=Runami pobitý hrudní chránič
 tagGDX2TorsoC203=Baldirova zbroj
 tagGDX2TorsoC204=Zbroj bouřného hada
 tagGDX2TorsoC205=Háv zničujícího požáru
-tagGDX2TorsoC206=Daegovo roucho
+tagGDX2TorsoC206=Daegino roucho
 tagGDX2TorsoC207=Kameňákova zbroj
 
 tagGDX2TorsoD201=Drátěná košile odraženého světla
@@ -329,7 +329,7 @@ tagGDX2TorsoD202=Háv ztracené důvěry
 tagGDX2TorsoD202_Desc="Zklamaná nedodrženými sliby menhirských kněží si Thalia našla jiný hlas, které vyslyšely její modlitby."
 tagGDX2TorsoD203=Yugolovo srdce
 tagGDX2TorsoD203_Desc="Jakmile se objevila temnota, to odporné srdce začalo bít v rytmu nebeských melodií."
-tagGDX2TorsoD204=Zbroj z Pokřiveného světa
+tagGDX2TorsoD204=Zbroj Pokřiveného světa
 tagGDX2TorsoD205=Přemožitelova zbroj
 tagGDX2TorsoD206=Háv mrazivých šepotů
 tagGDX2TorsoD207=Ludriganův kabátec
@@ -478,7 +478,7 @@ tagGDX2NecklaceD204=Vůle zabít
 tagGDX2NecklaceD205=Srdce písečného krále
 tagGDX2NecklaceD205_Desc="Gannar'vakkarova srdce, krále Korvanské pouště."
 tagGDX2NecklaceD206=Ochrana Pokřiveného světa
-tagGDX2NecklaceD207=Drahokam přemožitele
+tagGDX2NecklaceD207=Přemožitelův drahokam
 tagGDX2NecklaceD208=Drahokam obchodníka s kostmi
 tagGDX2NecklaceD209=Ochrana ctnosti
 tagGDX2NecklaceD210=Harrova ochrana
@@ -518,7 +518,7 @@ tagGDX2MedalD204=Znak nešťastných tužeb
 tagGDX2MedalD204_Desc="Stačil jeden příkaz shora."
 tagGDX2MedalD205=Znak neživého
 tagGDX2MedalD206=Ludriganův znak
-tagGDX2MedalD207=Znak Cyklóny
+tagGDX2MedalD207=Znak cyklóny
 tagGDX2MedalD208=Gholův znak
 tagGDX2MedalD209=Bysmielin znak
 
@@ -1022,7 +1022,7 @@ tagGDX2ItemSetC202Desc="Od pohanského uctívání nebeského hada sice Luminá�
 tagGDX2ItemSetC203Name=Zničující požár
 tagGDX2ItemSetC203Desc="Idriino srdce bylo tak zaníceno krutými tužbami, že nechala spálit celý svět."
 
-tagGDX2ItemSetC204Name=Daegaina kletba
+tagGDX2ItemSetC204Name=Daegina kletba
 tagGDX2ItemSetC204Desc="Daega pátrala po odpovědích mezi Empyrionovými kněžími, kteří ji nemohli odpovědět, ale ve svém zoufalství poznala hlubší pravdu skrze Dreega."
 
 tagGDX2ItemSetC205Name=Kameňák
@@ -1034,14 +1034,14 @@ tagGDX2ItemSetD201Desc="Strážce světa pohlceného temnotou, zbaveného svého
 tagGDX2ItemSetD202Name=Přemožitel
 tagGDX2ItemSetD202Desc="Dobyvatel zakázaného, triumfující nad všemi nepřáteli."
 
-tagGDX2ItemSetD203Name=Mrazivý šepot
+tagGDX2ItemSetD203Name=Mrazivé šepoty
 tagGDX2ItemSetD203Desc="Mrazivé šeptání těch, kteří odmítají zůstat mrtví, řinčí v celé této zbroji. Pokud si tuto zbroj oblečeš, staneš se šampiónem smrti."
 
 tagGDX2ItemSetD204Name=Ludriganova chlouba
 tagGDX2ItemSetD204Desc="Chlouba Luminářských legend, která byla součástí šamanských relikvií. aby přemáhala nepřátele Erulanské říše."
 
 tagGDX2ItemSetD205Name=Obchodník s kostmi
-tagGDX2ItemSetD205Desc="Zbroj Obchodníka s kostmi, zrádce víry a sběratele děsivých trofejí."
+tagGDX2ItemSetD205Desc="Zbroj obchodníka s kostmi, zrádce víry a sběratele děsivých trofejí."
 
 tagGDX2ItemSetD206Name=Světlo ctnosti
 tagGDX2ItemSetD206Desc="Prý je to požehnání Empyriona, největšího mezi bohy; Světlo ctnosti je maják naděje a spravedlnosti ve světě plném zoufalství."
@@ -1049,8 +1049,8 @@ tagGDX2ItemSetD206Desc="Prý je to požehnání Empyriona, největšího mezi bo
 tagGDX2ItemSetD207Name=Strážce Tří
 tagGDX2ItemSetD207Desc="Zbroj Strážce, věrného ochránce Tří a jejich zájmů mezi smrtelníky."
 
-tagGDX2ItemSetD208Name=Harraina rafinovanost
-tagGDX2ItemSetD208Desc="Harra se vyžívala v kombinaci chladných čepelí a magie, a tajně se vytrénovala jak mezi Nočními čepelemi, tak v Gildam Arcanum."
+tagGDX2ItemSetD208Name=Harrova rafinovanost
+tagGDX2ItemSetD208Desc="Harra se vyžíval v kombinaci chladných čepelí a magie, a tak se tajně vytrénoval jak mezi Nočními čepelemi, tak v Gildam Arcanum."
 
 tagGDX2ItemSetD209Name=Cyklóna
 tagGDX2ItemSetD209Desc="Galaron zvěstoval Cairnu kataklyzmatický konec, kdy vzduch bude hořet a oblohu budou bičovat nekončící bouře. Jeho poslední slova byla o návratu Zapomenutého."

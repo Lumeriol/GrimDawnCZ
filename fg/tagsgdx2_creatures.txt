@@ -304,7 +304,7 @@ tagGDX2Quest_EldritchArmor_02=Ishtalův strážce
 tagGDX2Quest_EldritchScorpion=Šerý zabiják
 tagGDX2Quest_Human_BoundSpirts_01=Tirgan, šílený kněz
 tagGDX2Quest_Human_BoundSpirts_02=Nevázaný Tirgan
-tagGDX2Quest_Human_DreegUsurper_01=Uchvatitel Navan
+tagGDX2Quest_Human_DreegUsurper_01=Navan, uchvatitelka
 tagGDX2Quest_Human_MadWitch_01=Postižená Inarah
 tagGDX2Quest_Statue_TempleGuard_01=Otesasný kámen, chrámový strážce
 tagGDX2Quest_StoneGryphon_TempleGuard_02=Inashkor, chrámový strážce
@@ -381,3 +381,9 @@ tagGDX2BountyWG08=Hnusák Reynar
 tagGDX2BountyWG09=Keynen, Spálené srdce
 tagGDX2BountyWG10=Strážce Yaharum
 tagGDX2BountyWG11=Strážce Ulazor
+
+
+#Races
+
+tagRace017=Mocnář
+tagRace017P=Mocnáři

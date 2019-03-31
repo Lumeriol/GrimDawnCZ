@@ -1,11 +1,11 @@
-Garrus ~ Strážce železa
+Garrus ~ Strážce pokladny
 Zdravím tě, [[ms]příteli[fs]přítelkyně].{^n}{^n}Cítím, že pro mě něco máš.{^n}{^n}Nebo chceš možná něco koupit?
 [[ms]Přál[fs]Přála] bych si něco směnit.
 Výtečně!{^n}{^n}Co pro mě máš?
-Směň 1 prut za 50000 Železných mincí.
-Směň 5 prutů za 250000 Železných mincí.
-Směň 1 štos za 500000 Železných mincí.
-Směň 5 štosů za 2500000 Železných mincí.
+Směň 1 železný prut za 50.000 železných mincí.
+Směň 5 železných prutů za 250.000 železných mincí.
+Směň 1 štos železných prutů za 500.000 železných mincí.
+Směň 5 štosů železných prutů za 2.500.000 železných mincí.
 [[ms]Rozmyslel[fs]Rozmyslela] jsem si to.
 [[ms]Měl[fs]Měla] jsem na mysli něco jiného.
 Cítím, že pro mě něco máš.{^n}{^n}Nebo chceš možná něco koupit?
@@ -13,29 +13,29 @@ Cítím, že pro mě něco máš.{^n}{^n}Nebo chceš možná něco koupit?
 
 Možná někdy jindy.
 Chci nakupovat.
-Výtečně!{^n}{^n}Tak co to bude? Mám Ocelové pruty, kus za 50000 Železných mincí. Nebo je to na tebe možná moc málo?{^n}{^n}Co potom takhle štos Ocelových prutů za 500000 Železných mincí?
-Kup 1 Železný prut za 50000 Železných mincí.
-Kup 5 Železných prutů za 250000 Železných mincí.
-Kup 1 štos Železných prutů za 500000 Železných mincí.
-Kup 5 štosů Železných prutů za 2500000 Železných mincí.
+Výtečně!{^n}{^n}Tak co to bude? Mám železné pruty, kus za 50.000 železných mincí. Nebo je to pro tebe možná málo?{^n}{^n}Co potom takhle štos železných prutů za 500.000 železných mincí?
+Kup 1 železný prut za 50.000 železných mincí.
+Kup 5 železných prutů za 250.000 železných mincí.
+Kup 1 štos železných prutů za 500.000 železných mincí.
+Kup 5 štosů železných prutů za 2.500.000 železných mincí.
 [[ms]Rozmyslel[fs]Rozmyslela] jsem si to.
 [[ms]Měl[fs]Měla] jsem na mysli něco jiného.
 
 
 Možná někdy jindy.
-Zdravím tě, [[ms]příteli[fs]přítelkyně].{^n}{^n}Poznám, když někdo nese mince a ty máš u sebe úctyhodnou sumu. {^n}{^n}Chceš nějaké směnit za Železné pruty?
+Zdravím tě, [[ms]příteli[fs]přítelkyně].{^n}{^n}Poznám, když někdo nese mince a ty máš u sebe úctyhodnou sumu.{^n}{^n}Chceš nějaké směnit za železné pruty?
 Chci nakupovat.
-Výtečně!{^n}{^n}Tak co to bude? Mám Ocelové pruty, kus za 50000 Železných mincí. Nebo je to na tebe možná moc málo?{^n}{^n}Co potom takhle štos Ocelových prutů za 500000 Železných mincí?
-Kup 1 Železný prut za 50000 Železných mincí.
-Kup 5 Železných prutů za 250000 Železných mincí.
-Kup 1 štos Železných prutů za 500000 Železných mincí.
-Kup 5 štosů Železných prutů za 2500000 Železných mincí.
+Výtečně!{^n}{^n}Tak co to bude? Mám železné pruty, kus za 50.000 železných mincí. Nebo je to pro tebe možná málo?{^n}{^n}Co potom takhle štos železných prutů za 500.000 železných mincí?
+Kup 1 železný prut za 50.000 železných mincí.
+Kup 5 železných prutů za 250.000 železných mincí.
+Kup 1 štos železných prutů za 500.000 železných mincí.
+Kup 5 štosů železných prutů za 2.500.000 železných mincí.
 [[ms]Rozmyslel[fs]Rozmyslela] jsem si to.
 
 Na co bych je [[ms]chtěl[fs]chtěla]?
-Nabízím poctivou službu, žádné levárny.{^n}{^n}Přines mi Železné mince a výměnou za ně dostaneš Železné pruty.{^n}{^n}Předej je spojencům či tvému alternativnímu já. Pokud mi je donesou, rád je zase odkoupím za jejich původní hodnotu.
+Nabízím poctivou službu, žádné levárny.{^n}{^n}Přines mi železné mince a výměnou za ně dostaneš železné pruty.{^n}{^n}Předej je spojencům či svému alternativnímu já. Pokud mi je donesou, rád je zase odkoupím za jejich původní hodnotu.
 
 Možná někdy jindy.
 Možná někdy jindy.
-Pokud nemáš peníze, tak jdi raději dál.{^n}{^n}Obchoduju pouze s těmi, co mají sumu co za to stojí.
+Pokud nemáš peníze, tak jdi raději dál.{^n}{^n}Obchoduju pouze s těmi, co mají v kapse pořádnou sumu.
 Sbohem.

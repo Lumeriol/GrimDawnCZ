@@ -48,11 +48,11 @@ tagCodexJournalSubHeadingKorvan=Historie - Korvan
 
 
 #Challenge Areas
-tagChallengeArea_Easy=Nebezpečné oblasti
-tagChallengeArea_Easy_Desc=Vstupuješ do nebezpečné oblasti, kterou ovládají tvoji nepřátelé. Zdejší nepřátelé jsou mnohem silnější a zároveň jsou aktivována Znevýhodnění, ale kořist za výhru je mnohem lepší.
+tagChallengeArea_Easy=Nebezpečná oblast
+tagChallengeArea_Easy_Desc=Vstupuješ do nebezpečné oblasti, kterou ovládají tvoji nepřátelé. Zdejší nepřátelé jsou mnohem silnější a zároveň jsou aktivována Znevýhodnění, ale kořist za pokoření nepřátel je mnohem lepší.
 
-tagChallengeArea_Hard=Zrádné oblast
-tagChallengeArea_Hard_Desc=Vstupuješ do extrémné zrádné oblasti, která se hemží nepřáteli. Nepřátelé jsou mnohem silnější a zároveň jsou aktivována Znevýhodnění, ale kořist za výhrz je zásadně lepší..
+tagChallengeArea_Hard=Zrádná oblast
+tagChallengeArea_Hard_Desc=Vstupuješ do extrémné zrádné oblasti, která se hemží nepřáteli. Nepřátelé jsou mnohem silnější a zároveň jsou aktivována Znevýhodnění, ale kořist za pokoření nepřátel je zásadně lepší.
 
 tagChallengeArea_Roguelike=Zakázaná oblast
 tagChallengeArea_Roguelike_Desc=Vstupuješ do Zakázané oblasti. Nepřátelé jsou extrémně silní, což je žene více kupředu a zároveň jsou aktivována Znevýhodnění. Do této oblasti není možné vstoupit dvakrát během jedné hry. Kořist ovšem stojí za to.

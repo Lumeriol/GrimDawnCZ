@@ -422,7 +422,8 @@ tagHUD_RightMouse_R1=Toto je tvůj sekundární útok. Pravým kliknutím myši 
 tagHUD_CompassToggleName=Přepínač kompasové mapy
 tagHUD_CompassToggleDescription=Kliknutím změníš velikost nebo pozici kompasové mapy.
 tagHUD_LootMode=Filtr kořisti
-tagHUD_LootModeDescription=Přizpůsobí předměty na zemi dle parametrů.
+tagHUD_LootHide=Zobrazit/skrýt předměty
+tagHUD_LootModeDescription=Přizpůsobí předměty na zemi dle parametrů. Přepínačem Zobrazit/skrýt předměty lze skrýt všechno například během boje a poté si je znovu zobrazit.
 tagHUD_LootModeToggleOff=Automatické zobrazování předmětů ^D(vypnuto)
 tagHUD_LootModeToggleCommon=Automatické zobrazování předmětů (běžné a lepší)
 tagHUD_LootModeToggleMagic=Automatické zobrazování předmětů ^Y(magické a lepší)
@@ -473,6 +474,8 @@ tagHUDButtonRollOptions=Uložení hry, ukončení hry a herní nastavení.
 
 #LootFilterUI
 tagLootFilterWindowTitle=Filtr kořisti
+tagLootFilterToggleOn=Předměty jsou zobrazeny
+tagLootFilterToggleOff=Předměty jsou skryty
 tagLootFilterTitle01=Kvalita
 tagLootFilterTitle02=Druh
 tagLootFilterTitle03=Zranění

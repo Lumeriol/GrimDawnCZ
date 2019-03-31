@@ -1,15 +1,15 @@
 Dravis
-Tohle je rodinná záležitost.{^n}{^n}Nech nás napokoji!
+Tohle je rodinná záležitost.{^n}{^n}Nech nás na pokoji!
 Dobrá.
-Ah, ty musíš být ten pěšák, kterého moje sestra posílá všude kolem, aby za ní pátral.{^n}{^n}A te%d tady stojíš a ona je v nedohlednu. Musím říct, že jsem docela zklamaný z toho, že se sama neobtěžuje se ani ukázat, hlavně ve chvíli mého triumfu!{^n}{^n}naneštěstí pro tebe mi stojíš v cestě a to jednoduše nemohu dovolit.{^n}{^n}Obávám se, že budeš muset zemřít.
+Ale, ty musíš být ten pěšák, kterého moje sestra posílá všude kolem, aby za ní pátral.{^n}{^n}A teď tady stojíš a ona je v nedohlednu. Musím říct, že jsem docela zklamaný z toho, že se sama neobtěžuje ani ukázat, hlavně ve chvíli mého triumfu!{^n}{^n}Naneštěstí pro tebe mi stojíš v cestě a to jednoduše nemohu dovolit.{^n}{^n}Obávám se, že budeš muset zemřít.
 
 
 Není čas se vykecávat! (zaútoč)
-Nevím kdo jsi a asi mě to ani nezajímá.{^n}{^n}[[ms]Dostal[fs]Dostala] ses ale do cesty mezi mnou a mým chutným vítězstvím a to jednoduše nemůžu připustit.{^n}{^n}Obávám se, že budeš muset zemřít.
+Nevím kdo jsi a asi mě to ani nezajímá.{^n}{^n}[[ms]Dostal[fs]Dostala] ses ale do cesty mezi mně a moje chutný vítězství a to jednoduše nemůžu připustit.{^n}{^n}Obávám se, že budeš muset zemřít.
 Kdo jsi?
-Svět mé jméno ještě nezná, ale to se brzy změní.{^n}{^n}Já...jsem Dravis! Syn nesmrtelného nekromancera a následovník jeho důležité úlohy!{^n}{^n}Já jsem budoucnost Cairnu, koráb tisíce umučených duší.{^n}{^n}Seš pro mě jako komár. Pokloň se a možná se slituju!
-Koráb tisíce umučených duší?
-Vskutku, dokončil jsem rituál, kterého se můj otec tolik obával!{^n}{^n}Udatné duše pohřbené uvnitř Pohřebiště nyní slouží jako palivo mé duše. Jsem téměř nesmrtelný, téměř nezastavitelný!{^n}{^n}Jakmile bude síla uvnitř této hrobky má, svět se naučí, co je to skutečná moc!{^n}{^n}Naneštěstí tu už nebudeš, abys to [[ms]viděl[fs]viděla].
+Svět mé jméno ještě nezná, ale to se brzy změní.{^n}{^n}Já... jsem Dravis! Syn nesmrtelného nekromancera a následovník jeho důležité úlohy!{^n}{^n}Já jsem budoucnost Cairnu, koráb tisíců umučených duší.{^n}{^n}Seš pro mě jako komár. Pokloň se a možná se slituju!
+Koráb tisíců umučených duší?
+Vskutku, dokončil jsem rituál, kterého se můj otec tolik obával!{^n}{^n}Udatné duše pohřbené pod Pohřebištěm nyní slouží jako palivo mé duše. Jsem téměř nesmrtelný, téměř nezastavitelný!{^n}{^n}Jakmile bude síla uvnitř této hrobky má, svět se naučí, co je to skutečná moc!{^n}{^n}Naneštěstí tu už nebudeš, abys to [[ms]viděl[fs]viděla].
 
 Ty mluvíš o vítězství? Tady?
 Klameš mě. (zaútoč)
@@ -19,18 +19,18 @@ Klameš mě. (zaútoč)
 Ty mluvíš o vítězství? Tady?
 Myslím, že jsem [[ms]slyšel[fs]slyšela] dost. (zaútoč)
 Vítězství?
-Ano. S otcem zlomeným u mých nohou není na tomto světě už nikdo, kdo by mi zabránil v dosažení svých cílů.{^n}{^n}Dokonce ani má sestra.{^n}{^n}Dnešek značí začátek nové éry Cairnu.{^n}{^n}Dravisova éra!{^n}{^n}Je škoda že už nebudeš naživu a neuvidíš tu slávu.
+Ano. S otcem zlomeným u mých nohou není na tomto světě už nikdo, kdo by mi zabránil v dosažení mých cílů.{^n}{^n}Dokonce ani má sestra.{^n}{^n}Dnešek značí začátek nové éry Cairnu.{^n}{^n}Dravisova éra!{^n}{^n}Je škoda, že už nebudeš naživu a neuvidíš tu slávu.
 Tvá sestra?
-Kdysi jsem doufal že by se ke mně přidala, ale začalo být zcela zřejmé, že nevidí věci tak jak je vidím já.{^n}{^n}A tak shoří stejně, jako všichni, kteří mi budou stát v cestě...třeba jako ty.
+Kdysi jsem doufal, že by se ke mně přidala, ale začalo být zcela zřejmé, že nevidí věci tak jak je vidím já.{^n}{^n}A tak shoří stejně, jako všichni, kteří mi budou stát v cestě... třeba jako ty.
 A co tvůj otec?
 Myslím, že jsem [[ms]slyšel[fs]slyšela] dost. (zaútoč)
 Tvůj otec?
-Ten hlupák kráčel po tomto světě po staletí a nikdy nemyslel na to, co po něm zůstane.{^n}{^n}Můj otec prohýřil svou moc...svou nesmrtelnost!{^n}{^n}Já tu samou chybu neudělám.{^n}{^n}A teď k tobě...Myslím, že tvůj čas vypršel.
+Ten hlupák kráčel po tomto světě celá staletí a nikdy nemyslel na to, co po něm zůstane.{^n}{^n}Můj otec prohýřil svou moc... svou nesmrtelnost!{^n}{^n}Já tu samou chybu neudělám.{^n}{^n}A teď k tobě... Myslím, že tvůj čas vypršel.
 A co tvoje sestra?
 Myslím, že jsem [[ms]slyšel[fs]slyšela] dost. (zaútoč)
 
 
 Na tohle nemám čas. (zaútoč)
-není čas se vykecávat! (zaútoč)
-Tohle je rodinná záležitost.{^n}{^n}Nech nás napokoji!
+Není čas se vykecávat! (zaútoč)
+Tohle je rodinná záležitost.{^n}{^n}Nech nás na pokoji!
 Dobrá.
