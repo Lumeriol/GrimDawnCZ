@@ -1,11 +1,11 @@
 Atephův oltář
-Oltář očekává někoho jiného
+Oltář očekává někoho jiného.
 Odstup od oltáře.
-Strážci oltáře jsou mrtví.{^n}{^n}Oltář je připraven na rituál, ale potřebuje klíč.
+Strážce oltáře je mrtvý.{^n}{^n}Oltář je připraven na rituál, ale potřebuješ klíč.
 Polož Garganův klíč na oltář.
 Odstup od oltáře.
 Odstup od oltáře.
-Oltář je střežen silnými bytostmi.{^n}{^n}Rituál nemůže být vykonán, dokud budou strážci žít.
+Oltář je střežen silnou bytostí.{^n}{^n}Rituál nemůže být vykonán, dokud bude strážce žít.
 Odstup od oltáře.
 Oltář je nabitý energií. Závoj mezi realitami je v tomto místě nejtenčí.{^n}{^n}Teď už jen zbývá najít prostředky, jak využít celý potenciál oltáře.
 Odstup od oltáře.

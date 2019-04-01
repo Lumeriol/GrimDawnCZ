@@ -327,7 +327,7 @@ tagGDX2DevotionEldritchArmor_H03=Hallanax ~ podporovatel
 tagGDX2DevotionEldritchArmor_H04=Tilkanax ~ časová smyčka
 
 tagGDX2DevotionEldritchHound_H01=Vengrall
-tagGDX2DevotionEldritchHound_H02=Titanjaw
+tagGDX2DevotionEldritchHound_H02=Titánova tlama
 tagGDX2DevotionEldritchHound_H03=Ferantis ~ rychlý
 tagGDX2DevotionEldritchHound_H04=Noseferan ~ krvesaj
 

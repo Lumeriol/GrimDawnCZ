@@ -930,7 +930,7 @@ tagGDX2EnchantC209Desc="Dar čarodějného boha Solaela, odporný prach použív
 
 #Mobility Runes
 tagGDX2RuneBDesc="Běžný symbol síly, který používají kulty Čarodějných bohů."^w^n(použitelné na medaili)
-tagGDX2RuneCDesc="Impozantní symbol moci, který je možné najít i v nevzdálenějších zákoutích Cairnu."^w^n(použitelné na medaili)
+tagGDX2RuneCDesc="Impozantní symbol moci, který je možné najít v nejvzdálenějších zákoutích Cairnu."^w^n(použitelné na medaili)
 tagGDX2RuneDDesc="Pradávný symbol moci, který byl pravděpodobně ztracen v roztříštěné realitě."^w^n(použitelné na medaili)
 
 tagGDX2RuneB201=Symbol stinného zabijáka
@@ -1130,7 +1130,7 @@ tagGDX2EldritchRift=Tajemná Brána
 
 tagPrefixB037_Class_A=[ms]válečníkův[fs]válečníkova[ns]válečníkovo[mp]válečníkovi[fp]válečníkovy[np]válečníkovy
 tagPrefixB038_Class_A=|9lamače štítů
-tagPrefixB039_Class_A=[ms]strážcův[fs]strážcova[ns]strážcovo[mp]strážcovi[fp]strážcovy[np]strážcovy
+tagPrefixB039_Class_A=[ms]ochráncův[fs]ochráncova[ns]ochráncovo[mp]ochráncovi[fp]ochráncovy[np]ochráncovy
 tagPrefixB040_Class_A=[ms]dervišův[fs]dervišova[ns]dervišovo[mp]dervišovi[fp]dervišovy[np]dervišovy
 tagPrefixB041_Class_A=[ms]templářův[fs]templářova[ns]templářovo[mp]templářovi[fp]templářovy[np]templářovy
 tagPrefixB042_Class_A=[ms]archónův[fs]archónova[ns]archónovo[mp]archónovi[fp]archónovy[np]archónovy
