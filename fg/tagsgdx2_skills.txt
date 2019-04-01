@@ -211,19 +211,19 @@ tagGDX2ItemSkillD230_Pet02=Spálení Tajemnem
 tagGDX2ItemSkillD230_Pet02Desc=Tajemný úlomek vyzařuje poškozující energie.
 
 tagGDX2ItemSkillD231Name=Dotek chaosu
-tagGDX2ItemSkillD231Desc=Infuse your weapons with the corrupting powers of the void, unleashing vile energies with every blow. ^oWhen used as your default weapon attack, Touch of Chaos inflicts additional damage.
+tagGDX2ItemSkillD231Desc=Posilni své zbraně poškozujícími silami Prázdnoty a uvolni tak odporné energie s každým zásahem. ^oPokud je kouzlo používáno jako výchozí typ útoku, Dotek chaosu způsobuje ještě více poškození.
 
 tagGDX2ItemSkillD232Name=Dar pána Sněti
-tagGDX2ItemSkillD232Desc=Mark your foes with the Gift of the Blightlord, a debilitating curse that makes your enemies ever more susceptible to the blights you carry.
+tagGDX2ItemSkillD232Desc=Ocejchuj své nepřátele znamením pána Sněti, vysilující to kletbou, která činí tvé nepřátele ještě více citlivé na pohromy, které s sebou neseš.
 
 tagGDX2ItemSkillD233Name=Vyvolat Tajemný spár
-tagGDX2ItemSkillD233Desc=Call forth an eldritch fiend to fight alongside you. The eldritch talon unravels the existence of nearby foes. ^oOnly one eldritch talon can be summoned at any one time. The eldritch talon scales with Pet Bonuses.
+tagGDX2ItemSkillD233Desc=Přivolej tajemnou stvůru, aby bojovala po tvém boku. Tajemný spár odhaluje existenci nepřátel v okolí. ^oPouze jeden Tajemný spár může existovat v jednom momentě. Tajemný spár sílí s bonusy na mazlíčky.
 tagGDX2ItemSkillD233_Pet01=Tajemné pařáty
 tagGDX2ItemSkillD233_Pet02=Tajemmná neukojitelnost
-tagGDX2ItemSkillD233_Pet02Desc=A nearby Eldritch Talon is unraveling nearby foes, diminishing their resistances and attacks.
+tagGDX2ItemSkillD233_Pet02Desc=Tajemný spár v blízkosti odhalí nepřátele v okolí, čímž jim sníží útočnou sílu a odolnosti.
 
 tagGDX2ItemSkillD234Name=Probuzení kostí
-tagGDX2ItemSkillD234Desc=Unleash a wave of bones to impale your foes.
+tagGDX2ItemSkillD234Desc=Vyvolej vlnu kostí, která nabodne tvé nepřátele.
 
 tagGDX2ItemSkillD235Name=Wilhelm!
 tagGDX2ItemSkillD235Desc=Ahhhhhhh.
@@ -241,7 +241,7 @@ tagGDX2ItemSkillD239Name=Ohnivá náplast
 tagGDX2ItemSkillD239Desc=Pod svými nepřáteli zapálíš samotnou zem.
 
 tagGDX2ItemSkillD240Name=Bysmielin příkaz
-tagGDX2ItemSkillD240Desc=Invoke your authority over your minions, invigorating and empowering yourself and your allies.
+tagGDX2ItemSkillD240Desc=Ukaž svoji autoritu nohsledům, čímž posílíš a povzbudíš sebe i své spojence.
 
 
 #Component Skills
@@ -260,10 +260,10 @@ tagGDX2RelicSkillD201Name=Tajemná Ruminace
 tagGDX2RelicSkillD201Desc=Meditate upon the secrets of the Eldritch Realm, empowering your attacks and those of your nearby allies with the gifts of the Three. ^oTato schopnost musí být aktivní, aby účinkovala.
 
 tagGDX2RelicSkillD202Name=Virova kaskáda
-tagGDX2RelicSkillD202Desc=Smash the ground, causing the earth to crack and erupt in a fan away from you.
+tagGDX2RelicSkillD202Desc=Uhoď do země a rozdrť ho, čímž vytvoříš trhliny v zemi, které se budou šířit ve tvaru vějíře směrem od tebe.
 
 tagGDX2RelicSkillD203Name=Písečný ďábel
-tagGDX2RelicSkillD203Desc=Unleash a whirlwind of sand upon your foes. ^oSand Devils scale with player damage bonuses.
+tagGDX2RelicSkillD203Desc=Uvolni vír písku směrem k tvým nepřátelům. ^oPíseční ďáblové sílí spolu s útočnými bonusy postavy.
 
 tagGDX2RelicSkillD204Name=Dosah hladu
 tagGDX2RelicSkillD204Desc=Focus your fury into a whirlwind of voracious power that consumes the lifeblood of all near you for as long as you channel the effect. ^oVyžaduje chladnou zbraň.
