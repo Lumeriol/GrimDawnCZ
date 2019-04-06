@@ -294,4 +294,4 @@ tagQuickTip58={^z}Obnovení svatyně{^-}{^n}{^n}Svatyně mohou být obnoveny bu�
 tagQuickTip59={^z}Body oddanosti{^-}{^n}{^n}Body oddanosti získané za obnovení svatyní můžeš rozdělit na Hvězdné obloze, kterou najdeš v Přehledu dovedností {^x}[%t0]{^-}.
 tagQuickTip60={^z}Hvězdná obloha{^-}{^n}{^n}Na hvězdné obloze můžeš rozdělit své body oddanosti získané za obnovení svatyní. Každý utracený bod ti umožňuje odemknout nové bonusy a dovednosti.
 tagQuickTip61={^z}Nebeská moc{^-}{^n}{^n}Přiřaď svou nebeskou moc k některé dovednosti kliknutím na ikonku na Hvězdné obloze a vyber dovednost ze seznamu.
-tagQuickTip69={^z}Loot Filter{^-}{^n}{^n}Použitím filtru kořisti si vytřídíš předměty na zemi.
+tagQuickTip69={^z}Filtr kořisti{^-}{^n}{^n}Použitím filtru kořisti si vytřídíš předměty na zemi.
