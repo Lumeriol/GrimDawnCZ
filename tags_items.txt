@@ -3393,7 +3393,7 @@ tagDifficultyIncorrectMode=Pro použití tohoto předmětu musíš být ve sprá
 tagFactionBooster={^E}Veškerá získaná přízeň vůči frakci {^H}{%s1}{^E} se zvýší o {^H}{%d0} %.
 tagFactionAlreadyBoosted={^r}[tato frakce ti už udělila svůj mandát]
 
-tagFactionNegativeBooster={^E}Získaná nepřízeň se zvýšila o {^H}{%d0}% {^E}vůči frakci {%s1}
+tagFactionNegativeBooster={^E}Získaná nepřízeň se zvýší o {^H}{%d0}% {^E}vůči frakci {%s1}
 tagFactionAlreadyNegativeBoosted={^r}[tato frakce už má v platnosti frakční oprávnění]
 
 tagFactionMandateConfirmation=Opravdu chceš využít frakční mandát? Zrušíš tak platnost stávajícího frakčního oprávnění.
