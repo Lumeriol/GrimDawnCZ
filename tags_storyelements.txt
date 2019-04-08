@@ -904,11 +904,11 @@ TagLoreObj_OldArkovia_History01Text=Když tohle píšu, nad přístavem se vzdou
 
 tagLoreObj_FloodedPassageRuins01Name=Rolderathisovy spisy - 1. zápis
 tagLoreObj_FloodedPassageRuins01codexTitle=Rolderathis - 1. zápis
-tagLoreObj_FloodedPassageRuins01Text=Konec všech dnů je tady! Slavná Arkovia, skvost západu, se hroutí zevnitř. Ale nebojte se, bratři a sestry, my jsme vyvolení Ishtaka.{^n}{^n}Zde, na posvátné půdě našich předků, budeme v bezpečí před zničením, které nám přinesla arogance oligarchů. Tady my přežijeme nesmrtelnou nemoc a vrátíme se na povrch v dalším životě člověka.{^n}{^n}Říkám to s těžkým srdcem, ale zapečetil jsem vchod do našeho chrámu. Snad se Ishtak smiluje nad našimi dušemi i mimo tyto zdi. Tady totiž nenajdou žádnou útěchu.
+tagLoreObj_FloodedPassageRuins01Text=Konec všech dnů je tady! Slavná Arkovia, skvost západu, se hroutí zevnitř. Ale nebojte se, bratři a sestry, my jsme Ishtačiini vyvolení.{^n}{^n}Zde, na posvátné půdě našich předků, budeme v bezpečí před zničením, které nám přinesla arogance oligarchů. Tady my přežijeme nesmrtelnou nemoc a vrátíme se na povrch v dalším životě člověka.{^n}{^n}Říkám to s těžkým srdcem, ale zapečetil jsem vchod do našeho chrámu. Snad se Ishtak smiluje nad našimi dušemi i mimo tyto zdi. Tady totiž nenajdou žádnou útěchu.
 
 tagLoreObj_FloodedPassageRuins02Name=Rolderathisovy spisy - 2. zápis
 tagLoreObj_FloodedPassageRuins02codexTitle=Rolderathis - 2. zápis
-tagLoreObj_FloodedPassageRuins02Text=Ishtakova požehnání se nám nedostalo. Ochrany nás neochránily. Arkovianské prokletí si sem našlo svou cestičku.{^n}{^n}Umíráme, ale nemůžeme zemřít. Moji bratři a sestry se zabíjejí navzájem s rostoucím šílenstvím, jen aby znovu povstali a učinili toto krveprolití ještě jednou.{^n}{^n}Bohové nás opustili. Tohle neměla být naše spása. Měla to být naše hrobka...
+tagLoreObj_FloodedPassageRuins02Text=Ishtačiina požehnání se nám nedostalo. Ochrany nás neochránily. Arkovianské prokletí si sem našlo svou cestičku.{^n}{^n}Umíráme, ale nemůžeme zemřít. Moji bratři a sestry se zabíjejí navzájem s rostoucím šílenstvím, jen aby znovu povstali a učinili toto krveprolití ještě jednou.{^n}{^n}Bohové nás opustili. Tohle neměla být naše spása. Měla to být naše hrobka...
 
 tagLoreObj_StepsOfTorment01Name=Zarthuzellanovy spisy
 tagLoreObj_StepsOfTorment01codexTitle=Zarthuzellanovy spisy

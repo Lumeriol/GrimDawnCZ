@@ -251,13 +251,13 @@ tagGDX2CompSkillA033Desc=Posiluje tvé zbraně působením Prázdnoty. ^oTato sc
 
 #Relic Skills
 tagGDX1RelicSkillD106Name=Ohnivá erupce
-tagGDX1RelicSkillD106Desc=Unleash a burst of Empyrion's divine fury upon your target, incinerating them and any foes foolish enough to stand too close.
+tagGDX1RelicSkillD106Desc=Uvolni dávku Empyrionovy svaté zloby na svůj cíl a zapal všechny, kteří jsou dost hloupí a stojí příliš blízko.
 
 tagGDX2RelicSkillC201Name=Dávka plamenů
-tagGDX2RelicSkillC201Desc=Flames burst from you in a wave when struck, incinerating those foolish enough to strike in the first place.
+tagGDX2RelicSkillC201Desc=Plameny z tebe vytrysknou ve chvíli, kdy je na tebe veden úspěšný útok a zapálí ty, kteří se tě snažili zasáhnout mezi prvními.
 
 tagGDX2RelicSkillD201Name=Tajemná Ruminace
-tagGDX2RelicSkillD201Desc=Meditate upon the secrets of the Eldritch Realm, empowering your attacks and those of your nearby allies with the gifts of the Three. ^oTato schopnost musí být aktivní, aby účinkovala.
+tagGDX2RelicSkillD201Desc=Medituj nad tajemstvými Hvězdných polí a umocni tak útoky své i svých blízkých spojenců za pomoci darů Tří. ^oTato schopnost musí být aktivní, aby účinkovala.
 
 tagGDX2RelicSkillD202Name=Virova kaskáda
 tagGDX2RelicSkillD202Desc=Uhoď do země a rozdrť ho, čímž vytvoříš trhliny v zemi, které se budou šířit ve tvaru vějíře směrem od tebe.
@@ -266,21 +266,21 @@ tagGDX2RelicSkillD203Name=Písečný ďábel
 tagGDX2RelicSkillD203Desc=Uvolni vír písku směrem k tvým nepřátelům. ^oPíseční ďáblové sílí spolu s útočnými bonusy postavy.
 
 tagGDX2RelicSkillD204Name=Dosah hladu
-tagGDX2RelicSkillD204Desc=Focus your fury into a whirlwind of voracious power that consumes the lifeblood of all near you for as long as you channel the effect. ^oVyžaduje chladnou zbraň.
+tagGDX2RelicSkillD204Desc=Soustřeď svou zuřivost do víru nenasytné síly, která pozře životadárnou krev všech v okolí a to po tak dlouhou dobu, po jakou se na kouzlo soustředíš. ^oVyžaduje chladnou zbraň.
 
 tagGDX2RelicSkillD205Name=Klid
-tagGDX2RelicSkillD205Desc=Serenity fills you in time of need, offering respite from grievous wounds.
+tagGDX2RelicSkillD205Desc=Klid tě naplní ve chvíli, kdy je to potřeba a nabídne tak umírnění těžkých zranění.
 
 tagGDX2RelicSkillD206Name=Rozhřešení
-tagGDX2RelicSkillD206Desc=You prepare yourself to face every blow, all the while ready to absolve your enemies, by force if you must. ^oVyžaduje štít.
+tagGDX2RelicSkillD206Desc=Připravuješ se na to čelit každému zásahu, kdy mezitím nabízíš rozhřešení svým nepřátelům. A to i silou, pokud je to potřeba. ^oVyžaduje štít.
 
 
 #ConsumableSkills
 tagGDX2_SummonMiniLizardName=Vyvolání Malého polykače
-tagGDX2_SummonMiniLizardDesc=Call forth the mighty Korvan Minivore, a ferocious beast in a tiny package. ^oOnly one Korvan Minivore can be summoned at any one time. Minivores are strictly non-violent.
+tagGDX2_SummonMiniLizardDesc=Vyvolej malého Korvanského polykače, divokou bestii v titěrném provedení. ^oPouze jeden Malý polykač může být vyvolán v jeden moment. Polykači jsou striktně nenásilní.
 
 tagGDX2_SummonMaggotName=Vyvolat Hvězdnou larvu
-tagGDX2_SummonMaggotDesc=Conjure a writhing maggot from the Shattered Realm. ^oOnly one Celestial Maggot can be summoned at any one time. Maggots are strictly non-violent.
+tagGDX2_SummonMaggotDesc=Vyvolej svírající se larvu z Pokřiveného světa. ^oPouze jedna Hvězdná larva může být vyvolána v jeden moment. Larvy jsou striktně nenásilné.
 
 
 #SkillsQuest
@@ -323,307 +323,307 @@ tagGDX2DevotionEffectC203_PetSkill=Černá krev
 
 
 #Mobility Runes
-tagGDX2RuneSkillB201=Vanish
+tagGDX2RuneSkillB201=Zmizení
 tagGDX2RuneSkillB201Desc=In an instant, you vanish into the shadows, reappearing to strike a target foe. ^oVyžaduje chladnou zbraň.
 
-tagGDX2RuneSkillB202=Leap
+tagGDX2RuneSkillB202=Skok
 tagGDX2RuneSkillB202Desc=Leap through the air to land towards the target point, sending a shockwave through the ground upon landing.
 
-tagGDX2RuneSkillB203=Charge
-tagGDX2RuneSkillB203Desc=Charge valiantly to strike a target foe. ^oVyžaduje chladnou zbraň. When used with a shield, the shield's damage is added.
+tagGDX2RuneSkillB203=Nabití
+tagGDX2RuneSkillB203Desc=Charge valiantly to strike a target foe. ^oVyžaduje chladnou zbraň. Pokud je použit štít, pak je poškození štítem přičteno.
 
-tagGDX2RuneSkillB204=Rift Tear
+tagGDX2RuneSkillB204=Prostorová trhlina
 tagGDX2RuneSkillB204Desc=Tear through reality to instantly transport yourself towards a nearby target location.
 
-tagGDX2RuneSkillB205=Rush
-tagGDX2RuneSkillB205Desc=Letting nothing stand in your way, you rush through your enemies towards a nearby target destination, smashing anyone that stands in your way. ^oWhen used with a shield, the shield's damage is added.
+tagGDX2RuneSkillB205=Spěch
+tagGDX2RuneSkillB205Desc=Letting nothing stand in your way, you rush through your enemies towards a nearby target destination, smashing anyone that stands in your way. ^oPokud je použit štít, pak je poškození štítem přičteno.
 
-tagGDX2RuneSkillB206=Disengage
+tagGDX2RuneSkillB206=Uvolnění
 tagGDX2RuneSkillB206Desc=Quickly disengage from combat by leaping backwards away from your foes, leaving a blinding flash.
 
 
-tagGDX2RuneSkillC201=Korvan Swiftness
+tagGDX2RuneSkillC201=Korvanská rychlost
 tagGDX2RuneSkillC201Desc=Leap towards the target point with burning agility.
 
-tagGDX2RuneSkillC202=Empowered Korvan Swiftness
+tagGDX2RuneSkillC202=Mocnější Korvanská rychlost
 tagGDX2RuneSkillC202Desc=Leap towards the target point with burning agility.
 
-tagGDX2RuneSkillC203=Masterful Korvan Swiftness
+tagGDX2RuneSkillC203=Mistrovská Korvanská rychlost
 tagGDX2RuneSkillC203Desc=Leap towards the target point with burning agility.
 
-tagGDX2RuneSkillC204=Dreeg's Vector
+tagGDX2RuneSkillC204=Dreegův vektor
 tagGDX2RuneSkillC204Desc=Spontaneously transport yourself towards a target destination, spreading Dreeg's vile poisons to nearby foes.
 
-tagGDX2RuneSkillC205=Empowered Dreeg's Vector
+tagGDX2RuneSkillC205=Mocnější Dreegův vektor
 tagGDX2RuneSkillC205Desc=Spontaneously transport yourself towards a target destination, spreading Dreeg's vile poisons to nearby foes.
 
-tagGDX2RuneSkillC206=Masterful Dreeg's Vector
+tagGDX2RuneSkillC206=Mistrovský Dreegův vektor
 tagGDX2RuneSkillC206Desc=Spontaneously transport yourself towards a target destination, spreading Dreeg's vile poisons to nearby foes.
 
-tagGDX2RuneSkillC207=Rahn's Might
-tagGDX2RuneSkillC207Desc=Charge valiantly through your foes towards a target destination with a prayer to Rahn on your lips. ^oWhen used with a shield, the shield's damage is added.
+tagGDX2RuneSkillC207=Rahnova moc
+tagGDX2RuneSkillC207Desc=Charge valiantly through your foes towards a target destination with a prayer to Rahn on your lips. ^oPokud je použit štít, pak je poškození štítem přičteno.
 
-tagGDX2RuneSkillC208=Empowered Rahn's Might
-tagGDX2RuneSkillC208Desc=Charge valiantly through your foes towards a target destination with a prayer to Rahn on your lips. ^oWhen used with a shield, the shield's damage is added.
+tagGDX2RuneSkillC208=Mocnější Rahnova moc
+tagGDX2RuneSkillC208Desc=Charge valiantly through your foes towards a target destination with a prayer to Rahn on your lips. ^oPokud je použit štít, pak je poškození štítem přičteno.
 
-tagGDX2RuneSkillC209=Masterful Rahn's Might
-tagGDX2RuneSkillC209Desc=Charge valiantly through your foes towards a target destination with a prayer to Rahn on your lips. ^oWhen used with a shield, the shield's damage is added.
+tagGDX2RuneSkillC209=Mistrovská Rahnova moc
+tagGDX2RuneSkillC209Desc=Charge valiantly through your foes towards a target destination with a prayer to Rahn on your lips. ^oPokud je použit štít, pak je poškození štítem přičteno.
 
-tagGDX2RuneSkillC210=Wendigo Rush
-tagGDX2RuneSkillC210Desc=Claw through your foes towards the target destination, leaving all in your path bleeding and broken. ^oWhen used with a shield, the shield's damage is added.
+tagGDX2RuneSkillC210=Uspěchaný Wendigo
+tagGDX2RuneSkillC210Desc=Claw through your foes towards the target destination, leaving all in your path bleeding and broken. ^oPokud je použit štít, pak je poškození štítem přičteno.
 
-tagGDX2RuneSkillC211=Ramming Speed
-tagGDX2RuneSkillC211Desc=Ram through your foes towards the target destination, scattering their ranks and chilling them to the bone. ^oWhen used with a shield, the shield's damage is added.
+tagGDX2RuneSkillC211=Beranidlo
+tagGDX2RuneSkillC211Desc=Ram through your foes towards the target destination, scattering their ranks and chilling them to the bone. ^oPokud je použit štít, pak je poškození štítem přičteno.
 
-tagGDX2RuneSkillC212=Incorporeal Winds
-tagGDX2RuneSkillC212Desc=Become as if a ghost, charging through your foes towards the target destination as if they were not there. Your ghostly passage leaves all you've touched unsettled. ^oWhen used with a shield, the shield's damage is added.
+tagGDX2RuneSkillC212=Poryv větru
+tagGDX2RuneSkillC212Desc=Become as if a ghost, charging through your foes towards the target destination as if they were not there. Your ghostly passage leaves all you've touched unsettled. ^oPokud je použit štít, pak je poškození štítem přičteno.
 
-tagGDX2RuneSkillC213=Seismic Leap
+tagGDX2RuneSkillC213=Seismický skok
 tagGDX2RuneSkillC213Desc=Leap towards a target destination and shatter the very earth around you.
 
-tagGDX2RuneSkillC214=Stormclap
+tagGDX2RuneSkillC214=Zvuk bouře
 tagGDX2RuneSkillC214Desc=Leap towards a target destination with a thunderous clap.
 
-tagGDX2RuneSkillC215=Manticore Pounce
+tagGDX2RuneSkillC215=Skok Mantikory
 tagGDX2RuneSkillC215Desc=Pounce through the air towards a target destination and spray caustic acid upon all nearby.
 
-tagGDX2RuneSkillC216=Arcane Rift
+tagGDX2RuneSkillC216=Tajemná trhlina
 tagGDX2RuneSkillC216Desc=Tear through reality to instantly transport yourself towards a target destination and erupt with arcane energies.
 
-tagGDX2RuneSkillC217=Burning Rift
+tagGDX2RuneSkillC217=Hořící trhlina
 tagGDX2RuneSkillC217Desc=Tear a burning hole in reality to instantly transport yourself towards a target destination and erupt with flames from the Chthonic void.
 
-tagGDX2RuneSkillC218=Bladed Rift
+tagGDX2RuneSkillC218=Čepelová průrva
 tagGDX2RuneSkillC218Desc=Vanish into thin air and instantly transport yourself towards a target destination to unleash a flurry of blades upon your foes.
 
-tagGDX2RuneSkillC219=Disorder
+tagGDX2RuneSkillC219=Chaos
 tagGDX2RuneSkillC219Desc=Reality bends to your will as you instantly transport yourself towards a target destination.
 
-tagGDX2RuneSkillC220=Outfox
+tagGDX2RuneSkillC220=Úskok sněžné lišky
 tagGDX2RuneSkillC220Desc=Like a wily snow fox, disengage away from combat in a flash of frost that leaves your enemies chilled.
 
-tagGDX2RuneSkillC221=Phoenix Rise
+tagGDX2RuneSkillC221=Vzestup Fénixe
 tagGDX2RuneSkillC221Desc=Rise from the battle like a phoenix, disengaging away from combat in blazing glory.
 
-tagGDX2RuneSkillC222=Ghastly Retreat
+tagGDX2RuneSkillC222=Hrůzu zanechávající ústup
 tagGDX2RuneSkillC222Desc=Disengage away from battle as if a restless spirit, confounding the foes you leave behind with the veil of death.
 
-tagGDX2RuneSkillC223=Assassin's Evasion
+tagGDX2RuneSkillC223=Vrahův únik
 tagGDX2RuneSkillC223Desc=Dexterously disengage away from battle, but not before shredding your foes with vicious blades.
 
-tagGDX2RuneSkillC224=Chaos Strike
+tagGDX2RuneSkillC224=Úder chaosu
 tagGDX2RuneSkillC224Desc=Tear through the void to strike at a target foe with the destructive power of the chaos. ^oVyžaduje chladnou zbraň.
 
-tagGDX2RuneSkillC225=Sudden Strike
+tagGDX2RuneSkillC225=Náhlý úder
 tagGDX2RuneSkillC225Desc=Strike a target foe with sudden crushing force. ^oVyžaduje chladnou zbraň.
 
-tagGDX2RuneSkillC226=Scorpion Strike
-tagGDX2RuneSkillC226Desc=Charge a target and impale them like a vicious scorpion. ^oVyžaduje chladnou zbraň. When used with a shield, the shield's damage is added.
+tagGDX2RuneSkillC226=Útok štíra
+tagGDX2RuneSkillC226Desc=Charge a target and impale them like a vicious scorpion. ^oVyžaduje chladnou zbraň. Pokud je použit štít, pak je poškození štítem přičteno.
 
-tagGDX2RuneSkillC227=Soul Strike
-tagGDX2RuneSkillC227Desc=Charge a target foe and unmake them with the will of the ravenous dead. ^oVyžaduje chladnou zbraň. When used with a shield, the shield's damage is added.
+tagGDX2RuneSkillC227=Útok ducha
+tagGDX2RuneSkillC227Desc=Charge a target foe and unmake them with the will of the ravenous dead. ^oVyžaduje chladnou zbraň. Pokud je použit štít, pak je poškození štítem přičteno.
 
 
-tagGDX2RuneSkillD201=Amatok's Breath
-tagGDX2RuneSkillD201Desc=Charge through your foes towards a target destination, leaving them chilled with Amatok's breath. ^oWhen used with a shield, the shield's damage is added.
+tagGDX2RuneSkillD201=Amatokův dech
+tagGDX2RuneSkillD201Desc=Charge through your foes towards a target destination, leaving them chilled with Amatok's breath. ^oPokud je použit štít, pak je poškození štítem přičteno.
 
-tagGDX2RuneSkillD202=Will of the Fallen Kings
-tagGDX2RuneSkillD202Desc=Filled with the determination of kings, charge through your foes towards a target destination.  ^oWhen used with a shield, the shield's damage is added.
+tagGDX2RuneSkillD202=Vůle padlých králů
+tagGDX2RuneSkillD202Desc=Filled with the determination of kings, charge through your foes towards a target destination.  ^oPokud je použit štít, pak je poškození štítem přičteno.
 
-tagGDX2RuneSkillD203=Violent Delights
-tagGDX2RuneSkillD203Desc=Relish in the carnage as your charge through your foes towards a target destination. ^oWhen used with a shield, the shield's damage is added.
+tagGDX2RuneSkillD203=Krvavé radovánky
+tagGDX2RuneSkillD203Desc=Relish in the carnage as your charge through your foes towards a target destination. ^oPokud je použit štít, pak je poškození štítem přičteno.
 
-tagGDX2RuneSkillD204=Ulzuin's Fall
+tagGDX2RuneSkillD204=Ulzuinův pád
 tagGDX2RuneSkillD204Desc=Leap through the air towards a target destination and descend upon your foes in a fiery crash.
 
-tagGDX2RuneSkillD205=Eldritch Instability
+tagGDX2RuneSkillD205=Tajemná nerovnováha
 tagGDX2RuneSkillD205Desc=Leap through the air towards a target destination and destabilize reality where you land.
 
-tagGDX2RuneSkillD206=Upon Rylok Wings
+tagGDX2RuneSkillD206=Na Rylokových křídlech
 tagGDX2RuneSkillD206Desc=Leap through the air towards a target destination and crash down in a chaotic eruption.
 
-tagGDX2RuneSkillD207=Dreadnought's Might
+tagGDX2RuneSkillD207=Dreadnoughtova moc
 tagGDX2RuneSkillD207Desc=Leap through the air towards a target destination with devastating might and smash any foes unfortunate enough to be where you land.
 
-tagGDX2RuneSkillD208=Dreeg's Wounds
+tagGDX2RuneSkillD208=Dreegova znamení
 tagGDX2RuneSkillD208Desc=Leap through the air towards a target destination and deliver grievous wounds reminiscent of the suffering of the Great Guardian upon your foes.
 
-tagGDX2RuneSkillD209=Nadaan's Strike
+tagGDX2RuneSkillD209=Nadaanův útok
 tagGDX2RuneSkillD209Desc=Shift through the shadows to instantly transport yourself towards a target destination and assault nearby foes with a ring of blades.
 
-tagGDX2RuneSkillD210=Ultos' Arrival
+tagGDX2RuneSkillD210=Ultosův příchod
 tagGDX2RuneSkillD210Desc=Instantly travel through reality itself towards a target destination and arrive in a fiery blaze.
 
-tagGDX2RuneSkillD211=Astral Rift
+tagGDX2RuneSkillD211=Astrální trhlina
 tagGDX2RuneSkillD211Desc=Warp the veil to instantly travel towards a target destination and unleash a surge of arcane energies.
 
-tagGDX2RuneSkillD212=Displacement
+tagGDX2RuneSkillD212=Odsunutí
 tagGDX2RuneSkillD212Desc=Reality becomes a plaything as you instantly warp towards a target destination.
 
-tagGDX2RuneSkillD213=Typhoon
+tagGDX2RuneSkillD213=Tajfun
 tagGDX2RuneSkillD213Desc=Disengage from battle with the destructive force of a typhoon.
 
-tagGDX2RuneSkillD214=Ulzaad's Madness
+tagGDX2RuneSkillD214=Ulzaadovo šílenství
 tagGDX2RuneSkillD214Desc=Sow the confusion and rage of a mad titan as you disengage from battle.
 
-tagGDX2RuneSkillD215=Wretched Desires
+tagGDX2RuneSkillD215=Zoufalá dychtivost
 tagGDX2RuneSkillD215Desc=Disengage from battle in a surge of vile void energies.
 
-tagGDX2RuneSkillD216=Murmur's Kiss
+tagGDX2RuneSkillD216=Murmurin polibek
 tagGDX2RuneSkillD216Desc=Disengage from battle in a surge of toxic energies that leave your foes shaken and demoralized.
 
-tagGDX2RuneSkillD217=Ishtak's Mercy
-tagGDX2RuneSkillD217Desc=Instill the peace of Ishtak upon your foes as you disengage from battle.
+tagGDX2RuneSkillD217=Ishtačiina spása
+tagGDX2RuneSkillD217Desc=Vštěp Ishtačiin mír do tvých nepřátel a uteč z boje.
 
-tagGDX2RuneSkillD218=Vampiric Shadows
+tagGDX2RuneSkillD218=Upíří stíny
 tagGDX2RuneSkillD218Desc=Tear through the shadows to strike a target foe with vampiric voracity. ^oVyžaduje chladnou zbraň.
 
-tagGDX2RuneSkillD219=Dark Desires
+tagGDX2RuneSkillD219=Temné touhy
 tagGDX2RuneSkillD219Desc=Tear through the veil to strike a foe with the destabilizing force of chaos. ^oVyžaduje chladnou zbraň.
 
-tagGDX2RuneSkillD220=Stormtitan's Charge
-tagGDX2RuneSkillD220Desc=Charge a target foe with the crushing might of a stormtitan. ^oVyžaduje chladnou zbraň. When used with a shield, the shield's damage is added.
+tagGDX2RuneSkillD220=Náboj Bouřného titána
+tagGDX2RuneSkillD220Desc=Charge a target foe with the crushing might of a stormtitan. ^oVyžaduje chladnou zbraň. Pokud je použit štít, pak je poškození štítem přičteno.
 
-tagGDX2RuneSkillD221=Blazing Charge
-tagGDX2RuneSkillD221Desc=Charge forth into battle and incinerate your foe with the flames of a dying god. ^oVyžaduje chladnou zbraň. When used with a shield, the shield's damage is added.
+tagGDX2RuneSkillD221=Založení požáru
+tagGDX2RuneSkillD221Desc=Charge forth into battle and incinerate your foe with the flames of a dying god. ^oVyžaduje chladnou zbraň. Pokud je použit štít, pak je poškození štítem přičteno.
 
 
 #FactionSkills
-tagGDX2FactionSkillA01=Presence of Bysmiel
-tagGDX2FactionSkillA01_Desc=A priest of Bysmiel toughens your flesh against physical blows and grants you increased Critical chance against the enemies of the Witch Gods.
+tagGDX2FactionSkillA01=Bysmielina přítomnost
+tagGDX2FactionSkillA01_Desc=Přítomnost Bysmielina kněze obrní tvou tkáň proti fyzickým útokům a také ti dává zvýšenou možnost kritického útoku vůči nepřátelům Čarodějných bohů.
 
-tagGDX2FactionSkillA02=Presence of Dreeg
-tagGDX2FactionSkillA02_Desc=A priest of Dreeg allows you to predict incoming blows and grants you increased Critical chance against the enemies of the Witch Gods.
+tagGDX2FactionSkillA02=Dreegova přítomnost
+tagGDX2FactionSkillA02_Desc=Přítomnost Dreegova kněze ti umožní lépe předvídat nadcházející nepřátelské útoky a také ti dává zvýšenou možnost kritického útoku vůči nepřátelům Čarodějných bohů.
 
-tagGDX2FactionSkillA03=Presence of Soalel
-tagGDX2FactionSkillA03_Desc=A priest of Solael grants you enhanced vitality and grants you increased Critical chance against the enemies of the Witch Gods.
+tagGDX2FactionSkillA03=Solaelova přítomnost
+tagGDX2FactionSkillA03_Desc=Přítomnost Dreegova kněze ti garantuje zvýšenou vitalitu a také ti dává zvýšenou možnost kritického útoku vůči nepřátelům Čarodějných bohů.
 
-tagGDX2FactionSkillA04=Blood of Dreeg
-tagGDX2FactionSkillA04_Desc=A Cult of Dreeg occultist has granted you a blessing from the mad Witch God.
+tagGDX2FactionSkillA04=Dreegova krev
+tagGDX2FactionSkillA04_Desc=Okultista Dreegova kultu ti dal požehnání od šíleného Čarodějného boha.
 
 
 
 #EnemySkills
 
-tagGDX2EnemySkillA01=Sand Storm
-tagGDX2EnemySkillA01_Desc=Conjured sands cloud your vision and batter your armor.
+tagGDX2EnemySkillA01=Písečná bouře
+tagGDX2EnemySkillA01_Desc=Vyčarované písky zamlžují tvou mysl a opotřebovávají tvé brnění.
 
-tagGDX2EnemySkillA02=Lightning Net
-tagGDX2EnemySkillA02_Desc=A net of lightning binds you to the target, reducing your Defensive Ability.
+tagGDX2EnemySkillA02=Síť z blesků
+tagGDX2EnemySkillA02_Desc=Síť z blesků tě váže k cíli, což snižuje tvou obranyschopnost.
 
-tagGDX2EnemySkillA03=Fire Net
-tagGDX2EnemySkillA03_Desc=A net of flames binds you to the target, reducing your Armor.
+tagGDX2EnemySkillA03=Ohnivá síť
+tagGDX2EnemySkillA03_Desc=Síť z plamenů tě váže k cíli, což snižuje účinnost tvého brnění.
 
-tagGDX2EnemySkillA04=Eldritch Ground
-tagGDX2EnemySkillA04_Desc=The ground you stand on is tainted with Eldritch Energies, empowering Eldritch creatures while harming you and reducing your health.
+tagGDX2EnemySkillA04=Tajemná zem
+tagGDX2EnemySkillA04_Desc=Země, kde stojíš, je protkaná Tajemnou energií a posiluje tak Tajemné příšery, zatímco tě zraňuje a snižuje hodnotu tvého zdraví.
 
-tagGDX2EnemySkillA05=Gargoyle's Screech
-tagGDX2EnemySkillA05_Desc=A gargoyle's screech has shattered your defenses and slowed your actions.
+tagGDX2EnemySkillA05=Řev Chrliče
+tagGDX2EnemySkillA05_Desc=Chrličův jekot rozhodil tvou obranyschopnost a zpomalil také tvé úkony.
 
-tagGDX2EnemySkillA06=Distortion
-tagGDX2EnemySkillA06_Desc=Your existence has become distorted by an eldritch creature, reducing Elemental Resistance.
+tagGDX2EnemySkillA06=Zkreslení
+tagGDX2EnemySkillA06_Desc=Tvá existence byla zkreslena Tajemnou příšerou, což má za následek snížení obranyschopnosti vůči elementům.
 
-tagGDX2EnemySkillA07=Eldritch Rift
-tagGDX2EnemySkillA07_Desc=An eldritch rift sears your essence and reduces your ability to focus.
+tagGDX2EnemySkillA07=Tajemná trhlina
+tagGDX2EnemySkillA07_Desc=Tajemná trhlina z tebe vysává schopnost se soustředit.
 
-tagGDX2EnemySkillA08=Guardian's Roar
-tagGDX2EnemySkillA08_Desc=A stone gryphon's roar shattered your Physical Resistance and Regeneration.
+tagGDX2EnemySkillA08=Strážcův řev
+tagGDX2EnemySkillA08_Desc=Řev kamenného gryfa rozhodil tvou schopnost regenerovat se a bránit se vůči fyzickým útokům.
 
-tagGDX2EnemySkillA09=Burning Presence
-tagGDX2EnemySkillA09_Desc=A nearby eldritch wraith singes your flesh, reducing resists and Offensive Ability.
+tagGDX2EnemySkillA09=Přítomnost hořící bytosti
+tagGDX2EnemySkillA09_Desc=Přítomnost nedalekého tajemného ducha pálí tvou kůži a oslabuje tak tvé odolnosti a schopnost útočit.
 
-tagGDX2EnemySkillA10=Incinerating Presence
-tagGDX2EnemySkillA10_Desc=A nearby eldritch wraith singes your very soul, reducing damage dealt and resists.
+tagGDX2EnemySkillA10=Přítomnost zapalující bytosti
+tagGDX2EnemySkillA10_Desc=Přítomnost nedalekého tajemného ducha ničí tvou duši a oslabuje tak tvé odolnosti a hodnotu tvého útoku.
 
-tagGDX2EnemySkillA11=Eruption of Flame
-tagGDX2EnemySkillA11_Desc=The wraith's violent end burns you, exposing your Physical and Elemental defenses.
+tagGDX2EnemySkillA11=Erupce ohně
+tagGDX2EnemySkillA11_Desc=Trápí tě brutální konec přízraku, což tě oslabuje vůči fyzickým a elementálním útokům.
 
-tagGDX2EnemySkillA12=Guardian's Presence
-tagGDX2EnemySkillA12_Desc=A stone gryphon guards this area, making you uneasy and reducing your ability to focus.
+tagGDX2EnemySkillA12=Přítomnost Strážce
+tagGDX2EnemySkillA12_Desc=Kamenný gry stráží tuto oblast, což ti nedělá dobře a snižuje tak tvou schopnost se soustředit.
 
-tagGDX2EnemySkillA13=Burning Furnace
-tagGDX2EnemySkillA13_Desc=The blazing fury within a nearby Ascendant singes your flesh and hinders attacks and regeneration.
+tagGDX2EnemySkillA13=Rozžhavená pec
+tagGDX2EnemySkillA13_Desc=Hořící zloba uvnitř nedalekého Povzneseného pálí tvou tkáň a brání tak regeneraci a možnosti kouzlit.
 
-tagGDX2EnemySkillA14=Storm Furnace
-tagGDX2EnemySkillA14_Desc=The storm fury within a nearby Ascendant shocks your flesh and hinders casting and regeneration.
+tagGDX2EnemySkillA14=Schránka s bouří
+tagGDX2EnemySkillA14_Desc=Bouřná zloba uvnitř nedalekého Povzneseného zasahuje tvou tkáň a brání tak regeneraci a možnosti kouzlit.
 
-tagGDX2EnemySkillA15=Mark of Korvaak
-tagGDX2EnemySkillA15_Desc=You are cursed by the servants of Korvaak, shattering your defenses and burning you alive.
+tagGDX2EnemySkillA15=Korvaakovo znamení
+tagGDX2EnemySkillA15_Desc=Tvá postava je prokleta Korvaakovými služebníky, což ničí tvou obranyschopnost a spaluje tě zaživa.
 
-tagGDX2EnemySkillA16=Eldritch Mark
-tagGDX2EnemySkillA16_Desc=An eldritch curse hangs over your head, severely crippling your Attack and Casting speed.
+tagGDX2EnemySkillA16=Tajemné znamení
+tagGDX2EnemySkillA16_Desc=Tajemná kletba se vznáší nad tvou hlavou a těžce ovlivňuje tvou rychlost útoku a kouzlení.
 
-tagGDX2EnemySkillA17=Sapping Nova
-tagGDX2EnemySkillA17_Desc=A Servant of Korvaak has sapped your essence, draining you of life.
+tagGDX2EnemySkillA17=Život vysávající nova
+tagGDX2EnemySkillA17_Desc=Korvaakův služebník vysává tvou životadárnou esenci.
 
-tagGDX2EnemySkillA18=Melting
-tagGDX2EnemySkillA18_Desc=A wraith's flame is melting your armor.
+tagGDX2EnemySkillA18=Tavení
+tagGDX2EnemySkillA18_Desc=Přízračný oheň taví tvé brnění.
 
-tagGDX2EnemySkillA19=Bysmiel's Aura
-tagGDX2EnemySkillA19_Desc=The presence of a nearby Priest of Bysmiel empowers you, granting defenses and Offensive Ability.
+tagGDX2EnemySkillA19=Bysmielina aura
+tagGDX2EnemySkillA19_Desc=Přítomnost nedalekého Bysmielina kněze tě posiluje, dodává ti obranyschopnost a schopnost útočit.
 
-tagGDX2EnemySkillA20=Dreeg's Aura
-tagGDX2EnemySkillA20_Desc=The presence of a nearby Priest of Dreeg empowers you, granting defenses and Offensive Ability.
+tagGDX2EnemySkillA20=Dreegova aura
+tagGDX2EnemySkillA20_Desc=Přítomnost nedalekého Dreegova kněze tě posiluje, dodává ti obranyschopnost a schopnost útočit.
 
-tagGDX2EnemySkillA21=Solael's Aura
-tagGDX2EnemySkillA21_Desc=The presence of a nearby Priest of Solael empowers you, granting defenses and Offensive Ability.
+tagGDX2EnemySkillA21=Solaelova aura
+tagGDX2EnemySkillA21_Desc=Přítomnost nedalekého Solaelova kněze tě posiluje, dodává ti obranyschopnost a schopnost útočit.
 
-tagGDX2EnemySkillA22=Blood of the Guardian
-tagGDX2EnemySkillA22_Desc=You are marked by Dreeg's Blood, restoring health and bolstering Retaliation Effects
+tagGDX2EnemySkillA22=Strážcova krev
+tagGDX2EnemySkillA22_Desc=Tvá postava je označena znamením Dreegovy krve, což obnovuje tvé zdraví a umocňuje schopnosti odvetných úderů.
 
-tagGDX2EnemySkillA23=Impaling Spines
-tagGDX2EnemySkillA23_Desc=Inarah has trapped you within a cage of poison spines.
+tagGDX2EnemySkillA23=Napichující ostny
+tagGDX2EnemySkillA23_Desc=Inarah tě uvěznila v kleci z jedovatých ostnů.
 
-tagGDX2EnemySkillA24=Sand Tornado
-tagGDX2EnemySkillA24_Desc=A massive whirlwind of sand clouds your vision and batters your armor.
+tagGDX2EnemySkillA24=Písečné tornádo
+tagGDX2EnemySkillA24_Desc=Masivní vzdušný vír s pískem zamlží tvé vidění a zasahuje tvé brnění.
 
 
-tagGDX2EnemySkillD01=Curse of Rahn
-tagGDX2EnemySkillD01A_Desc=You insulted the guardians of Rahn and have been marked by their curse, crippling your Offensive Ability.
-tagGDX2EnemySkillD01B_Desc=You insulted the guardians of Rahn and have been marked by their curse, crippling your Defensive Ability.
-tagGDX2EnemySkillD01C_Desc=You insulted the guardians of Rahn and have been marked by their curse, crippling your Armor.
+tagGDX2EnemySkillD01=Rahnovo prokletí
+tagGDX2EnemySkillD01A_Desc=Rahnovi Strážci jsou uraženi a tak na tebe seslali kletbu v podobě snížení tvé schopnosti útočit.
+tagGDX2EnemySkillD01B_Desc=Rahnovi Strážci jsou uraženi a tak na tebe seslali kletbu v podobě snížení tvé schopnosti se bránit.
+tagGDX2EnemySkillD01C_Desc=Rahnovi Strážci jsou uraženi a tak na tebe seslali kletbu v podobě snížení účinnosti tvého brnění.
 
-tagGDX2EnemySkillD02=Eldritch Destabilization
-tagGDX2EnemySkillD02_Desc=Eldritch energies are pouring into you from a nearby Eldritch Shard. So long as the link is maintained, you will suffer severe damage.
+tagGDX2EnemySkillD02=Tajemná destabilizace
+tagGDX2EnemySkillD02_Desc=Tajemné energie z nedalekého Tajemného úlomku proudí skrze tebe. Dokud je navázané spojení mezi tebou a úlomkem, budeš trpět těžkými zraněními.
 
-tagGDX2EnemySkillD03=Burning Omen
-tagGDX2EnemySkillD03_Desc=A burning spirit's wrath is upon you, exposing you to Dravis' attacks.
+tagGDX2EnemySkillD03=Hořící znamení
+tagGDX2EnemySkillD03_Desc=Zloba hořícího ducha se nad tebou vznáší a vystavuje tě tak Dravisovým útokům.
 
-tagGDX2EnemySkillD04=Korvaak's Gaze
+tagGDX2EnemySkillD04=Korvaakův pohled
 tagGDX2EnemySkillD04_Desc=The gaze of Kymon's patron deity is upon you. You feel a great sense of dread and visions of your own demise cloud your judgment, reducing Offensive and Defensive Ability and exposing you to Eldritch magic as Korvaak's wrath periodically rains down from the heavens.
 
-tagGDX2EnemySkillD05=Rahn's Rage
-tagGDX2EnemySkillD05_Desc=The gaze of a forgotten god is upon you, burning your flesh and exposing you to physical attacks.
+tagGDX2EnemySkillD05=Rahnův hněv
+tagGDX2EnemySkillD05_Desc=Upřený pohled zapomenutého boha se zaměřil na tebe, pálí tvou tkáň a vystavuje tě fyzickým útokům.
 
-tagGDX2EnemySkillD06=Aura of Death
-tagGDX2EnemySkillD06_Desc=Ketan'Thunn's presence drains of the will to live, reducing Defensive Ability and Speed.
+tagGDX2EnemySkillD06=Aura smrti
+tagGDX2EnemySkillD06_Desc=Ketan'Thunnova přítomnost vysává vůli žít, což má za následek snížení obranyschopnosti a rychlosti.
 
-tagGDX2EnemySkillD07=Distortion
-tagGDX2EnemySkillD07_Desc=Your existence has become distorted by Onarix's claws, reducing Chaos Resistance.
+tagGDX2EnemySkillD07=Zkreslení
+tagGDX2EnemySkillD07_Desc=Tvá existence je pokřivená díky Onarixovým pařátům a máš tak sníženou odolnost vůči Chaosu.
 
-tagGDX2EnemySkillD08=Lightning Discharge
-tagGDX2EnemySkillD08_Desc=The scarab is teeming with lightning energy, which it emits whenever it is struck. The air around this creature is heavily charged.
+tagGDX2EnemySkillD08=Vybití blesku
+tagGDX2EnemySkillD08_Desc=Vruboun je protkaný energií z blesků, která je uvolněná vždy, když je zasažen. Vzduch okolo této příšery je silně nabitý.
 
-tagGDX2EnemySkillD09=Posthaste
-tagGDX2EnemySkillD09_Desc=The presence of a nearby Crate is slowing your actions and causing physical discomfort.
+tagGDX2EnemySkillD09=Rychlý pošťák
+tagGDX2EnemySkillD09_Desc=Přítomnost člena Crate tě zpomaluje v tvých úkonech a způsobuje ti fyzicky nepříjemné pocity.
 
-tagGDX2EnemySkillD10=Nerfed
-tagGDX2EnemySkillD10_Desc=You've been slightly nerfed.
+tagGDX2EnemySkillD10=Nerf!
+tagGDX2EnemySkillD10_Desc=Tvá postava byla lehce nerfnutá.
 
-tagGDX2EnemySkillD11=Lazy Design
-tagGDX2EnemySkillD11_Desc=Arbitrarily debuffs the player because designers couldn't make the effort to give the boss interesting skills. Or it actually does nothing, it's honestly hard to tell.
+tagGDX2EnemySkillD11=Odfláknutý design
+tagGDX2EnemySkillD11_Desc=Náhodně ovlivňuje hráče, protože developeři nebyli schopni vyvinout dostatečné úsilí na to dát bossovi zajímavé schopnosti. Nebo to prostě nedělá vůbec nic, je těžké to odhadnout.
 
-tagGDX2EnemySkillD12=Horrifying Vision
-tagGDX2EnemySkillD12_Desc=Visions of Cairn consumed by fire unravel your mind, reducing Resists and Cast Speed.
+tagGDX2EnemySkillD12=Hrůzostrašná vize
+tagGDX2EnemySkillD12_Desc=Vize Cairnu pozřeného ohněm trhají tvou mysl na kusy a snižují tak odolnosti a rychlost kouzlení.
 
-tagGDX2EnemySkillD13=Impaling Spikes
-tagGDX2EnemySkillD13_Desc=Impaled by poisoned spikes, pinning you to the ground.
+tagGDX2EnemySkillD13=Probodávající ostny
+tagGDX2EnemySkillD13_Desc=Probodly tě jedové ostny a přišpendlily k zemi.
 
-tagGDX2EnemySkillD14=Celestial Presence
-tagGDX2EnemySkillD14_Desc=You stand awe of a celestial being
+tagGDX2EnemySkillD14=Přítomnost nebeské bytosti
+tagGDX2EnemySkillD14_Desc=V přítomnosti nebeské bytosti jsi v údivu.
 
-tagGDX2EnemySkillD15=Celestial Effigy
-tagGDX2EnemySkillD15_Desc=An nearby effigy empowers Korvaak and harms mortals.
+tagGDX2EnemySkillD15=Nebeská figurína
+tagGDX2EnemySkillD15_Desc=Figurína v blízkosti posiluje Korvaaka a zraňuje smrtelníky.
 
-tagGDX2EnemySkillD16=Howling Wind
-tagGDX2EnemySkillD16_Desc=A powerful wind chills you to the bone and causes some projectiles to miss their intended target.
+tagGDX2EnemySkillD16=Kvílející vítr
+tagGDX2EnemySkillD16_Desc=Silný vítr tě mrazí až v kostech a způsobí tak, že některé projektily minou určený cíl.
