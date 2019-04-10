@@ -1,4 +1,5 @@
 MonsterDB_tagMonsterDB=Databáze nepřátel v Cairnu
+MonsterDB_tagMonsterDBPets=Databáze spojenců v Grim Dawn
 
 # buff types, e.g. "Permanent buffs: OFF"
 MonsterDB_tagBuffsPermanent=Trvalá posílení: {%s0}
@@ -15,6 +16,31 @@ MonsterDB_tagDifficulty=Obtížnost:
 MonsterDB_tagMonsterLevel=Úroveň
 // Shattered Realm shard #
 MonsterDB_tagShardNumber=Oblast Pokřiveného světa
+// Player level for pet db
+MonsterDB_tagPlayerLevel=Úroveň postavy
+MonsterDB_tagPetLevel=Úroveň spojence
+
+MonsterDB_tagPetSummonSkillSource=Zdroj
+MonsterDB_tagPetSummonSkillLevel=Úroveň vyvolání
+MonsterDB_tagPetSummonSkillCooldown=Prodleva mezi vyvoláními
+MonsterDB_tagPetSummonSkillLimit=Počet vyvolání
+
+MonsterDB_tagPetTypeRegular=Samostatný spojenec
+MonsterDB_tagPetTypePlayerScaling=Závislý spojenec
+MonsterDB_tagPetTypeCosmetic=Kosmetický spojenec
+
+MonsterDB_tagPetSourceMastery=Povolání
+MonsterDB_tagPetSourceDevotion=Hvězda
+MonsterDB_tagPetSourceEquipment=Předmět
+
+MonsterDB_tagPetSourceExtItemSet=Setový předmět
+MonsterDB_tagPetSourceExtPrefix=Předpona
+MonsterDB_tagPetSourceExtSuffix=Přípona
+MonsterDB_tagPetSourceExtConsumable=Spotřební materiál
+MonsterDB_tagPetSourceExtConstellation=Souhvězdí
+MonsterDB_tagPetSourceExtSkill=Dovednost
+# "Select" button for item selection
+MonsterDB_tagPetSourceExtSelect=Vybrat
 
 # skills tab
 MonsterDB_tagTabSkills=Dovednosti
@@ -62,6 +88,9 @@ MonsterDB_tagLootHeader2=Tabulka kořisti se mění na následujících úrovní
 MonsterDB_tagListHeaderName=Jméno
 MonsterDB_tagListHeaderRace=Rasa
 MonsterDB_tagListHeaderType=Druh
+MonsterDB_tagListHeaderPetType=Typ
+# pet source (e.g. equipment, mastery, devotion)
+MonsterDB_tagListHeaderPetSource=Zdroj vyvolání
 MonsterDB_tagMonsterTypeCommon=Běžný nepřítel
 MonsterDB_tagMonsterTypeChampion=Šampión
 MonsterDB_tagMonsterTypeHero=Hrdina
@@ -90,6 +119,8 @@ MonsterDB_tagMenuShowInitialSkillChain=Zobrazit počáteční řetězec dovednos
 MonsterDB_tagSearch=Hledat...
 MonsterDB_tagRaceAny=kdokoliv
 MonsterDB_tagTypeAny=cokoliv
+MonsterDB_tagTypePetAny=jakýkoliv
+MonsterDB_tagSourceAny=cokoliv
 MonsterDB_tagNothingFound=Nic nenalezeno
 
 MonsterDB_tagMonsterInvincible={^E}Nepřekonatelné

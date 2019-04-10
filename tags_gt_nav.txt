@@ -1,5 +1,6 @@
 Nav_tagItemDatabase=Databáze předmětů
 Nav_tagMonsterDatabase=Databáze nepřátel
+Nav_tagMonsterDatabasePets=Databáze spojenců
 Nav_tagBuildCalculator=Kalkulačka postavy
 Nav_tagWorldMap=Mapa světa
 Nav_tagChecklist=Postup hrou
