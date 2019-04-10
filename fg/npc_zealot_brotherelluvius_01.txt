@@ -1,6 +1,13 @@
 Bratr Elluvius
 Nechť Světlo Empyriona vede tvoji cestu.
 Sbohem.
+The news Sister Girra brings of Father Kymon's mission to the east is...troubling.{^n}{^n}Her words rattle me to the core, surely she spouts heresy?
+It's all true, brother. I've seen it.
+*Elluvius shakes with rage*{^n}{^n}In the end, he was but a man. His mistakes do not change what we stand for.{^n}{^n}Without us, the Chthonians will engulf all of Cairn. We must stand united in this betrayal.
+Good, accept the truth.
+We will persevere!
+You must accept the truth.
+I'll let you dwell on it.
 Bratr Miranok o tobě mluví velmi vznešeně, [[ms]bratře[fs]sestro].
 Kymon je mrtev, stejně tak jako tvůj bůh.
 *Bratr Elluvius znervózní*{^n}{^n}Radši drž jazyk za zuby, nebo ti ho vyříznu.{^n}{^n}Otec Kymon je požehnán Empyrionovým světlem. Nic se ho nemůže dotknout.{^n}{^n}A mít snad podezření, že i sám Empyrion padl? Absurdní.
@@ -39,11 +46,11 @@ Nechť Světlo Empyriona vede tvoji cestu.
 Sbohem.
 [[ms]Vypořádal[fs]Vypořádala] ses s Ravokou?
 Tu nekromantku jsem [[ms]zabil[fs]zabila].
-[[ms]Překonal[fs]Překonala] jsi očekávání dokonce samotného Svatého Otce.{^n}{^n}Vyžádal si, aby sis [[ms]promluvil[fs]promluvila] s Bratrem Miranokem. Navštiv ho. Nenech ho čekat.
+[[ms]Překonal[fs]Překonala] jsi očekávání dokonce samotného Svatého Otce.{^n}{^n}Vyžádal si, aby sis [[ms]promluvil[fs]promluvila] s bratrem Miranokem. Navštiv ho. Nenech ho čekat.
 
 Bratr Miranok? Kde je Kymon?
 Svatý Otec nás opustil se skupinkou pár jeho věčných šampiónů, aby se věnoval záležitosti nekritičtějšího rázu.{^n}{^n}Není na mně ptát se na jeho činy. Vše co vím je, že mám zůstat a pokračovat o jeho misi.
-Promluvím si teď s Bratrem Miranokem.
+Promluvím si teď s bratrem Miranokem.
 Promluvím si s ním hned teď.
 Musím si po tom martyriu oddechnout.
 [[ms]Překonal[fs]Překonala] jsi očekávání dokonce samotného Svatého Otce.{^n}{^n}Přeje si s tebou mluvit. Nenech ho čekat, [[ms]bratře[fs]sestro].
@@ -52,10 +59,10 @@ Hned si s ním promluvím.
 Musím si po těžké zkoušce odpočinout.
 [[ms]Vypořádal[fs]Vypořádala] ses s Ravokou?
 Kde že bych se [[ms]měl[fs]měla] porozhlédnout?
-Mistryně Ravok je v pevnosti Haron, v severní části Krvavého háje.{^n}{^n}Nezklamej nás.
+Mistryně Ravok je v pevnosti Haron, v severní části Krvavého háje.{^n}{^n}Nezklam nás.
 Vydám se tam hned.
 Sotva jsem [[ms]začal[fs]začala].
-Otec Kymon je udiven tvými nedávnými činy proti kultu Ch'thona.{^n}{^n}Svěřím ti kritickou záležitost. Nezklamej Otcovu důvěru.
+Otec Kymon je udiven tvými nedávnými činy proti kultu Ch'thona.{^n}{^n}Svěřím ti kritickou záležitost. Nezklam Otcovu důvěru.
 Co je to za misi?
 V severní části Krvavého háje je tvrz známá jako pevnost Haron. Je to starý sklad zbraní, který by se mohl ukázat užitečným. Nepřekvapivě je však zamořen havětí Řádu. {^n}{^n}Vydej se do pevnosti a znič všechny, kdo se ti postaví. Najdi jejich velitele, Mistryni Ravoku a udělej z ní exemplární případ.{^n}{^n}Jdi vpřed s vírou že Empyrion je s tebou, protože ti propůjčím požehnání a to povede tvoji ruku v boji.
 Eliminuju Ravoku.

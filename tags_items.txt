@@ -2207,7 +2207,7 @@ tagRelicC017=Marodérův talisman
 tagRelicC017Desc="Symbol nadvlády v umění střílet současně dvěma střelnými zbraněmi se smrtící přesností."
 
 tagRelicD001=Vykoupení
-tagRelicD001Desc="Ishtačiino vůdčí světlo očišťuje od bolesti a naplní tě novým odhodláním."
+tagRelicD001Desc="Ishtačino vůdčí světlo očišťuje od bolesti a naplní tě novým odhodláním."
 tagRelicD002=Kletba
 tagRelicD002Desc="Nemoci a mor mají nepřekonatelnou sílu. Nevybírají si mezi mrzákem nebo bojovníkem."
 tagRelicD003=Odplata

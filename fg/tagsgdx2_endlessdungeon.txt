@@ -129,7 +129,7 @@ tagGDX2EndlessDungeon_Key_02=Rezonující hraniční kámen
 tagGDX2EndlessDungeon_Key_02_Desc=Rezonující hraniční kámen je už pouze zlomek své bývalé moci. Umožňuje Mazaanovi otevřít cestu do alespoň 20. oblastí, nejvýše však do 30. oblastí Pokřiveného světa.
 tagGDX2EndlessDungeon_Key_02_Blueprint=Plánek: Rezonující hraniční kámen
 
-tagGDX2EndlessDungeon_Key_03=Strašidelná hraniční kámen
+tagGDX2EndlessDungeon_Key_03=Strašidelný hraniční kámen
 tagGDX2EndlessDungeon_Key_03_Desc=Strašidelná hraniční kámen je prodchnut duchy mrtvých. Umožňuje Mazaanovi otevřít cestu do alespoň 35. oblastí, nejvýše však do 45. oblastí Pokřiveného světa.
 tagGDX2EndlessDungeon_Key_03_Blueprint=Plánek: Strašidelná hraniční kámen
 

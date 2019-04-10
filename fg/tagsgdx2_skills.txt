@@ -65,7 +65,7 @@ tagGDX2Class09SkillName06B=Jasný účel
 tagGDX2Class09SkillDescription06B=Jak je hnán chutí zničit své protivníky bez zaváhání, stává se Přísežník ztělesněním nebeské zloby.
 
 tagGDX2Class09SkillName07A=Oko zúčtování
-tagGDX2Class09SkillDescription07A=Když se Přísežníci poprvé podívali na nebeské údolí a spatřili obrovskou moc Empyrionova světla, chtěli mít možnost napodobit tu dokonalost a sílu. Z umocnění jejich motliteb a tréninku vzešlo Oko zúčtování, devastující vyobrazení bojového umění, jež se proseká skrze hordy blízkých nepřátel v podobě kruhu z plamenů a světla, a to do doby, dokud se Přísežník na tento útok soustředí. ^oVyžaduje chladnou zbraň.  Při 100% rychlosti útoku způsobuje Oko zúčtování zranění a spaluje magickou energii každé 0.2 sekundy.
+tagGDX2Class09SkillDescription07A=Když se Přísežníci poprvé podívali na nebeské údolí a spatřili obrovskou moc Empyrionova světla, chtěli mít možnost napodobit tu dokonalost a sílu. Z umocnění jejich motliteb a tréninku vzešlo Oko zúčtování, devastující vyobrazení bojového umění, jež se proseká skrze hordy blízkých nepřátel v podobě kruhu z plamenů a světla, a to do doby, dokud se Přísežník na tento útok soustředí. ^oVyžaduje chladnou zbraň.  Při 100% rychlosti útoku způsobuje Oko zúčtování zranění a spaluje magickou energii každé 0.16 sekundy.
 tagGDX2Class09SkillName07B=Zapálená duše
 tagGDX2Class09SkillDescription07B=Díky ohni spravedlnosti, který plane v Přísežníkově duši, se světlo chová jako fyzická síla vycházející ven, jež probodává neopatrné nepřátele po dobu trvání Oka zúčtování.
 
@@ -265,8 +265,8 @@ tagGDX2RelicSkillD202Desc=Uhoď do země a rozdrť ho, čímž vytvoříš trhli
 tagGDX2RelicSkillD203Name=Písečný ďábel
 tagGDX2RelicSkillD203Desc=Uvolni vír písku směrem k tvým nepřátelům. ^oPíseční ďáblové sílí spolu s útočnými bonusy postavy.
 
-tagGDX2RelicSkillD204Name=Dosah hladu
-tagGDX2RelicSkillD204Desc=Soustřeď svou zuřivost do víru nenasytné síly, která pozře životadárnou krev všech v okolí a to po tak dlouhou dobu, po jakou se na kouzlo soustředíš. ^oVyžaduje chladnou zbraň.
+tagGDX2RelicSkillD204Name=Dosah nenažranosti
+tagGDX2RelicSkillD204Desc=Soustřeď svou zuřivost do víru nenasytné síly, která pozře životadárnou krev všech v okolí a to po tak dlouhou dobu, po jakou se na kouzlo soustředíš. ^oVyžaduje chladnou zbraň. Při 100% rychlosti útoku způsobuje Dosah nenažranosti zranění a spaluje magickou energii každé 0.16 sekundy.
 
 tagGDX2RelicSkillD205Name=Klid
 tagGDX2RelicSkillD205Desc=Klid tě naplní ve chvíli, kdy je to potřeba a nabídne tak umírnění těžkých zranění.
@@ -472,8 +472,8 @@ tagGDX2RuneSkillD215Desc=Vzdal se z boje za doprovodu uvolnění odporných ener
 tagGDX2RuneSkillD216=Murmurin polibek
 tagGDX2RuneSkillD216Desc=Vzdal se z boje za doprovodu uvolnění toxických energií, které zanechávají tvé nepřátele ochromené a demoralizované.
 
-tagGDX2RuneSkillD217=Ishtačiina spása
-tagGDX2RuneSkillD217Desc=Vštěp Ishtačiin mír do tvých nepřátel a uteč z boje.
+tagGDX2RuneSkillD217=Ishtačina spása
+tagGDX2RuneSkillD217Desc=Vštěpíš Ishtačin mír do svých nepřátel a utečeš z boje.
 
 tagGDX2RuneSkillD218=Upíří stíny
 tagGDX2RuneSkillD218Desc=Využij stíny a udeř na svůj nepřátelský cíl upíří nenasytností. ^oVyžaduje chladnou zbraň.
