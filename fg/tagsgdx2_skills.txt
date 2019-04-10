@@ -324,168 +324,168 @@ tagGDX2DevotionEffectC203_PetSkill=Černá krev
 
 #Mobility Runes
 tagGDX2RuneSkillB201=Zmizení
-tagGDX2RuneSkillB201Desc=In an instant, you vanish into the shadows, reappearing to strike a target foe. ^oVyžaduje chladnou zbraň.
+tagGDX2RuneSkillB201Desc=Ve mžiku oka mizíš ve stínech a znovu se objevuješ za účelem udeřit na nepřítele. ^oVyžaduje chladnou zbraň.
 
 tagGDX2RuneSkillB202=Skok
-tagGDX2RuneSkillB202Desc=Leap through the air to land towards the target point, sending a shockwave through the ground upon landing.
+tagGDX2RuneSkillB202Desc=Vyskoč do vzduchu a přistaň ve směru k určenému cíli, čímž vyšleš rázovou vlnu skrze zem, kde přistaneš.
 
 tagGDX2RuneSkillB203=Nabití
-tagGDX2RuneSkillB203Desc=Charge valiantly to strike a target foe. ^oVyžaduje chladnou zbraň. Pokud je použit štít, pak je poškození štítem přičteno.
+tagGDX2RuneSkillB203Desc=Statečně se vrhni na určeného nepřítele. ^oVyžaduje chladnou zbraň. Pokud je použit štít, pak je poškození štítem přičteno.
 
 tagGDX2RuneSkillB204=Prostorová trhlina
-tagGDX2RuneSkillB204Desc=Tear through reality to instantly transport yourself towards a nearby target location.
+tagGDX2RuneSkillB204Desc=Prorvi se skrze realitu a ve mžiku se přesuň blíže k tebou určenému cíli.
 
 tagGDX2RuneSkillB205=Spěch
-tagGDX2RuneSkillB205Desc=Letting nothing stand in your way, you rush through your enemies towards a nearby target destination, smashing anyone that stands in your way. ^oPokud je použit štít, pak je poškození štítem přičteno.
+tagGDX2RuneSkillB205Desc=Nechť ti nic nestojí v cestě; vrhni se skrze své nepřátele blíže k tebou určenému cíli a probourej se skrze ty, jež ti stojí v cestě. ^oPokud je použit štít, pak je poškození štítem přičteno.
 
 tagGDX2RuneSkillB206=Uvolnění
-tagGDX2RuneSkillB206Desc=Quickly disengage from combat by leaping backwards away from your foes, leaving a blinding flash.
+tagGDX2RuneSkillB206Desc=Rychle se vzdal z boje tím, že skočíš směrem od nepřátel a zanech za sebou oslepující záblesk.
 
 
 tagGDX2RuneSkillC201=Korvanská rychlost
-tagGDX2RuneSkillC201Desc=Leap towards the target point with burning agility.
+tagGDX2RuneSkillC201Desc=Skoč směrem k tebou určenému cíli se spalující hbitostí.
 
 tagGDX2RuneSkillC202=Mocnější Korvanská rychlost
-tagGDX2RuneSkillC202Desc=Leap towards the target point with burning agility.
+tagGDX2RuneSkillC202Desc=Skoč směrem k tebou určenému cíli se spalující hbitostí.
 
 tagGDX2RuneSkillC203=Mistrovská Korvanská rychlost
-tagGDX2RuneSkillC203Desc=Leap towards the target point with burning agility.
+tagGDX2RuneSkillC203Desc=Skoč směrem k tebou určenému cíli se spalující hbitostí.
 
 tagGDX2RuneSkillC204=Dreegův vektor
-tagGDX2RuneSkillC204Desc=Spontaneously transport yourself towards a target destination, spreading Dreeg's vile poisons to nearby foes.
+tagGDX2RuneSkillC204Desc=Spontánně se přenes směrem k tebou určenému cíli a šiř Dreegovy odporné jedy mezi nedaleké nepřátele.
 
 tagGDX2RuneSkillC205=Mocnější Dreegův vektor
-tagGDX2RuneSkillC205Desc=Spontaneously transport yourself towards a target destination, spreading Dreeg's vile poisons to nearby foes.
+tagGDX2RuneSkillC205Desc=Spontánně se přenes směrem k tebou určenému cíli a šiř Dreegovy odporné jedy mezi nedaleké nepřátele.
 
 tagGDX2RuneSkillC206=Mistrovský Dreegův vektor
-tagGDX2RuneSkillC206Desc=Spontaneously transport yourself towards a target destination, spreading Dreeg's vile poisons to nearby foes.
+tagGDX2RuneSkillC206Desc=Spontánně se přenes směrem k tebou určenému cíli a šiř Dreegovy odporné jedy mezi nedaleké nepřátele.
 
 tagGDX2RuneSkillC207=Rahnova moc
-tagGDX2RuneSkillC207Desc=Charge valiantly through your foes towards a target destination with a prayer to Rahn on your lips. ^oPokud je použit štít, pak je poškození štítem přičteno.
+tagGDX2RuneSkillC207Desc=Vrhni se skrze své nepřátele blíže k tebou určenému cíli s motlitbou k Rahnovi na svých rtech. ^oPokud je použit štít, pak je poškození štítem přičteno.
 
 tagGDX2RuneSkillC208=Mocnější Rahnova moc
-tagGDX2RuneSkillC208Desc=Charge valiantly through your foes towards a target destination with a prayer to Rahn on your lips. ^oPokud je použit štít, pak je poškození štítem přičteno.
+tagGDX2RuneSkillC208Desc=Vrhni se skrze své nepřátele blíže k tebou určenému cíli s motlitbou k Rahnovi na svých rtech. ^oPokud je použit štít, pak je poškození štítem přičteno.
 
 tagGDX2RuneSkillC209=Mistrovská Rahnova moc
-tagGDX2RuneSkillC209Desc=Charge valiantly through your foes towards a target destination with a prayer to Rahn on your lips. ^oPokud je použit štít, pak je poškození štítem přičteno.
+tagGDX2RuneSkillC209Desc=Vrhni se skrze své nepřátele blíže k tebou určenému cíli s motlitbou k Rahnovi na svých rtech. ^oPokud je použit štít, pak je poškození štítem přičteno.
 
 tagGDX2RuneSkillC210=Uspěchaný Wendigo
-tagGDX2RuneSkillC210Desc=Claw through your foes towards the target destination, leaving all in your path bleeding and broken. ^oPokud je použit štít, pak je poškození štítem přičteno.
+tagGDX2RuneSkillC210Desc=Proklesti se skrze tvé nepřátele směrem k tebou určenému cíli a nech všechny, kteří ti stojí v cestě, krvácející a zlomené. ^oPokud je použit štít, pak je poškození štítem přičteno.
 
 tagGDX2RuneSkillC211=Beranidlo
-tagGDX2RuneSkillC211Desc=Ram through your foes towards the target destination, scattering their ranks and chilling them to the bone. ^oPokud je použit štít, pak je poškození štítem přičteno.
+tagGDX2RuneSkillC211Desc=Rozboř řady nepřátel, kteří stojí v cestě mezi tebou a tebou určeným cílem, rozmetej jejich řady a zmraz je na kost. ^oPokud je použit štít, pak je poškození štítem přičteno.
 
 tagGDX2RuneSkillC212=Poryv větru
-tagGDX2RuneSkillC212Desc=Become as if a ghost, charging through your foes towards the target destination as if they were not there. Your ghostly passage leaves all you've touched unsettled. ^oPokud je použit štít, pak je poškození štítem přičteno.
+tagGDX2RuneSkillC212Desc=Staň se duchem a proběhni směrem k tebou určenému cíli skrze nepřátele, jako by zde vůbec nebyli. Tvá nehmotná stopa nechává všechny, jež zasáhla, znepokojené. ^oPokud je použit štít, pak je poškození štítem přičteno.
 
 tagGDX2RuneSkillC213=Seismický skok
-tagGDX2RuneSkillC213Desc=Leap towards a target destination and shatter the very earth around you.
+tagGDX2RuneSkillC213Desc=Skoč směrem k tebou určenému cíli a otřes zemí, která se ti nachází pod nohama.
 
 tagGDX2RuneSkillC214=Zvuk bouře
-tagGDX2RuneSkillC214Desc=Leap towards a target destination with a thunderous clap.
+tagGDX2RuneSkillC214Desc=Skoč směrem k tebou určenému cíli s ohromujícím třískotem.
 
 tagGDX2RuneSkillC215=Skok Mantikory
-tagGDX2RuneSkillC215Desc=Pounce through the air towards a target destination and spray caustic acid upon all nearby.
+tagGDX2RuneSkillC215Desc=Skoč směrem k tebou určenému cíli a rozstříkni žíravinu na všechny kolem.
 
 tagGDX2RuneSkillC216=Tajemná trhlina
-tagGDX2RuneSkillC216Desc=Tear through reality to instantly transport yourself towards a target destination and erupt with arcane energies.
+tagGDX2RuneSkillC216Desc=Prorvi se skrze realitu a ihned se přesuň směrem k tebou určenému cíli, což vyústí v erupci arkanických energií.
 
 tagGDX2RuneSkillC217=Hořící trhlina
-tagGDX2RuneSkillC217Desc=Tear a burning hole in reality to instantly transport yourself towards a target destination and erupt with flames from the Chthonic void.
+tagGDX2RuneSkillC217Desc=Vytvoč plápolající trhlinu v realitě a ihned se přesuň směrem k tebou určenému cíli za doprovodu plamenů z Chtonické nicoty.
 
 tagGDX2RuneSkillC218=Čepelová průrva
-tagGDX2RuneSkillC218Desc=Vanish into thin air and instantly transport yourself towards a target destination to unleash a flurry of blades upon your foes.
+tagGDX2RuneSkillC218Desc=Staň se vzduchem, v mžiku oka se přesuň směrem k tebou určenému cíli a rozpoutej tak čepelový vír kolem tvých nepřátel.
 
 tagGDX2RuneSkillC219=Chaos
-tagGDX2RuneSkillC219Desc=Reality bends to your will as you instantly transport yourself towards a target destination.
+tagGDX2RuneSkillC219Desc=Okolní svět se ohýbá po tvé vůli, jak se ve mžiku oka přemisťuješ směrem k tebou určenému cíli.
 
-tagGDX2RuneSkillC220=Úskok sněžné lišky
-tagGDX2RuneSkillC220Desc=Like a wily snow fox, disengage away from combat in a flash of frost that leaves your enemies chilled.
+tagGDX2RuneSkillC220=Úskok polární lišky
+tagGDX2RuneSkillC220Desc=Jako mazaná polární liška se vzdálíš z boje a zanecháš za sebou ledový oblak mrazící tvé nepřátele.
 
 tagGDX2RuneSkillC221=Vzestup Fénixe
-tagGDX2RuneSkillC221Desc=Rise from the battle like a phoenix, disengaging away from combat in blazing glory.
+tagGDX2RuneSkillC221Desc=Vznes se z boje jako Fénix a odpoj se za doprovodu spalující slávy.
 
 tagGDX2RuneSkillC222=Hrůzu zanechávající ústup
-tagGDX2RuneSkillC222Desc=Disengage away from battle as if a restless spirit, confounding the foes you leave behind with the veil of death.
+tagGDX2RuneSkillC222Desc=Vzdal se z boje jako nepokojný duch a tak zmateš své nepřátele pomocí závoje ze smrti.
 
 tagGDX2RuneSkillC223=Vrahův únik
-tagGDX2RuneSkillC223Desc=Dexterously disengage away from battle, but not before shredding your foes with vicious blades.
+tagGDX2RuneSkillC223Desc=Obratně se vzdal z boje, ale až poté, co rozřežeš své nepřátele pomocí čepelí.
 
 tagGDX2RuneSkillC224=Úder chaosu
-tagGDX2RuneSkillC224Desc=Tear through the void to strike at a target foe with the destructive power of the chaos. ^oVyžaduje chladnou zbraň.
+tagGDX2RuneSkillC224Desc=Prorvi se skrze Prázdnotu a udeř na nepřátelský cíl za pomoci destruktivní síly chaosu. ^oVyžaduje chladnou zbraň.
 
 tagGDX2RuneSkillC225=Náhlý úder
-tagGDX2RuneSkillC225Desc=Strike a target foe with sudden crushing force. ^oVyžaduje chladnou zbraň.
+tagGDX2RuneSkillC225Desc=Zasáhni svůj nepřátelský cíl náhlým, drtivým úderem. ^oVyžaduje chladnou zbraň.
 
 tagGDX2RuneSkillC226=Útok štíra
-tagGDX2RuneSkillC226Desc=Charge a target and impale them like a vicious scorpion. ^oVyžaduje chladnou zbraň. Pokud je použit štít, pak je poškození štítem přičteno.
+tagGDX2RuneSkillC226Desc=Vrhni se na cíl a probodni ho jako nemilosrdný štír. ^oVyžaduje chladnou zbraň. Pokud je použit štít, pak je poškození štítem přičteno.
 
 tagGDX2RuneSkillC227=Útok ducha
-tagGDX2RuneSkillC227Desc=Charge a target foe and unmake them with the will of the ravenous dead. ^oVyžaduje chladnou zbraň. Pokud je použit štít, pak je poškození štítem přičteno.
+tagGDX2RuneSkillC227Desc=Napadni cíl a odčiň jej ze světa živých za pomoci vůle vyhladovělé smrti. ^oVyžaduje chladnou zbraň. Pokud je použit štít, pak je poškození štítem přičteno.
 
 
 tagGDX2RuneSkillD201=Amatokův dech
-tagGDX2RuneSkillD201Desc=Charge through your foes towards a target destination, leaving them chilled with Amatok's breath. ^oPokud je použit štít, pak je poškození štítem přičteno.
+tagGDX2RuneSkillD201Desc=Prožeň se skrze své nepřátele směrem k tebou určenému cíli a zanech je zmrazené dechem Amatoka. ^oPokud je použit štít, pak je poškození štítem přičteno.
 
 tagGDX2RuneSkillD202=Vůle padlých králů
-tagGDX2RuneSkillD202Desc=Filled with the determination of kings, charge through your foes towards a target destination.  ^oPokud je použit štít, pak je poškození štítem přičteno.
+tagGDX2RuneSkillD202Desc=Tvá postava je naplněná odhodlaností králů, prorážejíc řady nepřátel směrem k tebou určenému cíli. ^oPokud je použit štít, pak je poškození štítem přičteno.
 
 tagGDX2RuneSkillD203=Krvavé radovánky
-tagGDX2RuneSkillD203Desc=Relish in the carnage as your charge through your foes towards a target destination. ^oPokud je použit štít, pak je poškození štítem přičteno.
+tagGDX2RuneSkillD203Desc=Libuj si v jatkách, která vznikají po tom, co se proženeš skrze nepřátele směrem k tebou určenému cíli. ^oPokud je použit štít, pak je poškození štítem přičteno.
 
 tagGDX2RuneSkillD204=Ulzuinův pád
-tagGDX2RuneSkillD204Desc=Leap through the air towards a target destination and descend upon your foes in a fiery crash.
+tagGDX2RuneSkillD204Desc=Vyskoč do vzduchu směrem k tebou určenému cíli a snes se na nepřátele za doprovodu ohnivého dopadu.
 
 tagGDX2RuneSkillD205=Tajemná nerovnováha
-tagGDX2RuneSkillD205Desc=Leap through the air towards a target destination and destabilize reality where you land.
+tagGDX2RuneSkillD205Desc=Vyskoč do vzduchu směrem k tebou určenému cíli a destabilizuj realitu tam, kde dopadneš.
 
 tagGDX2RuneSkillD206=Na Rylokových křídlech
-tagGDX2RuneSkillD206Desc=Leap through the air towards a target destination and crash down in a chaotic eruption.
+tagGDX2RuneSkillD206Desc=Vyskoč do vzduchu směrem k tebou určenému cíli a dopadni za doprovodu erupce chaosu.
 
 tagGDX2RuneSkillD207=Dreadnoughtova moc
-tagGDX2RuneSkillD207Desc=Leap through the air towards a target destination with devastating might and smash any foes unfortunate enough to be where you land.
+tagGDX2RuneSkillD207Desc=Vyskoč do vzduchu směrem k tebou určenému cíli za pomoci devastující síly a rozdrť nepřátele, jež mají tu smůlu, že stojí v místě tvého dopadu.
 
 tagGDX2RuneSkillD208=Dreegova znamení
-tagGDX2RuneSkillD208Desc=Leap through the air towards a target destination and deliver grievous wounds reminiscent of the suffering of the Great Guardian upon your foes.
+tagGDX2RuneSkillD208Desc=Vyskoč do vzduchu směrem k tebou určenému cíli a s sebou přines těžká zranění v podobě připomenutí Velkého strážce, jež se vznáší nad tvými nepřáteli.
 
 tagGDX2RuneSkillD209=Nadaanův útok
-tagGDX2RuneSkillD209Desc=Shift through the shadows to instantly transport yourself towards a target destination and assault nearby foes with a ring of blades.
+tagGDX2RuneSkillD209Desc=Využij stíny, ihned se přenes směrem k tebou určenému cíli a zasáhni kruhem z mečů nepřátele v blízkosti.
 
 tagGDX2RuneSkillD210=Ultosův příchod
-tagGDX2RuneSkillD210Desc=Instantly travel through reality itself towards a target destination and arrive in a fiery blaze.
+tagGDX2RuneSkillD210Desc=V mžiku se přenes skrze realitu směrem k tebou určenému cíli a objev se za doprovodu ohnivého záblesku.
 
 tagGDX2RuneSkillD211=Astrální trhlina
-tagGDX2RuneSkillD211Desc=Warp the veil to instantly travel towards a target destination and unleash a surge of arcane energies.
+tagGDX2RuneSkillD211Desc=Překroč roušku reality a přenes se tak směrem k tebou určenému cíli za uvolnění dávky arkanických energií.
 
 tagGDX2RuneSkillD212=Odsunutí
-tagGDX2RuneSkillD212Desc=Reality becomes a plaything as you instantly warp towards a target destination.
+tagGDX2RuneSkillD212Desc=Svět kolem tebe se stává hračkou při pomyšlení na to, že se zkrátka ihned přenášíš směrem k tebou určenému cíli.
 
 tagGDX2RuneSkillD213=Tajfun
-tagGDX2RuneSkillD213Desc=Disengage from battle with the destructive force of a typhoon.
+tagGDX2RuneSkillD213Desc=Vzdal se z boje za doprovodu destruktivní síly tajfunu.
 
 tagGDX2RuneSkillD214=Ulzaadovo šílenství
-tagGDX2RuneSkillD214Desc=Sow the confusion and rage of a mad titan as you disengage from battle.
+tagGDX2RuneSkillD214Desc=Vzdal se z bojů a zároveň zasij zmatek a zuřivost šíleného titána mezi nepřátele.
 
 tagGDX2RuneSkillD215=Zoufalá dychtivost
-tagGDX2RuneSkillD215Desc=Disengage from battle in a surge of vile void energies.
+tagGDX2RuneSkillD215Desc=Vzdal se z boje za doprovodu uvolnění odporných energií z prázdnoty.
 
 tagGDX2RuneSkillD216=Murmurin polibek
-tagGDX2RuneSkillD216Desc=Disengage from battle in a surge of toxic energies that leave your foes shaken and demoralized.
+tagGDX2RuneSkillD216Desc=Vzdal se z boje za doprovodu uvolnění toxických energií, které zanechávají tvé nepřátele ochromené a demoralizované.
 
 tagGDX2RuneSkillD217=Ishtačiina spása
 tagGDX2RuneSkillD217Desc=Vštěp Ishtačiin mír do tvých nepřátel a uteč z boje.
 
 tagGDX2RuneSkillD218=Upíří stíny
-tagGDX2RuneSkillD218Desc=Tear through the shadows to strike a target foe with vampiric voracity. ^oVyžaduje chladnou zbraň.
+tagGDX2RuneSkillD218Desc=Využij stíny a udeř na svůj nepřátelský cíl upíří nenasytností. ^oVyžaduje chladnou zbraň.
 
 tagGDX2RuneSkillD219=Temné touhy
-tagGDX2RuneSkillD219Desc=Tear through the veil to strike a foe with the destabilizing force of chaos. ^oVyžaduje chladnou zbraň.
+tagGDX2RuneSkillD219Desc=Prorvi se skrze závoj reality a udeř na svého nepřítele za pomoci destabilizující síly chaosu. ^oVyžaduje chladnou zbraň.
 
 tagGDX2RuneSkillD220=Náboj Bouřného titána
-tagGDX2RuneSkillD220Desc=Charge a target foe with the crushing might of a stormtitan. ^oVyžaduje chladnou zbraň. Pokud je použit štít, pak je poškození štítem přičteno.
+tagGDX2RuneSkillD220Desc=Udeř svého nepřítele za pomoci drtivé síly bouřného titána. oVyžaduje chladnou zbraň. Pokud je použit štít, pak je poškození štítem přičteno.
 
 tagGDX2RuneSkillD221=Založení požáru
-tagGDX2RuneSkillD221Desc=Charge forth into battle and incinerate your foe with the flames of a dying god. ^oVyžaduje chladnou zbraň. Pokud je použit štít, pak je poškození štítem přičteno.
+tagGDX2RuneSkillD221Desc=Vběhni do bojů a zapal své nepřátele plameny umírajícího boha. ^oVyžaduje chladnou zbraň. Pokud je použit štít, pak je poškození štítem přičteno.
 
 
 #FactionSkills
