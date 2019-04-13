@@ -1,11 +1,11 @@
 Bratr Ulnox
-Have you heard Sister Girra's lies?
-They are not lies.
-No...that cannot be.{^n}{^n}Father Kymon is our prophet. He would not align us with malevolent forces.
-You must accept the truth.
-I'll let you dwell on it.
-I heard the truth, brother.
-I don't want to talk about it.
+[[ms]Slyšel[fs]Slyšela] jsi ty lži sestry Girry?
+Nejsou to lži.
+Ne...to nemůže být pravda.{^n}{^n}Otec Kymon je náš prorok. Nikdy by se nespřáhl se zlovolnými silami.
+Musíš přijmout pravdu.
+Nechám tě o tom přemýšlet.
+[[ms]Slyšel[fs]Slyšela] jsem pravdu, bratře.
+Nechci o tom mluvit.
 Bratře Hammonde, nikdy nebudeš zapomenut. {^n}{^n}Řád zaplatí za to, co ti udělal.
 Sbohem.
 Nebudu mít klidu, dokud se před Empyrionem nespasím.
@@ -21,4 +21,3 @@ Máš pravdu... zahanbil jsem Vyvoleného.{^n}{^n}Spasím se před Empyrionem. T
 Pokračuj, bratře.
 Není na mně, abych [[ms]soudil[fs]soudila].
 To zní strašně.
-

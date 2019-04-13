@@ -1,13 +1,13 @@
 Bratr Elluvius
 Nechť Světlo Empyriona vede tvoji cestu.
 Sbohem.
-The news Sister Girra brings of Father Kymon's mission to the east is...troubling.{^n}{^n}Her words rattle me to the core, surely she spouts heresy?
-It's all true, brother. I've seen it.
-*Elluvius shakes with rage*{^n}{^n}In the end, he was but a man. His mistakes do not change what we stand for.{^n}{^n}Without us, the Chthonians will engulf all of Cairn. We must stand united in this betrayal.
-Good, accept the truth.
-We will persevere!
-You must accept the truth.
-I'll let you dwell on it.
+Novinky o poslání Otce Kymona na východě, které sestra Girra přinesla, jsou...znepokojující.{^n}{^n}Její slova mne mrazí až v kostech, zajísté se jen rouhá...?
+Je to všechno pravda, bratře. [[ms]Viděl[fs]Viděla] jsem to.
+*Elluvius se zuřivostí oklepe*{^n}{^n}Koneckonců, byl to jen člověk. Jeho chyby nemění to, za čím si stojíme.{^n}{^n}Bez nás by Chtoniané pohltili celý Cairn. Musíme i přes tuto zradu zůstat jednotní.
+Dobrá, přijměte pravdu.
+Vytrváme!
+Musíte přijmout pravdu.
+Nechám tě o tom přemítat.
 Bratr Miranok o tobě mluví velmi vznešeně, [[ms]bratře[fs]sestro].
 Kymon je mrtev, stejně tak jako tvůj bůh.
 *Bratr Elluvius znervózní*{^n}{^n}Radši drž jazyk za zuby, nebo ti ho vyříznu.{^n}{^n}Otec Kymon je požehnán Empyrionovým světlem. Nic se ho nemůže dotknout.{^n}{^n}A mít snad podezření, že i sám Empyrion padl? Absurdní.
