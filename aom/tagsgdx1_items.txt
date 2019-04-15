@@ -8,7 +8,7 @@ tagGDX1WeaponSwordB102=[ms]Wendigův bodák
 tagGDX1WeaponSwordB102Desc="Z drápu odpadává špína."
 
 tagGDX1WeaponSwordC101=Elgothova čistá ocel
-tagGDX1WeaponSwordC101_Desc="Poté, co byl meč poskvrnšný zkaženým dotykem členů Chthonského kultu, obnovili jeho zašlou slávu Lumináři."
+tagGDX1WeaponSwordC101_Desc="Poté, co byl meč poskvrněný zkaženým dotykem členů Chthonského kultu, obnovili jeho zašlou slávu Lumináři."
 tagGDX1WeaponSwordC104=Legionářova chlouba
 
 tagGDX1WeaponSwordD101=Břitva smrti
@@ -28,12 +28,12 @@ tagGDX1WeaponSwordF104=Spasitel Malmouthu
 tagGDX1WeaponBluntB101=[ns]Bargollovo srdce
 tagGDX1WeaponBluntB101Desc="Bargollovo kamenné srdce vyzařuje chladnou smrt."
 tagGDX1WeaponBluntB102=[fs]Bargollova duše
-tagGDX1WeaponBluntB102Desc="Jamile žijící Bargollova duše začne prahnout po esenci života, jeho majitel opět ožije."
+tagGDX1WeaponBluntB102Desc="Jakmile žijící Bargollova duše začne prahnout po esenci života, jeho majitel opět ožije."
 
 tagGDX1WeaponBluntC101=Pokořitel smrti
 
 tagGDX1WeaponBluntD101=Malakorova infúze
-tagGDX1WeaponBluntD101_Desc="Alchymista Malakor, blízký spojenec Luminářů, skul tuto zbraň v živelném plameni, aby mohl bojovat s Eldritchovými duchy podle svých vlastních podmínek."
+tagGDX1WeaponBluntD101_Desc="Alchymista Malakor, blízký spojenec Luminářů, skul tuto zbraň v živelném plameni, aby mohl bojovat s Tajemnými duchy podle svých vlastních podmínek."
 tagGDX1WeaponBluntD103=Amarastin drtič
 tagGDX1WeaponBluntD104=Drtipěst
 tagGDX1WeaponBluntD105=Drtipěst kamenného strážce

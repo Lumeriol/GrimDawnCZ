@@ -79,7 +79,7 @@ Tak zatím.
 Tahle vesnice končí. (zůstaňte nepřáteli)
 Musím si to promyslet.
 Máš pravdu, můžeme být zase přátelé.
-To rád slyším.{^n}{^n}Měli bychom tě uvítat jako [[ms]přítele[fs]přítelkyni], ale vše, co se do této doby odehrálo, bude zapomenuto. {^n}{^n}(Varování: volba zpřátelení se s Barrowholmem anuluje tvou úroveň přízně s touto frakcí.)
+To rád slyším.{^n}{^n}Měli bychom tě uvítat jako [[ms]přítele[fs]přítelkyni], ale vše, co se do této doby odehrálo, bude zapomenuto. {^n}{^n}(Varování: volba spřátelení se s Barrowholmem anuluje tvou úroveň přízně s touto frakcí.)
 Ano, buďme přátelé. (změň přízeň na přátelskou úroveň)
 Tak dobrá.  Pokud něco hledáš, je fér udělat něco pro nás a pak pomůžeme my tobě.{^n}{^n}Promluv si s mými dobrými přáteli Tyvaldem a Jordythem. Pomoz jim s čímkoliv budou chtít. {^n}{^n}Pak otevřu tuhle truhlu a dám ti to, co hledáš.
 Promluvím si s nimi.
@@ -87,7 +87,7 @@ Na druhou stranu...
 Tahle vesnice je vyřízená. (zůstaňte nepřáteli)
 Potřebuju si to promyslet.
 [[ms]Zapůsobil[fs]Zapůsobila] si na mě jako člověk s otevřenou myslí.{^n}{^n}Pověz mi, budeme přátelé?
-Myslím, že si můžeme navzájem vypomoct. (zústaňte přáteli)
+Myslím, že si můžeme navzájem vypomoct. (zůstaňte přáteli)
 Tak dobrá. Pokud něco hledáš, je fér udělat něco pro nás a pak pomůžeme my tobě.{^n}{^n}Promluv si s mými dobrými přáteli Tyvaldem a Jordythem. Pomoz jim s čímkoliv budou chtít. {^n}{^n}Pak otevřu tuhle truhlu a dám ti to, co hledáš.
 Promluvím si s nimi.
 Nejsem si [[ms]jistý[fs]jistá], jestli vám můžu dál pomáhat.

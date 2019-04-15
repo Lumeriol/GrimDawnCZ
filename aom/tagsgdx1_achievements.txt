@@ -17,7 +17,7 @@ achGDX1004Title=Do Prázdnoty
 achGDX1004Desc=Aktivuj Rattoshův oltář.
 
 achGDX1005Title=To jsem já, tvůj přítel
-achGDX1005Desc=Předvědči starého přítele, že jsi na jeho straně.
+achGDX1005Desc=Přesvědči starého přítele, že jsi na jeho straně.
 
 achGDX1006Title=Přátelská roztržka
 achGDX1006Desc=Vtluč do hlavy trochu rozumu starému příteli.
@@ -136,7 +136,7 @@ achGDX1043Desc=Zlikviduj Gargabola, Srdce divočiny ve Starodávném háji na ul
 achGDX1044Title=Nesmrtelný divočák
 achGDX1044Desc=Zlikviduj Gargabola, Srdce divočiny ve Starodávném háji ve Výzvě.
 
-achGDX1045Title=Starožitost z Ugdenbogu
+achGDX1045Title=Starožitnost z Ugdenbogu
 achGDX1045Desc=Zlikviduj Kra'valla, starověkého vodnáře.
 
 achGDX1046Title=Zabiják mýtů

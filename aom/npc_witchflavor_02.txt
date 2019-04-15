@@ -13,7 +13,7 @@ Chápu. Tak zatím.
 Půjdu si svou cestou.
 Hej ty, jak ti můžu pomoct?
 Co tady nahoře děláš?
-Jsem Garradiina stráž. Jdu tam kam ona. {^n}{^n}Nechceš začít dělat probémy, nebo snad ano?
+Jsem Garradiina stráž. Jdu tam kam ona. {^n}{^n}Nechceš začít dělat problémy, nebo snad ano?
 Určitě ne.
 Dobře, protože bych nechtěla umazat tu tvojí hezkou tvářičku.
 A když problémy vyhledávám?
@@ -40,7 +40,7 @@ Tak zatím.
 
 
 Tak zatím.
-Vypadáš přátelštějí než většina ostatních, se kterými jsem tu zatím [[ms]mluvil[fs]mluvila].
+Vypadáš přátelštější než většina ostatních, se kterými jsem tu zatím [[ms]mluvil[fs]mluvila].
 Nepovažuju hned kohokoliv cizího za nepřítele, i když zdravá míra skepticismu je v těchto dnech na místě.{^n}{^n}Nespleť si ale chování s tím, jestli jsem vyměklá. Dotkni se Garradie a seš [[ms]mrtvej[fs]mrtvá].
 
 

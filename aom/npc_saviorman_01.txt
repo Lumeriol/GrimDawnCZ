@@ -6,7 +6,7 @@ Ne, nedělej to!
 Počkat...
 Dobrá, tak jak nás odtud chceš dostat?
 Můžu otevřít Bránu.
-Co? Ani náhodou...n eexistuje, abychom do jedné z těch věcí vlezli.
+Co? Ani náhodou...n neexistuje, abychom do jedné z těch věcí vlezli.
 Budete v pořádku. (otevři Bránu)
 Posluž si.
 Stáhni se, zrůdo, nebo tě sejmu kde právě teďka stojíš.{^n}{^n}Tyhle děti jsou moje.
@@ -39,7 +39,7 @@ Už nevím, co dál dělat.{^n}{^n}Byl jsem tu pořád, ve dne v noci, chránil 
 Můžu otevřít Bránu.
 Co? Ani náhodou...neexistuje, abychom do jedné z těch věcí vlezli.
 Budete v pořádku. (otevři Bránu)
-Posluš si.
+Posluž si.
 S tím si nedělej starosti. (otevři Bránu)
 Víš ty co, na tohle nemam čas.
 Jsi blázen, odstup od těch dětí.

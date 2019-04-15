@@ -1,6 +1,6 @@
 Kory, strážce.
 Vítej, [[ms]můj příteli[fs]má přítelkyně]! Viděl jsem tě již někdy předtím? Možná jsme se potkali... někde na cestě? Kory je mé jméno. Jsem cestovatel... obchodník... strážce tajemna. Bývaly časy kdy... no... na tom nesejde. Cestoval jsem daleko, vždy ve stínu.
-To je zváštní kabát, který nosíš...
+To je zvláštní kabát, který nosíš...
 Ach, vskutku... je na něm značka hulváta. Býval jsem dobrodruh tak jako ty, kdysi dávno...
 (získej iluzi Hulvátova kabátu)
 Ach, vskutku... je na něm značka hulváta. Býval jsem dobrodruh tak jako ty, kdysi dávno...{^n}{^n}Ale vždyť už máš tento úžasný předmět také.
@@ -23,12 +23,12 @@ Pravda, tuhle bludičku už mám.
 Máš nějaké válečné medaile?
 Troufám si říct, že jsem zasloužilý válečný veterán.{^n}{^n}Která z nich tě zajímá?
 Co tahle zlatá?
-Ale, ty seš veterán ze starých válek, jak tak pozoruju.{^n}{^n}Tumáš, za svou letitou podporu si ji zasloužíš.{^n}{^n}*Kory zasalutuje*
+Ale, ty seš veterán ze starých válek, jak tak pozoruju.{^n}{^n}Tu máš, za svou letitou podporu si ji zasloužíš.{^n}{^n}*Kory zasalutuje*
 (získej předmět Mecenášova sláva)
 Ale, ty seš veterán ze starých válek, jak tak pozoruju.{^n}{^n}*Kory zasalutuje*{^n}{^n}Tohle vyznamenání sis jistě [[ms]vysloužil[fs]vysloužila] za chrabrou službu.
 (zasalutovat)
 Co tahle oranžová?
-No ne, tys také [[ms]sloužil[fs]sloužila] ve velké Kickstarterské válce roku 2012?{^n}{^n}Tumáš, zasloužíš si ji.{^n}{^n}*Kory zasalutuje*
+No ne, tys také [[ms]sloužil[fs]sloužila] ve velké Kickstarterské válce roku 2012?{^n}{^n}Tu máš, zasloužíš si ji.{^n}{^n}*Kory zasalutuje*
 (získej Medaili úslužnosti Kickstarteru)
 No ne, tys také [[ms]sloužil[fs]sloužila] ve velké Kickstarterské válce roku 2012?{^n}{^n}*Kory zasalutuje*{^n}{^n}Tuhle medaili sis jistě [[ms]vysloužil[fs]vysloužila].
 (zasalutovat)
