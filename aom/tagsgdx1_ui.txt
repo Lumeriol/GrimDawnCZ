@@ -78,7 +78,7 @@ tagMapSymbolTransmuteNpc=Iluzionista
 tagMapSymbolTransmuteNpcDesc=Iluzionistické iluze.
 
 #Skills
-tagItemSkillModified= {^E}na {^Z}{%s0}
+tagItemSkillModified= {^E}k dovednosti {^Z}{%s0}
 
 #Char Stats Tab 2
 tagCharStatsInquisitorSkillsBonus=Dovednosti Inkvizitora

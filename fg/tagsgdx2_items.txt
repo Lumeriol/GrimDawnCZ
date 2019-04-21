@@ -1140,7 +1140,7 @@ tagPrefixB045_Class_A=[ms]spasitelův[fs]spasitelova[ns]spasitelovo[mp]spasitelo
 
 
 #Affixes
-tagGDX2PrefixAA024=Strážce přísahy
+tagGDX2PrefixAA024=|9strážce přísahy
 
 #Difficulty Unlocks
 tagGDX2DifficultyUnlock01=Zásluhy šampióna
