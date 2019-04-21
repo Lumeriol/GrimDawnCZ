@@ -55,7 +55,7 @@ tagGDX1WeaponAxeD103=Noční pařát
 tagGDX1WeaponAxeD104=Ostří příčetnosti
 tagGDX1WeaponAxeD104_Desc="Není úplně jisté, zda k nepříčetnosti přivádí své oběti... nebo majitele."
 tagGDX1WeaponAxeD105=Korbin stínač
-tagGDX1WeaponAxeD106=Korbinina posedlost
+tagGDX1WeaponAxeD106=Korbina posedlost
 
 tagGDX1WeaponAxeF101=Čarodějčin sekáček
 tagGDX1WeaponAxeF102=Čarodějčina sekyrka
@@ -991,7 +991,7 @@ tagGDX1Blueprint_ArmorD109=Plánek: Dreegův hlas
 tagGDX1Blueprint_ArmorD110=Plánek: Empyrionovo hledí
 tagGDX1Blueprint_ArmorD113=Plánek: Maska ztracených duší
 tagGDX1Blueprint_ArmorD114=Plánek: Octaviovo hledí
-tagGDX1Blueprint_ArmorD115=Plánek: Korbiina kapuce
+tagGDX1Blueprint_ArmorD115=Plánek: Korbina kapuce
 tagGDX1Blueprint_ArmorD116=Plánek: Šalíř temného plamene
 tagGDX1Blueprint_ArmorD117=Plánek: Hledí metače kouzel
 tagGDX1Blueprint_ArmorD118=Plánek: Kapuce zabijáka čarodějů
@@ -1723,7 +1723,7 @@ tagGDX1PrefixAA023=[ms]nekromantův[fs]nekromantova[ns]nekromantovo[mp]nekromant
 
 tagGDX1PrefixAD101=[ms]dokonalý[fs]dokonalá[ns]dokonalé[mp]dokonalé[fp]dokonalé[np]dokonalé
 
-tagGDX1PrefixAO101=Superior
+tagGDX1PrefixAO101=lepší
 
 tagGDX1PrefixB101_WpnMelee1h_A=|9polykače duší
 tagGDX1PrefixB102_WpnMelee1h_A=|9kamenné tváře

@@ -420,10 +420,10 @@ tagGDX1DravisThrall02=Dravisův posluhovač
 tagGDX1Nemesis_Aetherial01=Arcimág Aleksander
 tagGDX1Nemesis_Aetherial01_Crystal=Aleksandrův střep
 tagGDX1Nemesis_Chthonian01=Grava'Thul, chlemtač Prázdnoty
-tagGDX1Nemesis_Beast01=Čupakabra, Nekonečná hrozba
+tagGDX1Nemesis_Beast01=Čupakabra, nekonečná hrozba
 tagGDX1Nemesis_Beast01B=Trpělivá Čupakabra
 tagGDX1Nemesis_Beast01C=Houževnatá Čupakabra
-tagGDX1Nemesis_Wendigo01=Žnec Ztracených
+tagGDX1Nemesis_Wendigo01=Žnec ztracených
 
 tagGDX1Nemesis_Plant=Zárodek všeho zla
 tagGDX1Nemesis_NotClone=Toto není klon Johna Bourbona
@@ -432,7 +432,7 @@ tagGDX1Nemesis_Zombie=Plápolající modřina
 
 
 #Devotion
-tagGDX1DevotionAetherialBloater_H01=Barrthnas, Zárodek moru
+tagGDX1DevotionAetherialBloater_H01=Barrthnas, zárodek moru
 tagGDX1DevotionAetherialBloater_H02=Ignos
 tagGDX1DevotionAetherialBloater_H03=Frozdar ~ mrazivý
 tagGDX1DevotionAetherialBloater_H04=Draklon ~ krvesaj
@@ -505,7 +505,7 @@ tagGDX1BountyCW07=Polterrios
 tagGDX1BountyCW08=Vladris
 tagGDX1BountyCW09=Yoknar
 
-tagGDX1BountyPM05=Bluggraag Spálený výblitek
+tagGDX1BountyPM05=Bluggraag, spálený výblitek
 tagGDX1BountyPM06=Bouřný titán
 tagGDX1BountyPM07=Blazragarus
 tagGDX1BountyPM08=Torraxsteria

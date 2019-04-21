@@ -1279,7 +1279,7 @@ tagDividerRoll02B=Rozkladová komora slouží k rozbití mocných magických př
 
 tagDividingButtonKeepItem=Předmět
 tagDividingBoxInfo=Umísti do komory předmět s připojenou komponentou nebo vylepšením.
-tagDividingButtonKeepComponent=Přídavek
+tagDividingButtonKeepComponent=Komponenta
 tagDividingButtonRemoveAugment=Odstranit vylepšení
 tagDividingKeepItemWarning=Vybráním zachování předmětu zničíš připojenou komponentu a jakékoliv vylepšení.
 tagDividingKeepComponentWarning=Vybráním zachování komponenty zničíš předmět a jakékoliv vylepšení.
@@ -1299,7 +1299,7 @@ tagShrineDesecrated=Znesvěcená svatyně
 tagShrineRuined=Rozbořená svatyně
 tagShrineRestored=Obnovená svatyně
 tagShrineButton01=Obětovat
-tagShrineButton02=Začít
+tagShrineButton02=Vypustit
 tagShrineButton03=Zrušit
 tagShrineButtonInfo=Umísti tuto oběť poblíž svatyně
 tagShrineWarning=Tato svatyně je pouze rozbořená a je potřeba ji obnovit. Chceš umístit tuto obětinu?
