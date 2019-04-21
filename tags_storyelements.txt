@@ -352,7 +352,7 @@ tagPOI012A=Darkvaleská brána
 tagPOI013A=Pevnost Haron
 tagPOI014A=Vstup do krypty
 tagPOI014B=Východ z krypty
-tagPOI015A=Sestuo do Prázdnoty
+tagPOI015A=Sestup do Prázdnoty
 tagPOI015B=Výstup z Prázdnoty
 
 tagPOIFloodedPassageA=Vstup do Zatopeného průchodu
@@ -439,7 +439,7 @@ tagNotification_LostApprenticeCellar=Někdo tady nedávno byl...
 tagNotification_LostApprenticeFound=Někde by tady měla být Kasparova učednice!
 tagNotification_WightmireRiftgate=Z Brány vylézají Aetheriané!
 
-tagNotification_HS_RemoveTheHead_ElsaFound=Zdá se, že Cronley nemá Elsu...
+tagNotification_HS_RemoveTheHead_ElsaFound=Zdá se, že Cronley Elsu nemá...
 tagNotification_HS_SpoilsOfTheGrimDawn=Stará zřícenina byla prohledána do posledního kamínku.
 tagNotification_HS_WeNeedFood_HomesteadBridgeFound=Starý pobřežní most je zničený. Budeš muset najít cestu přes Pašerácký průsmyk.
 tagNotification_HS_WeNeedFood_HomesteadSmugglerPassCrossed=Pašerácký průsmyk máš za sebou. Teď se podívej po cestě do Homesteadu.

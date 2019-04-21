@@ -420,9 +420,9 @@ tagGDX1DravisThrall02=Dravisův posluhovač
 tagGDX1Nemesis_Aetherial01=Arcimág Aleksander
 tagGDX1Nemesis_Aetherial01_Crystal=Aleksandrův střep
 tagGDX1Nemesis_Chthonian01=Grava'Thul, chlemtač Prázdnoty
-tagGDX1Nemesis_Beast01=Kubacabra, Nekonečná hrozba
-tagGDX1Nemesis_Beast01B=Trpělivá Kubacabra
-tagGDX1Nemesis_Beast01C=Houževnatá Kubacabra
+tagGDX1Nemesis_Beast01=Čupakabra, Nekonečná hrozba
+tagGDX1Nemesis_Beast01B=Trpělivá Čupakabra
+tagGDX1Nemesis_Beast01C=Houževnatá Čupakabra
 tagGDX1Nemesis_Wendigo01=Žnec Ztracených
 
 tagGDX1Nemesis_Plant=Zárodek všeho zla

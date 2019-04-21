@@ -55,7 +55,7 @@ tagGDX1WeaponAxeD103=Noční pařát
 tagGDX1WeaponAxeD104=Ostří příčetnosti
 tagGDX1WeaponAxeD104_Desc="Není úplně jisté, zda k nepříčetnosti přivádí své oběti... nebo majitele."
 tagGDX1WeaponAxeD105=Korbin stínač
-tagGDX1WeaponAxeD106=Korbina posedlost
+tagGDX1WeaponAxeD106=Korbinina posedlost
 
 tagGDX1WeaponAxeF101=Čarodějčin sekáček
 tagGDX1WeaponAxeF102=Čarodějčina sekyrka
@@ -80,9 +80,9 @@ tagGDX1WeaponGun1hC108=Ultosův metač bouří
 tagGDX1WeaponGun1hC110=Luminářská tajná zbraň
 
 tagGDX1WeaponGun1hD101=Morguulova smrtelnost
-tagGDX1WeaponGun1hD101_Desc="Mistr Morguul zdokonalil náboje pro tuto střelnou zbraň sloučením nekrotických sil a smrtících toxinů, aby vytvořil tajnou zbraň, která urychluje hnilobu a roklad."
+tagGDX1WeaponGun1hD101_Desc="Mistr Morguul zdokonalil náboje pro tuto střelnou zbraň sloučením nekrotických sil a smrtících toxinů, aby vytvořil tajnou zbraň, která urychluje hnilobu a rozklad."
 tagGDX1WeaponGun1hD102=Anderosův zesilovač
-tagGDX1WeaponGun1hD102_Desc="Příruční zbraň speciálně navržená inkvizitorem Anderosem, aby zvýšil účonnost již tak hrozivého mistrovství s alchymistickými runami."
+tagGDX1WeaponGun1hD102_Desc="Příruční zbraň speciálně navržená inkvizitorem Anderosem, aby zvýšil účinnost již tak hrozivého mistrovství s alchymistickými runami."
 tagGDX1WeaponGun1hD103=Arkánum Elektrolýzum
 tagGDX1WeaponGun1hD103_Desc="Zbraň vyrobená přesně podle zadání mistra Agravixe, Pána Temnot ze Stříbrné věže."
 tagGDX1WeaponGun1hD107=Oharek
@@ -99,7 +99,7 @@ tagGDX1WeaponGun1hD114_Desc="Kdysi to býval hrdý strážce přírody. Nyní na
 tagGDX1WeaponGun1hF101=Čarodějčino ruční dělo
 tagGDX1WeaponGun1hF101_Desc="Lóže čarodějek tuhle zbraň sice napodobila, ale vzhledově se příliš nepovedla."
 tagGDX1WeaponGun1hF102=Čarodějčin jedomet
-tagGDX1WeaponGun1hF102_Desc="Do této zbraně byla vedchnuta zvláštní tajemství, i když vzhledově vypadá dost divně."
+tagGDX1WeaponGun1hF102_Desc="Do této zbraně byla vetknuta zvláštní tajemství, i když vzhledově vypadá dost divně."
 tagGDX1WeaponGun1hF103=Wendigova opakovačka
 tagGDX1WeaponGun1hF104=Šestipal
 
@@ -183,7 +183,7 @@ tagGDX1WeaponCaster1hC103=Ulzaadův průbojník
 tagGDX1WeaponCaster1hC103_Desc="Nebeský dech uvězněný v tomto žezle na věčné časy."
 tagGDX1WeaponCaster1hC104=Vyvolavač magických bouří
 tagGDX1WeaponCaster1hC105=Gar'Dalvurův prst
-tagGDX1WeaponCaster1hC105_Desc="Padlý Gar'Dalvur směl říci svým popravcům pouze jednu jedinou věc."
+tagGDX1WeaponCaster1hC105_Desc="Padlý Gar'Dalvur směl říci svým popravčím pouze jednu jedinou věc."
 tagGDX1WeaponCaster1hC113=Magická čepel zuřivého plamene
 tagGDX1WeaponCaster1hC114=Vyvolavač tornád
 tagGDX1WeaponCaster1hC115=Kráječ Hrůzného chodce
@@ -201,21 +201,21 @@ tagGDX1WeaponCaster1hD106=Chlemtač kouzel
 tagGDX1WeaponCaster1hD106_Desc="Touží to požrat jakékoliv kouzlo, ale jeho účinek se přenese na majitele."
 tagGDX1WeaponCaster1hD113=Pandemie
 tagGDX1WeaponCaster1hD114=Jiskra reality
-tagGDX1WeaponCaster1hD114_Desc="Pohled na tuto zbraň je jako hledět do obrovské propasti - neuvěřitelný a ohhromující."
+tagGDX1WeaponCaster1hD114_Desc="Pohled na tuto zbraň je jako hledět do obrovské propasti - neuvěřitelný a ohromující."
 tagGDX1WeaponCaster1hD115=Hledač ztracených duší
 tagGDX1WeaponCaster1hD116=Allagastův poutač bouří
 tagGDX1WeaponCaster1hD117=Čepel strážce smrti
 tagGDX1WeaponCaster1hD118=Malmouthský dekret
 tagGDX1WeaponCaster1hD118Desc="Tvou mysl zaplavuje vidina padlého Valburského přístavu."
 
-tagGDX1WeaponCaster1hF101=Čarodějčina Aetherická jjskra
+tagGDX1WeaponCaster1hF101=Čarodějčina Aetherická jiskra
 tagGDX1WeaponCaster1hF102=Čarodějčin tahač vnitřností
 tagGDX1WeaponCaster1hF103=Čarodějčin snovač kouzel
 tagGDX1WeaponCaster1hF104=Malmouthský vrhač plamene
 tagGDX1WeaponCaster1hF105=Malmouthský vrhač bouří
 tagGDX1WeaponCaster1hF106=Malmouthský vrhač mrazu
 tagGDX1WeaponCaster1hF107=Wendigův chlemtač krve
-tagGDX1WeaponCaster1hF108=Wendiův spřadač chaosu
+tagGDX1WeaponCaster1hF108=Wendigův spřadač chaosu
 tagGDX1WeaponCaster1hF109=Wendigův spřadač Aetheru
 tagGDX1WeaponCaster1hF110=Čarovný plamen
 tagGDX1WeaponCaster1hF111=Hagarazův spár
@@ -291,7 +291,7 @@ tagGDX1FocusD101_Desc="Předmět ve tvaru kosy jemně zavibruje pokaždé, kdy s
 tagGDX1FocusD102=Nákaza
 tagGDX1FocusD103=Bible ďábelských očí
 tagGDX1FocusD104=Kodex pravdy
-tagGDX1FocusD104_Desc="Empyrionovy posvátné výroky katalogizované Agathiou Agathia Haggar, první Archónkou."
+tagGDX1FocusD104_Desc="Empyrionovy posvátné výroky katalogizované Agathiou Haggar, první Archónkou."
 tagGDX1FocusD105=Ixillořin plamen vášně
 tagGDX1FocusD105_Desc="Nestálý a obtížně ovladatelný chemický plamen. Stačí jediná chyba a plamen se může přenést na nového mistra."
 tagGDX1FocusD111=Farathova kostka
@@ -311,7 +311,7 @@ tagGDX1FocusF106=Malmouthská ďábelská bible
 tagGDX1FocusF107=Wendigova figurka života
 tagGDX1FocusF108=Wendigova figurka mrazu
 tagGDX1FocusF109=Wendigova žíravá figurka
-tagGDX1FocusF110=Malmoutský vyvolavač bouří
+tagGDX1FocusF110=Malmouthský vyvolavač bouří
 
 
 #ItemStyles
@@ -628,10 +628,10 @@ tagGDX1WaistD102=Gladiátorova zvláštnost
 tagGDX1WaistD103=Šňůra vyvolavače duchů
 tagGDX1WaistD103_Desc="Každý zbloudilý duch skončí jako vlákno tohoto opasku."
 tagGDX1WaistD104=Sada zrádných prostředků
-tagGDX1WaistD104_Desc="Šeptá se mezi lidmi, že kdysi tento pás patřil noční lovkyni Nidalle, která mšla každou lahvičku naplněnou speciálním toxinem. Některé z nich je dokonce možné sloučit a vytvářet tak úplně nové kombinace."
+tagGDX1WaistD104_Desc="Šeptá se mezi lidmi, že kdysi tento pás patřil noční lovkyni Nidalle, která měla každou lahvičku naplněnou speciálním toxinem. Některé z nich je dokonce možné sloučit a vytvářet tak úplně nové kombinace."
 tagGDX1WaistD105=Šňůra obelhání
 tagGDX1WaistD106=Beronathovy šupiny
-tagGDX1WaistD106_Desc="Šupiny z velkého netvora Beronathaani ani po mnoha staletích neshnily a evidentně se tak ani dlouze nestane."
+tagGDX1WaistD106_Desc="Šupiny z velkého netvora Beronatha ani po mnoha staletích neshnily a evidentně se tak ani dlouze nestane."
 tagGDX1WaistD113=Zuhelnatělý pás
 tagGDX1WaistD114=Potrhaný pás
 tagGDX1WaistD115=Mstitelův pás
@@ -667,7 +667,7 @@ tagGDX1RingB103=[ms]Gargabolův prsten
 tagGDX1RingB103_Desc="Spalující kroužek je na dotyk bolestivý, ale přesto nevede k nějakému fyzickému poranění."
 
 tagGDX1RingC101=Proklínač
-tagGDX1RingC101_Desc="O tomto skrouceném prstenu se povídá, že svému pánovi přinesl děsivou kletbu, jejíž účinky přetrvávají do dnešních dnů."
+tagGDX1RingC101_Desc="O tomto zkrouceném prstenu se povídá, že svému pánovi přinesl děsivou kletbu, jejíž účinky přetrvávají do dnešních dnů."
 tagGDX1RingC102=Kroužek přízračného chodce
 tagGDX1RingC103=Rotmenderův prsten
 tagGDX1RingC104=Pečeť Praotce Runy
@@ -863,7 +863,7 @@ tagGDX1Blueprint_ComponentA103=Plánek: Pečeť nebes
 tagGDX1Blueprint_ComponentA104=Plánek: Pečeť pohromy
 tagGDX1Blueprint_ComponentA105=Plánek: Pečeť zkaženosti
 tagGDX1Blueprint_ComponentA106=Plánek: Pečeť Prázdnoty
-tagGDX1Blueprint_ComponentA107=Plánek: Pečet noci
+tagGDX1Blueprint_ComponentA107=Plánek: Pečeť noci
 tagGDX1Blueprint_ComponentA108=Plánek: Pečeť zkázy
 tagGDX1Blueprint_ComponentA109=Plánek: Pečeť stínů
 tagGDX1Blueprint_ComponentA110=Plánek: Pečeť ozvěny
@@ -950,7 +950,7 @@ tagGDX1Blueprint_WeaponF106=Plánek: Rychlý plamen
 tagGDX1Blueprint_WeaponF107=Plánek: Čarovný plamen
 tagGDX1Blueprint_WeaponF108=Plánek: Hagarazův spár
 tagGDX1Blueprint_WeaponF109=Plánek: Strážce trestanců
-tagGDX1Blueprint_WeaponF110=Plánek: Malmoutský vyvolavač bouří
+tagGDX1Blueprint_WeaponF110=Plánek: Malmouthský vyvolavač bouří
 
 
 
@@ -991,7 +991,7 @@ tagGDX1Blueprint_ArmorD109=Plánek: Dreegův hlas
 tagGDX1Blueprint_ArmorD110=Plánek: Empyrionovo hledí
 tagGDX1Blueprint_ArmorD113=Plánek: Maska ztracených duší
 tagGDX1Blueprint_ArmorD114=Plánek: Octaviovo hledí
-tagGDX1Blueprint_ArmorD115=Plánek: Korbina kapuce
+tagGDX1Blueprint_ArmorD115=Plánek: Korbiina kapuce
 tagGDX1Blueprint_ArmorD116=Plánek: Šalíř temného plamene
 tagGDX1Blueprint_ArmorD117=Plánek: Hledí metače kouzel
 tagGDX1Blueprint_ArmorD118=Plánek: Kapuce zabijáka čarodějů
@@ -1265,7 +1265,7 @@ tagGDX1EnchantA111A=Prach ze zpeřenky
 tagGDX1EnchantA111Desc="Zpeřenky rostou ve vlhkém prostředí Ugdenbogu a poskytují tak pro Lóži čarodějek vhodnou obživu i materiál pro jejich nástroje."^w^n(použitelné na prsten nebo amulet)
 
 tagGDX1EnchantA112A=Čarodějův kvítek
-tagGDX1EnchantA112Desc="Zdá se, že tato rostlina se v Cairnu objevila zcela nově, pravděpodobně se sem dostala skrze oslabenou bariéru mezi světy, kterými sem proudí i další nestvůry a zvířata. V Lóži čarodějek si však rychle vydobily oblibu pro své zvláštní vlastnosti."^w^n(použitelné na prsten nebo amulet)
+tagGDX1EnchantA112Desc="Zdá se, že tato rostlina se v Cairnu objevila zcela nově, pravděpodobně se sem dostala skrze oslabenou bariéru mezi světy, kterými sem proudí i další nestvůry a zvířata. V Lóži čarodějek si však rychle vydobyly oblibu pro své zvláštní vlastnosti."^w^n(použitelné na prsten nebo amulet)
 
 tagGDX1EnchantA113A=Trn z krvavé růže
 tagGDX1EnchantA113Desc="Rostlina pojmenovaná po sytě červené barvě s mohutnými trny. Drobné píchnutí o tento trn způsobuje silné krvácení a otravu koncentrovaným jedem."^w^n(použitelné na prsten nebo amulet)
@@ -1316,50 +1316,50 @@ tagGDX1EnchantA128A=Osten z kolosa
 tagGDX1EnchantA128Desc="Aetherianští kolosové nejsou nic, z čeho bychom si sedli na zadek, ale i zabití jednoho z nich představuje dostatek materiálu na vytvoření si zásob na několik měsíců."^w^n(použitelné na prsten nebo amulet)
 
 tagGDX1EnchantA129A=Prach z wendigovy srsti
-tagGDX1EnchantA129Desc="Prach je vyextrahovaný z chlupů wendigovy srsti jako dar od Pustošitele."^w^n(použitelné na všechny jednoduční zbraně, štít nebo kouzelnický příruční předmět)
+tagGDX1EnchantA129Desc="Prach je vyextrahovaný z chlupů wendigovy srsti jako dar od Pustošitele."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
 
 tagGDX1EnchantA130A=Silný prach z wendigovy srsti
 tagGDX1EnchantA130Desc="Prach je vyextrahovaný z chlupů wendigovy srsti jako dar od Pustošitele."^w^n(použitelné na všechny obouruční zbraně)
 
 tagGDX1EnchantA131A=Prach z krvošupinatce
-tagGDX1EnchantA131Desc="Prach vyextrahovaný z šupin krvošupinatců, jež se občas ukážou na území Ugdenbogu."^w^n(použitelné na všechny jednoduční zbraně, štít nebo kouzelnický příruční předmět)
+tagGDX1EnchantA131Desc="Prach vyextrahovaný z šupin krvošupinatců, jež se občas ukážou na území Ugdenbogu."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
 
 tagGDX1EnchantA132A=Silný prach z krvošupinatce
 tagGDX1EnchantA132Desc="Prach vyextrahovaný z šupin krvošupinatců, jež se občas ukážou na území Ugdenbogu."^w^n(použitelné na všechny obouruční zbraně)
 
 tagGDX1EnchantA133A=Prach z ostnaté lastury
-tagGDX1EnchantA133Desc="Prach je vyextrahovaný z tvrdého krunýře ugdenských korýšů. Abychom získali takto jemný prášek, tak rozbití krunýře zabere mnoho hodin a chce to obrovskou sílu."^w^n(použitelné na všechny jednoduční zbraně, štít nebo kouzelnický příruční předmět)
+tagGDX1EnchantA133Desc="Prach je vyextrahovaný z tvrdého krunýře ugdenských korýšů. Abychom získali takto jemný prášek, tak rozbití krunýře zabere mnoho hodin a chce to obrovskou sílu."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
 
 tagGDX1EnchantA134A=Silný prach z ostnaté lastury
 tagGDX1EnchantA134Desc="Prach je vyextrahovaný z tvrdého krunýře ugdenských korýšů. Abychom získali takto jemný prášek, tak rozbití krunýře zabere mnoho hodin a chce to obrovskou sílu."^w^n(použitelné na všechny obouruční zbraně)
 
 tagGDX1EnchantA135A=Strašidelný prach
-tagGDX1EnchantA135Desc="Prášek trousí strašidelná zjevení, která jsou sem tam spatřena v okolí Ugdenbogu."^w^n(použitelné na všechny jednoduční zbraně, štít nebo kouzelnický příruční předmět)
+tagGDX1EnchantA135Desc="Prášek trousí strašidelná zjevení, která jsou sem tam spatřena v okolí Ugdenbogu."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
 
 tagGDX1EnchantA136A=Silný strašidelný prach
 tagGDX1EnchantA136Desc="Prášek trousí strašidelná zjevení, která jsou sem tam spatřena v okolí Ugdenbogu."^w^n(použitelné na všechny obouruční zbraně)
 
 
 tagGDX1EnchantB101A=Důvtip čarodějky
-tagGDX1EnchantB101Desc="Speciální kouzelnický prach vyrobený Lóží čarodějek, aby umocnil jejich temné umění."^w^n(použitelné na všechny jednoduční zbraně, štít nebo kouzelnický příruční předmět)
+tagGDX1EnchantB101Desc="Speciální kouzelnický prach vyrobený Lóží čarodějek, aby umocnil jejich temné umění."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
 
 tagGDX1EnchantB102A=Silný důvtip čarodějky
 tagGDX1EnchantB102Desc="Speciální kouzelnický prach vyrobený Lóží čarodějek, aby umocnil jejich temné umění."^w^n(použitelné na všechny obouruční zbraně)
 
 tagGDX1EnchantB103A=Záludnost čarodějek
-tagGDX1EnchantB103Desc="Speciální kouzelnický prášek vyrobený Lóží čarodějek, aby zbystřil jejich smysly."^w^n(použitelné na všechny jednoduční zbraně, štít nebo kouzelnický příruční předmět)
+tagGDX1EnchantB103Desc="Speciální kouzelnický prášek vyrobený Lóží čarodějek, aby zbystřil jejich smysly."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
 
 tagGDX1EnchantB104A=Silná záludnost čarodějek
 tagGDX1EnchantB104Desc="Speciální kouzelnický prášek vyrobený Lóží čarodějek, aby zbystřil jejich smysly."^w^n(použitelné na všechny obouruční zbraně)
 
 tagGDX1EnchantB105A=Zděšení čarodějky
-tagGDX1EnchantB105Desc="Specifický jed, kterým čarodějové z Lóže ovlivňují mysl svých nepřátel pomocí děsivých vidin."^w^n(použitelné na všechny jednoduční zbraně, štít nebo kouzelnický příruční předmět)
+tagGDX1EnchantB105Desc="Specifický jed, kterým čarodějové z Lóže ovlivňují mysl svých nepřátel pomocí děsivých vidin."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
 
 tagGDX1EnchantB106A=Silné zděšení čarodějky
 tagGDX1EnchantB106Desc="Specifický jed, kterým čarodějové z Lóže ovlivňují mysl svých nepřátel pomocí děsivých vidin."^w^n(použitelné na všechny obouruční zbraně)
 
 tagGDX1EnchantB107A=Zhouba čarodějek
-tagGDX1EnchantB107Desc="Odporný toxin vytažený z různých ugdenských rostlin a smíchaný pomocí magie čarodějek, aby byly umocněny jeho účinky."^w^n(použitelné na všechny jednoduční zbraně, štít nebo kouzelnický příruční předmět)
+tagGDX1EnchantB107Desc="Odporný toxin vytažený z různých ugdenských rostlin a smíchaný pomocí magie čarodějek, aby byly umocněny jeho účinky."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
 
 tagGDX1EnchantB108A=Silná zhouba čarodějek
 tagGDX1EnchantB108Desc="Odporný toxin vytažený z různých ugdenských rostlin a smíchaný pomocí magie čarodějek, aby byly umocněny jeho účinky."^w^n(použitelné na všechny obouruční zbraně)
@@ -1386,25 +1386,25 @@ tagGDX1EnchantB115A=Srdce Ugdenbogu
 tagGDX1EnchantB115Desc="Silné očarování vyrobené z kamenného srdce nejsilnějšího Ugdenského golema."^w^n(použitelné na prsten nebo amulet)
 
 tagGDX1EnchantB116A=Malmouthské vykoupení
-tagGDX1EnchantB116Desc="Silné očarování vyrobené přeživšími v Malmouthu ke své obraně proti Aetherianům."^w^n(použitelné na všechny jednoduční zbraně, štít nebo kouzelnický příruční předmět)
+tagGDX1EnchantB116Desc="Silné očarování vyrobené přeživšími v Malmouthu ke své obraně proti Aetherianům."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
 
-tagGDX1EnchantB117A=Silné malmouthské vykoupení
+tagGDX1EnchantB117A=Silné Malmouthské vykoupení
 tagGDX1EnchantB117Desc="Silné očarování vyrobené přeživšími v Malmouthu ke své obraně proti Aetherianům."^w^n(použitelné na všechny obouruční zbraně)
 
 tagGDX1EnchantB118A=Malmouthská vůle
-tagGDX1EnchantB118Desc="Silné očarování vytvořené Malmouthskými kováři k posílení jejich švihu ruky, ale stejně dobře poslouží i v bitvě."^w^n(použitelné na všechny jednoduční zbraně, štít nebo kouzelnický příruční předmět)
+tagGDX1EnchantB118Desc="Silné očarování vytvořené Malmouthskými kováři k posílení jejich švihu ruky, ale stejně dobře poslouží i v bitvě."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
 
 tagGDX1EnchantB119A=Silná malmouthská vůle
 tagGDX1EnchantB119Desc="Silné očarování vytvořené Malmouthskými kováři k posílení jejich švihu ruky, ale stejně dobře poslouží i v bitvě."^w^n(použitelné na všechny obouruční zbraně)
 
 tagGDX1EnchantB120A=Malmouthská duše
-tagGDX1EnchantB120Desc="Posilující prach, který lidem vštěpuje železnou vůli."^w^n(použitelné na všechny jednoduční zbraně, štít nebo kouzelnický příruční předmět)
+tagGDX1EnchantB120Desc="Posilující prach, který lidem vštěpuje železnou vůli."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
 
 tagGDX1EnchantB121A=Silná malmouthská duše
 tagGDX1EnchantB121Desc="Posilující prach, který lidem vštěpuje železnou vůli."^w^n(použitelné na všechny obouruční zbraně)
 
 tagGDX1EnchantB122A=Malmouthské srdce
-tagGDX1EnchantB122Desc="Překvapivě silný prášek vyrobený ze zoufalství během prvního útoku na Malmouth. Ačkoliv využívá Aether, může se stát zkázou lidstva, ale prozatím mu dobře slouží."^w^n(použitelné na všechny jednoduční zbraně, štít nebo kouzelnický příruční předmět)
+tagGDX1EnchantB122Desc="Překvapivě silný prášek vyrobený ze zoufalství během prvního útoku na Malmouth. Ačkoliv využívá Aether, může se stát zkázou lidstva, ale prozatím mu dobře slouží."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
 
 tagGDX1EnchantB123A=Silné malmouthské srdce
 tagGDX1EnchantB123Desc="Překvapivě silný prášek vyrobený ze zoufalství během prvního útoku na Malmouth. Ačkoliv využívá Aether, může se stát zkázou lidstva, ale prozatím mu dobře slouží."^w^n(použitelné na všechny obouruční zbraně)
@@ -1422,7 +1422,7 @@ tagGDX1EnchantB127A=Prach z tajfunu
 tagGDX1EnchantB127Desc="Síla zničujícího tajfunu je chycena do hrstky kouzelnického prášku."^w^n(použitelné na prsten nebo amulet)
 
 tagGDX1EnchantB128A=Kovářský oheň
-tagGDX1EnchantB128Desc="Oblíbený Malmoutský kovář tento prach často používal k rychlejšími rozdmýchání plamenů, ale také dobře slouží jako vylepšení."^w^n(použitelné na prsten nebo amulet)
+tagGDX1EnchantB128Desc="Oblíbený Malmouthský kovář tento prach často používal k rychlejšími rozdmýchání plamenů, ale také dobře slouží jako vylepšení."^w^n(použitelné na prsten nebo amulet)
 
 tagGDX1EnchantB129A=Střevní jed
 tagGDX1EnchantB129Desc="Smrtící jed vyrobený Nočními čepelemi. Mnoho potřebných materiálů je možné sehnat pouze v Malmouthu."^w^n(použitelné na prsten nebo amulet)
@@ -1431,19 +1431,19 @@ tagGDX1EnchantB130A=Prach nesoucí tajemství
 tagGDX1EnchantB130Desc="Speciálně extrahovaný pro  Gildam Arcanum. Slouží k posílení skrytých vlastností uživatele."^w^n(použitelné na prsten nebo amulet)
 
 tagGDX1EnchantB131A=Sklizeň Pustošitele
-tagGDX1EnchantB131Desc="Pustošitelem propůjčený dar svým prokletým uctívačům. Vštípí ti neukojitelný hlad."^w^n(použitelné na všechny jednoduční zbraně, štít nebo kouzelnický příruční předmět)
+tagGDX1EnchantB131Desc="Pustošitelem propůjčený dar svým prokletým uctívačům. Vštípí ti neukojitelný hlad."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
 
 tagGDX1EnchantB132A=Bohatá sklizeň Pustošitele
 tagGDX1EnchantB132Desc="Pustošitelem propůjčený dar svým prokletým uctívačům. Vštípí ti neukojitelný hlad."^w^n(použitelné na všechny obouruční zbraně)
 
 tagGDX1EnchantB133A=Oko Pustošitele
-tagGDX1EnchantB133Desc="Pustošitelem propůjčený dar svým prokletým uctívačům. Vdechne ti nepřekonatelnou věrnost."^w^n(použitelné na všechny jednoduční zbraně, štít nebo kouzelnický příruční předmět)
+tagGDX1EnchantB133Desc="Pustošitelem propůjčený dar svým prokletým uctívačům. Vdechne ti nepřekonatelnou věrnost."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
 
 tagGDX1EnchantB134A=Vševidoucí oko Pustošitele
 tagGDX1EnchantB134Desc="Pustošitelem propůjčený dar svým prokletým uctívačům. Vdechne ti nepřekonatelnou věrnost."^w^n(použitelné na všechny obouruční zbraně)
 
 tagGDX1EnchantB135A=Vztek Pustošitele
-tagGDX1EnchantB135Desc="Pustošitelem propůjčený dar svým prokletým uctívačům. Vyvolává nekontrolovatelný vztek."^w^n(použitelné na všechny jednoduční zbraně, štít nebo kouzelnický příruční předmět)
+tagGDX1EnchantB135Desc="Pustošitelem propůjčený dar svým prokletým uctívačům. Vyvolává nekontrolovatelný vztek."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
 
 tagGDX1EnchantB136A=Silný vztek Pustošitele
 tagGDX1EnchantB136Desc="Pustošitelem propůjčený dar svým prokletým uctívačům. Vyvolává nekontrolovatelný vztek."^w^n(použitelné na všechny obouruční zbraně)
@@ -1497,7 +1497,7 @@ tagGDX1CompA105Desc="Ačkoliv historie již dávno zapomněla na jméno tvůrce 
 tagGDX1CompA106Name=Pečeť Prázdnoty
 tagGDX1CompA106Desc="Vytvoření této pečeti vyžadovalo obrovskou dávku sebezapření. Ti, kteří bádali nad jejím využitím, jsou považování za obzvláště mocné a zkažené."^w^n(může vylepšit všechny druhy zbraní, štít nebo kouzelnický příruční předmět)
 
-tagGDX1CompA107Name=Pečet noci
+tagGDX1CompA107Name=Pečeť noci
 tagGDX1CompA107Desc="Pečeť navrhla noční lovkyně Amarasta jako průpravu na obzvláště nepolapitelné cíle."^w^n(může vylepšit všechny druhy zbraní, štít nebo kouzelnický příruční předmět)
 
 tagGDX1CompA108Name=Pečeť zkázy
@@ -1516,7 +1516,7 @@ tagGDX1CompA112Name=Planoucí rubín
 tagGDX1CompA112Desc="Na vyleštěných ploškách drahokamu tančí oslnivý plamen."^w^n(může vylepšit amulet nebo medaili)
 
 tagGDX1CompA113Name=Runami svázaný topas
-tagGDX1CompA113Desc="Runa zdobící strany totoho drahokamu umocňuje tak jeho ochranné vlastnosti."^w^n(může vylepšit prsten, amulet nebo medaili)
+tagGDX1CompA113Desc="Runa zdobící strany tohoto drahokamu umocňuje tak jeho ochranné vlastnosti."^w^n(může vylepšit prsten, amulet nebo medaili)
 
 tagGDX1CompA114Name=Krvavý krystal
 tagGDX1CompA114Desc="Kdysi perleťově bílý krystal pohltil nevyslovitelné krveprolití."^w^n(může vylepšit prsten, amulet nebo medaili)
@@ -1528,7 +1528,7 @@ tagGDX1CompA116Name=Kouzlem sežehlé plátování
 tagGDX1CompA116Desc="Zbytky zbroje která přečkala  tajemný smrtící útok magických energií, které se zakously do kusů kovu."^w^n(může vylepšit všechny druhy zbroje)
 
 tagGDX1CompA117Name=Ostnaté plátování
-tagGDX1CompA117Desc="Zbroj pokrytá řadami smrtících ostrnů. Oblíbené zejména mezi zbojníky a bezohlednými tyrany."^w^n(může vylepšit všechny druhy zbroje)
+tagGDX1CompA117Desc="Zbroj pokrytá řadami smrtících ostnů. Oblíbené zejména mezi zbojníky a bezohlednými tyrany."^w^n(může vylepšit všechny druhy zbroje)
 
 tagGDX1CompA118Name=Ugdenská useň
 tagGDX1CompA118Desc="Kůže z příšer žijících v oblasti známé jako Ugdenbog. Smrtící vlastnosti močálů zplodily jedny z nejnebezpečnějších stvoření, které kdy v Cairnu žily."^w^n(může vylepšit všechny druhy zbroje)
@@ -1588,7 +1588,7 @@ tagGDX1ItemSetC101Desc="Duchové se podvolí tvé vůli."
 
 tagGDX1ItemSetC102Name=Stříbrný strážce
 tagGDX1ItemSetC102BName=Stříbrná hlídka
-tagGDX1ItemSetC102Desc="Stříbrní srážci, sami chráněni vůči magii, neustále dohlíželi na císařský trůn a měli se na pozoru před okultními hrozbami."
+tagGDX1ItemSetC102Desc="Stříbrní strážci, sami chráněni vůči magii, neustále dohlíželi na císařský trůn a měli se na pozoru před okultními hrozbami."
 
 tagGDX1ItemSetC103Name=Požárník
 tagGDX1ItemSetC103Desc="Tvé srdce je jak žhavý popel, neuhasitelné a stále lačnící po ničení."
@@ -1656,7 +1656,7 @@ tagGDX1ItemSetD113Name=Runotepec
 tagGDX1ItemSetD113Desc="Ochranná zbroj runotepce Talliose, prvního správce Luminářské pokladnice."
 
 tagGDX1ItemSetD114Name=Uroboruukova pravá tvář
-tagGDX1ItemSetD114Desc="Roucho nesmtelného nekromanta Uroboruuka z doby, kdy pobýval v Arkovii; je to sice hodně stará historie, ale stále plné skrytého potenciálu."
+tagGDX1ItemSetD114Desc="Roucho nesmrtelného nekromanta Uroboruuka z doby, kdy pobýval v Arkovii; je to sice hodně stará historie, ale stále plné skrytého potenciálu."
 
 tagGDX1ItemSetD115Name=Allagastův mistrovský kousek
 tagGDX1ItemSetD115Desc="Mistr Allagast byl velmi blízký spojenec Luminářů, který přispěl velkým zájmem o studium a odhalení tajemství jejich artefaktů."
@@ -1868,7 +1868,7 @@ tagGDX1DoorLighthouse=Vstup do majáku
 tagGDX1CarraxusDoor=Carraxovo doupě
 
 tagGDX1DoorOneWayAncientGrove=Útěk z Háje
-tagGDX1EpicDoor_AncientGrove=Starodává brána do Háje
+tagGDX1EpicDoor_AncientGrove=Starodávná brána do Háje
 tagGDX1EpicDoor_AncientGroveLocked= {^R} ~ střeženo Mogdrogenem (potřebuješ univerzální klíč)
 
 #Doors
