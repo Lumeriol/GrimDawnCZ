@@ -545,7 +545,7 @@ tagNPC_Homestead_28=Hiram
 tagNPC_Homestead_29=Kalderos
 tagNPC_Homestead_30=Balvoruuk
 
-tagNPC_AreaC_01=Lysell ~ mistr průzkumníků
+tagNPC_AreaC_01=Lysell ~ velitel zvědů
 tagNPC_AreaC_02=Douglass Sullivan Oldbarrow
 tagNPC_AreaC_03=Myla Finegan
 tagNPC_AreaC_04=Inkvizitor Creed
@@ -733,8 +733,8 @@ tagQuestItemExileBossDrop_03Desc="Úlomek obsidiánu pulzuje temnou silou."
 tagQuestItemExileBossDrop_04=Tesák lovce kostí
 tagQuestItemExileBossDrop_04Desc=Tesák Kalis Ka, padlé Beronathovy příšery. Můžeš jej vyměnit za slušnou cenu u nějakého obchodníka, nebo třeba donést nevyzpytatelné čarodějnici.
 
-tagQuestItemBlackLegionInsignia=Odznak Černé legie
-tagQuestItemBlackLegionInsignia_Desc="Udělovaný jako hodnost za věrnou službu."
+tagQuestItemBlackLegionInsignia=Vojenská známka Černé legie
+tagQuestItemBlackLegionInsignia_Desc="Udělovaná za věrnou službu Legii."
 
 tagQuestItemCultistNecropolisNote=Karrozův tlustopis
 tagQuestItemCultistNecropolisNote_Desc="Kniha je popsána temnými rituály, které líčí návrat velké temnoty z Pohřebiště."

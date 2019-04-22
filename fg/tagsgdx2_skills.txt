@@ -37,7 +37,7 @@ tagGDX2Class09SkillName02D=Dreegova výtka
 tagGDX2Class09SkillDescription02D=Tvé motlitby se staly zvrácenými a temnými, tvůj zápal je poháněn mysl zbavujícím šepotem Dreega.
 
 tagGDX2Class09SkillName03A=Rozsudek
-tagGDX2Class09SkillDescription03A=Přísežníci jsou fanatičtí vymahači nebeského rozhodnutí. are the zealous enforcers of celestial judgment. Jejich vůlí jsou pohanští nepřátelé předvedeni, aby mohl být vynesen jejich konečný rozsudek.
+tagGDX2Class09SkillDescription03A=Přísežníci jsou fanatičtí vymahači nebeského rozhodnutí. Jejich vůlí jsou pohanští nepřátelé předvedeni, aby mohl být vynesen jejich konečný rozsudek.
 tagGDX2Class09SkillName03B=Drtící výrok
 tagGDX2Class09SkillDescription03B=Odsouzení nepřátelé si uvědomí, že je jejich vůle zlomená a osud zpečetěn.
 tagGDX2Class09SkillName03C=Rozzuřené srdce
@@ -60,7 +60,7 @@ tagGDX2Class09SkillName05C=Pokárání
 tagGDX2Class09SkillDescription05C=Srdce Přísežníků a jejich spojenců jsou zaplavena právoplatnou zlobou.
 
 tagGDX2Class09SkillName06A=Vzestup
-tagGDX2Class09SkillDescription06A=Skrze hluboké soustředění a neoblomnou víru mohou Přísežníci prožít, byť jen na krátký čas, část božství v nich. This guiding light offers solace in trying times, a taste of a god's true might.
+tagGDX2Class09SkillDescription06A=Skrze hluboké soustředění a neoblomnou víru mohou Přísežníci prožít, byť jen na krátký čas, část svého božství. Toto vůdčí světlo jim nabízí útěchu v těžkých časech a chuť skutečné božské moci.
 tagGDX2Class09SkillName06B=Jasný účel
 tagGDX2Class09SkillDescription06B=Jak je hnán chutí zničit své protivníky bez zaváhání, stává se Přísežník ztělesněním nebeské zloby.
 
@@ -71,9 +71,9 @@ tagGDX2Class09SkillDescription07B=Díky ohni spravedlnosti, který plane v Pří
 
 tagGDX2Class09SkillName08A=Vyvolání Empyrionova Strážce
 tagGDX1Class09SkillTracker08A=Momentální počet vyvolaných Strážců
-tagGDX2Class09SkillDescription08A=Přivolej Empyrionova věrného služebníka, aby se prosekal skrze tvé nepřátele a ukázal tak, jak vypadá nebeský rozsudek. ^oHvězdný strážce sílí spolu s bonusy hráče.
+tagGDX2Class09SkillDescription08A=Přivolej Empyrionova věrného služebníka, aby se prosekal skrze tvé nepřátele a ukázal tak, jak vypadá nebeský rozsudek. ^oHvězdný strážce sílí spolu s bonusy postavy.
 tagGDX2Class09SkillName08B=Hvězdná přítomnost
-tagGDX2Class09SkillDescription08B=Už jen přítomost Strářce spaluje duše pohanských nepřátel.
+tagGDX2Class09SkillDescription08B=Už jen přítomost Strážce spaluje duše pohanských nepřátel.
 tagGDX2Class09SkillName08C=Dreegův potomek
 tagGDX2Class09SkillDescription08C=Hvězdný strážce, poskvrněný pohledem Dreega, se stal hnilobnou a jedovatou ratolestí, pravým opakem bohů, kterým slouží.
 tagGDX2Class09SkillName08A_PetSkillA=Empyrionovo rozštípnutí

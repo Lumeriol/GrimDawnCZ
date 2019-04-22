@@ -1322,10 +1322,10 @@ tagGDX1EnchantA130A=Silný prach z wendigovy srsti
 tagGDX1EnchantA130Desc="Prach je vyextrahovaný z chlupů wendigovy srsti jako dar od Pustošitele."^w^n(použitelné na všechny obouruční zbraně)
 
 tagGDX1EnchantA131A=Prach z krvošupinatce
-tagGDX1EnchantA131Desc="Prach vyextrahovaný z šupin krvošupinatců, jež se občas ukážou na území Ugdenbogu."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
+tagGDX1EnchantA131Desc="Prach vyextrahovaný ze šupin krvošupinatců, jež se občas ukážou na území Ugdenbogu."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
 
 tagGDX1EnchantA132A=Silný prach z krvošupinatce
-tagGDX1EnchantA132Desc="Prach vyextrahovaný z šupin krvošupinatců, jež se občas ukážou na území Ugdenbogu."^w^n(použitelné na všechny obouruční zbraně)
+tagGDX1EnchantA132Desc="Prach vyextrahovaný ze šupin krvošupinatců, jež se občas ukážou na území Ugdenbogu."^w^n(použitelné na všechny obouruční zbraně)
 
 tagGDX1EnchantA133A=Prach z ostnaté lastury
 tagGDX1EnchantA133Desc="Prach je vyextrahovaný z tvrdého krunýře ugdenských korýšů. Abychom získali takto jemný prášek, tak rozbití krunýře zabere mnoho hodin a chce to obrovskou sílu."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)

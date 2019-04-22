@@ -1528,7 +1528,7 @@ tagFeetC013=Mudrcovy kouzelné boty
 tagFeetC014=Pohorky mocného čaroděje
 
 tagFeetD001=Pohorky z mláděte golema
-tagFeetD002=Chrániče nohou z šupin wyrma
+tagFeetD002=Chrániče nohou ze šupin wyrma
 tagFeetD002Desc="Získávání wyrmových šupin je tak nebezpečné, že se stěží poštěstí je dát na nějaký šrot, tím spíš na kus zbroje. Tyto boty byly pravděpodobně symbolem společenského postavení velmi bohatého šlechtice."
 tagFeetD003=Pohorky s jedovatými ostny
 tagFeetD003Desc="Z ostnů odkapává jed několika různých druhů pavouků a hadů."
@@ -4115,9 +4115,9 @@ tagAutoSkillCondition06= ({%d0}% šance při kouzlení zlepšujícího kouzla)
 tagAutoSkillCondition07= ({%d0}% šance při útoku)
 tagAutoSkillCondition08= (aktivní, pokud je nasazeno)
 tagAutoSkillCondition09= ({%d0}% šance při zásahu kritickým úderem)
-tagAutoSkillCondition10= ({%d0}% šance na kritický úder)
-tagAutoSkillCondition11= ({%d0}% šance na vykrytí)
-tagAutoSkillCondition12= ({%d0}% šance na smrt nepřítele)
+tagAutoSkillCondition10= ({%d0}% šance při kritickém zásahu)
+tagAutoSkillCondition11= ({%d0}% šance při vykrytí)
+tagAutoSkillCondition12= ({%d0}% šance při smrti nepřítele)
 
 #LootChests
 
