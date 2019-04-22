@@ -465,7 +465,7 @@ tagGDX1ItemSkillD163Name=Kamenná ochrana
 tagGDX1ItemSkillD163Desc=Fyzická bariéra tě ochrání před zraněními.
 
 tagGDX1ItemSkillD164Name=Kamenná obrana
-tagGDX1ItemSkillD164Desc=Kamenná obrana zesílí tvoji kůži proti fyzickým úderům a začneš to oplácíš těm, kteří se tě pokusí zranit.
+tagGDX1ItemSkillD164Desc=Kamenná obrana zesílí tvoji kůži proti fyzickým úderům a začneš to oplácet těm, kteří se tě pokusí zranit.
 
 tagGDX1ItemSkillD165Name=Střelcova ochrana
 tagGDX1ItemSkillD165Desc=Nejlepší obrana a útok leží na konci bubínku. ^oToto je pasivní bonus pro jednoruční střelné zbraně.
