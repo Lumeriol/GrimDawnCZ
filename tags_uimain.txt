@@ -181,7 +181,7 @@ tagGameplayDesc27=Pokud je povolena dovednost "Přesun k", může být využita 
 tagGameplayDesc28=Přizpůsobí druh kořisti, která se bude automaticky zobrazovat.
 tagGameplayDesc29=Touto volbou vrátíš systém kouzel a kouzlení tak, jako bylo v původním Grim Dawn, který nezaměří nepřátele, jež odejdou z dosahu kouzla.{^n}Nový systém kouzel (pokud nezaškrtneš toto pole) odpovídá reálnějšímu chování kouzel.{^n}(Tato možnost je dostupná pouze pokud používáš klávesnici a myš)
 tagGameplayDesc30=Povolí chybové textové zprávičky, např. když dovednost ještě nelze použít kvůli prodlevě.
-tagGameplayDesc31=Zaškrtnutím se vždy zaměříš na vybraný cíl a půjdeš k němu.{^n}Odškrtnutím se při pohybu nebudeš zaměřovat na vybraný cíl.
+tagGameplayDesc31=Pokud používáš herní ovladač, zaškrtnutím se tvá pohybová dovednost (např. Virova moc v povolání Přísežník) zaměří na vybraný cíl.{^n}Odškrtnutím se při pohybu nebudeš zaměřovat na vybraný cíl, naopak se od něj co nejvíce vzdálíš.
 tagDownloadLanguages=Stáhnout jazyk
 tagDownloadConnecting=Počkej prosím...
 tagLanguageSuccess=Stažení dokončeno, teď restartuj hru, aby byl jazyk dostupný.
@@ -610,3 +610,8 @@ tagImportToSteamCloud=Máš povolené ukládání do Steam cloudu. Chceš stáhn
 tagResetCloudWarning=Opravdu chceš smazat všechny postavy a data uložená v cloudovém uložišti?
 tagDownloadCloudWarning=Opravdu chceš stáhnout uložené pozice z cloudového uložiště? Lokálně uložené postavy a data budou přepsány!
 tagWorking=Zpracovávám požadavky...
+
+# Onscreen Keyboard
+tagOnscreenKeyboardBackspace=Delete
+tagOnscreenKeyboardCaps=Caps Lock
+tagOnscreenKeyboardReturn=Enter

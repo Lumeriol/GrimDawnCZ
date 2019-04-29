@@ -60,7 +60,12 @@ tagGDX2EndlessDungeon_S202=Halapartna z vybledlé kosti
 tagGDX2EndlessDungeon_NPC_Event01=Mazaan, strážce portálů
 
 tagGDX2EndlessDungeon_NPC_Merchant01=Ullana
-tagGDX2EndlessDungeon_StoreTitle_Merchant01=Nesmrtelný zlodějíček
+tagGDX2EndlessDungeon_ StoreTitle_Merchant01=Pokřivený zlodějíček
+tagGDX2EndlessDungeon_ StoreTitle_Merchant02=Pokřivený zeman
+tagGDX2EndlessDungeon_ StoreTitle_Merchant03=Pokřivený rytíř
+tagGDX2EndlessDungeon_ StoreTitle_Merchant04=Pokřivený lord
+tagGDX2EndlessDungeon_ StoreTitle_Merchant05=Pokřivený strážce
+
 
 tagGDX2EndlessDungeon_NPC_Smith01=Ikarrod
 tagGDX2EndlessDungeon_StoreTitle_Smith01=Prokletý kovář

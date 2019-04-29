@@ -1773,6 +1773,8 @@ tagGamePadMap=Mapa
 tagGamePadFactions=Frakce
 tagGamePadAchieve=Úspěchy
 tagGamePadLootFilter=Filtr kořisti
+tagGamePadDevotionSearch=Hledat
+tagGamePadMinimapSize=Mini mapa
 
 tagControllerUIWarning=Současné nastavení monitoru neumožňuje použít rozhraní ovladače.
 
@@ -2202,6 +2204,7 @@ tagDamageModifierCritDamageR={%+.0f0}-{%.0f1}% {^E}kritického zranění
 tagDamageModifierDamageMult={^H}{%.0f0}% {^E}celkového zranění
 tagRetaliationModifierTotalDamage={%+.0f0}% {^E}ke všem zraněním odplatou
 tagRetaliationModifierTotalDamageR={%+.0f0}-{%.0f1}% {^E}ke všem zraněním odplatou
+tagRetaliationModifierDamageMult={^E}Celkové zranění odplatou je změněno o {^H}{%.0f0} %
 tagTotalSpeedResistance={%.0f0}% {^E}odolnost vůči zpomalení
 tagTotalSpeedResistanceR={%+.0f0}-{%.0f1}% {^E}odolnost vůči zpomalení
 tagMindcontrolledMonster=Ovládaný myšlenkami

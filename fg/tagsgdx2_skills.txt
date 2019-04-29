@@ -148,6 +148,9 @@ tagGDX2ItemSkillD210Desc=Zaplav svůj cíl mohutným paprskem spalujícího ohn�
 tagGDX2ItemSkillD211Name=Spektrální strážce
 tagGDX2ItemSkillD211Desc=Sražení na kolena tě naplňuje pružností a zuřivostí ducha.
 
+tagGDX2ItemSkillD211BName=Corrupted Guard
+tagGDX2ItemSkillD211BDesc=Being brought low fills you with corrupted resilience and fury.
+
 tagGDX2ItemSkillD212Name=Změnit osud
 tagGDX2ItemSkillD212Desc=Znovu splést vlákna osudu znamená odčinit nedávná poranění.
 
@@ -242,6 +245,9 @@ tagGDX2ItemSkillD239Desc=Pod svými nepřáteli zapálíš samotnou zem.
 
 tagGDX2ItemSkillD240Name=Bysmielin příkaz
 tagGDX2ItemSkillD240Desc=Ukaž svoji autoritu nohsledům, čímž posílíš a povzbudíš sebe i své spojence.
+
+tagGDX2ItemSkillD241Name=Bitter Winds
+tagGDX2ItemSkillD241Desc=A rush of bitter winds erupts from you, chilling nearby foes to the bone.
 
 
 #Component Skills

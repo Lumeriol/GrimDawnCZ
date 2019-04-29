@@ -66,7 +66,7 @@ tagGDX1Class07SkillName03D=Slovo vyzbrojení
 tagGDX1Class07SkillDescription03D=Díky šíření své vůle skrze masivní obouruční zbraně mohou inkvizitoři zasadit další runy do své výbavy a používat tak Obnovující slovo s větší kadencí. ^oVyžaduje obouruční chladnou nebo obouruční střelnou zbraň.
 
 tagGDX1Class07SkillName04A=Ignaffarovy plameny
-tagGDX1Class07SkillDescription04A=Podržíš Ignaffarův kámen před sebou a můžeš tak chrlit plameny ze své dlaně po celou dobu, kdy bude tvá mysl propojená s relikvií.^oToto je vedená dovednost a musí být stisknuta, aby byla aktivována. ^oPři 100% rychlosti kouzlení spalují Ignaffarovy plameny magickou energii a vysávají ji každé 0.3 sekundy.
+tagGDX1Class07SkillDescription04A=Podržíš Ignaffarův kámen před sebou a můžeš tak chrlit plameny ze své dlaně po celou dobu, kdy bude tvá mysl propojená s relikvií. ^oJedná se o průběžnou dovednost, která musí být udržována, aby účinkovala. ^oPři 100% rychlosti kouzlení spalují Ignaffarovy plameny magickou energii a vysávají ji každé 0.3 sekundy.
 tagGDX1Class07SkillName04B=Zesílení
 tagGDX1Class07SkillDescription04B=Ignaffarovy plameny sílí, propalují zbroj a na popel spálí tkáně.
 tagGDX1Class07SkillName04C=Pekelná čistka
@@ -309,7 +309,7 @@ tagGDX1ItemSkillD111Name=Pohled stvůry
 tagGDX1ItemSkillD111Desc=Pohled stvůry se soustředí na tvé nepřátele a pálí jejich duše.
 
 tagGDX1ItemSkillD112Name=Ohnivé pole
-tagGDX1ItemSkillD112Desc=Budeš spalovat zemi, po které chodíš.
+tagGDX1ItemSkillD112Desc=Začneš spalovat zemi, kde stojí tvoji nepřátelé.
 
 tagGDX1ItemSkillD113Name=Světlo pravdy
 tagGDX1ItemSkillD113Desc=Světlo posvátné pravdy zaplaví tvé nepřátele a donutí ty slabomyslné ti sloužit.
@@ -537,7 +537,7 @@ tagGDX1CompSkillA103Name=Řetězový blesk
 tagGDX1CompSkillA103Desc=V konečcích tvých prstů zajiskří blesky a budou vycházet směrem k nepřátelům, aby jejich řady prořídly.
 
 tagGDX1CompSkillA104Name=Jedová čistka
-tagGDX1CompSkillA104Desc=Vypustíš ze své ruky nekonečný proud odporného jedu a budeš své nepřátele rozpouštět tak dlouho, dokud se dokážeš koncentrovat.
+tagGDX1CompSkillA104Desc=Vypustíš ze své ruky nekonečný proud odporného jedu a budeš své nepřátele rozpouštět tak dlouho, dokud se dokážeš koncentrovat. ^oJedná se o průběžnou dovednost, která musí být udržována, aby účinkovala. ^oPři 100% rychlosti kouzlení způsobuje Jedová čistka zranění a spaluje magickou energii každé 0.3 sekundy.
 
 tagGDX1CompSkillA105Name=Aetherické zranění
 tagGDX1CompSkillA105Desc=Devastující Aetherická energie se začne drásat skrze tvé nepřátele a velmi rychle se rozšíří.

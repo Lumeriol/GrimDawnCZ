@@ -527,7 +527,7 @@ tagClass05SkillName05B=Přeměna
 tagClass05SkillDescription05B=Sféra absorbuje zhoubné vysilující efekty a konvertuje je do tvých zásob energie.
 
 tagClass05SkillName06A=Albrechtův paprsek Aetheru
-tagClass05SkillDescription06A=Mocná tajuplná technika dovedená k dokonalosti mistrem Albrechtem v letech těsně před Ponurým úsvitem. Tato technika vysílá prvotní tajemné energie do koncentrovaného paprsku destrukce. ^oVyžaduje kouzelnický předmět v druhé ruce. Při 100% rychlosti kouzlení, způsobuje Albrechtův paprsek Aetheru zranění a čerpá energii každé 0.3 sekundy.
+tagClass05SkillDescription06A=Mocná tajuplná technika dovedená k dokonalosti mistrem Albrechtem v letech těsně před Ponurým úsvitem. Tato technika vysílá prvotní tajemné energie do koncentrovaného paprsku destrukce, který proniká všemi nepřáteli. ^oVyžaduje kouzelnický předmět v druhé ruce. Při 100% rychlosti kouzlení, způsobuje Albrechtův paprsek Aetheru zranění a čerpá energii každé 0.3 sekundy.
 tagClass05SkillName06B=Rozklad
 tagClass05SkillDescription06B=Vloží všechnu tvoji energii do Paprsku Aetheru a přemění jej do destruktivní síly, která rozloží vše, čeho se dotkne. ^oZvýšení zranění je za cenu navýšení energie.
 tagClass05SkillName06C=Zkažená síla
@@ -1488,7 +1488,7 @@ tagItemSkillD050Name=Mrazivá přítomnost
 tagItemSkillD050Desc=Už jen tvá přítomnost zmrazí na kost nepřátele. ^oAby tato schopnost účinkovala, musí být aktivní.
 
 tagItemSkillD051Name=Jasnovidnost
-tagItemSkillD051Desc=Vyčistíš svou mysl během přípravy na nadcházející náročné čarování.
+tagItemSkillD051Desc=Vyčistíš svou mysl během přípravy na nadcházející devastující čarování.
 
 tagItemSkillD052Name=Kolosální moc
 tagItemSkillD052Desc=Mistrovství v boji se štítem tě poctí stát se smrtící a nezastavitelnou silou. ^oToto je pasivní bonus pro štít.
@@ -2089,7 +2089,7 @@ tagItemSkillD247Name=Zrozeni pro válku
 tagItemSkillD247Desc=V tvých žilách proudí válka a v ní také skutečně prospíváš.
 
 tagItemSkillD248Name=Krvavá vášeň
-tagItemSkillD248Desc=Zabíjení tvých nepřátel tě uvede do stavu zuřivosti, kdy prahneš po dalším krveprolití.
+tagItemSkillD248Desc=Uštědření ochromující rány tě uvede do stavu zuřivosti, kdy zatoužíš po dalším krveprolití.
 
 tagItemSkillD249Name=Tajemná destrukce
 tagItemSkillD249Desc=Otevřeš malou trhlinu v realitě, skrze kterou propadne rozžhavený tajemný uhlík.
@@ -2111,6 +2111,21 @@ tagItemSkillD254Desc=Ze země pod tebou vzejdou plameny a nezanechají za sebou 
 
 tagItemSkillD255Name=Led mrtvých
 tagItemSkillD255Desc=Vypustíš množství ledových ostnů, které jsou ostré jako břitva.
+
+tagItemSkillD256Name=Iskandra's Sky Shard
+tagItemSkillD256Desc=Adapted from Trozan's legendary technique, Iskandra has put her own spin on this impressive arcane display.
+
+tagItemSkillD257Name=Iskandra's Elemental Tear
+tagItemSkillD257Desc=Iskandra's knowledge of the arcane can tear the very integrity of a being apart, should she wish it.
+
+tagItemSkillD258Name=Bloodfrenzy
+tagItemSkillD258Desc=Slaying a foe throws you into a regenerative frenzy.
+
+tagItemSkillD259Name=Ulzuin's Gaze
+tagItemSkillD259Desc=Wherever the burning god's gaze fell, flames erupted.
+
+tagItemSkillD260Name=Ulzuin's Vengeance
+tagItemSkillD260Desc=A manifestation of the fire god's rage, burning embers fall from the sky and incinerate all.
 
 tagItemSkillFailName=Vylepšení schopnosti neselhat
 tagItemSkillFailDesc=Pravděpodobnost selhání je nižší.
@@ -2319,7 +2334,7 @@ tagRelicSkillC007Name=Strašení
 tagRelicSkillC007Desc=Vyvoláš umučené duchy, kteří budou strašit tvé nepřátele a zchladí jejich krev.
 
 tagRelicSkillC008Name=Požár
-tagRelicSkillC008Desc=Rozpoutá čirý plamen tak intenzivní, že mu neodolá ani ta nejsilnější zbroj. ^oToto je nestálá dovednost a musí se udržovat. Při 100% rychlosti kouzlení způsobí Požár zranění a odčerpání energie každé 0.3 sekundy.
+tagRelicSkillC008Desc=Rozpoutá probodávající čistý plamen tak intenzivní, že mu neodolá ani ta nejsilnější zbroj. ^oToto je nestálá dovednost a musí se udržovat. Při 100% rychlosti kouzlení způsobí Požár zranění a odčerpání energie každé 0.3 sekundy.
 
 tagRelicSkillC009Name=Vyvolání bouřného psa
 tagRelicSkillC009Desc=Přivolá oddaného Bouřného psa, podivné zvíře zrozené z nebes. ^oV jednu chvíli může být vyvolán pouze jeden Bouřný pes. Bouřný pes sílí spolu se zvyšujícími se bonusy pro spojence.
@@ -2530,7 +2545,7 @@ tagDevotion_RequiresFocus=^oVyžaduje kouzelnický příruční předmět.
 tagDevotion_Requires1hRange=^oVyžaduje jednoruční střelnou zbraň.
 tagDevotion_Requires2hRange=^oVyžaduje obouruční střelnou zbraň.
 tagDevotion_RequiresRange=^oVyžaduje palnou zbraň.
-tagDevotion_Requires2h=^oVyžaduje obouruční chladnou nebo střelnou zbraň.
+tagDevotion_Requires2h=^oVyžaduje obouruční chladnou nebo obouruční střelnou zbraň.
 tagDevotion_RequiresShield=^oVyžaduje štít.
 tagDevotion_RequiresMagic=^oVyžaduje žezlo, dýku nebo kouzelnický předmět v druhé ruce.
 

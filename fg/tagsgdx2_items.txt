@@ -193,6 +193,8 @@ tagGDX2FocusD204_Desc="Vykoupení za udatné činy."
 tagGDX2FocusD205=Inashkorova hlava
 tagGDX2FocusD205_Desc="Mocný strážce Korvanského lidu možná padl, ale jeho moc zůstává až strašidelně nedotčena."
 tagGDX2FocusD206=Figurka cyklóny
+tagGDX2FocusD207=Inashkorova zkažená hlava
+tagGDX2FocusD207_Desc="Mocný strážce Korvanského lidu padl do rukou Chthonského nájezdníka, který jeho obrovskou sílu navždy otrávil Prázdnotou."
 
 tagGDX2FocusF201=Bysmielina figurka ohně
 tagGDX2FocusF202=Bysmielina poskvrněná figurka
@@ -579,7 +581,7 @@ tagGDX2Blueprint_ArmorD203=Plánek: Soulařina helma
 tagGDX2Blueprint_ArmorD204=Plánek: Vynikající Hledí odraženého světla
 tagGDX2Blueprint_ArmorD205=Plánek: Vynikající koruna krále přízraků
 tagGDX2Blueprint_ArmorD206=Plánek: Vynikající Soulařina helma
-tagGDX2Blueprint_ArmorD207=Plánek: Kapuce mrazivých šepotů
+tagGDX2Blueprint_ArmorD207=Plánek: Koruna mrazivých šepotů
 tagGDX2Blueprint_ArmorD208=Plánek: Ludriganův kapalec
 tagGDX2Blueprint_ArmorD209=Plánek: Kapuce obchodníka s kostmi
 tagGDX2Blueprint_ArmorD210=Plánek: Hledí ctnosti
