@@ -19,7 +19,7 @@ tagSkillClassName0109=[ms]
 tagSkillClassName0203=[ms]Pyromant[fs]Pyromantka
 tagSkillClassName0204=[ms]Sabotér[fs]Sabotérka
 tagSkillClassName0205=[ms]Kouzelník[fs]Kouzelnice
-tagSkillClassName0206=[ms]Mistr živlů[fs]Mistryně živlů 
+tagSkillClassName0206=[ms]Mistr živlů[fs]Mistryně živlů
 tagSkillClassName0207=[ms]
 tagSkillClassName0208=[ms]
 tagSkillClassName0209=[ms]
@@ -902,7 +902,7 @@ tagItemSkillB035Desc=Jak tvoji spojenci uvidí svého pána raněného, divoce s
 tagItemSkillB036Name=Příval ohně
 tagItemSkillB036Desc=Vytryskne z tebe vlna plamenů, která zraní všechny nepřátele ve tvém okolí.
 
-tagItemSkillB037Name=Deformující výbuch 
+tagItemSkillB037Name=Deformující výbuch
 tagItemSkillB037Desc=Vytryskne z tebe vlna chaotické energie, která zraní všechny nepřátele ve tvém okolí.
 
 tagItemSkillB038Name=Záplava blesků
@@ -975,7 +975,7 @@ tagItemSkillC013Name=Nákaza zkažeností
 tagItemSkillC013Desc=Rozpoutá nad tvými nepřáteli nákazu, která se rychle šíří a způsobuje zmatky.
 
 tagItemSkillC014Name=Dominance
-tagItemSkillC014Desc=Ovládne mysl cíle, čímž ho donutí krátký čas bojovat po tvém boku. 
+tagItemSkillC014Desc=Ovládne mysl cíle, čímž ho donutí krátký čas bojovat po tvém boku.
 
 tagItemSkillC015Name=Rozparovač vnitřností
 tagItemSkillC015Desc=Vrhne shluk zubatých úlomků na nepřátele ve tvém okolí.
@@ -990,7 +990,7 @@ tagItemSkillC018Name=Zaháčkovaná síť
 tagItemSkillC018Desc=Chytne tvoji kořist do sítě, jež spoutá a sevře tvůj cíl.
 
 tagItemSkillC019Name=Plameňák
-tagItemSkillC019Desc=Rozpoutá v řadě řízenou explozi ohnivé smrti. 
+tagItemSkillC019Desc=Rozpoutá v řadě řízenou explozi ohnivé smrti.
 
 tagItemSkillC020Name=Ledový výbuch
 tagItemSkillC020Desc=Vrhne explozivní nálož mocné ledové energie, která je schopná na kost zmrazit tvé nepřátele.
@@ -1117,7 +1117,7 @@ tagItemSkillC058Desc=Použiješ stanovené lékařské metody a zahojíš kritic
 tagItemSkillC059Name=Studna duší
 tagItemSkillC059Desc=Vytvoří trhlinu do věčnosti a vypustí množství neklidných duchů, kteří rozdrásají jakéhokoliv nepřítele, jež se rozhodne do ni vstoupit.
 
-tagItemSkillC060Name=Ohnivá bouře 
+tagItemSkillC060Name=Ohnivá bouře
 tagItemSkillC060Desc=Vytvoří kolem tebe bouři pekelných plamenů a zapálí nepřátele ve tvém okolí.
 
 tagItemSkillC061Name=Výpad hada
@@ -1406,7 +1406,7 @@ tagItemSkillD022Desc=Pod tvými nepřáteli vytryskne ze země zážeh čistého
 tagItemSkillD023Name=Příval Aetheru
 tagItemSkillD023Desc=Vytryskne z tebe čistá tajemná energie a zaplaví tvé nepřátele.
 
-tagItemSkillD024Name=Aetherické vedení 
+tagItemSkillD024Name=Aetherické vedení
 tagItemSkillD024Desc=Staneš se vodičem samotného Aetheru, zaplavujíc nepřátele ve tvém okolí čistou tajemnou energií.
 
 tagItemSkillD025Name=Agónie
@@ -1671,7 +1671,7 @@ tagItemSkillD108Desc=Posel získal svoji reputaci kombinací smrtící síly jeh
 tagItemSkillD109Name=Spoušť
 tagItemSkillD109Desc=Způsobíš paseku v řadách svých nepřátel tím, že je zasypeš obrovským množstvím kulek.
 
-tagItemSkillD110Name=Uzdravující vítr 
+tagItemSkillD110Name=Uzdravující vítr
 tagItemSkillD110Desc=Vyčaruješ vítr věčného jara, aby se ti zahojily rány.
 
 tagItemSkillD111Name=Srdce Zimního krále
@@ -2112,20 +2112,20 @@ tagItemSkillD254Desc=Ze země pod tebou vzejdou plameny a nezanechají za sebou 
 tagItemSkillD255Name=Led mrtvých
 tagItemSkillD255Desc=Vypustíš množství ledových ostnů, které jsou ostré jako břitva.
 
-tagItemSkillD256Name=Iskandra's Sky Shard
-tagItemSkillD256Desc=Adapted from Trozan's legendary technique, Iskandra has put her own spin on this impressive arcane display.
+tagItemSkillD256Name=Iskandřin úlomek nebe
+tagItemSkillD256Desc=Iskandra přizpůsobila tuto Trozanovu legendární techniku a vylepšila toto úchvatné vzezření podivna.
 
-tagItemSkillD257Name=Iskandra's Elemental Tear
-tagItemSkillD257Desc=Iskandra's knowledge of the arcane can tear the very integrity of a being apart, should she wish it.
+tagItemSkillD257Name=Iskandřin živelná slza
+tagItemSkillD257Desc=Iskandřina znalost podivna dokáže rozervat samotnou pospolitost bytosti na kusy, a to jen tím, že si to bude přát.
 
-tagItemSkillD258Name=Bloodfrenzy
-tagItemSkillD258Desc=Slaying a foe throws you into a regenerative frenzy.
+tagItemSkillD258Name=Krvelačné šílenství
+tagItemSkillD258Desc=Zabití nepřítele tě uvrhne stavu regenerace.
 
-tagItemSkillD259Name=Ulzuin's Gaze
-tagItemSkillD259Desc=Wherever the burning god's gaze fell, flames erupted.
+tagItemSkillD259Name=Ulzuinův upřený pohled
+tagItemSkillD259Desc=Kdykoliv hořící bůh mrkne, vytrysknou plameny.
 
-tagItemSkillD260Name=Ulzuin's Vengeance
-tagItemSkillD260Desc=A manifestation of the fire god's rage, burning embers fall from the sky and incinerate all.
+tagItemSkillD260Name=Ulzuinova msta
+tagItemSkillD260Desc=Ukázka zuřivosti hořícího boha, žhavé uhlí padá z nebe a vše zapaluje.
 
 tagItemSkillFailName=Vylepšení schopnosti neselhat
 tagItemSkillFailDesc=Pravděpodobnost selhání je nižší.
@@ -2971,5 +2971,3 @@ tagEnemySkillD15_Desc=Přízrak vysává tvou duši a přečerpává tvůj živo
 
 tagEnemySkillD16=
 tagEnemySkillD16_Desc=
-
-

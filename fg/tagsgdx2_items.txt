@@ -178,7 +178,7 @@ tagGDX2FocusB203=[ms]vynucený přízrak
 tagGDX2FocusB204=[ms]přinucený přízrak
 tagGDX2FocusB205=[ms]Zarthuzellanův archiv
 
-tagGDX2FocusC201=Kodex zůčtování
+tagGDX2FocusC201=Kodex zúčtování
 tagGDX2FocusC202=Manifestarius
 tagGDX2FocusC203=Bible zničujícího požáru
 tagGDX2FocusC204=Poznatky z hledání příšery

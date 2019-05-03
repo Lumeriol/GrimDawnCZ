@@ -1,50 +1,50 @@
 Hlídač
-The gods!{^n}{^n}I feel their comforting presence once more.
-I have some questions.
-As do all who come here.
-Do you speak to the Witch Gods even now?
-For a long time, their choir was silent to me, but I once again feel their presence beyond the veil.{^n}{^n}Whatever has consumed their attention is no more. Glory to the Three!
-I have another question.
-Proceed.
-I see.
-Tell me about the Witch Gods.
-Of whom would you wish to learn?
-Tell me of Bysmiel.
-The Weaver, Schemer, Lady of Whispers, these are all names by which the goddess Bysmiel has been known. Though the cataclysmic events of recent history have crippled her web, Bysmiel still commands a formidable network of informants and spies.{^n}{^n}None know for certain how she came upon her powers, some jokingly say that she heard it whispered into her ear by a spider. What we do know is that she and Solael were lovers in their mortal day, intertwined in their fates; but their hunger for power was greater than their lust. Unwilling to allow the other to rise above them, they would sabotage each other's efforts, all the while maintaining the facade of a loving relationship.{^n}{^n}Ultimately, both achieved their goals, but the schemes forever soured their relationship and sparked conflicts that ravaged the world. It was not until the Covenant that the gods set aside their differences, but tensions remain high to this day between the followers of Bysmiel and Solael.
+Bohové!{^n}{^n}Už zase pro jednou cítím tu jejich uklidňující přítomnost.
+[[ms]Měl[fs]Měla] bych nějaké otázky.
+Tak jako všichni, kteří sem přišli.
+Mluvíš s Čarodějnými bohy dokonce i teď?
+Po dlouhou dobu mi byl jejich šepot odpírán, ale už zase cítím jejich přítomnost za rouškou reality. {^n}{^n}Ať to, co zaujalo jejich pozornost bylo cokoliv, už to neexistuje. Sláva Třem!
+[[ms]Měl[fs]Měla] bych další otázku.
+Pokračuj.
+Chápu.
+Povídej mi o Čarodějných bozích.
+O kom bych ti měl vyprávět?
+Pověz mi o Bysmiel.
+Tkadlena, Intrikánka, Šeptající dáma, to jsou všechno jména, pod kterými byla bohyně Bysmiel známa. I když drastické události nedávné historie rozbily její síť, Bysmiel stále vládne úctyhodnému množství informátorů a špehů. {^n}{^n}Nikdo s jistotou neví jak přišla k moci, někteří vtipně vyprávějí že jí vše do ucha pošeptal pavouk. Co ale víme je to, že ona a Solael byli milenci za jejich smrtelného života, jejich osudy propletené; ale jejich nenasytnost po moci byla větší než jejich chtíč. Nechtíc dovolit jednomu se povýšit nad druhého by si klidně překazili vzájemné plány, to vše ale za závojem milostného vztahu. {^n}{^n}A co víc, oba dosáhli svých cílů, ale intriky nechávají stopy trpkosti v jejich vztahu a zažehávají konflikty, které devastují svět. Až do doby, kdy byla podepsána Dohoda, bylo nemyslitelné, aby vzhledem ke svým rozdílům seděli vedle sebe - to se změnilo, ale tyto myšlenky ještě teď zůstávají zaryté v myslích uctívačů Bysmiel a Solaela.
 
-What about the other gods?
-Interesting.
-Tell me of Dreeg.
-Only once have I witnessed the true form of Dreeg. He is a creature of nightmares. A thousand lidless eyes stare through you and spines of bone pierce his divine flesh. Acid drips from the festering wounds and singes the earth so that nothing ever grows again.{^n}{^n}His voice drives lesser beings to madness. It is said that he speaks prophecy, foretelling events not yet transpired, but to hear him overwhelms the senses. Few have the capacity to withstand him, fewer still can interpret the mad ramblings of those that did.{^n}{^n}Whatever Dreeg had done to ascend, I am not certain that it was worth the price he had to pay.
+A co jiný bohové?
+Zajímavé.
+Pověz mi o Dreegovi.
+Jen jednou jsem spatřil Dreegovu pravou podobu. Je to strašlivý netvor. Tisíce neustále zírajících očí hledí skrz tebe a úlomky kostí probodávají jeho posvátné maso. Kyselina odkapává z jeho hnisajících ran a když kapky dopadnou na zem, v tom místě už nikdy nic nevyroste. {^n}{^n} Jeho hlas dovede slabší bytosti k šílenství. Říká se, že dokáže věštit budoucnost, vypráví o věcech, o kterých ještě nikdo neví, slyšet ho ale je nad možnosti našich smyslů. Jen pár jedinců mu odolalo a ještě méně dokáže vyprávět nesouvislé šílenosti právě těch, kteří se o to pokusili. {^n}{^n}Nejsem si jistý, jestli to, co Dreeg udělal, aby byl povznesen, za tu cenu stálo.
 
-What about the other gods?
-A heavy price to pay.
-Fascinating.
-Tell me of Solael.
-The dark one's very presence inspires dread. He saps those around him of joy, of emotion, of the will to live. Of the Three, Solael is the only one who regularly demands living sacrifices in exchange for his wisdom.{^n}{^n}Why he hungers so for the vitality of the living, I do not know, for none are privy to the personal matters of the gods. Perhaps he misses what it felt like to be mortal? To live knowing that you could be extinguished at any moment?Despite that, many risk it all to stand in his presence and bask in the knowledge of the eldritch. Ages ago, when the Three still quarreled amongst themselves, I was just a young fool, eager for power and willing to do nearly anything to attain it. I joined the Cult of Solael and offered myself to him.{^n}{^n}My cutthroat nature and desperation drew the attention of the dark one, who took favor of me. I became his prized student, taught the secrets no others were permitted, or even willing, to learn.When he conceived of the Covenant, I was to be his messenger to the other gods. I risked my life so that the Three would end their senseless conflict and join their powers. Though they had little reason to hear me out, Dreeg and Bysmiel spared me long enough for me to speak. In the end, they saw the wisdom of my master's plan and agreed to gather here and seal their covenant.{^n}{^n}As reward for my loyal service, Solael bound me to this place so that I would forever be its steward. I am now the voice of the gods and none speak to them without my consent.{^n}{^n}Though centuries have passed and the temple crumbles around me, I still remain, doomed to eternal servitude. Such was the price I paid for a taste of Solael's power.
+A co jiný bohové?
+Zaplatil vysokou cenu.
+Fascinující.
+Pověz mi o Solaelovi.
+Jen samotná přítomnost temného vzbuzuje strach. Vysává ty kolem sebe pro zábavu, pro vzrušení a nebo proto že chce žít. Ze Tří je Solael jediný, který pravidelně požaduje živé oběti výměnou za jeho vědomosti. {^n}{^n}Proč prahne po životě smrtelníků nevím, tajné osobní záležitosti bohů nejsou odhalovány nikomu. Možná že mu chybí ten pocit, jaké to bylo být smrtelný? Vědět, že můžeš být zahuben v jakémkoliv momentě? Ale i tak mnozí riskovali vše jen proto, aby byli v jeho přítomnosti a lebedili si ve znalostech podivna. Před věky se Tři neustále hádali mezi sebou, já byl jen mladý blázen, lačný po moci a ochotný udělat téměř cokoliv dosáhnout svého. Vstoupil jsem do Kultu Solaela a nabídl se jim.{^n}{^n}Moje nátura podřezávat krky a také zoufalství upoutaly temného a ten mi prokázal laskavost. Stal jsem se jeho ceněným studentem, dozvěděl se tajemství jež byla všem ostatním odepřena či se o nich oni sami nechtěli učit. Když vymyslel Dohodu, stal jsem se jeho poslíčkem. Riskoval jsem svůj život, aby Tři ukončili svůj nesmyslný konflikt a spojili své síly. I když měli pramalý důvod mne vyslechnout, Dreeg a Bysmiel mne ušetřili dostatečně dlouho na to, abych mohl mluvit. Nakonec prohlédli moudrost mého pána a souhlasili s tím, že se zde sejdou a uzavřou onu Dohodu. {^n}{^n}Za odměnu mne Solael přikoval k tomuto místu a tak budu navždy jeho správce. Nyní jsem hlasem bohů a nikdo s nimi nepromluví bez mého svolení. {^n}{^n}Nicméně jak staletí plynou, chrám kolem mě se hroutí, já stále přetrvávám, odsouzen k nekonečnému žití. Taková byla cena za to, že jsem okusil Solaelovu moc.
 
-What about the other gods?
-You sound bitter.
-Fascinating.
-Let me ask about something else.
-Nevermind.
-Are you immortal?
-Not in the literal sense, no. I have been killed numerous times, though I have always been brought back from the grave by the Three.{^n}{^n}I exist solely by the whims of the gods.{^n}{^n}Such is my fate...
+A co jiný bohové?
+Zníš zahořkle.
+Fascinující.
+Nech mě se zeptat na něco jiného.
+Neřešme to.
+Jsi nesmrtelný?
+Ne, v pravém slova smyslu nejsem. Byl jsem zabit mnohokrát, ale vždy jsem byl ze svého hrobu přiveden zpět Třemi.{^n}{^n}Existuji výhradně z rozmaru bohů.{^n}{^n}Takový je můj osud...
 
-Sounds awful.
-Sounds intriguing.
-What happened to this place?
-A Dreeg thrall by the name of Ughdar was driven mad by the absence of the Three.{^n}{^n}In desperation, he attempted to breach the eldritch realm and seek them out upon their thrones. The results of his ritual are all around you, as are the pieces of Ughdar that were not evaporated when the rifts tore open the temple.
-Where are the other servants of the Three?
-Dead to the eldritch creatures, or fled.{^n}{^n}Preserving their own hides proved a stronger motivation than the integrity of this temple.
+To zní strašně.
+To zní poutavě.
+Co se stalo s tímhle místem?
+Dreegův otrok jménem Ughdar se zbláznil z absence Tří. {^n}{^n}V zoufalství se pokusil prolomit podivnou sféru a navštívit je u jejich trůnů. Výsledky toho rituálu jsou všude kolem tebe, stejně jako kousky Ughdara, tedy alespoň ty, které se nevypařily, když se trhliny pootvíraly uvnitř chrámu.
+A kde jsou ostatní služebníci Tří?
+Mrtví díky příšerám z podivna, a nebo utekli. {^n}{^n}Zachránit si svoji vlastní kůži se jim jevilo větší motivací než bezúhonnost tohoto chrámu.
 
-Farewell.
+Sbohem.
 
-Foolish.
-If only he were stronger.
-Nevermind.
-Farewell.
-Welcome to the Sanctum, Sentinel.
+Hloupé.
+Jen kdyby byl silnější.
+Neřešme to.
+Sbohem.
+Vítej ve svatyni, [[ms]ochránče[fs]ochránkyně].
 
 Farewell.
 Vítej na svatém místě, [[ms]ctihodný uchazeči[fs]ctihodná uchazečko].
@@ -97,15 +97,15 @@ Hloupé.
 Jen kdyby byl silnější.
 Neřešme to.
 Sbohem.
-Sentinel, you come in troubled times.{^n}{^n}What you seek here cannot be found, will not listen.{^n}{^n}Seek the gods beyond these walls, for their voices no longer reach us here.
-Farewell.
+[[ms]Ochránče[fs]Ochránkyně], [[ms]přišel[fs]přišla] jsi v pochmurných dobách.{^n}{^n}To co zde hledáš zde nenalezneš, nebudou tě poslouchat.{^n}{^n}Vyhledej bohy mimo tyto zdi, jejich hlas už tu neuslyšíš.
+Sbohem.
 Vetřelče... opusť toto místo!
 Jsem na odchodu.
-You carry the markings of the Three, seeker. Long has it been since a bearer of a Witch God oath has traveled these halls.{^n}{^n}May your vows be unbroken 'til your dying breath, sentinel.{^n}{^n}But where are my manners. Greetings! I am the Attendant to our gods.
+Neseš znamení Tří. Už je to dlouho, co některý z poslů či uctívačů Čarodějných bohů zavítal do těchto prostor. {^n}{^n}Nechť je tvá víra neoblomná až do tvého posledního výdechu, [[ms]ochránče[fs]ochránkyně]. {^n}{^n}Ale co je to za způsoby. Vítej! Já jsem učněm Čarodějných bohů.
 
 
 
-We will speak another time.
+Promluvíme si někdy jindy.
 Neseš znamení Tří, [[ms]uchazeči[fs]uchazečko]. Mnoho vody uplynulo od dob, kdy někdo jako ty zavítal do těchto komnat. {^n}{^n}Buď [[ms]pozdraven[fs]pozdravena]. Jsem strážce bohů.
 [[ms]Přišel[fs]Přišla] jsem se něco naučit o Čarodějných bozích.
 Jsi [[ms]moudrý[fs]moudrá], když po nich pátráš. Jen díky Třem můžeme nahlédnout do světa podivna a učit se jeho tajemství.{^n}{^n}Je to neuvěřitelně mocné místo, takové kde soupeří samotný Aether, jež alchymisté tak obdivují, ale nemůžeme tam jen tak vejít. Díky nesmírné oběti bohové prorazili bariéru mezi světy a povznesli se do světa podivna. Díky jejich učení můžeme ovládnout nicotnou část síly tohoto světa, vyvolat podivné bytosti, aby nám sloužily a můžeme tak nabývat moci ve lžích, které nám předkládá padlé imérium.
@@ -146,7 +146,7 @@ Je přirozené se při pohledu na mě zaleknout.{^n}{^n}Jsem to, čím mě bohov
 
 Promluvíme si jindy.
 Promluvíme si jindy.
-Sentinel, you come in troubled times.{^n}{^n}What you seek here cannot be found, will not listen.{^n}{^n}Seek the gods beyond these walls, for their voices no longer reach us here.
-Farewell.
+[[ms]Ochránče[fs]Ochránkyně], [[ms]přišel[fs]přišla] jsi v pochmurných dobách.{^n}{^n}To co zde hledáš zde nenalezneš, nebudou tě poslouchat.{^n}{^n}Vyhledej bohy mimo tyto zdi, jejich hlas už tu neuslyšíš.
+Sbohem.
 Vetřelče... opusť toto místo!
 Jsem na odchodu.
