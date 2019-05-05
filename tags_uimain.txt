@@ -22,7 +22,7 @@ tagMenuButton09=Ok
 tagMenuButton10=Vytvořit
 tagMenuButton11=Stáhnout
 tagMenuChar={%d0} ~ {%d1}
-tagCharLevelClass=Úroveň {%d0} {%t1}
+tagCharLevelClass={%t1}, úroveň {%d0}
 
 # Temporary popup message for alpha multiplayer build warning
 tagMenuMPWarning=Vítejte v testovacím režimu hry více hráčů! Varování: během testovací fáze se budou vyskytovat chyby, pády hry a problémy s výkonem. Informuj nás prosím o veškerých problémech na našich forech Grim Dawn.
