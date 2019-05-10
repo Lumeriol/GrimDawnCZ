@@ -8,7 +8,7 @@ ItemDB_tagMenuItemAttributesAverage=Zobrazit průměrné hodnoty
 ItemDB_tagMenuItemAttributesMinMax=Zobrazit min/max hodnoty
 ItemDB_tagMenuItemAttributesRaw=Zobrazit základní hodnoty
 ItemDB_tagMenuItemShowAllPetAttributesAndSkills=Zobrazit vlastnosti a dovednosti spojenců
-ItemDB_tagMenuItemHighlightMI=Zvýraznit osobní předměty příšer
+ItemDB_tagMenuItemHighlightMI=Zvýraznit osobní předměty nestvůr
 ItemDB_tagMenuItemShowAllMonsters=Rozšířit seznam o "Lze získat z"
 
 # Misc
@@ -36,7 +36,7 @@ ItemDB_tagItemPrefixes=Předpony předmětů
 ItemDB_tagItemSuffixes=Přívlastky předmětů
 ItemDB_tagItemSets=Setové předměty
 ItemDB_tagItems=Předměty
-ItemDB_tagMonsterInfrequents=Osobní předměty příšer
+ItemDB_tagMonsterInfrequents=Osobní předměty nestvůr
 ItemDB_tagUniqueRares=Vzácné předměty
 ItemDB_tagUniqueRaresDescription=Vzácné předměty (odměny z úkolů / pevně daný výskyt)
 ItemDB_tagFactionItems=Frakční předměty
@@ -46,7 +46,7 @@ ItemDB_tagVersionNewItems=Nové předměty
 ItemDB_tagVersionNewPrefixes=Nové předpony
 ItemDB_tagVersionNewSuffixes=Nové přívlastky
 ItemDB_tagVersionNewItemSets=Nové setové předměty
-ItemDB_tagVersionNewMIs=Nové osobní předměty příšer
+ItemDB_tagVersionNewMIs=Nové osobní předměty nestvůr
 ItemDB_tagVersionNewUniqueRares=Nové vzácné předměty
 ItemDB_tagFaction=Frakce
 ItemDB_tagItemSkillModifiers=Modifikátory dovedností
@@ -132,3 +132,56 @@ ItemDB_tagDroppedFromContainers=Lze získat z:
 # Link to merchant location on the map
 ItemDB_tagSoldByMerchant=Lze koupit u:
 ItemDB_tagMonsterMapLink=Mapa
+
+# Advanced search
+ItemDB_tagAdvSearch=Pokročilé vyhledávání
+ItemDB_tagAdvSearchReset=Vynulovat
+ItemDB_tagAdvSearchSubmit=Najít
+
+ItemDB_tagAdvSearchSectionGeneral=Základní výběr
+ItemDB_tagAdvSearchSectionWeapon=Vlastnosti zbraně
+ItemDB_tagAdvSearchSectionArmor=Vlastnosti zbroje / štítu
+ItemDB_tagAdvSearchSectionItem=Vlastnosti předmětu
+ItemDB_tagAdvSearchSectionPetBonuses=Bonusy spojencům
+ItemDB_tagAdvSearchSectionGrantedSkills=Přidělené dovednosti
+ItemDB_tagAdvSearchSectionRequirements=Požadavky
+ItemDB_tagAdvSearchSectionMisc=Ostatní
+
+ItemDB_tagAdvSearchItemName=Název
+ItemDB_tagAdvSearchItemType=Typ
+ItemDB_tagAdvSearchItemRarity=Vzácnost
+ItemDB_tagAdvSearchItemAPS=Zásahy za sekundu
+ItemDB_tagAdvSearchItemPierceRatio=Probodnutí
+ItemDB_tagAdvSearchItemWeaponDamage=Zranění zbraní
+ItemDB_tagAdvSearchItemBaseArmor=Základ zbroje
+ItemDB_tagAdvSearchItemBlock=Vykrytí zranění
+ItemDB_tagAdvSearchItemBlockChance=Vykryté zranění
+ItemDB_tagAdvSearchItemBlockRecovery=Obnovené vykrytí
+ItemDB_tagAdvSearchItemMasteryBonus=Bonus k povolání
+ItemDB_tagAdvSearchItemSkillBonus=Bonus k dovednostem
+ItemDB_tagAdvSearchItemSkillModifier=Modifikátor dovednosti
+ItemDB_tagAdvSearchItemCharacterAttribute=Atributy postavy
+ItemDB_tagAdvSearchItemRequirementReduction=Snížení požadavků
+ItemDB_tagAdvSearchItemOffense=Útok
+ItemDB_tagAdvSearchItemDefense=Obrana
+ItemDB_tagAdvSearchItemRetaliation=Oplácení
+ItemDB_tagAdvSearchItemConversion=Převod zranění
+ItemDB_tagAdvSearchItemOther=Jiné
+ItemDB_tagAdvSearchItemLevel=Úroveň předmětu
+ItemDB_tagAdvSearchItemPlayerLevel=Úroveň postavy
+ItemDB_tagAdvSearchItemIsSetItem=Setový předmět
+ItemDB_tagAdvSearchItemIsMI=Předmět z nestvůry
+ItemDB_tagAdvSearchItemHasBlueprint=Předmět má plánek
+ItemDB_tagAdvSearchItemCanBeFarmed=Lze cíleně vyhledávat
+ItemDB_tagAdvSearchItemCanBeSold=Lze koupit u prodejce
+ItemDB_tagAdvSearchItemIsFromFaction=Frakční vybavení
+ItemDB_tagAdvSearchItemExpansion=Rozšíření
+ItemDB_tagAdvSearchItemSkillType=Typ
+
+ItemDB_tagAdvSearchItemTypeAll=Všechny
+ItemDB_tagAdvSearchBonusMasteryAll=Všechna povolání
+
+ItemDB_tagAdvSearchValueMin=Min
+ItemDB_tagAdvSearchValueMax=Max
+ItemDB_tagAdvSearchValueSelect=Vybrat...
+ItemDB_tagAdvSearchAddMod=Přidat...

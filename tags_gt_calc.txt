@@ -14,7 +14,7 @@ Calc_tagBuffsNone=Žádná
 Calc_tagLinkToThisBuild=Odkaz na tuto postavu:
 Calc_tagBuildBBCode=Popis postavy (BB kódy pro fóra):
 
-Calc_tagGameVersion=Verze sestavení:
+Calc_tagGameVersion=Verze hry:
 Calc_tagBuildVersion=Verze sestavení:
 Calc_tagDifficulty=Obtížnost:
 Calc_tagNoItemSelected=Nic nevybráno
