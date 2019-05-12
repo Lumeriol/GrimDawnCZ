@@ -63,7 +63,7 @@ tagGDX2EndlessDungeon_NPC_Merchant01=Ullana
 tagGDX2EndlessDungeon_ StoreTitle_Merchant01=Pokřivený zlodějíček
 tagGDX2EndlessDungeon_ StoreTitle_Merchant02=Pokřivený zeman
 tagGDX2EndlessDungeon_ StoreTitle_Merchant03=Pokřivený rytíř
-tagGDX2EndlessDungeon_ StoreTitle_Merchant04=Pokřivený lord
+tagGDX2EndlessDungeon_ StoreTitle_Merchant04=Pokřivená panna
 tagGDX2EndlessDungeon_ StoreTitle_Merchant05=Pokřivený strážce
 
 

@@ -2926,7 +2926,7 @@ tagEnchantB035Desc="Chceš-li najít Uroboruukovu stezku, musíš hledat cesty z
 tagEnchantB036A=Vyvrhelova moc
 tagEnchantB036B=Vyvrhelova moc II
 tagEnchantB036BC=Vyvrhelova moc III
-tagEnchantB036Desc="Nejlepší očarování vymyšlené Vyvrhely. Propůjčí svému nositeli sílu deseti mužů."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmětvšechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
+tagEnchantB036Desc="Nejlepší očarování vymyšlené Vyvrhely. Propůjčí svému nositeli sílu deseti mužů."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
 
 tagEnchantB037A=Vyvrhelova divoká moc
 tagEnchantB037B=Vyvrhelova divoká moc II
@@ -4229,6 +4229,7 @@ tagTrollDoor=Brána
 
 tagBreakableStoneWall=Drolící se zeď
 tagBreakableNaturalWall=Kyprá zemina
+tagBreakableObsidianWall=Drolící se obsidián
 
 #Dungeon Doors
 
