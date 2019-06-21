@@ -499,13 +499,13 @@ tagClass05SkillName01E=Ohromující střela
 tagClass05SkillDescription01E=Převede energii Replikující se střely do hmotného světa a tak způsobí fyzické i metafyzické zranění.
 
 tagClass05SkillName02A=Iskandřina výměna živlů
-tagClass05SkillDescription02A=Iskandra učila své studenty, že nejúčinnější cesta k vítězství je obrátit energie svých nepřátel proti nim samotným. A právě Výměna živlů způsobuje, že tvé zbraně a zbraně tvých spojenců hladově absorbují tajemnou energii z nepřátel a vrací ji ve formě živelného zranění. ^oAby tato schopnost účinkovala, musí být aktivní. Konvertované zranění může absorbovat pouze sesílatel.
+tagClass05SkillDescription02A=Iskandra učila své studenty, že nejúčinnější cesta k vítězství je obrátit energie svých nepřátel proti nim samotným. A právě Výměna živlů způsobuje, že tvé zbraně a zbraně tvých spojenců hladově absorbují tajemnou energii z nepřátel a vrací ji ve formě živelného zranění. ^oAby tato schopnost účinkovala, musí být aktivní.
 tagClass05SkillName02B=Přetížení
 tagClass05SkillDescription02B=Zaklínadlo se stává přetíženým tajemnými silami, což způsobuje, že tvé zbraně doslova praskají pod hrubou silou živlů.
 tagClass05SkillName02C=Živelná rovnováha
 tagClass05SkillDescription02C=Zaklínadlem vyvolaný a velmi dobře vybalancovaný úder, jež harmonizuje oheň a led spolu s nespoutaným elektrickým proudem.
 tagClass05SkillName02D=Zjevení
-tagClass05SkillDescription02D=Tajemné energie se zjevují v mnoha formách. Vládci temnot, kteří se odevzdali umění vyvolávání, často převádějí některá ze svých umění s tajemnými energiemi na své přisluhovače a ti pak mohou lépe posloužit vůli svých pánů. ^oTento efekt se týká i tvých spojenců.
+tagClass05SkillDescription02D=Tajemné energie se zjevují v mnoha formách. Vládci temnot, kteří se odevzdali umění vyvolávání, často převádějí některá ze svých umění s tajemnými energiemi na své přisluhovače a ti pak mohou lépe posloužit vůli svých pánů. ^oTento efekt se týká i tvých spojenců. Konvertované zranění může absorbovat pouze sesílatel.
 
 tagClass05SkillName03A=Trozanův úlomek nebe
 tagClass05SkillDescription03A=O mýtickém Trozanovi se říkávalo, že byl přirozený; divoký a nechtějící se přizpůsobit doktrínám císařských Vládců temnot. Když Imperialisté nakonec obklíčili jeho úkryt na vrcholu hory, Trozan je pokořil za použití neznámé techniky, která na ně snesla samotná nebesa. ^oDo cílené oblasti dopadnou 3 úlomky.
@@ -517,7 +517,7 @@ tagClass05SkillDescription03C=Úlomky nebe se při pádu stávají čím dál v�
 tagClass05SkillName04A=Callidorova smršť
 tagClass05SkillDescription04A=Mistr Callidor věhlasně sloužil jako generál armády krále Samuela. Když byl v prvních liniích, osvojil si Callidor techniku, která díky vytvoření náhlého a koncentrovaného výbuchu čisté Aetherické energie zapálila vzduch a roznítila kolem něj tajemnou bouři.
 tagClass05SkillName04B=Inferno
-tagClass05SkillDescription04B=Ze Smrště se stává zuřící inferno, jež pálí maso a taví zbroj.
+tagClass05SkillDescription04B=Ze Smrště se stává zuřící inferno, jež spaluje nepřítele nekonečným plamenem.
 tagClass05SkillName04C=Agrivixova zloba
 tagClass05SkillDescription04C=Agrivix byl proslulý převáděním tak ohromného množství energie do Smrště, že její výsledná exploze by nezanechala v okolí nic než prach z těch, jež by byli tak hloupí, aby zůstali v dosahu výbuchu. Tato technika ale vyžaduje hluboké soustředění a nemůže být bez odpočinku znovu vyvolána.
 
@@ -1846,7 +1846,7 @@ tagItemSkillD167Name=Posvátná vyváženost
 tagItemSkillD167Desc=Rozvrátíš rovnováhu mezi odporujícími si silami světla a temnoty dříve, než jejich energii vyšleš na nepřátele ve svém okolí.
 
 tagItemSkillD168Name=Vřískot Aetheru
-tagItemSkillD168Desc=Vyjde z tebe nářek Aetheru, který vyděsí nepřátele ve tvém okolí.
+tagItemSkillD168Desc=Vyšlehne z tebe nářek Aetheru, který vyděsí a zmate nepřátele ve tvém okolí.
 
 tagItemSkillD169Name=Zpečetění osudu
 tagItemSkillD169Desc=Zpečetíš osud svých nepřátel, sebejistý ve vyneseném rozsudku.

@@ -62,7 +62,7 @@ tagSkillUndoClass=Změnit povolání
 #Transmuter
 tagTransmuterWindow=Iluzionista
 tagTransmuteButton=Použít iluzi
-tagTransmuteNew=Získáváš novou iluzi: {%t0}
+tagTransmuteNew=Získáváš novou iluzi: {%s0}
 tagTransmutePageFormat={%d0} / {%d1}
 tagTransmuteNoItems=Bohužel nemáš žádný předmět, který by mohl mít svou iluzi.
 tagTransmuteTotalGold=Celkem (železné mince):

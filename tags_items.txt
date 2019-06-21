@@ -667,7 +667,7 @@ tagFocusA006=[ms]tajemný kodex
 tagFocusA013=[ms]vznešený kodex
 
 tagFocusA007=[fs]runová kost
-tagFocusA008=[fs]ďábelská figurka
+tagFocusA008=[fs]ďáblova figurka
 tagFocusA009=[ms]vyleptaný roh
 tagFocusA010=[fs]zdobená lebka
 tagFocusA011=[fs]barbarská figurka
@@ -2496,6 +2496,64 @@ tagDLCConsumableA01PetSkill01=Aura pramene
 tagDLCConsumableA01PetSkill01Desc="Pramínek tě obklopuje teplým světlem, které proniká do tmy."
 tagDLCConsumableA02=Burrwitchský dryák
 tagDLCConsumableA02Desc="Není to pro lidi se slabým srdcem. Jako vedlejší účinek se může projevit nevolnost, zvracení a zapomínání, kde jste vlastně strávili včerejší večer."
+
+tagDLCConsumableA03=Posvátná bedna
+tagDLCConsumableA03Desc="Posvátné stvoření svázané z fyzickým světem."
+tagDLCConsumableA03PetSkill01=Výskyt
+
+tagDLCIllusionA11=Iluze: Boty Černého rytíře
+tagDLCA11=Boty Černého rytíře
+tagDLCA11Desc="Část zbroje zlověstného Černého rytíře."
+tagDLCIllusionA12=Iluze: Rytířské rukavice Černého rytíře
+tagDLCA12=Rytířské rukavice Černého rytíře
+tagDLCIllusionA13=Iluze: Helmice Černého rytíře
+tagDLCA13=Helmice Černého rytíře
+tagDLCIllusionA14=Iluze: Náholeníky Černého rytíře
+tagDLCA14=Náholeníky Černého rytíře
+tagDLCIllusionA15=Iluze: Štít Černého rytíře
+tagDLCA15=Štít Černého rytíře
+tagDLCIllusionA16=Iluze: Chrániče ramen Černého rytíře
+tagDLCA16=Chrániče ramen Černého rytíře
+tagDLCIllusionA17=Iluze: Meč Černého rytíře
+tagDLCA17=Meč Černého rytíře
+tagDLCIllusionA18=Iluze: Hrudní chránič Černého rytíře
+tagDLCA18=Hrudní chránič Černého rytíře
+
+tagDLCIllusionA19=Iluze: Boty Stříbrného rytíře
+tagDLCA19=Boty Stříbrného rytíře
+tagDLCA19Desc="Část zbroje svatého Stříbrného rytíře."
+tagDLCIllusionA20=Iluze: Rytířské rukavice Stříbrného rytíře
+tagDLCA20=Rytířské rukavice Stříbrného rytíře
+tagDLCIllusionA21=Iluze: Helmice Stříbrného rytíře
+tagDLCA21=Helmice Stříbrného rytíře
+tagDLCIllusionA22=Iluze: Náholeníky Stříbrného rytíře
+tagDLCA22=Náholeníky Stříbrného rytíře
+tagDLCIllusionA23=Iluze: Štít Stříbrného rytíře
+tagDLCA23=Štít Stříbrného rytíře
+tagDLCIllusionA24=Iluze: Chrániče ramen Stříbrného rytíře
+tagDLCA24=Chrániče ramen Stříbrného rytíře
+tagDLCIllusionA25=Iluze: Meč Stříbrného rytíře
+tagDLCA25=Meč Stříbrného rytíře
+tagDLCIllusionA26=Iluze: Hrudní chránič Stříbrného rytíře
+tagDLCA26=Hrudní chránič Stříbrného rytíře
+
+tagDLCIllusionA27=Iluze: Oštěp Dračího generála
+tagDLCA27=Oštěp Dračího generála
+tagDLCA27Desc="Část úctyhodné sbírky Dračího generála."
+tagDLCIllusionA28=Iluze: Helmice Dračího generála
+tagDLCA28=Helmice Dračího generála
+tagDLCIllusionA29=Iluze: Zbroj Dračího generála
+tagDLCA29=Zbroj Dračího generála
+
+tagDLCIllusionA30=Iluze: Hůl Bílého čaroděje
+tagDLCA30=Hůl Bílého čaroděje
+tagDLCA30Desc="Část záhadného oděvu Bílého čaroděje."
+tagDLCIllusionA31=Iluze: Klobouk Bílého čaroděje
+tagDLCA31=Klobouk Bílého čaroděje
+tagDLCIllusionA32=Iluze: Róba Bílého čaroděje
+tagDLCA32=Róba Bílého čaroděje
+
+
 
 #ItemNote
 

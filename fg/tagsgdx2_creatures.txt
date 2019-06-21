@@ -254,6 +254,8 @@ tagGDX2Pet_Item_Mini=Korvanská potvůrka
 tagGDX2Pet_Item_Mini_Skill=Uplakánek
 tagGDX2Pet_Item_Maggot=Nebeská larva
 tagGDX2Pet_Item_Maggot_Skill=Zavíječ
+tagGDX2Pet_Item_Devourer=Otesánek
+tagGDX2Pet_Item_Devourer_Skill=Nenažranost!
 
 tagGDX2Pet_Devotion_BlackBlood=Yugolova černá krev
 

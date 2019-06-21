@@ -15,6 +15,8 @@ tagGDX2WeaponSwordD201_Desc="Jed napuštěný v této čepeli zapáchá hnilobou
 tagGDX2WeaponSwordD202=Čepel duší
 tagGDX2WeaponSwordD205=Zmrzlé srdce
 tagGDX2WeaponSwordD205_Desc="Do rukojeti jsou ve spěchu vydrápaná slova 'Uvíznul jsem v jiný realitě, pošli pomoc prosím'."
+tagGDX2WeaponSwordD206=Čepel písečného ďábla
+tagGDX2WeaponSwordD207=Plátkovač písečného ďábla
 
 tagGDX2WeaponSwordF201=Bysmielina čepel
 tagGDX2WeaponSwordF202=Solaelův kráječ
@@ -31,6 +33,10 @@ tagGDX2WeaponBluntC201=Kalastorianova palička
 
 tagGDX2WeaponBluntD201=Palička vyhladovělých duší
 tagGDX2WeaponBluntD202=Amatokův posel
+tagGDX2WeaponBluntD203=Targova palice
+tagGDX2WeaponBluntD204=Úplně normální pukléř
+tagGDX2WeaponBluntD205=Úplně normální úlomek světla
+tagGDX2WeaponBluntD206=Úplně normální záštita
 
 tagGDX2WeaponBluntF201=Bysmielino válečné kladivo
 tagGDX2WeaponBluntF202=Solaelovo válečné kladivo
@@ -164,6 +170,7 @@ tagGDX2ShieldD201=Trní
 tagGDX2ShieldD202=Dotek ze záhrobí
 tagGDX2ShieldD203=Chránič ctnosti
 tagGDX2ShieldD204=Obránce Tří
+tagGDX2ShieldD205=Hradba pusté duše
 
 tagGDX2ShieldF201=Bysmielin obránce
 tagGDX2ShieldF202=Dreegův ochránce
@@ -195,6 +202,7 @@ tagGDX2FocusD205_Desc="Mocný strážce Korvanského lidu možná padl, ale jeho
 tagGDX2FocusD206=Figurka cyklóny
 tagGDX2FocusD207=Inashkorova zkažená hlava
 tagGDX2FocusD207_Desc="Mocný strážce Korvanského lidu padl do rukou Chthonského nájezdníka, který jeho obrovskou sílu navždy otrávil Prázdnotou."
+tagGDX2FocusD208=Pyranova figurka
 
 tagGDX2FocusF201=Bysmielina figurka ohně
 tagGDX2FocusF202=Bysmielina poskvrněná figurka
@@ -250,6 +258,11 @@ tagGDX2HeadD213=Maska cyklóny
 tagGDX2HeadD214=Kapuce Pána zmaru
 tagGDX2HeadD215=Callagadrův chránič hlavy
 tagGDX2HeadD215_Desc="Tvar představuje korvanského obyvatele utíkajícího před likvidací."
+tagGDX2HeadD216=Maska písečného ďábla
+tagGDX2HeadD217=Pyranův chránič hlavy
+tagGDX2HeadD218=Targova helma
+tagGDX2HeadD219=Chránič hlavy pusté duše
+tagGDX2HeadD220=Umrlcova maska
 
 tagGDX2HeadF201=Bysmielina noční přilbice
 tagGDX2HeadF202=Bysmielina hrůzná kapuce
@@ -294,6 +307,10 @@ tagGDX2ShoulderD211=Tkané nárameníky cyklóny
 tagGDX2ShoulderD212=Rah'Zinovy chrániče ramen
 tagGDX2ShoulderD213=Tkané nárameníky Pána zmaru
 tagGDX2ShoulderD214=Gholovy tkané nárameníky
+tagGDX2ShoulderD215=Pyranovy tkané nárameníky
+tagGDX2ShoulderD216=Targovy chrániče ramen
+tagGDX2ShoulderD217=Tkané nárameníky pusté duše
+tagGDX2ShoulderD218=Umrlcovy chrániče ramen
 
 tagGDX2ShoulderF201=Bysmieliny tajemné rytířské nárameníky
 tagGDX2ShoulderF202=Bysmieliny bouřné tkané nárameníky
@@ -341,6 +358,11 @@ tagGDX2TorsoD210=Zbroj Tří
 tagGDX2TorsoD211=Harrův hrudní chránič
 tagGDX2TorsoD212=Rah'Zinova zbroj
 tagGDX2TorsoD213=Gholovo roucho
+tagGDX2TorsoD214=Kabátec písečného ďábla
+tagGDX2TorsoD215=Pyranův háv
+tagGDX2TorsoD216=Targův hrudní chránič
+tagGDX2TorsoD217=Zbroj pusté duše
+tagGDX2TorsoD218=Umrlcův hrudní chránič
 
 tagGDX2TorsoF201=Bysmielin noční hrudní chránič
 tagGDX2TorsoF202=Bysmielin odporný háv
@@ -487,6 +509,7 @@ tagGDX2NecklaceD210=Harrova ochrana
 tagGDX2NecklaceD211=Rah'Zinův drahokam
 tagGDX2NecklaceD212=Klenba Pána zmaru
 tagGDX2NecklaceD213=Bysmielina duhovka
+tagGDX2NecklaceD214=Umrlcův emblém
 
 tagGDX2NecklaceF201=Bysmielin šampiónský přívěsek
 tagGDX2NecklaceF202=Bysmielin zahalený přívěsek
@@ -590,6 +613,11 @@ tagGDX2Blueprint_ArmorD212=Plánek: Maska cyklóny
 tagGDX2Blueprint_ArmorD213=Plánek: Rah'Zinova zbroj
 tagGDX2Blueprint_ArmorD214=Plánek: Kapuce Pána zmaru
 tagGDX2Blueprint_ArmorD215=Plánek: Gholovo roucho
+tagGDX2Blueprint_ArmorD216=Plánek: Maska písečného ďábla
+tagGDX2Blueprint_ArmorD217=Plánek: Pyranův chránič hlavy
+tagGDX2Blueprint_ArmorD218=Plánek: Targova helma
+tagGDX2Blueprint_ArmorD219=Plánek: Chránič hlavy pusté duše
+tagGDX2Blueprint_ArmorD220=Plánek: mrlcova maska
 
 tagGDX1Blueprint_AccessoryD121I=Plánek: Řetízek božských šepotů
 
@@ -719,6 +747,9 @@ tagGDX2Consumable_01_Desc="Účel koule, respektive její původ, je zcela záha
 
 tagGDX2Consumable_02=Nebeská koule
 tagGDX2Consumable_02_Desc="Zbytek Pokřivené říše. Ale k jakému účelu to slouží..."
+
+tagGDX2Consumable_03=Koule Prázdnoty
+tagGDX2Consumable_03_Desc="Tato koule se blyští energiemi Prázdnoty. Pravděpodobně není bezpečné ji brát do rukou..."
 
 
 #ItemEnchantment
@@ -1069,6 +1100,22 @@ tagGDX2ItemSetD212Desc="Ghol byl krutý, ale oslnivý - přesně takové vlastno
 tagGDX2ItemSetD213Name=Bysmieliny cetky
 tagGDX2ItemSetD213Desc="Během jejích smrtelných dnů byla Paní šepotů známá shromažďováním silních předmětů, které posilovaly její nadvládu nad slabšími tvory. Po usednutí na trůn už tyhle drobné cetky přestala potřebovat."
 
+tagGDX2ItemSetD214Name=Korvanský písečný ďábel
+tagGDX2ItemSetD214Desc=Korvanský písečný ďábel usiloval o to být jako hadi Korvanské pouště. Nepolapitelný... rychlý... a smrtící.
+
+tagGDX2ItemSetD215Name=Pyranovo zamyšlení
+tagGDX2ItemSetD215Desc=Pyran, jím jeho učitelé opovrhovali, se zapřísahal, že zanechá svou stopu v historii alchymie a temného umění. Jeho pokusy mu akorát znetvořily tělo.
+
+tagGDX2ItemSetD216Name=Targovo umění
+tagGDX2ItemSetD216Desc=Říká se, že tato zbroj byla ukována samotným stvořitelem hvězd, a že ztělesňuje síly jeho těla a vůle.
+
+tagGDX2ItemSetD217Name=Pustá duše
+tagGDX2ItemSetD217Desc=Tato kdysi posvěcená zbroj je nyní pohlcena zlověstnými energiemi, a Prázdnota zničila její srdce na celou věčnost.
+
+tagGDX2ItemSetD218Name=Umrlec
+tagGDX2ItemSetD218Desc=Umrlec se vyžíval ve vraždění lidí i zvířat a příležitostně se oblékal do jejich kůží ještě dlouho poté, co začaly hnít.
+
+
 
 #LootChests
 
@@ -1152,3 +1199,6 @@ tagGDX2DifficultyUnlock02_Desc=Důkaz o porážce všech hrůz Cairnu a odemčen
 tagGDX2DifficultyUnlockStats={^E}Odemkne body atributů a dovedností za úkoly na nižších obtížnostech
 tagGDX2DifficultyUnlockTeleporters={^E}Odemkne všechny Brány na nižších obtížnostech
 tagGDX2DifficultyUnlockBags={^E}Odemkne všechny pytle na věci
+
+
+

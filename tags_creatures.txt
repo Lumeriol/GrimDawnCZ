@@ -1046,6 +1046,7 @@ tagRelicSwarm=Poblázněný roj
 
 
 tagDLCWisp=Bludička
+tagDLCCrate=Posvátná bedna
 
 #EnemySummons
 

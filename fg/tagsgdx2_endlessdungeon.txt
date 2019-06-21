@@ -20,6 +20,9 @@ tagGDX2EndlessDungeon_Boss12=Pokřivený vyvrhel
 tagGDX2EndlessDungeon_Boss13=Salazin, Pokřivená čepel
 tagGDX2EndlessDungeon_Boss14=Hinass, Pokřivená břitva
 tagGDX2EndlessDungeon_Boss15=Strážce Pokřivených bran
+tagGDX2EndlessDungeon_Boss16=Ztělesnění hladu
+tagGDX2EndlessDungeon_Boss16_Tentacle=Hladové chapadlo
+tagGDX2EndlessDungeon_Boss16_Void=Hladová Prázdnota
 
 tagGDX2EndlessDungeon_Special01=Fanatik ~ Kult Dolu
 tagGDX2EndlessDungeon_Special02=První pozorovatel
@@ -33,6 +36,13 @@ tagGDX2EndlessDungeon_Special08=Duch vývojářů
 tagGDX2EndlessDungeon_Special09=Vybledlý dromedár
 tagGDX2EndlessDungeon_Special10=Vybledlý dromedár ~ šampión
 tagGDX2EndlessDungeon_Special11=Vybledlý dromedár ~ pozorovatel
+tagGDX2EndlessDungeon_Special12=Vyhladovělý červ
+tagGDX2EndlessDungeon_Special13=Zapálený červ
+tagGDX2EndlessDungeon_Special14=Nafouklý červ
+tagGDX2EndlessDungeon_Special15=Přežraný červ
+tagGDX2EndlessDungeon_Special16=Nestabilní hltoun
+tagGDX2EndlessDungeon_Special17=Vyžraný polykač
+tagGDX2EndlessDungeon_Special18=Otesánek
 
 tagGDX2EndlessDungeon_Lever01=Červená páka
 tagGDX2EndlessDungeon_Lever02=Zelená páka

@@ -68,7 +68,7 @@ tagGDX1Class07SkillDescription03D=Díky šíření své vůle skrze masivní obo
 tagGDX1Class07SkillName04A=Ignaffarovy plameny
 tagGDX1Class07SkillDescription04A=Podržíš Ignaffarův kámen před sebou a můžeš tak chrlit plameny ze své dlaně po celou dobu, kdy bude tvá mysl propojená s relikvií. ^oJedná se o průběžnou dovednost, která musí být udržována, aby účinkovala. ^oPři 100% rychlosti kouzlení spalují Ignaffarovy plameny magickou energii a vysávají ji každé 0.3 sekundy.
 tagGDX1Class07SkillName04B=Zesílení
-tagGDX1Class07SkillDescription04B=Ignaffarovy plameny sílí, propalují zbroj a na popel spálí tkáně.
+tagGDX1Class07SkillDescription04B=Ignaffarovy plameny sílí, propalují všechny ochranu a na popel spálí tkáně.
 tagGDX1Class07SkillName04C=Pekelná čistka
 tagGDX1Class07SkillDescription04C=Tvá vůle budou proudit skrze Ignaffarův kámen a bude čistit svět od slabých pomocí rozohněného pekla.
 tagGDX1Class07SkillName04D=Nekonečný plamen
@@ -360,7 +360,7 @@ tagGDX1ItemSkillD128Name=Výdrž gladiátora
 tagGDX1ItemSkillD128Desc=Výdrž díky slavným bitvám. ^oToto je pasivní bonus pro obouruční chladné a obouruční střelné zbraně.
 
 tagGDX1ItemSkillD129Name=Zrádné úmysly
-tagGDX1ItemSkillD129Desc=Vítězství za každou cenu. ^oToto je pasivní bonus pro střelné zbraně.
+tagGDX1ItemSkillD129Desc=Vítězství za každou cenu. ^oThis is a melee dual-wielding and ranged dual-wielding passive bonus. Also enables the ability to dual wield weapons.
 
 tagGDX1ItemSkillD130Name=Koule z magmatu
 tagGDX1ItemSkillD130Desc=Vrhneš projektil čistého ohně, který zraňuje už při sebemenším kontaktu.

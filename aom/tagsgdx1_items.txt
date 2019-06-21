@@ -73,7 +73,7 @@ tagWeaponGun1hC013B=Vyjednavač
 tagGDX1WeaponGun1hC101=Hlasitý odpor
 tagGDX1WeaponGun1hC101B=Odpor
 tagGDX1WeaponGun1hC102=Aldurův výslech
-tagGDX1WeaponGun1hC102_Desc=Třetí ruka inkvizitora Aldura, proslulého lovce kacířů a zabijáka Galbar'Thuula.
+tagGDX1WeaponGun1hC102_Desc="Třetí ruka inkvizitora Aldura, proslulého lovce kacířů a zabijáka Galbar'Thuula."
 tagGDX1WeaponGun1hC103=Gargabolova duše
 tagGDX1WeaponGun1hC103_Desc="Záblesk plamene kdysi mocného strážce stále vyzařuje ze svého nitra."
 tagGDX1WeaponGun1hC108=Ultosův metač bouří
@@ -269,7 +269,7 @@ tagGDX1FocusB105Desc="Bible se ve tvých rukách kroutí."
 tagGDX1FocusB106=[ms]masorvoucí kodex
 tagGDX1FocusB107=[ms]masorvoucí archiv
 tagGDX1FocusB108=[fs]bible nepovedených kouzel
-tagGDX1FocusB109=[fs]čadící figurka
+tagGDX1FocusB109=[fs]čadící bible
 tagGDX1FocusB110=[ms]listohřívnatcův roh
 tagGDX1FocusB111=[fs]listohřívnatcova trofej
 
@@ -904,7 +904,7 @@ tagGDX1Blueprint_WeaponB103=Plánek: Sekáček krveprolití
 tagGDX1Blueprint_WeaponB104=Plánek: Střevodrtič
 tagGDX1Blueprint_WeaponB105=Plánek: Kamenná zeď
 tagGDX1Blueprint_WeaponB106=Plánek: Bible nepovedených kouzel
-tagGDX1Blueprint_WeaponB107=Plánek: Čadící figurka
+tagGDX1Blueprint_WeaponB107=Plánek: Čadící bible
 tagGDX1Blueprint_WeaponB108=Plánek: Hůlka mrazivé hniloby
 tagGDX1Blueprint_WeaponB109=Plánek: Žezlo mrtvých dětí
 
@@ -1221,11 +1221,6 @@ tagGDX1ConsumableF107Desc="Lepkavá tekutina s neuvěřitelným potenciálem."^o
 
 tagGDX1Consumable_AttributeReset=Tonikum znetvoření
 tagGDX1Consumable_AttributeReset_Desc="Naplní tě nepříjemným teplem a pomalu se ti zdá, že tvé tělo se začíná znetvořovat."
-
-#DLC
-tagGDX1DLCA01=Iluze: Prachová paruka
-tagGDX1DLCA01Desc="Definice kultivovanosti a stylu."
-
 
 
 
@@ -1875,3 +1870,30 @@ tagGDX1EpicDoor_AncientGroveLocked= {^R} ~ střeženo Mogdrogenem (potřebuješ 
 tagGDX1Door_Vine=Úponky
 tagGDX1Door_Flesh=Živé dveře z masa
 tagGDX1Door_Puppetmaster=Dveře ze zbytků těl
+
+
+#DLC
+tagGDX1DLCIllusionA01=Illusion: Black Knight Armor
+tagGDX1DLCA01=Black Knight Armor
+tagGDX1DLCA01Desc="The sinister Black Knight Armor."
+
+
+tagGDX1DLCIllusionA02=Illusion: Silver Knight Armor
+tagGDX1DLCA02=Silver Knight Armor
+tagGDX1DLCA02Desc="The sacred Silver Knight Armor."
+
+tagGDX1DLCIllusionA03=Illusion: Dragon General Collection
+tagGDX1DLCA03=Dragon General Collection
+tagGDX1DLCA03Desc="The venerable General collection."
+
+tagGDX1DLCIllusionA04=Illusion: White Wizard
+tagGDX1DLCA04=White Wizard Attire
+tagGDX1DLCA04Desc="The enigmatic White Wizard's attire."
+
+tagGDX1DLCIllusionHelmInvisible=Invisible Helm
+tagGDX1DLCIllusionHelmInvisibleDesc="100% of the protection with 0% of the weight. Now also dairy-free."
+
+tagGDX1DLCIllusionShouldersInvisible=Invisible Shoulderguards
+tagGDX1DLCIllusionShouldersInvisibleDesc="100% of the protection with 0% of the weight. Now also dairy-free."
+
+

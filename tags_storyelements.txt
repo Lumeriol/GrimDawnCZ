@@ -1295,6 +1295,7 @@ tagNPC_GateGuardA01=Rook ~ Strážce brány
 #Merchants and Other Services
 
 tagNPC_BonusItems=Kustod Kory
+tagNPC_BonusItems02=Rytíř Lancel
 
 tagNPC_MerchantA01=Roan
 tagStoreTitle_MerchantA01=Trhovec
@@ -1396,6 +1397,8 @@ tagStoreDesc_SmithA06_1={}Poznání nepřítele
 tagStoreDesc_SmithA06_2=Hallena sledovala a studovala nepřátele lidstva a naučila se vkládat jejich moc do kovářského řemesla.
 tagStoreDesc_SmithA06_3=
 tagStoreDesc_SmithA06_4=Vyrobené zbraně, zbroj a příslušenství jsou prodchnuty jednou z následujících vlastností:
+
+tagNPC_PowerupsS01=Torralia, mistrovská čarodějka
 
 #Faction Quartermasters
 tagNPC_FactionQuartermaster_01=Ellis
