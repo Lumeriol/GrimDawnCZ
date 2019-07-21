@@ -1,27 +1,27 @@
-Lancel the Knight
-Greetings!{^n}{^n}I am Lancel, and I've traveled the world in search of one worthy of my collection.{^n}{^n}Are you such a one?
-I am feeling knightly.
-As you should!{^n}{^n}But are you in more of a silver mood...or perhaps something a bit more sinister?
-The silver armaments!
-A fine choice.{^n}{^n}I might say it's my favorite choice!{^n}{^n}Be aware, this is quite the large collection, so make sure your bags have enough space.
-(Receive Illusions: Silver Knight)
-The black armaments!
-Hm, can't say it's what I would go with, but who am I to judge?{^n}{^n}Be aware, this is quite the large collection, so make sure your bags have enough space.
-(Receive Illusions: Black Knight)
-What was the most impressive thing you've seen?
-It was a splendid sight.{^n}{^n}He fought as if he were a ferocious beast. His spear cut through foes in a blur.{^n}{^n}This armor is now all that remains of the venerable warrior.{^n}{^n}Be aware, this is a large collection, so make sure your bags have enough space.
-(Receive Illusions: Dragon General)
-Have you met any wizards in your travels?
-Indeed I have. Powerful beings they are, not to be trifled with.{^n}{^n}Although the one I met was very wise, very ancient...but an enigmatic fellow.{^n}{^n}He told me to fly.{^n}{^n}Be aware, this is a large collection, so make sure your bags have enough space.
-(Receive Illusions: White Wizard)
-I could use a companion.
-This is a lonely world, it helps to have a friend.
-I'll take the sacred crate.
-This creature is a symbol of great fortune in many cultures.{^n}{^n}Treat it well.
-(Receive Item: Sacred Crate)
-I'm tired of these Illusions.
-I understand. Looking this good can become quite the burden.
-(Receive Item: Illusion-Be-Gone)
-Then start fresh with Illusion-Be-Gone!
-True, I already have that.
-Um, ok. Goodbye.
+Rytíř Lancel
+Zdravím tě!{^n}{^n}Já jsem Lancel a procestoval jsem svět, abych našel někoho, kdo je hoden mé sbírky.{^n}{^n}Jsi [[ms]jedním[fs]jednou] z nich?
+Cítím se jako rytíř.
+Přesně tak, jak bys [[ms]měl[fs]měla]!{^n}{^n}Jsi ale spíš na stříbro....nebo možná ještě něco zlověstnějšího?
+Stříbrná výzbroj!
+Dobrá volba.{^n}{^n}Mohu říci, že je moje oblíbená!
+(Získej Iluzi: Stříbrný rytíř)
+Černá výzbroj!
+Hm, nemůžu říct, že bych si jí vybral, kým ale jsem, abych tě soudil?
+(Získej Iluzi: Černý rytíř)
+Co bylo tou nejipozantnější věcí, kterou jsi kdy viděl?
+Byl to nádherný pohled.{^n}{^n}Bojoval, jako kdyby byl zuřivou bestií. Jeho kopí probodávalo v mžiku nepřátele.{^n}{^n}Toto brnění je nyní vše, co zbylo po uznávaném válečníkovi.
+(Získej Iluzi: Dračí generál)
+Potkal jsi někdy na svých cestách kouzelníka?
+Vskutku ano. Jsou to mocné bytosti, neradno si s nimi zahrávat.{^n}{^n}Ikdyž potkal jsem jednoho velmi moudrého, starého....záhadný chlapík.{^n}{^n}Řekl mi, abych vzlétl.
+(Získej Iluzi: Bílý kouzelník)
+[[ms]Využil[fs]Využila] bych pomocníka.
+Tohle je osamělý svět, je dobré mít někoho po boku.
+VEzmu si posvátnou krabici.
+Toto stvoření je v mé zemi symbolem velkolepého osudu.{^n}{^n}Dobře se o něj starej.
+(Získej Iluzi: Svatá krabice)
+Už jsem z těch iluzí [[ms]unavený[fs]unavená].
+Chápu. Vypadat tak dobře se snadno stane břemenem.
+(Získej Iluzi: Iluze-zmiz)
+Pak začni od znovu s Iluzí-zmiz!
+Pravda, tu mám.
+Um, ok. Sbohem.

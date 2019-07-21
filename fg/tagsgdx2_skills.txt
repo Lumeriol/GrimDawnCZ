@@ -249,17 +249,17 @@ tagGDX2ItemSkillD240Desc=Ukážeš svoji autoritu nohsledům, čímž posílíš
 tagGDX2ItemSkillD241Name=Štiplavý vítr
 tagGDX2ItemSkillD241Desc=Nápor ledového vichru směřuje směrem od tebe a mrazí tvé nepřátele na kost.
 
-tagGDX2ItemSkillD242Name=Dunefiend Blades
-tagGDX2ItemSkillD242Desc=The Dunefiend's blades carry a caustic bite, which comes at your foes in a blur of steel. ^oThis is a melee dual-wielding passive bonus. Also enables the ability to dual wield melee weapons.
+tagGDX2ItemSkillD242Name=Meče Písečné stvůry
+tagGDX2ItemSkillD242Desc=Meče Písečné stvůry s sebou přináší žíravý náboj, který zasáhne nepřátele ve cvhíli, kdy se jich čepel dotkne. ^oToto je pasivní technika dvou ručních zbraní. Také umožňuje nosit dvě ruční zbraně najednou.
 
-tagGDX2ItemSkillD243Name=Pyran's Pyre
-tagGDX2ItemSkillD243Desc=Unleash a burst of violent flames at the target point.
+tagGDX2ItemSkillD243Name=Pyranova hranice
+tagGDX2ItemSkillD243Desc=Rozpoutej peklo v podobě agresivnních plamenů v místě, které určíš.
 
-tagGDX2ItemSkillD244Name=Void Soul
-tagGDX2ItemSkillD244Desc=A tormented soul infests your foe and rapidly spreads its suffering to nearby enemies.
+tagGDX2ItemSkillD244Name=Prázdná duše
+tagGDX2ItemSkillD244Desc=Zmučená duše napadne tvého nepřítele a rychle šíří svoje utrpení mezi ostatní, co jsou poblíž.
 
-tagGDX2ItemSkillD245Name=Phantasmal Blade
-tagGDX2ItemSkillD245Desc=A blade with a will of its own flies towards your foe and impales all in its way.
+tagGDX2ItemSkillD245Name=Přízračný meč
+tagGDX2ItemSkillD245Desc=Meč s svou vlastní vůlí vyletí směrem k tvému nepříteli a probodne vše, co mu stojí v cestě.
 
 
 #Component Skills
@@ -300,8 +300,8 @@ tagGDX2_SummonMiniLizardDesc=Vyvolej malého Korvanského polykače, divokou bes
 tagGDX2_SummonMaggotName=Vyvolání Hvězdné larvy
 tagGDX2_SummonMaggotDesc=Vyvolej svírající se larvu z Pokřiveného světa. ^oPouze jedna Hvězdná larva může být vyvolána v jeden moment. Larvy jsou striktně nenásilné.
 
-tagGDX2_SummonDevourer=Summon Hungerling
-tagGDX2_SummonDevourerDesc=Conjure a voracious hungerling from the void. ^oOnly one Hungerling can be summoned at any one time. Hungerlings are strictly non-violent.
+tagGDX2_SummonDevourer=Vyvolání Hladovce
+tagGDX2_SummonDevourerDesc=Vyvolej nenasytného hladovce z Prázdnoty. ^oPouze jeden Hladovec může být vyvolán v jednen moment. Hladovci jsou striktně nenásilní.
 
 
 #SkillsQuest
