@@ -85,3 +85,6 @@ tagCharStatsInquisitorSkillsBonus=Dovednosti Inkvizitora
 tagCharStatsInquisitorSkillsBonusInfo=Bonus ke všem naučeným dovednostem v povolání Inkvizitora.
 tagCharStatsNecroSkillsBonus=Dovednosti Nekromanta
 tagCharStatsNecroSkillsBonusInfo=Bonus ke všem naučeným dovednostem v povolání Nekromanta.
+
+#Caravan
+tagCaravanSearchBoxInfo=Zadej parametry do filtru pro zobrazení předmětů s daným názvem nebo vlastnostmi.

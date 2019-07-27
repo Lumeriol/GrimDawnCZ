@@ -1,5 +1,11 @@
 Riggs
-Zase zpátky?{^n}{^n}Víš, myslim že máš dost. Nevadí mi když mi lidi dlužej, to víš. {^n}{^n}Ty už mi ale dlužíš...dvakrát!{^n}{^n}Nezapomeň, že si pro svoje závazky jednou dojdu. {^n}{^n}Doufam že budeš [[ms]připravenej[fs]připravená].
+Už seš tady zase?{^n}{^n}Víš, myslim že máš dost. Nevadí mi když mi lidi dlužej, to víš. {^n}{^n}Ty už mi ale dlužíš...dvakrát!{^n}{^n}Nezapomeň, že si pro svoje závazky jednou dojdu. {^n}{^n}Doufam že budeš [[ms]připravenej[fs]připravená].
+Budu.
+To ještě uvidíme.
+Tak brzo zpátky?
+
+Tak jsem tady.
+Už seš tady zase?{^n}{^n}Víš, myslim že máš dost. Nevadí mi když mi lidi dlužej, to víš. {^n}{^n}Ty už mi ale dlužíš...dvakrát!{^n}{^n}Nezapomeň, že si pro svoje závazky jednou dojdu. {^n}{^n}Doufam že budeš [[ms]připravenej[fs]připravená].
 Budu.
 To ještě uvidíme.
 Vítej zpátky, [[ms]příteli[fs]přítelkyně].
@@ -18,9 +24,10 @@ Nic co by tě zajímalo.{^n}{^n}Zastav se až budeš mít o něco víc zkušenos
 Vrátím se.
 To je prostě super.
 Tak brzo zpátky?
-Máš pro mě něco novýho?
+Máš pro mě něco nového?
 Ha ha ha, prostě nemůžeš přestat, viď?{^n}{^n}Bohužel pro tebe ještě nic novýho nemam.{^n}{^n}Vrať se pozdějš a uvidíme jestli pak vymyslíme něco na čem spolupracovat.
 Vrátím se.
+Tak jsem tady.
 Podívejme kdopak to je. {^n}{^n}[[ms]Rozmyslel[fs]Rozmyslela] sis to?{^n}{^n}Můžem uzavřít dohodu? {^n}
 Jo, sem [[ms]připravený[fs]připravená].
 Přesně to jsem chtěl slyšet.{^n}{^n}Víš jak to funguje, že jo? {^n}{^n}Dám ti nějaký zboží a ty mi budeš viset.

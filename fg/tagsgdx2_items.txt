@@ -444,6 +444,8 @@ tagGDX2WaistD204_Desc="Značka Bílého leknínu, správců nebeské květiny, k
 tagGDX2WaistD205=Nosferattis
 tagGDX2WaistD206=Rah'Zinův strážný opasek
 tagGDX2WaistD207=Murmurův polibek
+tagGDX2WaistD208=Uzlíky smrtících prostředků
+tagGDX2WaistD208_Desc="Šeptá se mezi lidmi, že kdysi tento pás patřil noční lovkyni Nidalle, která měla každou lahvičku naplněnou speciálním toxinem. Některé z nich je dokonce možné sloučit a vytvářet tak úplně nové kombinace."
 
 tagGDX2WaistF201A=Bysmielin smrtonosný opasek stráže
 tagGDX2WaistF201B=Bysmielin smrtonosný opasek
@@ -608,7 +610,7 @@ tagGDX2Blueprint_ArmorD207=Plánek: Koruna mrazivých šepotů
 tagGDX2Blueprint_ArmorD208=Plánek: Ludriganův kapalec
 tagGDX2Blueprint_ArmorD209=Plánek: Kapuce obchodníka s kostmi
 tagGDX2Blueprint_ArmorD210=Plánek: Hledí ctnosti
-tagGDX2Blueprint_ArmorD211=Plánek: Harrova helma
+tagGDX2Blueprint_ArmorD211=Plánek: Harrova kapuce
 tagGDX2Blueprint_ArmorD212=Plánek: Maska cyklóny
 tagGDX2Blueprint_ArmorD213=Plánek: Rah'Zinova zbroj
 tagGDX2Blueprint_ArmorD214=Plánek: Kapuce Pána zmaru

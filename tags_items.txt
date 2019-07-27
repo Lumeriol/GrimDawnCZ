@@ -2521,7 +2521,7 @@ tagDLCA18=Hrudní chránič Černého rytíře
 
 tagDLCIllusionA19=Iluze: Boty Stříbrného rytíře
 tagDLCA19=Boty Stříbrného rytíře
-tagDLCA19Desc="Část zbroje svatého Stříbrného rytíře."
+tagDLCA19Desc="Část zbroje čestného Stříbrného rytíře."
 tagDLCIllusionA20=Iluze: Rytířské rukavice Stříbrného rytíře
 tagDLCA20=Rytířské rukavice Stříbrného rytíře
 tagDLCIllusionA21=Iluze: Helmice Stříbrného rytíře

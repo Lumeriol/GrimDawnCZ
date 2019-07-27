@@ -398,6 +398,8 @@ tagPortraitRemove=Vyhodit ze skupiny
 tagPortraitChat=Chat
 tagPortraitDisband=Propustit spojence
 
+tagHUDHealth_Head=({%t0}/{%t1})
+tagHUDPlayerHealth_Head={%t0}({%t1}/{%t2})
 tagHUDRoll_Health={%s0}  {%d1} / {%d2}
 tagHUDRoll_XP={%s0} {%d1}  ~  {%s2} {%d3}
 tagHUDXP_Current=Zkušenosti
@@ -1237,6 +1239,8 @@ tagCraftingProductBoxInfo=Zde se objeví složený předmět, jakmile budou umí
 tagCraftingProductBoxCompletion=Vezmi si nově složený předmět ze stolu.
 
 tagCraftingInsterComponent=Přidat komponenty zakreslené v plánku do těchto slotů.
+
+tagCraftingSearchBoxInfo=Zadej parametry do filtru pro vyhledání plánků podle jejich názvu nebo vlastností.
 
 #Subheadings
 
@@ -2283,7 +2287,7 @@ tagMove=Pohyb
 tagForceMove=Přímý pohyb
 tagUse=Interakce
 tagPickup=Zvednout
-
+tagPushToTalk=Režim "vysílačky"
 tagUC_Button=Odemknout obsah
 tagUC_Message=Zadej prosím svůj kód pro odemčení nového obsahu.
 tagUC_OK=OK

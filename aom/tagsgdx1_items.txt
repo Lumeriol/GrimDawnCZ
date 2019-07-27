@@ -628,7 +628,7 @@ tagGDX1WaistD102=Gladiátorova zvláštnost
 tagGDX1WaistD103=Šňůra vyvolavače duchů
 tagGDX1WaistD103_Desc="Každý zbloudilý duch skončí jako vlákno tohoto opasku."
 tagGDX1WaistD104=Sada zrádných prostředků
-tagGDX1WaistD104_Desc="Šeptá se mezi lidmi, že kdysi tento pás patřil noční lovkyni Nidalle, která měla každou lahvičku naplněnou speciálním toxinem. Některé z nich je dokonce možné sloučit a vytvářet tak úplně nové kombinace."
+tagGDX1WaistD104_Desc="Sbírka jemných prachů a toxinů ideálních pro chemické reakce, díky nimž se střelné zbraně staly výzvou pro různé alchymisty."
 tagGDX1WaistD105=Šňůra obelhání
 tagGDX1WaistD106=Beronathovy šupiny
 tagGDX1WaistD106_Desc="Šupiny z velkého netvora Beronatha ani po mnoha staletích neshnily a evidentně se tak ani dlouze nestane."
@@ -1873,27 +1873,27 @@ tagGDX1Door_Puppetmaster=Dveře ze zbytků těl
 
 
 #DLC
-tagGDX1DLCIllusionA01=Illusion: Black Knight Armor
-tagGDX1DLCA01=Black Knight Armor
-tagGDX1DLCA01Desc="The sinister Black Knight Armor."
+tagGDX1DLCIllusionA01=Iluze: Zbroj Černého rytíře
+tagGDX1DLCA01=Zbroj Černého rytíře
+tagGDX1DLCA01Desc="Zbroj zlověstného Černého rytíře."
 
 
-tagGDX1DLCIllusionA02=Illusion: Silver Knight Armor
-tagGDX1DLCA02=Silver Knight Armor
-tagGDX1DLCA02Desc="The sacred Silver Knight Armor."
+tagGDX1DLCIllusionA02=Iluze: Zbroj Stříbrného rytíře
+tagGDX1DLCA02=Zbroj Stříbrného rytíře
+tagGDX1DLCA02Desc="Zbroj čestného Stříbrného rytíře."
 
-tagGDX1DLCIllusionA03=Illusion: Dragon General Collection
-tagGDX1DLCA03=Dragon General Collection
-tagGDX1DLCA03Desc="The venerable General collection."
+tagGDX1DLCIllusionA03=Iluze: Sbírka Dračího generála
+tagGDX1DLCA03=Sbírka Dračího generála
+tagGDX1DLCA03Desc="Generálova úctyhodná sbírka."
 
-tagGDX1DLCIllusionA04=Illusion: White Wizard
-tagGDX1DLCA04=White Wizard Attire
-tagGDX1DLCA04Desc="The enigmatic White Wizard's attire."
+tagGDX1DLCIllusionA04=Iluze: Bílý čaroděj
+tagGDX1DLCA04=Oděv Bílého čaroděje
+tagGDX1DLCA04Desc="Záhadný oděv Bílého čaroděje."
 
-tagGDX1DLCIllusionHelmInvisible=Invisible Helm
-tagGDX1DLCIllusionHelmInvisibleDesc="100% of the protection with 0% of the weight. Now also dairy-free."
+tagGDX1DLCIllusionHelmInvisible=Helma neviditelnosti
+tagGDX1DLCIllusionHelmInvisibleDesc="100% ochrana s 0% přírůstkem hmotnosti. Nyní také bez laktózy."
 
-tagGDX1DLCIllusionShouldersInvisible=Invisible Shoulderguards
-tagGDX1DLCIllusionShouldersInvisibleDesc="100% of the protection with 0% of the weight. Now also dairy-free."
+tagGDX1DLCIllusionShouldersInvisible=Nárameníky neviditelnosti
+tagGDX1DLCIllusionShouldersInvisibleDesc="100% ochrana s 0% přírůstkem hmotnosti. Nyní také bez laktózy."
 
 
