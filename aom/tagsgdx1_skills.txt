@@ -290,7 +290,7 @@ tagGDX1ItemSkillD104Desc=Duchové uvnitř sekery vyrazí proti tvému nepřítel
 tagGDX1ItemSkillD105Name=Smrtelníkova smyčka
 tagGDX1ItemSkillD105Desc=Morguulovy toxiny urychlují u oběti proces umírání a ta se přibližuje svému nevyhnutelnému konci.
 
-tagGDX1ItemSkillD106Name=Jedovaté kopí  
+tagGDX1ItemSkillD106Name=Jedovaté kopí
 tagGDX1ItemSkillD106Desc=Vrhne na nepřítele jedovaté kopí, které jej probodne.
 
 tagGDX1ItemSkillD107Name=Malmouthská vynalézavost
@@ -522,8 +522,8 @@ tagGDX1ItemSkillD181Desc=Vyvoláš mučenou duši lorda Nazarana, aby vtrhla mez
 tagGDX1ItemSkillD182Name=Mrazíkova značka
 tagGDX1ItemSkillD182Desc=Mrazíkovou značkou se rozumí rozdmýchání nesvárů a zmatků mezi politickými špičkami. Pokud ji použiješ na své nepřátele, naplní je obdobnými pocity a způsobí jim pocit chycení do pasti.
 
-tagGDX1ItemSkillD183Name=Tormented Soul Well
-tagGDX1ItemSkillD183Desc=Tear open a rift to the beyond, unleashing a well of tormented spirits that will tear at any enemy that dares enter it.
+tagGDX1ItemSkillD183Name=Studnice zmučených duší
+tagGDX1ItemSkillD183Desc=Vytvoč trhlinu na onen svět a otevři studnici plnou zmučených duchů, kteří začnou na kusy trhat jakéhokoliv nepřítele, který se do ní pokusí vstoupit.
 
 tagGDX1w=GrimDawn/images/evil
 
@@ -845,4 +845,3 @@ tagGDX1EnemySkillD16_Desc=Kolem se potlouká obrovská nestvůra, naplňuje tě 
 
 tagGDX1EnemySkillD17=Žhavá krev
 tagGDX1EnemySkillD17_Desc=Gargabolova žhavá krev spaluje tvé odolnosti.
-

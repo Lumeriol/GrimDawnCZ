@@ -2923,8 +2923,8 @@ tagEnemySkillA19_Desc=Tvá síla byla prokleta, tvá rychlost a způsobené zran
 tagEnemySkillA20=Mor
 tagEnemySkillA20_Desc=Paralyzuje tě na nějakou dobu otrava krve, tvé útočné a obranné schopnosti jsou zcela ochromeny.
 
-tagEnemySkillA21=Blade Swarm
-tagEnemySkillA21_Desc=A swarm of enchanted blades cuts into your flesh and shreds your defenses.
+tagEnemySkillA21=Roj z mečů
+tagEnemySkillA21_Desc=Roj očarovaných mečů seká do tvého těla trhá na kusy tvou obranu.
 
 tagEnemySkillD01=Entropická Prázdnota
 tagEnemySkillD01_Desc=Prázdnota tě pomalu trhá na kousky vlivem chaotické energie.
