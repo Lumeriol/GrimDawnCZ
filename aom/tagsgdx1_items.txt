@@ -134,6 +134,7 @@ tagGDX1WeaponGun2hF101=Malmouthská karabina
 tagGDX1WeaponGun2hF102=Malmouthská puška
 tagGDX1WeaponGun2hF103=Wendigův metač odštěpků
 tagGDX1WeaponGun2hF104=Beznaděj
+tagGDX1WeaponGun2hF104_Desc="Každý nepřítel je pouze na chvíli ušetřen toho, co bude následovat."
 
 
 tagGDX1WeaponMelee2hB101=[fs]duše masového rváče
@@ -1889,6 +1890,10 @@ tagGDX1DLCA03Desc="Generálova úctyhodná sbírka."
 tagGDX1DLCIllusionA04=Iluze: Bílý čaroděj
 tagGDX1DLCA04=Oděv Bílého čaroděje
 tagGDX1DLCA04Desc="Záhadný oděv Bílého čaroděje."
+
+tagGDX1DLCIllusionA05=Iluze: Černokněžník
+tagGDX1DLCA05=Oděv Černokněžníka
+tagGDX1DLCA05Desc="Odporný oděv Černokněžníka."
 
 tagGDX1DLCIllusionHelmInvisible=Helma neviditelnosti
 tagGDX1DLCIllusionHelmInvisibleDesc="100% ochrana s 0% přírůstkem hmotnosti. Nyní také bez laktózy."

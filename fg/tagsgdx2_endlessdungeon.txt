@@ -65,6 +65,8 @@ tagGDX2EndlessDungeon_Boss_Summon02_Skill_Desc=Hladová zima z nekonečné temno
 tagGDX2EndlessDungeon_S201=Úplně normální štít
 tagGDX2EndlessDungeon_S201_Desc="Chmatáci z jihu jistě pochopí."
 tagGDX2EndlessDungeon_S202=Halapartna z vybledlé kosti
+tagGDX2EndlessDungeon_S203=Leovinův prsten
+tagGDX2EndlessDungeon_S203_Desc="Krásně zachovalý prsten vyrobený ze zvláštního, velmi měkkého materiálu. Vypadá poměrně prostě.."
 
 #NPCs
 tagGDX2EndlessDungeon_NPC_Event01=Mazaan, strážce portálů

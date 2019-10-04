@@ -2553,6 +2553,13 @@ tagDLCA31=Klobouk Bílého čaroděje
 tagDLCIllusionA32=Iluze: Róba Bílého čaroděje
 tagDLCA32=Róba Bílého čaroděje
 
+tagDLCIllusionA33=Iluze: Hůl Černokněžníka
+tagDLCA33=Hůl Černokněžníka
+tagDLCA33Desc="Část luxusního oděvu Černokněžníka."
+tagDLCIllusionA34=Iluze: Klobouk Černokněžníka
+tagDLCA34=Klobouk Černokněžníka
+tagDLCIllusionA35=Iluze: Róba Černokněžníka
+tagDLCA35=Róba Černokněžníka
 
 
 #ItemNote
@@ -3262,7 +3269,7 @@ tagCompA028Name=Zžíravý žlučníkový kámen
 tagCompA028Desc="Jedovaté kameny vytvořené ve žluči odporných bestií."^w^n(může vylepšit chladnou zbraň, štít nebo kouzelnický příruční předmět)
 
 tagCompA029Name=Posvěcený brousek
-tagCompA029Desc="Zostřuje i nejostřejší ostří, čímž se zvyšuje zranění, jakmile čepel pronikne zbrojí."^w^n(může vylepšit sekyru nebo meč)
+tagCompA029Desc="Zostřuje i nejostřejší ostří, čímž se zvyšuje zranění, jakmile čepel pronikne zbrojí."^w^n(může vylepšit sekyru, meč, pušku nebo kuši)
 
 tagCompA030Name=Vzorek hedvábí
 tagCompA030Desc="Západní kočovníci již dávno věděli, že vrstvené hedvábí může zahalit tělo a zpomalit průnik bodavých úderů."^w^n(může vylepšit nárameníky, hrudní zbroj nebo ochranu nohou)
@@ -3407,10 +3414,10 @@ tagCompB014Name=^kBeronathův úlomek
 tagCompB014Desc="Kousek legendárního kopí, kterým byl poražen Beronath, si stále zachovává své ostří."^w^n(může vylepšit všechny druhy zbraní, štít nebo kouzelnický příruční předmět)
 
 tagCompB015Name=^kKrvavý brousek
-tagCompB015Desc="Namočený v krvi padlých dává tento prokletý brousek čepelím touhu po krvi."^w^n(může vylepšit sekyru nebo meč)
+tagCompB015Desc="Namočený v krvi padlých dává tento prokletý brousek naostřeným čepelím touhu po krvi."^w^n(může vylepšit sekyru, meč, pušku nebo kuši)
 
 tagCompB016Name=^kVyladěný magnetovec
-tagCompB016Desc="V těchto vzácných a účinných kamenech se stále ukrývá ozvěna zahřmění bouře, za které vznikly."^w^n(může vylepšit amulet nebo medaili)
+tagCompB016Desc="V těchto vzácných mocných kamenech se stále ukrývá ozvěna zahřmění bouře, za které vznikly."^w^n(může vylepšit amulet nebo medaili)
 
 tagCompB017Name=^kMogdrogenovo znamení
 tagCompB017Desc="Tajemný znak nošený druidskými vyznavači Mogdrogena, boha zvířat."^w^n(může vylepšit obuv)

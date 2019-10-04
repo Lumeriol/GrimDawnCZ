@@ -1168,6 +1168,7 @@ tagVendorTab04A=Příslušenství a spotřební materiál
 tagVendorTab04B=Směs starých cenností a po domácku vyrobených cetek.
 tagVendorTab05A=Zpětný odkup
 tagVendorTab05B=Tvůj názor se změnil? Dokud jsi u obchodníka, můžeš si prodané předměty koupit zpátky bez navýšené ceny. Ale jakmile odejdeš, předměty jsou prodány natrvalo.
+tagVendorSearchBoxInfo=Zadej parametry pro vyfiltrování předmětů dle jejich názvu nebo vlastností.
 
 tagFactionVendorTab01A=Přátelský
 tagFactionVendorTab01B=Frakční odměny odemčené pokud je postoj k tobě přátelský.
@@ -1326,7 +1327,7 @@ tagStorageInfo01=Úschovnu můžeš použít jako rozšíření svého inventá�
 tagTransferCost=Cena za převod: {%d0}
 tagTransferAdd=Chceš přidat tento předmět do sdílené úschovny?
 tagTransferInfo01=Můžeš využít služeb pašeráka pro přesun předmětů mezi tvými dalšími postavami. Jednoduše přetáhni předmět do sdílené úschovny a ten pak bude dotupný tvým dalším postavám.
-tagCaravanItemTransfer=Přesun předmětů
+tagCaravanItemTransfer=Místní úschovna
 tagTransferInfo02=Umísti předměty do předávací oblasti, aby byl pašerák schopný je převést mezi tvé další postavy.
 tagCaravanError01=Pro převod tohoto předmětu nemáš dostatek železných mincí.
 tagStorageError01=Nemáš dostatek železných mincí pro nákup dalšího místa v úschovně.
@@ -1336,6 +1337,7 @@ tagTransferTab01=1. záložka
 tagTransferTab02=2. záložka
 tagTransferTab03=3. záložka
 tagTransferTab04=4. záložka
+tagCaravanSort=Opravdu chceš automaticky seřadit předměty?
 
 #Chat
 

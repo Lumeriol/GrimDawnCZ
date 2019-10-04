@@ -209,17 +209,17 @@ tagGDX2ItemSkillD229_Pet01=Pavoučí drápy
 tagGDX2ItemSkillD230Name=Úlomek Tajemna
 tagGDX2ItemSkillD230Desc=Vyčaruj úlomek naplněný tajemnými energiemi a posil tak v dosahu sebe a své přátele, zatímco bude záře krystalu poškozovat tvé nepřátele.
 tagGDX2ItemSkillD230_Pet01=Tajemná záře
-tagGDX2ItemSkillD230_Pet01Desc=Bojování v blízkosti tohoto úlomku tě posílí tajemnými energiemi, zatímco nepřátelé v blízkosti budou zraňováni.
+tagGDX2ItemSkillD230_Pet01Desc=Bojování v blízkosti tohoto úlomku tě posílí tajemnými energiemi, zatímco okolní nepřátelé budou zraňováni.
 tagGDX2ItemSkillD230_Pet02=Spálení Tajemnem
-tagGDX2ItemSkillD230_Pet02Desc=Tajemný úlomek vyzařuje poškozující energie.
+tagGDX2ItemSkillD230_Pet02Desc=Tajemný úlomek vyzařuje zraňující energie.
 
 tagGDX2ItemSkillD231Name=Dotek chaosu
-tagGDX2ItemSkillD231Desc=Posilni své zbraně poškozujícími silami Prázdnoty a uvolni tak odporné energie s každým zásahem. ^oPokud je kouzlo používáno jako výchozí typ útoku, Dotek chaosu způsobuje ještě více poškození.
+tagGDX2ItemSkillD231Desc=Posilníš své zbraně zraňujícími silami Prázdnoty a uvolníš tak odporné energie s každým zásahem. ^oPokud je kouzlo používáno jako výchozí typ útoku, Dotek chaosu způsobuje ještě více zranění.
 
 tagGDX2ItemSkillD232Name=Dar pána Sněti
-tagGDX2ItemSkillD232Desc=Ocejchuj své nepřátele znamením pána Sněti, vysilující to kletbou, která činí tvé nepřátele ještě více citlivé na pohromy, které s sebou neseš.
+tagGDX2ItemSkillD232Desc=Ocejchuješ své nepřátele znamením pána Sněti, vysilující kletbou, která učiní tvé nepřátele ještě více citlivé na pohromy, které s sebou neseš.
 
-tagGDX2ItemSkillD233Name=Vyvolat Tajemný spár
+tagGDX2ItemSkillD233Name=Vyvolání Tajemného spáru
 tagGDX2ItemSkillD233Desc=Přivolej tajemnou stvůru, aby bojovala po tvém boku. Tajemný spár odhaluje existenci nepřátel v okolí. ^oPouze jeden Tajemný spár může existovat v jednom momentě. Tajemný spár sílí s bonusy na mazlíčky.
 tagGDX2ItemSkillD233_Pet01=Tajemné pařáty
 tagGDX2ItemSkillD233_Pet02=Tajemmná neukojitelnost
@@ -229,10 +229,10 @@ tagGDX2ItemSkillD234Name=Probuzení kostí
 tagGDX2ItemSkillD234Desc=Vyvolej vlnu kostí, která nabodne tvé nepřátele.
 
 tagGDX2ItemSkillD235Name=Wilhelm!
-tagGDX2ItemSkillD235Desc=Ahhhhhhh.
+tagGDX2ItemSkillD235Desc=Áchhhhhhh.
 
 tagGDX2ItemSkillD236Name=Plameny Aetheru
-tagGDX2ItemSkillD236Desc=Pod tvými nepřáteli propukne čistý arkanický oheň.
+tagGDX2ItemSkillD236Desc=Pod tvými nepřáteli vzplane čistý tajemný oheň.
 
 tagGDX2ItemSkillD237Name=Murmuřin polibek
 tagGDX2ItemSkillD237Desc=Plivni směrem vpřed kyselinu, která prožere tvé nepřátele.

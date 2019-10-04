@@ -1,27 +1,32 @@
 Rytíř Lancel
 Zdravím tě!{^n}{^n}Já jsem Lancel a procestoval jsem svět, abych našel někoho, kdo je hoden mé sbírky.{^n}{^n}Jsi [[ms]jedním[fs]jednou] z nich?
 Cítím se jako rytíř.
-Přesně tak, jak bys [[ms]měl[fs]měla]!{^n}{^n}Jsi ale spíš na stříbro....nebo možná ještě něco zlověstnějšího?
+Přesně tak, jak bys [[ms]měl[fs]měla]!{^n}{^n}Jsi ale spíš na stříbro... nebo možná ještě něco zlověstnějšího?
 Stříbrná výzbroj!
 Dobrá volba.{^n}{^n}Mohu říci, že je moje oblíbená!
-(Získej Iluzi: Stříbrný rytíř)
+(získej iluzi: Stříbrný rytíř)
 Černá výzbroj!
 Hm, nemůžu říct, že bych si jí vybral, kým ale jsem, abych tě soudil?
-(Získej Iluzi: Černý rytíř)
-Co bylo tou nejipozantnější věcí, kterou jsi kdy viděl?
-Byl to nádherný pohled.{^n}{^n}Bojoval, jako kdyby byl zuřivou bestií. Jeho kopí probodávalo v mžiku nepřátele.{^n}{^n}Toto brnění je nyní vše, co zbylo po uznávaném válečníkovi.
-(Získej Iluzi: Dračí generál)
-Potkal jsi někdy na svých cestách kouzelníka?
-Vskutku ano. Jsou to mocné bytosti, neradno si s nimi zahrávat.{^n}{^n}Ikdyž potkal jsem jednoho velmi moudrého, starého....záhadný chlapík.{^n}{^n}Řekl mi, abych vzlétl.
-(Získej Iluzi: Bílý kouzelník)
+(získej iluzi: Černý rytíř)
+Co bylo tou nejimpozantnější věcí, kterou jsi kdy viděl?
+Byl to nádherný pohled.{^n}{^n}Bojoval, jako kdyby byl zuřivou bestií. Jeho kopí probodávalo v mžiku nepřátele.{^n}{^n}Tato zbroj je všechno, co zbylo po uznávaném válečníkovi.
+(získej iluzi: Dračí generál)
+Potkal jsi někdy na svých cestách čaroděje?
+Vskutku ano. Jsou to mocné bytosti, neradno si s nimi zahrávat.{^n}{^n}Někteří jsou dobří... někteří... moc ne.
+Pověz mi o Bílém čaroději!
+Ach ano, byl velmi moudrý a velmi starý... ale záhadný chlapík.{^n}{^n}Řekl mi, abych vzlétl.
+(získej Iluzi: Bílý čaroděj)
+Pověz mi něco o Černokněžníkovi!
+Pouhá jeho přítomnost způsobuje mrazení v zádech.{^n}{^n}Pohrával si s mnoha silami, které bychom neměli vyhledávat a přivedl mnohé do temnoty.{^n}{^n}Nechtěl bych kráčet v jeho stopách.
+(získej iluzi: Černokněžník)
 [[ms]Využil[fs]Využila] bych pomocníka.
 Tohle je osamělý svět, je dobré mít někoho po boku.
-VEzmu si posvátnou krabici.
+Vezmu si Posvátnou bednu.
 Toto stvoření je v mé zemi symbolem velkolepého osudu.{^n}{^n}Dobře se o něj starej.
-(Získej Iluzi: Svatá krabice)
+(získej předmět: Posvátná bedna)
 Už jsem z těch iluzí [[ms]unavený[fs]unavená].
 Chápu. Vypadat tak dobře se snadno stane břemenem.
-(Získej Iluzi: Iluze-zmiz)
-Pak začni od znovu s Iluzí-zmiz!
+(získej předmět: Rozplývající se iluze)
+Pak začni od znovu s Rozplývající se iluzí!
 Pravda, tu mám.
-Um, ok. Sbohem.
+No dobře. Sbohem.

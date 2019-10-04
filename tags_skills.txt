@@ -2167,7 +2167,7 @@ tagCompSkillA011Name=Poprava
 tagCompSkillA011Desc=Pokusíš se popravit své protivníky smrtícím úderem, který je schopný způsobit intenzivní krvácení.
 
 tagCompSkillA012Name=Setnutí
-tagCompSkillA012Desc=Pokusíš se setnout své protivníky smrtícím úderem, který je schopný způsobit intenzivní krvácení.
+tagCompSkillA012Desc=Pokusíš se setnout své protivníky smrtícím úderem, který je schopný způsobit intenzivní krvácení. ^oPokud je použita chladná zbraň, útok zasáhne více blízkých nepřátel.
 
 tagCompSkillA013Name=Spalující zbraně
 tagCompSkillA013Desc=Tvým útokům dodá spalující plamen. ^oAby tato schopnost účinkovala, musí být aktivní.
