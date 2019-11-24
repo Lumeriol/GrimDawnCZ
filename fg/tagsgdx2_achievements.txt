@@ -148,29 +148,26 @@ achGDX247Desc=Získej účinek jedné svatyně v Pokřiveném světě.
 achGDX248Title=Konečná dohoda
 achGDX248Desc=Získej účinek všech pět svatyň v Pokřiveném světě.
 
-achGDX249Title=
-achGDX249Desc=
+achGDX249Title=Hladová temnota
+achGDX249Desc=Přežij Hladovou temnotu v Hrobce Kacíře.
 
-achGDX250Title=
-achGDX250Desc=
+achGDX250Title=Rozptýlení noci
+achGDX250Desc=Zlikviduj Velkého čaroděje Morgonetha v Hrobce kacíře.
 
+achGDX251Title=Světlo na konci tunelu
+achGDX251Desc=Zlikviduj Velkého čaroděje Morgonetha v Hrobce kacíře na ultimátní obtížnosti.
 
+achGDX252Title=Nesmrtelné světlo na konci tunelu
+achGDX252Desc=Zlikviduj Velkého čaroděje Morgonetha v Hrobce kacíře na ultimátní obtížnosti ve Výzvě.
 
+achGDX253Title=Výhodná pomoc
+achGDX253Desc=Zabij 5 Riggsových společníků na jedné výpravě.
 
+achGDX254Title=Splacený dluh
+achGDX254Desc=Splať svůj dluh vůči Riggsovi.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+achGDX255Title=Sedm kouzelníků
+achGDX255Desc=Zabij všech sedm Korvankých kouzelníků v Hrobce Kacíře.
 
 
 

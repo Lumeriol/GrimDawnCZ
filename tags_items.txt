@@ -770,6 +770,7 @@ TagQualityBrokenWeapon02=[ms]rozbitý[fs]rozbitá[ns]rozbité[mp]rozbité[fp]roz
 TagQualityBrokenWeapon03=[ms]pokřivený[fs]pokřivená[ns]pokřivené[mp]pokřivené[fp]pokřivené[np]pokřivené
 TagQualityBrokenArmor01=[ms]poničený[fs]poničená[ns]poničené[mp]poničené[fp]poničené[np]poničené
 TagQualityBrokenAll01=[ms]zničený[fs]zničená[ns]zničené[mp]zničené[fp]zničené[np]zničené
+TagQualityOld=[ms]zastaralý[fs]zastaralá[ns]zastaralé[mp]zastaralé[fp]zastaralé[np]zastaralé
 
 tagQualityWeaponMetal01=[ms]nesourodý[fs]nesourodá[ns]nesourodé[mp]nesourodé[fp]nesourodé[np]nesourodé
 tagQualityWeaponMetal02=[ms]zakalený[fs]zakalená[ns]zakalené[mp]zakalené[fp]zakalené[np]zakalené
@@ -2560,6 +2561,24 @@ tagDLCIllusionA34=Iluze: Klobouk Černokněžníka
 tagDLCA34=Klobouk Černokněžníka
 tagDLCIllusionA35=Iluze: Róba Černokněžníka
 tagDLCA35=Róba Černokněžníka
+
+tagDLCIllusionA36=Iluze: Boty Velkého vlka
+tagDLCA36=Boty Velkého vlka
+tagDLCA36Desc="Část divošského oděvu Velkého vlka."
+tagDLCIllusionA37=Iluze: Rytířské rukavice Velkého vlka
+tagDLCA37=Rytířské rukavice Velkého vlka
+tagDLCIllusionA38=Iluze: Helmice Velkého vlka
+tagDLCA38=Helmice Velkého vlka
+tagDLCIllusionA39=Iluze: Náholeníky Velkého vlka
+tagDLCA39=Náholeníky Velkého vlka
+tagDLCIllusionA40=Iluze: Štít Velkého vlka
+tagDLCA40=Štít Velkého vlka
+tagDLCIllusionA41=Iluze: Chrániče ramen Velkého vlka
+tagDLCA41=Chrániče ramen Velkého vlka
+tagDLCIllusionA42=Iluze: Kousnutí Velkého vlka
+tagDLCA42=Kousnutí Velkého vlka
+tagDLCIllusionA43=Iluze: Hrudní chránič Velkého vlka
+tagDLCA43=Hrudní chránič Velkého vlka
 
 
 #ItemNote

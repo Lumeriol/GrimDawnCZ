@@ -112,8 +112,11 @@ tagGDX2ItemSkillC203Desc=Daegova přísaha Dreegovi tě žene vpřed.
 tagGDX2ItemSkillC204Name=Rozpínající se plameny
 tagGDX2ItemSkillC204Desc=Kouzelný žár se rozrůstá v nitru tvých nepřátel a ničí je tak zevnitř.
 
-tagGDX2ItemSkillC205Name=Prolít jejich krev
-tagGDX2ItemSkillC205Desc=Prolij krev bezvěrců, kteří se ti opováží vstoupit do cesty.
+tagGDX2ItemSkillC205Name=Prolití krve
+tagGDX2ItemSkillC205Desc=Proliješ krev bezvěrců, kteří se ti opováží vstoupit do cesty.
+
+tagGDX2ItemSkillC206Name=Zahalení noci
+tagGDX2ItemSkillC206Desc=Vyvolá výbuch brutálních a hladových energií mezi tvými nepřáteli.
 
 tagGDX2ItemSkillD201Name=Krvavé výhonky
 tagGDX2ItemSkillD201Desc=Rudé výhonky vyráží se země pod nohami tvých nepřátel a vykoupou je v krvi a ostatcích.
@@ -266,6 +269,33 @@ tagGDX2ItemSkillD246Desc=Smrt za jakoukoliv cenu. ^oToto je pasivní technika ob
 
 tagGDX2ItemSkillD247Name=Targovo kladivo
 tagGDX2ItemSkillD247Desc=Targovo hvězdné kladivo se zhmotní a poletí směrem k tvému nepříteli, aby se k tobě následně vrátilo.
+
+tagGDX2ItemSkillD248Name=Noční můra
+tagGDX2ItemSkillD248Desc=Brána reality se rozerve a z následného výbuchu se vyrojí dravé hladové energie.
+tagGDX2ItemSkillD248PetSkillName=Hladové energie
+tagGDX2ItemSkillD248PetSkillDesc=Dravé hladové energie svým výbuchem pozřou tvého nepřítele.
+
+tagGDX2ItemSkillD249Name=Sethrisovo oko
+tagGDX2ItemSkillD249Desc=Prokleté oko krouží kolem tebe a proniká skrze fyzickou formu tvých nepřátel, aby přímo zasáhlo jejich duši.
+tagGDX2ItemSkillD250Name=Orissiino oko
+tagGDX2ItemSkillD251Name=Anubarovo oko
+tagGDX2ItemSkillD252Name=Tawrotovo oko
+tagGDX2ItemSkillD253Name=Bastiho oko
+tagGDX2ItemSkillD254Name=Shurothovo oko
+
+tagGDX2ItemSkillD255Name=Khonsarův pohled
+tagGDX2ItemSkillD255Desc=Khonsarův pohled se upře na tvé nohsledy a naplní je prudkou zuřivostí.
+
+tagGDX2ItemSkillD256Name=Yugolovo vyvolání
+tagGDX2ItemSkillD256Desc=Vyvolá rituál, který zničí hvězdy a přivolá zjevení velkého nebeského hladu.
+tagGDX2ItemSkillD256PetSkill_Name=Cep
+tagGDX2ItemSkillD256PetSkill2_Name=Temná přítomnost
+
+tagGDX2ItemSkillD257Name=Toxický výbuch
+tagGDX2ItemSkillD257Desc=Kolem tebe vybuchnou zžíravé toxiny.
+
+tagGDX2ItemSkillD258Name=Nova přeludů
+tagGDX2ItemSkillD258Desc=Kolem tebe vybuchnou přeludy mečů.
 
 
 #Component Skills
@@ -596,7 +626,7 @@ tagGDX2EnemySkillA21=Solaelova aura
 tagGDX2EnemySkillA21_Desc=Přítomnost nedalekého Solaelova kněze tě posiluje, dodává ti obranyschopnost a schopnost útočit.
 
 tagGDX2EnemySkillA22=Strážcova krev
-tagGDX2EnemySkillA22_Desc=Tvá postava je označena znamením Dreegovy krve, což obnovuje tvé zdraví a umocňuje schopnosti odvetných úderů.
+tagGDX2EnemySkillA22_Desc=Označí tě znamení Dreegovy krve, čímž se bude obnovovat tvé zdraví a umocňovat tvé schopnosti odvetných úderů.
 
 tagGDX2EnemySkillA23=Napichující ostny
 tagGDX2EnemySkillA23_Desc=Inarah tě uvěznila v kleci z jedovatých ostnů.
@@ -654,3 +684,12 @@ tagGDX2EnemySkillD15_Desc=Figurína v blízkosti posiluje Korvaaka a zraňuje sm
 
 tagGDX2EnemySkillD16=Kvílející vítr
 tagGDX2EnemySkillD16_Desc=Silný vítr tě mrazí až v kostech a způsobí tak, že některé projektily minou určený cíl.
+
+tagGDX2EnemySkillD17=Vidiny hrůzy
+tagGDX2EnemySkillD17_Desc=Tvé svědectví nenažranosti nekonečné temnoty ti zcela vysálo sílu.
+
+tagGDX2EnemySkillD18=Hladová noc
+tagGDX2EnemySkillD18_Desc=Temný čaroděj podryl tvou podstatu, vysál ti život a narušil odolnosti.
+
+tagGDX2EnemySkillD19=Roztroušená mysl
+tagGDX2EnemySkillD19_Desc=Tvá mysl nedokáže zpracovat hrůzy, které zažila, a ochromuje tvou schopnost míření a sesílání kouzel.

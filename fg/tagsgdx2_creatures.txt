@@ -46,6 +46,41 @@ tagGDX2HeroBeetle_H02=Bargox
 tagGDX2HeroBeetle_H03=Sagrax ~ obránce
 tagGDX2HeroBeetle_H04=Mirg ~ odrážející
 
+tagGDX2EnemyMaggot_A01=Larva
+tagGDX2EnemyMaggot_B01=Nafouklá larva
+
+
+#CreatureCelestial
+tagGDX2EnemyCelestial_Armor_A01=Korvan Cursed
+tagGDX2EnemyCelestial_Armor_B01=Korvan Cursed ~ Forsaken
+tagGDX2EnemyCelestial_Armor_C01=Korvan Cursed ~ Ancient
+
+tagGDX2EnemyCelestial_Gryphon_A01=Celestial Gryphon
+tagGDX2EnemyCelestial_Gryphon_B01=Celestial Gryphon Skytalon
+tagGDX2EnemyCelestial_Gryphon_C01=Celestial Gryphon Matriarch
+
+tagGDX2EnemyCelestial_Hound_A01=Celestial Mongrel ~ Runt
+tagGDX2EnemyCelestial_Hound_B01=Celestial Mongrel ~ Stalker
+tagGDX2EnemyCelestial_Hound_C01=Celestial Mongrel ~ Alpha
+
+tagGDX2EnemyCelestial_Leech_A01=Embodiment of Hunger
+tagGDX2EnemyCelestial_Leech_B01=Embodiment of Famine
+
+tagGDX2EnemyCelestial_Lizard_A01=Nightclaw
+tagGDX2EnemyCelestial_Lizard_B01=Nightclaw ~ Flayer
+tagGDX2EnemyCelestial_Lizard_C01=Nightclaw ~ Matriarch
+
+tagGDX2EnemyCelestial_Monstrosity_C01=Scion of Hunger
+tagGDX2EnemyCelestial_Monstrosity_D01=Scion of Famine
+
+tagGDX2EnemyCelestial_Mummy_A01=Korvan Damned ~ Desiccated
+tagGDX2EnemyCelestial_Mummy_B01=Korvan Damned ~ Festering
+tagGDX2EnemyCelestial_Mummy_C01=Korvan Damned ~ Reaper
+
+tagGDX2EnemyCelestial_Statue_A01=Animated Keeper of the Damned
+tagGDX2EnemyCelestial_Statue_B01=Animated Watcher of the Damned
+tagGDX2EnemyCelestial_Statue_C01=Animated Preserver of the Damned
+
 
 #CreatureEldritchArmor
 tagGDX2EnemyArmor_A01=Rytíř v posedlé zbroji
@@ -239,6 +274,10 @@ tagGDX2HeroViper_H02=Arashor
 tagGDX2HeroViper_H03=Serpentior ~ obnovitel
 tagGDX2HeroViper_H04=Cespal ~ alchymista
 
+#CreatureWorm
+tagGDX2EnemyWormA01=Tasemnice
+tagGDX2EnemyWormB01=Dravý červ
+
 
 
 
@@ -250,6 +289,8 @@ tagGDX2Pet_Item_SandDevil01=Pouštní ďábel
 tagGDX2Pet_Item_EldritchSpider=Tajemný spřadač sítí
 tagGDX2Pet_Item_EldritchLizard=Tajemný spár
 tagGDX2Pet_Item_EldritchShard=Tajemný střep
+tagGDX2Pet_Item_NightRift=Noční můra
+tagGDX2Pet_Item_YugolTentacle=Yugolovo chapadlo
 tagGDX2Pet_Item_Mini=Korvanská potvůrka
 tagGDX2Pet_Item_Mini_Skill=Uplakánek
 tagGDX2Pet_Item_Maggot=Nebeská larva
@@ -272,6 +313,9 @@ tagGDX2EnemySummon_Dravis=Dravisův zajatec
 tagGDX2EnemySummon_FlameJet=Magmatický výbuch
 tagGDX2EnemySummon_Volcano=Sopka
 tagGDX2EnemySummon_LightningOrb=Kulová bouře
+tagGDX2EnemySummon_NightRift=Nebeská Brána
+tagGDX2EnemySummon_NightCrystal=Nebeský kanál
+tagGDX2EnemySummon_FireHound=Hořící ohař
 
 
 #Boss&Quest
@@ -285,6 +329,30 @@ tagGDX2Boss_FatherKymon=Otec Kymon, ztělesnění Korvaaka
 
 tagGDX2Boss_Special=Callagadra, následnice pouště
 tagGDX2Boss_Messenger=Okaloth ~ "Kurýr"
+
+tagGDX2Boss_Roguelike_MiniBoss_01=Kouzelník Sethris
+tagGDX2Boss_Roguelike_MiniBoss_01B=Sethrisův stín
+tagGDX2Boss_Roguelike_MiniBoss_02=Kouzelnice Orissia
+tagGDX2Boss_Roguelike_MiniBoss_02B=Orissiin stín
+tagGDX2Boss_Roguelike_MiniBoss_03=Kouzelník Anubar
+tagGDX2Boss_Roguelike_MiniBoss_03B=Anubarův stín
+tagGDX2Boss_Roguelike_MiniBoss_04=Kouzelník Tawrot
+tagGDX2Boss_Roguelike_MiniBoss_04B=Tawrotův stín
+tagGDX2Boss_Roguelike_MiniBoss_05=Kouzelník Basti
+tagGDX2Boss_Roguelike_MiniBoss_05B=Bastiho stín
+tagGDX2Boss_Roguelike_MiniBoss_06=Kouzelník Shuroth
+tagGDX2Boss_Roguelike_MiniBoss_06B=Shurothův stín
+tagGDX2Boss_Roguelike_MiniBoss_07=Kouzelník Khonsar
+tagGDX2Boss_Roguelike_MiniBoss_07B=Khonsarův stín
+tagGDX2Boss_Roguelike_Boss_01=Strážce pečetí
+tagGDX2Boss_Roguelike_Boss_02=Velký čaroděj Morgoneth
+
+tagGDX2Boss_RoguelikePath_Boss_01=Jarinthor the Sandstorm
+tagGDX2Boss_RoguelikePath_Boss_02=Hallanx the Forgotten
+tagGDX2Boss_RoguelikePath_Boss_03=Gurblix the Digested
+
+tagGDX2Boss_RiggsCollector_01="Associate" of Riggs
+
 
 tagGDX2Miniboss_Kymon_01=Bratr Segarius, Kymonův mstitel
 tagGDX2Miniboss_Kymon_02=Sestra Zrzka, Kymonova mstitelka

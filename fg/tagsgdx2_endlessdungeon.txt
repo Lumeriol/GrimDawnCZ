@@ -126,10 +126,10 @@ tagGDX2EndlessDungeon_Shrine05Skill_Desc=Úmlouva se smrtí byla stvrzena, v ži
 
 #Powerups
 tagGDX2EndlessDungeon_Powerup01=Esence Pokřiveného světa
-tagGDX2EndlessDungeon_Powerup01_Desc=Pozřeš duši Pokřiveného světa, která ti na krátkou dobu poskytne ohromnou sílu a houževnatost. ^oTento efekt je možné aplikovat až pětkrát, a dále je možné navyšovat v dalších oblastech tohoto světa.
-tagGDX2EndlessDungeon_Powerup02_Desc=Pozřeš duši Pokřiveného světa, která ti na krátkou dobu poskytne ohromnou sílu a houževnatost. ^oTento efekt je možné aplikovat až osmkrát, a dále je možné navyšovat v dalších oblastech tohoto světa.
-tagGDX2EndlessDungeon_Powerup03_Desc=Pozřeš duši Pokřiveného světa, která ti na krátkou dobu poskytne ohromnou sílu a houževnatost. ^oTento efekt je možné aplikovat až desetkrát, a dále je možné navyšovat v dalších oblastech tohoto světa.
-tagGDX2EndlessDungeon_Powerup04_Desc=Pozřeš duši Pokřiveného světa, která ti na krátkou dobu poskytne ohromnou sílu a houževnatost. ^oTento efekt je možné aplikovat až dvanáctkrát.
+tagGDX2EndlessDungeon_Powerup01_Desc=Pozřeš duši Pokřiveného světa, která ti na krátkou dobu poskytne ohromnou sílu a houževnatost. ^oTento efekt je možné aplikovat až pětkrát, a dále je možné jej navyšovat v dalších oblastech tohoto světa.
+tagGDX2EndlessDungeon_Powerup02_Desc=Pozřeš duši Pokřiveného světa, která ti na krátkou dobu poskytne ohromnou sílu a houževnatost. ^oTento efekt je možné aplikovat až osmkrát, a dále je možné jej navyšovat v dalších oblastech tohoto světa.
+tagGDX2EndlessDungeon_Powerup03_Desc=Pozřeš duši Pokřiveného světa, která ti na krátkou dobu poskytne ohromnou sílu a houževnatost. ^oTento efekt je možné aplikovat až devětkrát, a dále je možné jej navyšovat v dalších oblastech tohoto světa.
+tagGDX2EndlessDungeon_Powerup04_Desc=Pozřeš duši Pokřiveného světa, která ti na krátkou dobu poskytne ohromnou sílu a houževnatost. ^oTento efekt je možné aplikovat až desetkrát.
 
 
 #Items
@@ -155,8 +155,12 @@ tagGDX2EndlessDungeon_Key_04_Desc=Znesvěcený hraniční kámen byl posvěcen o
 tagGDX2EndlessDungeon_Key_04_Blueprint=Plánek: Znesvěcený hraniční kámen
 
 tagGDX2EndlessDungeon_Key_05=Nebeský hraniční kámen
-tagGDX2EndlessDungeon_Key_05_Desc=Nebeský hraniční kámen byl plně obnoven a pulzuje v něm jeho božský potenciál. Umožňuje Mazaanovi otevřít cestu do alespoň 65. oblastí, nejvýše však do 75. oblastí Pokřiveného světa.
+tagGDX2EndlessDungeon_Key_05_Desc=Nebeský hraniční kámen byl plně obnoven a pulzuje v něm jeho božský potenciál. Umožňuje Mazaanovi otevřít cestu do alespoň 65. oblastí, nejvýše však do 75. oblastí Pokřiveného světa. ^n^nTento hraniční kámen není pro jedince se slabým srdcem.
 tagGDX2EndlessDungeon_Key_05_Blueprint=Plánek: Nebeský hraniční kámen
+
+tagGDX2EndlessDungeon_Key_06=Smrtící hraniční kámen
+tagGDX2EndlessDungeon_Key_06_Desc=Poskvrněný samotnou smrtí otevírá tento hraniční kámen cestup vpřed k nevyzpytatelným nebezpečím, kde nečeká žádná odměna, ale sláva za jejich pokoření. ^n^nUmožňuje Mazaanovi otevřít cestu do aspoň 80. oblasti Pokřiveného světa a možná i dále. ^n^nTTento hraniční kámen není pro jedince se slabým srdcem.
+tagGDX2EndlessDungeon_Key_06_Blueprint=Plánek: Smrtící hraniční kámen
 
 tagGDX2ItemTest=Miss Zevlák
 tagGDX2ItemTestDesc="Vrcholný úspěch mezi oblečením bezdomovce."

@@ -312,7 +312,7 @@ tagGDX1ItemSkillD112Name=Ohnivé pole
 tagGDX1ItemSkillD112Desc=Začneš spalovat zemi, kde stojí tvoji nepřátelé.
 
 tagGDX1ItemSkillD113Name=Světlo pravdy
-tagGDX1ItemSkillD113Desc=Světlo posvátné pravdy zaplaví tvé nepřátele a donutí ty slabomyslné ti sloužit.
+tagGDX1ItemSkillD113Desc=Světlo posvátné pravdy přemůže tvé nepřátele.
 
 tagGDX1ItemSkillD114Name=Hagarradovy bodce
 tagGDX1ItemSkillD114Desc=Vrhneš na nepřítele ledové bodce uvolněné z luminářské Hagarradovy runy.

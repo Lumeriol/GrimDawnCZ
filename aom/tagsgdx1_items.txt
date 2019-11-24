@@ -1895,10 +1895,16 @@ tagGDX1DLCIllusionA05=Iluze: Černokněžník
 tagGDX1DLCA05=Oděv Černokněžníka
 tagGDX1DLCA05Desc="Odporný oděv Černokněžníka."
 
+tagGDX1DLCIllusionA06=Iluze: Velký vlk
+tagGDX1DLCA06=Zbroj Velkého vlka
+tagGDX1DLCA06Desc="Zbroj divošského Velkého vlka."
+
 tagGDX1DLCIllusionHelmInvisible=Helma neviditelnosti
 tagGDX1DLCIllusionHelmInvisibleDesc="100% ochrana s 0% přírůstkem hmotnosti. Nyní také bez laktózy."
 
 tagGDX1DLCIllusionShouldersInvisible=Nárameníky neviditelnosti
 tagGDX1DLCIllusionShouldersInvisibleDesc="100% ochrana s 0% přírůstkem hmotnosti. Nyní také bez laktózy."
 
+tagGDX1DLCIllusionMedalInvisible=Neviditelná medaile
+tagGDX1DLCIllusionMedalInvisibleDesc="100% poznání bez vedlejších účinků. Nyní také bez laktózy."
 

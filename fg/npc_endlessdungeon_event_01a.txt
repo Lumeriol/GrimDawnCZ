@@ -43,16 +43,53 @@ Zapomeň na to, začnu od začátku.
 Spíš použiju jiný Hraniční kámen.
 Neřeš to.
 Nabídnout Nebeský hraniční kámen...
-Tak jak hluboko se vydáme?{^n}{^n}(Od 60. Oblasti se obtížnosti znatelně navyšuje a není to nic pro slabé kousky. Pokračuj, pokud si na to troufneš!)
+Tak jak hluboko se vydáme?{^n}{^n}(Od 60. Oblasti se obtížnost znatelně navyšuje a není to nic pro slabé kousky. Pokračuj, pokud si na to troufneš!)
 Použij Nebeský hraniční kámen a otevři tak cestu do 65. oblasti.
 Použij Nebeský hraniční kámen a otevři tak cestu do 70. oblasti.
 Použij Nebeský hraniční kámen a otevři tak cestu do 75. oblasti.
 Zapomeň na to, začnu od začátku.
 Spíš použiju jiný Hraniční kámen.
 Neřeš to.
+Nabídnout Smrtící hraniční kámen...
+Tak jak hluboko se vydáme?{^n}{^n}(Smrtící hraniční kámen umožňuje procházet velmi nebezpečnými Oblastmi, kde se nenachází žádná odměna. Pouze pro ty, jež hledají slávu!)
+Použij Smrtící hraniční kámen a otevři tak cestu do 80. oblasti.
+Použij Smrtící hraniční kámen a otevři tak cestu do 85. oblasti.
+Vydat se do 90. oblasti a projít až k 110...
+(Smrtící hraniční kámen umožňuje procházet velmi nebezpečnými Oblastmi, kde se nenachází žádná odměna. Pouze pro ty, jež hledají slávu!)
+Použij Smrtící hraniční kámen a otevři tak cestu do 90. oblasti.
+Použij Smrtící hraniční kámen a otevři tak cestu do 95. oblasti.
+Použij Smrtící hraniční kámen a otevři tak cestu do 100. oblasti.
+Použij Smrtící hraniční kámen a otevři tak cestu do 105. oblasti.
+Použij Smrtící hraniční kámen a otevři tak cestu do 110. oblasti.
+Zapomeň na to, začnu od začátku.
+Spíš použiju jiný Hraniční kámen.
+Neřeš to.
+Vydat se do 115. oblasti a projít až k 135...
+(Smrtící hraniční kámen umožňuje procházet velmi nebezpečnými Oblastmi, kde se nenachází žádná odměna. Pouze pro ty, jež hledají slávu!)
+Použij Smrtící hraniční kámen a otevři tak cestu do 115. oblasti.
+Použij Smrtící hraniční kámen a otevři tak cestu do 120. oblasti.
+Použij Smrtící hraniční kámen a otevři tak cestu do 125. oblasti.
+Použij Smrtící hraniční kámen a otevři tak cestu do 130. oblasti.
+Použij Smrtící hraniční kámen a otevři tak cestu do 135. oblasti.
+Zapomeň na to, začnu od začátku.
+Spíš použiju jiný Hraniční kámen.
+Neřeš to.
+Vydat se do 140. oblasti a projít až k 160...
+(Smrtící hraniční kámen umožňuje procházet velmi nebezpečnými Oblastmi, kde se nenachází žádná odměna. Pouze pro ty, jež hledají slávu!)
+Použij Smrtící hraniční kámen a otevři tak cestu do 140. oblasti.
+Použij Smrtící hraniční kámen a otevři tak cestu do 145. oblasti.
+Použij Smrtící hraniční kámen a otevři tak cestu do 150. oblasti.
+Použij Smrtící hraniční kámen a otevři tak cestu do 155. oblasti.
+Použij Smrtící hraniční kámen a otevři tak cestu do 160. oblasti.
+Zapomeň na to, začnu od začátku.
+Spíš použiju jiný Hraniční kámen.
+Neřeš to.
+Zapomeň na to, začnu od začátku.
+Spíš použiju jiný Hraniční kámen.
+Neřeš to.
 Neřeš to.
 Můžu mít nejdřív pár otázek?
-Pokřivený svět je záhadou stejně tak pro mě jako pro tebe, ale odpovím na co budu moct.
+Pokřivený svět je záhadou stejně tak pro mě jako pro tebe, ale odpovím, na co budu moct.
 Co přesně je Pokřivený svět?
 Pokřivený svět je něco, co lidstvo nikdy nevidělo, překypuje silou a bohatstvím za hranicemi naší představivosti, ale také je plné nebezpečí a to dokonce takového, kterému nečelíme v Cairnu ani v této době. Ať už ten svět stvořila jakákoliv bytost, už je dávno pryč a bez ní se celý svět rozpadá. {^n}{^n}Je to odraz našo vlastního fyzického světa, ale rozbitý a zkreslený. Pokud vím, je nekonečný, ale jak bledne jeho světlo, požírá ho nenasytná temnota. Čím hlouběji jsi, na tím větší odpor můžeš narazit.{^n}{^n}Můžeš potkat mocné strážce onoho světa, kteří se tě budou snažit zastavit, ale pokud proti nim uspěješ, bude na tebe čekat bohatá odměna!{^n}{^n}Při vstupu do Pokřiveného světa se objevíš v určité Oblasti. Cesta vpřed se ti otevře pouze tehdy, pokud nashromáždíš dostatek Duší ze stávajících obyvatel. Budu držet otevřenou cestu, aby ses [[ms]mohl[fs]mohla] vrátit během své výpravy.
 Otevři bránu do Pokřiveného světa!

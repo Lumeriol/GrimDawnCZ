@@ -38,6 +38,7 @@ tagGDX2RiftInfernalWastes=Brána v Pekelné pustině
 tagGDX2RiftKorvanCity=Brána v korvanském městě
 tagGDX2RiftTemple=Brána v hrobce Tajemného slunce
 tagGDX2RiftEldritch=Brána u Tajemné brány
+tagGDX2RiftLostOasis=Brána ve Ztracené oáze
 
 #World Map Labels
 tagGDX2WorldMapWitchGodBase=Konkláve{^n}Tří
@@ -61,6 +62,9 @@ tagGDX2WorldMapMessengersVolcano=Jáma{^n}vykoupení
 tagGDX2WorldMapRoadToKorvaakTemple=Cesta{^n}nanebevzetí
 tagGDX2WorldMapKorvaakTomb=Hrobka{^n}Tajemného slunce
 tagGDX2WorldMapVanguard=Předvoj{^n}Tří
+
+tagGDX2WorldMapLostOasis=Ztracená oáza
+tagGDX2WorldMapRoguelike=Hrobka{^n}Kacíře
 
 #Underground Names
 tagGDX2RuinedTemple01=Osyrův chrám
@@ -100,6 +104,17 @@ tagGDX2RuinedTemple04=Rahnův chrám
 tagGDX2RuinedTemple04A=Rahnova místnost s mapami
 tagGDX2RuinedPass01=Základy města Abyd
 tagGDX2VOTC04=Irrahova hrobka
+
+tagGDX2Roguelike_Area01=Enahtův chřtán
+tagGDX2Roguelike_Area02=Zpustlá bašta
+tagGDX2Roguelike_Area03=Řvoucí hlubiny
+tagGDX2Roguelike_Area04=Stezka zatracených
+tagGDX2Roguelike_Area05=Ztracená oáza
+tagGDX2Roguelike_01=Hrobka Kacíře
+tagGDX2Roguelike_01A=Dvorec kouzelníků
+tagGDX2Roguelike_01B=Morgonethova pošetilost
+tagGDX2Roguelike_01C=Hladovějící temnota
+tagGDX2Roguelike_01D=Průchod věčné noci
 
 
 #Signs
@@ -168,6 +183,25 @@ tagGDX2POI_AREAG_MessengerA=Vstup do Jámy vykoupení
 tagGDX2POI_AREAG_MessengerB=Východ z Jámy vykoupení
 
 
+tagGDX2POI_AREAG_RiggsQuest01A=Vstup do Enahtova chřtánu
+tagGDX2POI_AREAG_RiggsQuest01B=Východ z Enahtova chřtánu
+tagGDX2POI_AREAG_RiggsQuest01C=Průchod Enahtovým chřátem
+tagGDX2POI_AREAG_RiggsQuest02A=Vstup do Zpustlé bašty
+tagGDX2POI_AREAG_RiggsQuest02B=Východ ze Zpustlé bašty
+tagGDX2POI_AREAG_RiggsQuest03A=Vstup do Řvoucích hlubin
+tagGDX2POI_AREAG_RiggsQuest03B=Východ ze Řvoucích hlubin
+tagGDX2POI_AREAG_RiggsQuest03C=Průchod Řvoucími hlubinami
+
+tagGDX2POI_AREAG_Roguelike_LostPassageA=Vstup na Stezku zatracených
+tagGDX2POI_AREAG_Roguelike_LostPassageB=Východ ze Stezky zatracených
+tagGDX2POI_AREAG_Roguelike_TombOfHereticA=Vstup do Hrobky Kacíře
+tagGDX2POI_AREAG_Roguelike_TombOfHereticB=Východ z Hrobky Kacíře
+tagGDX2POI_AREAG_Roguelike_CourtOfMagiA=Vstup na Dvorec kouzelníků
+tagGDX2POI_AREAG_Roguelike_CourtOfMagiB=Východ z Dvorce kouzelníků
+tagGDX2POI_AREAG_Roguelike_MorgonethFollyA=Vstup do Morgonethovy pošetilosti
+tagGDX2POI_AREAG_Roguelike_MorgonethFollyB=Východ z Morgonethovy pošetilosti
+
+
 #Notifications
 tagNotification_AreaG_WitchGodTestWaveEvent=Tajemné zkoušky právě začaly!
 tagNotification_AreaG_WitchGodTestWaveEventFinished=Přežil jsi Tajemné zkoušky...
@@ -184,6 +218,10 @@ tagNotification_AreaG_Special03=Jak se ostatny netvora noří do písku, cesta k
 
 tagNotification_AreaG_MawOfEnahtA=Děsivý objev. Někdo v Konkláve Tří by si určitě přál o tomhle slyšet...
 tagNotification_AreaG_MawOfEnahtB=Tohle musí být to stvoření, o kterém mluvil Carmac v Konkláve Tří...
+
+tagNotification_WarningTombOfHereticGates=Morgonethova hrobka byla odpečetěna. Pospěš si, chodba nezůstane přístupná dlouho...
+tagNotification_WarningTombOfHereticGatesLocked=Morgonethova hrobka je zapečetěna a v této herní relaci se již neotevře.
+tagNotification_WarningTombOfHereticChallenge=Hladové úponky opadly!
 
 
 #NPC Names
@@ -235,6 +273,10 @@ tagGDX2NPC_AreaG_34=Sestra Girra
 tagGDX2NPC_AreaG_35=Bratr Narun
 tagGDX2NPC_AreaG_36=Bratr Ignar
 tagGDX2NPC_AreaG_37=Sestra Paulia
+
+tagGDX2NPC_AreaG_38=Zapomenutá chodba
+
+tagGDX2NPC_AreaG_39=Marr
 
 #Flavor NPC Names
 #Solael Camp
@@ -315,6 +357,19 @@ tagGDX2QuestItemBloodOfWatchers_Desc="Když jsou zničeni, tato fialovo hnědá 
 
 tagGDX2QuestItemBloodSwornManual=Krvepřísežníkův rukopis
 tagGDX2QuestItemBloodSwornManual_Desc="Sbírka spěsně napsaných poznámek o rituálech používaných skupinou Krvepřísežných kultistů."
+
+tagGDX2QuestItemRiggsQuest_01=First Seal of Morgoneth
+tagGDX2QuestItemRiggsQuest_01Desc="In the darkness bound, Morgoneth's vile tongue saw seven fall from grace. Joined in the night, his fate became theirs. No longer will they bask in the light of the Eldritch Sun. They craved the cold embrace of night and so forever will they roam its dark tapestry.{^n}{^n}The way is shut, the heresy sealed. But should the Korvan faith be shaken once more by Morgoneth's folly, then seek the second seal where stone meets the bleached sands, beyond the watchful eye of twin gryphons.{^n}{^n}I pray that knowledge of this black stain upon the Korvan lands will be lost with our final breaths.
+
+tagGDX2QuestItemRiggsQuest_02=Second Seal of Morgoneth
+tagGDX2QuestItemRiggsQuest_02Desc="In the darkness bound, Morgoneth sought to disguise his intentions in the light of Ateph. But by the grace of the Eldritch Sun, the veil was lifted from his machinations. He served a great hunger, and hunger is all he shall ever know.{^n}{^n}The way is shut, the heresy sealed. But should the Korvan faith be shaken once more by Morgoneth's folly, then seek the final seal deep within the howling abyss.{^n}{^n}May no other ever set eyes upon the night's terrors."
+
+tagGDX2QuestItemRiggsQuest_03=Third Seal of Morgoneth
+tagGDX2QuestItemRiggsQuest_03Desc="In the darkness bound, Morgoneth forged his betrayal. In the Tomb of the Heretic, his soul knows no rest.{^n}{^n}The way is shut, the heresy sealed. But should the Korvan faith be shaken once more by Morgoneth's folly, then steel your soul against the tendrils of night and deliver the keys to the Path of the Damned, beyond the resting place of our chosen champions.{^n}{^n}With great sacrifice, we sealed away the night. Do not take lightly what awaits in its embrace."
+
+tagGDX2QuestItemRiggsQuest_04=Iris of Eternal Night
+tagGDX2QuestItemRiggsQuest_04Desc="The Iris trembles with terrifying potential. Its jewels seem duller in sunlight."
+
 
 
 #Journals
@@ -436,7 +491,7 @@ tagGDX2LoreObj_AreaG_KorvanCityNoteA04Text=Dnešek jsem strávil celý den v Kor
 
 tagGDX2LoreObj_AreaG_KorvanCityNoteA05Name=Spisy učence Riona - 4. zápis
 tagGDX2LoreObj_AreaG_ KorvanCityNoteA05codexTitle=Rionovy spisy - 4. zápis
-tagGDX2LoreObj_AreaG_KorvanCityNoteA05Text=Following today's investigation of the tombs and temples of Korvan City, I must say I am more confused and, frankly, enthralled by the Korvan faith than I could have possibly imagined.{^n}{^n}Today I had the privilege to bear witness to a ceremony at the Temple of Rahn, where the ascendant himself was present to perform the honorable rite. It is my understanding that Rahn holds domain over the sun itself and it is by his blessing that the sun rises each day to warm the earth and give life to the harvest. The ceremony itself was brief and involved the slaughter of five goats upon the golden altar, their blood spilled into the carving in the form of a many-pronged sun.{^n}{^n}Rahn was a splendor to behold, his skin as golden as the suit of armor he wore. The armor glowed with burning energy and yet, as some of the acolytes in the temple described to me from their blessed opportunities to lay their hands upon it, is cool to the touch. With the way he presents himself it is easy to see why his followers believe this man to be a deity. The acolytes tell me that this is actually the 12th incarnation of Rahn. His father was the 11th and so on down the patriarchal chain of his family. Each of them had allegedly lived for centuries, and each had willingly given his life in the service of the Eldritch Sun. I was astonished to discover that the deification of this figure was his birthright. It does however lend credence to my suspicions regarding the true nature of these Korvan gods.{^n}{^n}The acolytes of this temple were more than eager to share Rahn's history with me. I swear if I let them, they'd talk all day of his countless accomplishments and divine intervention. But what did catch my attention was the presumed rivalry between Rahn and another deity they call Ateph, the lord of the moon. As this rivalry heated up, Ateph, I've learned, had slighted the Eldritch Sun and was thus banished from setting foot in Korvan City or to ever again feel the warmth of day upon his flesh.{^n}{^n}But the divine Korvaak was not without mercy. Once every 30 cycles of the sun, the disgraced Ateph was to make pilgrimage to Korvan City and make an offering upon the grand temple steps. This is an extraordinary and incredibly creative explanation for the cycling of day and night and the wax and wane of the moon.{^n}{^n}If this strange practice of ascension weren't enough, the people of the Korvan valley also appear to deify native animals and sometimes odd combinations of people and animals. The Korvan gryphon is a particularly common target of this practice. The creatures apparently live in rigid hierarchical packs which elevate a singular, usually male, individual to an alpha known by the Korvan people as a Sovereign. These gryphon Sovereigns are then worshiped by locals as minor deities.{^n}{^n}The intricacies of the Korvan faith are remarkable but it must not go unmentioned that they all lead back to Korvaak in one fashion or another. I shall focus future investigations on this penultimate deity.
+tagGDX2LoreObj_AreaG_KorvanCityNoteA05Text=Po dnešním prohledávání hrobek a chrámů v Korvanském městě musím říci, že jsem mnohem zmatenější a, upřímně řečeno, nadšenější korvanskou vírou více, než jsem si dokázal představit.{^n}{^n}Dnes jsem měl tu čest být svědkem ceremonie v Rahnově chrámu za přítomnosti samotného Předka, aby provedl čestný obřad. Jsem si vědom toho, že Rahn drží ochrannou ruku nad samotným sluncem a díky jeho požehnání slunce každý den vychází, aby zahřálo zemi a dalo život sklizni. Samotná ceremonie byla stručná a zahrnovala porážku pěti koz na zlatém oltáři a jejich krev byla vylita do výřezů vytvarovaného slunce.{^n}{^n}Rahn byl nádherný na pohled, jeho kůže byla zlatá jako zbroj, kterou nosil. Zbroj zářila spalující energií a přesto byla chladná na dotek, jak mi popsali někteří z akolytů v chrámu při svém požehnání, když měli možnost položit své ruce na ni. Díky své sebeprezentaci je snadné pochopit, proč si jeho následnící myslí, že je tento člověk bohem. Akolyté mi říkají, že se jedná už o 12. převtělení Rahna. Jeho otec byl 11. a tak bych mohl pokračovat v patriarchálním řetězci jeho rodiny. Každý z nich údajně žil několik století a všichni dobrovolně zasvětili svůj život Tajemnému slunci. Ohromilo mne, že jeho zbožnost je dána právem prvorozeného. I přesto všechno mám určitou podezíravost vůči skutečné povaze korvanských bohů.{^n}{^n}Akolyté tohoto chrámu se mnou horlivě sdíleli Rahnovu historii. Přísahám, že pokud bych je nezastavil, hovořili by celý den o bezpočtu jeho úspěchů a božských zákrocích. Zaujala mne ovšem slova o předvídatelné rivalitě mezi Rahnem a jiným bohem, jehož nazývali Atephem, pánem měsíce. Když se tato rivalita rozpoutala, Ateph, jak jsem se dozvěděl, krotil Tajemné slunce, čímž mu byl zapovězen vstup do Korvanského města, nebo aby znovu pocítil denní teplo na svém těle.{^n}{^n}Ale božský Korvaak byl milostivý. Jednou za 30 cyklů slunce měl zneuctěný Ateph učinit pouť do Korvanského města a položit oběť na schodech velkého chrámu. Jedná se o velmi pozoruhodné vysvětlení střídaní dne a noci, a také dorůstání a ubývání měsíce.{^n}{^n}Pokud by tato zvláštní praktikování vzestupu nebylo dostačující, lidé z Korvanského údolí také uctívají zdejší zvířata a někteří dokonce i různorodé kombinace člověka a zvířete. Například korvanští gryfové jsou toho jasným příkladem. Tito tvorové zjevně žijí v přísně hierarchických skupinách, kterou vede dostatečně silný jednotlivec, obvykle samec, respektive alfa samec, který je nazýván Vládcem. Tito gryfí vládci jsou uctívání místními obyvateli jako menší božstva.{^n}{^n}Spletitosti Korvanské víry jsou pozoruhodné, ale nesmí být opomenuto zmínit, že všechny beztak vedou zpět ke Korvaakovi. Zkusím zaměřit své další pozorování na toto předposlední božstvo.
 
 tagGDX2LoreObj_AreaG_KorvanCityNoteA06Name=Spisy učence Riona - 5. zápis
 tagGDX2LoreObj_AreaG_ KorvanCityNoteA06codexTitle=Rionovy spisy - 5. zápis
@@ -491,16 +546,19 @@ tagGDX2LoreObj_AreaG_EldritchNoteA02Text=Spatřit Říši Tajemného slunce je p
 
 #Endless Dungeon
 tagGDX2LoreObj_AreaG_EndlessDungeonNoteA01Name=Hříchy Zapomenutého - 1. zápis
+tagGDX2LoreObj_AreaG_EndlessDungeonNoteA01codexTitle=Hříchy Zapomenutého
 tagGDX2LoreObj_AreaG_EndlessDungeonNoteA01Text=Zaměř své oči na krásu Ralyothu a podej svědectví o ceně vzdoru, neboť naše počiny byly naší zkázou.{^n}{^n}Jak stíny temnoty rvou a trhají náš svět, my hledíme do svého zapomnění, ale jedna pravda je neměnná; když naši předkové vyhnali našeho boha, zpečetili tím náš osud. Když se dívám na nebe bez hvězd a pomalu zanikajícího poutníka, přistihnu se vzpomínající na jasnější dny. Dny, kdy děti pobíhaly ulicem a smály se, a nebo jako teď, kdy se krčí se svými rodiči ve sklepích a čekají na nevyhnutelné. Pryč jsou bouřlivá vyvolávání na bazaru a povídání si lidí o tom, jaký měli den. Všichni jsme se odmlčeli. Někteří z nás se uchylují k modlitbám k jakémukoliv bohu, který bude naslouchat, ale žádný z nich neodpoví, když jsme zapomněli jejich jména.{^n}{^n}Takový byl výnos našich předků. Jejich slova vykreslovala božstvo jako kruté, zlomyslné a malicherné; ale pokud bylo jejich vůlí, aby naše země existovaly, abychom my existovali, tak za jakou cenu? Pocítili naši předci ve svých činech nějaké ospravedlnění? Ve svých posledních okamžicích hledám odpovědi na tyto otázky.{^n}{^n}Když jsem vešel do královské knihovny, nikdo mi nebránil. Strážci byli dávno pryč, hledali útěchu u svých rodin a blízkých. Zůstalo tady pár archivářů, kteří nedokázali prolomit rutinu ani na konci svých dní. Se zvědavostí mi ukázaly knihy, které jsem žádal a necítily potřebu mi odpírat znalosti v současné situaci.{^n}{^n}Z toho, co jsem odhalil, mi až zamrazilo v zádech a otevřelo oči nad arogancí a vzdorem naší civilizace...
 
 tagGDX2LoreObj_AreaG_EndlessDungeonNoteA02Name=Hříchy Zapomenutého - 2. zápis
+tagGDX2LoreObj_AreaG_EndlessDungeonNoteA02codexTitle=Hříchy Zapomenutého
 tagGDX2LoreObj_AreaG_EndlessDungeonNoteA02Text=Všechno co vidíme, zvířata, jež chováme pro maso, stromy, z nichž sklízíme ovoce, to vše byl dar bezejmenného boha. Toto vše nám bylo přiděleno a byla po nás požadována jedna jediná věc: úcta.{^n}{^n}Před prvními lidmi stanula rozzářená entita, světlo jasnější než hvězda na nebesích a žádala oddanost. Jeho příchod byl předznamenán dech beroucí sprchou meteoritů. Všichni cítili respekt ke svému dobrotinci. Všichni klečeli.{^n}{^n}Na jeho počest byly vztyčeny monumenty. Nejlepší umělci se dohadovali o materiálech, které nejlépe zachytí božskou podobu. Chrámy byly postaveny v potu a krvi našich lidí. V samotném srdci Ralyothu byl postaven obrovský zikkurat aby připomínal nebeský trůn a fanatičtí věřící se mohli obětovat na jeho schodech jen aby získali bohovu přízeň.{^n}{^n}Ale jak naše společnost vzkvétala a naši lidé se roztahovali do zemí pro ně stvořené, začali být nespokojeni. Úcta k bohu už nebyla výsadou všech. Požehnání sklizně nebylo v zapadlých krajích naší říše vůbec uznáváno. Jak se naše města rozrůstala, nemoci byly čím dál častější.{^n}{^n}Veškeré zlo šířené mezi lidmi bylo přisuzováno jejich bohu. Měli pocit, že uctíváním bohů jim zaručuje více požehnání a že oběti, které jejich předci přinesli, jim dává právo na blaženou existenci. Na nějaký čas to vypadalo, že bůh byl ochoten uklidnit své lidi, ale když poskytl výhodu jedné skupině, některá další skupina se naštvala, že jejich modlitby nebyly vyslyšeny dříve. Nepokoje začaly být na denním pořádku. Občané se dali na zločin a brali si všechno, co chtěli. A když se otočili zády k samotnému bohu, který jim všechno poskytnul, ten náhle utichl a opustil je.{^n}{^n}Na všech těch zápiscích mi přišlo zvláštní, že ani jednou nebylo vysloveno jméno boha a na některých místech je dokonce začerněno inkoustem. Zdá se, že naši předkové byli ve vymazávání důkazů o jeho existenci velmi důkladní.
 
 tagGDX2LoreObj_AreaG_EndlessDungeonNoteA03Name=Hříchy Zapomenutého - poslední zápis
+tagGDX2LoreObj_AreaG_EndlessDungeonNoteA03codexTitle=Hříchy Zapomenutého
 tagGDX2LoreObj_AreaG_EndlessDungeonNoteA03Text=Země pod mýma nohama se zachvěla a poslední světlo, které mi ještě zbylo, je z několika svíček. Mohu si tak číst ve zdejších knihách a zapsat své poslední hodiny. Archiváři už také odešli. Kam? Nemám ponětí. Neexistuje místo, které by bylo bezpečné před rozpínající se temnotou.{^n}{^n}Mé čtení mě dovedlo ke kronikám popisujícím poslední okamžiky v naší historii lidstva, ke dni, kdy jsme porazili boha. Datum této události je sice nejisté, ale bylo to už před několika generacemi a nikdo, koho znám, v té době nežil a nemohl tak být toho svědkem.{^n}{^n}Texty popisují poslední roky božského bytí jako velmi bouřlivé. Hvězdy pomalu bledly a bůh téměř nebyl spatřován mimo svůj zikkurat. Někteří jej přestali úplně uctívat v přesvědčení, že je bůh opustil a nechal je svému osudu. Rozlícené davy se vydaly do ulic. Strhaly pomníky, znesvětily svatyně. Chrámy byly vypáleny.{^n}{^n}Nespokojenost se změnila ve vzpouru, a vzpoura vyburcovala rozlícené davy, aby se vydaly k velkému zikkuratu. Kněží připravili mocné runy a alchymisté vytvořili kouzla, kterými mysleli, že si podmaní boha. Se smrtí v očích lidé vyšplhali k božskému trůnu. Tam ho našli, rozzuřeného znesvěcením a vzpourou, ale to oslnivé světlo jako by se vytratilo. Bůh tam seděl, tyčil se nad lidmi a dožadoval se loajálnosti; ale nikdo neohnul koleno. Evidentně rozpálen takovým chováním proklel bůh tyto země a jejich lid a zmizel v erupci plamenů, které zbortily zikkurat a spálily všechny živé, kdo se opovážil vzdorovat jeho božství.{^n}{^n}Ralyoth se zbavil veškerého božství. Jeho jméno bylo vymazáno ze všech záznamů a zničeno veškeré umění. Jeho sochy a pomníky byly strhány nebo znetvořeny. Chrám zůstal opuštěn a po čase si jej vzala příroda.{^n}{^n}Následovaly měsíce truchlení za statečné duše ztracené v zikkuratu, které byly uctěny oslavami a svátky. Náš jediný bůh byl zcela zapomenut. Až po mnoha staletích později, když naše hvězda vyhasla a nás zastihla rozpínající se temnota, jsme si teprve uvědomili, co naši předci udělali.{^n}{^n}Jak tady sedím pod ubývajícím světlem svíček, dumám nad budoucností, kde bychom nebyli trnem v patě našeho nebeského boha. Neznat důsledky, jednali bychom stejně jako naši předkové? Nebo bychom byli vděčnější za země a výhody, které nám byly dány? Jak si mě temnota bere, stále si pokládám otázky co by se dělo, kdyby to bylo jinak, ale na to už mi nikdo neodpoví...
 
 
-# Bonebleach Basin
+#Bonebleach Basin
 tagGDX2LoreObj_AreaG_BonebleachNoteA01Name=Moře prachu - 1. strana
 tagGDX2LoreObj_AreaG_BonebleachNoteA01Text=Naše výprava do povodí mrtvý Cairanské zátoky měla hořkej začátek. Po několika dnech v nekonečnejch dunách jsme byli přepadeni vobrovskou písečnou bouří.{^n}{^n}Tři dny fučelo a dvakrát jsem se musel vyškrábat na povrch, abych tam nezdechnul pod haldou písku. Náš průvodce takový štěstí neměl. Vypadalo to, že jeho stan byl někdy v noci rozpáranej a bon byl zasypanej pískem.{^n}{^n}Fhariz tvrdil, že nejlepší bude se vrátit, ale zbytek z nás byl rozhodnutej pokračoval. Vo jednu hubu míň a se zásobou vody a jídla navíc bysme to měli dát. Ta vidina bohatství za ten risk stojí.
 
@@ -511,12 +569,101 @@ tagGDX2LoreObj_AreaG_BonebleachNoteA03Name=Moře prachu - 3. strana
 tagGDX2LoreObj_AreaG_BonebleachNoteA03Text=Vylezl jsem na vršek nejvyšší duny v naději, že uvidím cokoliv... skálu, nějakej orientační bod, ptáka. Aspoň kurva něco. Ale tam na vrcholku to bylo čirý zoufalství. Moře prachu bylo rozprostřeno kam moje oči dohlídly a mizelo v lesklý stěně bezmračný modři.{^n}{^n}Voda mi došla už včera a otřesná bolest hlavy mi znemožnila nad čímkoliv přemejšlet. Jsem ztracenej v nekonečných dunách a bez jakýkoliv naděje.
 
 
+#Tomb of the Heretic
+tagGDX2LoreObj_AreaG_RoguelikeNoteA01Name=Carmac's Final Notes
+tagGDX2LoreObj_AreaG_RoguelikeNoteA01Text=Incredible, simply incredible!{^n}{^n}The internal functions of this vast creature are unlike anything I could have ever imagined. It appears it has actually developed a symbiotic relationship with the local fauna, allowing the Korvan scarabs to roam freely and their larvae to feast upon the refuse. I suspect it is a means for the maw to clear out undesired particulates.{^n}{^n}I've also become intimately acquainted with an undocumented form of worm that seems to burrow directly into the maw's insides. They appear to emerge only when a meal is present, as my crew quickly learned. Their deaths were most unfortunate as I now find myself alone inside the creature, but the notes I've taken on the feeding cycle will be invaluable in my chapter on the great Maw of Enaht! {^n}{^n}Alas, the viscous material the worms extrude upon flesh seems to be having an ill effect upon my ability to walk. My legs now feel like gelatin! I'll have to gather a sample at the next opportunity for posterity. I expect it will not be long before the opportunistic feeders return. The very air here is a toxic miasma that disorients and overwhelms the senses, which makes intruders easy prey.{^n}{^n}I must admit, my hubris got the better of me in venturing inside this creature, but what self-proclaimed explorer could turn down an opportunity of a lifetime? While I will inevitably soon join the ranks of other prominent pioneers in the field of zoological exploration that lost their lives in the field, I fully expect that my work will feed the voracious curiosity of future generations. May they complete the picture which we started this day and do so remembering the name of Carmac!
+
+tagGDX2LoreObj_AreaG_RoguelikeNoteA02Name=Last Words of Harod - Page 1
+tagGDX2LoreObj_AreaG_RoguelikeNoteA02Text=Tuha, that son of a spider.{^n}{^n}He handed me the satchel with the seal. He told me I have served him well all these years and that I was to have the honor of tossing the twice cursed thing into the maw of the sands. And then, when I walk to the edge, the jackal hit me from behind.{^n}{^n}I must have blacked out. When I awoke, I saw no light above. I've now wandered inside this forsaken place for hours and everything looks the same. I have no way to mark where I am or where to go. There must be some truth to the legends of this beast spanning the entirety of the. It is like a maze, except living...and writhing. And by the depths of nights, the smell; like week old vomit boiling beneath the desert sun.{^n}{^n}I've also taken note of several chambers filled with a sickly green fluid. The stench is strongest near them. I've since steered clear of them.
+
+tagGDX2LoreObj_AreaG_RoguelikeNoteA03Name=Last Words of Harod - Page 2
+tagGDX2LoreObj_AreaG_RoguelikeNoteA03Text=I had to pause in my exploration. I've lost track of time and the air here is thin. I found the driest place I could to lay down. I know not how long I slept, but I was awoken by large grubs spraying something viscous all over my clothes, almost like spiderwebs. Now my skin tingles where it was exposed.{^n}{^n}I dread to think what would have happened if I had not awoken when I did. Would I have been devoured in my sleep, my senses dulled by the strange sludge? The horrid things retreated when I brandished my sword, but I know they are not far behind as I walk. They are in no rush to have their inevitable meal.{^n}{^n}I thought my loyalty to Tuha would be how I forged my name in the ranks of the temple guard. I must have angered the priests somehow. But what could I have done? I can think of no altercation that would have them do this to me. Unless this fate awaits all who know the location of the seals?{^n}{^n}How do two people keep a secret? One kills the other.
+
+tagGDX2LoreObj_AreaG_RoguelikeNoteA04Name=Last Words of Harod - Page 3
+tagGDX2LoreObj_AreaG_RoguelikeNoteA04Text=My skin itches and burns, but I must not touch it. Those grubs did something to me, made my flesh soft like meat that had been boiled too long. My clothes and armor have started to rot and rust away. My hair is falling out. I think this living horror I am inside is slowly digesting me.{^n}{^n}I must hurry and find an exit before my life is spent; and when I do, I am going to slit that traitor Tuha's throat like the dog he is. I know where they are taking the second seal and I'll eagerly await their arrival in the shadows of that forsaken fortress.{^n}{^n}But I only have a little flame left and I see it flickering, drawn by a subtle breeze. To finds one's way out of a cave, one must follow the direction the torch is blowing. By the light of Rahn, I will have my revenge!
+
+tagGDX2LoreObj_AreaG_RoguelikeNoteA05Name=Journal of Captain Fhaud - Page 1
+tagGDX2LoreObj_AreaG_RoguelikeNoteA05codexTitle=Captain Fhaud - Page 1
+tagGDX2LoreObj_AreaG_RoguelikeNoteA05Text=I have arrived at my new post and completed my inspection of the fort and its troops. It is a small structure, but impressive in its armaments and the regiment's dedication to their assignment. I was told the fort has no formal name and I was not to issue it one. It is not a matter I intend to question as my orders were handed down from Vizier Erhaman himself.{^n}{^n} The regiment, known as the Blades of Ateph, is a formidable one. I have watched them spar and their skills in combat are frightening. But this comes as no surprise. They've all been trained from a young age as both assassins and soldiers. I have no doubt they will make for excellent guardians should we face any threats.{^n}{^n}The fort's most notable feature is the long double bridge built over water that flows in from the ocean. Beyond it lies the vault I am to guard with my life. As to what it contains, I was not given specifics, only that the object in question had not yet arrived.{^n}{^n}I'm not going to jeopardize my fortunes by asking too many questions. This is an excellent post. It is quiet and the salt air is pleasant, much better for my lungs than the damp air of the cliffs of Abyd. I do not think I could have asked for a better assignment.
+
+tagGDX2LoreObj_AreaG_RoguelikeNoteA06Name=Journal of Captain Fhaud - Page 2
+tagGDX2LoreObj_AreaG_RoguelikeNoteA06codexTitle=Captain Fhaud - Page 2
+tagGDX2LoreObj_AreaG_RoguelikeNoteA06Text=A priest named Tuha arrived today. He is a hard, and unapproachable man. He asked to have his entourage put up for the duration of their stay, which of course I agreed to.{^n}{^n}After a night's rest he asked to be shown the premises, culminating in the underground chamber. As we made our way through the fort, I pointed out various features and soldiers of note. Priest Tuha showed little interest. Later on, he interrupted a demonstration by the Blades and asked to be shown across the bridge.{^n}{^n}I shudder every time I cross that expanse. Despite my training, I cannot help but fear falling over the edge. The water below would break my fall, but there is no way back should I survive its icy depths. Once beyond the bridge, Tuha became very interested. He examined every rock, every crevice, pushing and pulling on bits of the mosaic adorning the walls. He was searching for weaknesses, I presume.{^n}{^n}We spent the remainder of the day there, I sent for food several times, but he touched little of it. Finally, late into the night, he was satisfied. Of what, I could not say. And I dare not ask.
+
+tagGDX2LoreObj_AreaG_RoguelikeNoteA07Name=Journal of Captain Fhaud - Page 3
+tagGDX2LoreObj_AreaG_RoguelikeNoteA07codexTitle=Captain Fhaud - Page 3
+tagGDX2LoreObj_AreaG_RoguelikeNoteA07Text=On the following day, Priest Tuha had his entourage move in a large stone chest adorned with a gryphon. It did not appear to have any hinges or lid. Whatever was inside, it was heavy. It took a team of twenty mighty men working tirelessly all day to move it. By the end, their backs glistened with sweat and blood from their toils.{^n}{^n}Once the casket was in place, the priest instructed them to go rest on the bridge. As they made their way down, Tuha motioned with his scepter and several of the Blades of Ateph descended upon them. They moved swiftly and mercilessly. Within moments, all the workers were bleeding out on the bridge stone, their throats slit before they even realized what had transpired.{^n}{^n}Tuha ordered their bodies to be weighed down with rocks and dumped into the waters churning below. The sudden harshness and brutality were so sudden, I briefly watched in stunned silence, but then it occurred to me...the Blades did not follow my orders. They followed his.{^n}{^n}The priest gathered what remained of his caravan, a mere handful of soldiers. I suspect they too were Blades of Ateph. I followed them back to the surface and inquired as to where the caravan was heading next. To that, he said "Someplace deep that light has forsaken." He then gave me a look that made my blood run cold; a look that told me I should not ask such questions unless I wanted to join the rest of his caravan in the black waters below.{^n}{^n}Each night as I stand watch atop the fortress ramparts, I am reminded of the carnage that took place beneath and the chilling realization that I am honor-bound to die in this place sets in. I find no comfort in the other denizens of the fort. To speak out about its secrets would sooner see me flayed by their vicious blades. In that, I serve alone.
+
+tagGDX2LoreObj_AreaG_RoguelikeNoteA08Name=Tuha's Travel Log - Page 1
+tagGDX2LoreObj_AreaG_RoguelikeNoteA08Text=I count the days since setting off from the Gardens of Ateph and the grim events of that fateful night. The Grand Magus Morgoneth and his acolytes were felled by the wisdom and might of the temple wardens, but what the heretic unleashed cannot be so easily halted, it can merely be contained.{^n}{^n}While the eternal night lies dormant beyond the runed gate, the final burden fell to but one. If the Korvan people are to be truly free from this darkness, then none can know of where the seals lie hidden. In that, I have offered myself for no other could be entrusted with this grave duty. Vizier Erhaman swore to pray upon the Path of Ascension that my sacrifice not be in vain and granted me his holy sigil so that none will stand in the way of what I must do.{^n}{^n}I pity the men that now accompany me on this journey, for they do not know the heavy price they will soon be forced to pay.
+
+tagGDX2LoreObj_AreaG_RoguelikeNoteA09Name=Tuha's Travel Log - Page 2
+tagGDX2LoreObj_AreaG_RoguelikeNoteA09Text=Eternal Sun protect me that I endure these crimes. An eternal pox upon the heretics that have caused this calamity and what I am forced me to do. May Ulzuin thrust his burning fist into their souls that they may feel the agony of death once more.{^n}{^n}I've left my finest acolyte, Harod to suffer within the desert maw. I do this knowing that my unexpected betrayal will drive him deep inside the terror beneath the sands in a vain attempt to seek escape, and his revenge. He was always so driven and resilient, and loyal. Now I've repaid his long service with agony. May the first seal be devoured over a thousand years.{^n}{^n}The second seal's location offered little respite from the evils I was duty-bound to commit. There, the lives of my caravan were forfeit so that their tongues may never slip the location of the cursed object. While this was not done by my hand, the Blades of Ateph saw to the grisly deed, their every move felt as if I was the perpetrator.{^n}{^n}I now set out with what remains of my entourage for the final location, where the third seal will forever lie beyond the reach of the blessed sun, and where I will remain to atone for my sins.
+
+tagGDX2LoreObj_AreaG_RoguelikeNoteA10Name=Tuha's Letter
+tagGDX2LoreObj_AreaG_RoguelikeNoteA10Text=Nammia, my desert flower. How my heart aches to be with you and the children one last time.{^n}{^n}I fear this letter will not find its way to you, but I must write down my thoughts nonetheless. You see, I've lied to you when I set out beyond the Apesh Mountains. I am not returning home. One more task remains that will take me to where even the light of our divine cannot reach, where I will forever remain.{^n}{^n}While I cannot speak of what I must do, please know that it is of the most vital importance in order to keep you safe, to keep us all safe. I am sure you think I exaggerate, but after what I have witnessed, I no longer think there are limits to the evils mankind is capable of. In that, I am no exception for the path I have undertaken is dark with the blood of my fellow men, men that trusted my every command.{^n}{^n}Know that in my final moments, I will think only of your beautiful smile. Your face will be the only sun I will worship for the remainder of my days. Give the children my love.{^n}{^n}Yours, until the sun burns cold and the stars go dark.{^n}{^n}Tuha
+
+
+tagGDX2LoreObj_AreaG_RoguelikeNoteB01Name=Tuha's Report - Page 1
+tagGDX2LoreObj_AreaG_RoguelikeNoteB01Text=When the summons arrived to discuss what had transpired in the Gardens of Ateph, I could not believe my own eyes. That was once a place of festivities and worship. I still remember the first time my father took me to see the brightly colored lanterns of the night festival, a tribute to Ateph who would never again see the light of Rahn.{^n}{^n}But this darkness, this is twisted beyond comprehension. The Grand Magus perverted the worship of Ateph into something unrecognizable, and for that the Vizier handed down the most serious judgment: exorcism by fire.{^n}{^n}At his command, I've set out with an entourage of priests and temple wardens from the great Korvan City. We will purge this heresy and all those that dared defy the Korvan faith.
+
+tagGDX2LoreObj_AreaG_RoguelikeNoteB02Name=Tuha's Report - Page 2
+tagGDX2LoreObj_AreaG_RoguelikeNoteB02Text=We stand before the gates to the Gardens of Ateph and immediately a sense of wrongness surrounds us. There is a foulness in the air that cannot be described by mortal senses.{^n}{^n}Many had already fled this befouled place. Those less fortunate had already succumbed to the madness and required the release of death. Our orders were clear: no trace of the corruption of night is to escape the valley. With a heavy heart, we do what is necessary for the good of the Korvan people.{^n}{^n}The closer we get to the Court of the Magi, the stranger the sights become. The men are uneasy, but the horses are inconsolable. The remainder of the journey will be on foot.
+
+tagGDX2LoreObj_AreaG_RoguelikeNoteB03Name=Morgoneth's Lessons - Page 1
+tagGDX2LoreObj_AreaG_RoguelikeNoteB03Text=Brothers and sisters of the moon. I implore you to listen.{^n}{^n}Like me, you surely feel the absence of the Eldritch Sun's warmth upon our lands. The priests may deny it, the Vizier may create spectacles upon the temple steps, but we all know the undeniable truth: the Korvan people have been abandoned before the vastness of the celestial veil by an uncaring god.{^n}{^n}But will we stand idle as our enemies encroach upon us? Of course not, brothers and sisters! We are the Korvan people! Our steel is mighty and our knowledge of the arcane is without compare.{^n}{^n}Join me in the Gardens of Ateph! Let us cast down the shackles of the priests sitting upon their golden thrones in Korvan City.{^n}{^n}We will carve a new future from the tapestry of fate, one forged by our own hand and not by the whims of fickle gods!
+
+tagGDX2LoreObj_AreaG_RoguelikeNoteB04Name=Morgoneth's Invitation
+tagGDX2LoreObj_AreaG_RoguelikeNoteB04Text=The Grand Magus sure has a way with words. I fear that I am merely caving to his flowery speeches and excessive flattery, but if six others had already joined him in this endeavor, then there must be some merit to his pursuits.{^n}{^n}His methods have always been...unorthodox for lack of a better word, but if we are to topple a system that's been in place for centuries, perhaps unorthodox is exactly what we need. I too tire of the chokehold the Korvan priests have upon the study of the vast celestial veil.  I think they often forget they are not gods. What gives them the right to judge us for wishing to know more of our makers? Do they fear what lies we may uncover?{^n}{^n}And now, with rumors of the Temple of the Eldritch Sun growing cold, perhaps we are at the precipice of change our stagnant society desperately needs. The prospect of being part of the push over this veritable edge has my spine tingling with the possibilities.{^n}{^n}Magi Orissia
+
+
+tagGDX2LoreObj_AreaG_RoguelikeNoteC01Name=Morgoneth's Lessons - Page 2
+tagGDX2LoreObj_AreaG_RoguelikeNoteC01Text=Fear not, my magi. While we may be delving into the unknown, we are not doing so blindly. Here, within the Gardens of Ateph, the iris of night offers us a glimpse into the tapestry beyond. Watch as the stars dwindle and fade at its edges. Witness as the insatiable darkness eats away at what the gods have wrought.{^n}{^n}That, my friends, is true power; the power to unravel even the will of the gods. This is what we seek and what we will learn to master. In that, I will be your honored guide. I have peered into its infinity and know how to navigate its pitfalls. It is only natural to fear this emptiness, this absence of all things, but if you give yourself fully to unraveling its secrets, we will surpass even the gods the priesthood claims to speak for.{^n}{^n}Do not mistake my enthusiasm for rash action, however. It is imperative that we proceed with caution; not just for the integrity of our spellcraft but to shield ourselves from the prying eyes of the priesthood. So that each of us knows we do not stand alone, I have forged eight rings.{^n}{^n}These jewels not only serve as a symbol binding us in this conclave, they will ward us against unwanted attention, from our plane and the one beyond.
+
+tagGDX2LoreObj_AreaG_RoguelikeNoteC02Name=Tuha's Report - Page 3
+tagGDX2LoreObj_AreaG_RoguelikeNoteC02Text=What we found inside the gardens defies comprehension. Words fail me at the sight of this depravity. The earth itself has been eaten away by...nothingness. The windblown sands fall off the shattered edges and vanish into the abyss beyond. Several men have balked at the sight, their morning's rations mixing into the already unbearable tapestry painted before us by Morgoneth's heresy.{^n}{^n}The local wildlife has succumbed as well. Creatures of the night that would be a natural sight in any other part of the basin are distorted and wrong here. They claw at their own flesh in some vain attempt to escape the madness of their new reality. I have no doubts we will be reduced to a similar writhing mess should we remain here too long.{^n}{^n}The seven acolytes to Morgoneth's folly were a prime example of this insanity. As we approached, we could hear them babbling in strange tongues. They stood gathered around a pile of human bones as if chanting a ritual. A dark aura emanated from them that was reminiscent of the void tearing this place apart.{^n}{^n}We took no chances. If the magi were performing a spell, then it was best that they not finish it in our presence. We greatly outnumbered them, even having several of the temple stewards among our number, and despite having the element of surprise the raw power on display by these traitors was astounding to behold. Scores of my men vanished in an instant. Others were torn apart by hungering tentacles.{^n}{^n}But by the light of the Eldritch Sun, we were triumphant. What bit of darkness these fools tapped into has been expunged by fire and their forsaken souls trapped by the priests. They will know no rest. Death will offer them no release from the nightmare they had created.{^n}{^n}While this small victory brings what remains of us some solace, we all know that the greater threat still awaits deeper inside the realm of night. The Grand Magus Morgoneth still stands.
+
+tagGDX2LoreObj_AreaG_RoguelikeNoteC03Name=The Darkness Writhes
+tagGDX2LoreObj_AreaG_RoguelikeNoteC03Text=By the light of Rahn, by the waters of Eyahna, the emptiness before us moves. Its tendrils seep into my very thoughts. I stare into what should be empty blackness and yet whispers fill my mind. How can mortals stand before such raw malevolence? The answer is as plainly before me as the sands beneath my feet: we cannot.{^n}{^n}The abyss is inevitable, terrible and yet...beautiful. At first, I was terrified of its portents, but as my eyes adjusted to the nothingness, I realized that we are all meant to become as one with it. I teeter on the edge of the cobblestone path and I no longer fear what awaits all of us, even the gods.{^n}{^n}I go now, to my destiny.
+
+tagGDX2LoreObj_AreaG_RoguelikeNoteC04Name=Tuha's Report - Page 4
+tagGDX2LoreObj_AreaG_RoguelikeNoteC04Text=The malevolence is palpable this deep into abyss. You can feel it in the air, like a whisper that gnaws at you, a slow blade to the nerves. I have seen it in the eyes of the men. A harrowed look. Pale and wide eyed. Last night, the whole of the camp was awoken by a ghastly shrieking. One of my captains was carving his own arm like a meat shank, screaming about the bugs under his skin. Several others had wandered off without a word to their superiors. We never saw them again.{^n}{^n}Further tragedy struck as we neared Morgoneth's foul altar. One of the temple stewards, a mighty construct blessed by the Eldritch Sun, suddenly collapsed as unearthly tendrils wrapped themselves around its legs. Several of my men approached to investigate only to find themselves at the mercy of our very ally. The steward rose again, but its eyes no longer shone with the brilliance of the temple fire. Instead, they were the black of the abyss, claimed by the foulness threatening to consume us all.{^n}{^n}Those nearest to the steward were the first to fall, cleaved in two by its mighty halberd. Several more turned to ash when the construct exhaled the void itself. Ironically, it would be the very blessings of the Eldritch Sun that proved the steward's undoing. With a fiery rune emblazoned in the air, I forced the guardian to the edge of nothingness and several of our magi blasted it with spells and sent it plummeting into the same void that now controlled it.{^n}{^n}If such corruption can claim even our mightiest guardians, then by the light of Rahn, we must hurry.
+
+tagGDX2LoreObj_AreaG_RoguelikeNoteC05Name=Scion of the Sands
+tagGDX2LoreObj_AreaG_RoguelikeNoteC05Text=High Priest Tuha has made the ultimate sacrifice for the safety and integrity of the Korvan faith, but we must not allow ourselves to grow complacent in the wake of this heresy.{^n}{^n}While the Korvan people may never learn of Morgoneth's folly, the land will not forget the crimes committed against her. The black wound festers beyond the barrier, eager to spread its malevolence. This must never come to pass.{^n}{^n}With the blessing of our elders, I invoke the ancient rites. The infinite Korvan sands will be called to rise up in defiance of this blasphemy. They shall bear a new guardian: a scion of the sands that will embody the wrath and fury of the Korvan lands.{^n}{^n}In this, we are united, in this we beckon...Callagadra, a name which will strike terror into the creatures of night.
+
+
+tagGDX2LoreObj_AreaG_RoguelikeNoteD01Name=Confluence of the Magi
+tagGDX2LoreObj_AreaG_RoguelikeNoteD01Text=The world around us is a lie perpetrated by the evils of the priests. We alone stand as heralds of truth in a shattered reality, scions of eternal night. Morgoneth may have opened our eyes to the truth, but the whispers have opened our hearts to the solution.{^n}{^n}It writhes outside and within, the black tendrils of eternal night cradle the unmaking of all. The flutes of despair sing their chorus and we alone dance to their blissful tune. The betrayers come for us now, but they have not yet seen the beauty of the abyss. But they will, they all will.{^n}{^n}Even as the end to our mortal forms rapidly approaches, the whispers of Morgoneth emanate from within our minds. We were deceived, for in the forging of the rings Morgoneth told but seven lies. His ring was made to be above all. He is the prime, the one to bring us all to the abyss and the one who will bring us back.{^n}{^n}They come, they come. Let the chorus of unreality begin. Let them hear the whispers too, for in the end of all things, only nothingness remains.
+
+tagGDX2LoreObj_AreaG_RoguelikeNoteD02Name=Morgoneth's Lessons - Page 3
+tagGDX2LoreObj_AreaG_RoguelikeNoteD02Text=It is as I told you, my brothers and sisters in darkness. The betrayers inevitably learned of our actions and they come, oh they come. They bring their runes and their constructs of mortal war, but they will soon learn that one cannot defy the ultimate truth. The abyss calls to us all. We may fight it, resist it, but in the end, we will all be consumed by it. The gods learned this truth long ago and even they must ultimately submit. Their stars will not defy their fate forever.{^n}{^n}The conduit of eternal night is complete. Its unlight will bask the stars in shadow and usher in the unmaking. It matters not what happens to us this day, the betrayers at the temple are too late. The barrier is no more. The great devourer has tasted of our bounty and will be held back no longer.{^n}{^n}They may rip and tear at our flesh; they may even triumph over our mortal forms, but they have not peered into the abyss as we have. They know nothing of what awaits, and what is yet to come.{^n}{^n}Go forth onto eternity, my magi.
+
+tagGDX2LoreObj_AreaG_RoguelikeNoteD03Name=Memories of Morgoneth
+tagGDX2LoreObj_AreaG_RoguelikeNoteD03Text=Merciful Ateph, tell me what I must do. The tendrils of night claw at my waking thoughts, and the abyss fills my dreams. The world of day no longer comforts me.{^n}{^n}I've peered beyond the far reaches of the tapestry of the gods. I knew not what to expect, but I expected 'something'; what awaited my sight was the absence of anything at all. In this void I found answers to questions I did not know I asked. Words filled my mind that carried no meaning and yet I was familiar with them, like the comfort of a warm hearth on a winter's night.{^n}{^n}How could I deny such beauty, such perfection. The tapestry of the gods is a disease, a stain upon the uniformity of the abyss. To defy it is sheer folly. The lies of the gods have been lifted from my eyes, but others stand blind around me. They too shall be made to see.{^n}{^n}No, no, they will not understand. They will falter and everything will shatter. They cannot merely be shown the truth, they must be remade to serve it. Yes, I will bind them in darkness, bind them to my will, so that all can be brought to the unmaker's embrace.{^n}{^n}The anointed hour arrives, yes. They come, but they come too late. The iris points the way to the dawn of eternal night. When the devoured stars align, the tendrils of hunger will unravel the very earth and the end shall begin as it must.{^n}{^n}At the conduit, the shadows take form, the seven will rise ever more. And when they come for me, the fools will all be made to see. Morgoneth the unmaker is here, and here forever he shall be.
+
+
+
+
+tagGDX2Roguelike_Area01=Enahtův chřtán
+tagGDX2Roguelike_Area02=Zpustlá bašta
+tagGDX2Roguelike_Area03=Řvoucí hlubiny
+tagGDX2Roguelike_Area04=Stezka zatracených
+tagGDX2Roguelike_Area05=Ztracená oáza
+tagGDX2Roguelike_01=Hrobka Kacíře
+tagGDX2Roguelike_01A=Dvorec kouzelníků
+tagGDX2Roguelike_01B=Morgonethova pošetilost
+tagGDX2Roguelike_01C=Hladovějící temnota
+tagGDX2Roguelike_01D=Průchod věčné noci
 
 
 #Merchants and Other Services
 tagGDX2NPC_MerchantA01=Asgra
 tagGDX2NPC_MerchantA02=Muldin
 tagGDX2StoreTitle_MerchantA01=Zásobovač kultu
+
+tagGDX2NPC_MerchantC01=Yurrith
+tagGDX2StoreTitle_MerchantC01=Zatracená duše
 
 tagGDX2NPC_InventorA01=Kargon
 tagGDX2StoreTitle_InventorA01=Vynálezce
@@ -579,6 +726,7 @@ tagGDX2DevotionShrineG07=Horranovo útočiště
 tagGDX2DevotionShrineG08=Korvanská oáza
 tagGDX2DevotionShrineG09=Velkolepost pokřiveného světa
 tagGDX2DevotionShrineG10=Pískem zaváté ruiny
+tagGDX2DevotionShrineG11=Hrobka Kacíře
 
 tagGDX2DevotionShrineN01=Valburský přístav
 tagGDX2DevotionShrineN02=Vypleněný maják

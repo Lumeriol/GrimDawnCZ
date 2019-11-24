@@ -103,9 +103,13 @@ tagGDX2WeaponMelee2hB203_Desc="Oplývá nemožnou mocí samotných hvězd."
 tagGDX2WeaponMelee2hB204=[fs]Barthollemova palička
 tagGDX2WeaponMelee2hB205=[fs]korvanská tajemná halapartna
 tagGDX2WeaponMelee2hB206=[fs]korvanská polní halapartna
+tagGDX2WeaponMelee2hB207=[fs]korvanská nebeská halapartna
+tagGDX2WeaponMelee2hB207_Desc="Ostří je tak hladové, že by ihned něco zabilo."
 
 tagGDX2WeaponMelee2hC201=Břitva navrátilce
 tagGDX2WeaponMelee2hC202=Čepel zběsilosti
+tagGDX2WeaponMelee2hC203=Morgonethův hněv
+tagGDX2WeaponMelee2hC203_Desc="Před svým pádem do temnot vládnul Morgoneth mocným kladivem."
 
 tagGDX2WeaponMelee2hD201=Dreegal'anore
 tagGDX2WeaponMelee2hD201_Desc="Nejcennější zbraň Athul Trapitele, druhého šampióna Velkého strážce."
@@ -113,12 +117,15 @@ tagGDX2WeaponMelee2hD202=Nadaanův dosah
 tagGDX2WeaponMelee2hD202_Desc="Legendární čepel zkutá na počest patrona zlodějů a vrahů, používaná bezpočtem zabijáků po celá staletí, než se na dobro ztratila."
 tagGDX2WeaponMelee2hD203=Tenebrisův hněv
 tagGDX2WeaponMelee2hD203_Desc="Tenebrisův zloděj životů, chlemtač krve, vysvěcený v srdci Prázdnoty."
+tagGDX2WeaponMelee2hD204=Noční můra
+tagGDX2WeaponMelee2hD204_Desc="Morgonethova dlouhá zbraň skutá z jádra skomírající hvězdy."
 
 tagGDX2WeaponMelee2hF201=Dreegův velký meč
 tagGDX2WeaponMelee2hF202=Solaelův stínač hlav
 tagGDX2WeaponMelee2hF203=Zahořklost
 tagGDX2WeaponMelee2hF203_Desc="Tuto zbraň údajně nosíval Dreeg po čas jeho smrtelného života."
-
+tagGDX2WeaponMelee2hF204=Zášť
+tagGDX2WeaponMelee2hF204_Desc="Tesák Dreegova kultu."
 
 tagGDX2WeaponCaster1hB201=[ms]Segariův poskvrněný nůž
 tagGDX2WeaponCaster1hB201_Desc="Kdysi posvátný nůž poskvrněný dotekem Prázdnoty."
@@ -203,6 +210,10 @@ tagGDX2FocusD206=Figurka cyklóny
 tagGDX2FocusD207=Inashkorova zkažená hlava
 tagGDX2FocusD207_Desc="Mocný strážce Korvanského lidu padl do rukou Chthonského nájezdníka, který jeho obrovskou sílu navždy otrávil Prázdnotou."
 tagGDX2FocusD208=Pyranova figurka
+tagGDX2FocusD209=Jarinthorova hlava
+tagGDX2FocusD209_Desc="Na hlavu strážce Korvanské historie by bylo nejlepší zapomenout."
+tagGDX2FocusD210=Hallanxova hlava
+tagGDX2FocusD210_Desc="Ačkoliv je ta hlava zkamenělá, čpí z ní zápach rozkladu."
 
 tagGDX2FocusF201=Bysmielina figurka ohně
 tagGDX2FocusF202=Bysmielina poskvrněná figurka
@@ -224,6 +235,7 @@ tagGDX2HeadB205=[ns]hledí Vyvoleného
 tagGDX2HeadB206=[ns]korvanské hledí
 tagGDX2HeadB207=[ms]chrličův chránič hlavy
 tagGDX2HeadB208=[ns]chrličovo hledí
+tagGDX2HeadB209=[ms]kouzelníkův chránič hlavy
 
 tagGDX2HeadC201=Kapalec protržených nebes
 tagGDX2HeadC202=Koruna pekelných drahokamů
@@ -263,6 +275,7 @@ tagGDX2HeadD217=Pyranův chránič hlavy
 tagGDX2HeadD218=Targova helma
 tagGDX2HeadD219=Chránič hlavy pusté duše
 tagGDX2HeadD220=Umrlcova maska
+tagGDX2HeadD221=Morgonethův chránič hlavy
 
 tagGDX2HeadF201=Bysmielina noční přilbice
 tagGDX2HeadF202=Bysmielina hrůzná kapuce
@@ -285,6 +298,7 @@ tagGDX2ShoulderB202=[fp]epolety Vyvoleného
 tagGDX2ShoulderB203=[mp]korvanské skládané nárameníky
 tagGDX2ShoulderB204=[mp]korvanské rytířské nárameníky
 tagGDX2ShoulderB205=[mp]chrličovy ostny
+tagGDX2ShoulderB206=[mp]kouzelníkovy skládané nárameníky
 
 tagGDX2ShoulderC201=Ohořelé tkané nárameníky
 tagGDX2ShoulderC202=Chrániče ramen prašivého rváče
@@ -311,6 +325,7 @@ tagGDX2ShoulderD215=Pyranovy tkané nárameníky
 tagGDX2ShoulderD216=Targovy chrániče ramen
 tagGDX2ShoulderD217=Tkané nárameníky pusté duše
 tagGDX2ShoulderD218=Umrlcovy chrániče ramen
+tagGDX2ShoulderD219=Morgonethovy temné tkané nárameníky
 
 tagGDX2ShoulderF201=Bysmieliny tajemné rytířské nárameníky
 tagGDX2ShoulderF202=Bysmieliny bouřné tkané nárameníky
@@ -333,6 +348,7 @@ tagGDX2TorsoB201_Desc="Tento druh rób je ušit z ukradených sil Korvaakových 
 tagGDX2TorsoB202=[ms]roucho Vyvoleného
 tagGDX2TorsoB203=[ns]korvanské plátování
 tagGDX2TorsoB204=[fs]korvanská zbroj
+tagGDX2TorsoB205=[ms]kouzelníkova zbroj
 
 tagGDX2TorsoC201=Cortosianský hrudní chránič
 tagGDX2TorsoC202=Runami pobitý hrudní chránič
@@ -363,6 +379,7 @@ tagGDX2TorsoD215=Pyranův háv
 tagGDX2TorsoD216=Targův hrudní chránič
 tagGDX2TorsoD217=Zbroj pusté duše
 tagGDX2TorsoD218=Umrlcův hrudní chránič
+tagGDX2TorsoD219=Morgonethovo Černé srdce
 
 tagGDX2TorsoF201=Bysmielin noční hrudní chránič
 tagGDX2TorsoF202=Bysmielin odporný háv
@@ -397,6 +414,7 @@ tagGDX2HandsD202_Desc="Skuty z nejčistšího úlomku soladrinského krystalu."
 tagGDX2HandsD203=Nátepníky písečného plenitele
 tagGDX2HandsD203_Desc="Nositel těchto rukavic prolil krev v nekonečných pouštích tolikrát, že se to nedá ani spočítat."
 tagGDX2HandsD204=Gholův dotek
+tagGDX2HandsD205=Morgonethovy pěstnice
 
 
 
@@ -410,6 +428,7 @@ tagGDX2LegsC202=Hvězdné hnátnice
 tagGDX2LegsD201=Náholeníky ze zmrzlého kamene
 tagGDX2LegsD202=Runami ocejchované hnátnice
 tagGDX2LegsD203=Kamaše z tajemných proudů
+tagGDX2LegsD204=Morgonethovy nožní pláty
 
 
 
@@ -424,6 +443,7 @@ tagGDX2FeetD202=Kamenité válenky
 tagGDX2FeetD203=Amatokův krok
 tagGDX2FeetD203_Desc="Posvěcené na zamrzlém vrcholku, když byla Amatokova hvězda viditelná na noční obloze."
 tagGDX2FeetD204=Elegance smrtících chodců
+tagGDX2FeetD205=Morgonethův krok
 
 
 
@@ -446,6 +466,8 @@ tagGDX2WaistD206=Rah'Zinův strážný opasek
 tagGDX2WaistD207=Murmurův polibek
 tagGDX2WaistD208=Uzlíky smrtících prostředků
 tagGDX2WaistD208_Desc="Šeptá se mezi lidmi, že kdysi tento pás patřil noční lovkyni Nidalle, která měla každou lahvičku naplněnou speciálním toxinem. Některé z nich je dokonce možné sloučit a vytvářet tak úplně nové kombinace."
+tagGDX2WaistD209=Řetěz z červů
+tagGDX2WaistD209_Desc="Hrdá trofej dobývání."
 
 tagGDX2WaistF201A=Bysmielin smrtonosný opasek stráže
 tagGDX2WaistF201B=Bysmielin smrtonosný opasek
@@ -461,6 +483,14 @@ tagGDX2RingB201=[ms]plíživý prsten
 
 tagGDX2RingC201=Rudošípkův kroužek
 tagGDX2RingC202=Kroužek strážce závoje
+tagGDX2RingC203=Sethrisův pečetní prsten
+tagGDX2RingC203_Desc="Jeden ze sedmi pečetních prstenů Korvanských kouzelníků. Cetka, která poukazuje na jejich postavení mezi korvanským lidem."
+tagGDX2RingC204=Orissiin pečetní prsten
+tagGDX2RingC205=Anubarův pečetní prsten
+tagGDX2RingC206=Tawrotův pečetní prsten
+tagGDX2RingC207=Bastiho pečetní prsten
+tagGDX2RingC208=Shurothův pečetní prsten
+tagGDX2RingC209=Khonsarův pečetní prsten
 
 tagGDX2RingD201=Menhirian
 tagGDX2RingD201_Desc="Pečeť Menhirského chrámu, která se přidělovala nejzanícenějším následníkům."
@@ -471,7 +501,16 @@ tagGDX2RingD204=Kroužek nekonečné hranice
 tagGDX2RingD205=Glyf bouřné čarodějnice
 tagGDX2RingD206=Bysmielina autorita
 tagGDX2RingD207=Bysmielin vliv
-
+tagGDX2RingD208=Sethrisův prsten
+tagGDX2RingD208_Desc="Jeden ze sedmi prstenů Korvanských kouzelníků. Svou mocí byli kouzelníci vázáni k temnotě."
+tagGDX2RingD209=Orissiin prsten
+tagGDX2RingD210=Anubarův prsten
+tagGDX2RingD211=Tawrotův prsten
+tagGDX2RingD212=Bastiho prsten
+tagGDX2RingD213=Shurothův prsten
+tagGDX2RingD214=Khonsarův prsten
+tagGDX2RingD215=Morgonethův prvotní prsten
+tagGDX2RingD215_Desc="Prsten Velkého čaroděje Morgonetha šeptá temná slova v prokletém jazyce. Říká se, že skrze tento prsten mohl Morgoneth řídit ostatní kouzelníky."
 
 tagGDX2RingF201=Bysmielin odporný pečetní prsten
 tagGDX2RingF202=Bysmielin chladný pečetní prsten
@@ -591,6 +630,7 @@ tagGDX2Blueprint_WeaponF207=Plánek: Otvírač ran
 tagGDX2Blueprint_WeaponF208=Plánek: Solaelův hltač
 tagGDX2Blueprint_WeaponF209=Plánek: Solaelovo slovo
 tagGDX2Blueprint_WeaponF210=Plánek: Vampirris
+tagGDX2Blueprint_WeaponF211=Plánek: Zášť
 
 tagGDX2Blueprint_ArmorB201=Plánek: Pěstnice morového strážce
 tagGDX2Blueprint_ArmorB202=Plánek: Rytířské rukavice spáleného strážce
@@ -619,7 +659,7 @@ tagGDX2Blueprint_ArmorD216=Plánek: Maska písečného ďábla
 tagGDX2Blueprint_ArmorD217=Plánek: Pyranův chránič hlavy
 tagGDX2Blueprint_ArmorD218=Plánek: Targova helma
 tagGDX2Blueprint_ArmorD219=Plánek: Chránič hlavy pusté duše
-tagGDX2Blueprint_ArmorD220=Plánek: mrlcova maska
+tagGDX2Blueprint_ArmorD220=Plánek: Umrlcova maska
 
 tagGDX1Blueprint_AccessoryD121I=Plánek: Řetízek božských šepotů
 
@@ -631,7 +671,6 @@ tagGDX2Blueprint_AccessoryD204=Plánek: Vynikající Yugolova božská krev
 tagGDX2Blueprint_AccessoryF201=Plánek: Přívěsek nočního stopaře
 tagGDX2Blueprint_AccessoryF202=Plánek: Otrávený plamen
 tagGDX2Blueprint_AccessoryF203=Plánek: Nával krve
-
 tagGDX2Blueprint_AccessoryF204=Plánek: Znak královny stínů
 tagGDX2Blueprint_AccessoryF205=Plánek: Znak značných dálek
 tagGDX2Blueprint_AccessoryF206=Plánek: Znak spalujících stínů
@@ -1117,6 +1156,9 @@ tagGDX2ItemSetD217Desc=Tato kdysi posvěcená zbroj je nyní pohlcena zlověstn�
 tagGDX2ItemSetD218Name=Umrlec
 tagGDX2ItemSetD218Desc=Umrlec se vyžíval ve vraždění lidí i zvířat a příležitostně se oblékal do jejich kůží ještě dlouho poté, co začaly hnít.
 
+tagGDX2ItemSetD219Name=Zbroj nekonečné noci
+tagGDX2ItemSetD219Desc="Tak dlouho Morgoneth zíral do temnoty, dokud temnota nezačala zírat na něj."
+
 
 
 #LootChests
@@ -1142,6 +1184,7 @@ tagGDX2Breakable_Beetle=Hnízdo vrubounů
 tagGDX2Breakable_Eggs=Plazí vejce
 
 tagGDX2ChestKorvaak=Korvaakova truhlice
+tagGDX2ChestTombOfHeretic=Morgonethova sbírka
 
 tagGDX2ChestOneShot_=Korvanská skrýš
 tagGDX2ChestBossOneShot_Korvaak=Korvaakova esence
@@ -1150,10 +1193,15 @@ tagGDX2InventorsApprenticeCorpse=Canenova mrtvola
 
 tagGDX2UroboruukRemains=Uroboruukův majetek
 
+tagGDX2ChestGauntletChestD01=Zapomenutý relikviář
+
+tagGDX2ChestMawOfEnaht_01=Carmacovy ostatky
+
 
 #Interactive Objects
 
 tagGDX2DoorLocked_Korvaak= {^R} ~ uzamčeno velmi silným strážcem
+tagGDX2DoorLocked_Roguelike= {^R} ~ zapečetěno mocnou runou
 
 
 
@@ -1162,8 +1210,9 @@ tagGDX2Quest_BindingConduit_01=Svázané trubky
 tagGDX2Crate=Jednoduchá bedýnka
 
 #Dungeon Doors
-tagGDX2UGDoorBeetle=Vstup do hnízda brouků
 tagGDX2UGDoorEntrance= Vstup
+
+tagGDX2UGDoorBeetle=Vstup do hnízda brouků
 tagGDX2UGDoorSolaelFaction=Rahnova mapová místnost
 tagGDX2UGDoorBlocked= {^R} ~ zablokováno
 tagGDX2UGDoorTombEntrance=Vstup do hrobky
@@ -1173,10 +1222,38 @@ tagGDX2UGDoorMessenger=Jáma vykoupení
 tagGDX2UGDoorKymonExit=Přístup k Tajemné bráně
 tagGDX2UGDoorKorvaakFinal=Sestup k Tajemnému trůnu
 
+tagGDX2UGDoorFort=Vstup do Pevnosti
+tagGDX2UGDoorMaw=Otvor tlamy
+
+
+tagGDX2POI_AREAG_MeatTunnelA=Vstup do Enahtova chřtánu
+tagGDX2POI_AREAG_MeatTunnelB=Východ z Enahtova chřtánu
+tagGDX2POI_AREAG_MeatTunnelC=Průchod Enahtovým chřátem
+tagGDX2UGDoorLostOasisPassage=Chodba ve Ztracené oáze
+tagGDX2UGDoorLostOasisGardenEntrance=Vstup na Dvorec kouzelníků
+tagGDX2UGDoorLostOasisGardenExit=Východ z Dvorce kouzelníků
+tagGDX2UGDoorLostOasisPathEntrance=Vstup na Stezku zatracených
+tagGDX2UGDoorLostOasisPathExit=Východ ze Stezky zatracených
+tagGDX2UGDoorSandFort_Entrance=Vstup do Zpustlé bašty
+tagGDX2UGDoorSandFort_Exit=Východ ze Zpustlé bašty
+tagGDX2UGDoorSandFort_StairsUp=Schody nahoru do Pevnosti
+tagGDX2UGDoorSandFort_StairsDown=Schody dolů z Pevnosti
+tagGDX2UGDoor_HowlingDepthsA=Vstup do Řvoucích hlubin
+tagGDX2UGDoor_HowlingDepthsB=Východ ze Řvoucích hlubin
+tagGDX2UGDoor_HowlingDepthsC=Průchod Řvoucími hlubinami
+
+
+
 #Doors
 tagGDX2Door_PortcullisGold=Zlatá padací mříž
 tagGDX2Door_Lava=Magmatická bariéra
 tagGDX2EldritchRift=Tajemná Brána
+tagGDX2TombOfHereticDoor=Vyjevená temnota
+tagGDX2TombOfHereticSeal=Pečeť Kacíře
+
+tagGDX2DoorOneWayTombOfHeretic=Útěk z noci
+tagGDX2EpicDoor_TombOfHeretic=Zapečetěné dveře do Morgonethovy pošetilosti
+tagGDX2EpicDoor_TombOfHereticLocked= {^R} ~ zapečetěno temnotou (vyžaduje univerzální klíč)
 
 
 tagPrefixB037_Class_A=[ms]válečníkův[fs]válečníkova[ns]válečníkovo[mp]válečníkovi[fp]válečníkovy[np]válečníkovy

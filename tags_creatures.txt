@@ -441,6 +441,7 @@ tagHumanHeroH07=Krvavý pes Everett ~ planoucí
 tagHumanHeroH08=Jednooký Dred
 tagHumanHeroH09=Meric, Aetherem dotčený ~ neurvalec
 tagHumanHeroH10=Eldon "Hadí kůže" ~ oživovač
+tagHumanHeroH11=Roman, tanečník s mečem
 
 tagHumanBoss01="Zazobanec" Martin
 tagHumanBoss02=Halion "Krysa"
