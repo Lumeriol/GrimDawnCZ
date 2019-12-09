@@ -1271,9 +1271,9 @@ tagPrefixB045_Class_A=[ms]spasitelův[fs]spasitelova[ns]spasitelovo[mp]spasitelo
 tagGDX2PrefixAA024=|9strážce přísahy
 
 #Difficulty Unlocks
-tagGDX2DifficultyUnlock01=Zásluhy šampióna
+tagGDX2DifficultyUnlock01=Šampiónův kámen Zásluh
 tagGDX2DifficultyUnlock01_Desc=Důkaz o porážce všech hrůz Cairnu a odemčení Elitní obtížnosti. Dej si však pozor. Předčasný vstup na vyšší obtížnost tě může brzy přivést do hrobu! ^oMůžeš jej umístit do bedny a použít s jinou postavou.
-tagGDX2DifficultyUnlock02=Zásluhy zachránce
+tagGDX2DifficultyUnlock02=Zachráncův kámen Zásluh
 tagGDX2DifficultyUnlock02_Desc=Důkaz o porážce všech hrůz Cairnu a odemčení Ultimátní obtížnosti. Dej si však pozor. Předčasný vstup na vyšší obtížnost tě může brzy přivést do hrobu! ^oMůžeš jej umístit do bedny a použít s jinou postavou.
 tagGDX2DifficultyUnlockStats={^E}Odemkne body atributů a dovedností za úkoly na nižších obtížnostech
 tagGDX2DifficultyUnlockTeleporters={^E}Odemkne všechny Brány na nižších obtížnostech

@@ -55,31 +55,31 @@ tagGDX2EnemyCelestial_Armor_A01=Korvan Cursed
 tagGDX2EnemyCelestial_Armor_B01=Korvan Cursed ~ Forsaken
 tagGDX2EnemyCelestial_Armor_C01=Korvan Cursed ~ Ancient
 
-tagGDX2EnemyCelestial_Gryphon_A01=Celestial Gryphon
-tagGDX2EnemyCelestial_Gryphon_B01=Celestial Gryphon Skytalon
-tagGDX2EnemyCelestial_Gryphon_C01=Celestial Gryphon Matriarch
+tagGDX2EnemyCelestial_Gryphon_A01=Nebeský gryf
+tagGDX2EnemyCelestial_Gryphon_B01=Nebeský gryfí zabiják
+tagGDX2EnemyCelestial_Gryphon_C01=Nebeská gryfí matriarcha
 
-tagGDX2EnemyCelestial_Hound_A01=Celestial Mongrel ~ Runt
-tagGDX2EnemyCelestial_Hound_B01=Celestial Mongrel ~ Stalker
-tagGDX2EnemyCelestial_Hound_C01=Celestial Mongrel ~ Alpha
+tagGDX2EnemyCelestial_Hound_A01=Nebeský míšenec ~ skrček
+tagGDX2EnemyCelestial_Hound_B01=Nebeský míšenec ~ slídil
+tagGDX2EnemyCelestial_Hound_C01=Nebeský míšenec ~ alfa samec
 
-tagGDX2EnemyCelestial_Leech_A01=Embodiment of Hunger
-tagGDX2EnemyCelestial_Leech_B01=Embodiment of Famine
+tagGDX2EnemyCelestial_Leech_A01=Ztělesnění hladu
+tagGDX2EnemyCelestial_Leech_B01=Ztělesnění hladomoru
 
-tagGDX2EnemyCelestial_Lizard_A01=Nightclaw
-tagGDX2EnemyCelestial_Lizard_B01=Nightclaw ~ Flayer
-tagGDX2EnemyCelestial_Lizard_C01=Nightclaw ~ Matriarch
+tagGDX2EnemyCelestial_Lizard_A01=Noční pařát
+tagGDX2EnemyCelestial_Lizard_B01=Noční pařát ~ létavec
+tagGDX2EnemyCelestial_Lizard_C01=Noční pařát ~ matriarcha
 
-tagGDX2EnemyCelestial_Monstrosity_C01=Scion of Hunger
-tagGDX2EnemyCelestial_Monstrosity_D01=Scion of Famine
+tagGDX2EnemyCelestial_Monstrosity_C01=Následovník hladu
+tagGDX2EnemyCelestial_Monstrosity_D01=Následovník hladomoru
 
-tagGDX2EnemyCelestial_Mummy_A01=Korvan Damned ~ Desiccated
-tagGDX2EnemyCelestial_Mummy_B01=Korvan Damned ~ Festering
-tagGDX2EnemyCelestial_Mummy_C01=Korvan Damned ~ Reaper
+tagGDX2EnemyCelestial_Mummy_A01=Korvanský zatracenec ~ vysušený
+tagGDX2EnemyCelestial_Mummy_B01=Korvanský zatracenec ~ hnijící
+tagGDX2EnemyCelestial_Mummy_C01=Korvanský zatracenec ~ žnec
 
-tagGDX2EnemyCelestial_Statue_A01=Animated Keeper of the Damned
-tagGDX2EnemyCelestial_Statue_B01=Animated Watcher of the Damned
-tagGDX2EnemyCelestial_Statue_C01=Animated Preserver of the Damned
+tagGDX2EnemyCelestial_Statue_A01=Oživený strážce Zatracených
+tagGDX2EnemyCelestial_Statue_B01=Oživený hlídkař Zatracených
+tagGDX2EnemyCelestial_Statue_C01=Oživený ochránce Zatracených
 
 
 #CreatureEldritchArmor
@@ -347,11 +347,11 @@ tagGDX2Boss_Roguelike_MiniBoss_07B=Khonsarův stín
 tagGDX2Boss_Roguelike_Boss_01=Strážce pečetí
 tagGDX2Boss_Roguelike_Boss_02=Velký čaroděj Morgoneth
 
-tagGDX2Boss_RoguelikePath_Boss_01=Jarinthor the Sandstorm
-tagGDX2Boss_RoguelikePath_Boss_02=Hallanx the Forgotten
-tagGDX2Boss_RoguelikePath_Boss_03=Gurblix the Digested
+tagGDX2Boss_RoguelikePath_Boss_01=Jarinthor Písečná bouře
+tagGDX2Boss_RoguelikePath_Boss_02=Zapomenutý Hallanx
+tagGDX2Boss_RoguelikePath_Boss_03=Žrout Gurblix
 
-tagGDX2Boss_RiggsCollector_01="Associate" of Riggs
+tagGDX2Boss_RiggsCollector_01=Riggsův "společník"
 
 
 tagGDX2Miniboss_Kymon_01=Bratr Segarius, Kymonův mstitel

@@ -1878,7 +1878,6 @@ tagGDX1DLCIllusionA01=Iluze: Zbroj Černého rytíře
 tagGDX1DLCA01=Zbroj Černého rytíře
 tagGDX1DLCA01Desc="Zbroj zlověstného Černého rytíře."
 
-
 tagGDX1DLCIllusionA02=Iluze: Zbroj Stříbrného rytíře
 tagGDX1DLCA02=Zbroj Stříbrného rytíře
 tagGDX1DLCA02Desc="Zbroj čestného Stříbrného rytíře."
