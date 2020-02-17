@@ -20,37 +20,37 @@ Jen jim chci dát na chvilku pauzu.
 Sbohem.
 Máš pro mě něco?
 Tady je Kosatec.
-Splendind work, my friend. You and I are settled.{^n}{^n}In fact, I'll throw in one last prize for a job well done, no favors necessary.
-What do you plan to do with it?
-What does one do with an eye? Might see things you shouldn't.{^n}{^n}Let's just say I'm going to put it away for safekeeping so that nobody else gets any dangerous ideas!
-I don't trust you.
-Yes, well, trust was never part of the bargain!
-Fine.
-Don't do anything foolish.
-You better.
-Don't do anything foolish.
-Good, we are done then.
+Skvělá práce, kámo. Teď jsme voba spokojení.{^n}{^n}No, po pravdě ho použiju jako poslední odměnu za dobře odvedenou práci, takže žádný uznání nečekám.
+Co s ním teď budeš dělat?
+K čemu má člověk voko? Možná aby viděl věci, který nemá.{^n}{^n}Řekněme, že to dám do bezpečí, aby nikoho nenapadaly nějaký nebezpečný myšlenky!
+Nevěřím ti.
+Tak jasně, důvěra nikdy nebyla předmětem dohody!
+Dobrá.
+Neudělej něco šíleného.
+Neměj péči.
+Neudělej něco šíleného.
+Dobrá, takže to máme za sebou.
 Díky.
 Máš pro mě něco?
 Co že to mám udělat?
-Why, acquire the Iris of Eternal Night for me.{^n}{^n}Legends say it is sealed away within the Tomb of the Heretic, beyond the Valley of the Chosen in an oasis long forgotten.{^n}{^n}I've given you all you need. Don't make me wait for my prize!
+No přece mi získat Kosatec věčný noci.{^n}{^n}Legendy říkaj, že je zapečetěnej v Hrobce kacířů za Údolím vyvolenýho v oáze, která je dávno zapomenutá.{^n}{^n}Řek sem ti všechno co máš vědět, takže neplejtvej mym časem a švihej to najít!
 K čemu ten Kosatec potřebuješ?
-Hm, I don't think knowing anything was part of our deal.{^n}{^n}What I do with it is my business, friend.{^n}{^n}Let's just say I'm going to put it away for safekeeping so that nobody else gets any dangerous ideas!
+Hm, nemyslim si, že bylo součástí dohody něco ve stylu, že máš něco vědět.{^n}{^n}Co s tím budu dělat je moje věc, kámo.{^n}{^n}Řekněme, že to dám do bezpečí, aby nikoho nenapadaly nějaký nebezpečný myšlenky!
 Nevěřím ti.
-Ale ovšem, důvěra nebyla nikdy součástí dohody!{^n}{^n}A teď už vypadni!
+Tak jasně, důvěra nikdy nebyla součástí dohody!{^n}{^n}A teď už vypadni!
 Dobrá.
 Hm, dobře.
 Dobře.
 Stále hledám.
-Back already?{^n}{^n}Met any interesting people out there?{^n}{^n}Perhaps they've changed your mind?
-Alright, how do I settle my debt?
-Why, it's simple really.{^n}{^n}I've got word of a legendary relic in these parts known as the Iris of Eternal Night. Couldn't tell you what it does, but when something's mentioned that many times in those old texts, I keep my ears open.{^n}{^n}While its current location is no mystery, the means to enter it are not as obvious. I know that it resides within the Tomb of the Heretic, far to the north beyond the Valley of the Chosen. But the ancient Korvan people had it sealed away centuries ago and I'm sure they had good reasons.{^n}{^n}The only way through is with the Seal of Morgoneth. The texts on that are profoundly cryptic. Here is what I found: so that the darkness of Morgoneth may never know the light of the Eldritch Sun, the way forward has been fed to the devouring sands.{^n}{^n}Bunch of poetic nonsense, if you ask me. Well, that's all I can do for ya. The rest is up to you. Oh, and take this Skeleton Key, I have a feeling you'll need it if you are to find this Morgoneth fellow.
-I'll seek out the Iris.
-I'm not working for you.
-I already have the Iris.
-Now why didn't you say so in the first place. You are a legend in the making, my friend!{^n}{^n}Hand it here and you and I are settled.{^n}{^n}In fact, I'll throw in one last prize, no favors necessary.
+To už seš zpátky?{^n}{^n}[[ms]Potkals[fs]Potkalas] tam nějaký zajímavý lidi?{^n}{^n}Třeba takový, co by ti změnili názor?
+Dobrá, jak splatím svůj dluh?
+No, je to poměrně jednoduchý.{^n}{^n}Doslech sem se o legendární relikvii nacházející se v týhle zemi, jmenuje se Kosatec věčný noci. Nemůžu ti říct co to umí, ale cosi bylo zmíněný ve starejch textech, takže mám uši nastražený.{^n}{^n}Zatimco jeho současná poloha nejni žádný tajemství, jak se tam dostat je už celkem voříšek. Vim že je to v Hrobce kacíře, daleko na severu za Údolím vyvolenýho. Ale staří Korvánci vchod zapečetili už před staletími a věřim, že k tomu měli fakt dobrý důvody.{^n}{^n}Jedinej způsob, jak to projít, je s Morgonethovou pečetí. Texty o ní jsou dost zmatečný. Tohle jsem našel: Aby Morgonethova temnota nikdy nepoznala světlo Tajemného slunce, cesta kupředu byla pohlcena samotnou pouští.{^n}{^n}Halda poetických keců, jestli chceš znát můj názor. No, to je všechno, co ti k tomu můžu říct. Zbytek je na tobě. Jo a vezmi si tenhle Univerzální klíč. Mám takovej dojem, že ho budeš potřebovat, abys toho Morgonetha [[ms]našel[fs]našla].
+Najdu ten kosatec.
+Tohle po mě nechtěj.
+Kosatec už mám.
+Tak proč to neřekneš rovnou. Ty seš prostě [[ms]borec[fs]borkyně], kámo!{^n}{^n}Dej to sem a jsme vyrovnaní.{^n}{^n}No, po pravdě ho použiju jako poslední odměnu za dobře odvedenou práci, takže žádný uznání nečekám.
 
-Now will you get your goons off my back?
+Můžeš dát pryč ty rváče, co jsou mi v patách?
 Považuj to za vyřízený, [[ms]můj příteli[fs]má přítelkyně]. Považuj to za vyřízený.
 Dobře, byli celkem nepříjemní.
 Děkuji.
@@ -61,37 +61,37 @@ Možná bych mohl... pokud mi dáš to, co potřebuju.
 
 Ani náhodou.
 Ne, jsem v pohodě.
-I've got nothing to say to you.
-There you are, right on time!{^n}{^n}I always had you pegged as someone I'd want owing me a favor but...defeating a god? Granted, a famished tormented god, but a god nonetheless!{^n}{^n}I think you and I have some matters to discuss...matters of debt?
-What will it take to clear my debt?
-Why, it's simple really.{^n}{^n}I've got word of a legendary relic in these parts known as the Iris of Eternal Night. Couldn't tell you what it does, but when something's mentioned that many times in those old texts, I keep my ears open.{^n}{^n}While its current location is no mystery, the means to enter it are not as obvious. I know that it resides within the Tomb of the Heretic, far to the north beyond the Valley of the Chosen. But the ancient Korvan people had it sealed away centuries ago and I'm sure they had good reasons.{^n}{^n}The only way through is with the Seal of Morgoneth. The texts on that are profoundly cryptic. Here is what I found: so that the darkness of Morgoneth may never know the light of the Eldritch Sun, the way forward has been fed to the devouring sands.{^n}{^n}Bunch of poetic nonsense, if you ask me. Well, that's all I can do for ya. The rest is up to you. Oh, and take this Skeleton Key, I have a feeling you'll need it if you are to find this Morgoneth fellow.
+Nemám ti co říct.
+Tady seš, akorát včas!{^n}{^n}Vždycky jsem tě měl za někoho, kdo mi dluží laskavost, ale... porazit boha? Sice vyhladovělýho, ztrápenýho boha, ale pořád je to bůh!{^n}{^n}No a pokud si dobře vzpomínám, máme spolu jisté náležitosti, co musíme probrat... jako třeba dluh?
+Co musím udělat, abych byl dluh vyrovnán?
+No, je to poměrně jednoduchý.{^n}{^n}Doslech sem se o legendární relikvii nacházející se v týhle zemi, jmenuje se Kosatec věčný noci. Nemůžu ti říct co to umí, ale cosi bylo zmíněný ve starejch textech, takže mám uši nastražený.{^n}{^n}Zatimco jeho současná poloha nejni žádný tajemství, jak se tam dostat je už celkem voříšek. Vim že je to v Hrobce kacíře, daleko na severu za Údolím vyvolenýho. Ale staří Korvánci vchod zapečetili už před staletími a věřim, že k tomu měli fakt dobrý důvody.{^n}{^n}Jedinej způsob, jak to projít, je s Morgonethovou pečetí. Texty o ní jsou dost zmatečný. Tohle jsem našel: Aby Morgonethova temnota nikdy nepoznala světlo Tajemného slunce, cesta kupředu byla pohlcena samotnou pouští.{^n}{^n}Halda poetických keců, jestli chceš znát můj názor. No, to je všechno, co ti k tomu můžu říct. Zbytek je na tobě. Jo a vezmi si tenhle Univerzální klíč. Mám takovej dojem, že ho budeš potřebovat, abys toho Morgonetha [[ms]našel[fs]našla].
 Najdu ten Kosatec.
-Pro tebe dělat nebudu.
-No debt is worth what you ask of me.
-Now don't be like that.{^n}{^n}A man makes an honest deal with you and this is how you respond? Someone with a shorter temper might not take too kindly to that.{^n}{^n}Look, let me spell it out for you in terms you might understand.{^n}{^n}I've got people all over this land that owe me big. Any one of them would leap on a sword to be free of such a weight.{^n}{^n}What if I so happened to tell them to return with your head...you catch my meaning?
+Tohle po mně nechtěj.
+Žádný dluh není tak vysoký na to, co po mne žádáš.
+No to teda dlužíš.{^n}{^n}Já, počestnej obchodník, s tebou uzavřu férovou dohodu a ty se mnou chceš takhle vyjebat? Někdo míň smířlivej by to nemusel vzít tak s klidem.{^n}{^n}Hele, dovol mi, abych ti to vysvětlil, jestli tomu nerozumíš.{^n}{^n}Mám po celý zemi lidi, co mi dluží. Každej z nich by se klidně bodnul mečem, aby se toho zbavil.{^n}{^n}Co by se asi tak stalo, kdybych jim řek, ať se vrátí s tvojí hlavou... víš kam tím mířím?
 Najdu ten Kosatec.
-Pro tebe dělat nebudu.
+Tohle po mně nechtěj.
 
 
 Už mám ten Kosatec.
-You are a legend in the making, my friend!{^n}{^n}Hand it here and you and I are settled.{^n}{^n}In fact, I'll throw in one last prize, no favors necessary.
+Ty seš prostě [[ms]borec[fs]borkyně], kámo!{^n}{^n}Dej to sem a jsme vyrovnaní.{^n}{^n}No, po pravdě ho použiju jako poslední odměnu za dobře odvedenou práci, takže žádný uznání nečekám.
 
 Pečeť už je rozlomena.
-Well look at that!{^n}{^n}Your job's already almost finished!{^n}{^n}Now off ya go then. Get me that iris!
-Alright, but after that we are even.
-Pro tebe dělat nebudu.
+No to se na to podívejme!{^n}{^n}Tvoje práce je teda téměř hotová!{^n}{^n}A teď už mazej a dones mi ten Kosatec!
+Dobrá, ale pak budeme vyrovnaní.
+Tohle po mně nechtěj.
 
 Můj dluh?
-Hm, well let me refresh your memory for ya.{^n}{^n}Remember when you came to me in need of equipment and I provided without questions asked, so long as you agreed you'd owe me a debt?{^n}{^n}Well, now's the time for your end of the bargain.
-Alright, how do I clear my debt?
+Hm, dovol mi, abych ti osvěžil paměť.{^n}{^n}Pamatuješ si, jak si sem [[ms]přišel[fs]přišla] že potřebuješ něco na sebe a [[ms]dostals[fs]dostalas] to bez dalších otázek s tím, že časem mi to splatíš?{^n}{^n}No, a teď je čas ten dluh vyrovnat.
+Dobrá, jak mohu splatit svůj dluh?
 
 Promluvíme si později.
 Nic ti nedlužím.
-Now don't be like that.{^n}{^n}A man makes an honest deal with you and this is how you respond? Someone with a shorter temper might not take too kindly to that.{^n}{^n}But I know you'll come to your senses.
+No to teda dlužíš.{^n}{^n}Já, počestnej obchodník, s tebou uzavřu férovou dohodu a ty se mnou chceš takhle vyjebat? Někdo míň smířlivej by to nemusel vzít tak s klidem.{^n}{^n}Věřim, že se ještě vrátíš.
 Dobře, jak můžu splatit svůj dluh?
 Jsme vyrovnaní.
-Look, let me spell it out for you in terms you might understand.{^n}{^n}I've got people all over this land that owe me big. Any one of them would leap on a sword to be free of such a weight.{^n}{^n}What if I so happened to tell them to return with your head...you catch my meaning?
-Bring them on. I'm not working for you.
+Hele, dovol mi, abych ti to vysvětlil, jestli tomu nerozumíš.{^n}{^n}Mám po celý zemi lidi, co mi dluží. Každej z nich by se klidně bodnul mečem, aby se toho zbavil.{^n}{^n}Co by se asi tak stalo, kdybych jim řek, ať se vrátí s tvojí hlavou... víš kam tím mířím?
+Dojdi si pro to sám, tohle po mně nemůžeš chtít.
 Dobře, jak můžu splatit svůj dluh?
 Promluvíme si později.
 Promluvíme si později.
@@ -113,25 +113,25 @@ Máš pro mě něco novýho?
 Nic co by tě zajímalo.{^n}{^n}Zastav se až budeš mít o něco víc zkušeností. {^n}{^n}Sem si jistej že pak vymyslíme něco na čem spolupracovat.
 Vrátím se.
 To je prostě super.
-Tak brzo zpátky?
+To už seš zas tady?
 Máš pro mě něco nového?
 Ha ha ha, prostě nemůžeš přestat, viď?{^n}{^n}Bohužel pro tebe ještě nic novýho nemam.{^n}{^n}Vrať se pozdějš a uvidíme jestli pak vymyslíme něco na čem spolupracovat.
 Vrátím se.
 Tak jsem tady.
-Podívejme kdopak to je. {^n}{^n}[[ms]Rozmyslel[fs]Rozmyslela] sis to?{^n}{^n}Můžem uzavřít dohodu? {^n}
-Jo, sem [[ms]připravený[fs]připravená].
+Podívejme kdopak to je. {^n}{^n}[[ms]Rozmyslel[fs]Rozmyslela] sis to?{^n}{^n}Můžem uzavřít dohodu?{^n}
+Ano, jsem [[ms]připravený[fs]připravená].
 Přesně to jsem chtěl slyšet.{^n}{^n}Víš jak to funguje, že jo? {^n}{^n}Dám ti nějaký zboží a ty mi budeš viset.
 Dobře.
 No tak tady to máš.{^n}{^n}A řeknu ti vo co jde. Jestli dorazíš pozdějc, tak pro tebe něco budu mít.{^n}{^n}Za správnou cenu samozřejmě.
 Vrátím se.
 Samozřejmě.
 [[ms]Rozmyslel[fs]Rozmyslela] sem si to.
-Jakej druh dohody?
-Jak sem řek předtim. Mym obchodem je zboží za protislužbu. {^n}{^n}Dam ti zboží a ty mi budeš dlužit. V určitou chvíli mi splatíš tim, že mi pomůžeš. {^n}{^n}Takhle jednoduchý to je.
+Jaký druh dohody?
+Jak sem řek předtim. Mym obchodem je zboží za protislužbu. {^n}{^n}Dam ti zboží a ty mi budeš dlužit. V určitou chvíli mi splatíš tim, že mi pomůžeš.{^n}{^n}Takhle jednoduchý to je.
 
 Ne, nemám zájem.
 Ne, nemam.
-Určitě ale ne s tebou.
+Určitě, ale ne s tebou.
 No, vidim, že ses [[ms]rozhodl[fs]rozhodla].{^n}{^n}[[ms]Zavázal[fs]Zavázala] ses sloužit Čarodějnejm bohům.{^n}{^n}Slyšel jsem, že takovou věc tady berou fakt vážně.
 Komu sloužíš ty?
 Kdo, já?{^n}{^n}Já nesloužim žádnýmu z nich.{^n}{^n}Věřim v boha co dělá Riggse bohatym.
