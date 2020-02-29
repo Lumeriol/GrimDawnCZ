@@ -297,6 +297,19 @@ tagGDX2ItemSkillD257Desc=Kolem tebe vybuchnou zžíravé toxiny.
 tagGDX2ItemSkillD258Name=Nova přeludů
 tagGDX2ItemSkillD258Desc=Kolem tebe vybuchnou přeludy mečů.
 
+tagGDX2ItemSkillD259Name=Stopař z krypty
+tagGDX2ItemSkillD259Desc=Tvá přítomnost vyvolává v okolních nepřátelích mrazivý strach z krypty.
+
+tagGDX2ItemSkillD260Name=Vlnění závoje
+tagGDX2ItemSkillD260Desc=Mocná síla Aetherických energií, která z tebe vychází ve vlnách.
+
+tagGDX2ItemSkillD261Name=Hyrianův dráp
+tagGDX2ItemSkillD261Desc=Prorazíš své nepřátele silou Hyriana, která nabila tvůj štít.
+
+tagGDX2ItemSkillD262Name=Brána světa
+tagGDX2ItemSkillD262Desc=Vyvolá bránu v realitě, která roztrhá nepřátele stojící v jejím nitru. ^oBrána světa sílí společně s bonusy spojenců.
+tagGDX2ItemSkillD262PetSkill_Name=Rozpad
+
 
 #Component Skills
 tagGDX2CompSkillA033Name=Zbraně z Prázdnoty

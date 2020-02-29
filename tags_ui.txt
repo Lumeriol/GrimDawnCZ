@@ -567,8 +567,8 @@ tagLootFilter37Info=Zobrazí předměty, které zvyšují zranění odplatou.
 
 tagLootFilter38=Komponenty
 tagLootFilter38Info=Zobrazí/skryje komponenty.
-tagLootFilter39=Pouze dvojitá vzácnost
-tagLootFilter39Info=Zaškrtnutím se zobrazí pouze předměty, které mají vzácnou předponu i vzácný přívlaste.{^N}{^N}Lze použít společně s filtrem Vzácných a Osobních předmětů nepřátel, pokud chceš najít ty nejkvalitnější předměty těchto typů.
+tagLootFilter39=Vždy zobrazit dvojitou vzácnost
+tagLootFilter39Info=Zaškrtnutím se zobrazí pouze předměty, které mají dvojitou vzácnost (vzácná kvalita a osobní předmět) bez ohledu na nastavení filtrů.{^N}{^N}Tento filtr použij, pokud chceš najít ty nejkvalitnější předměty těchto typů.
 
 
 

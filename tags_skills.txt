@@ -1494,7 +1494,7 @@ tagItemSkillD052Name=Kolosální moc
 tagItemSkillD052Desc=Mistrovství v boji se štítem tě poctí stát se smrtící a nezastavitelnou silou. ^oToto je pasivní bonus pro štít.
 
 tagItemSkillD053Name=Vyvolání černé pohromy
-tagItemSkillD053Desc=Tvé bezohledné vraždění oslavuje Prázdnotu.
+tagItemSkillD053Desc=Tvé bezohledné vraždění oslavuje Prázdnotu. Kdykoliv je zabit nepřítel tvou rukou, je obětován pohlcujícímu hladu. ^oČerná pohroma sílí společně s bonusy pro spojence.
 tagItemSkillD053_Pet01=Entropický konec
 
 tagItemSkillD054Name=Oko Strážce
@@ -1515,7 +1515,7 @@ tagItemSkillD057Desc=Promluvíš do Prázdnoty a vyvoláš tak odporné stvůry 
 tagItemSkillD057_Pet01=Plamen Chaosu
 
 tagItemSkillD058Name=Vyvolání ducha
-tagItemSkillD058Desc=Použiješ energii z nedávného usmrcení k přivolání trýzněného ducha, aby ti vypomohl. ^oDuch sílí spolu se zvyšujícími se bonusy pro spojence.
+tagItemSkillD058Desc=Použiješ energii z nepřítele usmrceného tvou rukou k přivolání trýzněného ducha, aby ti vypomohl. ^oDuch sílí spolu se zvyšujícími se bonusy pro spojence.
 tagItemSkillD058_Pet01=Dotek strachu
 
 tagItemSkillD059Name=Agrivixovo požívání
@@ -1597,7 +1597,7 @@ tagItemSkillD084Name=Vyhlazení
 tagItemSkillD084Desc=Ukončíš život svého nepřítele dobře mířenou střelou.
 
 tagItemSkillD085Name=Zmizení z reality
-tagItemSkillD085Desc=Když nepřítel uštědří částečně ochromující úder, ochranná podstata této dovednosti tě nechá zmizet z fyzického světa na dobu nutnou ke tvé regeneraci. ^oVyžaduje kouzelnický příruční předmět.
+tagItemSkillD085Desc=Když hrozí nebezpečí, síla tohoto pláště tě ukryje z fyzického světa a dá ti chvilku na odpočinek.
 
 tagItemSkillD086Name=Padající nebe
 tagItemSkillD086Desc=Nebe se rozvlní díky destruktivní síle poté, co na tvé nepřátele začnou dopadat padající hvězdy.

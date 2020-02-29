@@ -742,3 +742,24 @@ tagGDX2DevotionShrineN11=Zamořená továrna
 tagGDX2DevotionShrineN12=Požářiště
 
 tagGDX2DevotionShrineS04=???
+
+#Monster Totems
+tagGDX2MonsterTotemA01=Aetherem zkroucený totem
+tagGDX2MonsterTotemA01B=Zpustý Aetherem zkroucený totem
+tagGDX2MonsterTotemA01C=Starobylý Aetherem zkroucený totem
+
+tagGDX2MonsterTotemA02=Prázdnotou dotčený totem
+tagGDX2MonsterTotemA02B=Zpustý Prázdnotou dotčený totem
+tagGDX2MonsterTotemA02C=Starobylý Prázdnotou dotčený totem
+
+tagGDX2MonsterTotemA03=Totem divochů
+tagGDX2MonsterTotemA03B=Zpustý totem divochů
+tagGDX2MonsterTotemA03C=Starobylý totem divochů
+
+tagGDX2MonsterTotemA04=Totem tajemství
+tagGDX2MonsterTotemA04B=Zpustý totem tajemství
+tagGDX2MonsterTotemA04C=Starobylý totem tajemství
+
+tagGDX2MonsterTotemA05=Totem ducha
+tagGDX2MonsterTotemA05B=Zpustý totem ducha
+tagGDX2MonsterTotemA05C=Starobylý totem ducha

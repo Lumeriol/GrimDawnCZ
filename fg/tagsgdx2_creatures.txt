@@ -291,6 +291,7 @@ tagGDX2Pet_Item_EldritchLizard=Tajemný spár
 tagGDX2Pet_Item_EldritchShard=Tajemný střep
 tagGDX2Pet_Item_NightRift=Noční můra
 tagGDX2Pet_Item_YugolTentacle=Yugolovo chapadlo
+tagGDX2Pet_Item_WorldGate=Brána světa
 tagGDX2Pet_Item_Mini=Korvanská potvůrka
 tagGDX2Pet_Item_Mini_Skill=Uplakánek
 tagGDX2Pet_Item_Maggot=Nebeská larva

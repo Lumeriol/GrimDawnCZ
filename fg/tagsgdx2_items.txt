@@ -17,6 +17,7 @@ tagGDX2WeaponSwordD205=Zmrzlé srdce
 tagGDX2WeaponSwordD205_Desc="Do rukojeti jsou ve spěchu vydrápaná slova 'Uvíznul jsem v jiný realitě, pošli pomoc prosím'."
 tagGDX2WeaponSwordD206=Čepel písečného ďábla
 tagGDX2WeaponSwordD207=Plátkovač písečného ďábla
+tagGDX2WeaponSwordD208=Noctirn
 
 tagGDX2WeaponSwordF201=Bysmielina čepel
 tagGDX2WeaponSwordF202=Solaelův kráječ
@@ -37,6 +38,7 @@ tagGDX2WeaponBluntD203=Targova palice
 tagGDX2WeaponBluntD204=Úplně normální pukléř
 tagGDX2WeaponBluntD205=Úplně normální úlomek světla
 tagGDX2WeaponBluntD206=Úplně normální záštita
+tagGDX2WeaponBluntD207=Stopař z krypty
 
 tagGDX2WeaponBluntF201=Bysmielino válečné kladivo
 tagGDX2WeaponBluntF202=Solaelovo válečné kladivo
@@ -54,6 +56,8 @@ tagGDX2WeaponAxeC201=Párač závojů
 tagGDX2WeaponAxeD201=Pohrabáč
 tagGDX2WeaponAxeD202=Krvavé probuzení
 tagGDX2WeaponAxeD202_Desc="Kolem ostří této zbraně se vzduch vlní intenzivním teplem."
+tagGDX2WeaponAxeD203=Trhač bouří
+tagGDX2WeaponAxeD203_Desc="Ostří tnoucí vzduchem se silou surové bouře."
 
 tagGDX2WeaponAxeF201=Bysmielin sekáček
 tagGDX2WeaponAxeF202=Dreegův sekáček
@@ -73,6 +77,8 @@ tagGDX2WeaponGun1hD202=Proklatec
 tagGDX2WeaponGun1hD202_Desc="Nepodařená kletba, odsouzen k smrti."
 tagGDX2WeaponGun1hD203=Prokletý vyjebávač
 tagGDX2WeaponGun1hD204=Ludriganova příručnice
+tagGDX2WeaponGun1hD205=Fázovač
+tagGDX2WeaponGun1hD205_Desc="Nábojnice vystřelené z této zbraně procházejí realitou, jako by to byl vzduch."
 
 tagGDX2WeaponGun1hF201=Bysmielino ruční dělo
 tagGDX2WeaponGun1hF202=Dreegovo ruční dělo
@@ -119,6 +125,8 @@ tagGDX2WeaponMelee2hD203=Tenebrisův hněv
 tagGDX2WeaponMelee2hD203_Desc="Tenebrisův zloděj životů, chlemtač krve, vysvěcený v srdci Prázdnoty."
 tagGDX2WeaponMelee2hD204=Noční můra
 tagGDX2WeaponMelee2hD204_Desc="Morgonethova dlouhá zbraň skutá z jádra skomírající hvězdy."
+tagGDX2WeaponMelee2hD205=Následník tajemných sil
+tagGDX2WeaponMelee2hD206=Následník řvoucího závoje
 
 tagGDX2WeaponMelee2hF201=Dreegův velký meč
 tagGDX2WeaponMelee2hF202=Solaelův stínač hlav
@@ -149,6 +157,7 @@ tagGDX2WeaponCaster1hD204=Empyrionovo milosrdenství
 tagGDX2WeaponCaster1hD205=Dýka mrazivých šepotů
 tagGDX2WeaponCaster1hD206=Rozsudek Tří
 tagGDX2WeaponCaster1hD207=Kráječ Pána zmaru
+tagGDX2WeaponCaster1hD208=Vrcholek Prázdnoty
 
 tagGDX2WeaponCaster1hF201=Bysmielin lamač bouří
 tagGDX2WeaponCaster1hF202=Bysmielin lamač duší
@@ -178,6 +187,7 @@ tagGDX2ShieldD202=Dotek ze záhrobí
 tagGDX2ShieldD203=Chránič ctnosti
 tagGDX2ShieldD204=Obránce Tří
 tagGDX2ShieldD205=Hradba pusté duše
+tagGDX2ShieldD206=Hyrianova hradba
 
 tagGDX2ShieldF201=Bysmielin obránce
 tagGDX2ShieldF202=Dreegův ochránce
@@ -214,6 +224,9 @@ tagGDX2FocusD209=Jarinthorova hlava
 tagGDX2FocusD209_Desc="Na hlavu strážce Korvanské historie by bylo nejlepší zapomenout."
 tagGDX2FocusD210=Hallanxova hlava
 tagGDX2FocusD210_Desc="Ačkoliv je ta hlava zkamenělá, čpí z ní zápach rozkladu."
+tagGDX2FocusD211=Potomek nebeských předzvěstí
+tagGDX2FocusD212=Brána do mnoha světů
+tagGDX2FocusD212_Desc="Nitky reality se kroutí a hrozí svým rozpadem."
 
 tagGDX2FocusF201=Bysmielina figurka ohně
 tagGDX2FocusF202=Bysmielina poskvrněná figurka

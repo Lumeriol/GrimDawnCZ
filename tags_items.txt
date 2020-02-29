@@ -134,7 +134,7 @@ tagWeaponBluntC012=Palička ze zlomené kosti
 tagWeaponBluntC013=Černá ruka Sanar'Siina
 tagWeaponBluntC014=Předek
 tagWeaponBluntC015=Hwarovo pokárání
-tagWeaponBluntC016=Barthollemova palička
+tagWeaponBluntC016=Barthollemův verdikt
 tagWeaponBluntC016Desc="Posvátná palička Archóna Barthollema, sloužící k Božímu rozhodnutí nad nehodnými."
 tagWeaponBluntC017=Chladnokrevný spasitel
 
@@ -1802,6 +1802,12 @@ tagMedalB002=[ms]lovcův odznak
 tagMedalB003=[fs]Ikrixova šupina
 tagMedalB004=[ms]Kymonův odznak
 tagMedalB005=[fs]krvepřísežníkova pečeť
+tagMedalB006=[fs]Ilgorrova věčná stráž
+tagMedalB006_Desc="Strážci Stupňů bolesti musí sloužit až do konce věků."
+tagMedalB007=[ns]Ilgorrovo věčné prokletí
+tagMedalB008=[fs]Lagoth'Akova vazba Prázdnoty
+tagMedalB008_Desc="Pouhá ozvěna obrovské moci Prázdnoty a jejího pána."
+tagMedalB009=[fs]Lagoth'Akova vazba krve
 
 tagMedalC001=Znak zabijáka bestií
 tagMedalC002=Odznak houževnatosti

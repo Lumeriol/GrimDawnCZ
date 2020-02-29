@@ -75,9 +75,6 @@ tagTutorialTip20Title=Komponenty
 tagTutorialTip20TextA=Komponenty mohou být použity k vylepšení tvého vybavení. Vždy je nalezneš jen jako úlomky, které mohou být spojeny dohromady, čímž se zvyšují jejich bonusy. Vzácné komponenty jsou označeny světle žlutým okrajem.
 tagTutorialTip20SubtitleA=Připevňování komponent
 tagTutorialTip20TextB=Pravým tlačítkem myši si vyber komponentu a pak klikni levým tlačítkem myši na předmět, ke kterému chceš komponentu připevnit. Pamatuj, že každá komponenta může být použita pouze na určitém typu předmětů.
-tagTutorialTip20SubtitleB=Skládání komponent
-tagTutorialTip20TextC=Můžeš si skládat jednotlivé úlomky komponent stejného typu do jednoho a získat tak mnohem větší bonusy.
-tagTutorialTip20TextD=Úlomky komponent stejného typu mohou být připevněny k předmětům i poté, co tam byl již jeden úlomek připevněn.
 
 tagTutorialTip22Title=Přehled dovedností
 tagTutorialTip22TextA=Vždy když získáš novou úroveň, obdržíš nové dovednostní body. Investuj tyto body do úrovně svého povolání nebo do odemčených dovedností.
