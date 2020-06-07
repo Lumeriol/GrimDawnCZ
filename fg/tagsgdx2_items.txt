@@ -7,6 +7,7 @@ tagGDX2WeaponSwordB202_Desc="Propůjčována Korvaakem jeho věrným druhům, ab
 tagGDX2WeaponSwordB203=[ms]Kymonův obětní nůž
 tagGDX2WeaponSwordB203_Desc="Vysvěcen v Korvaakově krvi a propůjčován jeho šampiónovi."
 tagGDX2WeaponSwordB204=[fs]pomsta Pána krve
+tagGDX2WeaponSwordB205=[ms]Ravnin dráp
 
 tagGDX2WeaponSwordC201=Plamenná cudnost
 
@@ -176,6 +177,8 @@ tagGDX2ShieldB202=[ms]vrubounův krunýř
 tagGDX2ShieldB203=[ms]obrovský obránce
 tagGDX2ShieldB204=[ms]masorvoucí obránce
 tagGDX2ShieldB205=[ms]obsidiánový obránce
+
+tagShieldC015B=Gladiátor
 
 tagGDX2ShieldC201=Bouřný strážce
 tagGDX2ShieldC201_Desc="Prošpikovaný nastřádanou silou mohutné bouře."
@@ -541,6 +544,7 @@ tagGDX2NecklaceB201=[ns]Kaisanovo hořící oko
 tagGDX2NecklaceB201_Desc="Kaisanovo smrtelné oko na tebe civí z tohoto přívěsku."
 tagGDX2NecklaceB202=[ns]Kaisanovo tajemné oko
 tagGDX2NecklaceB202_Desc="Kaisanovo smrtelné oko na tebe civí z tohoto přívěsku."
+tagGDX2NecklaceB203=Bolvarův přívěsek
 
 tagGDX2NecklaceD113I=Řetízek božských šepotů
 
@@ -1098,6 +1102,9 @@ tagGDX2BoosterEldritch_C01=Korvaakovo oprávnění
 
 #ItemSets
 tagItemSetC008CName=Milost
+tagItemSetC007CName=Předzvěst
+tagItemSetC013CName=Zrádcova pošetilost
+tagItemSetC015BName=Nechtěné krveprolití
 
 tagGDX2ItemSetC201Name=Baldirův plát
 tagGDX2ItemSetC201BName=Baldirovy klenoty

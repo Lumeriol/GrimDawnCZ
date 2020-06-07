@@ -114,6 +114,9 @@ tagWeaponBluntB010=[ms]adeptův kropáč
 tagWeaponBluntB011=[ms]adeptův obroubený palcát
 tagWeaponBluntB012=[fs]mutantova paže
 tagWeaponBluntB013=[ms]mutantův kyj
+tagWeaponBluntB014=[ms]Grundleplithův ocas
+tagWeaponBluntB015=[ms]Pusquillův chvost
+tagWeaponBluntB016=[fs]Barrogova krvavá paže
 
 tagWeaponBluntC001=Aetherianská bída
 tagWeaponBluntC002=Anarchie
@@ -172,6 +175,7 @@ tagWeaponAxeB004=[fs]kostěný sekáček
 tagWeaponAxeB005=[fs]kostěná kosa
 tagWeaponAxeB006=[fs]Olmanova sekera
 tagWeaponAxeB007=[ms]Aetherem prodchnutý sekáček
+tagWeaponAxeB008=[ms]Aetherem spálený sekáček
 
 tagWeaponAxeC001=Surové ostří
 tagWeaponAxeC002=Žencův dotek
@@ -292,6 +296,7 @@ tagWeaponGun2hB004=[fs]masorvoucí puška
 tagWeaponGun2hB005=[fs]masorvoucí karabina
 tagWeaponGun2hB006=[ms]masorvoucí ohňomet
 tagWeaponGun2hB007=[ms]masorvoucí spalovač
+tagWeaponGun2hB008=[ms]Rag'Nadarův chřtán
 
 tagWeaponGun2hC001=Lovec
 tagWeaponGun2hC001B=Lovec
@@ -394,6 +399,10 @@ tagWeaponMelee2hB010=[fs]Barthollemova válečná palice
 tagWeaponMelee2hB011=[ms]obsidiánový půlič hlav
 tagWeaponMelee2hB012=[ms]obsidiánový válečný oddělovač
 tagWeaponMelee2hB013=[ms]Hevillův velký meč
+tagWeaponMelee2hB014=[ms]Voldrakův drtič
+tagWeaponMelee2hB015=[ms]Balegorův drtič
+tagWeaponMelee2hB016=[fs]Luciova zkrvavená paže
+tagWeaponMelee2hB016_Desc="Zkroucená díky Aetheru."
 
 tagWeaponMelee2hC001=Vykuchávající škubač střev
 tagWeaponMelee2hC002=Masakr
@@ -486,6 +495,9 @@ tagWeaponCaster1hB012=[fs]krvepřísežníkova hůlka
 tagWeaponCaster1hB013=[ns]krvepřísežníkovo žezlo
 tagWeaponCaster1hB014=[ms]Loxmerův mrazobol
 tagWeaponCaster1hB015=[ms]Slithův jazyk
+tagWeaponCaster1hB016=[ms]posel požáru
+tagWeaponCaster1hB017=[ms]posel bouře
+tagWeaponCaster1hB018=[ms]posel noci
 
 tagWeaponCaster1hC001=Spalující nenávist
 tagWeaponCaster1hC002=Hůlka kouzelného ohně
@@ -599,6 +611,9 @@ tagShieldB011=[fs]obsidiánová hradba
 tagShieldB012=[ms]masorvoucí štít
 tagShieldB013=[fs]masorvoucí hradba
 tagShieldB014=[ms]Bernardův lehce ohlodaný štít
+tagShieldB015=[fs]Wradlithova hradba
+tagShieldB016=[fs]Bane'Gargothova střepina
+tagShieldB017=[fs]Kalis'Kova sklizeň
 
 tagShieldC001=Obránce Ďáblova průsmyku
 tagShieldC002=Hradba požírače duchů
@@ -705,6 +720,8 @@ tagFocusB022=[ns]šmírákovo oko
 tagFocusB023=[ns]vševidoucí oko
 tagFocusB023_Desc="Oko se ve tvých rukách stále zmítá."
 tagFocusB024=[fs]Karvořina čarovná kůstka
+tagFocusB025=[fs]Kyzoggova lebka
+tagFocusB026=[ms]Ragratharův roh
 
 tagFocusC001=Demence
 tagFocusC002=Zdrcující vůle
@@ -1693,6 +1710,13 @@ tagNecklaceB001Desc="Lebka je potažena páchnoucím slizem."
 tagNecklaceB002=[ms]přívěsek pozorovatele smrti
 tagNecklaceB003=[ms]Ellenin náhrdelník
 tagNecklaceB003Desc="Trofej kdysi patřila Elleně, prvnímu Slithovi."
+tagNecklaceB004=[ms]Zariův přívěsek
+tagNecklaceB005=[ns]Srdce strážce lesa
+tagNecklaceB006=[mp]Mogařiny tesáky
+tagNecklaceB007=[ms]Ungoliaxin pohled
+tagNecklaceB008=[ms]Krvošípkův osten
+tagNecklaceB009=[ns]Ulrapraxino žihadlo
+tagNecklaceB010=[ns]Ronapraxino žihadlo
 
 tagNecklaceC001=Amulet Oka
 tagNecklaceC001Desc="Jedinečné oko uvnitř drahokamu pohybující se z jedné strany na druhou."
@@ -1808,6 +1832,13 @@ tagMedalB007=[ns]Ilgorrovo věčné prokletí
 tagMedalB008=[fs]Lagoth'Akova vazba Prázdnoty
 tagMedalB008_Desc="Pouhá ozvěna obrovské moci Prázdnoty a jejího pána."
 tagMedalB009=[fs]Lagoth'Akova vazba krve
+tagMedalB010=[ms]Balthazarův erb
+tagMedalB011=[ms]Martinův erb
+tagMedalB012=[ms]Halionův erb
+tagMedalB013=[ms]Znak chlemtače krve
+tagMedalB014=[ms]Znak střevního červa
+tagMedalB015=[ms]Nacrathanův znak
+tagMedalB016=[ms]Harvoulův znak
 
 tagMedalC001=Znak zabijáka bestií
 tagMedalC002=Odznak houževnatosti

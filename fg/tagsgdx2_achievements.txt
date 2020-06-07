@@ -71,7 +71,7 @@ achGDX222Title=Navždy zapomenut
 achGDX222Desc=Zlikviduj Korvaaka, Tajemné slunce v Trůnním sálu Tří na ultimátní obtížnosti.
 
 achGDX223Title=Umlčení následnice
-achGDX223Desc=Vyvolej a poraž Callagadru, následnici pouště
+achGDX223Desc=Vyvolej a poraž Callagadru, následnici pouště.
 
 achGDX224Title=Uwwwízlo v síti
 achGDX224Desc=Dosáhni uctívané přízně od Bysmielina kultu.

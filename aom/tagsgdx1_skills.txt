@@ -136,7 +136,7 @@ tagGDX1Class08SkillDescription01B=Hlad po životní esenci nemusí být jednoduc
 tagGDX1Class08SkillName01C=Rozklad
 tagGDX1Class08SkillDescription01C=Ještě před tím, než vyhasne život v jejich očích, se tví přátelé začnou rozkládat tam, kde stojí.
 tagGDX1Class08SkillName01D=Smrtonosný chlad
-tagGDX1Class08SkillDescription01D=Nekromanti, jež dobře využívají verše smrti, mohou donutit smrtící chlad padnout na nepohodlné nepřátele, čímž je zpomalí, nicméně za cenu menšího množství vysáté životní energie.
+tagGDX1Class08SkillDescription01D=Nekromanti, jež dobře využívají verše smrti, mohou donutit smrtící chlad padnout na nepohodlné nepřátele, čímž je zpomalí.
 xxtagGDX1Class08SkillName01D=Nekonečná žízeň
 xxtagGDX1Class08SkillDescription01D=Přenos životní energie je obecně schopnost vyhrazená pro kritické situace, ale někteří její uživatelé mají problém s odoláváním vůči této čisté životní energii a plně se tomuto kouzlu poddají, avšak na úkor těch, co stojí kolem.
 

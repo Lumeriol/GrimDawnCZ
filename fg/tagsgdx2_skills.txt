@@ -318,19 +318,19 @@ tagGDX2CompSkillA033Desc=Posiluje tvé zbraně působením Prázdnoty. ^oTato sc
 
 #Relic Skills
 tagGDX1RelicSkillD106Name=Ohnivá erupce
-tagGDX1RelicSkillD106Desc=Uvolni dávku Empyrionovy svaté zloby na svůj cíl a zapal všechny, kteří jsou dost hloupí a stojí příliš blízko.
+tagGDX1RelicSkillD106Desc=Uvolní dávku Empyrionovy svaté zloby na svůj cíl a zapalí všechny, kteří jsou dost hloupí a stojí příliš blízko.
 
 tagGDX2RelicSkillC201Name=Dávka plamenů
 tagGDX2RelicSkillC201Desc=Plameny z tebe vytrysknou ve chvíli, kdy je na tebe veden úspěšný útok a zapálí ty, kteří se tě snažili zasáhnout mezi prvními.
 
-tagGDX2RelicSkillD201Name=Tajemná Ruminace
-tagGDX2RelicSkillD201Desc=Medituj nad tajemstvými Hvězdných polí a umocni tak útoky své i svých blízkých spojenců za pomoci darů Tří. ^oTato schopnost musí být aktivní, aby účinkovala.
+tagGDX2RelicSkillD201Name=Tajemné žvanění
+tagGDX2RelicSkillD201Desc=Meditací nad tajemstvím Hvězdných polí umocníš útoky své i svých blízkých spojenců za pomoci darů Tří. ^oTato schopnost musí být aktivní, aby účinkovala.
 
 tagGDX2RelicSkillD202Name=Virova kaskáda
-tagGDX2RelicSkillD202Desc=Uhoď do země a rozdrť ho, čímž vytvoříš trhliny v zemi, které se budou šířit ve tvaru vějíře směrem od tebe.
+tagGDX2RelicSkillD202Desc=Uhodíš do země a rozdrtíš ji, čímž vytvoříš trhliny v zemi, které se budou šířit ve tvaru vějíře směrem od tebe.
 
 tagGDX2RelicSkillD203Name=Písečný ďábel
-tagGDX2RelicSkillD203Desc=Uvolni vír písku směrem k tvým nepřátelům. ^oPíseční ďáblové sílí spolu s útočnými bonusy postavy.
+tagGDX2RelicSkillD203Desc=Uvolníš vír písku směrem k tvým nepřátelům. ^oPíseční ďáblové sílí spolu s útočnými bonusy postavy.
 
 tagGDX2RelicSkillD204Name=Dosah nenažranosti
 tagGDX2RelicSkillD204Desc=Soustřeď svou zuřivost do víru nenasytné síly, která pozře životadárnou krev všech v okolí a to po tak dlouhou dobu, po jakou se na kouzlo soustředíš. ^oVyžaduje chladnou zbraň. Při 100% rychlosti útoku způsobuje Dosah nenažranosti zranění a spaluje magickou energii každé 0.16 sekundy.

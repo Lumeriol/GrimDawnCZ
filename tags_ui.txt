@@ -2239,6 +2239,7 @@ tagGroup01=Povoleny souboje mezi hráči
 tagGroup02=Automatické seskupování povoleno
 tagAutoItemSkill= (uděleno předmětem - pasivní aktivace)
 tagExclusiveSkill=^oVýjimečná dovednost - aktivní může být vždy pouze jedna Výjimečná dovednost.
+tagItemSkillModified= {^E}do {^Z}{%s0}
 
 tagAutoSort=Automatické řazení
 tagAutoComplete=Celé komponenty

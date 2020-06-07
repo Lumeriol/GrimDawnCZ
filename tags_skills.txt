@@ -792,7 +792,7 @@ tagItemSkillDescA014=Promění tvého nepřítele v kámen.
 tagItemSkillB001Name=Výbušná vlna
 tagItemSkillB001Desc=Z tvých útoků vzniká ohnivá vlna.
 
-tagItemSkillB002Name=Mrazivá vlna
+tagItemSkillB002Name=Mrazivá nova
 tagItemSkillB002Desc=Jako odplata mrazivým dotekem smrti vymrští projektily na nepřátele ve tvém okolí a zmrazí je.
 
 tagItemSkillB003Name=Písky Noxu
@@ -931,6 +931,9 @@ tagItemSkillB045Desc=Vyjde z tebe dávka ohnivých koulí.
 
 tagItemSkillB046Name=Nova z jedovatých ostnů
 tagItemSkillB046Desc=Z tvé postavy vyjde salva jedovatých ostnů.
+
+tagItemSkillB047Name=Vzdušný zásah
+tagItemSkillB047Desc=Sešle na bojiště dělostřeleckou salvu aetherických střel.
 
 tagItemSkillC002Name=Kulový blesk
 tagItemSkillC002Desc=Oplácí kulovým bleskem, jež je vypuštěn směrem na útočníka, poškozujíc a omračujíc vše, co mu stojí v cestě.
@@ -1352,8 +1355,8 @@ tagItemSkillC136Desc=Vypustí blesk posilněný čistým Aetherem, který přesk
 tagItemSkillC137Name=Síla živlu
 tagItemSkillC137Desc=Rozpoutáš sílu ohnivé a ledové magie, jež se ve spirále pohybuje z místa, kde stojíš.
 
-tagItemSkillC138Name=Narušitel dohody
-tagItemSkillC138Desc=Narušitel dohody vystřelí explozivní kulku obohacenou temnými silami. ^oTato technika je aktivována výchozím útokem zbraně.
+tagItemSkillC138Name=Zrádce
+tagItemSkillC138Desc=Zrádce vystřelí výbušnou kulku obohacenou temnými silami. ^oTato technika je aktivována výchozím útokem zbraně.
 
 tagItemSkillC139Name=Zkažený Aldritchův dotek
 tagItemSkillC139Desc=Temné energie Aldritchova palcátu udeří na tvé nepřátele.
@@ -2401,7 +2404,7 @@ tagRelicSkillD014Name=Pomsta
 tagRelicSkillD014Desc=Z utržených zásahů se vypustí složená energie ve zničující rázové vlně.
 
 tagRelicSkillD015Name=Mysl hejna
-tagRelicSkillD015Desc=Rytmické tempo tvého nekonečného sporu přivolá na pomoc Poblázněný roj.
+tagRelicSkillD015Desc=Rytmické tempo tvého nekonečného sporu přivolá na pomoc Poblázněný roj. ^oPoblázněný roj sílí s bonusy pro spojence.
 
 tagRelicSkillD016Name=Zdecimování
 tagRelicSkillD016Desc=Vypustí Solaelovu zlobu na ty, kteří se opováží napadnout jeho služebníka.
@@ -2754,7 +2757,7 @@ tagDevotionEffectB03Desc=Označíš své nepřátele znamením Wendigo, vysaješ
 tagDevotionEffectB04=Rozervání
 tagDevotionEffectB04Desc=Roztrháš své nepřátele, odkryješ choulostivé tepny a způsobíš tak intenzivní krvácení.
 tagDevotionEffectB05=Kyj
-tagDevotionEffectB05Desc=Udeříš na nepřátele ve svém okolí silou divokého medvěda. ^oVyžaduje chladnou zbraň.
+tagDevotionEffectB05Desc=Udeříš nepřátele ve svém okolí silou divokého medvěda.
 tagDevotionEffectB06=Rozhněvané čepele
 tagDevotionEffectB06Desc=Získáš další výhodu tím, že vypustíš množství přízračných čepelí, které s lehkostí projdou skrze tvé nepřátele.
 tagDevotionEffectB07=Prasklina

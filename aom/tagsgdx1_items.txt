@@ -328,6 +328,8 @@ tagGDX1HeadB103=[fs]Packlina kůže
 tagGDX1HeadB103_Desc="Vůbec nemáš představu, z kolika obětí se tato maska skládá."
 tagGDX1HeadB104=[fs]Packlin chránič hlavy
 tagGDX1HeadB104_Desc="Zápach z této masky je naprosto nesnesitelný."
+tagGDX1HeadB105=[fs]kapuce smrtícího šepotu
+tagGDX1HeadB106=[fs]čelenka narušitelky nebes
 
 
 tagGDX1HeadC101=Věnec z duší
@@ -794,6 +796,7 @@ tagGDX1MedalB107=[ms]erb mrštnosti
 tagGDX1MedalB108=[ms]erb pozorovatele
 tagGDX1MedalB109=[ms]Slathsarrův erb
 tagGDX1MedalB109_Desc="Z tesáků odkapává aetherický jed."
+tagGDX1MedalB110=[ms]Plagiův znak
 
 tagGDX1MedalC101=Obřadný znak
 tagGDX1MedalC102=Znak poskvrny
