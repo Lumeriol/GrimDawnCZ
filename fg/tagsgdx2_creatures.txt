@@ -366,6 +366,18 @@ tagGDX2Miniboss_Beast_04=Azaleon, Gryfí vládce
 tagGDX2Miniboss_Beast_05=Durg, za bouře zrozený
 tagGDX2Miniboss_Beast_06=Uhnívající Margul
 
+tagGDX2Miniboss_Side_01=Karnath Mrazokrev, hrdina kolosea
+tagGDX2Miniboss_Side_02=Otec Abaddoth ~ Menhirův zrádce
+tagGDX2Miniboss_Side_03=Bezohledný Galeslice
+tagGDX2Miniboss_Side_04=Vyloučený Naren Kur
+tagGDX2Miniboss_Side_05=Rutnick Krutý
+tagGDX2Miniboss_Side_06=Astros Předzvěst slunce
+tagGDX2Miniboss_Side_07=Blugrug Živoucí choroba
+
+tagGDX2Miniboss_PVP_01=Rekt Byprotoss ~ šampión jámy
+tagGDX2Miniboss_PVP_02=Acedian Aldric ~ šampión jámy
+
+
 tagGDX2Quest_EldritchHound_01=Galfang, postrach noci
 tagGDX2Quest_EldritchHound_02=Galfangův ohař
 tagGDX2Quest_EldritchWraith_01=Okalothův odvážlivec

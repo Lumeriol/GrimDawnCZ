@@ -21,7 +21,7 @@ tagGDX1WeaponSwordD107=Belgothianův kráječ
 
 tagGDX1WeaponSwordF101=Malmouthský kráječ
 tagGDX1WeaponSwordF102=Malmouthská čepel
-tagGDX1WeaponSwordF103=Wendigův dráp
+tagGDX1WeaponSwordF103=Wendigova čelist
 tagGDX1WeaponSwordF104=Spasitel Malmouthu
 
 
@@ -330,7 +330,8 @@ tagGDX1HeadB104=[fs]Packlin chránič hlavy
 tagGDX1HeadB104_Desc="Zápach z této masky je naprosto nesnesitelný."
 tagGDX1HeadB105=[fs]kapuce smrtícího šepotu
 tagGDX1HeadB106=[fs]čelenka narušitelky nebes
-
+tagGDX1HeadB107=Namadeiny rohy
+tagGDX1HeadB107_Desc="Do této pokrývky je hluboce zažraná chladná smrt."
 
 tagGDX1HeadC101=Věnec z duší
 tagGDX1HeadC101_Desc="Duchové uvězněni v této čelence svému nositeli našeptávají různá tajemství, která ne vždy jsou v jeho nejlepším zájmu."
@@ -797,6 +798,8 @@ tagGDX1MedalB108=[ms]erb pozorovatele
 tagGDX1MedalB109=[ms]Slathsarrův erb
 tagGDX1MedalB109_Desc="Z tesáků odkapává aetherický jed."
 tagGDX1MedalB110=[ms]Plagiův znak
+tagGDX1MedalB111=Namadeino oko
+tagGDX1MedalB111_Desc="Stále se škubající oko je plné neživota."
 
 tagGDX1MedalC101=Obřadný znak
 tagGDX1MedalC102=Znak poskvrny

@@ -2,9 +2,9 @@ tagSkillClassName07=[ms]Inkvizitor[fs]Inkvizitorka
 tagSkillClassName08=[ms]Nekromant[fs]Nekromantka
 
 tagSkillClassName0107=[ms]Taktik[fs]Taktička
-tagSkillClassName0108=[ms]Rytíř smrti[fs]Rytířka smrti
-tagSkillClassName0207=[ms]Čistič[fs]Čistička
-tagSkillClassName0208=[ms]Poskvrnitel[fs]Poskvrnitelka
+tagSkillClassName0108=[ms]Nemrtvý rytíř[fs]Nemrtvá rytířka
+tagSkillClassName0207=[ms]Likvidátor[fs]Likvidátorka
+tagSkillClassName0208=[ms]Záškodník[fs]Záškodnice
 tagSkillClassName0307=[ms]Podvodník[fs]Podvodnice
 tagSkillClassName0308=[ms]Kabalista[fs]Kabalistka
 tagSkillClassName0407=[ms]Infiltrátor[fs]Infiltrátorka
@@ -66,7 +66,7 @@ tagGDX1Class07SkillName03D=Slovo vyzbrojení
 tagGDX1Class07SkillDescription03D=Díky šíření své vůle skrze masivní obouruční zbraně mohou inkvizitoři zasadit další runy do své výbavy a používat tak Obnovující slovo s větší kadencí. ^oVyžaduje obouruční chladnou nebo obouruční střelnou zbraň.
 
 tagGDX1Class07SkillName04A=Ignaffarovy plameny
-tagGDX1Class07SkillDescription04A=Podržíš Ignaffarův kámen před sebou a můžeš tak chrlit plameny ze své dlaně po celou dobu, kdy bude tvá mysl propojená s relikvií. ^oJedná se o průběžnou dovednost, která musí být udržována, aby účinkovala. ^oPři 100% rychlosti kouzlení spalují Ignaffarovy plameny magickou energii a vysávají ji každé 0.3 sekundy.
+tagGDX1Class07SkillDescription04A=Podržíš Ignaffarův kámen před sebou a můžeš tak chrlit plameny ze své dlaně po celou dobu, kdy bude tvá mysl propojená s relikvií. ^oJedná se o průběžnou dovednost, která musí být udržována, aby účinkovala. Při 100% rychlosti kouzlení spalují Ignaffarovy plameny magickou energii a vysávají ji každé 0.3 sekundy.
 tagGDX1Class07SkillName04B=Zesílení
 tagGDX1Class07SkillDescription04B=Ignaffarovy plameny sílí, propalují všechny ochranu a na popel spálí tkáně.
 tagGDX1Class07SkillName04C=Pekelná čistka
@@ -136,7 +136,7 @@ tagGDX1Class08SkillDescription01B=Hlad po životní esenci nemusí být jednoduc
 tagGDX1Class08SkillName01C=Rozklad
 tagGDX1Class08SkillDescription01C=Ještě před tím, než vyhasne život v jejich očích, se tví přátelé začnou rozkládat tam, kde stojí.
 tagGDX1Class08SkillName01D=Smrtonosný chlad
-tagGDX1Class08SkillDescription01D=Nekromanti, jež dobře využívají verše smrti, mohou donutit smrtící chlad padnout na nepohodlné nepřátele, čímž je zpomalí.
+tagGDX1Class08SkillDescription01D=Nekromanti, jež dobře využívají verše smrti, mohou donutit hrobový chlad padnout na nepohodlné nepřátele, čímž je zpomalí.
 xxtagGDX1Class08SkillName01D=Nekonečná žízeň
 xxtagGDX1Class08SkillDescription01D=Přenos životní energie je obecně schopnost vyhrazená pro kritické situace, ale někteří její uživatelé mají problém s odoláváním vůči této čisté životní energii a plně se tomuto kouzlu poddají, avšak na úkor těch, co stojí kolem.
 
@@ -222,7 +222,7 @@ tagGDX1Class08SkillName14A=Znamení trýzně
 tagGDX1Class08SkillDescription14A=I když se všichni nakonec musí podvolit svému osudu, tvá schopnost manipulovat se smrtí ti umožní oddálit nevyhnutelné. Tím, že propojíš svojí duši s nepřítelem ve svém okolí, přesuneš některá ze zranění vedených proti tobě právě na něj. ^oPouze jeden nepřítel může být označen v ten daný okamžik.
 
 tagGDX1Class08SkillName15A=Hrobové volání
-tagGDX1Class08SkillDescription15A=Na příkaz svého vládce mohou nohsledi uvolnit hrobovou energii, která je pohání, což z nich udělá brutální a šílené jedince.
+tagGDX1Class08SkillDescription15A=Vyvoláš hnilobu a hrobový rozklad pro naplnění ohavného kouzla, a následně uvrhneš své nemrtvé nestvůry do brutálního šílenství.
 
 #ItemSkills
 
@@ -351,7 +351,7 @@ tagGDX1ItemSkillD125Name=Rozzuřený oheň
 tagGDX1ItemSkillD125Desc=Ze země začne šlehat salva poskvrněných plamenů.
 
 tagGDX1ItemSkillD126Name=Gar'dalův oheň
-tagGDX1ItemSkillD126Desc=Zaplavíš sebe v Gar'dalových zkažených plamenech, které tobě a těm, které považuješ za spojence, nepůsobí žádnou újmu, zatímco tvoji nepřátelé budou spalováni na uhel.
+tagGDX1ItemSkillD126Desc=Zaplavíš sebe v Gar'dalových zkažených plamenech, které tobě a těm, které považuješ za spojence, nepůsobí žádnou újmu, zatímco tvoji nepřátelé budou spalováni na uhel. ^oTato schopnost musí být aktivní, aby účinkovala.
 
 tagGDX1ItemSkillD127Name=Ostří popravčího
 tagGDX1ItemSkillD127Desc=Vypustíš smrtící rotující čepel a setneš hlavy svých nepřátel.

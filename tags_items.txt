@@ -1472,6 +1472,8 @@ tagLegsA006=[mp]náholeníky
 tagLegsB001=[mp]náholeníky Dreegovy sekty
 tagLegsB002=[mp]náholeníky Solaeovy sekty
 tagLegsB003=[mp]náholeníky Bysmieliny sekty
+tagLegsB004=[mp]Anasteřiny náholeníky
+tagLegsB005=[mp]Anasteřiny kamaše
 
 tagLegsC001=Kamaše mlžného chodce
 tagLegsC002=Poustevníkovy náholeníky
@@ -3488,7 +3490,7 @@ tagCompB020Name=^kMyrmidonovo znamení
 tagCompB020Desc="Symbol moci udělovaný nejodvážnějším bojovým hrdinům."^w^n(může vylepšit štít)
 
 tagCompB021Name=^kOleronova krev
-tagCompB021Desc="Posvátná krev boha války."^w^n(může vylepšit všechny druhy zbraní)
+tagCompB021Desc="Posvátná krev boha války."^w^n(může vylepšit všechny druhy zbraní, štít nebo kouzelnický příruční předmět)
 
 tagCompB022Name=^kKilrianova roztříštěná duše
 tagCompB022Desc="Poskvrněná duše Kilriana, postrachu Arkovianského Podzemního města."^w^n(může vylepšit hrudní zbroj)

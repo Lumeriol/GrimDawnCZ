@@ -23,6 +23,9 @@ tagGDX2MapVanguardBase=Předvoj Tří
 tagGDX2MapSecretDesertShrine=Azaleonova svatyně
 tagGDX2MapSecretBaseShrine=Horranova svatyně
 
+tagGDX2MapSideAreas_01=Burrwitchská katedrála
+tagGDX2MapSideAreas_02=Arkovianské doky
+tagGDX2MapSideAreas_03=Arkovianské koloseum
 
 
 #Riftgate Names
@@ -116,8 +119,12 @@ tagGDX2Roguelike_01B=Morgonethova pošetilost
 tagGDX2Roguelike_01C=Hladovějící temnota
 tagGDX2Roguelike_01D=Průchod věčné noci
 
+tagGDX2SideAreas_01=Morová jáma
+tagGDX2SideAreas_02=Zkažená hrobka
+
 
 #Signs
+tagGDX2Sign_Old=Mimo provoz
 
 
 #Points of Interest
@@ -181,6 +188,9 @@ tagGDX2POI_AREAG_BeetleB=Východ z Doupěte brouků
 
 tagGDX2POI_AREAG_MessengerA=Vstup do Jámy vykoupení
 tagGDX2POI_AREAG_MessengerB=Východ z Jámy vykoupení
+
+tagGDX2POI_AREAG_SunwardA=Vstup do Sluneční věže
+tagGDX2POI_AREAG_SunwardB=Východ ze Sluneční věže
 
 
 tagGDX2POI_AREAG_RiggsQuest01A=Vstup do Enahtova chřtánu
@@ -277,6 +287,8 @@ tagGDX2NPC_AreaG_37=Sestra Paulia
 tagGDX2NPC_AreaG_38=Zapomenutá chodba
 
 tagGDX2NPC_AreaG_39=Marr
+
+tagGDX2NPC_ArkoviaBridge=Staveniště mostu z Tyranovy državy
 
 #Flavor NPC Names
 #Solael Camp
@@ -454,7 +466,7 @@ tagGDX2LoreObj_AreaG_TombsNoteA02Name=Rhenet, krysí bůh
 tagGDX2LoreObj_AreaG_TombsNoteA02Text=Rhenet nebyl vždy krysou a nepředsedal té drobné chamradi a nižším stvořením Korvanské pánve. Býval to mocný a hrdý muž, obchodník, jehož bohatství se třpytilo ve světle Rahna.{^n}{^n}Ale nenarodil se do bohatství a moci. Ne, narodil se jako nemocný chudák své ovdovělé matce, která mu nedala nic než víru v Tajemné slunce. A tak protože se nemohla starat o své nemocné dítě, modlila se ke svému bohu, a slíbila svůj život Rhenetovi, pakliže bude ušetřen život jejího prvorozeného. Modlitby zoufalé matky byly vyslyšeny a z chorého batolete se zázračně stalo zdravé děcko.{^n}{^n}Jako mladý muž byl odveden do služeb obchodní lodě, kde se povídalo, že i kruté moře k němu bylo příznivé. Vyrostl z něj silný a chytrý muž a jeho námořnické dovednosti mu přinesly dobrou pověst. Urputně pracoval, aby ctil život, jež byl mu dán, a díky svému úsilí se stal kapitánem lodi, na které sloužil.{^n}{^n}Jeho úspěchy na moři byly tak velké, že se mohl jednoho dne vrátit do Cairanských doků a odkud velet armádě lodí, které pluly pod jeho jménem. Z tohoto mocenského postavení si vybudoval své velké bohatství a začal zapomínat na svůj skromný původ. Úspěch jeho života očernil jeho ego natolik, že Rhenet začal věřit, že je předurčen k něčemu většímu a že jeho život nemůže být pouhá náhoda. Zatoužil po větší moci a zapomněl na dar, který mu byl dán.{^n}{^n}Ti, jež Rhenetovi sloužili nebo mu byli loajální, ho ospravedlňovali svým uctíváním a s jeho pýcha rostla společně s bohatstvím. Stín jeho původu byl zcela zapomenut, když se Rhenet prohlásil pánem všech moří a nechal na svou počest postavit první z mnoha chrámů. Námořníci a mořeplavci rychle začali na těchto místech nechávat úplatky, své poklady a bohatství. Začalo se vyprávět, že Rhenetova laskavost a štěstí doprovází všechny, kde se vydají na moře. Někteří z nich ho dokonce vnímali jako boha všech vod a jeho pověst se začala šířit i za vody Korvanu.{^n}{^n}Ale Rhenetova obrovská arogance rozhněvala jeho dobrodince. A tak Tajemné slunce opustil svůj trůn a přestrojil se za postaršího chudáka, aby mohl pobývat mezi lidmi Korvanské pánve. Tam naslouchal pochlebování Rhenetovi, jak lidé mluvili o muži, který se stal Korvaakovým Vyvoleným a jak by tito smrtelníci sloužící Tajemnému slunci, by ho nejraději posadili vedle jeho trůnu. To oprávněně rozzuřilo jeho božstvo ve své pozměněné podobě se rozhodl vyhledat samozvaného vládce moří.{^n}{^n}Ve velkém chrámu postaveném v jeho jménu Rhenet přijal starého muže. Při pohledu na nemocné postižené stvoření se rozesmál. "Co chceš darovat pánu všech moří ty ubohý starý blázne?" zeptal se Rhenet.{^n}{^n}"Přišel jsem ti připomenout život, který bys měl žít," řekl muž pokorně. "Jsem tím, kým byste byl vy, nebýt laskavosti Tajemného slunce."{^n}{^n}Rhenet se znovu rozesmál. "Přišel jsi mi vyhrožovat? Kdo vůbec jsi, že mluvíš o bozích? Jak se vůbec opovažuješ?"{^n}{^n}A tím starým mužem se ozval hlas, až se roztřásla země pod jeho nohama. Jeho podoba se začala měnit s jeho hlasem a nad Rhenetem vzplály plameny, jež vzňaly jeho šaty a zapálily jeho tělo. "Nepřišel jsem vyhrožoval, přišel jsem si vzít zpět dar, který jsem ti věnoval."{^n}{^n}Spalující teplo zbavilo Rheneta hrdosti, který se nyní krčil před vztyčenou postavou. "Odpust mi," žebral Rhenet, "nevěděl jsem."{^n}{^n}"Co mi můžeš dát, ty malé zakrslé stvoření," zahřměla postava.{^n}{^n}"Daruji ti svůj život," vykřikl Rhenet.{^n}{^n}"Samozřejmě. Ale smrt je nízká cena. Ne, budeš mi sloužil jako ta nejmenší havěť, kterou jsi vždycky byl. Budeš soudcem těch, kteří tě měli za boha."{^n}{^n}S těmito slovy se Rhenetovo tělo smrsklo do sebe, zkroutilo, roztrhalo a proměnilo do podoby obrovské nemocné krysy. Jeho chrámy se v mžiku proměnily v hromadu sutin a z nich se vyrojila hromada krys. Všichni, kdo uctívali vládce moří, kteří mu slíbili svou loajalitu nebo prosili o jeho laskavost, byli prokleti, aby pro prožili své dny jako škůdci ve službách krysího boha.{^n}{^n}Pamatujte tak na příběh Rheneta, neboť všechny věci, které v životě milujeme, jsou dary Tajemného slunce.
 
 tagGDX2LoreObj_AreaG_TombsNoteA03Name=Poznámka vezíra Erhamana
-tagGDX2LoreObj_AreaG_TombsNoteA03Text=Chrám pohltil chlad. Teplo z jeho nitra už nesálá nad město. Nevím, co se stalo a co to mohlo způsobit, ale patroni menších chrámů si toho začali všímat. Ti, kdo přicházejí vzdát hold, se mne po modlitbách ptají na otázky, na něž nemám odpověď. "Rozlobili jsme Korvaaka?", "Zmizelo Tajemné slunce?". Jsou po právu znepokojeni a vyděšeni. Však to jsou typy emocí, které podněcují rozkolísanost víry a myšlenky nesouhlasu. Je tady pár takových, kteří bojkotují proti chrámy. Sice je jich jen pár, ale obávám se, že nedávné události je mohou probudit. Mají potenciál stát se prohnilým jádrem v centru většího hnutí.{^n}{^n}Mezitím jsem požádal o pomoc radu Starších, o slova útěchy, která bych mohl sdílet s patrony chrámu. Ani mi nedokázali odpovědět na mé starosti. Řekl jsem si, že budu pokračovat i nadále, protože Korvaakův plamen je tady s námi a slunce také vyjde každý den.{^n}{^n}Tajemné slunce pracuje způsobem, který asi nikdy nepochopím, ale musíme dbát, aby lid zůstal klidný. Základy našeho města a naší víry nesmí být otřeseny. Udělám víc, než jen uchlácholení klidným slovem, přinesu jim podívanou, velkou oběť srdci našeho chrámu.
+tagGDX2LoreObj_AreaG_TombsNoteA03Text=Chrám pohltil chlad. Teplo z jeho nitra už nesálá nad město. Nevím, co se stalo a co to mohlo způsobit, ale patroni menších chrámů si toho začali všímat. Ti, kdo přicházejí vzdát hold, se mne po modlitbách ptají na otázky, na něž nemám odpověď. "Rozzlobili jsme Korvaaka?", "Zmizelo Tajemné slunce?". Jsou po právu znepokojeni a vyděšeni. Však to jsou typy emocí, které podněcují rozkolísanost víry a myšlenky nesouhlasu. Je tady pár takových, kteří bojkotují proti chrámy. Sice je jich jen pár, ale obávám se, že nedávné události je mohou probudit. Mají potenciál stát se prohnilým jádrem v centru většího hnutí.{^n}{^n}Mezitím jsem požádal o pomoc radu Starších, o slova útěchy, která bych mohl sdílet s patrony chrámu. Ani mi nedokázali odpovědět na mé starosti. Řekl jsem si, že budu pokračovat i nadále, protože Korvaakův plamen je tady s námi a slunce také vyjde každý den.{^n}{^n}Tajemné slunce pracuje způsobem, který asi nikdy nepochopím, ale musíme dbát, aby lid zůstal klidný. Základy našeho města a naší víry nesmí být otřeseny. Udělám víc, než jen uchlácholení klidným slovem, přinesu jim podívanou, velkou oběť srdci našeho chrámu.
 
 tagGDX2LoreObj_AreaG_TombsNoteA04Name=Jerenův cestovatelský zápisník - 1. zápis
 tagGDX2LoreObj_AreaG_TombsNoteA04codexTitle=Jerenův zápisník - 1. zápis
@@ -643,6 +655,27 @@ tagGDX2LoreObj_AreaG_RoguelikeNoteD03Name=Morgonethovy paměti
 tagGDX2LoreObj_AreaG_RoguelikeNoteD03Text=Milosrdný Atephe, řekni mi, co musím udělat. Úponky nočních drápů mých probouzejících se myšlenek a propast vyplňuje mé sny. Běžný den už mně neuspokojuje.{^n}{^n}Nahlédl jsem za vzdálenou tapisérii bohů. Nevěděl jsem, co očekávat, ale očekával jsem 'něco'; ale to co mne čekalo, byla absence úplně všeho. V této prázdnotě jsem našel odpovědi na otázky, na které jsem ani netušil, že bych se ptal. Slova, která vyplňovala mou mysl, neměla žádný význam a přesto jsem s nimi byl obeznámen, jako s pohodlím u teplého krbu během zimní noci.{^n}{^n}Jak bych mohl popřít takovou krásu, takovou dokonalost. Tapisérie bohl je nemoc, skvrna na jednolitosti propasti. Vzdorovat jí je čiré šílenství. Lži bohů byly odstraněny z mých očí, ale ostatní kolem mně zůstali zaslepeni. I oni budou donuceni prozřít.{^n}{^n}Ne, ne, oni tomu neporozumí. Budou váhat a všechno se roztříští. Nemohou být postaveni před pravdu, ale musí být předěláni, aby jí sloužili. Ano, svážu je do temnoty, spojím je se svou vůlí, aby se vrátili zpátky do náručí svého stvořitele.{^n}{^n}Nastane hodina pravdy, ano. Přijdou, ale přijdou příliš pozdě. Kosatec ukazuje cestu k úsvitu věčné noci. Až se pohlcené hvězdy srovnají, úponky hladu rozmotají samotnou zemi a konečne přijde konec.{^n}{^n}V síť se formují stíny a sedm opět znovu povstane. A až ke mně přijdou, pak teprve všichni blázni prozřou. Morgoneth ničitel je tady, a navždy tu zůstane.
 
 
+#Side Areas
+tagGDX2LoreObj_AreaG_SideAreaNoteA01Name=Vysvětlení pochybností
+tagGDX2LoreObj_AreaG_SideAreaNoteA01Text=Vážená madam Arnio,{^n}{^n}Jste hříšná a odporná ženská a s velikým potěšením vám píšu tento dopis. Ve městě je panika a místo toho, abyste nás držela v bezpečí, snížila jste sazby, abyste měla stále plné kapsy. Teď sklidíte, co jste zasela, vy krávo nenažraná. Zatímco jste byla zaneprázdněná počítáním peněz z našich roztažených nohou, já jsem všechny dívky odvedla pryč. Už nebudeme vašima kurvičkama.{^n}{^n}Netuším, jestli se k vám tenhle dopis vůbec dostane. Když jsme odcházely, viděly jsme na druhé straně města nenávistné zelené plameny. Já jen doufám, že tenhle kurvinec shoří a vy budete v něm si číst poslední řádky tohoto dopisu a poslední věc, na kterou pomyslíte, bude ta, že jsem vám vzala úplně všechno. Kéž by si vás všichni temní bohové vzali jeden po druhém, dokud by z vás nezbylo nic, než kus špinavýho hadru.{^n}{^n}Milleen
+
+tagGDX2LoreObj_AreaG_SideAreaNoteA02Name=Na vlastní pěst
+tagGDX2LoreObj_AreaG_SideAreaNoteA02Text=Řikam ti, že Cronley o to přišel!{^n}{^n}Bastard má v tý svý palici jen to, že musíme jít do Ďáblova průsmyku a převzít ho, i kdyby tam měli vychcípat. Ale proč! Pomsta? Bourbon je jenom malá ryba a sami maj nedostatek zásob. Chípnou tak jako tak.{^n}{^n}Převzetí pevnosti je šílenství. Když je most v hajzlu, je to prakticky nedobytná pevnost. Ale Darius za to klidně zaplatí životem.{^n}{^n}Jo! Narvali jsme jim krystaly do zad a teď se každej cejtí, jako by měl sílu za sto dalších, ale je nám to úplně k hovnu, když cesta do pevnosti vede přes útesy a kulku do mozku.{^n}{^n}Ne, Cronley a já jsme spolu skončili. Vedu chlapy za lehčím cílem. Na západě leží velká farmářská oblast, určitě nezkažená tím, co se děje ve městeech a vesnicích. Zemědělci se budou snadněji obírat a žrádlo by nám mělo vydržet aspoň na rok, než se zpakujem a vypadneme jinam.{^n}{^n}Nemá smysl se s touhle sebrankou držet. Kdo jde se mnou?!{^n}{^n}Rutnick
+
+tagGDX2LoreObj_AreaG_SideAreaNoteA03Name=Váhy zbořily rovnováhu
+tagGDX2LoreObj_AreaG_SideAreaNoteA03Text=It is a strange sensation, or should I say lack of it; to witness the world around me without tactile sensation. I hold a forkful to my mouth, yet the weight of the fork is nonexistent to my hand. The act itself is just a gesture. Food offers no flavor anymore. In a way, that is a blessing for the stench of decay no longer bothers me either.{^n}{^n}What remained of the putrid flesh upon my bones has all but rotted away, and with it, rots away my mind. Putting pen to paper becomes increasingly difficult as my thoughts wander to emptiness. It is no longer that mystical silence of daydreaming where the mind explores its reaches, but the absolute absence of anything at all. That, I suppose, is the end to this curse; an eternity of emptiness awaits us all.{^n}{^n}Outside my home, the harbor is alight with the orange glow of massive flames. Judging by the shouts and noise, my countrymen have set themselves to burning the ships. To what end, I cannot say. Perhaps the arson fills them with a small flicker of purpose and life.{^n}{^n}For me, I still find solace in philosophy and parchment, for as long as my mind remains capable of it. For example, one may consider the curse which befell our lands to be divine punishment handed down upon us for our hubris. I am a skeptic, yet even I cannot deny the irony of undeath condemning people hellbent on exterminating necromancy. If the gods truly exist, then they have a sick sense of humor and justice. The scales of Ulcama, it appears, have struck a balance in the end.{^n}{^n}Nafor, Scholar of Arkovia
+
+tagGDX2LoreObj_AreaG_SideAreaNoteA04Name=Ch'thonův dar
+tagGDX2LoreObj_AreaG_SideAreaNoteA04Text=For too long have I slaved before gods that hold no sway over mortal affairs. Too long have I given sermons to the sheep all too eager for words of comfort in their sinful lives. My eyes have been opened to the greater universe, to the mercy of Ch'thon. For it is through his blood and sacrifice that we live and our lands thrive.{^n}{^n}Humanity makes a mockery of Ch'thon's gifts. We are unworthy of this land, unworthy of his blood. And so his blood must be returned. {^n}{^n}I've taken it upon myself to guide this flock to their true salvation. Slowly, at first, for as sheep are spooked by the sudden arrival of the wolf, so too these fools will be unwilling to accept the real truth even if it stared them in the eye. In time, their false idols will be struck down and they will be made to repent for their ignorance.{^n}{^n}Each will be given a new purpose, whether by their own blood or by gathering it from others in our master's name.{^n}{^n}But it matters not, for in the end of all things, we must all return to Ch'thon.{^n}{^n}Father Abaddoth
+
+tagGDX2LoreObj_AreaG_SideAreaNoteA05Name=Stojím před Tajemným sluncem
+tagGDX2LoreObj_AreaG_SideAreaNoteA05Text=Here, atop this sacred spire, I bear witness to a tragedy. The land's wounds weep with the blood of the divine, his scarred flesh marred by the wickedness of false gods from a bygone era. The devastation is almost too much to behold, so intimately was the land tied to its benefactor. If it is ever to be healed, the Eldritch Sun must be released.{^n}{^n}Each dawn brings us closer to our goals. Last night I beheld the wondrous ascension of our Father. His screams echoed through temple halls. He too now bears the burning scars. The burdens our god carries are made lighter by his sacrifice.{^n}{^n}Others will soon follow and I pray to the sun that I am chosen next. May this flesh carry the will of Korvaak; may my hands be made into weapons to carve a path for his return.{^n}{^n}As I stand here atop the sacred spire, and the light of another dawn breaks through the twilight of night, I call to the heavens to grant me this honor. Korvaak! Hear my prayers! Grant me your flame and I shall rend our foes unto ash.{^n}{^n}Astros the Sunherald
+
+tagGDX2LoreObj_AreaG_SideAreaNoteA06Name=Hrůzy kolosea
+tagGDX2LoreObj_AreaG_SideAreaNoteA06Text=I joined my colleagues at the coliseum to watch the gladiators battle. It was a perfect day; perfect weather, warm with a slight breeze coming off the river. Joined by good friends and a few skins of Elbuurk's Golden Wine, we even got good seats from a wealthy merchant who couldn't get away from some business he had to attend to. We could not believe the fortunes that smiled upon us. We were prepared for a great showing of bravery and excitement. What we saw instead was a nightmare.{^n}{^n}The first match was a simple duel between the veteran Karnath and some criminal whose name I immediately forgot. It wasn't a fight but an execution, an appetizer before the main show. In the opener, Karnath toyed with the man, tapping his sword and dodging his pathetically slow attacks. When the crowd got bored and started booing, Karnath did a quick swipe and the man's guts spilled out onto the sand. The people roared and Karnath threw his arms up in triumph, turned his back on the criminal and walked away to bask in the accolades.{^n}{^n}But that was when things took a horrifying turn. The criminal was a dead man. Nobody could have survived such a vicious blow, but instead of dropping upon his own insides, he just stood there looking at the intestines piling up in the bloody sand.{^n}{^n}After a few breaths, the man staggered forward. I figured at last the fight would be over but instead he surged forward, his guts dragging behind him, and buried his blade deep into Karnath's back. A silent gasp overcame the crowd as they witnessed the fall of their favored champion, but he too did not stagger from the lethal blow. Karnath simply looked at the blade erupting from his chest, spat up a mouthful of blood and pulled himself free of it. He turned slowly towards his would-be killer.{^n}{^n}In a rage, Karnath struck out and, with a mighty clash of steel, knocked the blade from the criminal's hand. With the backswing, he cut the man's arm clean off at the elbow. The now delimbed criminal stumbled backward to recover his weapon, but Karnath had other ideas. The gladiator stamped a mailed boot down on a bundle of sand-covered bloody flesh that snaked its way from his opponent. With a heave, he pulled the criminal back towards him and proceeded with a series of cruel attacks that could only be described as butchery.{^n}{^n}The crowd watched in silence, horror and awe frozen on their faces, as Karnath delimbed the man, who screamed all the while for mercy, but he would not die. His blood had long stopped pumping, but still he would not die.{^n}{^n}Exhausted and confused, Karnath stepped back from his bloody work. The criminal, now just the remnants of a torso and a head, gasped and screamed. The gladiator scowled and walked out of the arena towards the barracks with a dark purpose upon the blood-drenched sword still clenched in his hand.{^n}{^n}The crowd remained for some time, stunned by what they had witnessed. Nobody came to help the butchered man who still clung to life at the center of the arena. Though not a word was spoken, our minds were as one: we all feared whatever malady had struck him so would befall us too should we get too close.{^n}{^n}How wrong were we to think that. The curse had already claimed us all.{^n}{^n}Mar Plavos, First Son of House Plavos
+
+tagGDX2LoreObj_AreaG_SideAreaNoteA07Name=Naren Kurovo blouznění
+tagGDX2LoreObj_AreaG_SideAreaNoteA07Text=Banished, the sheer audacity. The other oligarchs assured me that if not for my standing, I would have been butchered on the spot like a sow past her prime. Instead, they gave me the "dignity" of exile.{^n}{^n}In truth, they fear me. They fear what I've achieved, what I've uncovered in the depths of our libraries. There is a power in this universe, a gnawing madness that threatens to unravel all we've built. It yearns for the blood that was taken, and we are but mere drops in the ocean of its torment.{^n}{^n}To defy a true god, a being so ancient it predates time, is folly. My eyes have been opened and I now walk the true path to our ascension. The others cry heresy, but I could see the terror fester within them. They are more than willing to torture an old man for his alleged secrets to immortality, but yet even this trickle of knowledge strikes them with disgust.{^n}{^n}If only life was not but a flicker in the infinite stars. Oh what I could do, what I could learn, with several lifetimes.
 
 
 tagGDX2Roguelike_Area01=Enahtův chřtán
@@ -745,21 +778,23 @@ tagGDX2DevotionShrineS04=???
 
 #Monster Totems
 tagGDX2MonsterTotemA01=Aetherem zkroucený totem
-tagGDX2MonsterTotemA01B=Zpustý Aetherem zkroucený totem
+tagGDX2MonsterTotemA01B=Zpustlý Aetherem zkroucený totem
 tagGDX2MonsterTotemA01C=Starobylý Aetherem zkroucený totem
 
 tagGDX2MonsterTotemA02=Prázdnotou dotčený totem
-tagGDX2MonsterTotemA02B=Zpustý Prázdnotou dotčený totem
+tagGDX2MonsterTotemA02B=Zpustlý Prázdnotou dotčený totem
 tagGDX2MonsterTotemA02C=Starobylý Prázdnotou dotčený totem
 
 tagGDX2MonsterTotemA03=Totem divochů
-tagGDX2MonsterTotemA03B=Zpustý totem divochů
+tagGDX2MonsterTotemA03B=Zpustlý totem divochů
 tagGDX2MonsterTotemA03C=Starobylý totem divochů
 
 tagGDX2MonsterTotemA04=Totem tajemství
-tagGDX2MonsterTotemA04B=Zpustý totem tajemství
+tagGDX2MonsterTotemA04B=Zpustlý totem tajemství
 tagGDX2MonsterTotemA04C=Starobylý totem tajemství
 
 tagGDX2MonsterTotemA05=Totem ducha
-tagGDX2MonsterTotemA05B=Zpustý totem ducha
+tagGDX2MonsterTotemA05B=Zpustlý totem ducha
 tagGDX2MonsterTotemA05C=Starobylý totem ducha
+
+tagGDX2MonsterTotemA06=Nebeský totem

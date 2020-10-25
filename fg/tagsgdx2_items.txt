@@ -8,6 +8,8 @@ tagGDX2WeaponSwordB203=[ms]Kymonův obětní nůž
 tagGDX2WeaponSwordB203_Desc="Vysvěcen v Korvaakově krvi a propůjčován jeho šampiónovi."
 tagGDX2WeaponSwordB204=[fs]pomsta Pána krve
 tagGDX2WeaponSwordB205=[ms]Ravnin dráp
+tagGDX2WeaponSwordB206=Naren Kurův nůž
+tagGDX2WeaponSwordB206_Desc="Tak nějak se ví, že měl co dočinění s arkovianskými oligarchy."
 
 tagGDX2WeaponSwordC201=Plamenná cudnost
 
@@ -40,6 +42,10 @@ tagGDX2WeaponBluntD204=Úplně normální pukléř
 tagGDX2WeaponBluntD205=Úplně normální úlomek světla
 tagGDX2WeaponBluntD206=Úplně normální záštita
 tagGDX2WeaponBluntD207=Stopař z krypty
+tagGDX2WeaponBluntD208=Úplně obyčejný rozhodčí
+tagGDX2WeaponBluntD208_Desc="Tohle není štít který hledáš."
+tagGDX2WeaponBluntD209=Úplně obyčejný strážce
+tagGDX2WeaponBluntD209_Desc="Spodní tlapa je vzteklá."
 
 tagGDX2WeaponBluntF201=Bysmielino válečné kladivo
 tagGDX2WeaponBluntF202=Solaelovo válečné kladivo
@@ -51,6 +57,7 @@ tagGDX2WeaponAxeB202=[ms]kráječ vypelichaného ještěra
 tagGDX2WeaponAxeB203=[ms]kráječ rozeklaného ještěra
 tagGDX2WeaponAxeB204=[ms]kráječ kostí
 tagGDX2WeaponAxeB205=[ms]sluhův sekáček
+tagGDX2WeaponAxeB206=[ms]Blugrugův morový párač
 
 tagGDX2WeaponAxeC201=Párač závojů
 
@@ -69,6 +76,8 @@ tagGDX2WeaponGun1hB201=[fs]zmijí písečná zášť
 tagGDX2WeaponGun1hB202=[ms]zmijí vykrvovač
 tagGDX2WeaponGun1hB203=[fs]ugdenská opakovací puška
 tagGDX2WeaponGun1hB103Desc="Prodchnuta duchem Wendiga."
+tagGDX2WeaponGun1hB204=[fs]Rutnickova bouchačka
+tagGDX2WeaponGun1hB204Desc="Zoufalství si žádá krutá řešení."
 
 tagGDX2WeaponGun1hC201=Pouštní osten
 tagGDX2WeaponGun1hC202=Stínový vymahač
@@ -112,6 +121,7 @@ tagGDX2WeaponMelee2hB205=[fs]korvanská tajemná halapartna
 tagGDX2WeaponMelee2hB206=[fs]korvanská polní halapartna
 tagGDX2WeaponMelee2hB207=[fs]korvanská nebeská halapartna
 tagGDX2WeaponMelee2hB207_Desc="Ostří je tak hladové, že by ihned něco zabilo."
+tagGDX2WeaponMelee2hB209=[ms]Dvoubřitý meč posla Slunce
 
 tagGDX2WeaponMelee2hC201=Břitva navrátilce
 tagGDX2WeaponMelee2hC202=Čepel zběsilosti
@@ -177,6 +187,7 @@ tagGDX2ShieldB202=[ms]vrubounův krunýř
 tagGDX2ShieldB203=[ms]obrovský obránce
 tagGDX2ShieldB204=[ms]masorvoucí obránce
 tagGDX2ShieldB205=[ms]obsidiánový obránce
+tagGDX2ShieldB206=[fs]ztuhlá mrtvola
 
 tagShieldC015B=Gladiátor
 
@@ -191,6 +202,7 @@ tagGDX2ShieldD203=Chránič ctnosti
 tagGDX2ShieldD204=Obránce Tří
 tagGDX2ShieldD205=Hradba pusté duše
 tagGDX2ShieldD206=Hyrianova hradba
+tagGDX2ShieldD207=Úlomek noci
 
 tagGDX2ShieldF201=Bysmielin obránce
 tagGDX2ShieldF202=Dreegův ochránce
@@ -204,6 +216,8 @@ tagGDX2FocusB202=[fs]figurka odporného grobla
 tagGDX2FocusB203=[ms]vynucený přízrak
 tagGDX2FocusB204=[ms]přinucený přízrak
 tagGDX2FocusB205=[ms]Zarthuzellanův archiv
+tagGDX2FocusB206=Abaddothovo přikázání
+tagGDX2FocusB206_Desc="Není úplně jasné, kdy se Abaddothovo kázání změnilo z milosrdných slov na odporná slova Prázdnoty, nebo kolik věřících přivedl ke kultu."
 
 tagGDX2FocusC201=Kodex zúčtování
 tagGDX2FocusC202=Manifestarius
@@ -292,6 +306,10 @@ tagGDX2HeadD218=Targova helma
 tagGDX2HeadD219=Chránič hlavy pusté duše
 tagGDX2HeadD220=Umrlcova maska
 tagGDX2HeadD221=Morgonethův chránič hlavy
+tagGDX2HeadD222=Obřadní maska Pokřiveného světa
+tagGDX2HeadD223=Zavinovačova maska
+tagGDX2HeadD224=Maska chlemtače krve
+tagGDX2HeadD225=Maska pyromaniaka
 
 tagGDX2HeadF201=Bysmielina noční přilbice
 tagGDX2HeadF202=Bysmielina hrůzná kapuce
@@ -342,6 +360,10 @@ tagGDX2ShoulderD216=Targovy chrániče ramen
 tagGDX2ShoulderD217=Tkané nárameníky pusté duše
 tagGDX2ShoulderD218=Umrlcovy chrániče ramen
 tagGDX2ShoulderD219=Morgonethovy temné tkané nárameníky
+tagGDX2ShoulderD220=Obřadní tkané nárameníky Pokřiveného světa
+tagGDX2ShoulderD221=Zavinovačovy tkané nárameníky
+tagGDX2ShoulderD222=Tkané nárameníky chlemtače krve
+tagGDX2ShoulderD223=Tkané nárameníky pyromaniaka
 
 tagGDX2ShoulderF201=Bysmieliny tajemné rytířské nárameníky
 tagGDX2ShoulderF202=Bysmieliny bouřné tkané nárameníky
@@ -396,6 +418,10 @@ tagGDX2TorsoD216=Targův hrudní chránič
 tagGDX2TorsoD217=Zbroj pusté duše
 tagGDX2TorsoD218=Umrlcův hrudní chránič
 tagGDX2TorsoD219=Morgonethovo Černé srdce
+tagGDX2TorsoD220=Obřadní zbroj Pokřiveného světa
+tagGDX2TorsoD221=Zavinovačova zbroj
+tagGDX2TorsoD222=Zbroj chlemtače krve
+tagGDX2TorsoD223=Zbroj pyromaniaka
 
 tagGDX2TorsoF201=Bysmielin noční hrudní chránič
 tagGDX2TorsoF202=Bysmielin odporný háv
@@ -568,6 +594,7 @@ tagGDX2NecklaceD211=Rah'Zinův drahokam
 tagGDX2NecklaceD212=Klenba Pána zmaru
 tagGDX2NecklaceD213=Bysmielina duhovka
 tagGDX2NecklaceD214=Umrlcův emblém
+tagGDX2NecklaceD215=Ochrana chlemtače krve
 
 tagGDX2NecklaceF201=Bysmielin šampiónský přívěsek
 tagGDX2NecklaceF202=Bysmielin zahalený přívěsek
@@ -588,6 +615,10 @@ tagGDX2MedalB201=[ms]tesák baziliška
 tagGDX2MedalB201_Desc="Z tesáku stále odkapává toxický jed."
 tagGDX2MedalB202=[fs]Wendigova záře
 tagGDX2MedalB202_Desc="Krvavé vystřelené oko dychtivě zírá na svou oběť."
+tagGDX2MedalB203=Galeslicův znak
+tagGDX2MedalB203_Desc="Vír čepelí prořezávající vzduch je všechno, co tenhle Dranghoul kdy znal nebo potřeboval."
+tagGDX2MedalB204=Výtržníkovo vyznamenání
+tagGDX2MedalB204_Desc="Souboj je vyčerpávající zápas, kde dvě unavené duše bojují v prachu a špíně o nadvládu. Vyhrát ovšem může pouze jeden."
 
 tagGDX2MedalC201=Znak mučivých lží
 tagGDX2MedalC202=Znak nářků smrti
@@ -604,6 +635,8 @@ tagGDX2MedalD206=Ludriganův znak
 tagGDX2MedalD207=Znak cyklóny
 tagGDX2MedalD208=Gholův znak
 tagGDX2MedalD209=Bysmielin znak
+tagGDX2MedalD210=Zavinovačův erb
+tagGDX2MedalD211=Pyromaniakův erb
 
 tagGDX2MedalF201=Bysmielin znak manipulace
 tagGDX2MedalF202=Bysmielin znak bouří
@@ -1178,6 +1211,15 @@ tagGDX2ItemSetD218Desc=Umrlec se vyžíval ve vraždění lidí i zvířat a př
 
 tagGDX2ItemSetD219Name=Zbroj nekonečné noci
 tagGDX2ItemSetD219Desc="Tak dlouho Morgoneth zíral do temnoty, dokud temnota nezačala zírat na něj."
+
+tagGDX2ItemSetD220Name=Zavinovač
+tagGDX2ItemSetD220Desc="Tyto cennosti byly nošeny odhodlanými Strážci Ralyothu, kteří (už je to ale celá věčnost) strážili zapomenutého boha."
+
+tagGDX2ItemSetD221Name=Chlemtač krve
+tagGDX2ItemSetD221Desc="Tyto cennosti byly nošeny odhodlanými Strážci Ralyothu, kteří (už je to ale celá věčnost) strážili zapomenutého boha."
+
+tagGDX2ItemSetD222Name=Pyromaniak
+tagGDX2ItemSetD222Desc="Tyto cennosti byly nošeny odhodlanými Strážci Ralyothu, kteří (už je to ale celá věčnost) strážili zapomenutého boha."
 
 
 

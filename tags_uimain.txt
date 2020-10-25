@@ -115,13 +115,14 @@ tagGameStateConnecting=Připojování k serveru...
 tagGameStateData=Čekání na server...
 
 tagGogMustBeSignedIn=Musíš být přihlášen do sítě GOG Galaxy, abys mohl hrát Grim Dawn s více hráči. Přihlaš se prosím do sítě GOG Galaxy a spusť Grim Dawn pomocí GOG spouštěče!
+tagEosMustBeSignedIn=Musíš být přihlášen do sítě Epic Games, abzs mohl hrát Grim Dawn s více hráči. Spusť prosím Grim Dawn přes Epic Games Launcher!
 tagSteamCloudLimit=Bylo dosaženo limitu prostoru ve službě Steam Cloud Storage pro hru Grim Dawn. Před vytvořením nové postavy smaž prosím některou starší.
 
 #
 # Options
 #
 
-tagGameplayTitle=Herní nastavení
+tagGameplayTitle=Hra
 tagGameplayOption01=
 tagGameplayOption02=Rychlý prodej (pravým tlačítkem)
 tagGameplayOption03=Automatické popisky předmětů
@@ -181,7 +182,7 @@ tagGameplayDesc25=Povolí otřesy kamery při kritickém zásahu a jiných efekt
 tagGameplayDesc26=Nakonfiguruje připojený Steam ovladač.{^n}Vyžaduje režim Big picture.
 tagGameplayDesc27=Pokud je povolena dovednost "Přesun k", může být využita k rozbití interaktivních objektů.
 tagGameplayDesc28=Přizpůsobí druh kořisti, která se bude automaticky zobrazovat.
-tagGameplayDesc29=Touto volbou vrátíš systém kouzel a kouzlení tak, jako bylo v původním Grim Dawn, který nezaměří nepřátele, jež odejdou z dosahu kouzla.{^n}Nový systém kouzel (pokud nezaškrtneš toto pole) odpovídá reálnějšímu chování kouzel.{^n}(Tato možnost je dostupná pouze pokud používáš klávesnici a myš)
+tagGameplayDesc29=Touto volbou vrátíš systém kouzel a kouzlení tak, jako bylo v původním Grim Dawn, který nezaměří nepřátele, jež odejdou z dosahu kouzla.{^n}Nový systém kouzel (pokud nezaškrtneš toto pole) odpovídá reálnějšímu chování kouzel.{^n}(Tato možnost je dostupná pouze pokud používáš klávesnici a myš.)
 tagGameplayDesc30=Povolí chybové textové zprávičky, např. když dovednost ještě nelze použít kvůli prodlevě.
 tagGameplayDesc31=Pokud používáš herní ovladač, zaškrtnutím se tvá pohybová dovednost (např. Virova moc v povolání Přísežník) zaměří na vybraný cíl.{^n}Odškrtnutím se při pohybu nebudeš zaměřovat na vybraný cíl, naopak se od něj co nejvíce vzdálíš.
 tagGameplayDesc32=Touto volbou povolíš automatické sbírání komponentů, spotřebních a výrobních materiálů, jakmile jsou poblíž.
@@ -207,14 +208,14 @@ tagLanguage04=Francouzština
 tagLanguage05=Němčina
 tagLanguage06=Italština
 tagHUDTitle=Rozhraní
-tagHUDOption01=Zobrazit lišty života skupiny
+tagHUDOption01=Zobrazit lištu života skupiny
 tagHUDOption02=Zobrazit stav života hráče/nohsleda
 tagHUDOption03=Zobrazit lištu života nepřítele
 tagHUDOption04=Zobrazit stav života nepřítele
 tagHUDOption05=Zobrazit ikony nepřátel
 tagHUDOption06=Zobrazit lištu života hráče
-tagHUDOption07=Zobrazit lišty života nohsledů
-tagHUDOption08=Vždy zobrazovat lišty života nepřátel
+tagHUDOption07=Zobrazit lištu života nohsledů
+tagHUDOption08=Vždy zobrazovat lištu života nepřátel
 tagHUDOption09=Zakázat potvrzování automatického řazení
 tagHUDDesc01=Zaškrtnutím zobrazíš lištu života ostatních hráčů (pouze při hře více hráčů).
 tagHUDDesc02=Zaškrtnutím zobrazíš stav života ostatních hráčů (a jejich nohsledů, pokud máš povoleno).
@@ -505,6 +506,7 @@ tagMenuError41=Vlož prosím originální disk Grim Dawn.
 tagMenuError42=Ověření hráče pomocí Steamu se nezdařilo.
 tagMenuError43=Souboj v aréně je v plném proudu a nelze jej přerušit. Přidat se můžeš, jakmile boje skončí.
 tagMenuError44=Postava z rozšíření s tímto jménem už existuje.
+tagMenuError45=Postava nemá požadovanou úroveň pro tento herní server.
 tagConnectAborted=Spojení přerušeno.
 tagMenuWarning01=Varování: Tato činnost vytvoří kopii tvé postavy {%s}. Kopírovaná postava může být použita pouze ve vlastní hře.
 tagMenuWarning02=Přeješ si přejmenovat tuto postavu? Provede se pouze pro vlastní hru.

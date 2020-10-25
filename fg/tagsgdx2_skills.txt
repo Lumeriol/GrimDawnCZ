@@ -98,12 +98,24 @@ tagGDX2Class09SkillDescription14A=Pro Přísežníka je víra absolutní obranou
 
 #ItemSkills
 tagGDX2ItemSkillB201Name=Rázová vlna
-tagGDX2ItemSkillB201Desc=Spolu s tvým útokem se uvolňuje vlna ohně.
+tagGDX2ItemSkillB201Desc=Spolu s tvým útokem se uvolňuje ohnivá vlna.
 
-tagGDX2ItemSkillC201Name=Nova z jedovatých trnů
-tagGDX2ItemSkillC201Desc=Jedové trny vyrážejí ze země kolem tebe a nabodávají nepřátele v blízkosti.
+tagGDX2ItemSkillB202Name=Solární kruh
+tagGDX2ItemSkillB202Desc=Uvolní do všech směrů výbuch žhavých plamenů a spálí blízké nepřátele.
 
-tagGDX2ItemSkillC202Name=Stormserpent Orb
+tagGDX2ItemSkillB203Name=Zmrzlé kosti
+tagGDX2ItemSkillB203Desc=Vyvolá ze země před tebou mrazivé kostnaté trny.
+
+tagGDX2ItemSkillB204Name=Výtržníkovo vyčerpání
+tagGDX2ItemSkillB204Desc=Tvé neúnavné výpady vyčerpají tvé nepřátele a oslabí jejich výdrž.
+
+tagGDX2ItemSkillB205Name=Šíření Aetheru
+tagGDX2ItemSkillB205Desc=Bezohledně rozprášíš po okolí munici prodchnutou Aetherem. ^oTato dovednost funguje na dálku a aktivuje se s výchozím útokem zbraně. Také umoňuje nosi dvě střelné zbraně najednou.
+
+tagGDX2ItemSkillC201Name=Kruh jedovatých trnů
+tagGDX2ItemSkillC201Desc=Jedové trny vyrážejí ze země kolem tebe a nabodávají blízké nepřátele.
+
+tagGDX2ItemSkillC202Name=Koule bouřného hada
 tagGDX2ItemSkillC202Desc=Zelektrizovaná ledová koule projde skrze tvé nepřátele a zpomalí jejich pohyb.
 
 tagGDX2ItemSkillC203Name=Daegova přísaha
@@ -309,6 +321,9 @@ tagGDX2ItemSkillD261Desc=Prorazíš své nepřátele silou Hyriana, která nabil
 tagGDX2ItemSkillD262Name=Brána světa
 tagGDX2ItemSkillD262Desc=Vyvolá bránu v realitě, která roztrhá nepřátele stojící v jejím nitru. ^oBrána světa sílí společně s bonusy spojenců.
 tagGDX2ItemSkillD262PetSkill_Name=Rozpad
+
+tagGDX2ItemSkillD263Name=Strážce závoje
+tagGDX2ItemSkillD263Desc=Máš v sobě odhodlanost poháněnou nestabilními energiemi rozvráceného světa.
 
 
 #Component Skills
@@ -706,3 +721,16 @@ tagGDX2EnemySkillD18_Desc=Temný čaroděj podryl tvou podstatu, vysál ti živo
 
 tagGDX2EnemySkillD19=Roztroušená mysl
 tagGDX2EnemySkillD19_Desc=Tvá mysl nedokáže zpracovat hrůzy, které zažila, a ochromuje tvou schopnost míření a sesílání kouzel.
+
+tagGDX2EnemySkillD20=Nekonečný mor
+tagGDX2EnemySkillD20_Desc=Tvé tělo je nakaženo neúprosnou nemocí, která zpomaluje tvé reflexy.
+
+tagGDX2EnemySkillD21=Hemoragická horečka
+tagGDX2EnemySkillD21_Desc=Nedávná nemoc způsobila hemoragickou horečku, která ochromila tvou obranu.
+
+tagGDX2EnemySkillD22=Aura smrti
+tagGDX2EnemySkillD22_Desc=Naren Kurova přítomnost vysává tvou vůli žít a snižuje ti obranou schopnost a rychlost.
+
+tagGDX2EnemySkillD23=Utrápená přítomnost
+tagGDX2EnemySkillD23_Desc=Přítomnost blízkého netvora naplňuje vzduch škodlivými výpary.
+
