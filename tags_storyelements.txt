@@ -574,7 +574,7 @@ tagNPC_AreaC_25=
 tagNPC_AldritchCaptive_01=Katrine
 tagNPC_AreaD_01=Lamačka kouzel Moira
 tagNPC_AreaD_02=Kapitán Reave
-tagNPC_AreaD_03=Edric ~ mistr zbraní
+tagNPC_AreaD_03=Zbrojmistr Edric
 tagNPC_AreaD_04=Anasteria
 tagNPC_AreaD_04B=Anasteria, posel ze Severu
 tagNPC_AreaD_04C=Anasteria, Aetherický duch
@@ -1411,9 +1411,9 @@ tagNPC_FactionQuartermaster_03=Whitfield
 tagStoreTitle_FactionQuartermaster_03=Forman
 
 tagNPC_FactionQuartermaster_04=Bratr Mulven
-tagStoreTitle_FactionQuartermaster_04=Mistr zbraní
+tagStoreTitle_FactionQuartermaster_04=Zbrojmistr
 tagNPC_FactionQuartermaster_05=Bratr Adrius
-tagStoreTitle_FactionQuartermaster_05=Mistr zbraní
+tagStoreTitle_FactionQuartermaster_05=Zbrojmistr
 
 tagNPC_FactionQuartermaster_06=Kustod Malvor
 tagStoreTitle_FactionQuartermaster_06=Kustod s artefakty

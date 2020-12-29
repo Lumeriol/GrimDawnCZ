@@ -702,7 +702,7 @@ tagGDX2NPC_InventorA01=Kargon
 tagGDX2StoreTitle_InventorA01=Vynálezce
 
 tagGDX2NPC_SmugglerA01=Sangral
-tagGDX2StoreTitle_SmugglerA01=Pašerák tajemství
+tagGDX2StoreTitle_SmugglerA01=Pašerák
 
 tagGDX2NPC_IllusionistA01=Julliana
 tagGDX2StoreTitle_IllusionistA01=Iluzionistka

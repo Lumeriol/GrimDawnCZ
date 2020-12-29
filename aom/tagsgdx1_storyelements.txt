@@ -206,7 +206,7 @@ tagNotification_WarningAreaFSecret01=Malá vzpomínka na Sahdinu, která zůstal
 
 tagGDX1NPC_AreaE_01=Garradia
 tagGDX1NPC_AreaE_02=Matróna Malostria
-tagGDX1NPC_AreaE_03=Věštkyně Rugia
+tagGDX1NPC_AreaE_03=Jasnovidka Rugia
 tagGDX1NPC_AreaE_04=Scorv Egdenor
 tagGDX1NPC_AreaE_05=Tyvald Hallows
 tagGDX1NPC_AreaE_06=Pustošitel
