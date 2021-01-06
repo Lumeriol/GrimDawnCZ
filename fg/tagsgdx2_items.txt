@@ -1,7 +1,7 @@
 
 #Weapons
 tagGDX2WeaponSwordB201=[fs]Korvaakova spalující čepel
-tagGDX2WeaponSwordB201_Desc="Propůjčována Korvaakem za věrnost, aby sloužila k vedení nižších podžízených."
+tagGDX2WeaponSwordB201_Desc="Propůjčována Korvaakem za věrnost, aby sloužila k vedení nižších podřízených."
 tagGDX2WeaponSwordB202=[fs]Korvaakova bouřná čepel
 tagGDX2WeaponSwordB202_Desc="Propůjčována Korvaakem jeho věrným druhům, aby se snáze probojovali skrze nepřátelské linie."
 tagGDX2WeaponSwordB203=[ms]Kymonův obětní nůž

@@ -27,9 +27,9 @@ Jak si přeješ (zaútoč)
 Ne, o tom to není.
 Je ještě něco co pořebueješ?
 Jde o Ricarda.
-Podívej, ty řekneš tomu ušmudlanýmu patolízalovi, ať se stará o svý.{^n}{^n}Už sem mu to předtim řekla, nechci s nim mít nic společnýho.{^n}{^n}On mě ale pořád sleduje, nechává mi lístečky ve stanu, u vybavení, v oblečení.{^n}{^n}V mym oblečení! Ten umaštěnej patolízal šahal na mý hadry!
+Podívej, ty řekneš tomu ušmudlanýmu patolízalovi, ať se stará o svý.{^n}{^n}Už jsem mu to předtim řekla, nechci s ním mít nic společnýho.{^n}{^n}On mě ale pořád sleduje, nechává mi lístečky ve stanu, u vybavení, v oblečení.{^n}{^n}V mém oblečení! Ten umaštěnej patolízal šahal na mý hadry!
 To zní strašidelně.
-To mi povídej.{^n}{^n}Mam skutečně důležitý věci na práci, nemůžu je ale dokončit, protože se musim neustále potýkat s tím, že mě neustále sleduje.{^n}{^n}A teď už se ptá i cizích lidí, aby mě taky sledovali.{^n}{^n}Podívej, mrzí mě, že jsem tě do toho zatáhla, ale musíš mu říct, ať se ode mě drží dál.{^n}{^n}Už to dál nesnesu.{^n}{^n}[[ms]Udělal[fs]Udělala] bys to pro mě?
+To mi povídej.{^n}{^n}Mám skutečně důležitý věci na práci, nemůžu je ale dokončit, protože se musim neustále potýkat s tím, že mě neustále sleduje.{^n}{^n}A teď už se ptá i cizích lidí, aby mě taky sledovali.{^n}{^n}Podívej, mrzí mě, že jsem tě do toho zatáhla, ale musíš mu říct, ať se ode mě drží dál.{^n}{^n}Už to dál nesnesu.{^n}{^n}[[ms]Udělal[fs]Udělala] bys to pro mě?
 Možná bys mu měla dát šanci.
 Šanci v čem?{^n}{^n}Už jsem se s nim snažila mluvit, jenže on zčervenal a jako díte utek a ještě se chichotal.{^n}{^n}Ne, myslim že šanci už jsem mu dala.{^n}{^n}Je na čase, aby mě ten malej podrazák nechal napokoji.{^n}{^n}Jdi a řekni mu, že pokud se ode mě nebude držet dál, pošlu na něj strážný.{^n}{^n}Jsem si jistá, že vymyslí nějakej kreativní způsob jak vyřešit pořešit někoho, kdo narušuje práci pro Solaela.
 Promluvím s ním.
@@ -39,13 +39,13 @@ Ne, hodně štěstí.
 Promiň, už musim jít.
 Dobře, na tohle nemam čas.
 Co tady vlastně děláš?
-Mojí prací je shromažďovat zásoby pro různá kouzla, rituály a zaříkávadla, které provádíme zde v Solaelově kempu.{^n}{^n}Jak si asi dovedeš představit, je to nikdy nekončící práce; hlavně teď s tim všim, co se tady kolem děje.{^n}{^n}Poslední dobou je to ještě těžší, a to kvůli tomu hlučnýmu volovi, Ricardovi.{^n}{^n}Sleduje mě všude, je to k zbláznění.{^n}{^n}Už jsem se s nim snažila mluvit, jenže on zčervenal a jako díte utek a ještě se chichotal.{^n}{^n}Jak se může dospělej chlap chovat jako hlupák? Vlastně, [[ms]mohl[fs]mohla] bys mi prokázat laskavost?
+Mojí prací je shromažďovat zásoby pro různá kouzla, rituály a zaříkávadla, které provádíme zde v Solaelově kempu.{^n}{^n}Jak si asi dovedeš představit, je to nikdy nekončící práce; hlavně teď s tim všim, co se tady kolem děje.{^n}{^n}Poslední dobou je to ještě těžší, a to kvůli tomu hlučnýmu volovi, Ricardovi.{^n}{^n}Sleduje mě všude, je to k zbláznění.{^n}{^n}Už jsem se s nim snažila mluvit, jenže on zčervenal a jako díte utek a ještě se chichotal. Jak se může dospělej chlap chovat jako hlupák? Vlastně, [[ms]mohl[fs]mohla] bys mi prokázat laskavost?
 Jasně.
-Jdi támhle a řekni Ricardovi ať mě nechá napokoji nebo řeknu strážcům že narušuje vitální rituální práce pro Solaela.{^n}{^n}To by mělo zastavit to jeho bláznovství, alespoň na chvilku.{^n}{^n}Pak se možná budu moct vrátít ke svý práci.
+Zajdi za Ricardem a řekni mu, ať mě nechá napokoji, nebo řeknu strážcům, že narušuje vitální rituální práce pro Solaela.{^n}{^n}To by mělo zastavit to jeho bláznovství, alespoň na chvilku.{^n}{^n}Pak se možná budu moct vrátít ke svý práci.
 Promluvím s ním.
 To si nemyslím.
 Promiň, nemám čas.
-Ne, nemám zájem se podílet ve tvejch aférkách.
+Ne, nemám zájem se podílet na tvých aférkách.
 Ale nic, promiň, že jsem [[ms]obtěžoval[fs]obtěžovala].
 Teď jsem trochu zaneprázdněná, ale přijď za mnou později, až skončíš u Vyslance.
 Dobrá, to udělám.
