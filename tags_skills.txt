@@ -1063,7 +1063,7 @@ tagItemSkillC041Name=Spektrální vlna
 tagItemSkillC041Desc=Uvolní vlnu zlostných duchů, kteří vysají životní energii z tvých nepřátel.
 
 tagItemSkillC042Name=Další zářez
-tagItemSkillC042Desc=Přidá další zářez k již existujícím tisícům, ale kdo to vlastně počítá? ^oTato technika je aktivována výchozím útokem zbraně.
+tagItemSkillC042Desc=Přidá další zářez k již existujícím tisícům, ale kdo to vlastně počítá? ^oToto je technika chladné zbraně a je aktivována výchozím útokem této zbraně.
 
 tagItemSkillC043Name=Kruh nekonečného ohně
 tagItemSkillC043Desc=Vykoupeš se ve spalujících plamenech, které vše kolem tebe spálí na škvarek, ale tebe zanechají bez poskvrny. ^oAby tato schopnost účinkovala, musí být aktivní.
@@ -1077,7 +1077,7 @@ tagItemSkillC045Name=Aetherická ochrana
 tagItemSkillC045Desc=Přijmeš síly mocného Aetheru a získáš tak odolnost vůči tajemnosti, včetně posílené odhodlanosti.
 
 tagItemSkillC046Name=Krádež duše
-tagItemSkillC046Desc=Pozřeš podstatu svého cíle pro obnovu té své. ^oTato technika je aktivována výchozím útokem zbraně.
+tagItemSkillC046Desc=Pozřeš podstatu svého cíle pro obnovu té své. ^oToto je technika chladné zbraně a je aktivována výchozím útokem této zbraně.
 
 tagItemSkillC047Name=Jed kamenného srdce
 tagItemSkillC047Desc=Vypustíš jed obsažený v tomto meči a proměníš maso svých nepřátel v kámen.
@@ -1127,7 +1127,7 @@ tagItemSkillC061Name=Výpad hada
 tagItemSkillC061Desc=Vrhneš se na svého nepřítele jako odporný had a vstříkneš mu do krve smrtící jed. ^oVyžaduje chladnou zbraň.
 
 tagItemSkillC062Name=Sražení
-tagItemSkillC062Desc=Vyřadí protivníka z boje rychlým a přesným úderem. ^oTato technika je aktivována výchozím útokem zbraně.
+tagItemSkillC062Desc=Vyřadí protivníka z boje rychlým a přesným úderem. ^oTato technika je aktivována výchozím útokem chladné zbraně.
 
 tagItemSkillC063Name=Prismatický štít
 tagItemSkillC063Desc=Aktivuje runy vryté do této zbroje, čímž kolem tebe vytvoří ochranný štít.
@@ -1166,13 +1166,13 @@ tagItemSkillC074Name=Strážcova vůle
 tagItemSkillC074Desc=Tvá odhodlanost žít tě dokáže zachránit dokonce i ze spárů samotné smrti. ^oVyžaduje štít.
 
 tagItemSkillC075Name=Lupičova zuřivost
-tagItemSkillC075Desc=Vypálí salvu střel naplněných ohněm. ^oAplikuje schopnost ovládat dvě střelné zbraně.
+tagItemSkillC075Desc=Vypálí salvu střel naplněných ohněm. ^oTato střelecká technika se aktivuje výchozím útokem zbraně. Také aplikuje schopnost ovládat dvě střelné zbraně.
 
 tagItemSkillC076Name=Lupičova spravedlnost
-tagItemSkillC076Desc=Vypálí salvu střel naplněných ledem. ^oAplikuje schopnost ovládat dvě střelné zbraně.
+tagItemSkillC076Desc=Vypálí salvu střel naplněných ledem. ^oTato střelecká technika se aktivuje výchozím útokem zbraně. Také aplikuje schopnost ovládat dvě střelné zbraně.
 
 tagItemSkillC077Name=Zděšení
-tagItemSkillC077Desc=Necháš zaplavit mysl svého nepřítele čistou hrůzou.
+tagItemSkillC077Desc=Necháš zaplavit mysl svého nepřítele čirou hrůzou.
 
 tagItemSkillC078Name=Kvílející vítr
 tagItemSkillC078Desc=Obklopí tě vražedným větrem, jež na kost zmrazí tvé nepřátele.
@@ -1190,7 +1190,7 @@ tagItemSkillC082Name=Exploze ohnivé Prázdnoty
 tagItemSkillC082Desc=Uvolní se z tebe dávka koncentrované negativní energie.
 
 tagItemSkillC083Name=Lupičova salva
-tagItemSkillC083Desc=Když se oháníš dvěma zbraněmi, čas od času vystřelíš salvu munice naplněnou tajemnem. ^oAplikuje schopnost ovládat dvě střelné zbraně. Tato technika je aktivována výchozím útokem zbraně.
+tagItemSkillC083Desc=Když se oháníš dvěma zbraněmi, čas od času vystřelíš salvu munice naplněnou tajemnem. ^oTato střelecká technika se aktivuje výchozím útokem zbraně. Také aplikuje schopnost ovládat dvě střelné zbraně.
 
 tagItemSkillC084Name=Tíživá atmosféra
 tagItemSkillC084Desc=Vypustí oblak toxických plynů, který začne dusit tvé nepřátele a zmate je.
@@ -1579,7 +1579,7 @@ tagItemSkillD077Name=Dreegův příkaz
 tagItemSkillD077Desc=Dreegova přítomnost coby velitele tě naplňuje v dobách ohrožení, což ti dovoluje čarovat bez přerušení.
 
 tagItemSkillD078Name=Vyzyvatel
-tagItemSkillD078Desc=Mistrovství boje se dvěma zbraněmi z tebe udělá smrtící zbraň. Nyní můžeš pálit z obou zbraní najednou tak neuvěřitelně snadně, a ještě k tomu se smrtícím účinkem.
+tagItemSkillD078Desc=Mistrovství boje se dvěma zbraněmi z tebe udělá smrtící zbraň. Nyní můžeš pálit z obou zbraní najednou tak neuvěřitelně snadně, a ještě k tomu se smrtícím účinkem. ^oTato technika je aktivována výchozím útokem zbraně.
 
 tagItemSkillD079Name=Výbuch živlů
 tagItemSkillD079Desc=Vytryskne z tebe poryv energií živlů a odstrčí nepřátele ve tvém okolí.
@@ -1597,7 +1597,7 @@ tagItemSkillD083Name=Nekonečné strašení
 tagItemSkillD083Desc=Uvalíš na svého nepřítele mučící strašení, které se bude šířit na další nepřátele.
 
 tagItemSkillD084Name=Vyhlazení
-tagItemSkillD084Desc=Ukončíš život svého nepřítele dobře mířenou střelou.
+tagItemSkillD084Desc=Ukončíš život svého nepřítele dobře mířenou střelou. ^oTato střelecká technika se aktivuje výchozím útokem zbraně.
 
 tagItemSkillD085Name=Zmizení z reality
 tagItemSkillD085Desc=Když hrozí nebezpečí, síla tohoto pláště tě ukryje z fyzického světa a dá ti chvilku na odpočinek.

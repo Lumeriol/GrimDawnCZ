@@ -2354,6 +2354,7 @@ tagMPNameLevel={%t0} ({%d1})
 tagMPClass={%s0}
 tagMPLocation={%s0}
 tagMPLifeMana={^r}{%d0}/{%d1} {^g}{%d2}/{%d3}
+tagMPReport=Nahlásit
 tagTradeError01=Hráč {%t0} momentálně obchoduje s jiným hráčem.
 tagTradeError02=Hráč {%t0} odmítl tvůj požadavek na obchod.
 tagTradeError03=Hráč {%t0} s tebou chce obchodovat.

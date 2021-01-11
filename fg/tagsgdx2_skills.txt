@@ -531,13 +531,13 @@ tagGDX2RuneSkillD207=Dreadnoughtova moc
 tagGDX2RuneSkillD207Desc=Vyskoč do vzduchu směrem k tebou určenému cíli za pomoci devastující síly a rozdrť nepřátele, jež mají tu smůlu, že stojí v místě tvého dopadu.
 
 tagGDX2RuneSkillD208=Dreegova znamení
-tagGDX2RuneSkillD208Desc=Vyskoč do vzduchu směrem k tebou určenému cíli a s sebou přines těžká zranění v podobě připomenutí Velkého strážce, jež se vznáší nad tvými nepřáteli.
+tagGDX2RuneSkillD208Desc=Vyskočíš do vzduchu směrem k tebou určenému cíli a s sebou přineseš těžká zranění v podobě připomenutí Velkého strážce, jež se vznáší nad tvými nepřáteli.
 
 tagGDX2RuneSkillD209=Nadaanův útok
-tagGDX2RuneSkillD209Desc=Využij stíny, ihned se přenes směrem k tebou určenému cíli a zasáhni kruhem z mečů nepřátele v blízkosti.
+tagGDX2RuneSkillD209Desc=Využiješ stíny a ihned se přeneseš směrem k tebou určenému cíli, kde zasáhneš kruhem z mečů blízké nepřátele.
 
 tagGDX2RuneSkillD210=Ultosův příchod
-tagGDX2RuneSkillD210Desc=V mžiku se přenes skrze realitu směrem k tebou určenému cíli a objev se za doprovodu ohnivého záblesku.
+tagGDX2RuneSkillD210Desc=V mžiku se přeneseš skrze realitu směrem k tebou určenému cíli a objevíš se za doprovodu bouřlivého výbuchu.
 
 tagGDX2RuneSkillD211=Astrální trhlina
 tagGDX2RuneSkillD211Desc=Překroč roušku reality a přenes se tak směrem k tebou určenému cíli za uvolnění dávky arkanických energií.
@@ -575,29 +575,29 @@ tagGDX2RuneSkillD221Desc=Vběhni do bojů a zapal své nepřátele plameny umír
 
 #FactionSkills
 tagGDX2FactionSkillA01=Bysmielina přítomnost
-tagGDX2FactionSkillA01_Desc=Přítomnost Bysmielina kněze obrní tvou tkáň proti fyzickým útokům a také ti dává zvýšenou možnost kritického útoku vůči nepřátelům Čarodějných bohů.
+tagGDX2FactionSkillA01_Desc=Přítomnost Bysmielina kněze obrní tvou tkáň proti fyzickým útokům a také ti zvýší šanci kritického útoku vůči nepřátelům Čarodějných bohů.
 
 tagGDX2FactionSkillA02=Dreegova přítomnost
-tagGDX2FactionSkillA02_Desc=Přítomnost Dreegova kněze ti umožní lépe předvídat nadcházející nepřátelské útoky a také ti dává zvýšenou možnost kritického útoku vůči nepřátelům Čarodějných bohů.
+tagGDX2FactionSkillA02_Desc=Přítomnost Dreegova kněze ti umožní lépe předvídat nadcházející nepřátelské útoky a také ti zvýší šanci kritického útoku vůči nepřátelům Čarodějných bohů.
 
 tagGDX2FactionSkillA03=Solaelova přítomnost
-tagGDX2FactionSkillA03_Desc=Přítomnost Dreegova kněze ti garantuje zvýšenou vitalitu a také ti dává zvýšenou možnost kritického útoku vůči nepřátelům Čarodějných bohů.
+tagGDX2FactionSkillA03_Desc=Přítomnost Dreegova kněze ti garantuje zvýšenou vitalitu a také ti zvýší šanci kritického útoku vůči nepřátelům Čarodějných bohů.
 
 tagGDX2FactionSkillA04=Dreegova krev
-tagGDX2FactionSkillA04_Desc=Okultista Dreegova kultu ti dal požehnání od šíleného Čarodějného boha.
+tagGDX2FactionSkillA04_Desc=Okultista Dreegova kultu ti dal požehnání šíleného Čarodějného boha.
 
 
 
 #EnemySkills
 
 tagGDX2EnemySkillA01=Písečná bouře
-tagGDX2EnemySkillA01_Desc=Vyčarované písky zamlžují tvou mysl a opotřebovávají tvé brnění.
+tagGDX2EnemySkillA01_Desc=Vyčarované písky zamlžují tvou mysl a opotřebovávají tvou zbroj.
 
 tagGDX2EnemySkillA02=Síť z blesků
 tagGDX2EnemySkillA02_Desc=Síť z blesků tě váže k cíli, což snižuje tvou obranyschopnost.
 
 tagGDX2EnemySkillA03=Ohnivá síť
-tagGDX2EnemySkillA03_Desc=Síť z plamenů tě váže k cíli, což snižuje účinnost tvého brnění.
+tagGDX2EnemySkillA03_Desc=Síť z plamenů tě váže k cíli, což snižuje účinnost tvé zbroje.
 
 tagGDX2EnemySkillA04=Tajemná zem
 tagGDX2EnemySkillA04_Desc=Země, kde stojíš, je protkaná Tajemnou energií a posiluje tak Tajemné příšery, zatímco tě zraňuje a snižuje hodnotu tvého zdraví.
@@ -642,7 +642,7 @@ tagGDX2EnemySkillA17=Život vysávající nova
 tagGDX2EnemySkillA17_Desc=Korvaakův služebník vysává tvou životadárnou esenci.
 
 tagGDX2EnemySkillA18=Tavení
-tagGDX2EnemySkillA18_Desc=Přízračný oheň taví tvé brnění.
+tagGDX2EnemySkillA18_Desc=Přízračný oheň taví tvou zbroj.
 
 tagGDX2EnemySkillA19=Bysmielina aura
 tagGDX2EnemySkillA19_Desc=Přítomnost nedalekého Bysmielina kněze tě posiluje, dodává ti obranyschopnost a schopnost útočit.
@@ -660,13 +660,13 @@ tagGDX2EnemySkillA23=Napichující ostny
 tagGDX2EnemySkillA23_Desc=Inarah tě uvěznila v kleci z jedovatých ostnů.
 
 tagGDX2EnemySkillA24=Písečné tornádo
-tagGDX2EnemySkillA24_Desc=Masivní vzdušný vír s pískem zamlží tvé vidění a zasahuje tvé brnění.
+tagGDX2EnemySkillA24_Desc=Masivní vzdušný vír s pískem zamlží tvé vidění a zasahuje tvou zbroj.
 
 
 tagGDX2EnemySkillD01=Rahnovo prokletí
 tagGDX2EnemySkillD01A_Desc=Rahnovi Strážci jsou uraženi a tak na tebe seslali kletbu v podobě snížení tvé schopnosti útočit.
 tagGDX2EnemySkillD01B_Desc=Rahnovi Strážci jsou uraženi a tak na tebe seslali kletbu v podobě snížení tvé schopnosti se bránit.
-tagGDX2EnemySkillD01C_Desc=Rahnovi Strážci jsou uraženi a tak na tebe seslali kletbu v podobě snížení účinnosti tvého brnění.
+tagGDX2EnemySkillD01C_Desc=Rahnovi Strážci jsou uraženi a tak na tebe seslali kletbu v podobě snížení účinnosti tvé zbroje.
 
 tagGDX2EnemySkillD02=Tajemná destabilizace
 tagGDX2EnemySkillD02_Desc=Tajemné energie z nedalekého Tajemného úlomku proudí skrze tebe. Dokud je navázané spojení mezi tebou a úlomkem, budeš trpět těžkými zraněními.
@@ -675,7 +675,7 @@ tagGDX2EnemySkillD03=Hořící znamení
 tagGDX2EnemySkillD03_Desc=Zloba hořícího ducha se nad tebou vznáší a vystavuje tě tak Dravisovým útokům.
 
 tagGDX2EnemySkillD04=Korvaakův pohled
-tagGDX2EnemySkillD04_Desc=The gaze of Kymon's patron deity is upon you. You feel a great sense of dread and visions of your own demise cloud your judgment, reducing Offensive and Defensive Ability and exposing you to Eldritch magic as Korvaak's wrath periodically rains down from the heavens.
+tagGDX2EnemySkillD04_Desc=Pohled Kymonova ochranného božstva je upřený na tebe. Máš velký pocit strachu a vize tvého vlastního zániku zahaluje tvůj úsudek, snižuje útočnou a obrannou schopnost a vystavuje tě podivné magii tak, jak Korvaakův hněv dští z nebes.
 
 tagGDX2EnemySkillD05=Rahnův hněv
 tagGDX2EnemySkillD05_Desc=Upřený pohled zapomenutého boha se zaměřil na tebe, pálí tvou tkáň a vystavuje tě fyzickým útokům.
