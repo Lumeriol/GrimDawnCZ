@@ -1812,7 +1812,7 @@ tagGDX1BreakableA02=Skrýš Lóže čarodějek
 tagGDX1Breakable_UgdenbogA01=Ugdenská houba
 tagGDX1Breakable_WendigoDoor=Wendigova klec
 
-tagGDX1ChestBoss_Kraken=Truhlice z vydlabaného kmenu
+tagGDX1ChestBoss_Kraken=Podmáčená truhlice
 tagGDX1Chest_Barrowholm=Scorvovy osobní věci
 tagGDX1Chest_DravisClue=Starý řečnický pult
 

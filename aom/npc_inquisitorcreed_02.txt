@@ -138,9 +138,9 @@ A co Ulgrim?
 Mám další otázku.
 To dává smysl.
 Neřeš to.
-Já...potřebuji nějaký čas.
+Já... potřebuji nějaký čas.
 Akorát se tak necháš zabít.
-Dozvěděl jsem se, co si [[ms]provedl[fs]provedla] Anasterii.{^n}{^n}Tvé neomalené činy nás stály cenné zdroje.
+Dozvěděl jsem se, cos [[ms]provedl[fs]provedla] Anasterii.{^n}{^n}Tvé neomalené činy nás stály cenné zdroje.
 Byla to aetherianská čarodějka!
 Ale i když byla, pomáhala nám.{^n}{^n}Její informace nám pomáhaly vyvarovat se smrtícím útokům od Aetherianů. Nepříteli zabralo měsíce, než zjistil, že mu unikají informace.{^n}{^n}Anasteria zachránila nespočet životů, možná i celý samotný odpor. A my se ji odvděčili vraždou.
 O tom jsem [[ms]neměl[fs]neměla] tušení.
@@ -177,7 +177,7 @@ Chápu.
 Mám další otázku.
 Zapomeň na to.
 Co víme o Loghorreanovi?
-Naneštěstí ne moc. Víme, že Loghorrean už byl jednou v Cairnu vyčarován, pravděpodobně během jatek, které vedly k výstavbě Pohřebiště. {^n}{^n}Kdybych měl přístup k inkvizitorským archivům v Erulanu, možná bychom se mohli dozvědět víc.
+Naneštěstí ne moc. Víme, že Loghorrean už byl jednou v Cairnu vyčarován, pravděpodobně během jatek, které vedly k výstavbě Pohřebiště. {^n}{^n}Kdybych měl přístup k archivům Erulanské inkvizice, možná bychom se mohli dozvědět víc.
 Mám další otázku.
 Potřebuji se tam vydat znovu.
 Co mi můžeš povědět o Pohřebišti?
@@ -218,7 +218,7 @@ Zapomeň na to. Co že si chtěl, abych [[ms]udělal[fs]udělala]?
 Mám další otázku.
 Chápu.
 Co víme o Loghorreanovi?
-Naneštěstí ne moc. Víme, že Loghorrean už byl jednou v Cairnu vyčarován, pravděpodobně během jatek, které vedli k výstavbě Pohřebiště.{^n}{^n}Kdybych měl přístup k inkvizitorským archivům v Erulanu, možná bychom se mohli dozvědět víc.
+Naneštěstí ne moc. Víme, že Loghorrean už byl jednou v Cairnu vyčarován, pravděpodobně během jatek, které vedli k výstavbě Pohřebiště.{^n}{^n}Kdybych měl přístup k archivům Erulanské inkvizice, možná bychom se mohli dozvědět víc.
 Co si chtěl, abych [[ms]udělal[fs]udělala]?
 
 Mám další otázku.
@@ -245,7 +245,7 @@ Okamžitě se tam vydám.
 Ještě ne.
 Zrada, sabotáž, říkej tomu, jak chceš. Byli jsme napadeni zevnitř.{^n}{^n}Aetheriané si získali kapitána.
 Byl ovládnut?
-Přesně tak. Na základě zpráv velitel Lucius posílal naše muže na zbytečné mise, aby tak oslabil naši obranu. Potom, když byla obrana dostatečně slabá, otevřel brány a nechal Aetheriany valit se dovnitř.{^n}{^n}Ale nepočítal s lidskou vynalézavostí. Zbrojmistr Edric zavalil přední brány pomocí výbušnin a tak odřízl nepřátelské posily. Když jsme dorazili z jihu s posilami, ten zbabělec Lucius utekl do zbrojnice. Dokud nebudou ty brány zase průchozí, zůstaneme tu trčet. Potřebuji, abys [[ms]vstoupil[fs]vstoupila] do zbrojnice a získala zpět to, co zbylo z Legionářských trhavin; použij je k odstranění trosek. Dávej si pozor na Lucia. Zbavil se lidského převleku, aby z něj vznikla monstrózní bytost, kterou ani nevím jak bych začal popisovat. Pravděpodobně se s ním budeš muset vypořádat, pokud chceš tu trhavinu získat.
+Přesně tak. Na základě zpráv velitel Lucius posílal naše muže na zbytečné mise, aby tak oslabil naši obranu. Potom, když byla obrana dostatečně slabá, otevřel brány a nechal Aetheriany valit se dovnitř.{^n}{^n}Ale nepočítal s lidskou vynalézavostí. Zbrojmistr Edric zavalil přední brány pomocí výbušnin a tak odřízl nepřátelské posily. Když jsme dorazili z jihu s posilami, ten zbabělec Lucius utekl do zbrojnice. Dokud nebudou ty brány zase průchozí, zůstaneme tu trčet. Potřebuji, abys [[ms]vstoupil[fs]vstoupila] do zbrojnice a [[ms]získal[fs]získala] zpět to, co zbylo z Legionářských trhavin; použij je k odstranění trosek. Dávej si pozor na Lucia. Zbavil se lidského převleku, aby z něj vznikla monstrózní bytost, kterou ani nevím jak bych začal popisovat. Pravděpodobně se s ním budeš muset vypořádat, pokud chceš tu trhavinu získat.
 Tak bude učiněno.
 Bude to muset počkat.
 S Luciem jsem se [[ms]vypořádal[fs]vypořádala] a [[ms]uvolnil[fs]uvolnila] brány.
