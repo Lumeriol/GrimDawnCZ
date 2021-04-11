@@ -784,7 +784,7 @@ tagThornedHorrorHeroH01=Blázen Terrolean
 tagThornedHorrorHeroH02=Přerostlý Korplax
 tagThornedHorrorHeroH03=Černý osten ~ odrážející
 tagThornedHorrorHeroH04=Tlející osten ~ nemocný
-tagThornedHorrorHeroH05=Štěkaveec ~ oživovač
+tagThornedHorrorHeroH05=Štěkavec ~ oživovač
 tagThornedHorrorHeroH06=Kokrhavec ~ mrazivý
 
 tagThornedHorrorBoss01=Staroch Krvošípek

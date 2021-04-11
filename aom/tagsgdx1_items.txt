@@ -233,7 +233,7 @@ tagGDX1ShieldC102=Legionářovo pokárání
 tagGDX1ShieldC102_Desc="Historie tohoto štítu je takřka stejně dlouhá jako samotná Černá legie."
 tagGDX1ShieldC107=Hradba metající bouře
 
-tagShieldD002B=Poslední hradba
+tagShieldD002B=Poslední možnost
 tagShieldD003B=Nedotknutelnost
 tagGDX1ShieldD101=Chřtán zatracenců
 tagGDX1ShieldD101_Desc="Ten, jež přijme Wendigův dar, zůstane navždy prokletý."

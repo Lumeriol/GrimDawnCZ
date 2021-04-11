@@ -5,7 +5,7 @@ Ano, jistě.{^n}{^n}Jakou poznámku?
 Nedělej si s tím starosti.
 Díky za věci.
 Vzpomínám si, vzpomínám, že bych ti měla poděkovat. {^n}{^n}Díky za to, cos [[ms]udělal[fs]udělala].
-[[ms]Rád[fs]Ráda] jsem vypomohla.
+[[ms]Rád[fs]Ráda] jsem [[ms]vypomohl[fs]vypomohla].
 Nezapomenu, že si mi [[ms]pomohl[fs]pomohla].
 Myslím, že zapomeneš.
 Jdi pryč.{^n}{^n}Nedotýkej se mne, nedotýkej se... drž se dál!
@@ -32,7 +32,7 @@ Co si ztratila?
 To nevím, ale vím, jak to najít.{^n}{^n}Můžu najít, kde to je.{^n}{^n}Ta poznámka mi to řekne.
 Dobrá, hodně štěstí.
 Buď opatrná.
-[[ms]Rád[fs]Ráda] jsem vypomohla.
+[[ms]Rád[fs]Ráda] jsem [[ms]vypomohl[fs]vypomohla].
 Ne, je mi to líto. (nech si Ivondinu poznámku)
 Zase ty{^n}{^n}Vím, že jsem si měla pamatovat, ale co to bylo?{^n}{^n}Pamatuješ si to ty?
 Mám najít tvou poznámku.
@@ -53,7 +53,7 @@ Nemám právě teďka čas.
 Už jsem tu poznámku [[ms]našel[fs]našla].
 Poznámku?{^n}{^n}[[ms]Našel[fs]Našla] si poznámku, abych si pamatovala?{^n}{^n}Co jsem napsala, na co bych si měla vzpomenout?
 Byly to souřadnice nebo tak něco.
-Samozřejmě... teď si vzpomínám, co jsem zapomněla. {^n}{^n}Zapomněla jsem to, že jsem ztratila poznámku. Poznámku, abych si vzpomněla. Poznámku, abych si vzpomněla, kam jsem dala své věci, které byly ztracené.{^n}{^n}Ty... Ty ses tam [[ms]nevydal[fs]nevydala], nebo snad ano? Kde jsou mé věci?{^n}{^n}Byly ztracené?{^n}{^n}Jsou tam?
+Samozřejmě... teď si vzpomínám, na co jsem zapomněla. {^n}{^n}Zapomněla jsem to, že jsem ztratila poznámku. Poznámku, abych si vzpomněla. Poznámku, abych si vzpomněla, kam jsem dala své věci, které byly ztracené.{^n}{^n}Ty... Ty ses tam [[ms]nevydal[fs]nevydala], nebo snad ano? Kde jsou mé věci?{^n}{^n}Byly ztracené?{^n}{^n}Jsou tam?
 
 
 Vypadá to jako nějaký druh hádanky.
