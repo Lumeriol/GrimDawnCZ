@@ -407,8 +407,8 @@ tagGDX1ItemSkillD143Desc=Na tvůj pokyn bude vytvořena oblast elektrických vý
 tagGDX1ItemSkillD144Name=Ochranné runy
 tagGDX1ItemSkillD144Desc=Runy vyryté na tvých chráničích nohou tě ochrání před tajemnými zraněními.
 
-tagGDX1ItemSkillD145Name=Vítr s oharky
-tagGDX1ItemSkillD145Desc=Vyvoláš požár s živoucím ohněm a zapálíš své nepřátele. ^oVítr s oharky roste spolu s bonusy zranění postavy.
+tagGDX1ItemSkillD145Name=Struskový vichr
+tagGDX1ItemSkillD145Desc=Vyvoláš požár s živelnýn ohněm a zapálíš své nepřátele. ^oStruskový vichr sílí spolu s útočnými bonusy postavy.
 
 tagGDX1ItemSkillD146Name=Pustošitelův smrtící pohled
 tagGDX1ItemSkillD146Desc=Pohled Pustošitele dolehne na nepřátele ve tvém okolí a oslabí tak jejich obranyschopnost.
@@ -513,7 +513,7 @@ tagGDX1ItemSkillD179Name=Chlemtač kouzel
 tagGDX1ItemSkillD179Desc=Posílí tvou zbraň, aby rezonovala tajemnými energiemi, absorbovala část nepřátelských kouzel a přesměrovala energii na sesílatele. ^oTato vlastnost musí být aktivní, aby se její účinek fungoval.
 
 tagGDX1ItemSkillD180Name=Volání krvavých lázní
-tagGDX1ItemSkillD180Desc=Vyvoláš Nazaranovy krvavé služebníky, aby vysávali životní energii z tvých protivníků než budou opět zavoláni zpět do svých hrobů. ^oSlužebníci krvavých lázní sílí společně s tvými bonusy ke zranění.
+tagGDX1ItemSkillD180Desc=Vyvoláš Nazaranovy krvavé služebníky, aby vysávali životní energii z tvých protivníků než budou opět zavoláni zpět do svých hrobů. ^oSlužebníci krvavých lázní sílí spolu s útočnými bonusy postavy.
 tagGDX1ItemSkillD180SkillTracker=Současný počet přivolaných služebníků
 
 tagGDX1ItemSkillD181Name=Nazaranova duše
@@ -739,7 +739,7 @@ tagGDX1DevotionEffectC102Desc=Uklidňující poryvy jara tě obklopí ochrannou 
 tagGDX1DevotionEffectC103=Virova pěst
 tagGDX1DevotionEffectC103Desc=Drtící Virova pěst vyvstane ze země, aby si podmanila tvé nepřátele silou samotného Cairnu.
 tagGDX1DevotionEffectC104=Proudy podivna
-tagGDX1DevotionEffectC104Desc=Vyryješ do země podivný symbol, který rychle usměrní toky rituálních energií směrem k okolním nepřátelům. ^oProudy podivna rostou spolu s bonusy hráče.
+tagGDX1DevotionEffectC104Desc=Vyryješ do země podivný symbol, který rychle usměrní toky rituálních energií směrem k okolním nepřátelům. ^oProudy podivna sílí spolu s útočnými bonusy postavy.
 tagGDX1DevotionEffectC104PetSkill=Vlna
 tagGDX1DevotionEffectC105=Rattoshova vůle
 tagGDX1DevotionEffectC105Desc=Označíš duše svých nepřátel Rattoshovým symbolem. Jejich život a osud bude zpečetěn a zůstanou ponecháni napospas Rattoshova sluhy, Typhose.

@@ -218,7 +218,7 @@ tagClass02SkillName05E=Bleskový minomet
 tagClass02SkillDescription05E=Odpálí na nepřátele střelu nabitou elektrickým proudem.
 
 tagClass02SkillName06A=Termitová mina
-tagClass02SkillDescription06A=Spustí trojici malých, ale smrtících, pyrotechnických náloží, které spálí tvé nepřátele intenzivním plamenem. ^oÚčinnost min se zvyšuje s bonusy ke zranění, která uděluješ.
+tagClass02SkillDescription06A=Spustí trojici malých, ale smrtících, pyrotechnických náloží, které spálí tvé nepřátele intenzivním plamenem. ^oÚčinnost min sílí spolu s útočnými bonusy postavy.
 tagClass02SkillName06B=Pekelná mina
 tagClass02SkillDescription06B=Napůl pyrotechnika, napůl chemie - toto smrtící vylepšení Termitové miny má schopnost zasáhnout tvé nepřátele tak intenzivním plamenem, že spálí samotnou podstatu zasažené bytosti.
 tagClass02SkillName06C=Proud plamenů
@@ -426,7 +426,7 @@ tagClass04SkillName07B=Chlad noci
 tagClass04SkillDescription07B=Způsobí, že protivníci zasaženi Závojem stínu pocítí temné mrazení, jak je tma obklopuje, což ovlivní jejich životy a oslabí obranu.
 
 tagClass04SkillName08A=Duch meče
-tagClass04SkillDescription08A=Vyvolá vířící mrak smrtících mečů, který bude brázdit bojiště a krájet tvé nepřátele na kousky pomocí vroubkovaných úlomků. ^oÚčinnost schopnosti Duch meče se zvyšuje s bonusy ke zranění, které uděluješ.
+tagClass04SkillDescription08A=Vyvolá vířící mrak smrtících mečů, který bude brázdit bojiště a krájet tvé nepřátele na kousky pomocí vroubkovaných úlomků. ^oÚčinnost schopnosti Duch meče sílí spolu s útočnými bonusy postavy.
 tagClass04SkillName08PetA=Vířící meče
 tagClass04SkillName08PetB=Erupce mečů
 tagClass04SkillDescription08PetB=Duch meče vystřeluje vrhací meče do všech směrů.
@@ -596,14 +596,14 @@ tagClass06SkillName02D=Burácející útok
 tagClass06SkillDescription02D=Vyvolávači bouří, členové sekty šamanismu oddané nebesům, jsou známi vyvoláváním Ultose, boha nebe, jež přivolává hněv přírody na své protivníky. ^oBurácející útok nevylepšuje výchozí typ útoku a nemůže způsobit efekt jako třeba Divoký hlad.
 
 tagClass06SkillName03A=Totem Wendiga
-tagClass06SkillDescription03A=Totemy Wendiga představují temnější stranu rituálů prováděných Šamany, přijímacích krutou dualitu přírody: jeden musí zemřít, aby se jiný nakrmil a přežil. Jakmile je totem položen, začne vysávat život z blízkých nepřátel, zatímco vytvoří uklidňující auru, která léčí spojence. Totemy jsou pro mnoho kmenů tabu, protože prvotního hladového ducha, který je vyvolán, aby napájel totem, je nebezpečné ovládat a mnoho šamanů z toho zešílelo. Navíc jsou postiženi nenasytným hladem, který nevyhnutelně vede ke kanibalismu. ^oÚčinnost Totemů Wendiga se zvyšuje s bonusy ke zranění, které způsobuješ.
+tagClass06SkillDescription03A=Totemy Wendiga představují temnější stranu rituálů prováděných Šamany, přijímacích krutou dualitu přírody: jeden musí zemřít, aby se jiný nakrmil a přežil. Jakmile je totem položen, začne vysávat život z blízkých nepřátel, zatímco vytvoří uklidňující auru, která léčí spojence. Totemy jsou pro mnoho kmenů tabu, protože prvotního hladového ducha, který je vyvolán, aby napájel totem, je nebezpečné ovládat a mnoho šamanů z toho zešílelo. Navíc jsou postiženi nenasytným hladem, který nevyhnutelně vede ke kanibalismu. ^oÚčinnost Totemů Wendiga sílí spolu s útočnými bonusy postavy.
 tagClass06SkillName03B=Krvavá dohoda
 tagClass06SkillDescription03B=Zpečeť dohodu s duchem Wendiga, který obývá totem. Po dobu, kdy budeš stát uvnitř jeho aury, bude tvá chuť po krvi neukojitelná.
 tagClass06SkillName03C=Kohoutek života
 tagClass06SkillName03D=Ranhojičství
 
 tagClass06SkillName04A=Větrný ďábel
-tagClass06SkillDescription04A=Šamané byli často přivoláni, aby přinesli déšť, když byla období sucha. Rituál byl prováděn chytrými Vyvolávači bouří, aby vyvolali zlého vířivého ducha, který zvedne kamení a sutiny do vzduchu a bude sužovat nepřátele a devastovat je hrubou silou živlů. ^oÚčinnost Větrného ducha se zvyšuje s bonusy ke zranění, která způsobuješ.
+tagClass06SkillDescription04A=Šamané byli často přivoláni, aby přinesli déšť, když byla období sucha. Rituál byl prováděn chytrými Vyvolávači bouří, aby vyvolali zlého vířivého ducha, který zvedne kamení a sutiny do vzduchu a bude sužovat nepřátele a devastovat je hrubou silou živlů. ^oÚčinnost Větrného ďábla sílí spolu s útočnými bonusy postavy.
 tagClass06SkillName04B=Zuřící bouře
 tagClass06SkillDescription04B=Vířící vír roste bouřlivou silou. Mrazivý vítr lomcuje s nepřáteli a ustrne je, což zvyšuje jejich zranitelnost, pokud jsou vystaveni dalšímu vlivu živlů.
 tagClass06SkillName04C=Vír
@@ -665,7 +665,7 @@ tagClass06SkillName15D=Pohlcující roj
 tagClass06SkillDescription15D=V divočině musí člověk udělat cokoliv, aby přežil. Někteří šamanští kejklíři si berou tuto lekci k srdci tak, že vyvolají pohlcující roj, který na kusy trhá cokoliv, s čím přijde do kontaktu, způsobuje bolestná zranění a předává ti mízu.
 
 tagClass06SkillName16A=Totem bouřky
-tagClass06SkillDescription16A=Usměrňování síly bouře je jeden z nejposvátnějších rituálů Vyvolávačů bouře. S dostatečnou praxí může Šaman doplnit totem destruktivní silou blesku, což způsobí, že z totemu budou vystřelovat ve velké rychlosti elektrické výboje směřované na nepřátele ve tvém okolí. ^oÚčinnost Bouřlivého totemu se zvyšuje s bonusy ke zranění, která způsobuješ.
+tagClass06SkillDescription16A=Usměrňování síly bouře je jeden z nejposvátnějších rituálů Vyvolávačů bouře. S dostatečnou praxí může Šaman doplnit totem destruktivní silou blesku, což způsobí, že z totemu budou vystřelovat ve velké rychlosti elektrické výboje směřované na nepřátele v jeho okolí. ^oÚčinnost Totemu bouřky sílí spolu s útočnými bonusy postavy.
 tagClass06SkillName16B=Zraňující bouře
 tagClass06SkillDescription16B=Šamané posedlí silou wendiga mohou poškodit Bouřlivý totem a vypustit hladovějící výboje, které vysají život z tvých nepřátel.
 tagClass06SkillName16_Pet=Úder bouře
@@ -2079,13 +2079,13 @@ tagItemSkillD243NamePetSkill=Umocněné rituály
 tagItemSkillD243DescPetSkill=Setrvání uvnitř Rituálního kruhu umocňuje tvá kouzla a chrání tě od fyzické újmy.
 
 tagItemSkillD244Name=Úlomek bouře
-tagItemSkillD244Desc=Vyčaruješ bouří obohacený krystal v určeném místě a elektrickým proudem zasáhneš nepřátele ve svém okolí. ^oÚlomky bouře sílí spolu se zvyšujícími se bonusy pro spojence.
+tagItemSkillD244Desc=Vyčaruješ bouří obohacený krystal v určeném místě a elektrickým proudem zasáhneš nepřátele ve svém okolí. ^oÚlomky bouře sílí spolu s útočnými bonusy postavy.
 
 tagItemSkillD245Name=Vyvolání pekla
 tagItemSkillD245Desc=Pekelné plameny se šíří ze země pod tvými nepřáteli.
 
 tagItemSkillD246Name=Agrivixova dohoda
-tagItemSkillD246Desc=Vyvoláš bludičku z tajemné energie, aby napadala tvé nepřátele. ^oBludičky sílí spolu se zvyšujícími se bonusy pro spojence.
+tagItemSkillD246Desc=Vyvoláš bludičku z tajemné energie, aby napadala tvé nepřátele. ^oBludičky sílí spolu s útočnými bonusy postavy.
 tagItemSkillD246NamePetSkill=Tajemný šok
 
 tagItemSkillD247Name=Zrozeni pro válku
@@ -2770,7 +2770,7 @@ tagDevotionEffectB09Desc=Označíš zemi tajemným znamením, které exploduje p
 tagDevotionEffectB09_Pet01=Znamení tajemna
 tagDevotionEffectB09_Pet01Desc=Označení tajemnou bombou.
 tagDevotionEffectB10=Vyvolání mrtvých
-tagDevotionEffectB10Desc=Vyvoláš mrtvé, nechť ti slouží. Nicméně nekrotické energie potřebné pro tento rituál jsou velmi nestabilní a tak budou neživí spojenci na tomto světě pouze omezený čas. ^oMrtví sílí spolu se zvyšujícími se bonusy mazlíčků.
+tagDevotionEffectB10Desc=Vyvoláš mrtvé, nechť ti slouží. Nicméně nekrotické energie potřebné pro tento rituál jsou velmi nestabilní a tak budou neživí spojenci na tomto světě pouze omezený čas. ^oMrtví sílí spolu s útočnými bonusy postavy.
 tagDevotionEffectB10_Pet01=Útok zblízka
 tagDevotionEffectB11=Podivný oheň
 tagDevotionEffectB11Desc=Z tvých úderů začnou vycházet podivné plameny, jež se divoce rozšíří mezi tvými nepřáteli.
@@ -2824,13 +2824,13 @@ tagDevotionEffectC10Desc=Z tvého těla začne vycházet uzdravující mlha, kte
 tagDevotionEffectC11=Mogdrogenův řev
 tagDevotionEffectC11Desc=V zápalu právě způsobené smrti vstoupíš ty i se svými nohsledy do horlivé zuřivosti.
 tagDevotionEffectC12=Živelný stopař
-tagDevotionEffectC12Desc=Vyvoláš podivnou příšeru z čisté energie, která vyhledává a pálí nepřátele ve svém okolí samotnou přítomností před tím, než se navrátí do Aetheru za doprovodu exploze vlastní energie. ^oŽivelní hledači sílí spolu se zvyšujícími se bonusy pro spojence.
+tagDevotionEffectC12Desc=Vyvoláš podivnou příšeru z čisté energie, která vyhledává a spaluje nepřátele ve svém okolí samotnou přítomností dříve, než se navrátí do Aetheru za doprovodu exploze vlastní energie. ^oŽivelní stopaři sílí spolu s útočnými bonusy postavy.
 tagDevotionEffectC12_Pet01=Hořící podoba
 tagDevotionEffectC12_Pet02=Výbuch
 tagDevotionEffectC13=Vodní vír
 tagDevotionEffectC13Desc=Chvějící se hlubiny se přemění na hladový vodní vír, blížící se s cílem rozdrtit tvé nepřátele.
 tagDevotionEffectC14=Živoucí stín
-tagDevotionEffectC14Desc=Vzestoupí ztělesnění bezejmenného hrdiny, aby bojovalo po tvém boku a s každým úderem obnovilo tvou životní energii. ^oŽivoucí stíny sílí spolu se zvyšujícími se bonusy pro spojence.
+tagDevotionEffectC14Desc=Vzestoupí ztělesnění bezejmenného hrdiny, aby bojovalo po tvém boku a s každým úderem obnovilo tvou životní energii. ^oŽivoucí stíny sílí spolu s útočnými bonusy postavy.
 tagDevotionEffectC14_Pet01=Útok ze stínu
 tagDevotionEffectC14_Pet02=Stínové čepele
 

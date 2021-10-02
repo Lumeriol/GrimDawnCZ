@@ -294,7 +294,7 @@ tagGDX2NPC_ArkoviaBridge=Staveniště mostu z Tyranovy državy
 #Solael Camp
 tagGDX2NPC_Flavor_AreaG_01=Alica
 tagGDX2NPC_Flavor_AreaG_02=Merise
-tagGDX2NPC_Flavor_AreaG_03=Vikon ~ Solaeův strážce přísahy
+tagGDX2NPC_Flavor_AreaG_03=Vikon ~ Solaelúv přísežník
 tagGDX2NPC_Flavor_AreaG_04=Harrold
 tagGDX2NPC_Flavor_AreaG_05=Ricard
 
