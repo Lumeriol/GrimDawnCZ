@@ -1,3 +1,4 @@
+Nav_tagBuilds=Návrhy postav
 Nav_tagItemDatabase=Databáze předmětů
 Nav_tagMonsterDatabase=Databáze nepřátel
 Nav_tagMonsterDatabasePets=Databáze spojenců

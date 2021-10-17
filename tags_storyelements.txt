@@ -545,7 +545,7 @@ tagNPC_Homestead_28=Hiram
 tagNPC_Homestead_29=Kalderos
 tagNPC_Homestead_30=Balvoruuk
 
-tagNPC_AreaC_01=Lysell, velitel zvědů
+tagNPC_AreaC_01=Lysell ~ velitel zvědů
 tagNPC_AreaC_02=Douglass Sullivan Oldbarrow
 tagNPC_AreaC_03=Myla Finegan
 tagNPC_AreaC_04=Inkvizitor Creed
@@ -566,7 +566,7 @@ tagNPC_AreaC_18=Bratr Molltair
 tagNPC_AreaC_19=Haruuv
 tagNPC_AreaC_20=Četař Serriv
 tagNPC_AreaC_21=Zbrojmistr Borrov
-tagNPC_AreaC_22=Poslíček
+tagNPC_AreaC_22=Posel
 tagNPC_AreaC_23=Strážce duší Kaandris
 tagNPC_AreaC_24=
 tagNPC_AreaC_25=
@@ -1179,7 +1179,7 @@ tagLoreObj_AreaDNecropolis_NoteA01Text=Byl jsem pověřen postavit velké mauzol
 
 tagLoreObj_AreaDNecropolis_NoteA02Name=Zakázka na Pohřebiště - 2. část
 tagLoreObj_AreaDNecropolis_NoteA02codexTitle=Pohřebiště - 2. část
-tagLoreObj_AreaDNecropolis_NoteA02Text=Po deseti letech je Pohřebiště z více než poloviny dokončené tak, jak bylo původně navrženo. To je mnohem víc oproti mým dřívějším plánům. Ale nemůžu říct, že by se to obešlo bez komplikací.{^n}{^n}Byl jsem v šoku, když se tady objevil zástupce Erulanské říše a začal měnit pracoviště dělníků a strojů bez mého souhlasu. Říše si zřejmě zbudovala nějakou další komnatu mimo mé původní návrhy. Tihle debilové nemají vůbec žádný vkus ani smysl pro majestátnost a design. Tohle je moje životní dílo, o kterém je tu řeč! Je mi jedno kolik mi Říše platí. Nebudu tady nikomu dělat vola.{^n}{^n}Za posledních sedm měsíců jsem napsat několik rozhořčených dopisů Erulanské radě, kde jsem vylíčil své znechucení nad těmito opatřeními. Samozřejmě se mi nedostalo jediné odpovědi. Pokaždé, když potkám toho ubožáka Vestiaria, musím se zeptat, co tam dělají. Jenže pokaždé se mi dostane stejně nezáživné odpovědi: “Byl jsem pověřen Erulanskou říší. Pokud máš problém s mými povinnostmi, obrať se na Radu.”. Jasně, tak ať si mě ignorují, když jim to dělá dobře. Ale tohle je můj návrh a já tady nebudu nečinně přihlížet. Nemám ani tucha, jak dlouho to může trvat. Ale zjistím, co tam dole dělají a skoncuju s tím.{^n}{^n}Hlavní architekt, Hemal Listari
+tagLoreObj_AreaDNecropolis_NoteA02Text=Po deseti letech je Pohřebiště z více než poloviny dokončené tak, jak bylo původně navrženo. To je mnohem víc oproti mým dřívějším plánům. Ale nemůžu říct, že by se to obešlo bez komplikací.{^n}{^n}Byl jsem v šoku, když se tady objevil zástupce Erulanské říše a začal měnit pracoviště dělníků a strojů bez mého souhlasu. Říše si zřejmě zbudovala nějakou další komnatu mimo mé původní návrhy. Tihle debilové nemají vůbec žádný vkus ani smysl pro majestátnost a design. Tohle je moje životní dílo, o kterém je tu řeč! Je mi jedno kolik mi Říše platí. Nebudu tady nikomu dělat vola.{^n}{^n}Za posledních sedm měsíců jsem napsal několik rozhořčených dopisů Erulanské radě, kde jsem vylíčil své znechucení nad těmito opatřeními. Samozřejmě se mi nedostalo jediné odpovědi. Pokaždé, když potkám toho ubožáka Vestiaria, musím se zeptat, co tam dělají. Jenže pokaždé se mi dostane stejně nezáživné odpovědi: "Byl jsem pověřen Erulanskou říší. Pokud máš problém s mými povinnostmi, obrať se na Radu". Jasně, tak ať si mě ignorují, když jim to dělá dobře. Ale tohle je můj návrh a já tady nebudu nečinně přihlížet. Nemám ani tucha, jak dlouho to může trvat. Ale zjistím, co tam dole dělají a skoncuju s tím.{^n}{^n}Hlavní architekt, Hemal Listari
 
 tagLoreObj_AreaDNecropolis_NoteA03Name=Zakázka na Pohřebiště - 3. část
 tagLoreObj_AreaDNecropolis_NoteA03codexTitle=Pohřebiště - 3. část

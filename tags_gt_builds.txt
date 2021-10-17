@@ -1,0 +1,41 @@
+Builds_tagTitle=Grim Dawn návrhy
+Builds_tagDescription=Automaticky aktualizovaná kolekce návrhů a průvodců pro akční RPG Grim Dawn
+
+Builds_tagSearchNoResults=Zadaným kritériím nevyhovuje žádný návrh
+
+Builds_tagFilteredRecentlyCreatedBuilds=Nedávno přidané návrhy
+# used as base: "[Builds ]...", e.g. "Builds for patch 1.1.9.1"
+Builds_tagFilteredBuilds=Návrhy
+# used as base: "[Classless Builds ]...", e.g. Classless Builds for patch 1.1.9.1
+Builds_tagFilteredClasslessBuilds=Návrhy bez povolání
+# used as base: "[.X Builds]...", e.g. "Soldier Builds" or "Shaman Builds for patch 1.1.9.1"
+# !!! Class name is in subjective case, so it might be better to translate differently, e.g. in the form of "Builds for class {%s0}"
+Builds_tagFilteredBuildsForClass=Návrhy - {%s0}
+# used as suffix: "[Builds ]for patch 1.1.9.1"
+Builds_tagFilteredForPatch=pro aktualizaci {%s0}
+# used as suffix: "[Builds ]created by John"
+Builds_tagFilteredCreatedBy=vytvořil {%s0}
+# used as suffix: "[Builds ]using Belgothian's Slicer item"
+Builds_tagFilteredUsingItem=používající předmět {%s0}
+Builds_tagFilteredUsingItems=používající předměty {%s0}
+Builds_tagFilteredNoEpicOrLegendaryItem=nepoužívá žádný epický ani legendární předmět
+# used as suffix: "[Builds ]using Cadence skill"
+Builds_tagFilteredUsingSkill=používající dovednost {%s0}
+Builds_tagFilteredUsingSkills=používající dovednosti {%s0}
+
+Builds_tagFilterValueNoClasses=(bez povolání)
+Builds_tagFilterValueNoEpicOrLegendaryClass=(žádné epické/legendární předměty)
+Builds_tagFilterTitleGameVersion=Verze hry
+Builds_tagFilterTitleClass=Povolání
+Builds_tagFilterTitleUsedSkill=Použité dovednosti
+Builds_tagFilterTitleUsedItem=Použité předměty
+Builds_tagFilterTitleAuthor=Autor
+
+# Example usage: Created by John at Sep 19, 2021
+Builds_tagCreatedByAt=Vytvořil {%s0}, {%s1}
+Builds_tagBuildFromYoutube=Návrh z Youtube
+Builds_tagBuildFromForum=Návrh z Grim Dawn fóra
+Builds_tagBuildVideoLink=Video postavy
+Builds_tagBuildNoClass=Bez povolání
+# should be kept short
+Builds_tagBuildPlannerLink=Plánovač
