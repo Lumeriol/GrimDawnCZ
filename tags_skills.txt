@@ -1479,7 +1479,7 @@ tagItemSkillD046Name=Přivolání bestie
 tagItemSkillD046Desc=Vypustíš divokého kance a inspiruješ tak tvé nohsledy.
 
 tagItemSkillD047Name=Vyvolání bouře
-tagItemSkillD047Desc=Vyvoláš kolem sebe bouři statické energie.
+tagItemSkillD047Desc=Vyvoláš bouři statické energie.
 
 tagItemSkillD048Name=Žíravé jezírko
 tagItemSkillD048Desc=Vyčaruješ jezírko odporné kyseliny a necháš své nepřátele rozložit.
@@ -2758,8 +2758,8 @@ tagDevotionEffectB04=Rozervání
 tagDevotionEffectB04Desc=Roztrháš své nepřátele, odkryješ choulostivé tepny a způsobíš tak intenzivní krvácení.
 tagDevotionEffectB05=Kyj
 tagDevotionEffectB05Desc=Udeříš nepřátele ve svém okolí silou divokého medvěda, hodujícího na jejich vyhřezlých vnitřnostech.
-tagDevotionEffectB06=Rozhněvané čepele
-tagDevotionEffectB06Desc=Získáš další výhodu tím, že vypustíš množství přízračných čepelí, které s lehkostí projdou skrze tvé nepřátele.
+tagDevotionEffectB06=Čepele hněvu
+tagDevotionEffectB06Desc=Získáš další výhodu tím, že vypustíš množství přízračných čepelí, které s lehkostí projdou skrze tvé nepřátele. ^oČepele nejprve způsobují o 30 % nižší zranění, než dosáhnou plné síly rozprostřením se více do prostoru.
 tagDevotionEffectB07=Prasklina
 tagDevotionEffectB07Desc=Na zemi se začnou objevovat praskliny, jež budou chrlit lávu a síru na tvé nepřátele.
 tagDevotionEffectB07_Pet01=Magma

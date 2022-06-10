@@ -48,16 +48,10 @@ Calc_tagMenuExit=Konec
 Calc_tagMenuAbout=O aplikaci
 Calc_tagMenuFeedback=Zpětná vazba
 Calc_tagMenuHelp=Nápověda
-Calc_tagMenuCheckForUpdates=Zkontrolovat verzi...
-
-Calc_tagUpdateIsAvailableShort=K dispozici nová verze
-Calc_tagUpdateIsAvailable=Je k dispozici nová verze! Odkaz ke stažení a přečíst si ponámky k verzi můžeš zde:
-Calc_tagNoUpdates=Současná verze je aktuální.
 
 # errors
 Calc_tagLoadFromLinkError=Nelze načíst postavu.
 Calc_tagGetLinkToThisBuildError=Nelze získat odkaz pro tuto postavu.
-Calc_tagCheckUpdatesError=Nelze zkontrolovat aktuální verzi.
 
 Calc_tagSavedBuilds=Uložené postavy
 Calc_tagSavedBuildsNone=Žádné postavy neexistují.

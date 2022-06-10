@@ -20,6 +20,7 @@ Map_tagMarkerChest=Hodnotná truhlice
 Map_tagMarkerOneShotChest=Jednorázová truhla
 Map_tagMarkerLockedChest=Zamčená truhla
 Map_tagMarkerTreasureTrove=Poklad
+Map_tagMarkerMonsterTotem=Nepřátelský totem
 Map_tagMarkerBoss=Významný nepřítel
 Map_tagMarkerBounty=Cíl odměny
 Map_tagMarkerNemesis=Mstitel

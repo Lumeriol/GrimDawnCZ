@@ -1195,19 +1195,19 @@ tagGDX2ItemSetD213Name=Bysmieliny cetky
 tagGDX2ItemSetD213Desc="Během jejích smrtelných dnů byla Paní šepotů známá shromažďováním silních předmětů, které posilovaly její nadvládu nad slabšími tvory. Po usednutí na trůn už tyhle drobné cetky přestala potřebovat."
 
 tagGDX2ItemSetD214Name=Korvanský písečný ďábel
-tagGDX2ItemSetD214Desc=Korvanský písečný ďábel usiloval o to být jako hadi Korvanské pouště. Nepolapitelný... rychlý... a smrtící.
+tagGDX2ItemSetD214Desc="Korvanský písečný ďábel usiloval o to být jako hadi Korvanské pouště. Nepolapitelný... rychlý... a smrtící."
 
 tagGDX2ItemSetD215Name=Pyranovo zamyšlení
-tagGDX2ItemSetD215Desc=Pyran, jím jeho učitelé opovrhovali, se zapřísahal, že zanechá svou stopu v historii alchymie a temného umění. Jeho pokusy mu akorát znetvořily tělo.
+tagGDX2ItemSetD215Desc="Pyran, jím jeho učitelé opovrhovali, se zapřísahal, že zanechá svou stopu v historii alchymie a temného umění. Jeho pokusy mu akorát znetvořily tělo."
 
 tagGDX2ItemSetD216Name=Targovo umění
-tagGDX2ItemSetD216Desc=Říká se, že tato zbroj byla ukována samotným stvořitelem hvězd, a že ztělesňuje síly jeho těla a vůle.
+tagGDX2ItemSetD216Desc="Říká se, že tato zbroj byla ukována samotným stvořitelem hvězd, a že ztělesňuje síly jeho těla a vůle."
 
 tagGDX2ItemSetD217Name=Pustá duše
-tagGDX2ItemSetD217Desc=Tato kdysi posvěcená zbroj je nyní pohlcena zlověstnými energiemi, a Prázdnota zničila její srdce na celou věčnost.
+tagGDX2ItemSetD217Desc="Tato kdysi posvěcená zbroj je nyní pohlcena zlověstnými energiemi, a Prázdnota zničila její srdce na celou věčnost."
 
 tagGDX2ItemSetD218Name=Umrlec
-tagGDX2ItemSetD218Desc=Umrlec se vyžíval ve vraždění lidí i zvířat a příležitostně se oblékal do jejich kůží ještě dlouho poté, co začaly hnít.
+tagGDX2ItemSetD218Desc="Umrlec se vyžíval ve vraždění lidí i zvířat a příležitostně se oblékal do jejich kůží ještě dlouho poté, co začaly hnít."
 
 tagGDX2ItemSetD219Name=Zbroj nekonečné noci
 tagGDX2ItemSetD219Desc="Tak dlouho Morgoneth zíral do temnoty, dokud temnota nezačala zírat na něj."

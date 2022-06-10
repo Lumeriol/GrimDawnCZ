@@ -18,10 +18,20 @@ Builds_tagFilteredCreatedBy=vytvořil {%s0}
 # used as suffix: "[Builds ]using Belgothian's Slicer item"
 Builds_tagFilteredUsingItem=používající předmět {%s0}
 Builds_tagFilteredUsingItems=používající předměty {%s0}
-Builds_tagFilteredNoEpicOrLegendaryItem=nepoužívá žádný epický ani legendární předmět
+Builds_tagFilteredNoEpicOrLegendaryItem=bez epických a legendárních předmětů
 # used as suffix: "[Builds ]using Cadence skill"
 Builds_tagFilteredUsingSkill=používající dovednost {%s0}
 Builds_tagFilteredUsingSkills=používající dovednosti {%s0}
+# used as suffix: "[Builds ]from YouTube"
+Builds_tagFilteredFromYoutube=z YouTube
+# used as suffix: "[Builds ]from Grim Dawn Forum"
+Builds_tagFilteredFromForum=z fóra Grim Dawn
+# used as prefix: "Hardcore[ Builds]"
+Builds_tagFilteredHardcore=Výzva
+# used as prefix: "Beginner[ Builds]"
+Builds_tagFilteredBeginner=Začátečník
+# used as prefix: "Leveling[ Builds]"
+Builds_tagFilteredLeveling=Rychlý zisk zkušeností
 
 Builds_tagFilterValueNoClasses=(bez povolání)
 Builds_tagFilterValueNoEpicOrLegendaryClass=(žádné epické/legendární předměty)
@@ -30,6 +40,13 @@ Builds_tagFilterTitleClass=Povolání
 Builds_tagFilterTitleUsedSkill=Použité dovednosti
 Builds_tagFilterTitleUsedItem=Použité předměty
 Builds_tagFilterTitleAuthor=Autor
+Builds_tagFilterTitleSource=Zdroj
+Builds_tagFilterTitleFlagHardcore=Výzva
+Builds_tagFilterTitleFlagBeginner=Začátečník
+Builds_tagFilterTitleFlagLeveling=Rychlý zisk zkušeností
+
+Builds_tagSourceYoutube=YouTube
+Builds_tagSourceForum=Grim Dawn fórum
 
 # Example usage: Created by John at Sep 19, 2021
 Builds_tagCreatedByAt=Vytvořil {%s0}, {%s1}
