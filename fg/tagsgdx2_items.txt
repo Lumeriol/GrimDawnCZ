@@ -1198,7 +1198,7 @@ tagGDX2ItemSetD214Name=Korvanský písečný ďábel
 tagGDX2ItemSetD214Desc="Korvanský písečný ďábel usiloval o to být jako hadi Korvanské pouště. Nepolapitelný... rychlý... a smrtící."
 
 tagGDX2ItemSetD215Name=Pyranovo zamyšlení
-tagGDX2ItemSetD215Desc="Pyran, jím jeho učitelé opovrhovali, se zapřísahal, že zanechá svou stopu v historii alchymie a temného umění. Jeho pokusy mu akorát znetvořily tělo."
+tagGDX2ItemSetD215Desc="Pyran, jímž jeho učitelé opovrhovali, se zapřísahal, že zanechá svou stopu v historii alchymie a temného umění. Jeho pokusy mu akorát znetvořily tělo."
 
 tagGDX2ItemSetD216Name=Targovo umění
 tagGDX2ItemSetD216Desc="Říká se, že tato zbroj byla ukována samotným stvořitelem hvězd, a že ztělesňuje síly jeho těla a vůle."

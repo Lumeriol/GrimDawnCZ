@@ -1,0 +1,137 @@
+#Setup Menu
+tagConsoleSetupScreen=Nastavení plochy obrazovky
+tagConsoleSetupScreenInfo=Uprav rámeček tak, aby na obrazovce nebyly vidět rohy.
+tagConsoleSetupGamma=Nastavení jasu
+tagConsoleSetupGammaInfo=Uprav úroveň jasu tak, aby bylo logo sotva viditelné.
+tagConsoleSetupContinue=Pokračovat
+tagConsoleSetupDefault=Výchozí
+tagConsoleSetupReset=Obnovit
+tagConsoleSetupBack=Zpět
+tagConsoleSetupDone=Hotovo
+
+#Main Menu
+tagConsoleMenuSignIn=Přihlásit
+tagConsoleSwitchProfile=Změnit profil
+tagMenuDelete01=Opravdu chceš trvale smazat tuto postavu?
+tagXboxLiveUnavailable=Nelze se připojit ke službě XBox Live. Zkontroluj prosím síťové připojení a zkus to znovu.
+tagInviteInfo=Rozsah úrovní: {%d0} - {%d1}
+tagInviteInfoHardcore=Rozsah úrovní: {%d0} - {%d1} (Výzva)
+tagConsoleCreateCharacter=Vytvořit
+tagCloudSaveLimit=Cloudové úložiště pro Grim Dawn je plné, před vytvořením nové postavy musíš odstranit stávající.
+
+#Options Menu
+tagKeybindingTitle01=Ovladač
+tagConsoleMenuScreenSetup=Nastavení obrazovky
+tagConsoleMenuScreenSetupDesc=Změnit viditelnou oblast obrazovky tak, aby odpovídala obrazovce.
+tagConsoleMenuGammaSetup=Nastavení jasu
+tagConsoleMenuGammaSetupDesc=Změňit celkovou úroveň jasu hry.
+tagKeybind36=Útok bez pohybu
+tagControllerBindingMove=Pohyb
+tagControllerBindingCamera=Kamera
+tagControllerBindingCharacter=Postava
+tagControllerBindingMenu=Nabídka
+tagVideoOption01=Rozlišení
+tagConsoleResolution1080p=1080p
+tagConsoleResolution1440p=1440p
+tagConsoleResolution4kUHD=4k UHD
+tagConsoleTargetFPS30=30 FPS
+tagConsoleTargetFPS60=60 FPS
+tagConsoleTargetFPSUnlocked=Odemčené
+tagConsoleTargetFPS=Omezení snímkování
+tagConsoleTargetFPSDesc=Maximální frekvence vykreslování.
+tagGameplayOption33=Vibrace při kritickém zásahu
+tagGameplayDesc33=Povolit vibrace ovladače při kritickém zásahu.
+
+#Exit Menu
+tagOptionsMenuQuit=Ukončit hru
+tagOptionsMenuExitGameConfirm=Opravdu chceš ukončit hru?
+
+#Items
+tagTransmuteCapture=[Stiskni {^y}Y{^-} pro sloučení]
+tagTransmuteApply=[Stiskni {^y}Y{^-} pro použití]
+tagTransmuteApplyRemove=[Stiskni {^y}Y{^-} k odstranění iluze]
+tagScrollDirections=[Stiskni {^y}Y{^-} pro spotřebování]
+tagItemUseDirections=[Stiskni {^y}Y{^-} pro použití]
+tagNoteHelp=[Stiskni {^y}Y{^-} pro přečtení]
+tagEnchantmentUsable=[Stiskni {^y}Y{^-} pro vylepšení]
+tagComponentHelp=[Stiskni {^y}Y{^-} použij nebo zkombinuj]
+tagComponentCombine=[Stiskni {^y}Y{^-} pro zkombinování]
+tagPotionDirections=[Stiskni {^y}Y{^-} pro spotřebování]
+tagCombineStacks=[Stiskni {^y}pravou páčku{^-} pro rozdělení zásob]
+
+#Keybinds
+tagKeybind04=Otevřít mapu
+tagKeybind18=Vypít lektvar zdraví
+tagKeybind19=Vypít lektvar magické energie
+
+#UI
+tagConsoleReconnectController=Připoj ovladač pro hráče {^b}{%t0}{^-}.
+tagMPInvite=Přidat
+tagMPFriends=Pozvat
+tagConsoleInviteInfo=Vyber postavu a stiskni Start pro připojení se k {^b}{%t0}{^-}.
+
+#Buttons
+tagControllerButtonDPadUp=Směrový ovladač - nahoru
+tagControllerButtonDPadDown=Směrový ovladač - dolů
+tagControllerButtonDPadLeft=Směrový ovladač - doleva
+tagControllerButtonDPadRight=Směrový ovladač - doprava
+tagControllerButtonStart=Tlačítko Menu
+tagControllerButtonBack=Tlačítko Zobrazení
+tagControllerButtonLeftStick=Levá páčka
+tagControllerButtonRightStick=Pravá páčka
+tagControllerButtonLeftBumper=Levé tlačítko
+tagControllerButtonRightBumper=Pravé tlačítko
+tagControllerButtonLeftTrigger=Levá spoušť
+tagControllerButtonRightTrigger=Pravá spoušť
+tagControllerButtonA=A
+tagControllerButtonB=B
+tagControllerButtonX=X
+tagControllerButtonY=Y
+
+#TutorialTips
+tagLoadingTip03={^g}Tip: {^w}Nápovědu si můžeš kdykoliv zobrazit znovu v Přehledu kodexů.
+tagLoadingTip21={^g}Tip: {^w}Kamerou je možné otáčet přidržením pravé páčky.
+tagQuickTip08={^z}Herní nápověda{^-}{^n}{^n}{^s}Herní nápověda{^-} je momentálně zapnuta. Vypnout ji můžeš kdykoliv v nastavení hry. Herní nápověda je stále přístupná v Přehledu kodexů {^x}[{%t0}]{^-}.
+tagQuickTip09={^z}Obchodníci{^-}{^n}{^n}U obchodníků můžeš prodat posbíranou kořist a koupit novou výbavu nebo lektvary.
+tagQuickTip14={^z}Lektvary{^-}{^n}{^n}Vypít lektvar není jen tak a před dalším si musí tvé tělo chvíli odpočinout. Lektvar je ovšem nejrychlejší způsob, jak obnovit své zdraví nebo energii.
+tagQuickTip26={^z}Chat{^-}{^n}{^n}Dvakrát stiskni {^x}[{%t0}]{^-} pro chatování s jinými hráči.
+tagQuickTip27={^z}Hra více hráčů{^-}{^n}{^n}Přehled skupiny hráčů{^n}{^x}[{%t0}]{^-} ti umožní vytvořit partu. Dvakrát stiskni pro chatování s jinými hráči.
+tagQuickTip30={^z}Nepřiřazené dovednosti!{^-}{^n}{^n}Aktivní dovednosti musí být před svým použitím umístěny na lištu dovedností.
+tagQuickTip61={^z}Nebeská moc{^-}{^n}{^n}Přiřaď svou nebeskou moc k některé dovednosti vybráním ikonky na Hvězdné obloze a vyber dovednost ze seznamu.
+tagTutorialTip10TextA=Zabezpečené Brány ti umožňují rychle cestovat mezi lokacemi. Použitím Brány otevřeš Mapu světa, kde si vybereš cílovou oblast.
+tagTutorialTip10TextB=Protože jsi Aetherem dotčený člověk, můžeš otevírat Osobní Brány. Pro aktivování své Osobní Brány stiskni {^x}[{%t0}]{^-}.
+tagTutorialTip14TextA=Lektvary zdraví a magické energie obnovují život, respektive magickou energii, tvé postavy. Pro vypití lektvaru stiskni příslušné tlačítko.
+tagTutorialTip14TextC=Pro vypití lektvaru stiskni příslušné tlačítko.
+tagTutorialTip15TextE=Body atributů můžeš rozdělit v Přehledu postavy, který otevřeš stisknutím {^x}[{%t0}]{^-}. Pro přiřazení atributu klikni na "+" vedle vybraného atributu.
+tagTutorialTip15TextF=Body dovedností mohou být rozděleny v Přehledu dovedností, který otevřeš stisknutím {^x}[{%t0}]{^-}.
+tagTutorialTip16TextB=Pokud chceš nějaký předmět použít, přetáhni jej z inventáře nebo předmět přesuň do adekvátního slotu. Předmět můžeš také odhodit tím, že jej přesuneš mimo Přehled postavy, nebo stiskneš klávesu  {^x}[{%t0}]{^-}.
+tagTutorialTip16TextC=Body atributů využiješ tak, že stisknutím tlačítka "+" vlevo od požadovaného atributu. Každý bod atributu zvyšuje konkrétní atribut o 8 bodů.
+tagTutorialTip20TextB=Použitím komponenty je možné ji připevnit na předmět. Pamatuj, že každá komponenta může být použita pouze na určitém typu předmětů.
+tagTutorialTip22TextB=Pokud investuješ své dovednostní body do úrovně povolání, odemkneš nové řady dovedností. Úroveň svého povolání můžeš zvyšovat tak, že stiskneš tlačítko povolání v levém dolním rohu Přehledu dovedností.
+tagTutorialTip23TextA=Aktivní dovednosti (čtvercové ikonky) musí být přiřazeny na lištu dovedností před tím, než je budeš moci používat.
+tagTutorialTip23TextB=Dovednost přiřadíš výběrem z nabídky dovedností.
+tagTutorialTip23TextC=K aktivování dovednosti dojde stisknutím příslušného tlačítka na liště dovedností.
+tagTutorialTip26TextA=Můžeš využít chat k posílání zpráv jiným hráčům ve své herní relaci.
+tagTutorialTip26TextB=
+tagTutorialTip27TextA=Připojením se do skupiny hráčů s nimi můžeš sdílet zkušenosti a kořist. Svou skupinu hráčů můžeš shlédnout kliknutím na ikonku nebo stisknutím {^x}[{%t0}]{^-}. Herní skupiny jsou důležité v herních relacích, kde bojují hráči proti sobě.
+tagTutorialTip27TextB=
+tagTutorialTip33TextB=Pro přidělení bodů dovedností k některé dovednosti vyber odemčenou ikonku dovednosti v Přehledu dovedností. První bod dovednosti ti umožní použít tuto dovednost. Další body posílí účinek dovednosti.
+tagTutorialTip35TextA=Spojenci automaticky cestují s tebou a bojují po tvém boku.
+tagTutorialTip35TextB=
+tagTutorialTip35TextC=Můžeš si uspořádat všechny své spojence k útoku nebo pohybu k nepříteli pomocí příkazu Útok spojenců.
+tagTutorialTip36TextA=Kaplani ti umožňují odebrat přidělené body dovedností. Zvolením ikonky dovednosti u Kaplana se odebere jeden bod dovednosti. Čím více bodů odebereš, tím více se zvyšuje cena dalšího odebraného bodu.
+tagTutorialTip37TextB=
+tagTutorialTip38TextD=
+tagTutorialTip43TextB=Pokud tento plánek ještě neznáš, naučíš se jej a bude přidán na seznam předmětů u kováře.
+tagTutorialTip49TextB=
+tagTutorialTip50TextB=Vylepšení můžeš použít pouze na příslušný předmět. Jakmile předmět vylepšíš, vylepšení již nelze odstranit, ale může být nahrazeno jiným.
+tagTutorialTip51TextA=
+tagTutorialTip59TextC=Jakmile je svatyně obnovena, získáš bod oddanosti. Pro rozdělení bodů dovednosti si prohlédni Hvězdnou oblohu v Přehledu dovedností.
+tagTutorialTip60TextF=Jasně modré hvězdy ti napovídají, kam můžeš vložit další bod oddanosti. Aktivací hvězdy se odemkne její bonus.
+
+#InGame
+tagConsoleXBoxLiveUnavailable=Žádné síťové připojení
+tagConsoleMultiplayerHighLatency=Vysoká prodleva
+
+#Dialogs
+tagConsoleConfirmReportUser=Opravdu chcete nahlásit hráče {^b}{%t0}{^-}?

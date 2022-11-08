@@ -449,7 +449,7 @@ tagGDX1DevotionAetherialCorruption_H04=Tirendal, Chodec v čase
 
 tagGDX1DevotionAetherialFleshshaper_H01=Filnaderzad ~ spalující
 tagGDX1DevotionAetherialFleshshaper_H02=Mrazivý Noxus
-tagGDX1DevotionAetherialFleshshaper_H03=Karthallas ~ rychlý
+tagGDX1DevotionAetherialFleshshaper_H03=Karthallas ~ elektrizující
 tagGDX1DevotionAetherialFleshshaper_H04=Neporazitelný Porendallos
 
 tagGDX1DevotionBasilisk_H01=Lagarslin Bouřlivák

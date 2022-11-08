@@ -97,12 +97,12 @@ tagTutorialTip24TextA=Když tvé zdraví klesne na nulu, tvá postava zemře. Um
 tagTutorialTip24TextB=Jestli se chceš vyhnout smrti, musíš zajistit, aby tvá postava měla rychlou obnovu zdraví, čehož dosáhneš, pokud na chvíli utečeš z boje. Pokud ale vyčerpáš svou konstituci, budeš muset k dalšímu přežití použít lektvar zdraví.
 
 tagTutorialTip26Title=Chat
-tagTutorialTip26TextA=Můžeš využít Chatu k posílání zpráv jiným hráčům ve své herní relaci. Pro poslání soukromé zprávy si vyber příjemce kliknutím na tlačítko "Poslat...".
+tagTutorialTip26TextA=Můžeš využít chat k posílání zpráv jiným hráčům ve své herní relaci. Pro poslání soukromé zprávy si vyber příjemce kliknutím na tlačítko "Poslat...".
 tagTutorialTip26SubtitleA=Připojení předmětů
 tagTutorialTip26TextB=Pro připojení předmětů do chatu přidrž klávesu Shift a klikni na vybraný předmět. Chatu musíš mít samozřejmě otevřený. Zpráva bude automaticky odeslána s odkazem na tvůj předmět.
 
 tagTutorialTip27Title=Hra více hráčů
-tagTutorialTip27TextA=Připojením se do skupiny ostatních hráčů s nimi můžeš sdílet zkušenosti a kořist. Svou skupinu hráčů můžeš shlédnout kliknutím na ikonku nebo stisknutím klávesy {^x}[{%t0}]{^-}. Herní skupiny jsou důležité v herních relací, kde bojují hráči proti sobě.
+tagTutorialTip27TextA=Připojením se do skupiny hráčů s nimi můžeš sdílet zkušenosti a kořist. Svou skupinu hráčů můžeš shlédnout kliknutím na ikonku nebo stisknutím klávesy {^x}[{%t0}]{^-}. Herní skupiny jsou důležité v herních relacích, kde bojují hráči proti sobě.
 tagTutorialTip27TextB=Začít obchodovat můžeš s jiným hráčem ve své skupině tím, že klikneš pravým tlačítkem myši na jeho portrét a zvolíš nabídku "Obchod".
 tagTutorialTip27TextC=S ostatními hráči ve hře si můžeš také povídat v Chatu, který můžeš otevřít klávesou {^x}[{%t0}]{^-}.
 
@@ -112,7 +112,7 @@ tagTutorialTip28TextB=Oba hráči musí před výměnou předmětů souhlasit a 
 
 tagTutorialTip33Title=Učení dovedností
 tagTutorialTip33TextA=Když tvá postava dosáhne nové úrovně, je vhodné rozdělit přidělené body mezi dovednosti a povolání. Učením se nových dovedností můžeš dosáhnout výrazných obranných i útočných vlastností.
-tagTutorialTip33TextB=Pro přidělení bodů dovedností k některé dovednosti klikni na odemčenou ikonku dovednosti v Přehledu dovedností. První bod dovednosti ti umožní použít tuto dovednost. Další body učiní dovednost výrazně silnější.
+tagTutorialTip33TextB=Pro přidělení bodů dovedností k některé dovednosti klikni na odemčenou ikonku dovednosti v Přehledu dovedností. První bod dovednosti ti umožní použít tuto dovednost. Další body posílí účinek dovednosti.
 
 tagTutorialTip34Title=Nákup a prodej
 tagTutorialTip34TextA=Pokud začíná být tvůj inventář přeplněný, stojí za zvážení, zda navštívit obchodníka a prodat mu nepotřebné předměty.
@@ -227,7 +227,7 @@ tagTutorialTip60TextC=Souhvězdí jsou přiřazeny k pěti různým Spřízněno
 tagTutorialTip60SubtitleB=Utracení bodů oddanosti
 tagTutorialTip60TextD=Obyčejná Souhvězdí udělují značné množství Spřízněnosti, zatímco ta nejmocnější Souhvězdí neudělují vůbec žádnou.
 tagTutorialTip60TextE=Pamatuj, že pokud se odnaučíě nějaké dokončené Souhvězdí, přijdeš o jeho bonusové body Spřízněnosti.
-tagTutorialTip60TextF=Jasně modré hvězdy ti napovídají, kam můžeš vložit svůj další bod oddanosti. Levým kliknutím na hvězdu odemkneš její bonusy.
+tagTutorialTip60TextF=Jasně modré hvězdy ti napovídají, kam můžeš vložit další bod oddanosti. Levým kliknutím na hvězdu odemkneš její bonusy.
 tagTutorialTip60TextG=Kruhové hvězdy označují místa nebeské moci, které můžeš odemknout k posílení svých primárních dovedností o nové efekty.
 
 tagTutorialTip61Title=Nebeská moc
