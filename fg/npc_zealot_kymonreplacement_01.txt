@@ -98,7 +98,7 @@ Já ti děkuji. Empyrion ti děkuje.{^n}{^n}[[ms]Byl[fs]Byla] jsi [[ms]zbožným
 
 Dobrá.
 [[ms]Získal[fs]Získala] jsi tu relikvii?
-kamže bych to [[ms]měl[fs]měla] jít?
+Kam že bych to [[ms]měl[fs]měla] jít?
 Hrobka je v Asterkarnských horách, na sever od Darkvale. Oko je skryto před dlaněmi smrtelníků za falešnou zdí. Dívej se po pochodni, co ztratila svůj plamen.{^n}{^n}Je Empyrionovou vůlí, abys tak [[ms]učinil[fs]učinila]. Získej Oko a přines mi ho.
 Dobrá.
 Ještě ne.
@@ -124,8 +124,8 @@ Co je tvou vůlí?
 Vrátím se později.
 [[ms]Odvážil[fs]Odvážila] ses už do Obsidiánového trůnu?
 Kdeže se nachází?
-Vstup do toho bohem zapomenutého místa je skrze trhlinu, která byla vytvořená v Pláních sváru, to je na sever od Pevnosti Ikon.{^n}{^n}Přeji ti štěstí, [[ms]statečný Vyvolený[fs]statečná Vyvolená].
-Vydám se tam teď hned.
+Vstup do toho bohem zapomenutého místa je skrze trhlinu, která byla vytvořená v Pláních sváru, severně od Pevnosti Ikon.{^n}{^n}Přeji ti štěstí, [[ms]statečný Vyvolený[fs]statečná Vyvolená].
+Hned se tam vydám.
 Ještě ne.
 Než ti budu moci svěřit nejdůležitější mise, musíš projít křestem ohně.{^n}{^n}Jsi [[ms]připravený[fs]připravená] na to, co má nastat?
 Co je Empyrionovou vůlí?
@@ -142,7 +142,7 @@ Vůli Empyriona není vždy snadné rozluštit. Hlavně teď, když je Otec Kymo
 OK, to udělám.
 Co je to za ducha?
 Archon Barthollem je planoucí odveta samotného Empyriona.{^n}{^n}Za pomocí ostatků, které jsi [[ms]získal[fs]získala], jsem byl schopen ho přivolat z hvězdného světa.Je Empyrionovi oddaný stejně jako v den, kdy zemřel. Bude respekt vzbuzujícím spojencem v nadcházejících bitvách.
-Ty...nazýváš tohle duchem? Zní to spíš jako nekromancie.
+Ty... nazýváš tohle duchem? Zní to spíš jako nekromancie.
 Nezaměňuj to, co děláme my s Řádem Strážců smrti a jejich pomýlenými pokusy ovládat smrt.{^n}{^n}Archon Barthollem je svatá bytost, přivolána z jeho nebeského odpočinku samotným Empyrionem.
 Co je Empyrionovou vůlí?
 Dokud bude na naší straně.
@@ -151,12 +151,12 @@ Co je Empyrionovou vůlí?
 Dokud bude na naší straně.
 Doufám, že odpoví.
 Už to tak vypadá.
-[[ms]Vypořádal[fs]Vypořádala] ses s následovníky Řádu a získala posvátné ostatky?
+[[ms]Vypořádal[fs]Vypořádala] ses s následovníky Řádu a [[ms]získal[fs]získala] posvátné ostatky?
 Ano, mám je právě tady.
 Empyrionova vůle byla dnes vykonána. [[ms]Vedl[fs]Vedla] sis dobře, [[ms]bratře[fs]sestro].{^n}{^n}S ostatky v našich rukách jsme povolali předzvěst Empyrionovy vůle. Společně sešleme oheň spravedlnosti na nečisté a zkorumpované.{^n}{^n}Díky tvému úsilí máme teď nového, respekt vzbuzujícího spojence. Ztělesnění samotného Archona Barthollema!
 Co tady dělá ten duch?
 Archon Barthollem je planoucí odveta samotného Empyriona.{^n}{^n}Za pomocí ostatků, které jsi [[ms]získal[fs]získala], jsem byl schopen ho přivolat z hvězdného světa.Je Empyrionovi oddaný stejně jako v den, kdy zemřel. Bude respekt vzbuzujícím spojencem v nadcházejících bitvách.
-Ty...nazýváš tohle duchem? Zní to spíš jako nekromancie.
+Ty... nazýváš tohle duchem? Zní to spíš jako nekromancie.
 Nezaměňuj to, co děláme my s Řádem Strážců smrti a jejich pomýlenými pokusy ovládat smrt.{^n}{^n}Archon Barthollem je svatá bytost, přivolána z jeho nebeského odpočinku samotným Empyrionem.
 
 Dokud bude na naší straně.
@@ -170,7 +170,7 @@ Teď budeme shromažďovat naše síly.{^n}{^n}Na severu se shromažďuje ohromn
 Dobře.
 Empyrionova vůle bude vykonána!
 Myslím, že s tímhle šílenstvím končím.
-[[ms]Vypořádal[fs]Vypořádala] ses s následovníky Řádu a získala posvátné ostatky?
+[[ms]Vypořádal[fs]Vypořádala] ses s následovníky Řádu a [[ms]získal[fs]získala] posvátné ostatky?
 Kdeže jsou ty ostatky?
 Pod pevností Ikon, která je na severu, se ukrývá hrobka vyhrazená pro Archona Barthollema, kdysi oddaného služebníka Empyriona. Archon byl po smrti spálen, jeho ostatky uloženy uvnitř posvátné urny.{^n}{^n}Nesmíme dovolit Řádu znesvětit tak posvátnou půdu. Získej ty svaté ostatky, aby je Řád nemohl použít ke svým pomýleným obřadům.
 Získám ty ostatky.
@@ -179,7 +179,7 @@ Pojď, [[ms]bratře[fs]sestro]. Mám pro tebe úkol, který zadal sám Empyrion.
 Co je Empyrionovou vůlí?
 Empyrion obdaroval Otce Kymona viděním velmi vzdáleného místa. v něm viděl velký oheň, světelné znamení v temnotě; oheň je ale dušen pramínky zkaženosti. Naděje ale pořád trvá a ty tu jsi, abys [[ms]vedl[fs]vedla] útok.{^n}{^n}Řád Strážců smrti, dokonce i teď jak mluvíme, demolují svaté místo pod Pevností Ikon na severu. Je to Hrobka Archona Barthollema, kněze, který byl před staletími oddaným následovníkem Empyriona. Řád našel Archonovy svaté ostatky. Pravděpodobně je chtějí použít, aby mohli provést nějaký ohavný rituál.{^n}{^n}Nesmíme dovolit, aby se to stalo. Musíš jít do Hrobky a získat ostatky pro Vyvolené. Nechť ti nestojí nic v cestě.
 Získám ty ostatky.
-Nebudu se dál zůčastnit těchle jatek.
+Nebudu se dál účastnit těchle jatek.
 Mám ty ostatky, Řád utrpěl významné ztráty.
 
 Mám nějaké otázky.
@@ -195,33 +195,33 @@ Kdokoliv s čistou myslí a vírou může slyšel Empyrionovu vůli. Očisti svo
 Takže kromě Otce Kymona nikdo Empyriona neslyšel?
 Za posledních několikset let byl Otec Kymon prvním z Empyrionových následovníků a proto se stal jeho zástupcem a hlasem jeho vzrůstající síly.{^n}{^n}Možná časem ostatní také uslyší Empyrionovu vůli, ten den ale ještě nenastal.{^n}{^n}Možná to budeš právě ty, kdož se připojí k Otci ve vyšších stupních Empyrionova nového řádu?
 Mám další otázku.
-Cože jsi potřeboval, abych [[ms]udělal[fs]udělala]?
+Co jsi potřeboval, abych [[ms]udělal[fs]udělala]?
 To zní až příliš dobře než aby to byla pravda.
 Možná se přidám.
 Mám další otázku.
-Cože jsi potřeboval, abych [[ms]udělal[fs]udělala]?
+Co jsi potřeboval, abych [[ms]udělal[fs]udělala]?
 Možná mi také požehná.
 Mám další otázku.
-Cože jsi potřeboval, abych [[ms]udělal[fs]udělala]?
+Co jsi potřeboval, abych [[ms]udělal[fs]udělala]?
 Fascinující.
 Mám další otázku.
-Cože jsi potřeboval, abych [[ms]udělal[fs]udělala]?
+Co jsi potřeboval, abych [[ms]udělal[fs]udělala]?
 Teď už rozumím.
 Mám další otázku.
-Cože jsi potřeboval, abych [[ms]udělal[fs]udělala]?
+Co jsi potřeboval, abych [[ms]udělal[fs]udělala]?
 Fascinující povídka.
 Jaké jsou vaše cíle?
 Přejeme si šířit Empyrionovo svaté světlo do celého lidstva a očistit Cairn od korupce, která nyní ohrožuje celou zemi.{^n}{^n}Empyrion nás vede ve všem.
 
 Mám další otázku.
-Cože jsi potřeboval, abych [[ms]udělal[fs]udělala]?
+Co jsi potřeboval, abych [[ms]udělal[fs]udělala]?
 Děkuji ti.
 Co mi můžeš říct o Řádu?
 Jsou to pomýlené děti, které nevypadají, že by rozuměly silám, se kterými si zahrávají.{^n}{^n}Smrt je absolutní doménou bohů. Kdo jsme my, obyčejní smrtelníci, že se pleteme do jejich záležitostí?{^n}{^n}Rmoutí mě, že musím říct, že naše snaha přivést členy Řádu na správnou cestu selhala a tak musí být vyhubeni, aby se Cairn mohl opět uzdravit pod Empyrionovým dohledem.
 Mám další otázku.
-Cože jsi potřeboval, abych [[ms]udělal[fs]udělala]?
+Co jsi potřeboval, abych [[ms]udělal[fs]udělala]?
 Teď už chápu.
-Cože jsi potřeboval, abych [[ms]udělal[fs]udělala]?
+Co jsi potřeboval, abych [[ms]udělal[fs]udělala]?
 Neřeš to.
 Promluvíme si později.
 Nechť navždy trvající Empyrionovo světlo uvádí směr tvých činů, stejně tak jako uvádí směr nám každý den.
