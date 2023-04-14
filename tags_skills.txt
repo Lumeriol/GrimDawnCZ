@@ -1458,7 +1458,7 @@ tagItemSkillD039Name=Krvavá zloba
 tagItemSkillD039Desc=Z bolestných úderů v tobě vře tajemná krev a posiluje tvé temné umění čarovat.
 
 tagItemSkillD040Name=Krvavý obřad
-tagItemSkillD040Desc=Tmavá Ch'thonova krev nakazí vše, čeho se dotkne, dokonce i ty zasvěcené.
+tagItemSkillD040Desc=Tmavá Ch'thonova krev nakazí vše, čeho se dotkne, dokonce i ty zasvěcené. ^oAby tato schopnost účinkovala, musí být aktivní.
 
 tagItemSkillD041Name=Krvavá píseň
 tagItemSkillD041Desc=Budeš máchat mečem v perfektním souznění, což způsobuje hlubší zranění nepřátelům ve tvém okolí.
@@ -1522,7 +1522,7 @@ tagItemSkillD058Desc=Použiješ energii z nepřítele usmrceného tvou rukou k p
 tagItemSkillD058_Pet01=Dotek strachu
 
 tagItemSkillD059Name=Agrivixovo požívání
-tagItemSkillD059Desc=Agrivix byl nechvalně známý tím, že posouval hranice Aetheru, dokud nebylo zjištěno, že se zapletl se silami z Prázdnoty. Jedna z jeho zakázaných praktik zahrnovala zažehnutí vzduchu entropickými energiemi kolem sebe.
+tagItemSkillD059Desc=Agrivix byl nechvalně známý tím, že posouval hranice Aetheru, dokud nebylo zjištěno, že se zapletl se silami Prázdnoty. Jedna z jeho zakázaných praktik zahrnovala zažehnutí vzduchu entropickými energiemi kolem sebe.
 
 tagItemSkillD060Name=Nákaza
 tagItemSkillD060Desc=Nepřátelé, kteří na tebe útočí, se nakazí smrtelnou chorobou, která se šíří na další potenciální hostitele.
@@ -1546,7 +1546,7 @@ tagItemSkillD066Name=Chladivý pařát
 tagItemSkillD066Desc=Udeříš chladivým pařátem a protneš nepřátele ve svém okolí.
 
 tagItemSkillD067Name=Strážce zabijáka démonů
-tagItemSkillD067Desc=Zocelíš svou obranu proti stvůrám z Prázdnoty.
+tagItemSkillD067Desc=Zocelíš svou obranu proti stvůrám Prázdnoty.
 
 tagItemSkillD068Name=Zoufalství
 tagItemSkillD068Desc=Naplníš své nepřátele zoufalstvím a zanecháš je tak před sebou zcela bezmocné.
