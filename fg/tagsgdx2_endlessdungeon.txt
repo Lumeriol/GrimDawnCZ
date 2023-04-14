@@ -121,7 +121,7 @@ tagGDX2EndlessDungeon_Shrine04Skill_Desc=Tvá kůže je jak z kamene, tvá zbroj
 tagGDX2EndlessDungeon_Shrine05=Svatyně smrti
 tagGDX2EndlessDungeon_Shrine05_Desc=Uzavřeš úmluvu se smrtí, díky níž získáš neuvěřitelnou útočnou sílu a obnovu zdraví, ale za cenu tvých odolností.
 tagGDX2EndlessDungeon_Shrine05Skill=Smrtelné přání
-tagGDX2EndlessDungeon_Shrine05Skill_Desc=Úmlouva se smrtí byla stvrzena, v žilách ti koluje neuvěřitelná útočná síla, tvá obnova zdraví je zrychlena. Avšak odolnosti jsou spíš k pláči.
+tagGDX2EndlessDungeon_Shrine05Skill_Desc=Smlouva se smrtí byla stvrzena, v žilách ti koluje neuvěřitelná útočná síla, tvá obnova zdraví je zrychlena. Avšak odolnosti jsou spíš k pláči.
 
 
 #Powerups
